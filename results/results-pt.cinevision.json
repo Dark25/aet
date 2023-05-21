@@ -3,25 +3,315 @@
         "name": "CineVision",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filmes/assistir-guardioes-da-galaxia-volume-3-online-1/",
+                                "title": "Guardiões da Galáxia: Volume 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ttkTwdSx21AB1EDastR6xwMC2PT.jpg"
+                            },
+                            {
+                                "url": "/series/assistir-com-carinho-kitty-online-2/",
+                                "title": "Com Carinho Kitty",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ed1c8LZns4lFUZNS72OhmqXmYHE.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-homem-formiga-e-a-vespa-quantumania-online/",
+                                "title": "Homem-Formiga e a Vespa: Quantumania",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-velozes-e-furiosos-10-online-1/",
+                                "title": "Velozes e Furiosos 10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-super-mario-bros-o-filme-online-1/",
+                                "title": "Super Mario Bros.: O Filme",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-john-wick-4-baba-yaga-online/",
+                                "title": "John Wick 4: Baba Yaga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-o-exorcista-do-papa-online/",
+                                "title": "O Exorcista do Papa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/greys-anatomy-18x20/",
+                                "title": "Grey’s Anatomy 18×20",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8ULJuLDbwYVNOTMyvxvF4zbDofu.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x19/",
+                                "title": "Grey’s Anatomy 18×19",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wIRR4mgpxxKDXBem74430p2fdBo.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x18/",
+                                "title": "Grey’s Anatomy 18×18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2pG6qdgohXDBRhC0GO60Yqd2Vr9.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x17/",
+                                "title": "Grey’s Anatomy 18×17",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1Jm5P5dBpQsqx6UJyFp29GY1ji8.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x16/",
+                                "title": "Grey’s Anatomy 18×16",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1hCfqI2Lvi9YuXT0jHfKpejDJU.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x15/",
+                                "title": "Grey’s Anatomy 18×15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pUVsFoAfN4b9TQpSbX9gSomewZU.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x14/",
+                                "title": "Grey’s Anatomy 18×14",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/b4XZVvEd8At7J1MecrN4bvdzIf4.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x13/",
+                                "title": "Grey’s Anatomy 18×13",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1AJsMwPqYWTcnpNsdXoeujytPLV.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x12/",
+                                "title": "Grey’s Anatomy 18×12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4lQD0y0w7gcRhw57frzK7WEd3sv.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x11/",
+                                "title": "Grey’s Anatomy 18×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wP5uJVdvPFX7gYXw0qb1dgaxVxX.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x10/",
+                                "title": "Grey’s Anatomy 18×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sYeN0EOX4viZIMBGqK6GgybpIZ6.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x9/",
+                                "title": "Grey’s Anatomy 18×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/k4h9q74rsk5qWChNOEK7tvVcOl8.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x8/",
+                                "title": "Grey’s Anatomy 18×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uoACAaFWMzX1THvK5UHSHxtj47P.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x7/",
+                                "title": "Grey’s Anatomy 18×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jcJqFkIRVdt4m4jpD40RQNOPiYV.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x6/",
+                                "title": "Grey’s Anatomy 18×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sKfmovp5r37SBrLN9ga8QxsETQM.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x5/",
+                                "title": "Grey’s Anatomy 18×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/66xftCIyzqPcChiYTub3MNFU0V6.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x4/",
+                                "title": "Grey’s Anatomy 18×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/olxXQfVSSFJBXd91fRyeAliM1Vt.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x3/",
+                                "title": "Grey’s Anatomy 18×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/shAWv67Woqmj5WjSsXSATEDL2Lk.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x2/",
+                                "title": "Grey’s Anatomy 18×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/fpWfsHF1mduQCLAAbTXOIaaklLX.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-18x1/",
+                                "title": "Grey’s Anatomy 18×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sylUaxEg6CV0rpiHQA8JbYhxnfc.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x17/",
+                                "title": "Grey’s Anatomy 17×17",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dujE2su7FJjQRl76MmdDmdOKEk8.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x16/",
+                                "title": "Grey’s Anatomy 17×16",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/rActhIbov25YQznGeFgohk4GCu8.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x15/",
+                                "title": "Grey’s Anatomy 17×15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eSHT0s3snUBAVsCzErsizU7bGrd.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x14/",
+                                "title": "Grey’s Anatomy 17×14",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vKquozBVYJCqBtD4llICGHYlVjr.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x13/",
+                                "title": "Grey’s Anatomy 17×13",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/zPvqDOXMUHl4SZCmlQhs6SLllrF.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x12/",
+                                "title": "Grey’s Anatomy 17×12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hgGdb4Wz22OdSwbqhdWEkN7Ffzy.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x11/",
+                                "title": "Grey’s Anatomy 17×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pNRoDtbwtScutMHku5033GiA0Mz.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x10/",
+                                "title": "Grey’s Anatomy 17×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2XLyaYBiwggC0ZXfvdcL1Sipd3Y.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x9/",
+                                "title": "Grey’s Anatomy 17×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/d76hZIcxc3fWYhKusoqPKujptuP.jpg"
+                            },
+                            {
+                                "url": "/episodios/greys-anatomy-17x8/",
+                                "title": "Grey’s Anatomy 17×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sT1BmGmz5Q4Of6bCMnenfXloRIO.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/stella-of-the-theater-world-dai-star/",
+                                "title": "Stella of the Theater: World Dai Star",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-acampamento-jurassico/",
+                                "title": "Jurassic World: Acampamento Jurássico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kClnDGBEXkiiXK5IZ1BY0VgoPhK.jpg"
+                            },
+                            {
+                                "url": "/series/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/t8Xq1edhrEeH0pB9jFolLBCj1nr.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-reino-ameacado/",
+                                "title": "Jurassic World: Reino Ameaçado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/b3CuByY3v7qz9aq4rayIMeAMemy.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KONOSUBA -God’s blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-o-mundo-dos-dinossauros/",
+                                "title": "Jurassic World: O Mundo dos Dinossauros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gf3FEmT95ZQ5rBfzsaouIUzxKhy.jpg"
+                            },
+                            {
+                                "url": "/series/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/oz3xb8ZpPC9SEKneBrJVK3ZinG6.jpg"
+                            },
+                            {
+                                "url": "/filmes/um-fascinante-novo-mundo/",
+                                "title": "Um Fascinante Novo Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/as59RjHMv1q92aiLgGYslB3pVJx.jpg"
+                            },
+                            {
+                                "url": "/filmes/como-treinar-o-seu-dragao-3/",
+                                "title": "Como Treinar o Seu Dragão 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg"
+                            },
+                            {
+                                "url": "/filmes/wifi-ralph-quebrando-a-internet/",
+                                "title": "WiFi Ralph: Quebrando a Internet",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg"
+                            },
+                            {
+                                "url": "/filmes/12-herois/",
+                                "title": "12 Heróis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mBgAJeIx1d5kxU8nR748o9qnAUK.jpg"
+                            },
+                            {
+                                "url": "/filmes/anjos-da-noite-guerras-de-sangue/",
+                                "title": "Anjos da Noite: Guerras de Sangue",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg"
+                            },
+                            {
+                                "url": "/filmes/guerra-mundial-z/",
+                                "title": "Guerra Mundial Z",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5HImW2XT2oN001IzZ4aw2IOLC4j.jpg"
+                            },
+                            {
+                                "url": "/filmes/piratas-do-caribe-no-fim-do-mundo/",
+                                "title": "Piratas do Caribe: No Fim do Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/j15lZasREutscon6e61LSSNJoN7.jpg"
+                            },
+                            {
+                                "url": "/filmes/guerra-dos-mundos/",
+                                "title": "Guerra dos Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aU42RNFpLgXsg0Tsgo8g8RPji0N.jpg"
+                            },
+                            {
+                                "url": "/filmes/o-mundo-perdido-jurassic-park/",
+                                "title": "O Mundo Perdido: Jurassic Park",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z6kJSvM2tT542uKcNeRN0TJYsXc.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/filmes/assistir-guardioes-da-galaxia-volume-3-online-1/",
+                    "title": "Guardiões da Galáxia: Volume 3",
+                    "description": "Assistir Guardiões da Galáxia: Volume 3 Online, Guardiões da Galáxia 3 Dublado e Legendado Grátis, Guardiões da Galáxia 2023 Filme Completo.\n\nTítulo original: Guardians of the Galaxy Vol. 3",
+                    "genre": "Ação, Aventura, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/ttkTwdSx21AB1EDastR6xwMC2PT.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
+                        "url": "/filmes/assistir-guardioes-da-galaxia-volume-3-online-1/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }
@@ -29,8 +319,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://st-5px0-27dc.vmrange.lat/hls/xqx2ot6hojokjiqbtfwcjpynuvgm2qtqjyef2rsgeo6dupd2actqcgomtjcq/index-v1-a1.m3u8",
+                        "quality": "Dublado HDCAM - 720p",
+                        "videoUrl": "https://st-5px0-27dc.vmrange.lat/hls/xqx2ot6hojokjiqbtfwcjpynuvgm2qtqjyef2rsgeo6dupd2actqcgomtjcq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://st-5px0-27dc.vmrange.lat/hls/xqx2ot6hojokjiqbtfwcjpynuvgm2qtqjyef2rsgehmdupd2act6lv5jpo3a/index-v1-a1.m3u8",
+                        "quality": "Dublado HDCAM - 480p",
+                        "videoUrl": "https://st-5px0-27dc.vmrange.lat/hls/xqx2ot6hojokjiqbtfwcjpynuvgm2qtqjyef2rsgehmdupd2act6lv5jpo3a/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

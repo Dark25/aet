@@ -1,6 +1,6 @@
 ## Extension status
 
-### 90/169 are working
+### 87/169 are working
 
 | Extension            |  Status  | Log                                                                                                                                         |
 | :------------------- | :------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -76,7 +76,7 @@
 | en.kickassanime      |    ✅     | [results-en.kickassanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kickassanime.json)           |
 | en.kissanime         |    ✅     | [results-en.kissanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kissanime.json)                 |
 | en.kisskh            |    ✅     | [results-en.kisskh.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kisskh.json)                       |
-| en.marinmoe          |    ✅     | [results-en.marinmoe.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.marinmoe.json)                   |
+| en.marinmoe          | ❌<br>4/6 | [results-en.marinmoe.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.marinmoe.json)                   |
 | en.multimovies       |    ✅     | [results-en.multimovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.multimovies.json)             |
 | en.myanime           |    ✅     | [results-en.myanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.myanime.json)                     |
 | en.nineanime         |    ✅     | [results-en.nineanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.nineanime.json)                 |
@@ -156,7 +156,7 @@
 | pt.animeszone        | ❌<br>0/6 | [results-pt.animeszone.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animeszone.json)               |
 | pt.animetv           |    ✅     | [results-pt.animetv.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animetv.json)                     |
 | pt.animevibe         | ❌<br>4/5 | [results-pt.animevibe.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animevibe.json)                 |
-| pt.anitube           |    ✅     | [results-pt.anitube.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.anitube.json)                     |
+| pt.anitube           | ❌<br>5/6 | [results-pt.anitube.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.anitube.json)                     |
 | pt.betteranime       | ❌<br>0/6 | [results-pt.betteranime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.betteranime.json)             |
 | pt.cinevision        |    ✅     | [results-pt.cinevision.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.cinevision.json)               |
 | pt.donghuax          |    ✅     | [results-pt.donghuax.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.donghuax.json)                   |
@@ -172,5 +172,5 @@
 | sr.animesrbija       | ❌<br>1/5 | [results-sr.animesrbija.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-sr.animesrbija.json)             |
 | tr.turkanime         | ❌<br>0/6 | [results-tr.turkanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-tr.turkanime.json)                 |
 | uk.uakino            | ❌<br>0/6 | [results-uk.uakino.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-uk.uakino.json)                       |
-| uk.ufdub             |    ✅     | [results-uk.ufdub.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-uk.ufdub.json)                         |
+| uk.ufdub             | ❌<br>4/5 | [results-uk.ufdub.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-uk.ufdub.json)                         |
 

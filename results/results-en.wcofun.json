@@ -3,8 +3,94 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: bruh",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/yakitori-soldiers-of-misfortune",
+                                "title": "Yakitori: Soldiers of Misfortune",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932946.jpg"
+                            },
+                            {
+                                "url": "/anime/drowning-sorrows-in-raging-fire",
+                                "title": "Drowning Sorrows in Raging Fire",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932945.jpg"
+                            },
+                            {
+                                "url": "/anime/kitti-katz",
+                                "title": "Kitti Katz",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932944.jpg"
+                            },
+                            {
+                                "url": "/anime/bread-barbershop",
+                                "title": "Bread Barbershop",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932943.jpg"
+                            },
+                            {
+                                "url": "/anime/lego-dreamzzz-trials-of-the-dream-chasers",
+                                "title": "Lego: Dreamzzz - Trials of the Dream Chasers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932942.jpg"
+                            },
+                            {
+                                "url": "/anime/mulligan",
+                                "title": "Mulligan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg"
+                            },
+                            {
+                                "url": "/anime/colourblocks",
+                                "title": "Colourblocks",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg"
+                            },
+                            {
+                                "url": "/anime/alices-wonderland-bakery",
+                                "title": "Alice's Wonderland Bakery",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932939.jpg"
+                            },
+                            {
+                                "url": "/anime/chip-n-dale-nutty-tales",
+                                "title": "Chip 'N Dale: Nutty Tales",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932937.jpg"
+                            },
+                            {
+                                "url": "/anime/unicorn-warriors-eternal",
+                                "title": "Unicorn: Warriors Eternal",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932936.jpg"
+                            },
+                            {
+                                "url": "/anime/larva-family",
+                                "title": "Larva Family",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932935.jpg"
+                            },
+                            {
+                                "url": "/anime/mermaze-mermaidz",
+                                "title": "Mermaze Mermaidz",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932934.jpg"
+                            },
+                            {
+                                "url": "/anime/sacrificial-princess-and-the-king-of-beasts",
+                                "title": "Sacrificial Princess and the King of Beasts",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932933.jpg"
+                            },
+                            {
+                                "url": "/anime/superbook-cartoon",
+                                "title": "Superbook (Cartoon)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932932.jpg"
+                            },
+                            {
+                                "url": "/anime/digimon-adventure-2020",
+                                "title": "Digimon Adventure (2020)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932931.jpg"
+                            },
+                            {
+                                "url": "/anime/frog-and-toad",
+                                "title": "Frog and Toad",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932929.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -518,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-world-of-narue",
-                    "title": "The World of Narue",
-                    "description": "Plot Summary: Iizuka Kazuto is a 14 year old boy who meets a somewhat weird but cute and charming girl named Narue Nanase who claims she is an Alien. The show is about the trials and tribulations of the young couple as they get to know each other.",
-                    "genre": "Romantic Comedy, Science Fiction, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/23770.jpg",
+                    "url": "/anime/yakitori-soldiers-of-misfortune",
+                    "title": "Yakitori: Soldiers of Misfortune",
+                    "description": "A young man’s rebel against authorities on a future version of Earth, after he has been recruited into an interplanetary military unit that suffers a 70% casualty rate.",
+                    "genre": "Action, Adventure, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932946.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -530,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-world-of-narue-episode-12-english-dubbed",
-                        "name": "Episode 12 English Dubbed",
-                        "episode_number": 12.0
+                        "url": "/yakitori-soldiers-of-misfortune-episode-6-english-dubbed",
+                        "name": "Episode 6 English Dubbed",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/the-world-of-narue-episode-11-english-dubbed",
-                        "name": "Episode 11 English Dubbed",
-                        "episode_number": 11.0
+                        "url": "/yakitori-soldiers-of-misfortune-episode-5-english-dubbed",
+                        "name": "Episode 5 English Dubbed",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -545,14 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRj7HRbxa7HKmEkJ9C7X3m6i4OYQkv_hBgjFk83C-TCW5jrxV189Ru4e_LTZwN8OMGObIrHu78Q6QhnzelS79WDp8bE2X9NNNmOxocszb2y_PAVe_XcULy3HKn2Y6V0I03PNbNgpsXM27W9vdlzSa21oV2u71QZA-_nlOINs9XmhAfpU1sCGFJyGeFdp4BPrea90jHqNVOSogxac6-dc7l2INLAts8KtqfjlVG0Idbn3U",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnE7ZFVQiK5PAW_vnlehGIHg9HPjSFxL_cL95OKBf0jPZWtpd3YHpaB5m18LncGJjzJDwno5RxOGjzz1tomhGt8g2XcUyGOry6pbaPtjrCPbYMR7FClMSJG2-go5encPdY62QX4fYq4hb5w322UQQoxr-z744ITAMeQO8TOk1_2v6-Ucqzh5PU2SqM33sZV5Mc8kE8PCvQTvPIFgHLg_8hy1CH1or7cfyB_lguuMtwwz8Yb2YU1bxLmVLSRW5fhOeRvUU6a-Pqb4o7AKN6d9leNZ8maiHcePGVrEQIjSoys34-UZEVEfR7l2KQurTQMSKrJCTmpw74RLEn-lTr3DA3CCookxEqHkH4H1UthilLku2CaRjz7k_pbmsFABzfCx7-bEgJKzQ6bLUSRpqEhMZPk",
                         "quality": "HD",
-                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRj7HRbxa7HKmEkJ9C7X3m6i4OYQkv_hBgjFk83C-TCW5jrxV189Ru4e_LTZwN8OMGObIrHu78Q6QhnzelS79WDp8bE2X9NNNmOxocszb2y_PAVe_XcULy3HKn2Y6V0I03PNbNgpsXM27W9vdlzSa21oV2u71QZA-_nlOINs9XmhAfpU1sCGFJyGeFdp4BPrea90jHqNVOSogxac6-dc7l2INLAts8KtqfjlVG0Idbn3U"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnE7ZFVQiK5PAW_vnlehGIHg9HPjSFxL_cL95OKBf0jPZWtpd3YHpaB5m18LncGJjzJDwno5RxOGjzz1tomhGt8g2XcUyGOry6pbaPtjrCPbYMR7FClMSJG2-go5encPdY62QX4fYq4hb5w322UQQoxr-z744ITAMeQO8TOk1_2v6-Ucqzh5PU2SqM33sZV5Mc8kE8PCvQTvPIFgHLg_8hy1CH1or7cfyB_lguuMtwwz8Yb2YU1bxLmVLSRW5fhOeRvUU6a-Pqb4o7AKN6d9leNZ8maiHcePGVrEQIjSoys34-UZEVEfR7l2KQurTQMSKrJCTmpw74RLEn-lTr3DA3CCookxEqHkH4H1UthilLku2CaRjz7k_pbmsFABzfCx7-bEgJKzQ6bLUSRpqEhMZPk"
                     },
                     {
-                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZqmuisyVY3QhAGQztwHhJB6vuKv69Duun7Mavtb9gcNjHSEXMvsk72M8Zbf6jWik4e62PoixsW4zVtp3-cDtgIyetyTsDQapS4duLCo3s7HYbwGj0iT3W-OxWmnPr70hwaaqRgUb8cJtFnjymIx9_PB8UXsHzJ-RGZrIDparun3sa54k16fdEycnFMbOcui8xvzFKGgIOjnrKwDUNTzEwoPkdctSftbOODNd0B75Datg",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnE7ZFVQiK5PAW_vnlehGIHg9HPjSFxL_cL95OKBf0jPZWtpd3YHpaB5m18LncGJjzJDwno5RxOGjzz1tomhGt8g2XcUyGOry6pbaPtjrCPbleI01SoLltj6c7FPbNWtpMXhJzrZlQDSjWghxj-daF4rt0sxMAxVhHIZFZp23jhiN-tB6CsPjMH69VjdtVXZuOAfahY-M89AX1faMln6Q63dBD93aE8qStv11BRefMIGBvpZ2tYdQT_MjLcnEWqMOqsxzF2lAJJRw5-7_3qgi1hJ0SoL44F3EEVswiMuOJZEMOhRuXa-OnkU_Qc3eeSjOc9incPo5sc8tTGcoXDab4PI6XsuAZaXQwBBs4x1WDoAP-EkZmUT0bhEXWZh3mydsToxgs6I2oUxIr0GMn33llg",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnE7ZFVQiK5PAW_vnlehGIHg9HPjSFxL_cL95OKBf0jPZWtpd3YHpaB5m18LncGJjzJDwno5RxOGjzz1tomhGt8g2XcUyGOry6pbaPtjrCPbleI01SoLltj6c7FPbNWtpMXhJzrZlQDSjWghxj-daF4rt0sxMAxVhHIZFZp23jhiN-tB6CsPjMH69VjdtVXZuOAfahY-M89AX1faMln6Q63dBD93aE8qStv11BRefMIGBvpZ2tYdQT_MjLcnEWqMOqsxzF2lAJJRw5-7_3qgi1hJ0SoL44F3EEVswiMuOJZEMOhRuXa-OnkU_Qc3eeSjOc9incPo5sc8tTGcoXDab4PI6XsuAZaXQwBBs4x1WDoAP-EkZmUT0bhEXWZh3mydsToxgs6I2oUxIr0GMn33llg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnE7ZFVQiK5PAW_vnlehGIHg9HPjSFxL_cL95OKBf0jPZWtpd3YHpaB5m18LncGJjzJDwno5RxOGjzz1tomhGt8g2XcUyGOry6pbaPtjrCPbEkApNpQCswGr1w2AIsi5KISNeFBoABSM8gFmRT4ylqNK6_uQI8xgdhLPBa82cxPT36LLvbHyln6lH9FQ_IXYMsF2m8JfGaj2lUf1daXqcgHw5ZuGGZStG-unAAkR5cC2bdxJMtRrAekKphUEFRWoB7ieBjLEjrO4RvIcusF1TGAFOIWpwnJvGvu6M5-JXKjh7_PFnSVk6sRE0JWDF4gO0pRz4tQgcRYbsv00hAE8dxVAo_832q5PEMaLDBLkPQ8cXDF8od1IjNkK1thS7Pea7mtO4LLTJsQB6uc2YsoXN5M",
                         "quality": "SD",
-                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZqmuisyVY3QhAGQztwHhJB6vuKv69Duun7Mavtb9gcNjHSEXMvsk72M8Zbf6jWik4e62PoixsW4zVtp3-cDtgIyetyTsDQapS4duLCo3s7HYbwGj0iT3W-OxWmnPr70hwaaqRgUb8cJtFnjymIx9_PB8UXsHzJ-RGZrIDparun3sa54k16fdEycnFMbOcui8xvzFKGgIOjnrKwDUNTzEwoPkdctSftbOODNd0B75Datg"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnE7ZFVQiK5PAW_vnlehGIHg9HPjSFxL_cL95OKBf0jPZWtpd3YHpaB5m18LncGJjzJDwno5RxOGjzz1tomhGt8g2XcUyGOry6pbaPtjrCPbEkApNpQCswGr1w2AIsi5KISNeFBoABSM8gFmRT4ylqNK6_uQI8xgdhLPBa82cxPT36LLvbHyln6lH9FQ_IXYMsF2m8JfGaj2lUf1daXqcgHw5ZuGGZStG-unAAkR5cC2bdxJMtRrAekKphUEFRWoB7ieBjLEjrO4RvIcusF1TGAFOIWpwnJvGvu6M5-JXKjh7_PFnSVk6sRE0JWDF4gO0pRz4tQgcRYbsv00hAE8dxVAo_832q5PEMaLDBLkPQ8cXDF8od1IjNkK1thS7Pea7mtO4LLTJsQB6uc2YsoXN5M"
                     }
                 ],
                 "passed": true

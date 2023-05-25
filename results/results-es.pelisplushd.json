@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/chino-americano-la-serie",
+                                "title": "Chino americano: La serie (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/wGeImql8CJ5ZiDZ9S7pEu0HCrvn.jpg"
+                            },
+                            {
                                 "url": "/serie/clone-high",
                                 "title": "Clone High (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/vw4IXzVhFJWyupZCpJWPSWbctzN.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/dance-brothers",
                                 "title": "Dance Brothers (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/855MsZTPvlSETzSYwvl5aSrijIY.jpg"
-                            },
-                            {
-                                "url": "/serie/unicornio-los-guerreros-eternos",
-                                "title": "Unicornio: Los guerreros eternos (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oWpCC8Au6DcxoZvaBtfDsPaWsOG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/clone-high",
-                    "title": "Clone High (2023)",
-                    "description": ".",
-                    "genre": "Animación, Comedia",
+                    "url": "/serie/chino-americano-la-serie",
+                    "title": "Chino americano: La serie (2023)",
+                    "description": "Basada en la innovadora novela gráfica de Gene Luen Yang que cuenta las vicisitudes de un adolescente normal, estadounidense de origen chino, cuya vida cambia para siempre cuando se hace amigo del hijo de un dios mitológico. Esta es la historia de la batalla de un joven por definir su propia identidad, con tintes familiares y de comedia y el mejor kung-fu..",
+                    "genre": "Action & Adventure, Comedia, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vw4IXzVhFJWyupZCpJWPSWbctzN.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wGeImql8CJ5ZiDZ9S7pEu0HCrvn.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/clone-high/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/chino-americano-la-serie/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/clone-high/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/chino-americano-la-serie/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,42 +293,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery249.akamai-video-content.com/hls2/01/12806/535mb6xu63uf_n/index-v1-a1.m3u8?t=v0PyYpFX_BdfXcJPPRd8RdfPr7Lz8w3yyaen80Glp2Y&s=1685008882&e=10800&f=64031684&srv=sto231&client=104.45.205.81&asn=8075",
+                        "url": "https://sto265.akamai-video-content.com/hls/tysxfb7nd27oj6cdabkcxqajpl4km7nspbru5aphitntzgshwe7k6tsedqjq/index-v1-a1.m3u8",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery249.akamai-video-content.com/hls2/01/12806/535mb6xu63uf_n/index-v1-a1.m3u8?t=v0PyYpFX_BdfXcJPPRd8RdfPr7Lz8w3yyaen80Glp2Y&s=1685008882&e=10800&f=64031684&srv=sto231&client=104.45.205.81&asn=8075",
+                        "videoUrl": "https://sto265.akamai-video-content.com/hls/tysxfb7nd27oj6cdabkcxqajpl4km7nspbru5aphitntzgshwe7k6tsedqjq/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/535mb6xu63uf?",
+                            "referer": "https://lvturbo.com/e/o89e2u97zv7f?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery249.akamai-video-content.com/hls2/01/12806/535mb6xu63uf_l/index-v1-a1.m3u8?t=v0PyYpFX_BdfXcJPPRd8RdfPr7Lz8w3yyaen80Glp2Y&s=1685008882&e=10800&f=64031684&srv=sto231&client=104.45.205.81&asn=8075",
+                        "url": "https://sto265.akamai-video-content.com/hls/tysxfb7nd27oj6cdabkcxqajpl4km7nspbru5aphi2xt7gshwe7dmt25wpgq/index-v1-a1.m3u8",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery249.akamai-video-content.com/hls2/01/12806/535mb6xu63uf_l/index-v1-a1.m3u8?t=v0PyYpFX_BdfXcJPPRd8RdfPr7Lz8w3yyaen80Glp2Y&s=1685008882&e=10800&f=64031684&srv=sto231&client=104.45.205.81&asn=8075",
+                        "videoUrl": "https://sto265.akamai-video-content.com/hls/tysxfb7nd27oj6cdabkcxqajpl4km7nspbru5aphi2xt7gshwe7dmt25wpgq/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/535mb6xu63uf?",
+                            "referer": "https://lvturbo.com/e/o89e2u97zv7f?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery249.akamai-video-content.com/hls2/01/12806/535mb6xu63uf_h/index-v1-a1.m3u8?t=v0PyYpFX_BdfXcJPPRd8RdfPr7Lz8w3yyaen80Glp2Y&s=1685008882&e=10800&f=64031684&srv=sto231&client=104.45.205.81&asn=8075",
-                        "quality": "StreamSB:1080p",
-                        "videoUrl": "https://delivery249.akamai-video-content.com/hls2/01/12806/535mb6xu63uf_h/index-v1-a1.m3u8?t=v0PyYpFX_BdfXcJPPRd8RdfPr7Lz8w3yyaen80Glp2Y&s=1685008882&e=10800&f=64031684&srv=sto231&client=104.45.205.81&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/535mb6xu63uf?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=XxWVGXJBQYtDjw9&expires=1685078883&ip=F0OSKRqOKxSHDN&token=XgUOK9pJ7AHw",
+                        "url": "https://streamtape.com/get_video?id=MqQ7DqOBkQSmW83&expires=1685114112&ip=Gy5QDREnDS9X&token=eFcUY_oGwene",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XxWVGXJBQYtDjw9&expires=1685078883&ip=F0OSKRqOKxSHDN&token=XgUOK9pJ7AHw"
+                        "videoUrl": "https://streamtape.com/get_video?id=MqQ7DqOBkQSmW83&expires=1685114112&ip=Gy5QDREnDS9X&token=eFcUY_oGwene"
                     }
                 ],
                 "passed": true
@@ -623,9 +612,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www-seq40452.ssl0d.com/hls2/oWp1t1j5C_v6vy1ot5sRaQ/1685037685/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "url": "https://www-seq40452.ssl0d.com/hls2/d9bAv76PN7n0I7PEQ4Arpg/1685072915/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-seq40452.ssl0d.com/hls2/oWp1t1j5C_v6vy1ot5sRaQ/1685037685/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "videoUrl": "https://www-seq40452.ssl0d.com/hls2/d9bAv76PN7n0I7PEQ4Arpg/1685072915/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "headers": {
                             "authority": "https://www-seq40452.ssl0d.com",
                             "origin": "https://slwatch.co",
@@ -946,9 +935,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=GwJ4Gmo5NG3qkrieA2zds5TWfOVmxA0e9gJBa675w6c&s=1685008886&e=10800&f=60520633&srv=sto122&client=104.45.205.81&asn=8075",
+                        "url": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=srqN4A_YYATQ2qs8qCcyPLVQmzLPmxulUFi9ZQkRyWI&s=1685044117&e=10800&f=60520633&srv=sto122&client=4.227.9.16&asn=8075",
                         "quality": "[Cast] StreamSB:888p ",
-                        "videoUrl": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=GwJ4Gmo5NG3qkrieA2zds5TWfOVmxA0e9gJBa675w6c&s=1685008886&e=10800&f=60520633&srv=sto122&client=104.45.205.81&asn=8075",
+                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=srqN4A_YYATQ2qs8qCcyPLVQmzLPmxulUFi9ZQkRyWI&s=1685044117&e=10800&f=60520633&srv=sto122&client=4.227.9.16&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
@@ -957,9 +946,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=GwJ4Gmo5NG3qkrieA2zds5TWfOVmxA0e9gJBa675w6c&s=1685008886&e=10800&f=60520633&srv=sto122&client=104.45.205.81&asn=8075",
+                        "url": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=srqN4A_YYATQ2qs8qCcyPLVQmzLPmxulUFi9ZQkRyWI&s=1685044117&e=10800&f=60520633&srv=sto122&client=4.227.9.16&asn=8075",
                         "quality": "[Cast] StreamSB:720p ",
-                        "videoUrl": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=GwJ4Gmo5NG3qkrieA2zds5TWfOVmxA0e9gJBa675w6c&s=1685008886&e=10800&f=60520633&srv=sto122&client=104.45.205.81&asn=8075",
+                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=srqN4A_YYATQ2qs8qCcyPLVQmzLPmxulUFi9ZQkRyWI&s=1685044117&e=10800&f=60520633&srv=sto122&client=4.227.9.16&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
@@ -968,9 +957,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=GwJ4Gmo5NG3qkrieA2zds5TWfOVmxA0e9gJBa675w6c&s=1685008886&e=10800&f=60520633&srv=sto122&client=104.45.205.81&asn=8075",
+                        "url": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=srqN4A_YYATQ2qs8qCcyPLVQmzLPmxulUFi9ZQkRyWI&s=1685044117&e=10800&f=60520633&srv=sto122&client=4.227.9.16&asn=8075",
                         "quality": "[Cast] StreamSB:480p ",
-                        "videoUrl": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=GwJ4Gmo5NG3qkrieA2zds5TWfOVmxA0e9gJBa675w6c&s=1685008886&e=10800&f=60520633&srv=sto122&client=104.45.205.81&asn=8075",
+                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=srqN4A_YYATQ2qs8qCcyPLVQmzLPmxulUFi9ZQkRyWI&s=1685044117&e=10800&f=60520633&srv=sto122&client=4.227.9.16&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",

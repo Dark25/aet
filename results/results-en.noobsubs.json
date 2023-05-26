@@ -1066,28 +1066,14 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://noobftp1.noobsubs.com/5%20Centimeters%20Per%20Second/%5BMoozzi2%5D%20Killing%20Bites%20%5BSP06%5D%20BD%20Vol.01%20CM%20%28BD%201920x1080%20x.264%20Flac%29.mp4",
-                        "name": "Killing Bites [SP06] BD Vol.01 CM (BD 1920x1080 x.264 Flac) - 12137 KB",
-                        "episode_number": 13.0,
-                        "scanlator": ""
-                    },
-                    {
-                        "url": "https://noobftp1.noobsubs.com/5%20Centimeters%20Per%20Second/%5BMoozzi2%5D%20Killing%20Bites%20%5BSP05%5D%20TV-CM%20-%2001%20%5B%2015Sec.%20%5D%20%28BD%201920x1080%20x.264%20Flac%29.mp4",
-                        "name": "Killing Bites [SP05] TV-CM - 01 [ 15Sec. ] (BD 1920x1080 x.264 Flac) - 12517 KB",
-                        "episode_number": 12.0,
-                        "scanlator": ""
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: Expected a SETTINGS frame but was GOAWAY",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://noobftp1.noobsubs.com/5%20Centimeters%20Per%20Second/%5BMoozzi2%5D%20Killing%20Bites%20%5BSP06%5D%20BD%20Vol.01%20CM%20%28BD%201920x1080%20x.264%20Flac%29.mp4",
                         "quality": "Video",
-                        "videoUrl": "https://noobftp1.noobsubs.com/5%20Centimeters%20Per%20Second/%5BMoozzi2%5D%20Killing%20Bites%20%5BSP06%5D%20BD%20Vol.01%20CM%20%28BD%201920x1080%20x.264%20Flac%29.mp4"
+                        "videoUrl": ""
                     }
                 ],
                 "passed": true

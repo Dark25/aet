@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-familia-stallone",
+                                "title": "La Familia Stallone (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ixyT8oYgT7tcuq4FLo4skZGhdpH.jpg"
+                            },
+                            {
+                                "url": "/serie/una-pequena-luz-protegiendo-a-ana-frank",
+                                "title": "Una pequeña luz: protegiendo a Ana Frank (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yVIWpC4M1Ksmwlnu0yU9LUgGbG7.jpg"
+                            },
+                            {
+                                "url": "/serie/los-apocalipsis-del-pasado",
+                                "title": "Los apocalipsis del pasado (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zvEXNgE13GZLlbYdbZj4sxu97BG.jpg"
+                            },
+                            {
                                 "url": "/serie/smartless-on-the-road",
                                 "title": "SmartLess: On the Road (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/4VpLIQkiiQ9EwVTdBrbjqbUQ0Ih.jpg"
@@ -110,21 +125,6 @@
                                 "url": "/serie/promocion-09",
                                 "title": "Promoción 09 (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5Yxbi1lRKtDna4uUPeJHP4cyi0d.jpg"
-                            },
-                            {
-                                "url": "/serie/mulligan",
-                                "title": "Mulligan (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/t4jMaK7u5S4p5sEW76GmBNQfE90.jpg"
-                            },
-                            {
-                                "url": "/serie/el-caballero-negro",
-                                "title": "El caballero negro (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qp2IE4GDj69hXBOCX4A68bLKfHM.jpg"
-                            },
-                            {
-                                "url": "/serie/los-muppets-los-mayhem-dan-la-nota",
-                                "title": "Los Muppets: los Mayhem dan la nota (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/cGUauTfTgvQ5IuCsEqlNfoJ5swH.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/smartless-on-the-road",
-                    "title": "SmartLess: On the Road (2023)",
-                    "description": ".",
-                    "genre": "Documental",
+                    "url": "/serie/la-familia-stallone",
+                    "title": "La Familia Stallone (2023)",
+                    "description": "Docureality sobre el actor Sylvester Stallone con su esposa e hijas..",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4VpLIQkiiQ9EwVTdBrbjqbUQ0Ih.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ixyT8oYgT7tcuq4FLo4skZGhdpH.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/smartless-on-the-road/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/la-familia-stallone/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/smartless-on-the-road/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/la-familia-stallone/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery558.akamai-video-content.com/hls2/01/12832/r49dmuwuyh8t_n/index-v1-a1.m3u8?t=mTLvyMdjwOsmRxxyukHD0YqptbHFJr9Tw73NmuyDaKE&s=1685107673&e=10800&f=64163272&srv=sto009&client=20.185.158.59&asn=8075",
-                        "quality": "StreamSB:580p",
-                        "videoUrl": "https://delivery558.akamai-video-content.com/hls2/01/12832/r49dmuwuyh8t_n/index-v1-a1.m3u8?t=mTLvyMdjwOsmRxxyukHD0YqptbHFJr9Tw73NmuyDaKE&s=1685107673&e=10800&f=64163272&srv=sto009&client=20.185.158.59&asn=8075",
+                        "url": "https://delivery448.akamai-video-content.com/hls2/01/12845/qfjclrnv7l8m_n/index-v1-a1.m3u8?t=gd8YEUuIyKnhwjeDUOw8tfg0vab9NPAo6qXBK0FU7mU&s=1685125034&e=10800&f=64227536&srv=9nMyawgFqXSzcby&client=104.210.132.49&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery448.akamai-video-content.com/hls2/01/12845/qfjclrnv7l8m_n/index-v1-a1.m3u8?t=gd8YEUuIyKnhwjeDUOw8tfg0vab9NPAo6qXBK0FU7mU&s=1685125034&e=10800&f=64227536&srv=9nMyawgFqXSzcby&client=104.210.132.49&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/r49dmuwuyh8t?",
+                            "referer": "https://lvturbo.com/e/qfjclrnv7l8m?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery558.akamai-video-content.com/hls2/01/12832/r49dmuwuyh8t_l/index-v1-a1.m3u8?t=mTLvyMdjwOsmRxxyukHD0YqptbHFJr9Tw73NmuyDaKE&s=1685107673&e=10800&f=64163272&srv=sto009&client=20.185.158.59&asn=8075",
+                        "url": "https://delivery448.akamai-video-content.com/hls2/01/12845/qfjclrnv7l8m_l/index-v1-a1.m3u8?t=gd8YEUuIyKnhwjeDUOw8tfg0vab9NPAo6qXBK0FU7mU&s=1685125034&e=10800&f=64227536&srv=9nMyawgFqXSzcby&client=104.210.132.49&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery558.akamai-video-content.com/hls2/01/12832/r49dmuwuyh8t_l/index-v1-a1.m3u8?t=mTLvyMdjwOsmRxxyukHD0YqptbHFJr9Tw73NmuyDaKE&s=1685107673&e=10800&f=64163272&srv=sto009&client=20.185.158.59&asn=8075",
+                        "videoUrl": "https://delivery448.akamai-video-content.com/hls2/01/12845/qfjclrnv7l8m_l/index-v1-a1.m3u8?t=gd8YEUuIyKnhwjeDUOw8tfg0vab9NPAo6qXBK0FU7mU&s=1685125034&e=10800&f=64227536&srv=9nMyawgFqXSzcby&client=104.210.132.49&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/r49dmuwuyh8t?",
+                            "referer": "https://lvturbo.com/e/qfjclrnv7l8m?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=pkbQ87wK0zFr2wy&expires=1685177674&ip=FROsD0gOKxSHDN&token=rXvptDWZtF0S",
+                        "url": "https://delivery448.akamai-video-content.com/hls2/01/12845/qfjclrnv7l8m_o/index-v1-a1.m3u8?t=gd8YEUuIyKnhwjeDUOw8tfg0vab9NPAo6qXBK0FU7mU&s=1685125034&e=10800&f=64227536&srv=9nMyawgFqXSzcby&client=104.210.132.49&asn=8075",
+                        "quality": "StreamSB:1080p",
+                        "videoUrl": "https://delivery448.akamai-video-content.com/hls2/01/12845/qfjclrnv7l8m_o/index-v1-a1.m3u8?t=gd8YEUuIyKnhwjeDUOw8tfg0vab9NPAo6qXBK0FU7mU&s=1685125034&e=10800&f=64227536&srv=9nMyawgFqXSzcby&client=104.210.132.49&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/qfjclrnv7l8m?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=M91xv4ZYKGTmp1K&expires=1685195035&ip=F0OSKRSSDS9XKxR&token=rjV6MdCC3lZ6",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=pkbQ87wK0zFr2wy&expires=1685177674&ip=FROsD0gOKxSHDN&token=rXvptDWZtF0S"
+                        "videoUrl": "https://streamtape.com/get_video?id=M91xv4ZYKGTmp1K&expires=1685195035&ip=F0OSKRSSDS9XKxR&token=rjV6MdCC3lZ6"
                     }
                 ],
                 "passed": true
@@ -612,9 +623,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www-7pd69479.ssl0d.com/hls2/eo0zxS0vwONZXBrb7em1FQ/1685136476/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "url": "https://www-7pd69479.ssl0d.com/hls2/XEqqlveoG9Uur9UOXkOrHQ/1685153838/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-7pd69479.ssl0d.com/hls2/eo0zxS0vwONZXBrb7em1FQ/1685136476/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "videoUrl": "https://www-7pd69479.ssl0d.com/hls2/XEqqlveoG9Uur9UOXkOrHQ/1685153838/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "headers": {
                             "authority": "https://www-7pd69479.ssl0d.com",
                             "origin": "https://slwatch.co",
@@ -935,9 +946,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=TiumDimduxR_46iXTjXcl-dMrQp2YMUysaM_JOsm4qw&s=1685107678&e=10800&f=60520633&srv=sto122&client=20.185.158.59&asn=8075",
+                        "url": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=inwYL58Ft4R7SsOoAUMT7UvuRkIDjzF92Ato6nCivLI&s=1685125039&e=10800&f=60520633&srv=sto122&client=104.210.132.49&asn=8075",
                         "quality": "[Cast] StreamSB:888p ",
-                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=TiumDimduxR_46iXTjXcl-dMrQp2YMUysaM_JOsm4qw&s=1685107678&e=10800&f=60520633&srv=sto122&client=20.185.158.59&asn=8075",
+                        "videoUrl": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=inwYL58Ft4R7SsOoAUMT7UvuRkIDjzF92Ato6nCivLI&s=1685125039&e=10800&f=60520633&srv=sto122&client=104.210.132.49&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
@@ -946,9 +957,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=TiumDimduxR_46iXTjXcl-dMrQp2YMUysaM_JOsm4qw&s=1685107678&e=10800&f=60520633&srv=sto122&client=20.185.158.59&asn=8075",
+                        "url": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=inwYL58Ft4R7SsOoAUMT7UvuRkIDjzF92Ato6nCivLI&s=1685125039&e=10800&f=60520633&srv=sto122&client=104.210.132.49&asn=8075",
                         "quality": "[Cast] StreamSB:720p ",
-                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=TiumDimduxR_46iXTjXcl-dMrQp2YMUysaM_JOsm4qw&s=1685107678&e=10800&f=60520633&srv=sto122&client=20.185.158.59&asn=8075",
+                        "videoUrl": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=inwYL58Ft4R7SsOoAUMT7UvuRkIDjzF92Ato6nCivLI&s=1685125039&e=10800&f=60520633&srv=sto122&client=104.210.132.49&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
@@ -957,9 +968,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=TiumDimduxR_46iXTjXcl-dMrQp2YMUysaM_JOsm4qw&s=1685107678&e=10800&f=60520633&srv=sto122&client=20.185.158.59&asn=8075",
+                        "url": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=inwYL58Ft4R7SsOoAUMT7UvuRkIDjzF92Ato6nCivLI&s=1685125039&e=10800&f=60520633&srv=sto122&client=104.210.132.49&asn=8075",
                         "quality": "[Cast] StreamSB:480p ",
-                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=TiumDimduxR_46iXTjXcl-dMrQp2YMUysaM_JOsm4qw&s=1685107678&e=10800&f=60520633&srv=sto122&client=20.185.158.59&asn=8075",
+                        "videoUrl": "https://delivery506.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=inwYL58Ft4R7SsOoAUMT7UvuRkIDjzF92Ato6nCivLI&s=1685125039&e=10800&f=60520633&srv=sto122&client=104.210.132.49&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",

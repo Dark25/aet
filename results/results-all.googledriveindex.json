@@ -3,11 +3,11 @@
         "name": "GoogleDriveIndex",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 401",
+                "error": "java.lang.Exception: Enter drive path(s) in extension settings.",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 401",
+                "error": "java.lang.Exception: Enter drive path(s) in extension settings.",
                 "passed": false
             },
             "details": {

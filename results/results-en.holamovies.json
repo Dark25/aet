@@ -172,25 +172,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://drive.google.com/uc?id=1ouMb7gEgdBu97xsHz0stpWZlu1HOAHpn&confirm=t&uuid=6698cae8-d1a4-49e7-8553-58287713024f",
-                        "quality": "Gdrive (6.8G) ",
-                        "videoUrl": "https://drive.google.com/uc?id=1ouMb7gEgdBu97xsHz0stpWZlu1HOAHpn&confirm=t&uuid=6698cae8-d1a4-49e7-8553-58287713024f"
-                    },
-                    {
-                        "url": "https://twilight-wildflower-4551.beviw23839.workers.dev/af71e9a0ddba4ab0a308bf011d6ae944/drivebot.fun/Polite.Society.2023.1080p.MA.WEB-DL.HIN-ENG.DDP5.1.Atmos.H.264-CMRG.mkv",
-                        "quality": "DriveBot",
-                        "videoUrl": "https://twilight-wildflower-4551.beviw23839.workers.dev/af71e9a0ddba4ab0a308bf011d6ae944/drivebot.fun/Polite.Society.2023.1080p.MA.WEB-DL.HIN-ENG.DDP5.1.Atmos.H.264-CMRG.mkv",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Host": "twilight-wildflower-4551.beviw23839.workers.dev",
-                            "Referer": "https://drivebot.fun/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

@@ -267,6 +267,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Dr-STONE-NEW-WORLD-Dub/",
+                                "title": "Dr. STONE: NEW WORLD (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Dr-STONE-NEW-WORLD-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Ousama-Ranking-Yuuki-no-Takarabako/",
+                                "title": "Ranking of Kings - The Treasure Chest of Courage",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/Ranking-of-Kings-Treasure-Chest-of-Courage.jpg"
+                            },
+                            {
+                                "url": "/Anime/Chiikawa/",
+                                "title": "Chiikawa",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/08/Chiikawa.jpg"
+                            },
+                            {
+                                "url": "/Anime/OpusCOLORs/",
+                                "title": "Opus.COLORs",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/OpusCOLORs.jpg"
+                            },
+                            {
                                 "url": "/Anime/dr-stone-new-world.28954/",
                                 "title": "Dr. STONE: NEW WORLD",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Dr-STONE-NEW-WORLD.jpg"
@@ -495,26 +515,6 @@
                                 "url": "/Anime/MASHLE-MAGIC-AND-MUSCLES-Dub/",
                                 "title": "MASHLE: MAGIC AND MUSCLES (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/MASHLE-MAGIC-AND-MUSCLES-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Demon-Slayer-Kimetsu-no-Yaiba-Swordsmith-Village-Arc-Dub/",
-                                "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Demon-Slayer-Kimetsu-no-Yaiba-Swordsmith-Village-Arc-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/In-Spectre-Season-2-Dub/",
-                                "title": "In/Spectre Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/In-Spectre-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Mobile-Suit-Gundam-The-Witch-from-Mercury-Season-2-Dub.42512/",
-                                "title": "Mobile Suit Gundam: The Witch from Mercury Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Mobile-Suit-Gundam-The-Witch-from-Mercury-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-Clueless-First-Friend-Dub/",
-                                "title": "My Clueless First Friend (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/My-Clueless-First-Friend-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -526,6 +526,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/Dr-STONE-NEW-WORLD-Dub/",
+                                "title": "Dr. STONE: NEW WORLD (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Dr-STONE-NEW-WORLD-Dub.jpg"
+                            },
                             {
                                 "url": "/Anime/dr-stone-new-world.28954/",
                                 "title": "Dr. STONE: NEW WORLD",
@@ -560,11 +565,6 @@
                                 "url": "/Anime/Isekai-Shoukan-wa-Nidome-desu/",
                                 "title": "Summoned to Another World for a Second Time",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/Summoned-to-Another-World-for-a-Second-Time.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dr-STONE-NEW-WORLD-Dub/",
-                                "title": "Dr. STONE: NEW WORLD (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Dr-STONE-NEW-WORLD-Dub.jpg"
                             },
                             {
                                 "url": "/Anime/the-reincarnation-of-the-strongest-exorcist-in-another-world.43055/",
@@ -1063,8 +1063,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s44.openstream.io/hls/qvsbjg6ymxblgwszts3ka6gcbdxk2344n4rpdhcmrumnivhd3uu6ohssnjjq/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s44.openstream.io/hls/qvsbjg6ymxblgwszts3ka6gcbdxk2344n4rpdhcmrumnivhd3uu6ohssnjjq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s44.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

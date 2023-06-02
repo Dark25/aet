@@ -3,89 +3,8 @@
         "name": "Movie4k",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/data/watch/?_id=646616ec0958c2300f8a02a3",
-                                "title": "Fast & Furious 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/t1vPsJUBsh3gkgkZlqDNmCPyy49.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=641ccfa5c503f08683ced0c9",
-                                "title": "John Wick Kapitel 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lmSuwYGrrMy8p4kVEzCb9GM4waP.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=646d2d4a96f2917dc9553955",
-                                "title": "Renfield",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/veWtIVIEIbCBzGONUNXQyhTC2Nu.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6455b8473b4a11f6a063aa4e",
-                                "title": "Guardians of the Galaxy Vol. 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/d1DEggMecolWV6ZUcrygiLAqxOJ.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=643009acc503f08683ef18b2",
-                                "title": "Der Super Mario Bros. Film",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/aMUbRQs7Vj77SVUqFieN72setAH.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6470163e1076d2b303a49e8f",
-                                "title": "Skinford - Death Sentence",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6467aee042b909ec25e6ed30",
-                                "title": "Asterix und Obelix im Reich der Mitte",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5CYL3N0PiEdWFGpSSIRr5mZtWPS.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6463f2adf8b21f9d426264a2",
-                                "title": "Sisu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1w9WXOKWT6Cuj2TxAknIUhhvLZt.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6477b92c60ef324c8e169691",
-                                "title": "Disneys Arielle, die Meerjungfrau",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/fxe4JblmCR4OG4lG2VB4pAcp8Dt.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=64282081c503f08683e2061c",
-                                "title": "Dungeons & Dragons: Ehre unter Dieben",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2jrH6ju6Px6ugjF6rfSZRnn9FWn.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=645da13de3d5c1d510867e68",
-                                "title": "The Lair",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=647167c7e7f960a4a14650e2",
-                                "title": "Blood and Gold",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/a9HMKyPy6d0e34a653tGM0QUyPV.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=64499488e2dffcdb70e7125c",
-                                "title": "Evil Dead Rise",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/o69AfVK0YXkbyI0QVayindEFC26.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=645eaca3d49cac5339430343",
-                                "title": "Crater",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6472736dcea147dd7ef73056",
-                                "title": "Leave",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/908fS4q4oxEot5SgDDcwFnKMNxk.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -174,107 +93,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/data/watch/?_id=646616ec0958c2300f8a02a3",
-                    "title": "Fast & Furious 10",
-                    "description": "Dominic Toretto (Vin Diesel) ahnt nicht, dass seine Taten, die Jahre zurückliegen, tiefe Spuren bei dem mittlerweile mächtigen Dante (Jason Momoa) hinterlassen haben. Dieser sinnt nun auf Rache und will die ganze Toretto-Familie auseinanderbringen. Es entbrennt eine Rachegeschichte, die alle Mitglieder der Original-Crew, aber auch Deckard Shaw (Jason Statham), Bruder Jakob (John Cena) sowie den Neuzugang Tess (Brie Larson) auf den Plan ruft. Diese haben fortan alle Hände zu tun, um sich gegen den Gegenspieler sowie dessen Gefolgschaft samt Cipher (Charlize Theron) und Aimes (Alan Ritchson) zur Wehr setzen zu können. Da Dom nicht jeden aus der großen Familie beschützen kann und der rachsüchtige Rivale vor nichts zurückschreckt, wird er vor die schwierigste Wahl seines Lebens gestellt: Wen wird er retten?\n\nVorletzter Teil der „Fast & Furious”-Reihe, der gemeinsam mit „Fast & Furious 9” und „Fast & Furious 11” das große Finale bilden soll.",
+                    "url": "/data/watch/?_id=64764b3e705eda827ba69ca5",
+                    "title": "In Another World With My Smartphone - Staffel 2",
+                    "description": "Touya Mochizuki wurde versehentlich getötet und als Entschuldigung erlaubt ihm Gott, in einer Fantasiewelt wiedergeboren zu werden und er gewährt ihm einen Wunsch. Touya wünscht sich, dass er sein Smartphone auch in der nächsten Welt behalten kann. In seinem zweiten Leben freundet er sich mit vielen wichtigen Leuten an und stößt auf das Geheimnis dieser Welt. Zudem erbt er das Vermächtnis einer alten Zivilisation. Dieses Vermächtnis gibt ihm Kräfte, die mit denen der Könige dieser Welt mithalten.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=646616ec0958c2300f8a02a3",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=p4Rddwgpy2HDG6&expires=1685799716&ip=GxOsFxqnDS9X&token=peMN4gTv2Wau",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=p4Rddwgpy2HDG6&expires=1685799716&ip=GxOsFxqnDS9X&token=peMN4gTv2Wau"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7jZDz4AwXdtAlpe&expires=1685799716&ip=GxOsFxqnDS9X&token=c0YfMvaZOaw7",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7jZDz4AwXdtAlpe&expires=1685799716&ip=GxOsFxqnDS9X&token=c0YfMvaZOaw7"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=qWVDlY0wZJI16L&expires=1685799716&ip=GxOsFxqnDS9X&token=jaO9uu3fz_ms",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=qWVDlY0wZJI16L&expires=1685799716&ip=GxOsFxqnDS9X&token=jaO9uu3fz_ms"
-                    },
-                    {
-                        "url": "https://voe.sx/qewlax4rnffu",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-vuthnkcnblo4lifz.voe-network.net/engine/hls2/01/09056/yccfpvimlzwo_n/master.m3u8?t=X6lo6JM11lkqtmKE6EnhQ-oEaIy9EISt0r2cUa0xQGU&s=1685729716&e=14400&f=45392308&node=delivery-node-vuthnkcnblo4lifz.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pxBK6LpVv3frd9V&expires=1685799715&ip=GxOsFxqnDS9X&token=hrTM0tcLMQ7G",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=pxBK6LpVv3frd9V&expires=1685799715&ip=GxOsFxqnDS9X&token=hrTM0tcLMQ7G"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Mx2Op33ZQZuGOL&expires=1685799715&ip=GxOsFxqnDS9X&token=7hfK4Zde7Pbl",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Mx2Op33ZQZuGOL&expires=1685799715&ip=GxOsFxqnDS9X&token=7hfK4Zde7Pbl"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Mx2Op33ZQZuGOL&expires=1685799715&ip=GxOsFxqnDS9X&token=7hfK4Zde7Pbl",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Mx2Op33ZQZuGOL&expires=1685799715&ip=GxOsFxqnDS9X&token=7hfK4Zde7Pbl"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Mx2Op33ZQZuGOL&expires=1685799714&ip=GxOsFxqnDS9X&token=uBD2EEJc3fQH",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Mx2Op33ZQZuGOL&expires=1685799714&ip=GxOsFxqnDS9X&token=uBD2EEJc3fQH"
-                    },
-                    {
-                        "url": "https://voe.sx/e/nddgha7whqsk?🎧🇩🇪?1",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-sabr.voe-network.net/engine/hls2/01/09057/jiw7fnhdbczy_n/master.m3u8?t=YAVz9LQ_Q_mpV9iUL2k3wd5FICTi7yqZBuGUhQPyqOw&s=1685729712&e=14400&f=45355837&node=delivery-node-sabr.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=R9D1DKbKQ2Fdw6k&expires=1685799710&ip=GxOsFxqnDS9X&token=XmlM10y2CgDg",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=R9D1DKbKQ2Fdw6k&expires=1685799710&ip=GxOsFxqnDS9X&token=XmlM10y2CgDg"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=qj9owy4kLWsZQO&expires=1685799710&ip=GxOsFxqnDS9X&token=qUlmjH3skhK_",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=qj9owy4kLWsZQO&expires=1685799710&ip=GxOsFxqnDS9X&token=qUlmjH3skhK_"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0A9Pw77MqmtAX3&expires=1685799709&ip=GxOsFxqnDS9X&token=k7cAQZ23nlCw",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0A9Pw77MqmtAX3&expires=1685799709&ip=GxOsFxqnDS9X&token=k7cAQZ23nlCw"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0A9Pw77MqmtAX3&expires=1685799709&ip=GxOsFxqnDS9X&token=k7cAQZ23nlCw",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0A9Pw77MqmtAX3&expires=1685799709&ip=GxOsFxqnDS9X&token=k7cAQZ23nlCw"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0A9Pw77MqmtAX3&expires=1685799709&ip=GxOsFxqnDS9X&token=k7cAQZ23nlCw",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0A9Pw77MqmtAX3&expires=1685799709&ip=GxOsFxqnDS9X&token=k7cAQZ23nlCw"
-                    },
-                    {
-                        "url": "https://voe.sx/e/6j0gqsyzjksr?🎧🇩🇪?1",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-sabr.voe-network.net/engine/hls2/01/09057/jiw7fnhdbczy_n/master.m3u8?t=y9TBE4yDGNwTo1cMYQX9Ecqz_DwXfwDIme_qqbBW89M&s=1685729702&e=14400&f=45285454&node=delivery-node-sabr.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/llueyez2vyfy?🎧🇩🇪?1",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09050/6fiybenenaue_n/master.m3u8?t=GPa9QB1mTm6MlkToIHW4Fo2MrcGpov5IT9-ZmYjfDck&s=1685729701&e=14400&f=45284107&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

@@ -681,17 +681,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "//chainsaw-man-latino",
-                    "title": "Chainsaw Man Latino",
-                    "description": "Denji es un joven pobre que haría cualquier cosa por dinero, incluso perseguir demonios con su perro diabólico Pochita. Es una persona simple, con sueños simples, que se está ahogando en una montaña de deudas. Pero su triste vida da un vuelco cuando le traiciona alguien en quien confía. Ahora, con el poder del demonio dentro, Denji da la bienvenida a un hombre nuevo —¡'Chainsaw Man'!.",
-                    "genre": "Acción, Gore, Sobrenatural",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://static.animeid.tv/art/chainsaw-man-latino/cover/b981dd84.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -713,9 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=Ywpmj66dgQtL6q&expires=1685756512&ip=F0qQKRWQE19XKxR&token=Ag0dRJR-hfob",
+                        "url": "https://streamtape.com/get_video?id=Ywpmj66dgQtL6q&expires=1685778949&ip=F0AsFxgnDS9X&token=V42aEavnk5hb",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Ywpmj66dgQtL6q&expires=1685756512&ip=F0qQKRWQE19XKxR&token=Ag0dRJR-hfob"
+                        "videoUrl": "https://streamtape.com/get_video?id=Ywpmj66dgQtL6q&expires=1685778949&ip=F0AsFxgnDS9X&token=V42aEavnk5hb"
                     }
                 ],
                 "passed": true

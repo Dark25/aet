@@ -115,16 +115,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22180.webp"
                             },
                             {
-                                "url": "/serie/online/euphoria",
-                                "title": "Euphoria",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3851.webp"
-                            },
-                            {
                                 "url": "/serie/online/smallville-as-aventuras-do-superboy",
                                 "title": "Smallville: As Aventuras do Superboy",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3678.webp"
+                            },
+                            {
+                                "url": "/serie/online/euphoria",
+                                "title": "Euphoria",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3851.webp"
                             },
                             {
                                 "url": "/serie/online/friends",
@@ -226,6 +226,18 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/online/o-culto-secreto",
+                                "title": "O Culto Secreto",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22333.webp"
+                            },
+                            {
+                                "url": "/serie/online/agentes-do-fbi",
+                                "title": "Agentes do FBI",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22330.webp"
+                            },
                             {
                                 "url": "/serie/online/mayans-m-c-",
                                 "title": "Mayans M.C.",
@@ -333,18 +345,6 @@
                                 "title": "From",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19632.webp"
-                            },
-                            {
-                                "url": "/serie/online/ncis-investigacao-naval",
-                                "title": "NCIS: Investigação Naval",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4516.webp"
-                            },
-                            {
-                                "url": "/serie/online/gotham-knights",
-                                "title": "Gotham Knights",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22231.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,29 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://mixdrop.to/e/xok4dz1dh0e7dk?sub=https://subs.warezcdn.net/131260-PTB.srt&c1_label=Português",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery47.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=7CBveG7nIDdVOZoPzNSrdw&e=1685689978&_t=1685671727"
-                    },
-                    {
-                        "url": "https://mixdrop.to/e/0v1qnz6oaxxgk9",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery42.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=8py0ULYjZ0SOpa0Rn1G7OQ&e=1685689980&_t=1685675921"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=GklzOZwrPwF1R1q&expires=1685738379&ip=F0AsFxqnDS9X&token=DgBCrl6zmOkv",
-                        "quality": "StreamTape(LEG)",
-                        "videoUrl": "https://streamtape.com/get_video?id=GklzOZwrPwF1R1q&expires=1685738379&ip=F0AsFxqnDS9X&token=DgBCrl6zmOkv"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=rBm78mRgZ8ubpQ1&expires=1685738381&ip=F0AsFxqnDS9X&token=m7t2RXsCE7rE",
-                        "quality": "StreamTape(DUB)",
-                        "videoUrl": "https://streamtape.com/get_video?id=rBm78mRgZ8ubpQ1&expires=1685738381&ip=F0AsFxqnDS9X&token=m7t2RXsCE7rE"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

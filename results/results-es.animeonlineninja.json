@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/jigokuraku-cap-7/",
+                                "title": "Jigokuraku Cap 7",
+                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/05/uO1jm9qnpZaQivdhIL1aqwRxjJD-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/hells-paradise-cap-6/",
+                                "title": "Hell’s Paradise Cap 6",
+                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/05/1Is8K5zejhwAkGovdmKeIM6TEME-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/otonari-ni-ginga-cap-6/",
+                                "title": "Otonari ni Ginga Cap 6",
+                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/05/95SpmT6Ti3wVtIyKELKfHDkmA64-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/isekai-shoukan-wa-nidome-desu-cap-9/",
                                 "title": "Isekai Shoukan wa Nidome desu Cap 9",
                                 "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/06/uGnxx0DkWh6vnqEp14tYlfmdEw8-300x170.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/episodio/birdie-wing-golf-girls-story-2-cap-9/",
                                 "title": "Birdie Wing: Golf Girls’ Story 2 Cap 9",
                                 "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/06/tsqpyzqpm4rh-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/sket-dance-cap-31/",
-                                "title": "Sket Dance Cap 31",
-                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2022/12/yVLADVU7YnDK9bcJPKAEEOB6Hrk-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/tensei-shitara-slime-datta-ken-2nd-season-cap-0/",
-                                "title": "Tensei shitara Slime Datta Ken 2nd Season Cap 0",
-                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2021/01/descarga-13-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/eyeshield-21-cap-32/",
-                                "title": "Eyeshield 21 Cap 32",
-                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2022/04/t5CFkYmssus8kNmSbA43LVgM4ro-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -509,8 +509,78 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_n/index-v1-a1.m3u8?t=adBEfjlbXfqlpfV-HfiUH2FszTPvRRA5F4SZDCKLuRw&s=1685833387&e=10800&f=17216130&srv=sto054&client=20.171.49.48&asn=8075",
+                        "quality": "SUB StreamSB:720p ",
+                        "videoUrl": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_n/index-v1-a1.m3u8?t=adBEfjlbXfqlpfV-HfiUH2FszTPvRRA5F4SZDCKLuRw&s=1685833387&e=10800&f=17216130&srv=sto054&client=20.171.49.48&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/0xjh3h5uubjm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery30.mxdcontent.net/v/c3e178fcb8f46d5cbf46feca0cba5852.mp4?s=44GMcu3NfyuXqQAkmUS8Xg&e=1685854994&_t=1685833774",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery30.mxdcontent.net/v/c3e178fcb8f46d5cbf46feca0cba5852.mp4?s=44GMcu3NfyuXqQAkmUS8Xg&e=1685854994&_t=1685833774",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8OP4ZZGMO1toKgV&expires=1685903393&ip=FROsD0ESKxSHDN&token=1DKSGIgEXjJp",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=8OP4ZZGMO1toKgV&expires=1685903393&ip=FROsD0ESKxSHDN&token=1DKSGIgEXjJp"
+                    },
+                    {
+                        "url": "https://s-delivery38.mxdcontent.net/v/bfbef815a56b420bf580cebe147c6909.mp4?s=RZXjaf0Q9OqEDC_lBBK3ww&e=1685854991&_t=1685840723",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery38.mxdcontent.net/v/bfbef815a56b420bf580cebe147c6909.mp4?s=RZXjaf0Q9OqEDC_lBBK3ww&e=1685854991&_t=1685840723",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://m40.uqload.co/3rfk2mphj5w2q4drdlypn4nldjithb77d5fx6r2cknnmxkk4lhlrnedovdja/v.mp4",
+                        "quality": "SUB Uqload",
+                        "videoUrl": "https://m40.uqload.co/3rfk2mphj5w2q4drdlypn4nldjithb77d5fx6r2cknnmxkk4lhlrnedovdja/v.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://www1.animeonline.ninja"
+                        }
+                    },
+                    {
+                        "url": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_l/index-v1-a1.m3u8?t=adBEfjlbXfqlpfV-HfiUH2FszTPvRRA5F4SZDCKLuRw&s=1685833387&e=10800&f=17216130&srv=sto054&client=20.171.49.48&asn=8075",
+                        "quality": "SUB StreamSB:360p ",
+                        "videoUrl": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_l/index-v1-a1.m3u8?t=adBEfjlbXfqlpfV-HfiUH2FszTPvRRA5F4SZDCKLuRw&s=1685833387&e=10800&f=17216130&srv=sto054&client=20.171.49.48&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/0xjh3h5uubjm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=zb2QQz70bkuYDR2&expires=1685903386&ip=FROsD0ESKxSHDN&token=2yclBnpEJE0G",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zb2QQz70bkuYDR2&expires=1685903386&ip=FROsD0ESKxSHDN&token=2yclBnpEJE0G"
+                    }
+                ],
+                "passed": true
             }
         }
     }

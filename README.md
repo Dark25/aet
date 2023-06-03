@@ -1,6 +1,6 @@
 ## Extension status
 
-### 102/162(63%) are working
+### 101/162(62%) are working
 
 | Extension            |   Status   | Log                                                                                                                                         |
 | :------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -94,7 +94,7 @@
 | es.animeflv          |     ✅      | [results-es.animeflv.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animeflv.json)                   |
 | es.animeid           |     ✅      | [results-es.animeid.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animeid.json)                     |
 | es.animelatinohd     |  ❌<br>5/6  | [results-es.animelatinohd.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animelatinohd.json)         |
-| es.animeonlineninja  |     ✅      | [results-es.animeonlineninja.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animeonlineninja.json)   |
+| es.animeonlineninja  |  ❌<br>5/6  | [results-es.animeonlineninja.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animeonlineninja.json)   |
 | es.animeyt           |     ✅      | [results-es.animeyt.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animeyt.json)                     |
 | es.asialiveaction    |  ❌<br>5/6  | [results-es.asialiveaction.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.asialiveaction.json)       |
 | es.cuevana           |  ❌<br>4/5  | [results-es.cuevana.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.cuevana.json)                     |

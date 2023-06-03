@@ -354,25 +354,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://sevage-oudps-9.vmeas.cloud/hls/xqx2pvzhnvokjiqbtf4cjpqxw5umt67vi7xrauqrxmc6h7c4w4ylxe3u6xka/index-v1-a1.m3u8",
-                        "quality": "Dublado HDCAM - 720p",
-                        "videoUrl": "https://sevage-oudps-9.vmeas.cloud/hls/xqx2pvzhnvokjiqbtf4cjpqxw5umt67vi7xrauqrxmc6h7c4w4ylxe3u6xka/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    },
-                    {
-                        "url": "https://sevage-oudps-9.vmeas.cloud/hls/xqx2pvzhnvokjiqbtf4cjpqxw5umt67vi7xrauqrxfq6h7c4w4ybcxildqva/index-v1-a1.m3u8",
-                        "quality": "Dublado HDCAM - 480p",
-                        "videoUrl": "https://sevage-oudps-9.vmeas.cloud/hls/xqx2pvzhnvokjiqbtf4cjpqxw5umt67vi7xrauqrxfq6h7c4w4ybcxildqva/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

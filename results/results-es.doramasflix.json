@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/a-date-with-the-future?id=647a8f5611807c00567a1e92",
+                                "title": "A Date With the Future (Una Cita con el Futuro)",
+                                "description": "Desde una operación de rescate hace diez años hasta su encuentro diez años después, el bombero Jin Shi Chuan y Xu Lai, que ahora es periodista y entrenadora de perros, se convierten en socios.\n\nHace diez años, Xu Lai fue rescatado por el bombero Jin Shi Chuan y su perro de rescate Zhui Feng. Para consolar a Xu Lai herido, Jin Shi Chuan acepta una promesa de diez años. Diez años después, Xu Lai regresa a China como Periodista y entrenadora de perros, conoce a Jin Shi Chuan en un lugar de rescate, quien no solo no la reconoce, sino que la confunde con una reportera sin escrúpulos.\n\nCuando se forma el equipo de perros de búsqueda y rescate, Xu Lai se convierte en el socio de Jin Shi Chuan debido a sus calificaciones internacionales como entrenadora de perros. Ella se gana a todos con sus habilidades comprobadas. Como reporteros y bomberos, las dos personas siempre se encuentran en el En repetidos encuentros de vida o muerte, gradualmente se enamoran.",
+                                "genre": "Drama, Romance, Comedia, Aventura",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/43ONWlcpG0qU4bzG79FlBe60o19.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/the-days?id=6479752911807c005679dd78",
                                 "title": "The Days (Los Días)",
                                 "description": "Representa el accidente de la planta de energía nuclear de Fukushima Daiichi que ocurrió en 2011 durante un período de 7 días. Desde las tres perspectivas del gobierno, las organizaciones corporativas y aquellos que arriesgan sus vidas. Se abordará lo que realmente sucedió en ese día y en ese lugar.",
@@ -456,13 +463,6 @@
                                 "description": "En el salón de bodas, conoce a Seung Jun, que trabaja a tiempo parcial para una canción de felicitación, y a Jae Yeon, que trabaja a tiempo parcial como anfitrión, con una frecuencia extraña. Habla demasiado y está cansado, pero su rostro es su gusto... ¡¿Realmente puede alejarse de este hombre?!",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/gBCookhyo0hPUaTi3GWk4EVOO08.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/murai-in-love?id=6448afcc3823801f7bc6e543",
-                                "title": "Murai in Love (Murai enamorado)",
-                                "description": "Murai es un joven estudiante de secundaria introvertido con una mirada que nadie nota. Cabello largo, andar curvo, no es realmente lo que uno podría llamar un canon de belleza, ni siquiera una persona en la que quieras detenerte... Se confiesa tímidamente a la chica que ama, la bella y chispeante Tanaka, una otaku empedernida que solo tiene ojos para los personajes de sus juegos. Sin embargo, ella simplemente rechaza sus sentimientos...",
-                                "genre": "Drama, Romance, Comedia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ms4MBEMn3ybaa95bXgPIeb7j4ev.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

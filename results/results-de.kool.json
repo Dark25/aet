@@ -262,6 +262,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/5gHz7xYjrFmyzBOrxsU81PfwQrz.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=1121316&type=movie",
+                                "title": "El último vagón",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/31IB4VXpan7JrQYnnr7g75YqOu8.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=736790&type=movie",
                                 "title": "Chupa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/rbb6owpjng1RyrGQZ4EIPgpZV2N.jpg"
@@ -407,11 +412,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/zHyfyixGqsoFyQdusnowbwFsTDE.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=876792&type=movie",
-                                "title": "Meine Wiedergeburt als Schleim in einer anderen Welt – Der Film: Feuerrote Bande",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/z1n7Y1gJqvbjueTH9wUYYuDArXN.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=1033219&type=movie",
                                 "title": "Alien Space Battle",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/wHuLTeNUNnWlxuEoiAUBaWEz0ek.jpg"
@@ -500,6 +500,11 @@
                                 "url": "/data/watch/?_id=1085103&type=movie",
                                 "title": "Clock",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=579884&type=movie",
+                                "title": "Суворов: Великое путешествие",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/aGz7lEXj4yZnBydthjBgTotsn1q.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=455476&type=movie",
@@ -602,11 +607,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/AjXzHBNlmCXZnvpONbUhGtgiUiA.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=1103510&type=movie",
-                                "title": "Rooming With Danger",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/uBD5yDyNOzLPiNvFNwQ1cBKZZJa.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=643215&type=movie",
                                 "title": "Asterix & Obelix im Reich der Mitte",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/5CYL3N0PiEdWFGpSSIRr5mZtWPS.jpg"
@@ -621,6 +621,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=507086&type=movie",
+                                "title": "Jurassic World - Ein neues Zeitalter",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lYfWPFEIXdtDuTh5jKfkxptN0eF.jpg"
+                            },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=755812&type=movie",
                                 "title": "Miraculous World: New York, United Heroez",
@@ -659,11 +664,6 @@
                                 "url": "https://www.kool.to/data/watch/?_id=327281&type=movie",
                                 "title": "World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7hVcyyRQfxeTAa1uvOkKFyPr3l8.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=604605&type=movie",
-                                "title": "Hello World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -692,8 +692,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/8f7ts006p9p5",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-vuthnkcnblo4lifz.voe-network.net/engine/hls2/01/08869/8f7ts006p9p5_n/master.m3u8?t=cCYr0Zc3OCwDwdotPD4MM2YJtLuNy8zO-3r-90BWGY8&s=1685857342&e=14400&f=44347013&node=delivery-node-vuthnkcnblo4lifz.voe-network.net&i=40.84&sp=3500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/vucykukqw28k",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/09057/vucykukqw28k_n/master.m3u8?t=qq9MYBV4Wvc04CdJW7TvxDSAPGxMVXlUVG2hfxy1Llw&s=1685857341&e=14400&f=45285417&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=40.84&sp=3500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/yqlye495e6bb",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08869/yqlye495e6bb_n/master.m3u8?t=oexU9GkRX8XYHxIAmaGez6KAUmeEM-EUkj8CUUtRoQk&s=1685857341&e=14400&f=44347036&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=40.84&sp=3500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/gwzggaef3mrk",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-nfqz3bu1ar88sxrw.voe-network.net/engine/hls2/01/09057/gwzggaef3mrk_n/master.m3u8?t=2rMrmL6IJKdL1t3z6HfOmJ-DZ5rwhw0FzO8uwekXV74&s=1685857340&e=14400&f=45285428&node=delivery-node-nfqz3bu1ar88sxrw.voe-network.net&i=40.84&sp=3500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

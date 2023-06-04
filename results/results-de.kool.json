@@ -262,11 +262,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/5gHz7xYjrFmyzBOrxsU81PfwQrz.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=1121316&type=movie",
-                                "title": "El último vagón",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/31IB4VXpan7JrQYnnr7g75YqOu8.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=736790&type=movie",
                                 "title": "Chupa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/rbb6owpjng1RyrGQZ4EIPgpZV2N.jpg"
@@ -562,6 +557,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/v5CfpzxoJDkZxjZAizClFdlEF0U.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=868985&type=movie",
+                                "title": "¡Que Viva México!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ieyUpr5ES9QEz1cn4clCnBf9XJl.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=67308&type=movie",
                                 "title": "Sex und Zen: Extreme Ecstasy",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/mmvFokJgpFmNt522Hfpq3Zfs2Ra.jpg"
@@ -622,11 +622,6 @@
                     {
                         "animes": [
                             {
-                                "url": "https://www.kool.to/data/watch/?_id=507086&type=movie",
-                                "title": "Jurassic World - Ein neues Zeitalter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lYfWPFEIXdtDuTh5jKfkxptN0eF.jpg"
-                            },
-                            {
                                 "url": "https://www.kool.to/data/watch/?_id=755812&type=movie",
                                 "title": "Miraculous World: New York, United Heroez",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/4LrFeFXwktxiaLBsf4cMnhFRL4c.jpg"
@@ -664,6 +659,11 @@
                                 "url": "https://www.kool.to/data/watch/?_id=327281&type=movie",
                                 "title": "World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7hVcyyRQfxeTAa1uvOkKFyPr3l8.jpg"
+                            },
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=604605&type=movie",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -692,29 +692,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/8f7ts006p9p5",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-vuthnkcnblo4lifz.voe-network.net/engine/hls2/01/08869/8f7ts006p9p5_n/master.m3u8?t=cCYr0Zc3OCwDwdotPD4MM2YJtLuNy8zO-3r-90BWGY8&s=1685857342&e=14400&f=44347013&node=delivery-node-vuthnkcnblo4lifz.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/vucykukqw28k",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/09057/vucykukqw28k_n/master.m3u8?t=qq9MYBV4Wvc04CdJW7TvxDSAPGxMVXlUVG2hfxy1Llw&s=1685857341&e=14400&f=45285417&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/yqlye495e6bb",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08869/yqlye495e6bb_n/master.m3u8?t=oexU9GkRX8XYHxIAmaGez6KAUmeEM-EUkj8CUUtRoQk&s=1685857341&e=14400&f=44347036&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/gwzggaef3mrk",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-nfqz3bu1ar88sxrw.voe-network.net/engine/hls2/01/09057/gwzggaef3mrk_n/master.m3u8?t=2rMrmL6IJKdL1t3z6HfOmJ-DZ5rwhw0FzO8uwekXV74&s=1685857340&e=14400&f=45285428&node=delivery-node-nfqz3bu1ar88sxrw.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

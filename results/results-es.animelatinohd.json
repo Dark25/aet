@@ -307,67 +307,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/oshi-no-ko",
-                    "title": "\"Oshi no Ko\"",
-                    "description": "La chica de 16 años, Ai Hoshino, es una talentosa y hermosa idol que es adorada por sus fanáticos. Ella es la personificación de la pureza, pero no todo lo que brilla es oro… Gorou Honda es un ginecólogo de una zona rural y gran fanático de Ai. Entonces, cuando la idol embarazada se presenta en su hospital, está más que desconcertado. Gorou le promete un parto seguro, pero poco sabe él que un encuentro con una misteriosa figura resultaría en su muerte prematura, o eso pensaba. Al abrir sus ojos, Gorou se encuentra en el regazo de su amada idol y descubre que ha renacido como Aquamarine Hoshino, ¡el hijo recién nacido de Ai! Con su mundo vuelto al revés, Gorou pronto descubre que el mundo del espectáculo está lleno de espinas, y que el talento no siempre genera éxito. ¿Podrá proteger la sonrisa de su amada idol?",
-                    "genre": "drama, seinen, sobrenatural",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/oshi-no-ko/7.0",
-                        "name": "Episodio 7.0",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/ver/oshi-no-ko/6.0",
-                        "name": "Episodio 6.0",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/03877/qrnlpqiouvev_x/index-v1-a1.m3u8?t=pX0Ox-5S7VX_sXs4861ylDgvvFC36KZO5oQNlikVOZM&s=1685881445&e=43200&f=19385200&srv=19&asn=8075&sp=2500",
-                        "quality": "[Sub]  Filemoon:720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/03877/qrnlpqiouvev_x/index-v1-a1.m3u8?t=pX0Ox-5S7VX_sXs4861ylDgvvFC36KZO5oQNlikVOZM&s=1685881445&e=43200&f=19385200&srv=19&asn=8075&sp=2500"
-                    },
-                    {
-                        "url": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=3&sig=KANP2eGJVu8&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039",
-                        "quality": "[Sub]  Okru:720p",
-                        "videoUrl": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=3&sig=KANP2eGJVu8&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039"
-                    },
-                    {
-                        "url": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=2&sig=T_BhggLHqxg&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039",
-                        "quality": "[Sub]  Okru:480p",
-                        "videoUrl": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=2&sig=T_BhggLHqxg&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039"
-                    },
-                    {
-                        "url": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=1&sig=10CQf3oNCX4&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039",
-                        "quality": "[Sub]  Okru:360p",
-                        "videoUrl": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=1&sig=10CQf3oNCX4&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039"
-                    },
-                    {
-                        "url": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=0&sig=BhMirFT-6mM&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039",
-                        "quality": "[Sub]  Okru:240p",
-                        "videoUrl": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=0&sig=BhMirFT-6mM&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039"
-                    },
-                    {
-                        "url": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=4&sig=zCmDOWnZbWE&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039",
-                        "quality": "[Sub]  Okru:144p",
-                        "videoUrl": "https://vd412.mycdn.me/?expires=1685967847509&srcIp=104.45.200.49&pr=10&srcAg=CHROME&ms=45.136.20.49&type=4&sig=zCmDOWnZbWE&ct=0&urls=185.226.53.29&clientType=0&zs=43&id=4814292585039"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

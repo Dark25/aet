@@ -286,8 +286,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=AAzmV287B6cXKYL&expires=1686145352&ip=F0OSKRqOKxSHDN&token=u9eFGBj3GcaF",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=AAzmV287B6cXKYL&expires=1686145352&ip=F0OSKRqOKxSHDN&token=u9eFGBj3GcaF"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -577,7 +583,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to slwatch.co/34.197.187.88:443",
+                "error": "java.net.ConnectException: Failed to connect to slwatch.co/34.232.246.44:443",
                 "passed": false
             }
         }

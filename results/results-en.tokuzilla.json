@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/kamen-rider-kiva-final-stage.html",
-                                "title": "Kamen Rider Kiva Final Stage",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-final-stage-thumb.png"
-                            },
-                            {
                                 "url": "/watch/voltes-v-legacy.html",
                                 "title": "Voltes V: Legacy",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kiva-final-stage.html",
+                                "title": "Kamen Rider Kiva Final Stage",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-final-stage-thumb.png"
                             },
                             {
                                 "url": "/watch/ohsama-sentai-king-ohger-the-secrets-of-king-racules.html",
@@ -144,12 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-kiva-final-stage.html",
-                    "author": "Year 2009",
-                    "description": "Kamen Rider Kiva: Final Stage is the final stage show of Kamen Rider Kiva. Don’t miss this masterpiece created by Coen brother Spielberg. A glorious chase of the girl who vowed vengeance. A masterpiece of action drama.",
-                    "genre": "Kamen Rider",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/watch/voltes-v-legacy.html",
+                    "author": "Year 2023",
+                    "description": "Voltes V: Legacy is a 2023 Philippine science fantasy television series broadcast by GMA Network. The series is based on the Japanese anime television series Chōdenji Machine Voltes V by Toei Animation and Sunrise.",
+                    "genre": "Other",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -157,9 +157,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-kiva-final-stage.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/voltes-v-legacy.html?ep=21#watch",
+                        "name": "Episode 21",
+                        "episode_number": 21.0
+                    },
+                    {
+                        "url": "/watch/voltes-v-legacy.html?ep=20#watch",
+                        "name": "Episode 20",
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
@@ -167,9 +172,39 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls26-eu.zcdn.stream/ecd15bd4b37c09c612025b967acb912e/2023-06-05/<b>Fatal error</b>:  Uncaught Error: Class 'IT\\AltoRouter' not found in /www/wwwroot/storage/index.php:6",
-                        "quality": "<br />p",
-                        "videoUrl": "https://hls26-eu.zcdn.stream/ecd15bd4b37c09c612025b967acb912e/2023-06-05/<b>Fatal error</b>:  Uncaught Error: Class 'IT\\AltoRouter' not found in /www/wwwroot/storage/index.php:6",
+                        "url": "https://hls26-eu.zcdn.stream/9ddb602fde6b9a43ea5a91d7bc268fd3/2023-06-06/1080.m3u8?token=c4f90e195d922b9fd78e1ebc53f3ce34&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686129157&type=edge&node=ACFEQK2ja0LicpCwcc7IizLveToggojqQuSFmwO4kLg_53GLNqYcl0J3Z1IuvfMZqcBXwaSmUJJQGrSOaNf5-UUkc-YEniDwTO_YiJG9jwOodqdV9SKeONYQ-GR04EWUNVyfKEi7hXkcjX0kPhOD6WtNpRG9CZgl7iWokXC2BxN5nRu4-ssc4wCioDtHt2UY-KrDJioGzPLpJKn-TW325RGIIQqRD627r6IGALblxO67Ti11EiKY7E7vFkTQQdDjTqzW3GIowX2fho2uJBB-iFIax60OMTJxp838QQoeRAcwzkC2xP5m6mwaOoaiDDi35-GuDgko2evyrm-jD8XHYA",
+                        "quality": "1080p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/9ddb602fde6b9a43ea5a91d7bc268fd3/2023-06-06/1080.m3u8?token=c4f90e195d922b9fd78e1ebc53f3ce34&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686129157&type=edge&node=ACFEQK2ja0LicpCwcc7IizLveToggojqQuSFmwO4kLg_53GLNqYcl0J3Z1IuvfMZqcBXwaSmUJJQGrSOaNf5-UUkc-YEniDwTO_YiJG9jwOodqdV9SKeONYQ-GR04EWUNVyfKEi7hXkcjX0kPhOD6WtNpRG9CZgl7iWokXC2BxN5nRu4-ssc4wCioDtHt2UY-KrDJioGzPLpJKn-TW325RGIIQqRD627r6IGALblxO67Ti11EiKY7E7vFkTQQdDjTqzW3GIowX2fho2uJBB-iFIax60OMTJxp838QQoeRAcwzkC2xP5m6mwaOoaiDDi35-GuDgko2evyrm-jD8XHYA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls26-eu.zcdn.stream/9ddb602fde6b9a43ea5a91d7bc268fd3/2023-06-06/720.m3u8?token=c4f90e195d922b9fd78e1ebc53f3ce34&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686129157&type=edge&node=ACFEQK2ja0LicpCwcc7IizLveToggojqQuSFmwO4kLg_53GLNqYcl0J3Z1IuvfMZqcBXwaSmUJJQGrSOaNf5-UUkc-YEniDwTO_YiJG9jwOodqdV9SKeONYQ-GR04EWUNVyfKEi7hXkcjX0kPhOD6WtNpRG9CZgl7iWokXC2BxN5nRu4-ssc4wCioDtHt2UY-KrDJioGzPLpJKn-TW325RGIIQqRD627r6IGALblxO67Ti11EiKY7E7vFkTQQdDjTqzW3GIowX2fho2uJBB-iFIax60OMTJxp838QQoeRAcwzkC2xP5m6mwaOoaiDDi35-GuDgko2evyrm-jD8XHYA",
+                        "quality": "720p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/9ddb602fde6b9a43ea5a91d7bc268fd3/2023-06-06/720.m3u8?token=c4f90e195d922b9fd78e1ebc53f3ce34&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686129157&type=edge&node=ACFEQK2ja0LicpCwcc7IizLveToggojqQuSFmwO4kLg_53GLNqYcl0J3Z1IuvfMZqcBXwaSmUJJQGrSOaNf5-UUkc-YEniDwTO_YiJG9jwOodqdV9SKeONYQ-GR04EWUNVyfKEi7hXkcjX0kPhOD6WtNpRG9CZgl7iWokXC2BxN5nRu4-ssc4wCioDtHt2UY-KrDJioGzPLpJKn-TW325RGIIQqRD627r6IGALblxO67Ti11EiKY7E7vFkTQQdDjTqzW3GIowX2fho2uJBB-iFIax60OMTJxp838QQoeRAcwzkC2xP5m6mwaOoaiDDi35-GuDgko2evyrm-jD8XHYA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls26-eu.zcdn.stream/9ddb602fde6b9a43ea5a91d7bc268fd3/2023-06-06/360.m3u8?token=c4f90e195d922b9fd78e1ebc53f3ce34&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686129157&type=edge&node=ACFEQK2ja0LicpCwcc7IizLveToggojqQuSFmwO4kLg_53GLNqYcl0J3Z1IuvfMZqcBXwaSmUJJQGrSOaNf5-UUkc-YEniDwTO_YiJG9jwOodqdV9SKeONYQ-GR04EWUNVyfKEi7hXkcjX0kPhOD6WtNpRG9CZgl7iWokXC2BxN5nRu4-ssc4wCioDtHt2UY-KrDJioGzPLpJKn-TW325RGIIQqRD627r6IGALblxO67Ti11EiKY7E7vFkTQQdDjTqzW3GIowX2fho2uJBB-iFIax60OMTJxp838QQoeRAcwzkC2xP5m6mwaOoaiDDi35-GuDgko2evyrm-jD8XHYA",
+                        "quality": "360p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/9ddb602fde6b9a43ea5a91d7bc268fd3/2023-06-06/360.m3u8?token=c4f90e195d922b9fd78e1ebc53f3ce34&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686129157&type=edge&node=ACFEQK2ja0LicpCwcc7IizLveToggojqQuSFmwO4kLg_53GLNqYcl0J3Z1IuvfMZqcBXwaSmUJJQGrSOaNf5-UUkc-YEniDwTO_YiJG9jwOodqdV9SKeONYQ-GR04EWUNVyfKEi7hXkcjX0kPhOD6WtNpRG9CZgl7iWokXC2BxN5nRu4-ssc4wCioDtHt2UY-KrDJioGzPLpJKn-TW325RGIIQqRD627r6IGALblxO67Ti11EiKY7E7vFkTQQdDjTqzW3GIowX2fho2uJBB-iFIax60OMTJxp838QQoeRAcwzkC2xP5m6mwaOoaiDDi35-GuDgko2evyrm-jD8XHYA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "Accept": "*/*",

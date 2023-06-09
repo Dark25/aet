@@ -1,0 +1,27 @@
+[
+    {
+        "name": "GoogleDriveIndex",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
+            },
+            "search": {
+                "error": "kotlinx.serialization.MissingFieldException: Field 'files' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.all.googledriveindex.ResponseData.DataObject', but it was missing at path: $.data",
+                "passed": false
+            },
+            "details": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "episodes": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ?a=vie...",
+                "passed": false
+            }
+        }
+    }
+]

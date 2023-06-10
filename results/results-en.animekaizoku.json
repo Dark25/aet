@@ -1,0 +1,30 @@
+[
+    {
+        "name": "AnimeKaizoku",
+        "results": {
+            "popular": {
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for /dr-st...",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for dr-sto...",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]

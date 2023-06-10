@@ -1,0 +1,31 @@
+[
+    {
+        "name": "AnimeUnity",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "search": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "details": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]

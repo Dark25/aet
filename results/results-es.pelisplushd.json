@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/love-me",
+                                "title": "Love Me (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg"
+                            },
+                            {
+                                "url": "/serie/the-crowded-room",
+                                "title": "The Crowded Room (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg"
+                            },
+                            {
                                 "url": "/serie/isla-brava",
                                 "title": "Isla Brava (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5j1NL8512boOikoOUxG90A12HUv.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/la-actriz-asesina",
                                 "title": "La actriz asesina (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/lGCRmarJcQyjizd1la4w8q5UOVN.jpg"
-                            },
-                            {
-                                "url": "/serie/perfil-falso",
-                                "title": "Perfil falso (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/luF32PEmbBaLK86qtW2l9uQPvSd.jpg"
-                            },
-                            {
-                                "url": "/serie/somebody-somewhere",
-                                "title": "Somebody Somewhere (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1GkoExnlnyTcyGWIoHA4YG8mysc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/isla-brava",
-                    "title": "Isla Brava (2023)",
-                    "description": "cuenta una historia de misterio, amor prohibido y venganza. La misma noche que Lucía (Fernanda Castillo) decide confesarle a su esposo Alfredo (Flavio Medina), dueño de un lujoso resort, que está enamorada de su hermano menor Bruno (Erik Hayser), Alfredo desaparece misteriosamente sin dejar rastro..",
-                    "genre": "Misterio",
+                    "url": "/serie/love-me",
+                    "title": "Love Me (2021)",
+                    "description": "Los Mathieson, Clara (30), Glen (60) y Aaron (20), se encuentran en una encrucijada emocional luego de un evento inesperado que cambia sus vidas para siempre..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5j1NL8512boOikoOUxG90A12HUv.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/isla-brava/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/love-me/temporada/2/capitulo/6",
+                        "name": "T2 - E6: Episodio 6",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/serie/isla-brava/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/love-me/temporada/2/capitulo/5",
+                        "name": "T2 - E5: Episodio 5",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery254.akamai-video-content.com/hls2/01/13042/pbias8z81gw8_n/index-v1-a1.m3u8?t=wu6OFs-oayy7DGY9riy2hECmYId77RvXvkqOq5_mxxA&s=1686486138&e=10800&f=65214776&srv=sto238&client=13.66.10.112&asn=8075",
+                        "url": "https://delivery251.akamai-video-content.com/hls2/01/13066/tiqg930ra5na_n/index-v1-a1.m3u8?t=E1O7cuTAMZaTcWGrIKSqxVw47Wn9Fg7VRwJCd7xec6o&s=1686507284&e=10800&f=65333144&srv=sto075&client=40.77.93.1&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery254.akamai-video-content.com/hls2/01/13042/pbias8z81gw8_n/index-v1-a1.m3u8?t=wu6OFs-oayy7DGY9riy2hECmYId77RvXvkqOq5_mxxA&s=1686486138&e=10800&f=65214776&srv=sto238&client=13.66.10.112&asn=8075",
+                        "videoUrl": "https://delivery251.akamai-video-content.com/hls2/01/13066/tiqg930ra5na_n/index-v1-a1.m3u8?t=E1O7cuTAMZaTcWGrIKSqxVw47Wn9Fg7VRwJCd7xec6o&s=1686507284&e=10800&f=65333144&srv=sto075&client=40.77.93.1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/pbias8z81gw8?",
+                            "referer": "https://lvturbo.com/e/tiqg930ra5na?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery254.akamai-video-content.com/hls2/01/13042/pbias8z81gw8_l/index-v1-a1.m3u8?t=wu6OFs-oayy7DGY9riy2hECmYId77RvXvkqOq5_mxxA&s=1686486138&e=10800&f=65214776&srv=sto238&client=13.66.10.112&asn=8075",
+                        "url": "https://delivery251.akamai-video-content.com/hls2/01/13066/tiqg930ra5na_l/index-v1-a1.m3u8?t=E1O7cuTAMZaTcWGrIKSqxVw47Wn9Fg7VRwJCd7xec6o&s=1686507284&e=10800&f=65333144&srv=sto075&client=40.77.93.1&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery254.akamai-video-content.com/hls2/01/13042/pbias8z81gw8_l/index-v1-a1.m3u8?t=wu6OFs-oayy7DGY9riy2hECmYId77RvXvkqOq5_mxxA&s=1686486138&e=10800&f=65214776&srv=sto238&client=13.66.10.112&asn=8075",
+                        "videoUrl": "https://delivery251.akamai-video-content.com/hls2/01/13066/tiqg930ra5na_l/index-v1-a1.m3u8?t=E1O7cuTAMZaTcWGrIKSqxVw47Wn9Fg7VRwJCd7xec6o&s=1686507284&e=10800&f=65333144&srv=sto075&client=40.77.93.1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/pbias8z81gw8?",
+                            "referer": "https://lvturbo.com/e/tiqg930ra5na?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ldLd6d6R6YS7k97&expires=1686556140&ip=F0AsERInDS9X&token=Lg1MkIbLzu4o",
+                        "url": "https://streamtape.com/get_video?id=4P03WlepXeuKQ4j&expires=1686577293&ip=GxOsEHEnDS9X&token=W0WvdyF1fc6X",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ldLd6d6R6YS7k97&expires=1686556140&ip=F0AsERInDS9X&token=Lg1MkIbLzu4o"
+                        "videoUrl": "https://streamtape.com/get_video?id=4P03WlepXeuKQ4j&expires=1686577293&ip=GxOsEHEnDS9X&token=W0WvdyF1fc6X"
                     }
                 ],
                 "passed": true
@@ -612,9 +612,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery588.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_n/index-v1-a1.m3u8?t=KE_8sp1C8obIiALnvXVuPcvNS1pYIUsFs_Ecqt2TOSQ&s=1686486144&e=10800&f=65280168&srv=sto265&client=13.66.10.112&asn=8075",
+                        "url": "https://delivery401.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_n/index-v1-a1.m3u8?t=x3MJemlFhgowgDKttVXxylupoDBJP0SfC6SqztGhCBI&s=1686507297&e=10800&f=65280168&srv=sto265&client=40.77.93.1&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery588.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_n/index-v1-a1.m3u8?t=KE_8sp1C8obIiALnvXVuPcvNS1pYIUsFs_Ecqt2TOSQ&s=1686486144&e=10800&f=65280168&srv=sto265&client=13.66.10.112&asn=8075",
+                        "videoUrl": "https://delivery401.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_n/index-v1-a1.m3u8?t=x3MJemlFhgowgDKttVXxylupoDBJP0SfC6SqztGhCBI&s=1686507297&e=10800&f=65280168&srv=sto265&client=40.77.93.1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://watchsb.com/e/482i2yc5i0cw",
@@ -623,9 +623,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery588.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_l/index-v1-a1.m3u8?t=KE_8sp1C8obIiALnvXVuPcvNS1pYIUsFs_Ecqt2TOSQ&s=1686486144&e=10800&f=65280168&srv=sto265&client=13.66.10.112&asn=8075",
+                        "url": "https://delivery401.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_l/index-v1-a1.m3u8?t=x3MJemlFhgowgDKttVXxylupoDBJP0SfC6SqztGhCBI&s=1686507297&e=10800&f=65280168&srv=sto265&client=40.77.93.1&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery588.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_l/index-v1-a1.m3u8?t=KE_8sp1C8obIiALnvXVuPcvNS1pYIUsFs_Ecqt2TOSQ&s=1686486144&e=10800&f=65280168&srv=sto265&client=13.66.10.112&asn=8075",
+                        "videoUrl": "https://delivery401.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_l/index-v1-a1.m3u8?t=x3MJemlFhgowgDKttVXxylupoDBJP0SfC6SqztGhCBI&s=1686507297&e=10800&f=65280168&srv=sto265&client=40.77.93.1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://watchsb.com/e/482i2yc5i0cw",
@@ -634,9 +634,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery588.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_h/index-v1-a1.m3u8?t=KE_8sp1C8obIiALnvXVuPcvNS1pYIUsFs_Ecqt2TOSQ&s=1686486144&e=10800&f=65280168&srv=sto265&client=13.66.10.112&asn=8075",
+                        "url": "https://delivery401.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_h/index-v1-a1.m3u8?t=x3MJemlFhgowgDKttVXxylupoDBJP0SfC6SqztGhCBI&s=1686507297&e=10800&f=65280168&srv=sto265&client=40.77.93.1&asn=8075",
                         "quality": "StreamSB:1080p",
-                        "videoUrl": "https://delivery588.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_h/index-v1-a1.m3u8?t=KE_8sp1C8obIiALnvXVuPcvNS1pYIUsFs_Ecqt2TOSQ&s=1686486144&e=10800&f=65280168&srv=sto265&client=13.66.10.112&asn=8075",
+                        "videoUrl": "https://delivery401.akamai-video-content.com/hls2/01/13056/482i2yc5i0cw_h/index-v1-a1.m3u8?t=x3MJemlFhgowgDKttVXxylupoDBJP0SfC6SqztGhCBI&s=1686507297&e=10800&f=65280168&srv=sto265&client=40.77.93.1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://watchsb.com/e/482i2yc5i0cw",

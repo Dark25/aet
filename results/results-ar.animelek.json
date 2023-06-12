@@ -3,59 +3,8 @@
         "name": "AnimeLek",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/one-piece-slider-animelek.jpg"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen/",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Kimetsu_no_Yaiba.jpeg"
-                            },
-                            {
-                                "url": "/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta/",
-                                "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/isekai-de-cheat-skill.jpg"
-                            },
-                            {
-                                "url": "/anime/dead-mount-death-play/",
-                                "title": "Dead Mount Death Play",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/dead-mount-death-play.jpg"
-                            },
-                            {
-                                "url": "/anime/dr-stone-new-world/",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Dr_Stone.jpg"
-                            },
-                            {
-                                "url": "/anime/jigokuraku/",
-                                "title": "Jigokuraku",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/jigokuraku.jpg"
-                            },
-                            {
-                                "url": "/anime/mashle/",
-                                "title": "Mashle",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/mashle.jpg"
-                            },
-                            {
-                                "url": "/anime/vinland-saga-season-2/",
-                                "title": "Vinland Saga Season 2",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/vinland-saga-season-2.png"
-                            },
-                            {
-                                "url": "/anime/my-home-hero/",
-                                "title": "My Home Hero",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/my-home-hero.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -70,6 +19,16 @@
                                 "url": "/anime/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-One-Piece-5f09e7d64ad90.jpg"
+                            },
+                            {
+                                "url": "/anime/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-World-Dai-Star-6432ddcddc03d.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-shoukan-wa-nidome-desu/",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Isekai-Shoukan-wa-Nidome-desu-6431bbd297760.jpg"
                             },
                             {
                                 "url": "/anime/my-home-hero/",
@@ -170,16 +129,6 @@
                                 "url": "/anime/tonikaku-kawaii-2nd-season/",
                                 "title": "Tonikaku Kawaii 2nd Season",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Tonikaku-Kawaii-2nd-Season-643055052a5a9.jpg"
-                            },
-                            {
-                                "url": "/anime/kawaisugi-crisis/",
-                                "title": "Kawaisugi Crisis",
-                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Kawaisugi-Crisis-643a8eb3c0911.jpg"
-                            },
-                            {
-                                "url": "/anime/kimi-wa-houkago-insomnia/",
-                                "title": "Kimi wa Houkago Insomnia",
-                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Kimi-wa-Houkago-Insomnia-64351af41dacb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +213,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/one-piece/",
-                    "title": "One Piece",
-                    "description": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.\n\nالنوع TV\nبداية العرض 1999\nحالة الأنمي يعرض الان\nعدد الحلقات غير معروف\nالموسم خريف 1999\nمدة الحلقة 24 دقيقة\nالعرض التشويقي\nصفحة الأنمي على موقع MAL\n",
-                    "genre": "أكشن, خارق للعادة, دراما, فنتازيا, شونين, مغامرات, كوميدي",
+                    "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen/",
+                    "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                    "description": "قصة انمي Kimetsu no Yaiba: Katanakaji no Sato-hen تتمة لاحداث الموسم السابق. يسافر “تانجيرو” إلى قرية صانع السيوف لاستبدال سيفه لأن “هوتارو هاغانيزويكا” تعب من إصلاحه. عند وصوله، يتم أخده مباشرة إلى “تيتشين تيتشيكاواهارا“، رئيس القرية. يخبر “تانجيرو” أن “هوتارو” قد اختفى منذ زمن ليس ببعيد. ثم يأخد “تانجيرو” إلى الينابيع الساخنة في القرية، لمساعدة جسمه على الشفاء. سيعرض هذا الجزء مؤامرات، ومعارك وحروب جديدة. كما سيلتقي “تانجيرو” بالعديد من الشخصيات الجديدة.\n\nالنوع TV\nبداية العرض 2023\nحالة الأنمي يعرض الان\nعدد الحلقات غير معروف\nالموسم ربيع 2023\nمدة الحلقة 24 دقيقة\nالعرض التشويقي\nصفحة الأنمي على موقع MAL\n",
+                    "genre": "أكشن, فنتازيا",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animelek.me/uploads/posters/poster-One-Piece-5f09e7d4e41e3.jpg ",
+                    "thumbnail_url": "https://animelek.me/uploads/posters/poster-Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen-643307fec4c93.jpg ",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +227,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/one-piece-1065-الحلقة/",
-                        "name": "الحلقة 1065",
-                        "episode_number": 1065.0
+                        "url": "/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-10-الحلقة/",
+                        "name": "الحلقة 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/one-piece-1064-الحلقة/",
-                        "name": "الحلقة 1064",
-                        "episode_number": 1064.0
+                        "url": "/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-9-الحلقة/",
+                        "name": "الحلقة 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -293,9 +242,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://no-11.vidboo.org/6jmnr2fl34azsalrix4afjpvjacwdv472ptzokqzshdrcciug4hran2mxfka/v.mp4",
+                        "url": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=4&sig=NuTcLauNZ1U&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=4&sig=NuTcLauNZ1U&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=0&sig=b7sHmUxBrA0&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=0&sig=b7sHmUxBrA0&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=1&sig=C4UQc3eUfvI&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=1&sig=C4UQc3eUfvI&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=2&sig=NkaB76MG3A0&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1686618835053&srcIp=138.91.87.48&pr=10&srcAg=CHROME&ms=95.142.206.131&type=2&sig=NkaB76MG3A0&ct=0&urls=185.226.52.43%3B185.226.53.76&clientType=0&zs=43&id=4693014350554"
+                    },
+                    {
+                        "url": "https://no-13.vidboo.org/6jmn2gsv34azsalrix4afjpkivbqhilw5x74shuyssyijfxa4a2ds7a4irrq/v.mp4",
                         "quality": "Vidbom: 480p",
-                        "videoUrl": "https://no-11.vidboo.org/6jmnr2fl34azsalrix4afjpvjacwdv472ptzokqzshdrcciug4hran2mxfka/v.mp4"
+                        "videoUrl": "https://no-13.vidboo.org/6jmn2gsv34azsalrix4afjpkivbqhilw5x74shuyssyijfxa4a2ds7a4irrq/v.mp4"
                     }
                 ],
                 "passed": true

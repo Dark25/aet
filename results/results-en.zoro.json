@@ -17,14 +17,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/9c/bc/9cbcf87f54194742e7686119089478f8/9cbcf87f54194742e7686119089478f8.jpg"
                             },
                             {
-                                "url": "/bleach-806",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/bd/5a/bd5ae1d387a59c5abcf5e1a6a616728c/bd5ae1d387a59c5abcf5e1a6a616728c.jpg"
-                            },
-                            {
                                 "url": "/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056",
                                 "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png"
+                            },
+                            {
+                                "url": "/bleach-806",
+                                "title": "Bleach",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/bd/5a/bd5ae1d387a59c5abcf5e1a6a616728c/bd5ae1d387a59c5abcf5e1a6a616728c.jpg"
                             },
                             {
                                 "url": "/black-clover-2404",
@@ -642,8 +642,75 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://tc-1.boocdn.net/_v6/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a2974837dd6c59723c8aab3eed8822b52a6aa68a2abae9a7449bf760544bfa982cdd0683a22c79631106ad95464452845d579037f2facd1c5458526f65ea7a26e27ea29f89e893d006eade7fc82f76549/index-f2-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 720p - sub",
+                        "videoUrl": "https://tc-1.boocdn.net/_v6/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a2974837dd6c59723c8aab3eed8822b52a6aa68a2abae9a7449bf760544bfa982cdd0683a22c79631106ad95464452845d579037f2facd1c5458526f65ea7a26e27ea29f89e893d006eade7fc82f76549/index-f2-v1-a1.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/51/72/5172483c2a98261050bfe064054a61c1/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a94fab489d5970108d2f00d951c82306161737cefb696e5d0ab622601c02331f36407db64d3b6991e798f81b666ef7a2b0a8c4ed81b4409c070624219a69723c3298a292dde96b9986f5476de0b11125fb53a084c688521b4db19ff1ad2b772c4/index-f2-v1-a1.m3u8",
+                        "quality": "Vidcloud - 720p - sub",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a94fab489d5970108d2f00d951c82306161737cefb696e5d0ab622601c02331f36407db64d3b6991e798f81b666ef7a2b0a8c4ed81b4409c070624219a69723c3298a292dde96b9986f5476de0b11125fb53a084c688521b4db19ff1ad2b772c4/index-f2-v1-a1.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/51/72/5172483c2a98261050bfe064054a61c1/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://tc-1.boocdn.net/_v6/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a2974837dd6c59723c8aab3eed8822b52a6aa68a2abae9a7449bf760544bfa982cdd0683a22c79631106ad95464452845d579037f2facd1c5458526f65ea7a26e27ea29f89e893d006eade7fc82f76549/index-f1-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 1080p - sub",
+                        "videoUrl": "https://tc-1.boocdn.net/_v6/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a2974837dd6c59723c8aab3eed8822b52a6aa68a2abae9a7449bf760544bfa982cdd0683a22c79631106ad95464452845d579037f2facd1c5458526f65ea7a26e27ea29f89e893d006eade7fc82f76549/index-f1-v1-a1.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/51/72/5172483c2a98261050bfe064054a61c1/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://tc-1.boocdn.net/_v6/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a2974837dd6c59723c8aab3eed8822b52a6aa68a2abae9a7449bf760544bfa982cdd0683a22c79631106ad95464452845d579037f2facd1c5458526f65ea7a26e27ea29f89e893d006eade7fc82f76549/index-f3-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 360p - sub",
+                        "videoUrl": "https://tc-1.boocdn.net/_v6/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a2974837dd6c59723c8aab3eed8822b52a6aa68a2abae9a7449bf760544bfa982cdd0683a22c79631106ad95464452845d579037f2facd1c5458526f65ea7a26e27ea29f89e893d006eade7fc82f76549/index-f3-v1-a1.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/51/72/5172483c2a98261050bfe064054a61c1/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a94fab489d5970108d2f00d951c82306161737cefb696e5d0ab622601c02331f36407db64d3b6991e798f81b666ef7a2b0a8c4ed81b4409c070624219a69723c3298a292dde96b9986f5476de0b11125fb53a084c688521b4db19ff1ad2b772c4/index-f1-v1-a1.m3u8",
+                        "quality": "Vidcloud - 1080p - sub",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a94fab489d5970108d2f00d951c82306161737cefb696e5d0ab622601c02331f36407db64d3b6991e798f81b666ef7a2b0a8c4ed81b4409c070624219a69723c3298a292dde96b9986f5476de0b11125fb53a084c688521b4db19ff1ad2b772c4/index-f1-v1-a1.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/51/72/5172483c2a98261050bfe064054a61c1/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a94fab489d5970108d2f00d951c82306161737cefb696e5d0ab622601c02331f36407db64d3b6991e798f81b666ef7a2b0a8c4ed81b4409c070624219a69723c3298a292dde96b9986f5476de0b11125fb53a084c688521b4db19ff1ad2b772c4/index-f3-v1-a1.m3u8",
+                        "quality": "Vidcloud - 360p - sub",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/c6d68730902c4e92a4d8b3f1ab9162b1e37428a96eda9bf379cc9b7a3a9bdce244971c427350a2d9d63ea27a813e416a94fab489d5970108d2f00d951c82306161737cefb696e5d0ab622601c02331f36407db64d3b6991e798f81b666ef7a2b0a8c4ed81b4409c070624219a69723c3298a292dde96b9986f5476de0b11125fb53a084c688521b4db19ff1ad2b772c4/index-f3-v1-a1.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/51/72/5172483c2a98261050bfe064054a61c1/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

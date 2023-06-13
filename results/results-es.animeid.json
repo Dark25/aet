@@ -681,44 +681,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "//bleach-sennen-kessen-hen-latino",
-                    "title": "Bleach: Sennen Kessen-hen Latino",
-                    "description": "Secuela de la serie anime \"Bleach\", abarcando el arco argumental final del manga original, \"La Guerra Sangrienta de los Mil Años\".",
-                    "genre": "Acción, Aventura, Fantasía, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://static.animeid.tv/art/serie-bleach-sennen-kessen-hen-latino/cover/76716424.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/bleach-sennen-kessen-hen-latino-13",
-                        "name": "Episodio 13.0",
-                        "date_upload": 1686441600000,
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/v/bleach-sennen-kessen-hen-latino-12",
-                        "name": "Episodio 12.0",
-                        "date_upload": 1686441600000,
-                        "episode_number": 12.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=1PAw8j2zjVHe4y7&expires=1686707245&ip=FROsE0EnDS9X&token=WuFqH9JjEiAV",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1PAw8j2zjVHe4y7&expires=1686707245&ip=FROsE0EnDS9X&token=WuFqH9JjEiAV"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

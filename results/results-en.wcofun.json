@@ -3,24 +3,150 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/haileys-on-it",
+                                "title": "Hailey's On It",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg"
+                            },
+                            {
+                                "url": "/anime/duck-goose",
+                                "title": "Duck & Goose",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932957.jpg"
+                            },
+                            {
+                                "url": "/anime/farming-life-in-another-world",
+                                "title": "Farming Life in Another World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932956.jpg"
+                            },
+                            {
+                                "url": "/anime/lego-ninjago-dragons-rising",
+                                "title": "LEGO Ninjago: Dragons Rising",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
+                            },
+                            {
+                                "url": "/anime/biao-ren-blades-of-the-guardians",
+                                "title": "Biao Ren: Blades of the Guardians English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
+                            },
+                            {
+                                "url": "/anime/gremlins-secrets-of-the-mogwai",
+                                "title": "Gremlins: Secrets of the Mogwai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932950.jpg"
+                            },
+                            {
+                                "url": "/anime/tenchi-muyou-gxp-paradise-shidou-hen-english-subbed",
+                                "title": "Tenchi Muyou! GXP: Paradise Shidou-hen English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932949.jpg"
+                            },
+                            {
+                                "url": "/anime/mashle-english-dubbed",
+                                "title": "Mashle English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932948.jpg"
+                            },
+                            {
+                                "url": "/anime/oshi-no-ko-english-dubbed",
+                                "title": "Oshi No Ko English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932947.jpg"
+                            },
+                            {
+                                "url": "/anime/yakitori-soldiers-of-misfortune",
+                                "title": "Yakitori: Soldiers of Misfortune",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932946.jpg"
+                            },
+                            {
+                                "url": "/anime/drowning-sorrows-in-raging-fire",
+                                "title": "Drowning Sorrows in Raging Fire",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932945.jpg"
+                            },
+                            {
+                                "url": "/anime/kitti-katz",
+                                "title": "Kitti Katz",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932944.jpg"
+                            },
+                            {
+                                "url": "/anime/bread-barbershop",
+                                "title": "Bread Barbershop",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932943.jpg"
+                            },
+                            {
+                                "url": "/anime/lego-dreamzzz-trials-of-the-dream-chasers",
+                                "title": "Lego: Dreamzzz - Trials of the Dream Chasers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932942.jpg"
+                            },
+                            {
+                                "url": "/anime/mulligan",
+                                "title": "Mulligan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg"
+                            },
+                            {
+                                "url": "/anime/colourblocks",
+                                "title": "Colourblocks",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": {
+                    "url": "/anime/haileys-on-it",
+                    "title": "Hailey's On It",
+                    "description": "The series follows Hailey Banks, a risk-averse but resourceful teenager on a mission to complete every item on her long list of challenging (and sometimes impractical) tasks in order to save the world. Hailey will be pushed outside her comfort zone to discover the greatness within as she systematically conquers her fears, whether she is winning a sand-building competition, wrestling a honey badger, eating a raw onion, or facing her ever-growing and complicated feelings toward her best friend, Scott.",
+                    "genre": "Action, Adventure, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/haileys-on-it-episode-11-splatter-of-the-bands",
+                        "name": "Episode 11 Splatter of the Bands",
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "/haileys-on-it-episode-10-the-flamingo-must-flamin-go",
+                        "name": "Episode 10 The Flamingo Must Flamin-Go",
+                        "episode_number": 10.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyVni6ztzJ9vQ11UYyzIuIJiVNyKbwuB7aB-EjPNHmBV9eVQoQz1TtFIbN2BWM1GRHQRBm2iWwTCwfV39hS8bd65zL6k7bo4Fg_dIkORr6SAx12dwQIBXmzFi-G1DxqEVeOe-aZBre3bCyUndGMg7uJS4MwyZEbJwo31Zss9G8wxJEjguC04_Th3_4QyIQ22fufaFA5icQ0IHJwQRprPo9noM78jjE0d4Z49FRwBYSgNtgLXKP3AEVVSsWhFG80oEfJwDZm9ZKu3uw_Rx9UuvPxjYHJjxRdpGuP4f_85prr0A",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyVni6ztzJ9vQ11UYyzIuIJiVNyKbwuB7aB-EjPNHmBV9eVQoQz1TtFIbN2BWM1GRHQRBm2iWwTCwfV39hS8bd65zL6k7bo4Fg_dIkORr6SAx12dwQIBXmzFi-G1DxqEVeOe-aZBre3bCyUndGMg7uJS4MwyZEbJwo31Zss9G8wxJEjguC04_Th3_4QyIQ22fufaFA5icQ0IHJwQRprPo9noM78jjE0d4Z49FRwBYSgNtgLXKP3AEVVSsWhFG80oEfJwDZm9ZKu3uw_Rx9UuvPxjYHJjxRdpGuP4f_85prr0A"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyPvqt-EpJwHc8LFgmaDZEmK_cy8ynIhHnzC812ZShpd8aQjiQQk-G8B3lpRaUhRa3XB_Hk0b7k5qnYavdTyIdDkpgRNRXKtO6CGhg2SHlkNqEsemmEt0SGUaRIYoJZdwaLVAjl0e6htKi4Dn2Ks1efB32TklNSrtFXCJ0aLpKjs9AgQyCttZ-R8sHnFXY-u7FTVkaGcRwjygenIhyxIs4HhY5HleuReJ75aMEX3waxfxfelQLJtz71SYznLo88oZUTWliJ26hUDOL7ZxxJTtZ6ELYjT6Ruo_kmG0ZcrP4ukIbRwQmYiqGPY45R7BUJgYs",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyPvqt-EpJwHc8LFgmaDZEmK_cy8ynIhHnzC812ZShpd8aQjiQQk-G8B3lpRaUhRa3XB_Hk0b7k5qnYavdTyIdDkpgRNRXKtO6CGhg2SHlkNqEsemmEt0SGUaRIYoJZdwaLVAjl0e6htKi4Dn2Ks1efB32TklNSrtFXCJ0aLpKjs9AgQyCttZ-R8sHnFXY-u7FTVkaGcRwjygenIhyxIs4HhY5HleuReJ75aMEX3waxfxfelQLJtz71SYznLo88oZUTWliJ26hUDOL7ZxxJTtZ6ELYjT6Ruo_kmG0ZcrP4ukIbRwQmYiqGPY45R7BUJgYs"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtwPQUQ3_D4Gb0gT_rFT9qo63ropeoDWxscbvGRzsanuaoVWrxrloyO9Ujn6YK-XgO7AzgTU_z8somEriCLFeFkkk0Tb8FCQM2JCOp_Po-J8xUdMOTP6OI4qq1nEOVHzJLlYSwo9Il2ZEIqC4j1OgPBYBCM46_ewvBGUi7N0Z7uxfxoBF7Xn8NgYOlsDF831YVrTmxTND_zN8dFYHnqTZW8alG9uXgak-fUcPJyMCjSBP5k8xMPik5CWvVQsbfqJM31jP6R1BcCGm1Fqix9meslT8hCqonG73qGdhcPeUyEAFw",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtwPQUQ3_D4Gb0gT_rFT9qo63ropeoDWxscbvGRzsanuaoVWrxrloyO9Ujn6YK-XgO7AzgTU_z8somEriCLFeFkkk0Tb8FCQM2JCOp_Po-J8xUdMOTP6OI4qq1nEOVHzJLlYSwo9Il2ZEIqC4j1OgPBYBCM46_ewvBGUi7N0Z7uxfxoBF7Xn8NgYOlsDF831YVrTmxTND_zN8dFYHnqTZW8alG9uXgak-fUcPJyMCjSBP5k8xMPik5CWvVQsbfqJM31jP6R1BcCGm1Fqix9meslT8hCqonG73qGdhcPeUyEAFw"
+                    }
+                ],
+                "passed": true
             }
         }
     }

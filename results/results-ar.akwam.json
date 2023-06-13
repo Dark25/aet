@@ -285,8 +285,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s103.akw.onl/download/1686723313/64880971204be/Kira.Wel.Gen.2022.1080P.WEB-DL.AKWAM.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "http://s103.akw.onl/download/1686723313/64880971204be/Kira.Wel.Gen.2022.1080P.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s201d1.onesav.com/download/1686723313/648809717010c/Kira.Wel.Gen.2022.720P.WEB-DL.AKWAM.mp4",
+                        "quality": "720p",
+                        "videoUrl": "http://s201d1.onesav.com/download/1686723313/648809717010c/Kira.Wel.Gen.2022.720P.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s203d2.onesav.com/download/1686723313/6488097147f66/Kira.Wel.Gen.2022.480P.WEB-DL.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s203d2.onesav.com/download/1686723313/6488097147f66/Kira.Wel.Gen.2022.480P.WEB-DL.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

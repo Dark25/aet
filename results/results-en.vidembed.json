@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/olivers-ghost-2011",
+                                "title": "Oliver's Ghost",
+                                "thumbnail_url": "https://images.movembed.cc//cover/olivers-ghost-2011-1686624029.jpg"
+                            },
+                            {
+                                "url": "/videos/the-kashmir-files-2022",
+                                "title": "The Kashmir Files",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-kashmir-files-2022-1686621027.jpg"
+                            },
+                            {
+                                "url": "/videos/mending-the-line-2023",
+                                "title": "Mending the Line",
+                                "thumbnail_url": "https://images.movembed.cc//cover/mending-the-line-2023-1686621027.jpg"
+                            },
+                            {
                                 "url": "/videos/daliland-2023",
                                 "title": "Daliland",
                                 "thumbnail_url": "https://images.movembed.cc//cover/daliland-2023-1686561632.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/the-secret-kingdom-2023",
                                 "title": "The Secret Kingdom",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-secret-kingdom-2023-1686363927.jpg"
-                            },
-                            {
-                                "url": "/videos/i-like-movies-2023",
-                                "title": "I Like Movies",
-                                "thumbnail_url": "https://images.movembed.cc//cover/i-like-movies-2023-1686363926.jpg"
-                            },
-                            {
-                                "url": "/videos/brooklyn-45-2023",
-                                "title": "Brooklyn 45",
-                                "thumbnail_url": "https://images.movembed.cc//cover/brooklyn-45-2023-1686363024.jpg"
-                            },
-                            {
-                                "url": "/videos/flamin-hot-2023",
-                                "title": "Flamin' Hot",
-                                "thumbnail_url": "https://images.movembed.cc//cover/flamin-hot-2023-1686313228.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,22 +324,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/daliland-2023",
-                    "title": "Daliland",
-                    "description": "In 1973, a young gallery assistant goes on a wild adventure behind the scenes as he helps the aging genius Salvador Dali prepare for a big show in New York.",
+                    "url": "/videos/olivers-ghost-2011",
+                    "title": "Oliver's Ghost",
+                    "description": "A young boy named Oliver and his family, who move from a bustling city to a quaint suburban neighborhood. That very night of the move, Oliver hears a piano playing in the attic, and finds a thin wall in which he breaks through to get to the attic. He meets a ghost which tells him to mind his manners, and then scares him away. Oliver wakes his parents and sister and brings them to the attic, but they do not see the ghost and think that Oliver is j... [more] A young boy named Oliver and his family, who move from a bustling city to a quaint suburban neighborhood. That very night of the move, Oliver hears a piano playing in the attic, and finds a thin wall in which he breaks through to get to the attic. He meets a ghost which tells him to mind his manners, and then scares him away. Oliver wakes his parents and sister and brings them to the attic, but they do not see the ghost and think that Oliver is just thinking nonsense. [less]",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/daliland-2023",
-                        "name": "Daliland",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

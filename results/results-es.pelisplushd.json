@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-show-cronica-de-un-asesinato",
+                                "title": "El show: crónica de un asesinato (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/uAadZi5QRjWINE64bqX1oQxVuD8.jpg"
+                            },
+                            {
                                 "url": "/serie/chibiverse",
                                 "title": "Chibiverse (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/crazy-love",
                                 "title": "Crazy Love (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9Dbm5tZGsICW0whb5jwBNS6xGSD.jpg"
-                            },
-                            {
-                                "url": "/serie/the-days",
-                                "title": "THE DAYS (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/og0fsHozYygCZgdmznwupk0xC4O.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/chibiverse",
-                    "title": "Chibiverse (2022)",
-                    "description": "Únete a tus personajes favoritos de Disney mientras organizan una presentación para celebrar sus aventuras más locas al estilo de Chibi Tiny Tales, incluidos Phineas y Ferb, Cricket Green, Anne Boonchuy, Molly McGee, Penny Proud y más..",
-                    "genre": "Comedia, Animación",
+                    "url": "/serie/el-show-cronica-de-un-asesinato",
+                    "title": "El show: crónica de un asesinato (2023)",
+                    "description": "El asesinato de Paco Stanley, el comediante más popular de la televisión mexicana, desata una serie de intrigas en el mundo de la política y el entretenimiento. A través de una profunda investigación, el uso de archivo de la época y el testimonio directo de los principales involucrados del caso, esta serie documental se adentra en la cultura del espectáculo y expone las mentiras y tragedias que, de manera insospechada, marcaron la llegada de la democracia a México en el año 2000. .",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uAadZi5QRjWINE64bqX1oQxVuD8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/chibiverse/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/el-show-cronica-de-un-asesinato/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/serie/chibiverse/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/el-show-cronica-de-un-asesinato/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery547.akamai-video-content.com/hls2/01/13087/s3r45x9x7irl_n/index-v1-a1.m3u8?t=oTh0FeyY6KBp_a0YhCmHNty5kXcffn3j4p1mUaQ7Wxw&s=1686704865&e=10800&f=65437461&srv=sto262&client=172.176.188.92&asn=8075",
+                        "url": "https://delivery428.akamai-video-content.com/hls2/01/13109/cnnx7sf6hieg_n/index-v1-a1.m3u8?t=EGdZNx_f9SUKmMr21_7xlyTrRlO-QbSTGCe5J7WTJYw&s=1686723375&e=10800&f=65547277&srv=sto022&client=40.86.18.88&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery547.akamai-video-content.com/hls2/01/13087/s3r45x9x7irl_n/index-v1-a1.m3u8?t=oTh0FeyY6KBp_a0YhCmHNty5kXcffn3j4p1mUaQ7Wxw&s=1686704865&e=10800&f=65437461&srv=sto262&client=172.176.188.92&asn=8075",
+                        "videoUrl": "https://delivery428.akamai-video-content.com/hls2/01/13109/cnnx7sf6hieg_n/index-v1-a1.m3u8?t=EGdZNx_f9SUKmMr21_7xlyTrRlO-QbSTGCe5J7WTJYw&s=1686723375&e=10800&f=65547277&srv=sto022&client=40.86.18.88&asn=8075",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/s3r45x9x7irl?",
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/cnnx7sf6hieg?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery547.akamai-video-content.com/hls2/01/13087/s3r45x9x7irl_l/index-v1-a1.m3u8?t=oTh0FeyY6KBp_a0YhCmHNty5kXcffn3j4p1mUaQ7Wxw&s=1686704865&e=10800&f=65437461&srv=sto262&client=172.176.188.92&asn=8075",
+                        "url": "https://delivery428.akamai-video-content.com/hls2/01/13109/cnnx7sf6hieg_l/index-v1-a1.m3u8?t=EGdZNx_f9SUKmMr21_7xlyTrRlO-QbSTGCe5J7WTJYw&s=1686723375&e=10800&f=65547277&srv=sto022&client=40.86.18.88&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery547.akamai-video-content.com/hls2/01/13087/s3r45x9x7irl_l/index-v1-a1.m3u8?t=oTh0FeyY6KBp_a0YhCmHNty5kXcffn3j4p1mUaQ7Wxw&s=1686704865&e=10800&f=65437461&srv=sto262&client=172.176.188.92&asn=8075",
+                        "videoUrl": "https://delivery428.akamai-video-content.com/hls2/01/13109/cnnx7sf6hieg_l/index-v1-a1.m3u8?t=EGdZNx_f9SUKmMr21_7xlyTrRlO-QbSTGCe5J7WTJYw&s=1686723375&e=10800&f=65547277&srv=sto022&client=40.86.18.88&asn=8075",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/s3r45x9x7irl?",
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/cnnx7sf6hieg?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=jp0Dv6ByPphzj2M&expires=1686774867&ip=F0qQKRWQEy9XKxR&token=vknh_oQNqPOc",
+                        "url": "https://streamtape.com/get_video?id=oZdKAazXAvcJaxK&expires=1686793377&ip=GxOsFxInDS9X&token=1CS6jGpPGUOK",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jp0Dv6ByPphzj2M&expires=1686774867&ip=F0qQKRWQEy9XKxR&token=vknh_oQNqPOc"
+                        "videoUrl": "https://streamtape.com/get_video?id=oZdKAazXAvcJaxK&expires=1686793377&ip=GxOsFxInDS9X&token=1CS6jGpPGUOK"
                     }
                 ],
                 "passed": true
@@ -619,8 +619,114 @@
         "name": "PelisPlusPh",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/air-2/",
+                                "title": "Air",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/air-2.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-popes-exorcist/",
+                                "title": "El exorcista del papa",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-popes-exorcist.jpg"
+                            },
+                            {
+                                "url": "/pelicula/super-mario-bros-la-pelicula/",
+                                "title": "Súper Mario Bros: La película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/super-mario-bros-la-pelicula.jpg"
+                            },
+                            {
+                                "url": "/pelicula/american-raiders-battle-fire/",
+                                "title": "American Raiders Battle Fire",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-raiders-battle-fire.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dungeons-dragons-honor-among-thieves/",
+                                "title": "Dungeons & Dragons: Honor entre ladrones",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dungeons-dragons-honor-among-thieves.jpg"
+                            },
+                            {
+                                "url": "/pelicula/battle-for-saipan/",
+                                "title": "Battle for Saipan",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/battle-for-saipan.jpg"
+                            },
+                            {
+                                "url": "/pelicula/legacy-peak/",
+                                "title": "Legacy Peak",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/legacy-peak.jpg"
+                            },
+                            {
+                                "url": "/pelicula/john-wick-chapter-4/",
+                                "title": "John Wick 4",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/john-wick-chapter-4.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-tirabeque/",
+                                "title": "El tirabeque",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-tirabeque.jpg"
+                            },
+                            {
+                                "url": "/pelicula/love-hurts/",
+                                "title": "Love Hurts",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-hurts.jpg"
+                            },
+                            {
+                                "url": "/pelicula/on-the-count-of-three/",
+                                "title": "On the Count of Three",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/on-the-count-of-three.jpg"
+                            },
+                            {
+                                "url": "/pelicula/supercell/",
+                                "title": "Supercell",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/supercell.jpg"
+                            },
+                            {
+                                "url": "/pelicula/boston-strangler/",
+                                "title": "El estrangulador de Boston",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/boston-strangler.jpg"
+                            },
+                            {
+                                "url": "/pelicula/era-ora/",
+                                "title": "Ya era hora",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/era-ora.jpg"
+                            },
+                            {
+                                "url": "/pelicula/gulltransporten/",
+                                "title": "Gold Run",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/gold-run.jpg"
+                            },
+                            {
+                                "url": "/pelicula/noise/",
+                                "title": "Ruido mental",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ruido-mental.jpg"
+                            },
+                            {
+                                "url": "/pelicula/here-love-lies/",
+                                "title": "Here Love Lies",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/here-love-lies.jpg"
+                            },
+                            {
+                                "url": "/pelicula/le-roi-des-ombres/",
+                                "title": "In His Shadow",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/in-his-shadow.jpg"
+                            },
+                            {
+                                "url": "/pelicula/kompromat/",
+                                "title": "Kompromat: El expediente ruso",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kompromat-el-expediente-ruso.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-old-way/",
+                                "title": "Camino de la venganza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/camino-de-la-venganza.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -784,11 +890,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/war-of-the-worlds-annihilation/",
-                    "title": "War of the Worlds: Annihilation",
+                    "url": "/pelicula/air-2/",
+                    "title": "Air",
                     "artist": "",
                     "description": "",
-                    "genre": "Acción, Ciencia Ficción",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -798,7 +904,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/war-of-the-worlds-annihilation/",
+                        "url": "/pelicula/air-2/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -806,31 +912,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery440.akamai-video-content.com/hls2/01/04429/u69fwnuicram_n/index-v1-a1.m3u8?t=2qFW5729gHXNVCNpq4hrEA2c3xJ1z1Yxc3O3tpGNYm8&s=1686704870&e=10800&f=48541965&srv=sto093&client=172.176.188.92&asn=8075",
-                        "quality": "[Cast] StreamSB:536p ",
-                        "videoUrl": "https://delivery440.akamai-video-content.com/hls2/01/04429/u69fwnuicram_n/index-v1-a1.m3u8?t=2qFW5729gHXNVCNpq4hrEA2c3xJ1z1Yxc3O3tpGNYm8&s=1686704870&e=10800&f=48541965&srv=sto093&client=172.176.188.92&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://streamsss.net/e/54ifuytxype6",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery440.akamai-video-content.com/hls2/01/04429/u69fwnuicram_l/index-v1-a1.m3u8?t=2qFW5729gHXNVCNpq4hrEA2c3xJ1z1Yxc3O3tpGNYm8&s=1686704870&e=10800&f=48541965&srv=sto093&client=172.176.188.92&asn=8075",
-                        "quality": "[Cast] StreamSB:360p ",
-                        "videoUrl": "https://delivery440.akamai-video-content.com/hls2/01/04429/u69fwnuicram_l/index-v1-a1.m3u8?t=2qFW5729gHXNVCNpq4hrEA2c3xJ1z1Yxc3O3tpGNYm8&s=1686704870&e=10800&f=48541965&srv=sto093&client=172.176.188.92&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://streamsss.net/e/54ifuytxype6",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

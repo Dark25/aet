@@ -27,14 +27,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/4fk6jlk2c-63bc882a66cd8850432348.jpg"
                             },
                             {
-                                "url": "/anime/bjjnfqcm",
-                                "title": "Mashle",
-                                "thumbnail_url": "https://marin.moe/images/anime/wtfd1m0v0-643049198c690134893355.jpg"
-                            },
-                            {
                                 "url": "/anime/nepbmfpm",
                                 "title": "Oshi no Ko",
                                 "thumbnail_url": "https://marin.moe/images/anime/r3lbcasl0-6436e9483dfc1086363124.jpg"
+                            },
+                            {
+                                "url": "/anime/bjjnfqcm",
+                                "title": "Mashle",
+                                "thumbnail_url": "https://marin.moe/images/anime/wtfd1m0v0-643049198c690134893355.jpg"
                             },
                             {
                                 "url": "/anime/5ibih6uv",
@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/lkujlzev0-642bd1647c7d1492851005.jpg"
                             },
                             {
-                                "url": "/anime/cpxogjqv",
-                                "title": "Yamada-kun to Lv999 no Koi o Suru",
-                                "thumbnail_url": "https://marin.moe/images/anime/swuvbgpds-64286ccf0cc70091898863.jpg"
-                            },
-                            {
                                 "url": "/anime/rjvsmpwh",
                                 "title": "Tengoku Daimakyou",
                                 "thumbnail_url": "https://marin.moe/images/anime/u2jkhnonq-643197b82b5c9042187274.jpg"
+                            },
+                            {
+                                "url": "/anime/cpxogjqv",
+                                "title": "Yamada-kun to Lv999 no Koi o Suru",
+                                "thumbnail_url": "https://marin.moe/images/anime/swuvbgpds-64286ccf0cc70091898863.jpg"
                             },
                             {
                                 "url": "/anime/zyupqser",
@@ -77,14 +77,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/mvls5js4c-642c55d31cc7c671023373.jpg"
                             },
                             {
-                                "url": "/anime/oizd0oea",
-                                "title": "Kimi wa Houkago Insomnia",
-                                "thumbnail_url": "https://marin.moe/images/anime/vlcvkb8ut-643448bb99599477814189.jpg"
-                            },
-                            {
                                 "url": "/anime/dpkrxw9j",
                                 "title": "Black Clover",
                                 "thumbnail_url": "https://marin.moe/images/anime/818sbuw7q-61c43ff0b709e922193540.jpg"
+                            },
+                            {
+                                "url": "/anime/oizd0oea",
+                                "title": "Kimi wa Houkago Insomnia",
+                                "thumbnail_url": "https://marin.moe/images/anime/vlcvkb8ut-643448bb99599477814189.jpg"
                             },
                             {
                                 "url": "/anime/pwezvsxg",
@@ -407,78 +407,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1065",
-                        "name": "Episode 1065 No Title",
-                        "date_upload": 1686441600000,
-                        "episode_number": 1065.0
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1064",
-                        "name": "Episode 1064 No Title",
-                        "date_upload": 1685836800000,
-                        "episode_number": 1064.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1065",
-                        "quality": "SubsPlease 1080p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/f4a1810b859743d0?token=12c24a217a21f9d2c541f4f913759859b4dfb0e083ccee15b3f490e6e7d35e49",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=23fvGWWLsimK0vHZ;__ddg1_=eUjWQoplaneRsEEYpyQF;XSRF-TOKEN=eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImxUUU4rbFlKM2FFY0c2NVd5MHJpQ0E9PSIsInZhbHVlIjoiRGtCM0xVcVZXeDc0elRockpiNldMbjdvWDl4ZE1qZXAvbkxRa1RUZXNrQy9jY0JUMlRNd3BUa0tlckRJYWI1OHJDT0JoeUJPTlFLaTVFNndZR2ZPaUk3ZGIwMDE4VGMyVnIya3h1YVQweUF6N3p2VzEraG16bnJVTWEyRXRMc2IiLCJtYWMiOiJlNWYzMzk1ZDBhMGYxOTY4N2NkZjVjYTJjMmI4MmY4MmJiYmNkOTNkZjBkZTU2ZmJjNzU3OGEzMWI3ZDlhY2MxIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1065",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1065",
-                        "quality": "SubsPlease 720p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/d3817724bacda134?token=4f7a054c8e9031d16fde7ba831cd298b8104c9b2a5a7be9a7a0f4c1ee0e1e32a",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=23fvGWWLsimK0vHZ;__ddg1_=eUjWQoplaneRsEEYpyQF;XSRF-TOKEN=eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImxUUU4rbFlKM2FFY0c2NVd5MHJpQ0E9PSIsInZhbHVlIjoiRGtCM0xVcVZXeDc0elRockpiNldMbjdvWDl4ZE1qZXAvbkxRa1RUZXNrQy9jY0JUMlRNd3BUa0tlckRJYWI1OHJDT0JoeUJPTlFLaTVFNndZR2ZPaUk3ZGIwMDE4VGMyVnIya3h1YVQweUF6N3p2VzEraG16bnJVTWEyRXRMc2IiLCJtYWMiOiJlNWYzMzk1ZDBhMGYxOTY4N2NkZjVjYTJjMmI4MmY4MmJiYmNkOTNkZjBkZTU2ZmJjNzU3OGEzMWI3ZDlhY2MxIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1065",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1065",
-                        "quality": "SubsPlease 480p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/b49423757f044d92?token=9a2262e9778524141fba8193f35b047e06ddb08850ddd76091ecc78d18d0d438",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=23fvGWWLsimK0vHZ;__ddg1_=eUjWQoplaneRsEEYpyQF;XSRF-TOKEN=eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImxUUU4rbFlKM2FFY0c2NVd5MHJpQ0E9PSIsInZhbHVlIjoiRGtCM0xVcVZXeDc0elRockpiNldMbjdvWDl4ZE1qZXAvbkxRa1RUZXNrQy9jY0JUMlRNd3BUa0tlckRJYWI1OHJDT0JoeUJPTlFLaTVFNndZR2ZPaUk3ZGIwMDE4VGMyVnIya3h1YVQweUF6N3p2VzEraG16bnJVTWEyRXRMc2IiLCJtYWMiOiJlNWYzMzk1ZDBhMGYxOTY4N2NkZjVjYTJjMmI4MmY4MmJiYmNkOTNkZjBkZTU2ZmJjNzU3OGEzMWI3ZDlhY2MxIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1065",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1065",
-                        "quality": "SubsPlease 360p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/851d7330c362193e?token=46c39f7be200d93a0c48a36965030aa6533c567d569aa01eb05cfb99b0c53b33",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=23fvGWWLsimK0vHZ;__ddg1_=eUjWQoplaneRsEEYpyQF;XSRF-TOKEN=eyJpdiI6ImVidkJLM3E2VVZHV2hEYW82V3JIRVE9PSIsInZhbHVlIjoiejN2R0FwMzNjU3d5MzBFUUltbmtMTzhwZ2Y5ZS9PZFRHUHdlSlFqV1ZUWTRGRXZ5dUlmQkF6ZnQrRVArbVpLVmhoTkpPUitzTVgwR2VVTWYxVG9HU2x1NEJHUzVOd2d4eHZ4b3NOZlFYOW1YREd3QU41T2ZldHlsRFBlblZZOHgiLCJtYWMiOiJiZjBmYTU5OTk5NmUxYWI2ODMzYTA5MzUwZmZjZjhmNGY4MTY0OGM4MmM2M2RmYmM1NzgxYzY1MWMxZDE1YTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImxUUU4rbFlKM2FFY0c2NVd5MHJpQ0E9PSIsInZhbHVlIjoiRGtCM0xVcVZXeDc0elRockpiNldMbjdvWDl4ZE1qZXAvbkxRa1RUZXNrQy9jY0JUMlRNd3BUa0tlckRJYWI1OHJDT0JoeUJPTlFLaTVFNndZR2ZPaUk3ZGIwMDE4VGMyVnIya3h1YVQweUF6N3p2VzEraG16bnJVTWEyRXRMc2IiLCJtYWMiOiJlNWYzMzk1ZDBhMGYxOTY4N2NkZjVjYTJjMmI4MmY4MmJiYmNkOTNkZjBkZTU2ZmJjNzU3OGEzMWI3ZDlhY2MxIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1065",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

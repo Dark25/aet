@@ -73,74 +73,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/super-sentai-world.html",
-                                "title": "Super Sentai World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-grease.html",
-                                "title": "Build NEW WORLD: Kamen Rider Grease",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
-                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-world-j-zo.html",
-                                "title": "Kamen Rider World ( J & ZO )",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
-                                "title": "Kamen Rider Black RX – Run All Over The World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
-                                "title": "Avataro Sentai Donbrothers vs. Zenkaiger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/avataro-sentai-donbrothers-vs-zenkaiger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/voltes-v-legacy.html",
-                                "title": "Voltes V: Legacy",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/fire-fox-tochionger-seven.html",
-                                "title": "Fire Fox Tochionger Seven",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/fire-fox-tochionger-seven-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-force-season-2.html",
-                                "title": "Super Force – Season 2",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-force-season-2-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -167,9 +101,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/1080.m3u8?token=0251a4408456275d914b73ec261a311d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686860609&type=edge&node=2wsBvpu8zbT_-avSiUd3_rNtCHU3S9mMZPmgqqQOrqz9UJQsr9Dfnwsd57sIkoASOxDUnikeAWlN7wkJsB3yjZARNr_2_bVdODuxSW8Zm2LuACHc7NbdLQD1uZQ4OTTO7Q80swnAYmnYCzzB9AdcYVVMhAQmDyRh5fHABGCfUUjjk4UVrkSzk3EV6I9s3UJuFQ8vkUSnjQ3cd2VqWKxgzyQK35uMttPaqyPAc61Lfl5-rTcyWVWXuuUlXQfG0h8wV85vTnFnCQaIJ0ajjUDyR0vjIbcguKk-OXzxp_Qin8tfiluat9pzNd2EitOmWRMpuKNomo4gpU4vRxRCjwUyug",
+                        "url": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/1080.m3u8?token=1d51411b0761574317f266f5f0f83587&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686881686&type=edge&node=_5KEbIdo-yCjJPzvvpwGuRHFCEhZSk04Q1a6gSzkpCz4UGp3LGeCkU9I0rtQd7tO8pPVp2zPF_hA61bOKOFa2DTd7JlG5z27Cc-qN386oW14NRWEEXZ5F5J6tduadgZbdGSehU2i-hbSHmr3MXw7xXHFFiAsk1Ddz7QUhHhPgB44Vb9A-pQ5apsQ1wBYfBpNoSE-cKJkOxBYAzd9eJ2W1oxC1dt0uBocBr8-cdHrE2WtJHWxCQKk-UQTmw5-8CTacSh9C47k_qaR2_mQMJP3Yo1gHuptwJrfmLsTFJ5-n_2Iq2FD152x3sTUmq_jQQO48QwrBEGvX_Q71v2wEWpPuA",
                         "quality": "1080p",
-                        "videoUrl": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/1080.m3u8?token=0251a4408456275d914b73ec261a311d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686860609&type=edge&node=2wsBvpu8zbT_-avSiUd3_rNtCHU3S9mMZPmgqqQOrqz9UJQsr9Dfnwsd57sIkoASOxDUnikeAWlN7wkJsB3yjZARNr_2_bVdODuxSW8Zm2LuACHc7NbdLQD1uZQ4OTTO7Q80swnAYmnYCzzB9AdcYVVMhAQmDyRh5fHABGCfUUjjk4UVrkSzk3EV6I9s3UJuFQ8vkUSnjQ3cd2VqWKxgzyQK35uMttPaqyPAc61Lfl5-rTcyWVWXuuUlXQfG0h8wV85vTnFnCQaIJ0ajjUDyR0vjIbcguKk-OXzxp_Qin8tfiluat9pzNd2EitOmWRMpuKNomo4gpU4vRxRCjwUyug",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/1080.m3u8?token=1d51411b0761574317f266f5f0f83587&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686881686&type=edge&node=_5KEbIdo-yCjJPzvvpwGuRHFCEhZSk04Q1a6gSzkpCz4UGp3LGeCkU9I0rtQd7tO8pPVp2zPF_hA61bOKOFa2DTd7JlG5z27Cc-qN386oW14NRWEEXZ5F5J6tduadgZbdGSehU2i-hbSHmr3MXw7xXHFFiAsk1Ddz7QUhHhPgB44Vb9A-pQ5apsQ1wBYfBpNoSE-cKJkOxBYAzd9eJ2W1oxC1dt0uBocBr8-cdHrE2WtJHWxCQKk-UQTmw5-8CTacSh9C47k_qaR2_mQMJP3Yo1gHuptwJrfmLsTFJ5-n_2Iq2FD152x3sTUmq_jQQO48QwrBEGvX_Q71v2wEWpPuA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",
@@ -182,9 +116,9 @@
                         }
                     },
                     {
-                        "url": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/720.m3u8?token=0251a4408456275d914b73ec261a311d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686860609&type=edge&node=2wsBvpu8zbT_-avSiUd3_rNtCHU3S9mMZPmgqqQOrqz9UJQsr9Dfnwsd57sIkoASOxDUnikeAWlN7wkJsB3yjZARNr_2_bVdODuxSW8Zm2LuACHc7NbdLQD1uZQ4OTTO7Q80swnAYmnYCzzB9AdcYVVMhAQmDyRh5fHABGCfUUjjk4UVrkSzk3EV6I9s3UJuFQ8vkUSnjQ3cd2VqWKxgzyQK35uMttPaqyPAc61Lfl5-rTcyWVWXuuUlXQfG0h8wV85vTnFnCQaIJ0ajjUDyR0vjIbcguKk-OXzxp_Qin8tfiluat9pzNd2EitOmWRMpuKNomo4gpU4vRxRCjwUyug",
+                        "url": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/720.m3u8?token=1d51411b0761574317f266f5f0f83587&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686881686&type=edge&node=_5KEbIdo-yCjJPzvvpwGuRHFCEhZSk04Q1a6gSzkpCz4UGp3LGeCkU9I0rtQd7tO8pPVp2zPF_hA61bOKOFa2DTd7JlG5z27Cc-qN386oW14NRWEEXZ5F5J6tduadgZbdGSehU2i-hbSHmr3MXw7xXHFFiAsk1Ddz7QUhHhPgB44Vb9A-pQ5apsQ1wBYfBpNoSE-cKJkOxBYAzd9eJ2W1oxC1dt0uBocBr8-cdHrE2WtJHWxCQKk-UQTmw5-8CTacSh9C47k_qaR2_mQMJP3Yo1gHuptwJrfmLsTFJ5-n_2Iq2FD152x3sTUmq_jQQO48QwrBEGvX_Q71v2wEWpPuA",
                         "quality": "720p",
-                        "videoUrl": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/720.m3u8?token=0251a4408456275d914b73ec261a311d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686860609&type=edge&node=2wsBvpu8zbT_-avSiUd3_rNtCHU3S9mMZPmgqqQOrqz9UJQsr9Dfnwsd57sIkoASOxDUnikeAWlN7wkJsB3yjZARNr_2_bVdODuxSW8Zm2LuACHc7NbdLQD1uZQ4OTTO7Q80swnAYmnYCzzB9AdcYVVMhAQmDyRh5fHABGCfUUjjk4UVrkSzk3EV6I9s3UJuFQ8vkUSnjQ3cd2VqWKxgzyQK35uMttPaqyPAc61Lfl5-rTcyWVWXuuUlXQfG0h8wV85vTnFnCQaIJ0ajjUDyR0vjIbcguKk-OXzxp_Qin8tfiluat9pzNd2EitOmWRMpuKNomo4gpU4vRxRCjwUyug",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/720.m3u8?token=1d51411b0761574317f266f5f0f83587&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686881686&type=edge&node=_5KEbIdo-yCjJPzvvpwGuRHFCEhZSk04Q1a6gSzkpCz4UGp3LGeCkU9I0rtQd7tO8pPVp2zPF_hA61bOKOFa2DTd7JlG5z27Cc-qN386oW14NRWEEXZ5F5J6tduadgZbdGSehU2i-hbSHmr3MXw7xXHFFiAsk1Ddz7QUhHhPgB44Vb9A-pQ5apsQ1wBYfBpNoSE-cKJkOxBYAzd9eJ2W1oxC1dt0uBocBr8-cdHrE2WtJHWxCQKk-UQTmw5-8CTacSh9C47k_qaR2_mQMJP3Yo1gHuptwJrfmLsTFJ5-n_2Iq2FD152x3sTUmq_jQQO48QwrBEGvX_Q71v2wEWpPuA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",
@@ -197,9 +131,9 @@
                         }
                     },
                     {
-                        "url": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/360.m3u8?token=0251a4408456275d914b73ec261a311d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686860609&type=edge&node=2wsBvpu8zbT_-avSiUd3_rNtCHU3S9mMZPmgqqQOrqz9UJQsr9Dfnwsd57sIkoASOxDUnikeAWlN7wkJsB3yjZARNr_2_bVdODuxSW8Zm2LuACHc7NbdLQD1uZQ4OTTO7Q80swnAYmnYCzzB9AdcYVVMhAQmDyRh5fHABGCfUUjjk4UVrkSzk3EV6I9s3UJuFQ8vkUSnjQ3cd2VqWKxgzyQK35uMttPaqyPAc61Lfl5-rTcyWVWXuuUlXQfG0h8wV85vTnFnCQaIJ0ajjUDyR0vjIbcguKk-OXzxp_Qin8tfiluat9pzNd2EitOmWRMpuKNomo4gpU4vRxRCjwUyug",
+                        "url": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/360.m3u8?token=1d51411b0761574317f266f5f0f83587&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686881686&type=edge&node=_5KEbIdo-yCjJPzvvpwGuRHFCEhZSk04Q1a6gSzkpCz4UGp3LGeCkU9I0rtQd7tO8pPVp2zPF_hA61bOKOFa2DTd7JlG5z27Cc-qN386oW14NRWEEXZ5F5J6tduadgZbdGSehU2i-hbSHmr3MXw7xXHFFiAsk1Ddz7QUhHhPgB44Vb9A-pQ5apsQ1wBYfBpNoSE-cKJkOxBYAzd9eJ2W1oxC1dt0uBocBr8-cdHrE2WtJHWxCQKk-UQTmw5-8CTacSh9C47k_qaR2_mQMJP3Yo1gHuptwJrfmLsTFJ5-n_2Iq2FD152x3sTUmq_jQQO48QwrBEGvX_Q71v2wEWpPuA",
                         "quality": "360p",
-                        "videoUrl": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/360.m3u8?token=0251a4408456275d914b73ec261a311d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686860609&type=edge&node=2wsBvpu8zbT_-avSiUd3_rNtCHU3S9mMZPmgqqQOrqz9UJQsr9Dfnwsd57sIkoASOxDUnikeAWlN7wkJsB3yjZARNr_2_bVdODuxSW8Zm2LuACHc7NbdLQD1uZQ4OTTO7Q80swnAYmnYCzzB9AdcYVVMhAQmDyRh5fHABGCfUUjjk4UVrkSzk3EV6I9s3UJuFQ8vkUSnjQ3cd2VqWKxgzyQK35uMttPaqyPAc61Lfl5-rTcyWVWXuuUlXQfG0h8wV85vTnFnCQaIJ0ajjUDyR0vjIbcguKk-OXzxp_Qin8tfiluat9pzNd2EitOmWRMpuKNomo4gpU4vRxRCjwUyug",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/c808c1a4082a215be28a6a26c5b079c0/2023-06-09/360.m3u8?token=1d51411b0761574317f266f5f0f83587&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686881686&type=edge&node=_5KEbIdo-yCjJPzvvpwGuRHFCEhZSk04Q1a6gSzkpCz4UGp3LGeCkU9I0rtQd7tO8pPVp2zPF_hA61bOKOFa2DTd7JlG5z27Cc-qN386oW14NRWEEXZ5F5J6tduadgZbdGSehU2i-hbSHmr3MXw7xXHFFiAsk1Ddz7QUhHhPgB44Vb9A-pQ5apsQ1wBYfBpNoSE-cKJkOxBYAzd9eJ2W1oxC1dt0uBocBr8-cdHrE2WtJHWxCQKk-UQTmw5-8CTacSh9C47k_qaR2_mQMJP3Yo1gHuptwJrfmLsTFJ5-n_2Iq2FD152x3sTUmq_jQQO48QwrBEGvX_Q71v2wEWpPuA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",

@@ -694,12 +694,31 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/bleach-sennen-kessen-hen-latino-13",
+                        "name": "Episodio 13.0",
+                        "date_upload": 1686441600000,
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/v/bleach-sennen-kessen-hen-latino-12",
+                        "name": "Episodio 12.0",
+                        "date_upload": 1686441600000,
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=1PAw8j2zjVHe4y7&expires=1687009241&ip=GxOsFxqnDS9X&token=I7Kzm38mPb0R",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=1PAw8j2zjVHe4y7&expires=1687009241&ip=GxOsFxqnDS9X&token=I7Kzm38mPb0R"
+                    }
+                ],
+                "passed": true
             }
         }
     }

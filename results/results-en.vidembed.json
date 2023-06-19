@@ -325,17 +325,24 @@
             "details": {
                 "result": {
                     "url": "/videos/976-evil-1989",
-                    "description": "",
+                    "title": "976-EVIL",
+                    "description": "The rebellious teenager Spike lives with his religious Aunt Lucy, her cats and his annoying cousin Hoax in the house he inherited from his mother. Hoax is a teenager bullied by a gang of punks and Spike protects him whenever possible. Spike finds a flyer of a horoscope dialing 976-EVIL, but he does not give much attention to the voice from the other side. He dates the schoolmate Suzie and they go in his motorcycle to his room. Hoax sees them havi... [more] The rebellious teenager Spike lives with his religious Aunt Lucy, her cats and his annoying cousin Hoax in the house he inherited from his mother. Hoax is a teenager bullied by a gang of punks and Spike protects him whenever possible. Spike finds a flyer of a horoscope dialing 976-EVIL, but he does not give much attention to the voice from the other side. He dates the schoolmate Suzie and they go in his motorcycle to his room. Hoax sees them having sex from his room and when Spike and Suzie leave the room, Hoax steals the panty Suzie gave to Spike and finds the flyer of his cousin. He goes to the movie theater where Suzie and Spike had gone and is bullied by the punks and the disappointed Suzie learns that he had her panty. He decides to revenge them dialing 976-EVIL and following the instructions received from the voice. Meanwhile the snoopy reporter Marty is looking for a scoop and decides to investigate the phone number with the support of Hoax's teacher Angela. [less]",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/976-evil-1989",
+                        "name": "976-EVIL",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

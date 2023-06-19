@@ -347,43 +347,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/stream/die-drei-erbe-des-drachen",
-                    "title": "Die Drei ??? - Erbe des Drachen",
-                    "author": "Tim Dünschede",
-                    "description": "Die drei ??? Justus Jonas (Julius Weckauf), Peter Shaw (Nevio Wendt) und Bob Andrews (Levi Brandl) reisen in den Sommerferien nach Rumänien, um ein Praktikum am Filmset von „Dracula Rises“ zu absolvieren, welches ihnen Peters Vaters (Mark Waschke) vermittelt hat, der bei der Produktion für die Spezialeffekte verantwortlich ist. Kaum in Transsilvanien angekommen, kommt es zu einer Serie mysteriöser Ereignisse auf dem alten Schloss von Gräfin Codrina (Gudrun Landgrebe), das dem Film als Kulisse dient. Die drei Detektive wollen herausfinden, was all das mit dem Verschwinden eines Jungen zu tun hat, der vor über 50 Jahren vom Erdboden verschwand. Dabei kommen die drei Freunde einer mysteriösen Bruderschaft und einem rätselhaften Untoten auf die Spur. Nach und nach stehen nicht nur die Dreharbeiten, sondern auch Peters Beziehung zu seinem Vater auf dem Spiel…",
-                    "genre": "Familie Abenteuer",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://filmpalast.to/files/movies/450/die-drei-erbe-des-drachen.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/stream/die-drei-erbe-des-drachen",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://enc2k1899jiuyk09bcaz.streamvid.net/hls/n5ajx6d22zmne42h4xfajazs2eq4lf2uov24gweqk,3vpkitalzneq73nziiq,arpkitalznk4jwmqmoq,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://enc2k1899jiuyk09bcaz.streamvid.net/hls/n5ajx6d22zmne42h4xfajazs2eq4lf2uov24gweqk,3vpkitalzneq73nziiq,arpkitalznk4jwmqmoq,.urlset/master.m3u8"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=mvwyY7v2wQHbwY2&expires=1687206845&ip=FROsD0ESKxSHDN&token=WVtqtpfb1YhA",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=mvwyY7v2wQHbwY2&expires=1687206845&ip=FROsD0ESKxSHDN&token=WVtqtpfb1YhA"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

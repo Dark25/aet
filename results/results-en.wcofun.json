@@ -3,145 +3,24 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/pupstruction",
-                                "title": "Pupstruction",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg"
-                            },
-                            {
-                                "url": "/anime/haileys-on-it",
-                                "title": "Hailey's On It",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg"
-                            },
-                            {
-                                "url": "/anime/duck-goose",
-                                "title": "Duck & Goose",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932957.jpg"
-                            },
-                            {
-                                "url": "/anime/farming-life-in-another-world",
-                                "title": "Farming Life in Another World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932956.jpg"
-                            },
-                            {
-                                "url": "/anime/lego-ninjago-dragons-rising",
-                                "title": "LEGO Ninjago: Dragons Rising",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
-                            },
-                            {
-                                "url": "/anime/biao-ren-blades-of-the-guardians",
-                                "title": "Biao Ren: Blades of the Guardians English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
-                            },
-                            {
-                                "url": "/anime/gremlins-secrets-of-the-mogwai",
-                                "title": "Gremlins: Secrets of the Mogwai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932950.jpg"
-                            },
-                            {
-                                "url": "/anime/tenchi-muyou-gxp-paradise-shidou-hen-english-subbed",
-                                "title": "Tenchi Muyou! GXP: Paradise Shidou-hen English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932949.jpg"
-                            },
-                            {
-                                "url": "/anime/mashle-english-dubbed",
-                                "title": "Mashle English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932948.jpg"
-                            },
-                            {
-                                "url": "/anime/oshi-no-ko-english-dubbed",
-                                "title": "Oshi No Ko English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932947.jpg"
-                            },
-                            {
-                                "url": "/anime/yakitori-soldiers-of-misfortune",
-                                "title": "Yakitori: Soldiers of Misfortune",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932946.jpg"
-                            },
-                            {
-                                "url": "/anime/drowning-sorrows-in-raging-fire",
-                                "title": "Drowning Sorrows in Raging Fire",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932945.jpg"
-                            },
-                            {
-                                "url": "/anime/kitti-katz",
-                                "title": "Kitti Katz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932944.jpg"
-                            },
-                            {
-                                "url": "/anime/bread-barbershop",
-                                "title": "Bread Barbershop",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932943.jpg"
-                            },
-                            {
-                                "url": "/anime/lego-dreamzzz-trials-of-the-dream-chasers",
-                                "title": "Lego: Dreamzzz - Trials of the Dream Chasers",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932942.jpg"
-                            },
-                            {
-                                "url": "/anime/mulligan",
-                                "title": "Mulligan",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: bruh",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/pupstruction",
-                    "title": "Pupstruction",
-                    "description": "Phinny, an innovative young corgi, might be the smallest pup on the crew, but he proves that you don’t need big paws to have big dreams or big ideas.",
-                    "genre": "Adventure, Comedy, Educational, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pupstruction-episode-8-builders-to-bakers-fire-truck-frenzy",
-                        "name": "Episode 8 Builders to Bakers / Fire Truck Frenzy",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/pupstruction-episode-7-home-stinky-home-dump-truck-dilemma",
-                        "name": "Episode 7 Home Stinky Home / Dump Truck Dilemma",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSUyJHTeRKUOHHLXJdFDkIfFf8tzf_s2cnth3YuBWCt7O1umaKWfcfsSKiZFw5pk1QGpqRuf7lvQXqX8edimO8bwSz0ymoTiYC6HHG_D-pWG7JxSBKsMsMQz8Fto_Do2OFoN3Uz9z244ecRueBXEvHBkBxSnI_NdTSfNikqy1L6K9PDfart4eGNDtswsNIaKB_A45Ym89o1pQmWw44IlrlBESM77yIZFBEZDgZm_imaM_TuOpyoK1N5Zsy7SHV6-BX_8nNzeaKAXqy0L0bEh4PRb0NOKCJUP0R2CXDfi2ULAM",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSUyJHTeRKUOHHLXJdFDkIfFf8tzf_s2cnth3YuBWCt7O1umaKWfcfsSKiZFw5pk1QGpqRuf7lvQXqX8edimO8bwSz0ymoTiYC6HHG_D-pWG7JxSBKsMsMQz8Fto_Do2OFoN3Uz9z244ecRueBXEvHBkBxSnI_NdTSfNikqy1L6K9PDfart4eGNDtswsNIaKB_A45Ym89o1pQmWw44IlrlBESM77yIZFBEZDgZm_imaM_TuOpyoK1N5Zsy7SHV6-BX_8nNzeaKAXqy0L0bEh4PRb0NOKCJUP0R2CXDfi2ULAM"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSQt91Bv-Tieo1REQp3OEaCVJIaJMThrNjRLULpq3AWdLIMhriTUm4rfoj-XMAoALxjV6_DF2CiGND6NgTjHQ-4Ic1o3jEuna7Tzx_xP9Ec9Br7h7y3aTMUmaSm7vdCzjqtgKKOUAiIvOUxcfUIVFMyDFQtinpyo3zOuSsfgg-OqWt8UDyr03Wi2K2BFlovlEZ7z4p4nSMZ2J8hJHKhdGyxoHqaLjjUGWC-vkWf-ewgUCEhCuXQObslUqrrlKXh9sao09L7oSTgR8_ubpUfWymPD7u5J5fXfl2pOOwn6PFSf8",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSQt91Bv-Tieo1REQp3OEaCVJIaJMThrNjRLULpq3AWdLIMhriTUm4rfoj-XMAoALxjV6_DF2CiGND6NgTjHQ-4Ic1o3jEuna7Tzx_xP9Ec9Br7h7y3aTMUmaSm7vdCzjqtgKKOUAiIvOUxcfUIVFMyDFQtinpyo3zOuSsfgg-OqWt8UDyr03Wi2K2BFlovlEZ7z4p4nSMZ2J8hJHKhdGyxoHqaLjjUGWC-vkWf-ewgUCEhCuXQObslUqrrlKXh9sao09L7oSTgR8_ubpUfWymPD7u5J5fXfl2pOOwn6PFSf8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

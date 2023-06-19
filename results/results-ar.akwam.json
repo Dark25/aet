@@ -32,6 +32,11 @@
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/GnOaF.jpg"
                             },
                             {
+                                "url": "/movie/8682/an-unforgettable-year-summer",
+                                "title": "An Unforgettable Year: Summer",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/syGph.jpg"
+                            },
+                            {
                                 "url": "/movie/8664/passengers",
                                 "title": "Passengers",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/GBThF.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/movie/8666/about-my-father",
                                 "title": "About My Father",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/Pq71Y.jpg"
-                            },
-                            {
-                                "url": "/movie/8665/chevalier",
-                                "title": "Chevalier",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/SWh4r.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -285,64 +285,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s103.akw.onl/download/1687198490/648f499a48df7/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s103.akw.onl/download/1687198490/648f499a48df7/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s104.akw.onl/download/1687198490/648f499a78d38/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s104.akw.onl/download/1687198490/648f499a78d38/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s201d2.akdl.link/download/1687198490/648f499aa0ca2/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s201d2.akdl.link/download/1687198490/648f499aa0ca2/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s202d1.akdl.link/download/1687198490/648f499ac9eef/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s202d1.akdl.link/download/1687198490/648f499ac9eef/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s203d1.akdl.link/download/1687198490/648f499af1d2b/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s203d1.akdl.link/download/1687198490/648f499af1d2b/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d1.akdl.link/download/1687198491/648f499b24d8b/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s204d1.akdl.link/download/1687198491/648f499b24d8b/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s205d2.akdl.link/download/1687198491/648f499ba8202/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s205d2.akdl.link/download/1687198491/648f499ba8202/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1687198491/648f499bcf834/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1687198491/648f499bcf834/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1687198495/648f499f2009c/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1687198495/648f499f2009c/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s305d1.akdl.link/download/1687198498/648f49a2bceae/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s305d1.akdl.link/download/1687198498/648f49a2bceae/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d2.akdl.link/download/1687198498/648f49a2e45f3/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s204d2.akdl.link/download/1687198498/648f49a2e45f3/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

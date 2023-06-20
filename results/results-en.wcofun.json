@@ -114,12 +114,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/not-quite-narwhal-episode-27-chef-js-tale",
+                        "name": "Episode 27 Chef J’s Tale",
+                        "episode_number": 27.0
+                    },
+                    {
+                        "url": "/not-quite-narwhal-episode-26-puff-fruit",
+                        "name": "Episode 26 Puff Fruit",
+                        "episode_number": 26.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkQ8zGZpArBvYK_hkm8tzP40g8oNnKUe9AIxMAzN1O0MdPSWF-AmP75vPXqgaish9L4S1DCjW8bYGnbw0ObA5Bm4S97fY9V1CwevxhmYa0KZImie6vYFfcukUdbtP9g1xsKwi4co_W9va619WTFPgoF9kcTjy3FeULbndXHrsJ_xstLyrX0oyTkKisqdoB1_bvJxJtA2cLtigMYQZS9LOgX6G7Dz6wrlsjGgJZduLK9SX8q_vBW2mBjkA_X3lPBmbypR6bFcd23pq9EmwISAejiCxaJhRMqNhg-qb26x6p3VA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkQ8zGZpArBvYK_hkm8tzP40g8oNnKUe9AIxMAzN1O0MdPSWF-AmP75vPXqgaish9L4S1DCjW8bYGnbw0ObA5Bm4S97fY9V1CwevxhmYa0KZImie6vYFfcukUdbtP9g1xsKwi4co_W9va619WTFPgoF9kcTjy3FeULbndXHrsJ_xstLyrX0oyTkKisqdoB1_bvJxJtA2cLtigMYQZS9LOgX6G7Dz6wrlsjGgJZduLK9SX8q_vBW2mBjkA_X3lPBmbypR6bFcd23pq9EmwISAejiCxaJhRMqNhg-qb26x6p3VA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5Uka6xRsl1ONPNbeSiLCBM6k-gB1xp_jFbXkuvHHkPZmfvHPxghsqO1BfWDjQw8s7SAtABXXqeB6Qn2oTtkyDh0XzmFg9oUh76FL-Klm77H1XVqnBIUwmh_vMKVtwlQa7fXTM2o3h6BvzaQ9cJ8QrejZ_Jp5AeVyDPUazl3Dv-4xEKZf19Te0gvFsdVBq12Upi9jX5CsAi46dtRRvsGjlQlgTh_xtPiY1VM-zsMYQkVHjR6_DkVOQ0tVwNlo9HmrPG9kIIqzj_KyuS0eTcpllqVeNoCPSzAkwNIne0lwzX8PE0",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5Uka6xRsl1ONPNbeSiLCBM6k-gB1xp_jFbXkuvHHkPZmfvHPxghsqO1BfWDjQw8s7SAtABXXqeB6Qn2oTtkyDh0XzmFg9oUh76FL-Klm77H1XVqnBIUwmh_vMKVtwlQa7fXTM2o3h6BvzaQ9cJ8QrejZ_Jp5AeVyDPUazl3Dv-4xEKZf19Te0gvFsdVBq12Upi9jX5CsAi46dtRRvsGjlQlgTh_xtPiY1VM-zsMYQkVHjR6_DkVOQ0tVwNlo9HmrPG9kIIqzj_KyuS0eTcpllqVeNoCPSzAkwNIne0lwzX8PE0"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkRE6Bu-qeay65YiK8KSUXW3SlGxzHRGkN_Mgk4cCLkq0jhUWYMPLYjEjl-thtJ2VxlwKhMrvHGlnNm7x6sWLFDikuuKb9B51KkA8Y-5kq4OysmS0oJHvUJ_9S-jIM-YHPpFNuTFmBpHwIC8ksmJKOekDlamuHQCteQmmSSmzbvzT_I_NrrvzYXSlZGYyoJDS4CY6BdijvF6rVEGGpVtIrjuqAzzz8XunF8bn0ZYsDVPKa3yDU9_EUCUiX4VO3cFTK_np_DPG2axyc9X5l3GjL0MiWotwQ6Eh6hJBqWVh_Wmk",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkRE6Bu-qeay65YiK8KSUXW3SlGxzHRGkN_Mgk4cCLkq0jhUWYMPLYjEjl-thtJ2VxlwKhMrvHGlnNm7x6sWLFDikuuKb9B51KkA8Y-5kq4OysmS0oJHvUJ_9S-jIM-YHPpFNuTFmBpHwIC8ksmJKOekDlamuHQCteQmmSSmzbvzT_I_NrrvzYXSlZGYyoJDS4CY6BdijvF6rVEGGpVtIrjuqAzzz8XunF8bn0ZYsDVPKa3yDU9_EUCUiX4VO3cFTK_np_DPG2axyc9X5l3GjL0MiWotwQ6Eh6hJBqWVh_Wmk"
+                    }
+                ],
+                "passed": true
             }
         }
     }

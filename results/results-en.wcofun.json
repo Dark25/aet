@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/not-quite-narwhal",
+                                "title": "Not Quite Narwhal",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg"
+                            },
+                            {
                                 "url": "/anime/pupstruction",
                                 "title": "Pupstruction",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/lego-dreamzzz-trials-of-the-dream-chasers",
                                 "title": "Lego: Dreamzzz - Trials of the Dream Chasers",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932942.jpg"
-                            },
-                            {
-                                "url": "/anime/mulligan",
-                                "title": "Mulligan",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -104,44 +104,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/pupstruction",
-                    "title": "Pupstruction",
-                    "description": "Phinny, an innovative young corgi, might be the smallest pup on the crew, but he proves that you don’t need big paws to have big dreams or big ideas.",
-                    "genre": "Adventure, Comedy, Educational, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg",
+                    "url": "/anime/not-quite-narwhal",
+                    "title": "Not Quite Narwhal",
+                    "description": "Not Quite Narwhal follows curious and fun-loving Kelp, who has always believed he’s a narwhal like the rest of his family under the sea, until the day he makes the most amazing discovery – he’s actually a unicorn.",
+                    "genre": "Adventure, Comedy, Kids, Music, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pupstruction-episode-8-builders-to-bakers-fire-truck-frenzy",
-                        "name": "Episode 8 Builders to Bakers / Fire Truck Frenzy",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/pupstruction-episode-7-home-stinky-home-dump-truck-dilemma",
-                        "name": "Episode 7 Home Stinky Home / Dump Truck Dilemma",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSUyJHTeRKUOHHLXJdFDkIfFf8tzf_s2cnth3YuBWCt7O1umaKWfcfsSKiZFw5pk1QGpqRuf7lvQXqX8edimO8bwSz0ymoTiYC6HHG_D-pWG7JxSBKsMsMQz8Fto_Do2OFoN3Uz9z244ecRueBXEvHBkBxSnI_NdTSfNikqy1L6K9PDfart4eGNDtswsNIaKB_ZL1J3NMVQP1vh9CqFilSwlE26wtBnSn_auODgCTBlT7Qn3bNkYITDkRQp0nwkRSGErFnbNhGG00DowgBK1C43ic5dUq9twwL4lGtjEsE5ps",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSUyJHTeRKUOHHLXJdFDkIfFf8tzf_s2cnth3YuBWCt7O1umaKWfcfsSKiZFw5pk1QGpqRuf7lvQXqX8edimO8bwSz0ymoTiYC6HHG_D-pWG7JxSBKsMsMQz8Fto_Do2OFoN3Uz9z244ecRueBXEvHBkBxSnI_NdTSfNikqy1L6K9PDfart4eGNDtswsNIaKB_ZL1J3NMVQP1vh9CqFilSwlE26wtBnSn_auODgCTBlT7Qn3bNkYITDkRQp0nwkRSGErFnbNhGG00DowgBK1C43ic5dUq9twwL4lGtjEsE5ps"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSQt91Bv-Tieo1REQp3OEaCVJIaJMThrNjRLULpq3AWdLIMhriTUm4rfoj-XMAoALxjV6_DF2CiGND6NgTjHQ-4Ic1o3jEuna7Tzx_xP9Ec9Br7h7y3aTMUmaSm7vdCzjqtgKKOUAiIvOUxcfUIVFMyDFQtinpyo3zOuSsfgg-OqWt8UDyr03Wi2K2BFlovlEZxlwIVu1ZFUReuCA1o6yNRjkDN8UwYoe_RUmmJvoDUqIzwfXenkgtp1izD3djrufXen8PGbO9l4Jd9UzOWTA8U_ks9w9T5wxZ1WYXwV7oPxM",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSQt91Bv-Tieo1REQp3OEaCVJIaJMThrNjRLULpq3AWdLIMhriTUm4rfoj-XMAoALxjV6_DF2CiGND6NgTjHQ-4Ic1o3jEuna7Tzx_xP9Ec9Br7h7y3aTMUmaSm7vdCzjqtgKKOUAiIvOUxcfUIVFMyDFQtinpyo3zOuSsfgg-OqWt8UDyr03Wi2K2BFlovlEZxlwIVu1ZFUReuCA1o6yNRjkDN8UwYoe_RUmmJvoDUqIzwfXenkgtp1izD3djrufXen8PGbO9l4Jd9UzOWTA8U_ks9w9T5wxZ1WYXwV7oPxM"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

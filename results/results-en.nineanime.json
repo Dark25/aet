@@ -132,11 +132,6 @@
                                 "thumbnail_url": "https://static.bunnycdn.ru/i/cache/images/e/ea/ea82bf860735baec3d244cb53b1abf22.jpg"
                             },
                             {
-                                "url": "/watch/kanojo-ga-koushaku-tei-ni-itta-riyuu.8022o",
-                                "title": "Why Raeliana Ended Up at the Duke’s Mansion",
-                                "thumbnail_url": "https://static.bunnycdn.ru/i/cache/images/8/8a/8ac08e2422fa889873781ee9d5482b07.jpg"
-                            },
-                            {
                                 "url": "/watch/jujutsu-kaisen.32n8",
                                 "title": "JUJUTSU KAISEN",
                                 "thumbnail_url": "https://static.bunnycdn.ru/i/cache/images/6/69/69243987e9a44f1090062f56c213fce0.jpg"
@@ -145,6 +140,11 @@
                                 "url": "/watch/kuma-kuma-kuma-bear-2.vkw7",
                                 "title": "Kuma Kuma Kuma Bear - Punch!",
                                 "thumbnail_url": "https://static.bunnycdn.ru/i/cache/images/2/24/243a19fcaddacb22f85fefb6ee9a6a3e.jpg"
+                            },
+                            {
+                                "url": "/watch/kanojo-ga-koushaku-tei-ni-itta-riyuu.8022o",
+                                "title": "Why Raeliana Ended Up at the Duke’s Mansion",
+                                "thumbnail_url": "https://static.bunnycdn.ru/i/cache/images/8/8a/8ac08e2422fa889873781ee9d5482b07.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -466,12 +466,71 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: Too many requests, please try again later.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "HTWaCssm&epurl=/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc.3r7p6/ep-11",
+                        "name": "Episode 11: A Connected Bond: Daybreak and First Light",
+                        "episode_number": 11.0,
+                        "scanlator": "Sub"
+                    },
+                    {
+                        "url": "HTWbDMov&epurl=/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc.3r7p6/ep-10",
+                        "name": "Episode 10: Love Hashira Mitsuri Kanroji",
+                        "episode_number": 10.0,
+                        "scanlator": "Sub"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: Too many requests, please try again later.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://yzaq.vizcloud.lol//simple//EqPFJvsQWADtjDlGha7rC5Mu+1weuPa2TBt7rqk+wYMnU94US2El_Po4w12gXe6GptOSQtc//br//H4/v.m3u8",
+                        "quality": "MyCloud - Sub 1080p",
+                        "videoUrl": "https://yzaq.vizcloud.lol//simple//EqPFJvsQWADtjDlGha7rC5Mu+1weuPa2TBt7rqk+wYMnU94US2El_Po4w12gXe6GptOSQtc//br//H4/v.m3u8",
+                        "headers": {
+                            "referer": "https://mcloud.to/",
+                            "host": "yzaq.vizcloud.lol",
+                            "connection": "keep-alive"
+                        }
+                    },
+                    {
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04056/9xkvbza7h0k3_x/index-v1-a1.m3u8?t=4QSnFhOirTohoBgmm8tqIpq9Es3k7ZZN3mRsDNKhrVA&s=1687311065&e=43200&f=20283281&srv=28&asn=8075&sp=2500",
+                        "quality": "Filemoon - Sub 1080p ",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04056/9xkvbza7h0k3_x/index-v1-a1.m3u8?t=4QSnFhOirTohoBgmm8tqIpq9Es3k7ZZN3mRsDNKhrVA&s=1687311065&e=43200&f=20283281&srv=28&asn=8075&sp=2500"
+                    },
+                    {
+                        "url": "https://www13.mp4upload.com/files/5/8hbqbuzpysnwo0/video.mp4",
+                        "quality": "Mp4Upload - 1080p - Sub",
+                        "videoUrl": "https://www13.mp4upload.com/files/5/8hbqbuzpysnwo0/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://9anime.to",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://yzaq.vizcloud.lol//simple//EqPFJvsQWADtjDlGha7rC5Mu+1weuPa2TBt7rqk+wYMnU94US2El_Po4w12gXe6GptOSQtc//br//H3/v.m3u8",
+                        "quality": "MyCloud - Sub 720p",
+                        "videoUrl": "https://yzaq.vizcloud.lol//simple//EqPFJvsQWADtjDlGha7rC5Mu+1weuPa2TBt7rqk+wYMnU94US2El_Po4w12gXe6GptOSQtc//br//H3/v.m3u8",
+                        "headers": {
+                            "referer": "https://mcloud.to/",
+                            "host": "yzaq.vizcloud.lol",
+                            "connection": "keep-alive"
+                        }
+                    },
+                    {
+                        "url": "https://yzaq.vizcloud.lol//simple//EqPFJvsQWADtjDlGha7rC5Mu+1weuPa2TBt7rqk+wYMnU94US2El_Po4w12gXe6GptOSQtc//br//H1/v.m3u8",
+                        "quality": "MyCloud - Sub 360p",
+                        "videoUrl": "https://yzaq.vizcloud.lol//simple//EqPFJvsQWADtjDlGha7rC5Mu+1weuPa2TBt7rqk+wYMnU94US2El_Po4w12gXe6GptOSQtc//br//H1/v.m3u8",
+                        "headers": {
+                            "referer": "https://mcloud.to/",
+                            "host": "yzaq.vizcloud.lol",
+                            "connection": "keep-alive"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,135 +3,23 @@
         "name": "TioAnime",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/black-clover-mahou-tei-no-ken",
-                                "title": "Black Clover: Mahou Tei no Ken",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3854.jpg"
-                            },
-                            {
-                                "url": "/anime/5toubun-no-hanayome-movie",
-                                "title": "5-toubun no Hanayome Movie",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3853.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-ga-aishita-subete-no-kimi-e",
-                                "title": "Boku ga Aishita Subete no Kimi e",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3852.jpg"
-                            },
-                            {
-                                "url": "/anime/kimi-wo-aishita-hitori-no-boku-e",
-                                "title": "Kimi wo Aishita Hitori no Boku e",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3851.jpg"
-                            },
-                            {
-                                "url": "/anime/tensei-shitara-slime-datta-ken-movie-guren-no-kizunahen",
-                                "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3850.jpg"
-                            },
-                            {
-                                "url": "/anime/niehime-to-kemono-no-ou",
-                                "title": "Niehime to Kemono no Ou",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3849.jpg"
-                            },
-                            {
-                                "url": "/anime/watashi-ni-tenshi-ga-maiorita-precious-friends",
-                                "title": "Watashi ni Tenshi ga Maiorita! Precious Friends",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3848.jpg"
-                            },
-                            {
-                                "url": "/anime/ousama-ranking-yuuki-no-takarabako",
-                                "title": "Ousama Ranking: Yuuki no Takarabako",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3847.jpg"
-                            },
-                            {
-                                "url": "/anime/oshi-no-ko",
-                                "title": "\"Oshi no Ko\"",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3845.jpg"
-                            },
-                            {
-                                "url": "/anime/majutsushi-orphen-hagure-tabi-seiikihen",
-                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3844.jpg"
-                            },
-                            {
-                                "url": "/anime/the-idolmster-cinderella-girls-u149",
-                                "title": "The [email protected] Cinderella Girls: U149",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3846.jpg"
-                            },
-                            {
-                                "url": "/anime/the-marginal-service",
-                                "title": "The Marginal Service",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3843.jpg"
-                            },
-                            {
-                                "url": "/anime/kimi-wa-houkago-insomnia",
-                                "title": "Kimi wa Houkago Insomnia",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3842.jpg"
-                            },
-                            {
-                                "url": "/anime/dead-mount-death-play",
-                                "title": "Dead Mount Death Play",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3841.jpg"
-                            },
-                            {
-                                "url": "/anime/kanojo-ga-koushakutei-ni-itta-riyuu",
-                                "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3840.jpg"
-                            },
-                            {
-                                "url": "/anime/world-dai-star",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3839.jpg"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-satohen",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3838.jpg"
-                            },
-                            {
-                                "url": "/anime/isekai-shoukan-wa-nidome-desu",
-                                "title": "Isekai Shoukan wa Nidome desu",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3837.jpg"
-                            },
-                            {
-                                "url": "/anime/otonari-ni-ginga",
-                                "title": "Otonari ni Ginga",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3836.jpg"
-                            },
-                            {
-                                "url": "/anime/rokudou-no-onnatachi",
-                                "title": "Rokudou no Onna-tachi",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3833.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "passed": false
             },
             "search": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/black-clover-mahou-tei-no-ken",
-                    "title": "Black Clover: Mahou Tei no Ken",
-                    "description": "",
-                    "genre": "Acción, Comedia, Fantasía, Shounen",
-                    "initialized": true
-                },
-                "passed": true
-            },
-            "episodes": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
                 "passed": false
             },
+            "episodes": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
@@ -144,19 +32,19 @@
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

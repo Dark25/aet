@@ -290,24 +290,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s103.akw.onl/download/1687673853/64968a7d5a43a/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s103.akw.onl/download/1687673853/64968a7d5a43a/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s209d2.akdl.link/download/1687673853/64968a7d82d97/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s209d2.akdl.link/download/1687673853/64968a7d82d97/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1687673853/64968a7daa8de/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1687673853/64968a7daa8de/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

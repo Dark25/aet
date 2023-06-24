@@ -279,14 +279,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd353.mycdn.me/?expires=1687655703405&srcIp=172.176.163.152&pr=10&srcAg=CHROME&ms=45.136.21.68&type=3&sig=q5IaphpHpcU&ct=0&urls=45.136.22.47&clientType=0&zs=43&id=4721587587741",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd353.mycdn.me/?expires=1687655703405&srcIp=172.176.163.152&pr=10&srcAg=CHROME&ms=45.136.21.68&type=3&sig=q5IaphpHpcU&ct=0&urls=45.136.22.47&clientType=0&zs=43&id=4721587587741"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

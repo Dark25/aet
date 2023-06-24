@@ -325,7 +325,8 @@
             "details": {
                 "result": {
                     "url": "/videos/clean-job-2023",
-                    "description": "",
+                    "title": "Clean Job",
+                    "description": "A criminal syndicate of desperate, poor women from the township disguise themselves as domestic workers, in order to rob rich people living in the suburbs of Johannesburg.",
                     "initialized": true
                 },
                 "passed": true
@@ -341,7 +342,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

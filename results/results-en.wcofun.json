@@ -3,145 +3,24 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/this-world-cant-tear-me-down",
-                                "title": "This World Can't Tear Me Down",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg"
-                            },
-                            {
-                                "url": "/anime/skull-island",
-                                "title": "Skull Island",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932961.jpg"
-                            },
-                            {
-                                "url": "/anime/not-quite-narwhal",
-                                "title": "Not Quite Narwhal",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg"
-                            },
-                            {
-                                "url": "/anime/pupstruction",
-                                "title": "Pupstruction",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg"
-                            },
-                            {
-                                "url": "/anime/haileys-on-it",
-                                "title": "Hailey's On It",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg"
-                            },
-                            {
-                                "url": "/anime/duck-goose",
-                                "title": "Duck & Goose",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932957.jpg"
-                            },
-                            {
-                                "url": "/anime/farming-life-in-another-world",
-                                "title": "Farming Life in Another World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932956.jpg"
-                            },
-                            {
-                                "url": "/anime/lego-ninjago-dragons-rising",
-                                "title": "LEGO Ninjago: Dragons Rising",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
-                            },
-                            {
-                                "url": "/anime/biao-ren-blades-of-the-guardians",
-                                "title": "Biao Ren: Blades of the Guardians English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
-                            },
-                            {
-                                "url": "/anime/gremlins-secrets-of-the-mogwai",
-                                "title": "Gremlins: Secrets of the Mogwai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932950.jpg"
-                            },
-                            {
-                                "url": "/anime/tenchi-muyou-gxp-paradise-shidou-hen-english-subbed",
-                                "title": "Tenchi Muyou! GXP: Paradise Shidou-hen English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932949.jpg"
-                            },
-                            {
-                                "url": "/anime/mashle-english-dubbed",
-                                "title": "Mashle English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932948.jpg"
-                            },
-                            {
-                                "url": "/anime/oshi-no-ko-english-dubbed",
-                                "title": "Oshi No Ko English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932947.jpg"
-                            },
-                            {
-                                "url": "/anime/yakitori-soldiers-of-misfortune",
-                                "title": "Yakitori: Soldiers of Misfortune",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932946.jpg"
-                            },
-                            {
-                                "url": "/anime/drowning-sorrows-in-raging-fire",
-                                "title": "Drowning Sorrows in Raging Fire",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932945.jpg"
-                            },
-                            {
-                                "url": "/anime/kitti-katz",
-                                "title": "Kitti Katz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932944.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: bruh",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/this-world-cant-tear-me-down",
-                    "title": "This World Can't Tear Me Down",
-                    "description": "The story revolves around the opening of a refugee shelter in an eastern neighbourhood of Rome, which has exacerbated tensions between neo-Nazis and local anti-fascists, including Zero. Meanwhile, an old friend returns to the neighbourhood after several years of absence and struggles to recognise the world he grew up in. Zero would like to do something for him, but realises he is unable to help him feel at home again.",
-                    "genre": "Comedy, Drama, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/this-world-cant-tear-me-down-episode-6-no-place-for-you",
-                        "name": "Episode 6 No place for you",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/this-world-cant-tear-me-down-episode-5-four-billion-light-years",
-                        "name": "Episode 5 Four billion light years",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt1RmLDgA1SKw36GqZTXp4kNPK7X8S6Elqgmpd5UEK6hFSjxuNV5qPbZX8QE5FXNaNChF055__lljn5Wz4Y-jAiLud5QvEWXySRO7c_wbY3g_bHUFj9XcLz981xOgrLwenwDEGAUgLMHZJw7E8yh8Iw2NOCSr3bbMiUBj3yoQ2vfcPakjAjZpJ7cpLDI6gQuDJlEK6F62S7AhaUT4rR3R_Sp_zPRVe5yOGQB46nQZn9o_tceyz1zM-GocstLVvaT_IRhBOES99KVeQJRxrnK7KBytfmCT1O-Tb7BAtAtdGUnXxup52Ws7R6CbYPQYtSPV1EErMvknL5zkbk4mEz5EfBGNa3nf_FUlpoi8RPjVVhu8DjAmeauJbeF78NvOYsv9kooICslsOR03_0BlxQiYZI",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt1RmLDgA1SKw36GqZTXp4kNPK7X8S6Elqgmpd5UEK6hFSjxuNV5qPbZX8QE5FXNaNChF055__lljn5Wz4Y-jAiLud5QvEWXySRO7c_wbY3g_bHUFj9XcLz981xOgrLwenwDEGAUgLMHZJw7E8yh8Iw2NOCSr3bbMiUBj3yoQ2vfcPakjAjZpJ7cpLDI6gQuDJlEK6F62S7AhaUT4rR3R_Sp_zPRVe5yOGQB46nQZn9o_tceyz1zM-GocstLVvaT_IRhBOES99KVeQJRxrnK7KBytfmCT1O-Tb7BAtAtdGUnXxup52Ws7R6CbYPQYtSPV1EErMvknL5zkbk4mEz5EfBGNa3nf_FUlpoi8RPjVVhu8DjAmeauJbeF78NvOYsv9kooICslsOR03_0BlxQiYZI"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt1RmLDgA1SKw36GqZTXp4kNPK7X8S6Elqgmpd5UEK6hFSjxuNV5qPbZX8QE5FXNaNChF055__lljn5Wz4Y-jAiLud5QvEWXySRO7c_wbY3gmmSn6lKPTrQHNp4JlbTOkIVkSTYuWUWfSGfNlIs3Bv_iBZj7AMW8tZfAkhIVfbrzQqaG73cXrxDOMFTWGeLVaHxdkVVYE5C1HvrLRQxj6Tl0vsAVpsld_PQnLjT6IhBjl-pQyb-CKuRxsoyK1z8S-S1xItx_aEJ5fNkXM2xgBBR8dxjDv5OHmpSOe6AaPY03ekCcbkdrF5f4UkixcgMoRR8rMaA44b-VjF1N91iS5S1UGoX6r3O0Bor3x6hL0bv2lqMChvp-Hd5-0DBps-oKEw",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt1RmLDgA1SKw36GqZTXp4kNPK7X8S6Elqgmpd5UEK6hFSjxuNV5qPbZX8QE5FXNaNChF055__lljn5Wz4Y-jAiLud5QvEWXySRO7c_wbY3gmmSn6lKPTrQHNp4JlbTOkIVkSTYuWUWfSGfNlIs3Bv_iBZj7AMW8tZfAkhIVfbrzQqaG73cXrxDOMFTWGeLVaHxdkVVYE5C1HvrLRQxj6Tl0vsAVpsld_PQnLjT6IhBjl-pQyb-CKuRxsoyK1z8S-S1xItx_aEJ5fNkXM2xgBBR8dxjDv5OHmpSOe6AaPY03ekCcbkdrF5f4UkixcgMoRR8rMaA44b-VjF1N91iS5S1UGoX6r3O0Bor3x6hL0bv2lqMChvp-Hd5-0DBps-oKEw"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

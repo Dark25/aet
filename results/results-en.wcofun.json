@@ -3,16 +3,115 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: bruh",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/saving-me",
+                                "title": "Saving Me",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932965.jpg"
+                            },
+                            {
+                                "url": "/anime/genjitsu-no-rimuru-sunshine-in-the-slime-english-subbed",
+                                "title": "Genjitsu no Rimuru: Sunshine in the Slime English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932964.jpg"
+                            },
+                            {
+                                "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror-english-subbed",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932963.jpg"
+                            },
+                            {
+                                "url": "/anime/this-world-cant-tear-me-down",
+                                "title": "This World Can't Tear Me Down",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg"
+                            },
+                            {
+                                "url": "/anime/skull-island",
+                                "title": "Skull Island",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932961.jpg"
+                            },
+                            {
+                                "url": "/anime/not-quite-narwhal",
+                                "title": "Not Quite Narwhal",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg"
+                            },
+                            {
+                                "url": "/anime/pupstruction",
+                                "title": "Pupstruction",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg"
+                            },
+                            {
+                                "url": "/anime/haileys-on-it",
+                                "title": "Hailey's On It",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg"
+                            },
+                            {
+                                "url": "/anime/duck-goose",
+                                "title": "Duck & Goose",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932957.jpg"
+                            },
+                            {
+                                "url": "/anime/farming-life-in-another-world",
+                                "title": "Farming Life in Another World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932956.jpg"
+                            },
+                            {
+                                "url": "/anime/lego-ninjago-dragons-rising",
+                                "title": "LEGO Ninjago: Dragons Rising",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
+                            },
+                            {
+                                "url": "/anime/biao-ren-blades-of-the-guardians",
+                                "title": "Biao Ren: Blades of the Guardians English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
+                            },
+                            {
+                                "url": "/anime/gremlins-secrets-of-the-mogwai",
+                                "title": "Gremlins: Secrets of the Mogwai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932950.jpg"
+                            },
+                            {
+                                "url": "/anime/tenchi-muyou-gxp-paradise-shidou-hen-english-subbed",
+                                "title": "Tenchi Muyou! GXP: Paradise Shidou-hen English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932949.jpg"
+                            },
+                            {
+                                "url": "/anime/mashle-english-dubbed",
+                                "title": "Mashle English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932948.jpg"
+                            },
+                            {
+                                "url": "/anime/oshi-no-ko-english-dubbed",
+                                "title": "Oshi No Ko English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932947.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/anime/saving-me",
+                    "title": "Saving Me",
+                    "description": "In the far future, 61-year-old Bennett Bramble is lonely and has garnered a negative reputation. He has tried ways to become less hated in the present, to no avail. With no other ways to fix his reputation, Bennett builds a time machine that allows him to travel into the past as a conscious and enter the mind of his younger 11-year-old self.",
+                    "genre": "Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932965.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",

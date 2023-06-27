@@ -325,24 +325,17 @@
             "details": {
                 "result": {
                     "url": "/videos/take-care-of-maya-2023",
-                    "title": "Take Care of Maya",
-                    "description": "As a medical team tries to understand 10-year-old Maya Kowalski's rare illness, they begin to question her parents. Suddenly, Maya is in state custody - despite a family desperate to bring their daughter home.",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/take-care-of-maya-2023",
-                        "name": "Take Care of Maya",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

@@ -15,11 +15,11 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: The source provides ZERO episodes.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {

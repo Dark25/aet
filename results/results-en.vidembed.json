@@ -7,9 +7,34 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/run-rabbit-run-2023",
+                                "title": "Run Rabbit Run",
+                                "thumbnail_url": "https://images.movembed.cc//cover/run-rabbit-run-2023-1687945224.jpg"
+                            },
+                            {
+                                "url": "/videos/past-lives-2023",
+                                "title": "Past Lives",
+                                "thumbnail_url": "https://images.movembed.cc//cover/past-lives-2023-1687938924.jpg"
+                            },
+                            {
+                                "url": "/videos/freedom-uncut-2022",
+                                "title": "Freedom Uncut",
+                                "thumbnail_url": "https://images.movembed.cc//cover/freedom-uncut-2022-1687938924.jpg"
+                            },
+                            {
+                                "url": "/videos/daughter-of-the-bride-2023",
+                                "title": "Daughter of the Bride",
+                                "thumbnail_url": "https://images.movembed.cc//cover/daughter-of-the-bride-2023-1687936227.jpg"
+                            },
+                            {
                                 "url": "/videos/chhichhore-2019",
                                 "title": "Chhichhore",
                                 "thumbnail_url": "https://images.movembed.cc//cover/chhichhore-2019-1687923625.jpg"
+                            },
+                            {
+                                "url": "/videos/doctor-g-2022",
+                                "title": "Doctor G",
+                                "thumbnail_url": "https://images.movembed.cc//cover/doctor-g-2022-1687923624.jpg"
                             },
                             {
                                 "url": "/videos/daawat-e-ishq-2014",
@@ -130,31 +155,6 @@
                                 "url": "/videos/the-dancing-detective-a-deadly-tango-2023",
                                 "title": "The Dancing Detective: A Deadly Tango",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-dancing-detective-a-deadly-tango-2023-1687767628.jpg"
-                            },
-                            {
-                                "url": "/videos/rockshow-1980",
-                                "title": "Rockshow",
-                                "thumbnail_url": "https://images.movembed.cc//cover/rockshow-1980-1687767627.jpg"
-                            },
-                            {
-                                "url": "/videos/love-at-large-1990",
-                                "title": "Love at Large",
-                                "thumbnail_url": "https://images.movembed.cc//cover/love-at-large-1990-1687767627.jpg"
-                            },
-                            {
-                                "url": "/videos/tom-papa-what-a-day-2022",
-                                "title": "Tom Papa: What a Day!",
-                                "thumbnail_url": "https://images.movembed.cc//cover/tom-papa-what-a-day-2022-1687767626.jpg"
-                            },
-                            {
-                                "url": "/videos/5-a-day-2009",
-                                "title": "$5 a Day",
-                                "thumbnail_url": "https://images.movembed.cc//cover/5-a-day-2009-1687767626.jpg"
-                            },
-                            {
-                                "url": "/videos/big-mammas-boy-2011",
-                                "title": "Big Mamma's Boy",
-                                "thumbnail_url": "https://images.movembed.cc//cover/big-mammas-boy-2011-1687767625.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/chhichhore-2019",
-                    "title": "Chhichhore",
-                    "description": "A tragic incident forces Anirudh, a middle-aged man, to take a trip down memory lane and reminisce his college days along with his friends, who were labelled as losers.",
+                    "url": "/videos/run-rabbit-run-2023",
+                    "title": "Run Rabbit Run",
+                    "description": "Sarah Snook plays a fertility doctor who believes firmly in life and death, but after noticing the strange behavior of her young daughter, must challenge her own values and confront a ghost from her past.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,25 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/chhichhore-2019",
-                        "name": "Chhichhore",
+                        "url": "/videos/run-rabbit-run-2023",
+                        "name": "Run Rabbit Run",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/Z31VXJvDgbtqQp6/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/Z31VXJvDgbtqQp6/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NTk0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "AnimeFlix",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "details": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "episodes": {
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]

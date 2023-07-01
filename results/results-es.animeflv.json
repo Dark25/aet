@@ -336,14 +336,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1688244552&ip=F0AsERInDS9X&token=7htAviiWK5fo",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1688244552&ip=F0AsERInDS9X&token=7htAviiWK5fo"
+                        "url": "https://delivery240.akamai-video-content.com/hls2/01/12361/qlkcf3dlpk2x_n/index-v1-a1.m3u8?t=5dWQwB5yaYrZoaZe-ZLKiK9aI_aLnz5Merx2HKTW4h4&s=1688192212&e=10800&f=61808073&srv=zkdtlldyxvlbhjrjstqe&client=20.44.101.0&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery240.akamai-video-content.com/hls2/01/12361/qlkcf3dlpk2x_n/index-v1-a1.m3u8?t=5dWQwB5yaYrZoaZe-ZLKiK9aI_aLnz5Merx2HKTW4h4&s=1688192212&e=10800&f=61808073&srv=zkdtlldyxvlbhjrjstqe&client=20.44.101.0&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://embedsb.com/e/qlkcf3dlpk2x.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
                     },
                     {
-                        "url": "https://vidcache.net:8161/a202306302E4s127VKhC/video.mp4",
+                        "url": "https://delivery240.akamai-video-content.com/hls2/01/12361/qlkcf3dlpk2x_l/index-v1-a1.m3u8?t=5dWQwB5yaYrZoaZe-ZLKiK9aI_aLnz5Merx2HKTW4h4&s=1688192212&e=10800&f=61808073&srv=zkdtlldyxvlbhjrjstqe&client=20.44.101.0&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery240.akamai-video-content.com/hls2/01/12361/qlkcf3dlpk2x_l/index-v1-a1.m3u8?t=5dWQwB5yaYrZoaZe-ZLKiK9aI_aLnz5Merx2HKTW4h4&s=1688192212&e=10800&f=61808073&srv=zkdtlldyxvlbhjrjstqe&client=20.44.101.0&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://embedsb.com/e/qlkcf3dlpk2x.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1688262215&ip=FROsExqnDS9X&token=qbRd9UitnOyA",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1688262215&ip=FROsExqnDS9X&token=qbRd9UitnOyA"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20230630tHm6236s5rt/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202306302E4s127VKhC/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20230630tHm6236s5rt/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://www.yourupload.com/"

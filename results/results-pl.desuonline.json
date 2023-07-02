@@ -92,14 +92,14 @@
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2022/09/szpieg-x-familia-okladka-2-czesc.jpg"
                             },
                             {
-                                "url": "/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru/",
-                                "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
-                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2021/09/najlepszy-zabojca-okladka.jpg"
-                            },
-                            {
                                 "url": "/anime/horimiya/",
                                 "title": "Horimiya",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2020/11/Horimiya.jpg"
+                            },
+                            {
+                                "url": "/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru/",
+                                "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2021/09/najlepszy-zabojca-okladka.jpg"
                             },
                             {
                                 "url": "/anime/kimetsu-no-yaiba-yuukaku-hen/",
@@ -448,46 +448,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/one-piece-odcinek-1030/",
-                        "name": "Odcinek 1030 (filler): Przysięga nowej ery! Luffy i Uta!",
-                        "date_upload": 1661040000000,
-                        "episode_number": 1030.0
-                    },
-                    {
-                        "url": "/one-piece-odcinek-1029/",
-                        "name": "Odcinek 1029 (filler): Mgliste wspomnienie! Luffy i córka Rudowłosego, Uta!",
-                        "date_upload": 1660521600000,
-                        "episode_number": 1029.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vwaw623.cda.pl/wDbX66xpm88NLuzPA1xGkA/1688343928/hd3a1a583f3660b38637e496bf0f86db8a.mp4",
-                        "quality": "CDA (FujiSubs): 1080p",
-                        "videoUrl": "https://vwaw623.cda.pl/wDbX66xpm88NLuzPA1xGkA/1688343928/hd3a1a583f3660b38637e496bf0f86db8a.mp4"
-                    },
-                    {
-                        "url": "https://vwaw363.cda.pl/noLdLFr9P4XBX-LTFQCILg/1688343928/sd3a1a583f3660b38637e496bf0f86db8a.mp4",
-                        "quality": "CDA (FujiSubs): 720p",
-                        "videoUrl": "https://vwaw363.cda.pl/noLdLFr9P4XBX-LTFQCILg/1688343928/sd3a1a583f3660b38637e496bf0f86db8a.mp4"
-                    },
-                    {
-                        "url": "https://vwaw095.cda.pl/CuTGKQiibJ06XTUoAnwEtg/1688343929/lq3a1a583f3660b38637e496bf0f86db8a.mp4",
-                        "quality": "CDA (FujiSubs): 480p",
-                        "videoUrl": "https://vwaw095.cda.pl/CuTGKQiibJ06XTUoAnwEtg/1688343929/lq3a1a583f3660b38637e496bf0f86db8a.mp4"
-                    },
-                    {
-                        "url": "https://vwaw640.cda.pl/k8hJiQRTYKWLybjMZE6BbA/1688343929/vl3a1a583f3660b38637e496bf0f86db8a.mp4",
-                        "quality": "CDA (FujiSubs): 360p",
-                        "videoUrl": "https://vwaw640.cda.pl/k8hJiQRTYKWLybjMZE6BbA/1688343929/vl3a1a583f3660b38637e496bf0f86db8a.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

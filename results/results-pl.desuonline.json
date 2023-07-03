@@ -448,12 +448,46 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/one-piece-odcinek-1030/",
+                        "name": "Odcinek 1030 (filler): Przysięga nowej ery! Luffy i Uta!",
+                        "date_upload": 1661040000000,
+                        "episode_number": 1030.0
+                    },
+                    {
+                        "url": "/one-piece-odcinek-1029/",
+                        "name": "Odcinek 1029 (filler): Mgliste wspomnienie! Luffy i córka Rudowłosego, Uta!",
+                        "date_upload": 1660521600000,
+                        "episode_number": 1029.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vwaw623.cda.pl/NLqROrXCJrTY6XhJI2V7BA/1688390375/hd3a1a583f3660b38637e496bf0f86db8a.mp4",
+                        "quality": "CDA (FujiSubs): 1080p",
+                        "videoUrl": "https://vwaw623.cda.pl/NLqROrXCJrTY6XhJI2V7BA/1688390375/hd3a1a583f3660b38637e496bf0f86db8a.mp4"
+                    },
+                    {
+                        "url": "https://vwaw388.cda.pl/dzh8W1r9_X-6Lp84erUmxQ/1688390376/sd3a1a583f3660b38637e496bf0f86db8a.mp4",
+                        "quality": "CDA (FujiSubs): 720p",
+                        "videoUrl": "https://vwaw388.cda.pl/dzh8W1r9_X-6Lp84erUmxQ/1688390376/sd3a1a583f3660b38637e496bf0f86db8a.mp4"
+                    },
+                    {
+                        "url": "https://vwaw068.cda.pl/9OxyChegGf86WdCos1tcPw/1688390376/lq3a1a583f3660b38637e496bf0f86db8a.mp4",
+                        "quality": "CDA (FujiSubs): 480p",
+                        "videoUrl": "https://vwaw068.cda.pl/9OxyChegGf86WdCos1tcPw/1688390376/lq3a1a583f3660b38637e496bf0f86db8a.mp4"
+                    },
+                    {
+                        "url": "https://vwaw652.cda.pl/Q2vpGbojxfWnEvDe1O_mwA/1688390376/vl3a1a583f3660b38637e496bf0f86db8a.mp4",
+                        "quality": "CDA (FujiSubs): 360p",
+                        "videoUrl": "https://vwaw652.cda.pl/Q2vpGbojxfWnEvDe1O_mwA/1688390376/vl3a1a583f3660b38637e496bf0f86db8a.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

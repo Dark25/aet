@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/unknown-the-lost-pyramid-2023",
+                                "title": "Unknown: The Lost Pyramid",
+                                "thumbnail_url": "https://images.movembed.cc//cover/unknown-the-lost-pyramid-2023-1688383827.jpg"
+                            },
+                            {
                                 "url": "/videos/lakshya-2004",
                                 "title": "Lakshya",
                                 "thumbnail_url": "https://images.movembed.cc//cover/lakshya-2004-1688379028.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/200-pounds-beauty-2023",
                                 "title": "200 Pounds Beauty",
                                 "thumbnail_url": "https://images.movembed.cc//cover/200-pounds-beauty-2023-1688204724.jpg"
-                            },
-                            {
-                                "url": "/videos/sins-of-the-preachers-wife-2023",
-                                "title": "Sins of the Preacher's Wife",
-                                "thumbnail_url": "https://images.movembed.cc//cover/sins-of-the-preachers-wife-2023-1688188824.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,22 +324,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/lakshya-2004",
-                    "title": "Lakshya",
-                    "description": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",
+                    "url": "/videos/unknown-the-lost-pyramid-2023",
+                    "title": "Unknown: The Lost Pyramid",
+                    "description": "In the sands of Saqqara, two of the world's most famous Egyptologists, Dr. Zahi Hawass and his protege and rival, Dr. Mostafa Waziri race with their teams against the clock to see who will make the biggest discovery.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/lakshya-2004",
-                        "name": "Lakshya",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

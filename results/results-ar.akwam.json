@@ -295,24 +295,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s206d1.akdl.link/download/1688537896/64a3b9a8c28ec/The.Human.Centipede.III.2015.1080p.BluRay.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1688537896/64a3b9a8c28ec/The.Human.Centipede.III.2015.1080p.BluRay.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d2.akdl.link/download/1688537896/64a3b9a8f0ca5/The.Human.Centipede.III.2015.720p.BluRay.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s204d2.akdl.link/download/1688537896/64a3b9a8f0ca5/The.Human.Centipede.III.2015.720p.BluRay.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d2.akdl.link/download/1688537897/64a3b9a9249c2/The.Human.Centipede.III.2015.480p.BluRay.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s204d2.akdl.link/download/1688537897/64a3b9a9249c2/The.Human.Centipede.III.2015.480p.BluRay.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

@@ -325,7 +325,8 @@
             "details": {
                 "result": {
                     "url": "/videos/medusas-venom-2023",
-                    "description": "",
+                    "title": "Medusa's Venom",
+                    "description": "The beast is back and her venom is deadlier than ever. When newcomer Lola is welcomed into Medusa's circle, she endures a ritual to bring her closer to her new sisters.",
                     "initialized": true
                 },
                 "passed": true
@@ -341,17 +342,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/a4v1XgQpPVfxG9d/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/a4v1XgQpPVfxG9d/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0NjUx"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

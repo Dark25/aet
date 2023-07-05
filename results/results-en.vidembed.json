@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/we-are-still-here-2022",
+                                "title": "We Are Still Here",
+                                "thumbnail_url": "https://images.movembed.cc//cover/we-are-still-here-2022-1688561128.jpg"
+                            },
+                            {
                                 "url": "/videos/wham-2023",
                                 "title": "Wham!",
                                 "thumbnail_url": "https://images.movembed.cc//cover/wham-2023-1688549728.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/soundproof-2023",
                                 "title": "Soundproof",
                                 "thumbnail_url": "https://images.movembed.cc//cover/soundproof-2023-1688349026.jpg"
-                            },
-                            {
-                                "url": "/videos/waterlily-jaguar-2020",
-                                "title": "Waterlily Jaguar",
-                                "thumbnail_url": "https://images.movembed.cc//cover/waterlily-jaguar-2020-1688349026.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,25 +324,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/wham-2023",
-                    "title": "Wham!",
-                    "description": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham. career, from 70s best buds to 80s pop icons.",
+                    "url": "/videos/we-are-still-here-2022",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/wham-2023",
-                        "name": "Wham!",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

@@ -386,18 +386,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "<!DOCTYPE HTML PUBLIC ",
-                        "quality": "Unknown",
-                        "videoUrl": "<!DOCTYPE HTML PUBLIC ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Referer": "https://animesgratis.org"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

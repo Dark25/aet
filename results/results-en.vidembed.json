@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/wham-2023",
+                                "title": "Wham!",
+                                "thumbnail_url": "https://images.movembed.cc//cover/wham-2023-1688549728.jpg"
+                            },
+                            {
+                                "url": "/videos/homewrecker-2023",
+                                "title": "Homewrecker",
+                                "thumbnail_url": "https://images.movembed.cc//cover/homewrecker-2023-1688549728.jpg"
+                            },
+                            {
                                 "url": "/videos/tom-segura-sledgehammer-2023",
                                 "title": "Tom Segura: Sledgehammer",
                                 "thumbnail_url": "https://images.movembed.cc//cover/tom-segura-sledgehammer-2023-1688540473.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/videos/waterlily-jaguar-2020",
                                 "title": "Waterlily Jaguar",
                                 "thumbnail_url": "https://images.movembed.cc//cover/waterlily-jaguar-2020-1688349026.jpg"
-                            },
-                            {
-                                "url": "/videos/arcadia-of-my-youth-1982",
-                                "title": "Arcadia of My Youth",
-                                "thumbnail_url": "https://images.movembed.cc//cover/arcadia-of-my-youth-1982-1688349025.jpg"
-                            },
-                            {
-                                "url": "/videos/my-professors-guide-to-murder-2023",
-                                "title": "My Professor's Guide to Murder",
-                                "thumbnail_url": "https://images.movembed.cc//cover/my-professors-guide-to-murder-2023-1688349024.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/tom-segura-sledgehammer-2023",
-                    "title": "Tom Segura: Sledgehammer",
-                    "description": "Tom discusses his \"admiration\" for Brad Pitt, what it's like to raise two sons, and the lessons he learnt from sharing his gummy bears with his mother at a performance in Phoenix, Arizona, in front of an energizing sold-out audience.",
+                    "url": "/videos/wham-2023",
+                    "title": "Wham!",
+                    "description": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham. career, from 70s best buds to 80s pop icons.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,25 +334,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/tom-segura-sledgehammer-2023",
-                        "name": "Tom Segura: Sledgehammer",
+                        "url": "/videos/wham-2023",
+                        "name": "Wham!",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/z3VO1gdKX7UYDDZ/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/z3VO1gdKX7UYDDZ/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0NjU0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

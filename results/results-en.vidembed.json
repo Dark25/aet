@@ -325,20 +325,15 @@
             "details": {
                 "result": {
                     "url": "/videos/the-wraith-within-2023",
-                    "description": "",
+                    "title": "The Wraith Within",
+                    "description": "When a group of friends head out of town for a weekend getaway, a dangerous secret emerges that may kill them all.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/the-wraith-within-2023",
-                        "name": "The Wraith Within",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

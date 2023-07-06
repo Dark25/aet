@@ -177,6 +177,11 @@
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-destruction-sekai-bokumetsu-no-rokunin-cover.jpg"
                             },
                             {
+                                "url": "/media/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
+                                "title": "The Great Cleric",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi-cover.png"
+                            },
+                            {
                                 "url": "/media/dr-stone-new-world",
                                 "title": "Dr. Stone: New World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dr-stone-new-world-cover.png"
@@ -210,11 +215,6 @@
                                 "url": "/media/ningen-fushin-no-boukensha-tachi-ga-sekai-o-sukuu-you-desu",
                                 "title": "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ningen-fushin-no-boukensha-tachi-ga-sekai-o-sukuu-you-desu-cover-2.jpg"
-                            },
-                            {
-                                "url": "/media/isekai-oji-san",
-                                "title": "Uncle from Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-ojisan-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -247,8 +247,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=GbV91kO2ePF1Jew&expires=1688737394&ip=GxOsFxqnDS9X&token=7Cg630PoQgNd",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=GbV91kO2ePF1Jew&expires=1688737394&ip=GxOsFxqnDS9X&token=7Cg630PoQgNd"
+                    },
+                    {
+                        "url": "https://rationalityaloelike.com/khicwu2qjdle?Jujutsu.Kaisen.S02E01.GerEngSub.HS.AAC.720p.WebDL.x264-Tanuki.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-ynug3prrg0f4gget.voe-network.net/engine/hls2/01/09186/khicwu2qjdle_n/master.m3u8?t=PYknyxaUsy2oMrtcQbV_ANWc8vjPGuOW8sgK96Vy9fs&s=1688667393&e=14400&f=45930810&node=delivery-node-ynug3prrg0f4gget.voe-network.net&i=40.84&sp=3500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

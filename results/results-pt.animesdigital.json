@@ -217,12 +217,64 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/video/a/85415/",
+                        "name": "Episódio 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr1---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1688696242&ei=MgWnZJbKC4j48gTHobbgBQ&ip=38.105.209.21&id=f903b7adc4c6d771&itag=22&source=blogger&mh=-R&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=1&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688667323131067&mt=1688667175&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAPHwuKOkTorR1m54BvodtQlly-Z4drAtnytBxo6KZ3stAiEAosFFyUAfttzO9QAOKEHQ80qcyb4gI30fZ4qnggF2vvI%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAKA3dP7ZNsZlvf12CrVBXP1TRPv9Ad6nj_qksd30ZbnSAiBmyDDcVdjYlMwVx_NN4Io2AIf9rMPfbdhaOv6PzRcKaA%3D%3D",
+                        "quality": "720p",
+                        "videoUrl": "https://rr1---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1688696242&ei=MgWnZJbKC4j48gTHobbgBQ&ip=38.105.209.21&id=f903b7adc4c6d771&itag=22&source=blogger&mh=-R&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=1&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688667323131067&mt=1688667175&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAPHwuKOkTorR1m54BvodtQlly-Z4drAtnytBxo6KZ3stAiEAosFFyUAfttzO9QAOKEHQ80qcyb4gI30fZ4qnggF2vvI%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAKA3dP7ZNsZlvf12CrVBXP1TRPv9Ad6nj_qksd30ZbnSAiBmyDDcVdjYlMwVx_NN4Io2AIf9rMPfbdhaOv6PzRcKaA%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://rr4---sn-p5qddn76.googlevideo.com/videoplayback?expire=1688696241&ei=MQWnZKO3Jd-h_9EP_eG-6Ak&ip=38.105.209.21&id=f903b7adc4c6d771&itag=22&source=blogger&mh=-R&mm=31&mn=sn-p5qddn76&ms=au&mv=m&mvi=4&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688667323131067&mt=1688666934&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAKGPuxLpupfTfN5lEQIuL5Xy_OHAo_YbfoXiiV_bLzV6AiEAzNqrGmUI9vCvUWhMRE4rdT72kOX_Zk2Co4jh6WGP2FE%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgB4SCbsyg349l6S4VkISy3Ozin1MNwGl_0aPPn_YwZaACIGg3I_yDL5DFyLJwuoXxDcgsZGVJ7kmRrLQ-iYg-9ZbC",
+                        "quality": "720p",
+                        "videoUrl": "https://rr4---sn-p5qddn76.googlevideo.com/videoplayback?expire=1688696241&ei=MQWnZKO3Jd-h_9EP_eG-6Ak&ip=38.105.209.21&id=f903b7adc4c6d771&itag=22&source=blogger&mh=-R&mm=31&mn=sn-p5qddn76&ms=au&mv=m&mvi=4&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688667323131067&mt=1688666934&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAKGPuxLpupfTfN5lEQIuL5Xy_OHAo_YbfoXiiV_bLzV6AiEAzNqrGmUI9vCvUWhMRE4rdT72kOX_Zk2Co4jh6WGP2FE%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgB4SCbsyg349l6S4VkISy3Ozin1MNwGl_0aPPn_YwZaACIGg3I_yDL5DFyLJwuoXxDcgsZGVJ7kmRrLQ-iYg-9ZbC",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://rr1---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1688696242&ei=MgWnZJbKC4j48gTHobbgBQ&ip=38.105.209.21&id=f903b7adc4c6d771&itag=18&source=blogger&mh=-R&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=1&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688666124257282&mt=1688667175&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgHKRT0hKL9mgaC-4yTZY3--rCIb_xW42V41MNUNtjiq8CIC0qmbK5jbfv56iUS0WEotPutagXG1oN24lhh1O2lHCx&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIgAb37YOMY8spKuEt_6gDQ95KgNEnSGeDAvyjlnUK4ctICH1oLoEyFnohhqNxh1PJ33lfp3WsTanrAtMmjDhd45Ks%3D",
+                        "quality": "360p",
+                        "videoUrl": "https://rr1---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1688696242&ei=MgWnZJbKC4j48gTHobbgBQ&ip=38.105.209.21&id=f903b7adc4c6d771&itag=18&source=blogger&mh=-R&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=1&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688666124257282&mt=1688667175&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgHKRT0hKL9mgaC-4yTZY3--rCIb_xW42V41MNUNtjiq8CIC0qmbK5jbfv56iUS0WEotPutagXG1oN24lhh1O2lHCx&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIgAb37YOMY8spKuEt_6gDQ95KgNEnSGeDAvyjlnUK4ctICH1oLoEyFnohhqNxh1PJ33lfp3WsTanrAtMmjDhd45Ks%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://rr4---sn-p5qddn76.googlevideo.com/videoplayback?expire=1688696241&ei=MQWnZKO3Jd-h_9EP_eG-6Ak&ip=38.105.209.21&id=f903b7adc4c6d771&itag=18&source=blogger&mh=-R&mm=31&mn=sn-p5qddn76&ms=au&mv=m&mvi=4&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688666124257282&mt=1688666934&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgFMewZSKgR8vZ6mOOfySsENjoGx7nkVXz3LPpod_6Gx4CIQCn_fCeCqAO6T-6dT5FwuTHIb8FMT6wDFM6_5Fd5zqMAg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgK4wmGHXKDxwuHjrJ9ds_s_R19Ls-ym5NIeObDG1zdVECIQCgZtH1CcGBRZ72f7zyDJMdLHbVfGkBF-p_ptRraCPUyg%3D%3D",
+                        "quality": "360p",
+                        "videoUrl": "https://rr4---sn-p5qddn76.googlevideo.com/videoplayback?expire=1688696241&ei=MQWnZKO3Jd-h_9EP_eG-6Ak&ip=38.105.209.21&id=f903b7adc4c6d771&itag=18&source=blogger&mh=-R&mm=31&mn=sn-p5qddn76&ms=au&mv=m&mvi=4&pl=25&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1435.364&lmt=1688666124257282&mt=1688666934&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgFMewZSKgR8vZ6mOOfySsENjoGx7nkVXz3LPpod_6Gx4CIQCn_fCeCqAO6T-6dT5FwuTHIb8FMT6wDFM6_5Fd5zqMAg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgK4wmGHXKDxwuHjrJ9ds_s_R19Ls-ym5NIeObDG1zdVECIQCgZtH1CcGBRZ72f7zyDJMdLHbVfGkBF-p_ptRraCPUyg%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://hd2.animesdigital.org/animes/j/jujutsu-kaisen-2/01.mp4",
+                        "quality": "480p",
+                        "videoUrl": "https://hd2.animesdigital.org/animes/j/jujutsu-kaisen-2/01.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

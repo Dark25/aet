@@ -694,12 +694,25 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1688601600000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Wer9PXZRZ3IW94&expires=1688737343&ip=FROsE0EnDS9X&token=wOagI0XgN9B1",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Wer9PXZRZ3IW94&expires=1688737343&ip=FROsE0EnDS9X&token=wOagI0XgN9B1"
+                    }
+                ],
+                "passed": true
             }
         }
     }

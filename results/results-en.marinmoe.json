@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ldbu5rhu",
+                                "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+                                "thumbnail_url": "https://marin.moe/images/anime/lyzx8ear0-64a6fd858fb83412481131.jpg"
+                            },
+                            {
                                 "url": "/anime/hckp1d8d",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
                                 "thumbnail_url": "https://marin.moe/images/anime/qqeghfz3n-64a6e5203c3a1909891630.jpg"
@@ -145,6 +150,11 @@
                                 "url": "/anime/ga2d0gzm",
                                 "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
                                 "thumbnail_url": "https://marin.moe/images/anime/5leni5egm-64a6e3e7d450e837705129.jpg"
+                            },
+                            {
+                                "url": "/anime/je5w6dnk",
+                                "title": "Jujutsu Kaisen (2023)",
+                                "thumbnail_url": "https://marin.moe/images/anime/9pkvtrpav-64a6f660cdac0497100124.jpg"
                             },
                             {
                                 "url": "/anime/vl5gn12g",
@@ -245,16 +255,6 @@
                                 "url": "/anime/zgnjxp3x",
                                 "title": "Majutsushi Orphen Hagure Tabi: Seiiki Hen",
                                 "thumbnail_url": "https://marin.moe/images/anime/nmqnx4qw6-6436f8c7659af664702414.jpg"
-                            },
-                            {
-                                "url": "/anime/nepbmfpm",
-                                "title": "Oshi no Ko",
-                                "thumbnail_url": "https://marin.moe/images/anime/r3lbcasl0-6436e9483dfc1086363124.jpg"
-                            },
-                            {
-                                "url": "/anime/tfxurf6q",
-                                "title": "The Marginal Service",
-                                "thumbnail_url": "https://marin.moe/images/anime/qy7wvdozf-6435c4f6913dc625241070.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -407,12 +407,78 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "name": "Episode 1067 No Title",
+                        "date_upload": 1688256000000,
+                        "episode_number": 1067.0
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1066",
+                        "name": "Episode 1066 No Title",
+                        "date_upload": 1687651200000,
+                        "episode_number": 1066.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 1080p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/fbbc6c70e0d24cf4?token=00d970118af74e1b5ad3202ff11ab47e4aa5a83842e60b1cd0a7fd9532f44e05",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=VGPrdjzGGElNRdJi;__ddg1_=WotTINKeNLu3PprzCZye;XSRF-TOKEN=eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjhRVVZKQXJMSE5wMGlOU3FzemxFbGc9PSIsInZhbHVlIjoiOVpzV2EwMHhwelhsSTR1Yy82TXJiaGorZENBSnpPSjV1NTV4K0tCNXFBalhGcEp5QkhvQmhybEtoTVhkMkYzaXdKRGsxaG8zS3ZZN3R4T3RvbnRjRUZ3YzZndTZYWm9TMkt2d1NkWVBZb255MnZCanpxQkI4QmJTVVZTdzBFQnciLCJtYWMiOiI3MjY2ZWRjMjcyODJmYTAzMTA3YzllNGQyMTU4ZjQ2NGY2NjBhNDZkNjgwYjhmZDE0NGZjN2U2MjdkZjQ3NGZlIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 720p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/2f3854e46611ae02?token=7f4059adf14ffe83e1fe241b1bd287635317efbed1b156e90c7d54f330495080",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=VGPrdjzGGElNRdJi;__ddg1_=WotTINKeNLu3PprzCZye;XSRF-TOKEN=eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjhRVVZKQXJMSE5wMGlOU3FzemxFbGc9PSIsInZhbHVlIjoiOVpzV2EwMHhwelhsSTR1Yy82TXJiaGorZENBSnpPSjV1NTV4K0tCNXFBalhGcEp5QkhvQmhybEtoTVhkMkYzaXdKRGsxaG8zS3ZZN3R4T3RvbnRjRUZ3YzZndTZYWm9TMkt2d1NkWVBZb255MnZCanpxQkI4QmJTVVZTdzBFQnciLCJtYWMiOiI3MjY2ZWRjMjcyODJmYTAzMTA3YzllNGQyMTU4ZjQ2NGY2NjBhNDZkNjgwYjhmZDE0NGZjN2U2MjdkZjQ3NGZlIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 480p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/57eb2a323c2925d2?token=75d4984d4cd6e086494d86f136e40243d87b30fb52517ba9ae2592c0b6353dcb",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=VGPrdjzGGElNRdJi;__ddg1_=WotTINKeNLu3PprzCZye;XSRF-TOKEN=eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjhRVVZKQXJMSE5wMGlOU3FzemxFbGc9PSIsInZhbHVlIjoiOVpzV2EwMHhwelhsSTR1Yy82TXJiaGorZENBSnpPSjV1NTV4K0tCNXFBalhGcEp5QkhvQmhybEtoTVhkMkYzaXdKRGsxaG8zS3ZZN3R4T3RvbnRjRUZ3YzZndTZYWm9TMkt2d1NkWVBZb255MnZCanpxQkI4QmJTVVZTdzBFQnciLCJtYWMiOiI3MjY2ZWRjMjcyODJmYTAzMTA3YzllNGQyMTU4ZjQ2NGY2NjBhNDZkNjgwYjhmZDE0NGZjN2U2MjdkZjQ3NGZlIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 360p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/e0bdc687d7383488?token=208c32f21ab99247603e410d6c4737f7469cbd0969e5b6714d4017f8b8071e34",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=VGPrdjzGGElNRdJi;__ddg1_=WotTINKeNLu3PprzCZye;XSRF-TOKEN=eyJpdiI6ImtDVXJmQjVvR1llOTh6aDhqbWIzTWc9PSIsInZhbHVlIjoieEZXMGxxTEJtYkE1WDU1aklGdWE3TGpsNkVwc0tRUzQyQ1g5VitmTVc5NVZFd1RJUDNoYk1RSHBSMDFjL0RsOVFOOERWd2tDcFhMTlNHMGhiRkVnVXlrVDZBY09NcnU2Qk1iOWcwL0pWQ1l4SEkyZXFTRHFFUFhLeEZHcGNxZloiLCJtYWMiOiIyZjI5YzgzY2Y3Y2FkNTdlMTk2ZmY3NGQ2OWVhMmZjYTdlMGRjN2Q0MTg5MTcyZWRkMzJhM2M4Njk0YWY1MTBmIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjhRVVZKQXJMSE5wMGlOU3FzemxFbGc9PSIsInZhbHVlIjoiOVpzV2EwMHhwelhsSTR1Yy82TXJiaGorZENBSnpPSjV1NTV4K0tCNXFBalhGcEp5QkhvQmhybEtoTVhkMkYzaXdKRGsxaG8zS3ZZN3R4T3RvbnRjRUZ3YzZndTZYWm9TMkt2d1NkWVBZb255MnZCanpxQkI4QmJTVVZTdzBFQnciLCJtYWMiOiI3MjY2ZWRjMjcyODJmYTAzMTA3YzllNGQyMTU4ZjQ2NGY2NjBhNDZkNjgwYjhmZDE0NGZjN2U2MjdkZjQ3NGZlIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

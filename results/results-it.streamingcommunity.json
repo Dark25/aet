@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "6471-hot-shots",
+                                "title": "Hot Shots!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9538d70e-5a3a-47bc-846d-f05654a284e3.webp"
+                            },
+                            {
+                                "url": "6470-hot-shots-2",
+                                "title": "Hot Shots! 2",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/b1d7d1c2-3797-4531-976a-63d19835462f.webp"
+                            },
+                            {
+                                "url": "6469-momenti-di-gloria",
+                                "title": "Momenti di gloria",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3a686539-028a-41bd-877e-e0cb6bb5c0ae.webp"
+                            },
+                            {
+                                "url": "6468-heat-la-sfida",
+                                "title": "Heat - La sfida",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e6b98255-dbd8-49cf-a2ae-ed7e48f6f473.webp"
+                            },
+                            {
                                 "url": "6467-twister",
                                 "title": "Twister",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/16939106-e638-482d-a438-5137f535949d.webp"
@@ -595,26 +615,6 @@
                                 "url": "6409-tremila-anni-di-attesa",
                                 "title": "Tremila anni di attesa",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0bf9161d-5025-44d2-a53f-97d42e60c115.webp"
-                            },
-                            {
-                                "url": "6408-pearl",
-                                "title": "Pearl",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d4c8d90b-ee4c-4efb-8dfc-d388ad4983b9.webp"
-                            },
-                            {
-                                "url": "6407-love-again",
-                                "title": "Love Again",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/28db1a7b-74c2-4ffc-8073-eada53887bc0.webp"
-                            },
-                            {
-                                "url": "6406-grandi-speranze",
-                                "title": "Grandi Speranze",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/ac5bbf26-1f73-457e-83d7-d1e5023cbf7b.webp"
-                            },
-                            {
-                                "url": "6405-tyler-rake-2",
-                                "title": "Tyler Rake 2",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/af7eca2d-b70c-4a8f-b821-c375db96bc24.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,8 +952,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://scws.work/v2/playlist/159536?type=video&rendition=720p&token=cBSxlRQ1lHdBtJjsH_GQYA&expires=1693790352&canCast=1&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://scws.work/v2/playlist/159536?type=video&rendition=720p&token=cBSxlRQ1lHdBtJjsH_GQYA&expires=1693790352&canCast=1&n=1"
+                    },
+                    {
+                        "url": "https://scws.work/v2/playlist/159536?type=video&rendition=480p&token=2XiKd2vKG4trJE6c2UhQ-A&expires=1693790352&canCast=1&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://scws.work/v2/playlist/159536?type=video&rendition=480p&token=2XiKd2vKG4trJE6c2UhQ-A&expires=1693790352&canCast=1&n=1"
+                    }
+                ],
+                "passed": true
             }
         }
     }

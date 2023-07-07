@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023-english-subbed",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932990.jpg"
+                            },
+                            {
                                 "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
                                 "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932989.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932975.jpg"
-                            },
-                            {
-                                "url": "/anime/jitsu-wa-ore-saikyou-deshita",
-                                "title": "Jitsu wa Ore, Saikyou deshita?",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932974.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
-                    "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
-                    "description": "One day, Earth’s God of Destiny, and Galdardia’s Chief God had a bet. The God of Destiny lost, and chose ten mediocre souls to hand over. To those ten souls, the Chief God of Galdardia handed them new vessels. Among those mediocre souls was one salaryman who fought against his destiny of death. How will this man grow from now on? Not the God of Destiny, nor the Chief God of Galdardia, nor even the author themselves know.",
-                    "genre": "Fantasy, Isekai, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932989.jpg",
+                    "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023-english-subbed",
+                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) English Subbed",
+                    "description": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money.",
+                    "genre": "Action, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932990.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-episode-1-english-subbed",
+                        "name": "Episode 1 English Subbed",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv7Aj-7PLpSI1FCiCpjFubHcyNSh4MTs9GP_QN7z4aDFBXxr7aUm3oUQDezELFF0P0HOCXAWodKkkgXcCFujhmu3OAuhtQ0Lb_azocVokcQcgx6qBSTwFihJIM-oDrCU6jojJYUMK4f_MSrMz9CqFQo4J-JM7DPlCGdU68JngfaNnTMNvkUNziyz6E6vbjG8ZSvq84A_CVHD0zEyg3qoeocK5uBeIQ5rTbvh_Zfa3YKMBxzNuzTZsQiea0Qeb-dGHjWoTbUyRNSSlY4z4mwvk5EVQ69x7Yr-EuLocAycRzE8ra7qA0FGVD484JpzyezojF9X8IoJfw1pTpK0qO8XxludeNIxw_sJBkUFZQSg303oLZ5WfN_tkGP9d9FT7RrxMQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv7Aj-7PLpSI1FCiCpjFubHcyNSh4MTs9GP_QN7z4aDFBXxr7aUm3oUQDezELFF0P0HOCXAWodKkkgXcCFujhmu3OAuhtQ0Lb_azocVokcQcgx6qBSTwFihJIM-oDrCU6jojJYUMK4f_MSrMz9CqFQo4J-JM7DPlCGdU68JngfaNnTMNvkUNziyz6E6vbjG8ZSvq84A_CVHD0zEyg3qoeocK5uBeIQ5rTbvh_Zfa3YKMBxzNuzTZsQiea0Qeb-dGHjWoTbUyRNSSlY4z4mwvk5EVQ69x7Yr-EuLocAycRzE8ra7qA0FGVD484JpzyezojF9X8IoJfw1pTpK0qO8XxludeNIxw_sJBkUFZQSg303oLZ5WfN_tkGP9d9FT7RrxMQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv7Aj-7PLpSI1FCiCpjFubHcyNSh4MTs9GP_QN7z4aDFBXxr7aUm3oUQDezELFF0P0HOCXAWodKkkgXcCFujhmtHaEQ_03vs4tFWQQPClb4YLxrRY61ck38Bn8fxoSIQOWWVGXvHnR87pmK6YC8WRnEHiym7Sw-I0FQvJYnks29MSjxS_qYtWlY9_TnhuG8ngVSTP82K0NjCYzVG7k97HSSO4RE0MwDIZPjx0bHJ84NGYOIcYTQqDexk-644pr_V-fN7s9MCYIHplKNPSMSvixR5OWrnhzq3XujUxV38EL9mqxx_ShRxkif9NqwNqB1RYTQvrjmGw6yTC86iZ--RZE_5tNh1ppceWazmMAMk0RKkGK18meq_KHWKEgdTArbehQ",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv7Aj-7PLpSI1FCiCpjFubHcyNSh4MTs9GP_QN7z4aDFBXxr7aUm3oUQDezELFF0P0HOCXAWodKkkgXcCFujhmtHaEQ_03vs4tFWQQPClb4YLxrRY61ck38Bn8fxoSIQOWWVGXvHnR87pmK6YC8WRnEHiym7Sw-I0FQvJYnks29MSjxS_qYtWlY9_TnhuG8ngVSTP82K0NjCYzVG7k97HSSO4RE0MwDIZPjx0bHJ84NGYOIcYTQqDexk-644pr_V-fN7s9MCYIHplKNPSMSvixR5OWrnhzq3XujUxV38EL9mqxx_ShRxkif9NqwNqB1RYTQvrjmGw6yTC86iZ--RZE_5tNh1ppceWazmMAMk0RKkGK18meq_KHWKEgdTArbehQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv7Aj-7PLpSI1FCiCpjFubHcyNSh4MTs9GP_QN7z4aDFBXxr7aUm3oUQDezELFF0P0HOCXAWodKkkgXcCFujhmvee_P71BIltcpHToJh2om2bWh42ncfCTF9jr4JhxtNIWPa4uCha4v1PVFbHBrMex1PhrqNvq0jjSIy-JwJdYY6SN6cfHFDAovgfyryDx6F8vTxwNyfivx97dimElIdvdk3WAb0Hhbfyr2h3dNW_QGKmr8uRupfDWUDG_1oTZEI4Lt3q3BRXaScdyH0qA6WHFXEB437QpGbXphJES660xBXMfsj5h3vhTu_5hPmxudnMc4gYEkxI2y3yj6y1d4aBnjWKlSijZPLU1WlrdsU8dgdRtfeB2fdl4MoCGowdZJoNg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv7Aj-7PLpSI1FCiCpjFubHcyNSh4MTs9GP_QN7z4aDFBXxr7aUm3oUQDezELFF0P0HOCXAWodKkkgXcCFujhmvee_P71BIltcpHToJh2om2bWh42ncfCTF9jr4JhxtNIWPa4uCha4v1PVFbHBrMex1PhrqNvq0jjSIy-JwJdYY6SN6cfHFDAovgfyryDx6F8vTxwNyfivx97dimElIdvdk3WAb0Hhbfyr2h3dNW_QGKmr8uRupfDWUDG_1oTZEI4Lt3q3BRXaScdyH0qA6WHFXEB437QpGbXphJES660xBXMfsj5h3vhTu_5hPmxudnMc4gYEkxI2y3yj6y1d4aBnjWKlSijZPLU1WlrdsU8dgdRtfeB2fdl4MoCGowdZJoNg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

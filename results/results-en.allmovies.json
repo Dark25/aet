@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/joe-pickett/",
+                                "title": "Joe Pickett",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/joe-pickett-35018-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/secret-invasion/",
                                 "title": "Secret Invasion",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/secret-invasion-34807-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/a-spy-among-friends/",
                                 "title": "A Spy Among Friends",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/a-spy-among-friends-29758-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/dragon-age-absolution/",
-                                "title": "Dragon Age: Absolution",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/dragon-age-absolution-29745-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,11 +882,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/secret-invasion/",
-                    "title": "Secret Invasion",
-                    "author": "Kyle Bradstreet",
-                    "description": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "url": "/series/joe-pickett/",
+                    "title": "Joe Pickett",
+                    "author": "C.J. Box, Drew Dowdle, John Erick Dowdle",
+                    "description": "A game warden and his family navigate the changing political and socio-economic climate in a small rural town in Wyoming on the verge of economic collapse. Surrounded by rich history and vast wildlife, the township hides decades of schemes and secrets that are yet to be uncovered.",
+                    "genre": "Drama, Western",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -896,14 +896,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/secret-invasion-1x6/",
-                        "name": "Season 1x6 : Episode 6",
-                        "episode_number": 6.0
+                        "url": "/episode/joe-pickett-2x10/",
+                        "name": "Season 2x10 : The Third Way",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/secret-invasion-1x5/",
-                        "name": "Season 1x5 : Episode 5",
-                        "episode_number": 5.0
+                        "url": "/episode/joe-pickett-2x9/",
+                        "name": "Season 2x9 : If This Is Goodbye",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true

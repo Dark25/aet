@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/ai-no-idenshi",
+                                "title": "The Gene of AI",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ai-no-idenshi-cover.png"
+                            },
+                            {
+                                "url": "/media/dekiru-neko-wa-kyou-mo-yuuutsu",
+                                "title": "The Masterful Cat is Depressed Again Today",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dekiru-neko-wa-kyou-mo-yuuutsu-cover.png"
+                            },
+                            {
+                                "url": "/media/kanojo-okarishimasu-3",
+                                "title": "Rent-a-Girlfriend Staffel 3",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kanojo-okarishimasu-3-cover.png"
+                            },
+                            {
                                 "url": "/media/nanatsu-no-maken-ga-shihai-suru",
                                 "title": "Reign of the Seven Spellblades",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-nanatsu-no-maken-ga-shihai-suru-cover.png"
@@ -90,21 +105,6 @@
                                 "url": "/media/jitsu-wa-ore-saikyou-deshita",
                                 "title": "Am I Actually the Strongest?",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jitsu-wa-ore-saikyou-deshita-cover.jpg"
-                            },
-                            {
-                                "url": "/media/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
-                                "title": "My Tiny Senpai",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-uchi-no-kaisha-no-chiisai-senpai-no-hanashi-cover.png"
-                            },
-                            {
-                                "url": "/media/ayaka",
-                                "title": "Ayaka",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ayaka-cover.jpg"
-                            },
-                            {
-                                "url": "/media/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
-                                "title": "Atelier Ryza: Ever Darkness & the Secret Hideout - The Animation",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/nanatsu-no-maken-ga-shihai-suru",
-                    "title": "Reign of the Seven Spellblades",
+                    "url": "/media/ai-no-idenshi",
+                    "title": "The Gene of AI",
                     "author": "",
-                    "description": "Jeden Frühling beginnen neue Schüler ihre Ausbildung an der namhaften Kimberly Magic Academy. Auch in diesem Jahr sind vielversprechende Neuankömmlinge mit dabei. Zu ihnen gehört auch Oliver Horn, der nicht nur mächtige Magie wirken kann, sondern auch ein erfolgreicher Schwertkämpfer ist. Kurze Zeit später trifft er auf Nanao Hibiya, die zu einem weit entfernt lebenden Samurai-Clan gehört. Unversehens verbindet sich das Schicksal der beiden und sie versuchen, nicht nur die dunklen Geheimnisse der Akademie zu ergründen, sondern auch die Gefahren zu beseitigen, die nicht nur ihr eigenes Leben, sondern das aller Schüler bedrohen. Quelle: aniSearch",
-                    "genre": "Action",
+                    "description": "In einer nicht allzu fernen Zukunft besteht die Erdbevölkerung zu etwa zehn Prozent aus humanoiden Robotern. Doch obwohl die nichtmenschlichen Wesen von der Gesellschaft weitestgehend akzeptiert werden, stehen sie mit ihren medizinischen Problemen oft alleine da. Hikaru Sudou ist ein Arzt, der es sich zur Aufgabe gemacht hat, sich um Probleme zwischen den beiden verschiedenen Bevölkerungsschichten zu kümmern. Dabei bedient er sich hin und wieder halblegaler Mittel, die seine eigenen Moralvorstellungen regelmäßig auf die Probe stellen. Quelle: aniSearch",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-nanatsu-no-maken-ga-shihai-suru-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ai-no-idenshi-cover.png",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/nanatsu-no-maken-ga-shihai-suru#streams_episodes_1_0",
+                        "url": "/media/ai-no-idenshi#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,8 +247,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=lwX4y7L9BDh7Mm9&expires=1688849094&ip=G0WsD0EAKxSHDN&token=B1BljwSFbXbR",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=lwX4y7L9BDh7Mm9&expires=1688849094&ip=G0WsD0EAKxSHDN&token=B1BljwSFbXbR"
+                    },
+                    {
+                        "url": "https://rationalityaloelike.com/1s99gkbnflbm?The.Gene.of.AI.S01E01.GerEngSub.HS.AAC.720p.WebDL.x264-Tanuki.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-btn04upa9672moac.voe-network.net/engine/hls2/01/09189/1s99gkbnflbm_n/master.m3u8?t=wIRrD67s_-Ghv3UysvjAF7J5TYrtvqSVIf1dd7Ke-uI&s=1688779093&e=14400&f=45945838&node=delivery-node-btn04upa9672moac.voe-network.net&i=52.179&sp=3500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

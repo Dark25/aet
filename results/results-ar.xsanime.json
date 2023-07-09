@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                                "title": "Zom 100 Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/291175.jpg"
+                            },
+                            {
                                 "url": "/anime/liar-liar/",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/286699.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/the-marginal-service/",
                                 "title": "The Marginal Service",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133934l.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-orchestra/",
-                                "title": "Ao no Orchestra",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133754l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,41 +374,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/liar-liar/",
-                    "title": "Liar Liar",
-                    "description": "",
-                    "genre": "فانتازيا, لعبة, مدرسي, خيال",
+                    "url": "/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                    "title": "Zom 100 Zombie ni Naru made ni Shitai 100 no Koto",
+                    "description": "يقضي أكيرا تيندو أيام من الجحيم من الناحية النفسية والجسدية في الشركة التي يعمل بها منذ 3 سنوات. كل ذلك في سن الرابعة والعشرين حتى الشابة المعجب بها من قسم المحاسبة ساوري لا تهتم لأمره ثم عندما تبدو الحياة وكأنها خيبة أمل كبيرة تتفشى كارثة الزومبي في اليابان! محاطًا بجحافل من الزومبي الجائعين توصل أكيرا إلى إدراك سيغير حياته إلى الأبد انتظر، هل هذا يعني أنني لن أضطر إلى الذهاب إلى العمل مرة أخرى؟ اعترف لـ احتفل مثلما سافر إلى ساحل اليابان إلى الآن مع توقف وظيفته الكابوسية استعاد أكيرا سحره ليبدأ في العمل على قائمة الأشياء التي يريد القيام بها قبل الموت.",
+                    "genre": "رعب, كوميدي, خارق للطبيعة, سينين, دراما, أكشن",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/286699.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/291175.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/liar-liar-الحلقة-2/",
-                        "name": "2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/liar-liar-الحلقة-1/",
-                        "name": "1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc694.4shared.com/img/kCoDjbHljq/d4342e10/dlink__2Fdownload_2FkCoDjbHljq_3Fsbsr_3D781bdce353d3898ac0aad7dc4f1a9b54ae8_26bip_3DMTA0LjIxMC4xMzkuMjI0_26lgfp_3D66_26bip_3DMTA0LjIxMC4xMzkuMjI0_26bip_3DMTA0LjIxMC4xMzkuMjI0/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc694.4shared.com/img/kCoDjbHljq/d4342e10/dlink__2Fdownload_2FkCoDjbHljq_3Fsbsr_3D781bdce353d3898ac0aad7dc4f1a9b54ae8_26bip_3DMTA0LjIxMC4xMzkuMjI0_26lgfp_3D66_26bip_3DMTA0LjIxMC4xMzkuMjI0_26bip_3DMTA0LjIxMC4xMzkuMjI0/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

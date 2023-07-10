@@ -300,19 +300,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s206d1.akdl.link/download/1689056298/64aba2aa849db/Daughter.2022.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1689056298/64aba2aa849db/Daughter.2022.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1689056300/64aba2ac1b875/Daughter.2022.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1689056300/64aba2ac1b875/Daughter.2022.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

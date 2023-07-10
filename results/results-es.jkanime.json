@@ -525,8 +525,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "null",
+                        "quality": "Nozomi",
+                        "videoUrl": "null"
+                    },
+                    {
+                        "url": "https://moodle1.myyschool.xyz/ZXNSeDVIaStEWTVIUzZkRnZGYjlkc2lPVHYvOHo5U2xlNWxQVGdBYmRBVT0.m3u8",
+                        "quality": "Desu",
+                        "videoUrl": "https://moodle1.myyschool.xyz/ZXNSeDVIaStEWTVIUzZkRnZGYjlkc2lPVHYvOHo5U2xlNWxQVGdBYmRBVT0.m3u8"
+                    },
+                    {
+                        "url": "https://jkanime.net/stream/jkmedia/147daaa4d649f65f12a78c8048338128/0f40333b749a2a6d1bc5706accd73329/1/02d2975c71f3a44f136a01532dfcc573/",
+                        "quality": "Xtreme S",
+                        "videoUrl": "https://jkanime.net/stream/jkmedia/147daaa4d649f65f12a78c8048338128/0f40333b749a2a6d1bc5706accd73329/1/02d2975c71f3a44f136a01532dfcc573/"
+                    }
+                ],
+                "passed": true
             }
         }
     }

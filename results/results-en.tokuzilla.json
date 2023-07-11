@@ -170,8 +170,54 @@
                 "passed": true
             },
             "videos": {
-                "error": "javax.crypto.BadPaddingException: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/86e5544e70cc995cc60f416af86a33c8/2023-07-09/1080.m3u8?token=68237055c7ffc502ca147cfa8e04813d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689107337&type=edge&node=rtCsajLkLcxFgVudXyxn4LNvTWyhHTxtYogn1ySZ0BXFZu_vyBVbUPZXnhIv8K57MAFS0i60Z3B7lgnwyOgZa_f1lQF97Fx_GTVCGEZL7FsuuKB7gLAdfVJTKyL0l5Z0vvCKYwjkzXjS0669UfNC7uDtu99j5QzIFyJNg-zeX1v8Hxsd1_eDZvPA6LoPA69DHENw9WqFsd4oP5mx3JFn879MAsqSkdNu6rVqtMsivW1YgKs5q7jgFDkiq2yvmwXQdhMKKWp4U7qTJ946NyF2IEHsFMyztBrdF1XKbm7MC5vkP7nsSZLVsQxM5BSIVkHHSnjmWlQgE6XV6mo9Tb8Rhg",
+                        "quality": "1080p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/86e5544e70cc995cc60f416af86a33c8/2023-07-09/1080.m3u8?token=68237055c7ffc502ca147cfa8e04813d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689107337&type=edge&node=rtCsajLkLcxFgVudXyxn4LNvTWyhHTxtYogn1ySZ0BXFZu_vyBVbUPZXnhIv8K57MAFS0i60Z3B7lgnwyOgZa_f1lQF97Fx_GTVCGEZL7FsuuKB7gLAdfVJTKyL0l5Z0vvCKYwjkzXjS0669UfNC7uDtu99j5QzIFyJNg-zeX1v8Hxsd1_eDZvPA6LoPA69DHENw9WqFsd4oP5mx3JFn879MAsqSkdNu6rVqtMsivW1YgKs5q7jgFDkiq2yvmwXQdhMKKWp4U7qTJ946NyF2IEHsFMyztBrdF1XKbm7MC5vkP7nsSZLVsQxM5BSIVkHHSnjmWlQgE6XV6mo9Tb8Rhg",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/86e5544e70cc995cc60f416af86a33c8/2023-07-09/720.m3u8?token=68237055c7ffc502ca147cfa8e04813d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689107337&type=edge&node=rtCsajLkLcxFgVudXyxn4LNvTWyhHTxtYogn1ySZ0BXFZu_vyBVbUPZXnhIv8K57MAFS0i60Z3B7lgnwyOgZa_f1lQF97Fx_GTVCGEZL7FsuuKB7gLAdfVJTKyL0l5Z0vvCKYwjkzXjS0669UfNC7uDtu99j5QzIFyJNg-zeX1v8Hxsd1_eDZvPA6LoPA69DHENw9WqFsd4oP5mx3JFn879MAsqSkdNu6rVqtMsivW1YgKs5q7jgFDkiq2yvmwXQdhMKKWp4U7qTJ946NyF2IEHsFMyztBrdF1XKbm7MC5vkP7nsSZLVsQxM5BSIVkHHSnjmWlQgE6XV6mo9Tb8Rhg",
+                        "quality": "720p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/86e5544e70cc995cc60f416af86a33c8/2023-07-09/720.m3u8?token=68237055c7ffc502ca147cfa8e04813d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689107337&type=edge&node=rtCsajLkLcxFgVudXyxn4LNvTWyhHTxtYogn1ySZ0BXFZu_vyBVbUPZXnhIv8K57MAFS0i60Z3B7lgnwyOgZa_f1lQF97Fx_GTVCGEZL7FsuuKB7gLAdfVJTKyL0l5Z0vvCKYwjkzXjS0669UfNC7uDtu99j5QzIFyJNg-zeX1v8Hxsd1_eDZvPA6LoPA69DHENw9WqFsd4oP5mx3JFn879MAsqSkdNu6rVqtMsivW1YgKs5q7jgFDkiq2yvmwXQdhMKKWp4U7qTJ946NyF2IEHsFMyztBrdF1XKbm7MC5vkP7nsSZLVsQxM5BSIVkHHSnjmWlQgE6XV6mo9Tb8Rhg",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/86e5544e70cc995cc60f416af86a33c8/2023-07-09/360.m3u8?token=68237055c7ffc502ca147cfa8e04813d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689107337&type=edge&node=rtCsajLkLcxFgVudXyxn4LNvTWyhHTxtYogn1ySZ0BXFZu_vyBVbUPZXnhIv8K57MAFS0i60Z3B7lgnwyOgZa_f1lQF97Fx_GTVCGEZL7FsuuKB7gLAdfVJTKyL0l5Z0vvCKYwjkzXjS0669UfNC7uDtu99j5QzIFyJNg-zeX1v8Hxsd1_eDZvPA6LoPA69DHENw9WqFsd4oP5mx3JFn879MAsqSkdNu6rVqtMsivW1YgKs5q7jgFDkiq2yvmwXQdhMKKWp4U7qTJ946NyF2IEHsFMyztBrdF1XKbm7MC5vkP7nsSZLVsQxM5BSIVkHHSnjmWlQgE6XV6mo9Tb8Rhg",
+                        "quality": "360p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/86e5544e70cc995cc60f416af86a33c8/2023-07-09/360.m3u8?token=68237055c7ffc502ca147cfa8e04813d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689107337&type=edge&node=rtCsajLkLcxFgVudXyxn4LNvTWyhHTxtYogn1ySZ0BXFZu_vyBVbUPZXnhIv8K57MAFS0i60Z3B7lgnwyOgZa_f1lQF97Fx_GTVCGEZL7FsuuKB7gLAdfVJTKyL0l5Z0vvCKYwjkzXjS0669UfNC7uDtu99j5QzIFyJNg-zeX1v8Hxsd1_eDZvPA6LoPA69DHENw9WqFsd4oP5mx3JFn879MAsqSkdNu6rVqtMsivW1YgKs5q7jgFDkiq2yvmwXQdhMKKWp4U7qTJ946NyF2IEHsFMyztBrdF1XKbm7MC5vkP7nsSZLVsQxM5BSIVkHHSnjmWlQgE6XV6mo9Tb8Rhg",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

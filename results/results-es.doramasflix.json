@@ -189,13 +189,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/6KMhKm2ZHG8KUtg4lhsNUdt4iPh.jpg"
                             },
                             {
-                                "url": "/doramas-online/alice-in-bonderland?id=6061fd9636c07b56269ead09",
-                                "title": "Alice in Bonderland (Alice in Bonderland)",
-                                "description": "\n              Arisu, un joven apático, desempleado y obsesionado con los videojuegos, se encuentra de repente en una versión extraña y vacía de Tokio en la que él y sus amigos deben competir en juegos peligrosos y sádicos para sobrevivir. En este extraño mundo, Arisu conoce a Usagi, una joven que navega sola por los juegos. Juntos, se propusieron desentrañar un misterio tras otro mientras arriesgan sus vidas y se enfrentan a lo que significa vivir.\n\n\n            ",
-                                "genre": "Misterio, Fantasía, Acción",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bkyl9GawmRGcWp4uer8SI0sjrL1.jpg"
-                            },
-                            {
                                 "url": "/doramas-online/money-heist-korea-joint-economic-area?id=62b54c30bb5044e044a9b5e6",
                                 "title": "Money Heist: Korea - Joint Economic Area (Robo de Dinero: Corea - Área Económica Conjunta)",
                                 "description": "Disfrazado bajo las sombras de una máscara, un equipo de forajidos se une bajo el liderazgo de un cerebro criminal conocido solo como \"El Profesor\" para llevar a cabo el mayor atraco que Corea haya visto jamás.",
@@ -229,6 +222,13 @@
                                 "description": "Al crecer, Song Yan y Xu Qin eran los mejores amigos. Pero a medida que crecían, sus familias comenzaron a ver su amistad bajo una luz desfavorable. No dispuestos a permitir que su relación fuera más lejos, Song Yan y Xu Qin se vieron obligados a separarse por sus familias, para no volver a verse nunca más.\n\nEn los diez años transcurridos desde su separación forzosa, tanto Song Yan como Xu Qin han trabajado duro para construir la vida que siempre han querido. Como jefe de bomberos, Song Yan ha dedicado su vida a salvar a otros. Por extraño que parezca, Xu Qin también ha hecho que el trabajo de su vida sea salvar a otros como médico de urgencias. Aunque trabajaban en campos completamente diferentes, era solo cuestión de tiempo antes de que el destino interviniera para reunir a los antiguos amigos. Unidos por su trabajo, Song Yan y Xu Qin no están exactamente emocionados de reunirse una vez más.\n\nTrabajando codo a codo, es fácil reconocer el crecimiento que cada uno ha logrado a lo largo de los años, pero todavía hay mucho por lo que Xu Qin y Song Yan deben trabajar si van a convertir esta nueva relación en algo más. ¿Tienen lo necesario para superar los obstáculos que se les presentan o su relación actual está destinada a ser tan fugaz como la anterior?",
                                 "genre": "Drama, Romance, Acción, Aventura",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/fCSMFp7vul2YjgPD7mSiIaldMsR.jpg"
+                            },
+                            {
+                                "url": "/doramas-online/alice-in-bonderland?id=6061fd9636c07b56269ead09",
+                                "title": "Alice in Bonderland (Alice in Bonderland)",
+                                "description": "\n              Arisu, un joven apático, desempleado y obsesionado con los videojuegos, se encuentra de repente en una versión extraña y vacía de Tokio en la que él y sus amigos deben competir en juegos peligrosos y sádicos para sobrevivir. En este extraño mundo, Arisu conoce a Usagi, una joven que navega sola por los juegos. Juntos, se propusieron desentrañar un misterio tras otro mientras arriesgan sus vidas y se enfrentan a lo que significa vivir.\n\n\n            ",
+                                "genre": "Misterio, Fantasía, Acción",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bkyl9GawmRGcWp4uer8SI0sjrL1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,8 +581,17 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
+                    "title": "Woman in a Veil (Mujer en un Velo)",
+                    "artist": "Choi Yoon-young",
+                    "author": "KBS2",
+                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
+                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

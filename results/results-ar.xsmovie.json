@@ -395,8 +395,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc584.4shared.com/img/Op8numb-fa/33b8f813/dlink__2Fdownload_2FOp8numb-fa_3Fsbsr_3D07c97fc3f74781f06093d8b1e77b6ea2ae9_26bip_3DNDAuODQuMTcxLjExNA_26lgfp_3D66_26bip_3DNDAuODQuMTcxLjExNA_26bip_3DNDAuODQuMTcxLjExNA/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc584.4shared.com/img/Op8numb-fa/33b8f813/dlink__2Fdownload_2FOp8numb-fa_3Fsbsr_3D07c97fc3f74781f06093d8b1e77b6ea2ae9_26bip_3DNDAuODQuMTcxLjExNA_26lgfp_3D66_26bip_3DNDAuODQuMTcxLjExNA_26bip_3DNDAuODQuMTcxLjExNA/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

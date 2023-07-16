@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://i3.wp.com/animetitans.net/wp-content/uploads/2021/10/One-Piece.jpg"
+                            },
+                            {
                                 "url": "/anime/jitsu-wa-ore-saikyou-deshita/",
                                 "title": "Jitsu wa Ore, Saikyou deshita?",
                                 "thumbnail_url": "https://i1.wp.com/animetitans.net/wp-content/uploads/Jitsu-wa-Ore-Saikyou-deshita.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/tonikaku-kawaii-joshikou-hen/",
                                 "title": "Tonikaku Kawaii: Joshikou-hen",
                                 "thumbnail_url": "https://i3.wp.com/animetitans.net/wp-content/uploads/1689208905-6916-136453l.jpg"
-                            },
-                            {
-                                "url": "/anime/watashi-no-shiawase-na-kekkon/",
-                                "title": "Watashi no Shiawase na Kekkon",
-                                "thumbnail_url": "https://i3.wp.com/animetitans.net/wp-content/uploads/Watashi-no-Shiawase-na-Kekkon.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -492,23 +492,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a3.mp4upload.com/files/8/jjxz0isevpp01x/video.mp4",
+                        "url": "https://a3.mp4upload.com/files/3/8elbmml61tfmjz/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com/files/8/jjxz0isevpp01x/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com/files/3/8elbmml61tfmjz/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://redirector.gdrivecdn.me/drive/index.php?id=8mEQcxFXT%2Fh%2FMovdbEj7sQq3WIxlr2xUpVSZHFsPthSabyqVqf11me28zK95X6BGykD15A3kHHU8yWDKSQ9GaDcURpUsw9X%2BJaYamg9gjY3K%2FDTzX2BHv334N8HkILCyT3Otx9SdDdh%2F%2BemuzERXI0&ref=&sandbox=&t=&res=720",
-                        "quality": "GDRIVE 720p - GoogleDrive",
-                        "videoUrl": "https://redirector.gdrivecdn.me/drive/index.php?id=8mEQcxFXT%2Fh%2FMovdbEj7sQq3WIxlr2xUpVSZHFsPthSabyqVqf11me28zK95X6BGykD15A3kHHU8yWDKSQ9GaDcURpUsw9X%2BJaYamg9gjY3K%2FDTzX2BHv334N8HkILCyT3Otx9SdDdh%2F%2BemuzERXI0&ref=&sandbox=&t=&res=720"
+                        "url": "https://delivery563.akamai-video-content.com/hls2/01/03827/n87xnygpw0pm_n/index-v1-a1.m3u8?t=2nfGFfbzqxr009Q59eIhwSU7xybrp2TAenk_yMmKatA&s=1689510237&e=10800&f=19139461&srv=sto045&client=13.66.10.113&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery563.akamai-video-content.com/hls2/01/03827/n87xnygpw0pm_n/index-v1-a1.m3u8?t=2nfGFfbzqxr009Q59eIhwSU7xybrp2TAenk_yMmKatA&s=1689510237&e=10800&f=19139461&srv=sto045&client=13.66.10.113&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://viewsb.com/e/n87xnygpw0pm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
                     },
                     {
-                        "url": "https://redirector.gdrivecdn.me/drive/index.php?id=8mEQcxFXT%2Fh%2FMovdbEj7sQq3WIxlr2xUpVSZHFsPthSabyqVqf11me28zK95X6BGykD15A3kHHU8yWDKSQ9GaDcURpUsw9X%2BJaYamg9gjY3K%2FDTzX2BHv334N8HkILCyT3Otx9SdDdh%2F%2BemuzERXI0&ref=&sandbox=&t=&res=360",
+                        "url": "https://delivery563.akamai-video-content.com/hls2/01/03827/n87xnygpw0pm_l/index-v1-a1.m3u8?t=2nfGFfbzqxr009Q59eIhwSU7xybrp2TAenk_yMmKatA&s=1689510237&e=10800&f=19139461&srv=sto045&client=13.66.10.113&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery563.akamai-video-content.com/hls2/01/03827/n87xnygpw0pm_l/index-v1-a1.m3u8?t=2nfGFfbzqxr009Q59eIhwSU7xybrp2TAenk_yMmKatA&s=1689510237&e=10800&f=19139461&srv=sto045&client=13.66.10.113&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://viewsb.com/e/n87xnygpw0pm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.gdrivecdn.me/drive/index.php?id=lH0zG%2F1wKYlwXBYttdOxqACRAZWtVU0nKyP7hAIhJ%2FnTBIqciQLm5e0NpM4Wavw8R9gaSDi8pn8tshH3mN22fRkDH%2BexuilBLgtaQF1BTXBXcY9oZ%2BhV5jLqmcunI5zRKLmpWOvMd%2BEQRPjWwKcjPc&ref=&sandbox=&t=&res=720",
+                        "quality": "GDRIVE 720p - GoogleDrive",
+                        "videoUrl": "https://redirector.gdrivecdn.me/drive/index.php?id=lH0zG%2F1wKYlwXBYttdOxqACRAZWtVU0nKyP7hAIhJ%2FnTBIqciQLm5e0NpM4Wavw8R9gaSDi8pn8tshH3mN22fRkDH%2BexuilBLgtaQF1BTXBXcY9oZ%2BhV5jLqmcunI5zRKLmpWOvMd%2BEQRPjWwKcjPc&ref=&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://redirector.gdrivecdn.me/drive/index.php?id=lH0zG%2F1wKYlwXBYttdOxqACRAZWtVU0nKyP7hAIhJ%2FnTBIqciQLm5e0NpM4Wavw8R9gaSDi8pn8tshH3mN22fRkDH%2BexuilBLgtaQF1BTXBXcY9oZ%2BhV5jLqmcunI5zRKLmpWOvMd%2BEQRPjWwKcjPc&ref=&sandbox=&t=&res=360",
                         "quality": "GDRIVE 360p - GoogleDrive",
-                        "videoUrl": "https://redirector.gdrivecdn.me/drive/index.php?id=8mEQcxFXT%2Fh%2FMovdbEj7sQq3WIxlr2xUpVSZHFsPthSabyqVqf11me28zK95X6BGykD15A3kHHU8yWDKSQ9GaDcURpUsw9X%2BJaYamg9gjY3K%2FDTzX2BHv334N8HkILCyT3Otx9SdDdh%2F%2BemuzERXI0&ref=&sandbox=&t=&res=360"
+                        "videoUrl": "https://redirector.gdrivecdn.me/drive/index.php?id=lH0zG%2F1wKYlwXBYttdOxqACRAZWtVU0nKyP7hAIhJ%2FnTBIqciQLm5e0NpM4Wavw8R9gaSDi8pn8tshH3mN22fRkDH%2BexuilBLgtaQF1BTXBXcY9oZ%2BhV5jLqmcunI5zRKLmpWOvMd%2BEQRPjWwKcjPc&ref=&sandbox=&t=&res=360"
                     }
                 ],
                 "passed": true

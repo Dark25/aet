@@ -325,8 +325,7 @@
             "details": {
                 "result": {
                     "url": "/videos/call-her-king-2023",
-                    "title": "Call Her King",
-                    "description": "After the courthouse is hijacked by Black Caesar, brother of Sean Samuels, who has just been sentenced, Judge Jaeda King must rely on her strength and skills to find a way to end the standoff, save the hostages, and make her escape.",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
@@ -342,17 +341,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/GbPwQJjgRLi1MzW/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/GbPwQJjgRLi1MzW/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0NzQw"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

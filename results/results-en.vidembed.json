@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/little-bone-lodge-2023",
+                                "title": "Little Bone Lodge",
+                                "thumbnail_url": "https://images.movembed.cc//cover/little-bone-lodge-2023-1689563424.jpg"
+                            },
+                            {
+                                "url": "/videos/bird-box-barcelona-2023",
+                                "title": "Bird Box: Barcelona",
+                                "thumbnail_url": "https://images.movembed.cc//cover/bird-box-barcelona-2023-1689563423.jpg"
+                            },
+                            {
+                                "url": "/videos/justice-league-warworld-2023",
+                                "title": "Justice League: Warworld",
+                                "thumbnail_url": "https://images.movembed.cc//cover/justice-league-warworld-2023-1689558624.jpg"
+                            },
+                            {
                                 "url": "/videos/call-her-king-2023",
                                 "title": "Call Her King",
                                 "thumbnail_url": "https://images.movembed.cc//cover/call-her-king-2023-1689432325.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/ugram-2023",
                                 "title": "Ugram",
                                 "thumbnail_url": "https://images.movembed.cc//cover/ugram-2023-1689216026.jpg"
-                            },
-                            {
-                                "url": "/videos/neelavelicham-2023",
-                                "title": "Neelavelicham",
-                                "thumbnail_url": "https://images.movembed.cc//cover/neelavelicham-2023-1689216026.jpg"
-                            },
-                            {
-                                "url": "/videos/timestalkers-1987",
-                                "title": "Timestalkers",
-                                "thumbnail_url": "https://images.movembed.cc//cover/timestalkers-1987-1689214531.jpg"
-                            },
-                            {
-                                "url": "/videos/the-kept-mistress-killer-2023",
-                                "title": "The Kept Mistress Killer",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-kept-mistress-killer-2023-1689214530.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,8 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/call-her-king-2023",
-                    "description": "",
+                    "url": "/videos/little-bone-lodge-2023",
+                    "title": "Little Bone Lodge",
+                    "description": "Set during a very vicious storm, two criminal brothers on the run seek refuge in a desolate farmhouse. Taking the resident family captive, they find the house holds dark secrets of its own.",
                     "initialized": true
                 },
                 "passed": true
@@ -333,15 +334,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/call-her-king-2023",
-                        "name": "Call Her King",
+                        "url": "/videos/little-bone-lodge-2023",
+                        "name": "Little Bone Lodge",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

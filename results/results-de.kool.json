@@ -222,11 +222,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/14y1tVwER5nEWDSPPOMs4eZr1fu.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=848730&type=movie",
-                                "title": "Los bastardos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ffDHUOjHNfqSizXFA7oymCCckE8.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=534313&type=movie",
                                 "title": "La course des tuques",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/umbxoTtmAmY5KmBqR9WchwuSCOe.jpg"
@@ -375,11 +370,6 @@
                                 "url": "/data/watch/?_id=1140056&type=movie",
                                 "title": "Der Duft des Goldes",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/zFCvAGB3uOyu7Pyt6o7gIXQMRBX.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=1131438&type=movie",
-                                "title": "Fear the Invisible Man",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=1107872&type=movie",
@@ -657,29 +647,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://clipboard.cc/g/GZcoKpFmimiZ",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/GZcoKpFmimiZ"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/ePlXQkCLQ6dA",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/ePlXQkCLQ6dA"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/wKK2BKMO2jU1",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/wKK2BKMO2jU1"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/wLXi0e5rc9eI",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/wLXi0e5rc9eI"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

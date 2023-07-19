@@ -181,18 +181,8 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/movie/watch-ruby-gillman-teenage-kraken-online-hd-98371",
-                    "title": "Ruby Gillman, Teenage Kraken",
-                    "author": "Universal Pictures, DreamWorks Animation",
-                    "description": " Sometimes the hero you are meant to be lies just beneath the surface. This summer, DreamWorks Animation dives into the turbulent waters of high school with a hilarious, heartfelt action comedy about a shy teenager who discovers that she's part of a legendary royal lineage of mythical sea krakens and that her destiny, in the depths of the oceans, is bigger than she ever dreamed.",
-                    "genre": "Animation, Family, Fantasy, Comedy",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/0e/90/0e90e25bce68a06d3c65ba2fed410ed1/0e90e25bce68a06d3c65ba2fed410ed1.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -205,7 +195,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

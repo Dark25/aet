@@ -217,6 +217,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/play/xandy.FNijS/4J7hHC",
+                                "title": "X&Y",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/FNijS.png"
+                            },
+                            {
                                 "url": "/play/boku-to-roboko.g4yxs/dJxn5d",
                                 "title": "Boku to Roboko",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/g4yxs.jpg?0"
@@ -410,11 +415,6 @@
                                 "url": "/play/cardfight-vanguard-willdress-3.nRMaF/Eya80U",
                                 "title": "Cardfight!! Vanguard: will+Dress 3",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/nRMaF.png"
-                            },
-                            {
-                                "url": "/play/mashle-magic-and-muscles-ita.Intfz/b2EpDM",
-                                "title": "Mashle: Magic and Muscles (ITA)",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/5EUno.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -664,20 +664,40 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=or26zQ18dWiJqbD&expires=1689817451&ip=F0AsERqnDS9X&token=toaZx8wLt87l",
+                        "url": "https://streamtape.com/get_video?id=or26zQ18dWiJqbD&expires=1689839517&ip=F0AsFxInDS9X&token=YHWsgaWhM1pw",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=or26zQ18dWiJqbD&expires=1689817451&ip=F0AsERqnDS9X&token=toaZx8wLt87l"
+                        "videoUrl": "https://streamtape.com/get_video?id=or26zQ18dWiJqbD&expires=1689839517&ip=F0AsFxInDS9X&token=YHWsgaWhM1pw"
                     },
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04208/tewggxwngz7c_x/index-v1-a1.m3u8?t=QWdHzqggI2K6CRPHl26jfBq34FvkU_lPcRi-fm_VMuE&s=1689747419&e=43200&f=21040180&srv=29&asn=8075&sp=2500",
-                        "quality": "FileMoon - Filemoon:720p ",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04208/tewggxwngz7c_x/index-v1-a1.m3u8?t=QWdHzqggI2K6CRPHl26jfBq34FvkU_lPcRi-fm_VMuE&s=1689747419&e=43200&f=21040180&srv=29&asn=8075&sp=2500",
+                        "url": "https://delivery116.akamai-video-content.com/hls2/01/13644/tbvbfb61jw0w_n/index-v1-a1.m3u8?t=WQEj1WOqsRQ89Mu5NxGpiE5YZ-uqb4fTp005FfIZWko&s=1689769517&e=10800&f=68224202&srv=sto257&client=13.86.22.102&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery116.akamai-video-content.com/hls2/01/13644/tbvbfb61jw0w_n/index-v1-a1.m3u8?t=WQEj1WOqsRQ89Mu5NxGpiE5YZ-uqb4fTp005FfIZWko&s=1689769517&e=10800&f=68224202&srv=sto257&client=13.86.22.102&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Host": "be7713.rcr82.waw05.cdn112.com",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
+                            "referer": "https://animeworld.biz/e/7tju63n3z3su.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery116.akamai-video-content.com/hls2/01/13644/tbvbfb61jw0w_l/index-v1-a1.m3u8?t=WQEj1WOqsRQ89Mu5NxGpiE5YZ-uqb4fTp005FfIZWko&s=1689769517&e=10800&f=68224202&srv=sto257&client=13.86.22.102&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery116.akamai-video-content.com/hls2/01/13644/tbvbfb61jw0w_l/index-v1-a1.m3u8?t=WQEj1WOqsRQ89Mu5NxGpiE5YZ-uqb4fTp005FfIZWko&s=1689769517&e=10800&f=68224202&srv=sto257&client=13.86.22.102&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://animeworld.biz/e/7tju63n3z3su.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04208/tewggxwngz7c_x/index-v1-a1.m3u8?t=tliYK6WUAF8fybeLb6SuITIjMS5nbWu_1ixCYjftX5k&s=1689769514&e=43200&f=21040180&srv=29&asn=8075&sp=2500",
+                        "quality": "FileMoon - 720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04208/tewggxwngz7c_x/index-v1-a1.m3u8?t=tliYK6WUAF8fybeLb6SuITIjMS5nbWu_1ixCYjftX5k&s=1689769514&e=43200&f=21040180&srv=29&asn=8075&sp=2500",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://filemoon.sx/e/tewggxwngz7c/OnePiece_Ep_1069_SUB_ITA",
+                            "Origin": "https://filemoon.sx"
                         }
                     }
                 ],

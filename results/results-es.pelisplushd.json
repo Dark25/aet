@@ -591,114 +591,8 @@
         "name": "PelisPlusPh",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/pelicula/warhorse-one/",
-                                "title": "Warhorse One",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/warhorse-one.jpg"
-                            },
-                            {
-                                "url": "/pelicula/avatar-2009/",
-                                "title": "Avatar 2009",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/avatar-2009.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-sr-carrito-y-los-caballeros-templarios/",
-                                "title": "El Sr. Carrito y los caballeros templarios",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-sr-carrito-y-los-caballeros-templarios.jpg"
-                            },
-                            {
-                                "url": "/pelicula/unos-suegros-de-armas-tomar/",
-                                "title": "Unos suegros de armas tomar",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/unos-suegros-de-armas-tomar.jpg"
-                            },
-                            {
-                                "url": "/pelicula/asteroid-city/",
-                                "title": "Asteroid City",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/asteroid-city.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bird-box-barcelona/",
-                                "title": "Bird Box Barcelona",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bird-box-barcelona.jpg"
-                            },
-                            {
-                                "url": "/pelicula/four-samosas/",
-                                "title": "Four Samosas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/four-samosas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dirty-little-secret/",
-                                "title": "Dirty Little Secret",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dirty-little-secret.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mission-impossible-dead-reckoning-part-one/",
-                                "title": "Mission: Impossible - Dead Reckoning Part One",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mission-impossible-dead-reckoning-part-one.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-scrapper/",
-                                "title": "The Scrapper",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-scrapper.jpg"
-                            },
-                            {
-                                "url": "/pelicula/carmen-2022/",
-                                "title": "Carmen 2022",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/carmen-2022.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-outwaters/",
-                                "title": "The Outwaters",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-outwaters.jpg"
-                            },
-                            {
-                                "url": "/pelicula/insidious-the-red-door/",
-                                "title": "Insidious: The Red Door",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/insidious-the-red-door.jpg"
-                            },
-                            {
-                                "url": "/pelicula/whats-love-got-to-do-with-it/",
-                                "title": "What's Love Got to Do with It?",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/whats-love-got-to-do-with-it.jpg"
-                            },
-                            {
-                                "url": "/pelicula/maria-reve/",
-                                "title": "Maria rêve",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/maria-reve.jpg"
-                            },
-                            {
-                                "url": "/pelicula/saint-omer/",
-                                "title": "Saint Omer",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/saint-omer.jpg"
-                            },
-                            {
-                                "url": "/pelicula/you-me-and-the-christmas-trees/",
-                                "title": "You, Me and the Christmas Trees",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/you-me-and-the-christmas-trees.jpg"
-                            },
-                            {
-                                "url": "/pelicula/moving-on/",
-                                "title": "Moving On",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/moving-on.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cult-hero/",
-                                "title": "Cult Hero",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cult-hero.jpg"
-                            },
-                            {
-                                "url": "/pelicula/coyote/",
-                                "title": "Coyote",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/coyote.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -862,11 +756,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/warhorse-one/",
-                    "title": "Warhorse One",
+                    "url": "/pelicula/worlds-best/",
+                    "title": "World's Best",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Comedia, Familiar",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -876,7 +770,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/warhorse-one/",
+                        "url": "/pelicula/worlds-best/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -886,23 +780,89 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery234.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_n/index-v1-a1.m3u8?t=W1CdzEsnnED2As0UI3Yqgt8gEKiVt9cZd_K8fpA_UhA&s=1689790834&e=10800&f=67862300&srv=sto095&client=172.177.246.176&asn=8075",
-                        "quality": "[Sub] StreamSB:720p ",
-                        "videoUrl": "https://delivery234.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_n/index-v1-a1.m3u8?t=W1CdzEsnnED2As0UI3Yqgt8gEKiVt9cZd_K8fpA_UhA&s=1689790834&e=10800&f=67862300&srv=sto095&client=172.177.246.176&asn=8075",
+                        "url": "https://delivery404.akamai-video-content.com/hls2/01/13308/wzu3wshz09e0_n/index-v1-a1.m3u8?t=MKCQ6p-FG7Cux4ZUbrfYwknNelR4DwJWSqYscGy9FmQ&s=1689815504&e=10800&f=66544500&srv=sto237&client=40.122.244.98&asn=8075",
+                        "quality": "[Cast] StreamSB:720p ",
+                        "videoUrl": "https://delivery404.akamai-video-content.com/hls2/01/13308/wzu3wshz09e0_n/index-v1-a1.m3u8?t=MKCQ6p-FG7Cux4ZUbrfYwknNelR4DwJWSqYscGy9FmQ&s=1689815504&e=10800&f=66544500&srv=sto237&client=40.122.244.98&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/bzxck6lq74fw",
+                            "referer": "https://lvturbo.com/e/wzu3wshz09e0",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery234.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_l/index-v1-a1.m3u8?t=W1CdzEsnnED2As0UI3Yqgt8gEKiVt9cZd_K8fpA_UhA&s=1689790834&e=10800&f=67862300&srv=sto095&client=172.177.246.176&asn=8075",
-                        "quality": "[Sub] StreamSB:480p ",
-                        "videoUrl": "https://delivery234.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_l/index-v1-a1.m3u8?t=W1CdzEsnnED2As0UI3Yqgt8gEKiVt9cZd_K8fpA_UhA&s=1689790834&e=10800&f=67862300&srv=sto095&client=172.177.246.176&asn=8075",
+                        "url": "https://delivery404.akamai-video-content.com/hls2/01/13308/wzu3wshz09e0_l/index-v1-a1.m3u8?t=MKCQ6p-FG7Cux4ZUbrfYwknNelR4DwJWSqYscGy9FmQ&s=1689815504&e=10800&f=66544500&srv=sto237&client=40.122.244.98&asn=8075",
+                        "quality": "[Cast] StreamSB:480p ",
+                        "videoUrl": "https://delivery404.akamai-video-content.com/hls2/01/13308/wzu3wshz09e0_l/index-v1-a1.m3u8?t=MKCQ6p-FG7Cux4ZUbrfYwknNelR4DwJWSqYscGy9FmQ&s=1689815504&e=10800&f=66544500&srv=sto237&client=40.122.244.98&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/bzxck6lq74fw",
+                            "referer": "https://lvturbo.com/e/wzu3wshz09e0",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery404.akamai-video-content.com/hls2/01/13308/wzu3wshz09e0_h/index-v1-a1.m3u8?t=MKCQ6p-FG7Cux4ZUbrfYwknNelR4DwJWSqYscGy9FmQ&s=1689815504&e=10800&f=66544500&srv=sto237&client=40.122.244.98&asn=8075",
+                        "quality": "[Cast] StreamSB:1080p ",
+                        "videoUrl": "https://delivery404.akamai-video-content.com/hls2/01/13308/wzu3wshz09e0_h/index-v1-a1.m3u8?t=MKCQ6p-FG7Cux4ZUbrfYwknNelR4DwJWSqYscGy9FmQ&s=1689815504&e=10800&f=66544500&srv=sto237&client=40.122.244.98&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/wzu3wshz09e0",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery587.akamai-video-content.com/hls2/01/13556/7y20tanxjvcy_n/index-v1-a1.m3u8?t=Gju5sPXljgmmtdBej5VCi5_SKlZ1rF2QgTOiKcLEFaQ&s=1689815499&e=10800&f=67780198&srv=sto123&client=40.122.244.98&asn=8075",
+                        "quality": "[Lat] StreamSB:720p ",
+                        "videoUrl": "https://delivery587.akamai-video-content.com/hls2/01/13556/7y20tanxjvcy_n/index-v1-a1.m3u8?t=Gju5sPXljgmmtdBej5VCi5_SKlZ1rF2QgTOiKcLEFaQ&s=1689815499&e=10800&f=67780198&srv=sto123&client=40.122.244.98&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://sbfast.live/e/7y20tanxjvcy",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery587.akamai-video-content.com/hls2/01/13556/7y20tanxjvcy_l/index-v1-a1.m3u8?t=Gju5sPXljgmmtdBej5VCi5_SKlZ1rF2QgTOiKcLEFaQ&s=1689815499&e=10800&f=67780198&srv=sto123&client=40.122.244.98&asn=8075",
+                        "quality": "[Lat] StreamSB:480p ",
+                        "videoUrl": "https://delivery587.akamai-video-content.com/hls2/01/13556/7y20tanxjvcy_l/index-v1-a1.m3u8?t=Gju5sPXljgmmtdBej5VCi5_SKlZ1rF2QgTOiKcLEFaQ&s=1689815499&e=10800&f=67780198&srv=sto123&client=40.122.244.98&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://sbfast.live/e/7y20tanxjvcy",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery587.akamai-video-content.com/hls2/01/13556/7y20tanxjvcy_o/index-v1-a1.m3u8?t=Gju5sPXljgmmtdBej5VCi5_SKlZ1rF2QgTOiKcLEFaQ&s=1689815499&e=10800&f=67780198&srv=sto123&client=40.122.244.98&asn=8075",
+                        "quality": "[Lat] StreamSB:1080p ",
+                        "videoUrl": "https://delivery587.akamai-video-content.com/hls2/01/13556/7y20tanxjvcy_o/index-v1-a1.m3u8?t=Gju5sPXljgmmtdBej5VCi5_SKlZ1rF2QgTOiKcLEFaQ&s=1689815499&e=10800&f=67780198&srv=sto123&client=40.122.244.98&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://sbfast.live/e/7y20tanxjvcy",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery507.akamai-video-content.com/hls2/01/13555/c4m2mzvhtdhc_n/index-v1-a1.m3u8?t=pipLL-Y1yBBy48a_nDDzPIYkz2k08ZSpnviZP8xXsgM&s=1689815502&e=10800&f=67778752&srv=sto095&client=40.122.244.98&asn=8075",
+                        "quality": "[Sub] StreamSB:720p ",
+                        "videoUrl": "https://delivery507.akamai-video-content.com/hls2/01/13555/c4m2mzvhtdhc_n/index-v1-a1.m3u8?t=pipLL-Y1yBBy48a_nDDzPIYkz2k08ZSpnviZP8xXsgM&s=1689815502&e=10800&f=67778752&srv=sto095&client=40.122.244.98&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://sbfast.live/e/c4m2mzvhtdhc",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery507.akamai-video-content.com/hls2/01/13555/c4m2mzvhtdhc_l/index-v1-a1.m3u8?t=pipLL-Y1yBBy48a_nDDzPIYkz2k08ZSpnviZP8xXsgM&s=1689815502&e=10800&f=67778752&srv=sto095&client=40.122.244.98&asn=8075",
+                        "quality": "[Sub] StreamSB:480p ",
+                        "videoUrl": "https://delivery507.akamai-video-content.com/hls2/01/13555/c4m2mzvhtdhc_l/index-v1-a1.m3u8?t=pipLL-Y1yBBy48a_nDDzPIYkz2k08ZSpnviZP8xXsgM&s=1689815502&e=10800&f=67778752&srv=sto095&client=40.122.244.98&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://sbfast.live/e/c4m2mzvhtdhc",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }

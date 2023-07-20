@@ -325,7 +325,8 @@
             "details": {
                 "result": {
                     "url": "/videos/nemesis-2-nebula-1995",
-                    "description": "",
+                    "title": "Nemesis 2: Nebula",
+                    "description": "It has been 73 years since Alex failed and the Humans lost the Cyborg Wars. Since then, the Humans have been enslaved. Scientists have developed a new DNA strain, which could signal the end of the Cyborgs, and they inject it into ...",
                     "initialized": true
                 },
                 "passed": true
@@ -341,7 +342,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -537,14 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhyl3k6stm55wxuarq,6nhyl3k6stob2xx57wa,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhyl3k6stm55wxuarq,6nhyl3k6stob2xx57wa,.urlset/master.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.ConnectException: Failed to connect to t891mn1727483.streamvid.net/37.187.57.204:443",
+                "passed": false
             }
         }
     }

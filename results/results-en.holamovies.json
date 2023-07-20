@@ -170,8 +170,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://drive.google.com/uc?id=1aepcNMRRLD-m05_r9hdiClFXiJqCVVJV&confirm=t&uuid=fcdd7a03-f3e9-4a88-a3f9-85269f161289",
+                        "quality": "Gdrive (13G) ",
+                        "videoUrl": "https://drive.google.com/uc?id=1aepcNMRRLD-m05_r9hdiClFXiJqCVVJV&confirm=t&uuid=fcdd7a03-f3e9-4a88-a3f9-85269f161289"
+                    }
+                ],
+                "passed": true
             }
         }
     }

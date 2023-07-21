@@ -884,31 +884,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery401.akamai-video-content.com/hls2/01/13682/4g9bvmvhzd5l_n/index-v1-a1.m3u8?t=hg4-SKNkljP7jk43xsiLSEFgEt21YsTE7V4w0j2uwAA&s=1689942538&e=10800&f=68412915&srv=sto262&client=20.42.9.224&asn=8075",
-                        "quality": "[Sub] StreamSB:720p ",
-                        "videoUrl": "https://delivery401.akamai-video-content.com/hls2/01/13682/4g9bvmvhzd5l_n/index-v1-a1.m3u8?t=hg4-SKNkljP7jk43xsiLSEFgEt21YsTE7V4w0j2uwAA&s=1689942538&e=10800&f=68412915&srv=sto262&client=20.42.9.224&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://sbfast.live/e/4g9bvmvhzd5l",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery401.akamai-video-content.com/hls2/01/13682/4g9bvmvhzd5l_l/index-v1-a1.m3u8?t=hg4-SKNkljP7jk43xsiLSEFgEt21YsTE7V4w0j2uwAA&s=1689942538&e=10800&f=68412915&srv=sto262&client=20.42.9.224&asn=8075",
-                        "quality": "[Sub] StreamSB:480p ",
-                        "videoUrl": "https://delivery401.akamai-video-content.com/hls2/01/13682/4g9bvmvhzd5l_l/index-v1-a1.m3u8?t=hg4-SKNkljP7jk43xsiLSEFgEt21YsTE7V4w0j2uwAA&s=1689942538&e=10800&f=68412915&srv=sto262&client=20.42.9.224&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://sbfast.live/e/4g9bvmvhzd5l",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

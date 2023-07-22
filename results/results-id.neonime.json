@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/tvshows/nanatsu-no-maken-ga-shihai-suru-subtitle-indonesia",
+                                "title": "Nanatsu no Maken ga Shihai suru Subtitle Indonesia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg"
+                            },
+                            {
+                                "url": "/tvshows/kanojo-okarishimasu-season-3-subtitle-indonesia",
+                                "title": "Kanojo, Okarishimasu Season 3 Subtitle Indonesia",
+                                "thumbnail_url": "https://www.themoviedb.org/t/p/w154/1K2b4XDtcJ6mJd5Ra9vKj7OiUmX.jpg"
+                            },
+                            {
                                 "url": "/tvshows/watashi-no-shiawase-na-kekkon-subtitle-indonesia",
                                 "title": "Watashi no Shiawase na Kekkon Subtitle Indonesia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg"
@@ -155,16 +165,6 @@
                                 "url": "/tvshows/rurouni-kenshin-meiji-kenkaku-romantan-2023-subtitle-indonesia",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) Subtitle Indonesia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/mCafSOuO3PqgoxaweNCo45KpctE.jpg"
-                            },
-                            {
-                                "url": "/tvshows/hataraku-maou-sama-cour-2-subtitle-indonesia",
-                                "title": "Hataraku Maou-sama!! Cour 2 Subtitle Indonesia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kmpTEICJQweI4RN0OHIxgaetKop.jpg"
-                            },
-                            {
-                                "url": "/tvshows/watashi-no-shiawase-na-kekkon-subtitle-indonesia",
-                                "title": "Watashi no Shiawase na Kekkon Subtitle Indonesia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1pvRlRaa63917UnIuKuQEbGMC6e.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -252,23 +252,64 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/kanojo-okarishimasu-3x3-subtitle-indonesia",
+                        "name": "Kanojo, Okarishimasu Season 3 Episode 3 Subtitle Indonesia",
+                        "date_upload": 1689984000000,
+                        "episode_number": 33.0
+                    },
+                    {
                         "url": "/episode/kanojo-okarishimasu-3x2-subtitle-indonesia",
                         "name": "Kanojo, Okarishimasu Season 3 Episode 2 Subtitle Indonesia",
                         "date_upload": 1689379200000,
                         "episode_number": 32.0
-                    },
-                    {
-                        "url": "/episode/kanojo-okarishimasu-3x1-subtitle-indonesia",
-                        "name": "Kanojo, Okarishimasu Season 3 Episode 1 Subtitle Indonesia",
-                        "date_upload": 1688774400000,
-                        "episode_number": 31.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr1---sn-p5qlsn76.googlevideo.com/videoplayback?expire=1690017172&ei=FC27ZP-0JMr48gSgupH4Dg&ip=52.226.126.239&id=7a8e7771fb0eb095&itag=18&source=blogger&mh=Qo&mm=31&mn=sn-p5qlsn76&ms=au&mv=m&mvi=1&pl=14&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1430.372&lmt=1689987995800088&mt=1689987888&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgAltnE-TEckFA6yV-gsLOrSBWoCaaFg_x91sy_W1HEHUCIEtjb1q5Et-gGxDZDRauhHzsUAbbQ4F4xgdejRX-3S8Q&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAOx74VFAdmdG9UHLUoxcG3rFjsWVRYUXAq-09KpI_A3SAiAdCIgPuo8KLUwrcaXHtPAX6sHvfM1jwyXEyrd3x9EOaA%3D%3D",
+                        "quality": "18 - GD Standard",
+                        "videoUrl": "https://rr1---sn-p5qlsn76.googlevideo.com/videoplayback?expire=1690017172&ei=FC27ZP-0JMr48gSgupH4Dg&ip=52.226.126.239&id=7a8e7771fb0eb095&itag=18&source=blogger&mh=Qo&mm=31&mn=sn-p5qlsn76&ms=au&mv=m&mvi=1&pl=14&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1430.372&lmt=1689987995800088&mt=1689987888&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgAltnE-TEckFA6yV-gsLOrSBWoCaaFg_x91sy_W1HEHUCIEtjb1q5Et-gGxDZDRauhHzsUAbbQ4F4xgdejRX-3S8Q&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAOx74VFAdmdG9UHLUoxcG3rFjsWVRYUXAq-09KpI_A3SAiAdCIgPuo8KLUwrcaXHtPAX6sHvfM1jwyXEyrd3x9EOaA%3D%3D"
+                    },
+                    {
+                        "url": "https://rr2---sn-p5qlsn76.googlevideo.com/videoplayback?expire=1690017172&ei=FC27ZMCRK8LZgwOD9LCoAw&ip=52.226.126.239&id=9fba36d694c664fc&itag=18&source=blogger&mh=8z&mm=31&mn=sn-p5qlsn76&ms=au&mv=m&mvi=2&pl=14&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1430.558&lmt=1689988290226672&mt=1689987888&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgH5N0FS3fE7swM7zRvOXFhj32VHkPUj-sENsSj9ItJokCIQDebQ_spd_1KtMmagQaiIABEo_0ln_rIInfEYAEJSeyeg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgHM3-BEmgqlPUBSWdJlEO-MYpxWEhe6GXED7IAb-6k0oCIARaOZF-XFxF6FI4wRglVsoFm5SLQE2EuTbiP0rRFneM",
+                        "quality": "18 - YT HD",
+                        "videoUrl": "https://rr2---sn-p5qlsn76.googlevideo.com/videoplayback?expire=1690017172&ei=FC27ZMCRK8LZgwOD9LCoAw&ip=52.226.126.239&id=9fba36d694c664fc&itag=18&source=blogger&mh=8z&mm=31&mn=sn-p5qlsn76&ms=au&mv=m&mvi=2&pl=14&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=1430.558&lmt=1689988290226672&mt=1689987888&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgH5N0FS3fE7swM7zRvOXFhj32VHkPUj-sENsSj9ItJokCIQDebQ_spd_1KtMmagQaiIABEo_0ln_rIInfEYAEJSeyeg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgHM3-BEmgqlPUBSWdJlEO-MYpxWEhe6GXED7IAb-6k0oCIARaOZF-XFxF6FI4wRglVsoFm5SLQE2EuTbiP0rRFneM"
+                    },
+                    {
+                        "url": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=5&sig=RarD1-yU04Q&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=5&sig=RarD1-yU04Q&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318"
+                    },
+                    {
+                        "url": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=3&sig=Sja16KrX2pc&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=3&sig=Sja16KrX2pc&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318"
+                    },
+                    {
+                        "url": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=2&sig=U4Dw6d6CF_c&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=2&sig=U4Dw6d6CF_c&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318"
+                    },
+                    {
+                        "url": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=1&sig=CtS6l3CDSok&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=1&sig=CtS6l3CDSok&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318"
+                    },
+                    {
+                        "url": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=0&sig=Ouc6_0RtSB4&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=0&sig=Ouc6_0RtSB4&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318"
+                    },
+                    {
+                        "url": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=4&sig=6qjd6e9Zt-g&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd415.mycdn.me/?expires=1690074773893&srcIp=52.226.126.239&pr=10&srcAg=CHROME&ms=45.136.20.52&type=4&sig=6qjd6e9Zt-g&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5049472715318"
+                    }
+                ],
+                "passed": true
             }
         }
     }

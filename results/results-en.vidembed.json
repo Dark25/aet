@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/the-house-of-secrets-2023",
+                                "title": "The House of Secrets",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-house-of-secrets-2023-1690101024.jpg"
+                            },
+                            {
+                                "url": "/videos/fear-the-night-2023",
+                                "title": "Fear the Night",
+                                "thumbnail_url": "https://images.movembed.cc//cover/fear-the-night-2023-1690098328.jpg"
+                            },
+                            {
+                                "url": "/videos/theerkadarishi-2023",
+                                "title": "Theerkadarishi",
+                                "thumbnail_url": "https://images.movembed.cc//cover/theerkadarishi-2023-1690097425.jpg"
+                            },
+                            {
                                 "url": "/videos/the-barn-part-ii-2022",
                                 "title": "The Barn Part II",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-barn-part-ii-2022-1690036828.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/class-of-85-2022",
                                 "title": "Class of '85",
                                 "thumbnail_url": "https://images.movembed.cc//cover/class-of-85-2022-1689732631.jpg"
-                            },
-                            {
-                                "url": "/videos/wanted-for-murder-1946",
-                                "title": "Wanted for Murder",
-                                "thumbnail_url": "https://images.movembed.cc//cover/wanted-for-murder-1946-1689732025.jpg"
-                            },
-                            {
-                                "url": "/videos/the-new-centurions-1972",
-                                "title": "The New Centurions",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-new-centurions-1972-1689732025.jpg"
-                            },
-                            {
-                                "url": "/videos/a-kind-of-kidnapping-2023",
-                                "title": "A Kind of Kidnapping",
-                                "thumbnail_url": "https://images.movembed.cc//cover/a-kind-of-kidnapping-2023-1689730828.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,22 +324,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-barn-part-ii-2022",
-                    "title": "The Barn Part II",
-                    "description": "The Halloween ban is now lifted in Helen's Valley, and the sorority girls of Gamma Tau Psi place Michelle in charge of their annual haunted house. Unfortunately for Michelle some uninvited trick or treaters from her past come knoc...",
+                    "url": "/videos/the-house-of-secrets-2023",
+                    "title": "The House of Secrets",
+                    "description": "A sheltered woman's past comes back to haunt her when she's thrown in jail for being an accomplice to her spy lover, and 20 years later, a group rescue her from jail and sets up a semblance of her old house to make her remember a ...",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/the-barn-part-ii-2022",
-                        "name": "The Barn Part II",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

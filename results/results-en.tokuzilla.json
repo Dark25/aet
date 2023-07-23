@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/kamen-rider-geats.html",
+                                "title": "Kamen Rider Geats",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-thumb.png"
+                            },
+                            {
                                 "url": "/watch/shin-kamen-rider.html",
                                 "title": "Shin Kamen Rider",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/shin-kamen-rider-thumb.png"
@@ -45,11 +50,6 @@
                                 "url": "/watch/ohsama-sentai-king-ohger-the-secrets-of-king-racules.html",
                                 "title": "Ohsama Sentai King-Ohger: The Secrets of King Racules",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-the-secrets-of-king-racules-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-geats.html",
-                                "title": "Kamen Rider Geats",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-thumb.png"
                             },
                             {
                                 "url": "/watch/battle-hawk.html",
@@ -144,12 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/shin-kamen-rider.html",
-                    "author": "Year 2023",
-                    "description": "Shin Kamen Rider, also known internationally as Shin Masked Rider, is a Japanese superhero Tokusatsu film serving as a reboot of the 1971 TV series Kamen Rider as well as to commemorate the franchise’s 50th Anniversary.",
-                    "genre": "Kamen Rider",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/watch/kamen-rider-geats.html",
+                    "author": "Year 2022",
+                    "description": "Kamen Rider Geats is an upcoming Japanese Tokusatsu drama in Toei Company’s Kamen Rider Series. It is the fourth series to debut in the Reiwa Era and the thirty-third overall. The series is scheduled to premiere on September 4, 2022, joining Avataro Sentai Donbrothers in the Super Hero Time lineup after the finale of Kamen Rider Revice.",
+                    "genre": "Kamen Rider, Series",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -157,16 +157,67 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/shin-kamen-rider.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/kamen-rider-geats.html?ep=45#watch",
+                        "name": "Episode 45",
+                        "episode_number": 45.0
+                    },
+                    {
+                        "url": "/watch/kamen-rider-geats.html?ep=44#watch",
+                        "name": "Episode 44",
+                        "episode_number": 44.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/ac1e8e9d479bfa1e7f6c7c442889b9df/2023-07-23/1080.m3u8?token=ec1bee6af24f2e7fc4f8e63ba1bd580f&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690103420&type=edge&node=hlbXYoZ5aBKIBz-UXPPfCtCPx---cfRc1laHv2y6hetkzX8T2WcHtmdEjOL-v6p3Uh5QfepZnTnkIbISTSgb5WjZJpC8Hz_4gM6nPqOkq49Dg6DHaaTuDtvJ1KvCQlWsG6iFAtbgkberHzVtRWXblhzn_Ohr9PEcv6MJ9JkF_MqEnisV3YLHplm_BhjgxR6e",
+                        "quality": "Chillx - 1080p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/ac1e8e9d479bfa1e7f6c7c442889b9df/2023-07-23/1080.m3u8?token=ec1bee6af24f2e7fc4f8e63ba1bd580f&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690103420&type=edge&node=hlbXYoZ5aBKIBz-UXPPfCtCPx---cfRc1laHv2y6hetkzX8T2WcHtmdEjOL-v6p3Uh5QfepZnTnkIbISTSgb5WjZJpC8Hz_4gM6nPqOkq49Dg6DHaaTuDtvJ1KvCQlWsG6iFAtbgkberHzVtRWXblhzn_Ohr9PEcv6MJ9JkF_MqEnisV3YLHplm_BhjgxR6e",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/ac1e8e9d479bfa1e7f6c7c442889b9df/2023-07-23/720.m3u8?token=ec1bee6af24f2e7fc4f8e63ba1bd580f&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690103420&type=edge&node=hlbXYoZ5aBKIBz-UXPPfCtCPx---cfRc1laHv2y6hetkzX8T2WcHtmdEjOL-v6p3Uh5QfepZnTnkIbISTSgb5WjZJpC8Hz_4gM6nPqOkq49Dg6DHaaTuDtvJ1KvCQlWsG6iFAtbgkberHzVtRWXblhzn_Ohr9PEcv6MJ9JkF_MqEnisV3YLHplm_BhjgxR6e",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/ac1e8e9d479bfa1e7f6c7c442889b9df/2023-07-23/720.m3u8?token=ec1bee6af24f2e7fc4f8e63ba1bd580f&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690103420&type=edge&node=hlbXYoZ5aBKIBz-UXPPfCtCPx---cfRc1laHv2y6hetkzX8T2WcHtmdEjOL-v6p3Uh5QfepZnTnkIbISTSgb5WjZJpC8Hz_4gM6nPqOkq49Dg6DHaaTuDtvJ1KvCQlWsG6iFAtbgkberHzVtRWXblhzn_Ohr9PEcv6MJ9JkF_MqEnisV3YLHplm_BhjgxR6e",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/ac1e8e9d479bfa1e7f6c7c442889b9df/2023-07-23/360.m3u8?token=ec1bee6af24f2e7fc4f8e63ba1bd580f&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690103420&type=edge&node=hlbXYoZ5aBKIBz-UXPPfCtCPx---cfRc1laHv2y6hetkzX8T2WcHtmdEjOL-v6p3Uh5QfepZnTnkIbISTSgb5WjZJpC8Hz_4gM6nPqOkq49Dg6DHaaTuDtvJ1KvCQlWsG6iFAtbgkberHzVtRWXblhzn_Ohr9PEcv6MJ9JkF_MqEnisV3YLHplm_BhjgxR6e",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/ac1e8e9d479bfa1e7f6c7c442889b9df/2023-07-23/360.m3u8?token=ec1bee6af24f2e7fc4f8e63ba1bd580f&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690103420&type=edge&node=hlbXYoZ5aBKIBz-UXPPfCtCPx---cfRc1laHv2y6hetkzX8T2WcHtmdEjOL-v6p3Uh5QfepZnTnkIbISTSgb5WjZJpC8Hz_4gM6nPqOkq49Dg6DHaaTuDtvJ1KvCQlWsG6iFAtbgkberHzVtRWXblhzn_Ohr9PEcv6MJ9JkF_MqEnisV3YLHplm_BhjgxR6e",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -325,8 +325,7 @@
             "details": {
                 "result": {
                     "url": "/videos/the-barn-part-ii-2022",
-                    "title": "The Barn Part II",
-                    "description": "The Halloween ban is now lifted in Helen's Valley, and the sorority girls of Gamma Tau Psi place Michelle in charge of their annual haunted house. Unfortunately for Michelle some uninvited trick or treaters from her past come knoc...",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
@@ -342,17 +341,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/8zg7ljaokghGBz/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/8zg7ljaokghGBz/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0ODA1"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

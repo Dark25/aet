@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/sun-moon-2023",
+                                "title": "Sun Moon",
+                                "thumbnail_url": "https://images.movembed.cc//cover/sun-moon-2023-1690121429.jpg"
+                            },
+                            {
                                 "url": "/videos/the-house-of-secrets-2023",
                                 "title": "The House of Secrets",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-house-of-secrets-2023-1690101024.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/in-search-of-darkness-part-iii-2022",
                                 "title": "In Search of Darkness: Part III",
                                 "thumbnail_url": "https://images.movembed.cc//cover/in-search-of-darkness-part-iii-2022-1689732632.jpg"
-                            },
-                            {
-                                "url": "/videos/class-of-85-2022",
-                                "title": "Class of '85",
-                                "thumbnail_url": "https://images.movembed.cc//cover/class-of-85-2022-1689732631.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,16 +324,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-house-of-secrets-2023",
-                    "title": "The House of Secrets",
-                    "description": "A sheltered woman's past comes back to haunt her when she's thrown in jail for being an accomplice to her spy lover, and 20 years later, a group rescue her from jail and sets up a semblance of her old house to make her remember a ...",
+                    "url": "/videos/sun-moon-2023",
+                    "title": "Sun Moon",
+                    "description": "After being left at the altar, a young woman escapes to Taiwan on a quest for hope and healing.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/sun-moon-2023",
+                        "name": "Sun Moon",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

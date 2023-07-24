@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/cobweb-2023",
+                                "title": "Cobweb",
+                                "thumbnail_url": "https://images.movembed.cc//cover/cobweb-2023-1690158328.jpg"
+                            },
+                            {
                                 "url": "/videos/sun-moon-2023",
                                 "title": "Sun Moon",
                                 "thumbnail_url": "https://images.movembed.cc//cover/sun-moon-2023-1690121429.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/even-in-dreams-2021",
                                 "title": "Even in Dreams",
                                 "thumbnail_url": "https://images.movembed.cc//cover/even-in-dreams-2021-1689737126.jpg"
-                            },
-                            {
-                                "url": "/videos/in-search-of-darkness-part-iii-2022",
-                                "title": "In Search of Darkness: Part III",
-                                "thumbnail_url": "https://images.movembed.cc//cover/in-search-of-darkness-part-iii-2022-1689732632.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,22 +324,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/sun-moon-2023",
-                    "title": "Sun Moon",
-                    "description": "After being left at the altar, a young woman escapes to Taiwan on a quest for hope and healing.",
+                    "url": "/videos/cobweb-2023",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/sun-moon-2023",
-                        "name": "Sun Moon",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

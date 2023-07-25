@@ -77,6 +77,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/the-dreaming-boy-is-a-realist-1x4/",
+                                "title": "The Dreaming Boy Is a Realist: 1×4",
+                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/bPk87ImEdLqYYArapxknHTFCLdI-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/sweet-reincarnation-1x5/",
+                                "title": "Sweet Reincarnation: 1×5",
+                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/3gPZy5ni3kNlwr30qGYxoWmmuwn-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/pokemon-horizons-the-series-1x14/",
+                                "title": "Pokémon Horizons: The Series: 1×14",
+                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/dQxkQ8nHHvfIwekAWLEoIl5e3h4-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodes/nierautomata-ver1-1a-1x12/",
                                 "title": "NieR:Automata Ver1.1a: 1×12",
                                 "thumbnail_url": "https://pactedanime.com/sukmydck/2023/01/jK5k5qPICWLKHkl9DiDxsGyog1p-300x170.jpg"
@@ -120,21 +135,6 @@
                                 "url": "/episodes/the-duke-of-death-and-his-maid-2x3/",
                                 "title": "The Duke of Death and His Maid: 2×3",
                                 "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/eeZcoPYYRMt9mozxIwILcZHCzRG-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/yohane-the-parhelion-sunshine-in-the-mirror-1x5/",
-                                "title": "YOHANE THE PARHELION -SUNSHINE in the MIRROR: 1×5",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/mChfWsG7bgmnswhOcWX2YlTY0qo-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/classroom-for-heroes-1x3/",
-                                "title": "Classroom for Heroes: 1×3",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/nREb41mdpjM5DmDdNlKSogq16F7-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/dark-gathering-1x3/",
-                                "title": "Dark Gathering: 1×3",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/5VOItonpf4T9atVbpVN0k8VDdr8-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -213,16 +213,42 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/one-piece/",
+                    "title": "One Piece",
+                    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous “One Piece” behind. Whoever claims the “One Piece” will be named the new King of the Pirates.\n\nOriginal title: ワンピース\nFirst air date: Oct. 20, 1999\nLast air date: Apr. 16, 2023\nSeasons: 21\nEpisodes: 1061",
+                    "genre": "Action & Adventure, Animation, Comedy, Top Anime",
+                    "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-200x300.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes/one-piece-21x1069/",
+                        "name": "Season 21 x 1069 - There Is Only One Winner - Luffy vs. Kaido",
+                        "date_upload": 1689465600000,
+                        "episode_number": 1069.0
+                    },
+                    {
+                        "url": "/episodes/one-piece-21x1068/",
+                        "name": "Season 21 x 1068 - Moon Princess Echoes! Wano Country's Final Phase!",
+                        "date_upload": 1688860800000,
+                        "episode_number": 1068.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f21531f13c9d26de4_d20230716_m032938_c004_v0402015_t0001_u01689478178567",
+                        "quality": "1080P",
+                        "videoUrl": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f21531f13c9d26de4_d20230716_m032938_c004_v0402015_t0001_u01689478178567"
+                    }
+                ],
+                "passed": true
             }
         }
     }

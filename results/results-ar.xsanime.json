@@ -401,14 +401,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc583.4shared.com/img/Jf0qLNaYku/aa1dc809/dlink__2Fdownload_2FJf0qLNaYku_3Fsbsr_3D2424fec0723d53975f09f2c250336667aeb_26bip_3DMTMuNzMuNTAuODk_26lgfp_3D66_26bip_3DMTMuNzMuNTAuODk_26bip_3DMTMuNzMuNTAuODk/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc583.4shared.com/img/Jf0qLNaYku/aa1dc809/dlink__2Fdownload_2FJf0qLNaYku_3Fsbsr_3D2424fec0723d53975f09f2c250336667aeb_26bip_3DMTMuNzMuNTAuODk_26lgfp_3D66_26bip_3DMTMuNzMuNTAuODk_26bip_3DMTMuNzMuNTAuODk/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

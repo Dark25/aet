@@ -504,8 +504,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/04265/843m14okl4o4_x/index-v1-a1.m3u8?t=kicW7sRdW2Vu_8NAw45U139O_TjQyO2LQjs2sUNkKk8&s=1690460640&e=43200&f=21327028&srv=12&asn=8075&sp=2500",
+                        "quality": "Filemoon - 1032p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/04265/843m14okl4o4_x/index-v1-a1.m3u8?t=kicW7sRdW2Vu_8NAw45U139O_TjQyO2LQjs2sUNkKk8&s=1690460640&e=43200&f=21327028&srv=12&asn=8075&sp=2500",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/843m14okl4o4",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

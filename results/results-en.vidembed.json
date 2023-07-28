@@ -7,6 +7,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/cult-of-fury-2003",
+                                "title": "Cult of Fury",
+                                "thumbnail_url": "https://images.movembed.cc//cover/cult-of-fury-2003-1690536624.jpg"
+                            },
+                            {
+                                "url": "/videos/big-nunus-little-heist-2023",
+                                "title": "Big Nunu's Little Heist",
+                                "thumbnail_url": "https://images.movembed.cc//cover/big-nunus-little-heist-2023-1690535725.jpg"
+                            },
+                            {
+                                "url": "/videos/hidden-strike-2023",
+                                "title": "Hidden Strike",
+                                "thumbnail_url": "https://images.movembed.cc//cover/hidden-strike-2023-1690530328.jpg"
+                            },
+                            {
+                                "url": "/videos/the-hottest-summer-2023",
+                                "title": "The Hottest Summer",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-hottest-summer-2023-1690529425.jpg"
+                            },
+                            {
+                                "url": "/videos/the-murderer-2023",
+                                "title": "The Murderer",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-murderer-2023-1690529425.jpg"
+                            },
+                            {
+                                "url": "/videos/the-lady-of-silence-the-mataviejitas-murders-2023",
+                                "title": "The Lady of Silence: The Mataviejitas Murders",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-lady-of-silence-the-mataviejitas-murders-2023-1690529425.jpg"
+                            },
+                            {
+                                "url": "/videos/after-the-bite-2023",
+                                "title": "After the Bite",
+                                "thumbnail_url": "https://images.movembed.cc//cover/after-the-bite-2023-1690528524.jpg"
+                            },
+                            {
                                 "url": "/videos/the-beanie-bubble-2023",
                                 "title": "The Beanie Bubble",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-beanie-bubble-2023-1690512924.jpg"
@@ -120,41 +155,6 @@
                                 "url": "/videos/the-annihilators-1985",
                                 "title": "The Annihilators",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-annihilators-1985-1690279823.jpg"
-                            },
-                            {
-                                "url": "/videos/the-desert-said-dance-2021",
-                                "title": "The Desert Said Dance",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-desert-said-dance-2021-1690279823.jpg"
-                            },
-                            {
-                                "url": "/videos/shin-kamen-rider-2023",
-                                "title": "Shin Kamen Rider",
-                                "thumbnail_url": "https://images.movembed.cc//cover/shin-kamen-rider-2023-1690269324.jpg"
-                            },
-                            {
-                                "url": "/videos/just-desserts-the-making-of-creepshow-2007",
-                                "title": "Just Desserts: The Making of 'Creepshow'",
-                                "thumbnail_url": "https://images.movembed.cc//cover/just-desserts-the-making-of-creepshow-2007-1690255831.jpg"
-                            },
-                            {
-                                "url": "/videos/contact-the-ce-5-experience-2023",
-                                "title": "Contact: The CE-5 Experience",
-                                "thumbnail_url": "https://images.movembed.cc//cover/contact-the-ce-5-experience-2023-1690253128.jpg"
-                            },
-                            {
-                                "url": "/videos/sharksploitation-2023",
-                                "title": "Sharksploitation",
-                                "thumbnail_url": "https://images.movembed.cc//cover/sharksploitation-2023-1690253128.jpg"
-                            },
-                            {
-                                "url": "/videos/horton-hears-a-who-1970",
-                                "title": "Horton Hears a Who!",
-                                "thumbnail_url": "https://images.movembed.cc//cover/horton-hears-a-who-1970-1690253127.jpg"
-                            },
-                            {
-                                "url": "/videos/the-westerner-1940",
-                                "title": "The Westerner",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-westerner-1940-1690253127.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-beanie-bubble-2023",
-                    "title": "The Beanie Bubble",
-                    "description": "Ty Warner was a frustrated toy salesman until his collaboration with three women grew his idea into the biggest toy craze in history.",
+                    "url": "/videos/cult-of-fury-2003",
+                    "title": "Cult of Fury",
+                    "description": "When the girlfriend of a cult leader tries to leave the flock, she finds escape to be more difficult than she imagined.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,25 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/the-beanie-bubble-2023",
-                        "name": "The Beanie Bubble",
+                        "url": "/videos/cult-of-fury-2003",
+                        "name": "Cult of Fury",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/PDAxGoPaVau06jk/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/PDAxGoPaVau06jk/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0ODYy"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

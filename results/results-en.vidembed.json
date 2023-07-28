@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/the-beanie-bubble-2023",
+                                "title": "The Beanie Bubble",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-beanie-bubble-2023-1690512924.jpg"
+                            },
+                            {
+                                "url": "/videos/revealed-the-cape-2023",
+                                "title": "Revealed: The Cape",
+                                "thumbnail_url": "https://images.movembed.cc//cover/revealed-the-cape-2023-1690512924.jpg"
+                            },
+                            {
+                                "url": "/videos/i-am-t-rex-2022",
+                                "title": "I Am T-Rex",
+                                "thumbnail_url": "https://images.movembed.cc//cover/i-am-t-rex-2022-1690508427.jpg"
+                            },
+                            {
+                                "url": "/videos/a-guilty-conscience-2023",
+                                "title": "A Guilty Conscience",
+                                "thumbnail_url": "https://images.movembed.cc//cover/a-guilty-conscience-2023-1690508425.jpg"
+                            },
+                            {
                                 "url": "/videos/the-adventures-of-smilin-jack-1943",
                                 "title": "The Adventures of Smilin' Jack",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-adventures-of-smilin-jack-1943-1690470024.jpg"
@@ -135,26 +155,6 @@
                                 "url": "/videos/the-westerner-1940",
                                 "title": "The Westerner",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-westerner-1940-1690253127.jpg"
-                            },
-                            {
-                                "url": "/videos/the-keys-of-the-kingdom-1944",
-                                "title": "The Keys of the Kingdom",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-keys-of-the-kingdom-1944-1690253126.jpg"
-                            },
-                            {
-                                "url": "/videos/whos-guilty-1945",
-                                "title": "Who's Guilty?",
-                                "thumbnail_url": "https://images.movembed.cc//cover/whos-guilty-1945-1690246227.jpg"
-                            },
-                            {
-                                "url": "/videos/the-vigilantes-are-coming-1936",
-                                "title": "The Vigilantes Are Coming",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-vigilantes-are-coming-1936-1690246227.jpg"
-                            },
-                            {
-                                "url": "/videos/a-lifelong-love-2023",
-                                "title": "A Lifelong Love",
-                                "thumbnail_url": "https://images.movembed.cc//cover/a-lifelong-love-2023-1690245047.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,8 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-adventures-of-smilin-jack-1943",
-                    "description": "",
+                    "url": "/videos/the-beanie-bubble-2023",
+                    "title": "The Beanie Bubble",
+                    "description": "Ty Warner was a frustrated toy salesman until his collaboration with three women grew his idea into the biggest toy craze in history.",
                     "initialized": true
                 },
                 "passed": true
@@ -333,25 +334,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/the-adventures-of-smilin-jack-1943",
-                        "name": "The Adventures of Smilin' Jack",
+                        "url": "/videos/the-beanie-bubble-2023",
+                        "name": "The Beanie Bubble",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/BAbe8LXrKeIy13Q/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/BAbe8LXrKeIy13Q/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0ODUx"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/chains-of-heart/",
+                                "title": "Chains of Heart (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vz9qOmZk5IMeNJ5Zjl8JcgOAhFU.jpg"
+                            },
+                            {
                                 "url": "/have-a-crush-on-you/",
                                 "title": "Have a Crush On You (11/36)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/here-we-meet-again-2-32/",
                                 "title": "Here We Meet Again (18/32)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg"
-                            },
-                            {
-                                "url": "/escape-from-mogadishu-sub-espanol/",
-                                "title": "Escape from Mogadishu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/grFDK4ddh2IMn464Ve4ke4uz2ao.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/chains-of-heart/",
+                                "title": "Chains of Heart (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vz9qOmZk5IMeNJ5Zjl8JcgOAhFU.jpg"
+                            },
+                            {
                                 "url": "/have-a-crush-on-you/",
                                 "title": "Have a Crush On You (11/36)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/here-we-meet-again-2-32/",
                                 "title": "Here We Meet Again (18/32)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg"
-                            },
-                            {
-                                "url": "/escape-from-mogadishu-sub-espanol/",
-                                "title": "Escape from Mogadishu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/grFDK4ddh2IMn464Ve4ke4uz2ao.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/have-a-crush-on-you/",
-                    "title": "Have a Crush On You (11/36)",
-                    "description": "Ruan Liu Zheng regresa a su ciudad natal después de siete años y se convierte en neurocirujana en el Hospital Bei Ya. Sin embargo, no esperaba conocer a su ex esposo, Ning Zhi Qian, quien es el neurocirujano con más experiencia en el Hospital Bei Ya. Ning Zhi Qian se ofrece como voluntario para ser el mentor de Ruan Liu Zheng, con el fin de compensar el daño que le causó. Ruan Liu Zheng ya no es la chica débil y tímida, y muestra resolución y determinación tanto en su trabajo como en su relación. Durante el trabajo, Ruan Liu Zheng choca con Ning Zhi Qian, pero también trabaja junto a él para salvar vidas. Cuando estaban en África para realizar esfuerzos de alivio médico, Ning Zhi Qian resultó herido mientras salvaba a un paciente. Ruan Liu Zheng no se aparta de su lado y luchó duro para salvarlo del borde de la muerte. Con el tiempo, los dos obtuvieron una nueva comprensión de la vida y comenzaron una nueva relación.",
-                    "genre": "Drama, Misterio, Romance",
+                    "url": "/chains-of-heart/",
+                    "title": "Chains of Heart (Completo)",
+                    "description": "Cuando Din, un joven oficial forestal, se involucra con una pandilla de contrabandistas, él y Ken, un joven que ha estado en una relación durante más de siete años, son ahuyentados. Ambos están acorralados y caen desde un acantilado.",
+                    "genre": "Acción, Romance, Yaoi / BL",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vz9qOmZk5IMeNJ5Zjl8JcgOAhFU.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/2225338/",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/paste/3925196/",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

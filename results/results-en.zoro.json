@@ -407,14 +407,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8a/ef/8aefe7f11b488baf83af0585fbc8519d/8aefe7f11b488baf83af0585fbc8519d.jpg"
                             },
                             {
-                                "url": "/saint-cecilia-and-pastor-lawrence-18480",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1a/07/1a075444e296731097ded364dd093fdc/1a075444e296731097ded364dd093fdc.jpg"
-                            },
-                            {
                                 "url": "/legend-of-immortals-5th-season-18328",
                                 "title": "Xingchen Bian 5th Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7e/10/7e107ae2a65f51af081391c2135ed884/7e107ae2a65f51af081391c2135ed884.jpg"
+                            },
+                            {
+                                "url": "/saint-cecilia-and-pastor-lawrence-18480",
+                                "title": "Shiro Seijo to Kuro Bokushi",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1a/07/1a075444e296731097ded364dd093fdc/1a075444e296731097ded364dd093fdc.jpg"
                             },
                             {
                                 "url": "/mononogatari-2nd-season-18466",
@@ -442,14 +442,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/17/4a/174a13011301d3d0a2135f40162b8dee/174a13011301d3d0a2135f40162b8dee.jpg"
                             },
                             {
-                                "url": "/yohane-the-parhelion-sunshine-in-the-mirror-18417",
-                                "title": "Genjitsu no Yohane: Sunshine in the Mirror",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/99/2c/992c163439d97980942d63fcd0b3fe4d/992c163439d97980942d63fcd0b3fe4d.jpeg"
-                            },
-                            {
                                 "url": "/the-most-heretical-last-boss-queen-from-villainess-to-savior-18478",
                                 "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/4b/ce/4bce0354a0a8564007fd97bc7ef41bc8/4bce0354a0a8564007fd97bc7ef41bc8.jpg"
+                            },
+                            {
+                                "url": "/yohane-the-parhelion-sunshine-in-the-mirror-18417",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/99/2c/992c163439d97980942d63fcd0b3fe4d/992c163439d97980942d63fcd0b3fe4d.jpeg"
                             },
                             {
                                 "url": "/the-blue-orchestra-18359",
@@ -682,8 +682,53 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery007.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_n/index-v1-a1.m3u8?t=Y_9Tm53l0tMYLl444wrP8aKaiad2zd8B4lktufG_dMw&s=1690506028&e=10800&f=15564010&srv=sto072&client=20.42.12.242&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery007.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_n/index-v1-a1.m3u8?t=Y_9Tm53l0tMYLl444wrP8aKaiad2zd8B4lktufG_dMw&s=1690506028&e=10800&f=15564010&srv=sto072&client=20.42.12.242&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/ss7a2ruar9q1.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery007.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=ZxpxyUjEtjbNbrPnuAZFoixfbcUtYF1D70N4sd7D1rc&s=1690506029&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.242&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery007.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=ZxpxyUjEtjbNbrPnuAZFoixfbcUtYF1D70N4sd7D1rc&s=1690506029&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.242&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery007.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_l/index-v1-a1.m3u8?t=Y_9Tm53l0tMYLl444wrP8aKaiad2zd8B4lktufG_dMw&s=1690506028&e=10800&f=15564010&srv=sto072&client=20.42.12.242&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery007.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_l/index-v1-a1.m3u8?t=Y_9Tm53l0tMYLl444wrP8aKaiad2zd8B4lktufG_dMw&s=1690506028&e=10800&f=15564010&srv=sto072&client=20.42.12.242&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/ss7a2ruar9q1.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery007.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=ZxpxyUjEtjbNbrPnuAZFoixfbcUtYF1D70N4sd7D1rc&s=1690506029&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.242&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery007.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=ZxpxyUjEtjbNbrPnuAZFoixfbcUtYF1D70N4sd7D1rc&s=1690506029&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.242&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

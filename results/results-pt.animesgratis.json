@@ -3,27 +3,390 @@
         "name": "Animes Grátis",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/girly-air-force/",
+                                "title": "Girly Air Force",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hyvkoYUgfMu4PMvd4HaswbeHp6k.jpg"
+                            },
+                            {
+                                "url": "/animes/carnival-phantasm/",
+                                "title": "Carnival Phantasm",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/tDqPa3IOm8kavnoqJu3R1csV3QQ.jpg"
+                            },
+                            {
+                                "url": "/animes/soulmate-adventure/",
+                                "title": "Soulmate Adventure",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gkx11fRjNFCF4jEuWXUN8pWsUC0.jpg"
+                            },
+                            {
+                                "url": "/animes/spare-me-great-lord/",
+                                "title": "Spare Me, Great Lord!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/2rIhLCzmRnbO1W3Cd0FC5AA1Q6P.jpg"
+                            },
+                            {
+                                "url": "/animes/shiroi-suna-no-aquatope/",
+                                "title": "Shiroi Suna no Aquatope",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/zVyLvchDYj1gYkAH7y1SRS0Ko30.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodio/one-piece-episodio-1070/",
+                                "title": "One Piece – Episódio 1070",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/f2gP9F7apwE4MxUpaXxqqjy65wc.jpg"
+                            },
+                            {
+                                "url": "/episodio/jitsu-wa-ore-saikyou-deshita-episodio-4/",
+                                "title": "Jitsu wa Ore, Saikyou deshita? – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/rngRmUJIDBz5Wae3jxseudKpFAa.jpg"
+                            },
+                            {
+                                "url": "/episodio/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-episodio-4/",
+                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/rARtfzpTPnsqTUkCe9bhga9WuDQ.jpg"
+                            },
+                            {
+                                "url": "/episodio/ayaka-episodio-5/",
+                                "title": "Ayaka – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/ApLG86cGdYpBczmS134BcAsHav6.jpg"
+                            },
+                            {
+                                "url": "/episodio/edens-zero-2-episodio-18/",
+                                "title": "Edens Zero 2 – Episódio 18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/k967583jcJxB7BNdOeL3MrMgEG6.jpg"
+                            },
+                            {
+                                "url": "/episodio/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-episodio-5/",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/h2KaaKZ59Lvz9VJ3Ds6uPD27uvu.jpg"
+                            },
+                            {
+                                "url": "/episodio/temple-episodio-4/",
+                                "title": "Temple – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/A4GGOIcMPPEzFlLJt1obp7ZkzPa.jpg"
+                            },
+                            {
+                                "url": "/episodio/horimiya-piece-episodio-5/",
+                                "title": "Horimiya: Piece – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/9E1PbcAafRnWbEcaeqkjv6TcxkT.jpg"
+                            },
+                            {
+                                "url": "/episodio/liar-liar-episodio-5/",
+                                "title": "Liar Liar – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/hIJleMRoQDCajZw2AWGr9CZS9oz.jpg"
+                            },
+                            {
+                                "url": "/episodio/bleach-sennen-kessen-hen-episodio-17/",
+                                "title": "Bleach: Sennen Kessen-hen – Episódio 17",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/2CeBB6gf7qvKAR3FVGndiQEINsZ.jpg"
+                            },
+                            {
+                                "url": "/episodio/level-1-dakedo-unique-skill-de-saikyou-desu-dublado-episodio-4/",
+                                "title": "Level 1 dakedo Unique Skill de Saikyou desu Dublado – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/4tRiRXc0w3QMQJbxFJEQahDmPCa.jpg"
+                            },
+                            {
+                                "url": "/episodio/level-1-dakedo-unique-skill-de-saikyou-desu-episodio-4/",
+                                "title": "Level 1 dakedo Unique Skill de Saikyou desu – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/Y4BgdAx9RxpSh5XvhUjuIMnEVm.jpg"
+                            },
+                            {
+                                "url": "/episodio/kanojo-okarishimasu-3-dublado-episodio-1/",
+                                "title": "Kanojo, Okarishimasu 3 Dublado – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/ujB17InbBr1trvhRSxNb0WDSZHQ.jpg"
+                            },
+                            {
+                                "url": "/episodio/ai-no-idenshi-episodio-4/",
+                                "title": "AI no Idenshi – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/z8JbsKsh18Tm09u7iGNpCllWzWr.jpg"
+                            },
+                            {
+                                "url": "/episodio/dekiru-neko-wa-kyou-mo-yuuutsu-episodio-4/",
+                                "title": "Dekiru Neko wa Kyou mo Yuuutsu – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/nPoQoeg0m9wH1aYlr95IPZxtwYu.jpg"
+                            },
+                            {
+                                "url": "/episodio/kanojo-okarishimasu-3-episodio-4/",
+                                "title": "Kanojo, Okarishimasu 3 – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/3D6wYlac1GbnlCOrhI8dEXSjWNC.jpg"
+                            },
+                            {
+                                "url": "/episodio/nanatsu-no-maken-ga-shihai-suru-episodio-4/",
+                                "title": "Nanatsu no Maken ga Shihai suru – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/7Oiit6KcnGdQnSqKUJM2OTkUwuV.jpg"
+                            },
+                            {
+                                "url": "/episodio/link-click-2-episodio-4/",
+                                "title": "Link Click 2 – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/c48ubAVVz95acOUhcAhN5FRkHEA.jpg"
+                            },
+                            {
+                                "url": "/episodio/rurouni-kenshin-meiji-kenkaku-romantan-dublado-2023-episodio-1/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan Dublado (2023) – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/hGH5Bier7a0p4JIW7J3wHfvmj5J.jpg"
+                            },
+                            {
+                                "url": "/episodio/jujutsu-kaisen-2-dublado-episodio-1/",
+                                "title": "Jujutsu Kaisen 2 Dublado – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/wR1ss0SiN0EjKOPgrGfCm9FzdVD.jpg"
+                            },
+                            {
+                                "url": "/episodio/rurouni-kenshin-meiji-kenkaku-romantan-2023-episodio-4/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/3yRtbYHpIbVSLZyZBS5JWKkiSMS.jpg"
+                            },
+                            {
+                                "url": "/episodio/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi-episodio-4/",
+                                "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/s6vzs5ZbVsCanmLhK6s0nhSYRev.jpg"
+                            },
+                            {
+                                "url": "/episodio/spy-kyoushitsu-2-episodio-3/",
+                                "title": "Spy Kyoushitsu 2 – Episódio 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/ngE72N2r9rmckYxUXxnGvu9bDVE.jpg"
+                            },
+                            {
+                                "url": "/episodio/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-episodio-4/",
+                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/oAd1Kdj0IwvOgGbQ5wZczgpQWrh.jpg"
+                            },
+                            {
+                                "url": "/episodio/jujutsu-kaisen-2-episodio-4/",
+                                "title": "Jujutsu Kaisen 2 – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/4FmzhDsj1kxP4EZWNqmfgv7BEzD.jpg"
+                            },
+                            {
+                                "url": "/episodio/hataraku-maou-sama-2-episodio-15/",
+                                "title": "Hataraku Maou-sama! 2 – Episódio 15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/lb6sCfNXhqETCwUTKNKXULGPao1.jpg"
+                            },
+                            {
+                                "url": "/episodio/undead-girl-murder-farce-episodio-4/",
+                                "title": "Undead Girl Murder Farce – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/loUR31ldhJ7Q8ag9RnUfXSummZ1.jpg"
+                            },
+                            {
+                                "url": "/episodio/shiro-seijo-to-kuro-bokushi-episodio-3/",
+                                "title": "Shiro Seijo to Kuro Bokushi – Episódio 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/4JvjphfFDtVsY3hDGDfPyefqMSC.jpg"
+                            },
+                            {
+                                "url": "/episodio/watashi-no-shiawase-na-kekkon-episodio-4/",
+                                "title": "Watashi no Shiawase na Kekkon – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/9moyA7LieNaX3qV5ayifRPgmurW.jpg"
+                            },
+                            {
+                                "url": "/episodio/bungou-stray-dogs-episodio-53/",
+                                "title": "Bungou Stray Dogs – Episódio 53",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w640_and_h360_face/ArWPyHRuZuULtUoXp5uDzcsOCD1.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cFw0rO72AImFaCkPBvVchm0dLWH.jpg"
+                            },
+                            {
+                                "url": "/animes/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9hURRSul16F01eTiquW8x1aeCnM.jpg"
+                            },
+                            {
+                                "url": "/animes/tondemo-skill-de-isekai-hourou-meshi-dublado/",
+                                "title": "Tondemo Skill de Isekai Hourou Meshi Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6IZkTbgZEkzeVPKqfe644mSxbfF.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-wa-smartphone-to-tomo-ni/",
+                                "title": "Isekai wa Smartphone to Tomo ni",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/amV5cDC4mwFIqw56SAzc4eTetJM.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-bakuen-wo/",
+                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hk8ZPjePXEOEOT3HNmbq2HoqQZy.jpg"
+                            },
+                            {
+                                "url": "/animes/kaminaki-sekai-no-kamisama-katsudou/",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/eGdeIzSyAyAcUiqJeocPZicZzqM.jpg"
+                            },
+                            {
+                                "url": "/animes/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito/",
+                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1BLVWgpAASudNZymVqaaVOT4d.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-shoukan-wa-nidome-desu/",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wO0XOLsxOjFlCVLFk7OShHyoBcA.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-de-cheat-skill-o-te-ni-shita-ore-wa-genjitsu-sekai-o-mo-musousuru/",
+                                "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/735wujaQV7bdDDnea69Rs0lF1.jpg"
+                            },
+                            {
+                                "url": "/animes/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu/",
+                                "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3d8C2DEEBe70SIVZZWw1Q08oPvN.jpg"
+                            },
+                            {
+                                "url": "/animes/benriya-saitou-san-isekai-ni-iku/",
+                                "title": "Benriya Saitou-san, Isekai ni Iku",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xgrzW23N85tX4alKwuVBrsu0Ppl.jpg"
+                            },
+                            {
+                                "url": "/animes/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu/",
+                                "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/eW7WipQUnl4zFEqGyoZxDvhgMYK.jpg"
+                            },
+                            {
+                                "url": "/animes/hyouken-no-majutsushi-ga-sekai-wo-suberu/",
+                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aiJd0oGkBhf98uEH3F3yC7O48vr.jpg"
+                            },
+                            {
+                                "url": "/animes/tondemo-skill-de-isekai-hourou-meshi/",
+                                "title": "Tondemo Skill de Isekai Hourou Meshi",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6IZkTbgZEkzeVPKqfe644mSxbfF.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-nonbiri-nouka/",
+                                "title": "Isekai Nonbiri Nouka",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mE4pE6NOV3AbvTUE3MkFMlfs12n.jpg"
+                            },
+                            {
+                                "url": "/animes/saikyou-onmyouji-no-isekai-tenseiki/",
+                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ociMzqhP8HGykazGh83LmIT2XkS.jpg"
+                            },
+                            {
+                                "url": "/animes/hanabi-chan-wa-okuregachi/",
+                                "title": "Hanabi-chan wa Okuregachi",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/p7eHnuydyPmG4ncpGo2vgNCg6nu.jpg"
+                            },
+                            {
+                                "url": "/animes/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka/",
+                                "title": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qClqP52PXArev5ICorhRcBi4Ghd.jpg"
+                            },
+                            {
+                                "url": "/animes/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita/",
+                                "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dRIojNhIP6X3IKvJmMTUIEvdUby.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-ojisan/",
+                                "title": "Isekai Ojisan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4HczBAMy0tlMlLoS6u1j8GStTt5.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-meikyuu-de-harem-wo/",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nu6HK6XGOt1CJv76RxQnbFlqITP.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-yakkyoku/",
+                                "title": "Isekai Yakkyoku",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yDvcwOExGLyZQH6nmEFkEsjnRha.jpg"
+                            },
+                            {
+                                "url": "/animes/sushi-police/",
+                                "title": "Sushi Police",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vSYyiifMe9k0wP2vnf0WT2O4oNE.jpg"
+                            },
+                            {
+                                "url": "/animes/soredemo-sekai-wa-utsukushii/",
+                                "title": "Soredemo Sekai wa Utsukushii",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kACJklThcl28yrVfWUCzHy05yla.jpg"
+                            },
+                            {
+                                "url": "/animes/choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu/",
+                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ceUlN5txWMJ7cii3Rg5Ga2eveiF.jpg"
+                            },
+                            {
+                                "url": "/animes/lance-n-masques/",
+                                "title": "Lance N Masques",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gJFb6xycMqqNkCThIT52fTA0db2.jpg"
+                            },
+                            {
+                                "url": "/animes/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oz3xb8ZpPC9SEKneBrJVK3ZinG6.jpg"
+                            },
+                            {
+                                "url": "/animes/hack-sign/",
+                                "title": ".hack//Sign",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg"
+                            },
+                            {
+                                "url": "/animes/hack-liminality/",
+                                "title": ".hack//Liminality",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hGidbV6INqbGoQ5lxGjBmnOj4r0.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/girly-air-force/",
+                    "title": "Girly Air Force",
+                    "description": "Misteriosas criaturas voadoras conhecidas como Zai aparecem de repente, e para lutar contra as criaturas, a humanidade cria aviões de caça chamados ‘Daughters’, assim como o mecanismo automático de luta ‘Anima’, que tem a forma de garotas humanas. A história é centrada em um jovem chamado Kei Narutani, que anseia por voar, e um Anima considerado o trunfo da humanidade, uma garota chamada Gripen.\n\nTítulo Original: ガーリー・エアフォース\nEpisódios: 12",
+                    "genre": "Ação, Ficção Científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/hyvkoYUgfMu4PMvd4HaswbeHp6k.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/girly-air-force-episodio-12/",
+                        "name": "Temporada 1 x 12 - Episódio 12",
+                        "date_upload": 1690675200000,
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/episodio/girly-air-force-episodio-11/",
+                        "name": "Temporada 1 x 11 - Episódio 11",
+                        "date_upload": 1690675200000,
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

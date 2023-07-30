@@ -325,8 +325,7 @@
             "details": {
                 "result": {
                     "url": "/videos/sympathy-for-the-devil-2023",
-                    "title": "Sympathy for the Devil",
-                    "description": "After being forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where it becomes clear that not everything is as it seems.",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
@@ -342,7 +341,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

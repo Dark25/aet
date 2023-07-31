@@ -341,9 +341,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=VGbdD8rPekfkJL&expires=1690876410&ip=FROsExcnDS9X&token=it7rroahBB92",
+                        "url": "<head>",
+                        "quality": "StreamSB:<html>p",
+                        "videoUrl": "<head>",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/gjmp7te6gl65.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=VGbdD8rPekfkJL&expires=1690897404&ip=Gy5NE0qnDS9X&token=ae6UjcxnL3TK",
                         "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=VGbdD8rPekfkJL&expires=1690876410&ip=FROsExcnDS9X&token=it7rroahBB92"
+                        "videoUrl": "https://streamtape.com/get_video?id=VGbdD8rPekfkJL&expires=1690897404&ip=Gy5NE0qnDS9X&token=ae6UjcxnL3TK"
                     }
                 ],
                 "passed": true

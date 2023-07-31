@@ -3,8 +3,94 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: bruh",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/angelina-ballerina-the-next-steps",
+                                "title": "Angelina Ballerina: The Next Steps",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933044.jpg"
+                            },
+                            {
+                                "url": "/anime/all-star-specials",
+                                "title": "All Star Specials",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933043.jpg"
+                            },
+                            {
+                                "url": "/anime/alisa-knows-what-to-do",
+                                "title": "Alisa Knows What to Do!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933042.jpg"
+                            },
+                            {
+                                "url": "/anime/alienators-evolution-continues",
+                                "title": "Alienators: Evolution Continues",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933041.jpg"
+                            },
+                            {
+                                "url": "/anime/adventurers-masters-of-time",
+                                "title": "Adventurers: Masters of Time",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933040.jpg"
+                            },
+                            {
+                                "url": "/anime/adventure-beast",
+                                "title": "Adventure Beast",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933039.jpg"
+                            },
+                            {
+                                "url": "/anime/action-man-1995",
+                                "title": "Action Man (1995)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933038.jpg"
+                            },
+                            {
+                                "url": "/anime/captain-fall",
+                                "title": "Captain Fall",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933037.jpg"
+                            },
+                            {
+                                "url": "/anime/red-ketchup",
+                                "title": "Red Ketchup",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933036.jpg"
+                            },
+                            {
+                                "url": "/anime/saint-cecilia-and-pastor-lawrence",
+                                "title": "Saint Cecilia and Pastor Lawrence",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933035.jpg"
+                            },
+                            {
+                                "url": "/anime/a-tale-dark-grimm",
+                                "title": "A Tale Dark & Grimm",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933034.jpg"
+                            },
+                            {
+                                "url": "/anime/dew-drop-diaries",
+                                "title": "Dew Drop Diaries",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933033.jpg"
+                            },
+                            {
+                                "url": "/anime/1001-nights",
+                                "title": "1001 Nights",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933032.jpg"
+                            },
+                            {
+                                "url": "/anime/liar-liar",
+                                "title": "Liar Liar",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933031.jpg"
+                            },
+                            {
+                                "url": "/anime/tenpuru-no-one-can-live-on-loneliness",
+                                "title": "TenPuru: No One Can Live on Loneliness",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933030.jpg"
+                            },
+                            {
+                                "url": "/anime/praise-petey",
+                                "title": "Praise Petey",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933029.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -518,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-world-of-narue",
-                    "title": "The World of Narue",
-                    "description": "Plot Summary: Iizuka Kazuto is a 14 year old boy who meets a somewhat weird but cute and charming girl named Narue Nanase who claims she is an Alien. The show is about the trials and tribulations of the young couple as they get to know each other.",
-                    "genre": "Romantic Comedy, Science Fiction, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/23770.jpg",
+                    "url": "/anime/angelina-ballerina-the-next-steps",
+                    "title": "Angelina Ballerina: The Next Steps",
+                    "description": "Join Angelina Ballerina as she finds her way in her new school, puts together her own show and tries to land a leading role in the Mouskinov Ballet. Prepare to pirouette along with everyone’s favorite ballerina in these sparkling stories!",
+                    "genre": "Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933044.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -530,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-world-of-narue-episode-12-english-dubbed",
-                        "name": "Episode 12 English Dubbed",
-                        "episode_number": 12.0
+                        "url": "/angelina-ballerina-the-next-steps-season-3-episode-20-angelinas-spring-fling",
+                        "name": "Season 3 Episode 20 Angelina’s Spring Fling",
+                        "episode_number": 320.0
                     },
                     {
-                        "url": "/the-world-of-narue-episode-11-english-dubbed",
-                        "name": "Episode 11 English Dubbed",
-                        "episode_number": 11.0
+                        "url": "/angelina-ballerina-the-next-steps-season-3-episode-19-angelinas-nature-dance",
+                        "name": "Season 3 Episode 19 Angelina’s Nature Dance",
+                        "episode_number": 319.0
                     }
                 ],
                 "passed": true
@@ -545,14 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRj7HRbxa7HKmEkJ9C7X3m6i4OYQkv_hBgjFk83C-TCW5jrxV189Ru4e_LTZwN8OMGf_bCWtJ-sOxiPED4yMaMRfgCFIGtWvVX2ODNYgeE4sxCT-RivKK__Jv2FfCkUNwiGUdKWOvvldTXaXjQTbdrKQKHKV_bx94-hl2DAnhWs5UETXOblCvK5k7Upnv0i0VDPUlApROctdfYl16bQPkiu1Dog4XuNpKMrNuc9BeooZs",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTcsiL9DApWfUlx3UmdEUP2sQoifbnEQ6SMmjWoOCxzJJYp7RqwDQWQDxCB_WlIjfS1FzQkXD2hpOT778Thvlq5G1Mp6va3P9MYchUq1twyAa6Lr2NgjPu8ajjUKsVA1yrUTBzm3I6fTCjBpsxxsk8BfWwullQKK9FWxK1vN0kECl7b5VwlgigPZcZJ-a93oHd4u9a-BBVgLSYvnNhyqeuyaYklDY0PGJa4VUTse6KoFciJPHnNiZDrhApyn69ArRTOjym1o_VeVfFHZA6DHAihrj5z6SKvOZVtDgqO6x5d80",
                         "quality": "HD",
-                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRj7HRbxa7HKmEkJ9C7X3m6i4OYQkv_hBgjFk83C-TCW5jrxV189Ru4e_LTZwN8OMGf_bCWtJ-sOxiPED4yMaMRfgCFIGtWvVX2ODNYgeE4sxCT-RivKK__Jv2FfCkUNwiGUdKWOvvldTXaXjQTbdrKQKHKV_bx94-hl2DAnhWs5UETXOblCvK5k7Upnv0i0VDPUlApROctdfYl16bQPkiu1Dog4XuNpKMrNuc9BeooZs"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTcsiL9DApWfUlx3UmdEUP2sQoifbnEQ6SMmjWoOCxzJJYp7RqwDQWQDxCB_WlIjfS1FzQkXD2hpOT778Thvlq5G1Mp6va3P9MYchUq1twyAa6Lr2NgjPu8ajjUKsVA1yrUTBzm3I6fTCjBpsxxsk8BfWwullQKK9FWxK1vN0kECl7b5VwlgigPZcZJ-a93oHd4u9a-BBVgLSYvnNhyqeuyaYklDY0PGJa4VUTse6KoFciJPHnNiZDrhApyn69ArRTOjym1o_VeVfFHZA6DHAihrj5z6SKvOZVtDgqO6x5d80"
                     },
                     {
-                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZqmuisyVY3QhAGQztwHhJB6vuKv69Duun7Mavtb9gcNjHSEXMvsk72M8Zbf6jWik4k7rwQ28CQS7v678cLXr1gd33ta5cUtWaNCElQfB0j8ISCkajUxUFN9fEzbRMYFb7YOeonCdLtRA9mq8XDbzaex1ZbPuI8VPBcT2PJWiPtx7VIhxVQNjMBaX26u4-I_3xrTS-Wk6wAQIIY1h9fYPmZO4XHgS8fOYqHWubrT4QOjU",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTzxkflI9I8aotg0CBYa9I6uoqPFKXpyRkZhxbmhGNA0jZxJ3dSwhfPfudIpP-7OISkksr4FlLy7-0W-V1Rp1ij6tE-iIBqf4iUGtqGZhFowaQjdyDp0stIyIDnSNeBkzIg_QjXYxDk5x96CulugiRU6gdP9IlYOp7d-NIQYfkTnDht0LRhISeLtlJNPv0hdQtZ9zrZiK33WZD1QnHKn5YywSN6mc2Ac1pTBHvdjDp0is8DKwUSMJ9RvSnQfaM0qngw08HmwJATs6RO8XyTMp58xFPvyFV1GSFqdeKyNHwkZ8",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTzxkflI9I8aotg0CBYa9I6uoqPFKXpyRkZhxbmhGNA0jZxJ3dSwhfPfudIpP-7OISkksr4FlLy7-0W-V1Rp1ij6tE-iIBqf4iUGtqGZhFowaQjdyDp0stIyIDnSNeBkzIg_QjXYxDk5x96CulugiRU6gdP9IlYOp7d-NIQYfkTnDht0LRhISeLtlJNPv0hdQtZ9zrZiK33WZD1QnHKn5YywSN6mc2Ac1pTBHvdjDp0is8DKwUSMJ9RvSnQfaM0qngw08HmwJATs6RO8XyTMp58xFPvyFV1GSFqdeKyNHwkZ8"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFT2j2Q685T4PLmW_u6WVluzw9zjLNWpOh9xMLJcyVcknCF1PC0W6qW1zxQ-0lOq3zJrcY85601jKHSOfZeofLcdI_ktYDW7na8ecEULAFYFn14jV8B3C5QtSt4-sonZO75BjpQafB_5kIO26ERhqs1GrGAKZA65UWg3uL7W-FgGsyKCV_aV4wHNdou2JFONi_p8bIxWQFns9ei9r-iqRePtYdulc0JGUwP1UJ74R44jyMgT--Zjy0k49GeOmIbS1dYXtmmzKz2EM4BjC4WhnvUXFrL_2suS-441JHBYYW5tAQ",
                         "quality": "SD",
-                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZqmuisyVY3QhAGQztwHhJB6vuKv69Duun7Mavtb9gcNjHSEXMvsk72M8Zbf6jWik4k7rwQ28CQS7v678cLXr1gd33ta5cUtWaNCElQfB0j8ISCkajUxUFN9fEzbRMYFb7YOeonCdLtRA9mq8XDbzaex1ZbPuI8VPBcT2PJWiPtx7VIhxVQNjMBaX26u4-I_3xrTS-Wk6wAQIIY1h9fYPmZO4XHgS8fOYqHWubrT4QOjU"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFT2j2Q685T4PLmW_u6WVluzw9zjLNWpOh9xMLJcyVcknCF1PC0W6qW1zxQ-0lOq3zJrcY85601jKHSOfZeofLcdI_ktYDW7na8ecEULAFYFn14jV8B3C5QtSt4-sonZO75BjpQafB_5kIO26ERhqs1GrGAKZA65UWg3uL7W-FgGsyKCV_aV4wHNdou2JFONi_p8bIxWQFns9ei9r-iqRePtYdulc0JGUwP1UJ74R44jyMgT--Zjy0k49GeOmIbS1dYXtmmzKz2EM4BjC4WhnvUXFrL_2suS-441JHBYYW5tAQ"
                     }
                 ],
                 "passed": true

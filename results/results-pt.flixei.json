@@ -142,6 +142,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/ruby-marinho-monstro-adolescente/online/gratis",
+                                "title": "Ruby Marinho - Monstro Adolescente",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39635.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/misterio-em-alto-mar/online/gratis",
+                                "title": "Mistério em Alto Mar",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39634.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/sequestro-em-miami/online/gratis",
+                                "title": "Sequestro em Miami",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39633.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/carmen-2023/online/gratis",
+                                "title": "Carmen",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39632.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/god-is-a-bullet/online/gratis",
                                 "title": "God Is a Bullet",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39631.jpg"
@@ -260,26 +280,6 @@
                                 "url": "/assistir/filme/um-motivo-para-lutar/online/gratis",
                                 "title": "Um Motivo para Lutar",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39608.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/for-better-and-for-worse/online/gratis",
-                                "title": "For Better And For Worse",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39607.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/wham/online/gratis",
-                                "title": "Wham!",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39606.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/the-wraith-within/online/gratis",
-                                "title": "The Wraith Within",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39605.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/all-the-world-is-sleeping/online/gratis",
-                                "title": "All the World Is Sleeping",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39604.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1726,47 +1726,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=liVzl97fMPJ6N2li_2C1TQ&e=1690849010&_t=1690834647",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=liVzl97fMPJ6N2li_2C1TQ&e=1690849010&_t=1690834647",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=y_n023Ethf3Z63r8N-Vk5A&e=1690849010&_t=1690834359",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=y_n023Ethf3Z63r8N-Vk5A&e=1690849010&_t=1690834359",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1690897410&ip=FROsE0EnDS9X&token=qZAu7mR6IVOw",
-                        "quality": "Streamtape(LEGENDADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1690897410&ip=FROsE0EnDS9X&token=qZAu7mR6IVOw"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1690897411&ip=FROsE0EnDS9X&token=wyDOW-4cjRtP",
-                        "quality": "Streamtape(DUBLADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1690897411&ip=FROsE0EnDS9X&token=wyDOW-4cjRtP"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

@@ -252,9 +252,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a20230731WNF11irG8nO/video.mp4",
+                        "url": "https://vidcache.net:8161/a20230731NooHkLWvule/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20230731WNF11irG8nO/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20230731NooHkLWvule/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://www.yourupload.com/"
@@ -399,12 +399,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidcache.net:8161/a20230731tH3CauCrt1R/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20230731tH3CauCrt1R/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

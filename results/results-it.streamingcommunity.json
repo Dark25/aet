@@ -1,6 +1,6 @@
 [
     {
-        "name": "UniqueStream",
+        "name": "StreamingCommunity",
         "results": {
             "popular": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
@@ -23,7 +23,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }

@@ -333,11 +333,22 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/7243187243871427834187243871243784128734189",
+                    "title": "Naruto Shippuden",
+                    "artist": "Studio Pierrot",
+                    "author": "Masashi Kishimoto",
+                    "description": "\n\nTítulos Alternativos: Naruto Shippuuden, Naruto: Shippuden, NARUTO: Shippuuden\nAno: 2007\nTemporada: Inverno",
+                    "genre": "Ação, Artes Marciais, Comédia, Shounen, Superpoder",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.anicdn.net/media/categories/video/017d73a6c1a47ccf6fc667f95692eadf956.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "videos": {

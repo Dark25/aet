@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/grimm-love-2009",
+                                "title": "Grimm Love",
+                                "thumbnail_url": "https://images.movembed.cc//cover/grimm-love-2009-1690944924.jpg"
+                            },
+                            {
+                                "url": "/videos/vajont---la-diga-del-disonore-2001",
+                                "title": "Vajont - La diga del disonore",
+                                "thumbnail_url": "https://images.movembed.cc//cover/vajont---la-diga-del-disonore-2001-1690944924.jpg"
+                            },
+                            {
+                                "url": "/videos/direct-action-2005",
+                                "title": "Direct Action",
+                                "thumbnail_url": "https://images.movembed.cc//cover/direct-action-2005-1690944923.jpg"
+                            },
+                            {
+                                "url": "/videos/the-river-wild-2023",
+                                "title": "The River Wild",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-river-wild-2023-1690936828.jpg"
+                            },
+                            {
+                                "url": "/videos/older-gods-2023",
+                                "title": "Older Gods",
+                                "thumbnail_url": "https://images.movembed.cc//cover/older-gods-2023-1690936828.jpg"
+                            },
+                            {
                                 "url": "/videos/i-am-rage-2023",
                                 "title": "I Am Rage",
                                 "thumbnail_url": "https://images.movembed.cc//cover/i-am-rage-2023-1690900824.jpg"
@@ -130,31 +155,6 @@
                                 "url": "/videos/talk-to-me-2023",
                                 "title": "Talk to Me",
                                 "thumbnail_url": "https://images.movembed.cc//cover/talk-to-me-2023-1690686325.jpg"
-                            },
-                            {
-                                "url": "/videos/sacrum-vindictae-2023",
-                                "title": "Sacrum Vindictae",
-                                "thumbnail_url": "https://images.movembed.cc//cover/sacrum-vindictae-2023-1690683025.jpg"
-                            },
-                            {
-                                "url": "/videos/sympathy-for-the-devil-2023",
-                                "title": "Sympathy for the Devil",
-                                "thumbnail_url": "https://images.movembed.cc//cover/sympathy-for-the-devil-2023-1690622129.jpg"
-                            },
-                            {
-                                "url": "/videos/queen-of-glory-2021",
-                                "title": "Queen of Glory",
-                                "thumbnail_url": "https://images.movembed.cc//cover/queen-of-glory-2021-1690620330.jpg"
-                            },
-                            {
-                                "url": "/videos/lacys-christmas-do-over-2021",
-                                "title": "Lacy's Christmas Do-Over",
-                                "thumbnail_url": "https://images.movembed.cc//cover/lacys-christmas-do-over-2021-1690617924.jpg"
-                            },
-                            {
-                                "url": "/videos/goodbye-petrushka-2022",
-                                "title": "Goodbye, Petrushka",
-                                "thumbnail_url": "https://images.movembed.cc//cover/goodbye-petrushka-2022-1690617924.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -242,6 +242,11 @@
                                 "thumbnail_url": "https://images.movembed.cc/cover/all-the-money-in-the-world.png"
                             },
                             {
+                                "url": "/videos/all-the-world-is-sleeping-2023",
+                                "title": "All the World Is Sleeping",
+                                "thumbnail_url": "https://images.movembed.cc//cover/all-the-world-is-sleeping-2023-1688634627.jpg"
+                            },
+                            {
                                 "url": "/videos/along-with-the-gods-the-two-worlds",
                                 "title": "Along with the Gods The Two Worlds",
                                 "thumbnail_url": "https://images.movembed.cc/cover/along-with-the-gods-the-two-worlds.png"
@@ -310,11 +315,6 @@
                                 "url": "/videos/around-the-world-in-80-days-hd-720p",
                                 "title": "Around The World In 80 Days HD- 720p",
                                 "thumbnail_url": "https://images.movembed.cc//around-the-world-in-80-days-fgt/cover.png"
-                            },
-                            {
-                                "url": "/videos/arthur-3-the-war-of-the-two-worlds-episode-1",
-                                "title": "Arthur 3: The War of the Two Worlds ",
-                                "thumbnail_url": "https://images.movembed.cc/cover/arthur-3-the-war-of-the-two-worlds.png"
                             }
                         ],
                         "hasNextPage": false
@@ -324,19 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/i-am-rage-2023",
-                    "title": "I Am Rage",
-                    "description": "An ancient cult embroiled in a sinister blood trade makes the deadly mistake of abducting a young woman with a violent, shocking past.",
+                    "url": "/videos/grimm-love-2009",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/grimm-love-2009",
+                        "name": "Grimm Love",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

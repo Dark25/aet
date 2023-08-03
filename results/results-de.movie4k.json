@@ -117,16 +117,108 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=64bddf1f227bb566eb69a973",
+                    "title": "Barbie",
+                    "description": "In Barbieland ist alles an seinem Platz. Die Frisur sitzt, die Kleidung und jedes Accessoire passen zueinander. Kurz: Es ist eine perfekte Welt, zumindest äußerlich. Wer hier leben will, muss sich nämlich ausnahmslos an die aufgestellten Normen halten. So auch die stereotypische Barbie (Margot Robbie), eine der einflussreichsten Barbies im Land, die vom platinblonden Schönling Ken (Ryan Gosling) angehimmelt wird. Doch irgendetwas stimmt in letzter Zeit nicht, denn Barbie beschleichen immer wieder Gedanken an den Tod. Ein absolutes No-Go im Barbieland, wo jeder Tag doch einfach nur perfekt sein sollte. Ihre einzige Hoffnung ist die seltsame Barbie (Kate McKinnon), die außerhalb des Barbielands ein Einsiedler-Dasein führt. Diese offenbart ihr, dass der Ursprung ihres merkwürdigen Verhaltens in der richtigen Welt zu finden ist und sie die Person aufspüren muss, die mit ihr spielt. Also brechen Barbie und Ken gemeinsam in die reale Welt auf. Doch kaum angekommen, müssen sie feststellen, dass dort andere Regeln als im Barbieland gelten. Während Barbie sich den neuen Herausforderungen stellt und dabei mehr als einmal mit dem Gesetz in Konflikt kommt, entdeckt Ken das Patriarchat für sich.\n\nReal-Spielfilm über Mattels Puppen-Ikone Barbie.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=64bddf1f227bb566eb69a973",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=VmG2qpBrxeCKA1z&expires=1691113338&ip=FROsExSnDS9X&token=utvfQRwQkwCy",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=VmG2qpBrxeCKA1z&expires=1691113338&ip=FROsExSnDS9X&token=utvfQRwQkwCy"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=PW9rLraQ41S0p8e&expires=1691113337&ip=FROsExSnDS9X&token=vhgvFO3D981w",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=PW9rLraQ41S0p8e&expires=1691113337&ip=FROsExSnDS9X&token=vhgvFO3D981w"
+                    },
+                    {
+                        "url": "https://voe.sx/e/oiujo222sgug?2",
+                        "quality": "Voe",
+                        "videoUrl": "https://delivery-node-amala.voe-network.net/engine/hls2/01/09255/ngdgtfyzl00m_,n,.urlset/master.m3u8?t=b_URVNTB22YNyB7s2gr5fNH-Lw5d8nUUx5cLGHg01m4&s=1691043337&e=14400&f=46284544&node=delivery-node-amala.voe-network.net&i=20.42&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=PW9rLraQ41S0p8e&expires=1691113337&ip=FROsExSnDS9X&token=vhgvFO3D981w",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=PW9rLraQ41S0p8e&expires=1691113337&ip=FROsExSnDS9X&token=vhgvFO3D981w"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=BjY1PObPJ6CyDrz&expires=1691113337&ip=FROsExSnDS9X&token=igQoR3NSAcsv",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=BjY1PObPJ6CyDrz&expires=1691113337&ip=FROsExSnDS9X&token=igQoR3NSAcsv"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=MxdYa76XwbFm7ml&expires=1691113336&ip=FROsExSnDS9X&token=qyC14SnufzI6",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=MxdYa76XwbFm7ml&expires=1691113336&ip=FROsExSnDS9X&token=qyC14SnufzI6"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Oa4lQo0LQ1U9AK&expires=1691113336&ip=FROsExSnDS9X&token=5eT_mBBhRfGX",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Oa4lQo0LQ1U9AK&expires=1691113336&ip=FROsExSnDS9X&token=5eT_mBBhRfGX"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=9BwKzqPlllIaXLk&expires=1691113336&ip=FROsExSnDS9X&token=dcGv0-8pVm7t",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=9BwKzqPlllIaXLk&expires=1691113336&ip=FROsExSnDS9X&token=dcGv0-8pVm7t"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=BPbzXdWMb2t9A4&expires=1691113336&ip=FROsExSnDS9X&token=k4kNLJSBFhw0",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=BPbzXdWMb2t9A4&expires=1691113336&ip=FROsExSnDS9X&token=k4kNLJSBFhw0"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=PW9rLraQ41S0p8e&expires=1691113336&ip=FROsExSnDS9X&token=0rEQIZcfOIgj",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=PW9rLraQ41S0p8e&expires=1691113336&ip=FROsExSnDS9X&token=0rEQIZcfOIgj"
+                    },
+                    {
+                        "url": "https://voe.sx/e/oiujo222sgug?1",
+                        "quality": "Voe",
+                        "videoUrl": "https://delivery-node-amala.voe-network.net/engine/hls2/01/09255/ngdgtfyzl00m_,n,.urlset/master.m3u8?t=w8fZ4_yD7oK0Q-61helQXxcWzRqYK5Qy_uiKbwlzfgA&s=1691043335&e=14400&f=46284544&node=delivery-node-amala.voe-network.net&i=20.42&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pkr1ryVjoKhGrZ&expires=1691113335&ip=FROsExSnDS9X&token=YHi6_ElUOJcS",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=pkr1ryVjoKhGrZ&expires=1691113335&ip=FROsExSnDS9X&token=YHi6_ElUOJcS"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=YWy19l4aBrcvb2K&expires=1691113334&ip=FROsExSnDS9X&token=fajkJtPKOibB",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=YWy19l4aBrcvb2K&expires=1691113334&ip=FROsExSnDS9X&token=fajkJtPKOibB"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=96R94oo6xkIaxyL&expires=1691113334&ip=FROsExSnDS9X&token=zl9I6LuHB6_0",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=96R94oo6xkIaxyL&expires=1691113334&ip=FROsExSnDS9X&token=zl9I6LuHB6_0"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=XPdWQX4r3lfD61o&expires=1691113334&ip=FROsExSnDS9X&token=Dq8hFvD0GTkB",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=XPdWQX4r3lfD61o&expires=1691113334&ip=FROsExSnDS9X&token=Dq8hFvD0GTkB"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=eqz9Q6ZXKzSj1O&expires=1691113333&ip=FROsExSnDS9X&token=wyUbPa-LDZEp",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=eqz9Q6ZXKzSj1O&expires=1691113333&ip=FROsExSnDS9X&token=wyUbPa-LDZEp"
+                    }
+                ],
+                "passed": true
             }
         }
     }

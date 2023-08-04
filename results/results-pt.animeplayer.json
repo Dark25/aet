@@ -254,12 +254,35 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodios/hora-de-aventura-1x3/",
+                        "name": "Temporada 1 x 3 - ",
+                        "date_upload": 1533686400000,
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episodios/hora-de-aventura-1x2/",
+                        "name": "Temporada 1 x 2 - ",
+                        "date_upload": 1533686400000,
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr1---sn-q4fl6n6d.googlevideo.com/videoplayback?expire=1691180645&ei=5e3MZK2PN6j4-LYPuKGzkAg&ip=13.66.79.114&id=61999f3ce49f7e7d&itag=18&source=blogger&mh=9H&mm=31&mn=sn-q4fl6n6d&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=l-gJgWZEUDA&mime=video/mp4&vprv=1&dur=675.840&lmt=1632767301906443&mt=1691151451&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAPpo66tsa_eXgO6XMcPlf-Zg-jHJoaqALcqvwhOpl5__AiEA7AwUlHwqoWcWA9w61Glga84IC3fG38nIUFKbDMgTOfI%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANlOUSOZkVentloaauoYcdPXDTvdSZsI1YbwEMWztoq6AiBT4iCEVoZ6eBTeOJhFMpEN16sGvjYJA97YlOt8OzwjZQ%3D%3D",
+                        "quality": "360p",
+                        "videoUrl": "https://rr1---sn-q4fl6n6d.googlevideo.com/videoplayback?expire=1691180645&ei=5e3MZK2PN6j4-LYPuKGzkAg&ip=13.66.79.114&id=61999f3ce49f7e7d&itag=18&source=blogger&mh=9H&mm=31&mn=sn-q4fl6n6d&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=l-gJgWZEUDA&mime=video/mp4&vprv=1&dur=675.840&lmt=1632767301906443&mt=1691151451&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAPpo66tsa_eXgO6XMcPlf-Zg-jHJoaqALcqvwhOpl5__AiEA7AwUlHwqoWcWA9w61Glga84IC3fG38nIUFKbDMgTOfI%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANlOUSOZkVentloaauoYcdPXDTvdSZsI1YbwEMWztoq6AiBT4iCEVoZ6eBTeOJhFMpEN16sGvjYJA97YlOt8OzwjZQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

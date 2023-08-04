@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/vnz5e3q2k6sf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=_XaRhZH_UCRUiq-ySh4DJ-f7weCve4xAu9Hf5lnVtys&s=1691086641&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=lqt8hwa6rAI1lKU0Z9c1yPLxoxZ8z_GKpON12rEaHVg&s=1691111123&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=13.88&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691156636&ip=GxOsFxqnDS9X&token=GwmfRL_lCBEC",
+                        "url": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691181112&ip=F0AsFxgnDS9X&token=x6HJTUt8o1rs",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691156636&ip=GxOsFxqnDS9X&token=GwmfRL_lCBEC"
+                        "videoUrl": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691181112&ip=F0AsFxgnDS9X&token=x6HJTUt8o1rs"
                     },
                     {
                         "url": "https://voe.sx/e/vnz5e3q2k6sf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=_XaRhZH_UCRUiq-ySh4DJ-f7weCve4xAu9Hf5lnVtys&s=1691086641&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=lqt8hwa6rAI1lKU0Z9c1yPLxoxZ8z_GKpON12rEaHVg&s=1691111123&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=13.88&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -598,8 +598,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<head>",
+                        "quality": "StreamSB:<html>p",
+                        "videoUrl": "<head>",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/n91vtjruqbtm",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -610,6 +622,41 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-rio-de-la-ira/",
+                                "title": "El rio de la ira",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-rio-de-la-ira.jpg"
+                            },
+                            {
+                                "url": "/pelicula/pinky/",
+                                "title": "Pinky",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pinky.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sugar-en-aprietos/",
+                                "title": "Sugar en aprietos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sugar-en-aprietos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/suenos-y-pan/",
+                                "title": "Sueños y pan",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/suenos-y-pan.jpg"
+                            },
+                            {
+                                "url": "/pelicula/asesinato-que-asesinato/",
+                                "title": "¿Asesinato? ¿Qué Asesinato?",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/asesinato-que-asesinato.jpg"
+                            },
+                            {
+                                "url": "/pelicula/s-o-s-mamis-2-mosquita-muerta/",
+                                "title": "S.O.S Mamis 2: Mosquita Muerta",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/s-o-s-mamis-2-mosquita-muerta.jpg"
+                            },
+                            {
+                                "url": "/pelicula/operacja-soulcatcher/",
+                                "title": "Operacja: Soulcatcher",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/operacja-soulcatcher.jpg"
+                            },
                             {
                                 "url": "/pelicula/desaparecida-el-caso-lucie-blackman/",
                                 "title": "Desaparecida: El caso Lucie Blackman",
@@ -674,41 +721,6 @@
                                 "url": "/pelicula/paradise-2023/",
                                 "title": "Paradise",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/paradise-2023.jpg"
-                            },
-                            {
-                                "url": "/pelicula/baby-blue/",
-                                "title": "Baby Blue",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/baby-blue.jpg"
-                            },
-                            {
-                                "url": "/pelicula/butch-vs-sundance/",
-                                "title": "Butch vs. Sundance",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/butch-vs-sundance.jpg"
-                            },
-                            {
-                                "url": "/pelicula/incarcerated/",
-                                "title": "Incarcerated",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/incarcerated.jpg"
-                            },
-                            {
-                                "url": "/pelicula/killer-coworker/",
-                                "title": "Killer Coworker",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/killer-coworker.jpg"
-                            },
-                            {
-                                "url": "/pelicula/les-vengeances-de-maitre-poutifard/",
-                                "title": "Les Vengeances de Maître Poutifard",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/les-vengeances-de-maitre-poutifard.jpg"
-                            },
-                            {
-                                "url": "/pelicula/space-oddity/",
-                                "title": "Space Oddity",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/space-oddity.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-deep-web-murdershow/",
-                                "title": "The Deep Web: Murdershow",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-deep-web-murdershow.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +890,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/desaparecida-el-caso-lucie-blackman/",
-                    "title": "Desaparecida: El caso Lucie Blackman",
+                    "url": "/pelicula/el-rio-de-la-ira/",
+                    "title": "El rio de la ira",
                     "artist": "",
                     "description": "",
-                    "genre": "Crimen, Documental",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +904,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/desaparecida-el-caso-lucie-blackman/",
+                        "url": "/pelicula/el-rio-de-la-ira/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

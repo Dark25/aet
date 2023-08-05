@@ -170,14 +170,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://drive.google.com/uc?id=1OvSz6VQT0n2nZiWczgy424k_n55p7D6X&confirm=t&uuid=01bd2d1c-0887-4639-b871-8d7493281973",
-                        "quality": "Gdrive (13G) ",
-                        "videoUrl": "https://drive.google.com/uc?id=1OvSz6VQT0n2nZiWczgy424k_n55p7D6X&confirm=t&uuid=01bd2d1c-0887-4639-b871-8d7493281973"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

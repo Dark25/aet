@@ -73,74 +73,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/super-sentai-world.html",
-                                "title": "Super Sentai World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-grease.html",
-                                "title": "Build NEW WORLD: Kamen Rider Grease",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
-                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-world-j-zo.html",
-                                "title": "Kamen Rider World ( J & ZO )",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
-                                "title": "Kamen Rider Black RX – Run All Over The World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/shin-kamen-rider.html",
-                                "title": "Shin Kamen Rider",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/shin-kamen-rider-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ninpu-sentai-hurricaneger-degozaru-shushuuto-20th-anniversary.html",
-                                "title": "Ninpu Sentai Hurricaneger Degozaru! Shushuuto 20th Anniversary",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninpu-sentai-hurricaneger-degozaru-shushuuto-20th-anniversary-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-revice-becoming-rider-no-2.html",
-                                "title": "Kamen Rider Revice: Becoming Rider No. 2",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-revice-becoming-rider-no-2-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-geats-extra-kamen-rider-tycoon-meets-kamen-rider-shinobi.html",
-                                "title": "Kamen Rider Geats Extra: Kamen Rider Tycoon meets Kamen Rider Shinobi",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-extra-kamen-rider-tycoon-meets-kamen-rider-shinobi-thumb.png"
-                            },
-                            {
-                                "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
-                                "title": "Avataro Sentai Donbrothers vs. Zenkaiger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/avataro-sentai-donbrothers-vs-zenkaiger-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -172,9 +106,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/1080.m3u8?token=b5c83b4f137d331305eed389fa986fbf&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691331243&type=edge&node=ybwrajn4NXgqxbAAcDKSlS1Y-AaiUVrhcemja89h9uyU4Z2i9bKkWJ6aKZ0NTPDFJeIBv8E0WPGX2vWTEO7CtatvtaWYucEziQ2v1TNQrepP4Zn2Zds5tE_lfIwHj0xaOUMhYCmbkWJcdVVv9HqeG1Vq9KyCS1K45FmoE_ruCpw2sddk1ZmaO9K0tGJHdIvF",
+                        "url": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/1080.m3u8?token=9b9175403e07c49f215e06931885e9f0&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691353223&type=edge&node=O3RyyApOGz7KALYT-OBpx2V4kH5TJW-tXnK7VlrfKxx7S8iyWbg60CEJKO8-IxIY8ZcPneqt09EHGqkXXs2yOxnRtIqc5KRTlajKRjn3P91KA_ukwpFCtMlGEzxt79Zm_---51m8-dOG-CB12y2VILIXwJohUlIj-NokJE8aTHBqewEV8K3Ffj12KVMtBeeH",
                         "quality": "Chillx - 1080p",
-                        "videoUrl": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/1080.m3u8?token=b5c83b4f137d331305eed389fa986fbf&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691331243&type=edge&node=ybwrajn4NXgqxbAAcDKSlS1Y-AaiUVrhcemja89h9uyU4Z2i9bKkWJ6aKZ0NTPDFJeIBv8E0WPGX2vWTEO7CtatvtaWYucEziQ2v1TNQrepP4Zn2Zds5tE_lfIwHj0xaOUMhYCmbkWJcdVVv9HqeG1Vq9KyCS1K45FmoE_ruCpw2sddk1ZmaO9K0tGJHdIvF",
+                        "videoUrl": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/1080.m3u8?token=9b9175403e07c49f215e06931885e9f0&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691353223&type=edge&node=O3RyyApOGz7KALYT-OBpx2V4kH5TJW-tXnK7VlrfKxx7S8iyWbg60CEJKO8-IxIY8ZcPneqt09EHGqkXXs2yOxnRtIqc5KRTlajKRjn3P91KA_ukwpFCtMlGEzxt79Zm_---51m8-dOG-CB12y2VILIXwJohUlIj-NokJE8aTHBqewEV8K3Ffj12KVMtBeeH",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "Accept": "*/*",
@@ -187,9 +121,9 @@
                         }
                     },
                     {
-                        "url": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/720.m3u8?token=b5c83b4f137d331305eed389fa986fbf&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691331243&type=edge&node=ybwrajn4NXgqxbAAcDKSlS1Y-AaiUVrhcemja89h9uyU4Z2i9bKkWJ6aKZ0NTPDFJeIBv8E0WPGX2vWTEO7CtatvtaWYucEziQ2v1TNQrepP4Zn2Zds5tE_lfIwHj0xaOUMhYCmbkWJcdVVv9HqeG1Vq9KyCS1K45FmoE_ruCpw2sddk1ZmaO9K0tGJHdIvF",
+                        "url": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/720.m3u8?token=9b9175403e07c49f215e06931885e9f0&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691353223&type=edge&node=O3RyyApOGz7KALYT-OBpx2V4kH5TJW-tXnK7VlrfKxx7S8iyWbg60CEJKO8-IxIY8ZcPneqt09EHGqkXXs2yOxnRtIqc5KRTlajKRjn3P91KA_ukwpFCtMlGEzxt79Zm_---51m8-dOG-CB12y2VILIXwJohUlIj-NokJE8aTHBqewEV8K3Ffj12KVMtBeeH",
                         "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/720.m3u8?token=b5c83b4f137d331305eed389fa986fbf&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691331243&type=edge&node=ybwrajn4NXgqxbAAcDKSlS1Y-AaiUVrhcemja89h9uyU4Z2i9bKkWJ6aKZ0NTPDFJeIBv8E0WPGX2vWTEO7CtatvtaWYucEziQ2v1TNQrepP4Zn2Zds5tE_lfIwHj0xaOUMhYCmbkWJcdVVv9HqeG1Vq9KyCS1K45FmoE_ruCpw2sddk1ZmaO9K0tGJHdIvF",
+                        "videoUrl": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/720.m3u8?token=9b9175403e07c49f215e06931885e9f0&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691353223&type=edge&node=O3RyyApOGz7KALYT-OBpx2V4kH5TJW-tXnK7VlrfKxx7S8iyWbg60CEJKO8-IxIY8ZcPneqt09EHGqkXXs2yOxnRtIqc5KRTlajKRjn3P91KA_ukwpFCtMlGEzxt79Zm_---51m8-dOG-CB12y2VILIXwJohUlIj-NokJE8aTHBqewEV8K3Ffj12KVMtBeeH",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "Accept": "*/*",
@@ -202,9 +136,9 @@
                         }
                     },
                     {
-                        "url": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/360.m3u8?token=b5c83b4f137d331305eed389fa986fbf&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691331243&type=edge&node=ybwrajn4NXgqxbAAcDKSlS1Y-AaiUVrhcemja89h9uyU4Z2i9bKkWJ6aKZ0NTPDFJeIBv8E0WPGX2vWTEO7CtatvtaWYucEziQ2v1TNQrepP4Zn2Zds5tE_lfIwHj0xaOUMhYCmbkWJcdVVv9HqeG1Vq9KyCS1K45FmoE_ruCpw2sddk1ZmaO9K0tGJHdIvF",
+                        "url": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/360.m3u8?token=9b9175403e07c49f215e06931885e9f0&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691353223&type=edge&node=O3RyyApOGz7KALYT-OBpx2V4kH5TJW-tXnK7VlrfKxx7S8iyWbg60CEJKO8-IxIY8ZcPneqt09EHGqkXXs2yOxnRtIqc5KRTlajKRjn3P91KA_ukwpFCtMlGEzxt79Zm_---51m8-dOG-CB12y2VILIXwJohUlIj-NokJE8aTHBqewEV8K3Ffj12KVMtBeeH",
                         "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/360.m3u8?token=b5c83b4f137d331305eed389fa986fbf&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691331243&type=edge&node=ybwrajn4NXgqxbAAcDKSlS1Y-AaiUVrhcemja89h9uyU4Z2i9bKkWJ6aKZ0NTPDFJeIBv8E0WPGX2vWTEO7CtatvtaWYucEziQ2v1TNQrepP4Zn2Zds5tE_lfIwHj0xaOUMhYCmbkWJcdVVv9HqeG1Vq9KyCS1K45FmoE_ruCpw2sddk1ZmaO9K0tGJHdIvF",
+                        "videoUrl": "https://hls25-eu.zcdn.stream/47c291153d56ceb746a320d31435317a/2023-08-06/360.m3u8?token=9b9175403e07c49f215e06931885e9f0&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1691353223&type=edge&node=O3RyyApOGz7KALYT-OBpx2V4kH5TJW-tXnK7VlrfKxx7S8iyWbg60CEJKO8-IxIY8ZcPneqt09EHGqkXXs2yOxnRtIqc5KRTlajKRjn3P91KA_ukwpFCtMlGEzxt79Zm_---51m8-dOG-CB12y2VILIXwJohUlIj-NokJE8aTHBqewEV8K3Ffj12KVMtBeeH",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "Accept": "*/*",

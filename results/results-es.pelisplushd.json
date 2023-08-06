@@ -293,14 +293,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/ck9ona2tqkhx",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=csWTqaykSe1nA9-PkRfJ5BbMeyMZwpw7LwqiQZVnKc0&s=1691324467&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=40.86&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/ck9ona2tqkhx",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=csWTqaykSe1nA9-PkRfJ5BbMeyMZwpw7LwqiQZVnKc0&s=1691324467&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=40.86&sp=2500&asn=8075"
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04335/et5vips5qu5t_h/index-v1-a1.m3u8?t=KALN2KcBu2ktNXKa3tzvcnpZJeylcr4AqFRT6j1mUTU&s=1691345662&e=43200&f=21677697&srv=27&asn=8075&sp=2000",
+                        "quality": "Filemoon - 800p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04335/et5vips5qu5t_h/index-v1-a1.m3u8?t=KALN2KcBu2ktNXKa3tzvcnpZJeylcr4AqFRT6j1mUTU&s=1691345662&e=43200&f=21677697&srv=27&asn=8075&sp=2000",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "Referer": "https://filemoon.sx/e/rrlplqe0qf3p",
+                            "Origin": "https://filemoon.sx"
+                        }
                     }
                 ],
                 "passed": true
@@ -593,20 +593,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "<head>",
-                        "quality": "StreamSB:<html>p",
-                        "videoUrl": "<head>",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/n91vtjruqbtm",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },

@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/ck9ona2tqkhx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=GqebDlyLOTGwXimrqncUH09w-QRDbfbOoQIUOL8NrAk&s=1691283475&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=4oLAvH569-yZW3wBGWzNo6WVO8EcIHSk5rvlrvpXiDg&s=1691302589&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=104.210&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/ck9ona2tqkhx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=GqebDlyLOTGwXimrqncUH09w-QRDbfbOoQIUOL8NrAk&s=1691283475&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=4oLAvH569-yZW3wBGWzNo6WVO8EcIHSk5rvlrvpXiDg&s=1691302589&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=104.210&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -885,8 +885,14 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/il-muto-di-gallura/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

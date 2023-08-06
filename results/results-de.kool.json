@@ -39,7 +39,7 @@
                             {
                                 "url": "/data/watch/?_id=615656&type=movie",
                                 "title": "Meg 2: Die Tiefe",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/Am5TE1HPdIFAGBv4CDISxHooHoX.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/f5JwC0zhq0nnPQfOeS8CvdRCIHR.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=1083862&type=movie",
@@ -220,6 +220,11 @@
                                 "url": "/data/watch/?_id=805320&type=movie",
                                 "title": "Bird Box: Barcelona",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=667717&type=movie",
+                                "title": "Deep Sea",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/v9Iq2B3NN1qIZmJKkCWkKVdkSwG.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=758323&type=movie",
@@ -581,11 +586,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nQT9Peo6i4OAsLYVt67vWj71zb5.jpg"
                             },
                             {
-                                "url": "https://www.kool.to/data/watch/?_id=111332&type=movie",
-                                "title": "Avatar: Creating the World of Pandora",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/d9oqcfeCyc3zmMal6eJbfj3gatc.jpg"
-                            },
-                            {
                                 "url": "https://www.kool.to/data/watch/?_id=736069&type=movie",
                                 "title": "Justice Society: World War II",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/e4REOC6CZW8J6FslA4nRvdQXFXR.jpg"
@@ -646,11 +646,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/wvCqfEqmQ8Em1ywnKQ74yjdDtl8.jpg"
                             },
                             {
-                                "url": "https://www.kool.to/data/watch/?_id=566451&type=movie",
-                                "title": "Re:Zero - Starting Life in Another World: Bünde aus Eis",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ca2ZsUa4Qeik2IwlXFzV51hdxh0.jpg"
-                            },
-                            {
                                 "url": "https://www.kool.to/data/watch/?_id=378108&type=movie",
                                 "title": "In This Corner of the World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/fNjXixdL1IOSWk7g9msKyfpPKdx.jpg"
@@ -664,6 +659,11 @@
                                 "url": "https://www.kool.to/data/watch/?_id=285&type=movie",
                                 "title": "Pirates of the Caribbean - Am Ende der Welt",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/gNiS5L0qxRlkPdHcRtFo23rwPMT.jpg"
+                            },
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=419566&type=movie",
+                                "title": "LEGO Jurassic World: Flucht des Indominus Rex",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/3sKJifTlVvM7jEnFEYFwJSay5Vu.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=334616&type=movie",
@@ -789,6 +789,11 @@
                                 "url": "https://www.kool.to/data/watch/?_id=929569&type=movie",
                                 "title": "Der Beste der Welt",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/eAKWVuwX9NxO11WFjgObEWUiq8W.jpg"
+                            },
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=36791&type=movie",
+                                "title": "In This World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/denzE2tZc3TZ95vQNK3rKo0iDHn.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -817,8 +822,38 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/00150/54st5qoytg1d_x/index-v1-a1.m3u8?t=BKkoOkSspyKvxJNasivg40muAoTusYdrP6wJDhMmdM0&s=1691302451&e=43200&f=752070&srv=11&asn=8075&sp=2500",
+                        "quality": "Filemoon - 480p",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/00150/54st5qoytg1d_x/index-v1-a1.m3u8?t=BKkoOkSspyKvxJNasivg40muAoTusYdrP6wJDhMmdM0&s=1691302451&e=43200&f=752070&srv=11&asn=8075&sp=2500",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/54st5qoytg1d",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    },
+                    {
+                        "url": "https://clipboard.cc/g/5teql7JyCP0G",
+                        "quality": "Clipboard",
+                        "videoUrl": "https://clipboard.cc/g/5teql7JyCP0G"
+                    },
+                    {
+                        "url": "https://clipboard.cc/g/qjrfZqZ41IPe",
+                        "quality": "Clipboard",
+                        "videoUrl": "https://clipboard.cc/g/qjrfZqZ41IPe"
+                    },
+                    {
+                        "url": "https://clipboard.cc/g/EohKSKX560L7",
+                        "quality": "Clipboard",
+                        "videoUrl": "https://clipboard.cc/g/EohKSKX560L7"
+                    },
+                    {
+                        "url": "https://clipboard.cc/g/yzS5lZ2r0raw",
+                        "quality": "Clipboard",
+                        "videoUrl": "https://clipboard.cc/g/yzS5lZ2r0raw"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,27 +3,27 @@
         "name": "LocoPelis",
         "results": {
             "popular": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }

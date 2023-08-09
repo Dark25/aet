@@ -3,50 +3,20 @@
         "name": "edytjedhgmdhm",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/5xx-error-landing/",
-                                "title": "Cloudflare",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/argo-tunnel/reference/load-balancing/",
-                                "title": "load balancing",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/5xx-error-landing",
-                                "title": "Cloudflare",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/5xx-error-landing/",
-                    "title": "Cloudflare",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

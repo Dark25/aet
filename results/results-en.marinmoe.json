@@ -87,24 +87,34 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/ezyfqeoo6-62276cea988b5761421019.jpg"
                             },
                             {
-                                "url": "/anime/3wsvmsdr",
-                                "title": "Kage no Jitsuryokusha ni Naritakute!",
-                                "thumbnail_url": "https://marin.moe/images/anime/mlevplopf-633dd5b5b2c84305381909.jpg"
-                            },
-                            {
                                 "url": "/anime/xa3axzuk",
                                 "title": "Hunter x Hunter (2011)",
                                 "thumbnail_url": "https://marin.moe/images/anime/gt0olyzjf-614d1750a07ca543113041.jpg"
                             },
                             {
-                                "url": "/anime/ugtexyyz",
-                                "title": "Eiyuu Kyoushitsu",
-                                "thumbnail_url": "https://marin.moe/images/anime/sjc4glsrq-64aacfa8aedbc200972094.jpg"
+                                "url": "/anime/3wsvmsdr",
+                                "title": "Kage no Jitsuryokusha ni Naritakute!",
+                                "thumbnail_url": "https://marin.moe/images/anime/mlevplopf-633dd5b5b2c84305381909.jpg"
                             },
                             {
                                 "url": "/anime/4jyvykgd",
                                 "title": "Helck",
                                 "thumbnail_url": "https://marin.moe/images/anime/vwt6oje5m-64adb575cb5d9947547630.jpg"
+                            },
+                            {
+                                "url": "/anime/dzxkopxr",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://marin.moe/images/anime/0fouj4tyg-64adc1955cfe0538623097.jpg"
+                            },
+                            {
+                                "url": "/anime/nepbmfpm",
+                                "title": "Oshi no Ko",
+                                "thumbnail_url": "https://marin.moe/images/anime/r3lbcasl0-6436e9483dfc1086363124.jpg"
+                            },
+                            {
+                                "url": "/anime/ugtexyyz",
+                                "title": "Eiyuu Kyoushitsu",
+                                "thumbnail_url": "https://marin.moe/images/anime/sjc4glsrq-64aacfa8aedbc200972094.jpg"
                             },
                             {
                                 "url": "/anime/a0cz4nhm",
@@ -115,16 +125,6 @@
                                 "url": "/anime/kjfrhu3s",
                                 "title": "Naruto",
                                 "thumbnail_url": "https://marin.moe/images/anime/wrbokdgiy-61185804ad193289689725.jpg"
-                            },
-                            {
-                                "url": "/anime/eq7ywtnj",
-                                "title": "Okashi na Tensei",
-                                "thumbnail_url": "https://marin.moe/images/anime/bexnrheqn-64a315eba3ed4677435406.jpg"
-                            },
-                            {
-                                "url": "/anime/nepbmfpm",
-                                "title": "Oshi no Ko",
-                                "thumbnail_url": "https://marin.moe/images/anime/r3lbcasl0-6436e9483dfc1086363124.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -407,78 +407,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1071",
-                        "name": "Episode 1071 Luffy`s Peak - Attained! Gear Five",
-                        "date_upload": 1691280000000,
-                        "episode_number": 1071.0
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1070",
-                        "name": "Episode 1070 Luffy Is Defeated?! The Determination of Those Left Behind",
-                        "date_upload": 1690070400000,
-                        "episode_number": 1070.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1071",
-                        "quality": "SubsPlease 1080p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/20cd0be591817f5f?token=4682cfb7dcee8116a6c8e5d453c04fd655db6d54f6b9a747e6403e9602f8699d",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=KstLIw17gjcmEJE7;__ddg1_=7Ljy1d3knhQ5NEQDsJX3;XSRF-TOKEN=eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IklkNlhJazBoWE5tOW52SngvSWVuWmc9PSIsInZhbHVlIjoieDlBOCtwT3Z1aE05MzQxODB4b3g5ejl6ZDdhMFllMHhqUENRNzdwcytKUXA1d2x3NHhMYmI2VE13U05tYldLZmtQNXhvMk1CS0VnckozZldUOURJVG4weTlZVHNuMy9LSUpyZEhocktRSGxGU0t6dncyZzlFQi82LzBjQUR3YUgiLCJtYWMiOiJkM2ZkYTViZDdiYjUxNDRlMTRjYWFmYjg0NTNkZDdjN2JhNDE0NWJlMmIxZDU1ZDM3ODNjNzAyMzcxZDIxNWFlIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1071",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1071",
-                        "quality": "SubsPlease 720p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/e7b420417dd2561c?token=89535fb83d1cecb437598a304ef7e07a464223b587a19d1ed803b33189d5b5b1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=KstLIw17gjcmEJE7;__ddg1_=7Ljy1d3knhQ5NEQDsJX3;XSRF-TOKEN=eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IklkNlhJazBoWE5tOW52SngvSWVuWmc9PSIsInZhbHVlIjoieDlBOCtwT3Z1aE05MzQxODB4b3g5ejl6ZDdhMFllMHhqUENRNzdwcytKUXA1d2x3NHhMYmI2VE13U05tYldLZmtQNXhvMk1CS0VnckozZldUOURJVG4weTlZVHNuMy9LSUpyZEhocktRSGxGU0t6dncyZzlFQi82LzBjQUR3YUgiLCJtYWMiOiJkM2ZkYTViZDdiYjUxNDRlMTRjYWFmYjg0NTNkZDdjN2JhNDE0NWJlMmIxZDU1ZDM3ODNjNzAyMzcxZDIxNWFlIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1071",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1071",
-                        "quality": "SubsPlease 480p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/992d0b3231a3eb95?token=63c908e3d920b614446fbfc72e610e7b9633f137c2522f6eb6b06c4b12ee6e24",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=KstLIw17gjcmEJE7;__ddg1_=7Ljy1d3knhQ5NEQDsJX3;XSRF-TOKEN=eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IklkNlhJazBoWE5tOW52SngvSWVuWmc9PSIsInZhbHVlIjoieDlBOCtwT3Z1aE05MzQxODB4b3g5ejl6ZDdhMFllMHhqUENRNzdwcytKUXA1d2x3NHhMYmI2VE13U05tYldLZmtQNXhvMk1CS0VnckozZldUOURJVG4weTlZVHNuMy9LSUpyZEhocktRSGxGU0t6dncyZzlFQi82LzBjQUR3YUgiLCJtYWMiOiJkM2ZkYTViZDdiYjUxNDRlMTRjYWFmYjg0NTNkZDdjN2JhNDE0NWJlMmIxZDU1ZDM3ODNjNzAyMzcxZDIxNWFlIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1071",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1071",
-                        "quality": "SubsPlease 360p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/c99f7554e59a01ea?token=228ba1b77cf665a4833b75d6d6247cb413232c4f09f1424f01df87fde07616fc",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=KstLIw17gjcmEJE7;__ddg1_=7Ljy1d3knhQ5NEQDsJX3;XSRF-TOKEN=eyJpdiI6ImFwQXd6U096c0pQVnorbUNXREdHWkE9PSIsInZhbHVlIjoiMnhjczlXMlB0NDlyZllYY2pMMUw2QWNrU2tkUkxCTjluU3NHOUVhRjJCSnhOUXU3Y1daV2EzSXZERlQveGpqcmpWVGYvY0MwcThlNnNSWkN5eFRTcEY4SlFXc21nNHVCdlhKTW52d2NlODd4RDJrSllaOEY0dFUxV29yR1NYNnEiLCJtYWMiOiIwM2IzYzk5NjExNDM0NTI4ZGFjM2E1YmUzNzZlZWE5NDkzNTg4MmFlM2FmYzg2NWNlMWJjOTZkZDgwZDg2MjYxIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IklkNlhJazBoWE5tOW52SngvSWVuWmc9PSIsInZhbHVlIjoieDlBOCtwT3Z1aE05MzQxODB4b3g5ejl6ZDdhMFllMHhqUENRNzdwcytKUXA1d2x3NHhMYmI2VE13U05tYldLZmtQNXhvMk1CS0VnckozZldUOURJVG4weTlZVHNuMy9LSUpyZEhocktRSGxGU0t6dncyZzlFQi82LzBjQUR3YUgiLCJtYWMiOiJkM2ZkYTViZDdiYjUxNDRlMTRjYWFmYjg0NTNkZDdjN2JhNDE0NWJlMmIxZDU1ZDM3ODNjNzAyMzcxZDIxNWFlIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1071",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

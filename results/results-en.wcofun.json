@@ -3,94 +3,8 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/strange-planet",
-                                "title": "Strange Planet",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933068.jpg"
-                            },
-                            {
-                                "url": "/anime/digby-dragon",
-                                "title": "Digby Dragon",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933067.jpg"
-                            },
-                            {
-                                "url": "/anime/chirp",
-                                "title": "Chirp",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933066.jpg"
-                            },
-                            {
-                                "url": "/anime/city-monsters",
-                                "title": "City Monsters",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933065.jpg"
-                            },
-                            {
-                                "url": "/anime/cave-kids",
-                                "title": "Cave Kids",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933064.jpg"
-                            },
-                            {
-                                "url": "/anime/captain-flinn-and-the-pirate-dinosaurs",
-                                "title": "Captain Flinn and the Pirate Dinosaurs",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933063.jpg"
-                            },
-                            {
-                                "url": "/anime/cartoon-hell",
-                                "title": "Cartoon Hell",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933062.jpg"
-                            },
-                            {
-                                "url": "/anime/care-bears-unlock-the-magic",
-                                "title": "Care Bears: Unlock the Magic",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933061.jpg"
-                            },
-                            {
-                                "url": "/anime/camberwick-green",
-                                "title": "Camberwick Green",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933060.jpg"
-                            },
-                            {
-                                "url": "/anime/bruno-and-the-banana-bunch",
-                                "title": "Bruno and the Banana Bunch",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933059.jpg"
-                            },
-                            {
-                                "url": "/anime/boj",
-                                "title": "Boj",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933058.jpg"
-                            },
-                            {
-                                "url": "/anime/blark-and-son",
-                                "title": "Blark and Son",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933057.jpg"
-                            },
-                            {
-                                "url": "/anime/blacktalon",
-                                "title": "Blacktalon",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933056.jpg"
-                            },
-                            {
-                                "url": "/anime/zoids-wild",
-                                "title": "Zoids Wild",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933055.jpg"
-                            },
-                            {
-                                "url": "/anime/bing",
-                                "title": "Bing",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933054.jpg"
-                            },
-                            {
-                                "url": "/anime/big-blue",
-                                "title": "Big Blue",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933053.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -604,11 +518,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/strange-planet",
-                    "title": "Strange Planet",
-                    "description": "Blue beings find themselves exploring and trying to understand the complexities and nuances of human traits.",
-                    "genre": "Comedy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933068.jpg",
+                    "url": "/anime/the-world-of-narue",
+                    "title": "The World of Narue",
+                    "description": "Plot Summary: Iizuka Kazuto is a 14 year old boy who meets a somewhat weird but cute and charming girl named Narue Nanase who claims she is an Alien. The show is about the trials and tribulations of the young couple as they get to know each other.",
+                    "genre": "Romantic Comedy, Science Fiction, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/23770.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +530,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/strange-planet-episode-3-careful-now",
-                        "name": "Episode 3 Careful Now",
-                        "episode_number": 3.0
+                        "url": "/the-world-of-narue-episode-12-english-dubbed",
+                        "name": "Episode 12 English Dubbed",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/strange-planet-episode-2-greyscale-finger-bandit",
-                        "name": "Episode 2 Greyscale Finger Bandit",
-                        "episode_number": 2.0
+                        "url": "/the-world-of-narue-episode-11-english-dubbed",
+                        "name": "Episode 11 English Dubbed",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -631,19 +545,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkMlWU8yAgTUNMYkxebHfsuHoL3AorExMRcReOENNkylwqHEwNkudFoceiXEAp_ZD9IF0wTErXDpLqhKq2R3mH9XlXTn2oJubeOLrtZ-jI_KNZVDOkpUNg7FQdR8yfBECyvHopD0MdEg7wCmWGj3g7GUtZT0kWPipFGR3EgqbnYg8haJXURbdqOBZEcN8yTBpx1TX6WnH_R3HtUsFE_56S0EFSHMvIi5JwrIcly0Tk21kqv81zjnnYKx4naCXsxZ06TXCU-2bQQ2XWdxEhHNyC3S8VKMGtrEBEW9npttinbSuRnFSVfgn1IMtwzwSFaWwAfRRTS_q8RfepC_rnxtP63eh-u-c1FWlFOYv8Fsbqpr",
+                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRGdA_0kemFRtdWF8RrKD0Vq5S4U7eDgKu1nHNRolkf9-K2iaqZFfohx9LsPql2N0beIlC76uoOI2ZRrjzqC8UR8_7ndrztsNCxFAuCW035_krxOEujREBqL07b6Ecie5X2-X-qyFF8tz7or3Mck0ZAl6-9_XhNYlzkg_AZaf-Fay-p0wbXJea0usSB1jdUrro",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkMlWU8yAgTUNMYkxebHfsuHoL3AorExMRcReOENNkylwqHEwNkudFoceiXEAp_ZD9IF0wTErXDpLqhKq2R3mH9XlXTn2oJubeOLrtZ-jI_KNZVDOkpUNg7FQdR8yfBECyvHopD0MdEg7wCmWGj3g7GUtZT0kWPipFGR3EgqbnYg8haJXURbdqOBZEcN8yTBpx1TX6WnH_R3HtUsFE_56S0EFSHMvIi5JwrIcly0Tk21kqv81zjnnYKx4naCXsxZ06TXCU-2bQQ2XWdxEhHNyC3S8VKMGtrEBEW9npttinbSuRnFSVfgn1IMtwzwSFaWwAfRRTS_q8RfepC_rnxtP63eh-u-c1FWlFOYv8Fsbqpr"
+                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRGdA_0kemFRtdWF8RrKD0Vq5S4U7eDgKu1nHNRolkf9-K2iaqZFfohx9LsPql2N0beIlC76uoOI2ZRrjzqC8UR8_7ndrztsNCxFAuCW035_krxOEujREBqL07b6Ecie5X2-X-qyFF8tz7or3Mck0ZAl6-9_XhNYlzkg_AZaf-Fay-p0wbXJea0usSB1jdUrro"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkMlWU8yAgTUNMYkxebHfsuHoL3AorExMRcReOENNkylwqHEwNkudFoceiXEAp_ZDyFiSx9D878uzZjwHJCn7B370DoPvvKM6XK-E_oUGS1fGp3MF5Mik_J1nC12qYia3xRYMNbJy1HlFerAKZtRqi676rtQRHPko8K1mLMEjBAw1z53Jf9OrQmwKHob-_X2tOdoTg33Ol3-xCy9pnPpLzyhNrvqfQZPNkb0957zObW2rNZ4pGgTdgJada9FMkV4KLR7VmRQgKfLD0saWa3TLohplQUUyLyZMtquRH0_M_5iRiLlGB8VA_ELhiAMvUKhUdjScUEQ4j2piiYq8jMWo1djk6s0lZLQY2mTNyjcqeaU",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkMlWU8yAgTUNMYkxebHfsuHoL3AorExMRcReOENNkylwqHEwNkudFoceiXEAp_ZDyFiSx9D878uzZjwHJCn7B370DoPvvKM6XK-E_oUGS1fGp3MF5Mik_J1nC12qYia3xRYMNbJy1HlFerAKZtRqi676rtQRHPko8K1mLMEjBAw1z53Jf9OrQmwKHob-_X2tOdoTg33Ol3-xCy9pnPpLzyhNrvqfQZPNkb0957zObW2rNZ4pGgTdgJada9FMkV4KLR7VmRQgKfLD0saWa3TLohplQUUyLyZMtquRH0_M_5iRiLlGB8VA_ELhiAMvUKhUdjScUEQ4j2piiYq8jMWo1djk6s0lZLQY2mTNyjcqeaU"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkMlWU8yAgTUNMYkxebHfsuHoL3AorExMRcReOENNkylwqHEwNkudFoceiXEAp_ZD-kw230A8lkvRPWyewgtTjXpmdtRqudI3GUMe44tWbR3YREZ2-qhYiZDopEDV3IqzBgDYlp7MgNG21IEQYs6wJrzWlp-u2qz1eAl-ytoNvlsAvuu0RRvi_KTW8i-32OKvW3QcXO40bgqFIjN7F3jJKBonG8oDni3bf2cWnakBfjGwJYmR7f5D-_TBwO1wal3m8lX-f7Vbi6zf-Z4oP1hLEmaTLOvNVBQ_MjQHYLYvKUWbcFtnT8dxt7RJ7vEsGAagtgOvZyNGX4AKEZdoMlx2nI",
+                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZiDq14i-uRfcdL3w1GJDrGLmNvRGNL-HLUHt7ctz9vk7xeUYmP1FXjXbIPe8WnWGOmzJIMdllV__TInhrelb04PUevTVsGkhE7Z2U3iDeTGdQy8NDZe8o1HDj-VBALpd8FslXKp6Wis5ScoDe-lwDg9NYmmG_tOcYncFcPXJeXAzRPXiV8lPyNCHQbYbxjSaP",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkMlWU8yAgTUNMYkxebHfsuHoL3AorExMRcReOENNkylwqHEwNkudFoceiXEAp_ZD-kw230A8lkvRPWyewgtTjXpmdtRqudI3GUMe44tWbR3YREZ2-qhYiZDopEDV3IqzBgDYlp7MgNG21IEQYs6wJrzWlp-u2qz1eAl-ytoNvlsAvuu0RRvi_KTW8i-32OKvW3QcXO40bgqFIjN7F3jJKBonG8oDni3bf2cWnakBfjGwJYmR7f5D-_TBwO1wal3m8lX-f7Vbi6zf-Z4oP1hLEmaTLOvNVBQ_MjQHYLYvKUWbcFtnT8dxt7RJ7vEsGAagtgOvZyNGX4AKEZdoMlx2nI"
+                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZiDq14i-uRfcdL3w1GJDrGLmNvRGNL-HLUHt7ctz9vk7xeUYmP1FXjXbIPe8WnWGOmzJIMdllV__TInhrelb04PUevTVsGkhE7Z2U3iDeTGdQy8NDZe8o1HDj-VBALpd8FslXKp6Wis5ScoDe-lwDg9NYmmG_tOcYncFcPXJeXAzRPXiV8lPyNCHQbYbxjSaP"
                     }
                 ],
                 "passed": true

@@ -1,6 +1,6 @@
 ## Extension status
 
-### 95/186(51%) are working
+### 93/186(50%) are working
 
 | Extension             |   Status   | Log                                                                                                                                           |
 | :-------------------- | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@
 | de.filmpalast         |     ✅      | [results-de.filmpalast.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.filmpalast.json)                 |
 | de.hdfilme            |     ✅      | [results-de.hdfilme.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.hdfilme.json)                       |
 | de.kinoking           |  ❌<br>5/6  | [results-de.kinoking.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.kinoking.json)                     |
-| de.kool               |     ✅      | [results-de.kool.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.kool.json)                             |
+| de.kool               |  ❌<br>4/5  | [results-de.kool.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.kool.json)                             |
 | de.movie2k            |  ❌<br>4/5  | [results-de.movie2k.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.movie2k.json)                       |
 | de.movie4k            |  ❌<br>4/5  | [results-de.movie4k.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.movie4k.json)                       |
 | de.serienstream       |  ❌<br>0/6  | [results-de.serienstream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.serienstream.json)             |
@@ -94,7 +94,7 @@
 | en.uhdmovies          |  ❌<br>3/5  | [results-en.uhdmovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.uhdmovies.json)                   |
 | en.uniquestream       |  ❌<br>0/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.uniquestream.json)             |
 | en.vidembed           |  ❌<br>4/5  | [results-en.vidembed.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.vidembed.json)                     |
-| en.wcofun             |     ✅      | [results-en.wcofun.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.wcofun.json)                         |
+| en.wcofun             |  ❌<br>4/5  | [results-en.wcofun.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.wcofun.json)                         |
 | en.wcostream          |     ✅      | [results-en.wcostream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.wcostream.json)                   |
 | en.zoro               |     ✅      | [results-en.zoro.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.zoro.json)                             |
 | es.animefenix         |  ❌<br>0/6  | [results-es.animefenix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animefenix.json)                 |

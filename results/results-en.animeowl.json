@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ninjala-episode-0-2/",
+                                "title": "Ninjala Episode 0",
+                                "thumbnail_url": "https://anime-owl.net/cover/ninjala-episode-0-2.jpg"
+                            },
+                            {
                                 "url": "/anime/hataraku-maou-sama-2nd-season/",
                                 "title": "Hataraku Maou-sama!! 2nd Season",
                                 "thumbnail_url": "https://anime-owl.net/cover/hataraku-maou-sama-2nd-season.png"
@@ -310,11 +315,6 @@
                                 "url": "/anime/mononogatari-2nd-season/",
                                 "title": "Mononogatari 2nd Season",
                                 "thumbnail_url": "https://anime-owl.net/cover/mononogatari-2nd-season.png"
-                            },
-                            {
-                                "url": "/anime/yumemiru-danshi-wa-genjitsushugisha/",
-                                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                                "thumbnail_url": "https://anime-owl.net/cover/yumemiru-danshi-wa-genjitsushugisha.png"
                             }
                         ],
                         "hasNextPage": true
@@ -350,7 +350,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

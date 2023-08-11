@@ -3,172 +3,29 @@
         "name": "Anime-Sama",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/catalogue/ai-no-idenshi//saison1/vostfr",
-                                "title": "AI no Idenshi Saison 1",
-                                "description": "L'histoire se déroule dans un futur proche où environ 10% des gens sont des \"humanoïdes\", des robots à l'apparence humaine. Bien que très bien intégrés à la société, les humanoïdes ont leurs propres problèmes et sont sujets à des maladies qui ne touchent qu'eux. Hikaru Sudô est un médecin spécialisé dans les maux des humanoïdes.",
-                                "genre": "Drame, Science-fiction, Slice-of-Life, Futur, Robots",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ai-no-idenshi.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/dekiru-neko-wa-kyou-mo-yuuutsu//saison1/vostfr",
-                                "title": "Dekiru Neko wa Kyou mo Yuuutsu Saison 1",
-                                "description": "Saku est une employée de bureau comme les autres... Enfin... Si on excepte le chat géant avec qui elle vit ! Prénommé Yukichi, le félin est en fait le pilier du foyer : ménage, cuisine, lessive... C'est lui qui s'occupe de tout ! Malgré son air sévère et ses manières parfois brusques, il est malgré tout au petit soin avec sa maîtresse, et heureusement pour elle, vu qu'elle n'est bonne à rien !",
-                                "genre": "Comédie, Slice-of-Life, Animaux, Quotidien",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dekiru-neko-wa-kyou-mo-yuuutsu.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/dark-gathering//saison1/vostfr",
-                                "title": "Dark Gathering Saison 1",
-                                "description": "Keitarô Gentôga est un étudiant de première année qui déteste les fantômes mais, malgré lui, il possède une capacité permettant de les attirer. Deux ans avant le début de l'histoire, Keitarô et un de ses amis furent blessés à cause d'une connexion avec l'un de ces derniers. Devenu sans-abri suite à l'incident, Keitarô peut toutefois compter sur le soutien de son amie d'enfance Eiko, qui l'aide à se réinsérer. Dans le cadre de sa réhabilitation, Keitarô est embauché comme tuteur privé, et son premier élève n'est autre que Yayoi Hôzuki, la cousine d'Eiko. Cependant, Yayoi peut aussi voir les fantômes mais, contrairement à Keitarô, elle cherche à les rencontrer pour retrouver celui qui a emporté sa mère.",
-                                "genre": "Comédie, Drame, Horreur, Épouvante, Surnaturel, Fantômes, Vengeance",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dark-gathering.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/the-dreaming-man-is-a-realist//saison1/vostfr",
-                                "title": "The Dreaming Man is a Realist Saison 1",
-                                "description": "Wataru Sajô est profondément amoureux de sa camarade de classe, Aika Natsukawa, et a tendance à lui montrer trop d'affection. Un jour, il prend conscience qu'il n'est sûrement pas assez bien pour cette dernière. En réalisant cela, Wataru commence à prendre ses distances avec Aika. Surprise par ce changement radical, Aika se demande si son camarade de classe la déteste.",
-                                "genre": "Comédie, Romance, School-Life, Amour, Ecole, Harem",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-dreaming-man-is-a-realist.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/the-most-heretical-last-boss-queen//saison1/vostfr",
-                                "title": "The Most Heretical Last Boss Queen Saison 1",
-                                "description": "À l'âge de 8 ans, j'ai réalisé que je m'étais réincarnée en tant que l'impitoyable Queen Pride, la boss finale d'un otome game. Elle est la plus forte car elle se bat toujours contre ses agresseurs, elle est la plus intelligente grâce à son cerveau supérieur et est l'une des plus puissantes du royaume de par sa position de princesse héritière. Mais l'avenir qui l'attend est loin d'être aussi positif : ayant rendu tout le monde autour d'elle malheureux, seule une fin funeste l'attend. Et ça, c'est hors de question pour moi ! Ainsi, je vais désormais utiliser mon autorité et mes connaissances de ma vie précédente afin de sauver tout le monde, moi y compris.",
-                                "genre": "Drame, Fantasy, Romance, Jeux, Royauté, Réincarnation",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-most-heretical-last-boss-queen.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/reborn-as-a-vending-machine-i-now-wander-the-dungeon//saison1/vostfr",
-                                "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Saison 1",
-                                "description": "Obnubilé par les distributeurs automatiques de son vivant, un jeune homme trouve la mort dans des circonstances tragiques. Pourtant, il se réveille au bord d'une rivière comme si rien ne s'était passé... à un détail près : il est désormais lui-même un distributeur automatique!",
-                                "genre": "Comédie, Fantasy, Isekai, Autre-monde, Réincarnation",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reborn-as-a-vending-machine-i-now-wander-the-dungeon.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/sweet-reincarnation//saison1/vostfr",
-                                "title": "Sweet Reincarnation Saison 1",
-                                "description": "Un garçon est né d'un noble dans un domaine pauvre. Le garçon, qui doit devenir le prochain seigneur, s'appelle Pastry. Homme au talent exceptionnel, il était dans sa vie antérieure un confiseur à l'avenir prometteur. Le garçon doit faire face à de nombreuses difficultés et épreuves, notamment des bandits sans pitié, des bêtes sauvages qui se retournent soudainement contre lui, des nobles rusés et au cœur noir, et un domaine désert avec peu d'eau. Pastry utilise son intelligence et son amour des sucreries pour survivre dans un monde d'épées et de sorcellerie. Le défi du jeune pâtissier commence maintenant, car il veut faire sourire les gens avec ses confiseries, et créer un territoire débordant de bonheur !",
-                                "genre": "Aventure, Fantasy, Isekai, Autre-monde, Gastronomie, Réincarnation",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sweet-reincarnation.jpg",
-                                "initialized": true
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/catalogue/accel-world//saison1/vostfr",
-                                "title": "Accel World Saison 1",
-                                "description": "L'histoire se passe au cours de l'année 2046, dans un monde où le virtuel est omniprésent, notamment grâce aux \"neuro-linkers\". Le personnage principal se nomme Haruyuki, ou plus simplement Haru pour ses proches, et est le souffre douleur des caïds de son lycée. Son seul plaisir est un jeu virtuel ressemblant au squash, dans lequel il excelle... jusqu'au jour où il est battu par une mystérieuse jeune fille. Cette dernière s'avère être Kuroyukihime, une des membres du Conseil des élèves. Si elle a battu son score, c'est pour lui demander de l'aide. Haru étant quelque peu hésitant, elle lui présente un curieux jeu, \"Brain Burst\", qui s'avère être bien plus qu'un simple jeu. En effet, ceux qui possèdent ce logiciel sont capables de se transférer dans un monde virtuel où 1 seconde du monde réel correspond à 16 minutes et 40 secondes. Cela s'appelle \"accélérer\". Mais pour conserver ce pouvoir, il faut combatstre, et gagner des points. L'aventure de Haru dans ce nouveau monde ne fait que commencer.",
-                                "genre": "Action, Romance, School-Life, Combats, Isekai",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/accel-world.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/accel-world//film/vostfr#0",
-                                "title": "Accel World Film",
-                                "description": "L'histoire se passe au cours de l'année 2046, dans un monde où le virtuel est omniprésent, notamment grâce aux \"neuro-linkers\". Le personnage principal se nomme Haruyuki, ou plus simplement Haru pour ses proches, et est le souffre douleur des caïds de son lycée. Son seul plaisir est un jeu virtuel ressemblant au squash, dans lequel il excelle... jusqu'au jour où il est battu par une mystérieuse jeune fille. Cette dernière s'avère être Kuroyukihime, une des membres du Conseil des élèves. Si elle a battu son score, c'est pour lui demander de l'aide. Haru étant quelque peu hésitant, elle lui présente un curieux jeu, \"Brain Burst\", qui s'avère être bien plus qu'un simple jeu. En effet, ceux qui possèdent ce logiciel sont capables de se transférer dans un monde virtuel où 1 seconde du monde réel correspond à 16 minutes et 40 secondes. Cela s'appelle \"accélérer\". Mais pour conserver ce pouvoir, il faut combatstre, et gagner des points. L'aventure de Haru dans ce nouveau monde ne fait que commencer.",
-                                "genre": "Action, Romance, School-Life, Combats, Isekai",
-                                "status": 2,
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/accel-world.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/cheat-skill-level-up//saison1/vostfr",
-                                "title": "Cheat Skill Level Up Saison 1",
-                                "description": "Depuis longtemps, Yûya Tenjô est victime de harcèlement. Il va au lycée tout en vivant seul dans la maison de son défunt grand-père. Malgré les violentes agressions qu'il subit, il trouve toujours du réconfort pendant les longues vacances. Pendant cette période, alors qu'il nettoie la maison, il décide également de nettoyer la pièce où son grand-père conserve les objets qu'il a collectés tout au long de sa vie. Une pièce dans laquelle Yûya n'est jamais entré auparavant. En essayant d'organiser les objets collectés par son grand-père, il trouve une mystérieuse porte qui semble avoir été découpée dans le mur. Par curiosité, il décide de l'ouvrir et découvre que cette porte l'emmène dans un autre-monde où la magie existe.",
-                                "genre": "Action - Aventure - Fantasy - Isekai - Romance - School-Life - Apprentissage - Autre-monde - Combats - Démons - Ecole - Elfe - Harem - Ijime",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cheat-skill-level-up.jpg",
-                                "initialized": true
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/catalogue/ai-no-idenshi//saison1/vostfr",
-                    "title": "AI no Idenshi Saison 1",
-                    "description": "L'histoire se déroule dans un futur proche où environ 10% des gens sont des \"humanoïdes\", des robots à l'apparence humaine. Bien que très bien intégrés à la société, les humanoïdes ont leurs propres problèmes et sont sujets à des maladies qui ne touchent qu'eux. Hikaru Sudô est un médecin spécialisé dans les maux des humanoïdes.",
-                    "genre": "Drame, Science-fiction, Slice-of-Life, Futur, Robots",
-                    "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ai-no-idenshi.jpg",
-                    "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "[[\"https://sendvid.com/embed/4vzqe7o1\",\"https://video.sibnet.ru/shell.php?videoid=5218754\",\"https://www.myvi.tv/embed/z857w8egc7arjnrr48964g63yc\",\"https://s22.anime-sama.fr/videos/AI%20no%20Idenshi/AI_no_Idenshi_5_VOSTFR.mp4\"],[]]",
-                        "name": "Episode 5",
-                        "episode_number": 5.0,
-                        "scanlator": "VOSTFR"
-                    },
-                    {
-                        "url": "[[\"https://sendvid.com/embed/ne9tx8bn\",\"https://video.sibnet.ru/shell.php?videoid=5210453\",\"https://www.myvi.tv/embed/x56fgf7pjcgrdka17x3sqeejjr\",\"https://s22.anime-sama.fr/videos/AI%20no%20Idenshi/AI_no_Idenshi_4_VOSTFR.mp4\"],[]]",
-                        "name": "Episode 4",
-                        "episode_number": 4.0,
-                        "scanlator": "VOSTFR"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s22.anime-sama.fr/videos/AI%20no%20Idenshi/AI_no_Idenshi_5_VOSTFR.mp4",
-                        "quality": "(VOSTFR) AS Player",
-                        "videoUrl": "https://s22.anime-sama.fr/videos/AI%20no%20Idenshi/AI_no_Idenshi_5_VOSTFR.mp4"
-                    },
-                    {
-                        "url": "https://www.myvi.tv/stream/uffaHQZncESIhNH_7RvZAw2/2.mp4?s=KCZEQwUdoS9e5mPo035Ot2lCPu4win42Dx7xC5EwIXa8bjzMqWFZzqHBDUhtPbl5i1Ug9oqbWquIOJNhLO0sAQ2&r=PwLJNmAfCYGYkxMHkTBWs3o5vKJ1--Nez3e3nUI1N7aSLzSZLwkc4UWQ7rMfhZOH0&d=1467130&ri=T_TzeIjpQUGBDhwzD4zh1g2",
-                        "quality": "(VOSTFR) Mytv",
-                        "videoUrl": "https://www.myvi.tv/stream/uffaHQZncESIhNH_7RvZAw2/2.mp4?s=KCZEQwUdoS9e5mPo035Ot2lCPu4win42Dx7xC5EwIXa8bjzMqWFZzqHBDUhtPbl5i1Ug9oqbWquIOJNhLO0sAQ2&r=PwLJNmAfCYGYkxMHkTBWs3o5vKJ1--Nez3e3nUI1N7aSLzSZLwkc4UWQ7rMfhZOH0&d=1467130&ri=T_TzeIjpQUGBDhwzD4zh1g2"
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/3f83337ccf60d3dfb4584dfaa6f9aa19/5218754.mp4",
-                        "quality": "(VOSTFR) Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/3f83337ccf60d3dfb4584dfaa6f9aa19/5218754.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5218754"
-                        }
-                    },
-                    {
-                        "url": "https://videos2-h.sendvid.com/hls/06/41/4vzqe7o1.mp4/index-v1-a1.m3u8?validfrom=1691749318&validto=1691763718&rate=250k&ip=40.84.170.47&hdl=-1&hash=NjwXAK6BLcEyc%2FnY4IJQS1Nqavw%3D",
-                        "quality": "(VOSTFR) Sendvid:720p ",
-                        "videoUrl": "https://videos2-h.sendvid.com/hls/06/41/4vzqe7o1.mp4/index-v1-a1.m3u8?validfrom=1691749318&validto=1691763718&rate=250k&ip=40.84.170.47&hdl=-1&hash=NjwXAK6BLcEyc%2FnY4IJQS1Nqavw%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Host": "videos2-h.sendvid.com",
-                            "Origin": "https://sendvid.com",
-                            "Referer": "https://sendvid.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

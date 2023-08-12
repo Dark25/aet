@@ -358,35 +358,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/serie/boku-no-hero-academia-hd11/",
-                    "title": "Boku no Hero Academia",
-                    "description": "On suit les aventures d’Izuku Midoriya qui, malgré qu’il vive dans un monde où avoir des pouvoirs est commun, est l’un des seuls à ne pas en posséder…\n\nTitre original: 僕のヒーローアカデミア\nEpisodes: 62",
-                    "genre": "Action & Adventure, Animation, Comédie",
-                    "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/zYnGDJKWwqpsDPPNylQOTXiuTzM-185x278.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/my-hero-academia-saison-6-episode-25-hd/",
-                        "name": "Season 6 x 25 - Épisode 25",
-                        "date_upload": 1679702400000,
-                        "episode_number": 25.0
-                    },
-                    {
-                        "url": "/episodes/my-hero-academia-saison-6-episode-24-hd/",
-                        "name": "Season 6 x 24 - Épisode 24",
-                        "date_upload": 1679097600000,
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

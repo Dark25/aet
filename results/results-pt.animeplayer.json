@@ -3,8 +3,34 @@
         "name": "AnimePlayer",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
+                            },
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -262,15 +288,29 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/hora-de-aventura-dublado/",
+                    "title": "Hora de Aventura Dublado",
+                    "description": "Finn é um garoto gentil e bondoso mais não perde tempo quando o assunto é Aventura junto com seu amigo Jake ele viaja por toda terra de Ooo a procura de de seu melhor passa tempo:Aventura.Jake é um cachorro magico que ajuda Finn em todas suas aventuras com seus poderes de esticar.A mãe e o pai de Jake foram os cachorros que encontraram Finn chorando numa montanha e o resgataram por isso os destinos de Finn e Jake foram cruzados.Hoje eles vivem procurando aventuras pela terra de Ooo salvando princesas e pessoas indefesas.Por isso são conhecidos como os hérois da terra de Ooo.\n\nTítulo original: Hora de Aventura\nTemporadas: 1",
+                    "genre": "",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/level-1-dakedo-unique-skill-de-saikyou-desu-dublado-1x6/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodios/hora-de-aventura-1x3/",
+                        "name": "Temporada 1 x 3 - ",
+                        "date_upload": 1533686400000,
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episodios/hora-de-aventura-1x2/",
+                        "name": "Temporada 1 x 2 - ",
+                        "date_upload": 1533686400000,
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true

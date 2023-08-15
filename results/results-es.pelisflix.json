@@ -497,12 +497,24 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/quicksand/",
+                    "title": "Quicksand",
+                    "description": "Un matrimonio a punto de divorciarse queda atrapado en arenas movedizas mientras practica senderismo por la selva colombiana. Se enfrentan a los elementos de la selva en una lucha por la supervivencia y deben trabajar juntos para escapar.",
+                    "genre": "Suspense, Terror",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/quicksand/",
+                        "name": "Pelicula",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

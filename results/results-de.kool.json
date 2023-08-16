@@ -525,6 +525,11 @@
                                 "url": "/data/watch/?_id=985939&type=movie",
                                 "title": "Fall",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/v28T5F1IygM8vXWZIycfNEm3xcL.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=848730&type=movie",
+                                "title": "Los bastardos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ffDHUOjHNfqSizXFA7oymCCckE8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -569,6 +574,11 @@
                                 "url": "https://www.kool.to/data/watch/?_id=604605&type=movie",
                                 "title": "Hello World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg"
+                            },
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=299963&type=movie",
+                                "title": "Dragonball Z Special: Atsumare! Goku World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/aKr5GFLLAGy4ndo1NKkIngx1teJ.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=340382&type=movie",
@@ -639,6 +649,11 @@
                                 "url": "https://www.kool.to/data/watch/?_id=457955&type=movie",
                                 "title": "The Night Eats the World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/wvCqfEqmQ8Em1ywnKQ74yjdDtl8.jpg"
+                            },
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=566451&type=movie",
+                                "title": "Re:Zero - Starting Life in Another World: Bünde aus Eis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ca2ZsUa4Qeik2IwlXFzV51hdxh0.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=382272&type=movie",
@@ -769,16 +784,6 @@
                                 "url": "https://www.kool.to/data/watch/?_id=63335&type=movie",
                                 "title": "Céline Dion: Taking Chances World Tour - The Concert",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2noKFD4ph2c7D8iUbKS5wYk9bXD.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=589752&type=movie",
-                                "title": "The World Champion",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8D5x8AQNUkyXynpsWHZqOzTzYAB.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=478100&type=movie",
-                                "title": "The Most Assassinated Woman in the World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qlQv8xcQy6VUViQ9OqUHk5pUiKh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -787,36 +792,19 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=569094&type=movie",
-                    "title": "Spider-Man: Across the Spider-Verse",
-                    "description": "Brooklyns freundliche Spinne aus der Nachbarschaft ist zurück! Nachdem sich Miles Morales aka Spider-Man gerade erst an seine Rolle gewöhnt hat, wird er bereits in sein nächstes Abenteuer und quer durch das neu entdeckte Multiversum geschleudert. Um dessen Existenz zu schützen, muss sich Spider-Man zusammen mit Gwen Stacy und einem neuen Spider-Team einem Bösewicht stellen, der mächtiger ist als alles, was ihnen bisher begegnet ist. Nur mit vereinten Kräften ist es ihnen vielleicht möglich, die Welt zu retten. Doch welche ist die richtige Vorgehensweise, um der Bedrohung zu begegnen? Als die vielen Helden der Spider-People über diese Frage aneinander geraten, muss Miles seine eigene Rolle als Held neu definieren, um die Menschen zu retten, die er liebt.",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/aVvTPzo27HmYP9zmSTvLUq5a6zo.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=569094&name=Spider-Man: Across the Spider-Verse&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/ezparaqyw3sb",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-ulpknvcbcwacdzcs.voe-network.net/engine/hls2/01/09296/ezparaqyw3sb_,n,.urlset/master.m3u8?t=RzQtfaPYKEVn1nDWe1lYXk2YYCQ4SHa1gW8ZfAG9o0A&s=1692147056&e=14400&f=46481491&node=delivery-node-ulpknvcbcwacdzcs.voe-network.net&i=13.88&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/eehzcf6fhzei",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-pdo4j8rrh720n7oy.voe-network.net/engine/hls2-c/01/09296/eehzcf6fhzei_,n,.urlset/master.m3u8?t=2jenuHFlje6mgenyOX8DyT5K-9EbvN1c9mfdSmgTiNc&s=1692147055&e=14400&f=46481074&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true

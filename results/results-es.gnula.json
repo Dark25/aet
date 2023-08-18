@@ -207,11 +207,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
-                                "title": "Fireball: Visitantes de mundos oscuros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
-                            },
-                            {
                                 "url": "/series/w-dos-mundos",
                                 "title": "W Dos Mundos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
@@ -220,6 +215,11 @@
                                 "url": "/series/jurassic-world-campamento-cretacico",
                                 "title": "Jurassic World: Campamento Cretácico",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
+                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
+                                "title": "Fireball: Visitantes de mundos oscuros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -247,19 +247,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
                             },
                             {
-                                "url": "/series/brave-new-world",
-                                "title": "Brave New World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
-                            },
-                            {
                                 "url": "/movies/guerra-mundial-z",
                                 "title": "Guerra mundial Z",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg"
                             },
                             {
-                                "url": "/series/the-walking-dead-world-beyond",
-                                "title": "The Walking Dead: World Beyond",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
+                                "url": "/series/brave-new-world",
+                                "title": "Brave New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
+                            },
+                            {
+                                "url": "/movies/piratas-del-caribe-en-el-fin-del-mundo",
+                                "title": "Piratas del Caribe: En el Fin del Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -268,16 +268,38 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/movies/dead-shot",
+                    "title": "Dead Shot",
+                    "artist": "Colin Morgan",
+                    "description": "Un paramilitar irlandés retirado es testigo del tiroteo fatal de su esposa embarazada por parte de un oficial de SAS. Después de burlar al SAS, ahora herido y dado por muerto, escapa y se venga de las oscuras y paranoicas calles del Londres de los años 70.",
+                    "genre": "Acción, Suspenso",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movies/dead-shot",
+                        "name": "Película",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=aY9kr8x6e9ixyzV&expires=1692431358&ip=F0OSKRSSDS9XKxR&token=6N19EGMMmjzn",
+                        "quality": "Latino StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aY9kr8x6e9ixyzV&expires=1692431358&ip=F0OSKRSSDS9XKxR&token=6N19EGMMmjzn"
+                    }
+                ],
+                "passed": true
             }
         }
     }

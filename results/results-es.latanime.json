@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan-latino",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/bleach-sennen-kessen-hen-ketsubetsu-tan-latino-1692485656.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/jujutsu-kaisen-s2-castellano",
                                 "title": "Jujutsu Kaisen S2 Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/jujutsu-kaisen-s2-castellano-1692305959.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/eiyuu-kyoushitsu-latino",
                                 "title": "Eiyuu Kyoushitsu Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/eiyuu-kyoushitsu-latino-1688085556.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/bungo-stray-dogs-s5-latino",
-                                "title": "Bungo Stray Dogs S5 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/bungo-stray-dogs-s5-latino-1688085328.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,67 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jujutsu-kaisen-s2-castellano",
-                    "title": "Jujutsu Kaisen S2 Castellano",
-                    "description": "Segunda temporada de Jujutsu Kaisen.",
-                    "genre": "Acción, Fantasía, Shonen",
+                    "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan-latino",
+                    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan Latino",
+                    "description": "Segunda parte de Bleach: Sennen Kessen-Hen.",
+                    "genre": "Acción, Aventura, Fantasía, Shonen",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/jujutsu-kaisen-s2-castellano-episodio-1",
-                        "name": "Jujutsu Kaisen S2 Castellano Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=5&sig=_PiAEfpg9KI&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=5&sig=_PiAEfpg9KI&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855"
-                    },
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxu5qxkz3b4quuo6wqesikqiuxtyftbhykmnappvj2qdcftegqtjmpns4lrfn7mtovfzcfq/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxu5qxkz3b4quuo6wqesikqiuxtyftbhykmnappvj2qdcftegqtjmpns4lrfn7mtovfzcfq/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=3&sig=VI6QGwdf-tw&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=3&sig=VI6QGwdf-tw&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855"
-                    },
-                    {
-                        "url": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=2&sig=KxE_cgtfE7s&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=2&sig=KxE_cgtfE7s&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855"
-                    },
-                    {
-                        "url": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=1&sig=8oleOpZD4XA&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=1&sig=8oleOpZD4XA&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855"
-                    },
-                    {
-                        "url": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=0&sig=6Q5AGNKcLQg&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=0&sig=6Q5AGNKcLQg&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855"
-                    },
-                    {
-                        "url": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=4&sig=7DID7qsmtxw&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://vd448.mycdn.me/?expires=1692555242780&srcIp=13.83.44.115&pr=10&srcAg=CHROME&ms=185.226.52.35&type=4&sig=7DID7qsmtxw&ct=0&urls=45.136.20.43&clientType=0&zs=43&id=4962728413855"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/fireman.html",
+                                "title": "Fireman",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2021/09/fireman-1973-thumb.png"
+                            },
+                            {
                                 "url": "/watch/ohsama-sentai-king-ohger.html",
                                 "title": "Ohsama Sentai King-Ohger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/armored-saurus.html",
                                 "title": "Armored Saurus",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/armored-saurus-thumb.png"
-                            },
-                            {
-                                "url": "/watch/sukeban-deka-iii-shojo-ninpo-cho-denki.html",
-                                "title": "Sukeban Deka III: Shojo Ninpo-cho Denki",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sukeban-deka-iii-shojo-ninpo-cho-denki-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,10 +144,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/ohsama-sentai-king-ohger.html",
-                    "author": "Year 2023",
-                    "description": "Ohsama Sentai King-Ohger (王様戦隊キングオージャー, Ōsama Sentai Kinguōjā, Kingship Squadron King-Ohger) is an upcoming Japanese tokusatsu television drama, the 47th installment in Toei Company’s long-running Super Sentai series and the fourth produced in the Reiwa era. This series is the first in the franchise where all of the main characters have an insect motif.",
-                    "genre": "Series",
+                    "url": "/watch/fireman.html",
+                    "author": "Year 1973",
+                    "description": "Fireman is a Japanese tokusatsu television series about a superhero, the title character, who fights kaiju and other villains. Produced by Tsuburaya Productions, the show was broadcast on Nippon Television from January 7 to July 31, 1973, with a total of 30 episodes. This was also one of several shows Tsuburaya did to celebrate the company’s 10th anniversary (the other two being Ultraman Taro and Jumborg Ace).",
+                    "genre": "Other",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -157,14 +157,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=25#watch",
-                        "name": "Episode 25",
-                        "episode_number": 25.0
+                        "url": "/watch/fireman.html?ep=29#watch",
+                        "name": "Episode 29",
+                        "episode_number": 29.0
                     },
                     {
-                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=24#watch",
-                        "name": "Episode 24",
-                        "episode_number": 24.0
+                        "url": "/watch/fireman.html?ep=28#watch",
+                        "name": "Episode 28",
+                        "episode_number": 28.0
                     }
                 ],
                 "passed": true
@@ -172,39 +172,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls24-eu.zcdn.stream/e0441921bdeb9d78013d1f1cc5889ea9/2023-08-20/1080.m3u8?token=bea3756e15d40bde7e4f1c3443de600d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692607824&type=edge&node=PLf_oSKkXVxNzcs1zk8NDBcasX-A5Sqccch2iQaXxQFzQkp2irPvQKQTTUWu7LVkqUSOHvDpLRYDktSEWUx7Z22KPquhewCl9-NtxfGx7vjI0jwaW5lSZVvfXXWP9c5OVXx4RNqNVvckzJXrWS7t7BHO86y1l9hwwR4ojXNsKq1XHVeH4B8JPRJnaVuw7TG1",
-                        "quality": "Chillx - 1080p",
-                        "videoUrl": "https://hls24-eu.zcdn.stream/e0441921bdeb9d78013d1f1cc5889ea9/2023-08-20/1080.m3u8?token=bea3756e15d40bde7e4f1c3443de600d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692607824&type=edge&node=PLf_oSKkXVxNzcs1zk8NDBcasX-A5Sqccch2iQaXxQFzQkp2irPvQKQTTUWu7LVkqUSOHvDpLRYDktSEWUx7Z22KPquhewCl9-NtxfGx7vjI0jwaW5lSZVvfXXWP9c5OVXx4RNqNVvckzJXrWS7t7BHO86y1l9hwwR4ojXNsKq1XHVeH4B8JPRJnaVuw7TG1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    },
-                    {
-                        "url": "https://hls24-eu.zcdn.stream/e0441921bdeb9d78013d1f1cc5889ea9/2023-08-20/720.m3u8?token=bea3756e15d40bde7e4f1c3443de600d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692607824&type=edge&node=PLf_oSKkXVxNzcs1zk8NDBcasX-A5Sqccch2iQaXxQFzQkp2irPvQKQTTUWu7LVkqUSOHvDpLRYDktSEWUx7Z22KPquhewCl9-NtxfGx7vjI0jwaW5lSZVvfXXWP9c5OVXx4RNqNVvckzJXrWS7t7BHO86y1l9hwwR4ojXNsKq1XHVeH4B8JPRJnaVuw7TG1",
-                        "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls24-eu.zcdn.stream/e0441921bdeb9d78013d1f1cc5889ea9/2023-08-20/720.m3u8?token=bea3756e15d40bde7e4f1c3443de600d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692607824&type=edge&node=PLf_oSKkXVxNzcs1zk8NDBcasX-A5Sqccch2iQaXxQFzQkp2irPvQKQTTUWu7LVkqUSOHvDpLRYDktSEWUx7Z22KPquhewCl9-NtxfGx7vjI0jwaW5lSZVvfXXWP9c5OVXx4RNqNVvckzJXrWS7t7BHO86y1l9hwwR4ojXNsKq1XHVeH4B8JPRJnaVuw7TG1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    },
-                    {
-                        "url": "https://hls24-eu.zcdn.stream/e0441921bdeb9d78013d1f1cc5889ea9/2023-08-20/360.m3u8?token=bea3756e15d40bde7e4f1c3443de600d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692607824&type=edge&node=PLf_oSKkXVxNzcs1zk8NDBcasX-A5Sqccch2iQaXxQFzQkp2irPvQKQTTUWu7LVkqUSOHvDpLRYDktSEWUx7Z22KPquhewCl9-NtxfGx7vjI0jwaW5lSZVvfXXWP9c5OVXx4RNqNVvckzJXrWS7t7BHO86y1l9hwwR4ojXNsKq1XHVeH4B8JPRJnaVuw7TG1",
-                        "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls24-eu.zcdn.stream/e0441921bdeb9d78013d1f1cc5889ea9/2023-08-20/360.m3u8?token=bea3756e15d40bde7e4f1c3443de600d&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692607824&type=edge&node=PLf_oSKkXVxNzcs1zk8NDBcasX-A5Sqccch2iQaXxQFzQkp2irPvQKQTTUWu7LVkqUSOHvDpLRYDktSEWUx7Z22KPquhewCl9-NtxfGx7vjI0jwaW5lSZVvfXXWP9c5OVXx4RNqNVvckzJXrWS7t7BHO86y1l9hwwR4ojXNsKq1XHVeH4B8JPRJnaVuw7TG1",
+                        "url": "https://hls26-eu.zcdn.stream/0dcc6566a9d087e83d47bb2e1089e4a9/2023-08-21/480.m3u8?token=8aab83713f43ed51b786bd3a98828ebc&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692627307&type=edge&node=1Ix1yLLo1rEwtJ5k0wNo03hVSD41HrE8VpYo2HXF0K03-qVg__8fegfap3-yQGKbd0DO26IQAoSKZrG8Vi_SyvfNaVuN2LGj_SkViU8E18ybwvc2uldPr3KnR5G7yc_H7Y-7qbFbljKQ1JGwMjlxY79X-3dqJbnBeN-ZTuSpEnvDmeQrkb_UOYVLjEn4eIjg",
+                        "quality": "Chillx - 480p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/0dcc6566a9d087e83d47bb2e1089e4a9/2023-08-21/480.m3u8?token=8aab83713f43ed51b786bd3a98828ebc&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1692627307&type=edge&node=1Ix1yLLo1rEwtJ5k0wNo03hVSD41HrE8VpYo2HXF0K03-qVg__8fegfap3-yQGKbd0DO26IQAoSKZrG8Vi_SyvfNaVuN2LGj_SkViU8E18ybwvc2uldPr3KnR5G7yc_H7Y-7qbFbljKQ1JGwMjlxY79X-3dqJbnBeN-ZTuSpEnvDmeQrkb_UOYVLjEn4eIjg",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "Accept": "*/*",

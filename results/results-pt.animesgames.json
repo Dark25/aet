@@ -123,8 +123,14 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -158,8 +164,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<!DOCTYPE html><html lang=",
+                        "quality": "Unknown",
+                        "videoUrl": "<!DOCTYPE html><html lang=",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "Referer": "https://animesgames.net",
+                            "Origin": "https://animesgames.net"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

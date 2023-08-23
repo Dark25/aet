@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/brqhi9sngqyy",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-qqwqzwrjm1uwlim6.voe-network.net/engine/hls2/01/09407/brqhi9sngqyy_,n,.urlset/master.m3u8?t=erDmMMIm34gNJCpIHt1ViCRIWeSGtdCMtE-e_8cW2KM&s=1692793407&e=14400&f=47035677&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=13.64&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-8kdsssyupy6hhinm.voe-network.net/engine/hls2-c/01/09407/brqhi9sngqyy_,n,.urlset/master.m3u8?t=7cXzgQPC8AkKGd6STh6krxbuDf67MVVcEPByZ80gKSQ&s=1692814450&e=14400&f=47035677&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=13.87&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=LOgeR9aXqafR2k8&expires=1692863405&ip=F0AsERqnDS9X&token=-aIQnt9dRG0w",
+                        "url": "https://streamtape.com/get_video?id=LOgeR9aXqafR2k8&expires=1692884448&ip=F0AsFxEnDS9X&token=rit9O6WQ-ll5",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LOgeR9aXqafR2k8&expires=1692863405&ip=F0AsERqnDS9X&token=-aIQnt9dRG0w"
+                        "videoUrl": "https://streamtape.com/get_video?id=LOgeR9aXqafR2k8&expires=1692884448&ip=F0AsFxEnDS9X&token=rit9O6WQ-ll5"
                     },
                     {
                         "url": "https://voe.sx/e/brqhi9sngqyy",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-qqwqzwrjm1uwlim6.voe-network.net/engine/hls2/01/09407/brqhi9sngqyy_,n,.urlset/master.m3u8?t=erDmMMIm34gNJCpIHt1ViCRIWeSGtdCMtE-e_8cW2KM&s=1692793407&e=14400&f=47035677&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=13.64&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-8kdsssyupy6hhinm.voe-network.net/engine/hls2-c/01/09407/brqhi9sngqyy_,n,.urlset/master.m3u8?t=7cXzgQPC8AkKGd6STh6krxbuDf67MVVcEPByZ80gKSQ&s=1692814450&e=14400&f=47035677&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=13.87&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -890,14 +890,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/harka/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

@@ -323,7 +323,7 @@
                 "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html>\n<head>\n.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....ry for any inconvenience caused.\n</p>\n</div>\n</body>\n</html>",
                 "passed": false
             },
             "details": {

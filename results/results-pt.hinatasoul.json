@@ -37,6 +37,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/276744",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276744/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276741",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega ep 9",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276741/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276739",
+                                "title": "Temple ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276739/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276734",
+                                "title": "Horimiya: Piece ep 9",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276734/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276731",
+                                "title": "Liar Liar ep 9",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276731/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276730",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276730/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276729",
+                                "title": "Level 1 dakedo Unique Skill de Saikyou desu - Dublado ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276729/1.jpg"
+                            },
+                            {
+                                "url": "/videos/276726",
+                                "title": "Level 1 dakedo Unique Skill de Saikyou desu ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276726/1.jpg"
+                            },
+                            {
                                 "url": "/videos/276720",
                                 "title": "Shadowverse Flame: Seven Shadows-hen ep 8",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276720/1.jpg"
@@ -155,46 +195,6 @@
                                 "url": "/videos/276576",
                                 "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - Dublado ep 5",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276576/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276573",
-                                "title": "Bungou Stray Dogs 5 - Dublado ep 4",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276573/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276569",
-                                "title": "Undead Girl Murder Farce ep 8",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276569/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276565",
-                                "title": "Shiro Seijo to Kuro Bokushi ep 7",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276565/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276561",
-                                "title": "Niehime to Kemono no Ou ep 19",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276561/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276557",
-                                "title": "Watashi no Shiawase na Kekkon - Dublado ep 8",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276557/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276544",
-                                "title": "Watashi no Shiawase na Kekkon ep 8",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276544/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276543",
-                                "title": "Bungou Stray Dogs 5 ep 7",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276543/1.jpg"
-                            },
-                            {
-                                "url": "/videos/276539",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou ep 8",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/276539/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -348,44 +348,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/263139",
-                        "name": "Naruto Shippuden ep 500 - FINAL",
-                        "date_upload": 1490259240000,
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/videos/249788",
-                        "name": "Naruto Shippuden ep 499",
-                        "date_upload": 1525478400000,
-                        "episode_number": 499.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             }
         }
     }

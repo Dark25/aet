@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Pokemon-Horizons-The-Series/",
+                                "title": "Pokémon Horizons: The Series",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Pokemon-Horizons-The-Series.jpg"
+                            },
+                            {
+                                "url": "/Anime/Shadowverse-Flame-Seven-Shadows-Arc/",
+                                "title": "Shadowverse Flame: Seven Shadows Arc",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Shadowverse-Flame-Seven-Shadows-Arc.jpg"
+                            },
+                            {
+                                "url": "/Anime/cardfight-vanguard-will-dress-season-3.73597/",
+                                "title": "Cardfight!! Vanguard will+Dress Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Cardfight-Vanguard-will-Dress-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/Nanatsu-no-Maken-ga-Shihai-Suru/",
+                                "title": "Reign of the Seven Spellblades",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Reign-of-the-Seven-Spellblades.jpg"
+                            },
+                            {
+                                "url": "/Anime/Sugar-Apple-Fairy-Tale-Season-2/",
+                                "title": "Sugar Apple Fairy Tale Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Sugar-Apple-Fairy-Tale-Season-2.jpg"
+                            },
+                            {
                                 "url": "/Anime/the-most-heretical-last-boss-queen-from-villainess-to-savior.92873/",
                                 "title": "The Most Heretical Last Boss Queen: from Villainess to Savior",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/The-Most-Heretical-Last-Boss-Queen-from-Villainess-to-Savior.jpg"
@@ -490,31 +515,6 @@
                                 "url": "/Anime/Rent-a-Girlfriend-Season-3-Dub/",
                                 "title": "Rent-a-Girlfriend Season 3 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Rent-a-Girlfriend-Season-3-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/MASHLE-MAGIC-AND-MUSCLES-Dub/",
-                                "title": "MASHLE: MAGIC AND MUSCLES (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/MASHLE-MAGIC-AND-MUSCLES-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Reign-of-the-Seven-Spellblades-Dub/",
-                                "title": "Reign of the Seven Spellblades (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Reign-of-the-Seven-Spellblades-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chibi-Maruko-chan/",
-                                "title": "Little Miss Maruko",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/12/Chibi-Maruko-chan.jpg"
-                            },
-                            {
-                                "url": "/Anime/yugioh-go-rush.59521/",
-                                "title": "Yu☆Gi☆Oh! Go Rush!!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/04/YuGiOh-Go-Rush.jpg"
-                            },
-                            {
-                                "url": "/Anime/Eiyuu-Kyoushitsu/",
-                                "title": "Classroom for Heroes",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Classroom-for-Heroes.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -523,8 +523,14 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {

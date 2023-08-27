@@ -3,85 +3,19 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-geats.html",
-                                "title": "Kamen Rider Geats",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-thumb.png"
-                            },
-                            {
-                                "url": "/watch/voltes-v-legacy.html",
-                                "title": "Voltes V: Legacy",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
-                            },
-                            {
-                                "url": "/watch/daitetsujin-17.html",
-                                "title": "Daitetsujin 17",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/daitetsujin-17-thumb.png"
-                            },
-                            {
-                                "url": "/watch/fireman.html",
-                                "title": "Fireman",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2021/09/fireman-1973-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger-the-secrets-of-king-racules.html",
-                                "title": "Ohsama Sentai King-Ohger: The Secrets of King Racules",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-the-secrets-of-king-racules-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-geats-check-it-an-all-boy-desire-grand-prix-ill-be-the-king.html",
-                                "title": "Kamen Rider Geats: Check it?! An All-Boy Desire Grand Prix! I’ll Be the King!",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-check-it-an-all-boy-desire-grand-prix-ill-be-the-king-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ninpu-sentai-hurricaneger-degozaru-shushuuto-20th-anniversary.html",
-                                "title": "Ninpu Sentai Hurricaneger Degozaru! Shushuuto 20th Anniversary",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninpu-sentai-hurricaneger-degozaru-shushuuto-20th-anniversary-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/armored-saurus-season-2.html",
-                                "title": "Armored Saurus Season 2",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/armored-saurus-season-2-thumb.png"
-                            },
-                            {
-                                "url": "/watch/x-bomber-star-fleet.html",
-                                "title": "X-Bomber – Star Fleet",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/x-bomber-star-fleet-thumb.png"
-                            },
-                            {
-                                "url": "/watch/uchuu-tetsujin-kyodyne.html",
-                                "title": "Uchuu Tetsujin Kyodyne",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/uchuu-tetsujin-kyodyne-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {

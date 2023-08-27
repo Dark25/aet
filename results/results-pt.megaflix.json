@@ -318,15 +318,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                    "title": "Guardiões da Galáxia: Vol. 3",
-                    "description": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
-                    "genre": "Ação, Aventura, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -339,19 +332,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693186953&ip=FROsExSnDS9X&token=n4ES_db1lLhn",
-                        "quality": "StreamTape - Legendado",
-                        "videoUrl": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693186953&ip=FROsExSnDS9X&token=n4ES_db1lLhn"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693186951&ip=FROsExSnDS9X&token=UApAdnmFwv_1",
-                        "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693186951&ip=FROsExSnDS9X&token=UApAdnmFwv_1"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

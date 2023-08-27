@@ -3,12 +3,214 @@
         "name": "Anime Srbija (SR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/naruto-shippuuden",
+                                "title": "Naruto: Shippuuden",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/1735.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/naruto",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/20.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/boruto-naruto-next-generations",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/34566.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/bleach",
+                                "title": "Bleach",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/269.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/black-clover",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/34572.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/hunter-x-hunter-2011",
+                                "title": "Hunter x Hunter (2011)",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/11061.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51019.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/blue-lock",
+                                "title": "Blue Lock",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/49596.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/tokyo-revengers-seiya-kessen-hen",
+                                "title": "Tokyo Revengers: Seiya Kessen-hen",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/50608.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba",
+                                "title": "Kimetsu no Yaiba",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/38000.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/vinland-saga-season-2",
+                                "title": "Vinland Saga Season 2",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/49387.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/dragon-ball-z",
+                                "title": "Dragon Ball Z",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/813.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/40748.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-6th-season",
+                                "title": "Boku no Hero Academia 6th Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/49918.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/shingeki-no-kyojin",
+                                "title": "Shingeki no Kyojin",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/16498.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/jigokuraku",
+                                "title": "Jigokuraku",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/46569.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/monster",
+                                "title": "Monster",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/19.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/hanma-baki-son-of-ogre-2nd-season",
+                                "title": "Hanma Baki: Son of Ogre 2nd Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51318.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/dragon-ball-super",
+                                "title": "Dragon Ball Super",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/30694.jpg&w=1080&q=75"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/53998.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/yumemiru-danshi-wa-genjitsushugisha",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/53632.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/watashi-no-shiawase-na-kekkon",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51552.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/sugar-apple-fairy-tale-part-2",
+                                "title": "Sugar Apple Fairy Tale Part 2",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/54842.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/hanma-baki-son-of-ogre-2nd-season",
+                                "title": "Hanma Baki: Son of Ogre 2nd Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51318.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/suki-na-ko-ga-megane-wo-wasureta",
+                                "title": "Suki na Ko ga Megane wo Wasureta",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/54234.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/masamune-kun-no-revenge-r",
+                                "title": "Masamune-kun no Revenge R",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51498.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/otonari-ni-ginga",
+                                "title": "Otonari ni Ginga",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51705.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/kanata-no-astra",
+                                "title": "Kanata no Astra",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/39198.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta",
+                                "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/52830.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/54760.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/ai-no-idenshi",
+                                "title": "AI no Idenshi",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/53787.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=https://cdn.myanimelist.net/images/anime/1898/138005.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/48417.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/jitsu-wa-ore-saikyou-deshita",
+                                "title": "Jitsu wa Ore, Saikyou deshita?",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/52969.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/edens-zero-2nd-season",
+                                "title": "Edens Zero 2nd Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/50002.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/pokemon-shinsaku-anime",
+                                "title": "Pokemon (2023)",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/53876.jpeg&w=1080&q=75"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -122,14 +324,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dr-stone-new-world",
-                    "title": "Dr. Stone: New World",
-                    "artist": "TMS Entertainment",
-                    "description": "Sezona: Proleće 2023\nDatum: Apr 6, 2023 to Jun 15, 2023\n\n\nTreća sezona serijala Dr. Stone.",
-                    "genre": "Avantura, Komedija, Naučna fantastika, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/48549.jpeg&w=1080&q=75",
+                    "url": "/anime/one-piece",
+                    "title": "One Piece",
+                    "artist": "Toei Animation",
+                    "description": "Sezona: Jesen 1999\nDatum: Nepoznato\n\n\nGol D. Rodžer, poznatiji kao \"Kralj pirata\", bio je najsnažnije i najozloglašenije biće koje je oplovilo Veličanstvenu liniju. Njegovim hapšenjem i pogubljenjem, Svetska vlada je uzrokovala promene širom sveta. Rodžerove poslednje reči otkrile su postojanje najvećeg blaga na svetu, One Piece-a. I upravo to saznanje dovelo je do Velike ere pirata. Ljudi su se dali u potragu poneseni snovima o beskrajnom bogatstvu i slavi, a vrlo moguće, i tituli Kralja pirata. \n\nTu se pojavljuje sedamnaestogodišnji Manki D. Lufi, dečak koji ni po čemu ne podseća na klasičnog pirata. Za razliku od uobičajenih zlih pirata, koji samo žele da pljačkaju i uništavaju sela iz zabave, Lufija privlači pustolovina: pomisao na uzbudljive avanture koje vode do mnoštva zanimljivih susreta, i na kraju, naravno, do obećanog blaga. Idući stopama svog heroja iz detinjstva, Lufi i njegova posada plove Veličanstvenom linijom, proživljavaju neopisive avanture, rešavaj mračne misterije i bore se sa moćnim neprijateljima, sve kako bi došli do čuvenog blaga — One Piece-a! ",
+                    "genre": "Akcija, Avantura, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75",
                     "initialized": true
                 },
                 "passed": true
@@ -137,14 +339,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/epizoda/dr-stone-new-world-epizoda-11",
-                        "name": "Epizoda 11",
-                        "episode_number": 11.0
+                        "url": "/epizoda/one-piece-epizoda-1073",
+                        "name": "Epizoda 1073",
+                        "episode_number": 1073.0
                     },
                     {
-                        "url": "/epizoda/dr-stone-new-world-epizoda-10",
-                        "name": "Epizoda 10",
-                        "episode_number": 10.0
+                        "url": "/epizoda/one-piece-epizoda-1072",
+                        "name": "Epizoda 1072",
+                        "episode_number": 1072.0
                     }
                 ],
                 "passed": true
@@ -152,16 +354,16 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaDrStone/xsaDrStoneS3 - 11/xsaDrStoneS3 - 11_blaze.m3u8",
+                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1073/xsaOP - 1073_blaze.m3u8",
                         "quality": "Internal Player",
-                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaDrStone/xsaDrStoneS3 - 11/xsaDrStoneS3 - 11_blaze.m3u8"
+                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1073/xsaOP - 1073_blaze.m3u8"
                     },
                     {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04052/febvlo8ixab4_x/index-v1-a1.m3u8?t=lxMH5sXS5Ho0MDshJqfo-hU0Oh6u2Wn18G8zf2x5LxY&s=1693139312&e=43200&f=20263320&srv=20&asn=8075&sp=2500",
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/02/04426/s3gvgu6o6t1l_x/index-v1-a1.m3u8?t=893Sk_KZrf85bTt_PkBrex41NLNzCOPjrF12M13IuW8&s=1693160509&e=43200&f=22133544&srv=26&asn=8075&sp=2500",
                         "quality": "Filemoon - 1080p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04052/febvlo8ixab4_x/index-v1-a1.m3u8?t=lxMH5sXS5Ho0MDshJqfo-hU0Oh6u2Wn18G8zf2x5LxY&s=1693139312&e=43200&f=20263320&srv=20&asn=8075&sp=2500",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/02/04426/s3gvgu6o6t1l_x/index-v1-a1.m3u8?t=893Sk_KZrf85bTt_PkBrex41NLNzCOPjrF12M13IuW8&s=1693160509&e=43200&f=22133544&srv=26&asn=8075&sp=2500",
                         "headers": {
-                            "Referer": "https://filemoon.sx/e/febvlo8ixab4/xsaDrStoneS3_-_11",
+                            "Referer": "https://filemoon.sx/e/s3gvgu6o6t1l",
                             "Origin": "https://filemoon.sx"
                         }
                     }

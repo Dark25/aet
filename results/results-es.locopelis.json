@@ -3,11 +3,11 @@
         "name": "LocoPelis (ES)",
         "results": {
             "popular": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {

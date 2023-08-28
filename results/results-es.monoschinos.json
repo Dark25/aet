@@ -323,16 +323,51 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/spicy-girl-sub-espanol",
+                    "title": "Spicy Girl",
+                    "description": "Desde su infancia, Su Xiao siempre ha sido “atrevida”. Debido a su forma de ser, suele intimidar a los demás en su presencia, aunque esto no sea algo de lo que siempre esté orgullosa. Y eso significa que a menudo ha tenido problemas en cuanto a...",
+                    "genre": "Comedia, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/spicy-girl-1693090335.jpg?v=1.5",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/spicy-girl-episodio-32",
+                        "name": "Episodio 32",
+                        "episode_number": 32.0
+                    },
+                    {
+                        "url": "/ver/spicy-girl-episodio-31",
+                        "name": "Episodio 31",
+                        "episode_number": 31.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwx5si7kz3b4quuo6kqbgnizcimg22m4hd3fgeuplen44fdrcqyt2ibewlppari3jwuxl7lr/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwx5si7kz3b4quuo6kqbgnizcimg22m4hd3fgeuplen44fdrcqyt2ibewlppari3jwuxl7lr/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1693289901849&srcIp=13.87.244.151&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=OPLnUPJypws&ct=0&urls=185.226.52.38%3B185.226.53.25&clientType=0&zs=43&id=5008049769119",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1693289901849&srcIp=13.87.244.151&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=OPLnUPJypws&ct=0&urls=185.226.52.38%3B185.226.53.25&clientType=0&zs=43&id=5008049769119"
+                    }
+                ],
+                "passed": true
             }
         }
     }

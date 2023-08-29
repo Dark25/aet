@@ -39,65 +39,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/isekai-quartet-the-movie-another-world",
-                    "title": "ISEKAI QUARTET the Movie -Another World-",
-                    "genre": "Comedia, Fantasía, Isekai, Parodia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/isekai-quartet-the-movie-another-world-1",
-                        "name": "Episodio  1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv5.fireload.com/a65a9b37f3a3098d/Isekai_Q_Movie.mp4?download_token=ce1b4ff1c7ba3bb6193baedc95ab68ee93c778515595c79de57cd571f0b28526&fl=true",
-                        "quality": "FireLoad",
-                        "videoUrl": "https://srv5.fireload.com/a65a9b37f3a3098d/Isekai_Q_Movie.mp4?download_token=ce1b4ff1c7ba3bb6193baedc95ab68ee93c778515595c79de57cd571f0b28526&fl=true"
-                    },
-                    {
-                        "url": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=3&sig=9wMnIukpsoc&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=3&sig=9wMnIukpsoc&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367"
-                    },
-                    {
-                        "url": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=2&sig=6pTyg5_g8Pw&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=2&sig=6pTyg5_g8Pw&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367"
-                    },
-                    {
-                        "url": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=1&sig=Hql87wRz8i0&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=1&sig=Hql87wRz8i0&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367"
-                    },
-                    {
-                        "url": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=0&sig=1oaCRcvvx54&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=0&sig=1oaCRcvvx54&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367"
-                    },
-                    {
-                        "url": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=4&sig=laziCxSoUdo&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=4&sig=laziCxSoUdo&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367"
-                    },
-                    {
-                        "url": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=5&sig=pcNdMjBX5Lk&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd299.mycdn.me/?expires=1693398382375&srcIp=13.66.79.116&pr=10&srcAg=GECKO&ms=185.226.53.8&type=5&sig=pcNdMjBX5Lk&ct=0&urls=185.226.52.31&clientType=0&zs=43&id=3528970144367"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

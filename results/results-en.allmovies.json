@@ -3,8 +3,134 @@
         "name": "AllMoviesForYou (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/warrior/",
+                                "title": "Warrior",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg"
+                            },
+                            {
+                                "url": "/series/reservation-dogs/",
+                                "title": "Reservation Dogs",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/t6hqwD5oQRGgNrZKN71BQYxteC1.jpg"
+                            },
+                            {
+                                "url": "/series/ahsoka/",
+                                "title": "Ahsoka",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/laCJxobHoPVaLQTKxc14Y2zV64J.jpg"
+                            },
+                            {
+                                "url": "/series/the-winter-king/",
+                                "title": "The Winter King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fYx5q9hPAmbDrWzsYUDhxZJnigC.jpg"
+                            },
+                            {
+                                "url": "/series/painkiller/",
+                                "title": "Painkiller",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+                            },
+                            {
+                                "url": "/series/the-righteous-gemstones/",
+                                "title": "The Righteous Gemstones",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lbkYq13TM6b2nM33fxQDVs210J0.jpg"
+                            },
+                            {
+                                "url": "/series/killing-it/",
+                                "title": "Killing It",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hrGmUZ1t0N7xbT62qF9KS2m1dfA.jpg"
+                            },
+                            {
+                                "url": "/series/physical/",
+                                "title": "Physical",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xQ15eUOiYBYpSgTV8NAfmlcqT1P.jpg"
+                            },
+                            {
+                                "url": "/series/harley-quinn/",
+                                "title": "Harley Quinn",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/y4B3ixM1Y84i829HzIRPAMMFhsA.jpg"
+                            },
+                            {
+                                "url": "/series/heartstopper/",
+                                "title": "Heartstopper",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg"
+                            },
+                            {
+                                "url": "/series/top-boy-2/",
+                                "title": "Top Boy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cfqHWQQDwvKT8Xoe0AXzHBXcF1u.jpg"
+                            },
+                            {
+                                "url": "/series/good-omens/",
+                                "title": "Good Omens",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1ibIjP6puA4y2SfCn9icSehHrBu.jpg"
+                            },
+                            {
+                                "url": "/series/twisted-metal/",
+                                "title": "Twisted Metal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg"
+                            },
+                            {
+                                "url": "/series/minx/",
+                                "title": "Minx",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8m4ExDRn3oqZJI33mxKaZBjbf1v.jpg"
+                            },
+                            {
+                                "url": "/series/the-bear/",
+                                "title": "The Bear",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3MVHF64rlvH1eofKefIoazXwOK0.jpg"
+                            },
+                            {
+                                "url": "/series/foundation/",
+                                "title": "Foundation",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
+                            },
+                            {
+                                "url": "/series/all-american-homecoming/",
+                                "title": "All American: Homecoming",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6kehchi6qhbVmBQq6AJjWuLmOOA.jpg"
+                            },
+                            {
+                                "url": "/series/black-mirror/",
+                                "title": "Black Mirror",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
+                            },
+                            {
+                                "url": "/series/top-boy/",
+                                "title": "Top Boy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qp0M2rt56S2gayLqx3SRV70Vv3N.jpg"
+                            },
+                            {
+                                "url": "/series/hijack/",
+                                "title": "Hijack",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
+                            },
+                            {
+                                "url": "/series/joe-pickett/",
+                                "title": "Joe Pickett",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pWBCwK0lp5RLCyG89JzrhEVny47.jpg"
+                            },
+                            {
+                                "url": "/series/secret-invasion/",
+                                "title": "Secret Invasion",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5rhoPzWGVSsqONBkNbAkMZULNoq.jpg"
+                            },
+                            {
+                                "url": "/series/the-flash/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg"
+                            },
+                            {
+                                "url": "/series/barry/",
+                                "title": "Barry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -138,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/worlds-best/",
-                    "title": "World's Best",
-                    "author": "Roshan Sethi, Timothy Visentin",
-                    "description": "Twelve-year-old mathematics genius Prem discovers his recently deceased father was a famous rapper and immediately sets out to learn more about his father’s life and passions. Empowered by imaginative hip-hop music-fueled fantasies, Prem is determined to find out if hip-hop truly is in his DNA.",
-                    "genre": "Comedy, Family, Music",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/warrior/",
+                    "title": "Warrior",
+                    "author": "Jonathan Tropper",
+                    "description": "A gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco’s Chinatown in the second half of the 19th century. The series follows Ah Sahm, a martial arts prodigy who immigrates from China to San Francisco under mysterious circumstances, and becomes a hatchet man for one of Chinatown’s most powerful tongs.",
+                    "genre": "Action & Adventure, Crime, Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -152,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/worlds-best/",
-                        "name": "World's Best",
-                        "episode_number": 1.0
+                        "url": "/episode/warrior-3x10/",
+                        "name": "Season 3x10 : A Window of F*cking Opportunity",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/episode/warrior-3x9/",
+                        "name": "Season 3x9 : All of Death Is a Going Home",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -162,9 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://v807.streamhub.ink/hls/sc6t7adwwqytnuzvouks5mjau6hs7nn3mfizgrvtlwyxb5wbhwquuezft3pa/index-v1-a1.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://v807.streamhub.ink/hls/sc6t7adwwqytnuzvouks5mjau6hs7nn3mfizgrvtlwyxb5wbhwquuezft3pa/index-v1-a1.m3u8"
+                        "url": "https://v9b2140ec5.streamhub.ink/hls/sc6t6bxqwaytnuzvoxms54bgutjclrdhy32r5nmfzbrizpss4o6o5nrpl2ba/index-v1-a1.m3u8",
+                        "quality": "640p",
+                        "videoUrl": "https://v9b2140ec5.streamhub.ink/hls/sc6t6bxqwaytnuzvoxms54bgutjclrdhy32r5nmfzbrizpss4o6o5nrpl2ba/index-v1-a1.m3u8"
                     }
                 ],
                 "passed": true

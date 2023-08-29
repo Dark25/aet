@@ -300,59 +300,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s104.akw.onl/download/1693356704/64ed412025ed0/Indiana.Jones.and.the.Dial.of.Destiny.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s104.akw.onl/download/1693356704/64ed412025ed0/Indiana.Jones.and.the.Dial.of.Destiny.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s103.akw.onl/download/1693356704/64ed41204ebf2/Indiana.Jones.and.the.Dial.of.Destiny.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s103.akw.onl/download/1693356704/64ed41204ebf2/Indiana.Jones.and.the.Dial.of.Destiny.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s323d1.akdl.link/download/1693356704/64ed41207a6ba/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s323d1.akdl.link/download/1693356704/64ed41207a6ba/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s318d1.akdl.link/download/1693356704/64ed4120a7f0e/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s318d1.akdl.link/download/1693356704/64ed4120a7f0e/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s315d2.akdl.link/download/1693356704/64ed4120cffb5/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s315d2.akdl.link/download/1693356704/64ed4120cffb5/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s205d2.akdl.link/download/1693356705/64ed412108752/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s205d2.akdl.link/download/1693356705/64ed412108752/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1693356705/64ed41213416f/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1693356705/64ed41213416f/Indiana.Jones.and.the.Dial.of.Destiny.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s203d1.akdl.link/download/1693356705/64ed41215aadf/Indiana.Jones.and.the.Dial.of.Destiny.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s203d1.akdl.link/download/1693356705/64ed41215aadf/Indiana.Jones.and.the.Dial.of.Destiny.2023.480p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s315d1.akdl.link/download/1693356705/64ed41218b5aa/Indiana.Jones.and.the.Dial.of.Destiny.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s315d1.akdl.link/download/1693356705/64ed41218b5aa/Indiana.Jones.and.the.Dial.of.Destiny.2023.480p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s205d2.akdl.link/download/1693356705/64ed4121b32aa/Indiana.Jones.and.the.Dial.of.Destiny.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s205d2.akdl.link/download/1693356705/64ed4121b32aa/Indiana.Jones.and.the.Dial.of.Destiny.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

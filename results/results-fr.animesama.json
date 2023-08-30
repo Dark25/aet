@@ -164,8 +164,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/b1f511521891220e0b2da22ab06ee1ea/5198318.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/b1f511521891220e0b2da22ab06ee1ea/5198318.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5198318"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

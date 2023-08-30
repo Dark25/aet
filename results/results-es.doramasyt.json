@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/isla-latino-sub-espanol",
+                                "title": "Isla Latino",
+                                "description": "Isla Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/isla-latino-1693356052.jpg"
+                            },
+                            {
+                                "url": "/dorama/a-la-caza-de-espiritus-malignos-sub-espanol",
+                                "title": "A la caza de espíritus malignos Latino",
+                                "description": "A la caza de espíritus malignos Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/a-la-caza-de-espiritus-malignos-1693348719.jpg"
+                            },
+                            {
+                                "url": "/dorama/midsummer-is-full-of-love-sub-espanol",
+                                "title": "Midsummer is Full of Love",
+                                "description": "Midsummer is Full of Love",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/midsummer-is-full-of-love-1693337761.jpg"
+                            },
+                            {
+                                "url": "/dorama/love-in-taipei-sub-espanol",
+                                "title": "Love in Taipei",
+                                "description": "Love in Taipei",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-in-taipei-1693334424.jpg"
+                            },
+                            {
                                 "url": "/dorama/noches-de-verano-en-taipei-latino-sub-espanol",
                                 "title": "Noches de verano en Taipéi Latino",
                                 "description": "Noches de verano en Taipéi Latino",
@@ -161,30 +185,6 @@
                                 "title": "Mask Girl",
                                 "description": "Mask Girl",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/mask-girl-1692909367.jpg"
-                            },
-                            {
-                                "url": "/dorama/behind-your-touch-sub-espanol",
-                                "title": "Behind Your Touch",
-                                "description": "Behind Your Touch",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/behind-your-touch-1692889908.jpg"
-                            },
-                            {
-                                "url": "/dorama/moment-of-eighteen-sub-espanol",
-                                "title": "Moment of Eighteen",
-                                "description": "Moment of Eighteen",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/moment-of-eighteen-1692887057.jpg"
-                            },
-                            {
-                                "url": "/dorama/lighthouse-sub-espanol",
-                                "title": "Lighthouse",
-                                "description": "Lighthouse",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/lighthouse-1692884775.jpg"
-                            },
-                            {
-                                "url": "/dorama/un-amor-predestinado-latino-sub-espanol",
-                                "title": "Un amor predestinado Latino",
-                                "description": "Un amor predestinado Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/un-amor-predestinado-latino-1692883849.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,12 +262,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/noches-de-verano-en-taipei-latino-sub-espanol",
-                    "title": "Noches de verano en Taipéi Latino (Love in Taipei Audio Latino)",
-                    "description": "Ever Wong, de 18 años, es enviada desde Ohio a Taiwán para estudiar mandarín durante el verano, pero se convierte en una adolescente libre que asiste a una fiesta a la que los lugareños llaman \"Loveboat\". ",
-                    "genre": "Romance, Comedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/dorama/isla-latino-sub-espanol",
+                    "title": "Isla Latino (Island Audio Latino)",
+                    "description": "La actitud arrogante y egoísta de Won Mi Ho hace que su padre la destierre a la isla de Jeju. Sin que ella lo sepa, la isla es el lugar donde el mal campa a sus anchas. ",
+                    "genre": "Acción, Thriller, Fantasia, Aventuras, K-Drama, Suspenso",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -275,16 +275,45 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/noches-de-verano-en-taipei-latino-episodio-1",
-                        "name": "Episodio 1.0",
-                        "episode_number": 1.0
+                        "url": "/ver/isla-latino-episodio-3",
+                        "name": "Episodio 3.0",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver/isla-latino-episodio-2",
+                        "name": "Episodio 2.0",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd302.mycdn.me/?expires=1693443126703&srcIp=20.57.75.140&pr=10&srcAg=GECKO&ms=185.226.53.11&type=4&sig=CzRrAaKFNEg&ct=27&urls=185.226.52.22&clientType=0&zs=43&id=5023458986655",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd302.mycdn.me/?expires=1693443126703&srcIp=20.57.75.140&pr=10&srcAg=GECKO&ms=185.226.53.11&type=4&sig=CzRrAaKFNEg&ct=27&urls=185.226.52.22&clientType=0&zs=43&id=5023458986655"
+                    },
+                    {
+                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www4.mp4upload.com:183/d/rcx2et7kz3b4quuo6oqbajkpi5ahfpfivdwcpuqkqiryydyy7wfbocoviimcfb6kjdgcb4tk/video.mp4\"           \n           });\n            if (\"https://www4.mp4upload.com/i/02303/jwofk81ujvjx.jpg\") {\n             player.poster(\"https://www4.mp4upload.com/i/02303/jwofk81ujvjx.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/jwofk81ujvjx\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-jwofk81ujvjx.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"jwofk81ujvjx\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/jwofk81ujvjx\", \"_blank\");\n});   \n      ",
+                        "quality": "Upload",
+                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www4.mp4upload.com:183/d/rcx2et7kz3b4quuo6oqbajkpi5ahfpfivdwcpuqkqiryydyy7wfbocoviimcfb6kjdgcb4tk/video.mp4\"           \n           });\n            if (\"https://www4.mp4upload.com/i/02303/jwofk81ujvjx.jpg\") {\n             player.poster(\"https://www4.mp4upload.com/i/02303/jwofk81ujvjx.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/jwofk81ujvjx\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-jwofk81ujvjx.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"jwofk81ujvjx\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/jwofk81ujvjx\", \"_blank\");\n});   \n      ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://upload.com/"
+                        }
+                    },
+                    {
+                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
+                        "quality": "Upload",
+                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

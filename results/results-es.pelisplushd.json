@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/corazon-de-invictus",
+                                "title": "Corazón de Invictus (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/iGGCW0m5qQsIcwTwCMgJl36EqAD.jpg"
+                            },
+                            {
+                                "url": "/serie/3hz",
+                                "title": "3Hz (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg"
+                            },
+                            {
                                 "url": "/serie/king-the-land",
                                 "title": "King the Land (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/x1osLoAJ5NrethvokbqvnqTarxu.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/lol-last-one-laughing-colombia",
                                 "title": "LOL: Last One Laughing Colombia (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bo4UKcVWwX2T5HA5UsFXTXcoUsy.jpg"
-                            },
-                            {
-                                "url": "/serie/las-damas-primero-mujeres-en-el-hiphop",
-                                "title": "Las damas primero: Mujeres en el hiphop (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3M4smSvCOqLKN1FKG4pXLG64OlR.jpg"
-                            },
-                            {
-                                "url": "/serie/cadetes-de-mechas",
-                                "title": "Cadetes de mechas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/king-the-land",
-                    "title": "King the Land (2023)",
-                    "description": ".",
-                    "genre": "Comedia, Drama",
+                    "url": "/serie/corazon-de-invictus",
+                    "title": "Corazón de Invictus (2023)",
+                    "description": "Una visión exclusiva de los Juegos Invictus de 2022, el evento del príncipe Enrique que ayuda a miembros de las fuerzas armadas lesionados a curarse mediante el deporte..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/x1osLoAJ5NrethvokbqvnqTarxu.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iGGCW0m5qQsIcwTwCMgJl36EqAD.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/king-the-land/temporada/1/capitulo/12",
-                        "name": "T1 - E12: Episodio 12",
-                        "episode_number": 12.0
+                        "url": "/serie/corazon-de-invictus/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/serie/king-the-land/temporada/1/capitulo/11",
-                        "name": "T1 - E11: Episodio 11",
-                        "episode_number": 11.0
+                        "url": "/serie/corazon-de-invictus/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/tfwqjlbma8ey",
+                        "url": "https://voe.sx/e/nlkpqifec86a",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=xTGg-lbTCcacqxpF_-Gp0Umo4mkn2XLU_Hnw0QGK1Bc&s=1693484627&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.210&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09459/nlkpqifec86a_,n,.urlset/master.m3u8?t=lJf2mCtBgi8C6f-eKL3d8qjybPEYax_NsjnUxumasrs&s=1693505761&e=14400&f=47299171&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=20.57&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693554625&ip=F0OSKRSSDS9XKxR&token=1Ki64ndDJ4qt",
+                        "url": "https://streamtape.com/get_video?id=DX3q90emodSkXMw&expires=1693575760&ip=FROsE0EnDS9X&token=6Cg2JpM8hSdo",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693554625&ip=F0OSKRSSDS9XKxR&token=1Ki64ndDJ4qt"
+                        "videoUrl": "https://streamtape.com/get_video?id=DX3q90emodSkXMw&expires=1693575760&ip=FROsE0EnDS9X&token=6Cg2JpM8hSdo"
                     },
                     {
-                        "url": "https://voe.sx/e/tfwqjlbma8ey",
+                        "url": "https://voe.sx/e/nlkpqifec86a",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=xTGg-lbTCcacqxpF_-Gp0Umo4mkn2XLU_Hnw0QGK1Bc&s=1693484627&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.210&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09459/nlkpqifec86a_,n,.urlset/master.m3u8?t=lJf2mCtBgi8C6f-eKL3d8qjybPEYax_NsjnUxumasrs&s=1693505761&e=14400&f=47299171&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=20.57&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true

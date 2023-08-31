@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=f0YJ42yYh3tX5KaGgBFneSpHq5C8Jx-pqRZwfc09CJs&s=1693419360&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=52.226&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=h5MHrvAAQ_pgEHOtDy_VkDd0K9u21DqTJ7Bd-EvUbDo&s=1693443210&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.210&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693489358&ip=G0WsDRSPKxSHDN&token=Pc4uPWcP6N3c",
+                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693513209&ip=F0OSKRSSDS9XKxR&token=tQta19NGINyT",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693489358&ip=G0WsDRSPKxSHDN&token=Pc4uPWcP6N3c"
+                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693513209&ip=F0OSKRSSDS9XKxR&token=tQta19NGINyT"
                     },
                     {
                         "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=f0YJ42yYh3tX5KaGgBFneSpHq5C8Jx-pqRZwfc09CJs&s=1693419360&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=52.226&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=h5MHrvAAQ_pgEHOtDy_VkDd0K9u21DqTJ7Bd-EvUbDo&s=1693443210&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.210&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,16 +576,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/megalodon-2-la-fosa",
-                    "title": "Megalodón 2: La fosa (2023)",
-                    "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia. Secuela de 'The Meg' (2018).",
-                    "genre": "Acción, Ciencia ficción, Terror",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -610,6 +602,31 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/historias-de-familia/",
+                                "title": "Historias de Familia",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/historias-de-familia.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-musica-esta-servida-mau-y-ricky/",
+                                "title": "La música está servida: Mau y Ricky",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-musica-esta-servida-mau-y-ricky.jpg"
+                            },
+                            {
+                                "url": "/pelicula/jump/",
+                                "title": "Jump",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jump.jpg"
+                            },
+                            {
+                                "url": "/pelicula/crazy-samurai-musashi/",
+                                "title": "Crazy Samurai Musashi",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/crazy-samurai-musashi.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-gran-seduccion/",
+                                "title": "La gran seducción",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-gran-seduccion.jpg"
+                            },
                             {
                                 "url": "/pelicula/antigang-la-releve/",
                                 "title": "Antigang : La Relève",
@@ -684,31 +701,6 @@
                                 "url": "/pelicula/un-paso-adelante/",
                                 "title": "Un paso adelante",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/un-paso-adelante.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-guerrero-justo/",
-                                "title": "El Guerrero Justo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-guerrero-justo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/marca-de-vida/",
-                                "title": "Marca de vida",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/marca-de-vida.jpg"
-                            },
-                            {
-                                "url": "/pelicula/nato-0-el-origen-del-mal/",
-                                "title": "Nato 0. El origen del mal",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nato-0-el-origen-del-mal.jpg"
-                            },
-                            {
-                                "url": "/pelicula/plan-75/",
-                                "title": "Plan 75",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/plan-75.jpg"
-                            },
-                            {
-                                "url": "/pelicula/instituto-fraude-bs-high/",
-                                "title": "Instituto Fraude - BS High",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/instituto-fraude-bs-high.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -877,22 +869,13 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/antigang-la-releve/",
-                    "title": "Antigang : La Relève",
-                    "artist": "",
-                    "description": "",
-                    "genre": "Crimen, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/antigang-la-releve/",
+                        "url": "/pelicula/historias-de-familia/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

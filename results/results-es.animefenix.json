@@ -351,15 +351,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hanyo-no-yashahime",
-                    "title": "Hanyo no Yashahime",
-                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -379,19 +372,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/d74nkqQwCbAFZTlBv93w80HG3VL-87DryizyMQMP-KweJxFPc",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/o_s6BsFszeRxRA8WPqKO3Bu4Y3eAfbYgJlqWyacEYTseJxFPc",
                         "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/d74nkqQwCbAFZTlBv93w80HG3VL-87DryizyMQMP-KweJxFPc"
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/o_s6BsFszeRxRA8WPqKO3Bu4Y3eAfbYgJlqWyacEYTseJxFPc"
                     },
                     {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/ay7Uh0fs_1jX3rxnKsUPqcKRspEtI79vdvXlZRxPM1geJxFPc",
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/OL3esiMf0-1gyOOi8vNQxjJFVoZwTQ9bkINtA56eww4eJxFPc",
                         "quality": "Amazon ES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/ay7Uh0fs_1jX3rxnKsUPqcKRspEtI79vdvXlZRxPM1geJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/OL3esiMf0-1gyOOi8vNQxjJFVoZwTQ9bkINtA56eww4eJxFPc"
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwanxcrxgarorq3me2iduuugp7dqeyj/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwduiylsv6io34h5itn2sjlooukt6dn/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwanxcrxgarorq3me2iduuugp7dqeyj/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwduiylsv6io34h5itn2sjlooukt6dn/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://mp4upload.com/"

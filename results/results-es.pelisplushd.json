@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=h5MHrvAAQ_pgEHOtDy_VkDd0K9u21DqTJ7Bd-EvUbDo&s=1693443210&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.210&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=Mj6ee4UBlsXBzd5ynybdXKN2jDNZx9JTXZ9lciRujJQ&s=1693462584&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=20.39&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693513209&ip=F0OSKRSSDS9XKxR&token=tQta19NGINyT",
+                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693532583&ip=FROsDHcnDS9X&token=iFRo9fcwmC9F",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693513209&ip=F0OSKRSSDS9XKxR&token=tQta19NGINyT"
+                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693532583&ip=FROsDHcnDS9X&token=iFRo9fcwmC9F"
                     },
                     {
                         "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=h5MHrvAAQ_pgEHOtDy_VkDd0K9u21DqTJ7Bd-EvUbDo&s=1693443210&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.210&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=Mj6ee4UBlsXBzd5ynybdXKN2jDNZx9JTXZ9lciRujJQ&s=1693462584&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=20.39&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,8 +576,16 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/megalodon-2-la-fosa",
+                    "title": "Megalodón 2: La fosa (2023)",
+                    "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia. Secuela de 'The Meg' (2018).",
+                    "genre": "Acción, Ciencia ficción, Terror",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -869,8 +877,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/historias-de-familia/",
+                    "title": "Historias de Familia",
+                    "artist": "",
+                    "description": "",
+                    "genre": "Comedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

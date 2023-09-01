@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/9015/البعبع",
+                                "title": "البُعبُع",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/dRIxV.jpg"
+                            },
+                            {
+                                "url": "/movie/9014/blue-beetle",
+                                "title": "Blue Beetle",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/exnWR.jpg"
+                            },
+                            {
                                 "url": "/movie/9013/surongo",
                                 "title": "Surongo",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/0sdxA.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/movie/8990/dalva",
                                 "title": "Dalva",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/xGmzp.jpg"
-                            },
-                            {
-                                "url": "/movie/8989/the-strange-case-of-a-claustrophobic-ghost",
-                                "title": "The Strange Case of a Claustrophobic Ghost",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/MBpy0.jpg"
-                            },
-                            {
-                                "url": "/movie/8988/the-meg",
-                                "title": "The Meg",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/UPaCY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -279,11 +279,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/9013/surongo",
-                    "title": "Surongo",
-                    "author": "بنجلاديش",
-                    "description": "قصة الفيلم فيلم Surongo كهربائي بسيط يحيا حياة بسيطة في قريته يقع في حب فتاة ما ولهذا يتحول إلى الجريمة في سبيل إرضاء حبه",
-                    "genre": "PG13 اشراف عائلي, WEB-DL - 1080p, انتاج : بنجلاديش, غموض, دراما, جريمة",
+                    "url": "/movie/9015/البعبع",
+                    "title": "البُعبُع",
+                    "author": "مصر",
+                    "description": "قصة الفيلم فيلم البُعبُع تدور أحداث الفيلم في يوم واحد حول سلطان، وهو مجرم مخضرم تم الإفراج عنه من السجن، ليقوم بعدها بعملية تسليم آثار لصالح أحد التجار، لكنه يغدر بهم ويستولي على الآثار والأموال ويبلغ عنهم الشرطة، ويستعد للسفر خارج مصر، إلا أنه يفاجأ بظهور أبنائه الاثنان في منزلة القديم واللذان لم يكن يعلم عنهما شيء منذ ولادتهما، فيضطر الهروب بهما وسط هجوم إحدى العصابات عليه. نسخة مسربة وغير أصلية",
+                    "genre": "PG13 اشراف عائلي, HD - 1080p, انتاج : مصر, كوميدي",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -293,26 +293,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/9013/surongo",
+                        "url": "/movie/9015/البعبع",
                         "name": "مشاهدة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s207d1.akdl.link/download/1693592072/64f0d888c38e6/Surongo2023.1080P.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s207d1.akdl.link/download/1693592072/64f0d888c38e6/Surongo2023.1080P.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s208d1.akdl.link/download/1693592072/64f0d888f3725/Surongo2023.480P.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s208d1.akdl.link/download/1693592072/64f0d888f3725/Surongo2023.480P.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

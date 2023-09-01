@@ -339,19 +339,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693641050&ip=G0WsDRSPKxSHDN&token=jADh8yYw_cyO",
-                        "quality": "StreamTape - Legendado",
-                        "videoUrl": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693641050&ip=G0WsDRSPKxSHDN&token=jADh8yYw_cyO"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693641050&ip=G0WsDRSPKxSHDN&token=KLQ2f6Vq3KKl",
-                        "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693641050&ip=G0WsDRSPKxSHDN&token=KLQ2f6Vq3KKl"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

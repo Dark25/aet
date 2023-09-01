@@ -252,8 +252,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=XJplgDlbYvIB9Q&expires=1693662030&ip=FROsExcnDS9X&token=pm0b4SjRdWeN",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=XJplgDlbYvIB9Q&expires=1693662030&ip=FROsExcnDS9X&token=pm0b4SjRdWeN"
+                    },
+                    {
+                        "url": "https://generatesnitrosate.com/rzijplrp5x30?OFFSIDE.S01E39.Ger.Sub.AAC.720p.WebDL.x264-sync.mp4",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/09410/rzijplrp5x30_,n,.urlset/master.m3u8?t=mB8TMLZ0NJkh2YwpkvrUGrmhKFNx_Lp8SIIrVa8DbDs&s=1693592029&e=14400&f=47051424&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=20.49&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=DlVv18yzKDSk1wL&expires=1693662026&ip=FROsExcnDS9X&token=kNesbieotnVd",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=DlVv18yzKDSk1wL&expires=1693662026&ip=FROsExcnDS9X&token=kNesbieotnVd"
+                    },
+                    {
+                        "url": "https://generatesnitrosate.com/access/eyJpdiI6IlRlaExlNU5hZU1HOHhyZHdQc1NTZGc9PSIsInZhbHVlIjoiK3F6Q0xTTUdIZS9heTQvbGlsVGtlWUpGaWFuMnJtL1JXSGVjS1lnVDBHdFBpQzA1SUhRYVVsTHVEL3J1cStkNmFUU1YwNkZaNFBOeFhYeERMMU15Q3c9PSIsIm1hYyI6IjY4NzNiZjVkMGI3NjgwMTg2MjNkNGY4NzgzZDA1NjJjMmQ4OWFmODUxMzhhYWQ0YTBmMTdmZTZjMTk4MmY2MzUiLCJ0YWciOiIifQ==?o=0",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-tugh5vgfkanzq8ov.voe-network.net/engine/hls2/01/09413/pdy5kcc6n40g_,n,.urlset/master.m3u8?t=uW5lVwqgmpPd5-sbaatHgqK9wLkzYPyEUQIsxcr845A&s=1693592025&e=14400&f=47066103&node=delivery-node-tugh5vgfkanzq8ov.voe-network.net&i=20.49&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

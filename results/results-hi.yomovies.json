@@ -433,14 +433,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-raidredemption-2011-hindi-dubbed-Watch-online-full-movie/",
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",

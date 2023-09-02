@@ -330,7 +330,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.StackOverflowError",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {

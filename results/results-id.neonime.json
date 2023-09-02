@@ -97,6 +97,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
                             },
                             {
+                                "url": "/tvshows/nanatsu-no-maken-ga-shihai-suru-subtitle-indonesia",
+                                "title": "Nanatsu no Maken ga Shihai suru Subtitle Indonesia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg"
+                            },
+                            {
+                                "url": "/tvshows/one-piece-live-action-subtitle-indonesia",
+                                "title": "One Piece Live Action Subtitle Indonesia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
+                            },
+                            {
                                 "url": "/tvshows/one-piece-live-action-subtitle-indonesia",
                                 "title": "One Piece Live Action Subtitle Indonesia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
@@ -155,16 +165,6 @@
                                 "url": "/tvshows/hataraku-maou-sama-cour-2-subtitle-indonesia",
                                 "title": "Hataraku Maou-sama!! Cour 2 Subtitle Indonesia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/kmpTEICJQweI4RN0OHIxgaetKop.jpg"
-                            },
-                            {
-                                "url": "/tvshows/watashi-no-shiawase-na-kekkon-subtitle-indonesia",
-                                "title": "Watashi no Shiawase na Kekkon Subtitle Indonesia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg"
-                            },
-                            {
-                                "url": "/tvshows/watashi-no-shiawase-na-kekkon-subtitle-indonesia",
-                                "title": "Watashi no Shiawase na Kekkon Subtitle Indonesia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -252,23 +252,39 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/one-piece-live-action-1x6-subtitle-indonesia",
+                        "name": "One Piece Live Action Episode 6 Subtitle Indonesia",
+                        "date_upload": 1903910400000,
+                        "episode_number": 6.0
+                    },
+                    {
                         "url": "/episode/one-piece-live-action-1x5-subtitle-indonesia",
                         "name": "One Piece Live Action Episode 5 Subtitle Indonesia",
                         "date_upload": 1693440000000,
                         "episode_number": 5.0
-                    },
-                    {
-                        "url": "/episode/one-piece-live-action-1x4-subtitle-indonesia",
-                        "name": "One Piece Live Action Episode 4 Subtitle Indonesia",
-                        "date_upload": 1693440000000,
-                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr3---sn-n4v7snse.googlevideo.com/videoplayback?expire=1693644916&ei=9IfyZMqWJsTOn88Pm7uu8Ag&ip=138.91.175.199&id=452cd5349aa829e9&itag=18&source=blogger&mh=3L&mm=31&mn=sn-n4v7snse&ms=au&mv=u&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=3267.117&lmt=1693613541952595&mt=1693615513&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgdRUeux4P7HurEH5O3J07bwtmKTBAX8ja_vdYlZtfFE4CIQCeIh88yp2rsoLA7tILCqCv97_0ArwxkJqDXIS08CAzyA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJ2jcX48O50Kfvt1cmBVD3mWzCtqixDmM3CZP6AFDWzPAiBKW0yTxDs2Eg4LPT1v5iP6QfJJvZ2-_Sbf5iO_7if-Og%3D%3D",
+                        "quality": "18 - GD Standard",
+                        "videoUrl": "https://rr3---sn-n4v7snse.googlevideo.com/videoplayback?expire=1693644916&ei=9IfyZMqWJsTOn88Pm7uu8Ag&ip=138.91.175.199&id=452cd5349aa829e9&itag=18&source=blogger&mh=3L&mm=31&mn=sn-n4v7snse&ms=au&mv=u&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=3267.117&lmt=1693613541952595&mt=1693615513&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgdRUeux4P7HurEH5O3J07bwtmKTBAX8ja_vdYlZtfFE4CIQCeIh88yp2rsoLA7tILCqCv97_0ArwxkJqDXIS08CAzyA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJ2jcX48O50Kfvt1cmBVD3mWzCtqixDmM3CZP6AFDWzPAiBKW0yTxDs2Eg4LPT1v5iP6QfJJvZ2-_Sbf5iO_7if-Og%3D%3D"
+                    },
+                    {
+                        "url": "https://rr5---sn-n4v7snee.googlevideo.com/videoplayback?expire=1693644916&ei=9IfyZI-KMuK8sfIPrp2UuAk&ip=138.91.175.199&id=41adbab1aa102a25&itag=18&source=blogger&mh=3r&mm=31&mn=sn-n4v7snee&ms=au&mv=u&mvi=5&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=3267.117&lmt=1693615933439518&mt=1693615513&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAMTPfQaepl3fbjBQJ5_bVTtExa6-Yd67fdqZLJGDlplEAiEAyOtm_PaGuIK9riEHRWg5X1V5w17Vj3Qa7ktMPEdeDbs%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgVuUxLXk69l0kiBkLhrQ0Cw4B4Od3k0rR0iRDiiGxBmECICTC2BcZKQzeebVIi1dY2h4WQryTqZOe9cbilvC6BWd5",
+                        "quality": "18 - YT HD",
+                        "videoUrl": "https://rr5---sn-n4v7snee.googlevideo.com/videoplayback?expire=1693644916&ei=9IfyZI-KMuK8sfIPrp2UuAk&ip=138.91.175.199&id=41adbab1aa102a25&itag=18&source=blogger&mh=3r&mm=31&mn=sn-n4v7snee&ms=au&mv=u&mvi=5&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=3267.117&lmt=1693615933439518&mt=1693615513&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAMTPfQaepl3fbjBQJ5_bVTtExa6-Yd67fdqZLJGDlplEAiEAyOtm_PaGuIK9riEHRWg5X1V5w17Vj3Qa7ktMPEdeDbs%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgVuUxLXk69l0kiBkLhrQ0Cw4B4Od3k0rR0iRDiiGxBmECICTC2BcZKQzeebVIi1dY2h4WQryTqZOe9cbilvC6BWd5"
+                    },
+                    {
+                        "url": "https://rr5---sn-n4v7snee.googlevideo.com/videoplayback?expire=1693644916&ei=9IfyZI-KMuK8sfIPrp2UuAk&ip=138.91.175.199&id=41adbab1aa102a25&itag=22&source=blogger&mh=3r&mm=31&mn=sn-n4v7snee&ms=au&mv=u&mvi=5&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=3267.117&lmt=1693616057394054&mt=1693615513&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgVtvVFmg9-baL9jIvxehlMPq_byL4dDFE1vvJJRgN2ZcCIQDIj4SbbGYwvOgjx-Jbc394MDw2oALM8MBU4WWtoCllCg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAIcwg1zJWJZIlxHiA3yGqbjCPAxj__tTBRbAi3JoApuWAiBXW0z3YHWWa2oFmb6-PAgbq-mdVZOchzR5jMOfBKi0Qg%3D%3D",
+                        "quality": "22 - YT HD",
+                        "videoUrl": "https://rr5---sn-n4v7snee.googlevideo.com/videoplayback?expire=1693644916&ei=9IfyZI-KMuK8sfIPrp2UuAk&ip=138.91.175.199&id=41adbab1aa102a25&itag=22&source=blogger&mh=3r&mm=31&mn=sn-n4v7snee&ms=au&mv=u&mvi=5&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=3267.117&lmt=1693616057394054&mt=1693615513&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgVtvVFmg9-baL9jIvxehlMPq_byL4dDFE1vvJJRgN2ZcCIQDIj4SbbGYwvOgjx-Jbc394MDw2oALM8MBU4WWtoCllCg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAIcwg1zJWJZIlxHiA3yGqbjCPAxj__tTBRbAi3JoApuWAiBXW0z3YHWWa2oFmb6-PAgbq-mdVZOchzR5jMOfBKi0Qg%3D%3D"
+                    }
+                ],
+                "passed": true
             }
         }
     }

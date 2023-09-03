@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/my-dearest-sub-espanol",
+                                "title": "My Dearest",
+                                "description": "My Dearest",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/my-dearest-1693702291.jpg"
+                            },
+                            {
+                                "url": "/dorama/one-piece-live-action-castellano-sub-espanol",
+                                "title": "One Piece (Live Action) Castellano",
+                                "description": "One Piece (Live Action) Castellano",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/one-piece-live-action-castellano-1693701655.jpg"
+                            },
+                            {
+                                "url": "/dorama/moving-sub-espanol",
+                                "title": "Moving",
+                                "description": "Moving",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/moving-1693684772.jpg"
+                            },
+                            {
                                 "url": "/dorama/fireworks-of-my-heart-sub-espanol",
                                 "title": "Fireworks of My Heart",
                                 "description": "Fireworks of My Heart",
@@ -167,24 +185,6 @@
                                 "title": "Hidden Love",
                                 "description": "Hidden Love",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/hidden-love-1693263616.jpg"
-                            },
-                            {
-                                "url": "/dorama/a-la-caza-de-espiritus-malignos-temporada-2-latino-sub-espanol",
-                                "title": "A la caza de espíritus malignos Temporada 2 Latino",
-                                "description": "A la caza de espíritus malignos Temporada 2 Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/a-la-caza-de-espiritus-malignos-temporada-2-latino-1693198584.jpg"
-                            },
-                            {
-                                "url": "/dorama/the-uncanny-counter-2-sub-espanol",
-                                "title": "The Uncanny Counter 2",
-                                "description": "The Uncanny Counter 2",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-uncanny-counter-2-1693197871.jpg"
-                            },
-                            {
-                                "url": "/dorama/con-tacto-especial-latino-sub-espanol",
-                                "title": "Con tacto especial Latino",
-                                "description": "Con tacto especial Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/con-tacto-especial-latino-1693194369.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,53 +262,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/fireworks-of-my-heart-sub-espanol",
-                    "title": "Fireworks of My Heart (Las luces de mi corazón)",
-                    "description": "El jefe de bomberos Song Yan y la médico de urgencias Xu Qin fueron separados por oposición familiar cuando eran más jóvenes. Ahora, diez años después, se reencuentran debido a sus profesiones. Después de experimentar juntos la vida y la muerte, logran encontrar el camino de regreso, trabajando juntos y animándose mutuamente, reconocen el crecimiento individual de cada uno después de los años separados, pero ¿Serán capaces de superar los obstáculos en su camino esta vez para permanecer juntos? ",
-                    "genre": "Romance, Acción, Drama, Médico, C-Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/dorama/my-dearest-sub-espanol",
+                    "title": "My Dearest (Lovers)",
+                    "description": "Una historia de amor que florece durante un período de Joseon en el que la gente pasó por graves dificultades debido a la invasión Qing. Lee Jang Hyun es un hombre misterioso que aparece de repente en los círculos sociales. Parece una persona alegre, pero en realidad no lo es. Es una persona compleja con un secreto profundo y oscuro que no puede revelar a nadie. Una mujer llamada Yoo Gil Chae aparece frente a él y su vida cambia. Yoo Gil Chae es hija de una familia noble, una mujer encantadora y llena de confianza. Mientras experimenta la agitación causada por la invasión Qing y se enamora de Lee Jang Hyun, crece como persona. ",
+                    "genre": "Romance, Histórico, K-Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/fireworks-of-my-heart-episodio-40",
-                        "name": "Episodio 40.0",
-                        "episode_number": 40.0
-                    },
-                    {
-                        "url": "/ver/fireworks-of-my-heart-episodio-39",
-                        "name": "Episodio 39.0",
-                        "episode_number": 39.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www14.mp4upload.com:183/d/qwxva3hkz3b4quuobwquqnkscgnl37w7ebjxcxn6xi5pgktvje4ryz4sxdrkvclzojqbntvg/video.mp4\"           \n           });\n            if (\"https://www14.mp4upload.com/i/02305/2gr01uo84yjg.jpg\") {\n             player.poster(\"https://www14.mp4upload.com/i/02305/2gr01uo84yjg.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/2gr01uo84yjg\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-2gr01uo84yjg.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"2gr01uo84yjg\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/2gr01uo84yjg\", \"_blank\");\n});   \n      ",
-                        "quality": "Upload",
-                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www14.mp4upload.com:183/d/qwxva3hkz3b4quuobwquqnkscgnl37w7ebjxcxn6xi5pgktvje4ryz4sxdrkvclzojqbntvg/video.mp4\"           \n           });\n            if (\"https://www14.mp4upload.com/i/02305/2gr01uo84yjg.jpg\") {\n             player.poster(\"https://www14.mp4upload.com/i/02305/2gr01uo84yjg.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/2gr01uo84yjg\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-2gr01uo84yjg.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"2gr01uo84yjg\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/2gr01uo84yjg\", \"_blank\");\n});   \n      ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://upload.com/"
-                        }
-                    },
-                    {
-                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "quality": "Upload",
-                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

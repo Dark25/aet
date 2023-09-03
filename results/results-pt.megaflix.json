@@ -339,8 +339,63 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/720/720p.m3u8",
+                        "quality": "Megaflix(Legendado) - 720p",
+                        "videoUrl": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/720/720p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://megaflix.co",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co"
+                        }
+                    },
+                    {
+                        "url": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/720/720p.m3u8",
+                        "quality": "Megaflix(Dublado) - 720p",
+                        "videoUrl": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/720/720p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://megaflix.co",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693813742&ip=F0AsFxgnDS9X&token=q5ptHYqpeSGT",
+                        "quality": "StreamTape - Legendado",
+                        "videoUrl": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693813742&ip=F0AsFxgnDS9X&token=q5ptHYqpeSGT"
+                    },
+                    {
+                        "url": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/360/360p.m3u8",
+                        "quality": "Megaflix(Legendado) - 360p",
+                        "videoUrl": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/360/360p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://megaflix.co",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693813740&ip=F0AsFxgnDS9X&token=90bn6xE1dWWM",
+                        "quality": "StreamTape - Dublado",
+                        "videoUrl": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693813740&ip=F0AsFxgnDS9X&token=90bn6xE1dWWM"
+                    },
+                    {
+                        "url": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/360/360p.m3u8",
+                        "quality": "Megaflix(Dublado) - 360p",
+                        "videoUrl": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/360/360p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://megaflix.co",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,8 +3,39 @@
         "name": "JetAnime (FR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/boku-no-hero-academia-hd11/",
+                                "title": "Boku no Hero Academia",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/zYnGDJKWwqpsDPPNylQOTXiuTzM-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/11/zDqeWuBhKOOg7VJTYkFMuqk7o5D-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/bleach-hd1/",
+                                "title": "BLEACH Sennen Kessen hen",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2022/10/guyS28A4IxwoMXIq3Xj9AszMefP-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/lattaque-des-titans-shingeki-no-kyojin-hd/",
+                                "title": "L’Attaque des Titans (Shingeki no Kyojin)",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/8qR8Pc8u7uOFu98wZRYiU7L7CC3-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/overlord/",
+                                "title": "Overlord",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/54CjW9rMEJT7bSa45joPtF3qxTE-90x135.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -327,15 +358,15 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

@@ -497,8 +497,14 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/totem-2/",
+                    "title": "Tótem",
+                    "description": "",
+                    "genre": "Drama",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

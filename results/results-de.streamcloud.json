@@ -167,6 +167,11 @@
                                 "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2022-09/1663827365-182025595.jpg"
                             },
                             {
+                                "url": "/23924-meinen-hass-bekommt-ihr-nicht-stream-deutsch.html",
+                                "title": "Meinen Hass bekommt ihr nicht",
+                                "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2022-09/1663341310-153504054.jpg"
+                            },
+                            {
                                 "url": "/23695-the-lincoln-lawyer-stream-deutsch.html",
                                 "title": "The Lincoln Lawyer",
                                 "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2022-09/1663124100-839946367.jpg"
@@ -1000,11 +1005,6 @@
                                 "url": "/32402-f-is-for-family-stream-deutsch.html",
                                 "title": "F is for Family",
                                 "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2023-08/1692857855-770780279.jpg"
-                            },
-                            {
-                                "url": "/32338-the-monkey-king-stream-deutsch.html",
-                                "title": "The Monkey King",
-                                "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2023-08/1692374841-970401903.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -1083,16 +1083,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/28477-star-trek-strange-new-worlds-stream-deutsch.html",
-                    "description": "Folgen Sie Christopher Pike, Spock und Number One in den zehn Jahren, bevor Capt. Kirk die Enterprise bestieg, während sie neue Welten rund um die Galaxie erkunden.",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2022-11/1668151089-300350108.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "episodes": {
                 "result": [

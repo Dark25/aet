@@ -331,17 +331,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/the-final-game-of-death-2023",
-                        "name": "The Final Game of Death",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

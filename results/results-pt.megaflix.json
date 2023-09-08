@@ -3,49 +3,8 @@
         "name": "Megaflix (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                                "title": "Guardiões da Galáxia: Vol. 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg"
-                            },
-                            {
-                                "url": "/filme/a-pequena-sereia-2023-assistir-online-1693052548/",
-                                "title": "A Pequena Sereia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2oVEdOpE6CYJmF1hNnIfMwuBHPx.jpg"
-                            },
-                            {
-                                "url": "/filme/transformers-o-despertar-das-feras-2023-assistir-online-1691894213/",
-                                "title": "Transformers: O Despertar das Feras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg"
-                            },
-                            {
-                                "url": "/filme/barbie-2023-assistir-online-1692070065/",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-                            },
-                            {
-                                "url": "/filme/the-flash-2023-assistir-online-1688862087/",
-                                "title": "The Flash",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/itYONYDHpJqTuu8BCXAtHxgpglq.jpg"
-                            },
-                            {
-                                "url": "/filme/missao-impossivel-acerto-de-contas-parte-1-2023-assistir-online-1693021905/",
-                                "title": "Missão: Impossível - Acerto de Contas Parte 1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
-                            },
-                            {
-                                "url": "/filme/homem-formiga-e-a-vespa-quantumania-2023-assistir-online/",
-                                "title": "Homem-Formiga e a Vespa: Quantumania",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3aJNiESDK7quCw9IpsUCFXqvq24.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -319,11 +278,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                    "title": "Guardiões da Galáxia: Vol. 3",
-                    "description": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
-                    "genre": "Ação, Aventura, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+                    "url": "/serie/quem-e-a-loba-2017-assistir-online/",
+                    "title": "Quem é a Loba?",
+                    "description": "Um grupo de dez pessoas está buscando o amor. Mas, entre as mulheres, há pelo menos uma \"loba\" proibida de se apaixonar.",
+                    "genre": "Reality",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/yH7KsOP4qSFJG8CoBKQUsBloKni.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -331,9 +290,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodio/quem-e-a-loba-1x7/",
+                        "name": "Quem é a Loba? 1x7",
+                        "episode_number": 107.0
+                    },
+                    {
+                        "url": "/episodio/quem-e-a-loba-1x6/",
+                        "name": "Quem é a Loba? 1x6",
+                        "episode_number": 106.0
                     }
                 ],
                 "passed": true
@@ -341,9 +305,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/720/720p.m3u8",
+                        "url": "https://hls.mflix.vip/videos/e438bf86981816c8bdeeccc04742109b/720/720p.m3u8",
                         "quality": "Megaflix(Legendado) - 720p",
-                        "videoUrl": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/720/720p.m3u8",
+                        "videoUrl": "https://hls.mflix.vip/videos/e438bf86981816c8bdeeccc04742109b/720/720p.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -352,9 +316,9 @@
                         }
                     },
                     {
-                        "url": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/720/720p.m3u8",
+                        "url": "https://hls.mflix.vip/videos/43be85b9ee2069693021d1b7622eeb40/720/720p.m3u8",
                         "quality": "Megaflix(Dublado) - 720p",
-                        "videoUrl": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/720/720p.m3u8",
+                        "videoUrl": "https://hls.mflix.vip/videos/43be85b9ee2069693021d1b7622eeb40/720/720p.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -363,14 +327,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1694204444&ip=F0AsFxgnDS9X&token=ESnfBubDojm8",
+                        "url": "https://streamtape.com/get_video?id=PykG31VwjOc01lX&expires=1694223865&ip=F0OSKRqOKxSHDN&token=hTWDCAzZWH_y",
                         "quality": "StreamTape - Legendado",
-                        "videoUrl": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1694204444&ip=F0AsFxgnDS9X&token=ESnfBubDojm8"
+                        "videoUrl": "https://streamtape.com/get_video?id=PykG31VwjOc01lX&expires=1694223865&ip=F0OSKRqOKxSHDN&token=hTWDCAzZWH_y"
                     },
                     {
-                        "url": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/360/360p.m3u8",
+                        "url": "https://hls.mflix.vip/videos/e438bf86981816c8bdeeccc04742109b/360/360p.m3u8",
                         "quality": "Megaflix(Legendado) - 360p",
-                        "videoUrl": "https://hls.mflix.vip/videos/89887bac993e2b7a051c791f2371ea7f/360/360p.m3u8",
+                        "videoUrl": "https://hls.mflix.vip/videos/e438bf86981816c8bdeeccc04742109b/360/360p.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -379,14 +343,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1694204439&ip=F0AsFxgnDS9X&token=ctrItyhpa9gx",
+                        "url": "https://streamtape.com/get_video?id=4wmJDRYKyBFVD1&expires=1694223863&ip=F0OSKRqOKxSHDN&token=A-GDDh_4CCeU",
                         "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1694204439&ip=F0AsFxgnDS9X&token=ctrItyhpa9gx"
+                        "videoUrl": "https://streamtape.com/get_video?id=4wmJDRYKyBFVD1&expires=1694223863&ip=F0OSKRqOKxSHDN&token=A-GDDh_4CCeU"
                     },
                     {
-                        "url": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/360/360p.m3u8",
+                        "url": "https://hls.mflix.vip/videos/43be85b9ee2069693021d1b7622eeb40/360/360p.m3u8",
                         "quality": "Megaflix(Dublado) - 360p",
-                        "videoUrl": "https://hls.mflix.vip/videos/3b5170643fea3bdb825bbaf3afe5aa8a/360/360p.m3u8",
+                        "videoUrl": "https://hls.mflix.vip/videos/43be85b9ee2069693021d1b7622eeb40/360/360p.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",

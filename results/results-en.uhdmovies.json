@@ -168,8 +168,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.zxc64.workers.dev/a4e7456c069faa86ccadadf6fb8ad5b7/driveleech.org/The%20Brothers%20(2001)%201080p%20AMZN%20WEBDL%20[Hindi%20DDP%205.1%20%20English%20DD%205.1]%20x264%20(ABMUHDMovies).mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  11.11GB ",
+                        "videoUrl": "https://0.zxc64.workers.dev/a4e7456c069faa86ccadadf6fb8ad5b7/driveleech.org/The%20Brothers%20(2001)%201080p%20AMZN%20WEBDL%20[Hindi%20DDP%205.1%20%20English%20DD%205.1]%20x264%20(ABMUHDMovies).mkv"
+                    },
+                    {
+                        "url": "https://0.shibu36.workers.dev/ae8308b6a3ca5a731328cdb1ebd96413/driveleech.org/The%20Brothers%20(2001)%201080p%20AMZN%20WEBDL%20[Hindi%20DDP%205.1%20%20English%20DD%205.1]%20x264%20(ABMUHDMovies).mkv",
+                        "quality": "1080p - CF 2 Worker 1 -  11.11GB ",
+                        "videoUrl": "https://0.shibu36.workers.dev/ae8308b6a3ca5a731328cdb1ebd96413/driveleech.org/The%20Brothers%20(2001)%201080p%20AMZN%20WEBDL%20[Hindi%20DDP%205.1%20%20English%20DD%205.1]%20x264%20(ABMUHDMovies).mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

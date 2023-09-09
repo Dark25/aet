@@ -526,23 +526,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             }
         }

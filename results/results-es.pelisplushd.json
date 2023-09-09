@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/tu-tiempo-llama",
+                                "title": "Tu tiempo llama (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4SdQT2FQlls9mTTDT4h8ERTt4ys.jpg"
+                            },
+                            {
+                                "url": "/serie/el-cuerpo-en-llamas",
+                                "title": "El cuerpo en llamas (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg"
+                            },
+                            {
                                 "url": "/serie/the-changeling",
                                 "title": "The Changeling (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/xly7mmRVEWgYHE68xaqpBu8ZGYG.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/nuevos-bandidos",
                                 "title": "Nuevos Bandidos (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/cFxXB0WH25inmNGo7UYYGJKQq7i.jpg"
-                            },
-                            {
-                                "url": "/serie/armas-y-amores",
-                                "title": "Armas y amores (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yRSvwppi9u77UWGPrRgJoTfv5DR.jpg"
-                            },
-                            {
-                                "url": "/serie/la-chica-enmascarada",
-                                "title": "La chica enmascarada (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mKRIwsjNRoGes1hVZxU192EQZZL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-changeling",
-                    "title": "The Changeling (2023)",
-                    "description": "La historia de amor de Apollo y Emma es un cuento de hadas, hasta que Emma desaparece misteriosamente. Desconsolado, Apolo se ve inmerso en una odisea mortal por una Nueva York que no sabía que existía..",
-                    "genre": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "url": "/serie/tu-tiempo-llama",
+                    "title": "Tu tiempo llama (2023)",
+                    "description": ".",
+                    "genre": "Drama, Soap",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xly7mmRVEWgYHE68xaqpBu8ZGYG.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4SdQT2FQlls9mTTDT4h8ERTt4ys.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,37 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-changeling/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/tu-tiempo-llama/temporada/1/capitulo/12",
+                        "name": "T1 - E12: Episodio 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/serie/the-changeling/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/tu-tiempo-llama/temporada/1/capitulo/11",
+                        "name": "T1 - E11: Episodio 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/deavmfoayv0a",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-wfy1ssu9pftrhkpl.voe-network.net/engine/hls2/01/09502/deavmfoayv0a_,n,.urlset/master.m3u8?t=Nvs-aRiZ6gMcUfGJKdKx1_2CDKsY_GymTsIqEpkuwo0&s=1694262027&e=14400&f=47512481&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=20.57&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=jYlJmyl14DTaQB&expires=1694332026&ip=FROsE0EnDS9X&token=dKM3GrIO6AMX",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jYlJmyl14DTaQB&expires=1694332026&ip=FROsE0EnDS9X&token=dKM3GrIO6AMX"
-                    },
-                    {
-                        "url": "https://voe.sx/e/deavmfoayv0a",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-wfy1ssu9pftrhkpl.voe-network.net/engine/hls2/01/09502/deavmfoayv0a_,n,.urlset/master.m3u8?t=Nvs-aRiZ6gMcUfGJKdKx1_2CDKsY_GymTsIqEpkuwo0&s=1694262027&e=14400&f=47512481&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=20.57&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },

@@ -3,7 +3,7 @@
         "name": "Gnula (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
@@ -46,9 +46,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
-                                "url": "/series/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
+                                "url": "/movies/mundo-fantasma",
+                                "title": "Mundo Fantasma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
                             },
                             {
                                 "url": "/movies/the-world-to-come",
@@ -56,9 +56,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
-                                "url": "/movies/mundo-fantasma",
-                                "title": "Mundo Fantasma",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -81,9 +81,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
-                                "title": "Fireball: Visitantes de mundos oscuros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
+                                "url": "/series/w-dos-mundos",
+                                "title": "W Dos Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -91,9 +91,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             },
                             {
-                                "url": "/series/w-dos-mundos",
-                                "title": "W Dos Mundos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
+                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
+                                "title": "Fireball: Visitantes de mundos oscuros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -121,14 +121,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
                             },
                             {
-                                "url": "/movies/guerra-mundial-z",
-                                "title": "Guerra mundial Z",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg"
-                            },
-                            {
                                 "url": "/series/brave-new-world",
                                 "title": "Brave New World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
+                            },
+                            {
+                                "url": "/movies/guerra-mundial-z",
+                                "title": "Guerra mundial Z",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -137,15 +137,31 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/movies/miraculous-world-shanghai-la-leyenda-de-ladydragon",
+                    "title": "Miraculous World Shanghai, la leyenda de Ladydragón",
+                    "artist": "Annouck Hautbois",
+                    "description": "Marinette está de vacaciones y todo va de maravilla… hasta que descubre que Adrien viajará a Shanghái, China con su padre. Por suerte, su tío Wang vive allá, ¡y su cumpleaños se acerca! Así que para alcanzar a Adrien y descubrir sus raíces, Marinette decide llevar el regalo de su tío en persona. Pero al llegar, Marinette pierde todas sus cosas, entre ellas su bolso, a Tikki, ¡y el Miraculous que le permite transformarse en Ladybug! Para recuperar sus cosas, tendrá que trabajar en equipo con Fei, ¡sin saber que ella fue la ladrona!",
+                    "genre": "Animación, Fantasía, Acción",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/r6zthVPVoq1urTOsLgofPGel89d.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movies/miraculous-world-shanghai-la-leyenda-de-ladydragon",
+                        "name": "Película",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

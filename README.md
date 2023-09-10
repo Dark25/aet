@@ -1,6 +1,6 @@
 ## Extension status
 
-### 105/192(55%) are working
+### 105/193(54%) are working
 
 | Extension             |   Status   | Log                                                                                                                                           |
 | :-------------------- | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,8 +15,8 @@
 | all.lmanime           |     ✅      | [results-all.lmanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-all.lmanime.json)                     |
 | ar.akwam              |     ✅      | [results-ar.akwam.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.akwam.json)                           |
 | ar.anime4up           |  ❌<br>3/5  | [results-ar.anime4up.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.anime4up.json)                     |
-| ar.animeblkom         |  ❌<br>4/5  | [results-ar.animeblkom.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animeblkom.json)                 |
-| ar.animeiat           |     ✅      | [results-ar.animeiat.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animeiat.json)                     |
+| ar.animeblkom         |     ✅      | [results-ar.animeblkom.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animeblkom.json)                 |
+| ar.animeiat           |  ❌<br>4/6  | [results-ar.animeiat.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animeiat.json)                     |
 | ar.animelek           |     ✅      | [results-ar.animelek.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animelek.json)                     |
 | ar.animerco           |     ✅      | [results-ar.animerco.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animerco.json)                     |
 | ar.animetitans        |  ❌<br>0/6  | [results-ar.animetitans.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ar.animetitans.json)               |
@@ -39,6 +39,7 @@
 | de.animestream        |  ❌<br>0/5  | [results-de.animestream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.animestream.json)               |
 | de.animetoast         |  ❌<br>3/5  | [results-de.animetoast.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.animetoast.json)                 |
 | de.aniworld           |  ❌<br>0/6  | [results-de.aniworld.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.aniworld.json)                     |
+| de.cineclix           |  ❌<br>4/5  | [results-de.cineclix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.cineclix.json)                     |
 | de.cinemathek         |  ❌<br>5/6  | [results-de.cinemathek.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.cinemathek.json)                 |
 | de.filmpalast         |     ✅      | [results-de.filmpalast.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.filmpalast.json)                 |
 | de.hdfilme            |     ✅      | [results-de.hdfilme.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.hdfilme.json)                       |
@@ -49,7 +50,7 @@
 | de.serienstream       |  ❌<br>0/6  | [results-de.serienstream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.serienstream.json)             |
 | de.streamcloud        |  ❌<br>4/5  | [results-de.streamcloud.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.streamcloud.json)               |
 | en.allanime           |  ❌<br>5/6  | [results-en.allanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allanime.json)                     |
-| en.allmovies          |  ❌<br>4/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allmovies.json)                   |
+| en.allmovies          |     ✅      | [results-en.allmovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allmovies.json)                   |
 | en.animeflix          |     ✅      | [results-en.animeflix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animeflix.json)                   |
 | en.animekhor          |     ✅      | [results-en.animekhor.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animekhor.json)                   |
 | en.animenosub         |     ✅      | [results-en.animenosub.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animenosub.json)                 |
@@ -67,13 +68,13 @@
 | en.fmovies            |  ❌<br>4/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.fmovies.json)                       |
 | en.genoanime          |  ❌<br>5/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.genoanime.json)                   |
 | en.gogoanime          |     ✅      | [results-en.gogoanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.gogoanime.json)                   |
-| en.hahomoe            |  ❌<br>4/6  | [results-en.hahomoe.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.hahomoe.json)                       |
-| en.hanime             |     ✅      | [results-en.hanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.hanime.json)                         |
+| en.hahomoe            |     ✅      | [results-en.hahomoe.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.hahomoe.json)                       |
+| en.hanime             |  ❌<br>0/6  | [results-en.hanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.hanime.json)                         |
 | en.hentaimama         |  ❌<br>0/6  | [results-en.hentaimama.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.hentaimama.json)                 |
 | en.holamovies         |  ❌<br>4/5  | [results-en.holamovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.holamovies.json)                 |
 | en.hstream            |  ❌<br>0/6  | [results-en.hstream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.hstream.json)                       |
 | en.kawaiifu           |  ❌<br>0/6  | [results-en.kawaiifu.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kawaiifu.json)                     |
-| en.kayoanime          |  ❌<br>0/6  | [results-en.kayoanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kayoanime.json)                   |
+| en.kayoanime          |  ❌<br>4/6  | [results-en.kayoanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kayoanime.json)                   |
 | en.kickassanime       |     ✅      | [results-en.kickassanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kickassanime.json)             |
 | en.kimoitv            |     ✅      | [results-en.kimoitv.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kimoitv.json)                       |
 | en.kissanime          |  ❌<br>0/6  | [results-en.kissanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.kissanime.json)                   |
@@ -86,7 +87,7 @@
 | en.nollyverse         |  ❌<br>0/6  | [results-en.nollyverse.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.nollyverse.json)                 |
 | en.noobsubs           |     ✅      | [results-en.noobsubs.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.noobsubs.json)                     |
 | en.oppaistream        |     ✅      | [results-en.oppaistream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.oppaistream.json)               |
-| en.pactedanime        |     ✅      | [results-en.pactedanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.pactedanime.json)               |
+| en.pactedanime        |  ❌<br>3/6  | [results-en.pactedanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.pactedanime.json)               |
 | en.putlocker          |  ❌<br>3/6  | [results-en.putlocker.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.putlocker.json)                   |
 | en.ripcrabbyanime     |  ❌<br>3/5  | [results-en.ripcrabbyanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.ripcrabbyanime.json)         |
 | en.rule34video        |     ✅      | [results-en.rule34video.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.rule34video.json)               |
@@ -107,8 +108,8 @@
 | es.animeyt            |     ✅      | [results-es.animeyt.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.animeyt.json)                       |
 | es.asialiveaction     |  ❌<br>4/6  | [results-es.asialiveaction.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.asialiveaction.json)         |
 | es.cuevana            |     ✅      | [results-es.cuevana.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.cuevana.json)                       |
-| es.doramasflix        |  ❌<br>5/6  | [results-es.doramasflix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.doramasflix.json)               |
-| es.doramasyt          |  ❌<br>5/6  | [results-es.doramasyt.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.doramasyt.json)                   |
+| es.doramasflix        |  ❌<br>4/6  | [results-es.doramasflix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.doramasflix.json)               |
+| es.doramasyt          |  ❌<br>0/6  | [results-es.doramasyt.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.doramasyt.json)                   |
 | es.ennovelas          |     ✅      | [results-es.ennovelas.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.ennovelas.json)                   |
 | es.fanpelis           |  ❌<br>3/5  | [results-es.fanpelis.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.fanpelis.json)                     |
 | es.gnula              |     ✅      | [results-es.gnula.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-es.gnula.json)                           |

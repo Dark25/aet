@@ -47,12 +47,16 @@
                                 "title": "Baka na Imouto o Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite"
                             },
                             {
-                                "url": "/anime/whymdyjy?s=srt-d",
-                                "title": "Goblin no Suana"
+                                "url": "/anime/ysie7dft?s=srt-d",
+                                "title": "Tsundero Series"
                             },
                             {
                                 "url": "/anime/wzraz5hd?s=srt-d",
                                 "title": "Ikenie"
+                            },
+                            {
+                                "url": "/anime/whymdyjy?s=srt-d",
+                                "title": "Goblin no Suana"
                             },
                             {
                                 "url": "/anime/czg8d64c?s=srt-d",
@@ -71,36 +75,32 @@
                                 "title": "Tanetsuke Ojisan to NTR Hitozuma Sex The Animation"
                             },
                             {
-                                "url": "/anime/keyxwo53?s=srt-d",
-                                "title": "My Mai: Koakuma na A Cup"
-                            },
-                            {
                                 "url": "/anime/yutcbp1j?s=srt-d",
                                 "title": "Cream Lemon"
                             },
                             {
-                                "url": "/anime/mrix3trr?s=srt-d",
-                                "title": "Kunoichi Ryoujokuden Ajisai"
+                                "url": "/anime/keyxwo53?s=srt-d",
+                                "title": "My Mai: Koakuma na A Cup"
                             },
                             {
                                 "url": "/anime/wqvag6f4?s=srt-d",
                                 "title": "Succubus Appli: Gakuen Saimin"
                             },
                             {
-                                "url": "/anime/vgdyhpy7?s=srt-d",
-                                "title": "Boku ni Sefure ga Dekita Riyuu"
+                                "url": "/anime/mrix3trr?s=srt-d",
+                                "title": "Kunoichi Ryoujokuden Ajisai"
                             },
                             {
                                 "url": "/anime/0ollx8z2?s=srt-d",
                                 "title": "Ikumonogakari The Animation"
                             },
                             {
-                                "url": "/anime/mvst2uef?s=srt-d",
-                                "title": "Euphoria"
+                                "url": "/anime/vgdyhpy7?s=srt-d",
+                                "title": "Boku ni Sefure ga Dekita Riyuu"
                             },
                             {
-                                "url": "/anime/egte8ofj?s=srt-d",
-                                "title": "Isekai Kita no de Special Skill de Zenryoku Ouka Shiyou to Omou The Animation"
+                                "url": "/anime/mvst2uef?s=srt-d",
+                                "title": "Euphoria"
                             }
                         ],
                         "hasNextPage": true
@@ -112,6 +112,10 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/ysie7dft?s=srt-d",
+                                "title": "Tsundero Series"
+                            },
                             {
                                 "url": "/anime/biatajib?s=srt-d",
                                 "title": "Junjou Decamelon"
@@ -203,10 +207,6 @@
                             {
                                 "url": "/anime/0ohqfnwq?s=srt-d",
                                 "title": "Aoharu Snatch"
-                            },
-                            {
-                                "url": "/anime/z9f7rdyt?s=srt-d",
-                                "title": "Imouto wa Gal Kawaii"
                             }
                         ],
                         "hasNextPage": true
@@ -272,12 +272,30 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/btrxvi4a/1",
+                        "name": "Episode 1: No Title",
+                        "date_upload": 1692921600000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s1.filegasm.com/46c1ef6cce03d893?download_token=aeebc8e4b3d06b4fbfc0bda05310cc3356f9aade6fe31591c9b78acee76b0b7f",
+                        "quality": "480p",
+                        "videoUrl": "https://s1.filegasm.com/46c1ef6cce03d893?download_token=aeebc8e4b3d06b4fbfc0bda05310cc3356f9aade6fe31591c9b78acee76b0b7f"
+                    },
+                    {
+                        "url": "https://s1.filegasm.com/7f20e094fb944926?download_token=5789d8eff1e91cda98d3bea97533806a3a88a10856eb918bda28c3a89c330220",
+                        "quality": "360p",
+                        "videoUrl": "https://s1.filegasm.com/7f20e094fb944926?download_token=5789d8eff1e91cda98d3bea97533806a3a88a10856eb918bda28c3a89c330220"
+                    }
+                ],
+                "passed": true
             }
         }
     }

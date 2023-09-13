@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/agccjf8h58rw",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=7B0U3jES0v2SJkUih31h-lwUmXeJUX0Vs_nvrpZ88Rk&s=1694542785&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=40.77&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=d6-JRGUUoVhAiEWr3tbGrD89EEaxuHrtlkOwC2227TU&s=1694566692&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=40.86&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694612784&ip=GxOsEHEnDS9X&token=eRFj9ccwbNLh",
+                        "url": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694636691&ip=GxOsFxInDS9X&token=uHRwU-U7_-Xm",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694612784&ip=GxOsEHEnDS9X&token=eRFj9ccwbNLh"
+                        "videoUrl": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694636691&ip=GxOsFxInDS9X&token=uHRwU-U7_-Xm"
                     },
                     {
                         "url": "https://voe.sx/e/agccjf8h58rw",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=7B0U3jES0v2SJkUih31h-lwUmXeJUX0Vs_nvrpZ88Rk&s=1694542785&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=40.77&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=d6-JRGUUoVhAiEWr3tbGrD89EEaxuHrtlkOwC2227TU&s=1694566692&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=40.86&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/locos-de-amor",
+                                "title": "Locos de Amor (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yIE3cZD3rFHiCN4ytdV01RCEvBa.jpg"
+                            },
                             {
                                 "url": "/pelicula/un-gran-amor",
                                 "title": "Un gran amor (1989)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/amarrados-al-amor",
                                 "title": "Amarrados al amor (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/oD1D1jTeZq5bCp22Me3GMndEjvi.jpg"
-                            },
-                            {
-                                "url": "/pelicula/vida-adulta",
-                                "title": "Vida adulta (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2vn77J4IsECDqdPUALpLNFJzJxa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/un-gran-amor",
-                    "title": "Un gran amor (1989)",
-                    "description": "Lloyd Dobler, un eterno optimista, busca conseguir el corazón de Diane Court, una inalcanzable belleza del instituto, además de una intachable estudiante. Todo el mundo se sorprende, incluido Lloyd, cuando ella demuestra que el sentimiento es recíproco. Pero el posesivo padre divorciado de Diane no aprueba esa relación, y hará falta algo más que el poder del amor para que consigan seguir juntos.",
-                    "genre": "Romance, Drama, Comedia, Drama",
+                    "url": "/pelicula/locos-de-amor",
+                    "title": "Locos de Amor (2016)",
+                    "description": "Un musical con canciones del recuerdo en el que cuatro primas se enfrentan a situaciones límite en sus vidas: amores, desamores y aventuras tragicómicas que se mezclan con emocionantes canciones que funcionan como el hilo conductor de estas divertidas historias.",
+                    "genre": "Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/un-gran-amor",
+                        "url": "/pelicula/locos-de-amor",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -610,6 +610,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/saving-venice/",
+                                "title": "Saving Venice",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/saving-venice.jpg"
+                            },
                             {
                                 "url": "/pelicula/mision-explosiva/",
                                 "title": "Misión explosiva",
@@ -704,11 +709,6 @@
                                 "url": "/pelicula/dialogando-con-la-vida/",
                                 "title": "Dialogando con la vida",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/dialogando-con-la-vida.jpg"
-                            },
-                            {
-                                "url": "/pelicula/las-buenas-companias/",
-                                "title": "Las buenas compañías",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-buenas-companias.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/mision-explosiva/",
-                    "title": "Misión explosiva",
+                    "url": "/pelicula/saving-venice/",
+                    "title": "Saving Venice",
                     "artist": "",
                     "description": "",
-                    "genre": "Suspenso",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/mision-explosiva/",
+                        "url": "/pelicula/saving-venice/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

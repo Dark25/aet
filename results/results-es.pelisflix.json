@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar qSRcHkllM = \"\"; MRhsxEvj.forEach(function Oym(value) { qSRcHkllM += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar QITCFINphl = \"\"; ThqbbYCllY.forEach(function Oym(value) { QITCFINphl += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
@@ -526,23 +526,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

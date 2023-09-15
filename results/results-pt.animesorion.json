@@ -92,6 +92,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70103/legendado",
+                                "title": "Spirit of Wonder: Shounen Kagaku Club",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3221_background.jpg?v=1694761007"
+                            },
+                            {
+                                "url": "/episodio/70102/legendado",
+                                "title": "Spirit of Wonder: Shounen Kagaku Club",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3221_background.jpg?v=1694761007"
+                            },
+                            {
+                                "url": "/episodio/70101/legendado",
+                                "title": "Spirit of Wonder: China-san Tanpenshuu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5359_background.jpg?v=1694760532"
+                            },
+                            {
+                                "url": "/episodio/70100/legendado",
+                                "title": "Spirit of Wonder: China-san Tanpenshuu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5359_background.jpg?v=1694760532"
+                            },
+                            {
+                                "url": "/episodio/70099/legendado",
+                                "title": "Spirit of Wonder: China-san Tanpenshuu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5359_background.jpg?v=1694760532"
+                            },
+                            {
                                 "url": "/episodio/70098/legendado",
                                 "title": "Kobato.: Hajimete no Kobato.",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6822_background.jpg?v=1694758055"
@@ -183,31 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70080/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70079/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70078/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70077/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70076/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70075/legendado",
                                 "title": "Mai-HiME Specials",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }

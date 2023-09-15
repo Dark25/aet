@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/cxfqegsfdcb6",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09533/cxfqegsfdcb6_,n,.urlset/master.m3u8?t=Q9MTMdwdA3Q0R1SCHvh-9f7Ox9qaa42nQLJPcO3uqU4&s=1694758599&e=14400&f=47668583&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09533/cxfqegsfdcb6_,n,.urlset/master.m3u8?t=C2Qk0ADC4rYfMD1kHq_nBxOVHOOTYLWmfKRAbIAw1mw&s=1694780584&e=14400&f=47668583&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=13.66&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=bPzo0RMO0ZhPbDy&expires=1694828597&ip=GxOsFxqnDS9X&token=DpZYHlx1kO1E",
+                        "url": "https://streamtape.com/get_video?id=bPzo0RMO0ZhPbDy&expires=1694850582&ip=F0AsERInDS9X&token=GhDnilhDgCf2",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=bPzo0RMO0ZhPbDy&expires=1694828597&ip=GxOsFxqnDS9X&token=DpZYHlx1kO1E"
+                        "videoUrl": "https://streamtape.com/get_video?id=bPzo0RMO0ZhPbDy&expires=1694850582&ip=F0AsERInDS9X&token=GhDnilhDgCf2"
                     },
                     {
                         "url": "https://voe.sx/e/cxfqegsfdcb6",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09533/cxfqegsfdcb6_,n,.urlset/master.m3u8?t=Q9MTMdwdA3Q0R1SCHvh-9f7Ox9qaa42nQLJPcO3uqU4&s=1694758599&e=14400&f=47668583&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09533/cxfqegsfdcb6_,n,.urlset/master.m3u8?t=C2Qk0ADC4rYfMD1kHq_nBxOVHOOTYLWmfKRAbIAw1mw&s=1694780584&e=14400&f=47668583&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=13.66&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/robin-de-los-bosques",
+                                "title": "Robin de los bosques (1938)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bCXYN015wb10UTPgXZxcd2RAjBI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tom-y-jerry-charlie-y-la-fabrica-de-chocolate",
+                                "title": "Tom y Jerry: Charlie y la Fábrica de Chocolate (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/brYKqjyoQ0Qrd8FEvJy7TopUBLS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ultima-llamada",
+                                "title": "Última llamada (2002)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dHfS6bnkdYdfw5xpg7nYe6z9ORt.jpg"
+                            },
                             {
                                 "url": "/pelicula/django-sangre-de-mi-sangre",
                                 "title": "Django: Sangre de mi sangre (2018)",
@@ -423,21 +438,6 @@
                                 "url": "/pelicula/la-clave-del-exito",
                                 "title": "La clave del éxito (1983)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/jVoVOZyEchhukjH11ZKnBtuWnmL.jpg"
-                            },
-                            {
-                                "url": "/pelicula/son-of-a-gun",
-                                "title": "Son of a Gun (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yRLVyhQfkW2hn15e8NIqarswLAr.jpg"
-                            },
-                            {
-                                "url": "/pelicula/perdida",
-                                "title": "Perdida (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg"
-                            },
-                            {
-                                "url": "/pelicula/devoradora-de-almas",
-                                "title": "Devoradora De Almas (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vKGrBwHcs9sexnQQdvmVq1p86Ti.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/django-sangre-de-mi-sangre",
-                    "title": "Django: Sangre de mi sangre (2018)",
-                    "description": "Osvaldo Fernández es Django, un afamado asaltante que recupera su libertad, después de estar diez años recluido en un penal, y que ahora quiere mantenerse dentro de la ley para recobrar a su familia. Sin embargo, Freddy Marquina convence a José, hijo de Osvaldo, para que forme parte de su clan criminal.",
-                    "genre": "Drama, Acción, Crimen, Drama",
+                    "url": "/pelicula/robin-de-los-bosques",
+                    "title": "Robin de los bosques (1938)",
+                    "description": "Robin de Locksey regresa a Inglaterra tras combatir contra los infieles en las Cruzadas, pero Juan sin Tierra, el hermano del Rey Ricardo I, ha usurpado el trono y gobierna como un tirano, por lo que el noble sajón decide refugiarse en el bosque de Sherwood y luchar contra él para devolverle la corona a Ricardo.",
+                    "genre": "Romance, Aventura, Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/django-sangre-de-mi-sangre",
+                        "url": "/pelicula/robin-de-los-bosques",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

@@ -7,24 +7,144 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/the-walking-dead-daryl-dixon",
+                                "title": "The Walking Dead: Daryl Dixon",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-daryl-dixon.jpg"
+                            },
+                            {
+                                "url": "/serie/the-lovers",
+                                "title": "The Lovers",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-lovers.jpg"
+                            },
+                            {
+                                "url": "/serie/dear-child",
+                                "title": "Dear Child",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/dear-child.jpg"
+                            },
+                            {
+                                "url": "/serie/the-changeling",
+                                "title": "The Changeling",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-changeling.jpg"
+                            },
+                            {
+                                "url": "/serie/adventure-time-fionna-cake",
+                                "title": "Adventure Time: Fionna & Cake",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/adventure-time-fionna-cake.jpg"
+                            },
+                            {
+                                "url": "/serie/spellbound",
+                                "title": "Spellbound",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/spellbound.jpg"
+                            },
+                            {
+                                "url": "/serie/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/one-piece.jpg"
+                            },
+                            {
+                                "url": "/serie/the-woman-in-the-wall",
+                                "title": "The Woman in the Wall",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-woman-in-the-wall.jpg"
+                            },
+                            {
+                                "url": "/serie/who-is-erin-carter",
+                                "title": "Who Is Erin Carter?",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/who-is-erin-carter.jpg"
+                            },
+                            {
+                                "url": "/serie/ahsoka",
+                                "title": "Ahsoka",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/ahsoka.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/edge-of-the-world",
+                                "title": "Edge of the World (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
+                                "title": "2025 - The World enslaved by a Virus (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
+                            },
+                            {
+                                "url": "/movie/world-s-biggest-bull-shark-",
+                                "title": "World's Biggest Bull Shark? (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
+                            },
+                            {
+                                "url": "/serie/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (2023-)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too.jpg"
+                            },
+                            {
+                                "url": "/serie/the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond (2020-2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
+                            },
+                            {
+                                "url": "/serie/the-end-of-the-f-ing-world",
+                                "title": "The End of the F***ing World (2017-2019)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/serie/the-walking-dead-daryl-dixon",
+                    "title": "The Walking Dead: Daryl Dixon (2023-)",
+                    "description": "Daryl washes ashore in France and struggles to piece together how he got there and why. The series tracks his journey across a broken but resilient France as he hopes to find a way back home. As he makes the journey, though, the connections he forms along the way complicate his ultimate plan.",
+                    "genre": "Horror",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/serie/the-walking-dead-daryl-dixon/season-1#1",
+                        "name": "Episode S1E1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dl3.uploding.sbs/Series3/The.Walking.Dead.Daryl.Dixon.2023/S01/1080p.x265/The.Walking.Dead.Daryl.Dixon.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA-ZarFilm.mkv",
+                        "quality": "1080p.x265",
+                        "videoUrl": "https://dl3.uploding.sbs/Series3/The.Walking.Dead.Daryl.Dixon.2023/S01/1080p.x265/The.Walking.Dead.Daryl.Dixon.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA-ZarFilm.mkv"
+                    },
+                    {
+                        "url": "https://dl3.uploding.sbs/Series3/The.Walking.Dead.Daryl.Dixon.2023/S01/720p.x265/The.Walking.Dead.Daryl.Dixon.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC.PSA-ZarFilm.mkv",
+                        "quality": "720p.x265",
+                        "videoUrl": "https://dl3.uploding.sbs/Series3/The.Walking.Dead.Daryl.Dixon.2023/S01/720p.x265/The.Walking.Dead.Daryl.Dixon.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC.PSA-ZarFilm.mkv"
+                    },
+                    {
+                        "url": "https://dl3.uploding.sbs/Series3/The.Walking.Dead.Daryl.Dixon.2023/S01/480p/The.Walking.Dead.Daryl.Dixon.S01E01.480p.WEB-DL.x264-ZarFilm.mkv",
+                        "quality": "480px",
+                        "videoUrl": "https://dl3.uploding.sbs/Series3/The.Walking.Dead.Daryl.Dixon.2023/S01/480p/The.Walking.Dead.Daryl.Dixon.S01E01.480p.WEB-DL.x264-ZarFilm.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

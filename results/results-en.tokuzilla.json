@@ -73,74 +73,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/super-sentai-world.html",
-                                "title": "Super Sentai World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-grease.html",
-                                "title": "Build NEW WORLD: Kamen Rider Grease",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
-                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-world-j-zo.html",
-                                "title": "Kamen Rider World ( J & ZO )",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
-                                "title": "Kamen Rider Black RX – Run All Over The World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/shin-kamen-rider.html",
-                                "title": "Shin Kamen Rider",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/shin-kamen-rider-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ninpu-sentai-hurricaneger-degozaru-shushuuto-20th-anniversary.html",
-                                "title": "Ninpu Sentai Hurricaneger Degozaru! Shushuuto 20th Anniversary",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninpu-sentai-hurricaneger-degozaru-shushuuto-20th-anniversary-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-revice-becoming-rider-no-2.html",
-                                "title": "Kamen Rider Revice: Becoming Rider No. 2",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-revice-becoming-rider-no-2-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-geats-extra-kamen-rider-tycoon-meets-kamen-rider-shinobi.html",
-                                "title": "Kamen Rider Geats Extra: Kamen Rider Tycoon meets Kamen Rider Shinobi",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-extra-kamen-rider-tycoon-meets-kamen-rider-shinobi-thumb.png"
-                            },
-                            {
-                                "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
-                                "title": "Avataro Sentai Donbrothers vs. Zenkaiger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/avataro-sentai-donbrothers-vs-zenkaiger-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -167,9 +101,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls20-eu.zcdn.stream/4b6c7f76ed01c6dc33d076aaba294207/2023-09-14/480.m3u8?token=5e5c49e129829d2d07a30d4cef1b3626&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694854243&type=edge&node=S-mDs0oJ3iT-ndRPnstVrHC1trboCuNbTCFHwYsRvQkCC89KnzdhRSSg8DNyySMSN5XUeSZl5NibWu7ziknG5QJtmMYp6D9nyXhShWoowobjUYt0iYxkU1n8jLtLaCiVBIaXup50Y1qcTpJBmwNYIodgBHwee5fkLVQ_RNl24hyGzm1vlwglUJ4oJJCog2M7",
+                        "url": "https://hls20-eu.zcdn.stream/4b6c7f76ed01c6dc33d076aaba294207/2023-09-14/480.m3u8?token=3c2e2b5f8f10b3fedd01ef03e7f2d523&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694873685&type=edge&node=JnxHUdt1tDJ4qgVdVC82MzAZH67lctB_S0K3rO8uBV6m9mxtSNwMqyMf3M_v0m57OvgQY-w7GLJ2hCwaXadzAFgeZqosvRnBfvTpXhcUARZDmrxtS1jtnyHK1toFNcuv-PnPlnvpFnYaOP9baovwG32CGJzvwoZL1M9bBaAtZ9Mgse4PgY0g4FXAmk-iNvsA",
                         "quality": "Chillx - 480p",
-                        "videoUrl": "https://hls20-eu.zcdn.stream/4b6c7f76ed01c6dc33d076aaba294207/2023-09-14/480.m3u8?token=5e5c49e129829d2d07a30d4cef1b3626&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694854243&type=edge&node=S-mDs0oJ3iT-ndRPnstVrHC1trboCuNbTCFHwYsRvQkCC89KnzdhRSSg8DNyySMSN5XUeSZl5NibWu7ziknG5QJtmMYp6D9nyXhShWoowobjUYt0iYxkU1n8jLtLaCiVBIaXup50Y1qcTpJBmwNYIodgBHwee5fkLVQ_RNl24hyGzm1vlwglUJ4oJJCog2M7",
+                        "videoUrl": "https://hls20-eu.zcdn.stream/4b6c7f76ed01c6dc33d076aaba294207/2023-09-14/480.m3u8?token=3c2e2b5f8f10b3fedd01ef03e7f2d523&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694873685&type=edge&node=JnxHUdt1tDJ4qgVdVC82MzAZH67lctB_S0K3rO8uBV6m9mxtSNwMqyMf3M_v0m57OvgQY-w7GLJ2hCwaXadzAFgeZqosvRnBfvTpXhcUARZDmrxtS1jtnyHK1toFNcuv-PnPlnvpFnYaOP9baovwG32CGJzvwoZL1M9bBaAtZ9Mgse4PgY0g4FXAmk-iNvsA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",

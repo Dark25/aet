@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/9h9ezitwk2pq",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=AU9nQqglu1InoM0gZcI7dCo-XU3CtM-8IjVxn5-vQAM&s=1694931337&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=40.75&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=26KlOBl-ggI0ol0ddiX5qCP87d78ssUM5vWzs9qzWss&s=1694953261&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=20.57&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1695001336&ip=GxOsEHMnDS9X&token=7st-ZnBGIayG",
+                        "url": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1695023259&ip=FROsE0EnDS9X&token=tYODFSNAbl8d",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1695001336&ip=GxOsEHMnDS9X&token=7st-ZnBGIayG"
+                        "videoUrl": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1695023259&ip=FROsE0EnDS9X&token=tYODFSNAbl8d"
                     },
                     {
                         "url": "https://voe.sx/e/9h9ezitwk2pq",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=AU9nQqglu1InoM0gZcI7dCo-XU3CtM-8IjVxn5-vQAM&s=1694931337&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=40.75&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=26KlOBl-ggI0ol0ddiX5qCP87d78ssUM5vWzs9qzWss&s=1694953261&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=20.57&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/meet-me-in-paris",
+                                "title": "Meet Me In Paris (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zu0aQV4A9auBWwFEpgiYeAIqv2c.jpg"
+                            },
                             {
                                 "url": "/pelicula/la-sexologa",
                                 "title": "La Sexóloga (2023)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/django-sangre-de-mi-sangre",
                                 "title": "Django: Sangre de mi sangre (2018)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/wR6mmG4hPqqu4QiqWBsbjOTPT8M.jpg"
-                            },
-                            {
-                                "url": "/pelicula/una-invitada-peligrosa",
-                                "title": "Una invitada peligrosa (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/o3v4MSO3Kd8e9DmUZkyGFG7Sk2j.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-sexologa",
-                    "title": "La Sexóloga (2023)",
-                    "description": "Una sexóloga (Flavia Dos Santos), se dedica a indagar minuciosamente cada detalle de la vida sexual de 3 parejas e intenta salvar sus matrimonios sin que su vida sentimental se vea afectada. Esta divertida y poco ortodoxa metodología llevará a cada uno de sus pacientes hacia un viaje en donde el olor, los acentos, el juego de roles y otros eventos, los obligará a salirse de su zona de confort con la única finalidad de lograr salvar sus relaciones.",
-                    "genre": "Comedia",
+                    "url": "/pelicula/meet-me-in-paris",
+                    "title": "Meet Me In Paris (2023)",
+                    "description": "Tres amigos solteros viajan a París durante dos semanas para el viaje de su vida y en busca del amor verdadero. Desde 'conocer lindos' en los Jardines de Luxemburgo, hasta paseos por los Campos Elíseos bordeados de árboles, ¿las primeras citas conducirán a felices para siempre o angustia?",
+                    "genre": "Romance, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-sexologa",
+                        "url": "/pelicula/meet-me-in-paris",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

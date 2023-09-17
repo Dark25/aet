@@ -3,60 +3,27 @@
         "name": "HentaiZM (TR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/hentai-detay/01",
-                                "title": "Aile Sırları",
-                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/01.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/hentai-detay/01",
-                                "title": "Tsundero",
-                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/01.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/hentai-detay/01",
-                                "title": "Futabu! Mix: Futanari World",
-                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/01.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }

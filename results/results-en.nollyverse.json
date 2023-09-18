@@ -3,68 +3,12 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/wilderness",
-                                "title": "Wilderness",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/wilderness.jpg"
-                            },
-                            {
-                                "url": "/serie/the-walking-dead-daryl-dixon",
-                                "title": "The Walking Dead: Daryl Dixon",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-daryl-dixon.jpg"
-                            },
-                            {
-                                "url": "/serie/the-lovers",
-                                "title": "The Lovers",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-lovers.jpg"
-                            },
-                            {
-                                "url": "/serie/dear-child",
-                                "title": "Dear Child",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/dear-child.jpg"
-                            },
-                            {
-                                "url": "/serie/the-changeling",
-                                "title": "The Changeling",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-changeling.jpg"
-                            },
-                            {
-                                "url": "/serie/adventure-time-fionna-cake",
-                                "title": "Adventure Time: Fionna & Cake",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/adventure-time-fionna-cake.jpg"
-                            },
-                            {
-                                "url": "/serie/spellbound",
-                                "title": "Spellbound",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/spellbound.jpg"
-                            },
-                            {
-                                "url": "/serie/one-piece",
-                                "title": "ONE PIECE",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/one-piece.jpg"
-                            },
-                            {
-                                "url": "/serie/the-woman-in-the-wall",
-                                "title": "The Woman in the Wall",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-woman-in-the-wall.jpg"
-                            },
-                            {
-                                "url": "/serie/who-is-erin-carter",
-                                "title": "Who Is Erin Carter?",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/who-is-erin-carter.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -108,10 +52,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/wilderness",
-                    "title": "Wilderness (2023-)",
-                    "description": "A dream holiday becomes a nightmare for a young British couple who seemingly have it all, as heartbreak turns into fury and revenge.",
-                    "genre": "Drama, Thriller",
+                    "url": "/movie/edge-of-the-world",
+                    "title": "Edge of the World",
+                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
+                    "genre": "Adventure, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -119,14 +63,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/wilderness/season-1#6",
-                        "name": "Episode S1E6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/serie/wilderness/season-1#5",
-                        "name": "Episode S1E5",
-                        "episode_number": 5.0
+                        "url": "/movie/edge-of-the-world/download/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -134,9 +73,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl3.fm6x.sbs/Series_05/Wilderness.2023/Wilderness.2023.S01E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv",
-                        "quality": "720px",
-                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/Wilderness.2023/Wilderness.2023.S01E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
+                        "quality": "480p",
+                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
+                    },
+                    {
+                        "url": "https://dood.la/d/o16rzvmsv5u2",
+                        "quality": "720p",
+                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/masamune-kun-no-revenge-r-12-bolum-final",
+                                "title": "Masamune-kun no Revenge R",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179780001688418542.webp"
+                            },
+                            {
                                 "url": "/edens-zero-2nd-season",
                                 "title": "Edens Zero 2nd Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179260001682720462.webp"
@@ -45,11 +50,6 @@
                                 "url": "/watashi-no-shiawase-na-kekkon",
                                 "title": "Watashi no Shiawase na Kekkon",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179810001688655542.webp"
-                            },
-                            {
-                                "url": "/masamune-kun-no-revenge-r",
-                                "title": "Masamune-kun no Revenge R",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179780001688418542.webp"
                             },
                             {
                                 "url": "/horimiya-piece",
@@ -96,6 +96,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/masamune-kun-no-revenge-r-12-bolum-final",
+                                "title": "Masamune-kun no Revenge R",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179780001688418542.webp"
+                            },
+                            {
+                                "url": "/yumemiru-danshi-wa-genjitsushugisha",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180040001689289501.webp"
+                            },
                             {
                                 "url": "/temple",
                                 "title": "Temple",
@@ -175,16 +185,6 @@
                                 "url": "/bungou-stray-dogs-5th-season",
                                 "title": "Bungou Stray Dogs 5th Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180090001689587461.webp"
-                            },
-                            {
-                                "url": "/dark-gathering",
-                                "title": "Dark Gathering",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180030001689251341.webp"
-                            },
-                            {
-                                "url": "/mobile-suit-gundam-the-origin-tv",
-                                "title": "Mobile Suit Gundam: The Origin (TV)",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/16866.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -353,69 +353,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/edens-zero-2nd-season",
-                    "title": "Edens Zero 2nd Season",
-                    "artist": "J.C.Staff",
-                    "description": "Edens Zero animesinin 2. sezonudur.\nDiğer adlar: \nJaponca İsmi: エデンズ ゼロ\nStüdyo: J.C.Staff",
-                    "genre": "Aksiyon, Macera, Fantastik, Bilim-Kurgu",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/179260001682720462l.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/edens-zero-2nd-season-23-bolum",
-                        "name": "23. Bölüm",
-                        "episode_number": 23.0
-                    },
-                    {
-                        "url": "/edens-zero-2nd-season-22-bolum",
-                        "name": "22. Bölüm",
-                        "episode_number": 22.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/nnqzxgonveap",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/09544/wtx4dgil2ilz_,n,.urlset/master.m3u8?t=sZTzE2bFtPv_eYc1EBpxuwrBQmnwmOltVfU2Oh7FzDk&s=1695061073&e=14400&f=47722603&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=40.86&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/tipwlaygr7uz",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/09544/wtx4dgil2ilz_,n,.urlset/master.m3u8?t=UmAfvKsfFjSO5V9Num7_Tw-iwx-aO74wyWyGAxfRzdI&s=1695061072&e=14400&f=47722692&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=40.86&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/tipwlaygr7uz",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/09544/wtx4dgil2ilz_,n,.urlset/master.m3u8?t=UmAfvKsfFjSO5V9Num7_Tw-iwx-aO74wyWyGAxfRzdI&s=1695061072&e=14400&f=47722692&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=40.86&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=z6dTGP5jhHrHKRSdk3fZqQGeicYyVPsOayZPaKiKbZym9KImPQPM3v23UKs21OHEnTvQ4olSjB%2F66qH%2Be0AX2vSSj5%2BODQNRKCTJZuREMjccY%2BljaOrAIn6gSoeUssduAwKlYQFKh4ZMRRF48bQsEJQ%2Bqr%2BZ%2BGJfERw6urEsAp0w%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
-                        "quality": "[Holy] GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=z6dTGP5jhHrHKRSdk3fZqQGeicYyVPsOayZPaKiKbZym9KImPQPM3v23UKs21OHEnTvQ4olSjB%2F66qH%2Be0AX2vSSj5%2BODQNRKCTJZuREMjccY%2BljaOrAIn6gSoeUssduAwKlYQFKh4ZMRRF48bQsEJQ%2Bqr%2BZ%2BGJfERw6urEsAp0w%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=z6dTGP5jhHrHKRSdk3fZqQGeicYyVPsOayZPaKiKbZym9KImPQPM3v23UKs21OHEnTvQ4olSjB%2F66qH%2Be0AX2vSSj5%2BODQNRKCTJZuREMjccY%2BljaOrAIn6gSoeUssduAwKlYQFKh4ZMRRF48bQsEJQ%2Bqr%2BZ%2BGJfERw6urEsAp0w%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=z6dTGP5jhHrHKRSdk3fZqQGeicYyVPsOayZPaKiKbZym9KImPQPM3v23UKs21OHEnTvQ4olSjB%2F66qH%2Be0AX2vSSj5%2BODQNRKCTJZuREMjccY%2BljaOrAIn6gSoeUssduAwKlYQFKh4ZMRRF48bQsEJQ%2Bqr%2BZ%2BGJfERw6urEsAp0w%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://m90.uqload.io/3rfkiknlrbw2q4drdk7px75bahl2wd6cfne6t4cide3ntejfpytqco34h33a/v.mp4",
-                        "quality": "[Holy] Uqload",
-                        "videoUrl": "https://m90.uqload.io/3rfkiknlrbw2q4drdk7px75bahl2wd6cfne6t4cide3ntejfpytqco34h33a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
+                "passed": false
             }
         }
     }

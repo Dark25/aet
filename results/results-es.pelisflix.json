@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar CjYgXFa = \"\"; oJdjdkto.forEach(function Oym(value) { CjYgXFa += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mOgZesJ = \"\"; ZTfnskLe.forEach(function Oym(value) { mOgZesJ += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
@@ -526,7 +526,7 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 439",
                 "passed": false
             },
             "search": {

@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=tO5Mf3MaFsvUh3gagT7ANn7lwcBNOc_mVzyxKbJ3xco&s=1695147389&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=RmVjQpnpxBv9SKm4HABwQsOh1al60vlOTm-uBXSFzTE&s=1695171196&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=172.177&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695217387&ip=GxOsFxqnDS9X&token=-YBUJ373cuIo",
+                        "url": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695241194&ip=F0qQKRWQE19XKxR&token=mf1pM2_mbZkw",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695217387&ip=GxOsFxqnDS9X&token=-YBUJ373cuIo"
+                        "videoUrl": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695241194&ip=F0qQKRWQE19XKxR&token=mf1pM2_mbZkw"
                     },
                     {
                         "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=tO5Mf3MaFsvUh3gagT7ANn7lwcBNOc_mVzyxKbJ3xco&s=1695147389&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=RmVjQpnpxBv9SKm4HABwQsOh1al60vlOTm-uBXSFzTE&s=1695171196&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=172.177&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -611,6 +611,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-puerta-magica/",
+                                "title": "La puerta mágica",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-puerta-magica.jpg"
+                            },
+                            {
                                 "url": "/pelicula/a-millones-de-kilometros/",
                                 "title": "A millones de kilómetros",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/a-millones-de-kilometros.jpg"
@@ -704,11 +709,6 @@
                                 "url": "/pelicula/ehrengard-forforelsens-kunst/",
                                 "title": "Ehrengard: Forførelsens kunst",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/ehrengard-forforelsens-kunst.jpg"
-                            },
-                            {
-                                "url": "/pelicula/marisol/",
-                                "title": "Marisol",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/marisol.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/a-millones-de-kilometros/",
-                    "title": "A millones de kilómetros",
+                    "url": "/pelicula/la-puerta-magica/",
+                    "title": "La puerta mágica",
                     "artist": "",
                     "description": "",
-                    "genre": "Historia",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/a-millones-de-kilometros/",
+                        "url": "/pelicula/la-puerta-magica/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

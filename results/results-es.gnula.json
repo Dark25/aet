@@ -69,7 +69,7 @@
                             {
                                 "url": "/movies/a-millones-de-kilometros",
                                 "title": "A millones de kilómetros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/7hrkceHqhMbxfZNb570NzjQWGI7.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gzetYxwunKUN9KbeqaFaX119wCq.jpg"
                             },
                             {
                                 "url": "/movies/la-musica-esta-servida-sofia-carson",
@@ -177,6 +177,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
+                                "url": "/movies/mundo-fantasma",
+                                "title": "Mundo Fantasma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
                                 "url": "/series/world-on-fire",
                                 "title": "World on Fire",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
@@ -185,11 +190,6 @@
                                 "url": "/movies/the-world-to-come",
                                 "title": "The World to Come",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
-                            },
-                            {
-                                "url": "/movies/mundo-fantasma",
-                                "title": "Mundo Fantasma",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -268,16 +268,43 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/movies/lang-lang-plays-disney",
+                    "title": "Lang Lang Plays Disney",
+                    "artist": "Lang Lang",
+                    "description": "El pianista Lang Lang, reconocido mundialmente, y la música más icónica de Disney se juntan en este concierto exclusivo de una noche en el Royal Albert Hall. Con segmentos musicales y documentales, esta película abre las puertas íntimamente a este viaje musical extraordinario, hablando de su amor por Disney desde su infancia en China.",
+                    "genre": "Música, Documental",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/5y7UlJGConbahwKgQQ9fQZyB8QX.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movies/lang-lang-plays-disney",
+                        "name": "Película",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=RQB2RGxAkktjrY&expires=1695327605&ip=F0qQKRWQE19XKxR&token=Egsc5KgPgoUf",
+                        "quality": "English StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=RQB2RGxAkktjrY&expires=1695327605&ip=F0qQKRWQE19XKxR&token=Egsc5KgPgoUf"
+                    },
+                    {
+                        "url": "https://voe.sx/e/9yfp3rdlbxkt",
+                        "quality": "English Voex",
+                        "videoUrl": "https://delivery-node-znj6okjw16mo8ccl.voe-network.net/engine/hls2/01/09553/9yfp3rdlbxkt_,n,.urlset/master.m3u8?t=k8HjAoe7MJFE0DRkbGZfo5HbD-POFHT4g9vb6ZT-u6w&s=1695257603&e=14400&f=47767293&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=172.177&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

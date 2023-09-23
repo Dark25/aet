@@ -182,6 +182,11 @@
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/d5/e8/d5e8e93e25bcb91ec07d606d632e5e8f/d5e8e93e25bcb91ec07d606d632e5e8f.jpg"
                             },
                             {
+                                "url": "/movie/free-king-of-terrors-hd-100591",
+                                "title": "King of Terrors",
+                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/65/6a/656a056d1b055795053382dd2ba43bbd/656a056d1b055795053382dd2ba43bbd.jpg"
+                            },
+                            {
                                 "url": "/movie/free-it-shall-not-be-named-hd-100588",
                                 "title": "It Shall Not Be Named",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/32/64/32646d798ea3ffdb85c7b9eb2df17a0b/32646d798ea3ffdb85c7b9eb2df17a0b.jpg"
@@ -195,6 +200,11 @@
                                 "url": "/movie/free-alien-planet-hd-100582",
                                 "title": "Alien Planet",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/e5/7e/e57e152a56a9a80ec2dc2e75dbb757c1/e57e152a56a9a80ec2dc2e75dbb757c1.jpg"
+                            },
+                            {
+                                "url": "/movie/free-shingles-the-movie-hd-100579",
+                                "title": "Shingles the Movie",
+                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/79/4a/794ad5120d1dde33a39af0261dd8a99e/794ad5120d1dde33a39af0261dd8a99e.jpg"
                             },
                             {
                                 "url": "/movie/free-no-such-thing-as-loyalty-hd-100576",
@@ -285,16 +295,6 @@
                                 "url": "/movie/free-trauma-therapy-psychosis-hd-99871",
                                 "title": "Trauma Therapy: Psychosis",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/f4/17/f41713ce32450c584281dfa9c45151ca/f41713ce32450c584281dfa9c45151ca.jpg"
-                            },
-                            {
-                                "url": "/movie/free-the-black-book-hd-100501",
-                                "title": "The Black Book",
-                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/51/2d/512d6e2a86207e40038dc6ff5d13bd10/512d6e2a86207e40038dc6ff5d13bd10.jpg"
-                            },
-                            {
-                                "url": "/movie/free-spy-kids-armageddon-hd-100498",
-                                "title": "Spy Kids: Armageddon",
-                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/30/fd/30fd832d5c6444455e32ddafdb0fd639/30fd832d5c6444455e32ddafdb0fd639.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -473,16 +473,63 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/movie/free-love-doll-hd-100594",
+                    "title": "Love Doll",
+                    "author": "",
+                    "description": " A mechanic with terminal cancer has a bizarre secret --- he's had a life-long love-affair with a sex doll. Now his son, a D-list TV actor, must help him find the doll a new home and say goodbye.",
+                    "genre": "Comedy",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/d5/e8/d5e8e93e25bcb91ec07d606d632e5e8f/d5e8e93e25bcb91ec07d606d632e5e8f.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ajax/movie/episodes/100594",
+                        "name": "Love Doll",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/25e0542150555d4d093d7e7b116142aa102228359f30d05adbbe67eeffb14cd7981ecb71490a4079f6c90088d84361dd2bf037d8a738245d53fbce7ec492e9425510cb6d367f2fdc2fe906e0e5989948ca2a5f47a90fde7b47e78d545afbe40b29e83178e3c3d5e4fc0dbbc5b94a319750e26dfcf8780428f2c66fe021320d3ff1da41d21d5a82dc2cf89cccb264738a4de9b6deda768ea9b1d625291a300fee6283454c3fab09d8c2f070c969384fd1/1080/index.m3u8",
+                        "quality": "Vidcloud - 1080p",
+                        "videoUrl": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/25e0542150555d4d093d7e7b116142aa102228359f30d05adbbe67eeffb14cd7981ecb71490a4079f6c90088d84361dd2bf037d8a738245d53fbce7ec492e9425510cb6d367f2fdc2fe906e0e5989948ca2a5f47a90fde7b47e78d545afbe40b29e83178e3c3d5e4fc0dbbc5b94a319750e26dfcf8780428f2c66fe021320d3ff1da41d21d5a82dc2cf89cccb264738a4de9b6deda768ea9b1d625291a300fee6283454c3fab09d8c2f070c969384fd1/1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/25e0542150555d4d093d7e7b116142aa102228359f30d05adbbe67eeffb14cd7981ecb71490a4079f6c90088d84361dd2bf037d8a738245d53fbce7ec492e9425510cb6d367f2fdc2fe906e0e5989948ca2a5f47a90fde7b47e78d545afbe40b29e83178e3c3d5e4fc0dbbc5b94a319750e26dfcf8780428f2c66fe021320d3ff1da41d21d5a82dc2cf89cccb264738a4de9b6deda768ea9b1d625291a300fee6283454c3fab09d8c2f070c969384fd1/720/index.m3u8",
+                        "quality": "Vidcloud - 720p",
+                        "videoUrl": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/25e0542150555d4d093d7e7b116142aa102228359f30d05adbbe67eeffb14cd7981ecb71490a4079f6c90088d84361dd2bf037d8a738245d53fbce7ec492e9425510cb6d367f2fdc2fe906e0e5989948ca2a5f47a90fde7b47e78d545afbe40b29e83178e3c3d5e4fc0dbbc5b94a319750e26dfcf8780428f2c66fe021320d3ff1da41d21d5a82dc2cf89cccb264738a4de9b6deda768ea9b1d625291a300fee6283454c3fab09d8c2f070c969384fd1/720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/25e0542150555d4d093d7e7b116142aa102228359f30d05adbbe67eeffb14cd7981ecb71490a4079f6c90088d84361dd2bf037d8a738245d53fbce7ec492e9425510cb6d367f2fdc2fe906e0e5989948ca2a5f47a90fde7b47e78d545afbe40b29e83178e3c3d5e4fc0dbbc5b94a319750e26dfcf8780428f2c66fe021320d3ff1da41d21d5a82dc2cf89cccb264738a4de9b6deda768ea9b1d625291a300fee6283454c3fab09d8c2f070c969384fd1/360/index.m3u8",
+                        "quality": "Vidcloud - 360p",
+                        "videoUrl": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/25e0542150555d4d093d7e7b116142aa102228359f30d05adbbe67eeffb14cd7981ecb71490a4079f6c90088d84361dd2bf037d8a738245d53fbce7ec492e9425510cb6d367f2fdc2fe906e0e5989948ca2a5f47a90fde7b47e78d545afbe40b29e83178e3c3d5e4fc0dbbc5b94a319750e26dfcf8780428f2c66fe021320d3ff1da41d21d5a82dc2cf89cccb264738a4de9b6deda768ea9b1d625291a300fee6283454c3fab09d8c2f070c969384fd1/360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

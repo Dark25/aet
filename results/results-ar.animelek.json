@@ -3,59 +3,8 @@
         "name": "AnimeLek (AR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/one-piece-slider-animelek.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/jujutsu-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/bleach-poster.png"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/mushoku_Tensei-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/bungou-stray-dogs-5th-season/",
-                                "title": "Bungou Stray Dogs 5th Season",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/bungo-stray-dogs-atsushi-5.png"
-                            },
-                            {
-                                "url": "/anime/kanojo-okarishimasu-3rd-season/",
-                                "title": "Kanojo, Okarishimasu 3rd Season",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Kanojo-Okarishimasu-Season-3.png"
-                            },
-                            {
-                                "url": "/anime/undead-girl-murder-farce/",
-                                "title": "Undead Girl Murder Farce",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Undead-Girl-Murder-Farce.jpg"
-                            },
-                            {
-                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Rurouni-Kenshin-2023.jpg"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru/",
-                                "title": "Nanatsu no Maken ga Shihai suru",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/nanatsu-no-maken-ga-shihai.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -65,6 +14,16 @@
                                 "url": "/anime/jujutsu-kaisen-2nd-season/",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/jujutsu-kaisen-2nd-season-thumbnail.jpg\n"
+                            },
+                            {
+                                "url": "/anime/jitsu-wa-ore-saikyou-deshita/",
+                                "title": "Jitsu wa Ore, Saikyou deshita?",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Jitsu-wa-Ore-Saikyou-deshita--64a0b5b4e8145.jpg"
+                            },
+                            {
+                                "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi/",
+                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Uchi-no-Kaisha-no-Chiisai-Senpai-no-Hanashi-64a06fbe5b11a.jpg"
                             },
                             {
                                 "url": "/anime/temple/",
@@ -170,16 +129,6 @@
                                 "url": "/anime/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-One-Piece-5f09e7d64ad90.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://animelek.me/uploads/posters/jujutsu-kaisen-2nd-season-thumbnail.jpg\n"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Bleach-Sennen-Kessen-hen-Ketsubetsu-tan-64a97ff404596.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +213,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/one-piece/",
-                    "title": "One Piece",
-                    "description": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.\n\nالنوع TV\nبداية العرض 1999\nحالة الأنمي يعرض الان\nعدد الحلقات غير معروف\nالموسم خريف 1999\nمدة الحلقة 24 دقيقة\nالعرض التشويقي\nصفحة الأنمي على موقع MAL\n",
-                    "genre": "أكشن, خارق للعادة, دراما, فنتازيا, شونين, مغامرات, كوميدي",
+                    "url": "/anime/jujutsu-kaisen-2nd-season/",
+                    "title": "Jujutsu Kaisen 2nd Season",
+                    "description": "قصة انمي Jujutsu Kaisen 2nd Season تتمة لاحداث الموسم السابق، وسيعرض هذا الموسم كل من الجزئين : “كايغيوكو/غيوكوسيتسو“، و”حادثة شيبويا“. منغمس بلا معنى في أنشطة نادي الخوارق، طالب المدرسة الثانوية “يوجي ايتادوري” يقضي أيامه إما في النادي أو المستشفى، حيث يزور جده طريح الفراش. ومع ذلك، أسلوب الحياة المسالم هذا سرعان ما يأخذ منعطفا غريب بسبب أداة ملعونة. تبدأ سلسلة من الأحداث الخارقة للطبيعة، ويجد “يوجي” نفسه فجأة متجه نحو عالم اللعنات، كائنات مخيفة تكوّنت من أحقاد البشر والمشاعر السلبية. يقوم مُرغمًا بابتلاع هذه الأداة، ويعرف أنه إصبع ينتمي إلى الشيطان “سوكونا ريومين“، وهو “ملك اللعنات“. “يوجي” يجرب الخطر الذي تشكله هذه اللعنات على الناس عندما يكتشف قواه الجديدة. ليبدأ في السير على طريق لا يمكنه العودة منه، طريق “ساحر جوجوتسو“.\n\nالنوع TV\nبداية العرض 2023\nحالة الأنمي يعرض الان\nعدد الحلقات غير معروف\nالموسم صيف 2023\nمدة الحلقة 24 دقيقة\nالعرض التشويقي\nصفحة الأنمي على موقع MAL\n",
+                    "genre": "أكشن, فنتازيا",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animelek.me/uploads/posters/poster-One-Piece-5f09e7d4e41e3.jpg ",
+                    "thumbnail_url": "https://animelek.me/uploads/posters/poster-Jujutsu-Kaisen-2nd-Season-64a19d8ca34e5.jpg ",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +227,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/one-piece-1076-الحلقة/",
-                        "name": "الحلقة 1076",
-                        "episode_number": 1076.0
+                        "url": "/episode/jujutsu-kaisen-2nd-season-9-الحلقة/",
+                        "name": "الحلقة 9",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/episode/one-piece-1075-الحلقة/",
-                        "name": "الحلقة 1075",
-                        "episode_number": 1075.0
+                        "url": "/episode/jujutsu-kaisen-2nd-season-8-الحلقة/",
+                        "name": "الحلقة 8",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -293,9 +242,84 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nxxn24-14.vidboo.org/6jmnxday3uazsalrixnaf5nqk6lsabhgsy4winieo223elrw2q622zvj3bwq/v.mp4",
-                        "quality": "Vidbom: 480p",
-                        "videoUrl": "https://nxxn24-14.vidboo.org/6jmnxday3uazsalrixnaf5nqk6lsabhgsy4winieo223elrw2q622zvj3bwq/v.mp4"
+                        "url": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=3&sig=1PgvNhTjukI&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=3&sig=1PgvNhTjukI&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444"
+                    },
+                    {
+                        "url": "https://n24no-05.vidboo.org/6jmnwnjx3uazsalrixnqfjxqlzgrw4ywauz5uo3oekqhypdo2yakkxo2vyza/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://n24no-05.vidboo.org/6jmnwnjx3uazsalrixnqfjxqlzgrw4ywauz5uo3oekqhypdo2yakkxo2vyza/v.mp4"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=3&sig=qiPDY_9wTPw&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=3&sig=qiPDY_9wTPw&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146"
+                    },
+                    {
+                        "url": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=4&sig=wvsujbT4Nxo&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=4&sig=wvsujbT4Nxo&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690"
+                    },
+                    {
+                        "url": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=0&sig=LcbRubVCTfA&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=0&sig=LcbRubVCTfA&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690"
+                    },
+                    {
+                        "url": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=1&sig=afWWk5Tu9tA&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=1&sig=afWWk5Tu9tA&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690"
+                    },
+                    {
+                        "url": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=2&sig=AMEcSr1H8ow&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd292.mycdn.me/?expires=1695603439788&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=185.226.52.42&type=2&sig=AMEcSr1H8ow&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=5220970793690"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=4&sig=WfP_DxNGCrM&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=4&sig=WfP_DxNGCrM&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=0&sig=LBHl6U3Eurk&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=0&sig=LBHl6U3Eurk&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=1&sig=kle6jTSHEQo&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=1&sig=kle6jTSHEQo&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=2&sig=9HNBcxt5dpE&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=2&sig=9HNBcxt5dpE&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=5&sig=Y0jyFbTCSas&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1695603439400&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.137&type=5&sig=Y0jyFbTCSas&ct=0&urls=185.226.53.36%3B185.226.52.39&clientType=0&zs=43&id=5465859230444"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=4&sig=-lDSnQBbVMc&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=4&sig=-lDSnQBbVMc&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=0&sig=Ku3v2hPecSw&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=0&sig=Ku3v2hPecSw&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=1&sig=1fE1GZlUkcg&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=1&sig=1fE1GZlUkcg&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=2&sig=leeFLyGSL_o&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1695603438060&srcIp=40.86.168.238&pr=10&srcAg=GECKO&ms=95.142.206.130&type=2&sig=leeFLyGSL_o&ct=0&urls=45.136.22.60%3B45.136.20.53&clientType=0&zs=43&id=5220100541146"
                     }
                 ],
                 "passed": true

@@ -252,19 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=VmpPlvqAbbhKlK1&expires=1695627999&ip=F0qQKRWQE19XKxR&token=1i5f0qmECHse",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=VmpPlvqAbbhKlK1&expires=1695627999&ip=F0qQKRWQE19XKxR&token=1i5f0qmECHse"
-                    },
-                    {
-                        "url": "https://valeronevijao.com/access/eyJpdiI6Ikt2Ukg3V1JvYWIzYjBQaVBuWHhsWVE9PSIsInZhbHVlIjoiUVovMTR5cllCd1lrNitpQnkwMnlGbVNTcE1MUkgzemlwZ0VJc2lHNlZsMHhoSGxUcmpuMVlUWVBNcS80MjZxaFN0M3JWTkFtN2ZtdjVLNHlnQUpEbFE9PSIsIm1hYyI6ImUyODE2YmE3ZWMxNDcwMjFkMTBmNzhjMTQzNjQyNmZlMDQ0NjgxYTg2YzRlODIyMDE2YjIyZGJhYTE5ZjA2ZDMiLCJ0YWciOiIifQ==?o=0",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-tgot70qvtwxjooll.voe-network.net/engine/hls2/01/09574/gcwbtdn1quwy_,n,.urlset/master.m3u8?t=u-i95PtQY3uIDu4hNblCsCaHLirxOOk2QubjsXsiRcI&s=1695557998&e=14400&f=47870587&node=delivery-node-tgot70qvtwxjooll.voe-network.net&i=172.177&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

@@ -694,12 +694,31 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/kengan-ashura-season-2-12",
+                        "name": "Episodio 12.0",
+                        "date_upload": 1695513600000,
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/v/kengan-ashura-season-2-11",
+                        "name": "Episodio 11.0",
+                        "date_upload": 1695513600000,
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=yDA3vQ9KlzSk3W&expires=1695673191&ip=FROsD0ESKxSHDN&token=pV7qnpjPFpKH",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=yDA3vQ9KlzSk3W&expires=1695673191&ip=FROsD0ESKxSHDN&token=pV7qnpjPFpKH"
+                    }
+                ],
+                "passed": true
             }
         }
     }

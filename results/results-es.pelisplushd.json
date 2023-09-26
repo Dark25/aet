@@ -291,8 +291,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/fihqjjkwqjvp",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-mlrmv9slipzrhwsm.voe-network.net/engine/hls2-c/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=mGmECZ6MmBkfjn_6c6LCNyP1KXLZkOt1CGa7RAZwv9w&s=1695752170&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=52.176&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695822169&ip=G0WsD0EPKxSHDN&token=JI8MUpWiABP8",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695822169&ip=G0WsD0EPKxSHDN&token=JI8MUpWiABP8"
+                    },
+                    {
+                        "url": "https://voe.sx/e/fihqjjkwqjvp",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-mlrmv9slipzrhwsm.voe-network.net/engine/hls2-c/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=mGmECZ6MmBkfjn_6c6LCNyP1KXLZkOt1CGa7RAZwv9w&s=1695752170&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=52.176&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },

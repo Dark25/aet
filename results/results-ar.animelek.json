@@ -3,7 +3,7 @@
         "name": "AnimeLek (AR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
@@ -242,9 +242,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nt25no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3xc77hxjx4rjppeq/v.mp4",
+                        "url": "https://nt26no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3rj7wfaukv6bfx6q/v.mp4",
                         "quality": "Vidbom: 720p",
-                        "videoUrl": "https://nt25no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3xc77hxjx4rjppeq/v.mp4"
+                        "videoUrl": "https://nt26no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3rj7wfaukv6bfx6q/v.mp4"
                     }
                 ],
                 "passed": true

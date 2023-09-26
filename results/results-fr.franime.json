@@ -2356,32 +2356,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.myvi.tv/stream/LyZ63L-mOkGnpvTeZNhxjg2/2.mp4?s=jcdaUBTFn6XeibaYnnrKeSxCo7nA69aBtekksSsdrAVEL4LRDPUGzTx86ya5E1-3rR25Wzs-mOc86FVYzMc0yw2&r=8eqe-Tk4BIy1TtvXVFg4eByJlcduKHNJ-ZQe4m6kXGdoLr6XlPXTJnng1OJP8Z4W0&d=1422176&ri=_V4PGUIHT0iUcBcglFYWuQ2",
-                        "quality": "Mytv",
-                        "videoUrl": "https://www.myvi.tv/stream/LyZ63L-mOkGnpvTeZNhxjg2/2.mp4?s=jcdaUBTFn6XeibaYnnrKeSxCo7nA69aBtekksSsdrAVEL4LRDPUGzTx86ya5E1-3rR25Wzs-mOc86FVYzMc0yw2&r=8eqe-Tk4BIy1TtvXVFg4eByJlcduKHNJ-ZQe4m6kXGdoLr6XlPXTJnng1OJP8Z4W0&d=1422176&ri=_V4PGUIHT0iUcBcglFYWuQ2"
-                    },
-                    {
-                        "url": "https://fs91.myvi.tv:8092/CL/eg/EO/XS/A0/ye/kM/5z/TI/A9/9g/2/2.mp4?&s=-8V6U-Id9zJsCSTf3vGjLxken2DxW87xFOkh_8MV_FPPLDzC1wzVqLyVDgw7RqJXPxRARv59-f3ZZs11DyegSQ2&r=ziu_HaJeeiurm0XgBSciYN9uip5_ryruudq96XUuYUY1&do=1418&d=1277&ri=3Qa1c34HxUeRl58PmIF4EQ2",
-                        "quality": "FRAnime",
-                        "videoUrl": "https://fs91.myvi.tv:8092/CL/eg/EO/XS/A0/ye/kM/5z/TI/A9/9g/2/2.mp4?&s=-8V6U-Id9zJsCSTf3vGjLxken2DxW87xFOkh_8MV_FPPLDzC1wzVqLyVDgw7RqJXPxRARv59-f3ZZs11DyegSQ2&r=ziu_HaJeeiurm0XgBSciYN9uip5_ryruudq96XUuYUY1&do=1418&d=1277&ri=3Qa1c34HxUeRl58PmIF4EQ2"
-                    },
-                    {
-                        "url": "https://www.myvi.top/stream/CLegEOXSA0yekM5zTIA99g2/2.mp4?s=tBkf4NrY7L1snGWnLNpUIXNNfWM5-tN3dn9faikAlW7kiZAS61HT7a3jF0_04RqDrR25Wzs-mOc86FVYzMc0yw2&r=XWKDt2HpWTzLQ4RK34jLPAB6Fr5kEeBhSVu1PykkOKq2PqNhwMU4YkyElg1J5z7G0&d=1418067&ri=1JZfTHOPP06G7O4lc72UmQ2",
-                        "quality": "Mytv",
-                        "videoUrl": "https://www.myvi.top/stream/CLegEOXSA0yekM5zTIA99g2/2.mp4?s=tBkf4NrY7L1snGWnLNpUIXNNfWM5-tN3dn9faikAlW7kiZAS61HT7a3jF0_04RqDrR25Wzs-mOc86FVYzMc0yw2&r=XWKDt2HpWTzLQ4RK34jLPAB6Fr5kEeBhSVu1PykkOKq2PqNhwMU4YkyElg1J5z7G0&d=1418067&ri=1JZfTHOPP06G7O4lc72UmQ2"
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/869934d837083000ee8b3069d46de2dd/4776463.mp4",
-                        "quality": "Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/869934d837083000ee8b3069d46de2dd/4776463.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4776463"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

@@ -178,22 +178,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m10.vudeo.co/2vp3v6v52avjdohilpirtm42t6iezmnhlaeflpy7adb4wlk5vsiaqjqxw3ia/v.mp4",
-                        "quality": "Vudeo",
-                        "videoUrl": "https://m10.vudeo.co/2vp3v6v52avjdohilpirtm42t6iezmnhlaeflpy7adb4wlk5vsiaqjqxw3ia/v.mp4",
-                        "headers": {
-                            "referer": "https://vudeo.net/"
-                        }
-                    },
-                    {
-                        "url": "https://www.myvi.tv/stream/h-WHAyRM8kKYKf0hmHAdfg2/2.mp4?s=tirVPI5zL_7Du035d-P-GI7WsMIps0jVr4ruaY7wqhNTtJ_abSQoyU4C-G1ZPZv9HlHF8ntzsHIxPfJYSMUSpA2&r=RKipzyGZncm1FFqCXb6zGajm1SDqx7YDCOFEfMXz9NO08Mno_IVvb_DGI1tvZD630&d=4841583&ri=1piHHDLVm0atVxnzXmYw_g2",
-                        "quality": "Mytv",
-                        "videoUrl": "https://www.myvi.tv/stream/h-WHAyRM8kKYKf0hmHAdfg2/2.mp4?s=tirVPI5zL_7Du035d-P-GI7WsMIps0jVr4ruaY7wqhNTtJ_abSQoyU4C-G1ZPZv9HlHF8ntzsHIxPfJYSMUSpA2&r=RKipzyGZncm1FFqCXb6zGajm1SDqx7YDCOFEfMXz9NO08Mno_IVvb_DGI1tvZD630&d=4841583&ri=1piHHDLVm0atVxnzXmYw_g2"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

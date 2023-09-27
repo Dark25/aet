@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/fihqjjkwqjvp",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=AM5vDmOI2vXdLbzpoErxyQjjpmt41XcPyfGSJGgsTAs&s=1695776031&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=52.190&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=YTO9s4rIRlMeoPTbf5cuT9IUbKYsVNZUVFhPVpx44A4&s=1695795416&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=104.45&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695846030&ip=G0WsD0cRKxSHDN&token=IZrFt6R1Qo4r",
+                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695865415&ip=F0OSKRqOKxSHDN&token=M2vnTlvXA3D3",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695846030&ip=G0WsD0cRKxSHDN&token=IZrFt6R1Qo4r"
+                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695865415&ip=F0OSKRqOKxSHDN&token=M2vnTlvXA3D3"
                     },
                     {
                         "url": "https://voe.sx/e/fihqjjkwqjvp",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=AM5vDmOI2vXdLbzpoErxyQjjpmt41XcPyfGSJGgsTAs&s=1695776031&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=52.190&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=YTO9s4rIRlMeoPTbf5cuT9IUbKYsVNZUVFhPVpx44A4&s=1695795416&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=104.45&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/pecado-amish",
+                                "title": "Pecado Amish (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zjNoVOSk1alE9W37uB0S0cQlH5H.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mi-gran-boda-griega-3",
+                                "title": "Mi gran boda griega 3 (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/sELPfcRyVmqncxbHCd1Lxc8HdXD.jpg"
+                            },
                             {
                                 "url": "/pelicula/la-emboscada",
                                 "title": "La emboscada (2023)",
@@ -428,16 +438,6 @@
                                 "url": "/pelicula/ploey-nunca-volaras-solo",
                                 "title": "PLOEY: Nunca Volarás Solo (2018)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/hKuuSKUTw5SZ11ANfamPbCzkvS8.jpg"
-                            },
-                            {
-                                "url": "/pelicula/jessabelle",
-                                "title": "Jessabelle (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oyszsO25OfSxkxhKCCnk9ZrAjkp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/le-llamaban-jeeg-robot",
-                                "title": "Le llamaban Jeeg Robot (2015)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/4K37LTb9IzzDEKgseT6hJ8FOrY1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-emboscada",
-                    "title": "La emboscada (2023)",
-                    "description": "Un grupo de jóvenes comandos de élite, liderados por el Capitán Drummond, tienen la tarea de recopilar información altamente clasificada que puede cambiar el destino de la guerra.",
-                    "genre": "Acción, Suspense, Bélica",
+                    "url": "/pelicula/pecado-amish",
+                    "title": "Pecado Amish (2022)",
+                    "description": "Una adolescente amish intenta escapar del duro estilo de vida del siglo XVIII donde creció, para encontrar su propia voz e independencia.",
+                    "genre": "Drama, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-emboscada",
+                        "url": "/pelicula/pecado-amish",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

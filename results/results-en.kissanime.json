@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Odekake-Kozame/",
+                                "title": "A Little Shark Going Out",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
+                            },
+                            {
+                                "url": "/Anime/helck.53960/",
+                                "title": "Helck",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Helck.jpg"
+                            },
+                            {
+                                "url": "/Anime/Suki-na-Ko-ga-Megane-wo-Wasureta/",
+                                "title": "The Girl I Like Forgot Her Glasses",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/The-Girl-I-Like-Forgot-Her-Glasses.jpg"
+                            },
+                            {
                                 "url": "/Anime/Akuma-kun/",
                                 "title": "Devil Boy",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Devil-Boy.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/The-Devil-is-a-Part-Timer-Season-3-Dub/",
                                 "title": "The Devil is a Part-Timer! Season 3 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/The-Devil-is-a-Part-Timer-Season-3-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Link-Click-Season-2-Dub/",
-                                "title": "Link Click Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/Link-Click-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Great-Cleric-Dub/",
-                                "title": "The Great Cleric (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/The-Great-Cleric-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/JUJUTSU-KAISEN-Season-2-Dub/",
-                                "title": "JUJUTSU KAISEN Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/JUJUTSU-KAISEN-Season-2-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,8 +1063,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s44.openstream.io/hls/qvsbf3e4mxblgwsztsy2ay6lkoj3jpzmlhv7xutlaxfqr2nwdvvc3l5ymrpq/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s44.openstream.io/hls/qvsbf3e4mxblgwsztsy2ay6lkoj3jpzmlhv7xutlaxfqr2nwdvvc3l5ymrpq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s44.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

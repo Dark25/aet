@@ -3,26 +3,23 @@
         "name": "Membed (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: membed1.com: Temporary failure in name resolution",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: membed1.com",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.UnknownHostException: membed1.com",
+                "passed": false
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.UnknownHostException: membed1.com",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: membed1.com",
                 "passed": false
             }
         }

@@ -163,8 +163,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.asd52.workers.dev/fedf4a3f59bca7f5510f3e1663bb9789/driveleech.org/My.Big.Fat.Greek.Wedding.3.2023.1080p.MA.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  5.48GB ",
+                        "videoUrl": "https://0.asd52.workers.dev/fedf4a3f59bca7f5510f3e1663bb9789/driveleech.org/My.Big.Fat.Greek.Wedding.3.2023.1080p.MA.WEBDL.DDP5.1.Atmos.H.264FLUX.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

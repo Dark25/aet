@@ -12,11 +12,6 @@
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/john-wick.jpg"
                             },
                             {
-                                "url": "/stream/sisu",
-                                "title": "Sisu",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sisu.jpg"
-                            },
-                            {
                                 "url": "/stream/spider-man-no-way-home",
                                 "title": "Spider-Man: No Way Home",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/spider-man-no-way-home.jpg"
@@ -165,6 +160,11 @@
                                 "url": "/stream/edge-of-tomorrow",
                                 "title": "Edge of Tomorrow",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/edge-of-tomorrow.jpg"
+                            },
+                            {
+                                "url": "/stream/vaiana",
+                                "title": "Vaiana",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/vaiana.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://h9l6jg3nmq859.streamvid.net/hls/,n5ajq6s33zmne42h4vsqjbjc2t4l4edeq4gfn2cusofl35s7zohjd6lmcfmq,.urlset/master.m3u8",
+                        "quality": "StreamVid",
+                        "videoUrl": "https://h9l6jg3nmq859.streamvid.net/hls/,n5ajq6s33zmne42h4vsqjbjc2t4l4edeq4gfn2cusofl35s7zohjd6lmcfmq,.urlset/master.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

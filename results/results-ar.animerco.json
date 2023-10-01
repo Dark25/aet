@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/j39TyyUjlOd1lYUUGWh7jIza9jn.jpg"
+                            },
+                            {
                                 "url": "/animes/seiken-gakuin-no-makentsukai/",
                                 "title": "Seiken Gakuin no Makentsukai",
                                 "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/animes/liar-liar/",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/A0bEBSdrB0wqUq81X277AyTfsn6.jpg"
-                            },
-                            {
-                                "url": "/animes/ai-no-idenshi/",
-                                "title": "AI no Idenshi",
-                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/eKsF9E1USSLJvqwAXO1NDtREtQ5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,64 +169,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/seiken-gakuin-no-makentsukai/",
-                    "title": "Seiken Gakuin no Makentsukai",
-                    "artist": "Passione",
-                    "author": "TV Tokyo",
-                    "description": "استيقظ سبد الظلام ليونيس من حالة السبات السحري بعد ألف عام، ليجد نفسه فجأة في جسد صبي عمره عشر سنوات. سرعان ما يلتقي بريسيليا، وهي فتاة تواجه مخلوقات الفراغ، التي كادت تقضي على البشرية تقريباً بأكملها. مصممًا على كشف أسرار هذا العصر الجديد الغامض، يلتحق ليونيس بأكاديمية إكسكاليبور، التي تدرب الطلاب على مواجهة هذه الوحوش الغامضة. هل يمكن أن يكون لمخلوقات الفراغ صلة بماضي ليونيس؟\n\nAlternative title: The Demon Sword Master of Excalibur Academy",
-                    "genre": "أكشن, حريم, خيال, مدرسي",
+                    "url": "/animes/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
+                    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                    "artist": "C2C",
+                    "author": "ATV, Broadcasting System of San-in, BSN, CBC, HBC, Hokuriku Broadcasting, i-Television, IBC Iwate Broadcasting, MBC South Japan Broadcasting, MBS, MRT Miyazaki Broadcasting, Nagasaki Broadcasting Company, Oita Broadcasting System, RCC, RKB, RKK Kumamoto Broadcasting, RSK, Ryukyu Broadcasting, SBC, SBS TV, TBS, Tohoku Broadcasting, Tulip Television, TV Kochi Broadcasting, TV Yamanashi, TV-U Fukushima, TV-U Yamagata, tys",
+                    "description": "راكورو هيزوتوم، هو لاعب العاب فيديو يمضي معظم وقته في البحث عن أسوأ الألعاب واستكمالها بشكل كامل. بعدما انتهى من لعبة بصعوبة فائقة، قرر هيزوتوم أن يجرب لعبة “شانغري-لا فرونتير”، وهي لعبة واقع افتراضي تحظى بشعبية هائلة حيث تمتلك ما يقرب من 30 مليون مشترك. ولكن ما لا يعلمه هيزوتوم هو أن هذه اللعبة تحمل العديد من الأسرار، وحتى بالنسبة لخبير مثله الذي تغلب بالفعل على أصعب الألعاب، قد يجد نفسه عاجزًا أمام التحديات التي تنتظره. تحت اسمه الافتراضي العادي “سانراكو”، ينطلق هيزوتوم في مغامرة تعتبر مختلفة تمامًا عن ما اعتاد عليه…\n\nAlternative title: Shangri-La Frontier",
+                    "genre": "أكشن, خيال, شونين, لعبة, مغامرة",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
+                    "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/j39TyyUjlOd1lYUUGWh7jIza9jn.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/seiken-gakuin-no-makentsukai-الحلقة-1/",
-                        "name": "Seiken Gakuin no Makentsukai الموسم 1: الحلقة 1",
-                        "episode_number": 1.001
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www12.mp4upload.com:183/d/q6xt7rhuz3b4quuod6quuksmi7paon5ebsqnj7jrj24c4gnez3dqyu5ty4sal6bw44oxh6nm/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xt7rhuz3b4quuod6quuksmi7paon5ebsqnj7jrj24c4gnez3dqyu5ty4sal6bw44oxh6nm/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m50.uqload.io/3rfku23drbw2q4drdkypxifxddckmydkmlo4kzoecnqpqlec3adtacbr3waq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m50.uqload.io/3rfku23drbw2q4drdkypxifxddckmydkmlo4kzoecnqpqlec3adtacbr3waq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20230930s2nMUkd2150/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20230930s2nMUkd2150/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=0S5KpwQ8BbCTBQUqUOMsIgQI0GMeUXVV2bAAlYFniG8CXpfi%2Br72TAjpkUyVwnL8dsuJoEzon1P8mBqQH6qa5OZQT%2FQg9CjebQCdYDnUnlQEQLyZ4YxU8UlKRX8IHjkbP%2FKqrcIbjDUhDcgGhkFMvw&ref=&sandbox=&t=&res=360",
-                        "quality": "GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=0S5KpwQ8BbCTBQUqUOMsIgQI0GMeUXVV2bAAlYFniG8CXpfi%2Br72TAjpkUyVwnL8dsuJoEzon1P8mBqQH6qa5OZQT%2FQg9CjebQCdYDnUnlQEQLyZ4YxU8UlKRX8IHjkbP%2FKqrcIbjDUhDcgGhkFMvw&ref=&sandbox=&t=&res=360"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,8 +7,64 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/gen-v",
+                                "title": "Gen V",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/gen-v.jpg"
+                            },
+                            {
+                                "url": "/serie/castlevania-nocturne",
+                                "title": "Castlevania: Nocturne",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/castlevania-nocturne.jpg"
+                            },
+                            {
+                                "url": "/serie/fenris",
+                                "title": "Fenris",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/fenris.jpg"
+                            },
+                            {
+                                "url": "/serie/the-irrational",
+                                "title": "The Irrational",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-irrational.jpg"
+                            },
+                            {
+                                "url": "/serie/krapopolis",
+                                "title": "Krapopolis",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/krapopolis.jpg"
+                            },
+                            {
+                                "url": "/serie/song-of-the-bandits",
+                                "title": "Song of the Bandits",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/song-of-the-bandits.jpg"
+                            },
+                            {
+                                "url": "/serie/still-up",
+                                "title": "Still Up",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/still-up.jpg"
+                            },
+                            {
+                                "url": "/serie/the-continental-from-the-world-of-john-wick",
+                                "title": "The Continental: From the World of John Wick",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-continental-from-the-world-of-john-wick.jpg"
+                            },
+                            {
+                                "url": "/serie/miseducation",
+                                "title": "Miseducation",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/miseducation.jpg"
+                            },
+                            {
+                                "url": "/serie/wilderness",
+                                "title": "Wilderness",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/wilderness.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -52,10 +108,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/edge-of-the-world",
-                    "title": "Edge of the World",
-                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
-                    "genre": "Adventure, Drama",
+                    "url": "/serie/gen-v",
+                    "title": "Gen V (2023-)",
+                    "description": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
+                    "genre": "Action, Adventure, Comedy",
                     "initialized": true
                 },
                 "passed": true
@@ -63,9 +119,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/edge-of-the-world/download/",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/serie/gen-v/season-1#3",
+                        "name": "Episode S1E3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/serie/gen-v/season-1#2",
+                        "name": "Episode S1E2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -73,14 +134,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
-                        "quality": "480p",
-                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
-                    },
-                    {
-                        "url": "https://dood.la/d/o16rzvmsv5u2",
-                        "quality": "720p",
-                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
+                        "url": "https://dl4.fbserver.site/Series/Gen%20V/S01/480p/Gen.V.S01E03.480p.WEBRip.x264.RMT.FilmBan.mkv",
+                        "quality": "480px",
+                        "videoUrl": "https://dl4.fbserver.site/Series/Gen%20V/S01/480p/Gen.V.S01E03.480p.WEBRip.x264.RMT.FilmBan.mkv"
                     }
                 ],
                 "passed": true

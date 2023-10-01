@@ -386,23 +386,139 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/accel-world/",
+                                "title": "Accel World",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/accel-world.jpg"
+                            },
+                            {
+                                "url": "/accel-world-ex/",
+                                "title": "Accel World EX",
+                                "genre": "Concluido, OVA",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/accel-world-ex.jpg"
+                            },
+                            {
+                                "url": "/accel-world-specials/",
+                                "title": "Accel World Specials",
+                                "genre": "Concluido, Especial",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/accel-world-specials.jpg"
+                            },
+                            {
+                                "url": "/another-world/",
+                                "title": "Another World",
+                                "genre": "Concluido, ONA",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/another-world.jpg"
+                            },
+                            {
+                                "url": "/arata-naru-sekai-mirai-hen/",
+                                "title": "Arata naru Sekai: Mirai-hen",
+                                "genre": "Concluido, OVA",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/arata-naru-sekai-mirai-hen.jpg"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-the-movie-3-world-heroes-mission/",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "genre": "Concluido, Pelicula",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/boku-no-hero-academia-the-movie-3-world-heroes-mission.jpg"
+                            },
+                            {
+                                "url": "/clannad-another-world-kyou-chapter/",
+                                "title": "Clannad: Another World, Kyou Chapter",
+                                "genre": "Concluido, Especial",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/clannad-another-world-kyou-chapter.jpg"
+                            },
+                            {
+                                "url": "/clannad-another-world-tomoyo-chapter/",
+                                "title": "Clannad: Another World, Tomoyo Chapter",
+                                "genre": "Concluido, Especial",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/clannad-another-world-tomoyo-chapter.jpg"
+                            },
+                            {
+                                "url": "/death-march-kara-hajimaru-isekai-kyousoukyoku/",
+                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/death-march-kara-hajimaru-isekai-kyousoukyoku.jpg"
+                            },
+                            {
+                                "url": "/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dr-stone-new-world.jpg"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "genre": "Por estrenar, Anime",
+                                "status": 1,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dr-stone-new-world-part-2.jpg"
+                            },
+                            {
+                                "url": "/dragon-ball-z-movie-02-the-worlds-strongest/",
+                                "title": "Dragon Ball Z Movie 02: The World's Strongest",
+                                "genre": "Concluido, Pelicula",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dragon-ball-z-movie-02-the-worlds-strongest.jpg"
+                            }
                         ],
-                        "hasNextPage": false
+                        "hasNextPage": true
                     }
                 ],
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/kimetsu-no-yaiba-movie-mugen-ressha-hen/",
+                    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+                    "author": "ufotable",
+                    "description": "Tanjirou Kamado y sus amigos del Demon Slayer Corps acompañan a Kyoujurou Rengoku, el Flame Hashira, para investigar una misteriosa serie de desapariciones que ocurren dentro de un tren. Poco saben que Enmu, uno de los Doce Kizuki, también está a bordo y les ha preparado una trampa.",
+                    "genre": "Sobrenatural, Shounen, Historico, Demonios, Accion",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kimetsu-no-yaiba-movie-mugen-ressha-hen.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kimetsu-no-yaiba-movie-mugen-ressha-hen//1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "null",
+                        "quality": "Nozomi",
+                        "videoUrl": "null"
+                    },
+                    {
+                        "url": "https://moodle1.myyschool.xyz/ZXNSeDVIaStEWTVIUzZkRnZGYjlkc2lPVHYvOHo5U2xlNWxQVGdBYmRBVT0.m3u8",
+                        "quality": "Desu",
+                        "videoUrl": "https://moodle1.myyschool.xyz/ZXNSeDVIaStEWTVIUzZkRnZGYjlkc2lPVHYvOHo5U2xlNWxQVGdBYmRBVT0.m3u8"
+                    },
+                    {
+                        "url": "https://jkanime.net/stream/jkmedia/147daaa4d649f65f12a78c8048338128/0f40333b749a2a6d1bc5706accd73329/1/5776498e54c8afcfa38da4267f6572b5/",
+                        "quality": "Xtreme S",
+                        "videoUrl": "https://jkanime.net/stream/jkmedia/147daaa4d649f65f12a78c8048338128/0f40333b749a2a6d1bc5706accd73329/1/5776498e54c8afcfa38da4267f6572b5/"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -167,6 +167,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/tian-guan-ci-fu-2nd-season",
+                                "title": "Tian Guan Ci Fu 2nd Season",
+                                "description": "Segunda temporada de Heaven Official's Blessing",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/651995ae77de8/tian-guan-ci-fu-2nd-season.jpg"
+                            },
+                            {
                                 "url": "/sasaki-to-miyano-movie-sotsugyou-hen",
                                 "title": "Sasaki to Miyano Movie: Sotsugyou-hen",
                                 "description": "La graduación de Sasaki se acerca, ¿qué significará eso para su relación con Miya? Nuevos sentimientos, nuevos temores, pero el amor de siempre.",
@@ -309,12 +315,6 @@
                                 "title": "Arknights [Fuyukomori Kaerimichi]",
                                 "description": "Oripatía, una enfermedad incurable que poco a poco cristaliza los cuerpos de los infectados hasta la muerte. Rhodes Island es una empresa farmacéutica que se esfuerza por encontrar una cura y resolver los problemas que surgen tras la enfermedad. y en un intento de poner fin a la revuelta de la organización terrorista conocida como Movimiento Reunión cuyo objetivo final es la salvación de los infectados, La isla de Rodas ha firmado un contrato con la ciudad yanese de Lungmen y continúa su misión allí. Sin embargo, Amiya se ha sentido abatida desde su batalla contra Skullshatterer, incapaz de aceptar el hecho de que no pudieron salvar a Misha. Mientras tanto, la isla de Rodas despliega un escuadrón de reconocimiento en una ciudad abandonada descubierta en la campiña de Lungmen. Allí, el escuadrón nota un extraño fenómeno que se desarrolla ante ellos...",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6510ec336d055/arknights-fuyukomori-kaerimichi.jpg"
-                            },
-                            {
-                                "url": "/hypnosismic-division-rap-battle-rhyme-anima",
-                                "title": "Hypnosis Mic: Division Rap Battle- Rhyme Anima +",
-                                "description": "El legendario grupo de rap The Dirty Dawg podría haber conquistado Japón, pero luego se separaron. Ahora cada integrante pelea en uno de los cuatro grupos rivales. Las batallas por el territorio se libran con rap y Hypnosis Mic, un micrófono que puede afectar el espíritu humano.",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6510ebb720b24/hypnosismic-division-rap-battle-rhyme-anima.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -475,61 +475,12 @@
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/hanyo-no-yashahime-24",
-                        "name": "Episodio  24",
-                        "episode_number": 24.0
-                    },
-                    {
-                        "url": "/ver/hanyo-no-yashahime-23",
-                        "name": "Episodio  23",
-                        "episode_number": 23.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/05DEfr7kkIgxCebvlaSDhmAy7SDOPHBHQ9hW18ssj9UeJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/05DEfr7kkIgxCebvlaSDhmAy7SDOPHBHQ9hW18ssj9UeJxFPc"
-                    },
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/qWmxCz5-e6auvNRtU1d9nbNo_iyAhoEyOQAIch491RgeJxFPc",
-                        "quality": "Amazon ES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/qWmxCz5-e6auvNRtU1d9nbNo_iyAhoEyOQAIch491RgeJxFPc"
-                    },
-                    {
-                        "url": "https://cdn.burstcloud.co/a20231001O6J4BlPX4mU/Yashahime 24.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20231001O6J4BlPX4mU/Yashahime 24.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.burstcloud.co/"
-                        }
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwamxo2vczrcoezoiw5dfv4ug6cwwl5/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwamxo2vczrcoezoiw5dfv4ug6cwwl5/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a202310015H82GycK5Du/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202310015H82GycK5Du/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

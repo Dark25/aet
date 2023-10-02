@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/maiko-san-chino-makanai-san-live-action-sub-espanol",
+                                "title": "Maiko-san Chino makanai-san Live Action",
+                                "description": "Maiko-san Chino makanai-san Live Action",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/maiko-san-chino-makanai-san-live-action-1696268219.jpg"
+                            },
+                            {
                                 "url": "/dorama/makanai-la-cocinera-de-las-maiko-latino-sub-espanol",
                                 "title": "Makanai: La cocinera de las maiko Latino",
                                 "description": "Makanai: La cocinera de las maiko Latino",
@@ -179,12 +185,6 @@
                                 "title": "Super Junior The Last Man Standing",
                                 "description": "Super Junior The Last Man Standing",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/super-junior-the-last-man-standing-1695340136.jpg"
-                            },
-                            {
-                                "url": "/dorama/the-interest-of-love-sub-espanol",
-                                "title": "The Interest of Love",
-                                "description": "The Interest of Love",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-interest-of-love-1695321525.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,8 +280,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/makanai-la-cocinera-de-las-maiko-latino-sub-espanol",
-                    "title": "Makanai: La cocinera de las maiko Latino (0)",
+                    "url": "/dorama/maiko-san-chino-makanai-san-live-action-sub-espanol",
+                    "title": "Maiko-san Chino makanai-san Live Action (0)",
                     "description": "Versión live-action de la serie anime \"Maiko-san Chi no Makanai-san\", sobre dos amigas que se mudan de Aomori a Kyoto, soñando en convertirse en \"maikos\" (aprendices de geisha). Tras unos años, mientras Sumire alcanza su sueño, Kiyo acaba trabajando en la cocina de una casa de maikos. ",
                     "genre": "Comedia, Drama, J-Drama",
                     "status": 2,
@@ -291,37 +291,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/makanai-la-cocinera-de-las-maiko-latino-episodio-9",
-                        "name": "Episodio 9.0",
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/ver/makanai-la-cocinera-de-las-maiko-latino-episodio-8",
-                        "name": "Episodio 8.0",
-                        "episode_number": 8.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd433.mycdn.me/?expires=1696335850683&srcIp=40.122.235.125&pr=10&srcAg=GECKO&ms=45.136.21.30&type=3&sig=DuZrPYr31yY&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5153039059487",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd433.mycdn.me/?expires=1696335850683&srcIp=40.122.235.125&pr=10&srcAg=GECKO&ms=45.136.21.30&type=3&sig=DuZrPYr31yY&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5153039059487"
-                    },
-                    {
-                        "url": "https://m20.uqload.io/3rfkr4thrbw2q4drdkypx55idbbsemnryf3f6bvrwll766yl6v7sgboglaca/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m20.uqload.io/3rfkr4thrbw2q4drdkypx55idbbsemnryf3f6bvrwll766yl6v7sgboglaca/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

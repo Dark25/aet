@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//migi-to-dali",
+                                "title": "Migi to Dali",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/migi-to-dali/cover/fbd4c296.jpg"
+                            },
+                            {
                                 "url": "//captain-tsubasa-2018",
                                 "title": "Captain Tsubasa (2018)",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Kanojo, Okarishimasu 3rd Season",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/kanojo-okarishimasu-3rd-season/cover/3c31fef5.jpg"
-                            },
-                            {
-                                "url": "//higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
-                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu/cover/6088a944.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//migi-to-dali",
+                                "title": "Migi to Dali",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/migi-to-dali/cover/fbd4c296.jpg"
+                            },
+                            {
                                 "url": "//captain-tsubasa-2018",
                                 "title": "Captain Tsubasa (2018)",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Kanojo, Okarishimasu 3rd Season",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/kanojo-okarishimasu-3rd-season/cover/3c31fef5.jpg"
-                            },
-                            {
-                                "url": "//higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
-                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu/cover/6088a944.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,43 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//captain-tsubasa-2018",
-                    "title": "Captain Tsubasa (2018)",
-                    "description": "Cuenta la historia de Tsubasa Oozora, un niño de 11 años cuyos sueños giran en torno al fútbol. Tsubasa empezó a jugar al fútbol desde muy pequeño y aunque sus amigos lo ven como un entretenimiento, para él es una obsesión. Nueva serie basada en el manga \"Oliver y Benji\", de Yōichi Takahashi.",
-                    "genre": "Deportes",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://static.animeid.tv/art/captain-tsubasa-2018/cover/4265ee87.jpg",
+                    "url": "//migi-to-dali",
+                    "title": "Migi to Dali",
+                    "description": "Una cigüeña lleva al ángel Hitori a una pareja de mediana edad que no han podido tener hijos. Hitori tiene ahora unos padres generosos, una amplia casa, y su comida caliente. Pero para protejer la felicidad que ha recibido, Hitori tiene que esconder un importante secreto a sus padres adoptivos...",
+                    "genre": "Misterio, Seinen, Otoño 2023",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://static.animeid.tv/art/migi-to-dali/cover/fbd4c296.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/captain-tsubasa-2018-52",
-                        "name": "Episodio 52.0",
-                        "date_upload": 1696118400000,
-                        "episode_number": 52.0
-                    },
-                    {
-                        "url": "/v/captain-tsubasa-2018-51",
-                        "name": "Episodio 51.0",
-                        "date_upload": 1696118400000,
-                        "episode_number": 51.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=8P6oPKMQJ4uGzm&expires=1696297387&ip=FROsExSnDS9X&token=CrHhfaVr_rNJ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8P6oPKMQJ4uGzm&expires=1696297387&ip=FROsExSnDS9X&token=CrHhfaVr_rNJ"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

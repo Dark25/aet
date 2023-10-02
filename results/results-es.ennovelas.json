@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/ella-camina-sola/",
+                                "title": "Ella camina sola",
+                                "description": "",
+                                "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/10/Ella-camina-sola.jpg"
+                            },
+                            {
                                 "url": "/series/tierra-brava/",
                                 "title": "Tierra Brava",
                                 "description": "",
@@ -209,12 +215,6 @@
                                 "title": "La Escuela de la Vida (Miseducation )",
                                 "description": "",
                                 "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/09/Miseducation-470x470.jpg"
-                            },
-                            {
-                                "url": "/series/ana-de-nadie-hz/",
-                                "title": "Ana de nadie",
-                                "description": "",
-                                "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/03/Ana-de-nadie.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -246,12 +246,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/tierra-brava/",
-                    "title": "Tierra Brava",
-                    "artist": "",
+                    "url": "/series/ella-camina-sola/",
+                    "title": "Ella camina sola",
+                    "artist": "Christopher Von Uckermann",
                     "author": "2023",
-                    "description": "Tierra Brava",
-                    "genre": "Drama, Reality-TV, Telenovelas Chilenas online gratis",
+                    "description": "Ella camina sola",
+                    "genre": "Drama, Novelas Mexicanas Completas Online Gratis",
                     "initialized": true
                 },
                 "passed": true
@@ -259,16 +259,25 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/tierra-brava-capitulo-1/",
-                        "name": "T - E1 - Capitulo 1",
+                        "url": "/ella-camina-sola-capitulo-1/",
+                        "name": "T1 - E1 - Capitulo 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno-03-d1-2e.vmrest.space/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65pwybcbba6dlrslyghmka/index-v1-a1.m3u8",
+                        "quality": " - 1080p",
+                        "videoUrl": "https://eno-03-d1-2e.vmrest.space/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65pwybcbba6dlrslyghmka/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

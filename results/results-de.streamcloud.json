@@ -3,34 +3,23 @@
         "name": "StreamCloud (DE)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://streamcloud.cam",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             }
         }

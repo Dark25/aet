@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/hf1vsrabkwp1",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09616/hf1vsrabkwp1_,n,.urlset/master.m3u8?t=x-HGun3p2_IEVeSpo46U5IrGwIRFZyBQWg2LLnE2Bl8&s=1696270583&e=14400&f=48082558&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=20.185&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09616/hf1vsrabkwp1_,n,.urlset/master.m3u8?t=KJ8XxOBX6tOYLSADcoa7GbeRniHHZSgHSgumN67h73c&s=1696294451&e=14400&f=48082558&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=138.91&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/hf1vsrabkwp1",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09616/hf1vsrabkwp1_,n,.urlset/master.m3u8?t=x-HGun3p2_IEVeSpo46U5IrGwIRFZyBQWg2LLnE2Bl8&s=1696270583&e=14400&f=48082558&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=20.185&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09616/hf1vsrabkwp1_,n,.urlset/master.m3u8?t=KJ8XxOBX6tOYLSADcoa7GbeRniHHZSgHSgumN67h73c&s=1696294451&e=14400&f=48082558&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=138.91&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -606,6 +606,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/enredados-por-siempre/",
+                                "title": "Enredados Por Siempre",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/enredados-por-siempre.jpg"
+                            },
+                            {
                                 "url": "/pelicula/me-gustan-las-pelis/",
                                 "title": "Me gustan las pelis",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/me-gustan-las-pelis.jpg"
@@ -699,11 +704,6 @@
                                 "url": "/pelicula/la-maravillosa-vida-de-henry-sugar/",
                                 "title": "La maravillosa vida de Henry Sugar",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/la-maravillosa-vida-de-henry-sugar.jpg"
-                            },
-                            {
-                                "url": "/pelicula/guardianes-del-museo/",
-                                "title": "GUARDIANES DEL MUSEO",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/guardianes-del-museo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -873,11 +873,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/me-gustan-las-pelis/",
-                    "title": "Me gustan las pelis",
+                    "url": "/pelicula/enredados-por-siempre/",
+                    "title": "Enredados Por Siempre",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Drama",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -887,7 +887,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/me-gustan-las-pelis/",
+                        "url": "/pelicula/enredados-por-siempre/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

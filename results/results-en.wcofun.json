@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fright-krewe",
+                                "title": "Fright Krewe",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933171.jpg"
+                            },
+                            {
+                                "url": "/anime/im-in-love-with-the-villainess",
+                                "title": "I'm in Love with the Villainess",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933170.jpg"
+                            },
+                            {
+                                "url": "/anime/toaru-ossan-no-vrmmo-katsudouki",
+                                "title": "Toaru Ossan no VRMMO Katsudouki",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933169.jpg"
+                            },
+                            {
+                                "url": "/anime/watashi-no-oshi-wa-akuyaku-reijou",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933168.jpg"
+                            },
+                            {
+                                "url": "/anime/shy-english-subbed",
+                                "title": "Shy English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933167.jpg"
+                            },
+                            {
+                                "url": "/anime/migi-to-dali",
+                                "title": "Migi to Dali",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933166.jpg"
+                            },
+                            {
                                 "url": "/anime/kamonohashi-ron-no-kindan-suiri",
                                 "title": "Kamonohashi Ron no Kindan Suiri",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933165.jpg"
@@ -55,36 +85,6 @@
                                 "url": "/anime/management-of-a-novice-alchemist",
                                 "title": "Management of a Novice Alchemist",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933156.jpg"
-                            },
-                            {
-                                "url": "/anime/insectibles",
-                                "title": "Insectibles",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933155.jpg"
-                            },
-                            {
-                                "url": "/anime/hoot-kloot",
-                                "title": "Hoot Kloot",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933154.jpg"
-                            },
-                            {
-                                "url": "/anime/helens-little-school",
-                                "title": "Helen's Little School",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933153.jpg"
-                            },
-                            {
-                                "url": "/anime/mf-ghost-english-subbed",
-                                "title": "MF Ghost English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933152.jpg"
-                            },
-                            {
-                                "url": "/anime/ragna-crimson-english-subbed",
-                                "title": "Ragna Crimson English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933151.jpg"
-                            },
-                            {
-                                "url": "/anime/megumi-no-daigo-kyuukoku-no-orange",
-                                "title": "Megumi no Daigo: Kyuukoku no Orange",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kamonohashi-ron-no-kindan-suiri",
-                    "title": "Kamonohashi Ron no Kindan Suiri",
-                    "description": "Despite lacking the skills suited for his role on the Metropolitan Police Department investigative team, Totomaru Isshiki wants to solve murders and help people. Following the advice of one of his seniors, he ventures out to enlist the aid of the reclusive Ron Kamonohashi. Five years ago, Ron was the most promising detective from the illustrious Detective Training Academy Blue; yet for reasons unknown to the public, he sank into obscurity.",
-                    "genre": "Comedy, Mystery, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933165.jpg",
+                    "url": "/anime/fright-krewe",
+                    "title": "Fright Krewe",
+                    "description": "An ancient prophecy and a Voodoo Queen put misfit teens in charge of saving New Orleans from the biggest demonic threat it’s faced in almost two centuries. But, honestly? Saving the world might be easier than becoming friends.",
+                    "genre": "Adventure, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933171.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/fright-krewe-episode-10-the-war",
+                        "name": "Season 1 - Episode 10",
+                        "episode_number": 110.0
+                    },
+                    {
+                        "url": "/fright-krewe-episode-9-the-trap",
+                        "name": "Season 1 - Episode 9",
+                        "episode_number": 109.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPYxVW3Ndsv7dAT8LFWP_TBJbygickzHDuMDqgqyOSvpTPTarIj_JSyRD2sJNCHkbq4_CN_lYvEMwG-BcgEM8rknAmzKRttzfZJyAyvx4IgyHtHNhLT_PkbQJ-wVRJsab-NhQegqQp8Rk98cE-Wbunl1A1wbpRwooduyDP8fz0uIB5YdNZXGwokkP8vbij5v5E1ghFLlkH6WHY3lHSusuwlzLyRyJj1lWmMn_g-wll7yjqJpe2Y_bYtN0WMlj_Kksh",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPYxVW3Ndsv7dAT8LFWP_TBJbygickzHDuMDqgqyOSvpTPTarIj_JSyRD2sJNCHkbq4_CN_lYvEMwG-BcgEM8rknAmzKRttzfZJyAyvx4IgyHtHNhLT_PkbQJ-wVRJsab-NhQegqQp8Rk98cE-Wbunl1A1wbpRwooduyDP8fz0uIB5YdNZXGwokkP8vbij5v5E1ghFLlkH6WHY3lHSusuwlzLyRyJj1lWmMn_g-wll7yjqJpe2Y_bYtN0WMlj_Kksh"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPDA1JaTeiw94OUcZuhy94Lg3kqiHzA8fMoLdoNlS99R5z3rfViTThF5_jzCbLHqJfWGe37dc3lE7hHMmgcEzUP9px0Lc3-kigZJ5Gz6Gml7vkh7ONBlTX9suoaeWhy2rKbssvhWdh2CFe7F_s23x8Gu-G0aRs7KCsyvq-PMOKydcBknp-DvRfAh8gDKUGLpNFcOVbCPtHMdjnuBAtmhyozJHkRBMNrZnO6_19KzEHZNh_189CNFYlQdLyDK_iWauB",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPDA1JaTeiw94OUcZuhy94Lg3kqiHzA8fMoLdoNlS99R5z3rfViTThF5_jzCbLHqJfWGe37dc3lE7hHMmgcEzUP9px0Lc3-kigZJ5Gz6Gml7vkh7ONBlTX9suoaeWhy2rKbssvhWdh2CFe7F_s23x8Gu-G0aRs7KCsyvq-PMOKydcBknp-DvRfAh8gDKUGLpNFcOVbCPtHMdjnuBAtmhyozJHkRBMNrZnO6_19KzEHZNh_189CNFYlQdLyDK_iWauB"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPHZ7U0wo8UURj5l3RCiNl_te6-SoQrpfAOGvLPtP0MNHwGMWNaC-Ik04DhypeMBFpn0Pm_lSrnG-0v7xuo4Ov4ouP_Gb6IlX6zCM3sa0LSCcx1DtQyzSl2GuEJKK4ch9-P5nglE7UGPEOsYdTirmxo8a-GdAzTWMkCrwsCufZ2Ht1YTiyTJMxXrwy7ArUZzyL7yBLUx09Z8SIT3jotO8mT2-jtKQE307gr9jZq5MBNSY",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPHZ7U0wo8UURj5l3RCiNl_te6-SoQrpfAOGvLPtP0MNHwGMWNaC-Ik04DhypeMBFpn0Pm_lSrnG-0v7xuo4Ov4ouP_Gb6IlX6zCM3sa0LSCcx1DtQyzSl2GuEJKK4ch9-P5nglE7UGPEOsYdTirmxo8a-GdAzTWMkCrwsCufZ2Ht1YTiyTJMxXrwy7ArUZzyL7yBLUx09Z8SIT3jotO8mT2-jtKQE307gr9jZq5MBNSY"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,8 +3,114 @@
         "name": "Kinoking (DE)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/appendage/",
+                                "title": "Appendage",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mGwDi4MuvMiQS2G9mcSXDRZjttx.jpg"
+                            },
+                            {
+                                "url": "/movies/saw-x/",
+                                "title": "Saw X",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg"
+                            },
+                            {
+                                "url": "/movies/the-equalizer-3-the-final-chapter/",
+                                "title": "The Equalizer 3 – The Final Chapter",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5f6eESHOHirfw4sEFDsbVgx1Rrc.jpg"
+                            },
+                            {
+                                "url": "/movies/the-retirement-plan/",
+                                "title": "The Retirement Plan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg"
+                            },
+                            {
+                                "url": "/movies/gran-turismo/",
+                                "title": "Gran Turismo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/n0NDzuLKZwayN0TzDkgySBcqaQ2.jpg"
+                            },
+                            {
+                                "url": "/movies/maximale-ladung/",
+                                "title": "Maximale Ladung",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mjjzfNmrykoh9S6EyWXOp86HIBg.jpg"
+                            },
+                            {
+                                "url": "/movies/inside/",
+                                "title": "Inside",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg"
+                            },
+                            {
+                                "url": "/movies/the-nun-ii/",
+                                "title": "The Nun II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tPynKTxF9fJrY6cdLS243Cv6TxB.jpg"
+                            },
+                            {
+                                "url": "/movies/spy-kids-armageddon/",
+                                "title": "Spy Kids: Armageddon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg"
+                            },
+                            {
+                                "url": "/movies/geistervilla/",
+                                "title": "Geistervilla",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ubfuYcDMeA6iKg8M7YZaU6odRXv.jpg"
+                            },
+                            {
+                                "url": "/movies/miraculous-ladybug-cat-noir-der-film/",
+                                "title": "Miraculous: Ladybug & Cat Noir – Der Film",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iMwj6vkISQGUZ4TppBHsUrUwDiF.jpg"
+                            },
+                            {
+                                "url": "/movies/blue-beetle/",
+                                "title": "Blue Beetle",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pIV1yvdtjY0gmLLTIgjUteNY62Q.jpg"
+                            },
+                            {
+                                "url": "/movies/ride-on/",
+                                "title": "Ride On",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iTAmmiD3LixSTbuLAgBsgauZLI4.jpg"
+                            },
+                            {
+                                "url": "/movies/the-dive/",
+                                "title": "The Dive",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/o43eMkNkWBBsyxEyyUeQwl4AOe.jpg"
+                            },
+                            {
+                                "url": "/tvshows/one-piece-2/",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
+                            },
+                            {
+                                "url": "/movies/indiana-jones-und-das-rad-des-schicksals/",
+                                "title": "Indiana Jones und das Rad des Schicksals",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Z5D7T7iZgrA6XkxGxlIruqa8sW.jpg"
+                            },
+                            {
+                                "url": "/movies/the-boogeyman/",
+                                "title": "The Boogeyman",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/156VTRLwgoUQZnmGmqtuhKuK8vy.jpg"
+                            },
+                            {
+                                "url": "/movies/meg-2-die-tiefe/",
+                                "title": "Meg 2: Die Tiefe",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/f5JwC0zhq0nnPQfOeS8CvdRCIHR.jpg"
+                            },
+                            {
+                                "url": "/movies/oppenheimer/",
+                                "title": "Oppenheimer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+                            },
+                            {
+                                "url": "/movies/sonne-und-beton/",
+                                "title": "Sonne und Beton",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ddacirup8d3NJqyFvRaBllSFncr.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "error": "java.net.SocketTimeoutException: timeout",
@@ -23,7 +129,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

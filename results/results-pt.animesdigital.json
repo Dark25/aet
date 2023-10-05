@@ -221,12 +221,64 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/video/a/104485/",
+                        "name": "Episódio 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr4---sn-p5qlsndz.googlevideo.com/videoplayback?expire=1696537556&ei=VKseZfffE4nB2LYPiKmJqA8&ip=38.105.209.21&id=6624d13a63a7af26&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qlsndz&ms=au&mv=m&mvi=4&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453597551740&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgGmMM2vV5GdUDZ2m53x3f7okRMMgvNxyVuWvFy1cfKboCIQDXmyV43XGu6mVHqvD1qKJuStwnaAvOkPvGqBTb2WPZqA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgLcT-PaAkYDR906IFOU4cg7iBcno_kfU-VFLKHQxCcLECIDxNNY6ZL7bleVSKgAEStjnSkws4WEo3V2_m7TQjcBsj",
+                        "quality": "720p",
+                        "videoUrl": "https://rr4---sn-p5qlsndz.googlevideo.com/videoplayback?expire=1696537556&ei=VKseZfffE4nB2LYPiKmJqA8&ip=38.105.209.21&id=6624d13a63a7af26&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qlsndz&ms=au&mv=m&mvi=4&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453597551740&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgGmMM2vV5GdUDZ2m53x3f7okRMMgvNxyVuWvFy1cfKboCIQDXmyV43XGu6mVHqvD1qKJuStwnaAvOkPvGqBTb2WPZqA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgLcT-PaAkYDR906IFOU4cg7iBcno_kfU-VFLKHQxCcLECIDxNNY6ZL7bleVSKgAEStjnSkws4WEo3V2_m7TQjcBsj",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://rr2---sn-p5qs7nzk.googlevideo.com/videoplayback?expire=1696537555&ei=U6seZZeUKpmN_9EPm9S-oAw&ip=38.105.209.21&id=6624d13a63a7af26&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qs7nzk&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453597551740&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIgNJOVZ-CiwA-YAIv3SnFKRxCaRDgQnIBmwg1XMV9hf4kCIQDFQqD6LYn1foQGjUZJamSi09bSF4YC0GzXdx49CwSFkA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRgIhAKy16cKQg4B87XOm910wC4Fpd8FnenjQWDGX0XeTbF61AiEAq174xKiUjKgTUShrH4ekL05hXsxkSf4RyJgpQljw70k%3D",
+                        "quality": "720p",
+                        "videoUrl": "https://rr2---sn-p5qs7nzk.googlevideo.com/videoplayback?expire=1696537555&ei=U6seZZeUKpmN_9EPm9S-oAw&ip=38.105.209.21&id=6624d13a63a7af26&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qs7nzk&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453597551740&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIgNJOVZ-CiwA-YAIv3SnFKRxCaRDgQnIBmwg1XMV9hf4kCIQDFQqD6LYn1foQGjUZJamSi09bSF4YC0GzXdx49CwSFkA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRgIhAKy16cKQg4B87XOm910wC4Fpd8FnenjQWDGX0XeTbF61AiEAq174xKiUjKgTUShrH4ekL05hXsxkSf4RyJgpQljw70k%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://rr4---sn-p5qlsndz.googlevideo.com/videoplayback?expire=1696537556&ei=VKseZfffE4nB2LYPiKmJqA8&ip=38.105.209.21&id=6624d13a63a7af26&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qlsndz&ms=au&mv=m&mvi=4&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453220792407&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgCqwnz0uO6MiczOlXKBdjU9T70IArpT5zIyAiZbUOseACIEbGD9iJPm_Q1t4vTkhbeJ_GsDTmlrE602SuhT606nyC&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgS9UAagFk3NEHZFejq8WnAd8QFVq9igGyBCeJ3D2hHVUCIHhMTcoB8MTaCOV3rnRkqAI9UR6x9W5KZGJ7SLK5VWiC",
+                        "quality": "360p",
+                        "videoUrl": "https://rr4---sn-p5qlsndz.googlevideo.com/videoplayback?expire=1696537556&ei=VKseZfffE4nB2LYPiKmJqA8&ip=38.105.209.21&id=6624d13a63a7af26&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qlsndz&ms=au&mv=m&mvi=4&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453220792407&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgCqwnz0uO6MiczOlXKBdjU9T70IArpT5zIyAiZbUOseACIEbGD9iJPm_Q1t4vTkhbeJ_GsDTmlrE602SuhT606nyC&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgS9UAagFk3NEHZFejq8WnAd8QFVq9igGyBCeJ3D2hHVUCIHhMTcoB8MTaCOV3rnRkqAI9UR6x9W5KZGJ7SLK5VWiC",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://rr2---sn-p5qs7nzk.googlevideo.com/videoplayback?expire=1696537555&ei=U6seZZeUKpmN_9EPm9S-oAw&ip=38.105.209.21&id=6624d13a63a7af26&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qs7nzk&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453220792407&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIhAJgiZJDJGmHJplH50_NnzUM2wAom_Zm6lD-Uim01122OAiAIuSCBUjARBA54UU-u3lpSqpc2EZX-4_UKI2Uo-y1Q-w%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRgIhALS3s47N1OklBnyRKS5CZGlGhOwBOj_Hh9Uz6UZFi5RrAiEAiIsr95HpNNsRO0hbF1tsCl92S9r8Jlo3Ql3tEfWWF5E%3D",
+                        "quality": "360p",
+                        "videoUrl": "https://rr2---sn-p5qs7nzk.googlevideo.com/videoplayback?expire=1696537555&ei=U6seZZeUKpmN_9EPm9S-oAw&ip=38.105.209.21&id=6624d13a63a7af26&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=EI&mm=31&mn=sn-p5qs7nzk&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.644&lmt=1696453220792407&mt=1696508237&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIhAJgiZJDJGmHJplH50_NnzUM2wAom_Zm6lD-Uim01122OAiAIuSCBUjARBA54UU-u3lpSqpc2EZX-4_UKI2Uo-y1Q-w%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRgIhALS3s47N1OklBnyRKS5CZGlGhOwBOj_Hh9Uz6UZFi5RrAiEAiIsr95HpNNsRO0hbF1tsCl92S9r8Jlo3Ql3tEfWWF5E%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": " https://hd2.animesdigital.org/animes/k/kage-no-jitsuryokusha-ni-naritakute-2nd-season/01.mp4",
+                        "quality": "480p",
+                        "videoUrl": " https://hd2.animesdigital.org/animes/k/kage-no-jitsuryokusha-ni-naritakute-2nd-season/01.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

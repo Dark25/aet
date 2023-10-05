@@ -11,79 +11,23 @@
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movie/edge-of-the-world",
-                                "title": "Edge of the World (2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/edge-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
-                                "title": "2025 - The World enslaved by a Virus (2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
-                            },
-                            {
-                                "url": "/movie/world-s-biggest-bull-shark-",
-                                "title": "World's Biggest Bull Shark? (2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
-                            },
-                            {
-                                "url": "/serie/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (2023-2023)",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too.jpg"
-                            },
-                            {
-                                "url": "/serie/the-walking-dead-world-beyond",
-                                "title": "The Walking Dead: World Beyond (2020-2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
-                            },
-                            {
-                                "url": "/serie/the-end-of-the-f-ing-world",
-                                "title": "The End of the F***ing World (2017-2019)",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/movie/edge-of-the-world",
-                    "title": "Edge of the World",
-                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
-                    "genre": "Adventure, Drama",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/movie/edge-of-the-world/download/",
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
-                        "quality": "480p",
-                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
-                    },
-                    {
-                        "url": "https://dood.la/d/o16rzvmsv5u2",
-                        "quality": "720p",
-                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

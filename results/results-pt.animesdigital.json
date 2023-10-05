@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/video/a/104485/",
+                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/assistir-kage-no-jitsuryokusha-ni-naritakute-2nd-season-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
                                 "url": "/video/a/104637/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-one-piece-todos-os-episodios-online-animes-online.jpg"
@@ -20,11 +25,6 @@
                                 "url": "/video/a/104597/",
                                 "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/07/assistir-bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios-online-animes-online.jpg"
-                            },
-                            {
-                                "url": "/video/a/104474/",
-                                "title": "Samurai X (2023)",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/07/Samurai-X-2023Ep.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -36,6 +36,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/video/a/104485/",
+                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/assistir-kage-no-jitsuryokusha-ni-naritakute-2nd-season-todos-os-episodios-online-animes-online.jpg"
+                            },
                             {
                                 "url": "/video/a/104828/",
                                 "title": "Kamierabi",
@@ -110,11 +115,6 @@
                                 "url": "/video/a/104422/",
                                 "title": "Boushoku no Berserk",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/Boushoku-no-BerserkEp.jpg"
-                            },
-                            {
-                                "url": "/video/a/104675/",
-                                "title": "Dekoboko Majo no Oyako Jijou",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/Dekoboko-Majo-no-Oyako-JijouEp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -209,83 +209,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/b/one-piece-todos-episodios-0",
-                    "title": "One Piece",
-                    "artist": "Toei Animation",
-                    "author": "Eiichiro Oda",
-                    "description": "One Piece Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. \"Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!\". Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis... Assim começou a Grande Era dos Piratas! Monkey D. Luffy de 17 anos, desafia a definição de pirata. Sem a típica personalidade vil e cruel, suas motivações são simples: a aventura e as possibilidades de conhecer novos amigos. Luffy e seus companheiros partem em direção à Grand Line, a mais perigosa das rotas do mundo, em incríveis aventuras, revelando mistérios e enfrentando poderosos oponentes em busca do One Piece.",
-                    "genre": "Ação, Aventura, Comédia, Drama, Piratas, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-one-piece-todos-os-episodios-online-animes-online.jpg",
+                    "url": "/anime/a/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
+                    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                    "description": "Kage no Jitsuryokusha ni Naritakute! 2nd Season Segunda temporada de Kage no Jitsuryokusha ni Naritakute!",
+                    "genre": "Ação, Comédia, Fantasia",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/assistir-kage-no-jitsuryokusha-ni-naritakute-2nd-season-todos-os-episodios-online-animes-online.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/video/a/104637/",
-                        "name": "Episódio 1078",
-                        "episode_number": 1078.0
-                    },
-                    {
-                        "url": "/video/a/104250/",
-                        "name": "Episódio 1077",
-                        "episode_number": 1077.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rr3---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1696496112&ei=cAkeZaG-OYO82LYPt9eYiA8&ip=38.105.209.21&id=f033c8d04d9ae626&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696136260338456&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgOTlH12VIZ__JoMFEVOaSkenmgKQOOaS3IyIoN30qs3ACIQC8p-KD0MLtOtCIn03_KBbSMnkVxWQ6LXZmK1GdyfB7cA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALz6PCst_gdT8n2lRsyXasgCb0ReGqG_6YgLK6xDBVNNAiEAwT_Llqkhgcyv13_BNO-9r6U1ZbljlrCl0rIYQmuU0Ho%3D",
-                        "quality": "720p",
-                        "videoUrl": "https://rr3---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1696496112&ei=cAkeZaG-OYO82LYPt9eYiA8&ip=38.105.209.21&id=f033c8d04d9ae626&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696136260338456&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgOTlH12VIZ__JoMFEVOaSkenmgKQOOaS3IyIoN30qs3ACIQC8p-KD0MLtOtCIn03_KBbSMnkVxWQ6LXZmK1GdyfB7cA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALz6PCst_gdT8n2lRsyXasgCb0ReGqG_6YgLK6xDBVNNAiEAwT_Llqkhgcyv13_BNO-9r6U1ZbljlrCl0rIYQmuU0Ho%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    },
-                    {
-                        "url": "https://rr3---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1696496111&ei=bwkeZe7WMYKe_9EPy5OVuAQ&ip=38.105.209.21&id=f033c8d04d9ae626&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696136260338456&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIhAM0QBxDcLg9Jki_cMT3OCZhAYu94JNTTa2krepn_y2YsAiBQu7V4xeQpguVOg8Cfihh7BXt4Iu-RBOwcAA8a2Y2-xw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRAIgZq0s3Jx7PjJ5ncQYPbUi7_m9YKaB131ot0Jfhh8-aZICIAXbs48H6hvbw305W7pWQB_Wmkh5CBETEFJEGgoBNB52",
-                        "quality": "720p",
-                        "videoUrl": "https://rr3---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1696496111&ei=bwkeZe7WMYKe_9EPy5OVuAQ&ip=38.105.209.21&id=f033c8d04d9ae626&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696136260338456&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIhAM0QBxDcLg9Jki_cMT3OCZhAYu94JNTTa2krepn_y2YsAiBQu7V4xeQpguVOg8Cfihh7BXt4Iu-RBOwcAA8a2Y2-xw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRAIgZq0s3Jx7PjJ5ncQYPbUi7_m9YKaB131ot0Jfhh8-aZICIAXbs48H6hvbw305W7pWQB_Wmkh5CBETEFJEGgoBNB52",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    },
-                    {
-                        "url": "https://rr3---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1696496112&ei=cAkeZaG-OYO82LYPt9eYiA8&ip=38.105.209.21&id=f033c8d04d9ae626&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696135830793575&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAKJBzlQO8etuDGaLPMjDfa52AaU2PZgNPkvMrXjt76rdAiEA9oUly-pI8hLXUkCnim02wc1KWXXHILBEZFpwC0wCldc%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJ5UxEYDq_gQuBzgHpPC9ichsuxIlFz5uD_lA0gBTGQCAiEAkMzaHnRlq11ncG9k-Ms9Mx4nQxVz0bXaJW9L7QFkbXQ%3D",
-                        "quality": "360p",
-                        "videoUrl": "https://rr3---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1696496112&ei=cAkeZaG-OYO82LYPt9eYiA8&ip=38.105.209.21&id=f033c8d04d9ae626&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696135830793575&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAKJBzlQO8etuDGaLPMjDfa52AaU2PZgNPkvMrXjt76rdAiEA9oUly-pI8hLXUkCnim02wc1KWXXHILBEZFpwC0wCldc%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJ5UxEYDq_gQuBzgHpPC9ichsuxIlFz5uD_lA0gBTGQCAiEAkMzaHnRlq11ncG9k-Ms9Mx4nQxVz0bXaJW9L7QFkbXQ%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    },
-                    {
-                        "url": "https://rr3---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1696496111&ei=bwkeZe7WMYKe_9EPy5OVuAQ&ip=38.105.209.21&id=f033c8d04d9ae626&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696135830793575&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRgIhAOJrAM_abRg98wAOekOqQN5pijrvmxJ6terIxiIXw7S8AiEAudpZVvueIgJVD7TtjVCCdqYSmZzUwo_hFNa9C_NkNAw%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRQIhAP0rp6Wj6_ReqatDcpj9GJDmSGx1vKin_WiHDY7i4uh3AiA4LH70gGxa2AR0sjnhFvFKPE9iAvGnr-HuW8BS0nB2uA%3D%3D",
-                        "quality": "360p",
-                        "videoUrl": "https://rr3---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1696496111&ei=bwkeZe7WMYKe_9EPy5OVuAQ&ip=38.105.209.21&id=f033c8d04d9ae626&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=69&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1431.115&lmt=1696135830793575&mt=1696466474&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRgIhAOJrAM_abRg98wAOekOqQN5pijrvmxJ6terIxiIXw7S8AiEAudpZVvueIgJVD7TtjVCCdqYSmZzUwo_hFNa9C_NkNAw%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRQIhAP0rp6Wj6_ReqatDcpj9GJDmSGx1vKin_WiHDY7i4uh3AiA4LH70gGxa2AR0sjnhFvFKPE9iAvGnr-HuW8BS0nB2uA%3D%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    },
-                    {
-                        "url": "https://hd2.animesdigital.org/animes/o/one-piece/1078.mp4",
-                        "quality": "480p",
-                        "videoUrl": "https://hd2.animesdigital.org/animes/o/one-piece/1078.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//arknights-fuyukomori-kaerimichi",
+                                "title": "Arknights: Fuyukomori Kaerimichi",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/arknights-fuyukomori-kaerimichi/cover/c4d586ee.jpg"
+                            },
+                            {
                                 "url": "//under-ninja",
                                 "title": "Under Ninja",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Hanma Baki: Son of Ogre 2nd Season (ONA)",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/hanma-baki-son-of-ogre-2nd-season/cover/175d0abb.jpg"
-                            },
-                            {
-                                "url": "//helck",
-                                "title": "Helck",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/helck/cover/90887975.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//arknights-fuyukomori-kaerimichi",
+                                "title": "Arknights: Fuyukomori Kaerimichi",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/arknights-fuyukomori-kaerimichi/cover/c4d586ee.jpg"
+                            },
+                            {
                                 "url": "//under-ninja",
                                 "title": "Under Ninja",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Hanma Baki: Son of Ogre 2nd Season (ONA)",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/hanma-baki-son-of-ogre-2nd-season/cover/175d0abb.jpg"
-                            },
-                            {
-                                "url": "//helck",
-                                "title": "Helck",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/helck/cover/90887975.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,37 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//under-ninja",
-                    "title": "Under Ninja",
-                    "description": "ncluso a día de hoy los ninja se camuflan entre la gente llevando a cabo misiones en secreto. A algunos les va mejor que a otros y Kurô Kumogakure, un ninja nini, se pasa los días bebiendo y haciendo el vago. Sin embargo, un día recibe una misión de un superior y su vida empieza a tomar un rumbo inesperado...",
-                    "genre": "Acción, Seinen, Otoño 2023",
+                    "url": "//arknights-fuyukomori-kaerimichi",
+                    "title": "Arknights: Fuyukomori Kaerimichi",
+                    "description": "Segunda temporada de la serie anime Arknights: Reimei Zensou.",
+                    "genre": "Acción, Fantasía, Game, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/under-ninja/cover/51634322.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/arknights-fuyukomori-kaerimichi/cover/c4d586ee.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/under-ninja-1",
-                        "name": "Episodio 1.0",
-                        "date_upload": 1696464000000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=WpkORxLpvMFbPX7&expires=1696643039&ip=GHOsDHEnDS9X&token=wVbkzsZHrUt6",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WpkORxLpvMFbPX7&expires=1696643039&ip=GHOsDHEnDS9X&token=wVbkzsZHrUt6"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

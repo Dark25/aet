@@ -3,23 +3,23 @@
         "name": "Pelisflix (ES)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

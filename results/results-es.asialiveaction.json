@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/strong-girl-nam-soon/",
+                                "title": "Strong Girl Nam Soon (1/16)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
+                            },
+                            {
                                 "url": "/dangerous-romance/",
                                 "title": "Dangerous Romance (8/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9AkIe3cznud7lq4tCRKc4WNwGLs.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/my-universe/",
                                 "title": "My Universe (3/24)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg"
-                            },
-                            {
-                                "url": "/a-boss-and-a-bae/",
-                                "title": "A Boss and a Bae (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/apm3suTm9W5u3Qj1XW4VyI3N1j4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/strong-girl-nam-soon/",
+                                "title": "Strong Girl Nam Soon (1/16)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
+                            },
+                            {
                                 "url": "/dangerous-romance/",
                                 "title": "Dangerous Romance (8/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9AkIe3cznud7lq4tCRKc4WNwGLs.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/my-universe/",
                                 "title": "My Universe (3/24)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg"
-                            },
-                            {
-                                "url": "/a-boss-and-a-bae/",
-                                "title": "A Boss and a Bae (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/apm3suTm9W5u3Qj1XW4VyI3N1j4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/strong-girl-nam-soon/",
+                    "title": "Strong Girl Nam Soon (1/16)",
+                    "description": "Kang Nam Soon tiene una fuerza sobrehumana. Desapareció cuando era niña en Mongolia. Ahora, como adulta, viene a Gangnam, Seúl, Corea del Sur para encontrar a sus padres. Finalmente conoce a su madre Hwang Geum Joo. Su madre es una mujer rica y residente de Gangnam. Después de perder a su hija, Hwang Geum Joo trató de encontrar a su hija y también trató de vivir una vida recta, obsesionada con hacer buenas obras. Gil Joong Gan es la madre de Hwang Geum Joo y la abuela de Kang Nam Soon. La abuela y la madre también nacieron con una fuerza sobrehumana como Kang Nam Soon. De alguna manera, Kang Nam Soon, su madre Hwang Geum Joo y su abuela Gil Joong Gan se involucran en un caso de drogas que tiene lugar en Gangnam. El detective Kang Hee Sik comienza a trabajar con las 3 mujeres en el caso de las drogas. Kang Nam Soon también se siente atraído por el detective Kang Hee Sik.",
+                    "genre": "Acción, Ciencia Ficción, Comedia, Drama, Fantasía, Romance, Sobrenatural",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ktB3epuAUGjVE6te7udTUAHBuv2.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/1028649/",
+                        "name": "Episodio 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

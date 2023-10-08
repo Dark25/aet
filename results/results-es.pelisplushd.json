@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/xjjbhxkhsrgm",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09653/xjjbhxkhsrgm_,n,.urlset/master.m3u8?t=8xr34HgkyQvOonPtmp8_wG00khnvOj5Kt2bZ8va4PZI&s=1696726649&e=14400&f=48269983&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=104.45&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09653/xjjbhxkhsrgm_,n,.urlset/master.m3u8?t=YBjryiWmZ5naSUzIZLiukQc0koh6XYfGapaXLICWG5A&s=1696745754&e=14400&f=48269983&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=20.42&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/xjjbhxkhsrgm",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09653/xjjbhxkhsrgm_,n,.urlset/master.m3u8?t=8xr34HgkyQvOonPtmp8_wG00khnvOj5Kt2bZ8va4PZI&s=1696726649&e=14400&f=48269983&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=104.45&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09653/xjjbhxkhsrgm_,n,.urlset/master.m3u8?t=YBjryiWmZ5naSUzIZLiukQc0koh6XYfGapaXLICWG5A&s=1696745754&e=14400&f=48269983&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=20.42&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -872,8 +872,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/kepler-sexto-b/",
+                    "title": "Kepler Sexto B",
+                    "artist": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

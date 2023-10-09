@@ -85,6 +85,12 @@
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg"
                             },
                             {
+                                "url": "/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season",
+                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+                                "description": "La Escuela Secundaria de Educación Avanzada Metropolitana de Tokio parece un paraíso, pero en realidad es una meritocracia extrema. En la clase de bajo rendimiento, Kiyotaka ha comenzado a trabajar con Suzune, que busca ascender más alto. Después de una prueba de supervivencia en una isla deshabitada, pueden disfrutar de un transatlántico de lujo, ¡pero comenzará una nueva prueba de codificación de clases! ¿Trabajarás para tu clase, tu grupo o para ti mismo?",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/62b9c44a32f53/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg"
+                            },
+                            {
                                 "url": "/rakudai-kishi-no-cavalry",
                                 "title": "Rakudai Kishi no Cavalry",
                                 "description": "La historia está protagonizada por los Magic Knights, magos modernos que luchan con armas que materializan desde sus almas. Ikki Kurogane asiste a clases a una escuela especial para estos Magic Knights, pero es llamado el “Failed Knight” o “Worst One”, porque no tiene ninguna habilidad con la magia. Sin embargo, un día es retado a un duelo por Stella, princesa de un reino extranjero y considerada la número uno de la escuela. En el duelo, el perdedor deberá ser obediente al otro durante toda su vida.",
@@ -149,12 +155,6 @@
                                 "title": "Tantei wa Mou, Shindeiru.",
                                 "description": "Cuando la historia comienza sin su héroe Kimihiko Kimizuka siempre ha sido un imán para los problemas y las intrigas. Desde que tiene memoria, ha estado tropezando con escenas de asesinatos o recibiendo misteriosos maletines para transportar. Cuando conoció a Siesta, una brillante detective que libraba una guerra secreta contra una organización de pseudohumanos, no pudo resistir la llamada para convertirse en su asistente y unirse a ella en un viaje épico por el mundo. … Hasta hace un año, eso es. Ahora ha vuelto a una vida normal y tibia en comparación, sabiendo que la aventura debe haber terminado. Después de todo, el detective ya está muerto.",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/60d7e2a2e50ff/tantei-wa-mou-shindeiru.jpg"
-                            },
-                            {
-                                "url": "/boku-no-kokoro-no-yabai-yatsu",
-                                "title": "Boku no Kokoro no Yabai Yatsu",
-                                "description": "Fascinado por el asesinato y todo lo macabro, Kyotaro sueña con representar sus retorcidas fantasías con sus desprevenidos compañeros de clase, pero un encuentro con Anna Yamada, la hermosa ídolo de la clase, enciende una chispa en la oscuridad de su corazón. Es una historia clásica de un chico antisocial que se enamora de una chica popular, pero tampoco son quienes parecen ser a primera vista. ¿Kyotaro y Anna desafiarán las expectativas que tienen el uno del otro y de ellos mismos?",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6416316c9f588/boku-no-kokoro-no-yabai-yatsu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -315,16 +315,72 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/hanyo-no-yashahime",
+                    "title": "Hanyo no Yashahime",
+                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/Zk8CELBt_mMD8m5NNmMSiLGZDwgkhYnuUXMTCWoGca8eJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/Zk8CELBt_mMD8m5NNmMSiLGZDwgkhYnuUXMTCWoGca8eJxFPc"
+                    },
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/imFjjABDUmbaXzO7AIKwdG2lodSC1-xoQFfUajVqn5UeJxFPc",
+                        "quality": "Amazon ES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/imFjjABDUmbaXzO7AIKwdG2lodSC1-xoQFfUajVqn5UeJxFPc"
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a2023100947df0pwQBWO/Yashahime 24.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a2023100947df0pwQBWO/Yashahime 24.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.burstcloud.co/"
+                        }
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwanxhmzqz7pt74mldict7f6o6jc37j/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwanxhmzqz7pt74mldict7f6o6jc37j/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20231009sX4415o0w4j/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20231009sX4415o0w4j/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

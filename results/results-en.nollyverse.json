@@ -3,13 +3,18 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/beckham",
+                                "title": "Beckham",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/beckham.jpg"
+                            },
                             {
                                 "url": "/serie/gen-v",
                                 "title": "Gen V",
@@ -24,6 +29,11 @@
                                 "url": "/serie/the-worst-of-evil",
                                 "title": "The Worst of Evil",
                                 "thumbnail_url": "https://www.nollyverse.com/serie/img/the-worst-of-evil.jpg"
+                            },
+                            {
+                                "url": "/serie/the-long-shadow",
+                                "title": "The Long Shadow",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-long-shadow.jpg"
                             },
                             {
                                 "url": "/serie/fenris",
@@ -49,16 +59,6 @@
                                 "url": "/serie/still-up",
                                 "title": "Still Up",
                                 "thumbnail_url": "https://www.nollyverse.com/serie/img/still-up.jpg"
-                            },
-                            {
-                                "url": "/serie/the-continental-from-the-world-of-john-wick",
-                                "title": "The Continental: From the World of John Wick",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-continental-from-the-world-of-john-wick.jpg"
-                            },
-                            {
-                                "url": "/serie/miseducation",
-                                "title": "Miseducation",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/miseducation.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -108,10 +108,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/gen-v",
-                    "title": "Gen V (2023-)",
-                    "description": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
-                    "genre": "Action, Adventure, Comedy",
+                    "url": "/serie/beckham",
+                    "title": "Beckham (2023-2023)",
+                    "description": "With never-before-seen footage, this docuseries follows David Beckham's meteoric rise from humble beginnings to global football stardom.",
+                    "genre": "Documentary, Biography, Sport",
                     "initialized": true
                 },
                 "passed": true
@@ -119,12 +119,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/gen-v/season-1#4",
+                        "url": "/serie/beckham/season-1#4",
                         "name": "Episode S1E4",
                         "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/gen-v/season-1#3",
+                        "url": "/serie/beckham/season-1#3",
                         "name": "Episode S1E3",
                         "episode_number": 3.0
                     }
@@ -134,19 +134,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl3.uploding.sbs/Series3/Gen.V.2023/S01/1080p.x265/Gen.V.S01E04.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA-ZarFilm.mkv",
+                        "url": "https://dl2.freeserverddl.click/Series/B/Beckham.tt14524712/S01/Soft/1080p.x265/Beckham.S01E04.1080p.WEB-DL.10bit.6CH.x265-Pahe.SoftSub.BMB.492A2CE0.mkv",
                         "quality": "1080p.x265",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Gen.V.2023/S01/1080p.x265/Gen.V.S01E04.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA-ZarFilm.mkv"
+                        "videoUrl": "https://dl2.freeserverddl.click/Series/B/Beckham.tt14524712/S01/Soft/1080p.x265/Beckham.S01E04.1080p.WEB-DL.10bit.6CH.x265-Pahe.SoftSub.BMB.492A2CE0.mkv"
                     },
                     {
-                        "url": "https://dl3.uploding.sbs/Series3/Gen.V.2023/S01/720p.x265/Gen.V.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC.PSA-ZarFilm.mkv",
-                        "quality": "720p.x265",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Gen.V.2023/S01/720p.x265/Gen.V.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC.PSA-ZarFilm.mkv"
+                        "url": "https://dl2.freeserverddl.click/Series/B/Beckham.tt14524712/S01/Soft/720p/Beckham.S01E04.720p.WEB-DL.x264-Pahe.SoftSub.BMB.BAEDCCBC.mkv",
+                        "quality": "720px",
+                        "videoUrl": "https://dl2.freeserverddl.click/Series/B/Beckham.tt14524712/S01/Soft/720p/Beckham.S01E04.720p.WEB-DL.x264-Pahe.SoftSub.BMB.BAEDCCBC.mkv"
                     },
                     {
-                        "url": "https://dl3.uploding.sbs/Series3/Gen.V.2023/S01/480p/Gen.V.S01E04.480p.WEBRip.x264.RMT-ZarFilm.mkv",
+                        "url": "https://dl2.freeserverddl.click/Series/B/Beckham.tt14524712/S01/Soft/480p/Beckham.S01E04.480p.WEB-DL.x264-BMB.SoftSub.BMB.5B0E1E02.mkv",
                         "quality": "480px",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Gen.V.2023/S01/480p/Gen.V.S01E04.480p.WEBRip.x264.RMT-ZarFilm.mkv"
+                        "videoUrl": "https://dl2.freeserverddl.click/Series/B/Beckham.tt14524712/S01/Soft/480p/Beckham.S01E04.480p.WEB-DL.x264-BMB.SoftSub.BMB.5B0E1E02.mkv"
                     }
                 ],
                 "passed": true

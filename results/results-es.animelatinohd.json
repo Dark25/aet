@@ -307,17 +307,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/fullmetal-alchemist-brotherhood",
-                    "title": "Fullmetal Alchemist: Brotherhood",
-                    "description": "La imprudente indiferencia de Edward y Alphonse Elric por las leyes fundamentales de la alquimia le arrancaron la mitad de las extremidades a Ed y dejaron el alma de Al pegada a una fría armadura. Para restaurar lo que se perdió, los hermanos recorren una tierra devastada por la guerra para la Piedra Filosofal, una reliquia legendaria que otorga la capacidad de realizar la alquimia de maneras imposibles.Los Elrics no están solos en su búsqueda; el corrupto Estado Militar también está ansioso por aprovechar el poder del artefacto. También lo son los extraños Homúnculos y su oscuro creador. La gema mítica atrae a los alquimistas exóticos de reinos distantes, dejando cicatrices profundas que inspiran el asesinato. A medida que los Elrics encuentran su curso alterado por estos enemigos y aliados, su propósito permanece inalterado, y su vínculo es irrompible.",
-                    "genre": "accion, aventura, drama, fantasia, militar, shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/726CoIcNtWJJuxSyuRLjZkJwGrT.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -337,9 +328,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04091/gi3zuxkizi4g_x/index-v1-a1.m3u8?t=hzEnnTUI_zO-Rwn5DANmztb7IZGO9y1POz_80pOjGhY&s=1696812889&e=43200&f=20459142&srv=20&asn=8075&sp=2500",
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04091/gi3zuxkizi4g_x/index-v1-a1.m3u8?t=w76dTA5RtMrDbeB9nbw74MWp5-KFP3yreGqCgcS7ZzU&s=1696832406&e=43200&f=20459142&srv=20&asn=8075&sp=2500",
                         "quality": "[Lat] 720p",
-                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04091/gi3zuxkizi4g_x/index-v1-a1.m3u8?t=hzEnnTUI_zO-Rwn5DANmztb7IZGO9y1POz_80pOjGhY&s=1696812889&e=43200&f=20459142&srv=20&asn=8075&sp=2500",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04091/gi3zuxkizi4g_x/index-v1-a1.m3u8?t=w76dTA5RtMrDbeB9nbw74MWp5-KFP3yreGqCgcS7ZzU&s=1696832406&e=43200&f=20459142&srv=20&asn=8075&sp=2500",
                         "headers": {
                             "Referer": "https://filemoon.sx/e/gi3zuxkizi4g/FLM64TLALMTBH",
                             "Origin": "https://filemoon.sx"

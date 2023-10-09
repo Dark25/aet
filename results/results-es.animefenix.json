@@ -167,6 +167,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/flcl-alternative",
+                                "title": "FLCL Alternative",
+                                "description": "La serie se centra en las desventuras de Kana, una chica de instituto de 17 años que se pasa el día con sus amistades, Mossan, Hijiri y Pets. Llevan unas vidas sin nada que destacar hasta que un día un mecha cae del cielo acompañado de una extraña mujer llamada Haruko. Sus planes para Kana y sus amigos tienen algo que ver con la misteriosa fuerza conocida como “ATOMSK”. Kana tendrá que arriesgarlo todo para decidir si ayudar o no… aunque no tiene mucha alternativa.",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6523089c46b59/flcl-alternative.jpg"
+                            },
+                            {
                                 "url": "/the-idolm-ster-million-live",
                                 "title": "THE IDOLM@STER Million Live!",
                                 "description": "Las 3 películas de THE IDOLM@STER Million Live! en formato de episodios.",
@@ -309,12 +315,6 @@
                                 "title": "Atarashii Joushi wa Do Tennen",
                                 "description": "Después de que su poderoso jefe rompió su espíritu y su salud, Momose deja su trabajo para trabajar en un nuevo puesto en ventas en una agencia de publicidad. Sin embargo, el primer día de su nuevo trabajo, Momose no puede moverse debido a un dolor de estómago causado por sus traumas pasados. \"¿Qué debo hacer si mi nuevo jefe también abusa de su poder?\" Mientras tanto, su nuevo jefe, Shirosaki, sale con él a ver a los clientes. ¡¿Qué va a hacer exactamente Shirosaki…?! ¡¡La naturaleza inesperadamente \"tonta\" de este jefe seguramente curará a cualquiera!!",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6510f32351944/atarashii-joushi-wa-do-tennen.jpg"
-                            },
-                            {
-                                "url": "/spy-x-family-season-2",
-                                "title": "SPY x FAMILY Season 2",
-                                "description": "Segunda temporada del besto anime contemporáneo.",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6510f245e4899/spy-x-family-season-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -482,12 +482,61 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/6XoowJSfxO0ozG_aohMpP46cduOXtHBlCX3yobC90uAeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/6XoowJSfxO0ozG_aohMpP46cduOXtHBlCX3yobC90uAeJxFPc"
+                    },
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/FtJN9swkHWCQJY8M52JhWDsBkhq_xoWQu7fBMNBFyIEeJxFPc",
+                        "quality": "Amazon ES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/FtJN9swkHWCQJY8M52JhWDsBkhq_xoWQu7fBMNBFyIEeJxFPc"
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a20231008TQJgnSognn1/Yashahime 24.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a20231008TQJgnSognn1/Yashahime 24.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.burstcloud.co/"
+                        }
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwb6jh2rekpzf76fi5dpodgnq5mvy43/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwb6jh2rekpzf76fi5dpodgnq5mvy43/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a2023100810nmfY7d1pn/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a2023100810nmfY7d1pn/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

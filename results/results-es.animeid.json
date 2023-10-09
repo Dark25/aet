@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//dead-mount-death-play-part-2",
+                                "title": "Dead Mount Death Play Part 2",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/dead-mount-death-play-part-2/cover/86b0c06b.jpg"
+                            },
+                            {
                                 "url": "//kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
                                 "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Migi to Dali",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/migi-to-dali/cover/fbd4c296.jpg"
-                            },
-                            {
-                                "url": "//captain-tsubasa-2018",
-                                "title": "Captain Tsubasa (2018)",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/captain-tsubasa-2018/cover/4265ee87.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//dead-mount-death-play-part-2",
+                                "title": "Dead Mount Death Play Part 2",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/dead-mount-death-play-part-2/cover/86b0c06b.jpg"
+                            },
+                            {
                                 "url": "//kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
                                 "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Migi to Dali",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/migi-to-dali/cover/fbd4c296.jpg"
-                            },
-                            {
-                                "url": "//captain-tsubasa-2018",
-                                "title": "Captain Tsubasa (2018)",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/captain-tsubasa-2018/cover/4265ee87.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,37 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
-                    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-                    "description": "Tras graduarse de la secundaria, Rentarou Aijou confiesa sus sentimientos y es rechazado por enésima vez. Visita un santuario de emparejamiento y el dios promete cien almas gemelas en la preparatoria. Dos de ellas, Hakari Hanazono y Karane Inda, confiesan su amor el mismo día. Pero Rentarou descubre que si alguna alma gemela no logra establecer una relación con él, morirá. Ahora, en una situación de vida o muerte, decide salir con todas ellas, haciendo crecer su peculiar familia.",
-                    "genre": "Comedia, Escolares, Harem, Romance, Otoño 2023",
+                    "url": "//dead-mount-death-play-part-2",
+                    "title": "Dead Mount Death Play Part 2",
+                    "description": "Segunda parte de la serie anime Dead Mount Death Play Part.",
+                    "genre": "Acción, Fantasía, Sobrenatural, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/cover/8f551e12.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/dead-mount-death-play-part-2/cover/86b0c06b.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-1",
-                        "name": "Episodio 1.0",
-                        "date_upload": 1696723200000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=YZmZ64oZLwtdjL&expires=1696902415&ip=FROsE0EnDS9X&token=721-uBndyzcq",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YZmZ64oZLwtdjL&expires=1696902415&ip=FROsE0EnDS9X&token=721-uBndyzcq"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -358,35 +358,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/serie/bleach-hd1/",
-                    "title": "BLEACH Sennen Kessen hen",
-                    "description": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d’une belle Shinigami (un être spirituel) en train de pourchasser une « âme perdue », un esprit maléfique qui hante notre monde et n’arrive pas à trouver le repos. Mise en difficulté par son ennemi, la jeune fille décide alors de prêter une partie de ses pouvoirs à Ichigo, mais ce dernier hérite finalement de toute la puissance du Shinigami. Contraint d’assumer son nouveau statut, Ichigo va devoir gérer ses deux vies : celle de lycéen ordinaire, et celle de chasseur de démons…\n\nTitre original: ブリーチ\nEpisodes: 379",
-                    "genre": "Action & Adventure, Animation, Science-Fiction & Fantastique",
-                    "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2022/10/guyS28A4IxwoMXIq3Xj9AszMefP-185x278.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/bleach-saison-2-episode-25/",
-                        "name": "Season 2 x 25 - Le Maître",
-                        "date_upload": 1696032000000,
-                        "episode_number": 25.0
-                    },
-                    {
-                        "url": "/episodes/bleach-saison-2-episode-24/",
-                        "name": "Season 2 x 24 - Trop tôt pour crier victoire, trop tard pour savoir",
-                        "date_upload": 1695427200000,
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

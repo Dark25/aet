@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/alem-do-tempo/",
+                                "title": "Além do Tempo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg"
+                            },
+                            {
                                 "url": "/ella-camina-sola/",
                                 "title": "Ella Camina Sola",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/yV3rA5kDiTCK7tEHbXisxhQ3cSt.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
                             },
                             {
-                                "url": "/okashi-na-tensei-saikyou-patishie-isekai-kourin/",
-                                "title": "Okashi na Tensei: Saikyou Patishie Isekai Kourin",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dPmbLLoCgvdxsG0kpm8mF9aY4fK.jpg"
-                            },
-                            {
-                                "url": "/ousama-ranking/",
-                                "title": "Ousama Ranking",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/35fJYd6M6yuts9OfRJXdL00wfdU.jpg"
+                                "url": "/1923/",
+                                "title": "1923",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/destino-la-saga-winx/",
-                                "title": "Destino: La saga Winx",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg"
+                                "url": "/killer-inside-the-mind-of-aaron-hernandez/",
+                                "title": "Killer Inside: The Mind of Aaron Hernandez",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/01/aXpEGKiCVKzhnHbYVfgsMFQjjss-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,54 +134,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/ella-camina-sola/",
-                    "title": "Ella Camina Sola",
-                    "description": "Explora la historia de Carla, una joven maestra de secundaria a quien se le encarga investigar acusaciones de acoso sexual contra un colega y amigo, Ricardo. Las acusaciones sorprenden mucho a la escuela y su comunidad, pues Ricardo es un maestro muy querido. Por instinto, Carla no quiere creer las acusaciones porque las hizo Daniela, una alumna complicada y problemática en la escuela. A medida que desenmaraña el caso y con los giros de la trama, Carla vuelve a recordar su adolescencia. Mientras busca la justicia en el presente, Carla trata de sanar lo del pasado.",
-                    "genre": "",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yV3rA5kDiTCK7tEHbXisxhQ3cSt.jpg",
+                    "url": "/alem-do-tempo/",
+                    "title": "Além do Tempo",
+                    "description": "A través del tiempo, La trama se desarrolla en el siglo xix, y cuenta la historia de un amor imposible, pero tan fuerte que ni siquiera la muerte puede separar. Livia (Alinne Moraes) y Felipe (Rafael Cardoso) son de diferentes clases sociales: ella es una joven humilde, obligada a vivir en el convento de la ciudad por imposición de su madre, Emilia (Ana Beatriz Nogueira); él es un noble conde, sobrino nieto de la poderosa condesa Victoria (Irene Ravache) en la víspera de casarse con la bella Melissa (Paolla Oliveira).",
+                    "genre": "Drama, Soap",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/ella-camina-sola-temporada-1-capitulo-10/",
-                        "name": "T1 - E10 - Episodio 10",
-                        "date_upload": 1695945600000
-                    },
-                    {
-                        "url": "/episode/ella-camina-sola-temporada-1-capitulo-9/",
-                        "name": "T1 - E09 - Episodio 9",
-                        "date_upload": 1695945600000
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://enc2.fastream.to/hls2/02/00059/lrg9dzqmiwu6_,l,o,.urlset/index-f2-v1-a1.m3u8?t=EiE-Zppw_-W4r2PauOUlX0C9LplUSG10rZ2wn3hEeUY&s=1696832258&e=43200&f=299043&i=0.0&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00059/lrg9dzqmiwu6_,l,o,.urlset/index-f2-v1-a1.m3u8?t=EiE-Zppw_-W4r2PauOUlX0C9LplUSG10rZ2wn3hEeUY&s=1696832258&e=43200&f=299043&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/02/00059/lrg9dzqmiwu6_,l,o,.urlset/index-f1-v1-a1.m3u8?t=EiE-Zppw_-W4r2PauOUlX0C9LplUSG10rZ2wn3hEeUY&s=1696832258&e=43200&f=299043&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00059/lrg9dzqmiwu6_,l,o,.urlset/index-f1-v1-a1.m3u8?t=EiE-Zppw_-W4r2PauOUlX0C9LplUSG10rZ2wn3hEeUY&s=1696832258&e=43200&f=299043&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

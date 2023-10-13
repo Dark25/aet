@@ -109,7 +109,7 @@
                 "passed": true
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='getaddrinfo ENOTFOUND fanpelis.ac\n=========================== logs ===========================\n→ GET https://fanpelis.ac/wp-content/uploads/2020/09/btn-overlay-orange.png\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: image/avif,image/webp,*/*\n  accept-encoding: gzip, deflate, br\n  host: fanpelis.ac\n  accept-language: en-US,en;q=0.5\n  referer: https://fanpelis.la/\n  sec-fetch-dest: image\n  sec-fetch-mode: no-cors\n  sec-fetch-site: cross-site\n  connection: keep-alive\n============================================================\n  name='Error\n  stack='Error: getaddrinfo ENOTFOUND fanpelis.ac\n=========================== logs ===========================\n→ GET https://fanpelis.ac/wp-content/uploads/2020/09/btn-overlay-orange.png\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: image/avif,image/webp,*/*\n  accept-encoding: gzip, deflate, br\n  host: fanpelis.ac\n  accept-language: en-US,en;q=0.5\n  referer: https://fanpelis.la/\n  sec-fetch-dest: image\n  sec-fetch-mode: no-cors\n  sec-fetch-site: cross-site\n  connection: keep-alive\n============================================================\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:internal/dns/promises:96:17)\n}",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "details": {

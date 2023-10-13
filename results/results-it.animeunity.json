@@ -362,8 +362,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/166382?type=video&rendition=720p&token=stO-ki9wVMkagk1j4UwVRg&expires=1702342675&canCast=1&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/166382?type=video&rendition=720p&token=stO-ki9wVMkagk1j4UwVRg&expires=1702342675&canCast=1&n=1"
+                    },
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/166382?type=video&rendition=480p&token=-Hg-IBbVpxPYOsNpid4Mdg&expires=1702342675&canCast=1&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/166382?type=video&rendition=480p&token=-Hg-IBbVpxPYOsNpid4Mdg&expires=1702342675&canCast=1&n=1"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -1,0 +1,146 @@
+[
+    {
+        "name": "NollyVerse (EN)",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/frasier",
+                                "title": "Frasier",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/frasier.jpg"
+                            },
+                            {
+                                "url": "/serie/beckham",
+                                "title": "Beckham",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/beckham.jpg"
+                            },
+                            {
+                                "url": "/serie/gen-v",
+                                "title": "Gen V",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/gen-v.jpg"
+                            },
+                            {
+                                "url": "/serie/castlevania-nocturne",
+                                "title": "Castlevania: Nocturne",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/castlevania-nocturne.jpg"
+                            },
+                            {
+                                "url": "/serie/the-worst-of-evil",
+                                "title": "The Worst of Evil",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-worst-of-evil.jpg"
+                            },
+                            {
+                                "url": "/serie/the-long-shadow",
+                                "title": "The Long Shadow",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-long-shadow.jpg"
+                            },
+                            {
+                                "url": "/serie/fenris",
+                                "title": "Fenris",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/fenris.jpg"
+                            },
+                            {
+                                "url": "/serie/the-irrational",
+                                "title": "The Irrational",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-irrational.jpg"
+                            },
+                            {
+                                "url": "/serie/krapopolis",
+                                "title": "Krapopolis",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/krapopolis.jpg"
+                            },
+                            {
+                                "url": "/serie/song-of-the-bandits",
+                                "title": "Song of the Bandits",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/song-of-the-bandits.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/edge-of-the-world",
+                                "title": "Edge of the World (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
+                                "title": "2025 - The World enslaved by a Virus (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
+                            },
+                            {
+                                "url": "/movie/world-s-biggest-bull-shark-",
+                                "title": "World's Biggest Bull Shark? (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
+                            },
+                            {
+                                "url": "/serie/the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond (2020-2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
+                            },
+                            {
+                                "url": "/serie/the-end-of-the-f-ing-world",
+                                "title": "The End of the F***ing World (2017-2019)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
+                            },
+                            {
+                                "url": "/serie/run-the-world",
+                                "title": "Run the World (2021-)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/run-the-world.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/serie/frasier",
+                    "title": "Frasier (2023-)",
+                    "description": "Follow Frasier Crane in the next chapter of his life as he returns to Boston, Mass., with new challenges to face, new relationships to forge and an old dream or two to finally fulfill.",
+                    "genre": "Comedy",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/serie/frasier/season-1#1",
+                        "name": "Episode S1E1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://dl3.fm6x.sbs/Series_05/Frasier.2023/S01/Frasier.2023.S01E01.1080p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+                        "quality": "1080p.x265",
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/Frasier.2023/S01/Frasier.2023.S01E01.1080p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                    },
+                    {
+                        "url": "https://dl3.fm6x.sbs/Series_05/Frasier.2023/S01/Frasier.2023.S01E01.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+                        "quality": "720p.x265",
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/Frasier.2023/S01/Frasier.2023.S01E01.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

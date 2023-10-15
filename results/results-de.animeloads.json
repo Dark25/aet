@@ -252,8 +252,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=jjQ1Q8gbB9czepv&expires=1697401504&ip=F0AsFxOnDS9X&token=MgYsdx7zNn1Y",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=jjQ1Q8gbB9czepv&expires=1697401504&ip=F0AsFxOnDS9X&token=MgYsdx7zNn1Y"
+                    },
+                    {
+                        "url": "https://nectareousoverelate.com/elaoqine9g7w?Ragna.Crimson.S01E03.Ger.HARDSUB.AAC.720p.AKIBAPASSTV.WebDL.x264-DK.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-hwccpji6jnkvfwfi.voe-network.net/engine/hls2-c/01/09692/elaoqine9g7w_,n,.urlset/master.m3u8?t=og3BOMJL5LCPkBVa_CSHpXXG7ELOKfP6ljolDgbBFDA&s=1697331502&e=14400&f=48463866&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=13.83&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

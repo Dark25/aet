@@ -107,11 +107,6 @@
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/mushoku-tensei-ii-isekai-ittara-honki-dasu-s2-castellano-1690136547.jpg?v=1.5"
                             },
                             {
-                                "url": "/anime/horimiya-piece-castellano",
-                                "title": "Horimiya: Piece Castellano",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/horimiya-piece-castellano-1690052852.jpg?v=1.5"
-                            },
-                            {
                                 "url": "/anime/la-melancolia-de-haruhi-suzumiya-castellano",
                                 "title": "La Melancolía De Haruhi Suzumiya Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/la-melancolia-de-haruhi-suzumiya-castellano-1689451510.jpg?v=1.5"
@@ -132,11 +127,6 @@
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/mushoku-tensei-ii-isekai-ittara-honki-dasu-s2-latino-1690753069.jpg?v=1.5"
                             },
                             {
-                                "url": "/anime/horimiya-piece-latino",
-                                "title": "Horimiya: Piece Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/horimiya-piece-latino-1688085683.jpg?v=1.5"
-                            },
-                            {
                                 "url": "/anime/eiyuu-kyoushitsu-latino",
                                 "title": "Eiyuu Kyoushitsu Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/eiyuu-kyoushitsu-latino-1688085556.jpg?v=1.5"
@@ -155,6 +145,16 @@
                                 "url": "/anime/aishiteruze-baby-latino",
                                 "title": "Aishiteruze Baby★★ Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/aishiteruze-baby-latino-1686966486.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/tensei-shitara-slime-datta-ken-s2-castellano",
+                                "title": "Tensei shitara Slime Datta Ken S2 Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/tensei-shitara-slime-datta-ken-s2-castellano-1685660199.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/miraculous-tales-of-ladybug-cat-noir-s5-latino",
+                                "title": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/miraculous-tales-of-ladybug-cat-noir-s5-latino-1685211785.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -343,8 +343,48 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=5&sig=zx7pTV-umjI&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=5&sig=zx7pTV-umjI&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735"
+                    },
+                    {
+                        "url": "https://www12.mp4upload.com:183/d/q6xv2e7uz3b4quuodoqrgyywdc2q4ii6tki73hep7xwirodhvwx4bcb42iont544f3qrzmcq/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xv2e7uz3b4quuodoqrgyywdc2q4ii6tki73hep7xwirodhvwx4bcb42iont544f3qrzmcq/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=3&sig=ptjOSZwRLy4&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735",
+                        "quality": "ok -  Okru:720p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=3&sig=ptjOSZwRLy4&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=2&sig=2SARMDQRDO8&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735",
+                        "quality": "ok -  Okru:480p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=2&sig=2SARMDQRDO8&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=1&sig=m-G7oMkc4f8&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735",
+                        "quality": "ok -  Okru:360p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=1&sig=m-G7oMkc4f8&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=0&sig=9ATQYAUfn6k&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735",
+                        "quality": "ok -  Okru:240p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=0&sig=9ATQYAUfn6k&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=4&sig=dclvckF525M&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735",
+                        "quality": "ok -  Okru:144p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1697417866355&srcIp=20.168.79.77&pr=10&srcAg=GECKO&ms=95.142.206.134&type=4&sig=dclvckF525M&ct=0&urls=185.226.53.59%3B185.226.52.37&clientType=0&zs=43&id=5223394904735"
+                    }
+                ],
+                "passed": true
             }
         }
     }

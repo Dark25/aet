@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/gg4grgqrhpse",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3afnu6tmwys6nwnm.voe-network.net/engine/hls2/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=kLrCK7vjX6r-NPAirvyOZbtMP5022L6HQxn8It6B87w&s=1697459100&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3afnu6tmwys6nwnm.voe-network.net/engine/hls2/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=-8rw4zGKyOTvQZV1j9E_aBo5a4f4TG13UidUaUxv8PM&s=1697480254&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=104.210&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/gg4grgqrhpse",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3afnu6tmwys6nwnm.voe-network.net/engine/hls2/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=kLrCK7vjX6r-NPAirvyOZbtMP5022L6HQxn8It6B87w&s=1697459100&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3afnu6tmwys6nwnm.voe-network.net/engine/hls2/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=-8rw4zGKyOTvQZV1j9E_aBo5a4f4TG13UidUaUxv8PM&s=1697480254&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=104.210&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -314,6 +314,31 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/beaten-to-death",
+                                "title": "Beaten to Death (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1IByydtR2GOvf6esVdrgp13Yve9.jpg"
+                            },
+                            {
+                                "url": "/pelicula/we-burn-like-this",
+                                "title": "We Burn Like This (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uXEFxD5EiCVepuZLA1rXzHe7l3x.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lluvia-de-fuego",
+                                "title": "Lluvia de fuego (2010)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aVzlVwal128Q3mtGOBOC9W2XYcH.jpg"
+                            },
+                            {
+                                "url": "/pelicula/inu-oh",
+                                "title": "Inu-Oh (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yKpHbtTxgJfOPyQRuB1NP04hdjV.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-inheritance",
+                                "title": "The Inheritance (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/92IuSMSPkdgS95F7uWAvhgAmNA7.jpg"
+                            },
                             {
                                 "url": "/pelicula/lore",
                                 "title": "Lore (2017)",
@@ -408,31 +433,6 @@
                                 "url": "/pelicula/el-amor-esta-en-el-aire",
                                 "title": "El amor está en el aire (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/bmTnqJaaL4tipNCGpywoDooRdYJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/flora-y-su-hijo-max",
-                                "title": "Flora y su hijo Max (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/tGuVSc4U2uAkMqq6tAOT912pght.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-aldea-maldita",
-                                "title": "La aldea maldita (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xGZQXf2oDYvLQegwWPvvnx8Jcmw.jpg"
-                            },
-                            {
-                                "url": "/pelicula/suburbanos-2",
-                                "title": "Suburbanos 2 (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9v7znYQVo0YKMLQrU9rsaIZIVNJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-curandero",
-                                "title": "El curandero (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cQ5cBYLKQ2neC5oncuNtwZudmd3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/guardianes-del-museo",
-                                "title": "Guardianes del Museo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yCMFw4UnI2jACjKzoFqnheMUzrS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -572,10 +572,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/lore",
-                    "title": "Lore (2017)",
-                    "description": "",
-                    "genre": "Suspense",
+                    "url": "/pelicula/beaten-to-death",
+                    "title": "Beaten to Death (2022)",
+                    "description": "Una elección desesperada lleva a Jack por un camino que lo deja golpeado y magullado mientras lucha contra el hombre, la naturaleza y su propia locura. Varado en medio de la nada después de sobrevivir apenas a un horrible asalto, Jack se encuentra con un lugareño tras otro y rápidamente descubre que un enfermizo juego del gato y el ratón está a punto de comenzar. Al luchar contra los psicópatas trastornados del campo y el duro paisaje, Jack debe hacer todo lo posible para sobrevivir.",
+                    "genre": "Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -585,7 +585,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/lore",
+                        "url": "/pelicula/beaten-to-death",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -593,8 +593,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04789/s0lpgwx2ayar_o/index-v1-a1.m3u8?t=TLwyYuDg4rSaLypU7cXaWMnKVYer775d_MwvcLWZNpM&s=1697480255&e=43200&f=24008185&srv=49&asn=8075&sp=2000",
+                        "quality": "1080p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04789/s0lpgwx2ayar_o/index-v1-a1.m3u8?t=TLwyYuDg4rSaLypU7cXaWMnKVYer775d_MwvcLWZNpM&s=1697480255&e=43200&f=24008185&srv=49&asn=8075&sp=2000",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/d5qyy6lcrfiw",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },

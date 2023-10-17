@@ -279,16 +279,92 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": {
+                    "url": "/dorama/true-to-love-bora-deborah-sub-espanol",
+                    "title": "True to Love (Bora! Deborah) (0)",
+                    "description": "Deborah, una entrenadora de citas, y Lee Soo-hyuk, un editor, forman una relación inesperada. ",
+                    "genre": "Romance, Comedia, Drama, K-Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/true-to-love-bora-deborah-sub-espanol-episodio-14",
+                        "name": "Episodio 14.0",
+                        "episode_number": 14.0
+                    },
+                    {
+                        "url": "/ver/true-to-love-bora-deborah-sub-espanol-episodio-13",
+                        "name": "Episodio 13.0",
+                        "episode_number": 13.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoBDACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoIFoAeKkOv5lHyQ0G664/fn/track.m3u8",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoBDACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoIFoAeKkOv5lHyQ0G664/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoAzACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoEFoAeKkON3VIo3ya2iE/fn/track.m3u8",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoAzACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoEFoAeKkON3VIo3ya2iE/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoAjACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoCFoAeKkOcjSmkher_w8/fn/track.m3u8",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoAjACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoCFoAeKkOcjSmkher_w8/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoATACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoCFoAeKkOkS-azlArZ9M/fn/track.m3u8",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoATACaikSJwgBEiMKDwoICJjB_BQQ4F0QAhipDloQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAwIlNEMTYAhACGKkOYgQoCFoAeKkOkS-azlArZ9M/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEwAmopEicIARIjCg8KCAiYwfwUEOBdEAIYqQ5aEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgMCJTRDE2AIQAhipDmIEKAhaAHipDsK4JQXmkHNW/fn/track.m3u8",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEwAmopEicIARIjCg8KCAiYwfwUEOBdEAIYqQ5aEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgMCJTRDE2AIQAhipDmIEKAhaAHipDsK4JQXmkHNW/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ4xgkCRqHlmfGcjw/fn/track.m3u8",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1697609923282/clientType/0/srcIp/13.88.98.115/type/2/mid/6081818528287/id/5220716775967/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/45.136.21.37/oq/0/ct/28/sig/1HBUbD-qBJc/ondemand/CJ-U4Nf4lwEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ4xgkCRqHlmfGcjw/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://m30.uqload.io/3rfk5kikr5w2q4drdkv7xjvrbjzmnuxrbrawa3ma5febmcoc2tj2qpiidffq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m30.uqload.io/3rfk5kikr5w2q4drdkv7xjvrbjzmnuxrbrawa3ma5febmcoc2tj2qpiidffq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

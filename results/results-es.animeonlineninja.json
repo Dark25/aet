@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/kin-no-kuni-mizu-no-kuni/",
+                                "title": "Kin no Kuni Mizu no Kuni",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/10/hcmL6C3SN6jHleaVRp0iMCR42aI-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/houkago-shounen-hanako-kun-cap-2/",
+                                "title": "Houkago Shounen Hanako-kun Cap 2",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/10/tBP1gK6MJBCbh21KrT2LzzURUV6-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/eiyuu-kyoushitsu-cap-12/",
                                 "title": "Eiyuu Kyoushitsu Cap 12",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/09/1yExDZUILODwdAXkNI5JvHjfofa-300x170.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/episodio/mf-ghost-cap-3/",
                                 "title": "MF Ghost Cap 3",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/10/lVON5snrFJ34eeke8bCEAGEqRXD-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/boushoku-no-berserk-cap-3/",
-                                "title": "Boushoku no Berserk Cap 3",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/10/a122Q3Tm9y01DXkc78fANJunn0P-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/nanatsu-no-taizai-mokushiroku-no-yonkishi-cap-2/",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Cap 2",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/10/m6aT4dDkd5fI4X2nVb055T5ymJh-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -504,7 +504,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

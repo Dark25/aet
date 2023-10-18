@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/el-junior-el-mirrey-de-los-capos/",
+                                "title": "El Junior: El Mirrey de los Capos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/biagq96TfhQKYxzp9083h6sgoCe.jpg"
+                            },
+                            {
+                                "url": "/me-desperte-vampira/",
+                                "title": "Me desperté vampira",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6P4tca2yL0pgS9xdmtGpZJyUubD.jpg"
+                            },
+                            {
                                 "url": "/llorar-reir-ganar/",
                                 "title": "Llorar, reír, ganar",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kM6CTrrlpQNKZJoIsJb9XEoloWX.jpg"
@@ -47,19 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/xwEJNfeNBvjn9nhVECtCQB92JTB.jpg"
                             },
                             {
-                                "url": "/la-caida-de-la-casa-usher/",
-                                "title": "La caída de la casa Usher",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rmvtaUxTyGb8zaglW1q0FetxP4L.jpg"
-                            },
-                            {
-                                "url": "/the-idiot/",
-                                "title": "The Idiot",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7ujIvdVoaqZ98i7t68zd4JypkaR.jpg"
-                            },
-                            {
-                                "url": "/el-barco/",
-                                "title": "El barco",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kgeuFaSFOFG91wXHpWib4X1Ul90.jpg"
+                                "url": "/miskina-la-pauvre/",
+                                "title": "Miskina, la pauvre",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hP1fwapMAypp5oGdQ2Go2LO4rpf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/28-days-haunted/",
-                                "title": "28 Days Haunted",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/AqcHMbvN4lkYUXKNalOxOFe025K.jpg"
+                                "url": "/contraataque/",
+                                "title": "Contraataque",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rFy3EOZrRymjkalih7W3v8kSVWr.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,22 +134,64 @@
             },
             "details": {
                 "result": {
-                    "url": "/llorar-reir-ganar/",
-                    "title": "Llorar, reír, ganar",
-                    "description": "トークサバイバー！ Son humoristas y protagonizan un drama trepidante... pero si sus chistes no triunfan en las escenas improvisadas, serán expulsados de la serie.",
-                    "genre": "Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kM6CTrrlpQNKZJoIsJb9XEoloWX.jpg",
+                    "url": "/el-junior-el-mirrey-de-los-capos/",
+                    "title": "El Junior: El Mirrey de los Capos",
+                    "description": "Emiliano Quintana, un joven actor, en busca de fama, es levantado y presentado ante Don Mariano Castillo, líder de uno de los cárteles más importantes en México, para descubrir que es su hijo ilegítimo. Su padre, al borde de la muerte, le hereda todo.",
+                    "genre": "Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/biagq96TfhQKYxzp9083h6sgoCe.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/el-junior-el-mirrey-de-los-capos-temporada-1-capitulo-12/",
+                        "name": "T1 - E12 - Episodio 12",
+                        "date_upload": 1594425600000
+                    },
+                    {
+                        "url": "/episode/el-junior-el-mirrey-de-los-capos-temporada-1-capitulo-11/",
+                        "name": "T1 - E11 - Episodio 11",
+                        "date_upload": 1593820800000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s32.fastream.to/hls2/02/00060/eoozj94l34se_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=wve5yZx6zwCnAqJUfxJka-KKpe0Z2GuhEedUDrobx58&s=1697590438&e=43200&f=300317&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s32.fastream.to/hls2/02/00060/eoozj94l34se_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=wve5yZx6zwCnAqJUfxJka-KKpe0Z2GuhEedUDrobx58&s=1697590438&e=43200&f=300317&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/02/00060/eoozj94l34se_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=wve5yZx6zwCnAqJUfxJka-KKpe0Z2GuhEedUDrobx58&s=1697590438&e=43200&f=300317&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s32.fastream.to/hls2/02/00060/eoozj94l34se_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=wve5yZx6zwCnAqJUfxJka-KKpe0Z2GuhEedUDrobx58&s=1697590438&e=43200&f=300317&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/02/00060/eoozj94l34se_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=wve5yZx6zwCnAqJUfxJka-KKpe0Z2GuhEedUDrobx58&s=1697590438&e=43200&f=300317&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s32.fastream.to/hls2/02/00060/eoozj94l34se_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=wve5yZx6zwCnAqJUfxJka-KKpe0Z2GuhEedUDrobx58&s=1697590438&e=43200&f=300317&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

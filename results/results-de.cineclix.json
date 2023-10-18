@@ -162,11 +162,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/k6lw7hhaMDzJ170bfZfBbnipxcW.jpg"
                             },
                             {
-                                "url": "/api/v1/titles/1420?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Fire - Im Kampf gegen die Flammenhölle",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/30mJ7biy9raA4vvvdHYH83FOVlW.jpg"
-                            },
-                            {
                                 "url": "/api/v1/titles/11088?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Der König der Löwen",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2yiOlsfujLV3uiMd0VbbT8QBHFX.jpg"
@@ -255,6 +250,11 @@
                                 "url": "/api/v1/titles/3229?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Die Legende vom Ozeanpianisten",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/eYy65D3XqA6fXTJFmVrdzH48EGj.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/2993?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Black Clover: Sword of the Wizard King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/iAPTaMxOFYQs8Punh74SCSoG6sv.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -396,33 +396,33 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskalyrh2dptkgqsa/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskaywr7plmkcp62q/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskalyrh2dptkgqsa/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskaywr7plmkcp62q/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskalyrh7rf5cwiyq/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskaywr7d55z2tmxa/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 400p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskalyrh7rf5cwiyq/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskaywr7d55z2tmxa/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskalyrh2nptkgqsa/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskaywr7pxmkcp62q/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskalyrh2nptkgqsa/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfskaywr7pxmkcp62q/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskalyrh77f5cwiyq/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskaywr7db5z2tmxa/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 400p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskalyrh77f5cwiyq/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvskaywr7db5z2tmxa/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }

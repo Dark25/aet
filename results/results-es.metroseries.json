@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/candy-cruz/",
+                                "title": "Candy Cruz",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bSk3Rxx2kgYRF5albYAYyRlL8d0.jpg"
+                            },
+                            {
+                                "url": "/usa-tu-voz/",
+                                "title": "Usa tu Voz",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fcWRLfhKd1HVD9E02fpoRGCIntx.jpg"
+                            },
+                            {
                                 "url": "/fright-krewe/",
                                 "title": "Fright Krewe",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/sISqpC2ywqE6qNVWKUOTWUsYmjA.jpg"
@@ -47,19 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/gmIJmZ7CkokoBraD2P90QUy5B3T.jpg"
                             },
                             {
-                                "url": "/el-junior-el-mirrey-de-los-capos/",
-                                "title": "El Junior: El Mirrey de los Capos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/biagq96TfhQKYxzp9083h6sgoCe.jpg"
-                            },
-                            {
-                                "url": "/me-desperte-vampira/",
-                                "title": "Me desperté vampira",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6P4tca2yL0pgS9xdmtGpZJyUubD.jpg"
-                            },
-                            {
-                                "url": "/devil-may-cry/",
-                                "title": "Devil May Cry",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/cZQk4Yt9cd689B3nJqjwUz4Odr2-226x339.jpg"
+                                "url": "/suburra-la-serie/",
+                                "title": "Suburra: La Serie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kiKvhrO82jbfM521Q6hz0MlFCN6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-schouwendam-12/",
-                                "title": "The Schouwendam 12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5yusGSbeaIvmvJgsgH1Yl6AWdPj.jpg"
+                                "url": "/la-tierra-de-noche/",
+                                "title": "La Tierra de Noche",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kLMVQnVzYTEGfgQnQ98lGpHBSRV.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,22 +134,94 @@
             },
             "details": {
                 "result": {
-                    "url": "/fright-krewe/",
-                    "title": "Fright Krewe",
-                    "description": "Una antigua profecía y una reina vudú ponen a adolescentes inadaptados a cargo de salvar a Nueva Orleans de la mayor amenaza demoníaca a la que se ha enfrentado en casi dos siglos. Pero, ¿honestamente? Salvar el mundo puede ser más fácil que hacerse amigos.",
-                    "genre": "Action & Adventure, Animación",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sISqpC2ywqE6qNVWKUOTWUsYmjA.jpg",
+                    "url": "/candy-cruz/",
+                    "title": "Candy Cruz",
+                    "description": "Candy Cruz, quien tiene un don natural para la cocina, gracias al cual vivirá una de las experiencias más inolvidables de su vida al participar en un concurso de televisión que le dará fama.",
+                    "genre": "Comedia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bSk3Rxx2kgYRF5albYAYyRlL8d0.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/candy-cruz-temporada-1-capitulo-3/",
+                        "name": "T1 - E03 - Episodio 3",
+                        "date_upload": 1697673600000
+                    },
+                    {
+                        "url": "/episode/candy-cruz-temporada-1-capitulo-2/",
+                        "name": "T1 - E02 - Episodio 2",
+                        "date_upload": 1697673600000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s32.fastream.to/hls2/02/00060/suoy0x0ugrx5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=RZPJ24WmP1X_COakr6aHFXD7p4R9Mm1z5yGj_hgsC5s&s=1697739429&e=43200&f=300998&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s32.fastream.to/hls2/02/00060/suoy0x0ugrx5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=RZPJ24WmP1X_COakr6aHFXD7p4R9Mm1z5yGj_hgsC5s&s=1697739429&e=43200&f=300998&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/02/00060/suoy0x0ugrx5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=RZPJ24WmP1X_COakr6aHFXD7p4R9Mm1z5yGj_hgsC5s&s=1697739429&e=43200&f=300998&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s32.fastream.to/hls2/02/00060/suoy0x0ugrx5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=RZPJ24WmP1X_COakr6aHFXD7p4R9Mm1z5yGj_hgsC5s&s=1697739429&e=43200&f=300998&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/02/00060/suoy0x0ugrx5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=RZPJ24WmP1X_COakr6aHFXD7p4R9Mm1z5yGj_hgsC5s&s=1697739429&e=43200&f=300998&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s32.fastream.to/hls2/02/00060/suoy0x0ugrx5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=RZPJ24WmP1X_COakr6aHFXD7p4R9Mm1z5yGj_hgsC5s&s=1697739429&e=43200&f=300998&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00060/0qa9w22mq2n8_,l,n,o,.urlset/index-f1-v1-a1.m3u8?t=MNq7KPL5AzsSNO2Sav1RSUqi8anJzfK0TPdUFVqA8Xc&s=1697739445&e=43200&f=300999&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00060/0qa9w22mq2n8_,l,n,o,.urlset/index-f1-v1-a1.m3u8?t=MNq7KPL5AzsSNO2Sav1RSUqi8anJzfK0TPdUFVqA8Xc&s=1697739445&e=43200&f=300999&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00060/0qa9w22mq2n8_,l,n,o,.urlset/index-f2-v1-a1.m3u8?t=MNq7KPL5AzsSNO2Sav1RSUqi8anJzfK0TPdUFVqA8Xc&s=1697739445&e=43200&f=300999&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00060/0qa9w22mq2n8_,l,n,o,.urlset/index-f2-v1-a1.m3u8?t=MNq7KPL5AzsSNO2Sav1RSUqi8anJzfK0TPdUFVqA8Xc&s=1697739445&e=43200&f=300999&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00060/0qa9w22mq2n8_,l,n,o,.urlset/index-f3-v1-a1.m3u8?t=MNq7KPL5AzsSNO2Sav1RSUqi8anJzfK0TPdUFVqA8Xc&s=1697739445&e=43200&f=300999&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00060/0qa9w22mq2n8_,l,n,o,.urlset/index-f3-v1-a1.m3u8?t=MNq7KPL5AzsSNO2Sav1RSUqi8anJzfK0TPdUFVqA8Xc&s=1697739445&e=43200&f=300999&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

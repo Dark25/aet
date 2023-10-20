@@ -3,12 +3,318 @@
         "name": "StreamingCommunity (IT)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "6772-joy-ride",
+                                "title": "Joy Ride",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f28527b5-52a5-4280-8d33-bee43951b8c2.webp"
+                            },
+                            {
+                                "url": "6771-appendage",
+                                "title": "Appendage",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/dab84f1b-1ef8-480c-a6a0-65ca7f727931.webp"
+                            },
+                            {
+                                "url": "6770-lorafo",
+                                "title": "L’orafo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3082f689-445a-4afd-9f0a-d111df68f221.webp"
+                            },
+                            {
+                                "url": "6769-dogman",
+                                "title": "Dogman",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/4f737d83-0e46-4127-a4ee-9063e14aeb67.webp"
+                            },
+                            {
+                                "url": "6768-save-the-last-dance",
+                                "title": "Save the Last Dance",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5de9e677-de9b-4a6f-9d86-f7758243acd8.webp"
+                            },
+                            {
+                                "url": "6767-the-creator",
+                                "title": "The Creator",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/adb22a4c-a147-4f79-baf9-b35766332d3d.webp"
+                            },
+                            {
+                                "url": "6766-the-reunion",
+                                "title": "The Reunion",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8cf1c082-afff-4c2a-b129-89f1751aefd8.webp"
+                            },
+                            {
+                                "url": "6765-do-ut-des",
+                                "title": "Do Ut Des",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/dbc795fb-34ed-4158-a538-ba78d23b0537.webp"
+                            },
+                            {
+                                "url": "6763-mon-crime-la-colpevole-sono-io",
+                                "title": "Mon Crime - La colpevole sono io",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/545cf146-9b3f-4df7-9c4b-032a9a3b28d1.webp"
+                            },
+                            {
+                                "url": "6762-io-e-annie",
+                                "title": "Io e Annie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5b6f60ab-c96c-4a8e-88d6-695c704874f0.webp"
+                            },
+                            {
+                                "url": "6761-1997-fuga-da-new-york",
+                                "title": "1997: Fuga da New York",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1ec2d458-966f-4c35-b021-67451c62706d.webp"
+                            },
+                            {
+                                "url": "6760-il-paradiso-allimprovviso",
+                                "title": "Il paradiso all'improvviso",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a06627b2-ece4-415e-abdb-dae597270add.webp"
+                            },
+                            {
+                                "url": "6759-nessuna-via-di-fuga",
+                                "title": "Nessuna via di fuga",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/47df697f-cef1-4d8c-9bee-9b3a3c1bc2b8.webp"
+                            },
+                            {
+                                "url": "6758-colombo",
+                                "title": "Colombo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0dedcc02-bd07-446e-b1ce-8071fb3946da.webp"
+                            },
+                            {
+                                "url": "6757-the-continental-dal-mondo-di-john-wick",
+                                "title": "The Continental: Dal mondo di John Wick",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/ec336c2f-ca7c-4ad9-89ab-0dc9198b1a69.webp"
+                            },
+                            {
+                                "url": "6756-bargain-trattativa-mortale",
+                                "title": "Bargain - Trattativa mortale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/32a60f67-e461-46ba-ae78-1be56fe3ab09.webp"
+                            },
+                            {
+                                "url": "6753-lesorcista-il-credente",
+                                "title": "L’esorcista - Il credente",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/be967388-5c01-4470-bf1c-debcf6ef250f.webp"
+                            },
+                            {
+                                "url": "6752-the-newsroom",
+                                "title": "The Newsroom",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/17cd8ea2-304f-410d-99e9-f5960d02381a.webp"
+                            },
+                            {
+                                "url": "6751-holy-spider",
+                                "title": "Holy Spider",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/16d55de6-79d6-469c-ac4d-ca1f71cad1c3.webp"
+                            },
+                            {
+                                "url": "6750-kursk",
+                                "title": "Kursk",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/cd5d520d-ad02-4465-ac5e-63eeebdf64df.webp"
+                            },
+                            {
+                                "url": "6749-il-convegno",
+                                "title": "Il convegno",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/cd16faa0-0a7a-4976-9eb8-6f31419296d4.webp"
+                            },
+                            {
+                                "url": "6748-awareness",
+                                "title": "Awareness",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9edca13a-b329-4f3d-a04a-984f83a0ea81.webp"
+                            },
+                            {
+                                "url": "6746-the-burial",
+                                "title": "The Burial",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/933280f3-fd0c-4ad4-9b44-ca5b52a4302f.webp"
+                            },
+                            {
+                                "url": "6745-patto-di-sangue",
+                                "title": "Patto di sangue",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/66410da8-3aab-4d97-9ebd-0049636ed1a6.webp"
+                            },
+                            {
+                                "url": "6744-organ-trail",
+                                "title": "Organ Trail",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/b5483831-7d36-4db0-b294-1600cb72a9df.webp"
+                            },
+                            {
+                                "url": "6743-the-crowded-room",
+                                "title": "The Crowded Room",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/08feb18a-9f33-4e51-a13a-7c10117fba50.webp"
+                            },
+                            {
+                                "url": "6742-the-boogeyman",
+                                "title": "The Boogeyman",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1d4fa6ae-b49a-441f-a3b9-3668f72966ce.webp"
+                            },
+                            {
+                                "url": "6741-invito-a-un-assassinio",
+                                "title": "Invito a un assassinio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/b3575390-0f74-4fdf-bdcb-6b0939274fbe.webp"
+                            },
+                            {
+                                "url": "6739-talk-to-me",
+                                "title": "Talk to Me",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/291aaffd-544a-4c78-b77c-cb54764763f8.webp"
+                            },
+                            {
+                                "url": "6738-assassinio-a-venezia",
+                                "title": "Assassinio a Venezia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c15aefd1-50ea-4ce5-9f61-7096971b4039.webp"
+                            },
+                            {
+                                "url": "6737-polite-society-operazione-matrimonio",
+                                "title": "Polite Society - Operazione matrimonio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/718a93a9-e173-4e3b-bd89-b94e57921697.webp"
+                            },
+                            {
+                                "url": "6736-are-you-there-god-its-me-margaret",
+                                "title": "Are You There God? It's Me, Margaret.",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/4a25e064-4c71-486e-bc73-ea97748d859e.webp"
+                            },
+                            {
+                                "url": "6735-riscatto-damore",
+                                "title": "Riscatto d'amore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/690509c7-4903-4701-9340-c79268ba61d0.webp"
+                            },
+                            {
+                                "url": "6734-totally-killer",
+                                "title": "Totally Killer",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/648b5d01-3cc9-45af-a00d-20dbe379d661.webp"
+                            },
+                            {
+                                "url": "6733-lo-sposo-indeciso",
+                                "title": "Lo sposo indeciso",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3dad2712-25de-4174-bf35-abbc538e838f.webp"
+                            },
+                            {
+                                "url": "6732-cimitero-vivente-le-origini",
+                                "title": "Cimitero vivente - Le origini",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8ad07f4d-5c88-412b-80bf-94a0523e6232.webp"
+                            },
+                            {
+                                "url": "6731-fair-play",
+                                "title": "Fair Play",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5f1c13bc-257a-4e63-af5d-153a743141be.webp"
+                            },
+                            {
+                                "url": "6730-everything-now",
+                                "title": "Everything Now",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d2b6a825-b9ec-49cb-a221-f113c0681fc1.webp"
+                            },
+                            {
+                                "url": "6729-spy-kids-armageddon",
+                                "title": "Spy Kids: Armageddon",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1af3cb7e-0f0a-4722-b7a3-84bcb7b40f0a.webp"
+                            },
+                            {
+                                "url": "6728-beckham",
+                                "title": "Beckham",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a24ba080-dfd8-413a-954f-43c2ed1c1ec5.webp"
+                            },
+                            {
+                                "url": "6727-57-secondi",
+                                "title": "57 Secondi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/bdb0889a-3e86-47d5-aafb-593b1b321a07.webp"
+                            },
+                            {
+                                "url": "6726-la-maledizione-dei-far-darrig",
+                                "title": "La maledizione dei Far Darrig",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a67a717a-9315-416e-aec2-b7d9db5cb6bf.webp"
+                            },
+                            {
+                                "url": "6725-after-5",
+                                "title": "After 5",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/55f17f92-f3bb-4c37-8b4b-dde48ba84f67.webp"
+                            },
+                            {
+                                "url": "6724-flora-and-son",
+                                "title": "Flora and Son",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/349193e1-63e5-4bff-9892-68f3670c27d1.webp"
+                            },
+                            {
+                                "url": "6723-art-squad-gli-artisti-del-furto",
+                                "title": "Art Squad - Gli artisti del furto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/05f34886-75cc-4505-a66e-77ef50cbc1a2.webp"
+                            },
+                            {
+                                "url": "6722-war-of-the-worlds-linvasione",
+                                "title": "War of the Worlds - L'invasione",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/bf76c4f7-d7f0-4d8c-96fb-7f9e49f0be59.webp"
+                            },
+                            {
+                                "url": "6721-sanctuary-lui-fa-il-gioco-lei-fa-le-regole",
+                                "title": "Sanctuary - Lui fa il gioco. Lei fa le regole.",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3dfa90f8-826a-4052-af98-d8f0db87353f.webp"
+                            },
+                            {
+                                "url": "6720-nowhere",
+                                "title": "Nowhere",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3647fe95-63d0-42dc-a525-86699c2e6aba.webp"
+                            },
+                            {
+                                "url": "6719-gen-v",
+                                "title": "Gen V",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9753d696-c7e1-4e40-8517-29b3668c478b.webp"
+                            },
+                            {
+                                "url": "6718-doggy-style",
+                                "title": "Doggy Style",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d2a1db9c-6acd-402f-bfd8-3a56696a32f9.webp"
+                            },
+                            {
+                                "url": "6717-la-casa-dei-fantasmi",
+                                "title": "La casa dei fantasmi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f884cede-db81-43e7-8e4b-ef25124a50be.webp"
+                            },
+                            {
+                                "url": "6715-i-mercenari-4",
+                                "title": "I mercenari 4",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8384a2d7-b442-4f73-b461-1673a63e3231.webp"
+                            },
+                            {
+                                "url": "6714-2-matrimoni-alla-volta",
+                                "title": "2 Matrimoni alla volta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0cdb960e-c33d-4d9e-8521-c42c892e67e7.webp"
+                            },
+                            {
+                                "url": "6713-lamore-dimenticato",
+                                "title": "L'amore dimenticato",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/661a0d91-1e4c-47db-872e-f7fdaf5b0cb1.webp"
+                            },
+                            {
+                                "url": "6712-reptile",
+                                "title": "Reptile",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c4c617be-697a-4d40-9d02-992141b2bccd.webp"
+                            },
+                            {
+                                "url": "6711-carico-sconosciuto",
+                                "title": "Carico sconosciuto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/6adfecae-4b69-4d73-bac0-3657ef927cd9.webp"
+                            },
+                            {
+                                "url": "6710-vasco-rossi-il-supervissuto",
+                                "title": "Vasco Rossi: Il Supervissuto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c9a32976-e1c5-45af-bf4a-8119ae9e5ce1.webp"
+                            },
+                            {
+                                "url": "6709-wilderness-fuori-controllo",
+                                "title": "Wilderness – Fuori controllo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/978f7ebf-7c40-4fa0-8244-c52b25cd121f.webp"
+                            },
+                            {
+                                "url": "6708-love-is-in-the-air",
+                                "title": "Love is in the Air",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/4c65b30a-f6f7-4a1a-a597-1413845723c1.webp"
+                            },
+                            {
+                                "url": "6707-prigione-77",
+                                "title": "Prigione 77",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/89502249-b2f6-499d-b5f7-2ac799e39577.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -322,9 +628,9 @@
             },
             "details": {
                 "result": {
-                    "url": "1587-world-of-winx",
-                    "description": "Le Winx tornano a Gardenia, città natale di Bloom, dove cominciano a lavorare come talent scout, in un talent show chiamato WOW. In realtà il loro scopo è quello di salvare i ragazzi di tutto il mondo, da un misterioso ladro di talenti che dovrebbe essere Jim. Le sei fate devono tenere nascosta la loro vera identità e i loro poteri magici. In questa serie, le Winx ottengono una nuova trasformazione, chiamata Dreamix. Nella seconda parte della serie, le fate ottengono il potere Onyrix. Il loro obbiettivo è quello di trovare il figlio di Peter Pan per poter far tornare buona Campanellino.",
-                    "genre": "Action & Adventure, Animazione, Kids",
+                    "url": "6772-joy-ride",
+                    "description": "Quando il viaggio d'affari di Audrey in Asia va storto, chiede aiuto a Lolo, la sua irriverente migliore amica d'infanzia che sembra essere anche un gran disastro; Kat, la sua amica del college diventata star della soap cinese; e Deadeye, l'eccentrico cugino di Lolo. La loro esperienza epica e senza esclusione di colpi diventa un viaggio di legame, amicizia, appartenenza e dissolutezza selvaggia che rivela la verità universale di cosa significa conoscere e amare chi sei.",
+                    "genre": "Commedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -334,14 +640,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "1587?e=14740",
-                        "name": "Stagione 1 episodio 13 - The Fall of the Queen",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "1587?e=14739",
-                        "name": "Stagione 1 episodio 12 - The Watchmaker",
-                        "episode_number": 12.0
+                        "url": "6772",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

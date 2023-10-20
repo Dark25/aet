@@ -3,74 +3,8 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/power-rangers-cosmic-fury.html",
-                                "title": "Power Rangers: Cosmic Fury",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/power-rangers-cosmic-fury-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuryuu-sentai-abaranger-20th-the-unforgivable-abare.html",
-                                "title": "Bakuryuu Sentai Abaranger 20th: The Unforgivable Abare",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuryuu-sentai-abaranger-20th-the-unforgivable-abare-thumb.png"
-                            },
-                            {
-                                "url": "/watch/messages-from-space-galaxy-wars.html",
-                                "title": "Messages From Space-Galaxy Wars",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/messages-from-space-galaxy-wars-thumb.png"
-                            },
-                            {
-                                "url": "/watch/voltes-v-legacy.html",
-                                "title": "Voltes V: Legacy",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
-                            },
-                            {
-                                "url": "/watch/shoujo-commando-izumi.html",
-                                "title": "Shoujo Commando Izumi",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/shoujo-commando-izumi-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-combat-team-junretsuger.html",
-                                "title": "Super Combat Team Junretsuger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-combat-team-junretsuger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/metal-kaiser.html",
-                                "title": "Metal Kaiser",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/metal-kaiser-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kousoku-sentai-turboranger.html",
-                                "title": "Kousoku Sentai Turboranger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kousoku-sentai-turboranger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/sukeban-deka-iii-shojo-ninpo-cho-denki.html",
-                                "title": "Sukeban Deka III: Shojo Ninpo-cho Denki",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sukeban-deka-iii-shojo-ninpo-cho-denki-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -144,14 +78,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/ohsama-sentai-king-ohger.html",
-                    "title": "Ohsama Sentai King-Ohger",
-                    "author": "Year 2023",
-                    "description": "Ohsama Sentai King-Ohger (王様戦隊キングオージャー, Ōsama Sentai Kinguōjā, Kingship Squadron King-Ohger) is an upcoming Japanese tokusatsu television drama, the 47th installment in Toei Company’s long-running Super Sentai series and the fourth produced in the Reiwa era. This series is the first in the franchise where all of the main characters have an insect motif.",
-                    "genre": "Series, Super Sentai",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png",
+                    "url": "/watch/super-sentai-world.html",
+                    "title": "Super Sentai World",
+                    "author": "Year 1994",
+                    "description": "Super Sentai World is a short 3-D film based on the Super Sentai franchise that was shown in 1994 in amusement parks and special events nationwide in Japan. It was shown as a triple feature alongside Kamen Rider World and Toei Hero Daishugō",
+                    "genre": "Movie, Super Sentai",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,14 +91,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=33#watch",
-                        "name": "Episode 33",
-                        "episode_number": 33.0
-                    },
-                    {
-                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=32#watch",
-                        "name": "Episode 32",
-                        "episode_number": 32.0
+                        "url": "/watch/super-sentai-world.html",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -174,36 +101,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls30-eu.zcdn.stream/68293a8f9b18a019552932819fc15b46/2023-10-15/1080.m3u8?token=b223a40c1fef5573b09a43e4e7548fec&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697811425&type=edge&node=FwojJkcixU-dnpPUR5ODFOi0ZjD0NqNc-CjQQmzL6JafwSnh92toh2NOd8eZTyOC1W_9dE9P6T8euWBhDj5ohZdTh-uKxbhwXPThnAkg5R0m0USppXXamO9nrcKXXoMJnOgJLJPOuIBDjDQfk0rBWR1jaiuZxCWrFn_xq78gki8",
+                        "url": "https://hls5-eu.zcdn.stream/80b1dda8ff854a49a4b8fea11df46409/2022-02-14/1080.m3u8?token=8760de6850c7ed7291bdb1a36f48c8ac&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697833400&type=edge&node=kdMIASZQIbm1hTrYiVR3lie2dyh28LymRfiVsnknOP3jK31d2pa11XI3u6ogxGpbcT2MtGn0pjXF2PUoPzIxwvm3gExzQr90T5vqpVJzlArDmde5zxuGzWV6rm_he1XrAj1E-HNm3scJf3tlPxKSniqmc4q7FUuFZdx1Hr5gl5M",
                         "quality": "Chillx - 1080p",
-                        "videoUrl": "https://hls30-eu.zcdn.stream/68293a8f9b18a019552932819fc15b46/2023-10-15/1080.m3u8?token=b223a40c1fef5573b09a43e4e7548fec&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697811425&type=edge&node=FwojJkcixU-dnpPUR5ODFOi0ZjD0NqNc-CjQQmzL6JafwSnh92toh2NOd8eZTyOC1W_9dE9P6T8euWBhDj5ohZdTh-uKxbhwXPThnAkg5R0m0USppXXamO9nrcKXXoMJnOgJLJPOuIBDjDQfk0rBWR1jaiuZxCWrFn_xq78gki8",
+                        "videoUrl": "https://hls5-eu.zcdn.stream/80b1dda8ff854a49a4b8fea11df46409/2022-02-14/1080.m3u8?token=8760de6850c7ed7291bdb1a36f48c8ac&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697833400&type=edge&node=kdMIASZQIbm1hTrYiVR3lie2dyh28LymRfiVsnknOP3jK31d2pa11XI3u6ogxGpbcT2MtGn0pjXF2PUoPzIxwvm3gExzQr90T5vqpVJzlArDmde5zxuGzWV6rm_he1XrAj1E-HNm3scJf3tlPxKSniqmc4q7FUuFZdx1Hr5gl5M",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://chillx.top",
-                            "Referer": "https:///chillx.top/v/t4tNTkA7kq2L/"
+                            "Referer": "https://chillx.top/v/dQeJpiCphCrl/"
                         }
                     },
                     {
-                        "url": "https://hls30-eu.zcdn.stream/68293a8f9b18a019552932819fc15b46/2023-10-15/720.m3u8?token=b223a40c1fef5573b09a43e4e7548fec&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697811425&type=edge&node=FwojJkcixU-dnpPUR5ODFOi0ZjD0NqNc-CjQQmzL6JafwSnh92toh2NOd8eZTyOC1W_9dE9P6T8euWBhDj5ohZdTh-uKxbhwXPThnAkg5R0m0USppXXamO9nrcKXXoMJnOgJLJPOuIBDjDQfk0rBWR1jaiuZxCWrFn_xq78gki8",
+                        "url": "https://hls5-eu.zcdn.stream/80b1dda8ff854a49a4b8fea11df46409/2022-02-14/720.m3u8?token=8760de6850c7ed7291bdb1a36f48c8ac&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697833400&type=edge&node=kdMIASZQIbm1hTrYiVR3lie2dyh28LymRfiVsnknOP3jK31d2pa11XI3u6ogxGpbcT2MtGn0pjXF2PUoPzIxwvm3gExzQr90T5vqpVJzlArDmde5zxuGzWV6rm_he1XrAj1E-HNm3scJf3tlPxKSniqmc4q7FUuFZdx1Hr5gl5M",
                         "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls30-eu.zcdn.stream/68293a8f9b18a019552932819fc15b46/2023-10-15/720.m3u8?token=b223a40c1fef5573b09a43e4e7548fec&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697811425&type=edge&node=FwojJkcixU-dnpPUR5ODFOi0ZjD0NqNc-CjQQmzL6JafwSnh92toh2NOd8eZTyOC1W_9dE9P6T8euWBhDj5ohZdTh-uKxbhwXPThnAkg5R0m0USppXXamO9nrcKXXoMJnOgJLJPOuIBDjDQfk0rBWR1jaiuZxCWrFn_xq78gki8",
+                        "videoUrl": "https://hls5-eu.zcdn.stream/80b1dda8ff854a49a4b8fea11df46409/2022-02-14/720.m3u8?token=8760de6850c7ed7291bdb1a36f48c8ac&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697833400&type=edge&node=kdMIASZQIbm1hTrYiVR3lie2dyh28LymRfiVsnknOP3jK31d2pa11XI3u6ogxGpbcT2MtGn0pjXF2PUoPzIxwvm3gExzQr90T5vqpVJzlArDmde5zxuGzWV6rm_he1XrAj1E-HNm3scJf3tlPxKSniqmc4q7FUuFZdx1Hr5gl5M",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://chillx.top",
-                            "Referer": "https:///chillx.top/v/t4tNTkA7kq2L/"
+                            "Referer": "https://chillx.top/v/dQeJpiCphCrl/"
                         }
                     },
                     {
-                        "url": "https://hls30-eu.zcdn.stream/68293a8f9b18a019552932819fc15b46/2023-10-15/360.m3u8?token=b223a40c1fef5573b09a43e4e7548fec&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697811425&type=edge&node=FwojJkcixU-dnpPUR5ODFOi0ZjD0NqNc-CjQQmzL6JafwSnh92toh2NOd8eZTyOC1W_9dE9P6T8euWBhDj5ohZdTh-uKxbhwXPThnAkg5R0m0USppXXamO9nrcKXXoMJnOgJLJPOuIBDjDQfk0rBWR1jaiuZxCWrFn_xq78gki8",
-                        "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls30-eu.zcdn.stream/68293a8f9b18a019552932819fc15b46/2023-10-15/360.m3u8?token=b223a40c1fef5573b09a43e4e7548fec&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697811425&type=edge&node=FwojJkcixU-dnpPUR5ODFOi0ZjD0NqNc-CjQQmzL6JafwSnh92toh2NOd8eZTyOC1W_9dE9P6T8euWBhDj5ohZdTh-uKxbhwXPThnAkg5R0m0USppXXamO9nrcKXXoMJnOgJLJPOuIBDjDQfk0rBWR1jaiuZxCWrFn_xq78gki8",
+                        "url": "https://hls5-eu.zcdn.stream/80b1dda8ff854a49a4b8fea11df46409/2022-02-14/480.m3u8?token=8760de6850c7ed7291bdb1a36f48c8ac&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697833400&type=edge&node=kdMIASZQIbm1hTrYiVR3lie2dyh28LymRfiVsnknOP3jK31d2pa11XI3u6ogxGpbcT2MtGn0pjXF2PUoPzIxwvm3gExzQr90T5vqpVJzlArDmde5zxuGzWV6rm_he1XrAj1E-HNm3scJf3tlPxKSniqmc4q7FUuFZdx1Hr5gl5M",
+                        "quality": "Chillx - 480p",
+                        "videoUrl": "https://hls5-eu.zcdn.stream/80b1dda8ff854a49a4b8fea11df46409/2022-02-14/480.m3u8?token=8760de6850c7ed7291bdb1a36f48c8ac&client=d41d8cd98f00b204e9800998ecf8427e&expires=1697833400&type=edge&node=kdMIASZQIbm1hTrYiVR3lie2dyh28LymRfiVsnknOP3jK31d2pa11XI3u6ogxGpbcT2MtGn0pjXF2PUoPzIxwvm3gExzQr90T5vqpVJzlArDmde5zxuGzWV6rm_he1XrAj1E-HNm3scJf3tlPxKSniqmc4q7FUuFZdx1Hr5gl5M",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://chillx.top",
-                            "Referer": "https:///chillx.top/v/t4tNTkA7kq2L/"
+                            "Referer": "https://chillx.top/v/dQeJpiCphCrl/"
                         }
                     }
                 ],

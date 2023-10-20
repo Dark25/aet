@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/scavengers-reign-episode-3-the-wall",
+                        "name": "Season 1 - Episode 3",
+                        "episode_number": 103.0
+                    },
+                    {
+                        "url": "/scavengers-reign-episode-2-the-storm",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJu3rInIvGdnsBCJnFp0agfZpltZLqNg_Epakzingrj3XPH9jxeiS_WRJOcC3LAF7td2BcjC4noSVoOSgeayrtmOc-MW7wo4VSP34kgIQnByr_e9tdFGP32FmnF2ZubuJ4B0rQokYLGj4lb1I_3NsnK8xgIFewynj1rNTgW1PI-o-yYdtARiGUN2dVYxSPa-nnRtqwKZaqynd4y4cuAW-iiSfUv5H63sozgWTU0GaqJlYgSncGB1X7_ICW71PvdvDXpJcej-DtHtMFoql7J0meOiGcDh3zEgWYo0SHqxrkFnM",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJu3rInIvGdnsBCJnFp0agfZpltZLqNg_Epakzingrj3XPH9jxeiS_WRJOcC3LAF7td2BcjC4noSVoOSgeayrtmOc-MW7wo4VSP34kgIQnByr_e9tdFGP32FmnF2ZubuJ4B0rQokYLGj4lb1I_3NsnK8xgIFewynj1rNTgW1PI-o-yYdtARiGUN2dVYxSPa-nnRtqwKZaqynd4y4cuAW-iiSfUv5H63sozgWTU0GaqJlYgSncGB1X7_ICW71PvdvDXpJcej-DtHtMFoql7J0meOiGcDh3zEgWYo0SHqxrkFnM"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJu3rInIvGdnsBCJnFp0agfZpltZLqNg_Epakzingrj3XPH9jxeiS_WRJOcC3LAF7teHUCNq_KBMYZ2CWONqBVdUBnLwl1d8wF-A8JWPIjjjPZB3asRAL-FmkbcBcaS80cV4mhXg7yi_tRMaV3J6Jy7OF0BnLKOKR0A7jJk0AG2qQ8dQ0lcnEjks2hYnl09zoCvJnENLhK2j-_To0XlKMUVnheV-zi2uCkWZPQW_xpiPh2aKUVM0tgm8vgWUBG9eftZfClbeQdx9OPTSsi5V5e2LXhjXvNfSJFzO27vPbNQRoCY8-FD82WO_LQ4SIOJcCsA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJu3rInIvGdnsBCJnFp0agfZpltZLqNg_Epakzingrj3XPH9jxeiS_WRJOcC3LAF7teHUCNq_KBMYZ2CWONqBVdUBnLwl1d8wF-A8JWPIjjjPZB3asRAL-FmkbcBcaS80cV4mhXg7yi_tRMaV3J6Jy7OF0BnLKOKR0A7jJk0AG2qQ8dQ0lcnEjks2hYnl09zoCvJnENLhK2j-_To0XlKMUVnheV-zi2uCkWZPQW_xpiPh2aKUVM0tgm8vgWUBG9eftZfClbeQdx9OPTSsi5V5e2LXhjXvNfSJFzO27vPbNQRoCY8-FD82WO_LQ4SIOJcCsA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJu3rInIvGdnsBCJnFp0agfZpltZLqNg_Epakzingrj3XPH9jxeiS_WRJOcC3LAF7tT2HisCpSspXaM8o3duVMSbW47cEgZSyJ7FHfgcVgYydXXYgStaeNEBLzun_iBmNIGf20A5LqP26KsFCWjRKHBiilm1PIndSlhU9qcrBcVxiereTzn7IPwKoLhuHXgA1UDAOmFp0e5DxS7rFHnJ48MfxO_Lf62P3AmzrhKUwfH6IC_b5LJPh-50GRR2UjS7Ul-9jtcDQ7ViFjNQgc0j15y6gy1pQWBbuB0TDmJsebzkl",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJu3rInIvGdnsBCJnFp0agfZpltZLqNg_Epakzingrj3XPH9jxeiS_WRJOcC3LAF7tT2HisCpSspXaM8o3duVMSbW47cEgZSyJ7FHfgcVgYydXXYgStaeNEBLzun_iBmNIGf20A5LqP26KsFCWjRKHBiilm1PIndSlhU9qcrBcVxiereTzn7IPwKoLhuHXgA1UDAOmFp0e5DxS7rFHnJ48MfxO_Lf62P3AmzrhKUwfH6IC_b5LJPh-50GRR2UjS7Ul-9jtcDQ7ViFjNQgc0j15y6gy1pQWBbuB0TDmJsebzkl"
+                    }
+                ],
+                "passed": true
             }
         }
     }

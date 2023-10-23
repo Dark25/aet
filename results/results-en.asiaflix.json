@@ -19,11 +19,11 @@
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'episodes' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.EpisodeResponseDto', but it was missing at path: $",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.Exception: Failed to get Videos",
                 "passed": false
             }
         }

@@ -201,98 +201,25 @@
                 "passed": false
             },
             "details": {
-                "error": "kotlinx.serialization.MissingFieldException: Fields [_id, altNames, synopsis, image, tvStatus, genre] are required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.DetailsResponseDto', but they were missing at path: $",
-                "passed": false
+                "result": {
+                    "url": "6491d8055df856001876a14c",
+                    "title": "Hidden Love (2023)",
+                    "description": "Sang Zhi falls in love with Duan Jia Xu, a boy who often comes to her house to play games in her older brother’s room. He is seven years older than her. Sang Zhi had a crush on Duan Jia Xu when she was young, but they lost contact with each other for some reason. After she graduates, she joins the university in the city he is in, and during their day-to-day intimate and close interaction, they slowly fall in love.\r\n~~ Adapted from the web novel \"Secretly, Secretly; But Unable to Hide It\" (偷偷藏不住) by Zhu Yi (竹已)\n\nAlternative Names: \n• 偷偷藏不住\n• Secretly\n• Secretly\n• but Unable to Hide It\n• Can't Be Concealed\n• Tou Tou Cang Bu Zhu",
+                    "genre": "Comedy, Romance, Youth",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://imagecdn.me/cover/hidden-love-2023-1687279521.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB",
-                        "name": "Episode 25",
-                        "episode_number": 25.0,
-                        "scanlator": "Subbed"
-                    },
-                    {
-                        "url": "/streaming.php?id=MzgzMDgw&title=Hidden+Love+%282023%29+episode+24&typesub=SUB",
-                        "name": "Episode 24",
-                        "episode_number": 24.0,
-                        "scanlator": "Subbed"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'episodes' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.EpisodeResponseDto', but it was missing at path: $",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.720.m3u8",
-                        "quality": "Default Server - 720p",
-                        "videoUrl": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://draplay.info",
-                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.1080.m3u8",
-                        "quality": "Default Server - 1080p",
-                        "videoUrl": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://draplay.info",
-                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.480.m3u8",
-                        "quality": "Default Server - 480p",
-                        "videoUrl": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://draplay.info",
-                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.360.m3u8",
-                        "quality": "Default Server - 360p",
-                        "videoUrl": "https://hlsx011.a387e6278d8e06083d813358762e0ac63.com/dstreamhls/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1691609403.360.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://draplay.info",
-                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://s-delivery44.mxdcontent.net/v/c68a43a1619467e9ee96982971bb86d2.mp4?s=xYxYUMj_wLYXST8XGrWGHw&e=1698171882&_t=1698151378",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery44.mxdcontent.net/v/c68a43a1619467e9ee96982971bb86d2.mp4?s=xYxYUMj_wLYXST8XGrWGHw&e=1698171882&_t=1698151378",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=D4YqrvO63kc6Vq&expires=1698220277&ip=FROsE0EnDS9X&token=K8dqnigFRYNE",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=D4YqrvO63kc6Vq&expires=1698220277&ip=FROsE0EnDS9X&token=K8dqnigFRYNE"
-                    },
-                    {
-                        "url": "https://i2qq0vb1aul7.sw-cdnstream.com/hls2/01/00819/3tosdo456b8r_o/index-v1-a1.m3u8?t=GVsjAYv1e6uFlbgUANF8eXKO7HYG8MbSXUimZvQcdL0&s=1698150276&e=129600&f=4099541&srv=Jl4swR3ZsZjp&i=0.4&sp=500&p1=Jl4swR3ZsZjp&p2=Jl4swR3ZsZjp&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstream.com/hls2/01/00819/3tosdo456b8r_o/index-v1-a1.m3u8?t=GVsjAYv1e6uFlbgUANF8eXKO7HYG8MbSXUimZvQcdL0&s=1698150276&e=129600&f=4099541&srv=Jl4swR3ZsZjp&i=0.4&sp=500&p1=Jl4swR3ZsZjp&p2=Jl4swR3ZsZjp&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/3tosdo456b8r?caption_1=https://sub.draplay.info&sub_1=English"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Failed to get Videos",
+                "passed": false
             }
         }
     }

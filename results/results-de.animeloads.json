@@ -252,8 +252,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=3AdjOYLgoPFRDY&expires=1698241413&ip=FROsDHcnDS9X&token=jQyuqW8dAnkS",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=3AdjOYLgoPFRDY&expires=1698241413&ip=FROsDHcnDS9X&token=jQyuqW8dAnkS"
+                    },
+                    {
+                        "url": "https://phenomenalityuniform.com/jtnq0wqe8jax?The.Apothecary.Diaries.S01E03.Ger.HARDSUB.AAC.720p.CR.WebDL.x264-DK.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-rm05sezmoedbpg3c.voe-network.net/engine/hls2-c/01/09727/jtnq0wqe8jax_,n,.urlset/master.m3u8?t=88UcCVEglxuGxazouoVR90dPTvLit0sytobNL1ejkN8&s=1698171412&e=14400&f=48637009&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.39&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=03eywKxOzmUK4L&expires=1698241409&ip=FROsDHcnDS9X&token=SNkiZQHvj50T",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=03eywKxOzmUK4L&expires=1698241409&ip=FROsDHcnDS9X&token=SNkiZQHvj50T"
+                    },
+                    {
+                        "url": "https://phenomenalityuniform.com/ubeahmd7dnwm?The.Apothecary.Diaries.S01E03.GerEngSub.AAC.720p.WebDL.x264-Tanuki(Sub).mp4",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-8vfljdnjbu5ktwxw.voe-network.net/engine/hls2-c/01/09742/ubeahmd7dnwm_,n,.urlset/master.m3u8?t=ECkeGheEzFYgWHNBILRSXgO1W1_XmOyWTwHU4r5xr8I&s=1698171408&e=14400&f=48712074&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=20.39&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

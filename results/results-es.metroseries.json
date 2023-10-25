@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/mX2ufYlYGEIyieypljCfYgAYcd0.jpg"
                             },
                             {
-                                "url": "/acusados/",
-                                "title": "Acusados",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/7TVM2OQa0F1rtUIBz9lsSyCXteH-226x339.jpg"
+                                "url": "/micromundos/",
+                                "title": "Micromundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5W3JUWqR9UdN5FTvhE3PAbWqG63.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/mi-gran-boda-gipsy/",
-                                "title": "Mi Gran Boda Gipsy",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Ixd5EXCm9jbNi4dtiCD4Gk6sfr.jpg"
+                                "url": "/colony-capitulos-completos-latino-hd-online/",
+                                "title": "Colony",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2018/05/qfS0mp22XfTig2EK3jWKiyx7kNy-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,11 +144,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/absolutni-debiutanci-temporada-1-capitulo-6/",
+                        "name": "T1 - E06 - Episodio 6",
+                        "date_upload": 1698192000000
+                    },
+                    {
+                        "url": "/episode/absolutni-debiutanci-temporada-1-capitulo-5/",
+                        "name": "T1 - E05 - Episodio 5",
+                        "date_upload": 1698192000000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/xI6MI3WjqL8cpN64zFGHgIfBFCd.jpg"
                             },
                             {
-                                "url": "/arcana-famiglia-capitulos-completos-sub-espanol-hd-online/",
-                                "title": "ARCANA FAMIGLIA",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/rZWQyjO2HT04KZGRujxWc8w02Y6-226x339.jpg"
+                                "url": "/a-tortas-con-la-vida/",
+                                "title": "A tortas con la vida",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xvX3YQqByaIq6xhZ8bKKgxivcYY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/juanpis-gonzalez-la-serie/",
-                                "title": "Juanpis González - La serie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/s7OJdJv74L1JcTD4a8n4tfUuUL0.jpg"
+                                "url": "/infierno-para-solteros/",
+                                "title": "Infierno para solteros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2WqQLFFFPcRpeJ9wbfGEimYkO79.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/el-poder-de-las-princesas-temporada-2-capitulo-12/",
+                        "name": "T2 - E12 - Episodio 12",
+                        "date_upload": 1698019200000
+                    },
+                    {
+                        "url": "/episode/el-poder-de-las-princesas-temporada-2-capitulo-11/",
+                        "name": "T2 - E11 - Episodio 11",
+                        "date_upload": 1698019200000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

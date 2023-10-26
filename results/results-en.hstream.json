@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Hstream (EN)",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "search": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "details": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "episodes": {
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            }
+        }
+    }
+]

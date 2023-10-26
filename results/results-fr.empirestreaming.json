@@ -635,8 +635,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://e-player-stream.app/hls/VjVSWG5nOUNRZkJoSkVQRWNxa1NmVmI2WnRlc1BDcmYxMXdQSTQxeXNoNVhVN1ZIVm5IemJocWlnY0lxbm13SWVac3lNNGtKWXpTaTRpWEpKdmY0NWNWL3lkVkJtWGZnZjgvdTBZajU4b3ZUV1p0Vk5UU0dMUitML2d0Nmh6YkxrNXI4Mkg0SU1IMjZuRDZ1WU5HRjVpb0lWdFhKVWVLY3VVdGtGTGtsNTZuSkFyMk1IejRtMUpJR1p1S0NueVUrYnlJNmpsbDVnUWszNlJ5OGlxdDdoSzFIWEZQT1poOGdRTGJWdUNmSll1VXpHR0Z1YzA3MWkyUmpVTGlBU2RVaDdDamNDSWo4REIxaXd1L0VVVVEvNElla1JxMTB2YXdMOW1GWGNHVGxRWkE9",
+                        "quality": "E-Player - 960p",
+                        "videoUrl": "https://e-player-stream.app/hls/VjVSWG5nOUNRZkJoSkVQRWNxa1NmVmI2WnRlc1BDcmYxMXdQSTQxeXNoNVhVN1ZIVm5IemJocWlnY0lxbm13SWVac3lNNGtKWXpTaTRpWEpKdmY0NWNWL3lkVkJtWGZnZjgvdTBZajU4b3ZUV1p0Vk5UU0dMUitML2d0Nmh6YkxrNXI4Mkg0SU1IMjZuRDZ1WU5HRjVpb0lWdFhKVWVLY3VVdGtGTGtsNTZuSkFyMk1IejRtMUpJR1p1S0NueVUrYnlJNmpsbDVnUWszNlJ5OGlxdDdoSzFIWEZQT1poOGdRTGJWdUNmSll1VXpHR0Z1YzA3MWkyUmpVTGlBU2RVaDdDamNDSWo4REIxaXd1L0VVVVEvNElla1JxMTB2YXdMOW1GWGNHVGxRWkE9",
+                        "headers": {
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Referer": "https://e-player-stream.app",
+                            "Origin": "https://e-player-stream.app"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

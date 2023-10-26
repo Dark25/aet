@@ -506,18 +506,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls.uniquestream.net/media/db/shared/7454592f5724bcd4a626a722d6235727.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://hls.uniquestream.net/media/db/shared/7454592f5724bcd4a626a722d6235727.m3u8",
+                        "url": "https://hls.uniquestream.net",
+                        "quality": "p",
+                        "videoUrl": "https://hls.uniquestream.net",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
-                            "Referer": "https://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8"
+                            "Referer": "http://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8",
-                                "lang": "https://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8"
+                                "url": "http://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8",
+                                "lang": "http://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8"
                             }
                         ]
                     }

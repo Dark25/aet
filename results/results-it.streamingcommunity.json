@@ -954,8 +954,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/167370?type=video&rendition=480p&token=e4M59CEzhv_2EnN5WU2jZg&expires=1703638354&canCast=1&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/167370?type=video&rendition=480p&token=e4M59CEzhv_2EnN5WU2jZg&expires=1703638354&canCast=1&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.bz/v2/playlist/167370?type=subtitle&rendition=ita&token=ye-1F9WEoQHsJ64J_5fU_g&expires=1703638354&canCast=1&n=1",
+                                "lang": "Italian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -252,19 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=mQkgXeKQamubwr3&expires=1698524310&ip=F0AsF0WnDS9X&token=0xElOBode0Fn",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=mQkgXeKQamubwr3&expires=1698524310&ip=F0AsF0WnDS9X&token=0xElOBode0Fn"
-                    },
-                    {
-                        "url": "https://prefulfilloverdoor.com/access/eyJpdiI6ImZ2TUgybmJUMHgxTjgrS1ZYb0N4c3c9PSIsInZhbHVlIjoiUWw0VldpOUw1T1lQQkpLazZ4TVVRZWVtTkQrdm1rdTE0MWNHaWhtOTFpNzRIUk1Ock5PMzRjRlI2OXN5eXoyZjZqamZzcDE4RVZRSHdVbzZmNEtBWHc9PSIsIm1hYyI6IjQyZWI1MGIwNjM0MDkzM2UyMjI2MTEwZTkzZTJhOTM3N2M2MWNmMmFhYzlmODI5NzJlMWE1NzI0MjliM2U1MWYiLCJ0YWciOiIifQ==?o=0",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09761/9hlcts3tgvev_,n,.urlset/master.m3u8?t=wv2N2CU4nDtW_GnpQcoddZL-Qr1kXi290w0j-144UpU&s=1698454308&e=14400&f=48809103&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=13.91&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

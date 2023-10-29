@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/monster-high-2022-tv-series",
+                                "title": "Monster High 2022 (TV Series)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933262.jpg"
+                            },
+                            {
+                                "url": "/anime/monster-by-mistake",
+                                "title": "Monster by Mistake",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933261.jpg"
+                            },
+                            {
+                                "url": "/anime/monchhichi-tribe",
+                                "title": "Monchhichi Tribe",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933260.jpg"
+                            },
+                            {
+                                "url": "/anime/momo",
+                                "title": "Momo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933259.jpg"
+                            },
+                            {
+                                "url": "/anime/molly-monster",
+                                "title": "Molly Monster",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933258.jpg"
+                            },
+                            {
+                                "url": "/anime/moley",
+                                "title": "Moley",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933257.jpg"
+                            },
+                            {
                                 "url": "/anime/mission-odyssey",
                                 "title": "Mission Odyssey",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933256.jpg"
@@ -55,36 +85,6 @@
                                 "url": "/anime/mashas-spooky-stories",
                                 "title": "Masha's Spooky Stories",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933247.jpg"
-                            },
-                            {
-                                "url": "/anime/marsupilami-2000",
-                                "title": "Marsupilami (2000)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933246.jpg"
-                            },
-                            {
-                                "url": "/anime/marcus-level",
-                                "title": "Marcus Level",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933245.jpg"
-                            },
-                            {
-                                "url": "/anime/luo-bao-bei",
-                                "title": "Luo Bao Bei",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933244.jpg"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933243.jpg"
-                            },
-                            {
-                                "url": "/anime/lunar-jim",
-                                "title": "Lunar Jim",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933242.jpg"
-                            },
-                            {
-                                "url": "/anime/lucas-the-spider",
-                                "title": "Lucas the Spider",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933241.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mission-odyssey",
-                    "title": "Mission Odyssey",
-                    "description": "Starting with the victory over Troy, Odysseus’ voyage home turns into a true adventure. The sea god Poseidon has made a bet with Athena that Odysseus and his team, consisting of the horned mythical creatures Titan, Zephyr, the son of a god of wind, teenage barefoot clairvoyant Nisa, clumsy Philo, rapacious Navigator Dates as well as Diomedes and a clever owl, will never make it home on their own. To achieve this Poseidon interferes in every episode of the series, with Athena constantly reminding Poseidon that direct intervention violates their betting rules. The series covers the most important stages of Homer’s Odyssey but is simplified and re-worked in a child-friendly manner. Occasionally parts of other Greek legends are used.",
-                    "genre": "Adventure, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933256.jpg",
+                    "url": "/anime/monster-high-2022-tv-series",
+                    "title": "Monster High 2022 (TV Series)",
+                    "description": "Clawdeen Wolf arrives at Monster High with a dark secret. With the help of her friends Draculaura and Frankie Stein, she is able to embrace her true monster heart and save the school from total destruction.",
+                    "genre": "Adventure, Comedy, Family, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933262.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mission-odyssey-episode-26-ulysses-bow",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    },
-                    {
-                        "url": "/mission-odyssey-episode-25-hercules-columns",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrS_zo26Umb73BT62TKzjZ53IyV9hf0MQcb_FsXV8noyAshBKvNlAdlciW681EFywKds4SsOWiK1Vhv0DY3Pyehp7QW3s-2b7tM8nqbtCI6Y_sB9d7sk7oNx9XDRzlDP_VKnVfDdYvzgz2xsrMpTeZ0l8c8nnAWJZYdPiNmhCCVVJYkNvctIXOGu1NjwTVw7EojjkN7YBNiWRzMzXxnemXMnLggSzxpkXMVylReVqn68jVO2218G5yIUImHJ0rTfHt3mt_SSJYuC12gy6sRSuE1ZYTR-kwVoqhhVcgu9S67R7iFFdOsW4P6P23_X-q0v6XAHL9M9SroGbEtXjPIrJlFDnCKAQCPseCMI3LE3BO4X",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrS_zo26Umb73BT62TKzjZ53IyV9hf0MQcb_FsXV8noyAshBKvNlAdlciW681EFywKds4SsOWiK1Vhv0DY3Pyehp7QW3s-2b7tM8nqbtCI6Y_sB9d7sk7oNx9XDRzlDP_VKnVfDdYvzgz2xsrMpTeZ0l8c8nnAWJZYdPiNmhCCVVJYkNvctIXOGu1NjwTVw7EojjkN7YBNiWRzMzXxnemXMnLggSzxpkXMVylReVqn68jVO2218G5yIUImHJ0rTfHt3mt_SSJYuC12gy6sRSuE1ZYTR-kwVoqhhVcgu9S67R7iFFdOsW4P6P23_X-q0v6XAHL9M9SroGbEtXjPIrJlFDnCKAQCPseCMI3LE3BO4X"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrS_zo26Umb73BT62TKzjZ53IyV9hf0MQcb_FsXV8noyAshBKvNlAdlciW681EFywKds4SsOWiK1Vhv0DY3Pyehp7QW3s-2b7tM8nqbtCI6Y6SFof0PREQn5eABBDzdRKCEfpVMyp1rZEEuaysZAWRMyClQ-XI5iodTTMN1d998L4Mddsr-9VhHRFfRJRb-TqrmxGiqG49WFqmAwO2r4BJBg4DkC13eHN7axmxfJP6WuwnznUKhcLVDSo42zeDlcJsMSksFrGxsdKUi-doZv1SRAZIhDsBjc0MXrAZVGQALEbi_gBEa7Hi1KNfAodrLVjZ6V55M_Lb-rbGu8t8ufbMd6l5snezrPKhSp3su6xLcW",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrS_zo26Umb73BT62TKzjZ53IyV9hf0MQcb_FsXV8noyAshBKvNlAdlciW681EFywKds4SsOWiK1Vhv0DY3Pyehp7QW3s-2b7tM8nqbtCI6Y6SFof0PREQn5eABBDzdRKCEfpVMyp1rZEEuaysZAWRMyClQ-XI5iodTTMN1d998L4Mddsr-9VhHRFfRJRb-TqrmxGiqG49WFqmAwO2r4BJBg4DkC13eHN7axmxfJP6WuwnznUKhcLVDSo42zeDlcJsMSksFrGxsdKUi-doZv1SRAZIhDsBjc0MXrAZVGQALEbi_gBEa7Hi1KNfAodrLVjZ6V55M_Lb-rbGu8t8ufbMd6l5snezrPKhSp3su6xLcW"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrS_zo26Umb73BT62TKzjZ53IyV9hf0MQcb_FsXV8noyAshBKvNlAdlciW681EFywKds4SsOWiK1Vhv0DY3Pyehp7QW3s-2b7tM8nqbtCI6YhmdZ8PPDgwdjr1dlEX8l3Yy6hfhk60Ds--Dr-0DDpFdcDc-Y3vxxig_O6th5Sdqe0mHvf30FF0js-Sp8HFpXaJjgdjFCyASOPqWwX6JM0bq0HUc6iFDUodsda0HSK8Lhe6fbHnTdlYEYpE1ho_v9nLnkrdb0wh8bDUvg8p3aN-iz_L3lML9SMDbyWB5khNYIP0yvBRqd6cTTKx8spelX-ouXaZL21BZcTHZ6OGl248k",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrS_zo26Umb73BT62TKzjZ53IyV9hf0MQcb_FsXV8noyAshBKvNlAdlciW681EFywKds4SsOWiK1Vhv0DY3Pyehp7QW3s-2b7tM8nqbtCI6YhmdZ8PPDgwdjr1dlEX8l3Yy6hfhk60Ds--Dr-0DDpFdcDc-Y3vxxig_O6th5Sdqe0mHvf30FF0js-Sp8HFpXaJjgdjFCyASOPqWwX6JM0bq0HUc6iFDUodsda0HSK8Lhe6fbHnTdlYEYpE1ho_v9nLnkrdb0wh8bDUvg8p3aN-iz_L3lML9SMDbyWB5khNYIP0yvBRqd6cTTKx8spelX-ouXaZL21BZcTHZ6OGl248k"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

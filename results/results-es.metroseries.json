@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/aRB2gClaWlFhaOus7htFuEg2eo3.jpg"
                             },
                             {
-                                "url": "/the-romantics/",
-                                "title": "The Romantics",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8efvPqH6rdYhng60T7pLGaNs7Jx.jpg"
+                                "url": "/mister-winner/",
+                                "title": "Mister Winner",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fQNL73QGzeeyZFx3Re7mkOpKI6O.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/last-man-standing/",
-                                "title": "Last Man Standing",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/01/bVpsfkRdW4XxgsuaiqcD3qKXZdW-226x339.jpg"
+                                "url": "/el-bronx-entre-el-cielo-y-el-infierno/",
+                                "title": "El Bronx: Entre el cielo y el infierno",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/AhsBTjGIoSakNh4Z9ZZB3pm6i80.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -147,13 +147,15 @@
                 "result": [
                     {
                         "url": "/episode/la-hora-marcada-temporada-1-capitulo-9/",
-                        "name": "T1 - E09 - Episodio 9",
-                        "date_upload": 1703203200000
+                        "name": "T01 - E09 - Episodio 9",
+                        "date_upload": 1703203200000,
+                        "episode_number": 9.0
                     },
                     {
                         "url": "/episode/la-hora-marcada-temporada-1-capitulo-8/",
-                        "name": "T1 - E08 - Episodio 8",
-                        "date_upload": 1702598400000
+                        "name": "T01 - E08 - Episodio 8",
+                        "date_upload": 1702598400000,
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -161,29 +163,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lyCAcuFC_3tEKJt_ojZXQmeUox_hGWVZ_OafRqc6URY&s=1698668678&e=43200&f=302491&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lyCAcuFC_3tEKJt_ojZXQmeUox_hGWVZ_OafRqc6URY&s=1698668678&e=43200&f=302491&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lyCAcuFC_3tEKJt_ojZXQmeUox_hGWVZ_OafRqc6URY&s=1698668678&e=43200&f=302491&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lyCAcuFC_3tEKJt_ojZXQmeUox_hGWVZ_OafRqc6URY&s=1698668678&e=43200&f=302491&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lyCAcuFC_3tEKJt_ojZXQmeUox_hGWVZ_OafRqc6URY&s=1698668678&e=43200&f=302491&i=0.0&sp=0",
+                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=OKqeOHJ9UsO-HQPiTZsF4PfjzHEuBFhSd6MMu3n0sTA&s=1698689809&e=43200&f=302491&i=0.0&sp=0",
                         "quality": "Fastream:720p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lyCAcuFC_3tEKJt_ojZXQmeUox_hGWVZ_OafRqc6URY&s=1698668678&e=43200&f=302491&i=0.0&sp=0",
+                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=OKqeOHJ9UsO-HQPiTZsF4PfjzHEuBFhSd6MMu3n0sTA&s=1698689809&e=43200&f=302491&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=OKqeOHJ9UsO-HQPiTZsF4PfjzHEuBFhSd6MMu3n0sTA&s=1698689809&e=43200&f=302491&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=OKqeOHJ9UsO-HQPiTZsF4PfjzHEuBFhSd6MMu3n0sTA&s=1698689809&e=43200&f=302491&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=OKqeOHJ9UsO-HQPiTZsF4PfjzHEuBFhSd6MMu3n0sTA&s=1698689809&e=43200&f=302491&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=OKqeOHJ9UsO-HQPiTZsF4PfjzHEuBFhSd6MMu3n0sTA&s=1698689809&e=43200&f=302491&i=0.0&sp=0",
                         "headers": {
                             "Referer": "https://fastream.to/",
                             "Origin": "https://fastream.to",

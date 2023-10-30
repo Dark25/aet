@@ -172,8 +172,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls33-eu.zcdn.stream/73fce42463bc2da393e0eb607e9dd177/2023-10-30/1080.m3u8?token=1726d38c16d8e5f0b8fd587ea7a06b23&client=d41d8cd98f00b204e9800998ecf8427e&expires=1698718534&type=edge&node=kKPuQpbhuVgRI2c0L4Gw8ZAHptkJ8sVc56aUEjpxx0D8GEvKJElYhH9PtzZfqwTZRXpGc0H1S_YqS1KOhaowLY2mQ2eKLO0kauO6ntuudhrdIviuclgcIwb-_V-RKSnpcmzW5MEztxazjEWTfI7QiUCG6oY0qSLdXZja0V7he3E",
+                        "quality": "Chillx - 1080p",
+                        "videoUrl": "https://hls33-eu.zcdn.stream/73fce42463bc2da393e0eb607e9dd177/2023-10-30/1080.m3u8?token=1726d38c16d8e5f0b8fd587ea7a06b23&client=d41d8cd98f00b204e9800998ecf8427e&expires=1698718534&type=edge&node=kKPuQpbhuVgRI2c0L4Gw8ZAHptkJ8sVc56aUEjpxx0D8GEvKJElYhH9PtzZfqwTZRXpGc0H1S_YqS1KOhaowLY2mQ2eKLO0kauO6ntuudhrdIviuclgcIwb-_V-RKSnpcmzW5MEztxazjEWTfI7QiUCG6oY0qSLdXZja0V7he3E",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/v/pxLbKUOmXwj9/"
+                        }
+                    },
+                    {
+                        "url": "https://hls33-eu.zcdn.stream/73fce42463bc2da393e0eb607e9dd177/2023-10-30/720.m3u8?token=1726d38c16d8e5f0b8fd587ea7a06b23&client=d41d8cd98f00b204e9800998ecf8427e&expires=1698718534&type=edge&node=kKPuQpbhuVgRI2c0L4Gw8ZAHptkJ8sVc56aUEjpxx0D8GEvKJElYhH9PtzZfqwTZRXpGc0H1S_YqS1KOhaowLY2mQ2eKLO0kauO6ntuudhrdIviuclgcIwb-_V-RKSnpcmzW5MEztxazjEWTfI7QiUCG6oY0qSLdXZja0V7he3E",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls33-eu.zcdn.stream/73fce42463bc2da393e0eb607e9dd177/2023-10-30/720.m3u8?token=1726d38c16d8e5f0b8fd587ea7a06b23&client=d41d8cd98f00b204e9800998ecf8427e&expires=1698718534&type=edge&node=kKPuQpbhuVgRI2c0L4Gw8ZAHptkJ8sVc56aUEjpxx0D8GEvKJElYhH9PtzZfqwTZRXpGc0H1S_YqS1KOhaowLY2mQ2eKLO0kauO6ntuudhrdIviuclgcIwb-_V-RKSnpcmzW5MEztxazjEWTfI7QiUCG6oY0qSLdXZja0V7he3E",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/v/pxLbKUOmXwj9/"
+                        }
+                    },
+                    {
+                        "url": "https://hls33-eu.zcdn.stream/73fce42463bc2da393e0eb607e9dd177/2023-10-30/360.m3u8?token=1726d38c16d8e5f0b8fd587ea7a06b23&client=d41d8cd98f00b204e9800998ecf8427e&expires=1698718534&type=edge&node=kKPuQpbhuVgRI2c0L4Gw8ZAHptkJ8sVc56aUEjpxx0D8GEvKJElYhH9PtzZfqwTZRXpGc0H1S_YqS1KOhaowLY2mQ2eKLO0kauO6ntuudhrdIviuclgcIwb-_V-RKSnpcmzW5MEztxazjEWTfI7QiUCG6oY0qSLdXZja0V7he3E",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls33-eu.zcdn.stream/73fce42463bc2da393e0eb607e9dd177/2023-10-30/360.m3u8?token=1726d38c16d8e5f0b8fd587ea7a06b23&client=d41d8cd98f00b204e9800998ecf8427e&expires=1698718534&type=edge&node=kKPuQpbhuVgRI2c0L4Gw8ZAHptkJ8sVc56aUEjpxx0D8GEvKJElYhH9PtzZfqwTZRXpGc0H1S_YqS1KOhaowLY2mQ2eKLO0kauO6ntuudhrdIviuclgcIwb-_V-RKSnpcmzW5MEztxazjEWTfI7QiUCG6oY0qSLdXZja0V7he3E",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/v/pxLbKUOmXwj9/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

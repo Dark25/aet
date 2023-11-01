@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/pyOjMsKgKv7yHD1exMfddRbjS1X.jpg"
                             },
                             {
-                                "url": "/prodigal-son/",
-                                "title": "Prodigal Son",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg"
+                                "url": "/phantasy-star-online-2-episode-oracle/",
+                                "title": "Phantasy Star Online 2: Episode Oracle",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sF3M6fzwQQreDpqZu050rR8LedZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/love-victor/",
-                                "title": "Love, Victor",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/o6lrlXMgOKdkoZZbaXK6ENJxnkB.jpg"
+                                "url": "/the-wonder-years-capitulos-completos-latino-hd-online/",
+                                "title": "Aquellos Maravillosos Años",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/gBU4qmFMaO1uBnuG0WuOqM4gzm9-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/misterios-de-la-fe-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - Episodio 4",
+                        "date_upload": 1698796800000,
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/misterios-de-la-fe-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Episodio 3",
+                        "date_upload": 1698796800000,
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

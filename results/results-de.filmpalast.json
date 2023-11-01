@@ -537,8 +537,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://n22484d.streamvid.net/hls/,n5ajqukxynmne42h4voajub7tvd5xhmdhzco4keob7l4n63zeoyho35k6o6a,.urlset/master.m3u8",
+                        "quality": "StreamVid",
+                        "videoUrl": "https://n22484d.streamvid.net/hls/,n5ajqukxynmne42h4voajub7tvd5xhmdhzco4keob7l4n63zeoyho35k6o6a,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=KqQgJMKQ6RU0MzW&expires=1698932514&ip=F0OSKRqOKxSHDN&token=akz5rdYFwNvP",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=KqQgJMKQ6RU0MzW&expires=1698932514&ip=F0OSKRqOKxSHDN&token=akz5rdYFwNvP"
+                    },
+                    {
+                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=BNS0N6TvV-T5LwBsBGF2sLkBw0nkynsoubvyOfgv8j0&s=1698862514&e=43200&f=10995342&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=BNS0N6TvV-T5LwBsBGF2sLkBw0nkynsoubvyOfgv8j0&s=1698862514&e=43200&f=10995342&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -437,14 +437,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/43/76/4376ce8fbfc7debe3f9ce9df04a99dd9/4376ce8fbfc7debe3f9ce9df04a99dd9.jpg"
                             },
                             {
-                                "url": "/tearmoon-empire-18597",
-                                "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/41/c9/41c94a371d45d23aada854ba72a71cc9/41c94a371d45d23aada854ba72a71cc9.jpg"
-                            },
-                            {
                                 "url": "/the-saints-magic-power-is-omnipotent-season-2-18587",
                                 "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e6/3f/e63f6acb8035c0ecde51f4c57aa1a38c/e63f6acb8035c0ecde51f4c57aa1a38c.jpg"
+                            },
+                            {
+                                "url": "/tearmoon-empire-18597",
+                                "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/41/c9/41c94a371d45d23aada854ba72a71cc9/41c94a371d45d23aada854ba72a71cc9.jpg"
                             },
                             {
                                 "url": "/dark-gathering-18482",
@@ -706,7 +706,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to extract videos.",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
                 "passed": false
             }
         }

@@ -406,8 +406,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc727.4shared.com/img/ZfiY57Y0ku/6d05d32e/dlink__2Fdownload_2FZfiY57Y0ku_3Fsbsr_3Dd424aa227120640080235a61ec1204c0af9_26bip_3DMTcyLjE3Ny4zNi4xMTY_26lgfp_3D66_26bip_3DMTcyLjE3Ny4zNi4xMTY_26bip_3DMTcyLjE3Ny4zNi4xMTY/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc727.4shared.com/img/ZfiY57Y0ku/6d05d32e/dlink__2Fdownload_2FZfiY57Y0ku_3Fsbsr_3Dd424aa227120640080235a61ec1204c0af9_26bip_3DMTcyLjE3Ny4zNi4xMTY_26lgfp_3D66_26bip_3DMTcyLjE3Ny4zNi4xMTY_26bip_3DMTcyLjE3Ny4zNi4xMTY/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

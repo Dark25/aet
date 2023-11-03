@@ -287,17 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery36.mxdcontent.net/v/8951ba754cd008f49929a64d045bb8b8.mp4?s=wG87yzRxbHrL7fatSemrUw&e=1699035860&_t=1699023143",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery36.mxdcontent.net/v/8951ba754cd008f49929a64d045bb8b8.mp4?s=wG87yzRxbHrL7fatSemrUw&e=1699035860&_t=1699023143",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: mixdrop.co: Name or service not known",
+                "passed": false
             }
         }
     }

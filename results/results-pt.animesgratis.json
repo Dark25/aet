@@ -349,8 +349,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://wht.nuplink.net/pool/pub/cc/d2/b6/aa978ee3621796b16c5687c703ccd2b6/925457971?token=4e685f14b0ce94cae619afce3283e5cb&ts=1699013509&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/cc/d2/b6/aa978ee3621796b16c5687c703ccd2b6/925457971?token=4e685f14b0ce94cae619afce3283e5cb&ts=1699013509&ht=video/mp4"
+                    },
+                    {
+                        "url": "https://s-delivery33.mxdcontent.net/v/8f19bbe95b2a71fdb6336d9eaf10decf.mp4?s=uXHf9ByCr3-QJVJuDwCDLg&e=1699035871&_t=1699020687",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery33.mxdcontent.net/v/8f19bbe95b2a71fdb6336d9eaf10decf.mp4?s=uXHf9ByCr3-QJVJuDwCDLg&e=1699035871&_t=1699020687",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=e3er6dRdAVC2Qo&expires=1699084270&ip=GHEsDRqAKxSHDN&token=WxV-QzK5kbiw",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=e3er6dRdAVC2Qo&expires=1699084270&ip=GHEsDRqAKxSHDN&token=WxV-QzK5kbiw"
+                    }
+                ],
+                "passed": true
             }
         }
     }

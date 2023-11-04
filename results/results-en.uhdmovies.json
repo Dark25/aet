@@ -168,8 +168,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.cha152.workers.dev/5e80977a42a0cb5101b52597c20b30b7/driveleech.org/Game%20of%20Thrones%20(2011)%20S03E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20%20English%20AAC%205.1]%20x265%20(PSAUHDMovies).mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  912.49MB ",
+                        "videoUrl": "https://0.cha152.workers.dev/5e80977a42a0cb5101b52597c20b30b7/driveleech.org/Game%20of%20Thrones%20(2011)%20S03E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20%20English%20AAC%205.1]%20x265%20(PSAUHDMovies).mkv"
+                    },
+                    {
+                        "url": "https://0.asd252.workers.dev/25ca17919c5cbaf992b733229ee91a0a/driveleech.org/Game%20of%20Thrones%20(2011)%20S03E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20%20English%20AAC%205.1]%20x265%20(PSAUHDMovies).mkv",
+                        "quality": "1080p - CF 1 Worker 2 -  912.49MB ",
+                        "videoUrl": "https://0.asd252.workers.dev/25ca17919c5cbaf992b733229ee91a0a/driveleech.org/Game%20of%20Thrones%20(2011)%20S03E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20%20English%20AAC%205.1]%20x265%20(PSAUHDMovies).mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

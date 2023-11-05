@@ -248,8 +248,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eu-99.files.nextcdn.org/get/99/02/550564bf5011a7cebc4d06bd3e96b0c66c2c0281f567b7634115fb472b090d91?file=AnimePahe_Shingeki_no_Kyojin_-_The_Final_Season_-_Kanketsu-hen_-_02_1080p_Erai-raws.mp4&token=hSYHxDjJYPST9a6lVibz5A&expires=1699201243",
+                        "quality": "Erai-raws · 1080p",
+                        "videoUrl": "https://eu-99.files.nextcdn.org/get/99/02/550564bf5011a7cebc4d06bd3e96b0c66c2c0281f567b7634115fb472b090d91?file=AnimePahe_Shingeki_no_Kyojin_-_The_Final_Season_-_Kanketsu-hen_-_02_1080p_Erai-raws.mp4&token=hSYHxDjJYPST9a6lVibz5A&expires=1699201243"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/6a929d55230fd6fd66c1d8eaac1e4b501af3c6bda6a729050708b8ed6ea1b681?file=AnimePahe_Shingeki_no_Kyojin_-_The_Final_Season_-_Kanketsu-hen_-_02_720p_Erai-raws.mp4&token=8SJjcFXcsX4sa2nUCyRMqA&expires=1699201240",
+                        "quality": "Erai-raws · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/6a929d55230fd6fd66c1d8eaac1e4b501af3c6bda6a729050708b8ed6ea1b681?file=AnimePahe_Shingeki_no_Kyojin_-_The_Final_Season_-_Kanketsu-hen_-_02_720p_Erai-raws.mp4&token=8SJjcFXcsX4sa2nUCyRMqA&expires=1699201240"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/f74cd0585c2eb9323854460854aacdaf13303382994b9da9897706d02a919c1b?file=AnimePahe_Shingeki_no_Kyojin_-_The_Final_Season_-_Kanketsu-hen_-_02_360p_Erai-raws.mp4&token=Jz-eHPkOC-TI_BTnLTBnRA&expires=1699201239",
+                        "quality": "Erai-raws · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/f74cd0585c2eb9323854460854aacdaf13303382994b9da9897706d02a919c1b?file=AnimePahe_Shingeki_no_Kyojin_-_The_Final_Season_-_Kanketsu-hen_-_02_360p_Erai-raws.mp4&token=Jz-eHPkOC-TI_BTnLTBnRA&expires=1699201239"
+                    }
+                ],
+                "passed": true
             }
         }
     }

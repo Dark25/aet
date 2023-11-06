@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuxH52TvBkPTBvdjgOEJ6RKvOPR.jpg"
                             },
                             {
-                                "url": "/entre-reja-y-reja/",
-                                "title": "Entre reja y reja",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ut4Xw5Ciy7rHSYMQhJJ4B91JDmK.jpg"
+                                "url": "/seleccion-argentina-la-serie-camino-a-qatar/",
+                                "title": "Selección Argentina, la serie - Camino a Qatar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bA5xWzHYJ83vLuab21LJ4qBJiSD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-romantics/",
-                                "title": "The Romantics",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8efvPqH6rdYhng60T7pLGaNs7Jx.jpg"
+                                "url": "/tunel-de-corrupcion/",
+                                "title": "Túnel de corrupción",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/10/tVnmpjhELgmh7so237wgDUck7kO-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/erin-y-aaron-temporada-1-capitulo-13/",
+                        "name": "T01 - E13 - Episodio 13",
+                        "date_upload": 1688342400000,
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/episode/erin-y-aaron-temporada-1-capitulo-12/",
+                        "name": "T01 - E12 - Episodio 12",
+                        "date_upload": 1687996800000,
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

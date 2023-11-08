@@ -17,14 +17,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/aMWI35yAa3VD5VqtKbOs2S9siuS.jpg"
                             },
                             {
-                                "url": "/filmes/colorful/",
-                                "title": "Colorful",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mV4o1Feh6gSabh3OvbUsQKcYxUx.jpg"
-                            },
-                            {
                                 "url": "/animes/ballroom-e-youkoso/",
                                 "title": "Ballroom e Youkoso",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/y7gglCO7G2YlsgHyLDNv7dRaVkr.jpg"
+                            },
+                            {
+                                "url": "/animes/kimetsu-no-yaiba/",
+                                "title": "Kimetsu no Yaiba",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg"
                             },
                             {
                                 "url": "/animes/gundam-build-metaverse/",
@@ -52,9 +52,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/uOwjWZOJwddC5ZwIx0Wl7pNsLB9.jpg"
                             },
                             {
-                                "url": "/animes/overlord-iii/",
-                                "title": "Overlord III",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uuYAJYqawtCqZD9ftxDclu5zXPN.jpg"
+                                "url": "/animes/watashi-no-shiawase-na-kekkon/",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ah6TeFIa7bIUI3rwxUw8cRjW7ZK.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/helck-episodio-18/",
+                                "title": "Helck – Episódio 18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/4eI8xGDkT7KFPTohwr2yL4U64Ix.jpg"
+                            },
                             {
                                 "url": "/episodio/tokyo-revengers-tenjiku-hen-episodio-6/",
                                 "title": "Tokyo Revengers: Tenjiku-hen – Episódio 6",
@@ -210,11 +215,6 @@
                                 "url": "/episodio/bokura-no-ameiro-protocol-episodio-5/",
                                 "title": "Bokura no Ameiro Protocol – Episódio 5",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/6TbCY7qgx3lkjKaRon9lvMJbFMh.jpg"
-                            },
-                            {
-                                "url": "/episodio/kusuriya-no-hitorigoto-episodio-5/",
-                                "title": "Kusuriya no Hitorigoto – Episódio 5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/jNqOO12IQ1YaKbZ7y0xTNiTkMPo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -349,8 +349,38 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://wht.nuplink.net/pool/pub/a3/9a/6b/15b1459ecd305bf16043dfd981a39a6b/455627876?token=7cf0aef3bc56af9d68ee84d04a86a7d7&ts=1699403409&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/a3/9a/6b/15b1459ecd305bf16043dfd981a39a6b/455627876?token=7cf0aef3bc56af9d68ee84d04a86a7d7&ts=1699403409&ht=video/mp4"
+                    },
+                    {
+                        "url": "https://a-delivery30.mxdcontent.net/v/f9f1ee35c3bcb10be896e9df7d88ba82.mp4?s=7ubG0uCfn3RUdAIYGEMsWw&e=1699426531&_t=1699413569",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery30.mxdcontent.net/v/f9f1ee35c3bcb10be896e9df7d88ba82.mp4?s=7ubG0uCfn3RUdAIYGEMsWw&e=1699426531&_t=1699413569",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Y1PjyPDkMMto0B&expires=1699474929&ip=G0WsDROZKxSHDN&token=VoyUL6piEku1",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Y1PjyPDkMMto0B&expires=1699474929&ip=G0WsDROZKxSHDN&token=VoyUL6piEku1"
+                    },
+                    {
+                        "url": "https://vypd0e87z8.sw-cdnstream.com/hls2/01/01405/cdibdrptgqmh_x/index-v1-a1.m3u8?t=T5nMd5chWpQTV-gI4kYHPXy2hM8-022APxQfYUyYs0s&s=1699404929&e=129600&f=7026563&srv=irclpezbiiso&i=0.4&sp=500&p1=irclpezbiiso&p2=irclpezbiiso&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://vypd0e87z8.sw-cdnstream.com/hls2/01/01405/cdibdrptgqmh_x/index-v1-a1.m3u8?t=T5nMd5chWpQTV-gI4kYHPXy2hM8-022APxQfYUyYs0s&s=1699404929&e=129600&f=7026563&srv=irclpezbiiso&i=0.4&sp=500&p1=irclpezbiiso&p2=irclpezbiiso&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://embedwish.com",
+                            "Referer": "https://embedwish.com/e/cdibdrptgqmh?poster=https://image.tmdb.org/t/p/w1280/zoxj45ZSf6FUAsi9WQqz2MFOZi2.jpg"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

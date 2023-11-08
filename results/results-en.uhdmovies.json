@@ -173,8 +173,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.cha18.workers.dev/62281de63fc238ffb9a08d7da37df62e/driveleech.org/House.of.the.Dragon.S01E10.The.Black.Queen.1080p.10bit.BluRay.HEVC.[Hindi%20DDP%202.0%20%20English%20AAC%207.1]ESubs(ARROW)%20Vyndros.mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  1.65GB ",
+                        "videoUrl": "https://0.cha18.workers.dev/62281de63fc238ffb9a08d7da37df62e/driveleech.org/House.of.the.Dragon.S01E10.The.Black.Queen.1080p.10bit.BluRay.HEVC.[Hindi%20DDP%202.0%20%20English%20AAC%207.1]ESubs(ARROW)%20Vyndros.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

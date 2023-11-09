@@ -497,11 +497,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/09/f0/09f07b5b13fb0cfe9f36aa1340bc911d/09f07b5b13fb0cfe9f36aa1340bc911d.jpg"
                             },
                             {
-                                "url": "/dr-stone-3rd-season-part-2-18574?ref=search",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/53/3d/533d9ca61bd99ff5c4c5f6d754feb33d/533d9ca61bd99ff5c4c5f6d754feb33d.jpg"
-                            },
-                            {
                                 "url": "/mushoku-tensei-jobless-reincarnation-season-2-18418?ref=search",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1c/f9/1cf9bdf58f5d0d2db7bd856b15e3835f/1cf9bdf58f5d0d2db7bd856b15e3835f.png"
@@ -665,6 +660,11 @@
                                 "url": "/dr-stone-new-world-17725?ref=search",
                                 "title": "Dr. Stone 3rd Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/0c/ab/0cab1ee2bbe1a4def0790121df2c1fc7/0cab1ee2bbe1a4def0790121df2c1fc7.jpg"
+                            },
+                            {
+                                "url": "/hetalia-worldstars-specials-17811?ref=search",
+                                "title": "Hetalia World★Stars Specials",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/dd/2d/dd2d4fcd789dbc27da1d25085a31deaa/dd2d4fcd789dbc27da1d25085a31deaa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -701,7 +701,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "error": "java.lang.Exception: Failed to extract videos.",
                 "passed": false
             }
         }

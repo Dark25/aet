@@ -293,44 +293,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/animes/o-incrivel-mundo-de-gumball/",
-                    "title": "O Incrível Mundo de Gumball",
-                    "description": "O Incrível Mundo de Gumball é uma série de desenho animado britânica e estadunidense criada por Ben Bocquelet e produzida pelo Cartoon Network Development Studio Europe, estúdio do Cartoon Network equivalente europeu do Cartoon Network Studios. A série conta a história de Gumball e suas aventuras no dia-a-dia junto com seu irmão Darwin.\n\nTítulo original: The Amazing World of Gumball\nTemporadas: 6\nEpisódios: 240",
-                    "genre": "",
-                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodios/o-incrivel-mundo-de-gumball-3x40/",
-                        "name": "Temporada ⭐ x 40 - Episódio 40",
-                        "episode_number": 40.0
-                    },
-                    {
-                        "url": "/episodios/o-incrivel-mundo-de-gumball-3x39/",
-                        "name": "Temporada ⭐ x 39 - Episódio 39",
-                        "episode_number": 39.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rr2---sn-vgqsrn6e.googlevideo.com/videoplayback?expire=1699496229&ei=pdBLZbrnBu2t_tcP0Ke6SA&ip=172.183.53.47&id=84ce476b805ff6a0&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=S7&mm=31&mn=sn-vgqsrn6e&ms=au&mv=m&mvi=2&pl=19&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=650.112&lmt=1465944392271790&mt=1699466979&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=ANLwegAwRQIhAJ9-wJrcFJS_shNctdPks0__dyofjR4M1GNnVoZreJOpAiB9CTE3PlhbMxR_iYPLMClrlF31wD9uj4xGDAdHW_CDDA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhAP0KWoPjR63-AbrpcJsFj_z3IZ9D1lmw2WxUb5MqVTF5AiBk_T2WlG0p1uMfrPXvYZK5Uw7rYVck-KGPmKBdQbuwMw%3D%3D",
-                        "quality": "Blogger - 360p",
-                        "videoUrl": "https://rr2---sn-vgqsrn6e.googlevideo.com/videoplayback?expire=1699496229&ei=pdBLZbrnBu2t_tcP0Ke6SA&ip=172.183.53.47&id=84ce476b805ff6a0&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=S7&mm=31&mn=sn-vgqsrn6e&ms=au&mv=m&mvi=2&pl=19&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=650.112&lmt=1465944392271790&mt=1699466979&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=ANLwegAwRQIhAJ9-wJrcFJS_shNctdPks0__dyofjR4M1GNnVoZreJOpAiB9CTE3PlhbMxR_iYPLMClrlF31wD9uj4xGDAdHW_CDDA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhAP0KWoPjR63-AbrpcJsFj_z3IZ9D1lmw2WxUb5MqVTF5AiBk_T2WlG0p1uMfrPXvYZK5Uw7rYVck-KGPmKBdQbuwMw%3D%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animeplayer.com.br"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

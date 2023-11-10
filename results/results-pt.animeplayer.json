@@ -3,27 +3,71 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
+                            },
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/o-incrivel-mundo-de-gumball/",
+                    "title": "O Incrível Mundo de Gumball",
+                    "description": "O Incrível Mundo de Gumball é uma série de desenho animado britânica e estadunidense criada por Ben Bocquelet e produzida pelo Cartoon Network Development Studio Europe, estúdio do Cartoon Network equivalente europeu do Cartoon Network Studios. A série conta a história de Gumball e suas aventuras no dia-a-dia junto com seu irmão Darwin.\n\nTítulo original: The Amazing World of Gumball\nTemporadas: 6\nEpisódios: 240",
+                    "genre": "",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodios/o-incrivel-mundo-de-gumball-3x40/",
+                        "name": "Temporada ⭐ x 40 - Episódio 40",
+                        "episode_number": 40.0
+                    },
+                    {
+                        "url": "/episodios/o-incrivel-mundo-de-gumball-3x39/",
+                        "name": "Temporada ⭐ x 39 - Episódio 39",
+                        "episode_number": 39.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             }
         }

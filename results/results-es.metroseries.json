@@ -7,15 +7,83 @@
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/the-challenge-world-championship/",
+                                "title": "The Challenge: World Championship",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zinFp4mOzxN1NTj8f2W1BWsQxhR.jpg"
+                            },
+                            {
+                                "url": "/star-trek-strange-new-worlds/",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
+                            },
+                            {
+                                "url": "/rupauls-drag-race-uk-vs-the-world/",
+                                "title": "RuPaul's Drag Race UK vs the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dYQHTy7ZG2urC59WLW3erxds8It.jpg"
+                            },
+                            {
+                                "url": "/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9hURRSul16F01eTiquW8x1aeCnM.jpg"
+                            },
+                            {
+                                "url": "/around-the-world-in-80-days/",
+                                "title": "Around the World in 80 Days",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
+                            },
+                            {
+                                "url": "/run-the-world/",
+                                "title": "Run the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
+                            },
+                            {
+                                "url": "/hetalia-world★stars/",
+                                "title": "Hetalia World★Stars",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cM00L1INzac7WWnCpokxVLVdkEW.jpg"
+                            },
+                            {
+                                "url": "/the-wonderful-world-of-mickey-mouse/",
+                                "title": "The Wonderful World of Mickey Mouse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
+                            },
+                            {
+                                "url": "/alien-worlds/",
+                                "title": "Alien Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
+                            },
+                            {
+                                "url": "/eaters-guide-to-the-world/",
+                                "title": "Eater's Guide to the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
+                            },
+                            {
+                                "url": "/juventud-robada-secta-en-el-campus/",
+                                "title": "Juventud robada: secta en el campus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tJc1kbCWZOTstrlvvYMBhZ3mN7q.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/the-challenge-world-championship/",
+                    "title": "The Challenge: World Championship",
+                    "description": "The Challenge: World Championship es un spin-off de la serie de competencia de realidad The Challenge. La serie presenta a veteranos notables de la serie insignia de MTV compitiendo junto a los ganadores y seleccionados concursantes de cuatro temporadas spin-off: The Challenge Argentina: El Desafío, The Challenge: Australia, The Challenge: USA y The Challenge UK. Se estrenó en Paramount+ el 8 de marzo de 20232. Además del título de campeones de The Challenge: World Championship, los ganadores de la temporada también reciben US $500,000.",
+                    "genre": "Reality",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zinFp4mOzxN1NTj8f2W1BWsQxhR.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

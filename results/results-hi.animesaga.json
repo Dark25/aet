@@ -3,254 +3,12 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movies/spider-man-across-the-spider-verse/",
-                                "title": "Spider-Man: Across the Spider-Verse",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
-                            },
-                            {
-                                "url": "/movies/black-clover-sword-of-the-wizard-king/",
-                                "title": "Black Clover: Sword of the Wizard King",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg"
-                            },
-                            {
-                                "url": "/movies/elemental/",
-                                "title": "Elemental",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
-                            },
-                            {
-                                "url": "/movies/mavka-the-forest-song/",
-                                "title": "Mavka: The Forest Song",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg"
-                            },
-                            {
-                                "url": "/movies/miraculous-ladybug-cat-noir-the-movie/",
-                                "title": "Miraculous: Ladybug & Cat Noir, The Movie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg"
-                            },
-                            {
-                                "url": "/movies/zom-100-bucket-list-of-the-dead/",
-                                "title": "Zom 100: Bucket List of the Dead",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg"
-                            },
-                            {
-                                "url": "/tvshows/demon-slayer-kimetsu-no-yaiba/",
-                                "title": "Demon Slayer: Kimetsu no Yaiba",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg"
-                            },
-                            {
-                                "url": "/tvshows/invincible/",
-                                "title": "Invincible",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
-                            },
-                            {
-                                "url": "/tvshows/my-hero-academia/",
-                                "title": "My Hero Academia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ivOLM47yJt90P19RH1NvJrAJz9F.jpg"
-                            },
-                            {
-                                "url": "/tvshows/chainsaw-man/",
-                                "title": "Chainsaw Man",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
-                            },
-                            {
-                                "url": "/tvshows/spy-x-family/",
-                                "title": "SPY x FAMILY",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg"
-                            },
-                            {
-                                "url": "/tvshows/frieren-beyond-journeys-end/",
-                                "title": "Frieren: Beyond Journey’s End",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dqZENchTd7lp5zht7BdlqM7RBhD.jpg"
-                            },
-                            {
-                                "url": "/tvshows/jujutsu-kaisen/",
-                                "title": "Jujutsu Kaisen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hFWP5HkbVEe40hrXgtCeQxoccHE.jpg"
-                            },
-                            {
-                                "url": "/tvshows/rent-a-girlfriend/",
-                                "title": "Rent-a-Girlfriend",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg"
-                            },
-                            {
-                                "url": "/tvshows/the-daily-life-of-the-immortal-king/",
-                                "title": "The Daily Life of the Immortal King",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/yNBH6iQMxvM67kXxzXvDukczQHI.jpg"
-                            },
-                            {
-                                "url": "/tvshows/lookism/",
-                                "title": "Lookism",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qkoM63HDuCOSwxGfb0pljrgns9I.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/episodes/my-hero-academia-season-3-episode-16/",
-                                "title": "My Hero Academia: Season 3 Episode 16",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gXLFmnOo3JkuehX8eRRRk5thpAa.jpg"
-                            },
-                            {
-                                "url": "/episodes/my-hero-academia-season-3-episode-15/",
-                                "title": "My Hero Academia: Season 3 Episode 15",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gpARjoAURqHvSxscBaTeTI2wouS.jpg"
-                            },
-                            {
-                                "url": "/episodes/my-hero-academia-season-3-episode-14/",
-                                "title": "My Hero Academia: Season 3 Episode 14",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xi44czDy0Tm28tk8HVIdoB6fyzo.jpg"
-                            },
-                            {
-                                "url": "/episodes/my-hero-academia-season-3-episode-13/",
-                                "title": "My Hero Academia: Season 3 Episode 13",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mUxkrWky8pUr3rdcV8OgO3JKFiA.jpg"
-                            },
-                            {
-                                "url": "/episodes/my-hero-academia-season-3-episode-12/",
-                                "title": "My Hero Academia: Season 3 Episode 12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yleKjvyD5DXUnRKjbvOxJCPAhWG.jpg"
-                            },
-                            {
-                                "url": "/episodes/i-shall-survive-using-potions-season-1-episode-3/",
-                                "title": "I Shall Survive Using Potions!: Season 1 Episode 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gTGsnDkq4lJjXe2tw72DtfEUYl6.jpg"
-                            },
-                            {
-                                "url": "/episodes/reign-of-the-seven-spellblades-season-1-episode-15/",
-                                "title": "Reign of the Seven Spellblades: Season 1 Episode 15",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4NnIP7L5VVTg7ilyS1G3sV9vhoZ.jpg"
-                            },
-                            {
-                                "url": "/episodes/frieren-beyond-journeys-end-season-1-episode-6/",
-                                "title": "Frieren: Beyond Journey’s End: Season 1 Episode 6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/p7ZDx4J3K4IRyu7LitvOdyC0vtV.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-12/",
-                                "title": "Akuma Kun: Season 1 Episode 12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2ktmrxz6vVSMG8c2S0wRHdzpt7t.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-11/",
-                                "title": "Akuma Kun: Season 1 Episode 11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gxnRRusJNcREdAbAlO5JVcbWTRl.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-10/",
-                                "title": "Akuma Kun: Season 1 Episode 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3ZDU6rqk45tX6ku2hRtOPIu1Gat.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-9/",
-                                "title": "Akuma Kun: Season 1 Episode 9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5I0MHGkaoPQf909aq8jkz7m5Yc6.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-8/",
-                                "title": "Akuma Kun: Season 1 Episode 8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kWHNpdyixSVWq6Y5NLzYhS2HQk9.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-7/",
-                                "title": "Akuma Kun: Season 1 Episode 7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yaMHmAufVdSg456zzlpV8QHpV67.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-6/",
-                                "title": "Akuma Kun: Season 1 Episode 6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pb2lZUk5yz7l8HDjw4a1EVMMYlT.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-5/",
-                                "title": "Akuma Kun: Season 1 Episode 5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/802gsiw1QO7iCMs43cBP3pxLa5t.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-4/",
-                                "title": "Akuma Kun: Season 1 Episode 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/shtNuBNBU8QM8mXlKrJxecoAJsx.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-3/",
-                                "title": "Akuma Kun: Season 1 Episode 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/p7F2PDbrCYGuxQBvV9DSbbWzvHh.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-2/",
-                                "title": "Akuma Kun: Season 1 Episode 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7gVjg3Ws38iXvVikCTWMtQmJ67O.jpg"
-                            },
-                            {
-                                "url": "/episodes/akuma-kun-season-1-episode-1/",
-                                "title": "Akuma Kun: Season 1 Episode 1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dD2ejf3HBntcuq8ca9FiznemjDW.jpg"
-                            },
-                            {
-                                "url": "/episodes/invincible-season-2-episode-2/",
-                                "title": "Invincible: Season 2 Episode 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/z3kk1ebwj2zGV3FBuhN6V61FG9T.jpg"
-                            },
-                            {
-                                "url": "/episodes/jujutsu-kaisen-1x32/",
-                                "title": "Jujutsu Kaisen: 2×8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4TKsaK3283WN94Bjsx44XmpkVgn.jpg"
-                            },
-                            {
-                                "url": "/episodes/code-geass-lelouch-of-the-rebellion-season-1-episode-10/",
-                                "title": "Code Geass: Lelouch of the Rebellion: Season 1 Episode 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2kPhvqW1JErGYN6UFJ0o512MhCJ.jpg"
-                            },
-                            {
-                                "url": "/episodes/handyman-saitou-in-another-world-season-1-episode-9/",
-                                "title": "Handyman Saitou in Another World: Season 1 Episode 9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/babecBCbmH8heexnYXKfp1wn4HE.jpg"
-                            },
-                            {
-                                "url": "/episodes/loki-season-2-episode-6/",
-                                "title": "Loki: Season 2 Episode 6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wEWuKOjz1t1uuvzTcs4zfEXTW92.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-54/",
-                                "title": "Naruto: Season 5 Episode 135",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lXP5Eu7W2pgBUzjtRrdvIrze7Aq.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-53/",
-                                "title": "Naruto: Season 5 Episode 134",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vMUROkiRfO9OvMMCdIPIQb4NswZ.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-52/",
-                                "title": "Naruto: Season 5 Episode 133",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ko4I9bAmdQLmW9nMPi5tRhFHppe.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-51/",
-                                "title": "Naruto: Season 5 Episode 132",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/YFdWc6f2qUFuXJWwEAZwRiQLM0.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-50/",
-                                "title": "Naruto: Season 5 Episode 131",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tHNu9Pmi4YDiyM6AT7fCCRa3kdS.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -414,11 +172,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/spider-man-across-the-spider-verse/",
-                    "title": "Spider-Man: Across the Spider-Verse",
-                    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n\nOriginal title: Spider-Man: Across the Spider-Verse",
-                    "genre": "Action, Adventure, Animation, Hindi Dub, Movie, Science Fiction",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+                    "url": "/tvshows/rezero-starting-life-in-another-world/",
+                    "title": "Re:ZERO -Starting Life in Another World-",
+                    "description": "Natsuki Subaru, an ordinary high school student, is on his way home from the convenience store when he finds himself transported to another world. As he’s lost and confused in a new world where he doesn’t even know left from right, the only person to reach out to him was a beautiful girl with silver hair. Determined to repay her somehow for saving him from his own despair, Subaru agrees to help the girl find something she’s looking for.\n\nOriginal title: Re:ゼロから始める異世界生活\nFirst air date: Apr. 04, 2016\nLast air date: Mar. 24, 2021\nSeasons: 1\nEpisodes: 50",
+                    "genre": "Fan Hindi Dub",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -426,8 +184,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/spider-man-across-the-spider-verse/",
-                        "name": "Movie",
+                        "url": "/episodes/rezero-starting-life-in-another-world-season-1-episode-1/",
+                        "name": "Season 1 x 1 - The End of the Beginning and the Beginning of the End",
+                        "date_upload": 1459728000000,
                         "episode_number": 1.0
                     }
                 ],

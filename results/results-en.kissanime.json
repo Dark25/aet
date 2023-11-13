@@ -3,13 +3,83 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub/",
+                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Shangri-La-Frontier-Dub/",
+                                "title": "Shangri-La Frontier (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Captain-Tsubasa-Junior-Youth-Arc-Dub/",
+                                "title": "Captain Tsubasa: Junior Youth Arc (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Captain-Tsubasa-Junior-Youth-Arc-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/I-Shall-Survive-Using-Potions-Dub/",
+                                "title": "I Shall Survive Using Potions! (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-Shall-Survive-Using-Potions-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/A-Returner-s-Magic-Should-Be-Special-Dub/",
+                                "title": "A Returner's Magic Should Be Special (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/A-Returner-s-Magic-Should-Be-Special-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Apothecary-Diaries-Dub/",
+                                "title": "The Apothecary Diaries (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Apothecary-Diaries-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Faraway-Paladin-The-Lord-of-Rust-Mountains-Dub/",
+                                "title": "The Faraway Paladin: The Lord of Rust Mountains (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Faraway-Paladin-The-Lord-of-Rust-Mountains-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/SPY-x-FAMILY-Season-2-Dub/",
+                                "title": "SPY x FAMILY Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/SPY-x-FAMILY-Season-2-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Management-of-Novice-Alchemist-Dub/",
+                                "title": "Management of Novice Alchemist (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Management-of-Novice-Alchemist-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-dangers-in-my-heart-dub.64132/",
+                                "title": "The Dangers in My Heart (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Dangers-in-My-Heart-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Kingdoms-of-Ruin-Dub/",
+                                "title": "The Kingdoms of Ruin (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Kingdoms-of-Ruin-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/GOBLIN-SLAYER-II-Dub/",
+                                "title": "GOBLIN SLAYER II (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/GOBLIN-SLAYER-II-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Rising-of-the-Shield-Hero-Season-3-Dub/",
+                                "title": "The Rising of the Shield Hero Season 3 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Rising-of-the-Shield-Hero-Season-3-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Frieren-Beyond-Journeys-End-Dub/",
+                                "title": "Frieren: Beyond Journey’s End (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Frieren-Beyond-Journeys-End-Dub.jpg"
+                            },
                             {
                                 "url": "/Anime/MF-GHOST/",
                                 "title": "MF GHOST",
@@ -189,76 +259,6 @@
                                 "url": "/Anime/BEYBLADE-X/",
                                 "title": "BEYBLADE X",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/BEYBLADE-X.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chiikawa/",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/08/Chiikawa.jpg"
-                            },
-                            {
-                                "url": "/Anime/Mewkledreamy-Mix/",
-                                "title": "Mewkledreamy Mix!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2021/06/Mewkledreamy-Mix.jpg"
-                            },
-                            {
-                                "url": "/Anime/JUJUTSU-KAISEN-Season-2-Dub/",
-                                "title": "JUJUTSU KAISEN Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/JUJUTSU-KAISEN-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Ancient-Magus-Bride-Season-2-Part-2-Dub/",
-                                "title": "The Ancient Magus' Bride Season 2 Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Ancient-Magus-Bride-Season-2-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/",
-                                "title": "Dr. STONE New World Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dr-STONE-New-World-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/jujutsu-kaisen-2nd-season.65332/",
-                                "title": "JUJUTSU KAISEN Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Jujutsu-Kaisen-2nd-Season.jpg"
-                            },
-                            {
-                                "url": "/Anime/rurouni-kenshin-meiji-kenkaku-romantan-2023.70447/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Rurouni-Kenshin-Meiji-Kenkaku-Romantan-2023.jpg"
-                            },
-                            {
-                                "url": "/Anime/UNDER-NINJA/",
-                                "title": "UNDER NINJA",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/UNDER-NINJA.jpg"
-                            },
-                            {
-                                "url": "/Anime/a-girl-amp-her-guard-dog.11942/",
-                                "title": "A Girl & Her Guard Dog",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/A-Girl-amp-Her-Guard-Dog.jpg"
-                            },
-                            {
-                                "url": "/Anime/Yuzuki-san-Chi-no-Yon-Kyoudai/",
-                                "title": "The Yuzuki Family’s Four Sons",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Youth-Story-of-a-Family.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Ancient-Magus-Bride-Season-2-Part-2/",
-                                "title": "The Ancient Magus' Bride Season 2 Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Ancient-Magus-Bride-Season-2-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dr-STONE-New-World-Part-2/",
-                                "title": "Dr. STONE New World Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dr-STONE-New-World-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer/",
-                                "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer.jpg"
-                            },
-                            {
-                                "url": "/Anime/bleach-thousand-year-blood-war-the-separation-dub.72560/",
-                                "title": "BLEACH: Thousand-Year Blood War - The Separation",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/BLEACH-Thousand-Year-Blood-War-The-Separation-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/MF-GHOST/",
-                    "title": "MF GHOST",
-                    "description": "202X A.D., a future beyond Initial D. Self-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. (Source; Crunchyroll)\n\nUser rating: 95%",
-                    "genre": "Sci-Fi, Sports",
+                    "url": "/Anime/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub/",
+                    "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Dub)",
+                    "description": "Aijou Rentaro tried and tried again, but after asking a hundred girls out on a date, he was rejected every single time. In desperation, he prays for guidance…only to be told by a god that his rejections were due to some cosmic error! Now the god is going to set things right by making sure that Aijou gets one hundred dates. Except, as things often do with gods, the dates come with a catch: one hundred girls are destined to be Aijou’s soulmate, and unless he returns their feelings each and every time, they’ll die in horrible accidents! Sure enough, girls start confessing their love to Aijou left and right. But how is he supposed to choose?! He doesn’t want to kill anyone! When he looks at each potential soulmate, it feels like a bolt of lightning. Can someone really love a hundred other people? This hilarious romantic comedy takes the harem concept to a wild extreme! (Source: Seven Seas Entertainment)\n\nUser rating: 96%",
+                    "genre": "Comedy, Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/MF-GHOST.jpg",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,23 +792,36 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/MF-GHOST/Episode-007?id=187155",
-                        "name": "MF GHOST - Episode 007",
+                        "url": "/Anime/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub/Episode-003?id=187171",
+                        "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Dub) - Episode 003",
                         "date_upload": 1699833600000,
-                        "episode_number": 7.0
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/Anime/MF-GHOST/Episode-006?id=187031",
-                        "name": "MF GHOST - Episode 006",
-                        "date_upload": 1699228800000,
-                        "episode_number": 6.0
+                        "url": "/Anime/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub/Episode-002?id=187054",
+                        "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Dub) - Episode 002",
+                        "date_upload": 1699315200000,
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s45.openstream.io/hls/qvsbcwfbmxblgwsztszkaowajhui25dlq2kqloijnzchnluqic75zwf4lhcq/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s45.openstream.io/hls/qvsbcwfbmxblgwsztszkaowajhui25dlq2kqloijnzchnluqic75zwf4lhcq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s45.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

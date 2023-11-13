@@ -3,13 +3,33 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/MF-GHOST/",
+                                "title": "MF GHOST",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/MF-GHOST.jpg"
+                            },
+                            {
+                                "url": "/Anime/dark-gathering.20085/",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Dark-Gathering.jpg"
+                            },
+                            {
+                                "url": "/Anime/berserk-of-gluttony.35993/",
+                                "title": "Berserk of Gluttony",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Berserk-of-Gluttony.jpg"
+                            },
+                            {
+                                "url": "/Anime/OVERTAKE/",
+                                "title": "OVERTAKE!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/OVERTAKE.jpg"
+                            },
                             {
                                 "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
                                 "title": "The Family Circumstances of the Irregular Witch",
@@ -239,26 +259,6 @@
                                 "url": "/Anime/bleach-thousand-year-blood-war-the-separation-dub.72560/",
                                 "title": "BLEACH: Thousand-Year Blood War - The Separation",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/BLEACH-Thousand-Year-Blood-War-The-Separation-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/oishinbo-sub.71850/",
-                                "title": "The Gourmet",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2019/02/Oishinbo-Sub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2/",
-                                "title": "Heaven Official's Blessing Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/the-eminence-in-shadow-season-2-dub.47070/",
-                                "title": "The Eminence in Shadow Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Eminence-in-Shadow-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/KamiErabi-GODapp/",
-                                "title": "KamiErabi GOD.app",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
-                    "title": "The Family Circumstances of the Irregular Witch",
-                    "description": "Alyssa, a witch who lives alone in the woods, finds a human baby one day. Despite her bewilderment, she names the child Viola and decides to raise her. 16 years later, Viola has grown far more than Alissa ever imagined... Wait, she grew too much! And so, the chaotic comedy of a mother and daughter with inverted appearances begins!! (Source: Crunchyroll)\n\nUser rating: 96%",
-                    "genre": "Comedy, Fantasy",
+                    "url": "/Anime/MF-GHOST/",
+                    "title": "MF GHOST",
+                    "description": "202X A.D., a future beyond Initial D. Self-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. (Source; Crunchyroll)\n\nUser rating: 95%",
+                    "genre": "Sci-Fi, Sports",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Family-Circumstances-of-the-Irregular-Witch.jpg",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/MF-GHOST.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,22 +792,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/Episode-008?id=187151",
-                        "name": "The Family Circumstances of the Irregular Witch - Episode 008",
-                        "date_upload": 1699747200000,
-                        "episode_number": 8.0
+                        "url": "/Anime/MF-GHOST/Episode-007?id=187155",
+                        "name": "MF GHOST - Episode 007",
+                        "date_upload": 1699833600000,
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/Episode-007?id=187028",
-                        "name": "The Family Circumstances of the Irregular Witch - Episode 007",
+                        "url": "/Anime/MF-GHOST/Episode-006?id=187031",
+                        "name": "MF GHOST - Episode 006",
                         "date_upload": 1699228800000,
-                        "episode_number": 7.0
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
                 "passed": false
             }
         }

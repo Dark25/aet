@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/saihate-no-paladin-tetsusabi-no-yama-no-ou",
+                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/SW7JrVYVXsJd55wy1699899416.jpg"
+                            },
+                            {
                                 "url": "/anime/arknights-reimei-zensou",
                                 "title": "Arknights: Reimei Zensou",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/oLVmVzkQPet9goEN1699896984.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
                                 "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/DJuK5YqcTJOM5F1K1699476982.jpg"
-                            },
-                            {
-                                "url": "/anime/ojou-to-banken-kun",
-                                "title": "Ojou to Banken-kun",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/71j040gsD9CfUflj1699465465.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,35 +364,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/arknights-reimei-zensou",
-                    "title": "Arknights: Reimei Zensou",
-                    "author": "Yostar Pictures",
-                    "description": "تدور أحداث اللعبة الأصلية في عالم خيالي يسمى “تيرا” والذي يحتوي على أنماط الخيال العلمي الحديثة.",
-                    "genre": "أكشن, خيال",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeiat.co/storage/posters/oLVmVzkQPet9goEN1699896984.jpg",
+                    "url": "/anime/saihate-no-paladin-tetsusabi-no-yama-no-ou",
+                    "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+                    "author": "OLM, Sunrise Beyond",
+                    "description": "الموسم الثاني من أنمي Saihate no Paladin",
+                    "genre": "أكشن, مغامرات, خيال, Isekai, Reincarnation",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeiat.co/storage/posters/SW7JrVYVXsJd55wy1699899416.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "episode/arknights-reimei-zensou-episode-8",
-                        "name": "Arknights: Reimei Zensou الحلقة 8 مترجمة",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "episode/arknights-reimei-zensou-episode-7",
-                        "name": "Arknights: Reimei Zensou الحلقة 7 مترجمة",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 391: Expected start of the array '[', but had '{' instead at path: $.data.sources\nJSON input: .....3T18:13:59.000000Z\",\"sources\":{\"oldfile\":\"https:\\/\\/api.anim.....",
+                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
                 "passed": false
             }
         }

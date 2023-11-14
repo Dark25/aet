@@ -57,8 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/la-fortuna/",
-                                "title": "La Fortuna",
+                                "url": "/icarly-latino/",
+                                "title": "iCarly",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/hero-inside/",
-                                "title": "Hero Inside",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rKMsIvqGYN8vs6AzOVdW6yejtHm.jpg"
+                                "url": "/a-town-called-malice/",
+                                "title": "A Town Called Malice",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/c2airHR0f50H3NA6V1649rznOYS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,15 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/amor-aqui-y-ahora-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - Amor en directo",
+                        "date_upload": 1699574400000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

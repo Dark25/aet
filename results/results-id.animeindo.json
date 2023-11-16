@@ -512,8 +512,33 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www12.mp4upload.com:183/d/q6xynthrz3b4quuog2quujskisait44xcpbzvhvs3vr3j2d7tjo3cfvh37g2e6h5sslwbt7p/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xynthrz3b4quuog2quujskisait44xcpbzvhvs3vr3j2d7tjo3cfvh37g2e6h5sslwbt7p/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=wvuht%2Bt277YyBPAHYiJd9QcnaOQnflurUb5uU4BRfx8D%2BUYZ3xq5fnUhbLuqX3KAHSLHF9ai5S8sFfXigGwMXsUOtKMXFszbjztXLFS5LGUikmFKbuW3uHOt23Ydaa2wmlkEMaja3ckB%2Fcm05U3omsmsOiSYplqfn6YpxqXDdqho8gY6oS7ydPpTwuxLuOHVM%3D&ref=&sandbox=&t=&res=720",
+                        "quality": "GDRIVE 720p - Gdrive",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=wvuht%2Bt277YyBPAHYiJd9QcnaOQnflurUb5uU4BRfx8D%2BUYZ3xq5fnUhbLuqX3KAHSLHF9ai5S8sFfXigGwMXsUOtKMXFszbjztXLFS5LGUikmFKbuW3uHOt23Ydaa2wmlkEMaja3ckB%2Fcm05U3omsmsOiSYplqfn6YpxqXDdqho8gY6oS7ydPpTwuxLuOHVM%3D&ref=&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=wvuht%2Bt277YyBPAHYiJd9QcnaOQnflurUb5uU4BRfx8D%2BUYZ3xq5fnUhbLuqX3KAHSLHF9ai5S8sFfXigGwMXsUOtKMXFszbjztXLFS5LGUikmFKbuW3uHOt23Ydaa2wmlkEMaja3ckB%2Fcm05U3omsmsOiSYplqfn6YpxqXDdqho8gY6oS7ydPpTwuxLuOHVM%3D&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - Gdrive",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=wvuht%2Bt277YyBPAHYiJd9QcnaOQnflurUb5uU4BRfx8D%2BUYZ3xq5fnUhbLuqX3KAHSLHF9ai5S8sFfXigGwMXsUOtKMXFszbjztXLFS5LGUikmFKbuW3uHOt23Ydaa2wmlkEMaja3ckB%2Fcm05U3omsmsOiSYplqfn6YpxqXDdqho8gY6oS7ydPpTwuxLuOHVM%3D&ref=&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=JeK1PQv7PVsV80&expires=1700185448&ip=F0qQKRWZD19XKxR&token=xoF-S5txt5xV",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=JeK1PQv7PVsV80&expires=1700185448&ip=F0qQKRWZD19XKxR&token=xoF-S5txt5xV"
+                    }
+                ],
+                "passed": true
             }
         }
     }

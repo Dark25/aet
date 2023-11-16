@@ -3,8 +3,114 @@
         "name": "Anime Srbija (SR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/naruto-shippuuden",
+                                "title": "Naruto: Shippuuden",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/1735.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/naruto",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/20.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/boruto-naruto-next-generations",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/34566.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/bleach",
+                                "title": "Bleach",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/269.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/black-clover",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/34572.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/hunter-x-hunter-2011",
+                                "title": "Hunter x Hunter (2011)",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/11061.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51019_1696995900049.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51009_1693626300040.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/40748.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/blue-lock",
+                                "title": "Blue Lock",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/49596.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/dragon-ball-z",
+                                "title": "Dragon Ball Z",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/813.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba",
+                                "title": "Kimetsu no Yaiba",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/38000.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/tokyo-revengers-seiya-kessen-hen",
+                                "title": "Tokyo Revengers: Seiya Kessen-hen",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/50608.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/vinland-saga-season-2",
+                                "title": "Vinland Saga Season 2",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/49387.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/shingeki-no-kyojin",
+                                "title": "Shingeki no Kyojin",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/16498.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/hanma-baki-son-of-ogre-2nd-season",
+                                "title": "Hanma Baki: Son of Ogre 2nd Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51318.jpeg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-6th-season",
+                                "title": "Boku no Hero Academia 6th Season",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/49918.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/hajime-no-ippo",
+                                "title": "Hajime no Ippo",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/263.jpg&w=1080&q=75"
+                            },
+                            {
+                                "url": "/anime/dragon-ball-super",
+                                "title": "Dragon Ball Super",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/30694.jpg&w=1080&q=75"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -218,14 +324,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tokyo-revengers-tenjiku-hen",
-                    "title": "Tokyo Revengers: Tenjiku-hen",
-                    "artist": "LIDENFILMS",
-                    "description": "Sezona: Jesen 2023\nDatum: Nepoznato\nAlternativni naziv: Tokyo Revengers: Tenjiku Arc\n\n\nTreća sezona serijala Tokyo Revengers.",
-                    "genre": "Akcija, Drama, Natprirodno, Shounen",
+                    "url": "/anime/one-piece",
+                    "title": "One Piece",
+                    "artist": "Toei Animation",
+                    "description": "Sezona: Jesen 1999\nDatum: Nepoznato\n\n\nGol D. Rodžer, poznatiji kao \"Kralj pirata\", bio je najsnažnije i najozloglašenije biće koje je oplovilo Veličanstvenu liniju. Njegovim hapšenjem i pogubljenjem, Svetska vlada je uzrokovala promene širom sveta. Rodžerove poslednje reči otkrile su postojanje najvećeg blaga na svetu, One Piece-a. I upravo to saznanje dovelo je do Velike ere pirata. Ljudi su se dali u potragu poneseni snovima o beskrajnom bogatstvu i slavi, a vrlo moguće, i tituli Kralja pirata. \n\nTu se pojavljuje sedamnaestogodišnji Manki D. Lufi, dečak koji ni po čemu ne podseća na klasičnog pirata. Za razliku od uobičajenih zlih pirata, koji samo žele da pljačkaju i uništavaju sela iz zabave, Lufija privlači pustolovina: pomisao na uzbudljive avanture koje vode do mnoštva zanimljivih susreta, i na kraju, naravno, do obećanog blaga. Idući stopama svog heroja iz detinjstva, Lufi i njegova posada plove Veličanstvenom linijom, proživljavaju neopisive avanture, rešavaj mračne misterije i bore se sa moćnim neprijateljima, sve kako bi došli do čuvenog blaga — One Piece-a! ",
+                    "genre": "Akcija, Avantura, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/54918_1696477500042.jpeg&w=1080&q=75",
+                    "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75",
                     "initialized": true
                 },
                 "passed": true
@@ -233,14 +339,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/epizoda/tokyo-revengers-tenjiku-hen-epizoda-7",
-                        "name": "Epizoda 7",
-                        "episode_number": 7.0
+                        "url": "/epizoda/one-piece-epizoda-1083",
+                        "name": "Epizoda 1083",
+                        "episode_number": 1083.0
                     },
                     {
-                        "url": "/epizoda/tokyo-revengers-tenjiku-hen-epizoda-6",
-                        "name": "Epizoda 6",
-                        "episode_number": 6.0
+                        "url": "/epizoda/one-piece-epizoda-1082",
+                        "name": "Epizoda 1082",
+                        "episode_number": 1082.0
                     }
                 ],
                 "passed": true
@@ -248,9 +354,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaTokyoRevengers/xsaTokyoRevengersS3 - 07/xsaTokyoRevengersS3 - 07_blaze.m3u8",
+                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1083/xsaOP - 1083_blaze.m3u8",
                         "quality": "Internal Player",
-                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaTokyoRevengers/xsaTokyoRevengersS3 - 07/xsaTokyoRevengersS3 - 07_blaze.m3u8"
+                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1083/xsaOP - 1083_blaze.m3u8"
                     }
                 ],
                 "passed": true

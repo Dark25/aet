@@ -349,8 +349,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=z6z1wP6Dbytv0Q&expires=1700293875&ip=FROsD0AAKxSHDN&token=aNStF0gP1xsi",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=z6z1wP6Dbytv0Q&expires=1700293875&ip=FROsD0AAKxSHDN&token=aNStF0gP1xsi"
+                    }
+                ],
+                "passed": true
             }
         }
     }

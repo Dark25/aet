@@ -184,7 +184,7 @@
                             {
                                 "url": "/data/watch/?_id=1178734&type=movie",
                                 "title": "ナックルガール",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/bH5PtYipUJM4DdQLhkAQOkqTguX.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/3mQ8tK7xpx95nq0RslW91RPbB5Y.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=459003&type=movie",
@@ -534,7 +534,7 @@
                             {
                                 "url": "/data/watch/?_id=717930&type=movie",
                                 "title": "Kandahar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/7zCpjAVTPYXReRgEM0JGkqVzHUQ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/3YyDSvFWg2RezQlshNenpz90UvP.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=568124&type=movie",
@@ -987,8 +987,69 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=VXl0Jqr77DhKrz8&expires=1700338906&ip=FROsD0AAKxSHDN&token=jQoU0D_taxsu",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=VXl0Jqr77DhKrz8&expires=1700338906&ip=FROsD0AAKxSHDN&token=jQoU0D_taxsu"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=vzMyVKoXRkiwpM&expires=1700338906&ip=FROsD0AAKxSHDN&token=FIcNfo-BsL0n",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=vzMyVKoXRkiwpM&expires=1700338906&ip=FROsD0AAKxSHDN&token=FIcNfo-BsL0n"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=1263Q0xzZWSemBd&expires=1700338905&ip=FROsD0AAKxSHDN&token=xSZ2TDfeSLH6",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=1263Q0xzZWSemBd&expires=1700338905&ip=FROsD0AAKxSHDN&token=xSZ2TDfeSLH6"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=QJzlkLYazRC00y6&expires=1700338905&ip=FROsD0AAKxSHDN&token=4gDANjOJL3XC",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=QJzlkLYazRC00y6&expires=1700338905&ip=FROsD0AAKxSHDN&token=4gDANjOJL3XC"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=K9mVQ6zq0Gt0G8o&expires=1700338905&ip=FROsD0AAKxSHDN&token=laY_YbOmXgW8",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=K9mVQ6zq0Gt0G8o&expires=1700338905&ip=FROsD0AAKxSHDN&token=laY_YbOmXgW8"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=LqAOy4ayJ1Iy8Z&expires=1700338905&ip=FROsD0AAKxSHDN&token=rAeZ-pdtNvBI",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=LqAOy4ayJ1Iy8Z&expires=1700338905&ip=FROsD0AAKxSHDN&token=rAeZ-pdtNvBI"
+                    },
+                    {
+                        "url": "https://voe.sx/e/mwcqqxokia1a",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-sxww6jtwd3wsyltc.voe-network.net/engine/hls2/01/09893/mwcqqxokia1a_,n,.urlset/master.m3u8?t=ykFz1NZ_EeFmdRfaSKtonsWHrxYs3srCkRFoUDfXkxY&s=1700268904&e=14400&f=49467500&node=delivery-node-sxww6jtwd3wsyltc.voe-network.net&i=20.109&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/5rvinmrgejb2",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-7qaemdseslezejvk.voe-network.net/engine/hls2/01/09894/5rvinmrgejb2_,n,.urlset/master.m3u8?t=2T3nYmhokBWQxvvLnhu0E5nr6Vlme5iNRTmpJmfscuc&s=1700268903&e=14400&f=49472999&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.109&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/sspgvwjma7fj",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-xygvp1sk9y8ulkte.voe-network.net/engine/hls2/01/09893/sspgvwjma7fj_,n,.urlset/master.m3u8?t=vSPlkemjpdZOOMYJIxbbtjx6j0XtlJe8LL7Ub_nevYg&s=1700268902&e=14400&f=49467550&node=delivery-node-xygvp1sk9y8ulkte.voe-network.net&i=20.109&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/sybr6hkwiedd",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-3qxdghox0csibqlw.voe-network.net/engine/hls2/01/09894/sybr6hkwiedd_,n,.urlset/master.m3u8?t=fApKZIffs3x_OE062Pp0h-WJfslueh9I6sWFaKWslf8&s=1700268901&e=14400&f=49473004&node=delivery-node-3qxdghox0csibqlw.voe-network.net&i=20.109&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/crirt7yb71vi",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/09893/crirt7yb71vi_,n,.urlset/master.m3u8?t=XKXAEVcfDHG1kHtC4rHfNiKye0rK3US7X-v4fdSBAfY&s=1700268900&e=14400&f=49467526&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=20.109&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/in7sp4bnf5g8",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-bfpibfrrprmpeojr.voe-network.net/engine/hls2-c/01/09894/in7sp4bnf5g8_,n,.urlset/master.m3u8?t=_24Xum2CQORvB55-0uGWbIoroMO3pjswZ2yOUsMHxjI&s=1700268899&e=14400&f=49473055&node=delivery-node-9m01d94khwyqelsn.voe-network.net&i=20.109&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

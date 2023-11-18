@@ -3,23 +3,34 @@
         "name": "HDFilme (DE)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: www.hdfilme.fun: Temporary failure in name resolution",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: www.hdfilme.fun",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: www.hdfilme.fun",
-                "passed": false
+                "result": {
+                    "description": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.hdfilme.fun",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: www.hdfilme.fun",
-                "passed": false
+                "result": [
+                    {
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: www.hdfilme.fun",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

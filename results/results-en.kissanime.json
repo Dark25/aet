@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/SPY-x-FAMILY-Season-2/",
+                                "title": "SPY x FAMILY Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/SPY-x-FAMILY-Season-2.jpg"
+                            },
+                            {
                                 "url": "/Anime/ragna-crimson.67914/",
                                 "title": "Ragna Crimson",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Ragna-Crimson.jpg"
@@ -510,11 +515,6 @@
                                 "url": "/Anime/the-eminence-in-shadow-season-2.87209/",
                                 "title": "The Eminence in Shadow Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Eminence-in-Shadow-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness/",
-                                "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,8 +1063,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s47.openstream.io/hls/qvsbcmfamxblgwsztszkaywzlcx6wlikhcj3snpr6s2yjgxf5cu64g5wvsyq/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s47.openstream.io/hls/qvsbcmfamxblgwsztszkaywzlcx6wlikhcj3snpr6s2yjgxf5cu64g5wvsyq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s47.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

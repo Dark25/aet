@@ -3,8 +3,264 @@
         "name": "Moflix-Stream (DE)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/api/v1/titles/152148?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "브레이크 더 사일런스: 더 무비",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gLNZdWq7r8ZAyWuUxoke7qC0gy8.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/133851?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "BTS World Tour: Love Yourself - Japan Edition",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/dA0MVEjNOP3GmWigu6Cs3I399Zt.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "BTS: PERMISSION TO DANCE 온 스테이지 – LA",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/101031?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "BTS Permission to Dance On Stage - Seoul: Live Viewing",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/d5Qg9sbntjqmuswpIuF7BltuUZq.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/231?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The Godfather Trilogy: 1901-1980",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rwEP0RwpF2mKGRbs7jerdC4aeMB.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/105183?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Metallica and the San Francisco Symphony: S&M²",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yf9RJWfeWVwVbqlDPdUdbn0al0N.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/72887?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "BLACKPINK: Arena Tour 2018 'Special Final in Kyocera Dome Osaka'",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eHciW1OtAYPyiFJwDYbqSFg2ZlY.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/47405?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Nirvana: Unplugged In New York",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zLoCBBTdPvGIpZc86wby9dMq3Cz.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/22?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die Verurteilten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/78Pb6FMLMfpm1jUOKTniwREYgAN.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/21?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Pate",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/p2BMC2J8WIPp7w3rpn6mIxT0f8a.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/144823?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Rubius X",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/k6KAAVebtdVb0FRU2PWqYLnhgRA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/90284?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Lil Peep – Everybody’s Everything",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/mFYXIZxXaHBUfCEokGM2g1LWZDs.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/36775?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Taylor Swift: The 1989 World Tour - Live",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/9247?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Folklore: The Long Pond Studio Sessions",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4iroJUn8YuQBekDwGy7r61YHXiu.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/25?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Dilwale Dulhania Le Jayenge - Wer zuerst kommt, kriegt die Braut",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2CAL2433ZeIihfX1Hb2139CX0pW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Schindlers Liste",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6lzgetyAEL6rKzeac7r9X7lRVkA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/23?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Pate - Teil II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/cPCgXKNBn3bATMLes1uYRTCjTpY.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/152195?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "きみの瞳が問いかけている",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8v0MtSxuvfEzVDtP4uiu1Z7r1Wl.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/108455?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Queen: Live at Wembley Stadium",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/t4yJoAIRZGGlIjljv0qGcv8rSiU.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/91131?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "David Attenborough: Mein Leben auf unserem Planeten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/69012?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "One Direction: Where We Are – The Concert Film",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wC3qjKzQTZ5yHEkTTyjsoRS0gir.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/25808?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Lucy und der traurige Mann",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qfXXdxShQpuc7tXOVghYavb1wiG.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/25599?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Lemonade",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/1eZNaro6rXlh1ao5jqMg6TgVyMO.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24601?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/aVvTPzo27HmYP9zmSTvLUq5a6zo.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/6055?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die letzten Glühwürmchen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6LJC2SiqGnAUex0jDp1DbmYx8MT.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/40?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das Leben ist schön",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ule20QbkvWHv2T2UkC0qr9M5IxR.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/39?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die sieben Samurai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zhPyobDDr7qT4kQXXDokNINnh9E.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/36?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "GoodFellas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9HJ5o6PYEa03UwnJhQ2thO8CFPW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/35?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Herr der Ringe - Die Rückkehr des Königs",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/uFjlP9U9UOZAzGB25HUtmlEpXbc.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/34?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Forrest Gump",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zUWRCzac72YuO9k5kEWSe0aGbs7.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/33?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Zwei glorreiche Halunken",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yFfRQOFHGhJ5DKheExHyIPbpLyF.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/32?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Pulp Fiction",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hOg9USqmQmglmr5kGvpyg1XkhqN.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/31?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The Green Mile",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/frsZNikjMbp1gfidAl3zm1PAMHk.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/30?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The Dark Knight",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/z1DfRQf2CgnROyhVZ6ch8FbWt71.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/29?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Parasite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hoqe3leVhHBgboB6G1bv1kB8K4p.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/28?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Your Name. Gestern, heute und für immer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/42FMmVrhsWUa1k1zLxcDzNHWxGp.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/27?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die zwölf Geschworenen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/iwTxk2SWQBxCR3tnDnLOqxHn01u.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/26?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Chihiros Reise ins Zauberland",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wWNLsGvKqhi6cNWul0uvhqbQ4kl.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/152144?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "번 더 스테이지: 더 무비",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/143243?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "O.J. Simpson - Eine amerikanische Saga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/128757?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "La Leyenda de los Chaneques",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4f9ghI3utknpeBZSAzNuIKKATOA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/107850?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Barfuß durch die Hölle - 3. Teil: ...und dann kam das Ende",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/104201?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "브링 더 소울: 더 무비",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/uQI0fm8uPild3U5spX0I6MapSHB.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/98368?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Attack on Titan - Movie Teil 3: Gebrüll des Erwachens",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lJ9HfT2paZIyXMFDRupIB2EA5QD.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/95982?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Primal: Tales of Savagery",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/93193?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Taylor Swift: Reputation Stadium Tour",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/90121?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das Fenster zum Hof",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4YCbSEZM1WcXpaP6tbqrIwLxMCN.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/89945?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Cuando Sea Joven",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6gIJuFHh5Lj4dNaPG3TzIMl7L68.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/75556?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "City of God",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ywbOvbl24H5pH4TzhS6HbfKSr2H.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/69231?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "DC Showcase: Death",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4Ni5u7VMFbw4kIpqx5wKqjlFVwA.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -118,11 +374,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/api/v1/titles/12851?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                    "title": "Jurassic World - Ein neues Zeitalter",
-                    "description": "Die Isla Nublar und ihr Park wurden zerstört, aber die Probleme sind noch nicht vorbei. Da sich die Dinosaurier auf der ganzen Welt ausgebreitet haben, führen die angespannten Beziehungen zwischen der Gegenwart und der Vergangenheit zu neuen Konflikten. Das zerbrechliche Gleichgewicht wird dabei auf die Probe gestellt und die Zukunft steht vor einer neuen Ausrichtung. Es wird ein für alle Mal entschieden, welche Spezies auf der Erde existieren soll.",
-                    "genre": "Abenteuer, Action, Science Fiction",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/lYfWPFEIXdtDuTh5jKfkxptN0eF.jpg",
+                    "url": "/api/v1/titles/152148?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                    "title": "브레이크 더 사일런스: 더 무비",
+                    "description": "",
+                    "genre": "Dokumentarfilm, Musik",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/gLNZdWq7r8ZAyWuUxoke7qC0gy8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -130,7 +386,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/api/v1/titles/dG1kYnxtb3ZpZXw1MDcwODY=?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                        "url": "/api/v1/titles/152148?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                         "name": "Film",
                         "episode_number": 1.0
                     }

@@ -267,6 +267,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/NieR-Automata-Ver-11a-Dub/",
+                                "title": "NieR:Automata Ver 1.1a (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/NieR-Automata-Ver-11a-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Faraway-Paladin-The-Lord-of-Rust-Mountains-Dub/",
+                                "title": "The Faraway Paladin: The Lord of Rust Mountains (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Faraway-Paladin-The-Lord-of-Rust-Mountains-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/SPY-x-FAMILY-Season-2-Dub/",
+                                "title": "SPY x FAMILY Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/SPY-x-FAMILY-Season-2-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Management-of-Novice-Alchemist-Dub/",
+                                "title": "Management of Novice Alchemist (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Management-of-Novice-Alchemist-Dub.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
                                 "title": "The Family Circumstances of the Irregular Witch",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Family-Circumstances-of-the-Irregular-Witch.jpg"
@@ -495,26 +515,6 @@
                                 "url": "/Anime/Dead-Mount-Death-Play-Part-2-Dub/",
                                 "title": "Dead Mount Death Play Part 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dead-Mount-Death-Play-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/SHY-Dub/",
-                                "title": "SHY (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/SHY-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/I-m-in-Love-with-the-Villainess-Dub/",
-                                "title": "I'm in Love with the Villainess (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-m-in-Love-with-the-Villainess-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/rurouni-kenshin-meiji-kenkaku-romantan-2023.70447/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Rurouni-Kenshin-Meiji-Kenkaku-Romantan-2023.jpg"
-                            },
-                            {
-                                "url": "/Anime/UNDER-NINJA/",
-                                "title": "UNDER NINJA",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/UNDER-NINJA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,21 +1063,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s47.openstream.io/hls/qvsbetfamxblgwsztszka767k6ybkqpnplleo5visudaogikjlgy4fulwmea/index-v1-a1.m3u8",
-                        "quality": "Oserver - 720p",
-                        "videoUrl": "https://s47.openstream.io/hls/qvsbetfamxblgwsztszka767k6ybkqpnplleo5visudaogikjlgy4fulwmea/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s47.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

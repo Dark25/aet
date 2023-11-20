@@ -3,13 +3,23 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984",
+                                "title": "The Railway Men - The Untold Story of Bhopal 1984",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-railway-men-the-untold-story-of-bhopal-1984.jpg"
+                            },
+                            {
+                                "url": "/serie/scott-pilgrim-takes-off",
+                                "title": "Scott Pilgrim Takes Off",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/scott-pilgrim-takes-off.jpg"
+                            },
                             {
                                 "url": "/serie/monarch-legacy-of-monsters",
                                 "title": "Monarch: Legacy of Monsters",
@@ -49,16 +59,6 @@
                                 "url": "/serie/lawmen-bass-reeves",
                                 "title": "Lawmen: Bass Reeves",
                                 "thumbnail_url": "https://www.nollyverse.com/serie/img/lawmen-bass-reeves.jpg"
-                            },
-                            {
-                                "url": "/serie/orphan-black-echoes",
-                                "title": "Orphan Black: Echoes",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/orphan-black-echoes.jpg"
-                            },
-                            {
-                                "url": "/serie/blue-eye-samurai",
-                                "title": "BLUE EYE SAMURAI",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/blue-eye-samurai.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -108,10 +108,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/monarch-legacy-of-monsters",
-                    "title": "Monarch: Legacy of Monsters (2023-)",
-                    "description": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-                    "genre": "Action, Adventure, Sci-Fi",
+                    "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984",
+                    "title": "The Railway Men - The Untold Story of Bhopal 1984 (2023-)",
+                    "description": "India, 1984. After a deadly gas leaks from a factory in Bhopal, brave railway workers risk their lives to save others in the face of an unspeakable disaster.",
+                    "genre": "Drama, History, Thriller",
                     "initialized": true
                 },
                 "passed": true
@@ -119,14 +119,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/monarch-legacy-of-monsters/season-1#2",
-                        "name": "Episode S1E2",
-                        "episode_number": 2.0
+                        "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984/season-1#4",
+                        "name": "Episode S1E4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/monarch-legacy-of-monsters/season-1#1",
-                        "name": "Episode S1E1",
-                        "episode_number": 1.0
+                        "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984/season-1#3",
+                        "name": "Episode S1E3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -134,19 +134,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl3.uploding.sbs/Series3/Monarch.Legacy.of.Monsters.2023/S01/1080p.x265/Monarch.Legacy.of.Monsters.S01E02.1080p.10bit.WEB-DL.6CH.x265.PSA-ZarFilm.mkv",
+                        "url": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
                         "quality": "1080p.x265",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Monarch.Legacy.of.Monsters.2023/S01/1080p.x265/Monarch.Legacy.of.Monsters.S01E02.1080p.10bit.WEB-DL.6CH.x265.PSA-ZarFilm.mkv"
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
                     },
                     {
-                        "url": "https://dl3.uploding.sbs/Series3/Monarch.Legacy.of.Monsters.2023/S01/720p.x265/Monarch.Legacy.of.Monsters.S01E02.720p.10bit.WEB-DL.2CH.x265.PSA-ZarFilm.mkv",
+                        "url": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
                         "quality": "720p.x265",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Monarch.Legacy.of.Monsters.2023/S01/720p.x265/Monarch.Legacy.of.Monsters.S01E02.720p.10bit.WEB-DL.2CH.x265.PSA-ZarFilm.mkv"
-                    },
-                    {
-                        "url": "https://dl3.uploding.sbs/Series3/Monarch.Legacy.of.Monsters.2023/S01/480p/Monarch.Legacy.of.Monsters.S01E02.480p.WEB-DL.x264-ZarFilm.mkv",
-                        "quality": "480px",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Monarch.Legacy.of.Monsters.2023/S01/480p/Monarch.Legacy.of.Monsters.S01E02.480p.WEB-DL.x264-ZarFilm.mkv"
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
                     }
                 ],
                 "passed": true

@@ -27,6 +27,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/rtjFTXwKhQOZGYCxhFNwQ7HvzjC.jpg"
                             },
                             {
+                                "url": "/animes/kage-no-jitsuryokusha-ni-naritakute/",
+                                "title": "Kage no Jitsuryokusha ni Naritakute!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/r3IHw82QFkLmggTG9QpBFpYArVM.jpg"
+                            },
+                            {
                                 "url": "/animes/kimetsu-no-yaiba-mugen-ressha-hen-tv/",
                                 "title": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/1tADD33ujMSstMSCDxTn6QaFAuV.jpg"
@@ -42,19 +47,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/ah6TeFIa7bIUI3rwxUw8cRjW7ZK.jpg"
                             },
                             {
-                                "url": "/animes/kage-no-jitsuryokusha-ni-naritakute/",
-                                "title": "Kage no Jitsuryokusha ni Naritakute!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/r3IHw82QFkLmggTG9QpBFpYArVM.jpg"
+                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lvirACCy3AQUIB2hUSnKFGe3Ill.jpg"
                             },
                             {
                                 "url": "/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/",
                                 "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen Dublado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/wVwHZpElD4knChmr9ircNUfQwyg.jpg"
-                            },
-                            {
-                                "url": "/animes/blade-of-the-guardians/",
-                                "title": "Blade of the Guardians",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5PjggLlB72crt1ZIphSya75pInb.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/toaru-ossan-no-vrmmo-katsudouki-episodio-8/",
+                                "title": "Toaru Ossan no VRMMO Katsudouki – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/iQ0v4bfoau7ggvjZslCjCaSXFij.jpg"
+                            },
+                            {
+                                "url": "/episodio/watashi-no-oshi-wa-akuyaku-reijou-episodio-8/",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/w4qRrwauf8cMjnYVI34sPTNZq1.jpg"
+                            },
+                            {
+                                "url": "/episodio/shy-episodio-8/",
+                                "title": "Shy – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/c2Rl02hCV3bVUGfQIY2Oh0ocrji.jpg"
+                            },
                             {
                                 "url": "/episodio/dead-mount-death-play-part-2-episodio-7/",
                                 "title": "Dead Mount Death Play Part 2 – Episódio 7",
@@ -200,21 +215,6 @@
                                 "url": "/episodio/spy-x-family-2-episodio-7/",
                                 "title": "Spy x Family 2 – Episódio 7",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/eKZ7ztnaUI9dJugx0eXZ1Crh9DF.jpg"
-                            },
-                            {
-                                "url": "/episodio/hikikomari-kyuuketsuki-no-monmon-episodio-7/",
-                                "title": "Hikikomari Kyuuketsuki no Monmon – Episódio 7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/xhAwFFqLybiZJEYXJam17Wp6C7q.jpg"
-                            },
-                            {
-                                "url": "/episodio/saihate-no-paladin-2-episodio-7/",
-                                "title": "Saihate no Paladin 2 – Episódio 7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/vTaJB5sLHnefIzqajw9Sjha9vKQ.jpg"
-                            },
-                            {
-                                "url": "/episodio/megumi-no-daigo-kyuukoku-no-orange-episodio-8/",
-                                "title": "Megumi no Daigo: Kyuukoku no Orange – Episódio 8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/96AZKkJTrCa8DTBT5K6C7ngVoRg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -349,8 +349,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=z6z1wP6Dbytv0Q&expires=1700598287&ip=FROsD0AAKxSHDN&token=MPBCpgizKHTf",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=z6z1wP6Dbytv0Q&expires=1700598287&ip=FROsD0AAKxSHDN&token=MPBCpgizKHTf"
+                    }
+                ],
+                "passed": true
             }
         }
     }

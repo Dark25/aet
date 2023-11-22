@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/viajes-increibles-de-animales/",
+                                "title": "Viajes increíbles de animales",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/tooth-pari-when-love-bites/",
+                                "title": "Tooth Pari: When Love Bites",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/amar-e-para-os-fortes/",
                                 "title": "Amar é Para os Fortes",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -47,18 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/beacon-23/",
-                                "title": "Beacon 23",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/matriz/",
-                                "title": "Matriz",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/pequenas-coincidencias/",
-                                "title": "Pequeñas Coincidencias",
+                                "url": "/nate-el-grande/",
+                                "title": "Nate el Grande",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/darkness-la-huella-del-crimen/",
-                                "title": "Darkness: La huella del crimen",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/03/3D6EYoej4886jgyAD5610CgBXA7-226x339.jpg"
+                                "url": "/branson/",
+                                "title": "Branson",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pCA5z6jHj1O6bRmjx85MyK9sYr5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/amar-e-para-os-fortes/",
-                    "title": "Amar é Para os Fortes",
-                    "description": "El amor es para los fuertes Cuenta la historia de dos madres en busca de justicia después de que una invasión policial en su comunidad provocara una tragedia que cambió la vida de estas dos familias para siempre. Por un lado, Rita lidia con la muerte de su hijo menor, Sushi. Por otro, Edna, la madre del policía Digão, se enfrenta a las consecuencias de las acciones de su hijo durante la operación.",
-                    "genre": "Drama",
+                    "url": "/viajes-increibles-de-animales/",
+                    "title": "Viajes increíbles de animales",
+                    "description": "Incredible Animal Journeys, Vivimos en un planeta en movimiento y animales de todo el mundo emprenden migraciones épicas en busca de comida, refugio y amor.",
+                    "genre": "Documental",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/viajes-increibles-de-animales-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Tras el viaje",
+                        "date_upload": 1703980800000,
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/episode/viajes-increibles-de-animales-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - Voladores frecuentes",
+                        "date_upload": 1703376000000,
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

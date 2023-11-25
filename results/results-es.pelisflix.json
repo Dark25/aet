@@ -3,23 +3,23 @@
         "name": "Pelisflix (ES)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: ww12.pelisflix.gratis: Temporary failure in name resolution",
+                "error": "java.net.UnknownHostException: pelisflix.gratis: Temporary failure in name resolution",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: ww12.pelisflix.gratis",
+                "error": "java.net.UnknownHostException: pelisflix.gratis",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: ww12.pelisflix.gratis",
+                "error": "java.net.UnknownHostException: pelisflix.gratis",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: ww12.pelisflix.gratis",
+                "error": "java.net.UnknownHostException: pelisflix.gratis",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: ww12.pelisflix.gratis",
+                "error": "java.net.UnknownHostException: pelisflix.gratis",
                 "passed": false
             }
         }

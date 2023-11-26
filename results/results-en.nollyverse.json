@@ -3,153 +3,28 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: www.nollyverse.com: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/squid-game-the-challenge",
-                                "title": "Squid Game: The Challenge",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/squid-game-the-challenge.jpg"
-                            },
-                            {
-                                "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984",
-                                "title": "The Railway Men - The Untold Story of Bhopal 1984",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-railway-men-the-untold-story-of-bhopal-1984.jpg"
-                            },
-                            {
-                                "url": "/serie/scott-pilgrim-takes-off",
-                                "title": "Scott Pilgrim Takes Off",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/scott-pilgrim-takes-off.jpg"
-                            },
-                            {
-                                "url": "/serie/monarch-legacy-of-monsters",
-                                "title": "Monarch: Legacy of Monsters",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/monarch-legacy-of-monsters.jpg"
-                            },
-                            {
-                                "url": "/serie/a-murder-at-the-end-of-the-world",
-                                "title": "A Murder at the End of the World",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/a-murder-at-the-end-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/serie/ncis-sydney",
-                                "title": "NCIS: Sydney",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/ncis-sydney.jpg"
-                            },
-                            {
-                                "url": "/serie/the-curse",
-                                "title": "The Curse",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-curse.jpg"
-                            },
-                            {
-                                "url": "/serie/beacon-23",
-                                "title": "Beacon 23",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/beacon-23.jpg"
-                            },
-                            {
-                                "url": "/serie/the-buccaneers",
-                                "title": "The Buccaneers",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-buccaneers.jpg"
-                            },
-                            {
-                                "url": "/serie/vigilante",
-                                "title": "Vigilante",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/vigilante.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: www.nollyverse.com",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movie/edge-of-the-world",
-                                "title": "Edge of the World (2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/edge-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
-                                "title": "2025 - The World enslaved by a Virus (2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
-                            },
-                            {
-                                "url": "/movie/world-s-biggest-bull-shark-",
-                                "title": "World's Biggest Bull Shark? (2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
-                            },
-                            {
-                                "url": "/serie/the-walking-dead-world-beyond",
-                                "title": "The Walking Dead: World Beyond (2020-2021)",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
-                            },
-                            {
-                                "url": "/serie/the-end-of-the-f-ing-world",
-                                "title": "The End of the F***ing World (2017-2019)",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
-                            },
-                            {
-                                "url": "/serie/run-the-world",
-                                "title": "Run the World (2021-2023)",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/run-the-world.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: www.nollyverse.com",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/serie/squid-game-the-challenge",
-                    "title": "Squid Game: The Challenge (2023-)",
-                    "description": "Immersed in the world of \"Squid Game,\" 456 real players put their skills — and character — to the ultimate test for a life-changing $4.56 million prize.",
-                    "genre": "Game-Show, Reality-TV",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.UnknownHostException: www.nollyverse.com",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/serie/squid-game-the-challenge/season-1#5",
-                        "name": "Episode S1E5",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/serie/squid-game-the-challenge/season-1#4",
-                        "name": "Episode S1E4",
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: www.nollyverse.com",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dl3.uploding.sbs/Series3/Squid.Game.The.Challenge.2023/S01/1080p/Squid.Game.The.Challenge.S01E05.1080p.WEB-DL.x264-ZarFilm.mkv",
-                        "quality": "1080px",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Squid.Game.The.Challenge.2023/S01/1080p/Squid.Game.The.Challenge.S01E05.1080p.WEB-DL.x264-ZarFilm.mkv"
-                    },
-                    {
-                        "url": "https://dl3.uploding.sbs/Series3/Squid.Game.The.Challenge.2023/S01/720p/Squid.Game.The.Challenge.S01E05.720p.WEB-DL.x264-ZarFilm.mkv",
-                        "quality": "720px",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Squid.Game.The.Challenge.2023/S01/720p/Squid.Game.The.Challenge.S01E05.720p.WEB-DL.x264-ZarFilm.mkv"
-                    },
-                    {
-                        "url": "https://dl3.uploding.sbs/Series3/Squid.Game.The.Challenge.2023/S01/480p/Squid.Game.The.Challenge.S01E05.480p.WEB-DL.x264-ZarFilm.mkv",
-                        "quality": "480px",
-                        "videoUrl": "https://dl3.uploding.sbs/Series3/Squid.Game.The.Challenge.2023/S01/480p/Squid.Game.The.Challenge.S01E05.480p.WEB-DL.x264-ZarFilm.mkv"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

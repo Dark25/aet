@@ -3,22 +3,63 @@
         "name": "Hinata Soul (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/7243187243871427834187243871243784128734189",
+                                "title": "Naruto Shippuden"
+                            },
+                            {
+                                "url": "/animes/398a5cebfadb2606fbf802b42aad57755b4eae55",
+                                "title": "One Piece"
+                            },
+                            {
+                                "url": "/animes/4764ab1f2c3edeb6d42e890234b9a1c978821330",
+                                "title": "Boruto: Naruto Next Generations"
+                            },
+                            {
+                                "url": "/animes/addc5be739e673a616b4c897fcd79fd1478da6e3",
+                                "title": "Black Clover"
+                            },
+                            {
+                                "url": "/animes/kimetsu-no-yaiba-yuukaku-hen",
+                                "title": "Kimetsu no Yaiba 2: Yuukaku-hen"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
                             {
+                                "url": "/videos/281973",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su ep 9",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281973/1.jpg"
+                            },
+                            {
+                                "url": "/videos/281969",
+                                "title": " Dekoboko Majo no Oyako Jijou ep 10",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281969/1.jpg"
+                            },
+                            {
+                                "url": "/videos/281965",
+                                "title": " Overtake! ep 9",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281965/1.jpg"
+                            },
+                            {
+                                "url": "/videos/281964",
+                                "title": " Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281964/1.jpg"
+                            },
+                            {
                                 "url": "/videos/281961",
                                 "title": " Captain Tsubasa Season 2: Junior Youth-hen - Dublado ep 4",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281961/1.jpg"
-                            },
-                            {
-                                "url": "/videos/281958",
-                                "title": " Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su ep 9",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281958/1.jpg"
                             },
                             {
                                 "url": "/videos/281957",
@@ -154,21 +195,6 @@
                                 "url": "/videos/281853",
                                 "title": " Goblin Slayer II ep 8",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281853/1.jpg"
-                            },
-                            {
-                                "url": "/videos/281849",
-                                "title": " Tate no Yuusha no Nariagari Season 3 ep 8",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281849/1.jpg"
-                            },
-                            {
-                                "url": "/videos/281839",
-                                "title": "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru - Dublado",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281839/1.jpg"
-                            },
-                            {
-                                "url": "/videos/281835",
-                                "title": "Jujutsu Kaisen 2nd Season - Dublado ep 15",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/281835/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -308,15 +334,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime-dublado/captain-tsubasa-season-2-junior-youth-hen-dublado",
-                    "title": "Captain Tsubasa Season 2: Junior Youth-hen - Dublado",
-                    "artist": "Studio Kai",
-                    "author": "Youichi Takahashi",
-                    "description": "Segunda temporada de Captain Tsubasa (2018).\n\nTítulos Alternativos: Captain Tsubasa: Season 2 - Junior Youth-hen - Dublado\nAno: 2023\nTemporada: Outono",
-                    "genre": "Ação, Esporte, Shounen",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://cdn.anicdn.net/media/categories/video/921f5083cd692f3b6e53f1a8cf1e312646.jpg",
+                    "url": "/animes/7243187243871427834187243871243784128734189",
+                    "title": "Naruto Shippuden",
+                    "artist": "Studio Pierrot",
+                    "author": "Masashi Kishimoto",
+                    "description": "\n\nTítulos Alternativos: Naruto Shippuuden, Naruto: Shippuden, NARUTO: Shippuuden\nAno: 2007\nTemporada: Inverno",
+                    "genre": "Ação, Artes Marciais, Comédia, Shounen, Superpoder",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.anicdn.net/media/categories/video/017d73a6c1a47ccf6fc667f95692eadf956.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -324,16 +350,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/281961",
-                        "name": " Captain Tsubasa Season 2: Junior Youth-hen - Dublado ep 4",
-                        "date_upload": 1700986260000,
-                        "episode_number": 4.0
+                        "url": "/videos/263139",
+                        "name": "Naruto Shippuden ep 500 - FINAL",
+                        "date_upload": 1490259240000,
+                        "episode_number": 500.0
                     },
                     {
-                        "url": "/videos/281673",
-                        "name": " Captain Tsubasa Season 2: Junior Youth-hen - Dublado ep 3",
-                        "date_upload": 1700391120000,
-                        "episode_number": 3.0
+                        "url": "/videos/249788",
+                        "name": "Naruto Shippuden ep 499",
+                        "date_upload": 1525478400000,
+                        "episode_number": 499.0
                     }
                 ],
                 "passed": true
@@ -341,18 +367,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ikaros.anicdn.net/appsd2/281961.mp4",
+                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
                         "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd2/281961.mp4",
+                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://www.hinatasoul.com"
                         }
                     },
                     {
-                        "url": "https://ikaros.anicdn.net/apphd2/281961.mp4",
+                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
                         "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd2/281961.mp4",
+                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://www.hinatasoul.com"

@@ -178,8 +178,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.cha11.workers.dev/8410f7e5182fd8e9a6d823231e4ceec6/driveleech.org/Castaway.Diva.S01E06.Secrets.vs.Lies.1080p.NF.WEBDL.MULTi.DDP2.0.H.264YAGAMi.mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  2.7GB ",
+                        "videoUrl": "https://0.cha11.workers.dev/8410f7e5182fd8e9a6d823231e4ceec6/driveleech.org/Castaway.Diva.S01E06.Secrets.vs.Lies.1080p.NF.WEBDL.MULTi.DDP2.0.H.264YAGAMi.mkv"
+                    },
+                    {
+                        "url": "https://0.huih63.workers.dev/9208edf66410082f4cadf9b57a7901bc/driveleech.org/Castaway.Diva.S01E06.Secrets.vs.Lies.1080p.NF.WEBDL.MULTi.DDP2.0.H.264YAGAMi.mkv",
+                        "quality": "1080p - CF 1 Worker 2 -  2.7GB ",
+                        "videoUrl": "https://0.huih63.workers.dev/9208edf66410082f4cadf9b57a7901bc/driveleech.org/Castaway.Diva.S01E06.Secrets.vs.Lies.1080p.NF.WEBDL.MULTi.DDP2.0.H.264YAGAMi.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

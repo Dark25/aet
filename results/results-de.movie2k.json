@@ -287,8 +287,26 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv10.dropload.io/hls2/01/00088/4zpumlq462pb_h/index-v1-a1.m3u8?t=DlHJ7V2G2uLZcXs4sk--H9xxbNGFA4cwaIA6W_r2z9w&s=1701174288&e=21600&f=441662&i=172.183&sp=0",
+                        "quality": "Dropload:720p ",
+                        "videoUrl": "https://srv10.dropload.io/hls2/01/00088/4zpumlq462pb_h/index-v1-a1.m3u8?t=DlHJ7V2G2uLZcXs4sk--H9xxbNGFA4cwaIA6W_r2z9w&s=1701174288&e=21600&f=441662&i=172.183&sp=0",
+                        "headers": {
+                            "origin": "https://dropload.io",
+                            "referer": "https://dropload.io/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery37.mxdcontent.net/v/330125448595ba88fb5875a61fa8f72e.mp4?s=P0GmshhOLpkI_GstPIKIhQ&e=1701195890&_t=1701182100",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery37.mxdcontent.net/v/330125448595ba88fb5875a61fa8f72e.mp4?s=P0GmshhOLpkI_GstPIKIhQ&e=1701195890&_t=1701182100",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

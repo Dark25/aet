@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness/",
+                                "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-eminence-in-shadow-season-2.87209/",
+                                "title": "The Eminence in Shadow Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Eminence-in-Shadow-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/BULLBUSTER/",
+                                "title": "BULLBUSTER",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/BULLBUSTER.jpg"
+                            },
+                            {
                                 "url": "/Anime/Onmyoji/",
                                 "title": "Onmyoji",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Onmyoji.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/the-vexations-of-a-shut-in-vampire-princess.79999/",
                                 "title": "The Vexations of a Shut-In Vampire Princess",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Vexations-of-a-Shut-In-Vampire-Princess.jpg"
-                            },
-                            {
-                                "url": "/Anime/Kibou-no-Chikara-Otona-Precure-23/",
-                                "title": "Power of Hope ~Grown-Up Precure '23~",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Power-of-Hope-Grown-Up-Precure-23.jpg"
-                            },
-                            {
-                                "url": "/Anime/firefighter-daigo-rescuer-in-orange.24068/",
-                                "title": "Firefighter Daigo: Rescuer in Orange",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Firefighter-Daigo-Rescuer-in-Orange.jpg"
-                            },
-                            {
-                                "url": "/Anime/One-Piece.54191/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

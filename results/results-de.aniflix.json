@@ -3,7 +3,7 @@
         "name": "Aniflix (DE)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: request@13dfb12e9986b260e105c2b6edbedb08",
+                "error": "java.io.IOException: java.lang.NullPointerException: Cannot invoke \"com.microsoft.playwright.impl.ChannelOwner.disconnect()\" because \"child\" is null",
                 "passed": false
             },
             "latest": {

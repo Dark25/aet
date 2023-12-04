@@ -159,12 +159,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Only Zip Pack Available",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"urls\":[{\"quality\":\"1080p\",\"url\":\"https://tech.unblockedgames.world/?sid=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0Y1dhWTZGUU8vUkluNmtDZ0FITDhrL0tBSDVUTEdWTmdBNnpPajczek1EQ2lkYXc1b0IzQTJnc1MrbUhRRjJ3cU1Nc0pEYXNuNmwwcmNzMDJRVHZhd1BhaHZzUHYrdTdFOGQ1eERyY013WVAwTFoyTTJPOXZZbEVkVExaQnpqU1lvZ0hka0NYSzJ5VHpJMFlRSkJMdTZGQytXT0xjZXMxeXpDSFJScEthazl0Qm53cklFSk8zazBhSkkyWU9IdmlxcUJwZ1NTTmJjQzVjdkhCUWw5YVlFN2NCUllWMzJrdXFHQi8xcDlTU25KWA==\"},{\"quality\":\"1080p\",\"url\":\"https://tech.unblockedgames.world/?sid=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0Y1dhWTZGUU8vUkluNmtDZ0FITDhrL0tBSDVUTEdWTmdBNnpPajczek1EQ2lkYXc1b0IzQTJnc1MrbUhRRjJ3cU1Nc0pEYXNuNmwwcmNzMDJRVHZhd08rMzhlNXJBZGQ0KzJmbWtuVDhBcXpJNzRaZUUxUFlwdjJRWHdwVnNURW52OVNiN3lIaEhvemFPRE80aTM1dytSRlJjSExxM2ZIUkJsZi9HSWhaNEwydDAwLzhNUlJ2VDJnMEJlRVZ2RlZiRDRHeFBpdS9hNDNibEY3bjJhUnBrS1dnNFMvakZSOGpLOGw2WUpVcFZaeQ==\"}]}",
+                        "name": "Season 1 Ep 10",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "{\"urls\":[{\"quality\":\"1080p\",\"url\":\"https://tech.unblockedgames.world/?sid=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0Y1dhWTZGUU8vUkluNmtDZ0FITDhrL0tBSDVUTEdWTmdBNnpPajczek1EQ2lkYXc1b0IzQTJnc1MrbUhRRjJ3cU1Nc0pEYXNuNmwwcmNzMDJRVHZhd1BmODJsRFc3aFdwdnZvQ3FWQ3hrMVRJNE01QVc3QUxhSDlmbzRHQ0hQSVdSWlhrWXVNVm1Pb3RzdHYwMnZXVGFtZWZoNFBYaEEyVGlOeDVNanVZTUswR0M2bU4xaFUyME9OTDdBWGpRQ1YvMzQ5dDhlSElnVUUyN1d0UElwV0NqbEhpVnB6a2FyOVh1eGd5ZEVwR3RpSg==\"},{\"quality\":\"1080p\",\"url\":\"https://tech.unblockedgames.world/?sid=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0Y1dhWTZGUU8vUkluNmtDZ0FITDhrL0tBSDVUTEdWTmdBNnpPajczek1EQ2lkYXc1b0IzQTJnc1MrbUhRRjJ3cU1Nc0pEYXNuNmwwcmNzMDJRVHZhd09IbGRPNFduMCtnMnJWY25pMDVsWkViSDd5Ui9Dcmt6aHNXVml6RktiaXp2THdlcXNpSVQ4aCttK0tOWDhrSnpGM1ZaVHczdFo0bnR6N0ZJZ0JvYS9oSldKdUZ2dTZ2Vjl2eTVrSk5rS0lucDdFcVNpVW9RTjlUNFNRbmdHaC9OQWpwZUNoT1YwWVNwZDRJVk4wK1h1eg==\"}]}",
+                        "name": "Season 1 Ep 9",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video-downloads.googleusercontent.com/ADGPM2nj2CDjqpwsXGgE6iTEOmNNl4oMf2q5ffPcXOMWeWGRS8iG5GYzkAjYkIfyRBeN-JBMdLq5qCD8MdqlHNN8UF6sZxr2unElFErWsDtZ_oUHYxz4hKqOJQl4tHFzR46QIVyCqEOwSF87is5_ak098sA4kCsYt4bVLp4uEWXB1hERCSC7-nCb49C3eTVnehFrx47KeoQkzEzJYulsi3B3PWY6SRQqYzTLlsPuug_xjG6KsVqTE9EWwQyyxTAAO-UBNecPl8IRs7m0eBIBOtex4gl9mWR7oIO-ZK3iMT9of9asSCTSwpbQtbd7I01P3KM6c3iDSDmcoVmobrmf533IhNI-L8dG_PYz9eA43o7-yN1xKLXf5lA3fnooMbLUggGN5qaeyRqpU7b9cVI1FdtXFtdgwrhofE96RqnX2dhPFeyL395jckmhguAQM-kTW6dtEW48NfNNFThcEhZ4OLjomIIYjUOZx-5eL6CKvrjzpDdgrhyDxEy_8dA1ui4hairkwB6Q60206MkXgDMoMrlrkuoOfd1iuIzogQzrnPBUAic-FR_ynoNwIwCcNA5upQ_ntrWc6N3alxEvMHtD_aWFNfaMGJ-3rMaTDvLZnO-jbKjUGP_FD8NxsfR5LYzY3oTcKLXWu4Wqp3vBQZ7n5wrNiIxe7LygumZm4J7z8Al_JBbXNl-cJuZRDZupX7tqV5g3wZN3hBGuYLMVHeUHc7b_gGfAH2CL2i9X1VhMhM-scdj_bEE5aQVtX7MEvblGl1IQEDT0t7ZQBCDnTx8-jKW8JtuhWSaElYzE8xU7iD3-VmV88Hbc4NV9R4sDJApB0pICxbSjCt7QRcHDBZDyODWeKm6drcd4e9R_TAhv5dGDpXVLwGSYEJJMsitn6yPNmWsd4YXSmwADZ3SrYPq4ocYIkPjCWaTsSKFrdcUtjfsr-W8K87PTA942ywBpnKPZlueAofmi2iA3y9DY5SE_nWLPsvsJ3CN1rSAJaPmMDmQIWpRUV0KsPGCVvS06XAfuzIDBVySE45T9ZRPVwlcnTjBTUKrhRygW0MjqfHNH7WU5cCdZmiImd4Y",
+                        "quality": "1080p - GDrive Instant link",
+                        "videoUrl": "https://video-downloads.googleusercontent.com/ADGPM2nj2CDjqpwsXGgE6iTEOmNNl4oMf2q5ffPcXOMWeWGRS8iG5GYzkAjYkIfyRBeN-JBMdLq5qCD8MdqlHNN8UF6sZxr2unElFErWsDtZ_oUHYxz4hKqOJQl4tHFzR46QIVyCqEOwSF87is5_ak098sA4kCsYt4bVLp4uEWXB1hERCSC7-nCb49C3eTVnehFrx47KeoQkzEzJYulsi3B3PWY6SRQqYzTLlsPuug_xjG6KsVqTE9EWwQyyxTAAO-UBNecPl8IRs7m0eBIBOtex4gl9mWR7oIO-ZK3iMT9of9asSCTSwpbQtbd7I01P3KM6c3iDSDmcoVmobrmf533IhNI-L8dG_PYz9eA43o7-yN1xKLXf5lA3fnooMbLUggGN5qaeyRqpU7b9cVI1FdtXFtdgwrhofE96RqnX2dhPFeyL395jckmhguAQM-kTW6dtEW48NfNNFThcEhZ4OLjomIIYjUOZx-5eL6CKvrjzpDdgrhyDxEy_8dA1ui4hairkwB6Q60206MkXgDMoMrlrkuoOfd1iuIzogQzrnPBUAic-FR_ynoNwIwCcNA5upQ_ntrWc6N3alxEvMHtD_aWFNfaMGJ-3rMaTDvLZnO-jbKjUGP_FD8NxsfR5LYzY3oTcKLXWu4Wqp3vBQZ7n5wrNiIxe7LygumZm4J7z8Al_JBbXNl-cJuZRDZupX7tqV5g3wZN3hBGuYLMVHeUHc7b_gGfAH2CL2i9X1VhMhM-scdj_bEE5aQVtX7MEvblGl1IQEDT0t7ZQBCDnTx8-jKW8JtuhWSaElYzE8xU7iD3-VmV88Hbc4NV9R4sDJApB0pICxbSjCt7QRcHDBZDyODWeKm6drcd4e9R_TAhv5dGDpXVLwGSYEJJMsitn6yPNmWsd4YXSmwADZ3SrYPq4ocYIkPjCWaTsSKFrdcUtjfsr-W8K87PTA942ywBpnKPZlueAofmi2iA3y9DY5SE_nWLPsvsJ3CN1rSAJaPmMDmQIWpRUV0KsPGCVvS06XAfuzIDBVySE45T9ZRPVwlcnTjBTUKrhRygW0MjqfHNH7WU5cCdZmiImd4Y"
+                    },
+                    {
+                        "url": "https://video-downloads.googleusercontent.com/ADGPM2mq9boe8jWt0tPuVmIqy-SIct5KiTNjmJ0N-PlkE8TpmDE8SenpJEWL1aZW4uwfKTQXiOLsGgCGi3eFUyzSgx3E5O1ImBkWsxStQVEo6mFSJceZbgmUS07lSnETR4X_b7MALo8ZwxzJIm0RVDk9dmP49jkN3UVsVNQ_J5fkp1X9QlIeho7OZ48dn6s_7viVanJiAo1NXxUgBp-3LiC_9Xrc_wNGJyS6WYOB1y3_Tbkmrcutv1lff6gsC6f5FPRN9suVrnhAguoTDMOy0ZBKCVtiXU5DDV7aEqAFC7GP_gUrWDHmyoVXfEBHaSDe7DmLwJ5R-R3-cIyW_xFYjY9DdtdzkTpQNunep7HmtPN4RON8kVGAVLji-GAhrULDAQw9LVgcQyT6MTUSHK23NhTASj_vg9fxYSfnqywribEEY9YHpmw7h-z1CiSAjenZY0vk6TJcNW9NJ0kMZBpGHohQmGVyaumhbJO0cnS_w66GS3Z4TfIGlly25XuAt97YxhAEwCdCed9MtE9HzF9GxI317kCIwqkVJz0hFIgvakLqBPibzSM3LU8zOECcPfAxHTegIRucZ8DCWIPArDCFXllXvP-tsL1XTr8KY3PuAQ70sCOo9NKot8Mqub4GZHlxUIWZdwSisiaALmTN3hcRzQXe57PzBonnRmnI6YUm3mqZv-2nBfWdJ7NCLtNhHJIMFjm0q0Q9bwvjbe6qzwYZxS8qQJH56k7GALPu-SpTr5LIBp7KjHvJzKc6QS8o9jGOVz-dcgjdW_RGAOwan21SRv0sr_ZxJZGyQfD1Jp0coR9mhHsJNuW88D_YWAMBHDIIx7YiYpcb-mKFVljLqmCzRw1VIT9jhq8mdifZ07sx9KMxiAHDRtEpEZIFV1BnBgnExpfOa5CAtuXjjKueCYVZSm_Cwc2crarzNmpP-dyMDv2mj1BOdzf2juHJEjVec2A5LKVwIUo-LyyPq9u4xnWBl1ynwgPr48RbwiRKOD9XaMhl2PUwLrQd5sewdo6gPdO73d8M6Xvaw45Dbs8uJbPsxQmwrD5iH-WvcIwysGg0jXnyQrMmUix5MBk",
+                        "quality": "1080p - GDrive Instant link",
+                        "videoUrl": "https://video-downloads.googleusercontent.com/ADGPM2mq9boe8jWt0tPuVmIqy-SIct5KiTNjmJ0N-PlkE8TpmDE8SenpJEWL1aZW4uwfKTQXiOLsGgCGi3eFUyzSgx3E5O1ImBkWsxStQVEo6mFSJceZbgmUS07lSnETR4X_b7MALo8ZwxzJIm0RVDk9dmP49jkN3UVsVNQ_J5fkp1X9QlIeho7OZ48dn6s_7viVanJiAo1NXxUgBp-3LiC_9Xrc_wNGJyS6WYOB1y3_Tbkmrcutv1lff6gsC6f5FPRN9suVrnhAguoTDMOy0ZBKCVtiXU5DDV7aEqAFC7GP_gUrWDHmyoVXfEBHaSDe7DmLwJ5R-R3-cIyW_xFYjY9DdtdzkTpQNunep7HmtPN4RON8kVGAVLji-GAhrULDAQw9LVgcQyT6MTUSHK23NhTASj_vg9fxYSfnqywribEEY9YHpmw7h-z1CiSAjenZY0vk6TJcNW9NJ0kMZBpGHohQmGVyaumhbJO0cnS_w66GS3Z4TfIGlly25XuAt97YxhAEwCdCed9MtE9HzF9GxI317kCIwqkVJz0hFIgvakLqBPibzSM3LU8zOECcPfAxHTegIRucZ8DCWIPArDCFXllXvP-tsL1XTr8KY3PuAQ70sCOo9NKot8Mqub4GZHlxUIWZdwSisiaALmTN3hcRzQXe57PzBonnRmnI6YUm3mqZv-2nBfWdJ7NCLtNhHJIMFjm0q0Q9bwvjbe6qzwYZxS8qQJH56k7GALPu-SpTr5LIBp7KjHvJzKc6QS8o9jGOVz-dcgjdW_RGAOwan21SRv0sr_ZxJZGyQfD1Jp0coR9mhHsJNuW88D_YWAMBHDIIx7YiYpcb-mKFVljLqmCzRw1VIT9jhq8mdifZ07sx9KMxiAHDRtEpEZIFV1BnBgnExpfOa5CAtuXjjKueCYVZSm_Cwc2crarzNmpP-dyMDv2mj1BOdzf2juHJEjVec2A5LKVwIUo-LyyPq9u4xnWBl1ynwgPr48RbwiRKOD9XaMhl2PUwLrQd5sewdo6gPdO73d8M6Xvaw45Dbs8uJbPsxQmwrD5iH-WvcIwysGg0jXnyQrMmUix5MBk"
+                    }
+                ],
+                "passed": true
             }
         }
     }

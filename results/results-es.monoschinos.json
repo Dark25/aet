@@ -336,12 +336,57 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/uta-noprince-sama-movie-maji-love-kingdom-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=v_YBn5zPaaI&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=v_YBn5zPaaI&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=NMEkP9Ym05k&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=NMEkP9Ym05k&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=DXVHTFwG6dM&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=DXVHTFwG6dM&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=D-_XqP1OhHs&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=D-_XqP1OhHs&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=UAP1UtByQNk&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=UAP1UtByQNk&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=4cvqUQle3tw&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1701757069863&srcIp=172.183.131.194&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=4cvqUQle3tw&ct=0&urls=45.136.20.38%3B185.226.52.58&clientType=0&zs=43&id=5459665685023"
+                    },
+                    {
+                        "url": "https://m150.uqload.io/3rfkwaa7rrw2q4drdka7xkxqdlvykrym7p6ehej2pryj7rz5bfe47ti7x7la/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m150.uqload.io/3rfkwaa7rrw2q4drdka7xkxqdlvykrym7p6ehej2pryj7rz5bfe47ti7x7la/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

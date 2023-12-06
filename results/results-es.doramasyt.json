@@ -291,12 +291,62 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/una-dosis-diaria-de-sol-latino-episodio-12",
+                        "name": "Episodio 12.0",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/ver/una-dosis-diaria-de-sol-latino-episodio-11",
+                        "name": "Episodio 11.0",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=3&sig=1k5xZNUIsqg&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=3&sig=1k5xZNUIsqg&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=2&sig=i-XNah8dnsU&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=2&sig=i-XNah8dnsU&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=1&sig=bICP0zl-dZE&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=1&sig=bICP0zl-dZE&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=0&sig=tqEyJGTKpdk&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=0&sig=tqEyJGTKpdk&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=4&sig=R0Ur1pHh1rU&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=4&sig=R0Ur1pHh1rU&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=5&sig=Goxau-qT44I&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1701929845064&srcIp=4.227.115.131&pr=10&srcAg=GECKO&ms=45.136.22.49&type=5&sig=Goxau-qT44I&ct=0&urls=185.226.52.36&clientType=0&zs=43&id=5469115058719"
+                    },
+                    {
+                        "url": "https://m160.uqload.io/3rfkveydrrw2q4drdkb7x5pzaz3scgkgvrzpd6oucmv327jfym6j2temotsa/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m160.uqload.io/3rfkveydrrw2q4drdkb7x5pzaz3scgkgvrzpd6oucmv327jfym6j2temotsa/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

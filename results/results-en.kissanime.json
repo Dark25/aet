@@ -267,6 +267,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Tokyo-Revengers-Tenjiku-hen/",
+                                "title": "Tokyo Revengers Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Tokyo-Revengers-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/That-Time-I-Got-Reincarnated-as-a-Slime-Visions-of-Coleus-Dub/",
+                                "title": "That Time I Got Reincarnated as a Slime: Visions of Coleus - OVA",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/That-Time-I-Got-Reincarnated-as-a-Slime-Visions-of-Coleus-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Saint-s-Magic-Power-is-Omnipotent-II-Dub/",
+                                "title": "The Saint's Magic Power is Omnipotent II (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Saint-s-Magic-Power-is-Omnipotent-II-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/love-flops-dub.59711/",
+                                "title": "Love Flops (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Love-Flops-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/helck.53960/",
+                                "title": "Helck",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Helck.jpg"
+                            },
+                            {
+                                "url": "/Anime/Paradox-Live-THE-ANIMATION/",
+                                "title": "Paradox Live THE ANIMATION",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Paradox-Live-THE-ANIMATION.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Saint-s-Magic-Power-is-Omnipotent-II/",
+                                "title": "The Saint's Magic Power is Omnipotent II",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Saint-s-Magic-Power-is-Omnipotent-II.jpg"
+                            },
+                            {
                                 "url": "/Anime/Migi-amp-Dali-Dub/",
                                 "title": "Migi&Dali (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg"
@@ -480,41 +515,6 @@
                                 "url": "/Anime/The-IDOLM-STER-Million-Live/",
                                 "title": "The IDOLM@STER Million Live!",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-IDOLM-STER-Million-Live.jpg"
-                            },
-                            {
-                                "url": "/Anime/Soaring-Sky-Pretty-Cure/",
-                                "title": "Soaring Sky! Pretty Cure",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
-                            },
-                            {
-                                "url": "/Anime/Protocol-Rain/",
-                                "title": "Protocol: Rain",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Protocol-Rain.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
-                            },
-                            {
-                                "url": "/Anime/i-shall-survive-using-potions.26519/",
-                                "title": "I Shall Survive Using Potions!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-Shall-Survive-Using-Potions.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Returner-s-Magic-Should-Be-Special/",
-                                "title": "A Returner's Magic Should Be Special",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/A-Returner-s-Magic-Should-Be-Special.jpg"
-                            },
-                            {
-                                "url": "/Anime/Tearmoon-Empire/",
-                                "title": "Tearmoon Empire",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Tearmoon-Empire.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-New-Boss-is-Goofy/",
-                                "title": "My New Boss is Goofy",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/My-New-Boss-is-Goofy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

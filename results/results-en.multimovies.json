@@ -3,13 +3,33 @@
         "name": "Multimovies (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodes/log-horizon-1x4/",
+                                "title": "Log Horizon: 1×4",
+                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/dRYJwfWJtQ2hpkKvTaWC8OQnW8y-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/im-in-love-with-the-villainess-1x10/",
+                                "title": "I’m in Love with the Villainess: 1×10",
+                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/i70E4enuYS10j6GNLLTihrbdyi0-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/im-in-love-with-the-villainess-1x9/",
+                                "title": "I’m in Love with the Villainess: 1×9",
+                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/j72Sc1jlRRRJhZ7ssfSLi6W7bRc-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/shangri-la-frontier-1x7/",
+                                "title": "Shangri-La Frontier: 1×7",
+                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/oi14p4tMFQ5U12SVAmgw84ZH69I-300x170.jpg"
+                            },
                             {
                                 "url": "/episodes/tomo-chan-is-a-girl-1x4/",
                                 "title": "Tomo-chan Is a Girl!: 1×4",
@@ -139,26 +159,6 @@
                                 "url": "/episodes/sweet-home-2x4/",
                                 "title": "Sweet Home: 2×4",
                                 "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/ej9OTwnSjIddirLpWm3qXEKFBTv-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/sweet-home-2x3/",
-                                "title": "Sweet Home: 2×3",
-                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/61f94TiRAcMB6NzvYjrjBblNGqr-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/sweet-home-2x2/",
-                                "title": "Sweet Home: 2×2",
-                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/8iUfVJtKaLUpJVD2UVrM61RNaEQ-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/sweet-home-2x1/",
-                                "title": "Sweet Home: 2×1",
-                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/12/qtGnz1093h0X09iC3O5oZrh23Je-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/jujutsu-kaisen-1x35/",
-                                "title": "Jujutsu Kaisen: 2×11",
-                                "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/10/2r3m0ITrrs5KXZyrvXnr3o1tdLN-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -328,11 +328,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/tomo-chan-is-a-girl/",
-                    "title": "Tomo-chan Is a Girl! (Now in Hindi)",
-                    "description": "Tomboy Tomo couldn’t have picked a more awkward high school crush ’cause it’s on her childhood friend, Junichiro, but he only sees her as one of the guys. Despite her pretty looks and signals, nothing gets through to this meathead! Will Junichiro ever realize Tomo’s into him and see her for the cutesy girl she actually is?!\n\nOriginal title: トモちゃんは女の子！\nFirst air date: Jan. 05, 2023\nLast air date: Mar. 30, 2023\nSeasons: 1\nEpisodes: 25",
-                    "genre": "Animation, Anime, Anime Series, Comedy, Hindi Dub Anime",
-                    "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/07/h9TN2BltJ9Q7FZ5BYGQcHfYfEGp-200x300.jpg",
+                    "url": "/tvshows/log-horizon/",
+                    "title": "Log Horizon [ Hindi Dub ]",
+                    "description": "One day, while playing the online game Elder Tales, 30,000 players suddenly find themselves trapped in another world. There, eight-year veteran gamer Shiroe also gets left behind. The trapped players are still alive, but they remain in combat with the monsters. The players don’t understand what has happened to them, and they flee to Akiba, the largest city in Tokyo, where they are thrown into chaos. Once proud of his loner lifestyle, Shiroe forms a guild called Log Horizon with his old friend Naotsugu, female assassin Akatsuki and others.\n\nOriginal title: ログ・ホライズン\nFirst air date: Oct. 05, 2013\nLast air date: Mar. 31, 2021\nSeasons: 3\nEpisodes: 62",
+                    "genre": "Action & Adventure, Animation, Anime Series, Comedy, Hindi Dub Anime, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://multimovies.live/wp-content/uploads/2023/11/vrCAD2KvtGJPwABIPd4z0gChi4g-204x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -340,15 +340,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/tomo-chan-is-a-girl-1x4/",
-                        "name": "Season 1 x 4 - The School Idol",
-                        "date_upload": 1673481600000,
+                        "url": "/episodes/log-horizon-1x4/",
+                        "name": "Season 1 x 4 - Escape",
+                        "date_upload": 1382745600000,
                         "episode_number": 4.0
                     },
                     {
-                        "url": "/episodes/tomo-chan-is-a-girl-1x3/",
-                        "name": "Season 1 x 3 - Tomo's Skirt",
-                        "date_upload": 1673481600000,
+                        "url": "/episodes/log-horizon-1x3/",
+                        "name": "Season 1 x 3 - The Depths of Palm",
+                        "date_upload": 1382140800000,
                         "episode_number": 3.0
                     }
                 ],

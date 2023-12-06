@@ -252,19 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=1dOBlRR1DBIeKM1&expires=1701894201&ip=F0qQKRWZD19XKxR&token=16juOYdjn5Pp",
-                        "quality": "Streamtape Deutsch Dub",
-                        "videoUrl": "https://streamtape.com/get_video?id=1dOBlRR1DBIeKM1&expires=1701894201&ip=F0qQKRWZD19XKxR&token=16juOYdjn5Pp"
-                    },
-                    {
-                        "url": "https://stevenimaginelittle.com/access/eyJpdiI6IklYdGttOGt3Sm5weUgrb25LcTJEcFE9PSIsInZhbHVlIjoiOXhMMC9qNGN2a0ZJc2JWVHB0ZDE2YWNDNEsyWXFIMjZJT2QwcEs4QWlGUC9FVkQ5c1FUMUd0L0YwVEhUblFoZk9JcnFVL1VucXdFbEJZSjIyVWJZaVE9PSIsIm1hYyI6IjFlNWZmYTM4ZDhjZGY4MzIyMmNiN2ZmNGY4N2FlOWQyOTBmNGZjYTI2MDdhMDJmNjJiZDRiOTI0MDVlYjE2YTMiLCJ0YWciOiIifQ==?o=0",
-                        "quality": "Voe Deutsch Dub",
-                        "videoUrl": "https://delivery-node-dxpdxatbb5gs9ftl.voe-network.net/engine/hls2/01/09977/n5yzvlmlcz8l_,n,.urlset/master.m3u8?t=mVEy6xIydJF5ElN-sgzD53Maa6ydS8TbGvojPVkexcY&s=1701824200&e=14400&f=49885692&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=172.183&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

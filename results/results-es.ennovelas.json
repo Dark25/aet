@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/martin-pescador-capitulo-115/",
+                                "title": "Martin Pescador Capitulo 115",
+                                "description": "",
+                                "thumbnail_url": "https://u.ennovelas.net/wp-content/uploads/2023/07/Martin-Pescador-novela-turca-351x520.webp"
+                            },
+                            {
                                 "url": "/vuelve-a-mi-capitulo-40/",
                                 "title": "Vuelve a Mi Capitulo 40",
                                 "description": "",
@@ -83,12 +89,6 @@
                                 "title": "Generación 98 Capitulo 105",
                                 "description": "",
                                 "thumbnail_url": "https://u.ennovelas.net/wp-content/uploads/2023/06/Generacion-98-jpg.webp"
-                            },
-                            {
-                                "url": "/nadie-como-tu-capitulo-82/",
-                                "title": "Nadie como tú Capitulo 82",
-                                "description": "",
-                                "thumbnail_url": "https://u.ennovelas.net/wp-content/uploads/2023/05/Nadie-como-tu-TV-series-Wikipedia.png"
                             },
                             {
                                 "url": "/series/la-venganza-de-los-ex-vip-temporada-3/",
@@ -282,12 +282,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/vuelve-a-mi-capitulo-40/",
-                    "title": "Vuelve a Mi Capitulo 40",
+                    "url": "/martin-pescador-capitulo-115/",
+                    "title": "Martin Pescador Capitulo 115",
                     "artist": "",
-                    "author": "Amarís Páez",
-                    "description": "Vuelve a Mi Capitulo 40",
-                    "genre": "Acción, dramaticas, Novelas Mexicanas, Romance, Srnovelas",
+                    "author": "Novela Turca",
+                    "description": "Martin Pescador Capitulo 115",
+                    "genre": "dramaticas, Series y Novelas Turcas en Español, Srnovelas",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -295,38 +297,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/vuelve-a-mi-capitulo-40/",
-                        "name": "T1 - E40 - Capitulo 40",
-                        "episode_number": 40.0
+                        "url": "/martin-pescador-capitulo-115/",
+                        "name": "Capitulo 115",
+                        "episode_number": 115.0
                     },
                     {
-                        "url": "/vuelve-a-mi-capitulo-39/",
-                        "name": "T1 - E39 - Capitulo 39",
-                        "episode_number": 39.0
+                        "url": "/martin-pescador-capitulo-114/",
+                        "name": "Capitulo 114",
+                        "episode_number": 114.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m180.uqload.io/3rfkugacrrw2q4drdkb7x5v2lv7nxelwvvpnbleq6so4wyrvnc6rgi4slktq/v.mp4",
-                        "quality": "Uqload Uqload",
-                        "videoUrl": "https://m180.uqload.io/3rfkugacrrw2q4drdkb7x5v2lv7nxelwvvpnbleq6so4wyrvnc6rgi4slktq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://vg-39p-33.westrons.space/hls/xqx2oxljmzokjiqbtecslpiw4sriwsihmbbrcwh2yi4ix526ekgbv5umolfa/index-v1-a1.m3u8",
-                        "quality": " - 720p",
-                        "videoUrl": "https://vg-39p-33.westrons.space/hls/xqx2oxljmzokjiqbtecslpiw4sriwsihmbbrcwh2yi4ix526ekgbv5umolfa/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

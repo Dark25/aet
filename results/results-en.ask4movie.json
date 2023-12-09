@@ -3,64 +3,8 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/channel/the-artful-dodger-2023/",
-                                "title": "The Artful Dodger (2023)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Artful-Dodger-2023-Thumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/obliterated-2023/",
-                                "title": "Obliterated (2023 – )",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Obliterated-2023-Tumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/the-curse-2023/",
-                                "title": "The Curse (2023 – )",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Curse-2023-THumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/a-murder-at-the-end-of-the-world-2023/",
-                                "title": "A Murder at the End ...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Thumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/lawmen-bass-reeves-2023/",
-                                "title": "Lawmen: Bass Reeves ...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Lawmen-Bass-Reeves-2023-thumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/fellow-travelers-2023/",
-                                "title": "Fellow Travelers (20...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Fellow-Travelers-2023-THumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/monarch-legacy-of-monsters-2023/",
-                                "title": "Monarch: Legacy of M...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-THumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/for-all-mankind-2019-7/",
-                                "title": "For All Mankind (201...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/For-All-Mankind-thumb-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/lessons-in-chemistry-2023/",
-                                "title": "Lessons in Chemistry...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Lessons-in-Chemistry-2023-Thumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/a-nearly-normal-family-aka-en-helt-vanlig-familj-2023/",
-                                "title": "A Nearly Normal Fami...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Nearly-Normal-Family-2023-Thumbnail-150x150.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -177,6 +121,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/leave-the-world-behind-2023/",
+                                "title": "Leave the World Behind (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/leave-the-world-behind-ending-explained-6565945d23a6e29061209-1200.jpg"
+                            },
+                            {
                                 "url": "/april-and-the-extraordinary-world-2015/",
                                 "title": "April and the Extraordinary World (2015)",
                                 "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/April-and-the-Extraordinary-World-2015.jpg"
@@ -270,11 +219,6 @@
                                 "url": "/running-with-the-devil-the-wild-world-of-john-mcafee-2022-1/",
                                 "title": "Running with the Devil: The Wild World of John McAfee (2022)",
                                 "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/09/Running-with-the-Devil-The-Wild-World-of-John-McAfee-2022-cover.jpg"
-                            },
-                            {
-                                "url": "/i-dont-feel-at-home-in-this-world-anymore-2017-1/",
-                                "title": "I Don’t Feel at Home in This World Anymore (2017)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/08/I-dont-feel-at-home-cover.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -284,27 +228,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/channel/the-artful-dodger-2023/",
-                    "description": "Set in 1850s Australia the series follows adult double life of Charles Dickens’ famous prince of thieves Dodger now a surgeon, but who can’t shake his predilection for crime.",
-                    "genre": "Crime, Drama, History",
+                    "url": "/a-separation-2011/",
+                    "description": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer’s disease.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://vidsrc.to/embed/tv/tt20285780/1/8",
-                        "name": "Season 1 Ep. 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "https://vidsrc.to/embed/tv/tt20285780/1/7",
-                        "name": "Season 1 Ep. 7",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",

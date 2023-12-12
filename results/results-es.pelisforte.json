@@ -231,8 +231,132 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://5ra4q4nttx.sw-cdnstream.com/hls2/01/02488/nvoliq0c2e1h_x/index-v1-a1.m3u8?t=0WNl2eS-eHjPlWiEfjc6r-_tpXMik3sOM7O5nsxmwwY&s=1702361825&e=129600&f=12440486&srv=lrphxnueqxzy&i=0.0&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "quality": "[LAT]StreamWish:856p",
+                        "videoUrl": "https://5ra4q4nttx.sw-cdnstream.com/hls2/01/02488/nvoliq0c2e1h_x/index-v1-a1.m3u8?t=0WNl2eS-eHjPlWiEfjc6r-_tpXMik3sOM7O5nsxmwwY&s=1702361825&e=129600&f=12440486&srv=lrphxnueqxzy&i=0.0&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/nvoliq0c2e1h"
+                        }
+                    },
+                    {
+                        "url": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=5&sig=pSAIVVGNvB8&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952",
+                        "quality": "[LAT] Okru:1080p",
+                        "videoUrl": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=5&sig=pSAIVVGNvB8&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952"
+                    },
+                    {
+                        "url": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=3&sig=MVKJb6liAAI&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952",
+                        "quality": "[LAT] Okru:720p",
+                        "videoUrl": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=3&sig=MVKJb6liAAI&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952"
+                    },
+                    {
+                        "url": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=2&sig=MWbsb1CkKYE&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952",
+                        "quality": "[LAT] Okru:480p",
+                        "videoUrl": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=2&sig=MWbsb1CkKYE&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952"
+                    },
+                    {
+                        "url": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=1&sig=C4oEN1cfu5I&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952",
+                        "quality": "[LAT] Okru:360p",
+                        "videoUrl": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=1&sig=C4oEN1cfu5I&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952"
+                    },
+                    {
+                        "url": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=0&sig=nRB4nf7xRJ8&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952",
+                        "quality": "[LAT] Okru:240p",
+                        "videoUrl": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=0&sig=nRB4nf7xRJ8&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952"
+                    },
+                    {
+                        "url": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=4&sig=RG7x3daECIA&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952",
+                        "quality": "[LAT] Okru:144p",
+                        "videoUrl": "https://vd461.mycdn.me/?expires=1702448224919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.78&type=4&sig=RG7x3daECIA&ct=0&urls=45.136.22.78&clientType=0&zs=43&id=6534512445952"
+                    },
+                    {
+                        "url": "https://9hgr7iplsz.sw-cdnstream.com/hls2/01/02488/bkz9cdc9szyu_x/index-v1-a1.m3u8?t=3uHUwWCxSloAQ3WZDbnEWDwjEapN4144mDDnW42qudU&s=1702361832&e=129600&f=12440878&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "quality": "[SUB]StreamWish:856p",
+                        "videoUrl": "https://9hgr7iplsz.sw-cdnstream.com/hls2/01/02488/bkz9cdc9szyu_x/index-v1-a1.m3u8?t=3uHUwWCxSloAQ3WZDbnEWDwjEapN4144mDDnW42qudU&s=1702361832&e=129600&f=12440878&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/bkz9cdc9szyu"
+                        }
+                    },
+                    {
+                        "url": "https://nt4jylweah45.sw-cdnstream.com/hls2/01/02488/q3m0mtqurcp0_x/index-v1-a1.m3u8?t=gFMHYoUUz_cYzb1wVfPXn-IfCwWPwlnGjoQw4wndc14&s=1702361829&e=129600&f=12440051&srv=iuakcvdpfyjg&i=0.4&sp=500&p1=iuakcvdpfyjg&p2=iuakcvdpfyjg&asn=8075",
+                        "quality": "[CAST]StreamWish:800p",
+                        "videoUrl": "https://nt4jylweah45.sw-cdnstream.com/hls2/01/02488/q3m0mtqurcp0_x/index-v1-a1.m3u8?t=gFMHYoUUz_cYzb1wVfPXn-IfCwWPwlnGjoQw4wndc14&s=1702361829&e=129600&f=12440051&srv=iuakcvdpfyjg&i=0.4&sp=500&p1=iuakcvdpfyjg&p2=iuakcvdpfyjg&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/q3m0mtqurcp0"
+                        }
+                    },
+                    {
+                        "url": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=5&sig=HwMk2BghRuo&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976",
+                        "quality": "[SUB] Okru:1080p",
+                        "videoUrl": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=5&sig=HwMk2BghRuo&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976"
+                    },
+                    {
+                        "url": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=5&sig=hiWJ2CmkRcQ&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728",
+                        "quality": "[CAST] Okru:1080p",
+                        "videoUrl": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=5&sig=hiWJ2CmkRcQ&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728"
+                    },
+                    {
+                        "url": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=3&sig=Qfw2M50iVEs&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976",
+                        "quality": "[SUB] Okru:720p",
+                        "videoUrl": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=3&sig=Qfw2M50iVEs&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976"
+                    },
+                    {
+                        "url": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=3&sig=QTRyxX3AF0Q&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728",
+                        "quality": "[CAST] Okru:720p",
+                        "videoUrl": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=3&sig=QTRyxX3AF0Q&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728"
+                    },
+                    {
+                        "url": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=2&sig=mghlmhyeWI8&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976",
+                        "quality": "[SUB] Okru:480p",
+                        "videoUrl": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=2&sig=mghlmhyeWI8&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976"
+                    },
+                    {
+                        "url": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=2&sig=aWLO93fYP5o&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728",
+                        "quality": "[CAST] Okru:480p",
+                        "videoUrl": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=2&sig=aWLO93fYP5o&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728"
+                    },
+                    {
+                        "url": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=1&sig=_TLG2YR2mAk&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976",
+                        "quality": "[SUB] Okru:360p",
+                        "videoUrl": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=1&sig=_TLG2YR2mAk&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976"
+                    },
+                    {
+                        "url": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=1&sig=RWcmuYZPGCw&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728",
+                        "quality": "[CAST] Okru:360p",
+                        "videoUrl": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=1&sig=RWcmuYZPGCw&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728"
+                    },
+                    {
+                        "url": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=0&sig=4Wcb-v-qEgg&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976",
+                        "quality": "[SUB] Okru:240p",
+                        "videoUrl": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=0&sig=4Wcb-v-qEgg&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976"
+                    },
+                    {
+                        "url": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=0&sig=FEeLjUD8qUA&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728",
+                        "quality": "[CAST] Okru:240p",
+                        "videoUrl": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=0&sig=FEeLjUD8qUA&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728"
+                    },
+                    {
+                        "url": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=4&sig=V3fns6AJOPs&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976",
+                        "quality": "[SUB] Okru:144p",
+                        "videoUrl": "https://vd406.mycdn.me/?expires=1702448231919&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=45.136.20.39&type=4&sig=V3fns6AJOPs&ct=0&urls=185.226.53.13&clientType=0&zs=43&id=6534493374976"
+                    },
+                    {
+                        "url": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=4&sig=NRXVjVkEcrU&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728",
+                        "quality": "[CAST] Okru:144p",
+                        "videoUrl": "https://vd453.mycdn.me/?expires=1702448228648&srcIp=20.81.159.132&pr=10&srcAg=GECKO&ms=185.226.53.37&type=4&sig=NRXVjVkEcrU&ct=0&urls=185.226.52.56&clientType=0&zs=43&id=6534502025728"
+                    }
+                ],
+                "passed": true
             }
         }
     }

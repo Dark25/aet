@@ -287,31 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv07.dropload.io/hls2/01/00095/et15otm0yvuv_h/https://srv07.dropload.io/hls2/01/00095/et15otm0yvuv_h/index-v1-a1.m3u8?t=b-14eVd8aTegAUdzUNKO2gzd8opvEKWQalPqFL6H65Q&s=1702534572&e=21600&f=475916&i=20.109&sp=0",
-                        "quality": "Dropload:320p ",
-                        "videoUrl": "https://srv07.dropload.io/hls2/01/00095/et15otm0yvuv_h/https://srv07.dropload.io/hls2/01/00095/et15otm0yvuv_h/index-v1-a1.m3u8?t=b-14eVd8aTegAUdzUNKO2gzd8opvEKWQalPqFL6H65Q&s=1702534572&e=21600&f=475916&i=20.109&sp=0",
-                        "headers": {
-                            "origin": "https://dropload.io",
-                            "referer": "https://dropload.io/"
-                        }
-                    },
-                    {
-                        "url": "https://s-delivery39.mxdcontent.net/v/af0a4448be99a0a59420e0284ca0d268.mp4?s=64C5fk1nYdCdr32Dj9taRg&e=1702556174&_t=1702536107",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery39.mxdcontent.net/v/af0a4448be99a0a59420e0284ca0d268.mp4?s=64C5fk1nYdCdr32Dj9taRg&e=1702556174&_t=1702536107",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=mPoara8jZYFb8m0&expires=1702604574&ip=FROsD0AAKxSHDN&token=Y0OW3Rz73Obl",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=mPoara8jZYFb8m0&expires=1702604574&ip=FROsD0AAKxSHDN&token=Y0OW3Rz73Obl"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

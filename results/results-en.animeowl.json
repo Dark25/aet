@@ -511,47 +511,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyNjA4MzY4MTc4LCJpcCI6IjIwLjE3Mi40My45OSIsImlhdCI6MTcwMjYwODM2OH0.CDXECN-Tg0thkINVRKb6u6-FCQqD8_B6lNY7_bNt-II&service=1",
-                        "quality": "Luffy - Deafult - Sub",
-                        "videoUrl": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyNjA4MzY4MTc4LCJpcCI6IjIwLjE3Mi40My45OSIsImlhdCI6MTcwMjYwODM2OH0.CDXECN-Tg0thkINVRKb6u6-FCQqD8_B6lNY7_bNt-II&service=1",
-                        "headers": {
-                            "host": "monkey-d-luffy.site",
-                            "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "accept-language": "en-US,en;q=0.5",
-                            "accept-encoding": "br,gzip",
-                            "referer": "https://portablegaming.co/",
-                            "cache-control": "max-age=600",
-                            "sec-fetch-dest": "video",
-                            "sec-fetch-mode": "no-cors",
-                            "sec-fetch-site": "cross-site",
-                            "range": "bytes=0-",
-                            "connection": "keep-alive"
-                        }
-                    },
-                    {
-                        "url": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyNjA4MzY4MTc4LCJpcCI6IjIwLjE3Mi40My45OSIsImlhdCI6MTcwMjYwODM2OH0.CDXECN-Tg0thkINVRKb6u6-FCQqD8_B6lNY7_bNt-II&service=2",
-                        "quality": "Kaido - Deafult - Sub",
-                        "videoUrl": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyNjA4MzY4MTc4LCJpcCI6IjIwLjE3Mi40My45OSIsImlhdCI6MTcwMjYwODM2OH0.CDXECN-Tg0thkINVRKb6u6-FCQqD8_B6lNY7_bNt-II&service=2",
-                        "headers": {
-                            "host": "monkey-d-luffy.site",
-                            "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "accept-language": "en-US,en;q=0.5",
-                            "accept-encoding": "br,gzip",
-                            "referer": "https://portablegaming.co/",
-                            "cache-control": "max-age=600",
-                            "sec-fetch-dest": "video",
-                            "sec-fetch-mode": "no-cors",
-                            "sec-fetch-site": "cross-site",
-                            "range": "bytes=0-",
-                            "connection": "keep-alive"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

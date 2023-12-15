@@ -306,7 +306,7 @@
                 "result": {
                     "url": "/anime/1709/pokemon_mewtwo_ware_wa_koko_ni_ari",
                     "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
-                    "description": "O líder da Equipe Rocket, Giovanni, encontrou Mewtwo em uma área remota da região de Johto. Enquanto Giovanni tenta recapturar Mewtwo, Ash e seus amigos são sequestrados por Domino, um novo membro da Equipe Rocket, enquanto tentam resgatar Pikachu de Jessie e James. Os Pokémon Clone também são capturados e usados como isca para Mewtwo. A situação então se torna uma batalha entre as vontades de Mewtwo e Giovanni; e Mewtwo também tenta descobrir se ele e os clones têm um propósito na vida, mesmo sendo produtos da ciência. (Fonte: ANN)\n\nTítulos Alternativos: Pokémon: O Retorno de Mewtwo, Pocket Monsters: Myuutsu! I Exist Here, Pokémon: Mewtwo Returns, ポケットモンスター ミュウツー! 我ハココニ在リ\nTipo: Especial\nAno: 2000\n",
+                    "description": "O líder da Equipe Rocket, Giovanni, encontrou Mewtwo em uma área remota da região de Johto. Enquanto Giovanni tenta recapturar Mewtwo, Ash e seus amigos são sequestrados por Domino, um novo membro da Equipe Rocket, enquanto tentam resgatar Pikachu de Jessie e James. Os Pokémon Clone também são capturados e usados como isca para Mewtwo. A situação então se torna uma batalha entre as vontades de Mewtwo e Giovanni; e Mewtwo também tenta descobrir se ele e os clones têm um propósito na vida, mesmo sendo produtos da ciência. (Fonte: ANN)\n\nTítulos Alternativos: Pokémon: O Retorno de Mewtwo, Pocket Monsters: Myuutsu! I Exist Here, Pokémon: Mewtwo Returns, ポケットモンスター ミュウツー! 我ハココニ在リ\nTipo: Especial\nAno: 2000\nMídias: 3\n",
                     "genre": "Ação, Aventura, Comédia, Drama, Fantasia, Infantil, Inverno de 2000",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -316,8 +316,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/1709/pokemon_mewtwo_ware_wa_koko_ni_ari/episodio/3/dublado",
+                        "name": "Episódio 3",
+                        "episode_number": 3.0,
+                        "scanlator": "dublado"
+                    },
+                    {
+                        "url": "/anime/1709/pokemon_mewtwo_ware_wa_koko_ni_ari/episodio/3/legendado",
+                        "name": "Episódio 3",
+                        "episode_number": 3.0,
+                        "scanlator": "legendado"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

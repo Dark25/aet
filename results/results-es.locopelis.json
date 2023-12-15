@@ -137,6 +137,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/19487/una-navidad-en-montana.html",
+                                "title": "Una Navidad en Montan",
+                                "description": "Merry es dueña de un rancho y no ha tenido suerte en el amor, pero eso cambia cuando un padre soltero y sus dos hijos reservan su rancho durante la semana de Navidad. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19487.jpg"
+                            },
+                            {
+                                "url": "/pelicula/19486/un-blanco-facil.html",
+                                "title": "Un blanco fácil",
+                                "description": "La historia real de Maureen Kearney, la principal representante sindical de una potencia nuclear multinacional francesa. Se convirtió en denunciante, denunciando acuerdos de alto secreto que sacudieron el sector nuclear francés. Sola contra el mundo, luchó con uñas y dientes contra ministros del...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19486.jpg"
+                            },
+                            {
+                                "url": "/pelicula/19485/nuestra-pequena-gran-boda.html",
+                                "title": "Nuestra pequeña gran",
+                                "description": "Lou y Max, una pareja joven y feliz, tienen tantas ganas de adoptar un bebé que han hecho todo lo posible por crear un perfil perfecto. Han mentido sobre sus ingresos, su familia y su situación. Ahora sólo les queda casarse, en la boda más sencilla, dulce y pequeña posible. Pero el padrino y la...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19485.jpg"
+                            },
+                            {
                                 "url": "/pelicula/19484/12-horas-para-el-fin-del-mundo.html",
                                 "title": "12 horas para el fin",
                                 "description": "Un padre que trabaja en una estación espacial tiene que salvar a su hija de 15 años después de que una lluvia de meteoritos golpee la Tierra, usando solo teléfonos satelitales y cámaras....",
@@ -237,24 +255,6 @@
                                 "title": "Descifrando a Susie",
                                 "description": "Una estudiante universitaria aprovecha la oportunidad para reforzar su popularidad y su discreto podcast sobre crímenes reales al resolver la desaparición de un compañero de clase....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19468.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19467/asedio.html",
-                                "title": "Asedio",
-                                "description": "¿Qué es ser español? Dani (Natalia de Molina) lo tiene muy claro. En su caso es servir a su país como antidisturbios, honrar su bandera y hacer cumplir la ley. Siempre pensó que ser policía era una forma de proteger a la gente, de hacer justicia. Pero durante un desahucio en un barrio conflict...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19467.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19466/sobreviviendo-mis-xv.html",
-                                "title": "Sobreviviendo mis XV",
-                                "description": "¡Los XV, una edad mágica!… excepto cuando tu familia te quiere meter en un vestido ampón y ponerte a bailar vals frente a todo el mundo, que es justo lo que le pasa a Danae muy poco después de cambiarse a una escuela privada muy modosita. Ahora Danae tiene que arreglárselas para balancear...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19466.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19465/los-archies.html",
-                                "title": "Los Archies",
-                                "description": "Ambientado en la década de 1960 en la India, en el pueblo de montaña ficticio de Riverdale, Los Archies es un musical sobre hacerse adulto protagonizado por los adolescentes más populares del pueblo, Archie, Betty, Veronica, Jughead, Reggie, Ethel y Dilton. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19465.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dood.ws/e/aq6kuo21b1bo",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgihqbvvhp4z3q/4lg7lqgxfi~tGhdk7IDQt?token=faa3a98f24ktc5woxwz3px7v&expiry=1702609380908",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

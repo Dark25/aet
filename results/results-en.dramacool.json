@@ -197,6 +197,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/sahara-sensei-to-toki-kun-2023-episode-3.html",
+                                "title": "Sahara Sensei to Toki-kun (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/sahara-sensei-to-toki-kun-2023-1701387102.png"
+                            },
+                            {
+                                "url": "/deaths-game-2023-episode-4.html",
+                                "title": "Death's Game (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/deaths-game-1701406703.png"
+                            },
+                            {
                                 "url": "/the-justice-2023-episode-42.html",
                                 "title": "The Justice (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/the-justice-2023-1699345378.png"
@@ -209,17 +219,12 @@
                             {
                                 "url": "/his-and-her-secrets-2023-episode-24.html",
                                 "title": "His and Her Secrets (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/his-and-her-secret-2023-1702602645.png"
+                                "thumbnail_url": "https://imagecdn.me/cover/his-and-her-secret-2023-1702618715.png"
                             },
                             {
                                 "url": "/dramatic-self-help-strategy-2023-episode-14.html",
                                 "title": "Dramatic Self-Help Strategy (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/dramatic-self-help-strategy-1696578553.png"
-                            },
-                            {
-                                "url": "/sahara-sensei-to-toki-kun-2023-episode-3.html",
-                                "title": "Sahara Sensei to Toki-kun (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/sahara-sensei-to-toki-kun-2023-1701387102.png"
                             },
                             {
                                 "url": "/let-them-dance-2023-episode-4.html",
@@ -370,11 +375,6 @@
                                 "url": "/my-home-hero-2023-episode-9.html",
                                 "title": "My Home Hero (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/my-home-hero-1698051254.png"
-                            },
-                            {
-                                "url": "/kotatsu-ga-nai-ie-2023-episode-9.html",
-                                "title": "Kotatsu ga Nai Ie (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/kotatsu-ga-nai-ie-1696496725.png"
                             }
                         ],
                         "hasNextPage": true
@@ -505,12 +505,29 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/deaths-game-2023-episode-4.html",
+                        "name": "SUB: Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/deaths-game-2023-episode-3.html",
+                        "name": "SUB: Episode 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Lay3OGPVVguR0O9&expires=1702690980&ip=FROsD0AAKxSHDN&token=Y3CscrHapnWZ",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Lay3OGPVVguR0O9&expires=1702690980&ip=FROsD0AAKxSHDN&token=Y3CscrHapnWZ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

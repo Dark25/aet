@@ -336,12 +336,57 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/psycho-pass-movie-providence-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=jUKG0cz6pLk&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=jUKG0cz6pLk&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=-mpnLiaREsw&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=-mpnLiaREsw&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=y0Pr9zN9Mvk&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=y0Pr9zN9Mvk&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=jRpIKnfAZLw&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=jRpIKnfAZLw&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=fJrCMesz15g&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=fJrCMesz15g&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=ddoFtwF6qGE&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702707755790&srcIp=20.81.46.144&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=ddoFtwF6qGE&ct=0&urls=45.136.20.38%3B45.136.22.45&clientType=0&zs=43&id=5510438652447"
+                    },
+                    {
+                        "url": "https://m150.uqload.io/3rfkvouisnw2q4drdj47v47vdvmnxgsxnfdrw6lbmrinw52mxboopac73vla/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m150.uqload.io/3rfkvouisnw2q4drdj47v47vdvmnxgsxnfdrw6lbmrinw52mxboopac73vla/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

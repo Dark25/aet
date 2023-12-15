@@ -3,11 +3,11 @@
         "name": "Jkanime (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
@@ -141,9 +141,9 @@
                         "videoUrl": "null"
                     },
                     {
-                        "url": "https://jkanime.net/stream/jkmedia/dfd079e3f84300e65dea6b55d0c8e158/a28e5f284a491ba9f012bd30c66f58ee/1/e8d9ef6f799f7c377cc6e2522ef20892/",
+                        "url": "https://jkanime.net/stream/jkmedia/dfd079e3f84300e65dea6b55d0c8e158/a28e5f284a491ba9f012bd30c66f58ee/1/1cdb5dc660a9dd6e0280ac39ba706302/",
                         "quality": "[JAP] Xtreme S",
-                        "videoUrl": "https://jkanime.net/stream/jkmedia/dfd079e3f84300e65dea6b55d0c8e158/a28e5f284a491ba9f012bd30c66f58ee/1/e8d9ef6f799f7c377cc6e2522ef20892/"
+                        "videoUrl": "https://jkanime.net/stream/jkmedia/dfd079e3f84300e65dea6b55d0c8e158/a28e5f284a491ba9f012bd30c66f58ee/1/1cdb5dc660a9dd6e0280ac39ba706302/"
                     }
                 ],
                 "passed": true

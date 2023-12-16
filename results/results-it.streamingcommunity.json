@@ -134,7 +134,7 @@
                             {
                                 "url": "7082-my-demon",
                                 "title": "My Demon",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fdcbc802-78e3-4f69-b6d4-29a60a2e4d6d.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c651149-7043-48e8-a75b-4311b73d6cfa.webp"
                             },
                             {
                                 "url": "7014-il-mondo-dietro-di-te",
@@ -319,7 +319,7 @@
                             {
                                 "url": "7082-my-demon",
                                 "title": "My Demon",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fdcbc802-78e3-4f69-b6d4-29a60a2e4d6d.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c651149-7043-48e8-a75b-4311b73d6cfa.webp"
                             },
                             {
                                 "url": "7081-daisy-jones-and-the-six",
@@ -329,7 +329,7 @@
                             {
                                 "url": "7080-meglio-di-noi",
                                 "title": "Meglio di noi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bd448fba-25a8-4b65-b6ac-130888153ee9.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/81adf603-cbb2-4ca0-b6ff-dadb6a1c0016.webp"
                             },
                             {
                                 "url": "7079-familia",
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-18009707463476235948/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-18009707463476235948/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-18009707463476235948/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-18009707463476235948/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

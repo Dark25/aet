@@ -67,6 +67,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/megumi-no-daigo-kyuukoku-no-orange-episodio-12/",
+                                "title": "Megumi no Daigo: Kyuukoku no Orange – Episódio 12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/kCkCq22yOwHbjdoutVUZyYvaSYe.jpg"
+                            },
+                            {
                                 "url": "/episodio/spirits-in-chinese-brushes-episodio-7/",
                                 "title": "Spirits in Chinese Brushes – Episódio 7",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/mJH07DPBkfYUqxRDYw3K3u9Ktlk.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/episodio/helck-episodio-23/",
                                 "title": "Helck – Episódio 23",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/c7VbsLqZtYpYE2ooR5HP8zLjM34.jpg"
-                            },
-                            {
-                                "url": "/episodio/seijo-no-maryoku-wa-bannou-desu-2-episodio-11/",
-                                "title": "Seijo no Maryoku wa Bannou desu 2 – Episódio 11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/rF96uiGYKyzks1dEsCuETgVGmwS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -349,8 +349,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04429/71hjywmxxiv3_h/index-v1-a1.m3u8?t=ZFJdSBe4MQtkqvOsvC6EmKhfiMKDBvMCwbe-BVW0uHs&s=1702729335&e=43200&f=22149626&srv=42&asn=10310&sp=2000",
+                        "quality": "Filemoon - 720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04429/71hjywmxxiv3_h/index-v1-a1.m3u8?t=ZFJdSBe4MQtkqvOsvC6EmKhfiMKDBvMCwbe-BVW0uHs&s=1702729335&e=43200&f=22149626&srv=42&asn=10310&sp=2000",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/71hjywmxxiv3?poster=https://image.tmdb.org/t/p/w1280/iW2MUNhIwJr8YM5qdpNrc2Cdy8V.jpg",
+                            "Origin": "https://filemoon.sx",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

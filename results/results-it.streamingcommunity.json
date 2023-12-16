@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7083-lesorcismo-di-hannah-grace",
+                                "title": "L'esorcismo di Hannah Grace",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/39458512-405f-4779-aad4-4ae066eed382.webp"
+                            },
+                            {
                                 "url": "7082-my-demon",
                                 "title": "My Demon",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c651149-7043-48e8-a75b-4311b73d6cfa.webp"
@@ -610,11 +615,6 @@
                                 "url": "7009-theater-camp-unestate-a-tutto-volume",
                                 "title": "Theater Camp - Un'estate a tutto volume",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/0b341165-287e-4f94-b918-a8298aa7a585.webp"
-                            },
-                            {
-                                "url": "7008-lira-di-becky",
-                                "title": "L'ira di Becky",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ff8d32be-196f-4edf-adfc-5111560ec679.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-18009707463476235948/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-18009707463476235948/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-18009707463476235948/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-18009707463476235948/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-15930126254562605734/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-15930126254562605734/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-15930126254562605734/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-15930126254562605734/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

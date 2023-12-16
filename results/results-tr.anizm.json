@@ -3,13 +3,43 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/atarashii-joushi-wa-do-tennen",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180860001700400678.webp"
+                            },
+                            {
+                                "url": "/atarashii-joushi-wa-do-tennen",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180860001700400678.webp"
+                            },
+                            {
+                                "url": "/atarashii-joushi-wa-do-tennen",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180860001700400678.webp"
+                            },
+                            {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
+                            {
+                                "url": "/boushoku-no-berserk",
+                                "title": "Boushoku no Berserk",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180760001698961141.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180620001697365981.webp"
+                            },
                             {
                                 "url": "/kawaisugi-crisis",
                                 "title": "Kawaisugi Crisis",
@@ -69,36 +99,6 @@
                                 "url": "/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
                                 "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180460001696532101.webp"
-                            },
-                            {
-                                "url": "/onmyouji-13-bolum-final",
-                                "title": "Onmyouji",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180940001702480862.webp"
-                            },
-                            {
-                                "url": "/16bit-sensation-another-layer",
-                                "title": "16bit Sensation: Another Layer",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180930001701874142.webp"
-                            },
-                            {
-                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179840001688805541.webp"
-                            },
-                            {
-                                "url": "/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
-                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180850001700128507.webp"
-                            },
-                            {
-                                "url": "/hametsu-no-oukoku",
-                                "title": "Hametsu no Oukoku",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180510001696681741.webp"
-                            },
-                            {
-                                "url": "/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
-                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180590001697106061.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -268,12 +268,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/kawaisugi-crisis",
-                    "title": "Kawaisugi Crisis",
-                    "artist": "SynergySP",
-                    "description": "Liza Luna ilk bakışında Dünya'yı yok etmeye karar vermiş bir uzaylıdır. Fakat bu gezegenin güzel şeylerle dolu olması yüzünden önce bir kontrol etmese yazık olur. Bu şekilde, Dünya yok edilmekten kurtulur ve uzaylımız bir gezintiye çıkar. Çok geçmeden, Liza kendini aklından bile geçiremeyeceği yaratıklarla dolu bir kedi kafesinde bulur.\nDiğer adlar: Too Cute Crisis,\nJaponca İsmi: カワイスギクライシス\nStüdyo: SynergySP",
-                    "genre": "Komedi, Bilim-Kurgu",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/179520001681712341l.webp",
+                    "url": "/atarashii-joushi-wa-do-tennen",
+                    "title": "Atarashii Joushi wa Do Tennen",
+                    "artist": "A-1 Pictures",
+                    "description": "26 yaşındaki ofis çalışanı Momose, patronundan gördüğü zorbalıktan dolayı yeni bir iş yerine transfer olur. Yeni patronu Shirasaki'den de aynı muameleyi görüp perişan bir iş hayatı geçireceğinden endişelenen Momose, bu endişesini gizlemeye çalışır. Ancak Momose'nin korktuğunun aksine, Shirasaki doğuştan gelen aklı bir karış havada bir kişiliğe sahiptir. Yeni patronunun bu özelliğini gören Momose'nin tüm endişeleri kaybolur ve kendisi için çok daha rahat aynı zamanda eğlenceli geçecek yeni iş hayatına adımını atar.\nDiğer adlar: My New Boss Is Goofy,\nJaponca İsmi: 新しい上司はど天然\nStüdyo: A-1 Pictures",
+                    "genre": "Komedi",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/180860001700400678l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -281,14 +281,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kawaisugi-crisis-3-bolum",
-                        "name": "3. Bölüm",
-                        "episode_number": 3.0
+                        "url": "/atarashii-joushi-wa-do-tennen-6-bolum",
+                        "name": "6. Bölüm",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/kawaisugi-crisis-2-bolum",
-                        "name": "2. Bölüm",
-                        "episode_number": 2.0
+                        "url": "/atarashii-joushi-wa-do-tennen-5-bolum",
+                        "name": "5. Bölüm",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -296,161 +296,92 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/yytz7we3lz7f",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-wbkfh31bomnlippf.voe-network.net/engine/hls2/01/10098/yytz7we3lz7f_,n,.urlset/master.m3u8?t=HjhAuSwPVA4hkK3fX01civupc9_pVubb9lMcS5z2ah8&s=1702729466&e=14400&f=50492629&node=delivery-node-wbkfh31bomnlippf.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=9h2Wh4aJfql1yTVo1sMkwASKL0w0lXlZbESvRruvc1s%2B0kGnAKQ4rFlLqbYb6Kh2rfPExfJ8RzNLGNNOjWDp6Ls0wW6uSeUdmVgajp4NVNF1wPqnqwi5my%2BkZmUqZ0eeb6MHUIUXvVWq9IrpvwQk1em3bGGN1LtYWUadpYGGiaggKvsmUHvgNobI1vXQpBgcI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
+                        "quality": "[HousePandoras] GDRIVE 720p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=9h2Wh4aJfql1yTVo1sMkwASKL0w0lXlZbESvRruvc1s%2B0kGnAKQ4rFlLqbYb6Kh2rfPExfJ8RzNLGNNOjWDp6Ls0wW6uSeUdmVgajp4NVNF1wPqnqwi5my%2BkZmUqZ0eeb6MHUIUXvVWq9IrpvwQk1em3bGGN1LtYWUadpYGGiaggKvsmUHvgNobI1vXQpBgcI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
                     },
                     {
-                        "url": "https://voe.sx/e/whnfp10cozjq",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-wbkfh31bomnlippf.voe-network.net/engine/hls2/01/10098/yytz7we3lz7f_,n,.urlset/master.m3u8?t=CNnN-3xb8Kf82ubvENDRJ313-F-n_awAPYl1M-SSlJI&s=1702729464&e=14400&f=50492651&node=delivery-node-wbkfh31bomnlippf.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "url": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=3&sig=sguGsE2cU5U&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420",
+                        "quality": "[HousePandoras] Okru:720p",
+                        "videoUrl": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=3&sig=sguGsE2cU5U&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420"
                     },
                     {
-                        "url": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=3&sig=_M7_KOQHB5U&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029",
-                        "quality": "[Holy] Okru:720p",
-                        "videoUrl": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=3&sig=_M7_KOQHB5U&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029"
-                    },
-                    {
-                        "url": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=3&sig=X9bLTTjx6-c&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069",
-                        "quality": "[Holy] Okru:720p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=3&sig=X9bLTTjx6-c&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/UERUVkZZTDNVdDI1MFN6T09Dc1pwc1FJVDIvaHFJZGpPN09NMGtheGgrK2l1OXFsU095VXo5Rll6ak1BaFNXZDdmekhRRytyd2h1UHZFaGpSOGllUFFGWGlTUVJ5TUM2ZzV3REQ3aitRUFR2akdTam1sU1BmRUZoWXUvNFRsYWxud0kwSXJ3Mkt0WkRjWnU5dmM4L0FOeDNMaXJ0SVU2ZnpmR0NMMCthQ2w0SkFNV2RYWWU0a1dUOENPeFdGVGVTZmp3a08zWGtFejA1dmpaMUVudU9RRWVFUlhyNzVyWlYvQzdXNkpheTVGdzhjS1FJU2pySWZWd1QyaXRPK01hNEtnbG9PVUJrbmVtNnRWem1xVkR3OXRuR01hMFBpVVBsQUpQVUxzdGo0eFk9",
-                        "quality": "[Holy] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/UERUVkZZTDNVdDI1MFN6T09Dc1pwc1FJVDIvaHFJZGpPN09NMGtheGgrK2l1OXFsU095VXo5Rll6ak1BaFNXZDdmekhRRytyd2h1UHZFaGpSOGllUFFGWGlTUVJ5TUM2ZzV3REQ3aitRUFR2akdTam1sU1BmRUZoWXUvNFRsYWxud0kwSXJ3Mkt0WkRjWnU5dmM4L0FOeDNMaXJ0SVU2ZnpmR0NMMCthQ2w0SkFNV2RYWWU0a1dUOENPeFdGVGVTZmp3a08zWGtFejA1dmpaMUVudU9RRWVFUlhyNzVyWlYvQzdXNkpheTVGdzhjS1FJU2pySWZWd1QyaXRPK01hNEtnbG9PVUJrbmVtNnRWem1xVkR3OXRuR01hMFBpVVBsQUpQVUxzdGo0eFk9",
+                        "url": "https://anizmplayer.com/hls/UmpXSGxJQnNSV2REd0NCTmg2M1RPaDBEMkw1U1lsVks0Vjc4dVBmdHVNbmpOU2JrNXB0c0NrdHhYVHgxdFBOTkxSb0M2VFJiUmxFTXZJR3AwaEZZMHpRMEx2NEIrZm8vcFg4dDNDaTNLbW14T2x6NHF2Q1hkZFg5d0NRZExGQkZ0Y2lqbnErSjBYV0lyYTdwaENCUjBQazlLZnZZY2h2b2Zlc3RpY3VFODh6WlZpU0xoeEZpVU03ejRVZGtpWXo3YTFJaTJ6WHJEeFlST0RDUHFDSUtudjVycWJKT1ZTOGE4M1hyL3dpZTBhVkV5Mlk0QzJHeURTUVZVUG96UlJxOFNpU1U0SVFxdVZXdE5vT2JkVkJKUWs3emtKNFp4N2kyYnhCMU5BOTFTb0U9",
+                        "quality": "[HousePandoras] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/UmpXSGxJQnNSV2REd0NCTmg2M1RPaDBEMkw1U1lsVks0Vjc4dVBmdHVNbmpOU2JrNXB0c0NrdHhYVHgxdFBOTkxSb0M2VFJiUmxFTXZJR3AwaEZZMHpRMEx2NEIrZm8vcFg4dDNDaTNLbW14T2x6NHF2Q1hkZFg5d0NRZExGQkZ0Y2lqbnErSjBYV0lyYTdwaENCUjBQazlLZnZZY2h2b2Zlc3RpY3VFODh6WlZpU0xoeEZpVU03ejRVZGtpWXo3YTFJaTJ6WHJEeFlST0RDUHFDSUtudjVycWJKT1ZTOGE4M1hyL3dpZTBhVkV5Mlk0QzJHeURTUVZVUG96UlJxOFNpU1U0SVFxdVZXdE5vT2JkVkJKUWs3emtKNFp4N2kyYnhCMU5BOTFTb0U9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/c164729e7c38926049767ce84c52ca66"
+                            "Referer": "https://anizmplayer.com/video/4c3bbeac327140f9de54e86ad98e1af6"
                         }
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/S0ZFaHJreUpZNFJKanpsNDhSUmpaK01qNFZuOTV3ZSsxWGZLdGVZei9xQ3NCS20yZVBtamRDZGg5cDJCajFkdzZXeHU5ZXhWTUJoSHB0WUM5YXdxaDlpaXBMVjluZXo2TnhnSW1UYlpDc1R4a2NhaUdoS3VUK2h3amlxUmxIYkZpVTJMK04rZ1UwbG8zMVZOai9xeTRYZU50cVhCWEZEOTU3OEVFR245V0swQXRxTSs1blRxTGRPeXFLdVY4RXBrTWxSUVdJeUF1Qlk0VW1BS0lrNHN0bXpWZjhnRHRBNUNCdW1PbW1RWWxEV2cxT0ZaVFBISVk2RW5MTjVSeVdPbTR0Mlk5dnNQRWVtdHM0UXVyMDlIRDAyN0d0QVh4YmxBNFBubWJiRWxrZDg9",
-                        "quality": "[Holy] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/S0ZFaHJreUpZNFJKanpsNDhSUmpaK01qNFZuOTV3ZSsxWGZLdGVZei9xQ3NCS20yZVBtamRDZGg5cDJCajFkdzZXeHU5ZXhWTUJoSHB0WUM5YXdxaDlpaXBMVjluZXo2TnhnSW1UYlpDc1R4a2NhaUdoS3VUK2h3amlxUmxIYkZpVTJMK04rZ1UwbG8zMVZOai9xeTRYZU50cVhCWEZEOTU3OEVFR245V0swQXRxTSs1blRxTGRPeXFLdVY4RXBrTWxSUVdJeUF1Qlk0VW1BS0lrNHN0bXpWZjhnRHRBNUNCdW1PbW1RWWxEV2cxT0ZaVFBISVk2RW5MTjVSeVdPbTR0Mlk5dnNQRWVtdHM0UXVyMDlIRDAyN0d0QVh4YmxBNFBubWJiRWxrZDg9",
+                        "url": "https://www4.mp4upload.com:183/d/rcx5qjxqz3b4quuoigqrwzkdjpbdbhculfzr2vdzm6c57ndj7oeoixejdutzsoqirb2ezjuo/video.mp4",
+                        "quality": "[HousePandoras] Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx5qjxqz3b4quuoigqrwzkdjpbdbhculfzr2vdzm6c57ndj7oeoixejdutzsoqirb2ezjuo/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Origin": "https://anizm.net",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=5&sig=ZdmLeKd-CXQ&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420",
+                        "quality": "[HousePandoras] Okru:1080p",
+                        "videoUrl": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=5&sig=ZdmLeKd-CXQ&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/UmpXSGxJQnNSV2REd0NCTmg2M1RPaDBEMkw1U1lsVks0Vjc4dVBmdHVNbmpOU2JrNXB0c0NrdHhYVHgxdFBOTlViLzhSL1Q2Q3VXeTNaWGF2OFlSc0hOM3dleHJxWXZFMU83M2pZY2VlUWNwc3dQalpzb3dMT28rRjUyWWxZTWRsNUhHemVxTlI2ajhZUnh1RnpMSFZBQWNFUEpKaXExYkwrNzVDM2xzb00vUlZuWlZzY3Mwd2ZtVGQ3RG1rY3ZOVUJacFVKSzY5V0RTK3ZRNkxKbEZkMThQeGcva1hLSUlRbkhxWTd0M29aeFZhZWZ3V0NROGRQTzF0L1VtRmUvaVI2U3dBSUV4bk5sWEpWdEMraURPSjhWN0EwMG85T2Z6RC9naXlMako4NzV5aWExdktlSWJxc05wN1VFNkQyWkU%3D",
+                        "quality": "[HousePandoras] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/UmpXSGxJQnNSV2REd0NCTmg2M1RPaDBEMkw1U1lsVks0Vjc4dVBmdHVNbmpOU2JrNXB0c0NrdHhYVHgxdFBOTlViLzhSL1Q2Q3VXeTNaWGF2OFlSc0hOM3dleHJxWXZFMU83M2pZY2VlUWNwc3dQalpzb3dMT28rRjUyWWxZTWRsNUhHemVxTlI2ajhZUnh1RnpMSFZBQWNFUEpKaXExYkwrNzVDM2xzb00vUlZuWlZzY3Mwd2ZtVGQ3RG1rY3ZOVUJacFVKSzY5V0RTK3ZRNkxKbEZkMThQeGcva1hLSUlRbkhxWTd0M29aeFZhZWZ3V0NROGRQTzF0L1VtRmUvaVI2U3dBSUV4bk5sWEpWdEMraURPSjhWN0EwMG85T2Z6RC9naXlMako4NzV5aWExdktlSWJxc05wN1VFNkQyWkU%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/91d034bd15514c303b582f6598165268"
+                            "Referer": "https://anizmplayer.com/video/4c3bbeac327140f9de54e86ad98e1af6"
                         }
                     },
                     {
-                        "url": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=5&sig=OS31I7oBusM&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029",
-                        "quality": "[Holy] Okru:1080p",
-                        "videoUrl": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=5&sig=OS31I7oBusM&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029"
+                        "url": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=2&sig=U7IexCAb4HU&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420",
+                        "quality": "[HousePandoras] Okru:480p",
+                        "videoUrl": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=2&sig=U7IexCAb4HU&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=5&sig=v5XX0Ne6zkM&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069",
-                        "quality": "[Holy] Okru:1080p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=5&sig=v5XX0Ne6zkM&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/UERUVkZZTDNVdDI1MFN6T09Dc1pwc1FJVDIvaHFJZGpPN09NMGtheGgrK2l1OXFsU095VXo5Rll6ak1BaFNXZEEyQktXd3V4RktRcFNOQ3U3aWRTTGdLaFUvSGMxQkNXbTFIc1lpcFZxZ3laWWl3VEVjN09JUlRhdFNKK21sYW9nZHhjRS9tR0dKUlBKTWRZcERKZzkwMVp1bmdRbnhqRndDMVZEbzhwVzMzVEh2RnFPeGwvVHhkMDVvUE9CajFhUzdxa0dBclVFSGVjUnhnUFdzYUNSQTVLMktpMkVqWTArRHBJM216YWlCZnBhSmhSTEFQWWFaK3p4d1h2UkNIQUt3TFlidnMrNWUxTTBaS0l5OXVaSy83bTB5RHU2ZmJMVnlUeVNnZEtuelNPRDRiNDRHNUdFRWlLQ3JJZFNxNG8%3D",
-                        "quality": "[Holy] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/UERUVkZZTDNVdDI1MFN6T09Dc1pwc1FJVDIvaHFJZGpPN09NMGtheGgrK2l1OXFsU095VXo5Rll6ak1BaFNXZEEyQktXd3V4RktRcFNOQ3U3aWRTTGdLaFUvSGMxQkNXbTFIc1lpcFZxZ3laWWl3VEVjN09JUlRhdFNKK21sYW9nZHhjRS9tR0dKUlBKTWRZcERKZzkwMVp1bmdRbnhqRndDMVZEbzhwVzMzVEh2RnFPeGwvVHhkMDVvUE9CajFhUzdxa0dBclVFSGVjUnhnUFdzYUNSQTVLMktpMkVqWTArRHBJM216YWlCZnBhSmhSTEFQWWFaK3p4d1h2UkNIQUt3TFlidnMrNWUxTTBaS0l5OXVaSy83bTB5RHU2ZmJMVnlUeVNnZEtuelNPRDRiNDRHNUdFRWlLQ3JJZFNxNG8%3D",
+                        "url": "https://anizmplayer.com/hls/UmpXSGxJQnNSV2REd0NCTmg2M1RPaDBEMkw1U1lsVks0Vjc4dVBmdHVNbmpOU2JrNXB0c0NrdHhYVHgxdFBOTkNwSi9pNDJYUU9qY1R6b2loWnFNZFdmNjNYRjJNblpDMjdzZUhRc3VuaTVDa3lpQ283QWRwUjNaM0RHR2h0L1grUjRidEI2VUdFay91THBvaUdvdS9QblFkMko1WDQ1ZDIzN1c1aEFGb01Dc0N6eHFENTFaRkJCRDhQa1RHNGZYeFg3MDljb0Q0N3VwZmV5ZWtUaURuaXU5YXB5ZmlXRlhsWWtSaDd2ekRwUmxib1kvNmJSaWxiMGl6bW1XVmxUR1ZVNGUrc3M4VmJTNnE4SVdaaGVJVDJwa3BXdTBGalVlbUFPS3E2WGRaMWM9",
+                        "quality": "[HousePandoras] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/UmpXSGxJQnNSV2REd0NCTmg2M1RPaDBEMkw1U1lsVks0Vjc4dVBmdHVNbmpOU2JrNXB0c0NrdHhYVHgxdFBOTkNwSi9pNDJYUU9qY1R6b2loWnFNZFdmNjNYRjJNblpDMjdzZUhRc3VuaTVDa3lpQ283QWRwUjNaM0RHR2h0L1grUjRidEI2VUdFay91THBvaUdvdS9QblFkMko1WDQ1ZDIzN1c1aEFGb01Dc0N6eHFENTFaRkJCRDhQa1RHNGZYeFg3MDljb0Q0N3VwZmV5ZWtUaURuaXU5YXB5ZmlXRlhsWWtSaDd2ekRwUmxib1kvNmJSaWxiMGl6bW1XVmxUR1ZVNGUrc3M4VmJTNnE4SVdaaGVJVDJwa3BXdTBGalVlbUFPS3E2WGRaMWM9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/c164729e7c38926049767ce84c52ca66"
+                            "Referer": "https://anizmplayer.com/video/4c3bbeac327140f9de54e86ad98e1af6"
                         }
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/S0ZFaHJreUpZNFJKanpsNDhSUmpaK01qNFZuOTV3ZSsxWGZLdGVZei9xQ3NCS20yZVBtamRDZGg5cDJCajFkd3pMRDNMTElmbmRVUjl6ZHZWaFZmMHppNWtUZ1NsMUlKNHhqWWFSbVJZYXhFRWZxMkdPQi9GYXMvbU1kSVNyQ1dISGg1ck0vU2J5bGlGTSt4NGFDTHErSiswMDVHeHJjL1EvSXZSQ3BqOWdiTll1NGdRaVNONldQODBqSUV2bk5oV29IOHlwSDc0ckQvVjZ0M2FUS1NGK0t2NmVScitXb2F1My9odE1xeW4wK1ViVUlJamsyRkx3R2lFQktQN0IxakZkSzRJTi9TOVV4MG85MVJ3dzRZbmJVN0grSzJJWkNpU2hCWTJvOUg5MmxDOHFTTzQ3bzM0VmZOZ29jK2VzSE8%3D",
-                        "quality": "[Holy] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/S0ZFaHJreUpZNFJKanpsNDhSUmpaK01qNFZuOTV3ZSsxWGZLdGVZei9xQ3NCS20yZVBtamRDZGg5cDJCajFkd3pMRDNMTElmbmRVUjl6ZHZWaFZmMHppNWtUZ1NsMUlKNHhqWWFSbVJZYXhFRWZxMkdPQi9GYXMvbU1kSVNyQ1dISGg1ck0vU2J5bGlGTSt4NGFDTHErSiswMDVHeHJjL1EvSXZSQ3BqOWdiTll1NGdRaVNONldQODBqSUV2bk5oV29IOHlwSDc0ckQvVjZ0M2FUS1NGK0t2NmVScitXb2F1My9odE1xeW4wK1ViVUlJamsyRkx3R2lFQktQN0IxakZkSzRJTi9TOVV4MG85MVJ3dzRZbmJVN0grSzJJWkNpU2hCWTJvOUg5MmxDOHFTTzQ3bzM0VmZOZ29jK2VzSE8%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/91d034bd15514c303b582f6598165268"
-                        }
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=9h2Wh4aJfql1yTVo1sMkwASKL0w0lXlZbESvRruvc1s%2B0kGnAKQ4rFlLqbYb6Kh2rfPExfJ8RzNLGNNOjWDp6Ls0wW6uSeUdmVgajp4NVNF1wPqnqwi5my%2BkZmUqZ0eeb6MHUIUXvVWq9IrpvwQk1em3bGGN1LtYWUadpYGGiaggKvsmUHvgNobI1vXQpBgcI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[HousePandoras] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=9h2Wh4aJfql1yTVo1sMkwASKL0w0lXlZbESvRruvc1s%2B0kGnAKQ4rFlLqbYb6Kh2rfPExfJ8RzNLGNNOjWDp6Ls0wW6uSeUdmVgajp4NVNF1wPqnqwi5my%2BkZmUqZ0eeb6MHUIUXvVWq9IrpvwQk1em3bGGN1LtYWUadpYGGiaggKvsmUHvgNobI1vXQpBgcI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
                     },
                     {
-                        "url": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=2&sig=chrPCD6HhEE&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029",
-                        "quality": "[Holy] Okru:480p",
-                        "videoUrl": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=2&sig=chrPCD6HhEE&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029"
+                        "url": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=1&sig=NsSPdKrVRMc&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420",
+                        "quality": "[HousePandoras] Okru:360p",
+                        "videoUrl": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=1&sig=NsSPdKrVRMc&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=2&sig=9DGYZ93wvqY&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069",
-                        "quality": "[Holy] Okru:480p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=2&sig=9DGYZ93wvqY&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069"
+                        "url": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=0&sig=UFc5IVW_x9w&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420",
+                        "quality": "[HousePandoras] Okru:240p",
+                        "videoUrl": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=0&sig=UFc5IVW_x9w&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/UERUVkZZTDNVdDI1MFN6T09Dc1pwc1FJVDIvaHFJZGpPN09NMGtheGgrK2l1OXFsU095VXo5Rll6ak1BaFNXZDZST3JyUnMvYmpBdE5XNDB6azNrYWZJaGpNVTBZNkZHdnBVbVNFcnRrVzBSSnJkd1J5MzNxTkNIYTIralAvWHpvYm9WcWJmaCtLSEo3cXBjTS9PbVZVRFZBVmZtSmp1NFkwU2JuVDNLNzkrM293elNwQ1lrU09Rc0poczUvOC94QVJRM3N3TkxqdXZQZ2NBZzRzTnh4TENHYTVaR1NFYys5ek1pS1dqN2tORVhNdVlFbjAwR1doWGhtQ2RBdUNSaTJXNnNqSzlIcERrcFZ2UkErZU1nTmFXc0Rlb0x2R1ZNdkVpY0ZpaXNPVUU9",
-                        "quality": "[Holy] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/UERUVkZZTDNVdDI1MFN6T09Dc1pwc1FJVDIvaHFJZGpPN09NMGtheGgrK2l1OXFsU095VXo5Rll6ak1BaFNXZDZST3JyUnMvYmpBdE5XNDB6azNrYWZJaGpNVTBZNkZHdnBVbVNFcnRrVzBSSnJkd1J5MzNxTkNIYTIralAvWHpvYm9WcWJmaCtLSEo3cXBjTS9PbVZVRFZBVmZtSmp1NFkwU2JuVDNLNzkrM293elNwQ1lrU09Rc0poczUvOC94QVJRM3N3TkxqdXZQZ2NBZzRzTnh4TENHYTVaR1NFYys5ek1pS1dqN2tORVhNdVlFbjAwR1doWGhtQ2RBdUNSaTJXNnNqSzlIcERrcFZ2UkErZU1nTmFXc0Rlb0x2R1ZNdkVpY0ZpaXNPVUU9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/c164729e7c38926049767ce84c52ca66"
-                        }
+                        "url": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=4&sig=C_KgowIUuWI&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420",
+                        "quality": "[HousePandoras] Okru:144p",
+                        "videoUrl": "https://vd459.mycdn.me/?expires=1702837327937&srcIp=20.109.39.23&pr=10&srcAg=GECKO&ms=45.136.20.76&type=4&sig=C_KgowIUuWI&ct=0&urls=45.136.21.24&clientType=0&zs=43&id=5836204018420"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/S0ZFaHJreUpZNFJKanpsNDhSUmpaK01qNFZuOTV3ZSsxWGZLdGVZei9xQ3NCS20yZVBtamRDZGg5cDJCajFkd0pkbnRMcWZSUDMwZjhXQ3hQbEpFTlRsanJFWGlIbFQ4MnJUK1BUa0VWaHFvbWFNZ3FoRnJTb25oNDFvNkxNVytmemNLeDNrTHVOMWwzRWhTVEVKOG50dDFNQVRoSUNrMlM3d3FhVldnWVFKVzVabThvOVI0dnNTOW1pZkJ2M1J2ZTlGbXJQc0NPcXBJcEVXK1pIT3lMcFZDdEpzU1R3dHNVSks3a3BsQmIrNXcrTmNxaS9JdDJHU0hYaGZaYlBURHZFdWRuaWV0VVpOV3gzQ1YzZFU1dUJPVzQrc1NBajF2VXJDMUc5dUN5WDA9",
-                        "quality": "[Holy] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/S0ZFaHJreUpZNFJKanpsNDhSUmpaK01qNFZuOTV3ZSsxWGZLdGVZei9xQ3NCS20yZVBtamRDZGg5cDJCajFkd0pkbnRMcWZSUDMwZjhXQ3hQbEpFTlRsanJFWGlIbFQ4MnJUK1BUa0VWaHFvbWFNZ3FoRnJTb25oNDFvNkxNVytmemNLeDNrTHVOMWwzRWhTVEVKOG50dDFNQVRoSUNrMlM3d3FhVldnWVFKVzVabThvOVI0dnNTOW1pZkJ2M1J2ZTlGbXJQc0NPcXBJcEVXK1pIT3lMcFZDdEpzU1R3dHNVSks3a3BsQmIrNXcrTmNxaS9JdDJHU0hYaGZaYlBURHZFdWRuaWV0VVpOV3gzQ1YzZFU1dUJPVzQrc1NBajF2VXJDMUc5dUN5WDA9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/91d034bd15514c303b582f6598165268"
-                        }
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=Co0beSUZ1o8hZ31RfstF5ATET3CluWd4YFkL0i0pJQDYGzHo0w1azJlunJS58ZdNjBP%2FwDdbpIk3SkpbGUzeSt7mXeRFN4ywEr0e6KTxFDJSpJmQeo4ge2pR5HRigAkoWZeU2F5X0IE8H7M6cHmgf%2BXQE888dChfjnJzg%2Ft2HH6Q%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=Co0beSUZ1o8hZ31RfstF5ATET3CluWd4YFkL0i0pJQDYGzHo0w1azJlunJS58ZdNjBP%2FwDdbpIk3SkpbGUzeSt7mXeRFN4ywEr0e6KTxFDJSpJmQeo4ge2pR5HRigAkoWZeU2F5X0IE8H7M6cHmgf%2BXQE888dChfjnJzg%2Ft2HH6Q%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=1&sig=uBNjG5WXbTQ&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029",
-                        "quality": "[Holy] Okru:360p",
-                        "videoUrl": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=1&sig=uBNjG5WXbTQ&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029"
-                    },
-                    {
-                        "url": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=1&sig=ynEwrs5jQM8&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069",
-                        "quality": "[Holy] Okru:360p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=1&sig=ynEwrs5jQM8&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069"
-                    },
-                    {
-                        "url": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=0&sig=jqWgQ_qJBdA&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029",
-                        "quality": "[Holy] Okru:240p",
-                        "videoUrl": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=0&sig=jqWgQ_qJBdA&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029"
-                    },
-                    {
-                        "url": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=0&sig=IjuA1nkhgDQ&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069",
-                        "quality": "[Holy] Okru:240p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=0&sig=IjuA1nkhgDQ&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069"
-                    },
-                    {
-                        "url": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=4&sig=fi0KfRf-JPc&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029",
-                        "quality": "[Holy] Okru:144p",
-                        "videoUrl": "https://vd333.mycdn.me/?expires=1702815836883&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=185.226.53.42&type=4&sig=fi0KfRf-JPc&ct=0&urls=45.136.21.49&clientType=0&zs=43&id=5593702796029"
-                    },
-                    {
-                        "url": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=4&sig=8nv3YJcSfY0&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069",
-                        "quality": "[Holy] Okru:144p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1702815836500&srcIp=20.172.7.2&pr=10&srcAg=GECKO&ms=45.136.22.25&type=4&sig=8nv3YJcSfY0&ct=0&urls=45.136.20.72&clientType=0&zs=43&id=5593703779069"
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/a326130329f5459935df6a9599f80d8e/5365738.mp4",
-                        "quality": "[Holy] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/a326130329f5459935df6a9599f80d8e/5365738.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5365738"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/d31f79f8c8d54fefa3f5f779e9870720/5365737.mp4",
-                        "quality": "[Holy] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/d31f79f8c8d54fefa3f5f779e9870720/5365737.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5365737"
-                        }
+                        "url": "https://streamtape.com/get_video?id=oGoJ2jjDbzsJaLK&expires=1702820931&ip=FROsD0AAKxSHDN&token=nVyDZoJYM5V8",
+                        "quality": "[HousePandoras] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=oGoJ2jjDbzsJaLK&expires=1702820931&ip=FROsD0AAKxSHDN&token=nVyDZoJYM5V8"
                     }
                 ],
                 "passed": true

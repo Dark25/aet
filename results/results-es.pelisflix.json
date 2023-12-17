@@ -3,23 +3,23 @@
         "name": "Pelisflix (ES)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: pelisflix.gratis: Temporary failure in name resolution",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: pelisflix.gratis",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: pelisflix.gratis",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: pelisflix.gratis",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: pelisflix.gratis",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

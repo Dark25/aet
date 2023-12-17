@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://i0.wp.com/animeindo.quest/wp-content/uploads/2020/02/135253l.jpg?quality=85"
+                            },
+                            {
                                 "url": "/anime/bokura-no-ameiro-protocol/",
                                 "title": "Bokura no Ameiro Protocol",
                                 "thumbnail_url": "https://i0.wp.com/animeindo.quest/wp-content/uploads/2023/10/138465l.jpg?quality=85"
@@ -310,11 +315,6 @@
                                 "url": "/anime/yuzuki-san-chi-no-yonkyoudai/",
                                 "title": "Yuzuki-san Chi no Yonkyoudai.",
                                 "thumbnail_url": "https://i0.wp.com/animeindo.quest/wp-content/uploads/2023/10/138253l.jpg?quality=85"
-                            },
-                            {
-                                "url": "/anime/bikkurimen/",
-                                "title": "Bikkurimen",
-                                "thumbnail_url": "https://i0.wp.com/animeindo.quest/wp-content/uploads/2023/10/138478l.jpg?quality=85"
                             }
                         ],
                         "hasNextPage": true
@@ -498,14 +498,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/one-piece-episode-1088/",
+                        "name": "Episode 1088",
+                        "episode_number": 1088.0
+                    },
+                    {
                         "url": "/one-piece-episode-1087/",
                         "name": "Episode 1087",
                         "episode_number": 1087.0
-                    },
-                    {
-                        "url": "/one-piece-episode-1086/",
-                        "name": "Episode 1086",
-                        "episode_number": 1086.0
                     }
                 ],
                 "passed": true
@@ -513,28 +513,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxugc7qz3b4quuoi6qq422fidzknvxhwoin4jp34v5mgfqrsbfc4ynwp5xhi4cnqiorib76/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcx7xchtz3b4quuolwqu2ocqixiwheurcdgbv766epdl6qxr2htbkmy2mkubx63jorv23cy5/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxugc7qz3b4quuoi6qq422fidzknvxhwoin4jp34v5mgfqrsbfc4ynwp5xhi4cnqiorib76/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx7xchtz3b4quuolwqu2ocqixiwheurcdgbv766epdl6qxr2htbkmy2mkubx63jorv23cy5/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=f1uSIWOT0IqEFE9CxJdGrgXqJWCZJwe7xcst8xR3jsPRCOlLj%2BwJzRyFRZqlVDTtjRTPY7LPpLo7v4V4gsNdvyR8pun5Hpp83iKxqXjC3ySB2lFYzKe7RtyM3OatCzlUGJS50sapZ%2FdbCKi%2BT%2B7HPsVSjRUrMZFOepbwNzr7nmueo7YUqRivL%2FK13Sc2y7v9g%3D&ref=&sandbox=&t=&res=720",
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=2vcDheONXDR6ZdczsSPtDgIrr4vDcAuxIdtCmNi51ECMofEyOpaNsJArW8EZNsFZB7tReB0%2FEsLB9meGe4Z5CbLsLssxGtq%2BvU%2F0qQV92JCYxNm%2BKA2CJ8ppAp7NZJRqLK%2F1G7%2F6zCaDU%2BjrakO7BSPqwLH2RxMViShxnA%2FOp6sLCTCk5Wt8U3g9J6Jpd3iXk%3D&ref=&sandbox=&t=&res=720",
                         "quality": "GDRIVE 720p - Gdrive",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=f1uSIWOT0IqEFE9CxJdGrgXqJWCZJwe7xcst8xR3jsPRCOlLj%2BwJzRyFRZqlVDTtjRTPY7LPpLo7v4V4gsNdvyR8pun5Hpp83iKxqXjC3ySB2lFYzKe7RtyM3OatCzlUGJS50sapZ%2FdbCKi%2BT%2B7HPsVSjRUrMZFOepbwNzr7nmueo7YUqRivL%2FK13Sc2y7v9g%3D&ref=&sandbox=&t=&res=720"
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=2vcDheONXDR6ZdczsSPtDgIrr4vDcAuxIdtCmNi51ECMofEyOpaNsJArW8EZNsFZB7tReB0%2FEsLB9meGe4Z5CbLsLssxGtq%2BvU%2F0qQV92JCYxNm%2BKA2CJ8ppAp7NZJRqLK%2F1G7%2F6zCaDU%2BjrakO7BSPqwLH2RxMViShxnA%2FOp6sLCTCk5Wt8U3g9J6Jpd3iXk%3D&ref=&sandbox=&t=&res=720"
                     },
                     {
-                        "url": "https:hlsplaylist.php?idhls=cU8rRENVMHNERTU0YldTTG9ocUNYMTN0d1ZLeWJFWkFqNVNueFY1UDRYMExnVDROdmlraG5XVUJVdjFrRzFhLw==.m3u8&res=360",
+                        "url": "https:hlsplaylist.php?idhls=NnAzS1QxVWM4QmFObnl1WkplZW14S1llT1lNMVpTTDM0T1FZQWhFYmYydDByZlZHLzVHYkN1VERieHhrNE5RdQ==.m3u8&res=360",
                         "quality": "GDRIVE 360p - Gdrive",
-                        "videoUrl": "https:hlsplaylist.php?idhls=cU8rRENVMHNERTU0YldTTG9ocUNYMTN0d1ZLeWJFWkFqNVNueFY1UDRYMExnVDROdmlraG5XVUJVdjFrRzFhLw==.m3u8&res=360"
+                        "videoUrl": "https:hlsplaylist.php?idhls=NnAzS1QxVWM4QmFObnl1WkplZW14S1llT1lNMVpTTDM0T1FZQWhFYmYydDByZlZHLzVHYkN1VERieHhrNE5RdQ==.m3u8&res=360"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Vd9oa1gZrdTKL9z&expires=1702863791&ip=FROsF0EnDS9X&token=lDeHMnLP0Ul5",
+                        "url": "https://streamtape.com/get_video?id=jAlvO2gvOxCqMr&expires=1702885750&ip=G0WsDROZKxSHDN&token=s6BkZlPUsETL",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Vd9oa1gZrdTKL9z&expires=1702863791&ip=FROsF0EnDS9X&token=lDeHMnLP0Ul5"
+                        "videoUrl": "https://streamtape.com/get_video?id=jAlvO2gvOxCqMr&expires=1702885750&ip=G0WsDROZKxSHDN&token=s6BkZlPUsETL"
                     }
                 ],
                 "passed": true

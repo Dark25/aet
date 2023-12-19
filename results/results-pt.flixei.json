@@ -1761,8 +1761,41 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=6TlCIYleXZWIwUgwwdJpiw&e=1702988256&_t=1702974351",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=6TlCIYleXZWIwUgwwdJpiw&e=1702988256&_t=1702974351",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=kyHrdtCy84Y3if4loL9fbw&e=1702988257&_t=1702969977",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=kyHrdtCy84Y3if4loL9fbw&e=1702988257&_t=1702969977",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1703036655&ip=FROsF0EnDS9X&token=S4t3yOCj9Pou",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1703036655&ip=FROsF0EnDS9X&token=S4t3yOCj9Pou"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1703036654&ip=FROsF0EnDS9X&token=SmamxTZUWzG_",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1703036654&ip=FROsF0EnDS9X&token=SmamxTZUWzG_"
+                    }
+                ],
+                "passed": true
             }
         }
     }

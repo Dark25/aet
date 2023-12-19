@@ -137,14 +137,14 @@
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2022/07/wermil-okladka.jpg"
                             },
                             {
-                                "url": "/anime/vanitas-no-karte-part-2/",
-                                "title": "Vanitas no Karte Part 2",
-                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2021/11/ksiega-vanitasa-2-okladka.png"
-                            },
-                            {
                                 "url": "/anime/tokyo-revengers/",
                                 "title": "Tokyo Revengers",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2021/03/Tokyo-Revengers.jpg"
+                            },
+                            {
+                                "url": "/anime/vanitas-no-karte-part-2/",
+                                "title": "Vanitas no Karte Part 2",
+                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2021/11/ksiega-vanitasa-2-okladka.png"
                             },
                             {
                                 "url": "/anime/shingeki-no-kyojin/",
@@ -462,8 +462,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vwaw804.cda.pl/2FWLjhSWxRdt4uLRv_AujA/1702990622/sde5b97e5e3a6ecb655b4ab47703e368db.mp4",
+                        "quality": "CDA (FujiSubs) - 720p",
+                        "videoUrl": "https://vwaw804.cda.pl/2FWLjhSWxRdt4uLRv_AujA/1702990622/sde5b97e5e3a6ecb655b4ab47703e368db.mp4"
+                    },
+                    {
+                        "url": "https://vwaw094.cda.pl/BpNpgMisWezPFKiiW5VL1g/1702990622/hde5b97e5e3a6ecb655b4ab47703e368db.mp4",
+                        "quality": "CDA (FujiSubs) - 1080p",
+                        "videoUrl": "https://vwaw094.cda.pl/BpNpgMisWezPFKiiW5VL1g/1702990622/hde5b97e5e3a6ecb655b4ab47703e368db.mp4"
+                    },
+                    {
+                        "url": "https://vwaw315.cda.pl/dbotWf-dNFZhVVjlzc5rRg/1702990621/lqe5b97e5e3a6ecb655b4ab47703e368db.mp4",
+                        "quality": "CDA (FujiSubs) - 480p",
+                        "videoUrl": "https://vwaw315.cda.pl/dbotWf-dNFZhVVjlzc5rRg/1702990621/lqe5b97e5e3a6ecb655b4ab47703e368db.mp4"
+                    },
+                    {
+                        "url": "https://vwaw501.cda.pl/FSTg8qhrU0yB1UZ9eTsjkQ/1702990621/vle5b97e5e3a6ecb655b4ab47703e368db.mp4",
+                        "quality": "CDA (FujiSubs) - 360p",
+                        "videoUrl": "https://vwaw501.cda.pl/FSTg8qhrU0yB1UZ9eTsjkQ/1702990621/vle5b97e5e3a6ecb655b4ab47703e368db.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

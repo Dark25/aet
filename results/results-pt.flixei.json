@@ -142,6 +142,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/na-hora-da-virada/online/gratis",
+                                "title": "Na Hora da Virada",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40096.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/doce-amor-de-inverno/online/gratis",
                                 "title": "Doce Amor de Inverno",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40095.jpg"
@@ -275,11 +280,6 @@
                                 "url": "/assistir/filme/ltima-chamada-para-istambul/online/gratis",
                                 "title": "Última Chamada para Istambul",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40068.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/a-lista-de-beijos/online/gratis",
-                                "title": "A Lista de Beijos",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40067.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1761,41 +1761,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=icUxIk4hd-NRpigU2e3uqg&e=1702945031&_t=1702929243",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=icUxIk4hd-NRpigU2e3uqg&e=1702945031&_t=1702929243",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=J99rFp9hYvVLUC_rhGCBnQ&e=1702945032&_t=1702931300",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=J99rFp9hYvVLUC_rhGCBnQ&e=1702945032&_t=1702931300",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1702993429&ip=F0AsFxgnDS9X&token=5wzJ5TzqpfHt",
-                        "quality": "Streamtape(LEGENDADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1702993429&ip=F0AsFxgnDS9X&token=5wzJ5TzqpfHt"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1702993429&ip=F0AsFxgnDS9X&token=Fxs5b4MUKt00",
-                        "quality": "Streamtape(DUBLADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1702993429&ip=F0AsFxgnDS9X&token=Fxs5b4MUKt00"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

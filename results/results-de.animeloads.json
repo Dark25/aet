@@ -252,19 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=1dOBlRR1DBIeKM1&expires=1703058596&ip=FROsD0AAKxSHDN&token=pr9p0n2szS1l",
-                        "quality": "Streamtape Deutsch Dub",
-                        "videoUrl": "https://streamtape.com/get_video?id=1dOBlRR1DBIeKM1&expires=1703058596&ip=FROsD0AAKxSHDN&token=pr9p0n2szS1l"
-                    },
-                    {
-                        "url": "https://edwardarriveoften.com/access/eyJpdiI6Ing3eWduSWFhYlBzNlR4WUtNZ1haL1E9PSIsInZhbHVlIjoiWDFUUUVSK0lqaUlXTlZjWmtCam05UEVxYVdFL1Z4QTZ3bHZDU0RqTWpPaFVvYUp5TE1maFhkSVh2WDQ4anVISlQ0R0VMWTNZemduK2FxK1FrakJCblE9PSIsIm1hYyI6ImIzNDlkYzQ5MmYwNDVlYzg1Y2E4YTIxODg2NWQ4M2E1OWEzOGE0NjgyZmRhODdlNGFhMTdlZDQ5NDExMTU5NGMiLCJ0YWciOiIifQ==?o=0",
-                        "quality": "Voe Deutsch Dub",
-                        "videoUrl": "https://delivery-node-dxpdxatbb5gs9ftl.voe-network.net/engine/hls2/01/09977/n5yzvlmlcz8l_,n,.urlset/master.m3u8?t=4s6Hj91B-H3LrJMr6VSm6PvTcf57LGNCSdVcjfq8tLU&s=1702988595&e=14400&f=49885692&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=20.109&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

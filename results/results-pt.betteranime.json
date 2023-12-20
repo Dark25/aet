@@ -11,11 +11,11 @@
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "episodes": {

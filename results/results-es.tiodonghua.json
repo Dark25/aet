@@ -117,6 +117,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/helck/",
+                                "title": "Helck",
+                                "thumbnail_url": "https://i3.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3889.jpg"
+                            },
+                            {
+                                "url": "/anime/seijo-no-maryoku-wa-bannou-desu-2nd-season/",
+                                "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+                                "thumbnail_url": "https://i2.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3913.jpg"
+                            },
+                            {
+                                "url": "/anime/paradox-live-the-animation/",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://i2.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3912.jpg"
+                            },
+                            {
                                 "url": "/anime/b-project-netsuretsulove-call/",
                                 "title": "B-Project: Netsuretsu*Love Call",
                                 "thumbnail_url": "https://i2.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3911.jpg"
@@ -200,21 +215,6 @@
                                 "url": "/anime/the-idolmster-million-live/",
                                 "title": "The iDOLM@STER Million Live!",
                                 "thumbnail_url": "https://i1.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3941.jpg"
-                            },
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://i1.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/07/7.jpg"
-                            },
-                            {
-                                "url": "/anime/atarashii-joushi-wa-do-tennen/",
-                                "title": "Atarashii Joushi wa Do Tennen",
-                                "thumbnail_url": "https://i1.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3934.jpg"
-                            },
-                            {
-                                "url": "/anime/bokura-no-ameiro-protocol/",
-                                "title": "Bokura no Ameiro Protocol",
-                                "thumbnail_url": "https://i0.wp.com/anime.tiodonghua.com/wp-content/uploads/2023/10/3939.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -283,9 +283,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a20231219BR0qVL6chw3/video.mp4",
+                        "url": "https://voe.sx/e/nmsave5p9ce9",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-pi828pfh20jkkkxu.voe-network.net/engine/hls2-c/01/10105/nmsave5p9ce9_,n,.urlset/master.m3u8?t=hAecF8pNeIwiK440-6FnYhPmoUznug8REDZBJW3npe4&s=1703033155&e=14400&f=50526892&node=delivery-node-wr40nh2kjzygwk6v.voe-network.net&i=52.157&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a202312195M15I77I8cB/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20231219BR0qVL6chw3/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a202312195M15I77I8cB/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://www.yourupload.com/"

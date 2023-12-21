@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/slow-horses",
+                                "title": "Slow Horses",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19657.webp"
+                            },
+                            {
                                 "url": "/serie/online/assassinato-no-fim-do-mundo",
                                 "title": "Assassinato no Fim do Mundo",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Rick e Morty",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-couple-next-door",
-                                "title": "The Couple Next Door",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22554.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }

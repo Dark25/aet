@@ -342,14 +342,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112323-C6nlP84x8jH8.png"
                             },
                             {
-                                "url": "4162188721",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg"
-                            },
-                            {
                                 "url": "3799779079",
                                 "title": "Parallel World Pharmacy Dubbed",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136707-StRFbEwZT7q5.jpg"
+                            },
+                            {
+                                "url": "4162188721",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131518-RU7RoUmGb2sP.jpg"
                             },
                             {
                                 "url": "4245349799",
@@ -438,7 +438,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

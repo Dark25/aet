@@ -510,8 +510,348 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373362.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Vrv - Alt Sub - Alt vo_SUB - 1080p",
+                        "videoUrl": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373362.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373362.mp4/index-v1-a1.m3u8?res=1920x1080&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2Mi5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTkyMHgxMDgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMzk5MzIyfX19XX0_&Signature=n2VTb0fNShh7HQX8GIptBx4By5mJvRa5TxgfG4qQX4taD2xhkm-MdcMKWwHXfn5sAcLUCViM21izMrcdqJVgTsmxJyHVXW9t1jCdEbog1f6QXPT6TtnjKxA32dHCTrn-ayxiaKUOyjAhZ3PsL1joQDQMq0516Xp8BVqR3UARE-dZMWr88dg-29Gu9zJgY7or5RGcCOV6o-V4D0kEByQw-ztAyLmOzn4bDR1jh67aNK6SyzFQ6ubShviRZrwkU5d9yRj2kIHrjODf7gJFDZhpqNSGlF-1FWOUfKucsRzWcvM6gWBw4ZRojOwFZUQ71PPx~GozVcBIpjmbzh6ddKE0pw__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Alt SoftSub - Alt m_SUB - 1080p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373362.mp4/index-v1-a1.m3u8?res=1920x1080&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2Mi5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTkyMHgxMDgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMzk5MzIyfX19XX0_&Signature=n2VTb0fNShh7HQX8GIptBx4By5mJvRa5TxgfG4qQX4taD2xhkm-MdcMKWwHXfn5sAcLUCViM21izMrcdqJVgTsmxJyHVXW9t1jCdEbog1f6QXPT6TtnjKxA32dHCTrn-ayxiaKUOyjAhZ3PsL1joQDQMq0516Xp8BVqR3UARE-dZMWr88dg-29Gu9zJgY7or5RGcCOV6o-V4D0kEByQw-ztAyLmOzn4bDR1jh67aNK6SyzFQ6ubShviRZrwkU5d9yRj2kIHrjODf7gJFDZhpqNSGlF-1FWOUfKucsRzWcvM6gWBw4ZRojOwFZUQ71PPx~GozVcBIpjmbzh6ddKE0pw__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_368709.txt/clipTo/14400/sub_caption.m3u8?Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfMzY4NzA5LnR4dC9jbGlwVG8vMTQ0MDAvc3ViX2NhcHRpb24ubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=EMDMmhX2G6k~6TW~~gXwND5Ds0UZMyNv9zDwsH2r0Twri8uY7MdIj6f02oYasmIf~17~9PKkTCAMGvLCjO9~VTSFfWaOdRx38qS~tZfdVQOT8l3tgvmSs42tas5nT3KIC3aI-UF6cqHPG--I6g2nK0wbOsJ8wyvRnfhFh68qFWNsExwH2nRXf-wndfFExDbt~xsiV0fugROPCxdl5FN9Hv~EESNtwRpDZkm~FYtz7PWtnaPlesyCTdeHqBs0uutd9-xw5Vk0GsDhIazLL3eqdqPsCIkV0CmjcgqbWa-0UTXR6zjWrxevixF8kuRve6zXxrQNo9JRINB93bhl1DjAMg__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373362.mp4/index-v1-a1.m3u8?res=1920x1080&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2Mi5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTkyMHgxMDgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMzk5MzIwfX19XX0_&Signature=Pmrpytflyjt0zjhG28mdYiJRmSJGvq9DbMIoP~N4kDswsj9rNmTfEP1OpmuBWmRrXUyTdP-d06PxXkNvdjRM8JpJE5H35Pt2UqkInNa-MBT2Veqr-mNuqYGwFSqcPmuNmL-o9k2ypan3E-ZWWGk~4sxY30DtIGxAf89Yo~JtKAcJeaGTAZ3U0dSmsSVaGIBm0N8lrUhB3S3FRsAtG~jASNKgQZNQpwKqKyI~otBsIGpctd9eYpQYJSED4h0txU8soaj2Pw~Z9v2QIn5Dx05lYf3xxUUPwxqeyfzI1LoPk1LPfOBtd7b9oCIiTRj5hsrgiQRY6r0X92Z7rGLvGjDIAQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Sub - SUB - 1080p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373362.mp4/index-v1-a1.m3u8?res=1920x1080&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2Mi5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTkyMHgxMDgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMzk5MzIwfX19XX0_&Signature=Pmrpytflyjt0zjhG28mdYiJRmSJGvq9DbMIoP~N4kDswsj9rNmTfEP1OpmuBWmRrXUyTdP-d06PxXkNvdjRM8JpJE5H35Pt2UqkInNa-MBT2Veqr-mNuqYGwFSqcPmuNmL-o9k2ypan3E-ZWWGk~4sxY30DtIGxAf89Yo~JtKAcJeaGTAZ3U0dSmsSVaGIBm0N8lrUhB3S3FRsAtG~jASNKgQZNQpwKqKyI~otBsIGpctd9eYpQYJSED4h0txU8soaj2Pw~Z9v2QIn5Dx05lYf3xxUUPwxqeyfzI1LoPk1LPfOBtd7b9oCIiTRj5hsrgiQRY6r0X92Z7rGLvGjDIAQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373356.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Vrv - Alt Sub - Alt vo_SUB - 240p",
+                        "videoUrl": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373356.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373354.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Vrv - Alt Sub - Alt vo_SUB - 360p",
+                        "videoUrl": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373354.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373358.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Vrv - Alt Sub - Alt vo_SUB - 480p",
+                        "videoUrl": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373358.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373360.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Vrv - Alt Sub - Alt vo_SUB - 720p",
+                        "videoUrl": "https://v.vrv.co/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373360.mp4/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92LnZydi5jby9ldnMzLzlmODVlMjFhZTgyZTMyZjg0YzNlZTg1MTRiMWYyYzg1L2Fzc2V0cy81NDkyNWE0NDQ0ZTVhMDRmNjUyNDIxNzQ5MDZlMWRjNl8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzAzMjc2NDk4fX19XX0_&Signature=aMDOGCW2DtD9LogMqkg4vNVsgNdLOqcDf8qGMKldukjXN6Xm2uYn03dwyuccwPNPEDzc-co9zBzuqQzTB-Q8EfxblIuhec94wGALhFDXu6DwCZ-Z2KX02vWTU0FjBXa2OcGuXTn~gvkPJwnP4oc6qNfyfwBViBtBVIIN7U-6Um~WpL6jL5Ayn5AuN8VGQ3YUCW2L83g0h3SyOJMJPSaZjMx3farKvj2l8922T0xtuQNCALJEdCf4rATsxcKivJGSrjpRVLsxK9aRZRoPCguetxl50DmMZFt4HJgfpXKrZ8c6dyk-kbtqatq5-OLig4Kxzb~Z9vvp0LYQWIxcZh4pFA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373356.mp4/index-v1-a1.m3u8?res=428x240&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1Ni5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NDI4eDI0MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=JzWAp94KAZ4JUkYIaO54UbTXlMufUxEDvU86MR0r3oQIWGmrRTwcRQ~z3RfR-ygJ4hK~QuAzohAS9LDfDId62Ko7pGVOtyBQRknMZBRp~ji~SNIhSt8qUT1d0zdWHe78QmWB-A0qGXrN6pNQNwNmuA3uKdPZ~7IYWCsDIg5oYcJHgXmQtnxtGL56orw23b0OLm2Brwc~KBcUv8dKPOFgijo9ac8A~LarwtDCk~9u-IE2xWEOlsB7esso~22jUjyFd1KIYd4n3OHmuQP0KQmrb6kZuWH05HqawH94FFKDd9ouqk~AZXBR91V2NsHwjcH7BizL8eURGhzuaXio-gL2tA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Alt SoftSub - Alt m_SUB - 240p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373356.mp4/index-v1-a1.m3u8?res=428x240&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1Ni5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NDI4eDI0MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=JzWAp94KAZ4JUkYIaO54UbTXlMufUxEDvU86MR0r3oQIWGmrRTwcRQ~z3RfR-ygJ4hK~QuAzohAS9LDfDId62Ko7pGVOtyBQRknMZBRp~ji~SNIhSt8qUT1d0zdWHe78QmWB-A0qGXrN6pNQNwNmuA3uKdPZ~7IYWCsDIg5oYcJHgXmQtnxtGL56orw23b0OLm2Brwc~KBcUv8dKPOFgijo9ac8A~LarwtDCk~9u-IE2xWEOlsB7esso~22jUjyFd1KIYd4n3OHmuQP0KQmrb6kZuWH05HqawH94FFKDd9ouqk~AZXBR91V2NsHwjcH7BizL8eURGhzuaXio-gL2tA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_368709.txt/clipTo/14400/sub_caption.m3u8?Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfMzY4NzA5LnR4dC9jbGlwVG8vMTQ0MDAvc3ViX2NhcHRpb24ubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=EMDMmhX2G6k~6TW~~gXwND5Ds0UZMyNv9zDwsH2r0Twri8uY7MdIj6f02oYasmIf~17~9PKkTCAMGvLCjO9~VTSFfWaOdRx38qS~tZfdVQOT8l3tgvmSs42tas5nT3KIC3aI-UF6cqHPG--I6g2nK0wbOsJ8wyvRnfhFh68qFWNsExwH2nRXf-wndfFExDbt~xsiV0fugROPCxdl5FN9Hv~EESNtwRpDZkm~FYtz7PWtnaPlesyCTdeHqBs0uutd9-xw5Vk0GsDhIazLL3eqdqPsCIkV0CmjcgqbWa-0UTXR6zjWrxevixF8kuRve6zXxrQNo9JRINB93bhl1DjAMg__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373354.mp4/index-v1-a1.m3u8?res=640x360&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1NC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NjQweDM2MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=n07cjWNFWgsxKm9PFl3SY7O7gLTp2di6Yy6OUJF1An-mz-2KkINrYNR~nQCUhlFIkXHPCJF~c-zqYYjC6H32bJB7GWMHuMmkwBsaleG7tqct5ukCnT2OEU0zSA8gUtNIZcY7PmBkucvNVZQ~UykYMY5ZW2faNpODDZBPpc5XeJ0UDsyrv9nEI~wqlbbzxZGrlI6NlGMLOPOUjrrUruEkVr5mIEy2uCgshRhvYm20NfUkKaU1JSqxbWndML8~vpy3GJL0W4U04P~G~72GJl-zSLK52pjjMRn-fdlHK85AbIa4~NkqsU6m3hB0T2Knw4jYyaLz568azRK4mOTkyWimpQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Alt SoftSub - Alt m_SUB - 360p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373354.mp4/index-v1-a1.m3u8?res=640x360&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1NC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NjQweDM2MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=n07cjWNFWgsxKm9PFl3SY7O7gLTp2di6Yy6OUJF1An-mz-2KkINrYNR~nQCUhlFIkXHPCJF~c-zqYYjC6H32bJB7GWMHuMmkwBsaleG7tqct5ukCnT2OEU0zSA8gUtNIZcY7PmBkucvNVZQ~UykYMY5ZW2faNpODDZBPpc5XeJ0UDsyrv9nEI~wqlbbzxZGrlI6NlGMLOPOUjrrUruEkVr5mIEy2uCgshRhvYm20NfUkKaU1JSqxbWndML8~vpy3GJL0W4U04P~G~72GJl-zSLK52pjjMRn-fdlHK85AbIa4~NkqsU6m3hB0T2Knw4jYyaLz568azRK4mOTkyWimpQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_368709.txt/clipTo/14400/sub_caption.m3u8?Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfMzY4NzA5LnR4dC9jbGlwVG8vMTQ0MDAvc3ViX2NhcHRpb24ubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=EMDMmhX2G6k~6TW~~gXwND5Ds0UZMyNv9zDwsH2r0Twri8uY7MdIj6f02oYasmIf~17~9PKkTCAMGvLCjO9~VTSFfWaOdRx38qS~tZfdVQOT8l3tgvmSs42tas5nT3KIC3aI-UF6cqHPG--I6g2nK0wbOsJ8wyvRnfhFh68qFWNsExwH2nRXf-wndfFExDbt~xsiV0fugROPCxdl5FN9Hv~EESNtwRpDZkm~FYtz7PWtnaPlesyCTdeHqBs0uutd9-xw5Vk0GsDhIazLL3eqdqPsCIkV0CmjcgqbWa-0UTXR6zjWrxevixF8kuRve6zXxrQNo9JRINB93bhl1DjAMg__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373358.mp4/index-v1-a1.m3u8?res=848x480&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1OC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9ODQ4eDQ4MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=aqYkpkTqXJjlp9WVwp3rnMRXfxVIcinjrdDDCFvbTUFR6T-isEifcSdxLZy-miPT~nzFaVtWPK~BUdBhDDRuZff3Ipr6VBcX0Ktun7DivjLLNnkdIGqwHeLLfgQ1XNFHeaYN8bLyJlnzX5b2zVCdx3ogPKKYQX0kmEuOhgDfVdZ0om7jACaooMvNr8mgSmweEQ8ghcIZP4xbkb5ttoKQvL3GvEUqNK9AvskqJ7lQOYJvwY0AGZVkw9DMyaR7EWsVzr787Hoau-pw55QqvWNT-amMu7UI9Eflwt7qg3iOkbRVAnDkq33xCSlU5Zz6g90t~L-LEcEMbHc86NpbOphEiQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Alt SoftSub - Alt m_SUB - 480p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373358.mp4/index-v1-a1.m3u8?res=848x480&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1OC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9ODQ4eDQ4MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=aqYkpkTqXJjlp9WVwp3rnMRXfxVIcinjrdDDCFvbTUFR6T-isEifcSdxLZy-miPT~nzFaVtWPK~BUdBhDDRuZff3Ipr6VBcX0Ktun7DivjLLNnkdIGqwHeLLfgQ1XNFHeaYN8bLyJlnzX5b2zVCdx3ogPKKYQX0kmEuOhgDfVdZ0om7jACaooMvNr8mgSmweEQ8ghcIZP4xbkb5ttoKQvL3GvEUqNK9AvskqJ7lQOYJvwY0AGZVkw9DMyaR7EWsVzr787Hoau-pw55QqvWNT-amMu7UI9Eflwt7qg3iOkbRVAnDkq33xCSlU5Zz6g90t~L-LEcEMbHc86NpbOphEiQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_368709.txt/clipTo/14400/sub_caption.m3u8?Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfMzY4NzA5LnR4dC9jbGlwVG8vMTQ0MDAvc3ViX2NhcHRpb24ubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=EMDMmhX2G6k~6TW~~gXwND5Ds0UZMyNv9zDwsH2r0Twri8uY7MdIj6f02oYasmIf~17~9PKkTCAMGvLCjO9~VTSFfWaOdRx38qS~tZfdVQOT8l3tgvmSs42tas5nT3KIC3aI-UF6cqHPG--I6g2nK0wbOsJ8wyvRnfhFh68qFWNsExwH2nRXf-wndfFExDbt~xsiV0fugROPCxdl5FN9Hv~EESNtwRpDZkm~FYtz7PWtnaPlesyCTdeHqBs0uutd9-xw5Vk0GsDhIazLL3eqdqPsCIkV0CmjcgqbWa-0UTXR6zjWrxevixF8kuRve6zXxrQNo9JRINB93bhl1DjAMg__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373360.mp4/index-v1-a1.m3u8?res=1280x720&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2MC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTI4MHg3MjAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDMzOTkzMjJ9fX1dfQ__&Signature=lcm1Ro6qokyK7tbzMK-QaXkMN3oQ9RG1C3H45sonV5uXY~o8oE04080jEqv83opihpvxz9yMqiHCoGdLTa-qBzm6BMQt2g0sRhb8dWFWrbMqeKyFBoz4lp3Wi12xfDTkM9Hwq51tmKOzb4uCs7WWlfJhUDUkpzV6aqOqdX8brf5Vlqq1ztPHpihJcWCDJwd5FxC8x1F8Js1Kt~9TIB1hKZinuQB2rO1b8aEa9TxP86qd80oF7yrl0eH0uDlOJuZY-Fl44zEBOUWd~L0aqj4rREGXYR0jO8~UE-XbzupbOlAjs~EPc6hyPLgrVZn9ikJVG6nkgNeqtp-ikCyC-4J~Og__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Alt SoftSub - Alt m_SUB - 720p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373360.mp4/index-v1-a1.m3u8?res=1280x720&Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2MC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTI4MHg3MjAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDMzOTkzMjJ9fX1dfQ__&Signature=lcm1Ro6qokyK7tbzMK-QaXkMN3oQ9RG1C3H45sonV5uXY~o8oE04080jEqv83opihpvxz9yMqiHCoGdLTa-qBzm6BMQt2g0sRhb8dWFWrbMqeKyFBoz4lp3Wi12xfDTkM9Hwq51tmKOzb4uCs7WWlfJhUDUkpzV6aqOqdX8brf5Vlqq1ztPHpihJcWCDJwd5FxC8x1F8Js1Kt~9TIB1hKZinuQB2rO1b8aEa9TxP86qd80oF7yrl0eH0uDlOJuZY-Fl44zEBOUWd~L0aqj4rREGXYR0jO8~UE-XbzupbOlAjs~EPc6hyPLgrVZn9ikJVG6nkgNeqtp-ikCyC-4J~Og__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_368709.txt/clipTo/14400/sub_caption.m3u8?Expires=1703399322&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfMzY4NzA5LnR4dC9jbGlwVG8vMTQ0MDAvc3ViX2NhcHRpb24ubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMn19fV19&Signature=EMDMmhX2G6k~6TW~~gXwND5Ds0UZMyNv9zDwsH2r0Twri8uY7MdIj6f02oYasmIf~17~9PKkTCAMGvLCjO9~VTSFfWaOdRx38qS~tZfdVQOT8l3tgvmSs42tas5nT3KIC3aI-UF6cqHPG--I6g2nK0wbOsJ8wyvRnfhFh68qFWNsExwH2nRXf-wndfFExDbt~xsiV0fugROPCxdl5FN9Hv~EESNtwRpDZkm~FYtz7PWtnaPlesyCTdeHqBs0uutd9-xw5Vk0GsDhIazLL3eqdqPsCIkV0CmjcgqbWa-0UTXR6zjWrxevixF8kuRve6zXxrQNo9JRINB93bhl1DjAMg__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373356.mp4/index-v1-a1.m3u8?res=428x240&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1Ni5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NDI4eDI0MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMH19fV19&Signature=s~vxD~D3~W7CAS~lA10h0t3s2vUlyPvbqi0bOvKlGbLkk3ZWFN~QGSivd1QJGxpzFyfMyPtFDHbb5lCMgxf-Pvhesw2lXTkMZcMt-Un30W5cm5J2w1nY23iqIm99fDDH0wtRXRW5QCUNh81qjOYfVhpVLQmdEIsELzNo3VNSdPAZXXWqrD6-ZSv~fV26YKomGt26XC9VUrFBws8XLSvO821NjxjI~g92-fHYVmHUBPl9udqKYTUI3yhECdmplXMhJLMkJQXeTdNDpgcRzxkC0dg5Ctx5eejIUbrRUAS7IFV9qGKzWfRxalIlugIX1sETJZnd90pZgMvGwj9j1JHcSQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Sub - SUB - 240p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373356.mp4/index-v1-a1.m3u8?res=428x240&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1Ni5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NDI4eDI0MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMH19fV19&Signature=s~vxD~D3~W7CAS~lA10h0t3s2vUlyPvbqi0bOvKlGbLkk3ZWFN~QGSivd1QJGxpzFyfMyPtFDHbb5lCMgxf-Pvhesw2lXTkMZcMt-Un30W5cm5J2w1nY23iqIm99fDDH0wtRXRW5QCUNh81qjOYfVhpVLQmdEIsELzNo3VNSdPAZXXWqrD6-ZSv~fV26YKomGt26XC9VUrFBws8XLSvO821NjxjI~g92-fHYVmHUBPl9udqKYTUI3yhECdmplXMhJLMkJQXeTdNDpgcRzxkC0dg5Ctx5eejIUbrRUAS7IFV9qGKzWfRxalIlugIX1sETJZnd90pZgMvGwj9j1JHcSQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373354.mp4/index-v1-a1.m3u8?res=640x360&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1NC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NjQweDM2MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMH19fV19&Signature=YDhf-But1kKlqzc22YnvJF-ySKmBUld0GJxeo8ksX-iiB6SLTu0-Z0KyccSPGCI~m4sACMOKeqLRXR5Loivv0GFqJUDxBwVxP7ZrIUAGd7H~56sWBPt8UTHCdLh7chvwnopmVQT5QUD3VfmTdwNTCZ0cBl7OX2o5KO3F2bLqJvkAyszm63Qk4DMlp9x7X~VNtF3AaE33lj-fcwR1OlJM4bUrbSR9vClhFwovEgP2nRMbPKUZ15vZ8KwElhyNHREDUmRrFyw9W~9Bs9pzhzRJV2uq8yb6ko~g73oeMZwpG2RBniCilCHvr~d8T5rF3O12Wz7jl8-4ckbLUKlo3PYr0A__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Sub - SUB - 360p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373354.mp4/index-v1-a1.m3u8?res=640x360&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1NC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9NjQweDM2MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMH19fV19&Signature=YDhf-But1kKlqzc22YnvJF-ySKmBUld0GJxeo8ksX-iiB6SLTu0-Z0KyccSPGCI~m4sACMOKeqLRXR5Loivv0GFqJUDxBwVxP7ZrIUAGd7H~56sWBPt8UTHCdLh7chvwnopmVQT5QUD3VfmTdwNTCZ0cBl7OX2o5KO3F2bLqJvkAyszm63Qk4DMlp9x7X~VNtF3AaE33lj-fcwR1OlJM4bUrbSR9vClhFwovEgP2nRMbPKUZ15vZ8KwElhyNHREDUmRrFyw9W~9Bs9pzhzRJV2uq8yb6ko~g73oeMZwpG2RBniCilCHvr~d8T5rF3O12Wz7jl8-4ckbLUKlo3PYr0A__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373358.mp4/index-v1-a1.m3u8?res=848x480&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1OC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9ODQ4eDQ4MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMH19fV19&Signature=BnaWujRO~cLrh-IhCKjthvTycBVfrKZpOxm6~3H0-kUAuaGIhbFM438kMXWeWWi7KV0~KiBfbHNneZIV9cX81COrqf8FFo6UZYJpqc1Nv~k0wGZ5xzF5JCS79rXofw1qCxVBuwCISApL-NKPePtRzIMTiWNFJvRu-39FBzAdAqCVEppdYCm4h6dHSwFfuR1YeQSKZZ-Oxjrc3ZTQn1XEk7HMJkkF-FDRpNab9oWDl4COxUmIuo6urPUPvqt4ivoYVSaJXuRiPAFIlwzyaPXT67YwbDmubZJewelipSbgXsvF04z7W1I7jlZwSJywyqpKhM-k6ZgPxBtwcz7yiY2PEw__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Sub - SUB - 480p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373358.mp4/index-v1-a1.m3u8?res=848x480&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM1OC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9ODQ4eDQ4MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMzM5OTMyMH19fV19&Signature=BnaWujRO~cLrh-IhCKjthvTycBVfrKZpOxm6~3H0-kUAuaGIhbFM438kMXWeWWi7KV0~KiBfbHNneZIV9cX81COrqf8FFo6UZYJpqc1Nv~k0wGZ5xzF5JCS79rXofw1qCxVBuwCISApL-NKPePtRzIMTiWNFJvRu-39FBzAdAqCVEppdYCm4h6dHSwFfuR1YeQSKZZ-Oxjrc3ZTQn1XEk7HMJkkF-FDRpNab9oWDl4COxUmIuo6urPUPvqt4ivoYVSaJXuRiPAFIlwzyaPXT67YwbDmubZJewelipSbgXsvF04z7W1I7jlZwSJywyqpKhM-k6ZgPxBtwcz7yiY2PEw__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373360.mp4/index-v1-a1.m3u8?res=1280x720&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2MC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTI4MHg3MjAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDMzOTkzMjB9fX1dfQ__&Signature=XxutLeQVOEDiaK-ZHYK-0us62QT3vnQUCEDAPHdLzX-coQEYn0MCdzgkciGoeSy2j~AleKHIbJHO1I9kGp-rB2HhzFkD1QwgXBWE3Y1UMMR5YNux6-674Gltg5sOO1bZYZAvw8uiA84FJdIk8vt44ZTohMIC02JzwSJuKQk4urlwbyY9NPYW4BLE9LqL7QZJSs9LG06~nHNBVWGTuANCq0Cx~lZMkJnXJUZG3BmkBmeeNRWjvSYC74naZfZJNfuI9mkLd2co5jbne5MQVrtF-gCaUShzdsAziHnwCEAeIaYtAH-o8yOHlIcdN48S9TDsQZMd9S6p86HaBw9umMrAMA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Sub - SUB - 720p",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/9f85e21ae82e32f84c3ee8514b1f2c85/assets/54925a4444e5a04f65242174906e1dc6_5373360.mp4/index-v1-a1.m3u8?res=1280x720&Expires=1703399320&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy85Zjg1ZTIxYWU4MmUzMmY4NGMzZWU4NTE0YjFmMmM4NS9hc3NldHMvNTQ5MjVhNDQ0NGU1YTA0ZjY1MjQyMTc0OTA2ZTFkYzZfNTM3MzM2MC5tcDQvaW5kZXgtdjEtYTEubTN1OD9yZXM9MTI4MHg3MjAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDMzOTkzMjB9fX1dfQ__&Signature=XxutLeQVOEDiaK-ZHYK-0us62QT3vnQUCEDAPHdLzX-coQEYn0MCdzgkciGoeSy2j~AleKHIbJHO1I9kGp-rB2HhzFkD1QwgXBWE3Y1UMMR5YNux6-674Gltg5sOO1bZYZAvw8uiA84FJdIk8vt44ZTohMIC02JzwSJuKQk4urlwbyY9NPYW4BLE9LqL7QZJSs9LG06~nHNBVWGTuANCq0Cx~lZMkJnXJUZG3BmkBmeeNRWjvSYC74naZfZJNfuI9mkLd2co5jbne5MQVrtF-gCaUShzdsAziHnwCEAeIaYtAH-o8yOHlIcdN48S9TDsQZMd9S6p86HaBw9umMrAMA__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://tools.fast4speed.rsvp//media8/videos/ReooPAxPMsHM4KPMY/sub/1088",
+                        "quality": "Yt-mp4",
+                        "videoUrl": "https://tools.fast4speed.rsvp//media8/videos/ReooPAxPMsHM4KPMY/sub/1088",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "origin": "https://allanime.to",
+                            "referer": "https://allanime.to/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.1080.m3u8",
+                        "quality": "Luf-mp4 - hls P - 1080p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www009.anifastcdn.info/videos/hls/1gCMNXPxI1rQ0K9ol0w5MA/1703240443/217196/0b594d900f47daabc194844092384914/ep.1088.1702780173.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.720.m3u8",
+                        "quality": "Luf-mp4 - hls P - 720p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.480.m3u8",
+                        "quality": "Luf-mp4 - hls P - 480p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.360.m3u8",
+                        "quality": "Luf-mp4 - hls P - 360p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=ETzJUPUsHqNPoWyronp2HX0BfzCu7fEYEOrRjbp2Ywy0vg",
+                        "quality": "S-mp4 - Mp4",
+                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=ETzJUPUsHqNPoWyronp2HX0BfzCu7fEYEOrRjbp2Ywy0vg",
+                        "headers": {
+                            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ3A.230705.001.B4)"
+                        }
+                    },
+                    {
+                        "url": "https://uc406942c4930d299e7bbdb4e012.dl.dropboxusercontent.com/cd/0/get/CJ2Yc3hjWIz15loTHfT3hBKazjt2g8bOYsJwxw8kmMz7APNvdSsAwDkFBrn3fmo35IPZQVgQAhDIK8ccA7EuL1HMGEkzI04WK7Fy67kOxXlY5JyIJEogDZreWPJFxm7z4kCjC26HGqqPSo50VFBMCuyhQjieGcmn1mR4E75CfLpvuA/file",
+                        "quality": "Sak - Mp4",
+                        "videoUrl": "https://uc406942c4930d299e7bbdb4e012.dl.dropboxusercontent.com/cd/0/get/CJ2Yc3hjWIz15loTHfT3hBKazjt2g8bOYsJwxw8kmMz7APNvdSsAwDkFBrn3fmo35IPZQVgQAhDIK8ccA7EuL1HMGEkzI04WK7Fy67kOxXlY5JyIJEogDZreWPJFxm7z4kCjC26HGqqPSo50VFBMCuyhQjieGcmn1mR4E75CfLpvuA/file",
+                        "headers": {
+                            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ3A.230705.001.B4)"
+                        }
+                    },
+                    {
+                        "url": "https://i2qq0vb1aul7.sw-cdnstream.com/hls2/01/02550/poda2ealkmd3_n/index-v1-a1.m3u8?t=QkJ1mUHVcQ-1B4Lid8nb42Co6NwSKYJI7-eHRnJ0qC0&s=1703226521&e=129600&f=12752595&srv=prrqsnghwdyf&i=0.4&sp=500&p1=prrqsnghwdyf&p2=prrqsnghwdyf&asn=8075",
+                        "quality": "Sw - 480p",
+                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstream.com/hls2/01/02550/poda2ealkmd3_n/index-v1-a1.m3u8?t=QkJ1mUHVcQ-1B4Lid8nb42Co6NwSKYJI7-eHRnJ0qC0&s=1703226521&e=129600&f=12752595&srv=prrqsnghwdyf&i=0.4&sp=500&p1=prrqsnghwdyf&p2=prrqsnghwdyf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/poda2ealkmd3"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE3MTk2&title=One+Piece+Episode+1088&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxthc7tz3b4quuolwquqpaslgpdqtg3l4owagr4ktx373xqwjhbhhpbfjuiqebvswoprlai/video.mp4",
+                        "quality": "Mp4 - Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxthc7tz3b4quuolwquqpaslgpdqtg3l4owagr4ktx373xqwjhbhhpbfjuiqebvswoprlai/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE3MTk2&title=One+Piece+Episode+1088&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE3MTk2&title=One+Piece+Episode+1088&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www009.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1088.1702780173.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE3MTk2&title=One+Piece+Episode+1088&typesub=SUB"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

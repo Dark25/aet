@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/under-ninja/",
+                                "title": "Under Ninja",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/1696497974-9434-137896.jpg"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/06/Jujutsu-Kaisen-2nd-Season-poster-2.jpg"
+                            },
+                            {
                                 "url": "/anime/ojou-to-banken-kun/",
                                 "title": "Ojou to Banken-kun",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/09/1695912382-3762-138479.jpg"
@@ -125,11 +135,6 @@
                                 "url": "/anime/the-yuzuki-familys-four-sons/",
                                 "title": "The Yuzuki Family’s Four Sons",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Yuzuki-Familys-Four-Sons-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/06/Jujutsu-Kaisen-2nd-Season-poster-2.jpg"
                             },
                             {
                                 "url": "/anime/dr-stone-new-world-part-2-dub/",
@@ -210,11 +215,6 @@
                                 "url": "/anime/the-saints-magic-power-is-omnipotent-season-2/",
                                 "title": "The Saint’s Magic Power is Omnipotent Season 2",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Saints-Magic-Power-is-Omnipotent-Season-2.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-kokoro-no-yabai-yatsu-twi-yaba/",
-                                "title": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/12/Boku-no-Kokoro-no-Yabai-Yatsu-Twi-Yaba-poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,8 +316,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbsozv7z6q3ncqutfaa/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbsozv7z6q3ncqutfaa/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytsozv7z6qzgktmhwca/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytsozv7z6qzgktmhwca/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/03206/qaebj8vsn5qf_x/index-v1-a1.m3u8?t=1g7UdrhnSCRGOX5yz9Li9CdsUOnCX7680lsdcu9-sGM&s=1703206466&e=43200&f=16032875&srv=18&asn=10310&sp=2500",
+                        "quality": "RAW - FileMoon - 1080p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/03206/qaebj8vsn5qf_x/index-v1-a1.m3u8?t=1g7UdrhnSCRGOX5yz9Li9CdsUOnCX7680lsdcu9-sGM&s=1703206466&e=43200&f=16032875&srv=18&asn=10310&sp=2500",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://filemoon.sx/e/qaebj8vsn5qf",
+                            "Origin": "https://filemoon.sx",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

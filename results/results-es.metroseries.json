@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/el-monstruo-de-la-vieja-seul/",
+                                "title": "El monstruo de la vieja Seúl",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/rabia-origen/",
+                                "title": "Rabia: Origen",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/the-convict/",
                                 "title": "The Convict",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -47,18 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/dubai-bling/",
-                                "title": "Dubai Bling",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/yu-yu-hakusho/",
-                                "title": "Yu Yu Hakusho",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/chozen/",
-                                "title": "Chozen",
+                                "url": "/kuutei-dragons/",
+                                "title": "Kuutei Dragons",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/onision-in-real-life/",
-                                "title": "Onision: In Real Life",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yjHZL3YtocXZ3j4hU3ycOqqyLhk.jpg"
+                                "url": "/girls/",
+                                "title": "Girls",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/9iURBJIh39W31KmmCunw5tSBbxB-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-convict/",
-                    "title": "The Convict",
-                    "description": "Skazana La exitosa jueza Alicja Mazur es conocida por su severidad con los criminales. La mujer es acusada inesperadamente de un asesinato que no cometió. La envían a prisión, donde tiene que sobrevivir entre las mujeres a las que ella misma condenó anteriormente. La mantiene con vida una hija adolescente y el deseo de vengarse de quienes la tendieron una trampa.",
-                    "genre": "Crimen, Drama",
+                    "url": "/el-monstruo-de-la-vieja-seul/",
+                    "title": "El monstruo de la vieja Seúl",
+                    "description": "경성크리처 En la primavera de 1945, una época lúgubre y siniestra, un hombre y una mujer luchan por sobrevivir mientras se enfrentan a monstruos nacidos de la avaricia humana.",
+                    "genre": "Action & Adventure, Drama, Misterio, Sci-Fi & Fantasy",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/el-monstruo-de-la-vieja-seul-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Episodio 7",
+                        "date_upload": 1703203200000,
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/episode/el-monstruo-de-la-vieja-seul-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - Episodio 6",
+                        "date_upload": 1703203200000,
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

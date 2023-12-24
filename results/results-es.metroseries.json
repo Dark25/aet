@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-convict/",
+                                "title": "The Convict",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/muerte-bajo-cero-2021/",
                                 "title": "Muerte bajo cero (2021)",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/carol-y-el-fin-del-mundo/",
-                                "title": "Carol y el fin del mundo",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/one-of-us-is-lying/",
-                                "title": "One of Us Is Lying",
+                                "url": "/chozen/",
+                                "title": "Chozen",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/gente-ansiosa/",
-                                "title": "Gente ansiosa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vPYIfEA4LS3tRb8wkHlENP4F14Y.jpg"
+                                "url": "/onision-in-real-life/",
+                                "title": "Onision: In Real Life",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yjHZL3YtocXZ3j4hU3ycOqqyLhk.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,9 +134,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/muerte-bajo-cero-2021/",
-                    "title": "Muerte bajo cero (2021)",
-                    "description": "Hautalehto: Kylmä Syli Thriller psicológico de 8 episodios que transcurre en Porvoo, al sur de Finlandia, donde el idílico río que atraviesa la ciudad se convierte en el escenario de unos misteriosos asesinatos. El principal sospechoso es Tero Lindfors (Onni Parviainen), un joven policía con un pasado de problemas mentales, cuyo padre trabajó durante más de veinte años con el inspector jefe Antti Hautalehto (Mikko Leppilampi). Para descubrir la verdad Hautalehto tendrá que sacar a la luz un suceso traumático del pasado.",
+                    "url": "/the-convict/",
+                    "title": "The Convict",
+                    "description": "Skazana La exitosa jueza Alicja Mazur es conocida por su severidad con los criminales. La mujer es acusada inesperadamente de un asesinato que no cometió. La envían a prisión, donde tiene que sobrevivir entre las mujeres a las que ella misma condenó anteriormente. La mantiene con vida una hija adolescente y el deseo de vengarse de quienes la tendieron una trampa.",
                     "genre": "Crimen, Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
@@ -144,21 +144,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/muerte-bajo-cero-2021-temporada-1-capitulo-8/",
-                        "name": "T01 - E08 - Bajo la superficie",
-                        "date_upload": 1642636800000,
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/muerte-bajo-cero-2021-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - Año nuevo",
-                        "date_upload": 1642032000000,
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

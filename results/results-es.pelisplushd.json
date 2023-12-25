@@ -291,8 +291,63 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/ctu5hsleeinh",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-i2srjqfsvhiwctrz.voe-network.net/engine/hls2/01/10158/ctu5hsleeinh_,n,.urlset/master.m3u8?t=dXQ_-Fd7ZDEP04I6ipqfXECi9Vn9M9JlUQHoo5nlYe8&s=1703528151&e=14400&f=50793089&node=delivery-node-i2srjqfsvhiwctrz.voe-network.net&i=40.76&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://6ly5m9agxd9r4.sw-cdnstream.com/hls2/01/02610/3vig53g8i6ng_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Nl_wLhP9KZb9DvsASFCmcsDd70N47ZkM0WyU4JRmx-Q&s=1703528144&e=129600&f=13052605&srv=mIaD2vNglNfj&i=0.4&sp=500&p1=mIaD2vNglNfj&p2=mIaD2vNglNfj&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://6ly5m9agxd9r4.sw-cdnstream.com/hls2/01/02610/3vig53g8i6ng_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Nl_wLhP9KZb9DvsASFCmcsDd70N47ZkM0WyU4JRmx-Q&s=1703528144&e=129600&f=13052605&srv=mIaD2vNglNfj&i=0.4&sp=500&p1=mIaD2vNglNfj&p2=mIaD2vNglNfj&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/3vig53g8i6ng"
+                        }
+                    },
+                    {
+                        "url": "https://gy51qnnk6ihg1lrf.enaak-cdn.com/hls2/01/01023/9smptk8mrvxp_n/index-v1-a1.m3u8?t=cjC1R6Tkqe7cZMwHc1Ii-KjP-wXPbBkWDM5y_CHIYOk&s=1703528146&e=129600&f=5116018&srv=Urm8tyidQI2k&i=0.4&sp=1500&p1=Urm8tyidQI2k&p2=Urm8tyidQI2k&asn=8075",
+                        "quality": "FileLions:720p",
+                        "videoUrl": "https://gy51qnnk6ihg1lrf.enaak-cdn.com/hls2/01/01023/9smptk8mrvxp_n/index-v1-a1.m3u8?t=cjC1R6Tkqe7cZMwHc1Ii-KjP-wXPbBkWDM5y_CHIYOk&s=1703528146&e=129600&f=5116018&srv=Urm8tyidQI2k&i=0.4&sp=1500&p1=Urm8tyidQI2k&p2=Urm8tyidQI2k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.to",
+                            "Referer": "https://filelions.to/v/9smptk8mrvxp"
+                        }
+                    },
+                    {
+                        "url": "https://6ly5m9agxd9r4.sw-cdnstream.com/hls2/01/02610/3vig53g8i6ng_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Nl_wLhP9KZb9DvsASFCmcsDd70N47ZkM0WyU4JRmx-Q&s=1703528144&e=129600&f=13052605&srv=mIaD2vNglNfj&i=0.4&sp=500&p1=mIaD2vNglNfj&p2=mIaD2vNglNfj&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://6ly5m9agxd9r4.sw-cdnstream.com/hls2/01/02610/3vig53g8i6ng_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Nl_wLhP9KZb9DvsASFCmcsDd70N47ZkM0WyU4JRmx-Q&s=1703528144&e=129600&f=13052605&srv=mIaD2vNglNfj&i=0.4&sp=500&p1=mIaD2vNglNfj&p2=mIaD2vNglNfj&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/3vig53g8i6ng"
+                        }
+                    },
+                    {
+                        "url": "https://6ly5m9agxd9r4.sw-cdnstream.com/hls2/01/02610/3vig53g8i6ng_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Nl_wLhP9KZb9DvsASFCmcsDd70N47ZkM0WyU4JRmx-Q&s=1703528144&e=129600&f=13052605&srv=mIaD2vNglNfj&i=0.4&sp=500&p1=mIaD2vNglNfj&p2=mIaD2vNglNfj&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://6ly5m9agxd9r4.sw-cdnstream.com/hls2/01/02610/3vig53g8i6ng_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Nl_wLhP9KZb9DvsASFCmcsDd70N47ZkM0WyU4JRmx-Q&s=1703528144&e=129600&f=13052605&srv=mIaD2vNglNfj&i=0.4&sp=500&p1=mIaD2vNglNfj&p2=mIaD2vNglNfj&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/3vig53g8i6ng"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=y7ZM9VXYOzu1LYV&expires=1703598146&ip=GxOsEHInDS9X&token=aeEYCyglZRuN",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=y7ZM9VXYOzu1LYV&expires=1703598146&ip=GxOsEHInDS9X&token=aeEYCyglZRuN"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -587,12 +642,12 @@
                     {
                         "url": "https://voe.sx/e/mfh4pr6ebqyk",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-4i8l9fxsiij5xecg.voe-network.net/engine/hls2/01/10074/ynlgx8pg6xqc_,n,.urlset/master.m3u8?t=Jbvn4o3k5Pfh0zE8wP4pwzW5zlmhYDKs1xQPJ16G1S0&s=1703506963&e=14400&f=50599300&node=delivery-node-4i8l9fxsiij5xecg.voe-network.net&i=20.97&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-4i8l9fxsiij5xecg.voe-network.net/engine/hls2/01/10074/ynlgx8pg6xqc_,n,.urlset/master.m3u8?t=23n3kWoWkWOqCo49dD2iiqy_WHDEDZ4-buQfR1jdiKU&s=1703528154&e=14400&f=50599300&node=delivery-node-4i8l9fxsiij5xecg.voe-network.net&i=40.76&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IgghMCaoI78_kKJ1FFok3A8ixAPHVcuKEWTo09xn_DA&s=1703506960&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "url": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=D1fHF49duE2EmXswNnAB74slqQkyinNoIvkcXtIvTBU&s=1703528152&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IgghMCaoI78_kKJ1FFok3A8ixAPHVcuKEWTo09xn_DA&s=1703506960&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "videoUrl": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=D1fHF49duE2EmXswNnAB74slqQkyinNoIvkcXtIvTBU&s=1703528152&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -601,20 +656,15 @@
                         }
                     },
                     {
-                        "url": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IgghMCaoI78_kKJ1FFok3A8ixAPHVcuKEWTo09xn_DA&s=1703506960&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "url": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=D1fHF49duE2EmXswNnAB74slqQkyinNoIvkcXtIvTBU&s=1703528152&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IgghMCaoI78_kKJ1FFok3A8ixAPHVcuKEWTo09xn_DA&s=1703506960&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "videoUrl": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=D1fHF49duE2EmXswNnAB74slqQkyinNoIvkcXtIvTBU&s=1703528152&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
                             "Referer": "https://streamwish.to/e/kbmh449o2b0v"
                         }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=MJKGXXAZQMFmKj1&expires=1703576963&ip=FROsF0EnDS9X&token=lC8if6Ie9O1T",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MJKGXXAZQMFmKj1&expires=1703576963&ip=FROsF0EnDS9X&token=lC8if6Ie9O1T"
                     }
                 ],
                 "passed": true
@@ -920,9 +970,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f2-v1-a1.m3u8?t=9JMTU-FXc_F2dCB2sEVhzpAyPrttqDQ5nRiAQEwtsQI&s=1703506965&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
+                        "url": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f2-v1-a1.m3u8?t=48B5Y2ryvLmnj1wVbiiOLex_s3jMGe_cTpknqRpho7c&s=1703528155&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f2-v1-a1.m3u8?t=9JMTU-FXc_F2dCB2sEVhzpAyPrttqDQ5nRiAQEwtsQI&s=1703506965&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
+                        "videoUrl": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f2-v1-a1.m3u8?t=48B5Y2ryvLmnj1wVbiiOLex_s3jMGe_cTpknqRpho7c&s=1703528155&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -931,9 +981,9 @@
                         }
                     },
                     {
-                        "url": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f1-v1-a1.m3u8?t=9JMTU-FXc_F2dCB2sEVhzpAyPrttqDQ5nRiAQEwtsQI&s=1703506965&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
+                        "url": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f1-v1-a1.m3u8?t=48B5Y2ryvLmnj1wVbiiOLex_s3jMGe_cTpknqRpho7c&s=1703528155&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f1-v1-a1.m3u8?t=9JMTU-FXc_F2dCB2sEVhzpAyPrttqDQ5nRiAQEwtsQI&s=1703506965&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
+                        "videoUrl": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02592/eeq4qxfdtsa9_,n,h,.urlset/index-f1-v1-a1.m3u8?t=48B5Y2ryvLmnj1wVbiiOLex_s3jMGe_cTpknqRpho7c&s=1703528155&e=129600&f=12962841&srv=ebul9l32i7iv&i=0.4&sp=500&p1=ebul9l32i7iv&p2=ebul9l32i7iv&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -942,9 +992,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=vg3VGDjkvLu2x1&expires=1703576966&ip=FROsF0EnDS9X&token=JPeYsCo1tudM",
+                        "url": "https://streamtape.com/get_video?id=vg3VGDjkvLu2x1&expires=1703598156&ip=GxOsEHInDS9X&token=JpHoz5cErbiz",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vg3VGDjkvLu2x1&expires=1703576966&ip=FROsF0EnDS9X&token=JPeYsCo1tudM"
+                        "videoUrl": "https://streamtape.com/get_video?id=vg3VGDjkvLu2x1&expires=1703598156&ip=GxOsEHInDS9X&token=JpHoz5cErbiz"
                     }
                 ],
                 "passed": true

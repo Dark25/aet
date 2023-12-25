@@ -327,35 +327,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/tvshows/the-reincarnation-of-the-strongest-exorcist-in-another-world/",
-                    "title": "The Reincarnation of the Strongest Exorcist in Another World",
-                    "description": "\nOriginal title: 最強陰陽師の異世界転生記\nFirst air date: Jan. 07, 2023\nLast air date: Apr. 01, 2023\nSeasons: 1\nEpisodes: 13",
-                    "genre": "Action & Adventure, Animation, Crunchyroll, Drama, Hindi Dub, Sci-Fi & Fantasy, Series",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/the-reincarnation-of-the-strongest-exorcist-in-another-world-season-1-episode-3/",
-                        "name": "Season 1 x 3 - The Hero the Oracles Spoke Of",
-                        "date_upload": 1674259200000,
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/episodes/the-reincarnation-of-the-strongest-exorcist-in-another-world-season-1-episode-2/",
-                        "name": "Season 1 x 2 - Academy City Lodonea",
-                        "date_upload": 1673654400000,
-                        "episode_number": 2.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tee-and-mo",
+                                "title": "Tee and Mo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933369.jpg"
+                            },
+                            {
                                 "url": "/anime/tara-duncan-2021",
                                 "title": "Tara Duncan (2021)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933368.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/one-stormy-night-secret-friends",
                                 "title": "One Stormy Night: Secret Friends",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933354.jpg"
-                            },
-                            {
-                                "url": "/anime/rev-and-roll",
-                                "title": "Rev and Roll",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933353.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tara-duncan-2021",
-                    "title": "Tara Duncan (2021)",
-                    "description": "Tara Duncan is an ordinary young girl who grew up on Earth. By going to OtherWorld, a magical planet, she will learn to control her nascent powers in order to help her family protect the lush empire of Omois of which she is the Heiress.",
-                    "genre": "Adventure, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933368.jpg",
+                    "url": "/anime/tee-and-mo",
+                    "title": "Tee and Mo",
+                    "description": "Animated adventures of a baby monkey and his mum as they experience daily life together.",
+                    "genre": "Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933369.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/tee-and-mo-episode-9-surprise",
+                        "name": "Season 1 - Episode 9",
+                        "episode_number": 109.0
+                    },
+                    {
+                        "url": "/tee-and-mo-episode-8-shelves",
+                        "name": "Season 1 - Episode 8",
+                        "episode_number": 108.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-I82BtjKwQegWcB9tcKL8vvhDVP59Ih-2hnsn_I9x2M48JtcySV6cPanw2AyTfH5z_OTwEf8D5M5LsnE4_JFGY4JbIRKzZz-63IdYp1tnaiNH081UMb1vDlQGUNYZuKLADURDb_xVgWtkKJJ188OqF7LjO3Knz6tGKEkZV3h_2qzfp5Oh1yopey5S42wcgaLyTDIIBmxPfzG-O56RpCmXEr5wLpzuXZzAPeeFuxaz4NYK3lK8UEWnH019BQhH3T8I",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-I82BtjKwQegWcB9tcKL8vvhDVP59Ih-2hnsn_I9x2M48JtcySV6cPanw2AyTfH5z_OTwEf8D5M5LsnE4_JFGY4JbIRKzZz-63IdYp1tnaiNH081UMb1vDlQGUNYZuKLADURDb_xVgWtkKJJ188OqF7LjO3Knz6tGKEkZV3h_2qzfp5Oh1yopey5S42wcgaLyTDIIBmxPfzG-O56RpCmXEr5wLpzuXZzAPeeFuxaz4NYK3lK8UEWnH019BQhH3T8I"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK88WqMTVgNTHPD1XGW0_aEIPqZLvPVzf2UThAap0582y7_Q3NAnAejzxmNFlkQuvxpEuW0AfZGdJD5dpC2i1VDIKpd4qwFiMCEg81InOZlJfn-EFdasJ98elz7w9Dg1c6QD6KVjqYeQTOGJ008zvvlDO1leM03Zp4G5hoUIWYpS2dJU10541Fl3m44JIagGQWqJiBUUBGUX-7uBN1So-yeJIvHChKHxhAnRvDQBaUsr-tqBHrfuZ-vFaw0tRO9aOsk",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK88WqMTVgNTHPD1XGW0_aEIPqZLvPVzf2UThAap0582y7_Q3NAnAejzxmNFlkQuvxpEuW0AfZGdJD5dpC2i1VDIKpd4qwFiMCEg81InOZlJfn-EFdasJ98elz7w9Dg1c6QD6KVjqYeQTOGJ008zvvlDO1leM03Zp4G5hoUIWYpS2dJU10541Fl3m44JIagGQWqJiBUUBGUX-7uBN1So-yeJIvHChKHxhAnRvDQBaUsr-tqBHrfuZ-vFaw0tRO9aOsk"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-bKliRyq6nq_XguSngjNgcTdkBsdFk_BSzrKN8NQ1blDWfvdYeO81YsX992yhqfpdyB5P5WmIv8YKyK17ht1QOLX3DUf1sK96PI1RdIidxGNOU-uq3M7CjPGL5DM2VLmsEkqPQTyy-Btb1fZD8L8tRbZuFJjscrVZzuFzO_r04hWzR5HCxkb_VQh9bkZvg4YVB6swEMqZ4agikVLk3N5IsyWyU8FAYJG7qxQRHMfPpgA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-bKliRyq6nq_XguSngjNgcTdkBsdFk_BSzrKN8NQ1blDWfvdYeO81YsX992yhqfpdyB5P5WmIv8YKyK17ht1QOLX3DUf1sK96PI1RdIidxGNOU-uq3M7CjPGL5DM2VLmsEkqPQTyy-Btb1fZD8L8tRbZuFJjscrVZzuFzO_r04hWzR5HCxkb_VQh9bkZvg4YVB6swEMqZ4agikVLk3N5IsyWyU8FAYJG7qxQRHMfPpgA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-adventures-of-napkin-man",
+                                "title": "The Adventures of Napkin Man!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933373.jpg"
+                            },
+                            {
+                                "url": "/anime/the-jungle-book-the-adventures-of-mowgli-1989",
+                                "title": "The Jungle Book: The Adventures of Mowgli (1989)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933372.jpg"
+                            },
+                            {
+                                "url": "/anime/the-99",
+                                "title": "The 99",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933371.jpg"
+                            },
+                            {
+                                "url": "/anime/teletubbies-2022",
+                                "title": "Teletubbies (2022)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933370.jpg"
+                            },
+                            {
                                 "url": "/anime/tee-and-mo",
                                 "title": "Tee and Mo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933369.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/spy-penguin",
                                 "title": "Spy Penguin",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933358.jpg"
-                            },
-                            {
-                                "url": "/anime/spike-team",
-                                "title": "Spike Team",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933357.jpg"
-                            },
-                            {
-                                "url": "/anime/metalions",
-                                "title": "Metalions",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933356.jpg"
-                            },
-                            {
-                                "url": "/anime/undead-unluck",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933355.jpg"
-                            },
-                            {
-                                "url": "/anime/one-stormy-night-secret-friends",
-                                "title": "One Stormy Night: Secret Friends",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933354.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tee-and-mo",
-                    "title": "Tee and Mo",
-                    "description": "Animated adventures of a baby monkey and his mum as they experience daily life together.",
-                    "genre": "Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933369.jpg",
+                    "url": "/anime/the-adventures-of-napkin-man",
+                    "title": "The Adventures of Napkin Man!",
+                    "description": "A teacher, Mr. Anthony, teaches his students how to deal with various emotions appropriately. Mr. Anthony helps his students learn about emotions with stories about a superhero, Napkin Man, drawn on a napkin.",
+                    "genre": "Adventure, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933373.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/tee-and-mo-episode-9-surprise",
-                        "name": "Season 1 - Episode 9",
-                        "episode_number": 109.0
-                    },
-                    {
-                        "url": "/tee-and-mo-episode-8-shelves",
-                        "name": "Season 1 - Episode 8",
-                        "episode_number": 108.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-I82BtjKwQegWcB9tcKL8vvhDVP59Ih-2hnsn_I9x2M48JtcySV6cPanw2AyTfH5z_OTwEf8D5M5LsnE4_JFGY4JbIRKzZz-63IdYp1tnaiNH081UMb1vDlQGUNYZuKLADURDb_xVgWtkKJJ188OqFUFgefc6hkqgY6rDw9VEP-96uQnY_5dWwdgecR2RdqLZnx6-osrngeRWoQ3zdfGlWwlneHjDdo-EExnfs-sn6J5Do9LIrxureubFhBRUviFc",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-I82BtjKwQegWcB9tcKL8vvhDVP59Ih-2hnsn_I9x2M48JtcySV6cPanw2AyTfH5z_OTwEf8D5M5LsnE4_JFGY4JbIRKzZz-63IdYp1tnaiNH081UMb1vDlQGUNYZuKLADURDb_xVgWtkKJJ188OqFUFgefc6hkqgY6rDw9VEP-96uQnY_5dWwdgecR2RdqLZnx6-osrngeRWoQ3zdfGlWwlneHjDdo-EExnfs-sn6J5Do9LIrxureubFhBRUviFc"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK88WqMTVgNTHPD1XGW0_aEIPqZLvPVzf2UThAap0582y7_Q3NAnAejzxmNFlkQuvxpEuW0AfZGdJD5dpC2i1VDIKpd4qwFiMCEg81InOZlJfn-EFdasJ98elz7w9Dg1c6QD6KVjqYeQTOGJ008zvvlDqnqm_QL8yx9bseYMyelv2vSo65LQdIyoeOzaj-t1_9mI7bGSL0OAeFs7c_Qnee5vEsF9nq3DB5nJ0-5_fGMwqBgHBp6RSsBgSpPSv8rtjM8",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK88WqMTVgNTHPD1XGW0_aEIPqZLvPVzf2UThAap0582y7_Q3NAnAejzxmNFlkQuvxpEuW0AfZGdJD5dpC2i1VDIKpd4qwFiMCEg81InOZlJfn-EFdasJ98elz7w9Dg1c6QD6KVjqYeQTOGJ008zvvlDqnqm_QL8yx9bseYMyelv2vSo65LQdIyoeOzaj-t1_9mI7bGSL0OAeFs7c_Qnee5vEsF9nq3DB5nJ0-5_fGMwqBgHBp6RSsBgSpPSv8rtjM8"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-bKliRyq6nq_XguSngjNgcTdkBsdFk_BSzrKN8NQ1blDWfvdYeO81YsX992yhqfpdyB5P5WmIv8YKyK17ht1QOLX3DUf1sK96PI1RdIidxGNOU-uq3M7CjPGL5DM2VLmsEkqPQTyy-Btb1fZD8L8tRWAHMkNOYFfWGAX4_NdFP4n30CThs0Nc6sh__N1dxIKnAtGOo7bWxG1Rb0icP2XsethvGsHJCzx8QBUYGIRBvcQ",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJszIYJjdFFsl5WwDhRrmVxVZylMgnpN42nTy00aM8uvmdZ82391J9tKD5JHe2T-RYdEUPGFFfo8akkRc2r9cfK-bKliRyq6nq_XguSngjNgcTdkBsdFk_BSzrKN8NQ1blDWfvdYeO81YsX992yhqfpdyB5P5WmIv8YKyK17ht1QOLX3DUf1sK96PI1RdIidxGNOU-uq3M7CjPGL5DM2VLmsEkqPQTyy-Btb1fZD8L8tRWAHMkNOYFfWGAX4_NdFP4n30CThs0Nc6sh__N1dxIKnAtGOo7bWxG1Rb0icP2XsethvGsHJCzx8QBUYGIRBvcQ"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

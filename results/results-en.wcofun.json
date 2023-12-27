@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-dogfather-1974",
+                                "title": "The Dogfather 1974",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933382.jpg"
+                            },
+                            {
                                 "url": "/anime/the-blue-racer",
                                 "title": "The Blue Racer",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933381.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/supernatural-academy",
                                 "title": "Supernatural Academy",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933367.jpg"
-                            },
-                            {
-                                "url": "/anime/superkitties",
-                                "title": "Superkitties",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933366.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-blue-racer",
-                    "title": "The Blue Racer",
-                    "description": "Japanese Beetle helps the lonely Blue Racer make friends with humans. Beetle tries everything from making him a pet who can sing and do tricks, disguising him as a dog, and joining a hippie parade. However, all plans fail.",
+                    "url": "/anime/the-dogfather-1974",
+                    "title": "The Dogfather 1974",
+                    "description": "The Dogfather was a series of 17 cartoons produced by DePatie-Freleng Enterprises and released between 1974 and 1976. It is the final theatrical cartoon series made by DePatie-Freleng.",
                     "genre": "Comedy, Short, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933381.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933382.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-blue-racer-episode-17-little-boa-peep",
-                        "name": "Season 1 - Episode 17",
-                        "episode_number": 117.0
-                    },
-                    {
-                        "url": "/the-blue-racer-episode-16-aches-and-snakes",
-                        "name": "Season 1 - Episode 16",
-                        "episode_number": 116.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiwgbqCfiu2AelfIcZmvI67Mjy3zOGw65jVTnGs11gJ8f5gLEBD22DJGQw5A0ALIG0Mr7wJHjMqBVqzPCX9CujGF7V_-ET6Ok0n9lbO4twlga0CJn2aaQmbq8RtKYcUhs6fq-jz84mWGhkbgh_Kj4JNebqmnifJQsYhEzYvF9OKAhdkapgH_uLM51t6sDX0Sl3FwDBKw4awhe7kcPtw47elAyymRxS9JcnEsDa2pJYLH3ZpY1wPHkcfKrjnBAz8tL_pg9b63NUGR9ymWUJ3bH4H1bShkbujc8oS-qVsEClIQViXEuOrdOf6ia6NGC8ykXr5hlvEmJMMNiLEGMUfXqWawj8wh4rkj4Y12Y5fJikEG",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiwgbqCfiu2AelfIcZmvI67Mjy3zOGw65jVTnGs11gJ8f5gLEBD22DJGQw5A0ALIG0Mr7wJHjMqBVqzPCX9CujGF7V_-ET6Ok0n9lbO4twlga0CJn2aaQmbq8RtKYcUhs6fq-jz84mWGhkbgh_Kj4JNebqmnifJQsYhEzYvF9OKAhdkapgH_uLM51t6sDX0Sl3FwDBKw4awhe7kcPtw47elAyymRxS9JcnEsDa2pJYLH3ZpY1wPHkcfKrjnBAz8tL_pg9b63NUGR9ymWUJ3bH4H1bShkbujc8oS-qVsEClIQViXEuOrdOf6ia6NGC8ykXr5hlvEmJMMNiLEGMUfXqWawj8wh4rkj4Y12Y5fJikEG"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiwgbqCfiu2AelfIcZmvI67Mjy3zOGw65jVTnGs11gJ8f5gLEBD22DJGQw5A0ALIG0Mr7wJHjMqBVqzPCX9CujGF7V_-ET6Ok0n9lbO4twlgw9a8wUNt_ISS1LkiG71LWrqN_fnLD5Pxq4M-xl2WtukyKIiTsjySkMilw2mUbCM-w5DzLU_Bt26I-9RLIhZDrVQMLgOx7T7B6lu6kHNjZK9wXvnm0Os2ncrdhAfNrXxzhQHXG0ulcUmJadE24g65jL5ocNf9KU5lbG9hEWpFHKKk7-WygevlJ3n0BpOWwqQZSm5QTVS46aib5pfYXODbFZ6nohbXL85Zcc7kA4KSSvOXVec-PzN0_Tm68r067QwL",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiwgbqCfiu2AelfIcZmvI67Mjy3zOGw65jVTnGs11gJ8f5gLEBD22DJGQw5A0ALIG0Mr7wJHjMqBVqzPCX9CujGF7V_-ET6Ok0n9lbO4twlgw9a8wUNt_ISS1LkiG71LWrqN_fnLD5Pxq4M-xl2WtukyKIiTsjySkMilw2mUbCM-w5DzLU_Bt26I-9RLIhZDrVQMLgOx7T7B6lu6kHNjZK9wXvnm0Os2ncrdhAfNrXxzhQHXG0ulcUmJadE24g65jL5ocNf9KU5lbG9hEWpFHKKk7-WygevlJ3n0BpOWwqQZSm5QTVS46aib5pfYXODbFZ6nohbXL85Zcc7kA4KSSvOXVec-PzN0_Tm68r067QwL"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiwgbqCfiu2AelfIcZmvI67Mjy3zOGw65jVTnGs11gJ8f5gLEBD22DJGQw5A0ALIG0Mr7wJHjMqBVqzPCX9CujGF7V_-ET6Ok0n9lbO4twlg8CDjn8XxClCMM11hmdFyQN7ZhZHlq8-M2SdplTva6_8o4Cvp1Vi4uic8bxUsTSHYuqezokxoUpebXbxNBTHsJCdB3q-MU6cv6EAVIu9YM5LdpD6O0S5wRIU27nBRPz-B7DZg2MD8ICp1MtvtGvSgcvA7mfmSuWmahUJFx5DwPmk8pKZ1EiJv9_c_1yH8XeWuRQcug1uj3tslsQXyPIug_OpTp2efE7xRtufcqWbqagg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiwgbqCfiu2AelfIcZmvI67Mjy3zOGw65jVTnGs11gJ8f5gLEBD22DJGQw5A0ALIG0Mr7wJHjMqBVqzPCX9CujGF7V_-ET6Ok0n9lbO4twlg8CDjn8XxClCMM11hmdFyQN7ZhZHlq8-M2SdplTva6_8o4Cvp1Vi4uic8bxUsTSHYuqezokxoUpebXbxNBTHsJCdB3q-MU6cv6EAVIu9YM5LdpD6O0S5wRIU27nBRPz-B7DZg2MD8ICp1MtvtGvSgcvA7mfmSuWmahUJFx5DwPmk8pKZ1EiJv9_c_1yH8XeWuRQcug1uj3tslsQXyPIug_OpTp2efE7xRtufcqWbqagg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

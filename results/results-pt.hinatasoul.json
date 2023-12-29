@@ -37,6 +37,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/309751",
+                                "title": " Jujutsu Kaisen 2nd Season - Dublado ep 20",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309751/1.jpg"
+                            },
+                            {
+                                "url": "/videos/309745",
+                                "title": " Mahoutsukai no Yome Season 2 Part 2 - Dublado ep 10",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309745/1.jpg"
+                            },
+                            {
+                                "url": "/videos/309743",
+                                "title": " Eyeshield 21 - Dublado ep 13",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309743/1.jpg"
+                            },
+                            {
+                                "url": "/videos/309741",
+                                "title": "Jujutsu Kaisen 2nd Season ep 23",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309741/1.jpg"
+                            },
+                            {
                                 "url": "/videos/309739",
                                 "title": "Hikikomari Kyuuketsuki no Monmon ep 11",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309739/1.jpg"
@@ -175,26 +195,6 @@
                                 "url": "/videos/309574",
                                 "title": "Xian Wang de Richang Shenghuo 4 ep 3",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309574/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309571",
-                                "title": " Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo ep 12",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309571/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309568",
-                                "title": " Captain Tsubasa Season 2: Junior Youth-hen ep 13",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309568/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309567",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su ep 13",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309567/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309561",
-                                "title": " Captain Tsubasa Season 2: Junior Youth-hen - Dublado ep 8",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309561/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -333,16 +333,59 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/7243187243871427834187243871243784128734189",
+                    "title": "Naruto Shippuden",
+                    "artist": "Studio Pierrot",
+                    "author": "Masashi Kishimoto",
+                    "description": "\n\nTítulos Alternativos: Naruto Shippuuden, Naruto: Shippuden, NARUTO: Shippuuden\nAno: 2007\nTemporada: Inverno",
+                    "genre": "Ação, Artes Marciais, Comédia, Shounen, Superpoder",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.anicdn.net/media/categories/video/017d73a6c1a47ccf6fc667f95692eadf956.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/263139",
+                        "name": "Naruto Shippuden ep 500 - FINAL",
+                        "date_upload": 1490259240000,
+                        "episode_number": 500.0
+                    },
+                    {
+                        "url": "/videos/249788",
+                        "name": "Naruto Shippuden ep 499",
+                        "date_upload": 1525478400000,
+                        "episode_number": 499.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://www.hinatasoul.com"
+                        }
+                    },
+                    {
+                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://www.hinatasoul.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

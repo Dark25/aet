@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/rubble-y-equipo/",
+                                "title": "Rubble y Equipo",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/berlin/",
+                                "title": "Berlín",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/nadie-es-perfecto/",
                                 "title": "Nadie es perfecto",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -47,18 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/rabia-origen/",
-                                "title": "Rabia: Origen",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/the-convict/",
-                                "title": "The Convict",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/joran-the-princess-of-snow-and-blood/",
-                                "title": "Joran The Princess of Snow and Blood",
+                                "url": "/the-last-ship/",
+                                "title": "The Last Ship",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/maya-y-los-tres/",
-                                "title": "Maya y los tres",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zc1nMTDGRxazYawj4nbETaEpX60.jpg"
+                                "url": "/la-reina-blanca/",
+                                "title": "La reina blanca",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/syr9yeahdtEBSdiayJi9SFsgmf4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/nadie-es-perfecto/",
-                    "title": "Nadie es perfecto",
-                    "description": "Not So Pretty Una investigación sobre la industria de la belleza.",
-                    "genre": "Documental",
+                    "url": "/rubble-y-equipo/",
+                    "title": "Rubble y Equipo",
+                    "description": "Rubble & Crew Rubble se embarca en aventuras con toda una nueva pandilla de cachorros; los cachorros utilizan increíbles vehículos de construcción para construir y reparar cosas en la ciudad de Builder Cove.",
+                    "genre": "Animación, Kids",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/nadie-es-perfecto-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - Episodio 4",
-                        "date_upload": 1649894400000,
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/episode/nadie-es-perfecto-temporada-1-capitulo-3/",
-                        "name": "T01 - E03 - Episodio 3",
-                        "date_upload": 1649894400000,
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

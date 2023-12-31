@@ -1761,41 +1761,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=Kw46eJYnhr9vSC3bHBIUqg&e=1704024994&_t=1704005280",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=Kw46eJYnhr9vSC3bHBIUqg&e=1704024994&_t=1704005280",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=7TVk0uV3oOW3emDn8smJHg&e=1704024993&_t=1704010421",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=7TVk0uV3oOW3emDn8smJHg&e=1704024993&_t=1704010421",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1704073394&ip=FROsD0AAKxSHDN&token=ZE75gWAn3jfb",
-                        "quality": "Streamtape(LEGENDADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1704073394&ip=FROsD0AAKxSHDN&token=ZE75gWAn3jfb"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1704073394&ip=FROsD0AAKxSHDN&token=MzN2fAg0cJrh",
-                        "quality": "Streamtape(DUBLADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1704073394&ip=FROsD0AAKxSHDN&token=MzN2fAg0cJrh"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

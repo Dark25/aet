@@ -283,13 +283,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/channel/berlin-2023/",
-                    "description": "Back to his golden age before the events of “Money Heist,” Berlin and a masterful gang gather in Paris to plan one of his most ambitious robberies ever.",
-                    "genre": "Action, Crime, Drama",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [

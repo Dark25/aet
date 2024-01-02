@@ -139,8 +139,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://videa.hu/static/480p/7.1311749.2118904.1.11.1.1?md5=OC7pvtJOZyBxm9uOVrL8Vw&expires=1704248285",
+                        "quality": "Videa - 480p",
+                        "videoUrl": "https://videa.hu/static/480p/7.1311749.2118904.1.11.1.1?md5=OC7pvtJOZyBxm9uOVrL8Vw&expires=1704248285",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=RsboPQeml8skVN5j",
+                            "origin": "https://videa.hu"
+                        }
+                    },
+                    {
+                        "url": "https://videa.hu/static/240p/7.1311749.2118904.1.11.1.1?md5=17dWtAiYiFJ-k-mHxWAV8g&expires=1704248285",
+                        "quality": "Videa - 240p",
+                        "videoUrl": "https://videa.hu/static/240p/7.1311749.2118904.1.11.1.1?md5=17dWtAiYiFJ-k-mHxWAV8g&expires=1704248285",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=RsboPQeml8skVN5j",
+                            "origin": "https://videa.hu"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

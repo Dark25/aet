@@ -306,7 +306,7 @@
                 "result": {
                     "url": "/anime/5034/shikabane_hime_kuro",
                     "title": "Shikabane Hime: Kuro",
-                    "description": "Uma continuação direta de Shikabane Hime: Aka, ocorrendo seis meses após a morte de Tagami Keisei nas mãos dos Shichisei (Sete Estrelas), um grupo de elite Shikabane que age com base em mais do que apenas arrependimentos. De acordo com o último desejo de Keisei, Kagami Ouri formou um contrato temporário com Makina para salvá-la de degenerar em Shikabane. Desde então, Ouri vem treinando para se tornar um monge de verdade, para que possa permanecer contratado por Makina e ajudá-la a lutar contra os Shichisei - aqueles que originalmente mataram Makina, toda a família Hoshimura e agora Keisei. No entanto, o monge traidor Shishidou Akasha se aliou aos Shichisei em uma tentativa de destruir todos os Shikabane Hime e toda a organização monge que os utiliza - a Seita Kougon.\n\nTítulos Alternativos: Shikabane Hime Second Season, Corpse Princess: Kuro, 屍姫 玄\nTipo: Série\nAno: 2009\n",
+                    "description": "Uma continuação direta de Shikabane Hime: Aka, ocorrendo seis meses após a morte de Tagami Keisei nas mãos dos Shichisei (Sete Estrelas), um grupo de elite Shikabane que age com base em mais do que apenas arrependimentos. De acordo com o último desejo de Keisei, Kagami Ouri formou um contrato temporário com Makina para salvá-la de degenerar em Shikabane. Desde então, Ouri vem treinando para se tornar um monge de verdade, para que possa permanecer contratado por Makina e ajudá-la a lutar contra os Shichisei - aqueles que originalmente mataram Makina, toda a família Hoshimura e agora Keisei. No entanto, o monge traidor Shishidou Akasha se aliou aos Shichisei em uma tentativa de destruir todos os Shikabane Hime e toda a organização monge que os utiliza - a Seita Kougon.\n\nTítulos Alternativos: Shikabane Hime Second Season, Corpse Princess: Kuro, 屍姫 玄\nTipo: Série\nAno: 2009\nMídias: 12\n",
                     "genre": "Ação, Shounen, Sobrenatural, Terror, Inverno de 2009",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -316,8 +316,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/5034/shikabane_hime_kuro/episodio/12/legendado",
+                        "name": "Episódio 12",
+                        "episode_number": 12.0,
+                        "scanlator": "legendado"
+                    },
+                    {
+                        "url": "/anime/5034/shikabane_hime_kuro/episodio/11/legendado",
+                        "name": "Episódio 11",
+                        "episode_number": 11.0,
+                        "scanlator": "legendado"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7447-rapunzel-la-serie",
+                                "title": "Rapunzel: La serie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d5d7a6dc-4cfb-4e5b-83db-6bd2c5a7dd4d.webp"
+                            },
+                            {
+                                "url": "7446-missione-hamburger",
+                                "title": "Missione Hamburger",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/445dd266-3804-4ecb-a8ba-6b647d794c0f.webp"
+                            },
+                            {
                                 "url": "7445-il-nemico",
                                 "title": "Il nemico",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/43e6907c-5c15-4955-b86a-2e4935583c7f.webp"
@@ -605,16 +615,6 @@
                                 "url": "7371-il-pataffio",
                                 "title": "Il pataffio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b4e33db3-a33e-453d-86fb-7c6ceeb80dca.webp"
-                            },
-                            {
-                                "url": "7370-tutto-o-niente-arsenal",
-                                "title": "Tutto o niente: Arsenal",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/225b6b11-ea36-4f17-93f1-77dccb8d165b.webp"
-                            },
-                            {
-                                "url": "7369-operation-seawolf-missione-finale",
-                                "title": "Operation Seawolf - Missione Finale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a5775161-405d-4cc7-b7ca-c271e7394fd7.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-9167980425628953739/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-9167980425628953739/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-9167980425628953739/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-9167980425628953739/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

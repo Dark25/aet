@@ -1273,49 +1273,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/Accel World Complete/",
-                                "title": "Accel World Complete 2019-11-14 02:05 30080191 KB",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/Kono Subarashii Sekai ni Shukufuku wo! + OVA～KonoSuba God's Blessing on This Wonderful World!/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! + OVA～KonoSuba God's Blessing on This Wonderful World! 2019-11-14 02:47 16324065 KB",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/Kono Subarashii Sekai ni Shukufuku wo! 2～KonoSuba God's Blessing on This Wonderful World! 2/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 2～KonoSuba God's Blessing on This Wonderful World! 2 2020-02-10 20:31 104 KB",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/Musaigen no Phantom World Vol.1-4/",
-                                "title": "Musaigen no Phantom World Vol.1-4 2020-11-23 17:45 4962252 KB",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/Re Zero Kara Hajimeru Isekai Seikatsu～Re Zero - Starting Life in Another World/",
-                                "title": "Re Zero Kara Hajimeru Isekai Seikatsu～Re Zero - Starting Life in Another World 2019-11-14 20:12 27371149 KB",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/Shin Sekai Yori～From the New World + OST/",
-                                "title": "Shin Sekai Yori～From the New World + OST 2021-01-15 05:00 35285581 KB",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/Sword Art Online - Alicization - War of Underworld/",
-                                "title": "Sword Art Online - Alicization - War of Underworld 2020-10-11 12:06 52705610 KB",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {

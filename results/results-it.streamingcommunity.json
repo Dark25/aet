@@ -319,12 +319,12 @@
                             {
                                 "url": "7447-rapunzel-la-serie",
                                 "title": "Rapunzel: La serie",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d5d7a6dc-4cfb-4e5b-83db-6bd2c5a7dd4d.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e9c79bd-6103-4783-9328-e5fd7002c179.webp"
                             },
                             {
                                 "url": "7446-missione-hamburger",
                                 "title": "Missione Hamburger",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/445dd266-3804-4ecb-a8ba-6b647d794c0f.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a5579af1-0538-45da-88cc-a051032d3d56.webp"
                             },
                             {
                                 "url": "7445-il-nemico",
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-9167980425628953739/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-9167980425628953739/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-9167980425628953739/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-9167980425628953739/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-8551984247818063470/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-8551984247818063470/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-8551984247818063470/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-8551984247818063470/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

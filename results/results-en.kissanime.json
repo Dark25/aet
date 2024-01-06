@@ -277,7 +277,7 @@
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Phantom-of-the-Idol-Dub.jpg"
                             },
                             {
-                                "url": "/Anime/JUJUTSU-KAISEN-Season-2-Dub/",
+                                "url": "/Anime/jujutsu-kaisen-season-2-dub.89732/",
                                 "title": "JUJUTSU KAISEN Season 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/JUJUTSU-KAISEN-Season-2-Dub.jpg"
                             },
@@ -397,7 +397,7 @@
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Dark-Gathering-Dub.jpg"
                             },
                             {
-                                "url": "/Anime/Captain-Tsubasa-Junior-Youth-Arc-Dub/",
+                                "url": "/Anime/captain-tsubasa-junior-youth-arc-dub.18489/",
                                 "title": "Captain Tsubasa: Junior Youth Arc (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Captain-Tsubasa-Junior-Youth-Arc-Dub.jpg"
                             },
@@ -1057,8 +1057,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s46.openstream.io/hls/qvsbi3nwmxblgwsztszkaz65bwdhg2fe5lcw2fvrtsw3o4s7tjfrxqwka3ba/index-v1-a1.m3u8",
+                        "quality": "Oserver - 1080p",
+                        "videoUrl": "https://s46.openstream.io/hls/qvsbi3nwmxblgwsztszkaz65bwdhg2fe5lcw2fvrtsw3o4s7tjfrxqwka3ba/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s46.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pon-no-michi",
+                                "title": "Pon no Michi",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4099.webp"
+                            },
+                            {
                                 "url": "/chiyu-mahou-no-machigatta-tsukaikata",
                                 "title": "Chiyu Mahou no Machigatta Tsukaikata",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Digimon Adventure 02: The Beginning",
                                 "status": 2,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4080.webp"
-                            },
-                            {
-                                "url": "/psycho-pass-movie-providence",
-                                "title": "Psycho-Pass Movie: Providence",
-                                "status": 2,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4079.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,24 +264,45 @@
             },
             "details": {
                 "result": {
-                    "url": "/chiyu-mahou-no-machigatta-tsukaikata",
-                    "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                    "description": "Ken Usato es un estudiante de secundaria normal en todos los sentidos de la palabra: calificaciones promedio, sueños y una tendencia a no gustarle la gente extraordinaria. Sin embargo, cuando se encuentra con el presidente y el vicepresidente del consejo estudiantil, tanto populares como extraordinarios, inmediatamente se hace amigo de ellos. Todo esto se interrumpe cuando los nuevos amigos de Ken son convocados a otro mundo, ¡y él también es convocado accidentalmente!",
-                    "genre": "Acción, Fantasía",
+                    "url": "/pon-no-michi",
+                    "title": "Pon no Michi",
+                    "description": "Nashiko Jippensha, una chica de secundaria que vivía en la ciudad de Onomichi, prefectura de Hiroshima, estaba en problemas después de que la echaran de su casa. Ella dijo: \"No tengo un lugar para pasar el rato con mis amigos...\" Cuando Naoko se enteró de que el salón que solía dirigir su padre ahora estaba vacío, decidió reconstruirlo para convertirlo en un lugar donde todos pudieran reunirse.",
+                    "genre": "Comedia, Recuentos de la vida, Sobrenatural",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4098.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4099.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/pon-no-michi-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/lpohbjy5lzet",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-tbrhqa7kmr6tsjqh.voe-network.net/engine/hls2/01/10234/lpohbjy5lzet_,n,.urlset/master.m3u8?t=OBkooBetqXDxekeATy6UvlXgfR5nz_hhpPsCH5V5fIA&s=1704502566&e=14400&f=51171254&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=20.75&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwx3r5h5z3b4quuop2qq6osxk4o2te5lk2o55mneisg64ldmoetijg6rh2b2okwc43ndiau7/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwx3r5h5z3b4quuop2qq6osxk4o2te5lk2o55mneisg64ldmoetijg6rh2b2okwc43ndiau7/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
+                            {
                                 "url": "/mahoutsukai-no-yome-season-2-part-2-12-bolum-final",
                                 "title": "Mahoutsukai no Yome Season 2 Part 2",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180470001696685701.webp"
@@ -40,11 +45,6 @@
                                 "url": "/spy-x-family-season-2-12-bolum-final",
                                 "title": "Spy x Family Season 2",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181.webp"
-                            },
-                            {
-                                "url": "/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
                             },
                             {
                                 "url": "/hametsu-no-oukoku-12-bolum-final",
@@ -96,6 +96,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
                             {
                                 "url": "/undead-unluck",
                                 "title": "Undead Unluck",
@@ -180,11 +185,6 @@
                                 "url": "/saihate-no-paladin-tetsusabi-no-yama-no-ou",
                                 "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180810001699780137.webp"
-                            },
-                            {
-                                "url": "/undead-unluck",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180600001697223781.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -353,16 +353,67 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/sousou-no-frieren",
+                    "title": "Sousou no Frieren",
+                    "artist": "Madhouse",
+                    "description": "Büyücü Frieren, Kahraman Himmel, Rahip Heiter ve Cengaver Eisen'den oluşan kahraman ekibi, Şeytan Kral'ı alt eder ve dağılmadan önce evin yolunu tutarlar. Döndüklerinde ise yaklaşık on yıl süren yolculuklarını yâd ederler fakat elfler için on yıl, diğerlerine kıyasla çok kısa bir zaman dilimidir. Bu yüzden Frieren yoldaşlarının yavaş yavaş birer birer öldüğüne şahit olur. Heiter ömrünün sonlarına yaklaştığında Fern adında küçük bir kızı Frieren'in çırağı yapar. Bir sürü büyü toplamak yola çıkan bu ikili, eski kahraman ekibinin ziyaret ettiği yerleri tekrar ziyaret ederek amacı olmayan bir yola koyulur. Yolculukları boyunca Frieren, rahmetli olan yoldaşlarıyla daha derin bağlar kurmak için teptiği fırsatlardan duyduğu pişmanlıklarla yavaş yavaş yüzleşir.\nDiğer adlar: Frieren: Beyond Journey's End, Frieren at the Funeral\nJaponca İsmi: 葬送のフリーレン\nStüdyo: Madhouse",
+                    "genre": "Macera, Dram, Fantastik",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341l.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sousou-no-frieren-17-bolum",
+                        "name": "17. Bölüm",
+                        "episode_number": 17.0
+                    },
+                    {
+                        "url": "/sousou-no-frieren-16-bolum",
+                        "name": "16. Bölüm",
+                        "episode_number": 16.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/u3fksbntfh56",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/10238/fd7kmbm0zfn8_,n,.urlset/master.m3u8?t=zUqk5vwAeE2Ym1ayaE9s6B4Lp9w66FApm-UIPUalUeo&s=1704543838&e=14400&f=51192784&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=40.76&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/fd7kmbm0zfn8",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/10238/fd7kmbm0zfn8_,n,.urlset/master.m3u8?t=nxOQ-kCGO8PmeHrobbOdZ686CCIFmcSqheOyiatKzM0&s=1704543839&e=14400&f=51192753&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=40.76&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=tV216SslTJWk8U9dicR90ALN%2Bi2Q8c1TKenueUoIaDxQHGoJMnCk%2B%2Bd%2FWyQRtba5xtMtEujwUMnF6jt8lqWM9v4Juq5PKbOMyrErNkiJM%2F%2Fet%2BAmUzWAwlfAYQ1w5A79kpg5bsIk%2Fdud9GEDbzxRhK84Y7E5E1ambc4BKWebDuv7b8Hqu0Z5FNgruepiDjYBU%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=tV216SslTJWk8U9dicR90ALN%2Bi2Q8c1TKenueUoIaDxQHGoJMnCk%2B%2Bd%2FWyQRtba5xtMtEujwUMnF6jt8lqWM9v4Juq5PKbOMyrErNkiJM%2F%2Fet%2BAmUzWAwlfAYQ1w5A79kpg5bsIk%2Fdud9GEDbzxRhK84Y7E5E1ambc4BKWebDuv7b8Hqu0Z5FNgruepiDjYBU%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://m30.uqload.io/3rfkn62zsjw2q4drdjt7vlvulmkubli5dzhtm6kizcpgyd7u6t6yh3pxnwrq/v.mp4",
+                        "quality": "[Holy] Uqload",
+                        "videoUrl": "https://m30.uqload.io/3rfkn62zsjw2q4drdjt7vlvulmkubli5dzhtm6kizcpgyd7u6t6yh3pxnwrq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/1fc6e7b30371ff4d47bd5d5649611c5f/5389031.mp4",
+                        "quality": "[Holy] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/1fc6e7b30371ff4d47bd5d5649611c5f/5389031.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5389031"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

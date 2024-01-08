@@ -3,108 +3,12 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/odekake-kozame",
-                                "title": "Odekake Kozame",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180310001694005862.webp"
-                            },
-                            {
-                                "url": "/odekake-kozame",
-                                "title": "Odekake Kozame",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180310001694005862.webp"
-                            },
-                            {
-                                "url": "/kekkon-yubiwa-monogatari",
-                                "title": "Kekkon Yubiwa Monogatari",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181080001704698341.webp"
-                            },
-                            {
-                                "url": "/kyokou-suiri-season-2-12-bolum-final",
-                                "title": "Kyokou Suiri Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180120001689716582.webp"
-                            },
-                            {
-                                "url": "/kusuriya-no-hitorigoto",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180680001698001141.webp"
-                            },
-                            {
-                                "url": "/mashle-2nd-season",
-                                "title": "Mashle 2nd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181070001704650102.webp"
-                            },
-                            {
-                                "url": "/saihate-no-paladin-tetsusabi-no-yama-no-ou-12-bolum-final",
-                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180810001699780137.webp"
-                            },
-                            {
-                                "url": "/boku-no-kokoro-no-yabai-yatsu-season-2",
-                                "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181060001704618302.webp"
-                            },
-                            {
-                                "url": "/one-piece",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/3.webp"
-                            },
-                            {
-                                "url": "/kanojo-mo-kanojo-season-2",
-                                "title": "Kanojo mo Kanojo Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180670001697921462.webp"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181050001704573061.webp"
-                            },
-                            {
-                                "url": "/yubisaki-to-renren",
-                                "title": "Yubisaki to Renren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181040001704571622.webp"
-                            },
-                            {
-                                "url": "/kanojo-mo-kanojo-season-2",
-                                "title": "Kanojo mo Kanojo Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180670001697921462.webp"
-                            },
-                            {
-                                "url": "/chiyu-mahou-no-machigatta-tsukaikata",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181030001704554101.webp"
-                            },
-                            {
-                                "url": "/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
-                            },
-                            {
-                                "url": "/undead-unluck",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180600001697223781.webp"
-                            },
-                            {
-                                "url": "/kawaisugi-crisis",
-                                "title": "Kawaisugi Crisis",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179520001681712341.webp"
-                            },
-                            {
-                                "url": "/mahoutsukai-no-yome-season-2-part-2-12-bolum-final",
-                                "title": "Mahoutsukai no Yome Season 2 Part 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180470001696685701.webp"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -268,12 +172,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/odekake-kozame",
-                    "title": "Odekake Kozame",
-                    "artist": "ENGI",
-                    "description": "Nostalji dolu Yauo Kasabasında bir yavru köpekbalığının maceraları. İster bir yaz gününde elma şarabı, ister dondurma, radyo jimnastiği, festival tezgahları veya arkadaşlarla takılma olsun, yavru köpekbalığının gözlerinden yansıyan dünya parlıyor.\nDiğer adlar: Little Shark's Outings, Outgoing Baby Shark\nJaponca İsmi: おでかけ子ザメ\nStüdyo: ENGI",
-                    "genre": "Yaşamdan Kesitler",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/180310001694005862l.webp",
+                    "url": "/accel-world",
+                    "title": "Accel World",
+                    "artist": "Sunrise",
+                    "description": "Teknolojinin gelişmesiyle dünyaya alternatif olarak Neuro Linker adlı aletle girilebilen sanal bir dünya yapılmıştır. Haruyuki (Haru) Arita kısa boylu, şişman, okulda diğer öğrenciler tarafından devamlı ezilen, asosyal bir kişilik olmasından dolayı, gerçek dünyadan bir beklentisi kalmamış ve kendisini sanal oyunlara vermiştir. Okulun en popüler öğrencilerinden biri olan Kuroyukihime, Haru nun oyunlardaki başarısından etkilenir ve onu Brain Burst adlı programla tanıştırır. Bu program beyin dalgalarını hızlandırarak bir anlamda gerçek hayatı durdurup ani olaylar karşısında doğru hareket edebilmeyi sağlamaktadır. Bu program Haru nun sosyal hayatını düzeltmesine yardımcı olacaktır. Fakat programı kullanmak için Burst puanları gereklidir ve bu puanları kazanmanın tek yolu sanal ortamda diğer Brain Burst kullanıcıları ile dövüşüp\nDiğer adlar: Accelerated World\nJaponca İsmi: アクセル・ワールド\nStüdyo: Sunrise",
+                    "genre": "Aksiyon, Romantizm, Bilim-Kurgu, Shounen, Oyun, Okul",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/14l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -281,84 +185,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/odekake-kozame-12-bolum",
-                        "name": "12. Bölüm",
-                        "episode_number": 12.0
+                        "url": "/accel-world-special-8-bolum-final",
+                        "name": "Special 8. Bölüm Final",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/odekake-kozame-11-bolum",
-                        "name": "11. Bölüm",
-                        "episode_number": 11.0
+                        "url": "/accel-world-special-7-bolum",
+                        "name": "Special 7. Bölüm",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoBDACagoKCAgDEAEYASACcgYKBAgDEAJ4Wwdm1-cqMjyS/fn/track.m3u8",
-                        "quality": "[AlucardSubs] Okru:720p",
-                        "videoUrl": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoBDACagoKCAgDEAEYASACcgYKBAgDEAJ4Wwdm1-cqMjyS/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/Rkg0cDRBcGRldndCNFhXQm5RV2NmaG13dTJNcFdDcUVvd0Y4emZEbGtHWkVDOVozMTg0OHFKRm5qVHdoZjV2dEIxZTZaYVlwa1BoKzlzSkROYmhGVDJsanpsQ3I4Rjh2dnJiTGwvL0txNkhLQmI0NTVqZ2QvZ1g1c3JzODBkQ29SVjczL1RadTdhcXJDb1BpWHVhNmx6b1lMd0RxOGc5K0tvdlNueXlLOW81TWpjeEU1d1VNZUdxT1JMaXBBeHJhTkJxVUMxY3hTYlRYZk1nK3RueWpKVVpSKzcvOGZUaTY1R29yNDVvbnhmMHRLaEhoelFyVHlHT05vVmlNajQ3aENIcXVOZHZMdXMzMHIySjJsempBQnNtK2NPNUd4c0MrVEdJRDVvblJ2d1E9",
-                        "quality": "[AlucardSubs] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/Rkg0cDRBcGRldndCNFhXQm5RV2NmaG13dTJNcFdDcUVvd0Y4emZEbGtHWkVDOVozMTg0OHFKRm5qVHdoZjV2dEIxZTZaYVlwa1BoKzlzSkROYmhGVDJsanpsQ3I4Rjh2dnJiTGwvL0txNkhLQmI0NTVqZ2QvZ1g1c3JzODBkQ29SVjczL1RadTdhcXJDb1BpWHVhNmx6b1lMd0RxOGc5K0tvdlNueXlLOW81TWpjeEU1d1VNZUdxT1JMaXBBeHJhTkJxVUMxY3hTYlRYZk1nK3RueWpKVVpSKzcvOGZUaTY1R29yNDVvbnhmMHRLaEhoelFyVHlHT05vVmlNajQ3aENIcXVOZHZMdXMzMHIySjJsempBQnNtK2NPNUd4c0MrVEdJRDVvblJ2d1E9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/80619c1c78098980825a4e369f44b803"
-                        }
-                    },
-                    {
-                        "url": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoAzACaicSJQgBEiEKDQoHCMiWRBDgXRACGC9aEAoGCNgGEOADEBgoGVoCEAJyHRIbCAISFwoPCgkIgMD6ARDE2AIQAhgvYgQoEFoAeC8FJ2KLaTK-kQ/fn/track.m3u8",
-                        "quality": "[AlucardSubs] Okru:480p",
-                        "videoUrl": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoAzACaicSJQgBEiEKDQoHCMiWRBDgXRACGC9aEAoGCNgGEOADEBgoGVoCEAJyHRIbCAISFwoPCgkIgMD6ARDE2AIQAhgvYgQoEFoAeC8FJ2KLaTK-kQ/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/Rkg0cDRBcGRldndCNFhXQm5RV2NmaG13dTJNcFdDcUVvd0Y4emZEbGtHWkVDOVozMTg0OHFKRm5qVHdoZjV2dGxoMnNjempqY1BEdFVuRHNBYUkvWGxtWEJ6UVBGeDU0RUc0Tmplb3B4V0xGREo2Z1h1RTBsZlFYdXhyZ2dUdm43Q0tlcjQwNkpDQTUrcVpxYkwrbEdQRlhhT2t3djVyTnlhNXhhQzRiRXhVOTFCOENrRXdvSWlIcWhnR01vN1MzOWh4MDBXZmpmVlppUXpMYUdJcmZWdkhEbjZYRnF4VVNGQkFyaWc2QXNyd2RrYWxSMlZqVU1TdGFHMmVjeG9od1BrZGVONG1BQVE4L01pSyttN3E3eUlyYnRIWlNyNUdvTUNrR2l5TklXMUU9",
-                        "quality": "[AlucardSubs] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/Rkg0cDRBcGRldndCNFhXQm5RV2NmaG13dTJNcFdDcUVvd0Y4emZEbGtHWkVDOVozMTg0OHFKRm5qVHdoZjV2dGxoMnNjempqY1BEdFVuRHNBYUkvWGxtWEJ6UVBGeDU0RUc0Tmplb3B4V0xGREo2Z1h1RTBsZlFYdXhyZ2dUdm43Q0tlcjQwNkpDQTUrcVpxYkwrbEdQRlhhT2t3djVyTnlhNXhhQzRiRXhVOTFCOENrRXdvSWlIcWhnR01vN1MzOWh4MDBXZmpmVlppUXpMYUdJcmZWdkhEbjZYRnF4VVNGQkFyaWc2QXNyd2RrYWxSMlZqVU1TdGFHMmVjeG9od1BrZGVONG1BQVE4L01pSyttN3E3eUlyYnRIWlNyNUdvTUNrR2l5TklXMUU9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/80619c1c78098980825a4e369f44b803"
-                        }
-                    },
-                    {
-                        "url": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoAjACaicSJQgBEiEKDQoHCMiWRBDgXRACGC9aEAoGCIAFEOgCEBgoGVoCEAJyHRIbCAISFwoPCgkIgMD6ARDE2AIQAhgvYgQoCFoAeC9KiYEx-2mt3A/fn/track.m3u8",
-                        "quality": "[AlucardSubs] Okru:360p",
-                        "videoUrl": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoAjACaicSJQgBEiEKDQoHCMiWRBDgXRACGC9aEAoGCIAFEOgCEBgoGVoCEAJyHRIbCAISFwoPCgkIgMD6ARDE2AIQAhgvYgQoCFoAeC9KiYEx-2mt3A/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoATACaicSJQgBEiEKDQoHCMiWRBDgXRACGC9aEAoGCKgDEPABEBgoGVoCEAJyHRIbCAISFwoPCgkIgMD6ARDE2AIQAhgvYgQoCFoAeC-zNUwcUy4NRw/fn/track.m3u8",
-                        "quality": "[AlucardSubs] Okru:240p",
-                        "videoUrl": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEoATACaicSJQgBEiEKDQoHCMiWRBDgXRACGC9aEAoGCKgDEPABEBgoGVoCEAJyHRIbCAISFwoPCgkIgMD6ARDE2AIQAhgvYgQoCFoAeC-zNUwcUy4NRw/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEwAmonEiUIARIhCg0KBwjIlkQQ4F0QAhgvWhAKBgiAAhCQARAYKBlaAhACch0SGwgCEhcKDwoJCIDA-gEQxNgCEAIYL2IEKAhaAHgvZXIrscF16w0/fn/track.m3u8",
-                        "quality": "[AlucardSubs] Okru:144p",
-                        "videoUrl": "https://vd470.mycdn.me/expires/1704803254083/clientType/0/srcIp/20.51.198.146/type/2/mid/6752419646184/id/5856539118312/ms/185.226.53.86/zs/43/srcAg/GECKO/urls/45.136.20.76/oq/0/ct/28/sig/XkPj45iI5Hc/ondemand/COiVvKe5qgEwAmonEiUIARIhCg0KBwjIlkQQ4F0QAhgvWhAKBgiAAhCQARAYKBlaAhACch0SGwgCEhcKDwoJCIDA-gEQxNgCEAIYL2IEKAhaAHgvZXIrscF16w0/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: No videos available, eat a yogurt and cry a bit.",
+                "passed": false
             }
         }
     }

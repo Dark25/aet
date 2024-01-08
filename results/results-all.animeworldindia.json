@@ -3,114 +3,8 @@
         "name": "AnimeWorld India (ALL)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/timon-pumbaa/",
-                                "title": "Timon & Pumbaa",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3417.webp"
-                            },
-                            {
-                                "url": "/series/digimon-adventure/",
-                                "title": "Digimon Adventure",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2847.webp"
-                            },
-                            {
-                                "url": "/series/star-wars-rebels/",
-                                "title": "Star Wars Rebels",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2854.webp"
-                            },
-                            {
-                                "url": "/series/love-death-robots/",
-                                "title": "Love, Death & Robots",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2843.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-ultimate-journeys/",
-                                "title": "Pokémon: Ultimate Journeys",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1220.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
-                                "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7914.webp"
-                            },
-                            {
-                                "url": "/series/ben-10-destroy-all-aliens/",
-                                "title": "Ben 10: Destroy All Aliens",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7196.webp"
-                            },
-                            {
-                                "url": "/series/johnny-test/",
-                                "title": "Johnny Test",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3410.webp"
-                            },
-                            {
-                                "url": "/series/slugterra-return-of-the-elementals/",
-                                "title": "SlugTerra: Return of the Elementals",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7203.webp"
-                            },
-                            {
-                                "url": "/series/guardians-of-the-galaxy/",
-                                "title": "Guardians of the Galaxy",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-mewtwo-strikes-back-evolution/",
-                                "title": "Pokemon the Movie: Mewtwo Strikes Back – Evolution",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7929.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-i-choose-you/",
-                                "title": "Pokémon The Movie: I Choose You!",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7915.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-the-power-of-us/",
-                                "title": "Pokémon the Movie: The Power of Us",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7924.webp"
-                            },
-                            {
-                                "url": "/series/howls-moving-castle/",
-                                "title": "Howl’s Moving Castle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
-                                "title": "Pokémon The Movie: Volcanion and the Mechanical Marvel",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7926.webp"
-                            },
-                            {
-                                "url": "/series/johnny-bravo/",
-                                "title": "Johnny Bravo",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3438.webp"
-                            },
-                            {
-                                "url": "/series/slugterra-ghoul-from-beyond/",
-                                "title": "Slugterra: Ghoul from Beyond",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7201.webp"
-                            },
-                            {
-                                "url": "/series/ben-10-race-against-time/",
-                                "title": "Ben 10: Race Against Time",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7197.webp"
-                            },
-                            {
-                                "url": "/series/future-avengers/",
-                                "title": "Future Avengers",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2772.webp"
-                            },
-                            {
-                                "url": "/series/the-incredible-hulk/",
-                                "title": "The Incredible Hulk",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3428.webp"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -249,13 +143,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/timon-pumbaa/",
-                    "title": "Timon & Pumbaa",
-                    "author": "Disney Television Animation",
-                    "description": "The show stars Timon and Pumbaa, both characters from the film, The Lion King. Taking place after the events of the film, the characters are normally seen having misadventures in the jungle and across the globe in various settings.",
-                    "genre": "Action, Adventure, Animation, Comedy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/pokemon-diamond-and-pearl/",
+                    "title": "Pokémon: Diamond and Pearl",
+                    "artist": "OLM",
+                    "author": "Nintendo",
+                    "description": "If Gary Oak is headed for the Sinnoh region, then Ash Ketchum won’t be far behind! Ready to take on the Sinnoh League, Ash brings along Pikachu and meets up with Brock in Sinnoh, where the pair of Trainers are soon joined by a third—Dawn, a novice Pokémon Coordinator determined to follow in the footsteps of her mother. Both Ash and Dawn struggle with their respective paths, but it’s easy for them to make new friends, gaining new Pokémon like Turtwig and Piplup.",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -263,16 +158,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=6103",
-                        "name": "Season 2 - Episode 21",
-                        "date_upload": 1704674217000,
-                        "episode_number": 46.0
+                        "url": "/wp-json/kiranime/v1/episode?id=1942",
+                        "name": "Season 4 - Episode 34",
+                        "date_upload": 1704679787000,
+                        "episode_number": 189.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=6102",
-                        "name": "Season 2 - Episode 20",
-                        "date_upload": 1704674216000,
-                        "episode_number": 45.0
+                        "url": "/wp-json/kiranime/v1/episode?id=1941",
+                        "name": "Season 4 - Episode 33",
+                        "date_upload": 1704679786000,
+                        "episode_number": 188.0
                     }
                 ],
                 "passed": true
@@ -280,19 +175,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
-                        "quality": "[tamil] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "quality": "[english] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -300,69 +185,19 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "quality": "[hindi] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=9tamgnmoucq4fs8f8s2igq6kg6",
                             "accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
-                        "quality": "[telugu] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6clc0WE5kdXBsR2dER2RZcWpTbmFURkkrczBjWk5TMWttSmUwRCt2bEZac0E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=p2ds2m2l41gshucbcs1t8g6jcc",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
-                        "quality": "[tamil] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
-                        "quality": "[tamil] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
-                        "quality": "[tamil] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
-                        "quality": "[tamil] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -370,9 +205,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -380,9 +215,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -390,9 +225,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "quality": "[english] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -400,82 +235,42 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=9tamgnmoucq4fs8f8s2igq6kg6",
                             "accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=9tamgnmoucq4fs8f8s2igq6kg6",
                             "accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=9tamgnmoucq4fs8f8s2igq6kg6",
                             "accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "quality": "[hindi] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
-                        "quality": "[telugu] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cWdzVTJoVDZHdDlUYmpJRXZCS2ZRTmxyQkJFOEErL2x0ZlBUWnA2aW51RFE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=p2ds2m2l41gshucbcs1t8g6jcc",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
-                        "quality": "[telugu] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6cDZmL014ZlBlQ29nWGZrTFVhNUtEYXkvQTRneGY4S0tpck9BR1RsWlE3Rmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=p2ds2m2l41gshucbcs1t8g6jcc",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
-                        "quality": "[telugu] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6b29YcWR2dTBTQTE1SFlPKzhQQ1hwVC8vRGpQeHBnc00wYUhkcmJwMCt5Mmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=p2ds2m2l41gshucbcs1t8g6jcc",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
-                        "quality": "[telugu] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZFdaaklDV2NhNFpPVTlMdnB5ZGowTkJHdXNLeHRJY2lTa1J1Q044K3Z6ck5tenJwQlJBbVpmTUtieUg3Tk9jMWZtSUJ4UFBLUGJ2bytZZXQ1V3BVQlE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=p2ds2m2l41gshucbcs1t8g6jcc",
+                            "cookie": "PHPSESSID=9tamgnmoucq4fs8f8s2igq6kg6",
                             "accept": "*/*"
                         }
                     }
@@ -535,13 +330,13 @@
                     {
                         "url": "/wp-json/kiranime/v1/episode?id=11184",
                         "name": "Episode 220 - Departure",
-                        "date_upload": 1704074396000,
+                        "date_upload": 1704679193000,
                         "episode_number": 220.0
                     },
                     {
                         "url": "/wp-json/kiranime/v1/episode?id=11186",
                         "name": "Episode 219 - The Ultimate Weapon Reborn",
-                        "date_upload": 1704074395000,
+                        "date_upload": 1704679192000,
                         "episode_number": 219.0
                     }
                 ],
@@ -608,114 +403,8 @@
         "name": "AnimeWorld India (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/star-wars-rebels/",
-                                "title": "Star Wars Rebels",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2854.webp"
-                            },
-                            {
-                                "url": "/series/love-death-robots/",
-                                "title": "Love, Death & Robots",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2843.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-ultimate-journeys/",
-                                "title": "Pokémon: Ultimate Journeys",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1220.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
-                                "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7914.webp"
-                            },
-                            {
-                                "url": "/series/ben-10-destroy-all-aliens/",
-                                "title": "Ben 10: Destroy All Aliens",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7196.webp"
-                            },
-                            {
-                                "url": "/series/johnny-test/",
-                                "title": "Johnny Test",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3410.webp"
-                            },
-                            {
-                                "url": "/series/guardians-of-the-galaxy/",
-                                "title": "Guardians of the Galaxy",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
-                            },
-                            {
-                                "url": "/series/slugterra-return-of-the-elementals/",
-                                "title": "SlugTerra: Return of the Elementals",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7203.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-mewtwo-strikes-back-evolution/",
-                                "title": "Pokemon the Movie: Mewtwo Strikes Back – Evolution",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7929.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-i-choose-you/",
-                                "title": "Pokémon The Movie: I Choose You!",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7915.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-the-power-of-us/",
-                                "title": "Pokémon the Movie: The Power of Us",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7924.webp"
-                            },
-                            {
-                                "url": "/series/howls-moving-castle/",
-                                "title": "Howl’s Moving Castle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
-                                "title": "Pokémon The Movie: Volcanion and the Mechanical Marvel",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7926.webp"
-                            },
-                            {
-                                "url": "/series/johnny-bravo/",
-                                "title": "Johnny Bravo",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3438.webp"
-                            },
-                            {
-                                "url": "/series/slugterra-ghoul-from-beyond/",
-                                "title": "Slugterra: Ghoul from Beyond",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7201.webp"
-                            },
-                            {
-                                "url": "/series/ben-10-race-against-time/",
-                                "title": "Ben 10: Race Against Time",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7197.webp"
-                            },
-                            {
-                                "url": "/series/future-avengers/",
-                                "title": "Future Avengers",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2772.webp"
-                            },
-                            {
-                                "url": "/series/the-incredible-hulk/",
-                                "title": "The Incredible Hulk",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3428.webp"
-                            },
-                            {
-                                "url": "/series/wizards-tales-of-arcadia/",
-                                "title": "Wizards: Tales of Arcadia",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3426.webp"
-                            },
-                            {
-                                "url": "/series/my-neighbor-totoro/",
-                                "title": "My Neighbor Totoro",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7932.webp"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -812,14 +501,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7932.webp"
                             },
                             {
-                                "url": "/series/altered-carbon-resleeved/",
-                                "title": "Altered Carbon: Resleeved",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7930.webp"
-                            },
-                            {
                                 "url": "/series/howls-moving-castle/",
                                 "title": "Howl’s Moving Castle",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
+                            },
+                            {
+                                "url": "/series/altered-carbon-resleeved/",
+                                "title": "Altered Carbon: Resleeved",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/7930.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -854,11 +543,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/star-wars-rebels/",
-                    "title": "Star Wars Rebels",
-                    "author": "Lucasfilm Animation",
-                    "description": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion.",
-                    "genre": "Action, Adventure, Animation, Sci-Fi, Supernatural",
+                    "url": "/series/pokemon-diamond-and-pearl/",
+                    "title": "Pokémon: Diamond and Pearl",
+                    "artist": "OLM",
+                    "author": "Nintendo",
+                    "description": "If Gary Oak is headed for the Sinnoh region, then Ash Ketchum won’t be far behind! Ready to take on the Sinnoh League, Ash brings along Pikachu and meets up with Brock in Sinnoh, where the pair of Trainers are soon joined by a third—Dawn, a novice Pokémon Coordinator determined to follow in the footsteps of her mother. Both Ash and Dawn struggle with their respective paths, but it’s easy for them to make new friends, gaining new Pokémon like Turtwig and Piplup.",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -868,16 +558,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=7579",
-                        "name": "Season 4 - Episode 15",
-                        "date_upload": 1704071959000,
-                        "episode_number": 74.0
+                        "url": "/wp-json/kiranime/v1/episode?id=1942",
+                        "name": "Season 4 - Episode 34",
+                        "date_upload": 1704679787000,
+                        "episode_number": 189.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=7578",
-                        "name": "Season 4 - Episode 14",
-                        "date_upload": 1704071958000,
-                        "episode_number": 73.0
+                        "url": "/wp-json/kiranime/v1/episode?id=1941",
+                        "name": "Season 4 - Episode 33",
+                        "date_upload": 1704679786000,
+                        "episode_number": 188.0
                     }
                 ],
                 "passed": true
@@ -885,9 +575,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQ0VzSVBjTUxiWEY1N21ZcVFod3hDOFNmb3Y1ZjNjbEd1dVB2cWVMUVVzS0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "quality": "[english] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQ0VzSVBjTUxiWEY1N21ZcVFod3hDOFNmb3Y1ZjNjbEd1dVB2cWVMUVVzS0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -895,9 +585,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQUdzb0V0cXIyZFRDZjZzTEpJSFcvV0NRNHZ1NUM5eW9ia1Q3ZmM0dVRJc1E9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQUdzb0V0cXIyZFRDZjZzTEpJSFcvV0NRNHZ1NUM5eW9ia1Q3ZmM0dVRJc1E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -905,9 +595,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQzNIK3grcWZGd0tNZ1hCREUvQnRRYTFvQjI2bWJOeWp2enA2QXpudVhmRkE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQzNIK3grcWZGd0tNZ1hCREUvQnRRYTFvQjI2bWJOeWp2enA2QXpudVhmRkE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -915,9 +605,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQTJZelIrUmwyQXp5SjBjTWFsSnhERlJ3cnZPYlRBWlZTbmtvcDN2K3pPK0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkQTJZelIrUmwyQXp5SjBjTWFsSnhERlJ3cnZPYlRBWlZTbmtvcDN2K3pPK0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -925,9 +615,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkRGFWYlM0THh5MGxvQTJMdXovcXNlUmVmVVdXRS9JQml6M0wveDM1SmNwc3c9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "quality": "[english] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZUVTWkx3TXg4TE5jYTdJZWdwMUlGNDVwUWFkdThEYmExTkR5eG81VmtkRGFWYlM0THh5MGxvQTJMdXovcXNlUmVmVVdXRS9JQml6M0wveDM1SmNwc3c9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -943,114 +633,8 @@
         "name": "AnimeWorld India (HI)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/digimon-adventure/",
-                                "title": "Digimon Adventure",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2847.webp"
-                            },
-                            {
-                                "url": "/series/love-death-robots/",
-                                "title": "Love, Death & Robots",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2843.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
-                                "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7914.webp"
-                            },
-                            {
-                                "url": "/series/ben-10-destroy-all-aliens/",
-                                "title": "Ben 10: Destroy All Aliens",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7196.webp"
-                            },
-                            {
-                                "url": "/series/johnny-test/",
-                                "title": "Johnny Test",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3410.webp"
-                            },
-                            {
-                                "url": "/series/guardians-of-the-galaxy/",
-                                "title": "Guardians of the Galaxy",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-mewtwo-strikes-back-evolution/",
-                                "title": "Pokemon the Movie: Mewtwo Strikes Back – Evolution",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7929.webp"
-                            },
-                            {
-                                "url": "/series/howls-moving-castle/",
-                                "title": "Howl’s Moving Castle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
-                            },
-                            {
-                                "url": "/series/johnny-bravo/",
-                                "title": "Johnny Bravo",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3438.webp"
-                            },
-                            {
-                                "url": "/series/slugterra-ghoul-from-beyond/",
-                                "title": "Slugterra: Ghoul from Beyond",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7201.webp"
-                            },
-                            {
-                                "url": "/series/ben-10-race-against-time/",
-                                "title": "Ben 10: Race Against Time",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7197.webp"
-                            },
-                            {
-                                "url": "/series/future-avengers/",
-                                "title": "Future Avengers",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2772.webp"
-                            },
-                            {
-                                "url": "/series/the-incredible-hulk/",
-                                "title": "The Incredible Hulk",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3428.webp"
-                            },
-                            {
-                                "url": "/series/wizards-tales-of-arcadia/",
-                                "title": "Wizards: Tales of Arcadia",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3426.webp"
-                            },
-                            {
-                                "url": "/series/my-neighbor-totoro/",
-                                "title": "My Neighbor Totoro",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7932.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-secrets-of-the-jungle/",
-                                "title": "Pokémon the Movie: Secrets of the Jungle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7922.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-zoroark-master-of-illusions/",
-                                "title": "Pokémon: Zoroark: Master of Illusions",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7927.webp"
-                            },
-                            {
-                                "url": "/series/beyblade-metal-masters/",
-                                "title": "Beyblade: Metal Masters",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2869.webp"
-                            },
-                            {
-                                "url": "/series/the-spongebob-squarepants-movie/",
-                                "title": "The SpongeBob SquarePants Movie",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7206.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-rise-of-darkrai/",
-                                "title": "Pokémon: The Rise of Darkrai",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7900.webp"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -1142,14 +726,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7932.webp"
                             },
                             {
-                                "url": "/series/howls-moving-castle/",
-                                "title": "Howl’s Moving Castle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
-                            },
-                            {
                                 "url": "/series/altered-carbon-resleeved/",
                                 "title": "Altered Carbon: Resleeved",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7930.webp"
+                            },
+                            {
+                                "url": "/series/howls-moving-castle/",
+                                "title": "Howl’s Moving Castle",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
                             },
                             {
                                 "url": "/series/pokemon-the-movie-mewtwo-strikes-back-evolution/",
@@ -1184,13 +768,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/digimon-adventure/",
-                    "title": "Digimon Adventure",
-                    "author": "Toei Animation",
-                    "description": "It's the year 2020. The Network has become something humans can no longer do without in their daily lives. But what humans don't know is that on the other side of the Network is the Digital World, a realm of light and darkness. Nor are they aware of the Digimon who live there. Widespread Network difficulties arise, centered around the Tokyo area. Traffic signals blink chaotically, public outdoor TVs display garbled text, and so on. The news reports it as a case of cyberterrorism. Fifth grader Taichi Yagami stayed home by himself to get ready for a weekend summer camp, but his mother and little sister Hikari went to Shibuya, and now they're aboard a runaway train. Taichi hurries to Shibuya to save his mother and sister, but the instant he heads toward the station platform... a strange phenomenon befalls the DigiDestined, and Taichi goes to the Digital World! The DigiDestined meet their partner Digimon, and they're faced with an adventure into the unknown...!",
-                    "genre": "Action, Adventure, Animation, Comedy, Fantasy, Isekai, Kids",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/pokemon-diamond-and-pearl/",
+                    "title": "Pokémon: Diamond and Pearl",
+                    "artist": "OLM",
+                    "author": "Nintendo",
+                    "description": "If Gary Oak is headed for the Sinnoh region, then Ash Ketchum won’t be far behind! Ready to take on the Sinnoh League, Ash brings along Pikachu and meets up with Brock in Sinnoh, where the pair of Trainers are soon joined by a third—Dawn, a novice Pokémon Coordinator determined to follow in the footsteps of her mother. Both Ash and Dawn struggle with their respective paths, but it’s easy for them to make new friends, gaining new Pokémon like Turtwig and Piplup.",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -1198,16 +783,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=5752",
-                        "name": "Episode 24",
-                        "date_upload": 1704072797000,
-                        "episode_number": 24.0
+                        "url": "/wp-json/kiranime/v1/episode?id=1942",
+                        "name": "Season 4 - Episode 34",
+                        "date_upload": 1704679787000,
+                        "episode_number": 189.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=5751",
-                        "name": "Episode 23",
-                        "date_upload": 1704072796000,
-                        "episode_number": 23.0
+                        "url": "/wp-json/kiranime/v1/episode?id=1941",
+                        "name": "Season 4 - Episode 33",
+                        "date_upload": 1704679786000,
+                        "episode_number": 188.0
                     }
                 ],
                 "passed": true
@@ -1215,9 +800,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL2l5cjIvaXFpLzM4UzI1dVlMWVR4N0g1V21PNTF3VmQ2M3IzUDA4cUlKNnc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "quality": "[hindi] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL2l5cjIvaXFpLzM4UzI1dVlMWVR4N0g1V21PNTF3VmQ2M3IzUDA4cUlKNnc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMXlwckg1SVp1cGlUcG1RMzFFcVA0U0hLTDRzY1JwdDFPYW4rSng0NlVlaUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1225,9 +810,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL1lWQ2VBWXQzM25lK1o4amQ3ZFVGRzhVN1AxSEJuR2N4UGU5YkdKRmh2ZWc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL1lWQ2VBWXQzM25lK1o4amQ3ZFVGRzhVN1AxSEJuR2N4UGU5YkdKRmh2ZWc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM1AyVGdlRVdYdnFIQkdIZ2NMNmxmaWFhd0YvVjdkV3AzMnRheURObTJVMXc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1235,9 +820,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL0hoUk15RkEyaGdQMDNiN2FwRGYrbEx4VU94L3ZNb2VSakpVbG5ZWVdUYVE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL0hoUk15RkEyaGdQMDNiN2FwRGYrbEx4VU94L3ZNb2VSakpVbG5ZWVdUYVE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMnZpMDF0UXhlZjJBSFRldkJ2N0N6S09yVERhVk5BTHJhSHduY1gwaFRKaGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1245,9 +830,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL3FST2Ivd1F1SEtVL0xaL215VUVyN2h2dnMyaGUvWHNiOXU4Y0t0M3A1WEE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaL3FST2Ivd1F1SEtVL0xaL215VUVyN2h2dnMyaGUvWHNiOXU4Y0t0M3A1WEE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZM0hqOTZhalhTbVdoNS9tVFBOM1FDM1hVVEpPNHBkOEV3Q0Q5czllU1J5N1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1255,9 +840,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaKytGWGZpdm52bHUyWFl0S2hrUUVKTURUZUdOcFJ1Vk9tZ2dKTytEUGZ6ZEE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "quality": "[hindi] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/ZWx2ZHhwQWNvNFFMc0QvUnBzbDdZa3J1bnRKSmFFdlRLOWZVbGpOMkVaKytGWGZpdm52bHUyWFl0S2hrUUVKTURUZUdOcFJ1Vk9tZ2dKTytEUGZ6ZEE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjgzTnlGT01TUi9HckZoQjNoNjV3TDcxMnZPWlZMUEhzQ1hYRnMydmlZMFNJNk5YSUlLU3hQRXNyWWR1Mlp1V2N2WVhiaUlWaXh0WmovWEpoZXMxeGc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1273,114 +858,8 @@
         "name": "AnimeWorld India (JA)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
-                                "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7914.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-mewtwo-strikes-back-evolution/",
-                                "title": "Pokemon the Movie: Mewtwo Strikes Back – Evolution",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7929.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-i-choose-you/",
-                                "title": "Pokémon The Movie: I Choose You!",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7915.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-the-power-of-us/",
-                                "title": "Pokémon the Movie: The Power of Us",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7924.webp"
-                            },
-                            {
-                                "url": "/series/howls-moving-castle/",
-                                "title": "Howl’s Moving Castle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7931.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
-                                "title": "Pokémon The Movie: Volcanion and the Mechanical Marvel",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7926.webp"
-                            },
-                            {
-                                "url": "/series/my-neighbor-totoro/",
-                                "title": "My Neighbor Totoro",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7932.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-zoroark-master-of-illusions/",
-                                "title": "Pokémon: Zoroark: Master of Illusions",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7927.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-rise-of-darkrai/",
-                                "title": "Pokémon: The Rise of Darkrai",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7900.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-ranger-and-the-temple-of-the-sea/",
-                                "title": "Pokémon Ranger and the Temple of the Sea",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7921.webp"
-                            },
-                            {
-                                "url": "/series/evangelion-3-01-0-thrice-upon-a-time/",
-                                "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7904.webp"
-                            },
-                            {
-                                "url": "/series/evangelion-3-33-you-can-not-redo/",
-                                "title": "Evangelion: 3.33 You Can (Not) Redo",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7895.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-spell-of-the-unown/",
-                                "title": "Pokémon : The Movie – Spell of the Unown",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7925.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-movie-lucario-ki-toofani-shakti/",
-                                "title": "Pokémon: Lucario and the Mystery of Mew",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7919.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-heroes-latios-latias/",
-                                "title": "Pokémon Heroes: Latios & Latias",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7923.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-giratina-and-the-sky-warrior/",
-                                "title": "Pokémon: Giratina and the Sky Warrior",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7913.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-arceus-and-the-jewel-of-life/",
-                                "title": "Pokémon: Arceus and the Jewel of Life",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7897.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-movie-genesect-and-the-legend-awakened/",
-                                "title": "Pokémon the Movie: Genesect and the Legend Awakened",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7903.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-the-first-movie-mewtwo-strikes-back/",
-                                "title": "Pokémon: The First Movie – Mewtwo Strikes Back",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7920.webp"
-                            },
-                            {
-                                "url": "/series/evangelion-1-11-you-are-not-alone/",
-                                "title": "Evangelion: 1.11 You Are (Not) Alone",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7892.webp"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -1504,13 +983,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
-                    "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
-                    "author": "OLM",
-                    "description": "Ash, Pikachu, and their friends come to a desert city by the sea. Here they meet the Mythical Pokémon Hoopa, which has the ability to summon things—including people and Pokémon—through its magic rings. After a scary incident, they learn of a story about a brave hero who stopped the rampage of a terrifying Pokémon long ago. Now, the threat that has been bottled up for years is in danger of breaking loose again.",
-                    "genre": "Action, Adventure, Animation, Family, Fantasy",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/my-hero-academia/",
+                    "title": "My Hero Academia",
+                    "artist": "Bones",
+                    "author": "dentsu",
+                    "description": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.",
+                    "genre": "Action, Adventure, School, Sci-Fi, Shounen, Super Power, SuperHero",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -1518,10 +998,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=8250",
-                        "name": "Movie",
-                        "date_upload": 1704673956000,
-                        "episode_number": 1.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11735",
+                        "name": "Season 2 - Episode 25",
+                        "date_upload": 1704673827000,
+                        "episode_number": 38.0
+                    },
+                    {
+                        "url": "/wp-json/kiranime/v1/episode?id=11733",
+                        "name": "Season 2 - Episode 24",
+                        "date_upload": 1704673825000,
+                        "episode_number": 37.0
                     }
                 ],
                 "passed": true
@@ -1529,9 +1015,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5VG9HNHozdThLYUhSc1BmbEZyL1ZMOFRmejBOQ1NPUmR5Sm84VG5VZGMwMVE9PQ==",
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOEhNUy9ZNXpIU2UzUGJSZ291UTJjcWZxRVEzZ1oxQy9VaVAxZEtVY2hNVXc9PQ==",
                         "quality": "[japanese] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5VG9HNHozdThLYUhSc1BmbEZyL1ZMOFRmejBOQ1NPUmR5Sm84VG5VZGMwMVE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOEhNUy9ZNXpIU2UzUGJSZ291UTJjcWZxRVEzZ1oxQy9VaVAxZEtVY2hNVXc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1539,9 +1025,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5UTJockJ3MVdHamtJY2xZRXNrRmZsUGhQSXp1bzBaKzh3OHJyeUwxWUlORGc9PQ==",
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOUFNMXVNbzdHUDlIUEl6aFQ4RmRhT2dJeWNoUE9GSGRPdGdaYnYwYXFWSEE9PQ==",
                         "quality": "[japanese] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5UTJockJ3MVdHamtJY2xZRXNrRmZsUGhQSXp1bzBaKzh3OHJyeUwxWUlORGc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOUFNMXVNbzdHUDlIUEl6aFQ4RmRhT2dJeWNoUE9GSGRPdGdaYnYwYXFWSEE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1549,9 +1035,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5Ujd0eHNMVlkxOGpORmFOTHJlejk1cDlGSVB1VHl1ekZJazk2a2wxN0o5dUE9PQ==",
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOWxXekI4T2xyeitBcDJ4SUhkUUJMbXFTb21UQW5GbkhNbkg1WFBNcmpCOXc9PQ==",
                         "quality": "[japanese] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5Ujd0eHNMVlkxOGpORmFOTHJlejk1cDlGSVB1VHl1ekZJazk2a2wxN0o5dUE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOWxXekI4T2xyeitBcDJ4SUhkUUJMbXFTb21UQW5GbkhNbkg1WFBNcmpCOXc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1559,9 +1045,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5UXRqT0YyTkgwQ2pyRjQ4ZHdHSWF6cGt2U2FROXd2dzlZNndwRnNqWEtQRUE9PQ==",
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOVNqUkVXc3BqYnJncm1TNkZsZkRBNGNpT3QwYWZZbkVGVmVTdmhnMTV4cWc9PQ==",
                         "quality": "[japanese] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5UXRqT0YyTkgwQ2pyRjQ4ZHdHSWF6cGt2U2FROXd2dzlZNndwRnNqWEtQRUE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOVNqUkVXc3BqYnJncm1TNkZsZkRBNGNpT3QwYWZZbkVGVmVTdmhnMTV4cWc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1569,9 +1055,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5UVRDSkIwK24ydDZOSzFrS3YzVGk3NEdaV3hrZUw0d2hjZkFpaHE4NzRHRXc9PQ==",
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLL3RDMks1S2dCbUdiRFlMdnVkWEFxZWp4RHUxanJnTWZha0l1eCs4ZWhwa2c9PQ==",
                         "quality": "[japanese] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/bGtrMnFmeUQ2c2M1eXI2aktEV2NhN1U3VkN1UjhDRVExTTJhdUlnbWN5UVRDSkIwK24ydDZOSzFrS3YzVGk3NEdaV3hrZUw0d2hjZkFpaHE4NzRHRXc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLL3RDMks1S2dCbUdiRFlMdnVkWEFxZWp4RHUxanJnTWZha0l1eCs4ZWhwa2c9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "cookie": "",
@@ -1779,49 +1265,8 @@
         "name": "AnimeWorld India (TA)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/guardians-of-the-galaxy/",
-                                "title": "Guardians of the Galaxy",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
-                            },
-                            {
-                                "url": "/series/future-avengers/",
-                                "title": "Future Avengers",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2772.webp"
-                            },
-                            {
-                                "url": "/series/the-incredible-hulk/",
-                                "title": "The Incredible Hulk",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3428.webp"
-                            },
-                            {
-                                "url": "/series/the-spongebob-squarepants-movie/",
-                                "title": "The SpongeBob SquarePants Movie",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7206.webp"
-                            },
-                            {
-                                "url": "/series/iron-man/",
-                                "title": "Iron Man",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2842.webp"
-                            },
-                            {
-                                "url": "/series/transformers-robots-in-disguise/",
-                                "title": "Transformers: Robots In Disguise",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2834.webp"
-                            },
-                            {
-                                "url": "/series/big-city-greens/",
-                                "title": "Big City Greens",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3418.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -1945,13 +1390,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/guardians-of-the-galaxy/",
-                    "title": "Guardians of the Galaxy",
-                    "author": "Marvel Animation",
-                    "description": "Peter Quill is Star-Lord, the brash adventurer who, to save the universe from its greatest threats, joins forces with a quartet of disparate misfits — fan-favorite Rocket Raccoon, a tree-like humanoid named Groot, the enigmatic, expert fighter Gamora and the rough edged warrior Drax the Destroyer.",
-                    "genre": "Action, Adventure, Animation, Sci-Fi, SuperHero",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/my-hero-academia/",
+                    "title": "My Hero Academia",
+                    "artist": "Bones",
+                    "author": "dentsu",
+                    "description": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.",
+                    "genre": "Action, Adventure, School, Sci-Fi, Shounen, Super Power, SuperHero",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -1959,23 +1405,74 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=9913",
-                        "name": "Season 3 - Episode 26",
-                        "date_upload": 1704674432000,
-                        "episode_number": 77.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11735",
+                        "name": "Season 2 - Episode 25",
+                        "date_upload": 1704673827000,
+                        "episode_number": 38.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=8152",
-                        "name": "Season 3 - Episode 25",
-                        "date_upload": 1704674431000,
-                        "episode_number": 76.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11733",
+                        "name": "Season 2 - Episode 24",
+                        "date_upload": 1704673825000,
+                        "episode_number": 37.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: No videos for your language!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOEhNUy9ZNXpIU2UzUGJSZ291UTJjcWZxRVEzZ1oxQy9VaVAxZEtVY2hNVXc9PQ==",
+                        "quality": "[tamil] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOEhNUy9ZNXpIU2UzUGJSZ291UTJjcWZxRVEzZ1oxQy9VaVAxZEtVY2hNVXc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOUFNMXVNbzdHUDlIUEl6aFQ4RmRhT2dJeWNoUE9GSGRPdGdaYnYwYXFWSEE9PQ==",
+                        "quality": "[tamil] MyStream: 240p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOUFNMXVNbzdHUDlIUEl6aFQ4RmRhT2dJeWNoUE9GSGRPdGdaYnYwYXFWSEE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOWxXekI4T2xyeitBcDJ4SUhkUUJMbXFTb21UQW5GbkhNbkg1WFBNcmpCOXc9PQ==",
+                        "quality": "[tamil] MyStream: 360p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOWxXekI4T2xyeitBcDJ4SUhkUUJMbXFTb21UQW5GbkhNbkg1WFBNcmpCOXc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOVNqUkVXc3BqYnJncm1TNkZsZkRBNGNpT3QwYWZZbkVGVmVTdmhnMTV4cWc9PQ==",
+                        "quality": "[tamil] MyStream: 480p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOVNqUkVXc3BqYnJncm1TNkZsZkRBNGNpT3QwYWZZbkVGVmVTdmhnMTV4cWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLL3RDMks1S2dCbUdiRFlMdnVkWEFxZWp4RHUxanJnTWZha0l1eCs4ZWhwa2c9PQ==",
+                        "quality": "[tamil] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLL3RDMks1S2dCbUdiRFlMdnVkWEFxZWp4RHUxanJnTWZha0l1eCs4ZWhwa2c9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -1983,39 +1480,8 @@
         "name": "AnimeWorld India (TE)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/the-incredible-hulk/",
-                                "title": "The Incredible Hulk",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3428.webp"
-                            },
-                            {
-                                "url": "/series/the-spongebob-squarepants-movie/",
-                                "title": "The SpongeBob SquarePants Movie",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7206.webp"
-                            },
-                            {
-                                "url": "/series/iron-man/",
-                                "title": "Iron Man",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2842.webp"
-                            },
-                            {
-                                "url": "/series/transformers-robots-in-disguise/",
-                                "title": "Transformers: Robots In Disguise",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2834.webp"
-                            },
-                            {
-                                "url": "/series/big-city-greens/",
-                                "title": "Big City Greens",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3418.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -2139,13 +1605,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/the-incredible-hulk/",
-                    "title": "The Incredible Hulk",
-                    "author": "New World Animation",
-                    "description": "Based on Marvel's famous comic hero, this animated series presents the adventures of Dr. Robert Bruce Banner. An accident during the test of the Gamma Bomb (Banner's creation) transformed him into a powerful hulking being; since then he is on the run because the Army believes him to be a threat which must be destroyed.",
-                    "genre": "Action, Adventure, Animation, Drama, SuperHero",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/my-hero-academia/",
+                    "title": "My Hero Academia",
+                    "artist": "Bones",
+                    "author": "dentsu",
+                    "description": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.",
+                    "genre": "Action, Adventure, School, Sci-Fi, Shounen, Super Power, SuperHero",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -2153,23 +1620,74 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=8186",
-                        "name": "Season 2 - Episode 8",
-                        "date_upload": 1704674042000,
-                        "episode_number": 21.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11735",
+                        "name": "Season 2 - Episode 25",
+                        "date_upload": 1704673827000,
+                        "episode_number": 38.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=6301",
-                        "name": "Season 2 - Episode 7",
-                        "date_upload": 1704674041000,
-                        "episode_number": 20.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11733",
+                        "name": "Season 2 - Episode 24",
+                        "date_upload": 1704673825000,
+                        "episode_number": 37.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: No videos for your language!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOEhNUy9ZNXpIU2UzUGJSZ291UTJjcWZxRVEzZ1oxQy9VaVAxZEtVY2hNVXc9PQ==",
+                        "quality": "[telugu] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOEhNUy9ZNXpIU2UzUGJSZ291UTJjcWZxRVEzZ1oxQy9VaVAxZEtVY2hNVXc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOUFNMXVNbzdHUDlIUEl6aFQ4RmRhT2dJeWNoUE9GSGRPdGdaYnYwYXFWSEE9PQ==",
+                        "quality": "[telugu] MyStream: 240p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOUFNMXVNbzdHUDlIUEl6aFQ4RmRhT2dJeWNoUE9GSGRPdGdaYnYwYXFWSEE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOWxXekI4T2xyeitBcDJ4SUhkUUJMbXFTb21UQW5GbkhNbkg1WFBNcmpCOXc9PQ==",
+                        "quality": "[telugu] MyStream: 360p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOWxXekI4T2xyeitBcDJ4SUhkUUJMbXFTb21UQW5GbkhNbkg1WFBNcmpCOXc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOVNqUkVXc3BqYnJncm1TNkZsZkRBNGNpT3QwYWZZbkVGVmVTdmhnMTV4cWc9PQ==",
+                        "quality": "[telugu] MyStream: 480p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLOVNqUkVXc3BqYnJncm1TNkZsZkRBNGNpT3QwYWZZbkVGVmVTdmhnMTV4cWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLL3RDMks1S2dCbUdiRFlMdnVkWEFxZWp4RHUxanJnTWZha0l1eCs4ZWhwa2c9PQ==",
+                        "quality": "[telugu] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/aE9OakVIY1NycENQZ05HRFdDQmwyT2VvLzBIOWtiV0F5RkRSLytOY0pLL3RDMks1S2dCbUdiRFlMdnVkWEFxZWp4RHUxanJnTWZha0l1eCs4ZWhwa2c9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

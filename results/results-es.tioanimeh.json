@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/30sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
+                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii 1",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3978.jpg"
+                            },
+                            {
                                 "url": "/anime/ishura",
                                 "title": "Ishura 2",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/3953.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/anime/shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
                                 "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 14",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/3900.jpg"
-                            },
-                            {
-                                "url": "/anime/captain-tsubasa-season-2-junior-youthhen",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen 14",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3901.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -346,12 +346,58 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/30sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/eprktg0hg3og",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-evqcmyhbf8yf0det.voe-network.net/engine/hls2-c/01/10264/eprktg0hg3og_,n,.urlset/master.m3u8?t=sAEYCXYl_E3Pd5H1Lt-takyMt3zMFDqVPNNJ5pfND98&s=1704953945&e=14400&f=51324771&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=172.183&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=3&sig=FbyrZFzNPVY&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=3&sig=FbyrZFzNPVY&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=2&sig=qU9niy_4aIo&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=2&sig=qU9niy_4aIo&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=1&sig=2HS3hXWfKo0&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=1&sig=2HS3hXWfKo0&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=0&sig=3nDhO3Dnqwg&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=0&sig=3nDhO3Dnqwg&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=4&sig=H5nWTp9YXHQ&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1705040346677&srcIp=172.183.88.178&pr=10&srcAg=GECKO&ms=185.226.53.43&type=4&sig=H5nWTp9YXHQ&ct=0&urls=45.136.20.25&clientType=0&zs=43&id=6120977992271"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a202401107FEF5DLq5HX/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a202401107FEF5DLq5HX/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -614,21 +660,21 @@
                     {
                         "url": "https://voe.sx/e/ywfwwyu3m0m2",
                         "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-vysg0fj8mubgoi6p.voe-network.net/engine/hls2-c/01/10251/ywfwwyu3m0m2_,n,.urlset/master.m3u8?t=HFHzqi44HxqjM7zM3RcxrLqP0V9f2P0tRYINkUuLg5w&s=1704934813&e=14400&f=51257943&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-vysg0fj8mubgoi6p.voe-network.net/engine/hls2-c/01/10251/ywfwwyu3m0m2_,n,.urlset/master.m3u8?t=XxpKA9q4KEW6_kejfOwTTHLnUUUE-_hmiPOH0_1UQpI&s=1704953950&e=14400&f=51257943&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=172.183&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20240110gTkx0Lt354x/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240110moiPr6HG7yw/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240110gTkx0Lt354x/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240110moiPr6HG7yw/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://www.yourupload.com/"
                         }
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20240110o28Rq1J6B65/video.mp4",
+                        "url": "https://vidcache.net:8161/a202401108f836K72jkV/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240110o28Rq1J6B65/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a202401108f836K72jkV/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://www.yourupload.com/"

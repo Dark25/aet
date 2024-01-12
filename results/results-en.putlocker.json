@@ -11,6 +11,22 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-night-they-came-home-105070/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/2a2d56d78808c8ec43835522f436f5be.jpg"
+                            },
+                            {
+                                "url": "/film/self-reliance-105067/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/fc212cfc039784401b20ac4d59f23731.jpg"
+                            },
+                            {
+                                "url": "/film/kotabommali-ps-105064/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/f7d19683a11ccfeaca42dbdb78955d73.jpg"
+                            },
+                            {
+                                "url": "/film/sila-nodigalil-105043/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/9ad305b841be84f8a454019db880dd0a.jpg"
+                            },
+                            {
                                 "url": "/film/vermeer-the-greatest-exhibition-105052/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/ceb1715b20df9ba53e7e150007ab9cbc.jpg"
                             },
@@ -153,22 +169,6 @@
                             {
                                 "url": "/film/our-interpreter-104857/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/733f708ec35f3acdcf30baf611855c5b.jpg"
-                            },
-                            {
-                                "url": "/film/youll-never-walk-alone-104440/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/d270db9ce0de6a93b81052af9b69d47d.jpg"
-                            },
-                            {
-                                "url": "/film/special-lady-104437/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/4fc6820ef367455c6e3751b8a70627d6.jpg"
-                            },
-                            {
-                                "url": "/film/i-love-you-104251/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/70d7b54138dd89e283055d52e7a04c86.jpg"
-                            },
-                            {
-                                "url": "/film/like-flowers-in-sand-104122/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/8a23c98e731737d4b1372cfbcd663530.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,8 +347,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/film/the-night-they-came-home-105070/",
+                    "title": "The Night They Came Home",
+                    "author": "",
+                    "description": "The combined force of local lawmen and Indian police aim to take down the the Rufus Buck Gang, a cold-heated band of fugitives with vengeance on their minds.\n\nQuality: HD\nRelease: 2024-01-12\nIMDb: n/a",
+                    "genre": "Thriller, Western",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",

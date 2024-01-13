@@ -786,6 +786,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/3rPqfMKJFOoL71doJP4OC8ByOXA.jpg"
                             },
                             {
+                                "url": "https://www.kool.to/data/watch/?_id=9559&type=movie",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/xI35piSTR2Z0WKkPgX841RQqns8.jpg"
+                            },
+                            {
                                 "url": "https://www.kool.to/data/watch/?_id=532067&type=movie",
                                 "title": "Konosuba: God's Blessing on This Wonderful World! The Movie - Legend of Crimson",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg"
@@ -804,11 +809,6 @@
                                 "url": "https://www.kool.to/data/watch/?_id=382272&type=movie",
                                 "title": "Death Note - Light Up the New World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/cDBV5mIMc8h0dsRHF43rUUk3I0O.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=9559&type=movie",
-                                "title": "Perfect World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/xI35piSTR2Z0WKkPgX841RQqns8.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=919689&type=movie",
@@ -977,15 +977,36 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kool-cluster/mediahubmx-source.json?id=753342&name=Napoleon&type=movie",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://www.kool.to",
-                        "quality": "TV",
-                        "videoUrl": "https://www.kool.to"
+                        "url": "https://streamtape.com/get_video?id=g3raddl6LjtYg1&expires=1705239702&ip=F0qQKRWZD19XKxR&token=QE54HybeW6-T",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=g3raddl6LjtYg1&expires=1705239702&ip=F0qQKRWZD19XKxR&token=QE54HybeW6-T"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8JP4xMV8MYIogaW&expires=1705239701&ip=F0qQKRWZD19XKxR&token=jzwQThPp2Jyk",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=8JP4xMV8MYIogaW&expires=1705239701&ip=F0qQKRWZD19XKxR&token=jzwQThPp2Jyk"
+                    },
+                    {
+                        "url": "https://voe.sx/e/wox7m1llvx4x",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-ljesirbcw2lwdzzg.voe-network.net/engine/hls2/01/02888/wox7m1llvx4x_,n,.urlset/master.m3u8?t=5Bo4cqZ0z25JS74wQqeYOBoppAp7Ohd3IL5lr3JtnGU&s=1705169701&e=14400&f=14444609&node=delivery-node-ljesirbcw2lwdzzg.voe-network.net&i=172.183&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/yiubsqqhpouj",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-girmnrmb2ev1lay6.voe-network.net/engine/hls2-c/01/08934/yiubsqqhpouj_,n,.urlset/master.m3u8?t=g-iaYv8u52woD0m42A7_Jx82HQPpNW4zBUsEz1x40kg&s=1705169700&e=14400&f=44674616&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=172.183&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true

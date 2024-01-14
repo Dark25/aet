@@ -3,268 +3,12 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/Anime/ragna-crimson.42722/",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Ragna-Crimson.jpg"
-                            },
-                            {
-                                "url": "/Anime/Solo-Leveling/",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Solo-Leveling.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Sign-of-Affection/",
-                                "title": "A Sign of Affection",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/A-Sign-of-Affection.jpg"
-                            },
-                            {
-                                "url": "/Anime/Detective-Conan.28747/",
-                                "title": "Detective Conan",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/12/Detective-Conan.jpg"
-                            },
-                            {
-                                "url": "/Anime/firefighter-daigo-rescuer-in-orange.24068/",
-                                "title": "Firefighter Daigo: Rescuer in Orange",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Firefighter-Daigo-Rescuer-in-Orange.jpg"
-                            },
-                            {
-                                "url": "/Anime/Pon-no-Michi/",
-                                "title": "Pon no Michi",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Pon-no-Michi.jpg"
-                            },
-                            {
-                                "url": "/Anime/Undead-Unluck/",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Undead-Unluck.jpg"
-                            },
-                            {
-                                "url": "/Anime/Yuuki-Bakuhatsu-Bang-Bravern/",
-                                "title": "Bang Brave Bang Bravern",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bang-Brave-Bang-Bravern.jpg"
-                            },
-                            {
-                                "url": "/Anime/Cardfight-Vanguard-Divinez/",
-                                "title": "Cardfight!! Vanguard: Divinez",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Cardfight-Vanguard-Divinez.jpg"
-                            },
-                            {
-                                "url": "/Anime/Snack-Basue/",
-                                "title": "Snack Basue",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Snack-Basue.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Demon-Prince-of-Momochi-House/",
-                                "title": "The Demon Prince of Momochi House",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Demon-Prince-of-Momochi-House.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chiyu-Mahou-no-Machigatta-Tsukaikata/",
-                                "title": "The Wrong Way to Use Healing Magic",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Wrong-Way-to-Use-Healing-Magic.jpg"
-                            },
-                            {
-                                "url": "/Anime/frieren-beyond-journeys-end.11511/",
-                                "title": "Frieren: Beyond Journey’s End",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash/",
-                                "title": "The Weakest Tamer Began a Journey to Pick Up Trash",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Unwanted-Undead-Adventurer/",
-                                "title": "The Unwanted Undead Adventurer",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Unwanted-Undead-Adventurer.jpg"
-                            },
-                            {
-                                "url": "/Anime/Sasaki-and-Peeps/",
-                                "title": "Sasaki and Peeps",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sasaki-and-Peeps.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-Instant-Death-Ability-Is-So-Overpowered-No-One-in-This-Other-World-Stands-a-Chance-Against-Me/",
-                                "title": "My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/My-Instant-Death-Ability-Is-So-Overpowered-No-One-in-This-Other-World-Stands-a-Chance-Against-Me.jpg"
-                            },
-                            {
-                                "url": "/Anime/jujutsu-kaisen-season-2-dub.43082/",
-                                "title": "JUJUTSU KAISEN Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/JUJUTSU-KAISEN-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Undead-Unluck-Dub/",
-                                "title": "Undead Unluck (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Undead-Unluck-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Delicious-in-Dungeon-Dub/",
-                                "title": "Delicious in Dungeon (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Dungeon-Meshi-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Delicious-in-Dungeon/",
-                                "title": "Delicious in Dungeon",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Delicious-in-Dungeon.jpg"
-                            },
-                            {
-                                "url": "/Anime/phantom-of-the-idol-dub.97017/",
-                                "title": "Phantom of the Idol (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Phantom-of-the-Idol-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Ancient-Magus-Bride-Season-2-Part-2-Dub/",
-                                "title": "The Ancient Magus' Bride Season 2 Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Ancient-Magus-Bride-Season-2-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Witch-and-the-Beast/",
-                                "title": "The Witch and the Beast",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Witch-and-the-Beast.jpg"
-                            },
-                            {
-                                "url": "/Anime/chiikawa.32703/",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/08/Chiikawa.jpg"
-                            },
-                            {
-                                "url": "/Anime/Urusei-Yatsura-2022-2nd-Season/",
-                                "title": "Urusei Yatsura: All Stars Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Urusei-Yatsura-All-Stars-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Delusional-Monthly-Magazine/",
-                                "title": "Delusional Monthly Magazine",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Delusional-Monthly-Magazine.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chou-Futsuu-ken-Chiba-Densetsu/",
-                                "title": "The Legend of Super normal Pref. CHIBA",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Legend-of-Super-normal-Pref-CHIBA.jpg"
-                            },
-                            {
-                                "url": "/Anime/SHAMAN-KING-FLOWERS/",
-                                "title": "SHAMAN KING FLOWERS",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/SHAMAN-KING-FLOWERS.jpg"
-                            },
-                            {
-                                "url": "/Anime/Mahou-no-Princess-Minky-Momo-Sub/",
-                                "title": "Magical Princess Minky Momo",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2019/06/Mahou-no-Princess-Minky-Momo-Sub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Metallic-Rouge-Dub/",
-                                "title": "Metallic Rouge (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Metallic-Rouge-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2-Dub/",
-                                "title": "Heaven Official's Blessing Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Ishura/",
-                                "title": "Ishura",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Ishura.jpg"
-                            },
-                            {
-                                "url": "/Anime/Metallic-Rouge/",
-                                "title": "Metallic Rouge",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Metallic-Rouge.jpg"
-                            },
-                            {
-                                "url": "/Anime/30-sai-made-Doutei-da-to-Mahou-Tsukai-ni-Nareru-Rashii/",
-                                "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Cherry-Magic-Thirty-Years-of-Virginity-Can-Make-You-a-Wizard.jpg"
-                            },
-                            {
-                                "url": "/Anime/Doctor-Elise-The-Royal-Lady-with-the-Lamp/",
-                                "title": "Doctor Elise: The Royal Lady with the Lamp",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Doctor-Elise-The-Royal-Lady-with-the-Lamp.jpg"
-                            },
-                            {
-                                "url": "/Anime/Bottom-Tier-Character-Tomozaki-2nd-Stage/",
-                                "title": "Bottom-Tier Character Tomozaki 2nd Stage",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bottom-Tier-Character-Tomozaki-2nd-Stage.jpg"
-                            },
-                            {
-                                "url": "/Anime/Sengoku-Youko/",
-                                "title": "Sengoku Youko",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sengoku-Youko.jpg"
-                            },
-                            {
-                                "url": "/Anime/Classroom-of-the-Elite-Season-3/",
-                                "title": "Classroom of the Elite Season 3",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Classroom-of-the-Elite-Season-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2/",
-                                "title": "Heaven Official's Blessing Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/DOG-SIGNAL/",
-                                "title": "DOG SIGNAL",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/DOG-SIGNAL.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Saint-s-Magic-Power-is-Omnipotent-II-Dub/",
-                                "title": "The Saint's Magic Power is Omnipotent II (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Saint-s-Magic-Power-is-Omnipotent-II-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/love-flops-dub.42967/",
-                                "title": "Love Flops (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Love-Flops-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/BEYBLADE-X/",
-                                "title": "BEYBLADE X",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/BEYBLADE-X.jpg"
-                            },
-                            {
-                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
-                            },
-                            {
-                                "url": "/Anime/Odekake-Kozame/",
-                                "title": "A Little Shark Going Out",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
-                            },
-                            {
-                                "url": "/Anime/Villainess-Level-99-I-May-Be-the-Hidden-Boss-but-I-m-Not-the-Demon-Lord/",
-                                "title": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Villainess-Level-99-I-May-Be-the-Hidden-Boss-but-I-m-Not-the-Demon-Lord.jpg"
-                            },
-                            {
-                                "url": "/Anime/Synduality-Noir-Part-2/",
-                                "title": "Synduality Noir Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Synduality-Noir-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dead-Mount-Death-Play-Part-2-Dub/",
-                                "title": "Dead Mount Death Play Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dead-Mount-Death-Play-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Migi-amp-Dali-Dub/",
-                                "title": "Migi&Dali (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -778,13 +522,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/ragna-crimson.42722/",
-                    "title": "Ragna Crimson",
-                    "description": "Dragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson’s motivations may be mysterious, his goal and Ragna’s perfectly align, and together they’ll fight to vanquish the dragons once and for all. (Source: Sentai Filmworks) Note: The first episode aired with a runtime of ~1 hour.\n\nUser rating: 95%",
-                    "genre": "Action, Adventure, Fantasy, Mystery",
+                    "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/",
+                    "title": "Dr. STONE New World Part 2 (Dub)",
+                    "description": "The second cour of Dr. STONE: NEW WORLD.\n\nUser rating: 95%",
+                    "genre": "Action, Adventure, Comedy, Sci-Fi",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Ragna-Crimson.jpg",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dr-STONE-New-World-Part-2-Dub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,16 +536,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/ragna-crimson.42722/Episode-013?id=188165",
-                        "name": "Ragna Crimson - Episode 013",
-                        "date_upload": 1705190400000,
-                        "episode_number": 13.0
+                        "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/Episode-011?id=187917",
+                        "name": "Dr. STONE New World Part 2 (Dub) - Episode 011",
+                        "date_upload": 1703203200000,
+                        "episode_number": 11.0
                     },
                     {
-                        "url": "/Anime/ragna-crimson.42722/Episode-012?id=187836",
-                        "name": "Ragna Crimson - Episode 012",
-                        "date_upload": 1702684800000,
-                        "episode_number": 12.0
+                        "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/Episode-010?id=187815",
+                        "name": "Dr. STONE New World Part 2 (Dub) - Episode 010",
+                        "date_upload": 1702598400000,
+                        "episode_number": 10.0
                     }
                 ],
                 "passed": true
@@ -809,12 +553,12 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s43.openstream.io/hls/qvsbhx5vmxblgwsztszka3wtblu34vzqhfpjqvpw76dqzqa4aqag7jsbj5wa/index-v1-a1.m3u8",
+                        "url": "https://s45.openstream.io/hls/qvsbgcfimxblgwsztszka367ldozvqn7w7pko5ib7c7vuetpwrwrl63bueva/index-v1-a1.m3u8",
                         "quality": "Oserver - 720p",
-                        "videoUrl": "https://s43.openstream.io/hls/qvsbhx5vmxblgwsztszka3wtblu34vzqhfpjqvpw76dqzqa4aqag7jsbj5wa/index-v1-a1.m3u8",
+                        "videoUrl": "https://s45.openstream.io/hls/qvsbgcfimxblgwsztszka367ldozvqn7w7pko5ib7c7vuetpwrwrl63bueva/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*",
-                            "Host": "s43.openstream.io",
+                            "Host": "s45.openstream.io",
                             "Origin": "https://embed.vodstream.xyz",
                             "Referer": "https://embed.vodstream.xyz/",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"

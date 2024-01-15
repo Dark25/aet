@@ -3,94 +3,8 @@
         "name": "Wcofun (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/meet-the-batwheels",
-                                "title": "Meet the Batwheels",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933434.jpg"
-                            },
-                            {
-                                "url": "/anime/kingdom-5th-english-subbed",
-                                "title": "Kingdom 5th English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933433.jpg"
-                            },
-                            {
-                                "url": "/anime/bucchigiri-english-subbed",
-                                "title": "Bucchigiri?! English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933432.jpg"
-                            },
-                            {
-                                "url": "/anime/cardfight-vanguard-divinez-english-subbed",
-                                "title": "Cardfight!! Vanguard: Divinez English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933431.jpg"
-                            },
-                            {
-                                "url": "/anime/yuuki-bakuhatsu-bang-bravern",
-                                "title": "Yuuki Bakuhatsu Bang Bravern",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933430.jpg"
-                            },
-                            {
-                                "url": "/anime/snack-basue",
-                                "title": "Snack Basue",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933429.jpg"
-                            },
-                            {
-                                "url": "/anime/the-weakest-tamer-began-a-journey-to-pick-up-trash",
-                                "title": "The Weakest Tamer Began a Journey to Pick Up Trash",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933428.jpg"
-                            },
-                            {
-                                "url": "/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
-                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933427.jpg"
-                            },
-                            {
-                                "url": "/anime/majo-to-yajuu",
-                                "title": "Majo to Yajuu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933426.jpg"
-                            },
-                            {
-                                "url": "/anime/gekkan-mousou-kagaku",
-                                "title": "Gekkan Mousou Kagaku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933425.jpg"
-                            },
-                            {
-                                "url": "/anime/shaman-king-flowers-english-subbed",
-                                "title": "Shaman King: Flowers English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933424.jpg"
-                            },
-                            {
-                                "url": "/anime/metallic-rouge",
-                                "title": "Metallic Rouge",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933423.jpg"
-                            },
-                            {
-                                "url": "/anime/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
-                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933422.jpg"
-                            },
-                            {
-                                "url": "/anime/metallic-rouge-english-subbed",
-                                "title": "Metallic Rouge English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933421.jpg"
-                            },
-                            {
-                                "url": "/anime/sengoku-youko",
-                                "title": "Sengoku Youko",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933420.jpg"
-                            },
-                            {
-                                "url": "/anime/chou-futsuu-ken-chiba-densetsu",
-                                "title": "Chou Futsuu Ken Chiba Densetsu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933419.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -604,22 +518,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/meet-the-batwheels",
-                    "title": "Meet the Batwheels",
-                    "description": "Gotham has a new team of crime-fighting vehicles; introducing Bam, Redbird, Bibi, Batwing, and Buff and learning what makes each of these superheroes special as they protect the streets of Gotham.",
-                    "genre": "Action, Adventure, Animation, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933434.jpg",
+                    "url": "/anime/the-world-of-narue",
+                    "title": "The World of Narue",
+                    "description": "Plot Summary: Iizuka Kazuto is a 14 year old boy who meets a somewhat weird but cute and charming girl named Narue Nanase who claims she is an Alien. The show is about the trials and tribulations of the young couple as they get to know each other.",
+                    "genre": "Romantic Comedy, Science Fiction, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/23770.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-world-of-narue-episode-12-english-dubbed",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    },
+                    {
+                        "url": "/the-world-of-narue-episode-11-english-dubbed",
+                        "name": "Season 1 - Episode 11",
+                        "episode_number": 111.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRGdA_0kemFRtdWF8RrKD0Vq5S4U7eDgKu1nHNRolkf9-K2iaqZFfohx9LsPql2N0beIlC76uoOI2ZRrjzqC8UR_2fDDCTy1FzI_RotldJwkiTj39fsZiQxNHfiy-nH8L6uol0lQdXW5aXpLDDMgO4LDOJbrq8bBUiwb29u6WwBMOLF1KVVqqT11In8zDnSP9U",
+                        "quality": "HD",
+                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRGdA_0kemFRtdWF8RrKD0Vq5S4U7eDgKu1nHNRolkf9-K2iaqZFfohx9LsPql2N0beIlC76uoOI2ZRrjzqC8UR_2fDDCTy1FzI_RotldJwkiTj39fsZiQxNHfiy-nH8L6uol0lQdXW5aXpLDDMgO4LDOJbrq8bBUiwb29u6WwBMOLF1KVVqqT11In8zDnSP9U"
+                    },
+                    {
+                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZiDq14i-uRfcdL3w1GJDrGLmNvRGNL-HLUHt7ctz9vk7xeUYmP1FXjXbIPe8WnWGOmzJIMdllV__TInhrelb04IpAw57ONSGrsRpOcSEmPiJsS7rtmkbUHrs4dj35HTWI2ouPc8Jxah_XJl7Nu1QIYihwUY5LJco2sNLeo4v_3Cs",
+                        "quality": "SD",
+                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZiDq14i-uRfcdL3w1GJDrGLmNvRGNL-HLUHt7ctz9vk7xeUYmP1FXjXbIPe8WnWGOmzJIMdllV__TInhrelb04IpAw57ONSGrsRpOcSEmPiJsS7rtmkbUHrs4dj35HTWI2ouPc8Jxah_XJl7Nu1QIYihwUY5LJco2sNLeo4v_3Cs"
+                    }
+                ],
+                "passed": true
             }
         }
     }

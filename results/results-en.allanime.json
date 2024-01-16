@@ -450,8 +450,154 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.AbstractMethodError: Missing implementation of resolved method 'abstract java.util.List videoListParse(okhttp3.Response)' of abstract class eu.kanade.tachiyomi.animesource.online.AnimeHttpSource.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://tools.fast4speed.rsvp//media8/videos/ReooPAxPMsHM4KPMY/sub/1090",
+                        "quality": "Original (player Yt-mp4)",
+                        "videoUrl": "https://tools.fast4speed.rsvp//media8/videos/ReooPAxPMsHM4KPMY/sub/1090",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "tools.fast4speed.rsvp",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.1080.m3u8",
+                        "quality": "1080p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.anifastcdn.info",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.1080.m3u8",
+                        "quality": "1080p (internal Luf-mp4 - hls P)",
+                        "videoUrl": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.vipanicdn.net",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.720.m3u8",
+                        "quality": "720p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.anifastcdn.info",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.480.m3u8",
+                        "quality": "480p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.anifastcdn.info",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.360.m3u8",
+                        "quality": "360p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www082.anifastcdn.info/videos/hls/AOnn6ZSK7qqOBVlUGaMvUw/1705424027/219039/0b594d900f47daabc194844092384914/ep.1090.1705200172.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.anifastcdn.info",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.720.m3u8",
+                        "quality": "720p (internal Luf-mp4 - hls P)",
+                        "videoUrl": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.vipanicdn.net",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.480.m3u8",
+                        "quality": "480p (internal Luf-mp4 - hls P)",
+                        "videoUrl": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.vipanicdn.net",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.360.m3u8",
+                        "quality": "360p (internal Luf-mp4 - hls P)",
+                        "videoUrl": "https://www082.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1090.1705200172.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "www082.vipanicdn.net",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EZd4zehcbG9MslLBCN850c8BqNP8FBf9CTZOoq_6z5-kKQ",
+                        "quality": "Original (internal S-mp4 - Mp4)",
+                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EZd4zehcbG9MslLBCN850c8BqNP8FBf9CTZOoq_6z5-kKQ"
+                    },
+                    {
+                        "url": "https://news.fast4speed.rsvp/st//st/ep_ReooPAxPMsHM4KPMY_1090_sub-360",
+                        "quality": "360p (internal Ac - SUB)",
+                        "videoUrl": "https://news.fast4speed.rsvp/st//st/ep_ReooPAxPMsHM4KPMY_1090_sub-360",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "news.fast4speed.rsvp",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://news.fast4speed.rsvp/st//st/ep_ReooPAxPMsHM4KPMY_1090_sub-720",
+                        "quality": "720p (internal Ac - SUB)",
+                        "videoUrl": "https://news.fast4speed.rsvp/st//st/ep_ReooPAxPMsHM4KPMY_1090_sub-720",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Host": "news.fast4speed.rsvp",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxvre74z3b4quuoo2qqgiaxkewlqiwwau4mnrrwuyv2yf5365blczlghalcm7464pf5eeyy/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxvre74z3b4quuoo2qqgiaxkewlqiwwau4mnrrwuyv2yf5365blczlghalcm7464pf5eeyy/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

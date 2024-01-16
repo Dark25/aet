@@ -173,19 +173,19 @@
                 "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.io.IOException: Brotli decoder initialization failed",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.io.IOException: Brotli decoder initialization failed",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.io.IOException: Brotli decoder initialization failed",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.io.IOException: Brotli decoder initialization failed",
                 "passed": false
             }
         }

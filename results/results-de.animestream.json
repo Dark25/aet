@@ -3,23 +3,30 @@
         "name": "Anime-Stream (DE)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

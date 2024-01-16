@@ -142,6 +142,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/agradecimento-e-desculpas/online/gratis",
+                                "title": "Agradecimento e Desculpas",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40169.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/o-clube-dos-milagres/online/gratis",
                                 "title": "O Clube dos Milagres",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40168.jpg"
@@ -275,11 +280,6 @@
                                 "url": "/assistir/filme/jester-a-morte-sorri/online/gratis",
                                 "title": "Jester: A Morte Sorri",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40140.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/mussum-o-filmis/online/gratis",
-                                "title": "Mussum: O Filmis",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40139.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1761,8 +1761,41 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=EdlG97n4XxEPonLTaB07fA&e=1705388331&_t=1705367785",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=EdlG97n4XxEPonLTaB07fA&e=1705388331&_t=1705367785",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=h-zI4iV9-usITo2D0pgkbw&e=1705388330&_t=1705373198",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=h-zI4iV9-usITo2D0pgkbw&e=1705388330&_t=1705373198",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1705436731&ip=F0AsFxgnDS9X&token=A7llPGWBg7qG",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1705436731&ip=F0AsFxgnDS9X&token=A7llPGWBg7qG"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1705436731&ip=F0AsFxgnDS9X&token=iYXcFUPs2M6E",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1705436731&ip=F0AsFxgnDS9X&token=iYXcFUPs2M6E"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -227,6 +227,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/percy-jackson-e-os-olimpianos",
+                                "title": "Percy Jackson e os Olimpianos",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
+                            },
+                            {
+                                "url": "/serie/online/historico-criminal",
+                                "title": "Histórico Criminal",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
+                            },
+                            {
+                                "url": "/serie/online/a-morte-entre-outros-misterios",
+                                "title": "A Morte Entre Outros Mistérios",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22609.webp"
+                            },
+                            {
+                                "url": "/serie/online/uma-loja-para-assassinos",
+                                "title": "Uma Loja Para Assassinos",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22611.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-curse",
                                 "title": "The Curse",
                                 "status": 1,
@@ -299,18 +323,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3975.webp"
                             },
                             {
-                                "url": "/serie/online/historico-criminal",
-                                "title": "Histórico Criminal",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
-                            },
-                            {
-                                "url": "/serie/online/percy-jackson-e-os-olimpianos",
-                                "title": "Percy Jackson e os Olimpianos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
-                            },
-                            {
                                 "url": "/serie/online/eco",
                                 "title": "Eco",
                                 "status": 2,
@@ -333,18 +345,6 @@
                                 "title": "Irmãos Sun",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22566.webp"
-                            },
-                            {
-                                "url": "/serie/online/a-grande-ilusao",
-                                "title": "A Grande Ilusão",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22563.webp"
-                            },
-                            {
-                                "url": "/serie/online/what-if-",
-                                "title": "E Se...?",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19426.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,31 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=lIjHugY_N26cwFjfpUvorQ&e=1705537143&_t=1705517187",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=lIjHugY_N26cwFjfpUvorQ&e=1705537143&_t=1705517187",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=x1yoIdvk3XwyTT5eXJsobA&e=1705537144&_t=1705521266",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=x1yoIdvk3XwyTT5eXJsobA&e=1705537144&_t=1705521266",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "passed": false
             }
         }
     }

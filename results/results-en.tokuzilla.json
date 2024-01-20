@@ -73,20 +73,130 @@
                 "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/watch/ninjascope-magic-world-of-ninjas.html",
+                                "title": "Ninjascope: Magic World of Ninjas",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninjascope-magic-world-of-ninjas-thumb.png"
+                            },
+                            {
+                                "url": "/watch/super-sentai-world.html",
+                                "title": "Super Sentai World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-grease.html",
+                                "title": "Build NEW WORLD: Kamen Rider Grease",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
+                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-world-j-zo.html",
+                                "title": "Kamen Rider World ( J & ZO )",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
+                                "title": "Kamen Rider Black RX – Run All Over The World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/sh15uya-shibuya-fifteen.html",
+                                "title": "Sh15uya – Shibuya Fifteen",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sh15uya-shibuya-fifteen-thumb.png"
+                            },
+                            {
+                                "url": "/watch/garo-heir-to-steel-armor.html",
+                                "title": "GARO: Heir to Steel Armor",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/garo-heir-to-steel-armor-thumb.png"
+                            },
+                            {
+                                "url": "/watch/hyperspace-guardians.html",
+                                "title": "Hyperspace Guardians",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/hyperspace-guardians-thumb.png"
+                            },
+                            {
+                                "url": "/watch/magical-chinese-girl-ipanema.html",
+                                "title": "Magical Chinese Girl Ipanema!",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/magical-chinese-girl-ipanema-thumb.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/watch/sh15uya-shibuya-fifteen.html",
+                    "title": "Sh15uya – Shibuya Fifteen",
+                    "author": "Year 2005",
+                    "description": "Sh15uya (Shibuya Fifteen) is a tokusatsu drama written by Shoji Yonemura and produced by Toei. It was first premiered on TV Asahi in 2005.",
+                    "genre": "Other, Series",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sh15uya-shibuya-fifteen-thumb.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/sh15uya-shibuya-fifteen.html?ep=12#watch",
+                        "name": "Episode 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/watch/sh15uya-shibuya-fifteen.html?ep=11#watch",
+                        "name": "Episode 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls36-eu.zcdn.stream/095834baf92ff951a462412e84ef7205/2024-01-18/720.m3u8?token=a96cfe2a5db98c1c6b82bbea020e176a&client=d41d8cd98f00b204e9800998ecf8427e&expires=1705741034&type=edge&node=wBbsBkZxSskH2HoJvZLtn1BCALBlSxhONlyvEMCnU86MbKdFzY2QcdXaz-rbzKDVG8NZV3dyi2LlTxEAgPvyAMhMdUYMUUihSOWOMB6-Wjow7aqINflZQKlVt2FGhA7fiF6Oh0uFjvuV1l0PZIqSCjHb9k6njHFs29FtJdOj0lh90pNKPd5e9Z7v4qGzmmzt",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls36-eu.zcdn.stream/095834baf92ff951a462412e84ef7205/2024-01-18/720.m3u8?token=a96cfe2a5db98c1c6b82bbea020e176a&client=d41d8cd98f00b204e9800998ecf8427e&expires=1705741034&type=edge&node=wBbsBkZxSskH2HoJvZLtn1BCALBlSxhONlyvEMCnU86MbKdFzY2QcdXaz-rbzKDVG8NZV3dyi2LlTxEAgPvyAMhMdUYMUUihSOWOMB6-Wjow7aqINflZQKlVt2FGhA7fiF6Oh0uFjvuV1l0PZIqSCjHb9k6njHFs29FtJdOj0lh90pNKPd5e9Z7v4qGzmmzt",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/v/wySN7ELb4JjK/"
+                        }
+                    },
+                    {
+                        "url": "https://hls36-eu.zcdn.stream/095834baf92ff951a462412e84ef7205/2024-01-18/360.m3u8?token=a96cfe2a5db98c1c6b82bbea020e176a&client=d41d8cd98f00b204e9800998ecf8427e&expires=1705741034&type=edge&node=wBbsBkZxSskH2HoJvZLtn1BCALBlSxhONlyvEMCnU86MbKdFzY2QcdXaz-rbzKDVG8NZV3dyi2LlTxEAgPvyAMhMdUYMUUihSOWOMB6-Wjow7aqINflZQKlVt2FGhA7fiF6Oh0uFjvuV1l0PZIqSCjHb9k6njHFs29FtJdOj0lh90pNKPd5e9Z7v4qGzmmzt",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls36-eu.zcdn.stream/095834baf92ff951a462412e84ef7205/2024-01-18/360.m3u8?token=a96cfe2a5db98c1c6b82bbea020e176a&client=d41d8cd98f00b204e9800998ecf8427e&expires=1705741034&type=edge&node=wBbsBkZxSskH2HoJvZLtn1BCALBlSxhONlyvEMCnU86MbKdFzY2QcdXaz-rbzKDVG8NZV3dyi2LlTxEAgPvyAMhMdUYMUUihSOWOMB6-Wjow7aqINflZQKlVt2FGhA7fiF6Oh0uFjvuV1l0PZIqSCjHb9k6njHFs29FtJdOj0lh90pNKPd5e9Z7v4qGzmmzt",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/v/wySN7ELb4JjK/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

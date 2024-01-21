@@ -3,7 +3,7 @@
         "name": "Anime-Stream (DE)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
@@ -184,7 +184,7 @@
                     {
                         "url": "https://metastream.to/4y4iiagurpic/Handyman.Saitou.in.another.world.S01E12.GerEngSub.AAC.720p.WebDL.x264-Tanuki.mkv",
                         "quality": "Metastream",
-                        "videoUrl": "https://www1.metastream.to/hls2/07/00003/4y4iiagurpic_h/master.m3u8?t=QSV_sTIbYKYb38EnObZeEEdb1OKWB_C26s8eSOr4abs&s=1705798974&e=43200&f=15045&i=20.81&sp=0"
+                        "videoUrl": "https://www1.metastream.to/hls2/07/00003/4y4iiagurpic_h/master.m3u8?t=mRR-NaDHyeJE9qAi35xP9YqVGR-bOhcHWjuYCovEgBk&s=1705817852&e=43200&f=15045&i=74.249&sp=0"
                     }
                 ],
                 "passed": true

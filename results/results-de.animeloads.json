@@ -252,29 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=WQlqxZmd2zUbaPG&expires=1705887890&ip=GHEsDRqAKxSHDN&token=ZR7N6q1rzjhx",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=WQlqxZmd2zUbaPG&expires=1705887890&ip=GHEsDRqAKxSHDN&token=ZR7N6q1rzjhx"
-                    },
-                    {
-                        "url": "https://seanshowcould.com/mn0mhlg1d7jr?Urusei.Yatsura.S02E02.GerEngSub.AAC.720p.WebDL.x264-Tanuki(Sub).mp4",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-tbrhqa7kmr6tsjqh.voe-network.net/engine/hls2/01/10314/mn0mhlg1d7jr_,n,.urlset/master.m3u8?t=GZUrrqEriaOTsN8MFqMsHOvMFvjKJF5ZS9T_yrtNxgM&s=1705817884&e=14400&f=51572690&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=74.249&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=QAVMJDBR7eh0YXQ&expires=1705887878&ip=GHEsDRqAKxSHDN&token=1ChAm4HmgRUz",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=QAVMJDBR7eh0YXQ&expires=1705887878&ip=GHEsDRqAKxSHDN&token=1ChAm4HmgRUz"
-                    },
-                    {
-                        "url": "https://seanshowcould.com/u1vycylwzrkf?Urusei.Yatsura.2022.S02E02.Ger.HARDSUB.AAC.720p.ADN.WebDL.x264-DK.mkv",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-mmt50nevzjlwhxk9.voe-network.net/engine/hls2/01/10314/u1vycylwzrkf_,n,.urlset/master.m3u8?t=GJjUF5pstNzZ12qJTihA5rK1uhkdZC8nhDGAc3wZtX8&s=1705817872&e=14400&f=51572538&node=delivery-node-mmt50nevzjlwhxk9.voe-network.net&i=74.249&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

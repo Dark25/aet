@@ -252,8 +252,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=WQlqxZmd2zUbaPG&expires=1705930972&ip=GHEsDRqAKxSHDN&token=xPl1-ZvUUxT-",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=WQlqxZmd2zUbaPG&expires=1705930972&ip=GHEsDRqAKxSHDN&token=xPl1-ZvUUxT-"
+                    },
+                    {
+                        "url": "https://seanshowcould.com/mn0mhlg1d7jr?Urusei.Yatsura.S02E02.GerEngSub.AAC.720p.WebDL.x264-Tanuki(Sub).mp4",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-tbrhqa7kmr6tsjqh.voe-network.net/engine/hls2/01/10314/mn0mhlg1d7jr_,n,.urlset/master.m3u8?t=HegcTYFepzPyAgky04fRcbqDSCas0znWy7EwcE6hlhg&s=1705860967&e=14400&f=51572690&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=74.249&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=QAVMJDBR7eh0YXQ&expires=1705930961&ip=GHEsDRqAKxSHDN&token=ldYxvJdzE3dG",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=QAVMJDBR7eh0YXQ&expires=1705930961&ip=GHEsDRqAKxSHDN&token=ldYxvJdzE3dG"
+                    },
+                    {
+                        "url": "https://seanshowcould.com/u1vycylwzrkf?Urusei.Yatsura.2022.S02E02.Ger.HARDSUB.AAC.720p.ADN.WebDL.x264-DK.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/10314/u1vycylwzrkf_,n,.urlset/master.m3u8?t=YTUyJOA1aTFZIvuDDwbAbSdnvirznVdory0xmxlGV5s&s=1705860955&e=14400&f=51572538&node=delivery-node-mmt50nevzjlwhxk9.voe-network.net&i=74.249&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

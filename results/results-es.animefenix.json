@@ -497,37 +497,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/0PEsC2gHpj6f_OHtTA4uYPYPgkulUkngmhIni6MZTW0eJxFPc",
-                        "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/0PEsC2gHpj6f_OHtTA4uYPYPgkulUkngmhIni6MZTW0eJxFPc"
-                    },
-                    {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/DMVgMDMVYtIbE9nU8LP6OVo7kwQ6fE0BtzkvsVedZSUeJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/DMVgMDMVYtIbE9nU8LP6OVo7kwQ6fE0BtzkvsVedZSUeJxFPc"
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20240121T4b8QSp8kEF/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240121T4b8QSp8kEF/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://cdn.burstcloud.co/a20240121Ogdyj0p46t5/Yashahime 24.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20240121Ogdyj0p46t5/Yashahime 24.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://www.burstcloud.co"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

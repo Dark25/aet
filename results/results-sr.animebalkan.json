@@ -333,16 +333,45 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": {
+                    "url": "/animesaprevodom/naruto-shippuden/",
+                    "title": "Naruto: Shippuden",
+                    "artist": "Studio Pierrot",
+                    "description": "Watch streaming Naruto: Shippuden English Subbed on Anime Balkan - Najbolji sajt za gledanje animea. You can also download free Naruto: Shippuden Eng Sub, don't forget to watch online streaming of various quality 720P 360P 240P 480P according to your connection to save internet quota, Naruto: Shippuden on Anime Balkan - Najbolji sajt za gledanje animea MP4 MKV hardsub softsub English subbed is already contained in the video.\n\nAlternative name(s): Naruto: Shippuden, Naruto Hurricane Chronicles, ナルト- 疾風伝\nStatus: Completed\nStudio: Studio Pierrot\nDatum Izlaska: 2007\nTrajanje Epizode: 23 min. per ep.\nSezone: Zima 2007\nVrsta: TV\nEpizode: 500\nGlumci:\nPostavio:\nDatum Izlaska: Oktobar 28, 2020\nAžurirano: Oktobar 28, 2020\n",
+                    "genre": "Akcija, Avantura, Borilačke Veštine, Komedija, Shounen, Super Moći",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i3.wp.com/animebalkan.org/wp-content/uploads/2020/09/17407.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/naruto-shippuden-epizoda-500/",
+                        "name": "Episode 500",
+                        "date_upload": 1600128000000,
+                        "episode_number": 500.0
+                    },
+                    {
+                        "url": "/naruto-shippuden-epizoda-499/",
+                        "name": "Episode 499",
+                        "date_upload": 1600041600000,
+                        "episode_number": 499.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://abultra.animebalkan.cc/b2api/v1/b2_download_file_by_id?fileId=4_zafdfba4e3ef1bc5279ae0712_f22274ed473eb79a8_d20220319_m003316_c000_v0001077_t0044",
+                        "quality": "Server AB - Default",
+                        "videoUrl": "https://abultra.animebalkan.cc/b2api/v1/b2_download_file_by_id?fileId=4_zafdfba4e3ef1bc5279ae0712_f22274ed473eb79a8_d20220319_m003316_c000_v0001077_t0044"
+                    }
+                ],
+                "passed": true
             }
         }
     }

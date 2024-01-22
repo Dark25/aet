@@ -471,15 +471,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hanyo-no-yashahime",
-                    "title": "Hanyo no Yashahime",
-                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -497,8 +490,37 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/oooECMi5yvVAG2ZHHWV3ywc83hrDS2_497BNrsX2reQeJxFPc",
+                        "quality": "AmazonES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/oooECMi5yvVAG2ZHHWV3ywc83hrDS2_497BNrsX2reQeJxFPc"
+                    },
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/IzE0FrK2Il2SpPMuvRfo_UfQlt_7IOM1LLWZbcaTtQgeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/IzE0FrK2Il2SpPMuvRfo_UfQlt_7IOM1LLWZbcaTtQgeJxFPc"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a202401224JqS2pLiAt6/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a202401224JqS2pLiAt6/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a202401220RvqMqV7053/Yashahime 24.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a202401220RvqMqV7053/Yashahime 24.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

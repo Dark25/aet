@@ -151,10 +151,10 @@
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
                             },
                             {
-                                "url": "/jigokuraku",
-                                "title": "Jigokuraku",
-                                "description": "El período Edo está llegando a su fin. A Gabimaru, un shinobi anteriormente conocido como el más fuerte de Iwagakure que ahora es un condenado a muerte, se le dice que será absuelto y puesto en libertad si puede recuperar el Elixir de la Vida de una isla que se rumorea que es la tierra pura budista. Sukhavati. Con la esperanza de reunirse con su amada esposa, Gabimaru se dirige a la isla junto con el verdugo Yamada Asaemon Sagiri. Al llegar allí, se encuentran con otros condenados a muerte en busca del Elixir de la Vida... así como con una gran cantidad de criaturas desconocidas, estatuas espeluznantes hechas por el hombre y los ermitaños que gobiernan la isla. ¿Podrá Gabimaru encontrar el Elixir de la Vida en esta isla misteriosa y regresar vivo a casa?",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6416301a067cb/jigokuraku.jpg"
+                                "url": "/made-in-abyss-retsujitsu-no-ougonkyo",
+                                "title": "Made in Abyss: Retsujitsu no Ougonkyo",
+                                "description": "Segunda temporada de esta obra maestra 20/10 y GOD.",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/62b3890166f70/made-in-abyss-retsujitsu-no-ougonkyo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -471,8 +471,15 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/hanyo-no-yashahime",
+                    "title": "Hanyo no Yashahime",
+                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -492,28 +499,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/oooECMi5yvVAG2ZHHWV3ywc83hrDS2_497BNrsX2reQeJxFPc",
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/nX7PMwJu_cafuEQESzz7H4d3TTr5Fp7Qw-A1EIPmejAeJxFPc",
                         "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/oooECMi5yvVAG2ZHHWV3ywc83hrDS2_497BNrsX2reQeJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/nX7PMwJu_cafuEQESzz7H4d3TTr5Fp7Qw-A1EIPmejAeJxFPc"
                     },
                     {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/IzE0FrK2Il2SpPMuvRfo_UfQlt_7IOM1LLWZbcaTtQgeJxFPc",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/icDK2a_2EjAfCyQcdBC7UXOiCxjaXIbQyTWNz9xhR2UeJxFPc",
                         "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/IzE0FrK2Il2SpPMuvRfo_UfQlt_7IOM1LLWZbcaTtQgeJxFPc"
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/icDK2a_2EjAfCyQcdBC7UXOiCxjaXIbQyTWNz9xhR2UeJxFPc"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a202401224JqS2pLiAt6/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240122w21n8suvrFx/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202401224JqS2pLiAt6/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240122w21n8suvrFx/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "referer": "https://www.yourupload.com/"
                         }
                     },
                     {
-                        "url": "https://cdn.burstcloud.co/a202401220RvqMqV7053/Yashahime 24.mp4",
+                        "url": "https://cdn.burstcloud.co/a20240122JlpySgu65yE/Yashahime 24.mp4",
                         "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a202401220RvqMqV7053/Yashahime 24.mp4",
+                        "videoUrl": "https://cdn.burstcloud.co/a20240122JlpySgu65yE/Yashahime 24.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "referer": "https://www.burstcloud.co"

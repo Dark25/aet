@@ -497,8 +497,37 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/pfpa3xCYRBQaPaS7oGcHQJKTESfncT7pW_gF4UnO7_EeJxFPc",
+                        "quality": "AmazonES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/pfpa3xCYRBQaPaS7oGcHQJKTESfncT7pW_gF4UnO7_EeJxFPc"
+                    },
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/Nct2UObZOrmSOAD1t5kbmWGCCcb0xsnCjLW9hx48LoseJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/Nct2UObZOrmSOAD1t5kbmWGCCcb0xsnCjLW9hx48LoseJxFPc"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240123NKhma2aVBbH/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240123NKhma2aVBbH/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a20240123Kh50db260N3/Yashahime 24.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a20240123Kh50db260N3/Yashahime 24.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -503,39 +503,23 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/anime/12-one-piece/76612",
+                        "name": "Episode 1092",
+                        "date_upload": 1706422521000,
+                        "episode_number": 1092.0
+                    },
+                    {
                         "url": "/anime/12-one-piece/76514",
                         "name": "Episode 1091",
                         "date_upload": 1705845747000,
                         "episode_number": 1091.0
-                    },
-                    {
-                        "url": "/anime/12-one-piece/76414",
-                        "name": "Episode 1090",
-                        "date_upload": 1705211514000,
-                        "episode_number": 1090.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/190071.m3u8?type=video&rendition=1080p&token=IaX_Cb_d2o9JTXZFWY39Qg&expires=1711587467&n=1",
-                        "quality": "1080p",
-                        "videoUrl": "https://vixcloud.co/playlist/190071.m3u8?type=video&rendition=1080p&token=IaX_Cb_d2o9JTXZFWY39Qg&expires=1711587467&n=1"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/190071.m3u8?type=video&rendition=720p&token=KX0uW2ZjRplbIZhhNK2lKg&expires=1711587467&n=1",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/190071.m3u8?type=video&rendition=720p&token=KX0uW2ZjRplbIZhhNK2lKg&expires=1711587467&n=1"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/190071.m3u8?type=video&rendition=480p&token=QjV6TrgEyaMA1dsd3gZJ_g&expires=1711587467&n=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/190071.m3u8?type=video&rendition=480p&token=QjV6TrgEyaMA1dsd3gZJ_g&expires=1711587467&n=1"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

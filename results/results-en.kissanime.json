@@ -3,13 +3,28 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/",
+                                "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Banished-from-the-Heros-Party-I-Decided-to-Live-a-Quiet-Life-in-the-Countryside-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/shangri-la-frontier.80188/",
+                                "title": "Shangri-La Frontier",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier.jpg"
+                            },
+                            {
+                                "url": "/Anime/captain-tsubasa-junior-youth-arc.68438/",
+                                "title": "Captain Tsubasa: Junior Youth Arc",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Captain-Tsubasa-Junior-Youth-Arc.jpg"
+                            },
                             {
                                 "url": "/Anime/Soaring-Sky-Pretty-Cure/",
                                 "title": "Soaring Sky! Pretty Cure",
@@ -244,21 +259,6 @@
                                 "url": "/Anime/Bottom-Tier-Character-Tomozaki-2nd-Stage-Dub/",
                                 "title": "Bottom-Tier Character Tomozaki 2nd Stage (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bottom-Tier-Character-Tomozaki-2nd-Stage-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Classroom-of-the-Elite-Season-3-Dub/",
-                                "title": "Classroom of the Elite Season 3 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Classroom-of-the-Elite-Season-3-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Metallic-Rouge-Dub/",
-                                "title": "Metallic Rouge (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Metallic-Rouge-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Metallic-Rouge/",
-                                "title": "Metallic Rouge",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Metallic-Rouge.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/Soaring-Sky-Pretty-Cure/",
-                    "title": "Soaring Sky! Pretty Cure",
-                    "description": "A major incident has occurred in the peaceful Sky Land!? The young Princess Eru has been kidnapped by the monsters of Underg Empire! A brave young girl, Sora, follows the princess through a mysterious hole. \"TV\"? \"Cars\"? Are those some kind of magic tools!?!? But there's no time to be surprised! She has to get the princess back to the castle...! Flying between two worlds! The adventure with the Pretty Cure begins now! It's hero time!\n\nUser rating: 96%",
-                    "genre": "Mahou Shoujo",
+                    "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/",
+                    "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+                    "description": "The second season of Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita.\n\nUser rating: 95%",
+                    "genre": "Action, Adventure, Fantasy, Romance, Slice Of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Banished-from-the-Heros-Party-I-Decided-to-Live-a-Quiet-Life-in-the-Countryside-Season-2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,36 +792,23 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/Soaring-Sky-Pretty-Cure/Episode-050?id=188431",
-                        "name": "Soaring Sky! Pretty Cure - Episode 050",
+                        "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/Episode-004?id=188434",
+                        "name": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2 - Episode 004",
                         "date_upload": 1706400000000,
-                        "episode_number": 50.0
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/Anime/Soaring-Sky-Pretty-Cure/Episode-049?id=188290",
-                        "name": "Soaring Sky! Pretty Cure - Episode 049",
+                        "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/Episode-003?id=188296",
+                        "name": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2 - Episode 003",
                         "date_upload": 1705795200000,
-                        "episode_number": 49.0
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s42.openstream.io/hls/qvsbjfvqmxblgwsztsz2a24abavp4w5ekqsyum7gyxe5ciudfm3h6fgqniga/index-v1-a1.m3u8",
-                        "quality": "Oserver - 720p",
-                        "videoUrl": "https://s42.openstream.io/hls/qvsbjfvqmxblgwsztsz2a24abavp4w5ekqsyum7gyxe5ciudfm3h6fgqniga/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s42.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

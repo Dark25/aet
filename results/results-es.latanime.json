@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-latino",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/nanatsu-no-taizai-mokushiroku-no-yonkishi-latino-1706402752.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/kekkon-yubiwa-monogatari-latino",
+                                "title": "Kekkon Yubiwa Monogatari Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kekkon-yubiwa-monogatari-latino-1706395468.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/signos-de-afecto-latino",
+                                "title": "Signos de Afecto Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/signos-de-afecto-latino-1706395009.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/mashle-s2-castellano",
+                                "title": "Mashle S2 Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/mashle-s2-castellano-1706390761.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/mashle-s2-latino",
+                                "title": "Mashle S2 Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/mashle-s2-latino-1706390400.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/momochi-san-chi-no-ayakashi-ouji-latino",
                                 "title": "Momochi-san Chi no Ayakashi Ouji Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/momochi-san-chi-no-ayakashi-ouji-latino-1706294799.jpg?v=1.5"
@@ -130,31 +155,6 @@
                                 "url": "/anime/frieren-mas-alla-del-final-del-viaje-castellano",
                                 "title": "Frieren: Tras finalizar el viaje Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/frieren-mas-alla-del-final-del-viaje-castellano-1698436623.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/frieren-mas-alla-del-final-del-viaje-latino",
-                                "title": "Frieren: Más allá del final del viaje Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/frieren-mas-alla-del-final-del-viaje-latino-1698435826.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/shangri-la-frontier-latino",
-                                "title": "Shangri-La Frontier Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/shangri-la-frontier-latino-1698002690.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/nagi-no-asukara-calma-en-el-mar-latino",
-                                "title": "Nagi no Asukara - Calma en el Mar Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/nagi-no-asukara-calma-en-el-mar-latino-1696729305.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/zom-100-bucket-list-of-the-dead-latino",
-                                "title": "Zom 100: Bucket List of the Dead Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/zom-100-bucket-list-of-the-dead-latino-1691955720.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/zom-100-bucket-list-of-the-dead-castellano",
-                                "title": "Zom 100: Bucket List of the Dead Castellano",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/zom-100-bucket-list-of-the-dead-castellano-1690749973.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,75 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/momochi-san-chi-no-ayakashi-ouji-latino",
-                    "title": "Momochi-san Chi no Ayakashi Ouji Latino",
-                    "description": "El decimosexto cumpleaños de Himari será inolvidable para ella. Inesperadamente, recibe un testamento donde le dejan en herencia una misteriosa casa: la Casa Momochi. Al llegar allí descubre que dicha casa estaba construida en el límite entre el mundo humano y el reino espiritual. Allí conoce a Yukari, Ise y un peculiar chico llamado Aoi que parece esconder un secreto.",
-                    "genre": "Fantasía, Shojo, Romance",
+                    "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-latino",
+                    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Latino",
+                    "description": "Percival siempre ha vivido con su abuelo en God's Finger, un refugio remoto que se encuentra muy por encima de las nubes. Y aunque ama la vida sencilla, secretamente anhela la aventura. Pero la vida de Percival cambia para siempre cuando un intruso, que comparte una impactante conexión con él, le arranca todo lo que ha conocido. Sin nada más que hacer más que perseguir a quien le quitó todo, Percival emprende su propio viaje. Durante su viaje, el niño protegido descubre que hay muchas cosas que desconoce sobre la vida normal. Afortunadamente, en el camino se encuentra con amigos que pueden ayudarlo a salir adelante, pero ¿cómo reaccionarán cuando descubran el destino de Percival... y cómo está conectado con el fin del mundo?",
+                    "genre": "Acción, Aventura, Fantasía, Shonen",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/momochi-san-chi-no-ayakashi-ouji-latino-episodio-1",
-                        "name": "Momochi-san Chi no Ayakashi Ouji Latino Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=5&sig=LJ3tfn9uvfo&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=5&sig=LJ3tfn9uvfo&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790"
-                    },
-                    {
-                        "url": "https://www4.mp4upload.com:183/d/rcxv27h4z3b4quuorgqrcjkykywql477hulnsgz24yzarjvcu4ssf4wbnmp5ey4nmn76vwgy/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxv27h4z3b4quuorgqrcjkykywql477hulnsgz24yzarjvcu4ssf4wbnmp5ey4nmn76vwgy/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m70.uqload.io/3rfkxew5sbw2q4drdjj7vknvbyfyxtledsjnxoqj46xeczywiirnfc32lspa/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m70.uqload.io/3rfkxew5sbw2q4drdjj7vknvbyfyxtledsjnxoqj46xeczywiirnfc32lspa/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=3&sig=kH6d0ALV0PY&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=3&sig=kH6d0ALV0PY&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790"
-                    },
-                    {
-                        "url": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=2&sig=4DhDrFg0tTc&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=2&sig=4DhDrFg0tTc&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790"
-                    },
-                    {
-                        "url": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=1&sig=6jDrI7XTdCI&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=1&sig=6jDrI7XTdCI&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790"
-                    },
-                    {
-                        "url": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=0&sig=AaEqcGnlRCQ&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=0&sig=AaEqcGnlRCQ&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790"
-                    },
-                    {
-                        "url": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=4&sig=YKwTpQ6tI6w&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://vd304.mycdn.me/?expires=1706465656950&srcIp=13.91.68.223&pr=10&srcAg=GECKO&ms=185.226.53.13&type=4&sig=YKwTpQ6tI6w&ct=0&urls=45.136.20.67&clientType=0&zs=43&id=5741848365790"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -3,54 +3,48 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/animes/goblin-no-suana/",
-                                "title": "Goblin no Suana",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/06/Goblin-no-Suana-185x278-1.png"
-                            },
-                            {
-                                "url": "/animes/modaete-yo-adam-kun/",
-                                "title": "Modaete yo, Adam-kun",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/12/o-anime-para-adultos-modaete-yo-adam-kun-ganha-1-trailer-2-185x278.webp"
-                            },
-                            {
-                                "url": "/animes/my-mother/",
-                                "title": "My Mother The Animation",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/05/my-mother-211x300-1-185x278.jpg"
-                            },
-                            {
-                                "url": "/animes/hora-de-aventura-dublado/",
-                                "title": "Hora de Aventura Dublado",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
-                            },
-                            {
-                                "url": "/animes/clarencio-o-otimista/",
-                                "title": "Clarêncio, O Otimista",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
-                            },
-                            {
-                                "url": "/animes/o-incrivel-mundo-de-gumball/",
-                                "title": "O Incrível Mundo de Gumball",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
-                            },
-                            {
-                                "url": "/animes/apenas-um-show/",
-                                "title": "Apenas Um Show",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodios/high-card-2-episodio-4/",
+                                "title": "High Card 2 Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/4-10-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/high-card-2-episodio-3/",
+                                "title": "High Card 2 Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/3-3-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/high-card-2-episodio-2/",
+                                "title": "High Card 2 Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/2-5-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/tsuki-ga-michibiku-isekai-douchuu-2-episodio-4/",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2 Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/4-9-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru-dublado-episodio-1/",
+                                "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (Dublado) Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/1-7-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/aniyome-the-animation-episodio-2/",
+                                "title": "Aniyome The Animation Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/2-4-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/aniyome-the-animation-episodio-1/",
+                                "title": "Aniyome The Animation Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/1-6-300x170.png"
+                            },
                             {
                                 "url": "/episodios/meiji-gekken-1874-episodio-3/",
                                 "title": "Meiji Gekken: 1874 Episódio 3",
@@ -165,41 +159,6 @@
                                 "url": "/episodios/mashle-2-episodio-4/",
                                 "title": "Mashle 2 Episódio 4",
                                 "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/4-1-300x170.png"
-                            },
-                            {
-                                "url": "/episodios/solo-leveling-episodio-4/",
-                                "title": "Solo Leveling Episódio 4",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/4-300x170.png"
-                            },
-                            {
-                                "url": "/episodios/bucchigiri-episodio-3/",
-                                "title": "BUCCHIGIRI?! Episódio 3",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/3-300x170.png"
-                            },
-                            {
-                                "url": "/episodios/ragna-crimson-episodio-15/",
-                                "title": "Ragna Crimson Episódio 15",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/15-300x170.png"
-                            },
-                            {
-                                "url": "/episodios/kekkon-yubiwa-monogatari-episodio-4/",
-                                "title": "Kekkon Yubiwa Monogatari Episódio 4",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/1-300x170.png"
-                            },
-                            {
-                                "url": "/episodios/beyblade-x-episodio-15/",
-                                "title": "Beyblade X Episódio 15",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/15-8-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodios/pon-no-michi-episodio-4/",
-                                "title": "Pon no Michi Episódio 4",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/4-38-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodios/undead-unluck-episodio-16/",
-                                "title": "Undead Unluck Episódio 16",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/01/16-3-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -208,123 +167,36 @@
                 "passed": true
             },
             "search": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "details": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "episodes": {
                 "result": [
                     {
-                        "animes": [
-                            {
-                                "url": "/animes/good-night-world/",
-                                "title": "Good Night World",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/10/xoRwMPvORrZKqAvWKA0wm7vR250-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/world-conquest-zvezda-plot/",
-                                "title": "World Conquest Zvezda Plot",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/04/q0VlnKNxqNOgIhzxXDgzpnpftyS-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/seiken-tsukai-no-world-break/",
-                                "title": "Seiken Tsukai no World Break",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/sd-gundam-world-heroes/",
-                                "title": "SD Gundam World Heroes",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/hetalia-world-stars/",
-                                "title": "Hetalia World Stars",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/musaigen-no-phantom-world/",
-                                "title": "Musaigen no Phantom World",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/accel-world/",
-                                "title": "Accel World",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
-                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/world-destruction/",
-                                "title": "World Destruction",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/another-world/",
-                                "title": "Another World",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/rezero-starting-life-in-another-world/",
-                                "title": "Re:ZERO -Starting Life in Another World-",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/makai-senki-disgaea/",
-                                "title": "Makai Senki Disgaea",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/bQgbjA328PuWQP1epb75sQEkMnU-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/hack-liminality/",
-                                "title": ".hack//Liminality",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/hGidbV6INqbGoQ5lxGjBmnOj4r0-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/sushi-police/",
-                                "title": "Sushi Police",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/06/vSYyiifMe9k0wP2vnf0WT2O4oNE-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban/",
-                                "title": "Re Zero Kara Hajimeru Isekai Seikatsu – Shin Henshuu-ban",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/01/kFUsNsNeW5YyCosmvvSqtqFcWVY-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/leadale-no-daichi-nite/",
-                                "title": "Leadale no Daichi nite",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2022/04/oz3xb8ZpPC9SEKneBrJVK3ZinG6-185x278-1-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/zombieland-saga/",
-                                "title": "Zombieland Saga",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/e4rzeUloRTHGovb46Zobk3TimhL-150x150.jpg"
-                            },
-                            {
-                                "url": "/animes/lance-n-masques/",
-                                "title": "Lance N Masques",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/AghKnbLP54oxREa33OlOkHO3CN3-150x150.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
+                        "url": "/episodios/high-card-2-episodio-4/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
-            "details": {
-                "result": {
-                    "url": "/animes/goblin-no-suana/",
-                    "title": "Goblin no Suana",
-                    "description": "Goblins são considerados as criaturas mais fracas e inúteis de qualquer mundo de fantasia, e este não foi exceção. Eles são incrivelmente fracos e são mortos em massa por caçadores de monstros. No entanto, ninguém entende sua verdadeira natureza e por que eles se multiplicam tão rapidamente e se espalham pelo continente. Todo o segredo acaba sendo bastante simples – eles sequestram fêmeas de pessoas, elfos e outros povos em grande número e os fertilizam de forma confiável, bombeando seus corpos com esperma até o limite…\n\nTítulo original: Goblin no Suana\nTemporadas: 1\nEpisódios: 4",
-                    "genre": "",
-                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/06/Goblin-no-Suana-185x278-1.png",
-                    "initialized": true
-                },
-                "passed": true
-            },
-            "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
-            },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr5---sn-q4flrnee.googlevideo.com/videoplayback?expire=1706581009&ei=keu3ZfPFLtetybgP8Z-GkAE&ip=52.225.77.213&id=a3ac6e43df281079&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=X0&mm=31&mn=sn-q4flrnee&ms=au&mv=u&mvi=5&pl=16&susc=bl&eaua=fQMBug3d4lM&mime=video/mp4&vprv=1&dur=1420.132&lmt=1706548444798890&mt=1706551433&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgOnmY-UVrGSVHpb7K4pWGwPnhfC1IYgePSxZ-GwhCGeECIFP_25WwRSYS3nsPxrMXk116N4FZ-FHiO3gmAK_FsTl2&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIgA_IAaFo03AJXpiS3k30kWXXRgXr95F30skGMohyLQ_MCIQCnxdgblm47UF2Y1bB35OEp7gfmMIh3Fry_TS9QiwZ8cw%3D%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr5---sn-q4flrnee.googlevideo.com/videoplayback?expire=1706581009&ei=keu3ZfPFLtetybgP8Z-GkAE&ip=52.225.77.213&id=a3ac6e43df281079&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=X0&mm=31&mn=sn-q4flrnee&ms=au&mv=u&mvi=5&pl=16&susc=bl&eaua=fQMBug3d4lM&mime=video/mp4&vprv=1&dur=1420.132&lmt=1706548444798890&mt=1706551433&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgOnmY-UVrGSVHpb7K4pWGwPnhfC1IYgePSxZ-GwhCGeECIFP_25WwRSYS3nsPxrMXk116N4FZ-FHiO3gmAK_FsTl2&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIgA_IAaFo03AJXpiS3k30kWXXRgXr95F30skGMohyLQ_MCIQCnxdgblm47UF2Y1bB35OEp7gfmMIh3Fry_TS9QiwZ8cw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

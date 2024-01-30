@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/hakuouki-otogisoushi/",
+                                "title": "Hakuouki – Otogisoushi",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uk5e7x1gUCttuBG5otcWrpqNhB7.jpg"
+                            },
+                            {
                                 "url": "/series/the-angel-next-door-spoils-me-rotten/",
                                 "title": "The Angel Next Door Spoils Me Rotten",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/i4Vxh8qdgH1OnXklWgBJPOdSJZx.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/series/in-another-world-with-my-smartphone/",
                                 "title": "In Another World With My Smartphone",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ym8ZsooSc81T5ZDF16HuzSG3UlC.jpg"
-                            },
-                            {
-                                "url": "/series/ippon-again/",
-                                "title": "Ippon again!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5EfLTgMXunmkMWEF9kJFGKeusQ9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -369,24 +369,41 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/the-angel-next-door-spoils-me-rotten/",
-                    "title": "The Angel Next Door Spoils Me Rotten",
-                    "description": "Mahiru ist ein wunderschönes Mädchen, das von ihren Mitschülern als „Engel“ bezeichnet wird. Sie ist nicht nur eine Spitzensportlerin mit perfekten Noten, sondern auch noch umwerfend schön. Amane hingegen ist ein durchschnittlicher Typ und ein bekennender Faulpelz. Er hat noch nie viel von der göttlichen Schönheit gehalten, obwohl sie auf dieselbe Schule gehen. Das ändert sich jedoch schlagartig, als er Mahiru zufällig während eines Regenschauers allein im Park sitzen sieht. So beginnt eine seltsame Beziehung zwischen diesem unglaublich unwahrscheinlichen Paar!",
+                    "url": "/series/hakuouki-otogisoushi/",
+                    "title": "Hakuouki – Otogisoushi",
+                    "description": "Was passiert eigentlich bei den Charakteren von „Hakuouki“, wenn nicht gerade der Dienst ruft? Dies erfährt man in lustigen und herzerwärmenden Kurzgeschichten in „Hakouuki Otogososhi“.",
                     "genre": "Animation, Komödie",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/i4Vxh8qdgH1OnXklWgBJPOdSJZx.jpg",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/uk5e7x1gUCttuBG5otcWrpqNhB7.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/hakuouki-otogisoushi-staffel-1-folge-12",
+                        "name": "Folge 12 - Episode 12",
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/episode/hakuouki-otogisoushi-staffel-1-folge-11",
+                        "name": "Folge 11 - Episode 11",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://metastream.to/tscobpwrbvmv/[YKS]Hakuouki_Otogisoshi_-_12[Hi10P][DBAF8A6C].mkv",
+                        "quality": "Metastream",
+                        "videoUrl": "https://www1.metastream.to/hls2/08/00003/tscobpwrbvmv_,h,x,.urlset/master.m3u8?t=TMtt1i9EIMKgH7DV4OsULMYdbKD7zARcFxDpieYkZ6M&s=1706595384&e=43200&f=15212&i=20.172&sp=0"
+                    }
+                ],
+                "passed": true
             }
         }
     }

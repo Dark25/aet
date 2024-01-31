@@ -3,28 +3,269 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5372",
+                                "title": "Dog Signal",
+                                "artist": "Fetch",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9e560e9e91a3d4d2bf89285fb26a32697b9d9d155acf27e7ce422c18ebfaf125.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4756",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "artist": "entameSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/40f8aae0da54a1bbeff68a8b980935feadc5f9fce68a0f8e6e8b04382df408e8.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5441",
+                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/edf25ced42d13fe4fe74516e56bbdd5d3584046bdd90d8c78e950e3d7c528557.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5442",
+                                "title": "Oroka na Tenshi wa Akuma to Odoru",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b6d71f34884a00c2d874c67600e9c33eb424dcb6bb452fbace06d94f7416c984.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5432",
+                                "title": "Dosanko Gal wa Namara Menkoi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/794233463fa710fbb7f9ec4b9030c3ed50588d8b850f956ca5ebbd280fe9246c.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5452",
+                                "title": "Himesama \"Goumon\" no Jikan desu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bf714c0e8735ff7e324b506bb7b77529a9c47e75b3acd24107a220be9ea232fd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5423",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c92aa6c84676a391311abbb661d154a8dec7bfc9c845fee194bc9f1a0d60fd7d.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5443",
+                                "title": "High Card Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1ad03dce792f6f12b9909c997d2b141b22c9945acf2a283a980f6bfaeff12878.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5428",
+                                "title": "Dungeon Meshi",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7bbd06d14275c3111d3677048e448c99147e79d487c2c29079fe4b9718a581b0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5140",
+                                "title": "Chibi Maruko-chan",
+                                "artist": "MaruChanSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/fd91a8f85847403e8ebeaef9f418ae4bf9577a31064172617487f1ca03eb1942.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5464",
+                                "title": "Yami Shibai 12",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/798ff37570f618f05af69e6d36ee4970e8eba3eedd32bca84bacd8707256efbe.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5448",
+                                "title": "Kyuujitsu no Warumono-san",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3c5ac444207014f5d485b3a84ac604a69a122f5f9b008b7bed085fda5d2a870f.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5372",
+                                "title": "Dog Signal",
+                                "artist": "Fetch",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9e560e9e91a3d4d2bf89285fb26a32697b9d9d155acf27e7ce422c18ebfaf125.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4756",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "artist": "entameSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/40f8aae0da54a1bbeff68a8b980935feadc5f9fce68a0f8e6e8b04382df408e8.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5441",
+                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/edf25ced42d13fe4fe74516e56bbdd5d3584046bdd90d8c78e950e3d7c528557.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5442",
+                                "title": "Oroka na Tenshi wa Akuma to Odoru",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b6d71f34884a00c2d874c67600e9c33eb424dcb6bb452fbace06d94f7416c984.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5432",
+                                "title": "Dosanko Gal wa Namara Menkoi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/794233463fa710fbb7f9ec4b9030c3ed50588d8b850f956ca5ebbd280fe9246c.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5452",
+                                "title": "Himesama \"Goumon\" no Jikan desu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bf714c0e8735ff7e324b506bb7b77529a9c47e75b3acd24107a220be9ea232fd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5423",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c92aa6c84676a391311abbb661d154a8dec7bfc9c845fee194bc9f1a0d60fd7d.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5443",
+                                "title": "High Card Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1ad03dce792f6f12b9909c997d2b141b22c9945acf2a283a980f6bfaeff12878.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5428",
+                                "title": "Dungeon Meshi",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7bbd06d14275c3111d3677048e448c99147e79d487c2c29079fe4b9718a581b0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5140",
+                                "title": "Chibi Maruko-chan",
+                                "artist": "MaruChanSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/fd91a8f85847403e8ebeaef9f418ae4bf9577a31064172617487f1ca03eb1942.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5464",
+                                "title": "Yami Shibai 12",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/798ff37570f618f05af69e6d36ee4970e8eba3eedd32bca84bacd8707256efbe.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5448",
+                                "title": "Kyuujitsu no Warumono-san",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3c5ac444207014f5d485b3a84ac604a69a122f5f9b008b7bed085fda5d2a870f.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=2064",
+                                "title": "World Fool News (TV)",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/fa9d124c722e9299a10cb95a7f21a020c743aee11fffdfc70e359174a6e21fc9.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=119",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/5a3bd9bf6b59f52791ed7b7c05a300a1b9e9007a625d85124ccd7b2284cba8a0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2043",
+                                "title": "World Fool News (TV) Part II",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4524",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4175",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4200",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5229",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/e9a0985f593a33302d983d125b3fd44d1124c540176fcfad6296a0b819709319.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3709",
+                                "title": "World Fool News",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/b41c8c670b99fbb48485ce830a2b30236806c701bec41fcb249c22cd39287fdb.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/anime/?anime_id=5372",
+                    "title": "Dog Signal",
+                    "author": "Fugaku",
+                    "description": "After his girlfriend Yuuko breaks up with him, Miyu Samura's luck is at an all-time low. But one day several months later, she reappears and gives Miyu a toy poodle she supposedly cannot take care of. Miyu's knowledge of dogs is nonexistent, and the puppy's rowdiness leaves him in danger of being evicted from his own home. When Miyu decides to take the puppy on a walk, he has a chance encounter with professional dog trainer Shinichirou Niwa and Niwa's well-behaved standard poodle Ourson. In just a matter of minutes, Niwa not only corrects the attitude of Miyu's dog, but also gives Miyu himself stern advice on how to treat his pet properly. Amazed by Niwa's techniques, Miyu decides to quit his job in order to become the trainer's assistant; however, Niwa is not as skillful in dealing with humans as he is with their canine companions. Even so, Miyu refuses to give up on Niwa and his failing business.",
+                    "genre": "Slice of Life",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/a3e5e7f675057e5eae3f6aa11dbb9a5f6ffbe89a0bf448598f10f23dc8bf9938.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/play/921156fa-5f11-81e8-145f-ac98c2863eeb/38a18c706384092b6073e0ba85d736df1616e42524eae7c4df0c533b5c23f7b3",
+                        "name": "Episode 13",
+                        "date_upload": 1706673056000,
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/play/921156fa-5f11-81e8-145f-ac98c2863eeb/d4979e0390b6b9bcebb29a61a721d26367a1c483acac7791d0614bbb0c423c20",
+                        "name": "Episode 12",
+                        "date_upload": 1705523101000,
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/41eb461f19e6333add70074975997b565ee4948f17abd6d39a0b00caa74e034e?file=AnimePahe_Dog_Signal_-_13_1080p_Fetch.mp4&token=gH0chn-Ij5ofdspKFO3pTw&expires=1706696344",
+                        "quality": "Fetch · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/41eb461f19e6333add70074975997b565ee4948f17abd6d39a0b00caa74e034e?file=AnimePahe_Dog_Signal_-_13_1080p_Fetch.mp4&token=gH0chn-Ij5ofdspKFO3pTw&expires=1706696344"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/431242bee7508358fc3b0819a783a3d5817a8efd6291ccc9a4b6637f15015c82?file=AnimePahe_Dog_Signal_-_13_720p_Fetch.mp4&token=UiT8KUKWwTGM_4sN8PDabQ&expires=1706696343",
+                        "quality": "Fetch · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/431242bee7508358fc3b0819a783a3d5817a8efd6291ccc9a4b6637f15015c82?file=AnimePahe_Dog_Signal_-_13_720p_Fetch.mp4&token=UiT8KUKWwTGM_4sN8PDabQ&expires=1706696343"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/3586d7367a588295fa23e67aace6f3a77707ad05f13cd9dd01787b39645e48c9?file=AnimePahe_Dog_Signal_-_13_360p_Fetch.mp4&token=cxmalNGPNFVkwplBcgS2Mg&expires=1706696341",
+                        "quality": "Fetch · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/3586d7367a588295fa23e67aace6f3a77707ad05f13cd9dd01787b39645e48c9?file=AnimePahe_Dog_Signal_-_13_360p_Fetch.mp4&token=cxmalNGPNFVkwplBcgS2Mg&expires=1706696341"
+                    }
+                ],
+                "passed": true
             }
         }
     }

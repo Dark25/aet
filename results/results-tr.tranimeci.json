@@ -3,13 +3,114 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://tranimaci.com/image/series_sousou-no-frieren_1795.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-1",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-1_1455.webp"
+                            },
+                            {
+                                "url": "/series/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece_1872.webp"
+                            },
+                            {
+                                "url": "/series/jujutsu-kaisen-season-2",
+                                "title": "JUJUTSU KAISEN Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen-season-2_1919.webp"
+                            },
+                            {
+                                "url": "/series/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+                                "title": "Kaguya-sama wa Kokurasetai – First Kiss wa Owaranai",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai_1392.webp"
+                            },
+                            {
+                                "url": "/series/bleach_-thousand-year-blood-warr",
+                                "title": "BLEACH: Thousand-Year Blood War",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-thousand-year-blood-war_1962.webp"
+                            },
+                            {
+                                "url": "/series/vinland-saga-s2",
+                                "title": "Vinland Saga S2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_vinland-saga-s2_1206.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-2",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-2_1065.webp"
+                            },
+                            {
+                                "url": "/series/kimetsu-no-yaiba-yuukaku-hen",
+                                "title": "Kimetsu no Yaiba Yuukaku-hen",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kimetsu-no-yaiba_-yuukaku-hen_1446.webp"
+                            },
+                            {
+                                "url": "/series/mob-psycho-100-iii",
+                                "title": "Mob Psycho 100 III",
+                                "thumbnail_url": "https://tranimaci.com/image/series_mob-psycho-100-iii_1989.webp"
+                            },
+                            {
+                                "url": "/series/oshi-noo-koo",
+                                "title": "Oshi no Ko",
+                                "thumbnail_url": "https://tranimaci.com/image/series_oshi-no-ko_1790.webp"
+                            },
+                            {
+                                "url": "/series/kusuriya-no-hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kusuriya-no-hitorigoto_1338.webp"
+                            },
+                            {
+                                "url": "/series/link-click-season-2",
+                                "title": "Link Click Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_link-click-season-2_1431.webp"
+                            },
+                            {
+                                "url": "/series/jujutsu-kaisen",
+                                "title": "JUJUTSU KAISEN",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen_1466.webp"
+                            },
+                            {
+                                "url": "/series/bleach-sennen-kessen-hen-ketsubetsu-tann",
+                                "title": "BLEACH Sennen Kessen Hen Ketsubetsu Tan",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach-thousand-year-blood-war-the-separation_1285.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/the-abyss-game-shenyuan-youxi",
+                                "title": "(The Abyss Game) Shenyuan Youxi",
+                                "thumbnail_url": "https://tranimaci.com/image/series_the-abyss-game-shenyuan-youxi_1029.webp"
+                            },
+                            {
+                                "url": "/series/shen-yin-wangzuo-2",
+                                "title": "Shen Yin Wangzuo 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_shen-yin-wangzuo-2_1212.webp"
+                            },
+                            {
+                                "url": "/series/dubu-xiaoyao",
+                                "title": "Dubu Xiaoyao",
+                                "thumbnail_url": "https://tranimaci.com/image/series_dubu-xiaoyao_1286.webp"
+                            },
+                            {
+                                "url": "/series/shixiong-a-shixiong-2-sezon",
+                                "title": "Shixiong A Shixiong 2 Sezon",
+                                "thumbnail_url": "https://tranimaci.com/image/20231214145113-7253.webp"
+                            },
                             {
                                 "url": "/series/metallic-rouge",
                                 "title": "Metallic Rouge",
@@ -114,26 +215,6 @@
                                 "url": "/series/dosanko-gal-wa-namara-menkoi",
                                 "title": "Dosanko Gal wa Namara Menkoi",
                                 "thumbnail_url": "https://tranimaci.com/image/series_dosanko-gal-wa-namaramenkoi_1493.jpg"
-                            },
-                            {
-                                "url": "/series/hime-sama-goumon-no-jikan-desu",
-                                "title": "Hime-sama Goumon no Jikan desu",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hime-sama-goumon-no-jikan-desu_1803.jpg"
-                            },
-                            {
-                                "url": "/series/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tsuki-ga-michibiku-isekai-douchuu-2nd-season_1016.jpg"
-                            },
-                            {
-                                "url": "/series/high-card-season-2",
-                                "title": "HIGH CARD season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_high-card-season-2_1152.jpg"
-                            },
-                            {
-                                "url": "/series/boku-no-kokoro-no-yabai-yatsu-2nd-season",
-                                "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
-                                "thumbnail_url": "https://tranimaci.com/image/series_boku-no-kokoro-no-yabai-yatsu-2nd-season_1831.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -3543,16 +3624,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/metallic-rouge-4-bolum",
-                        "name": "Bölüm 4",
-                        "date_upload": 1706659200000,
-                        "episode_number": 4.0
+                        "url": "/video/sousou-no-frieren-20-bolum",
+                        "name": "Bölüm 20",
+                        "date_upload": 1706227200000,
+                        "episode_number": 20.0
                     },
                     {
-                        "url": "/video/metallic-rouge-3-bolum",
-                        "name": "Bölüm 3",
-                        "date_upload": 1706054400000,
-                        "episode_number": 3.0
+                        "url": "/video/sousou-no-frieren-19-bolum",
+                        "name": "Bölüm 19",
+                        "date_upload": 1705622400000,
+                        "episode_number": 19.0
                     }
                 ],
                 "passed": true
@@ -3560,18 +3641,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/cdc00ab60622493df340e7d59c2f7f503b0f18d5940c6dec55dfddf6e03aa41f",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/2a63e5b84c6bf09d153d18519d51dadf9ef74ae9f7aa81693aec606cd3435ca9",
                         "quality": "720p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/cdc00ab60622493df340e7d59c2f7f503b0f18d5940c6dec55dfddf6e03aa41f",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/2a63e5b84c6bf09d153d18519d51dadf9ef74ae9f7aa81693aec606cd3435ca9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Referer": "https://tranimaci.com/"
                         }
                     },
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/031224114cf4be4af4d7ada2dd241c6c8011d2279b0351980f76913c17c9e4e4",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/4994f148d337a049f658fd5ef799b6e484d65a03d786374a3b24f5c6cb05df4a",
                         "quality": "1080p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/031224114cf4be4af4d7ada2dd241c6c8011d2279b0351980f76913c17c9e4e4",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/4994f148d337a049f658fd5ef799b6e484d65a03d786374a3b24f5c6cb05df4a",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Referer": "https://tranimaci.com/"

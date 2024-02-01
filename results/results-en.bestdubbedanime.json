@@ -216,19 +216,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/5xx-error-landing?utm_source=errorcode_523&utm_campaign=dubbedani.me",
-                        "episode_number": 5.0
+                        "url": "/One-Piece/1024",
+                        "name": "Episode 1024",
+                        "episode_number": 1024.0
                     },
                     {
-                        "url": "/hc/en-us/articles/200171946-Error-523",
-                        "episode_number": 4.0
+                        "url": "/One-Piece/1023",
+                        "name": "Episode 1023",
+                        "episode_number": 1023.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'anime' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.bestdubbedanime.BestDubbedAnime.ServerResponse.ResultObject', but it was missing at path: $.result",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1707027383&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzAyNzM4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=v88ZyDykLeeuwVyOWvazPKR8CZIMdFn6hhQGbJhXBJLNfkb2qNqardewa7awvFULo5VZxufG5NZ%7EWFAakOH%7E45fTo8Er0pqElzVpHI6GqZIKvhBXZ4Jt-U%7EUUo146xgVvs6LWIdPVEGImSwLXQ6BliRQWAYYsqQzIRybFjkhY4YZulnJjUHSnuJ%7EWk10bD2lR9eN1Mampe160bV7%7ECYtMn1XDJRYGchh5KDs70QmQOdVJJ0iharjWF5iNmbcZmq0OcELrloOwG3N7410CeSBeZ%7EKRewAgBP7tIPcskyAyZoVaRupzjNery6XAaidQ1H08xo7W84Jd7lQxv9tMu8Dbw__&Key-Pair-Id=KVTP0A1DKRTAX",
+                        "quality": "720p # 1 (BDA-HF)",
+                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1707027383&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzAyNzM4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=v88ZyDykLeeuwVyOWvazPKR8CZIMdFn6hhQGbJhXBJLNfkb2qNqardewa7awvFULo5VZxufG5NZ%7EWFAakOH%7E45fTo8Er0pqElzVpHI6GqZIKvhBXZ4Jt-U%7EUUo146xgVvs6LWIdPVEGImSwLXQ6BliRQWAYYsqQzIRybFjkhY4YZulnJjUHSnuJ%7EWk10bD2lR9eN1Mampe160bV7%7ECYtMn1XDJRYGchh5KDs70QmQOdVJJ0iharjWF5iNmbcZmq0OcELrloOwG3N7410CeSBeZ%7EKRewAgBP7tIPcskyAyZoVaRupzjNery6XAaidQ1H08xo7W84Jd7lQxv9tMu8Dbw__&Key-Pair-Id=KVTP0A1DKRTAX"
+                    }
+                ],
+                "passed": true
             }
         }
     }

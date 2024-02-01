@@ -241,6 +241,20 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/branding-in-seongsu?id=65bbde8bcc3c1646a197f15d",
+                                "title": "Branding in Seongsu (Marca en Seongsu)",
+                                "description": "Un implacable ejecutivo de marketing y una becaria de buen corazón siempre están en desacuerdo, pero todo da un giro salvaje cuando sus almas cambian después de un beso inesperado.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/6WP9b2HOWpKwPUlJcZWYNxAyueh.jpg"
+                            },
+                            {
+                                "url": "/doramas-online/amidst-a-snowstorm-of-love?id=65bbd046cc3c1646a197f117",
+                                "title": "Amidst a Snowstorm of Love (En medio de una tormenta de nieve de amor)",
+                                "description": "Yin Guo, una jugadora de billar profesional, permaneció en Nueva York durante unos meses para un partido abierto. Por casualidad, conoció a Lin Yi Yang. Después de llevarse bien, se dio cuenta de que Lin Yi Yang también era una persona muy talentosa. Jugador de billar, cometió errores cuando era joven y frívolo. Se negó a inclinar la cabeza, por lo que dejó su amado billar durante más de diez años y se fue al extranjero. Lin Yi Yang se enamoró de Yin Guo a primera vista. Para perseguirla, hizo todo lo posible. ",
+                                "genre": "Drama, Romance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/4FaILEav4DzWmHJZNvnzKbXbh2C.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/my-special-girl?id=65b9cf17cc3c1646a1974b9b",
                                 "title": "My Special Girl (Mi Chica Especial)",
                                 "description": "Influenciado por su experiencia infantil, el ingeniero en inteligencia artificial Gu Jiuli fundó Jiuqian Technology, una empresa dedicada al desarrollo de robots de escolta. A Hao Liang, estudiante de último año de educación preescolar, le gusta cantar, pero debido a la objeción de su madre, solo puede ser una bloguera que canta en vivo y en secreto por la noche: \"Sister Adie\".\n\nHao Liang comienza como pasante en la empresa de Gu Jiuli y se enamora de él a primera vista. Al mismo tiempo, la existencia de Hao Jing en la vida de Gu Jiu Li calentó su soledad debido a la experiencia de su infancia.",
@@ -449,20 +463,6 @@
                                 "description": "(🌈BL) Tras presenciar la muerte de su amado Chris por un disparo, el desconsolado actor Foam recibe un reloj de bolsillo que le permite retroceder en el tiempo y descubrir la verdad... ¿Podrá Foam aprovechar la oportunidad para arreglar las cosas y traer a Chris de vuelta del borde de la muerte? Sólo el tiempo lo dirá...",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/b0bLyPJ0ffmWYowP3iRafaPlp0W.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/cigarette-girl?id=659e1c58c872052c7b01fc86",
-                                "title": "Cigarette Girl (La chica de los cigarrillos)",
-                                "description": "Dos almas se embarcan en un romance épico ambientado en la Indonesia de los años sesenta, entre mezclas de sabrosas especias para crear el cigarrillo 'kretek' perfecto.",
-                                "genre": "Drama, Romance",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/694BgfPfUAGBsZn9l9eiiumwXt7.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/all-of-her?id=659d9b36c872052c7b01fc56",
-                                "title": "All Of Her (Toda Ella)",
-                                "description": "Gu Ze Jia regresa a China como su hermano gemelo Gu Ze An para vengarse y se ve enredado en una relación sadomasoquista con Yan Zhen.",
-                                "genre": "Drama, Romance, Misterio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/n1Nbkuu5xynqCe9Pdho9ZaUm1Pt.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -601,8 +601,17 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/doramas-online/unpredictable-family?id=650349112ebec9c486c65b43",
+                    "title": "Unpredictable Family (Familia impredecible)",
+                    "artist": "Nam Sang-ji",
+                    "author": "KBS1",
+                    "description": "Eun Sung, la hija de Dong Gu y Chun Young, sueña con tener éxito, pero es una actriz que nadie conoce. Han pasado más de tres años desde que se unió al teatro, pero todavía tiene que pegar carteles y limpiar el teatro y sólo puede practicar cuando los demás actores no están. Sun Woo, hijo de Jung Ae y Ki Seok, es un prometedor director de cine de Hollywood. Eun Sung y Sun Woo se enamoran y deciden casarse. Sin embargo, se dan cuenta de que Dong Gu y Jung Ae eran enemigos jurados que se divorciaron hace 30 años. Esta relación nefasta entre padres e hijos pelea por su matrimonio. ¡La historia de cómo las personas que más se odian se convierten en la familia más salvaje, extraña y divertida a la vez comienza ahora!",
+                    "genre": "Drama, Romance, Comedia, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/z3jn1SCkLdO9awinHpqtwiGjyho.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

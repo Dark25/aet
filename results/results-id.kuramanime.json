@@ -3,8 +3,104 @@
         "name": "Kuramanime (ID)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/1873/oshi-no-ko",
+                                "title": "\"Oshi no Ko\"",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
+                            },
+                            {
+                                "url": "/anime/154/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+                                "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1506/117717l.jpg"
+                            },
+                            {
+                                "url": "/anime/39/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+                                "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1424/117718l.jpg"
+                            },
+                            {
+                                "url": "/anime/2167/16bit-sensation-another-layer",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1588/138395l.jpg"
+                            },
+                            {
+                                "url": "/anime/134/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka",
+                                "title": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1904/118821l.jpg"
+                            },
+                            {
+                                "url": "/anime/368/3-byougo-yajuu-goukon-de-sumi-ni-ita-kare-wa-midara-nikushoku-deshita",
+                                "title": "3-byougo, Yajuu.: Goukon de Sumi ni Ita Kare wa Midara Nikushoku deshita",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1972/121006l.jpg"
+                            },
+                            {
+                                "url": "/anime/2445/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
+                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1762/139690l.jpg"
+                            },
+                            {
+                                "url": "/anime/1372/4-nin-wa-sorezore-uso-wo-tsuku",
+                                "title": "4-nin wa Sorezore Uso wo Tsuku",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1934/128719l.jpg"
+                            },
+                            {
+                                "url": "/anime/1360/5-fun-de-wakaru-boku-no-hero-academia",
+                                "title": "5-fun de Wakaru: Boku no Hero Academia",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1366/127600l.jpg"
+                            },
+                            {
+                                "url": "/anime/2129/5-toubun-no-hanayome",
+                                "title": "5-toubun no Hanayome",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1819/97947l.jpg"
+                            },
+                            {
+                                "url": "/anime/2131/5-toubun-no-hanayome-2",
+                                "title": "5-toubun no Hanayome ∬",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg"
+                            },
+                            {
+                                "url": "/anime/1551/5-toubun-no-hanayome-movie",
+                                "title": "5-toubun no Hanayome Movie",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1037/122516l.jpg"
+                            },
+                            {
+                                "url": "/anime/2118/5-toubun-no-hanayome-3",
+                                "title": "5-toubun no Hanayome∽",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1567/135752l.jpg"
+                            },
+                            {
+                                "url": "/anime/1359/7-fun-de-wakaru-boku-no-hero-academia",
+                                "title": "7-fun de Wakaru: Boku no Hero Academia",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1726/127520l.jpg"
+                            },
+                            {
+                                "url": "/anime/298/86",
+                                "title": "86",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+                            },
+                            {
+                                "url": "/anime/97/86-part-2",
+                                "title": "86 Part 2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
+                            },
+                            {
+                                "url": "/anime/297/86-part-2-recaps",
+                                "title": "86 Part 2 Recaps",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1568/119723l.jpg"
+                            },
+                            {
+                                "url": "/anime/299/86-special-edition-senya-ni-akaku-hinageshi-no-saku",
+                                "title": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1971/115976l.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -208,10 +304,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/2467/majo-to-yajuu",
-                    "title": "Majo to Yajuu",
-                    "description": "Guideau: seorang gadis liar dengan taring panjang dan mata binatang. Ashaf: seorang pria bersuara lembut dengan ciri-ciri halus dan peti mati diikatkan di punggungnya. Pasangan yang tidak menyenangkan ini muncul suatu hari di sebuah kota yang menjadi budak seorang penyihir, yang telah meyakinkan penduduk kota bahwa dialah pahlawan mereka. Tapi Ashaf dan Guideau lebih tahu. Mereka mempunyai masalah yang harus diselesaikan, dan mereka tidak akan ragu untuk menyingkirkan siapa pun yang menghalangi mereka... (Sumber: Kodansha USA) Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: The Witch and the Beast, 魔女と野獣, Witch and the Beast\n\nTipe: TV\nEpisode: 12\nStatus: Sedang Tayang\nTayang: 12 Jan 2024 s/d 29 Mar 2024\nMusim: Winter 2024\nDurasi: 24 menit per episode\nKualitas: HD\nNegara: JP\nAdaptasi: Manga\nGenre: Action, Fantasy\nEksplisit: ?\nDemografis: Seinen\nTema: ?\nStudio: Yokohama Animation Lab\nSkor: 7.31 / 10.00\nPeminat: 78,825 orang\nRating: R - 17+ (kekerasan & kata-kata kotor)\nKredit: BGlobal",
-                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1380/139745l.jpg",
+                    "url": "/anime/1873/oshi-no-ko",
+                    "title": "\"Oshi no Ko\"",
+                    "description": "Di dunia hiburan, selebritas sering menunjukkan versi diri mereka yang dibesar-besarkan kepada publik, menyembunyikan pemikiran dan perjuangan mereka yang sebenarnya di balik kebohongan yang rumit. Fans membeli fabrikasi ini, menghujani idola mereka dengan cinta dan dukungan abadi, sampai sesuatu menghancurkan ilusi. Bintang baru berusia enam belas tahun Ai Hoshino dari grup idola pop B Komachi membuat dunia terpikat; namun, ketika dia mengumumkan hiatus karena masalah kesehatan, berita tersebut menyebabkan banyak orang menjadi khawatir. Sebagai penggemar berat Ai, ginekolog Gorou Amemiya menyemangati dia dari praktik medis pedesaannya, berharap bisa bertemu dengannya secara pribadi suatu hari nanti. Keinginannya menjadi kenyataan saat Ai muncul di rumah sakitnya—tidak sakit, tapi mengandung anak kembar! Sementara dokter berjanji kepada Ai untuk melahirkan anak-anaknya dengan selamat, dia bertanya-tanya apakah pertemuan dengan sang idola ini akan selamanya mengubah sifat hubungannya dengan Ai. [Ditulis oleh MAL Rewrite] Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: [Oshi No Ko], 【推しの子】, My Star\n\nTipe: TV\nEpisode: 11\nStatus: Selesai Tayang\nTayang: 12 Apr 2023 s/d 28 Jun 2023\nMusim: Spring 2023\nDurasi: 30 menit per ep\nKualitas: HD\nNegara: JP\nAdaptasi: Manga\nGenre: Drama, Supernatural\nEksplisit: ?\nDemografis: Seinen\nTema: Reincarnation, Showbiz\nStudio: Doga Kobo\nSkor: 8.96 / 10.00\nPeminat: 527,663 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Doro",
+                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -219,14 +315,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/anime/2467/majo-to-yajuu/episode/4",
-                        "name": "Ep 4",
-                        "episode_number": 4.0
+                        "url": "/anime/1873/oshi-no-ko/episode/11",
+                        "name": "Ep 11",
+                        "episode_number": 11.0
                     },
                     {
-                        "url": "/anime/2467/majo-to-yajuu/episode/3",
-                        "name": "Ep 3",
-                        "episode_number": 3.0
+                        "url": "/anime/1873/oshi-no-ko/episode/10",
+                        "name": "Ep 10",
+                        "episode_number": 10.0
                     }
                 ],
                 "passed": true

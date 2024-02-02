@@ -3,86 +3,8 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=4889",
-                                "title": "Chiikawa",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5c1f8578495badd3dcb493970059f30e96e6e2b61e1d0e5ab74b00cecb02e8b4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5467",
-                                "title": "Yuuki Bakuhatsu Bang Bravern",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/39b190e5e5a8d7ffdbb92094fe2af4f09fd66b72b1651a2faec27904277bc401.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5435",
-                                "title": "Urusei Yatsura (2022) 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c3245cbc1c218165bb8ba6cf617c160534533d4613b31e0359120953718d7cdf.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5434",
-                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5421e7d73e45fb2b7aedcc7918f51421c84ae33f35aa3b3cc9f6fbd24c7f6515.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5463",
-                                "title": "Gekkan Mousou Kagaku",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/21d497e23cea02f62fa94cf24b10104f0a3ec61ca88374b98a8cd88f9d8b5018.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5425",
-                                "title": "Mato Seihei no Slave",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/cddad5e83351852a1b0ed43fc6d56bcd5db8e8c173ddd6259e4b4844007cd5f3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5461",
-                                "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
-                                "artist": "FckDubs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/93d5b879619119aa5621d7671050d2616980c59f58ce2ff7971aadac7d57be6b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5481",
-                                "title": "Beyblade X",
-                                "artist": "HnY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/be74481a18f8f3abb936d8afc0bb2da0df5e2578b2d5c717dea2ec44c7abc74e.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5437",
-                                "title": "Metallic Rouge",
-                                "artist": "Yameii",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a99e33099f1ccd8a968a6c9a364cd5b4df51b305627db10f88f46ecef2902b2d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5455",
-                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e9acb7c378b85cf32fc90352e82185a2e427fe542f568d3a1e9ae6002eea4683.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5454",
-                                "title": "Sengoku Youko",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/19621fc5499d025d187d4bdae7351bd6b91aa78648c874e0a38c8262b5859111.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5450",
-                                "title": "Mahou Shoujo ni Akogarete",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/430f3ae3b7439d047566ad3363b50f434f0c268518320e1c9b5f8a99fdcad148.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "latest": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",

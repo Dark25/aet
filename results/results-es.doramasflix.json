@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/city-of-stars?id=65bbfe11cc3c1646a197f1dd",
+                                "title": "City of Stars (Ciudad de las estrellas)",
+                                "description": "La historia de \"Fueangnakorn\" trata sobre ser una figura pública en la era de las redes sociales que debe soportar todas las críticas, el acoso y las difamaciones. La historia cuenta cómo el protagonista supera todo el terror del internauta con su actitud positiva. El autor quiere dar energía positiva a este mundo negativo lleno de medios.",
+                                "genre": "Drama, Romance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/7KlUxWZxFhELNYq0Mwb72PC6sVA.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/branding-in-seongsu?id=65bbde8bcc3c1646a197f15d",
                                 "title": "Branding in Seongsu (Marca en Seongsu)",
                                 "description": "Un implacable ejecutivo de marketing y una becaria de buen corazón siempre están en desacuerdo, pero todo da un giro salvaje cuando sus almas cambian después de un beso inesperado.",
@@ -456,13 +463,6 @@
                                 "description": "Es el primer día de Shouko Komi en la prestigiosa escuela secundaria privada Itan y ya ha alcanzado el estatus de Madonna de la escuela. Con cabello largo y negro y una apariencia alta y elegante, capta la atención de cualquiera que se cruce con ella. Sin embargo, solo hay un problema: a pesar de su popularidad, Shouko es terrible comunicándose con los demás.",
                                 "genre": "Romance, Comedia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/t5Mkb1Rs0RxaCtvc91nnHistWW7.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/time-the-series?id=659ed1dac872052c7b024d63",
-                                "title": "Time the Series (ไทม์ ผ่าน เวลา)",
-                                "description": "(🌈BL) Tras presenciar la muerte de su amado Chris por un disparo, el desconsolado actor Foam recibe un reloj de bolsillo que le permite retroceder en el tiempo y descubrir la verdad... ¿Podrá Foam aprovechar la oportunidad para arreglar las cosas y traer a Chris de vuelta del borde de la muerte? Sólo el tiempo lo dirá...",
-                                "genre": "Drama",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/b0bLyPJ0ffmWYowP3iRafaPlp0W.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -601,17 +601,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/unpredictable-family?id=650349112ebec9c486c65b43",
-                    "title": "Unpredictable Family (Familia impredecible)",
-                    "artist": "Nam Sang-ji",
-                    "author": "KBS1",
-                    "description": "Eun Sung, la hija de Dong Gu y Chun Young, sueña con tener éxito, pero es una actriz que nadie conoce. Han pasado más de tres años desde que se unió al teatro, pero todavía tiene que pegar carteles y limpiar el teatro y sólo puede practicar cuando los demás actores no están. Sun Woo, hijo de Jung Ae y Ki Seok, es un prometedor director de cine de Hollywood. Eun Sung y Sun Woo se enamoran y deciden casarse. Sin embargo, se dan cuenta de que Dong Gu y Jung Ae eran enemigos jurados que se divorciaron hace 30 años. Esta relación nefasta entre padres e hijos pelea por su matrimonio. ¡La historia de cómo las personas que más se odian se convierten en la familia más salvaje, extraña y divertida a la vez comienza ahora!",
-                    "genre": "Drama, Romance, Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/z3jn1SCkLdO9awinHpqtwiGjyho.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

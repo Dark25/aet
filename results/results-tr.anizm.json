@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/metallic-rouge",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181140001704975301.webp"
+                            },
+                            {
                                 "url": "/chiyu-mahou-no-machigatta-tsukaikata",
                                 "title": "Chiyu Mahou no Machigatta Tsukaikata",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181030001704554101.webp"
@@ -94,11 +99,6 @@
                                 "url": "/high-card-season-2",
                                 "title": "High Card Season 2",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181160001705175702.webp"
-                            },
-                            {
-                                "url": "/nanatsu-no-taizai-mokushiroku-no-yonkishi",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180820001699829582.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -268,12 +268,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/chiyu-mahou-no-machigatta-tsukaikata",
-                    "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                    "artist": "Shin-Ei Animation, Studio Add",
-                    "description": "Okuldan eve doğru yapılan sıradan bir yürüyüş, Usato için destansı bir yolculuğa dönüşür. İki öğrenci arkadaşıyla birlikte aniden başka bir dünyaya bırakılan Usato, oraya kazara çağrıldığını öğrenir. Ancak şifa büyüsü konusunda benzersiz bir yetenek keşfettiğinde işler tersine döner! Artık insan sınırlarının ötesinde eğitim alıyor ve kendi kendini iyileştirme yeteneklerini kullanarak olağanüstü bir güç ve rakipsiz dayanıklılık kazanıyor.\nDiğer adlar: The Wrong Way to Use Healing Magic,\nJaponca İsmi: 治癒魔法の間違った使い方\nStüdyo: Shin-Ei Animation, Studio Add",
-                    "genre": "Aksiyon, Fantastik",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/181030001704554101l.webp",
+                    "url": "/metallic-rouge",
+                    "title": "Metallic Rouge",
+                    "artist": "Bones",
+                    "description": "İnsanların ve androidlerin bir arada yaşadığı bir dünyada Rouge, ortağı Naomi ile Mars'ta bir görevde olan bir android kızdır. Görev, hükümete düşman olan dokuz yapay insanı öldürmektir.\nDiğer adlar: \nJaponca İsmi: メタリックルージュ\nStüdyo: Bones",
+                    "genre": "Aksiyon, Bilim-Kurgu",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/181140001704975301l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -281,12 +281,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/chiyu-mahou-no-machigatta-tsukaikata-4-bolum",
+                        "url": "/metallic-rouge-4-bolum",
                         "name": "4. Bölüm",
                         "episode_number": 4.0
                     },
                     {
-                        "url": "/chiyu-mahou-no-machigatta-tsukaikata-3-bolum",
+                        "url": "/metallic-rouge-3-bolum",
                         "name": "3. Bölüm",
                         "episode_number": 3.0
                     }
@@ -294,8 +294,103 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=3&sig=m3AkQN9r_gY&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963",
+                        "quality": "[RaionSubs] Okru:720p",
+                        "videoUrl": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=3&sig=m3AkQN9r_gY&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/QW5vVnpaSVhSaXVLbDhSZDVISmo0bENha01TbHV1dEZKZW5nSEpSS2haUW1sR1RzaWZZYlJiZzBNNmtwOTRBMnc1c1I1TlBLV0k4RXdMRFRTUzFaZTBKdDFybnJrOHR5anlXaFVuNDQ5bGw2TURCVW9mdEs5alA3UVp1NWhvZFFBdjIrdUthdnZCZ1ZUNWVmazRZbFRTRGxnN3RvS1A4Z3hOaTQyMUlmOWhnM3h2U2FCNE9wa2xhbUUyV0tjWjUrVFVML3pDS1d3VUp4MnFnc08zRkViWkJQUjhLbGJxNFRYZGk0RUZMK0oxQnNLMXBoclJFdE1JQ1YyRHJ5RW1UeDJ2N0pxRVNpcEFsK3lrNFZYa0JtSnRWejl2QlFkZFJXTy9kOE5tNVpCREE9",
+                        "quality": "[RaionSubs] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/QW5vVnpaSVhSaXVLbDhSZDVISmo0bENha01TbHV1dEZKZW5nSEpSS2haUW1sR1RzaWZZYlJiZzBNNmtwOTRBMnc1c1I1TlBLV0k4RXdMRFRTUzFaZTBKdDFybnJrOHR5anlXaFVuNDQ5bGw2TURCVW9mdEs5alA3UVp1NWhvZFFBdjIrdUthdnZCZ1ZUNWVmazRZbFRTRGxnN3RvS1A4Z3hOaTQyMUlmOWhnM3h2U2FCNE9wa2xhbUUyV0tjWjUrVFVML3pDS1d3VUp4MnFnc08zRkViWkJQUjhLbGJxNFRYZGk0RUZMK0oxQnNLMXBoclJFdE1JQ1YyRHJ5RW1UeDJ2N0pxRVNpcEFsK3lrNFZYa0JtSnRWejl2QlFkZFJXTy9kOE5tNVpCREE9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/ec5a50920b8900aff7c3dc36593b38f3"
+                        }
+                    },
+                    {
+                        "url": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=5&sig=Zqw8W_5eb8g&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963",
+                        "quality": "[RaionSubs] Okru:1080p",
+                        "videoUrl": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=5&sig=Zqw8W_5eb8g&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/QW5vVnpaSVhSaXVLbDhSZDVISmo0bENha01TbHV1dEZKZW5nSEpSS2haUW1sR1RzaWZZYlJiZzBNNmtwOTRBMlh0elZoUDVxTzhLK2lUZmxPaitmK3VwcGRadTd1Z2lXNjJFTlRqUWtmVU5JTm9BMWlsSEtLWEI2Y1N0bTFTU2ZtUW9QdDZuVDFoTjkvTnVJMUdlR2UrUXJYUllRd2ZtTmNrNytWa3JVSEtqbHdGQ3NaNlIyL2kyRDZFVVJRZThhc2hybWwyUlNPY01zNDNvbDZDRXBVekJjYzA0ZHJzRUFGSDgzUy85a29xTCtsL294MHo5YXMxTytYMUhyc3lBazhzUlRHZ2ZXK043TytFZDRueHFtVlJNUnB2VkN4VjV0ak02a0daTUE1cVBBaVczTm1CMS8yR0NWSnA1SzhkNHY%3D",
+                        "quality": "[RaionSubs] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/QW5vVnpaSVhSaXVLbDhSZDVISmo0bENha01TbHV1dEZKZW5nSEpSS2haUW1sR1RzaWZZYlJiZzBNNmtwOTRBMlh0elZoUDVxTzhLK2lUZmxPaitmK3VwcGRadTd1Z2lXNjJFTlRqUWtmVU5JTm9BMWlsSEtLWEI2Y1N0bTFTU2ZtUW9QdDZuVDFoTjkvTnVJMUdlR2UrUXJYUllRd2ZtTmNrNytWa3JVSEtqbHdGQ3NaNlIyL2kyRDZFVVJRZThhc2hybWwyUlNPY01zNDNvbDZDRXBVekJjYzA0ZHJzRUFGSDgzUy85a29xTCtsL294MHo5YXMxTytYMUhyc3lBazhzUlRHZ2ZXK043TytFZDRueHFtVlJNUnB2VkN4VjV0ak02a0daTUE1cVBBaVczTm1CMS8yR0NWSnA1SzhkNHY%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/ec5a50920b8900aff7c3dc36593b38f3"
+                        }
+                    },
+                    {
+                        "url": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=2&sig=3mMzvoK1J_I&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963",
+                        "quality": "[RaionSubs] Okru:480p",
+                        "videoUrl": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=2&sig=3mMzvoK1J_I&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/QW5vVnpaSVhSaXVLbDhSZDVISmo0bENha01TbHV1dEZKZW5nSEpSS2haUW1sR1RzaWZZYlJiZzBNNmtwOTRBMmw3em5SSU5PWE5iN1RFYVczaytISVR0THFnY25zZk5IQVdLSHR1S1JxMHFSNUpubTFZNUdMd1ZVbkJveVZkRkV6aGJTUFVuYUlkU1Z5V0gzcWZIMDlQVGVRYStVU0JFcTVWNllMZCtsYjh0UXZxNDIzTFM0eUdabjFYODFyektYV3VuNnZHbTkwdUtZMnhzZGtyaGpGMFkyUW9ITG9LMmNzc3lHb1NNb0t0SjVXcitVNHNWNGtQdW9UV3dZMk1oNU1tWGdRaFdaWkJmUmJwTlpqL01tT2FXeHE0Ry9uVk9TZXhDNHAxVXdESXM9",
+                        "quality": "[RaionSubs] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/QW5vVnpaSVhSaXVLbDhSZDVISmo0bENha01TbHV1dEZKZW5nSEpSS2haUW1sR1RzaWZZYlJiZzBNNmtwOTRBMmw3em5SSU5PWE5iN1RFYVczaytISVR0THFnY25zZk5IQVdLSHR1S1JxMHFSNUpubTFZNUdMd1ZVbkJveVZkRkV6aGJTUFVuYUlkU1Z5V0gzcWZIMDlQVGVRYStVU0JFcTVWNllMZCtsYjh0UXZxNDIzTFM0eUdabjFYODFyektYV3VuNnZHbTkwdUtZMnhzZGtyaGpGMFkyUW9ITG9LMmNzc3lHb1NNb0t0SjVXcitVNHNWNGtQdW9UV3dZMk1oNU1tWGdRaFdaWkJmUmJwTlpqL01tT2FXeHE0Ry9uVk9TZXhDNHAxVXdESXM9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/ec5a50920b8900aff7c3dc36593b38f3"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=C9I0rBeL5wBQCTomf1GAaQAPa%2BXGDtsDO6IERGn4nTUu0rJd2giV21D7Ut4GLmPRM8ua%2FZtWVhyjP9b2%2FZxg39Eu2r4FKDDiRNc2WPF1ohcClBa8WJwdICgx6GGYp6Mx8hP1cQkyCGsweLVxx8wJ5xyDJpnbUSXwVINp7xHyuBSg%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[RaionSubs] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=C9I0rBeL5wBQCTomf1GAaQAPa%2BXGDtsDO6IERGn4nTUu0rJd2giV21D7Ut4GLmPRM8ua%2FZtWVhyjP9b2%2FZxg39Eu2r4FKDDiRNc2WPF1ohcClBa8WJwdICgx6GGYp6Mx8hP1cQkyCGsweLVxx8wJ5xyDJpnbUSXwVINp7xHyuBSg%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=1&sig=eCklu3avMaA&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963",
+                        "quality": "[RaionSubs] Okru:360p",
+                        "videoUrl": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=1&sig=eCklu3avMaA&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963"
+                    },
+                    {
+                        "url": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=0&sig=lF_bOZ_3bYY&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963",
+                        "quality": "[RaionSubs] Okru:240p",
+                        "videoUrl": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=0&sig=lF_bOZ_3bYY&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963"
+                    },
+                    {
+                        "url": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=4&sig=KWBY68t2xXc&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963",
+                        "quality": "[RaionSubs] Okru:144p",
+                        "videoUrl": "https://vd395.mycdn.me/?expires=1707071634164&srcIp=20.172.5.84&pr=10&srcAg=GECKO&ms=45.136.20.24&type=4&sig=KWBY68t2xXc&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5852538931963"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=redYBBLKkyfYkp&expires=1707055236&ip=FROsD0ETKxSHDN&token=vTTNIZQFJoyD",
+                        "quality": "[RaionSubs] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=redYBBLKkyfYkp&expires=1707055236&ip=FROsD0ETKxSHDN&token=vTTNIZQFJoyD"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a202402034B520w345je/video.mp4",
+                        "quality": "[RaionSubs] YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a202402034B520w345je/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Origin": "https://anizm.net",
+                            "Referer": "https://anizm.net/",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/c6/5d/osq8kh0i.mp4?validfrom=1706978035&validto=1706992435&rate=250k&ip=20.172.5.84&hash=YagE8ofguqd6qSY5lL8k9971CUc%3D",
+                        "quality": "[RaionSubs] Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/c6/5d/osq8kh0i.mp4?validfrom=1706978035&validto=1706992435&rate=250k&ip=20.172.5.84&hash=YagE8ofguqd6qSY5lL8k9971CUc%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Origin": "https://https://sendvid.com/embed/osq8kh0i",
+                            "Referer": "https://https://sendvid.com/embed/osq8kh0i/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

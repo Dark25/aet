@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/sr-sra-smith",
+                                "title": "Sr. & Sra. Smith",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22626.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-irrational",
                                 "title": "The Irrational",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "O Zorro",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22616.webp"
-                            },
-                            {
-                                "url": "/serie/online/ted",
-                                "title": "ted",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22602.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=Ru8noFYucOrnhy_qQVxkZg&e=1706943264&_t=1706924141",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=Ru8noFYucOrnhy_qQVxkZg&e=1706943264&_t=1706924141",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=dnugRSbqVXFi1mCHZyGRbA&e=1706943265&_t=1706926167",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=dnugRSbqVXFi1mCHZyGRbA&e=1706943265&_t=1706926167",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

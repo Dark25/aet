@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wicked",
+                                "title": "Wicked!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933503.jpg"
+                            },
+                            {
                                 "url": "/anime/wheres-waldo-1991",
                                 "title": "Where's Waldo? (1991)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933502.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/top-wing",
                                 "title": "Top Wing",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933488.jpg"
-                            },
-                            {
-                                "url": "/anime/galaxy-kids",
-                                "title": "Galaxy Kids",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933487.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/wheres-waldo-1991",
-                    "title": "Where's Waldo? (1991)",
-                    "description": "The animated adventures of Waldo and his friends from the Where’s Waldo book series.",
-                    "genre": "Adventure, Comedy, Family, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933502.jpg",
+                    "url": "/anime/wicked",
+                    "title": "Wicked!",
+                    "description": "Two teenagers Rory and Dawn are stalked by a doll with a head shaped like an eaten apple which Rory got from his dead father. The doll become alive and try to murder and terrorize the two teenagers and everyone around them.",
+                    "genre": "Drama, Horror, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933503.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wheres-waldo-1991-episode-13-the-land-of-the-lost-pyramid",
-                        "name": "Season 1 - Episode 13",
-                        "episode_number": 113.0
+                        "url": "/wicked-episode-26-apple-cored",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
                     },
                     {
-                        "url": "/wheres-waldo-1991-episode-12-viking-fling",
-                        "name": "Season 1 - Episode 12",
-                        "episode_number": 112.0
+                        "url": "/wicked-episode-25-double-troubled",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
                     }
                 ],
                 "passed": true
@@ -631,14 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJneKd5UKDMoOucEQNgsKfE24-gMAwqTMkNozZlnx38At3YOLrmY4VBMJF52xDCZXasN5bEFYwW8xZZne64eCM2S7MpDhI9rAFDOhMU_u_HgvgnnTdUcHPAXOH8f2UQ5Q-2tMmYZsU_plVds2ii_wiDAdv_qz1C9T7AnO-mh_vMbvM3NTPGk1-hkg1lqbLbaY83TOmfECyr_C3LZPxfrLmKGRe7bLw3disuJ4P6GddOFkHQzNUmdzU2QnWhgDiJMdoeYjNz1YdX4Gogw2qSFKE54bZeS6tawA45Sm11jKkdmyOeYjm4M1i3MLAMqslg0dDc-SpxAziiVn9yyE1etIOcZ1Why0BhggVHa7oLKvWVY2Wj5-yA9WjtbjjiQYw6ettw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrPp8LMNsdNOMkZDhX9bLIq38Bx_SzxAvICWyqNOZys2eQnHvn682UJVYSqwYq4TmdbY0igadPyZW7QvtfYIAmb-vVdjbUA3aJ91uDIWqTyTyqhZ8AWhuSFf3qqmAlDLSkXWqwv_cKdYCJILcxRyTRKFAcPdAEPnQ4SJ6As4MxXQ-DRmo7f95zEXombdbxtbQUQkKEiVKHM7FhjYnVN1JUqxuyY8Peui6r4a7oD0ZJkdGpshRgD-oa9YxkQpnwv6na3VpVBXLoSavSs8RZp-WAcu_dqyFUBvAp85vE4JNJ1CHHd2-BYcVN-HqoX72Dkbls05fL1Oo4pCfqgpdj5f250",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJneKd5UKDMoOucEQNgsKfE24-gMAwqTMkNozZlnx38At3YOLrmY4VBMJF52xDCZXasN5bEFYwW8xZZne64eCM2S7MpDhI9rAFDOhMU_u_HgvgnnTdUcHPAXOH8f2UQ5Q-2tMmYZsU_plVds2ii_wiDAdv_qz1C9T7AnO-mh_vMbvM3NTPGk1-hkg1lqbLbaY83TOmfECyr_C3LZPxfrLmKGRe7bLw3disuJ4P6GddOFkHQzNUmdzU2QnWhgDiJMdoeYjNz1YdX4Gogw2qSFKE54bZeS6tawA45Sm11jKkdmyOeYjm4M1i3MLAMqslg0dDc-SpxAziiVn9yyE1etIOcZ1Why0BhggVHa7oLKvWVY2Wj5-yA9WjtbjjiQYw6ettw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrPp8LMNsdNOMkZDhX9bLIq38Bx_SzxAvICWyqNOZys2eQnHvn682UJVYSqwYq4TmdbY0igadPyZW7QvtfYIAmb-vVdjbUA3aJ91uDIWqTyTyqhZ8AWhuSFf3qqmAlDLSkXWqwv_cKdYCJILcxRyTRKFAcPdAEPnQ4SJ6As4MxXQ-DRmo7f95zEXombdbxtbQUQkKEiVKHM7FhjYnVN1JUqxuyY8Peui6r4a7oD0ZJkdGpshRgD-oa9YxkQpnwv6na3VpVBXLoSavSs8RZp-WAcu_dqyFUBvAp85vE4JNJ1CHHd2-BYcVN-HqoX72Dkbls05fL1Oo4pCfqgpdj5f250"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJneKd5UKDMoOucEQNgsKfE24-gMAwqTMkNozZlnx38At3YOLrmY4VBMJF52xDCZXasN5bEFYwW8xZZne64eCM2S7MpDhI9rAFDOhMU_u_HgvgnnTdUcHPAXOH8f2UQ5Q-284tODBr7S9-RSMnmcG_MUzYBZMXkzPbaN3AEol1oW8FMpAso1vhth9sALreUJP5f-7c7TUHpl5Ly2jLuqyeRYWVWoZBcqFealzsKIjzg-OTajG9Y1kgtwiU4hzcGzzWehSEUyV95iBdL861cCdkZ0xPwuVMiKFTXM5KTlzyIXVxd3VT784cNJLf4lRhyNO6eaBhbaow9RTq2lg6c0TTw39rZXq6m03UrsFH3mVr7VV",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrPp8LMNsdNOMkZDhX9bLIq38Bx_SzxAvICWyqNOZys2eQnHvn682UJVYSqwYq4TmdbY0igadPyZW7QvtfYIAmYZ8mWG3ErJPQjyjSje6CEYfS0UGgleUawsoJQHHxno8pGmzwgmvO0i_xQwhB5-egbGZaUx1d8r9QC5eq3TG1sTOu3cAaIcJ3yMySgtRYvoyiYyiJtmu_YePxnu7u_htjdyW8avhnfVw3nm6Hf6yFwuwkwMQbdD11mcA7hK5ELF-ETYTIPiK-X6foznj3_-bZbaqag0WJz5FDVFqWfGdyJaKd2ps7Uf8de5jQkPZeQOXsQSAfXJ_9Pi3985Yd29tXQ",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrPp8LMNsdNOMkZDhX9bLIq38Bx_SzxAvICWyqNOZys2eQnHvn682UJVYSqwYq4TmdbY0igadPyZW7QvtfYIAmYZ8mWG3ErJPQjyjSje6CEYfS0UGgleUawsoJQHHxno8pGmzwgmvO0i_xQwhB5-egbGZaUx1d8r9QC5eq3TG1sTOu3cAaIcJ3yMySgtRYvoyiYyiJtmu_YePxnu7u_htjdyW8avhnfVw3nm6Hf6yFwuwkwMQbdD11mcA7hK5ELF-ETYTIPiK-X6foznj3_-bZbaqag0WJz5FDVFqWfGdyJaKd2ps7Uf8de5jQkPZeQOXsQSAfXJ_9Pi3985Yd29tXQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrPp8LMNsdNOMkZDhX9bLIq38Bx_SzxAvICWyqNOZys2eQnHvn682UJVYSqwYq4TmdbY0igadPyZW7QvtfYIAmaadrQbNNf0d0_CCylxI3m2Pod6Aimte4GjbYfTutzPguXNv1vyMQgwQdWxpXYrpu8FjiIm8HR5x22hOKdXO79-AtRd6S8PDiQfIMeB0R5Jqp96tpoAJyl3OI2Vsg8n2qfg7krzofL4SdF-lKNEonVFGNkkNufLD1CvpdbniOCRJThXzB0bV615L2JLVsJr-yFJR2myeqQw473sgTBh7FNLN9xQR8bNFR9_tbaGvQ6jOqZUtnYdO-HGCyTFEzMcUiM",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJneKd5UKDMoOucEQNgsKfE24-gMAwqTMkNozZlnx38At3YOLrmY4VBMJF52xDCZXasN5bEFYwW8xZZne64eCM2S7MpDhI9rAFDOhMU_u_HgvgnnTdUcHPAXOH8f2UQ5Q-284tODBr7S9-RSMnmcG_MUzYBZMXkzPbaN3AEol1oW8FMpAso1vhth9sALreUJP5f-7c7TUHpl5Ly2jLuqyeRYWVWoZBcqFealzsKIjzg-OTajG9Y1kgtwiU4hzcGzzWehSEUyV95iBdL861cCdkZ0xPwuVMiKFTXM5KTlzyIXVxd3VT784cNJLf4lRhyNO6eaBhbaow9RTq2lg6c0TTw39rZXq6m03UrsFH3mVr7VV"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrPp8LMNsdNOMkZDhX9bLIq38Bx_SzxAvICWyqNOZys2eQnHvn682UJVYSqwYq4TmdbY0igadPyZW7QvtfYIAmaadrQbNNf0d0_CCylxI3m2Pod6Aimte4GjbYfTutzPguXNv1vyMQgwQdWxpXYrpu8FjiIm8HR5x22hOKdXO79-AtRd6S8PDiQfIMeB0R5Jqp96tpoAJyl3OI2Vsg8n2qfg7krzofL4SdF-lKNEonVFGNkkNufLD1CvpdbniOCRJThXzB0bV615L2JLVsJr-yFJR2myeqQw473sgTBh7FNLN9xQR8bNFR9_tbaGvQ6jOqZUtnYdO-HGCyTFEzMcUiM"
                     }
                 ],
                 "passed": true

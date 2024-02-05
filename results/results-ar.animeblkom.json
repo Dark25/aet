@@ -7,64 +7,8 @@
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/world-trigger",
-                                "title": "World Trigger",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61775/World-Trigger-poster-289.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-3rd-season",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65335/world-trigger-3rd-season-poster-3899.jpg"
-                            },
-                            {
-                                "url": "/anime/world-dai-star",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://animeblkom.net/uploads/70149/16445516256e71.jpg"
-                            },
-                            {
-                                "url": "/anime/world-destruction-sekai-bokumetsu-no-rokunin",
-                                "title": "World Destruction: Sekai Bokumetsu no Rokunin",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62882/world-destruction-sekai-bokumetsu-no-rokunin-poster-1403.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-2nd-season",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65194/world-trigger-2nd-season-poster-3758.jpg"
-                            },
-                            {
-                                "url": "/anime/seiken-tsukai-no-world-break",
-                                "title": "Seiken Tsukai no World Break",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62633/seiken-tsukai-no-world-break-poster-1156.jpg"
-                            },
-                            {
-                                "url": "/special/aoi-sekai-no-chuushin-de",
-                                "title": "Aoi Sekai no Chuushin de",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62485/aoi-sekai-no-chuushin-de-poster-1005.jpg"
-                            },
-                            {
-                                "url": "/anime/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-zaj",
-                                "title": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
-                                "thumbnail_url": "https://animeblkom.net/uploads/64963/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-5d83696a5be4c-poster-3514.jpg"
-                            },
-                            {
-                                "url": "/anime/kino-no-tabi-the-beautiful-world",
-                                "title": "Kino no Tabi: The Beautiful World",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63599/kino-no-tabi-the-beautiful-world-poster-2121.jpg"
-                            },
-                            {
-                                "url": "/anime/kino-no-tabi-the-beautiful-world-the-animated-series",
-                                "title": "Kino no Tabi: The Beautiful World - The Animated Series",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63906/kino-no-tabi-the-beautiful-world-the-animated-series-poster-2435.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "error": "java.net.SocketTimeoutException: timeout",

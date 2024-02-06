@@ -537,14 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://eu7515cloudflare918s.streamvid.media/hls/n5ajqahmznmne42h4x7alfjqref6flpewv5mdafns,5ax3pgnwk6l5dqousga,gex3pgnwk6fsvwrqddq,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://eu7515cloudflare918s.streamvid.media/hls/n5ajqahmznmne42h4x7alfjqref6flpewv5mdafns,5ax3pgnwk6l5dqousga,gex3pgnwk6fsvwrqddq,.urlset/master.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

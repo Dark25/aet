@@ -3,27 +3,236 @@
         "name": "Kuramanime (ID)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/2175/buta-no-liver-wa-kanetsu-shiro",
+                                "title": "Buta no Liver wa Kanetsu Shiro",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1319/140965l.jpg"
+                            },
+                            {
+                                "url": "/anime/2476/oroka-na-tenshi-wa-akuma-to-odoru",
+                                "title": "Oroka na Tenshi wa Akuma to Odoru",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1902/139271l.jpg"
+                            },
+                            {
+                                "url": "/anime/2458/himesama-goumon-no-jikan-desu",
+                                "title": "Himesama \"Goumon\" no Jikan desu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1056/139398l.jpg"
+                            },
+                            {
+                                "url": "/anime/2485/synduality-noir-part-2",
+                                "title": "Synduality: Noir Part 2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1189/140511l.jpg"
+                            },
+                            {
+                                "url": "/anime/2456/high-card-season-2",
+                                "title": "High Card Season 2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1368/140801l.jpg"
+                            },
+                            {
+                                "url": "/anime/2487/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1752/139314l.jpg"
+                            },
+                            {
+                                "url": "/anime/2358/dog-signal",
+                                "title": "Dog Signal",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1507/139161l.jpg"
+                            },
+                            {
+                                "url": "/anime/2455/gekkan-mousou-kagaku",
+                                "title": "Gekkan Mousou Kagaku",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1789/139296l.jpg"
+                            },
+                            {
+                                "url": "/anime/2552/da-yuzhou-shidai",
+                                "title": "Da Yuzhou Shidai",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1782/140596l.jpg"
+                            },
+                            {
+                                "url": "/anime/1322/wangu-shenhua",
+                                "title": "Wangu Shenhua",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1971/127030l.jpg"
+                            },
+                            {
+                                "url": "/anime/2369/jian-yu-feng-yun-3rd-season",
+                                "title": "Jian Yu Feng Yun 3rd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1159/139387l.jpg"
+                            },
+                            {
+                                "url": "/anime/2515/wangu-kuang-di",
+                                "title": "Wangu Kuang Di",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1650/140573l.jpg"
+                            },
+                            {
+                                "url": "/anime/2542/shenlong-xing-zhu",
+                                "title": "Shenlong Xing Zhu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1099/140977l.jpg"
+                            },
+                            {
+                                "url": "/anime/2411/jiu-tian-xuan-di-jue-5th-season",
+                                "title": "Jiu Tian Xuan Di Jue 5th Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1222/139758l.jpg"
+                            },
+                            {
+                                "url": "/anime/13/ni-tian-zhizun",
+                                "title": "Ni Tian Zhizun",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1557/117031l.jpg"
+                            },
+                            {
+                                "url": "/anime/2414/fanren-xiu-xian-chuan-3rd-season",
+                                "title": "Fanren Xiu Xian Chuan 3rd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1119/139470l.jpg"
+                            },
+                            {
+                                "url": "/anime/1915/tousouchuu-great-mission",
+                                "title": "Tousouchuu: Great Mission",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1895/133256l.jpg"
+                            },
+                            {
+                                "url": "/anime/2557/kui-cheng-shoufu-cong-youxi-kaishi",
+                                "title": "Kui Cheng Shoufu Cong Youxi Kaishi",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1635/140669l.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/235/arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1877/119668l.jpg"
+                            },
+                            {
+                                "url": "/anime/388/arifureta-shokugyou-de-sekai-saikyou-2nd-season-special",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1981/120698l.jpg"
+                            },
+                            {
+                                "url": "/anime/1505/arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1068/124244l.jpg"
+                            },
+                            {
+                                "url": "/anime/1636/benriya-saitou-san-isekai-ni-iku",
+                                "title": "Benriya Saitou-san, Isekai ni Iku",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1805/132335l.jpg"
+                            },
+                            {
+                                "url": "/anime/178/boku-no-hero-academia-the-movie-3-world-heroes-mission",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1049/115605l.jpg"
+                            },
+                            {
+                                "url": "/anime/1366/boku-no-hero-academia-the-movie-3-world-heroes-mission-tabidachi",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1935/121274l.jpg"
+                            },
+                            {
+                                "url": "/anime/23/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore",
+                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1787/115817l.jpg"
+                            },
+                            {
+                                "url": "/anime/988/clannad-after-story-mou-hitotsu-no-sekai-kyou-hen",
+                                "title": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/19621l.jpg"
+                            },
+                            {
+                                "url": "/anime/986/clannad-mou-hitotsu-no-sekai-tomoyo-hen",
+                                "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg"
+                            },
+                            {
+                                "url": "/anime/1250/doupo-cangqiong",
+                                "title": "Doupo Cangqiong",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/88942l.jpg"
+                            },
+                            {
+                                "url": "/anime/1251/doupo-cangqiong-specials",
+                                "title": "Doupo Cangqiong Specials",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/88360l.jpg"
+                            },
+                            {
+                                "url": "/anime/1879/dr-stone-new-world",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1316/136268l.jpg"
+                            },
+                            {
+                                "url": "/anime/2179/dr-stone-new-world-part-2",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1236/138696l.jpg"
+                            },
+                            {
+                                "url": "/anime/1242/fanren-xiu-xian-chuan",
+                                "title": "Fanren Xiu Xian Chuan",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1085/109745l.jpg"
+                            },
+                            {
+                                "url": "/anime/2062/fategrand-order-himuro-no-tenchi-7-nin-no-saikyou-ijin-hen",
+                                "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1644/121789l.jpg"
+                            },
+                            {
+                                "url": "/anime/323/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
+                                "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1361/120706l.jpg"
+                            },
+                            {
+                                "url": "/anime/2332/good-night-world",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1330/137476l.jpg"
+                            },
+                            {
+                                "url": "/anime/130/gyakuten-sekai-no-denchi-shoujo",
+                                "title": "Gyakuten Sekai no Denchi Shoujo",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1836/117774l.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/anime/2175/buta-no-liver-wa-kanetsu-shiro",
+                    "title": "Buta no Liver wa Kanetsu Shiro",
+                    "description": "Seorang ilmuwan arogan terbangun di tengah kandang babi yang berlumpur, dan hal terakhir yang dia ingat adalah memakan hati babi mentah dan pingsan di kereta bawah tanah. Dia dengan cepat menyadari bahwa dia telah berubah menjadi babi dan sekarang berada di negeri fantasi yang aneh. Saat dia berjuang untuk memahami kenyataan, seorang gadis muda bernama Jess datang membantunya. Jess kebetulan adalah seorang Yesma—kelas pelayan yang didiskriminasi dan dibedakan berdasarkan kemampuan telepati dan kalung perak di leher mereka. Meski memiliki pemikiran yang tidak pantas tentang Jess, Jess tetap berkorban demi Jess, dan si babi memutuskan untuk membalasnya sebaik mungkin dalam batas tubuh barunya. Tetapi kemurahan hati Jess tidak membebaskannya dari prasangka buruk menghadapi Yesmas setiap hari, dan babi itu mulai curiga bahwa Jess berada dalam bahaya yang lebih besar daripada yang dia kira. Saat dia ingin mengunjungi ibu kota kerajaan dan memohon kepada raja untuk mengubahnya kembali menjadi manusia, babi menyadari bahwa dia tidak bisa begitu saja mengabaikan penyelamatnya yang baik hati. [Ditulis oleh MAL Rewrite] Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: Butareba -The Story of a Man Who Turned into a Pig-, 豚のレバーは加熱しろ, Heat the Pig Liver: The Story of a Man Turned Into a Pig, ButaLiver\n\nTipe: TV\nEpisode: 12\nStatus: Sedang Tayang\nTayang: 08 Okt 2023 s/d 06 Feb 2024\nMusim: Fall 2023\nDurasi: 24 menit per episode\nKualitas: HD\nNegara: JP\nAdaptasi: Novel Ringan\nGenre: Adventure, Fantasy\nEksplisit: ?\nDemografis: ?\nTema: Isekai\nStudio: Project No.9\nSkor: 6.31 / 10.00\nPeminat: 34,535 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: BGlobal",
+                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1319/140965l.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/2175/buta-no-liver-wa-kanetsu-shiro/episode/12",
+                        "name": "Ep 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/anime/2175/buta-no-liver-wa-kanetsu-shiro/episode/11",
+                        "name": "Ep 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

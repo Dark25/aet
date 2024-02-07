@@ -3,269 +3,28 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=5441",
-                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2e5edc64c4e0638e5d2dc00aa8adf50fd1475d14b80d8a79ac7a7adbdb447529.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5354",
-                                "title": "Buta no Liver wa Kanetsu Shiro",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/76de3594dc51308b84fce598192d3ea921e54c2b07cdd82adf6989f29de60bbc.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5460",
-                                "title": "Synduality: Noir Part 2",
-                                "artist": "Disney_Plus",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a5e54e1785c8f205ae39a82905be08f2e54f119fa6fbc58b840c7eb3fac54642.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5442",
-                                "title": "Oroka na Tenshi wa Akuma to Odoru",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/527ba879aa2f5eb438d44b7b777ad7ac5a15a655866443d2250af6369a21c71a.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5432",
-                                "title": "Dosanko Gal wa Namara Menkoi",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2596ceb6e76abc25727b92296e6255d55bc617d5e97a5609e8e1af2ab57537ed.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5452",
-                                "title": "Himesama \"Goumon\" no Jikan desu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/43d58c6b4324ab121468a6244a7a4be32d41a9f529d703cda4e5dc5b0d2b5274.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5423",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d6f7180d189fb21e7a4ad164e45b4feae63cf15b2f0d20b8d023d1abd1e3cbb5.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5443",
-                                "title": "High Card Season 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/394b41d4c5193a55b3c7659e21ea79071a88c822e57d85a70add8a8725f78a51.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5333",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-                                "artist": "Passerby",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/181b4913b9d1f6846a6ecd0bc0f82c028746317bec561896ad0151b72efa6bc0.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5495",
-                                "title": "Wonderful Precure!",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/eaf0e0917c0f93984e7a6a7a7f452a72c60037b119203b1b1844d52f5b25af84.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5464",
-                                "title": "Yami Shibai 12",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0292f698fae0554a19742d5f8b5fae0ab3684a9e686b8600fb1b596d1f1f8cc6.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5448",
-                                "title": "Kyuujitsu no Warumono-san",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b4edd631cd4af2527b6238c0fa0d39175993b7e7377820f496a7dd4559d31df8.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=5441",
-                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2e5edc64c4e0638e5d2dc00aa8adf50fd1475d14b80d8a79ac7a7adbdb447529.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5354",
-                                "title": "Buta no Liver wa Kanetsu Shiro",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/76de3594dc51308b84fce598192d3ea921e54c2b07cdd82adf6989f29de60bbc.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5460",
-                                "title": "Synduality: Noir Part 2",
-                                "artist": "Disney_Plus",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a5e54e1785c8f205ae39a82905be08f2e54f119fa6fbc58b840c7eb3fac54642.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5442",
-                                "title": "Oroka na Tenshi wa Akuma to Odoru",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/527ba879aa2f5eb438d44b7b777ad7ac5a15a655866443d2250af6369a21c71a.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5432",
-                                "title": "Dosanko Gal wa Namara Menkoi",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2596ceb6e76abc25727b92296e6255d55bc617d5e97a5609e8e1af2ab57537ed.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5452",
-                                "title": "Himesama \"Goumon\" no Jikan desu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/43d58c6b4324ab121468a6244a7a4be32d41a9f529d703cda4e5dc5b0d2b5274.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5423",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d6f7180d189fb21e7a4ad164e45b4feae63cf15b2f0d20b8d023d1abd1e3cbb5.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5443",
-                                "title": "High Card Season 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/394b41d4c5193a55b3c7659e21ea79071a88c822e57d85a70add8a8725f78a51.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5333",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-                                "artist": "Passerby",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/181b4913b9d1f6846a6ecd0bc0f82c028746317bec561896ad0151b72efa6bc0.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5495",
-                                "title": "Wonderful Precure!",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/eaf0e0917c0f93984e7a6a7a7f452a72c60037b119203b1b1844d52f5b25af84.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5464",
-                                "title": "Yami Shibai 12",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0292f698fae0554a19742d5f8b5fae0ab3684a9e686b8600fb1b596d1f1f8cc6.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5448",
-                                "title": "Kyuujitsu no Warumono-san",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b4edd631cd4af2527b6238c0fa0d39175993b7e7377820f496a7dd4559d31df8.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=2064",
-                                "title": "World Fool News (TV)",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/fa9d124c722e9299a10cb95a7f21a020c743aee11fffdfc70e359174a6e21fc9.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=119",
-                                "title": "World Trigger",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/5a3bd9bf6b59f52791ed7b7c05a300a1b9e9007a625d85124ccd7b2284cba8a0.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=2043",
-                                "title": "World Fool News (TV) Part II",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4524",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4200",
-                                "title": "World Witches Hasshin Shimasu!",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4175",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5229",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/e9a0985f593a33302d983d125b3fd44d1124c540176fcfad6296a0b819709319.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3709",
-                                "title": "World Fool News",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/b41c8c670b99fbb48485ce830a2b30236806c701bec41fcb249c22cd39287fdb.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/?anime_id=5441",
-                    "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
-                    "author": "Jumondo",
-                    "description": "A certain otome RPG takes place in the Varschein Kingdom, where dark hair is stigmatized to an abnormal degree. Yumiella Dolkness is the daughter of a count, hated from birth due to her pitch-black locks—and she is also the hidden boss! In a twist of fate, at five years of age, Yumiella recalls memories of her past life in Japan. Uninterested in the romance aspect of the original game, she begins to dedicate herself to training her rare dark-type magic. Despite this, Yumiella's goals are clear: avoid becoming the hidden boss and stay out of the limelight. Upon entering the magic academy, however, she shakes the foundation of the kingdom when her level 99 status comes to light. Whether a physical brawl or magic duel, her abilities are unmatched, and coupled with her black hair, she sticks out like a sore thumb. To make matters worse, the original heroine begins suspecting she is the demon lord! Can the deadpan noble girl achieve her wish of a peaceful life?",
-                    "genre": "Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/1f9d42454a54e68cd35c0f9bcd052f362a8807f9717d531fc80ce0c9a229ce7a.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/play/6ca1be74-48e3-7dc9-2327-c1f3e15828be/a5c5f0799c6ac6d68025261802c9e1c297c22af225cdba2b87c5c4eaa186d682",
-                        "name": "Episode 5",
-                        "date_upload": 1707237279000,
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/play/6ca1be74-48e3-7dc9-2327-c1f3e15828be/5c8dfc65161c56621a5d4f70d4aafb6fc04aba565e2a151d65aa14ae45a707ab",
-                        "name": "Episode 4",
-                        "date_upload": 1706632534000,
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/d1482f0173619927bcdb68459f08f7c809a25da5ce583d6404694617b075e741?file=AnimePahe_Akuyaku_Reijou_Level_99_-_Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen_-_05_1080p_SubsPlease.mp4&token=56nG5Cm2JrXoWAUCUXe7vA&expires=1707257780",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/d1482f0173619927bcdb68459f08f7c809a25da5ce583d6404694617b075e741?file=AnimePahe_Akuyaku_Reijou_Level_99_-_Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen_-_05_1080p_SubsPlease.mp4&token=56nG5Cm2JrXoWAUCUXe7vA&expires=1707257780"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/064254b2145bfea39ecf67814ae08686d33712a6d6b06df0f59021865cb6be35?file=AnimePahe_Akuyaku_Reijou_Level_99_-_Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen_-_05_720p_SubsPlease.mp4&token=ABPLPqty3rKpWl5TtciCew&expires=1707257779",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/064254b2145bfea39ecf67814ae08686d33712a6d6b06df0f59021865cb6be35?file=AnimePahe_Akuyaku_Reijou_Level_99_-_Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen_-_05_720p_SubsPlease.mp4&token=ABPLPqty3rKpWl5TtciCew&expires=1707257779"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/711f8032129f3817835a239ca98b6b19b3ab0ff43d2886d1ef82d6e62cbeebff?file=AnimePahe_Akuyaku_Reijou_Level_99_-_Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen_-_05_360p_SubsPlease.mp4&token=fu-e1ho2SmudklGq3dqNqw&expires=1707257777",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/711f8032129f3817835a239ca98b6b19b3ab0ff43d2886d1ef82d6e62cbeebff?file=AnimePahe_Akuyaku_Reijou_Level_99_-_Watashi_wa_Ura-Boss_desu_ga_Maou_dewa_Arimasen_-_05_360p_SubsPlease.mp4&token=fu-e1ho2SmudklGq3dqNqw&expires=1707257777"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             }
         }
     }

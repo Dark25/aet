@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/tuscaloosa/",
+                                "title": "72 Yazı Tuscaloosa",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/tuscaloosa_list.jpg"
+                            },
+                            {
                                 "url": "/bonnie-and-clyde/",
                                 "title": "Bonnie ve Clyde",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/bonnie-and-clyde_list.jpg"
@@ -140,11 +145,6 @@
                                 "url": "/divinity/",
                                 "title": "Divinity",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/divinity_list.jpg"
-                            },
-                            {
-                                "url": "/godless-the-eastfield-exorcism/",
-                                "title": "Godless: The Eastfield Exorcism",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/godless-the-eastfield-exorcism_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,14 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/bonnie-and-clyde/",
-                    "title": "Bonnie ve Clyde",
-                    "artist": "Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman, Estelle Parsons, Denver Pyle, Dub Taylor, Evans Evans, Gene Wilder, Patrick Cranshaw",
-                    "description": "Film, Bonnie ve Clyde'un yolculuğunu takip ederek onların soygunlarını, kaçışlarını ve suç işlemelerini gösterir. Ancak film, onları sadece suçlular olarak değil, aynı zamanda halk arasında popüler birer figür olarak da ele alır. Bonnie ve Clyde, halk arasında Robin Hood benzeri bir imaj edinirken, yetkililer tarafından aranırlar.",
-                    "genre": "Aksiyon, Biyografi, Suç",
+                    "url": "/tuscaloosa/",
+                    "title": "72 Yazı Tuscaloosa",
+                    "artist": "Ella Rae Peck, Bruce Bohne, Natalia Dyer, Devon Bostick, Nathan Phillips, Tate Donovan, Paul Cram, Marchánt Davis, Birgundi Baker, Amanda Day",
+                    "description": "Alabama, 1972. Billy, babasının akıl hastanesindeki bir hastaya aşık olurken, en yakın arkadaşı Tuscaloosa’da radikal bir sivil haklar hareketine dahil olur.",
+                    "genre": "Dram",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/bonnie-and-clyde.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/tuscaloosa.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -263,7 +263,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/bonnie-and-clyde/",
+                        "url": "/tuscaloosa/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -271,8 +271,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://box-wu-5.vmeas.cloud/hls/xqx2o7kdmjokjiqbte4clpcgxmd4g4sxsnkyxhbyg32lq4sjmvnd7s2nyjsa/index-v1.m3u8",
+                        "quality": "Vidmoly - 800p",
+                        "videoUrl": "https://box-wu-5.vmeas.cloud/hls/xqx2o7kdmjokjiqbte4clpcgxmd4g4sxsnkyxhbyg32lq4sjmvnd7s2nyjsa/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-u2jmx15kw2i7.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

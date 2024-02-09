@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dogman-2/",
+                                "title": "DogMan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/artsSiJleYkiQi3EbLXKXa48gUt.jpg"
+                            },
+                            {
                                 "url": "/argylle/",
                                 "title": "Argylle",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/oP1NddtndvCM5oqtcNieIJtRdpa.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/blackberry-klick-einer-generation/",
                                 "title": "BlackBerry – Klick einer Generation",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/a3V6OelcWMDI8sG6f2pqBUF58lz.jpg"
-                            },
-                            {
-                                "url": "/der-killer-2/",
-                                "title": "Der Killer",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/tSV1iy369FUr5yJTDHnd4i2wClL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,14 +264,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/argylle/",
-                    "title": "Argylle",
-                    "author": "Matthew Vaughn",
-                    "description": "Die zurückgezogene Bestseller-Autorin Elly Conway arbeitet an einem neuen Teil ihrer beliebten Roman-Reihe über den eleganten Superspion Argylle. Doch plötzlich offenbart ihr der Geheimagent Aiden, dass ihre Geschichten Auswirkungen auf die reale Welt haben. Während sie von ihrer Katze Alfie begleitet wird, geraten Elly und Aiden immer tiefer in eine globale Spionage-Verschwörung, bei der die Grenzen zwischen Realität und Fiktion verschwimmen.",
+                    "url": "/dogman-2/",
+                    "title": "DogMan",
+                    "author": "Luc Besson",
+                    "description": "Bei einer Verkehrskontrolle wird Doug blutverschmiert und im Abendkleid am Steuer eines Lastwagens voller Hunde aufgegriffen und festgenommen. Beim Verhör auf der Polizeiwache berichtet er über Ereignisse, die so schockierend sind, dass sie jegliche Vorstellungskraft sprengen.",
                     "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP1NddtndvCM5oqtcNieIJtRdpa.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/artsSiJleYkiQi3EbLXKXa48gUt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -279,7 +279,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "https://meinecloud.click/movie/tt15009428",
+                        "url": "https://meinecloud.click/movie/tt17009348",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -287,18 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv12.dropload.io/hls2/01/00118/4npiomcpjzeh_h/index-v1-a1.m3u8?t=uq8bE0dVgBamighqb9ubV8VQVTGQOZdnAX9pJ_XNJyk&s=1707416084&e=21600&f=593183&srv=srv11&i=172.183&sp=0&p1=srv11&p2=srv11",
-                        "quality": "Dropload:720p ",
-                        "videoUrl": "https://srv12.dropload.io/hls2/01/00118/4npiomcpjzeh_h/index-v1-a1.m3u8?t=uq8bE0dVgBamighqb9ubV8VQVTGQOZdnAX9pJ_XNJyk&s=1707416084&e=21600&f=593183&srv=srv11&i=172.183&sp=0&p1=srv11&p2=srv11",
-                        "headers": {
-                            "origin": "https://dropload.io",
-                            "referer": "https://dropload.io/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

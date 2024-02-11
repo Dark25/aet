@@ -3,86 +3,8 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=5429",
-                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/01bc7e2721d2a38fc94c233055106e83354c20c09a904f2ec0e99c26e134c105.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5426",
-                                "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5eb1c35b2ffb21001da63c4ec1e2e2a896b535f07b0607ae536d3569c0e03df5.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5421",
-                                "title": "Solo Leveling",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f6f46a0f51ec0d137ca4d1fb968b3a04932b493c29ee268f4196bb07565e2016.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5479",
-                                "title": "Bucchigiri?!",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2e63017cea90efae920b41e131b0a118e36835f35655b4d50e258e0c5dfeb2bf.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5361",
-                                "title": "Megumi no Daigo: Kyuukoku no Orange",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6fb848de5a8f98ba44c308ecaeb1d6c8410afd5ad95559ff5e31f5c11c6a877d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5446",
-                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/baa1b850d898eecad4ef4002336d519ac09836c754f6d843e8b47e330989ed77.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5334",
-                                "title": "Ragna Crimson",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b7e8ab53be0fcc63d16d5434494c0a117b1a8e49d5bcf27a10e228ee1f60fe8b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5430",
-                                "title": "Yubisaki to Renren",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d55ea47e4f7450f0e827ea5aff17795acaa8ed174e4522b39e4e8b88e8d8dc9a.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5436",
-                                "title": "Kekkon Yubiwa Monogatari",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ba26ab5bce9afdc3239623e1e4c9850f093b4470c87679709cd956e9f588e7d2.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9c8a61882d4059d068affab2f4f798ba4d1207218a2719f48f960506b60c42cf.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4940",
-                                "title": "Bocchi the Rock!",
-                                "artist": "Recluse",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/634141c91e994f720a22fa35726175f883656133fd8b4fa41b42873b28064b99.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5255",
-                                "title": "Pokemon (2023)",
-                                "artist": "Some-Stuffs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/81fac20b103ed6b428b14f909601f144023fdbb4b2100381dd91a5b7d61afd6a.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "latest": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",

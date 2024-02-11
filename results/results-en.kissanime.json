@@ -267,6 +267,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/The-Strongest-Tank-s-Labyrinth-Raids/",
+                                "title": "The Strongest Tank's Labyrinth Raids",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Strongest-Tank-s-Labyrinth-Raids.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Apothecary-Diaries/",
+                                "title": "The Apothecary Diaries",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Dangers-in-My-Heart-Season-2.21078/",
+                                "title": "The Dangers in My Heart Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Dangers-in-My-Heart-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Ao-no-Exorcist-Shimane-Illuminati-hen/",
+                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Ao-no-Exorcist-Shimane-Illuminati-hen.jpg"
+                            },
+                            {
                                 "url": "/Anime/solo-leveling.76219/",
                                 "title": "Solo Leveling",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Solo-Leveling.jpg"
@@ -495,26 +515,6 @@
                                 "url": "/Anime/Gold-Kingdom-and-Water-Kingdom/",
                                 "title": "Gold Kingdom and Water Kingdom",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/02/Gold-Kingdom-and-Water-Kingdom.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Daily-Life-of-the-Immortal-King-Season-3-Dub/",
-                                "title": "The Daily Life of the Immortal King Season 3 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/02/The-Daily-Life-of-the-Immortal-King-Season-3-Dub-poster.jpg"
-                            },
-                            {
-                                "url": "/Anime/Synduality-Noir-Part-2/",
-                                "title": "Synduality Noir Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Synduality-Noir-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
-                            },
-                            {
-                                "url": "/Anime/butareba-the-story-of-a-man-turned-into-a-pig.18382/",
-                                "title": "Butareba -The Story of a Man Turned into a Pig-",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Butareba-The-Story-of-a-Man-Turned-into-a-Pig.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }

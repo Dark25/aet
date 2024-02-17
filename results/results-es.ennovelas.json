@@ -7,68 +7,19 @@
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/asesinato-en-el-fin-del-mundo-vk/",
-                                "title": "Asesinato en el fin del mundo",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/11/Asesinato-en-el-fin-del-mundo-416x520.webp"
-                            },
-                            {
-                                "url": "/series/secretos-del-paraiso/",
-                                "title": "Secretos del paraiso",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Secretos-del-paraiso..jpg"
-                            },
-                            {
-                                "url": "/series/apocalipsis/",
-                                "title": "Apocalipsis",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/08/Screenshot-62.png"
-                            },
-                            {
-                                "url": "/series/las-dos-cara-de-ana/",
-                                "title": "Las dos cara de ana",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/10/MV5BNGIxNTFhNWItZDA4My00NTNhLWFkZjctMmY4YTVlMTRkNzQ0XkEyXkFqcGdeQXVyMzQ2NTY2MTg@-392x520.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/series/asesinato-en-el-fin-del-mundo-vk/",
-                    "title": "Asesinato en el fin del mundo",
-                    "artist": "Alice Braga",
-                    "author": "2023",
-                    "description": "Asesinato en el fin del mundo",
-                    "genre": "Drama, Mystery, Srnovelas, Thriller",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asesinato-en-el-fin-del-mundo-capitulo-3-dd/",
-                        "name": "Capítulo 3",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/asesinato-en-el-fin-del-mundo-capitulo-2-e/",
-                        "name": "Capítulo 2",
-                        "episode_number": 2.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

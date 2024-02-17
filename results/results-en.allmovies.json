@@ -276,8 +276,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-boys-4x8/",
+                        "name": "Season 4x8 : Assassination Run",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/the-boys-4x7/",
+                        "name": "Season 4x7 : The Insider",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",

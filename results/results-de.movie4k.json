@@ -117,16 +117,108 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=65b57f26b663b8902f4c7097",
+                    "title": "Aquaman: Lost Kingdom",
+                    "description": "Black Manta (Yahya Abdul-Mateen II) leckt nach seinem ersten Versuch, Aquaman (Jason Momoa) zu töten, weiterhin seine Wunden. Trotzdem scheint das nur eine verlorene Schlacht in einem viel größeren Krieg gewesen zu sein. Denn Black Manta ist nach wie vor davon besessen, den Tod seines Vaters zu rächen. Und dieses Mal ist er sich sicher, Aquaman zur Strecke bringen zu können. Mit dem mysteriösen schwarzen Dreizack in der Hinterhand ist er im Besitz einer unglaublichen Macht. Das weiß auch Aquaman. Um gegen Black Manta bestehen zu können, nimmt er sogar wieder Kontakt mit dem ehemaligen König von Atlantis, seinem Bruder Orm (Patrick Wilson) auf. Zwischen den beiden verläuft immer noch ein tiefer Graben, den sie jedoch schnell überwinden müssen, um als Team die Bewohner des Königreichs Atlantis vor Black Mantas Rache zu bewahren und die finstere Gestalt mit dem Schwarzen Dreizack ein für alle Mal zu besiegen.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=65b57f26b663b8902f4c7097",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=bpd2QJgAA1TKVj&expires=1708393410&ip=FROsF0EnDS9X&token=Jb1RDFrNA7AZ",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=bpd2QJgAA1TKVj&expires=1708393410&ip=FROsF0EnDS9X&token=Jb1RDFrNA7AZ"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=p8yBgYowBpsr2gw&expires=1708393410&ip=FROsF0EnDS9X&token=dHEFyah1CCwL",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=p8yBgYowBpsr2gw&expires=1708393410&ip=FROsF0EnDS9X&token=dHEFyah1CCwL"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=1Ok9Wl1j88IeZb8&expires=1708393409&ip=FROsF0EnDS9X&token=U0_Vgy30zRf0",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=1Ok9Wl1j88IeZb8&expires=1708393409&ip=FROsF0EnDS9X&token=U0_Vgy30zRf0"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393409&ip=FROsF0EnDS9X&token=6pp49HmqbLTu",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393409&ip=FROsF0EnDS9X&token=6pp49HmqbLTu"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aZoOxKK1BzsMJe&expires=1708393409&ip=FROsF0EnDS9X&token=ZBZPMxwRsMjP",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aZoOxKK1BzsMJe&expires=1708393409&ip=FROsF0EnDS9X&token=ZBZPMxwRsMjP"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=xed3LVVmAvUk69o&expires=1708393409&ip=FROsF0EnDS9X&token=VOLgwasIwCUh",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=xed3LVVmAvUk69o&expires=1708393409&ip=FROsF0EnDS9X&token=VOLgwasIwCUh"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393409&ip=FROsF0EnDS9X&token=6pp49HmqbLTu",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393409&ip=FROsF0EnDS9X&token=6pp49HmqbLTu"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=VWy72KLmm0FKlOO&expires=1708393409&ip=FROsF0EnDS9X&token=TwiYU878hmBi",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=VWy72KLmm0FKlOO&expires=1708393409&ip=FROsF0EnDS9X&token=TwiYU878hmBi"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=0AOO1kaq4BIbXKP&expires=1708393409&ip=FROsF0EnDS9X&token=N8lwtpuXKlqe",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=0AOO1kaq4BIbXKP&expires=1708393409&ip=FROsF0EnDS9X&token=N8lwtpuXKlqe"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=3wYvJByGXpi262&expires=1708393409&ip=FROsF0EnDS9X&token=Q8eqTkWAb4-Z",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=3wYvJByGXpi262&expires=1708393409&ip=FROsF0EnDS9X&token=Q8eqTkWAb4-Z"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=OWpajLJKXGSZZgw&expires=1708393409&ip=FROsF0EnDS9X&token=Kxe3S92-I6I1",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=OWpajLJKXGSZZgw&expires=1708393409&ip=FROsF0EnDS9X&token=Kxe3S92-I6I1"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=r2mJX0K1qotbZbv&expires=1708393408&ip=FROsF0EnDS9X&token=ybvlz182IJo1",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=r2mJX0K1qotbZbv&expires=1708393408&ip=FROsF0EnDS9X&token=ybvlz182IJo1"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393408&ip=FROsF0EnDS9X&token=l8jN12jerwjk",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393408&ip=FROsF0EnDS9X&token=l8jN12jerwjk"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=wVdmKL89BysJMlG&expires=1708393408&ip=FROsF0EnDS9X&token=_0Qrd60-uVQg",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wVdmKL89BysJMlG&expires=1708393408&ip=FROsF0EnDS9X&token=_0Qrd60-uVQg"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393408&ip=FROsF0EnDS9X&token=l8jN12jerwjk",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708393408&ip=FROsF0EnDS9X&token=l8jN12jerwjk"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=J0rAyezPYGSjdvB&expires=1708393407&ip=FROsF0EnDS9X&token=kns3zZlaUvCY",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=J0rAyezPYGSjdvB&expires=1708393407&ip=FROsF0EnDS9X&token=kns3zZlaUvCY"
+                    }
+                ],
+                "passed": true
             }
         }
     }

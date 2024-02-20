@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Tsuki-ga-Michibiku-Isekai-Douchuu-2nd-Season/",
+                                "title": "TSUKIMICHI -Moonlit Fantasy- Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/TSUKIMICHI-Moonlit-Fantasy-Season-2.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-Apothecary-Diaries-Dub/",
                                 "title": "The Apothecary Diaries (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Apothecary-Diaries-Dub.jpg"
@@ -510,11 +515,6 @@
                                 "url": "/Anime/The-Witch-and-the-Beast/",
                                 "title": "The Witch and the Beast",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Witch-and-the-Beast.jpg"
-                            },
-                            {
-                                "url": "/Anime/chiikawa.67655/",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/08/Chiikawa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

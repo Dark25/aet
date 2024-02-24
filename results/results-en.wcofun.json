@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills",
+                                "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933520.jpg"
+                            },
+                            {
                                 "url": "/anime/the-second-best-hospital-in-the-galaxy",
                                 "title": "The Second Best Hospital in the Galaxy",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933519.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/air-master",
                                 "title": "Air Master",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933505.jpg"
-                            },
-                            {
-                                "url": "/anime/combat-q",
-                                "title": "Combat Q",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933504.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-second-best-hospital-in-the-galaxy",
-                    "title": "The Second Best Hospital in the Galaxy",
-                    "description": "In Season One of The Second Best Hospital in the Galaxy, doctors Sleech and Klak take on a highly dangerous and potentially groundbreaking case and, in doing so, put existence itself in jeopardy. Although considering their dismal personal lives, oblivion might be an improvement.",
-                    "genre": "Animation, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933519.jpg",
+                    "url": "/anime/ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills",
+                    "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+                    "description": "Al Wayne’s greatest goal is to become the best farmer he can be. With utmost effort, he reaches the apex of his farming skills and earns the title of a first-rate cultivator. Due to this achievement, Al gains a substantial upgrade to his stats which now eclipse even the strength of legendary heroes of old.",
+                    "genre": "Action, Adventure, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933520.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtVsG4jbHfb8XpneJI1FALw3zzYbBcno30Fy8R_1a33kFuwV1N7_HM0E7ILNCsuchRIbA8h_gs_t9aKpuE7KEtDCw14I8Zz7TzA7eZaBo7F7TLBF-rNgEfEOazPNvAQ-_a08Ek_7tNsG81WSCTbdkB8X-Uiil6lwpRqdspZb3F3HCX25cespKwdAlx4inpcCySFDCyhWBMdEwfdS6wPgkO7oZz3AEdiOhiL_g-r8U2hi8HZQ7QgTSplArq1m6IK8FFb4CH2MbzIKJ98MmYr6WbfmSZ2mbVbxaUKXdAKKS2sUIugIdWuT6OunivWuPZfJljZZiQUxoRmL9oMWbBJAf8_HE2LrM2f15o5Zwgp98E2z7BLoaqFp5Qkr684fXSMzaW_EPjkJNWD_Xydb-OflYeSR73s5Oa22N2SU4oMe3aFPAUvYjauvHYNNi135nxtD3Y4zdqGI57hnDwhKwqdfpsX1Qzib9LC6wrOk0ZzRCXe0LT_lL6JjxUT3h5hBK7SrUA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtVsG4jbHfb8XpneJI1FALw3zzYbBcno30Fy8R_1a33kFuwV1N7_HM0E7ILNCsuchRIbA8h_gs_t9aKpuE7KEtDCw14I8Zz7TzA7eZaBo7F7TLBF-rNgEfEOazPNvAQ-_a08Ek_7tNsG81WSCTbdkB8X-Uiil6lwpRqdspZb3F3HCX25cespKwdAlx4inpcCySFDCyhWBMdEwfdS6wPgkO7oZz3AEdiOhiL_g-r8U2hi8HZQ7QgTSplArq1m6IK8FFb4CH2MbzIKJ98MmYr6WbfmSZ2mbVbxaUKXdAKKS2sUIugIdWuT6OunivWuPZfJljZZiQUxoRmL9oMWbBJAf8_HE2LrM2f15o5Zwgp98E2z7BLoaqFp5Qkr684fXSMzaW_EPjkJNWD_Xydb-OflYeSR73s5Oa22N2SU4oMe3aFPAUvYjauvHYNNi135nxtD3Y4zdqGI57hnDwhKwqdfpsX1Qzib9LC6wrOk0ZzRCXe0LT_lL6JjxUT3h5hBK7SrUA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtVsG4jbHfb8XpneJI1FALw3zzYbBcno30Fy8R_1a33kFuwV1N7_HM0E7ILNCsuchRIbA8h_gs_t9aKpuE7KEtDCw14I8Zz7TzA7eZaBo7F7TLBF-rNgEfEOazPNvAQ-_a08Ek_7tNsG81WSCTbdkB8X-Uiil6lwpRqdspZb3F3HCX25cespKwdAlx4inpcCySFDCyhWBMdEwfdS6wPgkO7oZz3AEdiOhiL_g-r8U2hi8HZQ7QgTSplArq1m6IK8FL3zGAR0mOr0hNqNR2oR3crTCTzFy6Z-ZGyOK9nnosR0PY3exKx7hKdzCohuUpWFWj82on2DidhpQJoUu1OqstLfK-MrV25q5zbT-aDdNw7X-VZoQcnkbCdF6WL5vkBQLYJjROk5dgJjnQlAFCrSg0QDmAI1bjARnNC5AuCNqAlrYaKO76gP5F3LTTDHMi7v0uSZRFBIpcE-LxXrWF-xLGhFqZ1lv-gDh0PByek-W75fqAlBGi8JMdpNJwjUpMVNyg",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtVsG4jbHfb8XpneJI1FALw3zzYbBcno30Fy8R_1a33kFuwV1N7_HM0E7ILNCsuchRIbA8h_gs_t9aKpuE7KEtDCw14I8Zz7TzA7eZaBo7F7TLBF-rNgEfEOazPNvAQ-_a08Ek_7tNsG81WSCTbdkB8X-Uiil6lwpRqdspZb3F3HCX25cespKwdAlx4inpcCySFDCyhWBMdEwfdS6wPgkO7oZz3AEdiOhiL_g-r8U2hi8HZQ7QgTSplArq1m6IK8FL3zGAR0mOr0hNqNR2oR3crTCTzFy6Z-ZGyOK9nnosR0PY3exKx7hKdzCohuUpWFWj82on2DidhpQJoUu1OqstLfK-MrV25q5zbT-aDdNw7X-VZoQcnkbCdF6WL5vkBQLYJjROk5dgJjnQlAFCrSg0QDmAI1bjARnNC5AuCNqAlrYaKO76gP5F3LTTDHMi7v0uSZRFBIpcE-LxXrWF-xLGhFqZ1lv-gDh0PByek-W75fqAlBGi8JMdpNJwjUpMVNyg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtVsG4jbHfb8XpneJI1FALw3zzYbBcno30Fy8R_1a33kFuwV1N7_HM0E7ILNCsuchRIbA8h_gs_t9aKpuE7KEtDCw14I8Zz7TzA7eZaBo7F7TLBF-rNgEfEOazPNvAQ-_a08Ek_7tNsG81WSCTbdkB8X-Uiil6lwpRqdspZb3F3HCX25cespKwdAlx4inpcCySFDCyhWBMdEwfdS6wPgkO7oZz3AEdiOhiL_g-r8U2hi8HZQ7QgTSplArq1m6IK8FAQ4U02W3h6y3qRxdAyQNkdaLkW4g-9rczqUlIowqZNrxsvwAW1x94kWMKC5iN-EaFO1UVCd8oZKo3trx00DfvL6FeLPpJ3kDp9WDUVvlC9sGNRqH5fqdEtamHiM3wWjJDVPP6rqMHoxfKbT0c-dGsk4RbSY2ooSTYYs5M0pvjJTSFGYVW8S0B0wAtGGUc-i4BLXY9GfQ6HJokbi3ISdz6RAYuBiKdcG0BAqCbYOXe8pHeJOz8kWR-otx6Tzl2u3PQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtVsG4jbHfb8XpneJI1FALw3zzYbBcno30Fy8R_1a33kFuwV1N7_HM0E7ILNCsuchRIbA8h_gs_t9aKpuE7KEtDCw14I8Zz7TzA7eZaBo7F7TLBF-rNgEfEOazPNvAQ-_a08Ek_7tNsG81WSCTbdkB8X-Uiil6lwpRqdspZb3F3HCX25cespKwdAlx4inpcCySFDCyhWBMdEwfdS6wPgkO7oZz3AEdiOhiL_g-r8U2hi8HZQ7QgTSplArq1m6IK8FAQ4U02W3h6y3qRxdAyQNkdaLkW4g-9rczqUlIowqZNrxsvwAW1x94kWMKC5iN-EaFO1UVCd8oZKo3trx00DfvL6FeLPpJ3kDp9WDUVvlC9sGNRqH5fqdEtamHiM3wWjJDVPP6rqMHoxfKbT0c-dGsk4RbSY2ooSTYYs5M0pvjJTSFGYVW8S0B0wAtGGUc-i4BLXY9GfQ6HJokbi3ISdz6RAYuBiKdcG0BAqCbYOXe8pHeJOz8kWR-otx6Tzl2u3PQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

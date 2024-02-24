@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Vizer.tv (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: vizer.tv: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: vizer.tv",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: vizer.tv",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: vizer.tv",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: vizer.tv",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: vizer.tv",
+                "passed": false
+            }
+        }
+    }
+]

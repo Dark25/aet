@@ -12,6 +12,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg"
                             },
                             {
+                                "url": "{\"id\":969492,\"media_type\":\"movie\"}",
+                                "title": "Land of Bad",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//bIeEMMvfzgbMBtYaEWtxrFnt6Vo.jpg"
+                            },
+                            {
                                 "url": "{\"id\":609681,\"media_type\":\"movie\"}",
                                 "title": "The Marvels",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg"
@@ -25,11 +30,6 @@
                                 "url": "{\"id\":933131,\"media_type\":\"movie\"}",
                                 "title": "Badland Hunters",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//24CL0ySodCF8bcm38xtBeHzHp7W.jpg"
-                            },
-                            {
-                                "url": "{\"id\":969492,\"media_type\":\"movie\"}",
-                                "title": "Land of Bad",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//bIeEMMvfzgbMBtYaEWtxrFnt6Vo.jpg"
                             },
                             {
                                 "url": "{\"id\":787699,\"media_type\":\"movie\"}",
@@ -246,20 +246,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xavpz.vid78f14e.site/_v2/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/list;15a3873cfa10585daa846515d1b0ea069138af455cb8.m3u8#.mp4",
-                        "quality": "Vidplay - Video",
-                        "videoUrl": "https://xavpz.vid78f14e.site/_v2/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/list;15a3873cfa10585daa846515d1b0ea069138af455cb8.m3u8#.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidplay.online",
-                            "Referer": "https://vidplay.online/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

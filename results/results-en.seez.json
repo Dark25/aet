@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"id\":969492,\"media_type\":\"movie\"}",
+                                "title": "Land of Bad",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//h27WHO2czaY5twDmV3Wfx5IdqoE.jpg"
+                            },
+                            {
                                 "url": "{\"id\":1072790,\"media_type\":\"movie\"}",
                                 "title": "Anyone But You",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg"
-                            },
-                            {
-                                "url": "{\"id\":969492,\"media_type\":\"movie\"}",
-                                "title": "Land of Bad",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//bIeEMMvfzgbMBtYaEWtxrFnt6Vo.jpg"
                             },
                             {
                                 "url": "{\"id\":940551,\"media_type\":\"movie\"}",
@@ -29,7 +29,7 @@
                             {
                                 "url": "{\"id\":1096197,\"media_type\":\"movie\"}",
                                 "title": "No Way Up",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//rieMzC6JJoMVbsaUv6Rzj0fR7Px.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//9YTdswepVeqnZYo2Mkdn3mKNraF.jpg"
                             },
                             {
                                 "url": "{\"id\":787699,\"media_type\":\"movie\"}",
@@ -77,6 +77,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//usDIBB0hOqLM8wMSGistfqxjukZ.jpg"
                             },
                             {
+                                "url": "{\"id\":693134,\"media_type\":\"movie\"}",
+                                "title": "Dune: Part Two",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//mFnF8tpPMqEwti2J2aMhYGZYdv0.jpg"
+                            },
+                            {
                                 "url": "{\"id\":955916,\"media_type\":\"movie\"}",
                                 "title": "Lift",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg"
@@ -100,11 +105,6 @@
                                 "url": "{\"id\":980137,\"media_type\":\"movie\"}",
                                 "title": "Dad or Mom",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//e0ezklncv9ApFVj50FSYJZo08oT.jpg"
-                            },
-                            {
-                                "url": "{\"id\":673593,\"media_type\":\"movie\"}",
-                                "title": "Mean Girls",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,10 +224,10 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":1072790,\"media_type\":\"movie\"}",
-                    "author": "Olive Bridge Entertainment, Fifty-Fifty Films, Roth-Kirschenbaum Films, SK Global Entertainment, Columbia Pictures, TSG Entertainment, Australian Government",
-                    "description": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.\n\nRelease date: 2023-12-21\nLanguages: English (English)\n",
-                    "genre": "Comedy, Romance",
+                    "url": "{\"id\":969492,\"media_type\":\"movie\"}",
+                    "author": "Broken Open Pictures, Volition Media Partners, Highland Film Group, Hoodlum Entertainment, R.U. Robot Studios, Moonbow, Gosdom Entertainment, Short Porch Pictures, The Avenue Entertainment",
+                    "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.\n\nRelease date: 2024-01-25\nLanguages: English (English)\n",
+                    "genre": "Action, Thriller, War",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -237,51 +237,17 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/1072790",
+                        "url": "/movie/969492",
                         "name": "Movie",
-                        "date_upload": 1703116800000,
+                        "date_upload": 1706140800000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://yvwjo.vid78f14e.site/_v2p-dvbo/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/fdacc4/cbb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
-                        "quality": "Vidplay - 1080p",
-                        "videoUrl": "https://yvwjo.vid78f14e.site/_v2p-dvbo/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/fdacc4/cbb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidplay.online",
-                            "Referer": "https://vidplay.online/"
-                        }
-                    },
-                    {
-                        "url": "https://yvwjo.vid78f14e.site/_v2p-dvbo/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/fdacc3/cbb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
-                        "quality": "Vidplay - 720p",
-                        "videoUrl": "https://yvwjo.vid78f14e.site/_v2p-dvbo/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/fdacc3/cbb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidplay.online",
-                            "Referer": "https://vidplay.online/"
-                        }
-                    },
-                    {
-                        "url": "https://yvwjo.vid78f14e.site/_v2p-dvbo/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/fdacc1/cbb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
-                        "quality": "Vidplay - 360p",
-                        "videoUrl": "https://yvwjo.vid78f14e.site/_v2p-dvbo/12a3c523f3105800ed8c394685aeeb0b9b2eaa5c1eb0e0ef4c047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a63d5770f19263974aa31e1abd5613c2f0ab6b4622137662d83c57586690c7cdbc099fbe69c13c44/h/fdacc1/cbb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidplay.online",
-                            "Referer": "https://vidplay.online/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

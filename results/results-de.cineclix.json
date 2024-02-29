@@ -394,18 +394,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://d000d.com/e/eq2ugbvis4wg",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://dw572mm.video-delivery.net/u5kj245emhdlsdgge7hc2mcgjlh7thazi2clp55x5wbbtpwvnx2upw7y4xea/fwdiqu9ta0~UAHXYoyX0U?token=56c7akqx23jhlt719m87x39g&expiry=1709144097143",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://d000d.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

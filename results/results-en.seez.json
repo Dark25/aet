@@ -248,8 +248,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rovdz.vid5e4da3.site/_v2p-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5075f4d6749544f85e49ec0a5691a6b03b552e423d6dc07f4a1f74ce9b9ee8099ef129863b48e31c/h/effffb4/a;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
+                        "quality": "Vidplay - 1080p",
+                        "videoUrl": "https://rovdz.vid5e4da3.site/_v2p-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5075f4d6749544f85e49ec0a5691a6b03b552e423d6dc07f4a1f74ce9b9ee8099ef129863b48e31c/h/effffb4/a;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://rovdz.vid5e4da3.site/_v2p-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5075f4d6749544f85e49ec0a5691a6b03b552e423d6dc07f4a1f74ce9b9ee8099ef129863b48e31c/h/effffb3/a;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
+                        "quality": "Vidplay - 720p",
+                        "videoUrl": "https://rovdz.vid5e4da3.site/_v2p-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5075f4d6749544f85e49ec0a5691a6b03b552e423d6dc07f4a1f74ce9b9ee8099ef129863b48e31c/h/effffb3/a;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://rovdz.vid5e4da3.site/_v2p-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5075f4d6749544f85e49ec0a5691a6b03b552e423d6dc07f4a1f74ce9b9ee8099ef129863b48e31c/h/effffb1/a;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
+                        "quality": "Vidplay - 360p",
+                        "videoUrl": "https://rovdz.vid5e4da3.site/_v2p-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53f5075f4d6749544f85e49ec0a5691a6b03b552e423d6dc07f4a1f74ce9b9ee8099ef129863b48e31c/h/effffb1/a;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

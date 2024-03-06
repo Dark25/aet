@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ishura",
+                                "title": "Ishura",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862.webp"
+                            },
+                            {
                                 "url": "/trapp-ikka-monogatari",
                                 "title": "Trapp Ikka Monogatari",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181560001709672342.webp"
@@ -94,11 +99,6 @@
                                 "url": "/one-piece",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/3.webp"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181050001704573061.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -268,12 +268,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/trapp-ikka-monogatari",
-                    "title": "Trapp Ikka Monogatari",
-                    "artist": "Nippon Animation",
-                    "description": "Klasik müzikal \"The Sound of Music\"in de uyarlandığı hikayede, Kaptan von Trapp'ın çocuklarına mürebbiyelik yapmak için manastırdaki hayatını yarıda bırakan Maria'nın başından geçenlere tanık oluyoruz.\nDiğer adlar: The Trapp Family Story, Sekai Meisaku Gekijou\nJaponca İsmi: トラップ 一家 物語\nStüdyo: Nippon Animation",
-                    "genre": "Dram, Romantizm",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/181560001709672342l.webp",
+                    "url": "/ishura",
+                    "title": "Ishura",
+                    "artist": "Passione",
+                    "description": "İblis Kral'ın öldüğü bir dünyada, onu alt edebilecek bir dizi yarı tanrı dünyaya miras kalmıştır. Tek bir bakışla rakiplerini nasıl alt edeceklerini bulabilen usta bir eskrimci; ses duvarını aşabilecek kadar hızlı bir mızrakçı; aynı anda üç efsanevi silahla savaşan bir wyvern haydutu; düşünceleri varlığa dönüştürebilen çok güçlü bir büyücü; anında ölüm dağıtan meleksi bir suikastçı. \"Gerçek Kahraman\" unvanını elde etmeye hevesli bu şampiyonların her biri zorlu düşmanlara karşı mücadeleler veriyor ve kendi aralarında çatışmalara yol açıyor. Kudretlilerin en kudretlisini belirlemek için savaş başlıyor.\nDiğer adlar: \nJaponca İsmi: 異修羅\nStüdyo: Passione",
+                    "genre": "Aksiyon, Macera, Fantastik",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -281,14 +281,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/trapp-ikka-monogatari-5-bolum",
-                        "name": "5. Bölüm",
-                        "episode_number": 5.0
+                        "url": "/ishura-10-bolum",
+                        "name": "10. Bölüm",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/trapp-ikka-monogatari-4-bolum",
-                        "name": "4. Bölüm",
-                        "episode_number": 4.0
+                        "url": "/ishura-9-bolum",
+                        "name": "9. Bölüm",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -296,9 +296,41 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkxxmnh6z3b4quuoscqqgjsmlnqy3kxqkenwdnirtfnmnvlmeefjpr5bskaicjyli7czt7v4/video.mp4",
-                        "quality": "[1456ha] Mp4Upload - 540p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxxmnh6z3b4quuoscqqgjsmlnqy3kxqkenwdnirtfnmnvlmeefjpr5bskaicjyli7czt7v4/video.mp4",
+                        "url": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/10644/qb4e8a11yfhj_,n,.urlset/index-v1-a1.m3u8?t=NrOfsX1CXs7gpA5511cgGjPDRL-cTG0dEcyLlhFbkLw&s=1709749507&e=14400&f=53222292&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=20.102&sp=2500&asn=8075",
+                        "quality": "[Net-Rip] Voe: 720p",
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/10644/qb4e8a11yfhj_,n,.urlset/index-v1-a1.m3u8?t=NrOfsX1CXs7gpA5511cgGjPDRL-cTG0dEcyLlhFbkLw&s=1709749507&e=14400&f=53222292&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=20.102&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=51X2K47LzOxsSXOMDgFJKwGaSTYdnAhJhWK2CUOoy1mTB00nIqQocgWT4RDRKL7ai8w5Tjjo6%2FlSDY4S1djVi7aZ7daAx0RNoI%2BG8RrjuZzrB9uXQjGTxumsXl8VLbNfMTO4dG1FqPgRkkpc3G9YBXKw03TOw3D%2BffBoO9jpHcaYPAjZ1S7Ufa9%2F9pF5WUa98%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
+                        "quality": "[Net-Rip] GDRIVE 720p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=51X2K47LzOxsSXOMDgFJKwGaSTYdnAhJhWK2CUOoy1mTB00nIqQocgWT4RDRKL7ai8w5Tjjo6%2FlSDY4S1djVi7aZ7daAx0RNoI%2BG8RrjuZzrB9uXQjGTxumsXl8VLbNfMTO4dG1FqPgRkkpc3G9YBXKw03TOw3D%2BffBoO9jpHcaYPAjZ1S7Ufa9%2F9pF5WUa98%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiAFKAQwAzgCeNsDqgEICgYIgAoQ0AWyAQQIxNgC0gEGCAMQAigX2gECCBjMeKq_D3ICDQ/fn/track.m3u8",
+                        "quality": "[Net-Rip] Okru:720p",
+                        "videoUrl": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiAFKAQwAzgCeNsDqgEICgYIgAoQ0AWyAQQIxNgC0gEGCAMQAigX2gECCBjMeKq_D3ICDQ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/VFFrR1orYWVEWWI5S0ZzMndkM3l6TVNaVE51KzNTSjJNMFppTEk0bkZBWTFJdTJpNGpEczhQRFNuTCszVVNJVXZCVTIwVDIvZHl0a2o3WXRBaytZd0ZkRE9OU3Bmc3g2ZUR6TUdFWiszYU5hS0FoSTJUbXoxbHZ3NS9pMmlLOVovMGZmUEliWjZOb2VCZzFWNkFIMGkreHA5SjFNYXFlTUY4T3FwMGpIQWNvMmhQVWpCREtkNWVDdXZuV1V0aDlBcm96QTA3MlY4YVM0dGx3aGF5YkVDajFRU01RQVB1QzJWWXh3WGg0Rk9LaDBIcExXR21HaUZUTFpPV2kvSmZoOWV6L3l2V1RLZDNGRHlDMkFtOWh5NVFDdE9jSGk2WHlMVHB5ZkluNDJjc2M9",
+                        "quality": "[Net-Rip] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/VFFrR1orYWVEWWI5S0ZzMndkM3l6TVNaVE51KzNTSjJNMFppTEk0bkZBWTFJdTJpNGpEczhQRFNuTCszVVNJVXZCVTIwVDIvZHl0a2o3WXRBaytZd0ZkRE9OU3Bmc3g2ZUR6TUdFWiszYU5hS0FoSTJUbXoxbHZ3NS9pMmlLOVovMGZmUEliWjZOb2VCZzFWNkFIMGkreHA5SjFNYXFlTUY4T3FwMGpIQWNvMmhQVWpCREtkNWVDdXZuV1V0aDlBcm96QTA3MlY4YVM0dGx3aGF5YkVDajFRU01RQVB1QzJWWXh3WGg0Rk9LaDBIcExXR21HaUZUTFpPV2kvSmZoOWV6L3l2V1RLZDNGRHlDMkFtOWh5NVFDdE9jSGk2WHlMVHB5ZkluNDJjc2M9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/a8fa644522af35a47e3a6689b4cec5fa"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2x2ymh6z3b4quuoscqqwys2j3tyhcrk7sajtmp7gtxq3dn7g4a3gej5kkxcc6pymgrh2fci/video.mp4",
+                        "quality": "[Net-Rip] Mp4Upload - 1080p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x2ymh6z3b4quuoscqqwys2j3tyhcrk7sajtmp7gtxq3dn7g4a3gej5kkxcc6pymgrh2fci/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anizm.net",
@@ -306,59 +338,88 @@
                         }
                     },
                     {
-                        "url": "https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/10636/0dmpsbpro2bu_,l,.urlset/index-v1-a1.m3u8?t=nfDcuE7gD60S7n7y4CW6BcqCZBA0IZ8iQhESD_mkNtI&s=1709727946&e=14400&f=53184504&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=40.79&sp=2500&asn=8075",
-                        "quality": "[1456ha] Voe: 480p",
-                        "videoUrl": "https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/10636/0dmpsbpro2bu_,l,.urlset/index-v1-a1.m3u8?t=nfDcuE7gD60S7n7y4CW6BcqCZBA0IZ8iQhESD_mkNtI&s=1709727946&e=14400&f=53184504&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=40.79&sp=2500&asn=8075",
+                        "url": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiAGKAUwAzgCeNsDjAc9BO4FXVg/fn/track.m3u8",
+                        "quality": "[Net-Rip] Okru:1080p",
+                        "videoUrl": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiAGKAUwAzgCeNsDjAc9BO4FXVg/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiAEKAMwAzgCeNkDfIpHjUNLsYY/fn/track.m3u8",
-                        "quality": "[1456ha] Okru:480p",
-                        "videoUrl": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiAEKAMwAzgCeNkDfIpHjUNLsYY/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/WEJmTlpHUUJobEphU2x4YnpPbFlTNmFmUXo3ZjVidlFudlMrT2pKTGcvZ0dvbXZNRFpsaFpjWG1IWVhpTzcranZzU3NXbk1wd251OEcxVU9DMlNLYzlRdUY5MHFFT3Z5VXZmVDVXNFo3VFBLNnB1TDFkQnJjRzNnNDNJaGFRZGF1WVp3YXg0TjFBVHZ6VXNPT0tiaUhMcmJSTUczVUNLbUFZcTQ2QUJnZUxhOEE1NS9uVFpKdTh3czZETTdEaW9VRWk1TXNhMk8vbnVxckR0eTNyVTJpUFdQTnBCSGZlQ0xrU1VJRUxuUHJUTmpiMmgwUHdrVlZSZ2FoZFJJa3pOZnh5UmxudU94c2RUT0dES1AwSnBwWUcycUFSYkdleVllRWhNQjJDS0pxMVE9",
-                        "quality": "[1456ha] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/WEJmTlpHUUJobEphU2x4YnpPbFlTNmFmUXo3ZjVidlFudlMrT2pKTGcvZ0dvbXZNRFpsaFpjWG1IWVhpTzcranZzU3NXbk1wd251OEcxVU9DMlNLYzlRdUY5MHFFT3Z5VXZmVDVXNFo3VFBLNnB1TDFkQnJjRzNnNDNJaGFRZGF1WVp3YXg0TjFBVHZ6VXNPT0tiaUhMcmJSTUczVUNLbUFZcTQ2QUJnZUxhOEE1NS9uVFpKdTh3czZETTdEaW9VRWk1TXNhMk8vbnVxckR0eTNyVTJpUFdQTnBCSGZlQ0xrU1VJRUxuUHJUTmpiMmgwUHdrVlZSZ2FoZFJJa3pOZnh5UmxudU94c2RUT0dES1AwSnBwWUcycUFSYkdleVllRWhNQjJDS0pxMVE9",
+                        "url": "https://anizmplayer.com/hls/VFFrR1orYWVEWWI5S0ZzMndkM3l6TVNaVE51KzNTSjJNMFppTEk0bkZBWTFJdTJpNGpEczhQRFNuTCszVVNJVXRhWVRvYnhsa2l0SzYyMnNEcTdQVVNyOHdkOE1wNkFlUnRaT3RON0Frai9CVVlUVCs5eXN2MCtQZTFZMzFEc2lhdWtyTnVpeGt2eTlRTmg0Y3VRYVJsQmNpakoyd1VRT204eU5SSlc3UUg4UDNadnZvTUJmOGl6bm12VUgzS01IRXl6eDFlNlVoVGZSSjRHajNsWjhaaEQ4U2ZHbWErS1pRT05jcDBuK05HZHArVUdoR1VRUEZxdDNEeVd1Ykk5eHBrM1Z1aks2eFI0bmdqMTVaUVNYYlA5cHVWRTM4L2xKTVZkdTd6ODVKRndrVzNPWmlEcmk5RUxic29tQTlFYzQ%3D",
+                        "quality": "[Net-Rip] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/VFFrR1orYWVEWWI5S0ZzMndkM3l6TVNaVE51KzNTSjJNMFppTEk0bkZBWTFJdTJpNGpEczhQRFNuTCszVVNJVXRhWVRvYnhsa2l0SzYyMnNEcTdQVVNyOHdkOE1wNkFlUnRaT3RON0Frai9CVVlUVCs5eXN2MCtQZTFZMzFEc2lhdWtyTnVpeGt2eTlRTmg0Y3VRYVJsQmNpakoyd1VRT204eU5SSlc3UUg4UDNadnZvTUJmOGl6bm12VUgzS01IRXl6eDFlNlVoVGZSSjRHajNsWjhaaEQ4U2ZHbWErS1pRT05jcDBuK05HZHArVUdoR1VRUEZxdDNEeVd1Ykk5eHBrM1Z1aks2eFI0bmdqMTVaUVNYYlA5cHVWRTM4L2xKTVZkdTd6ODVKRndrVzNPWmlEcmk5RUxic29tQTlFYzQ%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/a646a8ba0917365383de28e5ed481469"
+                            "Referer": "https://anizmplayer.com/video/a8fa644522af35a47e3a6689b4cec5fa"
                         }
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=sw224Kvt9%2B0dqNFXhHSI9guQZAJEKTXLqJ75jI6cY3%2BCGOAtnT5D7pZ3gC37MWRKwut2s%2F0OZW5T6S5jK1%2BmuljasjNeyoRHElU5pQUliW3mJjgpFuUm2EbEf8O3Uceb00vJzg62MDCUjuZy18o4f3Jim5KmHLrZcZ%2B9H9YOAWYTXQN9mkCn%2FukJp%2BbiN%2FC0M%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[1456ha] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=sw224Kvt9%2B0dqNFXhHSI9guQZAJEKTXLqJ75jI6cY3%2BCGOAtnT5D7pZ3gC37MWRKwut2s%2F0OZW5T6S5jK1%2BmuljasjNeyoRHElU5pQUliW3mJjgpFuUm2EbEf8O3Uceb00vJzg62MDCUjuZy18o4f3Jim5KmHLrZcZ%2B9H9YOAWYTXQN9mkCn%2FukJp%2BbiN%2FC0M%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiADKAIwAzgCeNkDqgEICgYI4AMQ6ALSAQQQAigXFkYR04F3VHU/fn/track.m3u8",
-                        "quality": "[1456ha] Okru:360p",
-                        "videoUrl": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiADKAIwAzgCeNkDqgEICgYI4AMQ6ALSAQQQAigXFkYR04F3VHU/fn/track.m3u8",
+                        "url": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiAEKAMwAzgCeNsDqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBDzKmDo9QbKTw/fn/track.m3u8",
+                        "quality": "[Net-Rip] Okru:480p",
+                        "videoUrl": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiAEKAMwAzgCeNsDqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBDzKmDo9QbKTw/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiACKAEwAzgCeNkDqgEICgYIwAIQ8AHSAQQQAigXWZZX9Pe7bM4/fn/track.m3u8",
-                        "quality": "[1456ha] Okru:240p",
-                        "videoUrl": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiACKAEwAzgCeNkDqgEICgYIwAIQ8AHSAQQQAigXWZZX9Pe7bM4/fn/track.m3u8",
+                        "url": "https://anizmplayer.com/hls/VFFrR1orYWVEWWI5S0ZzMndkM3l6TVNaVE51KzNTSjJNMFppTEk0bkZBWTFJdTJpNGpEczhQRFNuTCszVVNJVS9adDBFRUtKejRMZjZYMVluZU1LaGUyL3oxZGI2cVp0UHJ6UGZKSEI1anhwVmtHSmFjQWs2OVp2TlorQzQxMWNyVmR3Tm9nbFh0dDhZUFdrdWRjY0hoUnY1WnNTZzR5dFgvZElpQ2piYk1IY1VQMFI1eDlFc0ZIOHA5M3ZySW9GL29lZCtSV1VuY1Q4OTRvRFEwcGJCMVB2YVVacDhOSWl6VXZ0VDRrbmxuVFk0WVhFdmhOVDFTTVJtVlNhVnZmN1U0QTQ4SGtFdGMySnI3c3NDU3FVem9wOEd2OE43eDQ3UmwrYWw0cHJFckU9",
+                        "quality": "[Net-Rip] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/VFFrR1orYWVEWWI5S0ZzMndkM3l6TVNaVE51KzNTSjJNMFppTEk0bkZBWTFJdTJpNGpEczhQRFNuTCszVVNJVS9adDBFRUtKejRMZjZYMVluZU1LaGUyL3oxZGI2cVp0UHJ6UGZKSEI1anhwVmtHSmFjQWs2OVp2TlorQzQxMWNyVmR3Tm9nbFh0dDhZUFdrdWRjY0hoUnY1WnNTZzR5dFgvZElpQ2piYk1IY1VQMFI1eDlFc0ZIOHA5M3ZySW9GL29lZCtSV1VuY1Q4OTRvRFEwcGJCMVB2YVVacDhOSWl6VXZ0VDRrbmxuVFk0WVhFdmhOVDFTTVJtVlNhVnZmN1U0QTQ4SGtFdGMySnI3c3NDU3FVem9wOEd2OE43eDQ3UmwrYWw0cHJFckU9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/a8fa644522af35a47e3a6689b4cec5fa"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=51X2K47LzOxsSXOMDgFJKwGaSTYdnAhJhWK2CUOoy1mTB00nIqQocgWT4RDRKL7ai8w5Tjjo6%2FlSDY4S1djVi7aZ7daAx0RNoI%2BG8RrjuZzrB9uXQjGTxumsXl8VLbNfMTO4dG1FqPgRkkpc3G9YBXKw03TOw3D%2BffBoO9jpHcaYPAjZ1S7Ufa9%2F9pF5WUa98%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Net-Rip] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=51X2K47LzOxsSXOMDgFJKwGaSTYdnAhJhWK2CUOoy1mTB00nIqQocgWT4RDRKL7ai8w5Tjjo6%2FlSDY4S1djVi7aZ7daAx0RNoI%2BG8RrjuZzrB9uXQjGTxumsXl8VLbNfMTO4dG1FqPgRkkpc3G9YBXKw03TOw3D%2BffBoO9jpHcaYPAjZ1S7Ufa9%2F9pF5WUa98%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiADKAIwAzgCeNsDqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQJ77slJJSl8w/fn/track.m3u8",
+                        "quality": "[Net-Rip] Okru:360p",
+                        "videoUrl": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiADKAIwAzgCeNsDqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQJ77slJJSl8w/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiABMAM4AnjZA6oBCAoGCMABEJABsgEECMTYAtIBBBACKBfaAQIICM85rDnl3m5i/fn/track.m3u8",
-                        "quality": "[1456ha] Okru:144p",
-                        "videoUrl": "https://vd162.mycdn.me/expires/1709814345175/clientType/0/srcIp/40.79.66.244/type/2/mid/7237840800435/id/6353974004403/ms/45.136.21.9/zs/43/srcAg/GECKO/urls/45.136.20.73/oq/0/ct/28/sig/_M1K6qwOFnw/ondemand/CLOV9LL2uAESFAizlfSy9rgBELOV9LL2uAEYAiABGhQIs5X0sva4ARCzlfSy9rgBGAIgAiABMAM4AnjZA6oBCAoGCMABEJABsgEECMTYAtIBBBACKBfaAQIICM85rDnl3m5i/fn/track.m3u8",
+                        "url": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiACKAEwAzgCeNsDqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQMc-CT_FKdAU/fn/track.m3u8",
+                        "quality": "[Net-Rip] Okru:240p",
+                        "videoUrl": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiACKAEwAzgCeNsDqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQMc-CT_FKdAU/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiABMAM4AnjbA6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICABf-R2N_xyZ/fn/track.m3u8",
+                        "quality": "[Net-Rip] Okru:144p",
+                        "videoUrl": "https://vd478.mycdn.me/expires/1709835906044/clientType/0/srcIp/20.102.46.36/type/2/mid/7240265435827/id/6357308017331/ms/45.136.22.35/zs/43/srcAg/GECKO/urls/45.136.20.40/oq/0/ct/28/sig/hRpYDArTzVg/ondemand/CLOV2OiCuQESFAizldjogrkBELOV2OiCuQEYNyABGhQIs5XY6IK5ARCzldjogrkBGDcgAiABMAM4AnjbA6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICABf-R2N_xyZ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/a6/ee/uptreh3w.mp4?validfrom=1709742308&validto=1709756708&rate=250k&ip=20.102.46.36&hash=PMDvdgmc2%2FA79%2BQ%2BwT4c4VBoJ04%3D",
+                        "quality": "[Net-Rip] Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/a6/ee/uptreh3w.mp4?validfrom=1709742308&validto=1709756708&rate=250k&ip=20.102.46.36&hash=PMDvdgmc2%2FA79%2BQ%2BwT4c4VBoJ04%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://https://sendvid.com/embed/uptreh3w",
+                            "Referer": "https://https://sendvid.com/embed/uptreh3w/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/5ece7f3807e67b67f54d69a8fb6a90ab/5457883.mp4",
+                        "quality": "[Net-Rip] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/5ece7f3807e67b67f54d69a8fb6a90ab/5457883.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5457883"
                         }
                     }
                 ],

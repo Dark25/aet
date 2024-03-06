@@ -653,27 +653,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/فيلم-poor-things-2023-مترجم-اون-لاين/watch/",
-                    "title": "Poor Things 2023",
-                    "author": "المملكة المتحدة الولايات المتحدة الامريكية جمهورية أيرلندا",
-                    "description": "في إطار من الخيال العلمي والرومانسية، يدور العمل حول امرأة تُدعى بيلا باكستر، ورحلتها من الموت إلى العودة للحياة مجددًا على يد العالم الغامض دكتور جودوين باكستر.",
-                    "genre": "افلام اجنبي, دراما, رومانسي, كوميدي",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://w.tuktokcinema.com/wp-content/uploads/2023/12/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX700.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/فيلم-poor-things-2023-مترجم-اون-لاين//watch/",
-                        "name": "مشاهدة"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

@@ -11,7 +11,7 @@
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
@@ -69,7 +69,7 @@
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
@@ -152,7 +152,7 @@
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
@@ -168,7 +168,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/metal-rouge-sub-indo/",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/Metallic-Rouge-Sub-Indo.jpg"
+                            },
+                            {
+                                "url": "/anime/mahou-shoujo-akogarete-sub-indo/",
+                                "title": "Mahou Shoujo ni Akogarete",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/139414l.jpg"
+                            },
+                            {
+                                "url": "/anime/sengoku-youko-sub-indo/",
+                                "title": "Sengoku Youko",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/Sengoku-Youko.jpg"
+                            },
+                            {
                                 "url": "/anime/ishura-sub-indo/",
                                 "title": "Ishura",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/140122.jpg"
@@ -250,21 +265,6 @@
                                 "url": "/anime/solo-level-sub-indo/",
                                 "title": "Solo Leveling",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/Solo-Leveling.jpg"
-                            },
-                            {
-                                "url": "/anime/kingdm-season-5-sub-indo/",
-                                "title": "Kingdom Season 5",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/Kingdom-Season-5-Subtitle-Indonesia.jpg"
-                            },
-                            {
-                                "url": "/anime/kusuriya-hitorigoto-sub-indo/",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2023/10/Kusuriya-no-Hitorigoto-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/saikyou-tank-meikyuu-kouryaku-sub-indo/",
-                                "title": "Saikyou Tank no Meikyuu Kouryaku",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/01/Saikyou-Tank-no-Meikyuu-Kouryaku.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -389,8 +389,41 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr3---sn-npoe7nsd.googlevideo.com/videoplayback?expire=1709801089&ei=AQ7pZeDcPNyRsfIP_IK0IA&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=9d415e646a9701a6&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=g2&mm=31&mn=sn-npoe7nsd&ms=au&mv=m&mvi=3&pl=32&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1420.294&lmt=1709696107747241&mt=1709771808&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgcjw3jLaAbMIAaoePvM36IKR9PlmfqgAJ1k1oQjeuIzgCIQCdHCvmBand0mjdCl_Qy4bMdD26x03pn4qRZjzasGTVhw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIhANviDTDPv6RcloEs1IHB9iw-uP8KBGrV_rsS5POi8POgAiAehcc3Uj9e9f4k6n474A8Q9prgdJt7b-vxKZhWm8_ZaA%3D%3D",
+                        "quality": "DesuStream - 480p",
+                        "videoUrl": "https://rr3---sn-npoe7nsd.googlevideo.com/videoplayback?expire=1709801089&ei=AQ7pZeDcPNyRsfIP_IK0IA&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=9d415e646a9701a6&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=g2&mm=31&mn=sn-npoe7nsd&ms=au&mv=m&mvi=3&pl=32&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1420.294&lmt=1709696107747241&mt=1709771808&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgcjw3jLaAbMIAaoePvM36IKR9PlmfqgAJ1k1oQjeuIzgCIQCdHCvmBand0mjdCl_Qy4bMdD26x03pn4qRZjzasGTVhw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIhANviDTDPv6RcloEs1IHB9iw-uP8KBGrV_rsS5POi8POgAiAehcc3Uj9e9f4k6n474A8Q9prgdJt7b-vxKZhWm8_ZaA%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/knmwtd8923jnsgdferfghuj/knmwtd8923jnsgdferfghuj-12.mp4",
+                        "quality": "DesuStream - 480p",
+                        "videoUrl": "https://archive.org/download/knmwtd8923jnsgdferfghuj/knmwtd8923jnsgdferfghuj-12.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://rr3---sn-npoe7ne6.googlevideo.com/videoplayback?expire=1709801088&ei=AA7pZYCFF_2sn88PyaGG6AY&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=83309f1a189d2f12&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=9G&mm=31&mn=sn-npoe7ne6&ms=au&mv=m&mvi=3&pl=32&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1420.294&lmt=1709706110077837&mt=1709771808&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgB-ehg1K_Gq1D1CGEGkA5YcGB-3feZje3aSsGbmgYskACIEY8kx5_0XmS9yvPvzRb02vdJ2S1kkcAoTZNlG5VKeji&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIgEjNRRb9eIdrsm3QPOFxDHuviEKMmE0dc7Yrv3ZUwRmACIQDf7RmIq8zJAKRVx4uSS4gyENNuYDYw1pxWR_KMMTEydw%3D%3D",
+                        "quality": "DesuStream - 720p",
+                        "videoUrl": "https://rr3---sn-npoe7ne6.googlevideo.com/videoplayback?expire=1709801088&ei=AA7pZYCFF_2sn88PyaGG6AY&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=83309f1a189d2f12&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=9G&mm=31&mn=sn-npoe7ne6&ms=au&mv=m&mvi=3&pl=32&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1420.294&lmt=1709706110077837&mt=1709771808&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgB-ehg1K_Gq1D1CGEGkA5YcGB-3feZje3aSsGbmgYskACIEY8kx5_0XmS9yvPvzRb02vdJ2S1kkcAoTZNlG5VKeji&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIgEjNRRb9eIdrsm3QPOFxDHuviEKMmE0dc7Yrv3ZUwRmACIQDf7RmIq8zJAKRVx4uSS4gyENNuYDYw1pxWR_KMMTEydw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/knmwtd8923jnsgdferfghuj/knmwtd8923jnsgdferfghuj-hd-12.mp4",
+                        "quality": "DesuStream - 720p",
+                        "videoUrl": "https://archive.org/download/knmwtd8923jnsgdferfghuj/knmwtd8923jnsgdferfghuj-hd-12.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

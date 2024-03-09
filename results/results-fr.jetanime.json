@@ -358,15 +358,15 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
-            },
-            "episodes": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
+            "episodes": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             }
         }

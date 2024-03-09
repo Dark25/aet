@@ -287,8 +287,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv14.dropload.io/hls2/01/00146/j04wogkre8l8_h/index-v1-a1.m3u8?t=jKXvQLH6_S59hRxzbxPNcrj7480rz_0MA2ShiBlnzFI&s=1710008049&e=21600&f=731308&srv=srv13&i=13.91&sp=0&p1=srv13&p2=srv13",
+                        "quality": "Dropload:808p ",
+                        "videoUrl": "https://srv14.dropload.io/hls2/01/00146/j04wogkre8l8_h/index-v1-a1.m3u8?t=jKXvQLH6_S59hRxzbxPNcrj7480rz_0MA2ShiBlnzFI&s=1710008049&e=21600&f=731308&srv=srv13&i=13.91&sp=0&p1=srv13&p2=srv13",
+                        "headers": {
+                            "origin": "https://dropload.io",
+                            "referer": "https://dropload.io/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery44.mxcontent.net/v/bed3523637765352693d01c82566c2e7.mp4?s=AXfM4Db8mxj1bGZ52D2mjQ&e=1710029651&_t=1710009177",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery44.mxcontent.net/v/bed3523637765352693d01c82566c2e7.mp4?s=AXfM4Db8mxj1bGZ52D2mjQ&e=1710029651&_t=1710009177",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Jv7zlPkG28fjBRL&expires=1710078052&ip=F0AsF0WnDS9X&token=6SS1QHsZIdfF",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Jv7zlPkG28fjBRL&expires=1710078052&ip=F0AsF0WnDS9X&token=6SS1QHsZIdfF"
+                    }
+                ],
+                "passed": true
             }
         }
     }

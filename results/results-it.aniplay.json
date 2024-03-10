@@ -241,7 +241,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":61451,\"subbed\":\"Dub\",.....",
                 "passed": false
             },
             "videos": {

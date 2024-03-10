@@ -67,6 +67,12 @@
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/608889f1cd08f/kimetsu-no-yaiba-mugen-ressha-hen.jpg"
                             },
                             {
+                                "url": "/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen",
+                                "title": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+                                "description": "Segunda temporada del tío puñetazo versión Harry Potter sin magia",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/655397e17ea62/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.jpg"
+                            },
+                            {
                                 "url": "/toaru-kagaku-no-railgun-t",
                                 "title": "Toaru Kagaku no Railgun T",
                                 "description": "Mikoto Misaka y sus amigos se preparan para el Festival Daihasei, una competencia atlética de siete días entre las escuelas esper. Ciudad Academia se abre al público para el evento, pero con el bullicio de toda la ciudad, nadie se da cuenta cuando surgen problemas detrás de escena.",
@@ -149,12 +155,6 @@
                                 "title": "Fate/Apocrypha",
                                 "description": "Fate/Apocrypha tiene lugar en un mundo paralelo a Fate/stay night, más concretamente en Rumanía; donde el Santo Grial fue alejado de la ciudad de Fuyuki tras la Tercera Guerra. Una serie de sucesos marcarán el comienzo de una nueva Guerra Santa por el Grial en Trifas. En esta guerra se enfrentarán dos bandos: la Facción Negra, con 7 miembros de Yggdramillennia, y la Facción Roja, con 7 miembros de la Asociación de Magos, y será supervisada por un miembro de la Iglesia que no servirá a ningún bando.",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/5ee00f2eca126/fate-apocrypha.jpg"
-                            },
-                            {
-                                "url": "/tantei-wa-mou-shindeiru",
-                                "title": "Tantei wa Mou, Shindeiru.",
-                                "description": "Cuando la historia comienza sin su héroe Kimihiko Kimizuka siempre ha sido un imán para los problemas y las intrigas. Desde que tiene memoria, ha estado tropezando con escenas de asesinatos o recibiendo misteriosos maletines para transportar. Cuando conoció a Siesta, una brillante detective que libraba una guerra secreta contra una organización de pseudohumanos, no pudo resistir la llamada para convertirse en su asistente y unirse a ella en un viaje épico por el mundo. … Hasta hace un año, eso es. Ahora ha vuelto a una vida normal y tibia en comparación, sabiendo que la aventura debe haber terminado. Después de todo, el detective ya está muerto.",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/60d7e2a2e50ff/tantei-wa-mou-shindeiru.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -482,12 +482,43 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/exF6guPH6RQNZsMIrXFGWJ8Ol6fiJse8lgBdDmRJPgseJxFPc",
+                        "quality": "AmazonES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/exF6guPH6RQNZsMIrXFGWJ8Ol6fiJse8lgBdDmRJPgseJxFPc"
+                    },
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/PofZn2ReO6JCYHE4QUbEsXa3ypGxTX5kpfWYmhn2TukeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/PofZn2ReO6JCYHE4QUbEsXa3ypGxTX5kpfWYmhn2TukeJxFPc"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240310TSpvaid368E/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240310TSpvaid368E/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

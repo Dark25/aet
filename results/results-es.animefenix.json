@@ -482,12 +482,43 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/UJOHJe-wIJdywsWcO2hIGAFeiQ8m6mJlX-a--BntK24eJxFPc",
+                        "quality": "AmazonES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/UJOHJe-wIJdywsWcO2hIGAFeiQ8m6mJlX-a--BntK24eJxFPc"
+                    },
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/BcL0jjcF85nleRKLoUjSKxxNY_72yUye74yDJkv6Sq4eJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/BcL0jjcF85nleRKLoUjSKxxNY_72yUye74yDJkv6Sq4eJxFPc"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240312D4jkI3in3Pw/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240312D4jkI3in3Pw/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -247,8 +247,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://govbw.vid109d224.site/_v2-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd531c714a75d4aaf5a449df7ec3b117a1465649123140c6fd092c0a34b93f42b9e7b11f31c062ba10eabbb/h/f4/eaabeced;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "quality": "Vidplay - 1080p",
+                        "videoUrl": "https://govbw.vid109d224.site/_v2-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd531c714a75d4aaf5a449df7ec3b117a1465649123140c6fd092c0a34b93f42b9e7b11f31c062ba10eabbb/h/f4/eaabeced;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://govbw.vid109d224.site/_v2-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd531c714a75d4aaf5a449df7ec3b117a1465649123140c6fd092c0a34b93f42b9e7b11f31c062ba10eabbb/h/f3/eaabeced;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "quality": "Vidplay - 720p",
+                        "videoUrl": "https://govbw.vid109d224.site/_v2-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd531c714a75d4aaf5a449df7ec3b117a1465649123140c6fd092c0a34b93f42b9e7b11f31c062ba10eabbb/h/f3/eaabeced;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://govbw.vid109d224.site/_v2-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd531c714a75d4aaf5a449df7ec3b117a1465649123140c6fd092c0a34b93f42b9e7b11f31c062ba10eabbb/h/f1/eaabeced;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "quality": "Vidplay - 360p",
+                        "videoUrl": "https://govbw.vid109d224.site/_v2-mwmk/12a3c523fa105800ed8c394685aeeb0b922efe5c58b0bbb1081b7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd531c714a75d4aaf5a449df7ec3b117a1465649123140c6fd092c0a34b93f42b9e7b11f31c062ba10eabbb/h/f1/eaabeced;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

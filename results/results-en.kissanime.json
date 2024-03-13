@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/THE-FIRST-SLAM-DUNK/",
+                                "title": "THE FIRST SLAM DUNK",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/03/THE-FIRST-SLAM-DUNK.jpg"
+                            },
+                            {
+                                "url": "/Anime/ragna-crimson-dub.78038/",
+                                "title": "Ragna Crimson (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Ragna-Crimson-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Odekake-Kozame/",
+                                "title": "A Little Shark Going Out",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
+                            },
+                            {
+                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
+                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
+                            },
+                            {
+                                "url": "/Anime/Villainess-Level-99-I-May-Be-the-Hidden-Boss-but-I-m-Not-the-Demon-Lord/",
+                                "title": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Villainess-Level-99-I-May-Be-the-Hidden-Boss-but-I-m-Not-the-Demon-Lord.jpg"
+                            },
+                            {
                                 "url": "/Anime/Sasaki-and-Peeps-Dub/",
                                 "title": "Sasaki and Peeps (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sasaki-and-Peeps-Dub.jpg"
@@ -490,31 +515,6 @@
                                 "url": "/Anime/The-Strongest-Tank-s-Labyrinth-Raids/",
                                 "title": "The Strongest Tank's Labyrinth Raids",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Strongest-Tank-s-Labyrinth-Raids.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Dangers-in-My-Heart-Season-2.51513/",
-                                "title": "The Dangers in My Heart Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Dangers-in-My-Heart-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Ao-no-Exorcist-Shimane-Illuminati-hen/",
-                                "title": "Blue Exorcist -Shimane Illuminati Saga-",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Ao-no-Exorcist-Shimane-Illuminati-hen.jpg"
-                            },
-                            {
-                                "url": "/Anime/MASHLE-Kami-Shinkakusha-Kouho-Senbatsu-Shiken-hen/",
-                                "title": "MASHLE: MAGIC AND MUSCLES Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/MASHLE-MAGIC-AND-MUSCLES-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/BUCCHIGIRI-/",
-                                "title": "BUCCHIGIRI?!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/BUCCHIGIRI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }

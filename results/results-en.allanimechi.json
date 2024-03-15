@@ -52,14 +52,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146493-bThyDJ4ZmbfV.jpg"
                             },
                             {
-                                "url": "h4PMucgQwndzYNNxS",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-7I8Cip7XRDhV.jpg"
-                            },
-                            {
                                 "url": "stxNT7nPseF7qjKPY",
                                 "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg"
+                            },
+                            {
+                                "url": "h4PMucgQwndzYNNxS",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-7I8Cip7XRDhV.jpg"
                             },
                             {
                                 "url": "vDTSJHSpYnrkZnAvG",
@@ -198,8 +198,155 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/1efcddcd5a46e86b0931e34dd70f0795/assets/6077573a6b5a82b6c6c195db25769c73_,5452094.mp4,5452098.mp4,5452090.mp4,5452082.mp4,5452086.mp4,379099.txt,.urlset/master.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy8xZWZjZGRjZDVhNDZlODZiMDkzMWUzNGRkNzBmMDc5NS9hc3NldHMvNjA3NzU3M2E2YjVhODJiNmM2YzE5NWRiMjU3NjljNzNfLDU0NTIwOTQubXA0LDU0NTIwOTgubXA0LDU0NTIwOTAubXA0LDU0NTIwODIubXA0LDU0NTIwODYubXA0LDM3OTA5OS50eHQsLnVybHNldC9tYXN0ZXIubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMDY3NzkxMn19fV19&Signature=gVvIy0qgvwztdO0GvqrnDaAKBM0Sd0Qe4jc6okoZXYMRxUDdzvZ3Pv4F9xvPRo1kSSz4j3FfHtqa7OlvKlCsBe4vzHrFWKsxXRqyZZX1eiNch0-AjuokYctsEBAQo4lkBsUVswtzVFUBR1OHs9L6zlefxJVVfnmljIwEkCbuKNrBNbkLzB-dCoH6ax28RGiGXzK48i1gxgLJ6eLRAkBBZvBb90NctqelUXnjPvNdcb5jSTtxKWOytnd91eszXmc0T-V6Cb-2tKWOIWuuQ18xYla1-o0U37pV-3iDpM4~uNc3nbLQjFlWpxqltFoOtQAv2RN5ytPvtEmZGwHqZwQoFQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Alt SoftSub - Alt m_SUB - Video",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/1efcddcd5a46e86b0931e34dd70f0795/assets/6077573a6b5a82b6c6c195db25769c73_,5452094.mp4,5452098.mp4,5452090.mp4,5452082.mp4,5452086.mp4,379099.txt,.urlset/master.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy8xZWZjZGRjZDVhNDZlODZiMDkzMWUzNGRkNzBmMDc5NS9hc3NldHMvNjA3NzU3M2E2YjVhODJiNmM2YzE5NWRiMjU3NjljNzNfLDU0NTIwOTQubXA0LDU0NTIwOTgubXA0LDU0NTIwOTAubXA0LDU0NTIwODIubXA0LDU0NTIwODYubXA0LDM3OTA5OS50eHQsLnVybHNldC9tYXN0ZXIubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMDY3NzkxMn19fV19&Signature=gVvIy0qgvwztdO0GvqrnDaAKBM0Sd0Qe4jc6okoZXYMRxUDdzvZ3Pv4F9xvPRo1kSSz4j3FfHtqa7OlvKlCsBe4vzHrFWKsxXRqyZZX1eiNch0-AjuokYctsEBAQo4lkBsUVswtzVFUBR1OHs9L6zlefxJVVfnmljIwEkCbuKNrBNbkLzB-dCoH6ax28RGiGXzK48i1gxgLJ6eLRAkBBZvBb90NctqelUXnjPvNdcb5jSTtxKWOytnd91eszXmc0T-V6Cb-2tKWOIWuuQ18xYla1-o0U37pV-3iDpM4~uNc3nbLQjFlWpxqltFoOtQAv2RN5ytPvtEmZGwHqZwQoFQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ3A.230705.001.B4)",
+                            "host": "pl.crunchyroll.com"
+                        }
+                    },
+                    {
+                        "url": "https://pl.crunchyroll.com/evs3/1efcddcd5a46e86b0931e34dd70f0795/assets/6077573a6b5a82b6c6c195db25769c73_,5452094.mp4,5452098.mp4,5452090.mp4,5452082.mp4,5452086.mp4,.urlset/master.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy8xZWZjZGRjZDVhNDZlODZiMDkzMWUzNGRkNzBmMDc5NS9hc3NldHMvNjA3NzU3M2E2YjVhODJiNmM2YzE5NWRiMjU3NjljNzNfLDU0NTIwOTQubXA0LDU0NTIwOTgubXA0LDU0NTIwOTAubXA0LDU0NTIwODIubXA0LDU0NTIwODYubXA0LC51cmxzZXQvbWFzdGVyLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTA2Nzc5MTJ9fX1dfQ__&Signature=nc3Qemz4NuolGxoIkh4-7-izaYzP-1qwdfMGTAEdRaVTIXTEyC7h7TAgrQdBA22qzL84NxuL9OVm0gVc5G86yGzkEgwfsKOYmUGTJITmi1dnBL3f6Cw6DYMD2VeK~ke17UczgiJk8BGOQtSbDhhrfjTYRWruZ0kJteV-rYnRrd4Pu1KyJdBrpY4TkKxa9vkpJ6QAVj-SEIEs48m67ZNXfSvzbIvy3M9acv37swH~fy55vGORAk5BmZUzhd6yjz5sGlcWh3VMs9HQA-AO4aD7cAk2-6N-dSaV39fyKcueE4fe7LlfGwkx5iV5SWKtFIcpORqDKqUd4BUCRqLGxEt9oQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "quality": "Crunchyroll - Sub - SUB - Video",
+                        "videoUrl": "https://pl.crunchyroll.com/evs3/1efcddcd5a46e86b0931e34dd70f0795/assets/6077573a6b5a82b6c6c195db25769c73_,5452094.mp4,5452098.mp4,5452090.mp4,5452082.mp4,5452086.mp4,.urlset/master.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9wbC5jcnVuY2h5cm9sbC5jb20vZXZzMy8xZWZjZGRjZDVhNDZlODZiMDkzMWUzNGRkNzBmMDc5NS9hc3NldHMvNjA3NzU3M2E2YjVhODJiNmM2YzE5NWRiMjU3NjljNzNfLDU0NTIwOTQubXA0LDU0NTIwOTgubXA0LDU0NTIwOTAubXA0LDU0NTIwODIubXA0LDU0NTIwODYubXA0LC51cmxzZXQvbWFzdGVyLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTA2Nzc5MTJ9fX1dfQ__&Signature=nc3Qemz4NuolGxoIkh4-7-izaYzP-1qwdfMGTAEdRaVTIXTEyC7h7TAgrQdBA22qzL84NxuL9OVm0gVc5G86yGzkEgwfsKOYmUGTJITmi1dnBL3f6Cw6DYMD2VeK~ke17UczgiJk8BGOQtSbDhhrfjTYRWruZ0kJteV-rYnRrd4Pu1KyJdBrpY4TkKxa9vkpJ6QAVj-SEIEs48m67ZNXfSvzbIvy3M9acv37swH~fy55vGORAk5BmZUzhd6yjz5sGlcWh3VMs9HQA-AO4aD7cAk2-6N-dSaV39fyKcueE4fe7LlfGwkx5iV5SWKtFIcpORqDKqUd4BUCRqLGxEt9oQ__&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA",
+                        "headers": {
+                            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ3A.230705.001.B4)",
+                            "host": "pl.crunchyroll.com"
+                        }
+                    },
+                    {
+                        "url": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.1080.m3u8",
+                        "quality": "Luf-mp4 - hls P - 1080p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www110.anicdnstream.info/videos/hls/jkSVUZ58H-WqvR5NkZo5zw/1710519513/221301/0b594d900f47daabc194844092384914/ep.1096.1709436461.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.720.m3u8",
+                        "quality": "Luf-mp4 - hls P - 720p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.480.m3u8",
+                        "quality": "Luf-mp4 - hls P - 480p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.360.m3u8",
+                        "quality": "Luf-mp4 - hls P - 360p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIxMzAx&title=One+Piece+Episode+1096&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIxMzAx&title=One+Piece+Episode+1096&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIxMzAx&title=One+Piece+Episode+1096&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www110.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1096.1709436461.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIxMzAx&title=One+Piece+Episode+1096&typesub=SUB"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

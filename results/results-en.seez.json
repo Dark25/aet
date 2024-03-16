@@ -7,24 +7,19 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"id\":763215,\"media_type\":\"movie\"}",
+                                "title": "Damsel",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//sMp34cNKjIb18UBOCoAv4DpCxwY.jpg"
+                            },
+                            {
                                 "url": "{\"id\":1011985,\"media_type\":\"movie\"}",
                                 "title": "Kung Fu Panda 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
                             },
                             {
-                                "url": "{\"id\":792307,\"media_type\":\"movie\"}",
-                                "title": "Poor Things",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
-                            },
-                            {
                                 "url": "{\"id\":848538,\"media_type\":\"movie\"}",
                                 "title": "Argylle",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//95VlSEfLMqeX36UVcHJuNlWEpwf.jpg"
-                            },
-                            {
-                                "url": "{\"id\":763215,\"media_type\":\"movie\"}",
-                                "title": "Damsel",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//sMp34cNKjIb18UBOCoAv4DpCxwY.jpg"
                             },
                             {
                                 "url": "{\"id\":1046090,\"media_type\":\"movie\"}",
@@ -35,6 +30,11 @@
                                 "url": "{\"id\":1096197,\"media_type\":\"movie\"}",
                                 "title": "No Way Up",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg"
+                            },
+                            {
+                                "url": "{\"id\":792307,\"media_type\":\"movie\"}",
+                                "title": "Poor Things",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
                             },
                             {
                                 "url": "{\"id\":693134,\"media_type\":\"movie\"}",
@@ -225,10 +225,10 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":1011985,\"media_type\":\"movie\"}",
-                    "author": "DreamWorks Animation, Universal Pictures, Pearl Studio",
-                    "description": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.\n\nRelease date: 2024-03-02\nLanguages: English (English)\n",
-                    "genre": "Action, Adventure, Animation, Comedy, Family",
+                    "url": "{\"id\":763215,\"media_type\":\"movie\"}",
+                    "author": "PCMA Productions, Roth-Kirschenbaum Films",
+                    "description": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.\n\nRelease date: 2024-03-08\nLanguages: Spanish (Español)\n",
+                    "genre": "Fantasy, Adventure, Action",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -238,9 +238,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/1011985",
+                        "url": "/movie/763215",
                         "name": "Movie",
-                        "date_upload": 1709337600000,
+                        "date_upload": 1709856000000,
                         "episode_number": 1.0
                     }
                 ],
@@ -249,9 +249,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://pnagb.vid109d224.site/_v2-oalz/12a3c523fa105800ed8c394685aeeb0b962efd5c02bde4b5481f7baea93ece832257df1a4b6125fcfa38c35ca74ffc8ffad09459db2991fed7eafd3f5770f0d0749544f85b4eef0d1586a3b967177d1265669123140c6dc693d1a34b93f42b9a2d10f21c5b2ba10eabbb/h/facbd1/dbeef;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "url": "https://gamn.vid109d224.site/_v2-zvbd/12a3c523fb105800ed8c394685aeeb0b922eaa5c5bb0bbec484c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53d5476f6d6749544f8590db85f4dc1f0ef7c422a4a7a76d5760f476bc3ce9cec09cca978863b48e31c/h/edbedb4/abb;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "quality": "Vidplay - 1080p",
+                        "videoUrl": "https://gamn.vid109d224.site/_v2-zvbd/12a3c523fb105800ed8c394685aeeb0b922eaa5c5bb0bbec484c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53d5476f6d6749544f8590db85f4dc1f0ef7c422a4a7a76d5760f476bc3ce9cec09cca978863b48e31c/h/edbedb4/abb;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://gamn.vid109d224.site/_v2-zvbd/12a3c523fb105800ed8c394685aeeb0b922eaa5c5bb0bbec484c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53d5476f6d6749544f8590db85f4dc1f0ef7c422a4a7a76d5760f476bc3ce9cec09cca978863b48e31c/h/edbedb3/abb;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "quality": "Vidplay - 720p",
+                        "videoUrl": "https://gamn.vid109d224.site/_v2-zvbd/12a3c523fb105800ed8c394685aeeb0b922eaa5c5bb0bbec484c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53d5476f6d6749544f8590db85f4dc1f0ef7c422a4a7a76d5760f476bc3ce9cec09cca978863b48e31c/h/edbedb3/abb;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://gamn.vid109d224.site/_v2-zvbd/12a3c523fb105800ed8c394685aeeb0b922eaa5c5bb0bbec484c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53d5476f6d6749544f8590db85f4dc1f0ef7c422a4a7a76d5760f476bc3ce9cec09cca978863b48e31c/h/edbedb1/abb;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
                         "quality": "Vidplay - 360p",
-                        "videoUrl": "https://pnagb.vid109d224.site/_v2-oalz/12a3c523fa105800ed8c394685aeeb0b962efd5c02bde4b5481f7baea93ece832257df1a4b6125fcfa38c35ca74ffc8ffad09459db2991fed7eafd3f5770f0d0749544f85b4eef0d1586a3b967177d1265669123140c6dc693d1a34b93f42b9a2d10f21c5b2ba10eabbb/h/facbd1/dbeef;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
+                        "videoUrl": "https://gamn.vid109d224.site/_v2-zvbd/12a3c523fb105800ed8c394685aeeb0b922eaa5c5bb0bbec484c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53d5476f6d6749544f8590db85f4dc1f0ef7c422a4a7a76d5760f476bc3ce9cec09cca978863b48e31c/h/edbedb1/abb;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

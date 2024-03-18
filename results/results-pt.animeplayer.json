@@ -3,27 +3,327 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/modaete-yo-adam-kun-com-sem-censura/",
+                                "title": "Modaete yo, Adam-kun Com/Sem Censura)",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/12/o-anime-para-adultos-modaete-yo-adam-kun-ganha-1-trailer-2.webp?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/my-mother-the-animation/",
+                                "title": "My Mother The Animation",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/05/my-mother-211x300-1.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/goblin-no-suana/",
+                                "title": "Goblin no Suana",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/06/Goblin-no-Suana-185x278-1.png?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/07/422873.webp?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD.jpg?fit=185%2C278&ssl=1"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/kyuujitsu-no-warumono-san-episodio-11/",
+                                "title": "Kyuujitsu no Warumono-san Episódio 11",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/11-30.png?fit=300%2C149&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-8-5/",
+                                "title": "The Midnight Gospel Episódio 8.5",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/5-10.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-8/",
+                                "title": "The Midnight Gospel Episódio 8",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/jJPQMWW03JznlxKNb84se0u33Dc.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-7/",
+                                "title": "The Midnight Gospel Episódio 7",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/d5VrUVb6lEP039R03rvDt6gpWkG.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-6/",
+                                "title": "The Midnight Gospel Episódio 6",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/ytN7rc9mKTjecEimJgEyBPCdUD5.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-5/",
+                                "title": "The Midnight Gospel Episódio 5",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/7oBlvP2nqz013KPtknWcTnwTTgL.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-4/",
+                                "title": "Episódio 4 The Midnight Gospel",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/dwIfacLu9anq0tJtdMayQk5HBDd.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-3/",
+                                "title": "The Midnight Gospel Episódio 3",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/dqttfVslBS78bvyMoNSgnsABKvw.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-2/",
+                                "title": "The Midnight Gospel Episódio 2",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/opKXdHX5ipTrVJ6l0jAuVYE98pA.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/the-midnight-gospel-episodio-1/",
+                                "title": "The Midnight Gospel Episódio 1",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/90wDMfxHNSWtVlG8Z4uwU3Dy4cm.jpg?fit=300%2C170&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-16/",
+                                "title": "BoJack Horseman 6 Episódio 16",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/16.png?fit=300%2C152&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-15/",
+                                "title": "BoJack Horseman 6 Episódio 15",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/15.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-14/",
+                                "title": "BoJack Horseman 6 Episódio 14",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/14.png?fit=300%2C152&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-13/",
+                                "title": "BoJack Horseman 6 Episódio 13",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/13.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-12/",
+                                "title": "BoJack Horseman 6 Episódio 12",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/12-6.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-11/",
+                                "title": "BoJack Horseman 6 Episódio 11",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/11-29.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-10/",
+                                "title": "BoJack Horseman 6 Episódio 10",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/10-45.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-9/",
+                                "title": "BoJack Horseman 6 Episódio 9",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-47.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-8/",
+                                "title": "BoJack Horseman 6 Episódio 8",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/8-18.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-7/",
+                                "title": "BoJack Horseman 6 Episódio 7",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/7-13.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-6/",
+                                "title": "BoJack Horseman 6 Episódio 6",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/6-11.png?fit=300%2C149&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-5/",
+                                "title": "BoJack Horseman 6 Episódio 5",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/5-9.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-4/",
+                                "title": "BoJack Horseman 6 Episódio 4",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/4-8.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-3/",
+                                "title": "BoJack Horseman 6 Episódio 3",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/3-6.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-2/",
+                                "title": "BoJack Horseman 6 Episódio 2",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/2-13.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-6-episodio-1/",
+                                "title": "BoJack Horseman 6 Episódio 1",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/1-14.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-5-episodio-12/",
+                                "title": "BoJack Horseman 5 Episódio 12",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/12-5.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-5-episodio-11/",
+                                "title": "BoJack Horseman 5 Episódio 11",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/11-28.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-5-episodio-10/",
+                                "title": "BoJack Horseman 5 Episódio 10",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/10-44.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/bojack-horseman-5-episodio-9/",
+                                "title": "BoJack Horseman 5 Episódio 9",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-46.png?fit=300%2C151&ssl=1"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/10/xoRwMPvORrZKqAvWKA0wm7vR250.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/world-conquest-zvezda-plot/",
+                                "title": "World Conquest Zvezda Plot",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/04/q0VlnKNxqNOgIhzxXDgzpnpftyS.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
+                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/makai-senki-disgaea/",
+                                "title": "Makai Senki Disgaea",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/07/bQgbjA328PuWQP1epb75sQEkMnU.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/hack-liminality/",
+                                "title": ".hack//Liminality",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/07/hGidbV6INqbGoQ5lxGjBmnOj4r0.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/sushi-police/",
+                                "title": "Sushi Police",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/06/vSYyiifMe9k0wP2vnf0WT2O4oNE.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban/",
+                                "title": "Re Zero Kara Hajimeru Isekai Seikatsu – Shin Henshuu-ban",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/01/kFUsNsNeW5YyCosmvvSqtqFcWVY.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2022/04/oz3xb8ZpPC9SEKneBrJVK3ZinG6-185x278-1.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/zombieland-saga/",
+                                "title": "Zombieland Saga",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/04/e4rzeUloRTHGovb46Zobk3TimhL.jpg?resize=150%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/animes/lance-n-masques/",
+                                "title": "Lance N Masques",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2020/10/AghKnbLP54oxREa33OlOkHO3CN3.jpg?resize=150%2C150&ssl=1"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/animes/modaete-yo-adam-kun-com-sem-censura/",
+                    "title": "Modaete yo, Adam-kun Com/Sem Censura)",
+                    "description": "Modaete yo, Adam-kun, Em um mundo onde uma pandemia fez com que todos os homens desenvolvessem disfunção erétil, o estudante do ensino médio Kazuki é o único que não foi afetado. Se ele for descoberto, passará o resto de seus dias como um rato de laboratório… Para manter seu segredo, ele é transferido de escola – mas acaba se deparando com uma escola harém cheia de mulheres! Seja uma colega gentil e amigável, uma professora frustrada, a “princesa” da escola ou a filha de um magnata financeiro, Kazuki pode tornar qualquer garota sua mulher. Quem ele escolherá?\n\nTítulo original: Modaete yo, Adam-kun\nTemporadas: 1\nEpisódios: 5",
+                    "genre": "",
+                    "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/12/o-anime-para-adultos-modaete-yo-adam-kun-ganha-1-trailer-2.webp?fit=185%2C278&ssl=1",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

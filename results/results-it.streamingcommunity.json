@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8101-young-royals-forever",
+                                "title": "Young Royals Forever",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/221edf2c-9c03-4c5e-bf97-d72b3fedfe56.webp"
+                            },
+                            {
                                 "url": "8080-mano-de-hierro",
                                 "title": "Mano de hierro",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/80588a21-59e6-4b1f-ab1d-b5a57c0b4b64.webp"
@@ -300,11 +305,6 @@
                                 "url": "7683-argylle-la-super-spia",
                                 "title": "Argylle - La super spia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/81b8dac1-7afb-460a-86f8-b94f29f77ca9.webp"
-                            },
-                            {
-                                "url": "7640-baby-bandito",
-                                "title": "Baby Bandito",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/5fde1ba7-7cd9-44f6-b139-9a3ceb145a3a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8080-mano-de-hierro",
-                    "description": "Joaquín Manchado governa con il pugno di ferro il suo impero della droga dal porto di Barcellona, fino a quando un nuovo carico manda in tilt gli affari e la famiglia.",
-                    "genre": "Dramma, Crime",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "8101-young-royals-forever",
+                    "description": "Dal casting alla scena finale, questo speciale mostra come il cast e la troupe di \"Young Royals\" hanno dato vita alla commovente storia di Wilhelm e Simon.",
+                    "genre": "Documentario",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,14 +946,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8080?e=57731",
-                        "name": "Stagione 1 episodio 8 - Una questione di sangue",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "8080?e=57730",
-                        "name": "Stagione 1 episodio 7 - Il bivio",
-                        "episode_number": 7.0
+                        "url": "8101",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

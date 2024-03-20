@@ -1761,8 +1761,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=HuUV_ZixKXHIxquDWNPfFA&e=1710917709&_t=1710899768",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=HuUV_ZixKXHIxquDWNPfFA&e=1710917709&_t=1710899768",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=C5-N8JWaQ3bNQkMtHgch0A&e=1710917708&_t=1710902352",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=C5-N8JWaQ3bNQkMtHgch0A&e=1710917708&_t=1710902352",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

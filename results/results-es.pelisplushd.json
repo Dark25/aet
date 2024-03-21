@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/palm-royale",
+                                "title": "Palm Royale (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qLrzOjQulkKjdhOcaRL9sspXcaB.jpg"
+                            },
+                            {
                                 "url": "/serie/x-men-97",
                                 "title": "X-Men '97 (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wqgPI5M1WGUF2PcNzL7Ymye8llV.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/reina-roja",
                                 "title": "Reina roja (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg"
-                            },
-                            {
-                                "url": "/serie/shogun",
-                                "title": "Shōgun (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/x-men-97",
-                    "title": "X-Men '97 (2024)",
-                    "description": "Un grupo de mutantes utiliza sus asombrosos dones para proteger a un mundo que los odia y los teme..",
-                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/palm-royale",
+                    "title": "Palm Royale (2024)",
+                    "description": "En 1969, una ambiciosa mujer intenta cruzar esa línea que separa a ricos y pobres para asegurarse un sitio en el círculo más exclusivo, elegante y traicionero de Estados Unidos: la alta sociedad de Palm Beach..",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wqgPI5M1WGUF2PcNzL7Ymye8llV.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qLrzOjQulkKjdhOcaRL9sspXcaB.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/x-men-97/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/palm-royale/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/serie/x-men-97/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/palm-royale/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -596,6 +596,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/creation-of-the-gods-i-kingdom-of-storms/",
+                                "title": "Creation of the Gods I: Kingdom of Storms",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/creation-of-the-gods-i-kingdom-of-storms.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-short-story/",
+                                "title": "A Short Story",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-short-story.jpg"
+                            },
+                            {
+                                "url": "/pelicula/amenaza-en-la-red/",
+                                "title": "Hacker: Amenaza en la red",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/amenaza-en-la-red.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-lionheart/",
+                                "title": "The Lionheart",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-lionheart.jpg"
+                            },
+                            {
                                 "url": "/pelicula/fortunes-of-war/",
                                 "title": "Fortunes of War",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/fortunes-of-war.jpg"
@@ -674,26 +694,6 @@
                                 "url": "/pelicula/el-juego-del-miedo-vii/",
                                 "title": "El juego del miedo 7",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/el-juego-del-miedo-vii.jpg"
-                            },
-                            {
-                                "url": "/pelicula/piranas-3dd/",
-                                "title": "Pirañas 3DD",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/piranas-3dd.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-atrevido-don-juan/",
-                                "title": "Un Atrevido Don Juan",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/un-atrevido-don-juan.jpg"
-                            },
-                            {
-                                "url": "/pelicula/super-cool/",
-                                "title": "Super cool",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/super-cool.jpg"
-                            },
-                            {
-                                "url": "/pelicula/en-el-infierno/",
-                                "title": "En el infierno",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/en-el-infierno.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -863,8 +863,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/fortunes-of-war/",
-                    "title": "Fortunes of War",
+                    "url": "/pelicula/creation-of-the-gods-i-kingdom-of-storms/",
+                    "title": "Creation of the Gods I: Kingdom of Storms",
                     "artist": "",
                     "description": "",
                     "genre": "",
@@ -877,7 +877,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/fortunes-of-war/",
+                        "url": "/pelicula/creation-of-the-gods-i-kingdom-of-storms/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -887,20 +887,37 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ju928o2pa00e6.sw-cdnstreamwish.com/hls2/01/03351/iu1cjqjekxt0_n/index-v1-a1.m3u8?t=Vr3o13RHy4W8N1IA8k8XRyNOmYlTU3yRqj9O6Dq1F0Q&s=1710958742&e=129600&f=16759253&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://ju928o2pa00e6.sw-cdnstreamwish.com/hls2/01/03351/iu1cjqjekxt0_n/index-v1-a1.m3u8?t=Vr3o13RHy4W8N1IA8k8XRyNOmYlTU3yRqj9O6Dq1F0Q&s=1710958742&e=129600&f=16759253&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "url": "https://pnsszcuze5qh.sw-cdnstreamwish.com/hls2/01/03366/9nysevvzkaa1_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=D2HEG-AKhdb41JF8D3w_H44VqcxbCcG73n25tvRmDZI&s=1710982701&e=129600&f=16832094&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "quality": "[SUB] StreamWish:1036p",
+                        "videoUrl": "https://pnsszcuze5qh.sw-cdnstreamwish.com/hls2/01/03366/9nysevvzkaa1_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=D2HEG-AKhdb41JF8D3w_H44VqcxbCcG73n25tvRmDZI&s=1710982701&e=129600&f=16832094&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/iu1cjqjekxt0"
+                            "Referer": "https://wishembed.pro/e/9nysevvzkaa1"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ow7yxLVBPwCvoK&expires=1711028744&ip=F0qQKRWZD19XKxR&token=wHXzH5fmZc6V",
-                        "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ow7yxLVBPwCvoK&expires=1711028744&ip=F0qQKRWZD19XKxR&token=wHXzH5fmZc6V"
+                        "url": "https://pnsszcuze5qh.sw-cdnstreamwish.com/hls2/01/03366/9nysevvzkaa1_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=D2HEG-AKhdb41JF8D3w_H44VqcxbCcG73n25tvRmDZI&s=1710982701&e=129600&f=16832094&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://pnsszcuze5qh.sw-cdnstreamwish.com/hls2/01/03366/9nysevvzkaa1_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=D2HEG-AKhdb41JF8D3w_H44VqcxbCcG73n25tvRmDZI&s=1710982701&e=129600&f=16832094&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/9nysevvzkaa1"
+                        }
+                    },
+                    {
+                        "url": "https://pnsszcuze5qh.sw-cdnstreamwish.com/hls2/01/03366/9nysevvzkaa1_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=D2HEG-AKhdb41JF8D3w_H44VqcxbCcG73n25tvRmDZI&s=1710982701&e=129600&f=16832094&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://pnsszcuze5qh.sw-cdnstreamwish.com/hls2/01/03366/9nysevvzkaa1_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=D2HEG-AKhdb41JF8D3w_H44VqcxbCcG73n25tvRmDZI&s=1710982701&e=129600&f=16832094&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/9nysevvzkaa1"
+                        }
                     }
                 ],
                 "passed": true

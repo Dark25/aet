@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/x-men-97",
+                                "title": "X-Men '97",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-equalizer",
                                 "title": "Sem Misericórdia",
                                 "status": 1,
@@ -285,12 +291,6 @@
                                 "title": "Constelação",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22634.webp"
-                            },
-                            {
-                                "url": "/serie/online/x-men-97",
-                                "title": "X-Men '97",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
                             },
                             {
                                 "url": "/serie/online/xogum-a-gloriosa-saga-do-japao",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

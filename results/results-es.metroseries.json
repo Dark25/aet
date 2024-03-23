@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/such-brave-girls/",
+                                "title": "Such Brave Girls",
+                                "description": "Una comedia familiar desmelenada e irreverente que sigue la vida de dos hermanas, Josie y Billy, que viven con su madre soltera y transitan por la vida con poco juicio y cargadas de un peculiar sentido del humor sobre sus propias vidas y su salud mental. Sin saber muy bien cómo, acabarán relacionándose con personas […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7g60yren32dIyR0ZsMFPXWn3vGt.jpg"
+                            },
+                            {
+                                "url": "/bribones-en-el-corazon-de-la-aventura/",
+                                "title": "Bribones: En el corazón de la aventura",
+                                "description": "Un grupo de élite se adentra en los rincones más recónditos de la Tierra para investigar el pasado, las leyendas y las huellas. El programa aúna arqueología, historia y aventura. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwzYhOwczc3V4kYP5a0NcOjE6hm.jpg"
+                            },
+                            {
                                 "url": "/x-men-97/",
                                 "title": "X-Men '97",
                                 "description": "Un grupo de mutantes utiliza sus asombrosos dones para proteger a un mundo que los odia y los teme. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8fhhnC1bMdlXkVDiVfErgfZmSDz.jpg"
                             },
                             {
-                                "url": "/conspiraciones-de-ee-uu-los-asesinatos-del-pulpo/",
-                                "title": "Conspiraciones de EE. UU.: Los asesinatos del Pulpo",
-                                "description": "American Conspiracy: The Octopus Murders El periodista que investigaba la conspiración política conocida como el Pulpo apareció muerto en su habitación de hotel. Décadas después, sale a la luz nueva información. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lrcJuD9HPu5ZVcZaLk9cB0xufi5.jpg"
-                            },
-                            {
-                                "url": "/pecados-ajenos/",
-                                "title": "Pecados Ajenos",
-                                "description": "Natalia Ruiz es una mujer casada con Rogelio (Ariel Padilla), madre de Luis (Alfonso Espeleta) y Gloria (Sofía Stamatiades) y aunque ha dedicado su vida entera a su familia y adora a sus hijos, siente que es tiempo de tomar las riendas de su destino y ser feliz. Su relación con Rogelio va de mal […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6j1U1TC7hpsjI2T0uVIb8fo7Al.jpg"
-                            },
-                            {
-                                "url": "/superman-lois/",
-                                "title": "Superman y Lois",
+                                "url": "/grizzy-y-los-lemmings/",
+                                "title": "Grizzy y los lemmings",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4HnZ5ZaKiCg3fvlP0WZG6kjrfFD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/la-leyenda-de-los-tres-caballeros/",
-                                "title": "La Leyenda de los Tres Caballeros",
+                                "url": "/last-man-standing/",
+                                "title": "Last Man Standing",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/289sp4yd303R477Ji9MoWgVOFQD.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/01/bVpsfkRdW4XxgsuaiqcD3qKXZdW-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,146 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/x-men-97/",
-                    "title": "X-Men '97",
-                    "description": "Un grupo de mutantes utiliza sus asombrosos dones para proteger a un mundo que los odia y los teme.",
-                    "genre": "Action & Adventure, Animación, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+                    "url": "/such-brave-girls/",
+                    "title": "Such Brave Girls",
+                    "description": "Una comedia familiar desmelenada e irreverente que sigue la vida de dos hermanas, Josie y Billy, que viven con su madre soltera y transitan por la vida con poco juicio y cargadas de un peculiar sentido del humor sobre sus propias vidas y su salud mental. Sin saber muy bien cómo, acabarán relacionándose con personas que no son de fiar y que no se preocupan demasiado por ellas.",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7g60yren32dIyR0ZsMFPXWn3vGt.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/x-men-97-temporada-1-capitulo-2/",
-                        "name": "T01 - E02 - Comienza la liberación mutante",
-                        "date_upload": 1710892800000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/x-men-97-temporada-1-capitulo-1/",
-                        "name": "T01 - E01 - A mí, mis X-Men",
-                        "date_upload": 1710892800000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/05/00064/fhju54ns8l7k_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=kRbt5BsuB1N8JsByJs22TNvypAoOFraSdC2uD3A7mJA&s=1711155173&e=43200&f=323922&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s37.fastream.to/hls2/05/00064/fhju54ns8l7k_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=kRbt5BsuB1N8JsByJs22TNvypAoOFraSdC2uD3A7mJA&s=1711155173&e=43200&f=323922&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/04/00064/ulse8yinxc5m_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=1ah4IiUUwM0u5cwAUbqjDMJSbiCMXiNwG8YheTd2ij0&s=1711155168&e=43200&f=323921&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s37.fastream.to/hls2/04/00064/ulse8yinxc5m_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=1ah4IiUUwM0u5cwAUbqjDMJSbiCMXiNwG8YheTd2ij0&s=1711155168&e=43200&f=323921&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/05/00064/fhju54ns8l7k_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=kRbt5BsuB1N8JsByJs22TNvypAoOFraSdC2uD3A7mJA&s=1711155173&e=43200&f=323922&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s37.fastream.to/hls2/05/00064/fhju54ns8l7k_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=kRbt5BsuB1N8JsByJs22TNvypAoOFraSdC2uD3A7mJA&s=1711155173&e=43200&f=323922&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/04/00064/ulse8yinxc5m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=1ah4IiUUwM0u5cwAUbqjDMJSbiCMXiNwG8YheTd2ij0&s=1711155168&e=43200&f=323921&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s37.fastream.to/hls2/04/00064/ulse8yinxc5m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=1ah4IiUUwM0u5cwAUbqjDMJSbiCMXiNwG8YheTd2ij0&s=1711155168&e=43200&f=323921&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/05/00064/fhju54ns8l7k_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=kRbt5BsuB1N8JsByJs22TNvypAoOFraSdC2uD3A7mJA&s=1711155173&e=43200&f=323922&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s37.fastream.to/hls2/05/00064/fhju54ns8l7k_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=kRbt5BsuB1N8JsByJs22TNvypAoOFraSdC2uD3A7mJA&s=1711155173&e=43200&f=323922&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s37.fastream.to/hls2/02/00064/p66q8fc76d9l_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=uPFBC7hhIos2st3V5NW_CpMVcC8Q5S3VrwFSsvIlAZs&s=1711155171&e=43200&f=323920&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/04/00064/ulse8yinxc5m_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=1ah4IiUUwM0u5cwAUbqjDMJSbiCMXiNwG8YheTd2ij0&s=1711155168&e=43200&f=323921&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s37.fastream.to/hls2/04/00064/ulse8yinxc5m_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=1ah4IiUUwM0u5cwAUbqjDMJSbiCMXiNwG8YheTd2ij0&s=1711155168&e=43200&f=323921&srv=s31&i=0.0&sp=0&p1=s31&p2=s31",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

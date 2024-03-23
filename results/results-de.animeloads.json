@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/ninja-kamui",
+                                "title": "Ninja Kamui",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ninja-kamui-cover.jpg"
+                            },
+                            {
                                 "url": "/media/marginal-prince",
                                 "title": "Marginal Prince",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-marginal-prince-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/mahou-no-princess-minky-momo",
                                 "title": "Fairy Princess Minky Momo",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mahou-no-princess-minky-momo-cover-1.jpg"
-                            },
-                            {
-                                "url": "/media/gekai-elise",
-                                "title": "Doctor Elise: The Royal Lady with the Lamp",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-gekai-elise-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/marginal-prince",
-                    "title": "Marginal Prince",
+                    "url": "/media/ninja-kamui",
+                    "title": "Ninja Kamui",
                     "author": "",
-                    "description": "Auf einer abgelegen Insel befindet sich das Eliteinternat „St. Alphonso Academy“. Dort können sich reiche, adlige oder Leute mit einer besonderen Begabung in aller Ruhe vor Paparazzis geschützt ihrem Studienalltag stellen. Die Studenten leben abgeschottet von den anderen Inselbewohnern, aus diesem Grund werden sie „Marginal Princes“ genannt. Hinter dieser Idylle sind aber dunkle Mächte am Werk, die auch der Neuankömmling Yuta merkt. Dieser wird von einem Teenager mit dem Namen Joshua Grant auf einem Schimmel begrüßt und zur Academy geführt. Quelle: aniSearch",
-                    "genre": "Romantische Komödie",
+                    "description": "Einst gehörte Joe Higan zu einem renommierten Ninja-Clan. Doch dann ließ er dieses Leben hinter sich und tauchte in einer ländlichen Umgebung in Amerika unter. Allerdings holt ihn eines Tages seine Vergangenheit ein und er muss hilflos zusehen, wie seine Familie vor seinen Augen getötet wird. Auch er selber wird für tot gehalten und nutzt diese Tatsache aus, um im Geheimen Rachepläne zu schmieden. Als »Ninja Kamui« macht er sich auf die Suche nach jenen, die sein Leben zerstört haben. Eine blutige Zukunft liegt vor ihm, in der er sich mit zahllosen Feinden auseinandersetzen muss, bevor er dem wahren Verräter gegenüber treten kann – seinem früheren Clan. Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-marginal-prince-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ninja-kamui-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,20 +239,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/marginal-prince#streams_episodes_1_12",
-                        "name": "Ep.13 Brilliant Applause",
-                        "episode_number": 13.0
+                        "url": "/media/ninja-kamui#streams_episodes_1_5",
+                        "name": "Ep.6 Episode 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/media/marginal-prince#streams_episodes_1_11",
-                        "name": "Ep.12 Empezar of Festival",
-                        "episode_number": 12.0
+                        "url": "/media/ninja-kamui#streams_episodes_1_4",
+                        "name": "Ep.5 Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

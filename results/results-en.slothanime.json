@@ -3,74 +3,8 @@
         "name": "SlothAnime (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/atashinchi-movie",
-                                "title": "Atashin'chi Movie",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png"
-                            },
-                            {
-                                "url": "/anime/kangetsu-ittou-akuryou-kiri",
-                                "title": "Kangetsu Ittou: Akuryou Kiri",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11882.png"
-                            },
-                            {
-                                "url": "/anime/kennedy-knights-pilot",
-                                "title": "Kennedy Knights pilot",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11881.png"
-                            },
-                            {
-                                "url": "/anime/pipapopipipu",
-                                "title": "pipapo☆pipipu",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11880.png"
-                            },
-                            {
-                                "url": "/anime/sand-land-the-series",
-                                "title": "SAND LAND: THE SERIES",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11879.png"
-                            },
-                            {
-                                "url": "/anime/watashi-no-shiawase-na-katachi",
-                                "title": "Watashi no Shiawase na Katachi",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11878.png"
-                            },
-                            {
-                                "url": "/anime/anata-wo-hitokoto-de-arawashite-kudasai-no-shitsumon-ga-nigate-da",
-                                "title": "Anata wo Hitokoto de Arawashite Kudasai: no Shitsumon ga Nigate da.",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11877.png"
-                            },
-                            {
-                                "url": "/anime/the-magical-cat-dance",
-                                "title": "The Magical Cat Dance",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11876.png"
-                            },
-                            {
-                                "url": "/anime/112-sabsections-of-skyline",
-                                "title": "112 Sabsections of Skyline",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11875.png"
-                            },
-                            {
-                                "url": "/anime/ficfyon7",
-                                "title": "Ficfyon7",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11874.png"
-                            },
-                            {
-                                "url": "/anime/ms-chanda",
-                                "title": "M.S. Chanda",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11873.png"
-                            },
-                            {
-                                "url": "/anime/color-cycling",
-                                "title": "Color Cycling",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11872.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -244,26 +178,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/atashinchi-movie",
-                    "title": "Atashin'chi Movie",
-                    "author": "Toei Animation",
-                    "description": "In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.",
-                    "genre": "Comedy, Super Power",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png",
+                    "url": "/anime/the-apothecary-diaries",
+                    "title": "The Apothecary Diaries",
+                    "author": "OLM, TOHO animation STUDIO",
+                    "description": "For several months, Maomao endured being abducted and forced to serve as a menial worker in the ancient Chinese imperial court. Despite her predicament, the composed and inquisitive 17-year-old persevered, putting in a great deal of effort until her term of service had ended. However, her circumstances took a different turn when she stumbled upon the emperor's two sickly infants, prompting her to covertly apply her hackneyed pharmacist skills. As much as Maomao tried to remain unobtrusive, her gift did not go unnoticed by the influential Jinshi, a eunuch. Consequently, she found herself within the emperor's innermost circles, employing her unique attributes and expertise to unravel various medicinal enigmas and establish herself as a distinguished figure.",
+                    "genre": "Drama, Mystery",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10670.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=uWCrpLfYb7VOdFQAe8tUGg%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=NTJdYd%2FBnZd83JkFdW8Uwg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=uWCrpLfYb7VOdFQAe8tUGg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=NTJdYd%2FBnZd83JkFdW8Uwg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

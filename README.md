@@ -1,6 +1,6 @@
 ## Extension status
 
-### 102/210(49%) are working
+### 101/210(48%) are working
 
 | Extension             |   Status   | Log                                                                                                                                           |
 | :-------------------- | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,15 +48,15 @@
 | de.kinoking           |  ❌<br>5/6  | [results-de.kinoking.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.kinoking.json)                     |
 | de.kool               |     ✅      | [results-de.kool.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.kool.json)                             |
 | de.moflixstream       |  ❌<br>4/5  | [results-de.moflixstream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.moflixstream.json)             |
-| de.movie2k            |     ✅      | [results-de.movie2k.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.movie2k.json)                       |
+| de.movie2k            |  ❌<br>4/5  | [results-de.movie2k.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.movie2k.json)                       |
 | de.movie4k            |  ❌<br>4/5  | [results-de.movie4k.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.movie4k.json)                       |
 | de.serienstream       |  ❌<br>4/6  | [results-de.serienstream.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.serienstream.json)             |
 | de.streamcloud        |  ❌<br>4/5  | [results-de.streamcloud.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-de.streamcloud.json)               |
 | en.allanime           |     ✅      | [results-en.allanime.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allanime.json)                     |
-| en.allanimechi        |     ✅      | [results-en.allanimechi.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allanimechi.json)               |
+| en.allanimechi        |  ❌<br>5/6  | [results-en.allanimechi.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allanimechi.json)               |
 | en.allmovies          |  ❌<br>0/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.allmovies.json)                   |
-| en.animeflix          |  ❌<br>5/6  | [results-en.animeflix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animeflix.json)                   |
-| en.animeflixlive      |     ✅      | [results-en.animeflixlive.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animeflixlive.json)           |
+| en.animeflix          |     ✅      | [results-en.animeflix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animeflix.json)                   |
+| en.animeflixlive      |  ❌<br>0/6  | [results-en.animeflixlive.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animeflixlive.json)           |
 | en.animekhor          |     ✅      | [results-en.animekhor.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animekhor.json)                   |
 | en.animenosub         |     ✅      | [results-en.animenosub.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animenosub.json)                 |
 | en.animension         |  ❌<br>5/6  | [results-en.animension.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-en.animension.json)                 |
@@ -180,7 +180,7 @@
 | pt.animesdigital      |     ✅      | [results-pt.animesdigital.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesdigital.json)           |
 | pt.animesfoxbr        |     ✅      | [results-pt.animesfoxbr.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesfoxbr.json)               |
 | pt.animesgames        |     ✅      | [results-pt.animesgames.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesgames.json)               |
-| pt.animesgratis       |  ❌<br>4/6  | [results-pt.animesgratis.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesgratis.json)             |
+| pt.animesgratis       |  ❌<br>5/6  | [results-pt.animesgratis.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesgratis.json)             |
 | pt.animeshouse        |  ❌<br>1/6  | [results-pt.animeshouse.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animeshouse.json)               |
 | pt.animesorion        |  ❌<br>0/6  | [results-pt.animesorion.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesorion.json)               |
 | pt.animesroll         |     ✅      | [results-pt.animesroll.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.animesroll.json)                 |
@@ -200,7 +200,7 @@
 | pt.pifansubs          |  ❌<br>5/6  | [results-pt.pifansubs.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.pifansubs.json)                   |
 | pt.pobreflix          |  ❌<br>0/6  | [results-pt.pobreflix.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.pobreflix.json)                   |
 | pt.rinecloud          |     ✅      | [results-pt.rinecloud.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.rinecloud.json)                   |
-| pt.vizer              |  ❌<br>5/6  | [results-pt.vizer.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.vizer.json)                           |
+| pt.vizer              |     ✅      | [results-pt.vizer.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-pt.vizer.json)                           |
 | ru.animevost          |     ✅      | [results-ru.animevost.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-ru.animevost.json)                   |
 | sr.animebalkan        |  ❌<br>0/6  | [results-sr.animebalkan.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-sr.animebalkan.json)               |
 | sr.animesrbija        |     ✅      | [results-sr.animesrbija.json](https://raw.githubusercontent.com/Claudemirovsky/aet/results/results/results-sr.animesrbija.json)               |

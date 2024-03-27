@@ -263,16 +263,55 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/ghostbusters-frozen-empire/",
+                    "title": "Ghostbusters: Frozen Empire",
+                    "author": "Gil Kenan",
+                    "description": "Die Spengler-Familie kehrt dahin zurück, wo alles begann: in die ikonische New Yorker Feuerwache. Dort tun sie sich mit den originalen Ghostbusters zusammen, die ein streng geheimes Forschungslabor eingerichtet haben, um die Geisterjagd auf das nächste Level zu heben. Doch als die Entdeckung eines antiken Artefakts eine böse Macht freisetzt, müssen die alten und die neuen Ghostbusters gemeinsame Sache machen, um ihr Zuhause zu beschützen und …",
+                    "genre": "Abenteuer",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVBvAKmHOE7hFzczEaCGeB7aJJt.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://meinecloud.click/movie/tt21235248",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv14.dropload.io/hls2/01/00161/n70o8so5ew40_h/index-v1-a1.m3u8?t=45GEf6B0GQEUa2nIt0j0ltSbs6_EUHIDpH_mEudXhC8&s=1711563376&e=21600&f=813294&srv=srv15&i=20.55&sp=0&p1=srv15&p2=srv15",
+                        "quality": "Dropload:720p ",
+                        "videoUrl": "https://srv14.dropload.io/hls2/01/00161/n70o8so5ew40_h/index-v1-a1.m3u8?t=45GEf6B0GQEUa2nIt0j0ltSbs6_EUHIDpH_mEudXhC8&s=1711563376&e=21600&f=813294&srv=srv15&i=20.55&sp=0&p1=srv15&p2=srv15",
+                        "headers": {
+                            "origin": "https://dropload.io",
+                            "referer": "https://dropload.io/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery34.mxcontent.net/v/689d67ba49e5697966eb5faf80da7d21.mp4?s=-RU_V-ZypYS_-Gz9clLzlQ&e=1711584978&_t=1711571852",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery34.mxcontent.net/v/689d67ba49e5697966eb5faf80da7d21.mp4?s=-RU_V-ZypYS_-Gz9clLzlQ&e=1711584978&_t=1711571852",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=y0rb3Gw7o7I18Kv&expires=1711633378&ip=FROsE0MnDS9X&token=AwxkjKHA5X_i",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=y0rb3Gw7o7I18Kv&expires=1711633378&ip=FROsE0MnDS9X&token=AwxkjKHA5X_i"
+                    }
+                ],
+                "passed": true
             }
         }
     }

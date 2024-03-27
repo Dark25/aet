@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/population-11/",
+                                "title": "Population 11",
+                                "description": "Cuando un hombre desaparece de un pequeño pueblo del interior, su hijo, del que se ha distanciado, se ve obligado a buscarlo entre el variopinto grupo de habitantes. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fWflDooljzn9Uug78G65lskLwuX.jpg"
+                            },
+                            {
                                 "url": "/marea-de-pasiones/",
                                 "title": "Marea de pasiones",
                                 "description": "Luisa y Marcelo han dejado a un lado las diferencias que los separa para privilegiar el amor que se tienen desde la adolescencia. Alejandro Grajales, padre de Luisa, no ve con buenos ojos la relación de su hija con Marcelo, pues el joven siempre ha sido opositor a la devastación ecológica que ha sufrido la […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/zrh49PveIxJbUM7Ark4KMbYvprj.jpg"
                             },
                             {
-                                "url": "/such-brave-girls/",
-                                "title": "Such Brave Girls",
-                                "description": "Una comedia familiar desmelenada e irreverente que sigue la vida de dos hermanas, Josie y Billy, que viven con su madre soltera y transitan por la vida con poco juicio y cargadas de un peculiar sentido del humor sobre sus propias vidas y su salud mental. Sin saber muy bien cómo, acabarán relacionándose con personas […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7g60yren32dIyR0ZsMFPXWn3vGt.jpg"
-                            },
-                            {
-                                "url": "/la-colina-de-watership/",
-                                "title": "La colina de Watership",
+                                "url": "/estoy-vivo/",
+                                "title": "Estoy Vivo",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rsgd1P0jf0WzZg8AEDzGG0tBUIS.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/nWPwH6MPxi2YzjaChLhXAeiCkzi-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/la-loca-de-los-perros/",
-                                "title": "La Loca de los Perros",
+                                "url": "/la-vida-secreta-de-las-parejas/",
+                                "title": "La vida secreta de las parejas",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/p6R4fXo9PyPVarZUKYJFWdpjVTe.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/u86P5gS312p6bCa74AsM1ZQMJIs.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,69 @@
             },
             "details": {
                 "result": {
-                    "url": "/marea-de-pasiones/",
-                    "title": "Marea de pasiones",
-                    "description": "Luisa y Marcelo han dejado a un lado las diferencias que los separa para privilegiar el amor que se tienen desde la adolescencia. Alejandro Grajales, padre de Luisa, no ve con buenos ojos la relación de su hija con Marcelo, pues el joven siempre ha sido opositor a la devastación ecológica que ha sufrido la zona costera del estado de Nayarit y de la que es responsable Alejandro por su cadena de hoteles.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg",
+                    "url": "/population-11/",
+                    "title": "Population 11",
+                    "description": "Cuando un hombre desaparece de un pequeño pueblo del interior, su hijo, del que se ha distanciado, se ve obligado a buscarlo entre el variopinto grupo de habitantes.",
+                    "genre": "Comedia, Crimen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fWflDooljzn9Uug78G65lskLwuX.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/population-11-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - Episodio 4",
+                        "date_upload": 1710374400000,
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/population-11-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Episodio 3",
+                        "date_upload": 1710374400000,
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=QbcDTGkeI0l68h237TxWFhWvot-Dg_XhEEYRhuPXGuQ&s=1711520185&e=43200&f=325375&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=QbcDTGkeI0l68h237TxWFhWvot-Dg_XhEEYRhuPXGuQ&s=1711520185&e=43200&f=325375&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=QbcDTGkeI0l68h237TxWFhWvot-Dg_XhEEYRhuPXGuQ&s=1711520185&e=43200&f=325375&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=QbcDTGkeI0l68h237TxWFhWvot-Dg_XhEEYRhuPXGuQ&s=1711520185&e=43200&f=325375&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=QbcDTGkeI0l68h237TxWFhWvot-Dg_XhEEYRhuPXGuQ&s=1711520185&e=43200&f=325375&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=QbcDTGkeI0l68h237TxWFhWvot-Dg_XhEEYRhuPXGuQ&s=1711520185&e=43200&f=325375&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,13 +3,94 @@
         "name": "SlothAnime (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/gods-games-we-play",
+                                "title": "Gods' Games We Play",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11885.png"
+                            },
+                            {
+                                "url": "/anime/0sen-hayato",
+                                "title": "0-sen Hayato",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11884.png"
+                            },
+                            {
+                                "url": "/anime/atashinchi-movie",
+                                "title": "Atashin'chi Movie",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png"
+                            },
+                            {
+                                "url": "/anime/kangetsu-ittou-akuryou-kiri",
+                                "title": "Kangetsu Ittou: Akuryou Kiri",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11882.png"
+                            },
+                            {
+                                "url": "/anime/kennedy-knights-pilot",
+                                "title": "Kennedy Knights pilot",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11881.png"
+                            },
+                            {
+                                "url": "/anime/pipapopipipu",
+                                "title": "pipapo☆pipipu",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11880.png"
+                            },
+                            {
+                                "url": "/anime/sand-land-the-series",
+                                "title": "SAND LAND: THE SERIES",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11879.png"
+                            },
+                            {
+                                "url": "/anime/watashi-no-shiawase-na-katachi",
+                                "title": "Watashi no Shiawase na Katachi",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11878.png"
+                            },
+                            {
+                                "url": "/anime/anata-wo-hitokoto-de-arawashite-kudasai-no-shitsumon-ga-nigate-da",
+                                "title": "Anata wo Hitokoto de Arawashite Kudasai: no Shitsumon ga Nigate da.",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11877.png"
+                            },
+                            {
+                                "url": "/anime/the-magical-cat-dance",
+                                "title": "The Magical Cat Dance",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11876.png"
+                            },
+                            {
+                                "url": "/anime/112-sabsections-of-skyline",
+                                "title": "112 Sabsections of Skyline",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11875.png"
+                            },
+                            {
+                                "url": "/anime/ficfyon7",
+                                "title": "Ficfyon7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11874.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/beyblade-x",
+                                "title": "Beyblade X",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11393.png"
+                            },
+                            {
+                                "url": "/anime/gods-games-we-play",
+                                "title": "Gods' Games We Play",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11885.png"
+                            },
+                            {
+                                "url": "/anime/agate-2",
+                                "title": "Agate 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11669.png"
+                            },
                             {
                                 "url": "/anime/sengoku-youko",
                                 "title": "Sengoku Youko",
@@ -54,21 +135,6 @@
                                 "url": "/anime/0sen-hayato",
                                 "title": "0-sen Hayato",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11884.png"
-                            },
-                            {
-                                "url": "/anime/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord",
-                                "title": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11720.png"
-                            },
-                            {
-                                "url": "/anime/otokogi",
-                                "title": "Otokogi",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10418.png"
-                            },
-                            {
-                                "url": "/anime/microid-s",
-                                "title": "Microid S",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/4022.png"
                             }
                         ],
                         "hasNextPage": true
@@ -177,32 +243,23 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/sengoku-youko/145222",
-                        "name": "Episode 12"
-                    },
-                    {
-                        "url": "/player/sengoku-youko/144769",
-                        "name": "Episode 11"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/145222?vrf=BcRYu%2BZ92%2BAIgJlE6VH87A%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=8duWUBb9jYA3y5ldN2BgrA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/145222?vrf=BcRYu%2BZ92%2BAIgJlE6VH87A%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=8duWUBb9jYA3y5ldN2BgrA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/sengoku-youko/145222"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

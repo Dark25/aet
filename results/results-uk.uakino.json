@@ -97,14 +97,14 @@
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/90/e884ef44e676c7812b8f50474fa1a9.jpg"
                             },
                             {
-                                "url": "/animeukr/anime-series/15516-shpygun-ta-simia-rodyna-shpyguniv-simia-shpyguna-2-sezon.html",
-                                "title": "Шпигун та сім'я / Родина Шпигунів /",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/e3/997e8d8c2d8d4fb865ff66611f0bb5.jpg"
-                            },
-                            {
                                 "url": "/animeukr/anime-series/18290-frren-pslya-kncya-prigodi-1-sezon.html",
                                 "title": "Фрірен: після кінця пригоди",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/c4/3eacfb1e9f72f916e1b99237de0af7.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/15516-shpygun-ta-simia-rodyna-shpyguniv-simia-shpyguna-2-sezon.html",
+                                "title": "Шпигун та сім'я / Родина Шпигунів /",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/e3/997e8d8c2d8d4fb865ff66611f0bb5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -116,6 +116,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animeukr/anime-series/20267-pobachennia-z-zhyttiam-4-sezon.html",
+                                "title": "Побачення з життям",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/2b/ac58076504c32081eaf756f0e2894d.jpg"
+                            },
                             {
                                 "url": "/animeukr/anime-series/18750-boyec-bak-1-sezon.html",
                                 "title": "Боєць Бакі",
@@ -310,11 +315,6 @@
                                 "url": "/animeukr/anime-series/19447-adzumana-dayo-1-sezon.html",
                                 "title": "Адзуманґа Дайо",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/16/2d0f107565e0f6db471e0bc2df2da7.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/15861-yaycya-drakona-1-sezon.html",
-                                "title": "Яйця Дракона",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/b4/e4369716c062d3535bd6f28b2abc56.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -406,14 +406,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://jk19ocmje0yql3tj.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8",
-                        "quality": "480p",
-                        "videoUrl": "https://jk19ocmje0yql3tj.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

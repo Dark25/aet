@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/descansar-en-paz/",
+                                "title": "Descansar en paz",
+                                "description": "Un hombre de familia, acorralado por las deudas, decide aprovechar una circunstancia casual e imprev...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5piGSiXVjBwLFGA4KHSAaNEyKzBCLDgHTpe.webp"
+                            },
+                            {
+                                "url": "/pelicula/nada-mas-que-eso/",
+                                "title": "Nada más que eso",
+                                "description": "Oliwia es una chef de la gran ciudad que vive la vida que siempre quiso. Sus raíces rústicas está...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/LjRxdTin61nGY6u274j1CuhKyOysDvpfE7CIQKVMC8jq.webp"
+                            },
+                            {
                                 "url": "/pelicula/un-hipster-en-la-espana-vacia/",
                                 "title": "Un hipster en la España vacía",
                                 "description": "A Quique le encargan liderar la política de la España Vacía en un pueblo de Teruel, pero no sabe ...",
@@ -233,18 +245,6 @@
                                 "title": "Stopmotion",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/GKMQxbxPXrRYsjT7r7HXm6YlrsmDWXsty5aV6xBU.webp"
-                            },
-                            {
-                                "url": "/pelicula/barbie-y-stacie-al-rescate/",
-                                "title": "Barbie y Stacie al rescate",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/XHKDOKwLbXHFWVb6RSvLTA7WA.webp"
-                            },
-                            {
-                                "url": "/pelicula/creation-of-the-gods-i-kingdom-of-storms/",
-                                "title": "Creation of the Gods I: Kingdom of Storms",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/6XOrgCRYXr8vJn7MFyf2vGGIpTqFVBvRp98wCPkp.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/un-hipster-en-la-espana-vacia/",
-                    "title": "Un hipster en la España vacía",
-                    "description": "A Quique le encargan liderar la política de la España Vacía en un pueblo de Teruel, pero no sabe ni por dónde empezar. Se enfrenta solo a un pueblo dispuesto a tomarle el pelo ante sus propuestas modernas y, por si esto fuera poco, pronto descubre que enviarle allí es un plan de su novia y del líder de su partido para poder estar juntos. Solo contará con su buena voluntad y con Lourdes, la camarera del bar, que quiere evitar que el pobre siga haciendo el ridículo y que entienda que la clave de su éxito reside en aprender a escuchar a sus nuevos vecinos.",
-                    "genre": "Comedia",
+                    "url": "/pelicula/descansar-en-paz/",
+                    "title": "Descansar en paz",
+                    "description": "Un hombre de familia, acorralado por las deudas, decide aprovechar una circunstancia casual e imprevisible para desaparecer.",
+                    "genre": "Drama, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/un-hipster-en-la-espana-vacia/",
+                        "url": "/pelicula/descansar-en-paz/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar LDkuueQ = \"\"; WxPmzxmee.forEach(function Oym(value) { LDkuueQ += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

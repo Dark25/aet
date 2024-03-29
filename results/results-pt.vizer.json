@@ -211,10 +211,10 @@
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4388.webp"
                             },
                             {
-                                "url": "/serie/online/cobra-kai",
-                                "title": "Cobra Kai",
+                                "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
+                                "title": "Chicago Fire: Heróis Contra o Fogo",
                                 "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5491.webp"
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4449.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -226,6 +226,18 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/online/tokyo-vice",
+                                "title": "Tokyo Vice",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19660.webp"
+                            },
+                            {
+                                "url": "/serie/online/invencivel",
+                                "title": "Invencível",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19285.webp"
+                            },
                             {
                                 "url": "/serie/online/the-rookie",
                                 "title": "The Rookie",
@@ -333,18 +345,6 @@
                                 "title": "O Problema dos 3 Corpos",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22661.webp"
-                            },
-                            {
-                                "url": "/serie/online/invencivel",
-                                "title": "Invencível",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19285.webp"
-                            },
-                            {
-                                "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
-                                "title": "Chicago Fire: Heróis Contra o Fogo",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4449.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -483,16 +483,16 @@
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/20045.webp"
                             },
                             {
-                                "url": "/serie/online/shinsekai-yori",
-                                "title": "Shinsekai Yori",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19742.webp"
-                            },
-                            {
                                 "url": "/serie/online/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
                                 "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
                                 "status": 2,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/20354.webp"
+                            },
+                            {
+                                "url": "/serie/online/shinsekai-yori",
+                                "title": "Shinsekai Yori",
+                                "status": 2,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19742.webp"
                             },
                             {
                                 "url": "/serie/online/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
@@ -598,8 +598,49 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=guW5nBC5ZfFw2YQQthmTEg&e=1711714723&_t=1711697319",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=guW5nBC5ZfFw2YQQthmTEg&e=1711714723&_t=1711697319",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=ZvXjVucxwq8uZ4cYzh_dFg&e=1711714724&_t=1711696983",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=ZvXjVucxwq8uZ4cYzh_dFg&e=1711714724&_t=1711696983",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo55.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "quality": "WarezCDN - LEG",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo55.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo55.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "quality": "WarezCDN - DUB",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo55.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

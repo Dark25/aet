@@ -319,7 +319,7 @@
                             {
                                 "url": "8138-erano-ragazzi-in-barca",
                                 "title": "Erano ragazzi in barca",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/d3d70fe6-2414-46ee-b742-5142c135381c.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/38acd6a6-6ed3-453d-b339-a8fb4ccd2155.webp"
                             },
                             {
                                 "url": "8137-50-km-allora",
@@ -944,11 +944,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "8127?e=58442",
+                        "name": "Stagione 1 episodio 8 - Missione di salvataggio",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "8127?e=58441",
+                        "name": "Stagione 1 episodio 7 - Bugie, bugie, bugie.",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

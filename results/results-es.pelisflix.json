@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-partitura/",
+                                "title": "La partitura",
+                                "description": "Una joven compositora se encuentra frente a la oportunidad de su vida cuando recibe el encargo de te...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/8TnTwOfY2ZJY65RvN1usWp.webp"
+                            },
+                            {
                                 "url": "/pelicula/descansar-en-paz/",
                                 "title": "Descansar en paz",
                                 "description": "Un hombre de familia, acorralado por las deudas, decide aprovechar una circunstancia casual e imprev...",
@@ -239,12 +245,6 @@
                                 "title": "Bob Marley: One Love",
                                 "description": "Biopic sobre la leyenda del reggae.",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/FEfu3zR6fKCYkNCcm17Sc1aSimhbdq7IVd3PCKMIlex.webp"
-                            },
-                            {
-                                "url": "/pelicula/stopmotion/",
-                                "title": "Stopmotion",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/GKMQxbxPXrRYsjT7r7HXm6YlrsmDWXsty5aV6xBU.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/descansar-en-paz/",
-                    "title": "Descansar en paz",
-                    "description": "Un hombre de familia, acorralado por las deudas, decide aprovechar una circunstancia casual e imprevisible para desaparecer.",
-                    "genre": "Drama, Suspense",
+                    "url": "/pelicula/la-partitura/",
+                    "title": "La partitura",
+                    "description": "Una joven compositora se encuentra frente a la oportunidad de su vida cuando recibe el encargo de terminar el concierto final de su difunto mentor, que quedó incompleto tras su muerte. Sin embargo, pronto descubrirá que tocar esas notas tiene repercusiones mortales, lo que la llevará a desenmascarar los orígenes perturbadores de la melodía y la malvada fuerza que ésta despierta.",
+                    "genre": "Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/descansar-en-paz/",
+                        "url": "/pelicula/la-partitura/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DwrLXRxvnv = \"\"; yJooqIW.forEach(function Oym(value) { DwrLXRxvnv += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar yglHMGqzF = \"\"; HhDxSfYimI.forEach(function Oym(value) { yglHMGqzF += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

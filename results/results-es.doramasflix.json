@@ -237,7 +237,7 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 43903: Expected string literal but 'null' literal was found at path: $.data.paginationDorama.items[12].languages[0]\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....o de asesinato.\",\"languages\":[null],\"created_by\":[],\"popular.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 44034: Expected string literal but 'null' literal was found at path: $.data.paginationDorama.items[12].languages[0]\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....o de asesinato.\",\"languages\":[null],\"created_by\":[],\"popular.....",
                 "passed": false
             },
             "search": {

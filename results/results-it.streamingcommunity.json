@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8127-nell-rinnegata",
+                                "title": "Nell - Rinnegata",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/2b5cb126-8703-45af-8234-9c66393b77b0.webp"
+                            },
+                            {
                                 "url": "8134-ourika",
                                 "title": "Ourika",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/885031d8-ceb7-407b-9a6e-3423451cf8a2.webp"
@@ -300,11 +305,6 @@
                                 "url": "7744-laggiusta-cuori",
                                 "title": "L’aggiusta-cuori",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/8f7598a8-0de9-4446-bcb5-c1b48bcddb8a.webp"
-                            },
-                            {
-                                "url": "7732-uccidimi-tesoro",
-                                "title": "Uccidimi, tesoro!",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/e6f5af0f-7705-40eb-b2ec-81008285d9e0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -547,6 +547,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/5d3fb737-a4e7-4fe0-a545-14a948966107.webp"
                             },
                             {
+                                "url": "8080-mano-de-hierro",
+                                "title": "Mano de hierro",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/80588a21-59e6-4b1f-ab1d-b5a57c0b4b64.webp"
+                            },
+                            {
                                 "url": "8079-irish-wish-solo-un-desiderio",
                                 "title": "Irish Wish - Solo un desiderio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/a12a7a79-7b40-472f-bbde-843c6cbaca9b.webp"
@@ -610,11 +615,6 @@
                                 "url": "8067-the-cookout",
                                 "title": "The Cookout",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/7fa49752-6336-4382-a027-d39c3a14902b.webp"
-                            },
-                            {
-                                "url": "8066-good-deeds",
-                                "title": "Good Deeds",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/728f1117-f54f-4d73-ad4a-b4e83e74f826.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "8134-ourika",
-                    "description": "Nel 2005, in una periferia francese, una retata distrugge gli affari di una famiglia di spacciatori. Driss, studente brillante, è costretto a occuparsi dell'attività di famiglia, tuffandosi in una spirale che lo trascinerà verso il fondo. Contro di lui William, giovane poliziotto ambizioso e idealista, che cercherà di fermarlo. La loro lotta li porterà dalle periferie alla valle dell'Ourika.",
-                    "genre": "Dramma, Action & Adventure",
+                    "url": "8127-nell-rinnegata",
+                    "description": "Inghilterra, 1705: incastrata per omicidio e in fuga con le sorelle, Nell Jackson diventa una bandita per poter sopravvivere. Supportata dal suo aiutante con superpoteri, un impavido spiritello di nome Billy Blind, Nell si rende conto che il fato l'ha spinta verso il lato opposto alla legge per un motivo. Un motivo più grande di quanto avrebbe mai potuto immaginare: sconfiggere un magico complotto contro la Regina d'Inghilterra.",
+                    "genre": "Sci-Fi & Fantasy, Action & Adventure",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -944,22 +944,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "8134?e=58401",
-                        "name": "Stagione 1 episodio 7 - Episodio 7",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "8134?e=58403",
-                        "name": "Stagione 1 episodio 6 - Episodio 6",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }

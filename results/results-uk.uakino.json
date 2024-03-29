@@ -87,14 +87,14 @@
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/d4/5b43861c4ba97ccd589934a7f56144.jpg"
                             },
                             {
-                                "url": "/animeukr/anime-series/13323-ataka-titanv-4-sezon.html",
-                                "title": "Атака титанів",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/59/094f4f62940933501e3e2ced266752.jpg"
-                            },
-                            {
                                 "url": "/animeukr/anime-series/13232-van-ps-velikiy-kush-1-sezon.html",
                                 "title": "Ван Піс / Великий куш",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/90/e884ef44e676c7812b8f50474fa1a9.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/13323-ataka-titanv-4-sezon.html",
+                                "title": "Атака титанів",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/59/094f4f62940933501e3e2ced266752.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-series/18290-frren-pslya-kncya-prigodi-1-sezon.html",
@@ -116,6 +116,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animeukr/anime-series/19674-koroleva-z-skalpelem-1-sezon.html",
+                                "title": "Королева зі скальпелем",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/c9/1ecd0050f96b15ce1027d89f51b7c4.jpg"
+                            },
                             {
                                 "url": "/animeukr/anime-series/20267-pobachennia-z-zhyttiam-4-sezon.html",
                                 "title": "Побачення з життям",
@@ -310,11 +315,6 @@
                                 "url": "/animeukr/anime-series/9393-msto-de-nemaye-lish-mene-1-sezon.html",
                                 "title": "Місто, де немає лиш мене",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/6a/29cb226d797c505d5f75f2f62799f9.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/19447-adzumana-dayo-1-sezon.html",
-                                "title": "Адзуманґа Дайо",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/16/2d0f107565e0f6db471e0bc2df2da7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -406,8 +406,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://jk19ocmje0yql3tj.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://jk19ocmje0yql3tj.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

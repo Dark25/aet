@@ -3,28 +3,488 @@
         "name": "Gogoanime (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/category/dungeon-meshi",
+                                "title": "Dungeon Meshi",
+                                "thumbnail_url": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png"
+                            },
+                            {
+                                "url": "/category/ore-dake-level-up-na-ken",
+                                "title": "Ore dake Level Up na Ken",
+                                "thumbnail_url": "https://gogocdn.net/cover/ore-dake-level-up-na-ken-1708917521.png"
+                            },
+                            {
+                                "url": "/category/detective-conan",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://gogocdn.net/cover/detective-conan.png"
+                            },
+                            {
+                                "url": "/category/dosanko-gal-wa-namara-menkoi",
+                                "title": "Dosanko Gal wa Namara Menkoi",
+                                "thumbnail_url": "https://gogocdn.net/cover/dosanko-gal-wa-namara-menkoi-1708569614.png"
+                            },
+                            {
+                                "url": "/category/ao-no-exorcist-shimane-illuminati-hen",
+                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
+                                "thumbnail_url": "https://gogocdn.net/cover/ao-no-exorcist-shimane-illuminati-hen-1704168077.png"
+                            },
+                            {
+                                "url": "/category/kusuriya-no-hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png"
+                            },
+                            {
+                                "url": "/category/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://gogocdn.net/cover/one-piece-1708412053.png"
+                            },
+                            {
+                                "url": "/category/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png"
+                            },
+                            {
+                                "url": "/category/mashle-2nd-season",
+                                "title": "Mashle 2nd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png"
+                            },
+                            {
+                                "url": "/category/boku-no-kokoro-no-yabai-yatsu-season-2",
+                                "title": "Boku no Kokoro no Yabai Yatsu Season 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png"
+                            },
+                            {
+                                "url": "/category/yubisaki-to-renren",
+                                "title": "Yubisaki to Renren",
+                                "thumbnail_url": "https://gogocdn.net/cover/yubisaki-to-renren-1704252298.png"
+                            },
+                            {
+                                "url": "/category/horimiya",
+                                "title": "Horimiya",
+                                "thumbnail_url": "https://gogocdn.net/cover/horimiya.png"
+                            },
+                            {
+                                "url": "/category/violet-evergarden",
+                                "title": "Violet Evergarden",
+                                "thumbnail_url": "https://gogocdn.net/cover/violet-evergarden.png"
+                            },
+                            {
+                                "url": "/category/oshi-no-ko",
+                                "thumbnail_url": "https://gogocdn.net/cover/oshi-no-ko-1680121500.png"
+                            },
+                            {
+                                "url": "/category/iya-na-kao-sare-nagara-opantsu-misete-moraitai",
+                                "title": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+                                "thumbnail_url": "https://gogocdn.net/cover/iya-na-kao-sare-nagara-opantsu-misete-moraitai.png"
+                            },
+                            {
+                                "url": "/category/watashi-no-shiawase-na-kekkon",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://gogocdn.net/cover/watashi-no-shiawase-na-kekkon-1688158075.png"
+                            },
+                            {
+                                "url": "/category/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season",
+                                "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season.png"
+                            },
+                            {
+                                "url": "/category/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen",
+                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen",
+                                "thumbnail_url": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen.png"
+                            },
+                            {
+                                "url": "/category/tokyo-revengers",
+                                "title": "Tokyo Revengers",
+                                "thumbnail_url": "https://gogocdn.net/cover/tokyo-revengers.png"
+                            },
+                            {
+                                "url": "/category/boruto-naruto-next-generations",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://gogocdn.net/cover/boruto-naruto-next-generations.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/category/seigi-wo-aisuru-mono-gekkou-kamen",
+                                "title": "Seigi wo Aisuru Mono Gekkou Kamen",
+                                "thumbnail_url": "https://gogocdn.net/cover/seigi-wo-aisuru-mono-gekkou-kamen.png"
+                            },
+                            {
+                                "url": "/category/chiikawa",
+                                "title": "Chiikawa",
+                                "thumbnail_url": "https://gogocdn.net/cover/chiikawa.png"
+                            },
+                            {
+                                "url": "/category/majo-to-yajuu",
+                                "title": "Majo to Yajuu",
+                                "thumbnail_url": "https://gogocdn.net/cover/majo-to-yajuu-1704187164.png"
+                            },
+                            {
+                                "url": "/category/urusei-yatsura-2022-2nd-season",
+                                "title": "Urusei Yatsura (2022) 2nd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png"
+                            },
+                            {
+                                "url": "/category/yuuki-bakuhatsu-bang-bravern",
+                                "title": "Yuuki Bakuhatsu Bang Bravern",
+                                "thumbnail_url": "https://gogocdn.net/cover/yuuki-bakuhatsu-bang-bravern-1704252414.png"
+                            },
+                            {
+                                "url": "/category/gekkan-mousou-kagaku",
+                                "title": "Gekkan Mousou Kagaku",
+                                "thumbnail_url": "https://gogocdn.net/cover/gekkan-mousou-kagaku-1704169853.png"
+                            },
+                            {
+                                "url": "/category/dungeon-meshi",
+                                "title": "Dungeon Meshi",
+                                "thumbnail_url": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png"
+                            },
+                            {
+                                "url": "/category/shaman-king-flowers",
+                                "title": "Shaman King: Flowers",
+                                "thumbnail_url": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png"
+                            },
+                            {
+                                "url": "/category/stitch-perfect-memory",
+                                "title": "Stitch! Perfect Memory",
+                                "thumbnail_url": "https://gogocdn.net/cover/stitch-perfect-memory.png"
+                            },
+                            {
+                                "url": "/category/stitch-to-suna-no-wakusei",
+                                "title": "Stitch to Suna no Wakusei",
+                                "thumbnail_url": "https://gogocdn.net/cover/stitch-to-suna-no-wakusei.png"
+                            },
+                            {
+                                "url": "/category/akuma-kun",
+                                "title": "Akuma-kun",
+                                "thumbnail_url": "https://gogocdn.net/cover/akuma-kun.png"
+                            },
+                            {
+                                "url": "/category/kami-wa-game-ni-ueteiru",
+                                "title": "Kami wa Game ni Ueteiru.",
+                                "thumbnail_url": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru.png"
+                            },
+                            {
+                                "url": "/category/beyblade-x",
+                                "title": "Beyblade X",
+                                "thumbnail_url": "https://gogocdn.net/cover/beyblade-x.png"
+                            },
+                            {
+                                "url": "/category/metallic-rouge",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://gogocdn.net/cover/metallic-rouge-1708570180.png"
+                            },
+                            {
+                                "url": "/category/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
+                                "title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
+                                "thumbnail_url": "https://gogocdn.net/cover/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii.png"
+                            },
+                            {
+                                "url": "/category/mahou-shoujo-ni-akogarete",
+                                "title": "Mahou Shoujo ni Akogarete",
+                                "thumbnail_url": "https://gogocdn.net/cover/mahou-shoujo-ni-akogarete-1704187057.png"
+                            },
+                            {
+                                "url": "/category/sengoku-youko",
+                                "title": "Sengoku Youko",
+                                "thumbnail_url": "https://gogocdn.net/cover/sengoku-youko-1708569912.png"
+                            },
+                            {
+                                "url": "/category/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season-1704252258.png"
+                            },
+                            {
+                                "url": "/category/gekai-elise",
+                                "title": "Gekai Elise",
+                                "thumbnail_url": "https://gogocdn.net/cover/gekai-elise-1708567768.png"
+                            },
+                            {
+                                "url": "/category/jaku-chara-tomozaki-kun-2nd-stage",
+                                "title": "Jaku-Chara Tomozaki-kun 2nd Stage",
+                                "thumbnail_url": "https://gogocdn.net/cover/jaku-chara-tomozaki-kun-2nd-stage-1704186096.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/category/birth",
+                                "title": "Birth",
+                                "thumbnail_url": "https://gogocdn.net/cover/birth.png"
+                            },
+                            {
+                                "url": "/category/drifters",
+                                "title": "Drifters",
+                                "thumbnail_url": "https://gogocdn.net/cover/drifters.png"
+                            },
+                            {
+                                "url": "/category/neo-ranga",
+                                "title": "Neo Ranga",
+                                "thumbnail_url": "https://gogocdn.net/images/anime/N/neo-ranga.jpg"
+                            },
+                            {
+                                "url": "/category/pac-world",
+                                "title": "Pac-World",
+                                "thumbnail_url": "https://gogocdn.net/cover/pac-world.png"
+                            },
+                            {
+                                "url": "/category/the-choujo",
+                                "title": "The Choujo",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-choujo.png"
+                            },
+                            {
+                                "url": "/category/aotu-shijie",
+                                "title": "AOTU Shijie",
+                                "thumbnail_url": "https://gogocdn.net/cover/aotu-shijie.png"
+                            },
+                            {
+                                "url": "/category/wan-guo-zhi",
+                                "title": "Wan Guo Zhi",
+                                "thumbnail_url": "https://gogocdn.net/cover/wan-guo-zhi.png"
+                            },
+                            {
+                                "url": "/category/zhu-tian-ji",
+                                "title": "Zhu Tian Ji",
+                                "thumbnail_url": "https://gogocdn.net/cover/zhu-tian-ji.png"
+                            },
+                            {
+                                "url": "/category/exper-zenon",
+                                "title": "Exper Zenon",
+                                "thumbnail_url": "https://gogocdn.net/cover/exper-zenon.png"
+                            },
+                            {
+                                "url": "/category/hello-world",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://gogocdn.net/cover/hello-world.png"
+                            },
+                            {
+                                "url": "/category/hazamatsuri",
+                                "title": "Hazamatsuri",
+                                "thumbnail_url": "https://gogocdn.net/cover/hazamatsuri.png"
+                            },
+                            {
+                                "url": "/category/sweat-punch",
+                                "title": "Sweat Punch",
+                                "thumbnail_url": "https://gogocdn.net/cover/sweat-punch.png"
+                            },
+                            {
+                                "url": "/category/accel-world",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://gogocdn.net/images/anime/accel-world.jpg"
+                            },
+                            {
+                                "url": "/category/fire-tripper",
+                                "title": "Fire Tripper",
+                                "thumbnail_url": "https://gogocdn.net/images/anime/F/Fire-Tripper-Movie.jpg"
+                            },
+                            {
+                                "url": "/category/yoru-no-kuni",
+                                "title": "Yoru no Kuni",
+                                "thumbnail_url": "https://gogocdn.net/cover/yoru-no-kuni.png"
+                            },
+                            {
+                                "url": "/category/i-am-the-king",
+                                "title": "I Am the King",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-am-the-king.png"
+                            },
+                            {
+                                "url": "/category/aotu-shijie-2",
+                                "title": "AOTU Shijie 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/aotu-shijie-2.png"
+                            },
+                            {
+                                "url": "/category/aotu-shijie-3",
+                                "title": "AOTU Shijie 3",
+                                "thumbnail_url": "https://gogocdn.net/cover/aotu-shijie-3.png"
+                            },
+                            {
+                                "url": "/category/another-world",
+                                "title": "Another World",
+                                "thumbnail_url": "https://gogocdn.net/cover/another-world.png"
+                            },
+                            {
+                                "url": "/category/world-trigger",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://gogocdn.net/images/upload/161762.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/category/dungeon-meshi",
+                    "title": "Dungeon Meshi",
+                    "description": "Other name(s): ダンジョン飯ダンジョンめし迷宮飯던전밥Delicious in DungeonDungeon FoodGloutons et Dragonsสูตรลับตำรับดันเจียน",
+                    "genre": "Comedy, Fantasy, Gourmet, Seinen",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/dungeon-meshi-episode-13",
+                        "name": "Episode 13",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/dungeon-meshi-episode-12",
+                        "name": "Episode 12",
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.1080.m3u8",
+                        "quality": "Gogostream - 1080p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjIzMDIx&token=S9EnX4mXzSDiCgCgkHxF3g&expires=1711680805"
+                        }
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwx74bpzz3b4quuovoqrap22jppnj6qj7zczcbfknhqoui5cmmpjzn6opvw4dmapctvnlj57/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwx74bpzz3b4quuovoqrap22jppnj6qj7zczcbfknhqoui5cmmpjzn6opvw4dmapctvnlj57/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://anitaku.to",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03437/tz6772o4h6dt_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=_4rY_fRVGLLqoCq_8mAzZPgktgu5xhpU2ewMYSyBRqk&s=1711673606&e=129600&f=17186402&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03437/tz6772o4h6dt_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=_4rY_fRVGLLqoCq_8mAzZPgktgu5xhpU2ewMYSyBRqk&s=1711673606&e=129600&f=17186402&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://awish.pro",
+                            "Referer": "https://awish.pro/e/tz6772o4h6dt"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIzMDIx&title=Dungeon+Meshi+Episode+13"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.720.m3u8",
+                        "quality": "Gogostream - 720p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjIzMDIx&token=S9EnX4mXzSDiCgCgkHxF3g&expires=1711680805"
+                        }
+                    },
+                    {
+                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03437/tz6772o4h6dt_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=_4rY_fRVGLLqoCq_8mAzZPgktgu5xhpU2ewMYSyBRqk&s=1711673606&e=129600&f=17186402&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03437/tz6772o4h6dt_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=_4rY_fRVGLLqoCq_8mAzZPgktgu5xhpU2ewMYSyBRqk&s=1711673606&e=129600&f=17186402&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://awish.pro",
+                            "Referer": "https://awish.pro/e/tz6772o4h6dt"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIzMDIx&title=Dungeon+Meshi+Episode+13"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.480.m3u8",
+                        "quality": "Gogostream - 480p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjIzMDIx&token=S9EnX4mXzSDiCgCgkHxF3g&expires=1711680805"
+                        }
+                    },
+                    {
+                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03437/tz6772o4h6dt_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=_4rY_fRVGLLqoCq_8mAzZPgktgu5xhpU2ewMYSyBRqk&s=1711673606&e=129600&f=17186402&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03437/tz6772o4h6dt_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=_4rY_fRVGLLqoCq_8mAzZPgktgu5xhpU2ewMYSyBRqk&s=1711673606&e=129600&f=17186402&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://awish.pro",
+                            "Referer": "https://awish.pro/e/tz6772o4h6dt"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIzMDIx&title=Dungeon+Meshi+Episode+13"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.360.m3u8",
+                        "quality": "Gogostream - 360p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjIzMDIx&token=S9EnX4mXzSDiCgCgkHxF3g&expires=1711680805"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.13.1711637552.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIzMDIx&title=Dungeon+Meshi+Episode+13"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

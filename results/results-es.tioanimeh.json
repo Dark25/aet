@@ -117,6 +117,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/snack-basue",
+                                "title": "Snack Basue 12",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3983.jpg"
+                            },
+                            {
+                                "url": "/anime/chiyu-mahou-no-machigatta-tsukaikata",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata 13",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3961.jpg"
+                            },
+                            {
+                                "url": "/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
+                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. 12",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3982.jpg"
+                            },
+                            {
+                                "url": "/anime/gekkan-mousou-kagaku",
+                                "title": "Gekkan Mousou Kagaku 12",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3980.jpg"
+                            },
+                            {
                                 "url": "/anime/urusei-yatsura-2022",
                                 "title": "Urusei Yatsura (2022) 35",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/3746.jpg"
@@ -195,26 +215,6 @@
                                 "url": "/anime/himesama-goumon-no-jikan-desu",
                                 "title": "Himesama \"Goumon\" no Jikan desu 12",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/3972.jpg"
-                            },
-                            {
-                                "url": "/anime/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season 12",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3971.jpg"
-                            },
-                            {
-                                "url": "/anime/high-card",
-                                "title": "High Card 24",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3789.jpg"
-                            },
-                            {
-                                "url": "/anime/kyuujitsu-no-warumonosan",
-                                "title": "Kyuujitsu no Warumono-san 12",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3970.jpg"
-                            },
-                            {
-                                "url": "/anime/shin-no-nakama-s2",
-                                "title": "Shin no Nakama S2 12",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3969.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -359,51 +359,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/10867/rk3gygke0gud_,n,.urlset/index-v1-a1.m3u8?t=QIOE37t8tPFCO-n2t1LEtDkxvvABeJtT5Fbed1AoPDA&s=1711715013&e=14400&f=54336471&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/10867/rk3gygke0gud_,n,.urlset/index-v1-a1.m3u8?t=QIOE37t8tPFCO-n2t1LEtDkxvvABeJtT5Fbed1AoPDA&s=1711715013&e=14400&f=54336471&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=3&sig=8avg5YpibJc&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=3&sig=8avg5YpibJc&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927"
-                    },
-                    {
-                        "url": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=2&sig=Ot7feVb5EqI&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=2&sig=Ot7feVb5EqI&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927"
-                    },
-                    {
-                        "url": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=1&sig=rXUIt88-DQk&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=1&sig=rXUIt88-DQk&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927"
-                    },
-                    {
-                        "url": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=0&sig=mPsilkZCGYs&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=0&sig=mPsilkZCGYs&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927"
-                    },
-                    {
-                        "url": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=4&sig=-wykBUj4pic&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd477.mycdn.me/?expires=1711801414988&srcIp=20.172.24.217&pr=10&srcAg=GECKO&ms=185.226.53.93&type=4&sig=-wykBUj4pic&ct=0&urls=185.226.52.41&clientType=0&zs=43&id=6452535822927"
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20240329G4Li4ViC100/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240329G4Li4ViC100/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     },
@@ -662,26 +619,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-wkgtlrbhjc1mxcjt.voe-network.net/engine/hls2/01/10846/n80jnkqarwfb_,n,.urlset/index-v1-a1.m3u8?t=-S05oKz31zIewGTQVQjV3FX2LbKg7sg4C2uKeLHMFvo&s=1711715019&e=14400&f=54231122&node=delivery-node-wkgtlrbhjc1mxcjt.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-wkgtlrbhjc1mxcjt.voe-network.net/engine/hls2/01/10846/n80jnkqarwfb_,n,.urlset/index-v1-a1.m3u8?t=-S05oKz31zIewGTQVQjV3FX2LbKg7sg4C2uKeLHMFvo&s=1711715019&e=14400&f=54231122&node=delivery-node-wkgtlrbhjc1mxcjt.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20240329iEe3SkhR0N7/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240329iEe3SkhR0N7/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/renegade-nell",
+                                "title": "Renegade Nell (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tAuOJZptjPlpJsvn1YJES6LKRK6.jpg"
+                            },
+                            {
                                 "url": "/serie/alert-unidad-de-personas-desaparecidas",
                                 "title": "Alert: Unidad de Personas Desaparecidas (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kwJ91wfllDsXF3yi9Cvf57uQTNM.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/the-gentlemen-la-serie",
                                 "title": "The Gentlemen: La serie (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/97ayMQKdIWqFaWs6ceiSQlVaTDb.jpg"
-                            },
-                            {
-                                "url": "/serie/la-senal",
-                                "title": "La señal (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ingG1TIJlv9jl6PMmaFgtwDxJKJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/alert-unidad-de-personas-desaparecidas",
-                    "title": "Alert: Unidad de Personas Desaparecidas (2023)",
-                    "description": "Cuando el hijo de la oficial de policía Nikki Parker desaparece, ella se une a la Unidad de Personas Desaparecidas (LAMPU) de LAPD para ayudar a otras personas a encontrar a sus seres queridos, incluso mientras busca a los suyos. Seis años más tarde, su mundo se pone patas arriba cuando su exmarido, Devon Zoellner, aparece con una foto de prueba de vida de su hijo desaparecido. ¿O es eso?.",
-                    "genre": "Drama",
+                    "url": "/serie/renegade-nell",
+                    "title": "Renegade Nell (2024)",
+                    "description": "Inglaterra, 1705: acusada de asesinato y huyendo con sus hermanas, Nell Jackson recurre a atracar carruajes para sobrevivir. Con la ayuda de su compañero con superpoderes, un intrépido duendecillo llamado Billy Blind, Nell se da cuenta de que el destino le ha puesto a la ley en contra por un motivo, un motivo mucho más importante de lo que jamás habría imaginado: detener un complot mágico contra la reina de Inglaterra..",
+                    "genre": "Sci-Fi & Fantasy, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwJ91wfllDsXF3yi9Cvf57uQTNM.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tAuOJZptjPlpJsvn1YJES6LKRK6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/alert-unidad-de-personas-desaparecidas/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/renegade-nell/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/serie/renegade-nell/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true

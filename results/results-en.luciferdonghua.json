@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/solo-1235869/",
+                                "title": "Solo Leveling (2024) Anime",
+                                "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2024/01/solo-leveling-2024-anime-lucifer-donghua-1.webp?fit=768%2C1152&ssl=1"
+                            },
+                            {
+                                "url": "/anime/renegade-immortal-xian-ni/",
+                                "title": "Renegade Immortal [Xian Ni] (2023)",
+                                "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2023/09/renegade-immortal-xian-ni-lucifer-donghua-2.webp?fit=768%2C1540&ssl=1"
+                            },
+                            {
                                 "url": "/anime/battle-through-the-heavens-season-5/",
                                 "title": "Battle Through The Heavens Season 5",
                                 "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2022/07/battle-through-the-heavens-season-5.webp?fit=400%2C561&ssl=1"
@@ -305,16 +315,6 @@
                                 "url": "/anime/immortality-yong-sheng-season-3/",
                                 "title": "Immortality (Yong Sheng) Season 3",
                                 "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2024/03/immortality-yong-sheng-season-3-LUCIFER-DONGHUA.webp?fit=672%2C903&ssl=1"
-                            },
-                            {
-                                "url": "/anime/xi-xing-ji-special-asura-mad-king-2024/",
-                                "title": "Xi Xing Ji Special: Asura [Mad King] (2024)",
-                                "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2024/03/xi-xing-ji-special-asura-mad-king-2024.webp?fit=768%2C1080&ssl=1"
-                            },
-                            {
-                                "url": "/anime/great-journey-of-teenagers-season-3-2023/",
-                                "title": "Great Journey of Teenagers Season 3 (2023)",
-                                "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2023/10/great-journey-of-teenagers-season-2-1.webp?fit=768%2C1179&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -417,8 +417,45 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(eqdnhbXZPSzuFAQ_cnLDEgSCWzzuF_SSpCjiznofupIrVay-iMqL1vkYjaqliFz7TM5JsX6sxL27ZXT2yB0fuPDZqFLkHrFVr00AlORNma_KYUWgokp75_A_xZxF27xhSCHI_cn4hn8ZBGCnxaD6PQ)/video/458/635/537536854_mp4_h264_aac_hd_8.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 720p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(eqdnhbXZPSzuFAQ_cnLDEgSCWzzuF_SSpCjiznofupIrVay-iMqL1vkYjaqliFz7TM5JsX6sxL27ZXT2yB0fuPDZqFLkHrFVr00AlORNma_KYUWgokp75_A_xZxF27xhSCHI_cn4hn8ZBGCnxaD6PQ)/video/458/635/537536854_mp4_h264_aac_hd_8.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(Uc2stbtb5nZ4ttFHpvjGuAz8r5Nkv81I3Z6uo6JB-25_Y99tyk1gnmbr1JOcsf7aFnYbHnbpyUMs5Vtzk8UVfms1Bkqnl8tbNxMLCvt8oyLW8a_8AK0x6aiIO6CuOslH6A4yc4BSxIUI0LCovJFe9Q)/video/458/635/537536854_mp4_h264_aac_fhd_8.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 1080p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(Uc2stbtb5nZ4ttFHpvjGuAz8r5Nkv81I3Z6uo6JB-25_Y99tyk1gnmbr1JOcsf7aFnYbHnbpyUMs5Vtzk8UVfms1Bkqnl8tbNxMLCvt8oyLW8a_8AK0x6aiIO6CuOslH6A4yc4BSxIUI0LCovJFe9Q)/video/458/635/537536854_mp4_h264_aac_fhd_8.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(BsHsirGiySgeO4dAzXQlVfEzrx7JJ84hILCzzYRODDbPt2LH4B7HGDPjrCuG0_MrlP4En5oiwvRSamO1QXCVNHR6Tq5NpImAfce7Jly870oxfmbzU_4SyOm8SAZbSntfWhsm379n_4qEd98zXmmGoA)/video/458/635/537536854_mp4_h264_aac_hq_8.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 480p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(BsHsirGiySgeO4dAzXQlVfEzrx7JJ84hILCzzYRODDbPt2LH4B7HGDPjrCuG0_MrlP4En5oiwvRSamO1QXCVNHR6Tq5NpImAfce7Jly870oxfmbzU_4SyOm8SAZbSntfWhsm379n_4qEd98zXmmGoA)/video/458/635/537536854_mp4_h264_aac_hq_8.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(Jao11PeXv7REHBuW8csqPkKpSXgicpbjEoxlryl5CthGMwTzbFu1fTGTSm1rkV-jfd9sJI8nHfegdB5VMyERRADGgfq-yTEDdhWgfYuceS3n3zY4NUrYSvr6hCzoLZJn-6t9pNFPn2OGv6wVfZsXZQ)/video/458/635/537536854_mp4_h264_aac_8.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 288p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(Jao11PeXv7REHBuW8csqPkKpSXgicpbjEoxlryl5CthGMwTzbFu1fTGTSm1rkV-jfd9sJI8nHfegdB5VMyERRADGgfq-yTEDdhWgfYuceS3n3zY4NUrYSvr6hCzoLZJn-6t9pNFPn2OGv6wVfZsXZQ)/video/458/635/537536854_mp4_h264_aac_8.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

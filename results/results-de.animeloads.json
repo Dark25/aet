@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/one-room-hiatari-futsuu-tenshi-tsuki",
+                                "title": "Studio Apartment, Good Lighting, Angel Included",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-one-room-hiatari-futsuu-tenshi-tsuki-cover.png"
+                            },
+                            {
                                 "url": "/media/ninja-kamui",
                                 "title": "Ninja Kamui",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ninja-kamui-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/sengoku-youko",
                                 "title": "Sengoku Youko",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-sengoku-youko-cover.png"
-                            },
-                            {
-                                "url": "/media/mahou-no-princess-minky-momo",
-                                "title": "Fairy Princess Minky Momo",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mahou-no-princess-minky-momo-cover-1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/ninja-kamui",
-                    "title": "Ninja Kamui",
+                    "url": "/media/one-room-hiatari-futsuu-tenshi-tsuki",
+                    "title": "Studio Apartment, Good Lighting, Angel Included",
                     "author": "",
-                    "description": "Einst gehörte Joe Higan zu einem renommierten Ninja-Clan. Doch dann ließ er dieses Leben hinter sich und tauchte in einer ländlichen Umgebung in Amerika unter. Allerdings holt ihn eines Tages seine Vergangenheit ein und er muss hilflos zusehen, wie seine Familie vor seinen Augen getötet wird. Auch er selber wird für tot gehalten und nutzt diese Tatsache aus, um im Geheimen Rachepläne zu schmieden. Als »Ninja Kamui« macht er sich auf die Suche nach jenen, die sein Leben zerstört haben. Eine blutige Zukunft liegt vor ihm, in der er sich mit zahllosen Feinden auseinandersetzen muss, bevor er dem wahren Verräter gegenüber treten kann – seinem früheren Clan. Quelle: aniSearch",
-                    "genre": "",
+                    "description": "Der Oberschüler Shintaro Tokumitsu lebt schon länger alleine und kommt normalerweise gut zurecht. Doch gerade als er sich eine schlimme Erkältung eingefangen hat, findet er plötzlich ein schlafendes Mädchen in einem sehr auffälligen Kostüm in seinem Zimmer. Es stellt sich als Towa vor und behauptet, tatsächlich ein Engel zu sein, der von Gott als Botschafter auf die Erde geschickt wurde, um ein gutes Verhältnis zu den hier lebenden Menschen aufzubauen. Zuerst ist Shintaro skeptisch und glaubt Towa kein Wort, doch nach einer Weile kommen Zweifel auf. Towa ist naiv und weltfremd, deswegen erlaubt er ihr widerwillig, fürs Erste bei ihm zu wohnen, damit niemand ihre Gutmütigkeit ausnutzt. Trotz ihres holprigen Starts beginnt er, langsam aber sicher ihre Geschichte zu glauben, was seinen geregelten Alltag gehörig durcheinander bringt. Quelle: aniSearch",
+                    "genre": "Romantische Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ninja-kamui-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-one-room-hiatari-futsuu-tenshi-tsuki-cover.png",
                     "initialized": true
                 },
                 "passed": true
@@ -239,21 +239,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/ninja-kamui#streams_episodes_1_5",
-                        "name": "Ep.6 Episode 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/media/ninja-kamui#streams_episodes_1_4",
-                        "name": "Ep.5 Episode 5",
-                        "episode_number": 5.0
+                        "url": "/media/one-room-hiatari-futsuu-tenshi-tsuki#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=mr3PWBLWZKsbo78&expires=1711892859&ip=FROsE0MnDS9X&token=yQ1f2XLWwgej",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=mr3PWBLWZKsbo78&expires=1711892859&ip=FROsE0MnDS9X&token=yQ1f2XLWwgej"
+                    },
+                    {
+                        "url": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/11025/jphzqhhybjoh_,n,.urlset/index-v1-a1.m3u8?t=4HFll2IjRRVYxDu30cmeQvn4CA2ZUyFlMsLlWzjJX9A&s=1711822854&e=14400&f=55129971&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/11025/jphzqhhybjoh_,n,.urlset/index-v1-a1.m3u8?t=4HFll2IjRRVYxDu30cmeQvn4CA2ZUyFlMsLlWzjJX9A&s=1711822854&e=14400&f=55129971&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,24 +7,103 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
-            },
-            "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
-            },
-            "details": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/edge-of-the-world",
+                                "title": "Edge of the World (2021)",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
+                                "title": "2025 - The World enslaved by a Virus (2021)",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
+                            },
+                            {
+                                "url": "/movie/world-s-biggest-bull-shark-",
+                                "title": "World's Biggest Bull Shark? (2021)",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
+                            },
+                            {
+                                "url": "/serie/the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond (2020-2021)",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
+                            },
+                            {
+                                "url": "/serie/the-end-of-the-f-ing-world",
+                                "title": "The End of the F***ing World (2017-2019)",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
+                            },
+                            {
+                                "url": "/serie/run-the-world",
+                                "title": "Run the World (2021-2023)",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/run-the-world.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/movie/edge-of-the-world",
+                    "title": "Edge of the World",
+                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
+                    "genre": "Adventure, Drama",
+                    "initialized": true
+                },
+                "passed": true
+            },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movie/edge-of-the-world/download/",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://yts.mx/torrent/download/F04C7FBA645F34B9C4387F4EA0AA8EC92DE52DDB",
+                        "quality": "BLURAY 1080p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/F04C7FBA645F34B9C4387F4EA0AA8EC92DE52DDB"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/4D29BBE78AE3A896E47D557C503606ABA7B69269",
+                        "quality": "WEB 1080p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/4D29BBE78AE3A896E47D557C503606ABA7B69269"
+                    },
+                    {
+                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
+                        "quality": "480p",
+                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
+                    },
+                    {
+                        "url": "https://dood.la/d/o16rzvmsv5u2",
+                        "quality": "720p",
+                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/23383E27BDFF3A908FA54D0633914B0FD4103D7D",
+                        "quality": "BLURAY 720p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/23383E27BDFF3A908FA54D0633914B0FD4103D7D"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/05CD61AB8927BC94C5FFDDD759B62162A0B9CBE4",
+                        "quality": "WEB 720p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/05CD61AB8927BC94C5FFDDD759B62162A0B9CBE4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

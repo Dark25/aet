@@ -343,48 +343,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=79VTqBN6eXI&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=79VTqBN6eXI&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974"
-                    },
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkxyuehzz3b4quuousqr4osekaok6ipktkwdiblfrfsuemt5llyc2fz64nnbdcdfabkiss4x/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxyuehzz3b4quuousqr4osekaok6ipktkwdiblfrfsuemt5llyc2fz64nnbdcdfabkiss4x/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=FAN0ssa4PMs&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=FAN0ssa4PMs&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=PQ1lr0C_imc&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=PQ1lr0C_imc&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=Cys_DzdCcko&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=Cys_DzdCcko&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=hANtFeAp3yM&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=hANtFeAp3yM&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=4G1kyU0BCns&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1711974073211&srcIp=20.51.207.130&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=4G1kyU0BCns&ct=0&urls=185.226.53.87%3B45.136.20.74&clientType=0&zs=43&id=6042029066974"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
+                "passed": false
             }
         }
     }

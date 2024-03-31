@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/dennou-keisatsu-cybercop.html",
                                 "title": "Dennou Keisatsu Cybercop",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/dennou-keisatsu-cybercop-thumb.png"
@@ -45,16 +55,6 @@
                                 "url": "/watch/garo-heir-to-steel-armor.html",
                                 "title": "GARO: Heir to Steel Armor",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/garo-heir-to-steel-armor-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-x-super-sentai-x-space-sheriff-super-hero-taisen-otsu-heroo-answers.html",
@@ -144,14 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/dennou-keisatsu-cybercop.html",
-                    "title": "Dennou Keisatsu Cybercop",
-                    "author": "Year 1988",
-                    "description": "Dennou Keisatsu Cybercop is a Japanese tokusatsu TV series. First created in 1988 by Toho Enterprises, the show was an attempt to create a Tokusatsu series using a Super Sentai motif, but the idea was dropped after the unaired pilot. The series itself still slightly resembled a sentai show, with most of the protagonists wearing color-coordinated armor. The show was broadcast on NTV and aired from October 2, 1988 to July 5, 1989.",
-                    "genre": "Other, Series",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/dennou-keisatsu-cybercop-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,20 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/dennou-keisatsu-cybercop.html?ep=36#watch",
-                        "name": "Episode 36",
-                        "episode_number": 36.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=6#watch",
+                        "name": "Episode 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/watch/dennou-keisatsu-cybercop.html?ep=35#watch",
-                        "name": "Episode 35",
-                        "episode_number": 35.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=5#watch",
+                        "name": "Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

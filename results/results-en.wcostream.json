@@ -198,8 +198,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-apothecary-diaries-episode-23-english-dubbed",
+                        "name": "Episode: The Apothecary Diaries Episode 23 English Dubbed",
+                        "episode_number": 23.0
+                    },
+                    {
+                        "url": "/the-apothecary-diaries-episode-22-english-dubbed",
+                        "name": "Episode: The Apothecary Diaries Episode 22 English Dubbed",
+                        "episode_number": 22.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1: Expected quotation mark '\"', but had 'o' instead at path: $[0]\nJSON input: [optionKey]",

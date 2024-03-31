@@ -227,6 +227,54 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/night-court",
+                                "title": "Night Court",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22184.webp"
+                            },
+                            {
+                                "url": "/serie/online/will-trent",
+                                "title": "Will Trent",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22137.webp"
+                            },
+                            {
+                                "url": "/serie/online/chicago-p-d-distrito-21",
+                                "title": "Chicago P.D.: Distrito 21",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4522.webp"
+                            },
+                            {
+                                "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
+                                "title": "Chicago Fire: Heróis Contra o Fogo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4449.webp"
+                            },
+                            {
+                                "url": "/serie/online/we-were-the-lucky-ones",
+                                "title": "We Were the Lucky Ones",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22664.webp"
+                            },
+                            {
+                                "url": "/serie/online/ltimo-ato",
+                                "title": "Último Ato",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22655.webp"
+                            },
+                            {
+                                "url": "/serie/online/a-gentleman-in-moscow",
+                                "title": "A Gentleman in Moscow",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22666.webp"
+                            },
+                            {
+                                "url": "/serie/online/nell-a-renegada",
+                                "title": "Nell, a Renegada",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22665.webp"
+                            },
+                            {
                                 "url": "/serie/online/tokyo-vice",
                                 "title": "Tokyo Vice",
                                 "status": 1,
@@ -297,54 +345,6 @@
                                 "title": "FBI",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4051.webp"
-                            },
-                            {
-                                "url": "/serie/online/fbi-international",
-                                "title": "FBI: International",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19510.webp"
-                            },
-                            {
-                                "url": "/serie/online/chicago-p-d-distrito-21",
-                                "title": "Chicago P.D.: Distrito 21",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4522.webp"
-                            },
-                            {
-                                "url": "/serie/online/chicago-med",
-                                "title": "Chicago Med: Atendimento de Emergência",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4818.webp"
-                            },
-                            {
-                                "url": "/serie/online/abbott-elementary",
-                                "title": "Abbott Elementary",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22226.webp"
-                            },
-                            {
-                                "url": "/serie/online/greys-anatomy",
-                                "title": "A Anatomia de Grey",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/18620.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-walking-dead-the-ones-who-live",
-                                "title": "The Walking Dead: The Ones Who Live",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22642.webp"
-                            },
-                            {
-                                "url": "/serie/online/ninja-kamui",
-                                "title": "Ninja Kamui",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22630.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-problema-dos-3-corpos",
-                                "title": "O Problema dos 3 Corpos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22661.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

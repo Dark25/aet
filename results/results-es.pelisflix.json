@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-ultima-noche-de-sandra-m/",
+                                "title": "La última noche de Sandra M.",
+                                "description": "Libremente inspirada en la vida de la actriz Sandra Mozarowsky, fallecida en 1977 al precipitarse de...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/TBKQtBWJro6tpqwjYHHKa.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-cheerleader-escort/",
                                 "title": "The Cheerleader Escort",
                                 "description": "Cuando Cassie, una recién llegada a la universidad, consigue entrar en el equipo de cheerleaders, s...",
@@ -239,12 +245,6 @@
                                 "title": "Shirley",
                                 "description": "En 1972, Shirley Chisholm se presenta como candidata a la presidencia de EE. UU. por el Partido Dem�...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/WpKWdSfVyZLiKUC88uMXBhzydIN.webp"
-                            },
-                            {
-                                "url": "/pelicula/cazafantasmas-imperio-helado/",
-                                "title": "Cazafantasmas: Imperio helado",
-                                "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nue...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/QzsQrqdZQjiWBLOaBqjt8hJyc2SKdbBTBTATaEIQO.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,9 +516,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-cheerleader-escort/",
-                    "title": "The Cheerleader Escort",
-                    "description": "Cuando Cassie, una recién llegada a la universidad, consigue entrar en el equipo de cheerleaders, se siente embriaga de felicidad. Un día conoce a Terry, el carismático presidente de la Asociación de Alumnos, y se enamora rápidamente de él pese a la diferencia de edad que existe entre ambos. Sin embargo, Cassie descubre que parte de los miembros de la asociación emplean a las animadoras para prácticas poco saludables, algo que posteriormente deriva en el asesinato de una de ellas. La joven estudiante decide hacer todo lo posible por que se conozca la verdad.",
+                    "url": "/pelicula/la-ultima-noche-de-sandra-m/",
+                    "title": "La última noche de Sandra M.",
+                    "description": "Libremente inspirada en la vida de la actriz Sandra Mozarowsky, fallecida en 1977 al precipitarse desde la terraza de su casa de Madrid, la historia se centrará en el día previo al accidente, en la que la soledad, los miedos y la angustia ante una situación desesperada se mezclan con su sueños y ambiciones.",
                     "genre": "Drama",
                     "initialized": true
                 },
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-cheerleader-escort/",
+                        "url": "/pelicula/la-ultima-noche-de-sandra-m/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar jTNMmQIvbr = \"\"; QFSwdmi.forEach(function Oym(value) { jTNMmQIvbr += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar EiDeFhvlQ = \"\"; sUXYzbfM.forEach(function Oym(value) { EiDeFhvlQ += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

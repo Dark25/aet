@@ -112,14 +112,14 @@
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/helgoland-513-stream-cover-7HsGcWl9DvywrkhQ9gi5J5q9BRL59Z4I_200x300.jpg"
                             },
                             {
-                                "url": "/serie/stream/masters-of-the-air",
-                                "title": "Masters of the Air",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/masters-of-the-air-stream-cover-AyzstDKtPNQJXq5jXpZhWR3tKyu1Yaeg_200x300.jpg"
-                            },
-                            {
                                 "url": "/serie/stream/star-wars-the-bad-batch",
                                 "title": "Star Wars: The Bad Batch",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/star-wars-the-bad-batch-stream-cover-DyQszcQjZKjFRXxIS73wAriLGXjfKFsB_200x300.jpg"
+                            },
+                            {
+                                "url": "/serie/stream/masters-of-the-air",
+                                "title": "Masters of the Air",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/masters-of-the-air-stream-cover-AyzstDKtPNQJXq5jXpZhWR3tKyu1Yaeg_200x300.jpg"
                             },
                             {
                                 "url": "/serie/stream/allegiance-2024",
@@ -242,6 +242,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/stream/one-room-hiatari-futsuu-tenshi-tsuki",
+                                "title": "One Room, Hiatari Futsuu, Tenshi-tsuki",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/one-room-hiatari-futsuu-tenshi-tsuki-stream-cover-vJ5oBg2Ook78CT1CkpxWDA6m9aILSuU6_200x300.jpg"
+                            },
+                            {
                                 "url": "/serie/stream/renegade-nell",
                                 "title": "Renegade Nell",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/renegade-nell-stream-cover-yIY0f7EdXcAMalXPcd9lw0TVuEvunzbh_200x300.jpg"
@@ -335,11 +340,6 @@
                                 "url": "/serie/stream/kafka",
                                 "title": "Kafka",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/kafka-stream-cover-KjlShpUXsgsEes22z2i1oD9kbm1GqEK6_200x300.jpg"
-                            },
-                            {
-                                "url": "/serie/stream/northern-lights",
-                                "title": "Northern Lights",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/northern-lights-stream-cover-L6LhChqTWnowLDDFR9L0Uq86MaMay3za_200x300.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -366,14 +366,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/serie/stream/the-walking-dead-the-ones-who-live/staffel-1/episode-6",
+                        "name": "Staffel 1 Folge 6 : The Last Time",
+                        "episode_number": 6.0
+                    },
+                    {
                         "url": "/serie/stream/the-walking-dead-the-ones-who-live/staffel-1/episode-5",
                         "name": "Staffel 1 Folge 5 : Become",
                         "episode_number": 5.0
-                    },
-                    {
-                        "url": "/serie/stream/the-walking-dead-the-ones-who-live/staffel-1/episode-4",
-                        "name": "Staffel 1 Folge 4 : What We",
-                        "episode_number": 4.0
                     }
                 ],
                 "passed": true

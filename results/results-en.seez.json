@@ -82,11 +82,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg"
                             },
                             {
-                                "url": "{\"id\":1239251,\"media_type\":\"movie\"}",
-                                "title": "Megamind vs. the Doom Syndicate",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//fko8CPrnspewLXgFUlUkivyvpHX.jpg"
-                            },
-                            {
                                 "url": "{\"id\":1046090,\"media_type\":\"movie\"}",
                                 "title": "The Pig, the Snake and the Pigeon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//7IJ7F8tX7IAkpUdaGovOBJqORnJ.jpg"
@@ -94,7 +89,12 @@
                             {
                                 "url": "{\"id\":693134,\"media_type\":\"movie\"}",
                                 "title": "Dune: Part Two",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1239251,\"media_type\":\"movie\"}",
+                                "title": "Megamind vs. the Doom Syndicate",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//fko8CPrnspewLXgFUlUkivyvpHX.jpg"
                             },
                             {
                                 "url": "{\"id\":1049948,\"media_type\":\"movie\"}",
@@ -259,6 +259,34 @@
                             "Origin": "https://e69975b881.nl",
                             "Referer": "https://e69975b881.nl/"
                         }
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05764/yustro0ijsfv_x/index-v1-a1.m3u8?t=cjTA_r9gfL12mNi2i9Bt8z8xRr7j6e3TuQfdljHduno&s=1711887613&e=43200&f=28820327&srv=04&asn=8075&sp=2500",
+                        "quality": "Filemoon - 304p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05764/yustro0ijsfv_x/index-v1-a1.m3u8?t=cjTA_r9gfL12mNi2i9Bt8z8xRr7j6e3TuQfdljHduno&s=1711887613&e=43200&f=28820327&srv=04&asn=8075&sp=2500",
+                        "headers": {
+                            "Referer": "https://kerapoxy.cc/e/yustro0ijsfv/?sub.info=https%3A%2F%2Fvidsrc.to%2Fajax%2Fembed%2Fepisode%2FofNhPMlk%2Fsubtitles&t=4xjRCP0uA1MIzQ%3D%3D&ads=0&src=vidsrc",
+                            "Origin": "https://kerapoxy.cc",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://rapidcdn.cc/sub/cache/subtitle/14331212.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://rapidcdn.cc/sub/cache/subtitle/14331964.vtt",
+                                "lang": "Farsi/Persian"
+                            },
+                            {
+                                "url": "https://rapidcdn.cc/sub/cache/subtitle/14339821.vtt",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://rapidcdn.cc/sub/cache/subtitle/14338906.vtt",
+                                "lang": "Persian"
+                            }
+                        ]
                     }
                 ],
                 "passed": true

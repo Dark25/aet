@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/deserted-izle/",
+                                "title": "Deserted",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/deserted-izle_list.jpg"
+                            },
+                            {
                                 "url": "/billie-the-kid/",
                                 "title": "Billie The Kid",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/billie-the-kid_list.jpg"
@@ -140,11 +145,6 @@
                                 "url": "/fletch-lives/",
                                 "title": "Acar Hafiye İş Başında",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/fletch-lives_list.jpg"
-                            },
-                            {
-                                "url": "/hd-komiser-2013-izle-4/",
-                                "title": "Komiser",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/hd-komiser-2013-izle_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,13 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/billie-the-kid/",
-                    "title": "Billie The Kid",
-                    "description": "Kovboyların hiçbiri vampirlere inanmasa da, silahlı \"Bayan Billie\" ve şerif ayakta kalan son iki kişi oluncaya kadar kanlı bir çatışma başlıyor.",
-                    "genre": "Aksiyon, Fantastik, Western",
+                    "url": "/deserted-izle/",
+                    "title": "Deserted",
+                    "artist": "Mischa Barton, Jackson Davis, Jake Busey, Winter Ave Zoli, Trent Ford, Dana Rosendorff, Heidi James, Kelly Brannigan, Sebastian Bach, Lance Henriksen",
+                    "description": "Hapisten yeni çıkan 24 yaşındaki Jae, eski evine kardeşinin yanına döner. İçindeki gitme arzusunu bastıramayan genç kadın, kardeşinin yol gezisi teklifini kabul eder. Ancak yolda arabaları bozulunca hiçliğin ortasında amansız bir mücadele başlayacaktır.",
+                    "genre": "Dram, Gerilim",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/billie-the-kid.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/deserted-izle.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -428,7 +429,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/billie-the-kid/",
+                        "url": "/deserted-izle/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -436,8 +437,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://box-ot-969.vmeas.cloud/hls/xqx2plc5dvokjiqbtffcljiyw2uca7ri6v4ths5o3ba26fiza2r7w677yc7q/index-v1.m3u8",
+                        "quality": "Vidmoly - 796p",
+                        "videoUrl": "https://box-ot-969.vmeas.cloud/hls/xqx2plc5dvokjiqbtffcljiyw2uca7ri6v4ths5o3ba26fiza2r7w677yc7q/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-llgr1un96kvd.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

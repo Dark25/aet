@@ -541,7 +541,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: java.lang.Exception: bruh",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-tiempo-del-amor/",
+                                "title": "El tiempo del amor",
+                                "description": "Una camarera de hotel, Madeleine, que es madre de un niño pequeño, conoce a un estudiante rico, Fr...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/pGfHaZAWPRTiwzkUtWYwzOrptCJufQivmo3mdt9T.webp"
+                            },
+                            {
                                 "url": "/pelicula/la-ultima-noche-de-sandra-m/",
                                 "title": "La última noche de Sandra M.",
                                 "description": "Libremente inspirada en la vida de la actriz Sandra Mozarowsky, fallecida en 1977 al precipitarse de...",
@@ -239,12 +245,6 @@
                                 "title": "La Petite",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/eyxPbogg3R79MIrOK.webp"
-                            },
-                            {
-                                "url": "/pelicula/shirley/",
-                                "title": "Shirley",
-                                "description": "En 1972, Shirley Chisholm se presenta como candidata a la presidencia de EE. UU. por el Partido Dem�...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/WpKWdSfVyZLiKUC88uMXBhzydIN.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-ultima-noche-de-sandra-m/",
-                    "title": "La última noche de Sandra M.",
-                    "description": "Libremente inspirada en la vida de la actriz Sandra Mozarowsky, fallecida en 1977 al precipitarse desde la terraza de su casa de Madrid, la historia se centrará en el día previo al accidente, en la que la soledad, los miedos y la angustia ante una situación desesperada se mezclan con su sueños y ambiciones.",
-                    "genre": "Drama",
+                    "url": "/pelicula/el-tiempo-del-amor/",
+                    "title": "El tiempo del amor",
+                    "description": "Una camarera de hotel, Madeleine, que es madre de un niño pequeño, conoce a un estudiante rico, François. La relación entre ellos se vuelve muy intensa, pero con el tiempo es evidente que François está tratando de escapar enredando el destino de Madeleine con el suyo.",
+                    "genre": "Drama, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-ultima-noche-de-sandra-m/",
+                        "url": "/pelicula/el-tiempo-del-amor/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar ToXPZbqGSS = \"\"; rEPHaYfVKV.forEach(function Oym(value) { ToXPZbqGSS += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mTuLWGebQo = \"\"; KvCecotbG.forEach(function Oym(value) { mTuLWGebQo += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

@@ -117,6 +117,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jKM36CaXU4W57jGichRkpc6S5P3.jpg"
                             },
                             {
+                                "url": "/api/v1/titles/13048?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "A Silent Voice",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ndlHzeb0WwdorqDzikjuQg9Lxw1.jpg"
+                            },
+                            {
                                 "url": "/api/v1/titles/12745?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "TAYLOR SWIFT | THE ERAS TOUR",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jf3YO8hOqGHCupsREf5qymYq1n.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/api/v1/titles/8093?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Life in a Year",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/bP7u19opmHXYeTCUwGjlLldmUMc.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/7065?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wms1bzZA6RYAumrq8tysdcRQ0GP.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,25 +394,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfteewnmyz5ne7vkqa/index-v1-a1.m3u8",
-                        "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfteewnmyz5ne7vkqa/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvteewnmy6tngxqclq/index-v1-a1.m3u8",
-                        "quality": "SuperVideo - 400p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvteewnmy6tngxqclq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

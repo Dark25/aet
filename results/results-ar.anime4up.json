@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dragon-ball-movie-3-makafushigi-daibouken/",
+                                "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_20h01m51s_003_-215x300.png"
+                            },
+                            {
+                                "url": "/anime/dragon-ball-movie-2-majinjou-no-nemurihime/",
+                                "title": "Dragon Ball Movie 2: Majinjou no Nemurihime",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_19h41m50s_001_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/dragon-ball-movie-1-shen-long-no-densetsu/",
                                 "title": "Dragon Ball Movie 1: Shen Long no Densetsu",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.01_20h30m25s_001_-215x300.png"
@@ -235,16 +245,6 @@
                                 "url": "/anime/snack-basue/",
                                 "title": "Snack Basue",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.12_13h53m08s_004_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita/",
-                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.12_13h46m10s_002_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/majo-to-yajuu/",
-                                "title": "Majo to Yajuu",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.11_17h03m30s_004_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -359,39 +359,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dragon-ball-movie-1-shen-long-no-densetsu/",
-                    "title": "Dragon Ball Movie 1: Shen Long no Densetsu",
-                    "description": "النوع: Movie\nبداية العرض: 1986\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 50 دقيقة\nالموسم: شتاء 1986\nالمصدر: مانجا\n\nقصة فيلم Dragon Ball Movie 1 Curse of the Blood Rubies تتحدث عن رواية أصول لكراة التنين ، وهذه النسخة مختلفة عن اجتماع غوكو، بولما، أولونج، وياموشا. يبحثون جميعًا عن كرات التنين لأسباب مختلفة عندما يتقاطعون مع ملك شرير يدعى جورميه، الذي يبحث أيضا عن كرات التنين.",
-                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, قوى خارقة, شونين, Movie, مكتمل, شتاء 1986",
+                    "url": "/anime/dragon-ball-movie-3-makafushigi-daibouken/",
+                    "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
+                    "description": "النوع: Movie\nبداية العرض: 1988\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 45 دقيقة\nالموسم: صيف 1988\nالمصدر: مانجا\n\nقصة فيلم Dragon Ball Movie 3 Mystical Great Adventure تتحدث إختفاء زوجة الإمبراطور تشياوتزو ، وأخبره السيد شين أنه إذا جمع كرات التنين السبعة ، يمكنه استدعاء التنين الأبدي ووتحقيق رغبته في إعادتها. وفي الوقت نفسه ، يشارك جوكو وكيريلين في البطولة العالمية لفنون الدفاع عن النفس التي يستضيفها الإمبراطور، يحاول بورا وابنه أوبا إخفاء كرة التنين التي عثروا عليها من قوات الإمبراطور، والتي تخضع لسيطرة الشر المطلق والجنرال تاو وتجري بولما بحثها الخاص عن كرات التنين بمساعدة ياماتشا و بوار و أولونج.",
+                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, خيال علمي, قوى خارقة, شونين, Movie, مكتمل, صيف 1988",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.01_20h30m25s_001_.png",
+                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_20h01m51s_003_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/فيلم-dragon-ball-movie-1-shen-long-no-densetsu/",
-                        "name": "الفلم 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m150.uqload.to/3rfkybsfsvw2q4drdirpv5xxl5bwgtdcwlxipul2dbe4kq3xfyqxzkrb5neq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m150.uqload.to/3rfkybsfsvw2q4drdirpv5xxl5bwgtdcwlxipul2dbe4kq3xfyqxzkrb5neq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

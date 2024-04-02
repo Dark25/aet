@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/ocho-apellidos-marroquis/",
+                                "title": "Ocho apellidos marroquís",
+                                "description": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. E...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ZiOiYyr8ioa1BcyE0UCTxD6hQ6X80dZPmDXa2f9bt.webp"
+                            },
+                            {
+                                "url": "/pelicula/un-verano-en-creta/",
+                                "title": "Un verano en Creta",
+                                "description": "Una herencia inesperada conduce a Isabel a Creta, donde descubre que su padre le ha dejado una casa ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5WnSUv8RefavUUZMQxil3sOxIHijdx.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-tiempo-del-amor/",
                                 "title": "El tiempo del amor",
                                 "description": "Una camarera de hotel, Madeleine, que es madre de un niño pequeño, conoce a un estudiante rico, Fr...",
@@ -233,18 +245,6 @@
                                 "title": "Tres ladrones y un león",
                                 "description": "Los tres ladrones Kasper, Jesper y Jonathan viven junto con su siempre hambriento león en el peque�...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/B9Zmq5fz1x5LRVOY8hbi.webp"
-                            },
-                            {
-                                "url": "/pelicula/llego-a-mi/",
-                                "title": "Llegó a mi",
-                                "description": "Sigue a un compositor de ópera que sufre el bloqueo del escritor y redescubre su pasión después d...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/S2i97lCoMVvvVJcCmho8olJhW.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-petite/",
-                                "title": "La Petite",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/eyxPbogg3R79MIrOK.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-tiempo-del-amor/",
-                    "title": "El tiempo del amor",
-                    "description": "Una camarera de hotel, Madeleine, que es madre de un niño pequeño, conoce a un estudiante rico, François. La relación entre ellos se vuelve muy intensa, pero con el tiempo es evidente que François está tratando de escapar enredando el destino de Madeleine con el suyo.",
-                    "genre": "Drama, Romance",
+                    "url": "/pelicula/ocho-apellidos-marroquis/",
+                    "title": "Ocho apellidos marroquís",
+                    "description": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.",
+                    "genre": "Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-tiempo-del-amor/",
+                        "url": "/pelicula/ocho-apellidos-marroquis/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar xyPDNvu = \"\"; hoXRqqpBZD.forEach(function Oym(value) { xyPDNvu += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar pEJrnfp = \"\"; OsGcTjqxz.forEach(function Oym(value) { pEJrnfp += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

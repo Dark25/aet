@@ -113,20 +113,121 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=65ff9ae776f5db89596d0c91",
+                    "title": "Ghostbusters: Frozen Empire",
+                    "description": "Callie (Carrie Coon), Trevor (Finn Wolfhard) und Phoebe (Mckenna Grace) Spengler kehren an den Ort zurück, an dem alles begann: in die für Geisterjäger ikonische Feuerwache in New York City. Dort müssen sie sich mit den ursprünglichen Mitgliedern der Ghostbusters zusammentun, die derweil ein streng geheimes Forschungslabor eingerichtet haben, um die Geisterjagd auf die nächste Stufe zu heben. Als die Entdeckung eines uralten Artefakts eine böse Macht freisetzt, müssen die beiden Geisterjäger-Teams ihre Kräfte bündeln, um ihre Heimat zu schützen und die Welt vor einer neuen Eiszeit zu bewahren.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=65ff9ae776f5db89596d0c91",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089372&ip=FROsFxWnDS9X&token=79oWc_6yyHr0",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089372&ip=FROsFxWnDS9X&token=79oWc_6yyHr0"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089372&ip=FROsFxWnDS9X&token=79oWc_6yyHr0",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089372&ip=FROsFxWnDS9X&token=79oWc_6yyHr0"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089372&ip=FROsFxWnDS9X&token=79oWc_6yyHr0",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089372&ip=FROsFxWnDS9X&token=79oWc_6yyHr0"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ApalOOBgWbTZxv&expires=1712089372&ip=FROsFxWnDS9X&token=OWOuVl8pBaB9",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ApalOOBgWbTZxv&expires=1712089372&ip=FROsFxWnDS9X&token=OWOuVl8pBaB9"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6aApeQ6OBoseWX&expires=1712089372&ip=FROsFxWnDS9X&token=k_f9Wcq5GNqY",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6aApeQ6OBoseWX&expires=1712089372&ip=FROsFxWnDS9X&token=k_f9Wcq5GNqY"
+                    },
+                    {
+                        "url": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/10994/sjmzihw9x25k_,n,.urlset/index-v1-a1.m3u8?t=GhR_lhhLFpXaHs_bObVWI1IX1KhBxgiEiggV2wVJoDs&s=1712019371&e=14400&f=54974094&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "quality": "Voe: 554p",
+                        "videoUrl": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/10994/sjmzihw9x25k_,n,.urlset/index-v1-a1.m3u8?t=GhR_lhhLFpXaHs_bObVWI1IX1KhBxgiEiggV2wVJoDs&s=1712019371&e=14400&f=54974094&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6aApeQ6OBoseWX&expires=1712089371&ip=FROsFxWnDS9X&token=ZophlW83gmxX",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6aApeQ6OBoseWX&expires=1712089371&ip=FROsFxWnDS9X&token=ZophlW83gmxX"
+                    },
+                    {
+                        "url": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/10994/sjmzihw9x25k_,n,.urlset/index-v1-a1.m3u8?t=GhR_lhhLFpXaHs_bObVWI1IX1KhBxgiEiggV2wVJoDs&s=1712019371&e=14400&f=54974094&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "quality": "Voe: 554p",
+                        "videoUrl": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/10994/sjmzihw9x25k_,n,.urlset/index-v1-a1.m3u8?t=GhR_lhhLFpXaHs_bObVWI1IX1KhBxgiEiggV2wVJoDs&s=1712019371&e=14400&f=54974094&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/10994/sjmzihw9x25k_,n,.urlset/index-v1-a1.m3u8?t=_IfLKhOh045lRdxmEik3ws7JltK6bJIq8WX-O50_AoM&s=1712019370&e=14400&f=54974094&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "quality": "Voe: 554p",
+                        "videoUrl": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/10994/sjmzihw9x25k_,n,.urlset/index-v1-a1.m3u8?t=_IfLKhOh045lRdxmEik3ws7JltK6bJIq8WX-O50_AoM&s=1712019370&e=14400&f=54974094&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=DzRAD3wgoYFkjbQ&expires=1712089369&ip=FROsFxWnDS9X&token=2YkhVck1BFn7",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=DzRAD3wgoYFkjbQ&expires=1712089369&ip=FROsFxWnDS9X&token=2YkhVck1BFn7"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089369&ip=FROsFxWnDS9X&token=p9xCVHvAn4ra"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089368&ip=FROsFxWnDS9X&token=Xnuk_QVoMB6T",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089368&ip=FROsFxWnDS9X&token=Xnuk_QVoMB6T"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089367&ip=FROsFxWnDS9X&token=qcwlplHSP3fR",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1X9jyewaqCJrK0&expires=1712089367&ip=FROsFxWnDS9X&token=qcwlplHSP3fR"
+                    }
+                ],
+                "passed": true
             }
         }
     }

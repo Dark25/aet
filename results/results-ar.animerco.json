@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/ookami-to-koushinryou-merchant-meets-the-wise-wolf/",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/04/kazkmzsd2D0F3UaVgkVYCeTdx5I.jpg"
+                            },
+                            {
                                 "url": "/animes/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu/",
                                 "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/04/kMDJ2hdBTLZn33O53xCtE14fFD1.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/animes/pon-no-michi/",
                                 "title": "Pon no Michi",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/54pd82UGQaTEQH7keVKIw8GFkJr.jpg"
-                            },
-                            {
-                                "url": "/animes/chiyu-mahou-no-machigatta-tsukaikata/",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/cmnScbX505dKwpRGKoGhCsVBUw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -219,22 +219,28 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu/",
-                    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-                    "artist": "Tsumugi Akita Animation Lab",
-                    "author": "TSC, TV Aichi, TV Osaka, TV Tokyo, TVh, TVQ",
-                    "description": "لم يكن لويد أميرًا عاديًا، بل عاش حياة سابقة يذكرها بوضوح، حياة ساحرٍ فريدٍ من نوعه. وعندما أُجبر على التناسخ، لم يتخلّ عن شغفه، بل قرر متابعة دراسته السحرية حتى مع توليه عرش المملكة. لكن حياته الجديدة لم تكن خالية من التحديات، فكونه أميرًا في العاشرة من عمره يضع عبئًا كبيرًا على عاتقيه. فكيف سينجح الأمير / الساحر السابع في تحقيق التوازن بين واجباته الملكية وشغفه بالسحر؟\n\nAlternative title: I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
-                    "genre": "خيال, مغامرة",
+                    "url": "/animes/ookami-to-koushinryou-merchant-meets-the-wise-wolf/",
+                    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                    "artist": "ENISHIYA, Passione, Toho",
+                    "author": "TV Aichi, TV Osaka, TV Tokyo",
+                    "description": "لورانس، تاجر متجول يجوب البلاد على عربته التي يجرها حصان، يبيع بضائع متنوعة. في رحلاته، يصل إلى قرية نائية حيث يلتقي بـهولو، فتاة جميلة ذات ملامح مميزة: أذنين وذيل حيوان! هولو ليست فتاة عادية، فهي “الذئب الحكيم” التي تجلب الخير والرخاء للقرية من خلال بركاتها التي تُثمر الأرض. تُعاني هولو من رغبة قوية في العودة إلى موطنها الأصلي، وسرعان ما يلمح لورانس رغبتها، فيعرض عليها مساعدتها في رحلتها. فما الذي ينتظر لورانس وهولو في رحلتهما؟\n\nAlternative title: Spice and Wolf: Merchant Meets the Wise Wolf",
+                    "genre": "خيال, دراما, رومانسي, مغامرة",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/04/kMDJ2hdBTLZn33O53xCtE14fFD1.jpg",
+                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/04/kazkmzsd2D0F3UaVgkVYCeTdx5I.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes/ookami-to-koushinryou-merchant-meets-the-wise-wolf-الحلقة-1/",
+                        "name": "Ookami to Koushinryou: Merchant Meets the Wise Wolf الموسم 1: الحلقة 1",
+                        "episode_number": 1.001
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

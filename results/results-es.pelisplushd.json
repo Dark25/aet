@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/lucky-hank",
+                                "title": "Lucky Hank (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/eKYPaXerPYUhmCsGlk8KlGkrIc9.jpg"
+                            },
+                            {
                                 "url": "/serie/urgencias-existenciales",
                                 "title": "Urgencias existenciales (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9GqvDevsEgRThGdqmCv5xxLFVow.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/pretty-freekin-scary",
                                 "title": "Pretty Freekin Scary (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6MMy6IIGNL881kKKTyQCnokGn0v.jpg"
-                            },
-                            {
-                                "url": "/serie/parque-prehistorico",
-                                "title": "Parque Prehistórico (2006)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dKTzN99UMHCZIgH8otfSr5gzz9V.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/urgencias-existenciales",
-                    "title": "Urgencias existenciales (2024)",
-                    "description": "Una comedia romántica sobre médicos que están en una depresión mientras intentan resucitar sus vidas. Su historia captura el amor y el crecimiento de dos personajes que viven en una casa en la azotea después de dejar sus trabajos como médicos..",
-                    "genre": "Comedia, Drama",
+                    "url": "/serie/lucky-hank",
+                    "title": "Lucky Hank (2023)",
+                    "description": "Una historia sobre la crisis de la mediana edad sobre el improbable presidente del departamento de inglés en una universidad con fondos insuficientes en el cinturón industrial de Pensilvania..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9GqvDevsEgRThGdqmCv5xxLFVow.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eKYPaXerPYUhmCsGlk8KlGkrIc9.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/urgencias-existenciales/temporada/1/capitulo/10",
-                        "name": "T1 - E10: Episodio 10",
-                        "episode_number": 10.0
+                        "url": "/serie/lucky-hank/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/serie/urgencias-existenciales/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/lucky-hank/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -620,9 +620,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7LX7eNyw9q_zfWnV8lxeksttsPybBoBGjE3l-I9TMZQ&s=1712125082&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
+                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IpLrlobyiTVrFJGvIB8bD0VLRlDGSHZDB8O5Oiqts5M&s=1712147038&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7LX7eNyw9q_zfWnV8lxeksttsPybBoBGjE3l-I9TMZQ&s=1712125082&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
+                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IpLrlobyiTVrFJGvIB8bD0VLRlDGSHZDB8O5Oiqts5M&s=1712147038&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -631,9 +631,9 @@
                         }
                     },
                     {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7LX7eNyw9q_zfWnV8lxeksttsPybBoBGjE3l-I9TMZQ&s=1712125082&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
+                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IpLrlobyiTVrFJGvIB8bD0VLRlDGSHZDB8O5Oiqts5M&s=1712147038&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7LX7eNyw9q_zfWnV8lxeksttsPybBoBGjE3l-I9TMZQ&s=1712125082&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
+                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03485/nu7gsnpf33z0_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IpLrlobyiTVrFJGvIB8bD0VLRlDGSHZDB8O5Oiqts5M&s=1712147038&e=129600&f=17429101&srv=sschizd3euyy&i=0.4&sp=500&p1=sschizd3euyy&p2=sschizd3euyy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -642,9 +642,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=3RAqKxLW1xtMd2WaqkX-KxKOqTN9Ffzbg8sVKa9L8UY&s=1712125082&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=OgYXGFpDY0GLUTx8sSddDaQ08Q82DrzeVei--diaXaQ&s=1712147039&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "quality": "[CAST] StreamWish:1080p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=3RAqKxLW1xtMd2WaqkX-KxKOqTN9Ffzbg8sVKa9L8UY&s=1712125082&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=OgYXGFpDY0GLUTx8sSddDaQ08Q82DrzeVei--diaXaQ&s=1712147039&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -653,9 +653,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=3RAqKxLW1xtMd2WaqkX-KxKOqTN9Ffzbg8sVKa9L8UY&s=1712125082&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OgYXGFpDY0GLUTx8sSddDaQ08Q82DrzeVei--diaXaQ&s=1712147039&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=3RAqKxLW1xtMd2WaqkX-KxKOqTN9Ffzbg8sVKa9L8UY&s=1712125082&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OgYXGFpDY0GLUTx8sSddDaQ08Q82DrzeVei--diaXaQ&s=1712147039&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -664,9 +664,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=3RAqKxLW1xtMd2WaqkX-KxKOqTN9Ffzbg8sVKa9L8UY&s=1712125082&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=OgYXGFpDY0GLUTx8sSddDaQ08Q82DrzeVei--diaXaQ&s=1712147039&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=3RAqKxLW1xtMd2WaqkX-KxKOqTN9Ffzbg8sVKa9L8UY&s=1712125082&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03102/v3o17a6hfn7b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=OgYXGFpDY0GLUTx8sSddDaQ08Q82DrzeVei--diaXaQ&s=1712147039&e=129600&f=15514051&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -675,9 +675,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=LDdM3x2XjoUW73&expires=1712195084&ip=FROsE0EnDS9X&token=syE3OkRGwggq",
+                        "url": "https://streamtape.com/get_video?id=LDdM3x2XjoUW73&expires=1712217041&ip=F0qQKRWZD19XKxR&token=dJ1zeNNioHS4",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LDdM3x2XjoUW73&expires=1712195084&ip=FROsE0EnDS9X&token=syE3OkRGwggq"
+                        "videoUrl": "https://streamtape.com/get_video?id=LDdM3x2XjoUW73&expires=1712217041&ip=F0qQKRWZD19XKxR&token=dJ1zeNNioHS4"
                     }
                 ],
                 "passed": true

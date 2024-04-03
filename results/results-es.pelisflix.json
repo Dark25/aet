@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/jade/",
+                                "title": "Jade",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/rzfrUouaZTFfuhWmjnwf22SbJ3jIHOpYdugX.webp"
+                            },
+                            {
+                                "url": "/pelicula/snack-shack/",
+                                "title": "Snack Shack",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/nWD7QMuh0z4KGzYbMge2ui6F.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-book-of-clarence/",
+                                "title": "The Book of Clarence",
+                                "description": "Un ciudadano de Jerusalén con mala suerte se embarca en un fallido intento de aprovechar la popular...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/xnHvEEbBYIITvMUCf0aXMvuw1yx3WBVjOsFiWGJLei.webp"
+                            },
+                            {
                                 "url": "/pelicula/ocho-apellidos-marroquis/",
                                 "title": "Ocho apellidos marroquís",
                                 "description": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. E...",
@@ -61,7 +79,7 @@
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/NEGjDNba2547YUTXQ7kP.webp"
                             },
                             {
-                                "url": "/pelicula/godzilla-y-kong-el-nuevo-imperio/",
+                                "url": "/pelicula/godzilla-y-kong-el-nuevo-imperio-zpaz/",
                                 "title": "Godzilla y Kong: El nuevo imperio",
                                 "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/BU6D2SyeQIpXf9L4nFrk069aGcC6ixUJhRcazAe.webp"
@@ -227,24 +245,6 @@
                                 "title": "Ghostbusters: Apocalipsis fantasma",
                                 "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nue...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/KVfK8hNALOp1zUo3AKDzlhrUyP2HZEwAqCaoJOPk.webp"
-                            },
-                            {
-                                "url": "/pelicula/road-house-de-profesion-duro/",
-                                "title": "Road House. De profesión: duro",
-                                "description": "Dalton es un exluchador de la UFC que acepta un trabajo como portero en un bar de carretera de los C...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/eVAHRKuKcSJ0B2P.webp"
-                            },
-                            {
-                                "url": "/pelicula/las-cicladas-escapada-de-amigas/",
-                                "title": "Las Cícladas. Escapada de Amigas.",
-                                "description": "De adolescentes, Blandine y Magalie eran inseparables, pero pasaron los años y se perdieron de vist...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/vM1kxLbQxNeOwDsgnnT10PaZWA.webp"
-                            },
-                            {
-                                "url": "/pelicula/tres-ladrones-y-un-leon/",
-                                "title": "Tres ladrones y un león",
-                                "description": "Los tres ladrones Kasper, Jesper y Jonathan viven junto con su siempre hambriento león en el peque�...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/B9Zmq5fz1x5LRVOY8hbi.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/ocho-apellidos-marroquis/",
-                    "title": "Ocho apellidos marroquís",
-                    "description": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.",
-                    "genre": "Comedia",
+                    "url": "/pelicula/jade/",
+                    "title": "Jade",
+                    "description": "",
+                    "genre": "Acción, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/ocho-apellidos-marroquis/",
+                        "url": "/pelicula/jade/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar iCwqzlNF = \"\"; ZwSVHbFf.forEach(function Oym(value) { iCwqzlNF += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar jsRpTQv = \"\"; zuiWaVb.forEach(function Oym(value) { jsRpTQv += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

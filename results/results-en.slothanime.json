@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wcdonalds",
+                                "title": "WcDonald's",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11907.png"
+                            },
+                            {
                                 "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
                                 "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11906.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/science-saru-x-mbs-original-short-anime-daisakusen",
                                 "title": "Science SARU x MBS Original Short Anime Daisakusen!",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11896.png"
-                            },
-                            {
-                                "url": "/anime/astro-note",
-                                "title": "Astro Note",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11895.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/wcdonalds",
+                                "title": "WcDonald's",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11907.png"
+                            },
                             {
                                 "url": "/anime/odekake-kozame",
                                 "title": "Odekake Kozame",
@@ -130,11 +135,6 @@
                                 "url": "/anime/super-real-mahjong-kasumi-miki-shouko-no-hajimemashite",
                                 "title": "Super Real Mahjong: Kasumi Miki Shouko no Hajimemashite",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11902.png"
-                            },
-                            {
-                                "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
-                                "title": "Spice and Wolf: merchant meets the wise wolf",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11903.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
-                    "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-                    "author": "domerica",
-                    "description": "One day, a new sword manifested at their citadel. Fudou Yukimitsu: A sword worn by a commander of the Sengoku era, Oda Nobunaga, who was granted to one of his attending servants, Mori Ranmaru. Fudou Yukimitsu makes it known that he is proud to be Oda Nobunaga's beloved sword, but clashes with the other swords who also call Nobunaga their former master: Souza Samonji, Heshikiri Hasebe, and Yagen Toushirou. The appointed team captain, Yamanbagiri Kunihiro, must rally a citadel that has fallen into disarray at Fudou Yukimitsu's arrival. In the midst of all this, the saniwa has received an order to depart for the year 1582 -- the Honnouji event, where Oda Nobunaga met his demise... Anime production will be scripted and overseen by Kenichi Suemitsu, the director and playwright of the original play.",
-                    "genre": "Action, Fantasy",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11906.png",
+                    "url": "/anime/wcdonalds",
+                    "title": "WcDonald's",
+                    "author": "Studio Pierrot",
+                    "description": "McDonald’s has partnered with legendary animation house Studio Pierrot to produce the first official WcDonald’s anime. Four episodic shorts will take fans into the flavourful world of WcDonald’s, where a story about the WcDonald’s Sauce and WcNuggets unfolds each week, The shorts will honor four of anime's biggest genres - Action, Romance, Mecha, and Fantasy. Episodes: 1) The Race to WcDonald’s: WcDonald’s Sauce has arrived, marking the moment everyone has eagerly anticipated. The announcement excites fans across the land, sparking an all-out, action-filled race between two strangers to be the first to experience this long-awaited delicacy. Find out who comes out on top in the race to WcDonald’s. 2) Love from Across the Booth: Our two protagonists discover the WcDonald’s Sauce and WcNuggets aren’t the only perfect pairing. Just one glance… and just one dip… that’s all it takes for love to unfold. Kazuki and Shizuru must face their feelings in the second installment of WcDonald’s! 3) WcNuggets Space Frontier 3000: On the Moon-Base WcDonald's, a space monster suddenly disrupts the balance with a growing hunger for WcNuggets. Assemble! The crew at the Moon-Base WcDonald’s is ready for action boarding the famous mecha WcDizer 3000. But can they keep the sauce safe from the Wakudon’s attack and tip the scales against this Class A monster? 4) The Wisdom of the Sauce: During the final week of WcDonald’s Sauce, three friends meet to savor this occasion one last time, wishing this flavor never had to disappear. And that wish might just be granted as they’re transported to a distant, magical land, where they are challenged to seek the wisdom of the sage Kenja and keep the WcDonald’s Sauce. Will our heroes triumph in their quest?",
+                    "genre": "Action, Adventure, Fantasy, Mecha, Romance, Sci-Fi, Isekai",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11907.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/touken-ranbu-kai-kyoden-moyuru-honnouji/145341",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/145341?vrf=Xggg0y33rNCTyjSrd38HcA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=5W5O1wnLn1%2FBDEjdQDSUuw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/145341?vrf=Xggg0y33rNCTyjSrd38HcA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=5W5O1wnLn1%2FBDEjdQDSUuw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/touken-ranbu-kai-kyoden-moyuru-honnouji/145341"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

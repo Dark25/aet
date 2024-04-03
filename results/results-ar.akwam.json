@@ -305,8 +305,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s216d2.downet.net/download/1712233305/660d49d9e62bf/Youll.Never.Find.Me.2023.1080p.WEB.AKWAM.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "http://s216d2.downet.net/download/1712233305/660d49d9e62bf/Youll.Never.Find.Me.2023.1080p.WEB.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s215d1.downet.net/download/1712233305/660d49d9bdc6b/Youll.Never.Find.Me.2023.480p.WEB.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s215d1.downet.net/download/1712233305/660d49d9bdc6b/Youll.Never.Find.Me.2023.480p.WEB.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

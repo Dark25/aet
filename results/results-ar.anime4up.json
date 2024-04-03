@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dragon-ball-movie-4-saikyou-e-no-michi/",
+                                "title": "Dragon Ball Movie 4: Saikyou e no Michi",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_21h33m24s_005_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/dragon-ball-movie-3-makafushigi-daibouken/",
                                 "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_20h01m51s_003_-215x300.png"
@@ -240,11 +245,6 @@
                                 "url": "/anime/yuuki-bakuhatsu-bang-bravern/",
                                 "title": "Yuuki Bakuhatsu Bang Bravern",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.14_15h26m10s_002_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/snack-basue/",
-                                "title": "Snack Basue",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.12_13h53m08s_004_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -359,24 +359,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dragon-ball-movie-3-makafushigi-daibouken/",
-                    "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
-                    "description": "النوع: Movie\nبداية العرض: 1988\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 45 دقيقة\nالموسم: صيف 1988\nالمصدر: مانجا\n\nقصة فيلم Dragon Ball Movie 3 Mystical Great Adventure تتحدث إختفاء زوجة الإمبراطور تشياوتزو ، وأخبره السيد شين أنه إذا جمع كرات التنين السبعة ، يمكنه استدعاء التنين الأبدي ووتحقيق رغبته في إعادتها. وفي الوقت نفسه ، يشارك جوكو وكيريلين في البطولة العالمية لفنون الدفاع عن النفس التي يستضيفها الإمبراطور، يحاول بورا وابنه أوبا إخفاء كرة التنين التي عثروا عليها من قوات الإمبراطور، والتي تخضع لسيطرة الشر المطلق والجنرال تاو وتجري بولما بحثها الخاص عن كرات التنين بمساعدة ياماتشا و بوار و أولونج.",
-                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, خيال علمي, قوى خارقة, شونين, Movie, مكتمل, صيف 1988",
+                    "url": "/anime/dragon-ball-movie-4-saikyou-e-no-michi/",
+                    "title": "Dragon Ball Movie 4: Saikyou e no Michi",
+                    "description": "النوع: Movie\nبداية العرض: 1996\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 1 ساعة و 19 دقيقة\nالموسم: ربيع 1996\nالمصدر: مانجا\n\nقصة فيلم Dragon Ball Movie 4 The Path to Ultimate Strength تتحدث عن إعادة سرد القصة الأصلية لدراغون بول بأسلوب مختلف في اجتماع غوكو وبولما وكامي سينين. كما يتم إعادة سرد قصة جيش الوشاح الأحمر لكن هذه المرة وجدوا غوكو بدلاً من العثور عليهم.",
+                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, خيال علمي, قوى خارقة, شونين, Movie, مكتمل, ربيع 1996",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_20h01m51s_003_.png",
+                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.02_21h33m24s_005_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/فيلم-dragon-ball-movie-4-saikyou-e-no-michi/",
+                        "name": "الفلم 4",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m130.uqload.to/3rfk5d5usrw2q4drdir7vpnga2o2fbs6x2pz743thq6a7trxosmts74wbw4a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m130.uqload.to/3rfk5d5usrw2q4drdir7vpnga2o2fbs6x2pz743thq6a7trxosmts74wbw4a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

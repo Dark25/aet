@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/girls-panzer-saishuushou-part-4-sub-espanol",
+                                "title": "Girls & Panzer: Saishuushou Part 4",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/girls-panzer-saishuushou-part-4-1712086967.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/tonari-no-youkai-san-sub-espanol",
                                 "title": "Tonari no Youkai-san",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/tonari-no-youkai-san-1711814769.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/unnamed-memory-sub-espanol",
                                 "title": "Unnamed Memory",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/unnamed-memory-1711811108.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/wind-breaker-sub-espanol",
-                                "title": "Wind Breaker",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/wind-breaker-1711811102.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,24 +324,66 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tonari-no-youkai-san-sub-espanol",
-                    "title": "Tonari no Youkai-san",
-                    "description": "\"Nuestro gato podría estar convirtiéndose en un nekomata...\" Un pueblo rural donde youkai, personas y dioses viven vidas normales y cotidianas, mezcladas con un poco de calidez y misterio ocasional. Un verano, el gato Buchio, de veinte años, de...",
-                    "genre": "Recuerdos de la vida, Sobrenatural",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/tonari-no-youkai-san-1711814769.jpg?v=1.5",
+                    "url": "/anime/girls-panzer-saishuushou-part-4-sub-espanol",
+                    "title": "Girls & Panzer: Saishuushou Part 4",
+                    "description": "La cuarta película de la serie de seis partes Girls & Panzer: Saishuushou.",
+                    "genre": "Escolares, Militar",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/girls-panzer-saishuushou-part-4-1712086967.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/girls-panzer-saishuushou-part-4-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=3&sig=N9R1Z4s6Ucw&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=3&sig=N9R1Z4s6Ucw&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069"
+                    },
+                    {
+                        "url": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=2&sig=-nlvUclgKtg&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=2&sig=-nlvUclgKtg&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069"
+                    },
+                    {
+                        "url": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=1&sig=xKyi-km_q5w&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=1&sig=xKyi-km_q5w&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069"
+                    },
+                    {
+                        "url": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=0&sig=1WWQj3xUA1Y&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=0&sig=1WWQj3xUA1Y&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069"
+                    },
+                    {
+                        "url": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=4&sig=6TptWhR_z_A&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=4&sig=6TptWhR_z_A&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069"
+                    },
+                    {
+                        "url": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=5&sig=Xo1f9mnrpAI&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-2.vkuser.net/?expires=1712192152893&srcIp=172.183.54.148&pr=10&srcAg=GECKO&ms=95.142.206.129&type=5&sig=Xo1f9mnrpAI&ct=0&urls=45.136.22.49%3B185.226.52.75&clientType=0&zs=43&id=6443830545069"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=0dq1KZ0JvxfbPJL&expires=1712175753&ip=F0qQKRWZD19XKxR&token=XNyZf6ahlnRw",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=0dq1KZ0JvxfbPJL&expires=1712175753&ip=F0qQKRWZD19XKxR&token=XNyZf6ahlnRw"
+                    }
+                ],
+                "passed": true
             }
         }
     }

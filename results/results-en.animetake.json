@@ -11,20 +11,111 @@
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/hackthe-movie-sekai-no-mukou-ni/",
+                                "title": ".hack//The Movie: Sekai no Mukou ni",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/hackthe-movie-sekai-no-mukou-ni.jpg"
+                            },
+                            {
+                                "url": "/anime/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animetake.tv/cache/images/accel-world.jpg"
+                            },
+                            {
+                                "url": "/anime/accel-world-dub/",
+                                "title": "Accel World (Dubbed)",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/accel-world-dub.jpg"
+                            },
+                            {
+                                "url": "/anime/alice-in-the-country-of-hearts/",
+                                "title": "Alice in the Country of Hearts",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/alice-in-the-country-of-hearts.jpg"
+                            },
+                            {
+                                "url": "/anime/an-jie-shen-shi/",
+                                "title": "An Jie Shen Shi",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/an-jie-shen-shi.jpg"
+                            },
+                            {
+                                "url": "/anime/anime-80-nichikan-sekai-isshuu-dub/",
+                                "title": "Anime 80-nichikan Sekai Isshuu (Dubbed)",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/anime-80-nichikan-sekai-isshuu-dub.jpg"
+                            },
+                            {
+                                "url": "/anime/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animetake.tv/cache/images/another-world.jpg"
+                            },
+                            {
+                                "url": "/anime/aoi-sekai-no-chuushin-de/",
+                                "title": "Aoi Sekai no Chuushin de",
+                                "thumbnail_url": "https://animetake.tv/cache/images/aoi-sekai-no-chuushin-de.jpg"
+                            },
+                            {
+                                "url": "/anime/aoi-sekai-no-chuushin-de-dub/",
+                                "title": "Aoi Sekai no Chuushin de (Dubbed)",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/aoi-sekai-no-chuushin-de-dub.jpg"
+                            },
+                            {
+                                "url": "/anime/aotu-shijie/",
+                                "title": "AOTU Shijie",
+                                "thumbnail_url": "https://animetake.tv/cache/images/img/aotu-shijie.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/anime/hackthe-movie-sekai-no-mukou-ni/",
+                    "title": ".hack//The Movie: Sekai no Mukou ni",
+                    "description": ".hack//The Movie: Sekai no Mukou ni\n\nAlternative title: .hack//Beyond the World .hack//The Movie セカイの向こうに",
+                    "genre": "Action, Adventure, Fantasy, Game, Mystery, Sci-Fi",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/w/3731971051/",
+                        "name": "Episode 1",
+                        "date_upload": 1328745600000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www045.vipanicdn.net/streamhls/ea5cfc1b32ab28e92483d0992bccae49/ep.1.1709248778.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/ea5cfc1b32ab28e92483d0992bccae49/ep.1.1709248778.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.online",
+                            "Referer": "https://playtaku.online/streaming.php?id=NDI4MjU="
+                        }
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxsd5auz3b4quuo3gve6ycykfrsfn76jdbtconylodjqwzltuzk3ame5apnr7edw4anagsg/video.mp4",
+                        "quality": "Mp4Upload - 264p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxsd5auz3b4quuo3gve6ycykfrsfn76jdbtconylodjqwzltuzk3ame5apnr7edw4anagsg/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

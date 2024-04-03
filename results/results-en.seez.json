@@ -248,20 +248,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://pdrz.vid109d224.site/_v2-lrod/12a3c523f8105800ed8c394685aeeb0b912ead5c14bdb7b40a477baea93ece832257df1a4b6125fcfa38c35ca74ffc8ffad09459db2991fed7eafd3d1022a18933c716a15a4eaf5a449df4eb3f107d1361659123140c6ed590cfa34b93f42b9c2c47a549532ba10eabbb/h/d1/ffecbdae;15a38634f803584ba8926411d7bee906856cab0654b5b8.m3u8",
-                        "quality": "Vidplay - 360p",
-                        "videoUrl": "https://pdrz.vid109d224.site/_v2-lrod/12a3c523f8105800ed8c394685aeeb0b912ead5c14bdb7b40a477baea93ece832257df1a4b6125fcfa38c35ca74ffc8ffad09459db2991fed7eafd3d1022a18933c716a15a4eaf5a449df4eb3f107d1361659123140c6ed590cfa34b93f42b9c2c47a549532ba10eabbb/h/d1/ffecbdae;15a38634f803584ba8926411d7bee906856cab0654b5b8.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://e69975b881.nl",
-                            "Referer": "https://e69975b881.nl/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 1 in: \"c�\"",
+                "passed": false
             }
         }
     }

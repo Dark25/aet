@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/el-patriota-2000/",
+                                "title": "El patriota (2000)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/El-patriota-2000.jpg"
+                            },
+                            {
                                 "url": "/peliculas/la-sociedad-americana-de-negros-magicos-2024/",
                                 "title": "La Sociedad Americana de Negros Mágicos (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Chestnut: El héroe de Central Park (2004)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/03/orU6wJ9QdhTL07aLBZ7F3NTqFab.jpg"
-                            },
-                            {
-                                "url": "/peliculas/el-senor-de-la-guerra-2005/",
-                                "title": "El señor de la guerra (2005)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2022/08/1Z4mE3Ue4VegboGrjw5VgNFAk1l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/la-sociedad-americana-de-negros-magicos-2024/",
-                    "title": "La Sociedad Americana de Negros Mágicos (2024)",
-                    "artist": "Aisha Hinds",
-                    "author": "Kobi Libii",
-                    "description": "Aren es reclutado por una sociedad secreta de negros mágicos que dedican sus vidas a una causa de suma importancia.",
-                    "genre": "Comedia, Fantasía",
+                    "url": "/peliculas/el-patriota-2000/",
+                    "title": "El patriota (2000)",
+                    "artist": "Chris Cooper",
+                    "author": "Chris Brighton",
+                    "description": "El patriota En 1776, Carolina del Sur, Benjamin Martin (Mel Gibson), viudo y héroe de guerra, se encuentra en medio de la Revolución Estadounidense mientras observa impotentemente cómo las salvajes fuerzas de los casacas rojas británicos separan a su familia. Incapaz de permanecer en silencio, recluta un grupo de reticentes voluntarios, incluyendo su idealista hijo patriota, Gabriel (Heath Ledger), para levantarse en armas contra los británicos. Luchando por la libertad de su familia y la independencia de su país, Martin descubre el dolor de la traición, la redención de la venganza y la pasión del amor.",
+                    "genre": "Acción, Bélica, Drama, Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/czV7JRPPPGk9bqUsnJuJUYn34mM.jpg",
+                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/El-patriota-2000.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/la-sociedad-americana-de-negros-magicos-2024/",
+                        "url": "/peliculas/el-patriota-2000/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,85 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-s9awcstgcdc3ypey.voe-network.net/engine/hls2-c/01/11044/xevdzlajt971_,n,.urlset/index-v1-a1.m3u8?t=cVSll4kzQKg10x0gcfOwxENNHmogMQh7lx8COSsl9IE&s=1712105627&e=14400&f=55220719&node=delivery-node-4i8l9fxsiij5xecg.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "url": "https://tvrm5rqcvd.sw-cdnstreamwish.com/hls2/01/03404/qylhqt6clftx_n/index-v1-a1.m3u8?t=Uo1XzLJdvIUnOGm_385TwWt6jzQAx3ghglUX7Xo8RdE&s=1712124966&e=129600&f=17023031&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://tvrm5rqcvd.sw-cdnstreamwish.com/hls2/01/03404/qylhqt6clftx_n/index-v1-a1.m3u8?t=Uo1XzLJdvIUnOGm_385TwWt6jzQAx3ghglUX7Xo8RdE&s=1712124966&e=129600&f=17023031&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/qylhqt6clftx"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-zms5jvn1a55lm8fc.voe-network.net/engine/hls2/01/11044/zk2ds5lfjlfd_,n,.urlset/index-v1-a1.m3u8?t=Yd_-VTEQ6T9PW1hXdcQ5vzVMn3QFBDR3oh5hZDc1KWw&s=1712124966&e=14400&f=55224116&node=delivery-node-zms5jvn1a55lm8fc.voe-network.net&i=20.97&sp=2500&asn=8075",
                         "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-s9awcstgcdc3ypey.voe-network.net/engine/hls2-c/01/11044/xevdzlajt971_,n,.urlset/index-v1-a1.m3u8?t=cVSll4kzQKg10x0gcfOwxENNHmogMQh7lx8COSsl9IE&s=1712105627&e=14400&f=55220719&node=delivery-node-4i8l9fxsiij5xecg.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-zms5jvn1a55lm8fc.voe-network.net/engine/hls2/01/11044/zk2ds5lfjlfd_,n,.urlset/index-v1-a1.m3u8?t=Yd_-VTEQ6T9PW1hXdcQ5vzVMn3QFBDR3oh5hZDc1KWw&s=1712124966&e=14400&f=55224116&node=delivery-node-zms5jvn1a55lm8fc.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/10528/0cushzuq56sb_,l,.urlset/index-v1-a1.m3u8?t=-SOSFFr1SbeF3DIKqPfzCDQL80Bu9aSkqnDFBliPwIw&s=1712124965&e=14400&f=52641980&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe: 480p",
+                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/10528/0cushzuq56sb_,l,.urlset/index-v1-a1.m3u8?t=-SOSFFr1SbeF3DIKqPfzCDQL80Bu9aSkqnDFBliPwIw&s=1712124965&e=14400&f=52641980&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o9DgkVXoxBC9OG&expires=1712194967&ip=FROsF0EnDS9X&token=Isby9IxJBLrv",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o9DgkVXoxBC9OG&expires=1712194967&ip=FROsF0EnDS9X&token=Isby9IxJBLrv"
+                    },
+                    {
+                        "url": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03404/dq5vcozzhx2l_,n,h,.urlset/index-f2-v1-a1.m3u8?t=XVbn1D5rCeeeAElZRHypeXQqKtgQuA9cI_uxb4VmACI&s=1712124961&e=129600&f=17023118&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03404/dq5vcozzhx2l_,n,h,.urlset/index-f2-v1-a1.m3u8?t=XVbn1D5rCeeeAElZRHypeXQqKtgQuA9cI_uxb4VmACI&s=1712124961&e=129600&f=17023118&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/dq5vcozzhx2l"
+                        }
+                    },
+                    {
+                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03404/2x4a6b77lrg1_,n,h,.urlset/index-f2-v1-a1.m3u8?t=5Vr52UH9aIhUaAIn6L0ps0EZ7FvSbnJhU7s6Xb6b4qI&s=1712124971&e=129600&f=17023035&srv=tqnptcmb3nipivgg&i=0.4&sp=500&p1=tqnptcmb3nipivgg&p2=tqnptcmb3nipivgg&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03404/2x4a6b77lrg1_,n,h,.urlset/index-f2-v1-a1.m3u8?t=5Vr52UH9aIhUaAIn6L0ps0EZ7FvSbnJhU7s6Xb6b4qI&s=1712124971&e=129600&f=17023035&srv=tqnptcmb3nipivgg&i=0.4&sp=500&p1=tqnptcmb3nipivgg&p2=tqnptcmb3nipivgg&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2x4a6b77lrg1"
+                        }
+                    },
+                    {
+                        "url": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03404/dq5vcozzhx2l_,n,h,.urlset/index-f1-v1-a1.m3u8?t=XVbn1D5rCeeeAElZRHypeXQqKtgQuA9cI_uxb4VmACI&s=1712124961&e=129600&f=17023118&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03404/dq5vcozzhx2l_,n,h,.urlset/index-f1-v1-a1.m3u8?t=XVbn1D5rCeeeAElZRHypeXQqKtgQuA9cI_uxb4VmACI&s=1712124961&e=129600&f=17023118&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/dq5vcozzhx2l"
+                        }
+                    },
+                    {
+                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03404/2x4a6b77lrg1_,n,h,.urlset/index-f1-v1-a1.m3u8?t=5Vr52UH9aIhUaAIn6L0ps0EZ7FvSbnJhU7s6Xb6b4qI&s=1712124971&e=129600&f=17023035&srv=tqnptcmb3nipivgg&i=0.4&sp=500&p1=tqnptcmb3nipivgg&p2=tqnptcmb3nipivgg&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03404/2x4a6b77lrg1_,n,h,.urlset/index-f1-v1-a1.m3u8?t=5Vr52UH9aIhUaAIn6L0ps0EZ7FvSbnJhU7s6Xb6b4qI&s=1712124971&e=129600&f=17023035&srv=tqnptcmb3nipivgg&i=0.4&sp=500&p1=tqnptcmb3nipivgg&p2=tqnptcmb3nipivgg&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2x4a6b77lrg1"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-itmywuvwu73sgpdk.voe-network.net/engine/hls2/01/08784/5yg73kn1ymzt_,n,.urlset/index-v1-a1.m3u8?t=495v_cIleNYCw7YXTevvy2WLB_aR0JixsuM5IyBPIw8&s=1712124970&e=14400&f=43924390&node=delivery-node-itmywuvwu73sgpdk.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "quality": "[SUB]Voe: 720p",
+                        "videoUrl": "https://delivery-node-itmywuvwu73sgpdk.voe-network.net/engine/hls2/01/08784/5yg73kn1ymzt_,n,.urlset/index-v1-a1.m3u8?t=495v_cIleNYCw7YXTevvy2WLB_aR0JixsuM5IyBPIw8&s=1712124970&e=14400&f=43924390&node=delivery-node-itmywuvwu73sgpdk.voe-network.net&i=20.97&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

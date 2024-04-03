@@ -77,6 +77,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/odekake-kozame",
+                                "title": "Odekake Kozame",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11358.png"
+                            },
+                            {
                                 "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
                                 "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11906.png"
@@ -130,11 +135,6 @@
                                 "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
                                 "title": "Spice and Wolf: merchant meets the wise wolf",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11903.png"
-                            },
-                            {
-                                "url": "/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability",
-                                "title": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11900.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,19 +255,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/touken-ranbu-kai-kyoden-moyuru-honnouji/145341",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=qcwFvNXAC3LlCwkljidwEQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/145341?vrf=Xggg0y33rNCTyjSrd38HcA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=qcwFvNXAC3LlCwkljidwEQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/145341?vrf=Xggg0y33rNCTyjSrd38HcA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/touken-ranbu-kai-kyoden-moyuru-honnouji/145341"
                         }
                     }
                 ],

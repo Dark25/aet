@@ -3,27 +3,452 @@
         "name": "AnimesVision (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://animes.vision/storage/capa/vnoGDzM7E4ALwZ2p88XVuLAncBZOHuxJzqVCuvy1.jpg"
+                            },
+                            {
+                                "url": "/animes/tensei-shitara-slime-datta-ken-3",
+                                "title": "Tensei shitara Slime Datta Ken 3",
+                                "thumbnail_url": "https://animes.vision/storage/capa/720CqxEdk0MoCLqQ40eZVYj5l0v1o9ixCDHGPYVv.jpg"
+                            },
+                            {
+                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://animes.vision/storage/capa/LUh34rBIPBTcXDYrRBwUdszfBEaYeZ1HAIWmXKA5.jpg"
+                            },
+                            {
+                                "url": "/animes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+                                "thumbnail_url": "https://animes.vision/storage/capa/an9cGPYnhL5bgD4Lk31kGbFJ35HhOe6P1EvjCy73.jpg"
+                            },
+                            {
+                                "url": "/animes/boku-no-hero-academia-7",
+                                "title": "Boku no Hero Academia 7",
+                                "thumbnail_url": "https://animes.vision/storage/capa/jwZcbU1yYiPygHGJtZrGcfS9MsK3IVCuv3JMqTx1.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-3",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://animes.vision/storage/capa/EuJKvAmOMFvv0I9MYgY3H0tyRwtyIb2hmuYcVQTv.jpg"
+                            },
+                            {
+                                "url": "/animes/date-a-live-v",
+                                "title": "Date A Live V",
+                                "thumbnail_url": "https://animes.vision/storage/capa/SpL3zywsAIqdOmi5eWx87p2TsAzHV8o2jVZdNyfM.jpg"
+                            },
+                            {
+                                "url": "/animes/kaijuu-8-gou",
+                                "title": "Kaijuu 8-gou",
+                                "thumbnail_url": "https://animes.vision/storage/capa/zddRlzWOuIwn0Oe4Rdqd66mw8MZVYlipGtn8sdoc.jpg"
+                            },
+                            {
+                                "url": "/animes/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+                                "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+                                "thumbnail_url": "https://animes.vision/storage/capa/LDt6ZuU0UKruIcIQpvaMQhvnjHXoJT1cDyDeDOKc.jpg"
+                            },
+                            {
+                                "url": "/animes/mahouka-koukou-no-rettousei-3",
+                                "title": "Mahouka Koukou no Rettousei 3",
+                                "thumbnail_url": "https://animes.vision/storage/capa/AsxHPxmAV2aCymW4hZxwibUkQTtqZR4id3XJ3SXJ.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/metallic-rouge-dublado/episodio-12/dublado",
+                                "title": "Episodio 12 - Metallic Rouge - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/WInCrSrk9tZMpajRGHsUqaavWB1N7u7cdph26dVT.webp"
+                            },
+                            {
+                                "url": "/animes/metallic-rouge/episodio-13/legendado",
+                                "title": "Episodio 13 - Metallic Rouge",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/f6MTg2cKgLS3vkDccb3npP3GLZzXAbSHIm58QoPT.webp"
+                            },
+                            {
+                                "url": "/animes/sengoku-youko/episodio-13/legendado",
+                                "title": "Episodio 13 - Sengoku Youko",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/W39GI9eH4cZ44kBKCPjQn2a4OSLVcyzPuiP1J1nj.webp"
+                            },
+                            {
+                                "url": "/animes/bartender-kami-no-glass/episodio-01/legendado",
+                                "title": "Episodio 01 - Bartender: Kami no Glass",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/NLonZ4eDBw6QqjilOl6Bp3VXfZAjRAAMOTNx0H2g.webp"
+                            },
+                            {
+                                "url": "/animes/sand-land-the-series/episodio-09/legendado",
+                                "title": "Episodio 09 - Sand Land: The Series",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/gFSs3L45l2U41wYwiC59JKsNOdLYkdk5U8pWiTj7.png"
+                            },
+                            {
+                                "url": "/animes/ayakashi-triangle/episodio-12-sem-censura/legendado",
+                                "title": "Episodio 12 (Sem Censura) - Ayakashi Triangle",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/1I5kXFSiiBYrbDU8Cae6s4o4gTUak78GaapEq2Jd.png"
+                            },
+                            {
+                                "url": "/animes/ayakashi-triangle/episodio-11-sem-censura/legendado",
+                                "title": "Episodio 11 (Sem Censura) - Ayakashi Triangle",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/8L1gHRlLgebemxZtxr506mBmBnsXgwj3HZ8bXfyK.png"
+                            },
+                            {
+                                "url": "/animes/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-part-2-dublado/episodio-02/dublado",
+                                "title": "Episodio 02 - Knights of the Zodiac: Saint Seiya - Battle for Sanctuary Part 2 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/OLSzZH4vm5pcT5ooc7Q2br2y9iKb3WDPqOc4GdQe.jpg"
+                            },
+                            {
+                                "url": "/animes/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-part-2-dublado/episodio-01/dublado",
+                                "title": "Episodio 01 - Knights of the Zodiac: Saint Seiya - Battle for Sanctuary Part 2 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/IreczKphgKE8iVznTJUh11XlFEwEAqMGaXYbZ3EX.jpg"
+                            },
+                            {
+                                "url": "/animes/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-part-2/episodio-02/legendado",
+                                "title": "Episodio 02 - Knights of the Zodiac: Saint Seiya - Battle for Sanctuary Part 2",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/IIF96CGoFMjGqChE3FJDGdDxBwl4YBApM4qRPbps.jpg"
+                            },
+                            {
+                                "url": "/animes/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-part-2/episodio-01/legendado",
+                                "title": "Episodio 01 - Knights of the Zodiac: Saint Seiya - Battle for Sanctuary Part 2",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/rtlCnBuYvQWlRXafRRIM8XVPpAosxuOvXwzaNqJi.jpg"
+                            },
+                            {
+                                "url": "/animes/one-piece-dublado-2020/episodio-516/dublado",
+                                "title": "Episodio 516 - One Piece - Dublado (2020)",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/RFT9atGzLhRbOJI3A9ZiAhxOOJA3yTlomvPLG6yG.jpg"
+                            },
+                            {
+                                "url": "/animes/one-piece-dublado-2020/episodio-459/dublado",
+                                "title": "Episodio 459 - One Piece - Dublado (2020)",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/cYGi4ZnA8dUxpgjXuN81NYSB0gbzUMFZNrPjESKX.jpg"
+                            },
+                            {
+                                "url": "/animes/dosanko-gal-wa-namara-menkoi-dublado/episodio-10/dublado",
+                                "title": "Episodio 10 - Dosanko Gal wa Namara Menkoi - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/XOx4SSXqjZv1AO998REJGi2fND6wNgpjBn8BJSKz.jpg"
+                            },
+                            {
+                                "url": "/animes/tsuki-ga-michibiku-isekai-douchuu-2-dublado/episodio-10/dublado",
+                                "title": "Episodio 10 - Tsuki ga Michibiku Isekai Douchuu 2 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/5UddG2c31sThYOZ9EsywJ02doQ1OOcL3ETfUz71R.jpg"
+                            },
+                            {
+                                "url": "/animes/remonster-dublado/episodio-01/dublado",
+                                "title": "Episodio 01 - Re:Monster - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/oTNNwvJfsJTAFzD9ggGPXK4oqImNzNLD4GapZOnU.jpg"
+                            },
+                            {
+                                "url": "/animes/kami-wa-game-ni-ueteiru-dublado/episodio-01/dublado",
+                                "title": "Episodio 01 - Kami wa Game ni Ueteiru. - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/bvwcTJsPuxeqZRFVeKQV42uR0ez8rKUTVn0ldBeJ.webp"
+                            },
+                            {
+                                "url": "/animes/kami-wa-game-ni-ueteiru/episodio-01/legendado",
+                                "title": "Episodio 01 - Kami wa Game ni Ueteiru.",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/GDjMvjuzbUudgJI9poAEOQBBOH0zIdj1fQ1V49tj.webp"
+                            },
+                            {
+                                "url": "/animes/tsuki-ga-michibiku-isekai-douchuu-2/episodio-13/legendado",
+                                "title": "Episodio 13 - Tsuki ga Michibiku Isekai Douchuu 2",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/zaB2atiakwRlh9fnY0Qbfn6GB234SfF5dgJlnJjL.jpg"
+                            },
+                            {
+                                "url": "/animes/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita/episodio-02/legendado",
+                                "title": "Episodio 02 - Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/5POI0Wsetpv5eUJgGLVJ5skVwZx7KDUL1NTVhNuY.jpg"
+                            },
+                            {
+                                "url": "/animes/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita/episodio-01/legendado",
+                                "title": "Episodio 01 - Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/2aNDEB3UY6qLUXM9okcBnVWHe1Ulwdig5j1f8f21.jpg"
+                            },
+                            {
+                                "url": "/animes/ookami-to-koushinryou-merchant-meets-the-wise-wolf/episodio-01/legendado",
+                                "title": "Episodio 01 - Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/Fqvgj4EKu9d8mzUOckUiKD82dPnYTo0i3gyRL0cu.webp"
+                            },
+                            {
+                                "url": "/animes/shuumatsu-train-doko-e-iku/episodio-01/legendado",
+                                "title": "Episodio 01 - Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/xVOEQ7qWJJFk5FfM29OFmU6uWX063SOF1YhYAUVs.webp"
+                            },
+                            {
+                                "url": "/animes/remonster/episodio-01/legendado",
+                                "title": "Episodio 01 - Re:Monster",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/G5w4YZIDpqnxMGoiApvibK2RIPhyNoqhjJjiuhHY.webp"
+                            },
+                            {
+                                "url": "/animes/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu/episodio-01/legendado",
+                                "title": "Episodio 01 - Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/XXP6BBOIXgCzMKD4GX3dpTHUxEhbGbGI0CbpXKFz.webp"
+                            },
+                            {
+                                "url": "/animes/eyeshield-21-dublado/episodio-39/dublado",
+                                "title": "Episodio 39 - Eyeshield 21 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/MsBBjVCXBSzoFW8ohJSkARhKRQsz2DxOu71W2i2a.webp"
+                            },
+                            {
+                                "url": "/animes/eyeshield-21-dublado/episodio-29/dublado",
+                                "title": "Episodio 29 - Eyeshield 21 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/nMxWJIsLeW7ScGimyLgsHy0k8UWVxH5YhbiFrPSA.webp"
+                            },
+                            {
+                                "url": "/animes/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2-dublado/episodio-08/dublado",
+                                "title": "Episodio 08 - Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/5WAZg7MBGNrw1KpOQX2JbsC8F8mhlZ08MdcVSONY.jpg"
+                            },
+                            {
+                                "url": "/animes/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru-dublado/episodio-10/dublado",
+                                "title": "Episodio 10 - Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/j8yFPHL86A4YwH0U0HEskpSK5xPQLqZVLvWBL3nS.jpg"
+                            },
+                            {
+                                "url": "/animes/yami-shibai-12/episodio-12/legendado",
+                                "title": "Episodio 12 - Yami Shibai 12",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/CDSr9tfcDzgXIjPGp7JnaprOjlHqt9vRVw36XG6E.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/accel-world",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animes.vision/storage/capa/gdLh0x6AqjuEiLEgxjWaS8TNN7WvG8WWjMU2GXCH.jpg"
+                            },
+                            {
+                                "url": "/animes/re-zero-kara-hajimeru-isekai-seikatsu",
+                                "title": "Re:Zero Kara Hajimeru Isekai Seikatsu",
+                                "thumbnail_url": "https://animes.vision/storage/capa/bSxMPbZyR94VZ2v6ZF4O214Uoe76ACWS7rVO3jEL.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo",
+                                "title": "Kono Subarashii Sekai Ni Shukufuku Wo!",
+                                "thumbnail_url": "https://animes.vision/storage/capa/d3ifN6D5qcYUpTtTPFPeMVaA128YnxU2CEVo9SJW.jpg"
+                            },
+                            {
+                                "url": "/animes/world-trigger",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://animes.vision/storage/capa/MxjTmZSv0WtmPUNaErZumRNAJlnIsjIuKr6M6vcl.jpg"
+                            },
+                            {
+                                "url": "/animes/death-march-kara-hajimaru-isekai-kyousoukyoku",
+                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku ",
+                                "thumbnail_url": "https://animes.vision/storage/capa/t1EVcukLFhNwMAe2hQPhtHWMLpYyNvQ8EHA4C014.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-wa-smartphone-to-tomo-ni",
+                                "title": "Isekai wa Smartphone to Tomo ni",
+                                "thumbnail_url": "https://animes.vision/storage/capa/vUTEYsFXuh19YebhRAP3hF3Ob4wNtBRNPPuRAUjE.jpg"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series",
+                                "title": "Kino no Tabi: The Beautiful World - The Animated Series",
+                                "thumbnail_url": "https://animes.vision/storage/capa/QO6EiFGYjdYVSB5MjDG1vxX0QuiuTTNr0B7yhMib.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no",
+                                "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+                                "thumbnail_url": "https://animes.vision/storage/capa/jlTzfahLfg6KkCEi8MTklMMS55Cm6HIZWSIvd9mS.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-2",
+                                "title": "Kono Subarashii Sekai Ni Shukufuku Wo! 2",
+                                "thumbnail_url": "https://animes.vision/storage/capa/yn9bqHUVC6SHrbziZGdAjEoH5FRqeUYgCDcwINA6.jpg"
+                            },
+                            {
+                                "url": "/animes/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
+                                "title": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+                                "thumbnail_url": "https://animes.vision/storage/capa/Z4vXDdKSTMWS9yMXkybPrqfxg6VfMe1dxrKAOuYl.jpg"
+                            },
+                            {
+                                "url": "/animes/irozuku-sekai-no-ashita-kara",
+                                "title": "Irozuku Sekai no Ashita kara",
+                                "thumbnail_url": "https://animes.vision/storage/capa/o2KhSvxLs9pE6iQYdD6WefN9SfL8JrZLphkJJKH0.jpg"
+                            },
+                            {
+                                "url": "/animes/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+                                "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+                                "thumbnail_url": "https://animes.vision/storage/capa/NG0oNu8Oya2ilBbFNCaxX4DxkUnmD123AUcLK71o.jpg"
+                            },
+                            {
+                                "url": "/animes/sekai-seifuku-bouryaku-no-zvezda",
+                                "title": "Sekai Seifuku: Bouryaku no Zvezda",
+                                "thumbnail_url": "https://animes.vision/storage/capa/V4CVHJoKOEjylRAjWjO2dEoL9FGHU5Kp9gNeGD6y.jpg"
+                            },
+                            {
+                                "url": "/animes/major-world-series",
+                                "title": "Major: World Series",
+                                "thumbnail_url": "https://animes.vision/storage/capa/NVneLwLk9BeXXY5NnHvBNVIuQq5hj15L27jyb6ZK.jpg"
+                            },
+                            {
+                                "url": "/filmes/kono-sekai-no-katasumi-ni-2",
+                                "title": "Kono Sekai no Katasumi ni",
+                                "thumbnail_url": "https://animes.vision/storage/capa/XRD7FNomvGS4roezJz7fChalZfx4KZxJTFyxJrgG.jpg"
+                            },
+                            {
+                                "url": "/filmes/one-piece-film-strong-world",
+                                "title": "One Piece Film: Strong World",
+                                "thumbnail_url": "https://animes.vision/storage/capa/hce24WSl0sm0KQJJy9e0axyWADVBH6nCQPXTN126.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-shokudou",
+                                "title": "Isekai Shokudou",
+                                "thumbnail_url": "https://animes.vision/storage/capa/fY4aYy12PJWEKBnulqVH00QTNPQ04pYgZs0wcIAN.jpg"
+                            },
+                            {
+                                "url": "/filmes/accel-world-infinite-burst",
+                                "title": "Accel World: Infinite∞Burst",
+                                "thumbnail_url": "https://animes.vision/storage/capa/LBxQCMaX60HMX8FGmWY6t1pSiv9IzicFw7bC3Ruw.jpg"
+                            },
+                            {
+                                "url": "/filmes/one-piece-film-strong-world-episode-0",
+                                "title": "One Piece Film: Strong World Episode 0",
+                                "thumbnail_url": "https://animes.vision/storage/capa/637HNrimSHzaM1ynVmrzFYZYteTdsJlADElK0qQ1.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animes.vision/storage/capa/dGTYk8VwBkUCzbPBGpn0mSUgMgeVC9ZKs7iGP41c.jpg"
+                            },
+                            {
+                                "url": "/animes/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo",
+                                "title": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+                                "thumbnail_url": "https://animes.vision/storage/capa/9w1URv1Ppzg2HsU5vUGct9lMwAZ7coHB3B2wyi4Y.jpg"
+                            },
+                            {
+                                "url": "/animes/arifureta-shokugyou-de-sekai-saikyou",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou",
+                                "thumbnail_url": "https://animes.vision/storage/capa/49oqBCayLflcLS9nyCTAjeSFIzKz49jbb9VMTHos.jpg"
+                            },
+                            {
+                                "url": "/animes/kami-nomi-zo-shiru-sekai",
+                                "title": "Kami nomi zo Shiru Sekai",
+                                "thumbnail_url": "https://animes.vision/storage/capa/opb9NbsaSGQRFhSd5Vguzqut7bxehbQygIlsT2jx.jpg"
+                            },
+                            {
+                                "url": "/animes/kami-nomi-zo-shiru-sekai-ii",
+                                "title": "Kami nomi zo Shiru Sekai II",
+                                "thumbnail_url": "https://animes.vision/storage/capa/O44PoyBvN3VkuYXSiDxtGpA3JWHq3VR2AWUKmGdF.jpg"
+                            },
+                            {
+                                "url": "/animes/kami-nomi-zo-shiru-sekai-iii",
+                                "title": "Kami nomi zo Shiru Sekai: III",
+                                "thumbnail_url": "https://animes.vision/storage/capa/DflI2a9xoKAJyeUUISH3WYGN1rTWRi3ia0Q60jSY.jpg"
+                            },
+                            {
+                                "url": "/animes/shinsekai-yori",
+                                "title": "Shinsekai yori",
+                                "thumbnail_url": "https://animes.vision/storage/capa/NmlXEJouliMUQY0ZpOPkEMHr0f45VzGAvJSEHCnJ.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-dublado",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/capa/axQP0g4prSS0deJ4pWR5ZHbPyp24iXgaoEGpzvi2.jpg"
+                            },
+                            {
+                                "url": "/animes/sekaiichi-hatsukoi",
+                                "title": "Sekaiichi Hatsukoi",
+                                "thumbnail_url": "https://animes.vision/storage/capa/or6uuaUzAVOHfx5JrOBA9T89JOsK0xycQlyRv6no.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-kara-hajimeru-isekai-seikatsu-dublado",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/capa/OLQjEuYTxscamHI64Z1EKLll2Gw64riozw7LPRMq.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-2-dublado",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 2 - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/capa/x41sDY2NAo0OQvWMZbS1Gj5i3Ou0dXuoA6Cur3Ae.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-izakaya-koto-aitheria-no-izakaya-nobu",
+                                "title": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+                                "thumbnail_url": "https://animes.vision/storage/capa/uGLJ6LtyF5U4k15O2zfVteu9XuuW7Q5PeSTNQlGb.jpg"
+                            },
+                            {
+                                "url": "/animes/death-march-kara-hajimaru-isekai-kyousoukyoku-dublado",
+                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/capa/sSSHU0DEdL8fIrl4tVwQL41f7NgtUdCPdkWi1zlE.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-sangoku-souketsuden",
+                                "title": "SD Gundam World: Sangoku Souketsuden",
+                                "thumbnail_url": "https://animes.vision/storage/capa/cVsCzsTw2ANRmak6Vy7q9hDKCWsTp5rZMRTstYcT.jpg"
+                            },
+                            {
+                                "url": "/animes/el-hazard-the-magnificent-world",
+                                "title": "El Hazard: The Magnificent World",
+                                "thumbnail_url": "https://animes.vision/storage/capa/hwkI5W52pPXatBsn17dX0hTXvEwImfj56p7708D8.jpg"
+                            },
+                            {
+                                "url": "/animes/el-hazard-2-the-magnificent-world",
+                                "title": "El Hazard 2: The Magnificent World",
+                                "thumbnail_url": "https://animes.vision/storage/capa/ZR4BsuSIKGtQnnO3cHFBYEg3uxr1xk6v1O8csP5F.jpg"
+                            },
+                            {
+                                "url": "/animes/el-hazard-the-alternative-world",
+                                "title": "El Hazard: The Alternative World",
+                                "thumbnail_url": "https://animes.vision/storage/capa/vkiSpgTXDPBBnXn4EZTCTxT1mrSeKw9PKNJcvLyT.jpg"
+                            },
+                            {
+                                "url": "/animes/kami-nomi-zo-shiru-sekai-4-nin-to-idol",
+                                "title": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+                                "thumbnail_url": "https://animes.vision/storage/capa/CxZX2IbQ13NCR5zUbqU5BQzXiewgekfW0TiNMMBD.jpg"
+                            },
+                            {
+                                "url": "/animes/kami-nomi-zo-shiru-sekai-tenri-hen",
+                                "title": "Kami nomi zo Shiru Sekai: Tenri-hen",
+                                "thumbnail_url": "https://animes.vision/storage/capa/E4x7NDZDPkc0gb7wcXDNgvGOtP3Q1eDg7C50ouAk.jpg"
+                            },
+                            {
+                                "url": "/animes/narue-no-sekai",
+                                "title": "Narue no Sekai",
+                                "thumbnail_url": "https://animes.vision/storage/capa/Sn47LGgVykkXijPMdfVXddODTPOMZgaaMy5dF2tM.jpg"
+                            },
+                            {
+                                "url": "/animes/soredemo-sekai-wa-utsukushii",
+                                "title": "Soredemo Sekai wa Utsukushii",
+                                "thumbnail_url": "https://animes.vision/storage/capa/0P6wutMPxS9l6EX1gsiUw1Wmj6F3OgkQkCfIgIDd.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen",
+                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                    "description": "Nova temporada de Kimetsu no Yaiba.\n\nTítulo em inglês: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc\nFoi ao ar em: de de\nTemporada: Nova temporada de Kimetsu no Yaiba.\nDuração: 24m\nFansub: Oficial",
+                    "genre": "Ação, Fantasia, Histórico, Shounen",
+                    "thumbnail_url": "https://animes.vision/storage/capa/vnoGDzM7E4ALwZ2p88XVuLAncBZOHuxJzqVCuvy1.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.Exception: ERRO: Script não encontrado.",
                 "passed": false
             }
         }

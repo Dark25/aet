@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/baby-ruby/",
+                                "title": "Baby Ruby",
+                                "description": "El mundo estrictamente diseñado de una vloguera e influencer se desmorona a medida que la depresió...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/HqORDEpTGqDUhGyl6lJ9MYlws24ZeMTM3yux3Khz0Kk.webp"
+                            },
+                            {
+                                "url": "/pelicula/imaginary/",
+                                "title": "Imaginary",
+                                "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), s...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/bmypXZe9RrSiPMiHX.webp"
+                            },
+                            {
                                 "url": "/pelicula/jade/",
                                 "title": "Jade",
                                 "description": "",
@@ -233,18 +245,6 @@
                                 "title": "Drifter",
                                 "description": "Moritz se ha mudado a Berlín para estar con el novio, pero la relación pronto termina. El joven se...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5I8G1ixWwsXlz6tKfNW7DuS30TAydcs9LqGDz3qVmd6.webp"
-                            },
-                            {
-                                "url": "/pelicula/los-casagrande-la-pelicula/",
-                                "title": "Los Casagrande: La película",
-                                "description": "Durante un viaje a México para celebrar que cumple 12 años, Ronnie Anne libera sin querer a una se...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/OOkvAzC9m8S1cnoQ.webp"
-                            },
-                            {
-                                "url": "/pelicula/ghostbusters-apocalipsis-fantasma/",
-                                "title": "Ghostbusters: Apocalipsis fantasma",
-                                "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nue...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/KVfK8hNALOp1zUo3AKDzlhrUyP2HZEwAqCaoJOPk.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/jade/",
-                    "title": "Jade",
-                    "description": "",
-                    "genre": "Acción, Suspense",
+                    "url": "/pelicula/baby-ruby/",
+                    "title": "Baby Ruby",
+                    "description": "El mundo estrictamente diseñado de una vloguera e influencer se desmorona a medida que la depresión posparto, la falta de apoyo de quienes están en su órbita y la aparente hostilidad de su bebé aumentan.",
+                    "genre": "Drama, Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/jade/",
+                        "url": "/pelicula/baby-ruby/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar iEmasfd = \"\"; ZhxznkV.forEach(function Oym(value) { iEmasfd += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar VKzOqpp = \"\"; TfIEoJggJ.forEach(function Oym(value) { VKzOqpp += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

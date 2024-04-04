@@ -97,14 +97,14 @@
                                 "thumbnail_url": "https://wiflix.cloud/checkimg.php?urli=stream-vf-969b-ec32-7d64-407f.jpg"
                             },
                             {
-                                "url": "/serie-en-streaming/30218-ici-tout-coddfdghj5gg5ffggffmggvmghence-saison-6-883.html",
-                                "title": "Ici Tout Commence Saison 6 French",
-                                "thumbnail_url": "https://wiflix.cloud/checkimg.php?urli=stream-vf-f55a-3664-c1b0-4d70.jpg"
+                                "url": "/serie-en-streaming/29600-tokyo-vice-saison-2.html",
+                                "title": "Tokyo Vice Saison 2 French",
+                                "thumbnail_url": "https://wiflix.cloud/checkimg.php?urli=stream-vf-6a2f-802f-a7cc-446b.jpg"
                             },
                             {
-                                "url": "/serie-en-streaming/30401-three-body-saison-1.html",
-                                "title": "Three-Body Saison 1 VOSTFR",
-                                "thumbnail_url": "https://wiflix.cloud/checkimg.php?urli=stream-vf-2b5d-d7a9-f38f-4cca.jpg"
+                                "url": "/serie-en-streaming/30450-machine-saison-1.html",
+                                "title": "Machine Saison 1 French",
+                                "thumbnail_url": "https://wiflix.cloud/checkimg.php?urli=stream-vf-ee04-96e4-3e99-44be.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -145,17 +145,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-wdut7jbrqdhbyhcd.voe-network.net/engine/hls2-c/01/11039/9wgpwygiudcr_,n,.urlset/index-v1-a1.m3u8?t=sdvwGbEkc-k2MBIy4QqrUD_inlGqm8lhv-VzYD2kZlA&s=1712211475&e=14400&f=55199089&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=52.157&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-wdut7jbrqdhbyhcd.voe-network.net/engine/hls2-c/01/11039/9wgpwygiudcr_,n,.urlset/index-v1-a1.m3u8?t=sdvwGbEkc-k2MBIy4QqrUD_inlGqm8lhv-VzYD2kZlA&s=1712211475&e=14400&f=55199089&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=52.157&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: no player found",
+                "passed": false
             }
         }
     }

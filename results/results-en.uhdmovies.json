@@ -3,24 +3,19 @@
         "name": "UHD Movies (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "title": "Movie",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Read timed out",
+                "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: Only Zip Pack Available",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "videos": {

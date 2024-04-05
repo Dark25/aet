@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/parasyte-the-grey-2024-episode-1",
+                                "title": "Parasyte: The Grey (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/parasyte-the-grey-1712118450.png"
+                            },
+                            {
                                 "url": "/videos/the-escape-of-the-seven-resurrection-2024-episode-2",
                                 "title": "The Escape of the Seven: Resurrection (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/7-escape-season-2-1709699868.png"
@@ -150,11 +155,6 @@
                                 "url": "/videos/like-flowers-in-sand-2023-episode-12",
                                 "title": "Like Flowers In Sand (2023)",
                                 "thumbnail_url": "https://asianimg.pro/cover/the-sand-flower-1701408516.png"
-                            },
-                            {
-                                "url": "/videos/gyeongseong-creature-2023-episode-10",
-                                "title": "Gyeongseong Creature (2023)",
-                                "thumbnail_url": "https://asianimg.pro/cover/hard-creature-1702545056.png"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-escape-of-the-seven-resurrection-2024-episode-2",
-                    "title": "The Escape of the Seven: Resurrection (2024)",
-                    "description": "Through the \"Bobble Incident\" that started the revenge and ended in blood, Do Hyuk became the culprit and lost his life. However, he didn't die. Do Hyuk returns with seething vengeance to expose Matthew's true identity to everyone. Kang Ki Tak and the unknown aide who goes by \"Medusa\" appear to help him. Matthew has no intention of stopping. With his fake identity, Matthew has the whole world crazy about him. He endeavors to be the epitome of his phony identity and take over Sungchan Group, the company his father raised with his life. Only then will his revenge be complete. The seven wicked associates will now regroup to play the game of revenge that has reset in desperation. Some will be out for revenge, some for power, and some will hide their true goal in a new game where they will deceive and betray each other. How will the fates of the Seven reborn from lies end? (Source: Viki) Episodes: 16 Content Rating: 15+ - Teens 15 or older Airs On: Saturday",
+                    "url": "/videos/parasyte-the-grey-2024-episode-1",
+                    "title": "Parasyte: The Grey (2024)",
+                    "description": "The story depicts parasites that fall from space and begin to kill to gain their own power by controlling the human brain and body by living off human hosts. The story revolves around Jung Soo In, who is infected with a parasite on her hand and starts a strange cohabitation as it fails to steal her brain. Seol Kang Woo chases parasitic water to find his missing sister, and Choi Jun Kyung is the team leader of the parasitic life team ‘The Grey’ and lives only to exterminate the parasitic water after losing her husband to the parasitic water. (Source: Korean = Newsen Media) Adapted from the manga series \"Kiseijuu\" (寄生獣) by Iwaaki Hitoshi (岩明均). Episodes: 6 Content Rating: 18+ Restricted (violence & profanity) Airs On: Friday",
                     "initialized": true
                 },
                 "passed": true
@@ -334,32 +334,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/the-escape-of-the-seven-resurrection-2024-episode-2",
-                        "name": "SUB Episode: 2",
-                        "date_upload": 1711787520000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/videos/the-escape-of-the-seven-resurrection-2024-episode-1",
+                        "url": "/videos/parasyte-the-grey-2024-episode-1",
                         "name": "SUB Episode: 1",
-                        "date_upload": 1711701241000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery51.mxcontent.net/v/dccd8b1629f2f87c4b79a4fbc500fed0.mp4?s=g2QNBIUgFeOf35snIloo8g&e=1712319347&_t=1712306897",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery51.mxcontent.net/v/dccd8b1629f2f87c4b79a4fbc500fed0.mp4?s=g2QNBIUgFeOf35snIloo8g&e=1712319347&_t=1712306897",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

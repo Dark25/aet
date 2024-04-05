@@ -249,7 +249,7 @@
                             {
                                 "url": "/the-farewell-song-2024-episode-18.html",
                                 "title": "The Farewell Song (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/the-farewell-song-2024-1711898516.png"
+                                "thumbnail_url": "https://asianimg.pro/cover/the-farewell-song-2024-1712298887.png"
                             },
                             {
                                 "url": "/hear-your-heart-2024-episode-12.html",
@@ -499,14 +499,22 @@
                     "author": "Netflix",
                     "description": "The story depicts parasites that fall from space and begin to kill to gain their own power by controlling the human brain and body by living off human hosts. The story revolves around Jung Soo In, who is infected with a parasite on her hand and starts a strange cohabitation as it fails to steal her brain.\nSeol Kang Woo chases parasitic water to find his missing sister, and Choi Jun Kyung is the team leader of the parasitic life team ‘The Grey’ and lives only to exterminate the parasitic water after losing her husband to the parasitic water.\n(Source: Korean = Newsen Media)\nAdapted from the manga series \"Kiseijuu\" (寄生獣) by Iwaaki Hitoshi (岩明均).",
                     "genre": "Action, Horror, Investigation, Manga, Miniseries, Mystery, Psychological, Sci-fi, Survival, Suspense, Web Series",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "thumbnail_url": "https://asianimg.pro/cover/parasyte-the-grey-1712118450.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/parasyte-the-grey-2024-episode-1.html",
+                        "name": "SUB: Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-asesino-de-mi-hermano/",
+                                "title": "El asesino de mi hermano",
+                                "description": "Jacob es acusado de asesinato tras la muerte de su hermano mientras escalaban juntos. Él se declara...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/HOPBRlJH6ym5QknMWYImtebJQMSWwVU3zAvhM5OIt1E9c.webp"
+                            },
+                            {
+                                "url": "/pelicula/fabricante-de-lagrimas/",
+                                "title": "Fabricante de lágrimas",
+                                "description": "Adoptados juntos tras pasar una infancia difícil en un orfanato, Nica y Rigel se dan cuenta de que ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/iClqPYE6tQ1yOsXg.webp"
+                            },
+                            {
+                                "url": "/pelicula/rodeio-rock/",
+                                "title": "Rodeio Rock",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/e2DQQhS9ocQrGeQDAhGYMU.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-rapto-2/",
                                 "title": "El rapto",
                                 "description": "Bolonia. Año 1858. Los soldados del Papa irrumpen en la casa de los Mortara para secuestrar a su hi...",
@@ -227,24 +245,6 @@
                                 "title": "Confidential Informant",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/jSPb4sNQkSxGqiFpsfEDLHfIVQZqF.webp"
-                            },
-                            {
-                                "url": "/pelicula/ryan-carson/",
-                                "title": "Ryan Carson",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/rTkKiQOpc0sIvN1Zuis8jYyo.webp"
-                            },
-                            {
-                                "url": "/pelicula/una-mujer-italiana-cabrini/",
-                                "title": "Una mujer italiana (Cabrini)",
-                                "description": "Cabrini traza el ascenso de una mujer pobre y audaz que se convirtió en una de las grandes emprende...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/wuohk6tXFaz272bkcuWniRMsIFQuwqoTKD0UzkI5l8.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-quimera/",
-                                "title": "La quimera",
-                                "description": "Ambientada en la campiña toscana, se centra en el tema del saqueo arqueológico y la venta ilegal d...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/QYvfwvsouUptoxESPWtmLOa1AzK2kjM1877vtp.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-rapto-2/",
-                    "title": "El rapto",
-                    "description": "Bolonia. Año 1858. Los soldados del Papa irrumpen en la casa de los Mortara para secuestrar a su hijo de siete años, Edgardo. La película sigue la lucha de la familia para tratar de recuperar a su hijo ante esta acción de la Iglesia Católica.",
-                    "genre": "Drama",
+                    "url": "/pelicula/el-asesino-de-mi-hermano/",
+                    "title": "El asesino de mi hermano",
+                    "description": "Jacob es acusado de asesinato tras la muerte de su hermano mientras escalaban juntos. Él se declara inocente, pero solo su madre cree que fue un accidente. Juntos, buscan la verdad detrás de lo sucedido.",
+                    "genre": "Drama, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-rapto-2/",
+                        "url": "/pelicula/el-asesino-de-mi-hermano/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DIDrMmhjhj = \"\"; UltwEPNdaE.forEach(function Oym(value) { DIDrMmhjhj += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar udanhvUYYn = \"\"; iJrxvYa.forEach(function Oym(value) { udanhvUYYn += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

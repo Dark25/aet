@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/ripley",
+                                "title": "RIPLEY",
+                                "status": 2,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22677.webp"
+                            },
+                            {
+                                "url": "/serie/online/star-trek-discovery",
+                                "title": "Star Trek: Discovery",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/3640.webp"
+                            },
+                            {
                                 "url": "/serie/online/fortuna",
                                 "title": "Fortuna",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "Ninja Kamui",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22630.webp"
-                            },
-                            {
-                                "url": "/serie/online/one-piece",
-                                "title": "One Piece",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19081.webp"
-                            },
-                            {
-                                "url": "/serie/online/captain-tsubasa-2018",
-                                "title": "Super Campeões",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/3828.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

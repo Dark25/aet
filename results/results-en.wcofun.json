@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wind-breaker-english-subbed",
+                                "title": "Wind Breaker English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933542.jpg"
+                            },
+                            {
+                                "url": "/anime/henjin-no-salad-bowl",
+                                "title": "Henjin no Salad Bowl",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933541.jpg"
+                            },
+                            {
+                                "url": "/anime/hananoi-kun-to-koi-no-yamai",
+                                "title": "Hananoi-kun to Koi no Yamai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933540.jpg"
+                            },
+                            {
                                 "url": "/anime/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
                                 "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933539.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/sand-land-the-series",
                                 "title": "Sand Land: The Series",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933527.jpg"
-                            },
-                            {
-                                "url": "/anime/x-men-97",
-                                "title": "X-Men '97",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933526.jpg"
-                            },
-                            {
-                                "url": "/anime/blue-exorcist-shimane-illuminati-saga",
-                                "title": "Blue Exorcist: Shimane Illuminati Saga",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933525.jpg"
-                            },
-                            {
-                                "url": "/anime/taina-and-the-amazons-guardians",
-                                "title": "Taina and the Amazons Guardians",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933524.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-                    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-                    "description": "When the sorcerer Zagan decides to participate in an auction selling the goods of the now dead Archdemon Marchosias, he expects to find items of untold power. What he finds instead is a rare white-haired slave elf named Nephilia, and he immediately spends all his money to purchase her, much to the bewilderment of those around him. However, the secret reason behind Zagan’s investment was that he had actually fallen in love with her at first sight.",
-                    "genre": "Action, Fantasy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933539.jpg",
+                    "url": "/anime/wind-breaker-english-subbed",
+                    "title": "Wind Breaker English Subbed",
+                    "description": "Haruka Sakura wants nothing to do with weaklings—he’s only interested in the strongest of the strong. He’s just started at Furin High School, a school of degenerates known only for their brawling strength—strength they use to protect their town from anyone who wishes it ill. But Haruka’s not interested in being a hero or being part of any sort of team—he just wants to fight his way to the top!",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933542.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/wind-breaker-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfM85HjSw8XZvATYA1vu5yo81LVcviz0EJuBArfrKcxkDACL2Nle04hPAuEbvFKzH_gZBY7mJnC9WKfeJsftfLD3AZY3J3Xg8l_Gd8gcWcNA_YS6SYwJA9P8Ed0CI5AAwxY6T799g6vpTW95L8l6hJOJUG3xU8kjsJmsb1nNqNMiuSuw9VlL_pVU8R6i8zMtsJ5nxicjS7_gpEr74cQ3IJaWy8UlYYcxEeZOMDLzmb2FteOBrUBnv1eU2teQTOwOUr6Zm22H8Zmuib54PYkR1UUQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfM85HjSw8XZvATYA1vu5yo81LVcviz0EJuBArfrKcxkDACL2Nle04hPAuEbvFKzH_gZBY7mJnC9WKfeJsftfLD3AZY3J3Xg8l_Gd8gcWcNA_YS6SYwJA9P8Ed0CI5AAwxY6T799g6vpTW95L8l6hJOJUG3xU8kjsJmsb1nNqNMiuSuw9VlL_pVU8R6i8zMtsJ5nxicjS7_gpEr74cQ3IJaWy8UlYYcxEeZOMDLzmb2FteOBrUBnv1eU2teQTOwOUr6Zm22H8Zmuib54PYkR1UUQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYQxF9lo6y1WkG12mpDfB-zDnWKq7mX9OtzFU1YjxJIMwD4B2pDEVj2ZODUPGYXoNFMTfn7K_kCj-zhWwXPn1ah-Soaf-rqPLkPynrweCLgDMb50SeGNfQNL3_8Z8ic9z73GLuDyAaglRuk9EEvzj9-R9xSHWqC09q1fTa5-oHhk7TO3rIi3CCyuBHBaXLnIiNauN01am4qDq5s7kl1237sSm_f-RcgUHpGukaYYqmEaJwWoa5NyMfO_qPxC1ZjyQ3RdKwgrZQK4gmYu4k5W6xA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYQxF9lo6y1WkG12mpDfB-zDnWKq7mX9OtzFU1YjxJIMwD4B2pDEVj2ZODUPGYXoNFMTfn7K_kCj-zhWwXPn1ah-Soaf-rqPLkPynrweCLgDMb50SeGNfQNL3_8Z8ic9z73GLuDyAaglRuk9EEvzj9-R9xSHWqC09q1fTa5-oHhk7TO3rIi3CCyuBHBaXLnIiNauN01am4qDq5s7kl1237sSm_f-RcgUHpGukaYYqmEaJwWoa5NyMfO_qPxC1ZjyQ3RdKwgrZQK4gmYu4k5W6xA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYM5X215dv2OTrfc9LCq5BaLJsbW4Z5iA6R7apuCv_qZ9wxRd9QFIypzwGudPBPj54oFgAUZK6mHihp0ltcWbAE08zAQylLarDTIxlHF42MKAwA0N2OkRaZaO6fDsjcmiBlQueUwc1GlCiDSigNdsm7fTdC2GDW2NMNUPSElYoIrEw3QJxUrrDwOf9_jiF0ilsog77VuO71C0R52VvPpgVZA95QsiUiSTCUw62NCXNEQtcnoGmMBUXSDgNr7g6lbsb_PvHAm0igOnec-BeHkoOQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYM5X215dv2OTrfc9LCq5BaLJsbW4Z5iA6R7apuCv_qZ9wxRd9QFIypzwGudPBPj54oFgAUZK6mHihp0ltcWbAE08zAQylLarDTIxlHF42MKAwA0N2OkRaZaO6fDsjcmiBlQueUwc1GlCiDSigNdsm7fTdC2GDW2NMNUPSElYoIrEw3QJxUrrDwOf9_jiF0ilsog77VuO71C0R52VvPpgVZA95QsiUiSTCUw62NCXNEQtcnoGmMBUXSDgNr7g6lbsb_PvHAm0igOnec-BeHkoOQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

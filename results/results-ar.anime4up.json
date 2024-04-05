@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mahouka-koukou-no-rettousei-3rd-season/",
+                                "title": "Mahouka Koukou no Rettousei 3rd Season",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Mahouka-Koukou-no-Rettousei-2024-768x1089-1-215x300.jpg"
+                            },
+                            {
                                 "url": "/anime/vampire-dormitory/",
                                 "title": "Vampire Dormitory",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.05_05h40m08s_028_-215x300.png"
@@ -240,11 +245,6 @@
                                 "url": "/anime/meitantei-conan-movie-11-konpeki-no-jolly-roger/",
                                 "title": "Meitantei Conan Movie 11: Konpeki no Jolly Roger",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/03/Ashampoo_Snap_2024.03.19_20h23m31s_007_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/meitantei-conan-movie-10-tantei-tachi-no-requiem/",
-                                "title": "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/03/Ashampoo_Snap_2024.03.19_19h14m58s_005_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -359,24 +359,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/vampire-dormitory/",
-                    "title": "Vampire Dormitory",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: ربيع 2024\nالمصدر: مانجا\n\nقصة انمي Vampire Dormitory حول “ميتو ياماموتو” هو رجل جميل للغاية، حتى الحد الذي يتوافد عليه النساء إلى المطعم الذي يعمل فيه يوميًا. عندما يقرر صاحب المطعم أنه قد اكتفى، يقوم بطرد “ميتو“، مما يتركه بلا وظيفة وبدون مأوى. بعد ذلك بقليل، يجد “ميتو” مقهى ويتلقى جرحًا في يده نتيجة كسر الزجاج. ليأخذه رجل غريب يُدعى “روكا ساوتومي” لرعاية الجرح على ما يبدو، لكنه بدلاً من ذلك يلعق دم “ميتو“، ثم يعتبر طعمه مثيرا للاشمئزاز، ثم يطلب من “ميتو” أن يغادر. في وقت لاحق في نفس الليلة، ينزلق “ميتو” عن طريق الخطأ من سطح المبنى ويتم إمساكه بواسطة “روكا“، الذي يكشف عن هويته كمصاص دماء. يشرح “روكا” أن دم الرجال يكون ذو مذاق كريه، وأن دم شخص غير محبوب يكون له مذاق أسوأ. ومع ذلك، لا يمكن لـ”روكا” شرب دم الفتيات، لذلك كان يبحث عن فتى جميل ليصبح تلميذه. يقترح أن يأخذ “ميتو” هذا الدور وأن يسمح لمشاعر “روكا” بأن تجعل دمه “ينضج”. يوافق “ميتو” ويبدأ في العيش مع “روكا” في مسكن أكاديمية هيجيريجاوكا للفتيان. ومع ذلك، هناك مشكلة واحدة فقط في كل هذا: “ميتو” هي في الواقع فتاة!",
-                    "genre": "رومانسي, خارق للعادة, مصاصي دماء, شوجو, TV, يعرض الان, ربيع 2024",
+                    "url": "/anime/mahouka-koukou-no-rettousei-3rd-season/",
+                    "title": "Mahouka Koukou no Rettousei 3rd Season",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: ربيع 2024\nالمصدر: رواية\n\nالموسم الثالث من الأنمي.",
+                    "genre": "أكشن, خيال علمي, خارق للعادة, مدرسي, نفسي, فنتازيا, رومانسي, TV, يعرض الان, ربيع 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.05_05h40m08s_028_.png",
+                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Mahouka-Koukou-no-Rettousei-2024-768x1089-1-722x1024.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/mahouka-koukou-no-rettousei-3rd-season-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m150.uqload.to/3rfkzoefsrw2q4drdio7vjnna3ebylggbqry3e5vprlnb6wmzd2v4c2becdq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m150.uqload.to/3rfkzoefsrw2q4drdio7vjnna3ebylggbqry3e5vprlnb6wmzd2v4c2becdq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

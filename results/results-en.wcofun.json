@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/astro-note-english-subbed",
+                                "title": "Astro Note English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933543.jpg"
+                            },
+                            {
                                 "url": "/anime/wind-breaker-english-subbed",
                                 "title": "Wind Breaker English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933542.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/sand-land-the-series-english-subbed",
                                 "title": "Sand Land: The Series English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933528.jpg"
-                            },
-                            {
-                                "url": "/anime/sand-land-the-series",
-                                "title": "Sand Land: The Series",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933527.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/wind-breaker-english-subbed",
-                    "title": "Wind Breaker English Subbed",
-                    "description": "Haruka Sakura wants nothing to do with weaklings—he’s only interested in the strongest of the strong. He’s just started at Furin High School, a school of degenerates known only for their brawling strength—strength they use to protect their town from anyone who wishes it ill. But Haruka’s not interested in being a hero or being part of any sort of team—he just wants to fight his way to the top!",
-                    "genre": "Action, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933542.jpg",
+                    "url": "/anime/astro-note-english-subbed",
+                    "title": "Astro Note English Subbed",
+                    "description": "Takumi, a gifted chef, was just let go from his job. He lands a gig at an old boarding house called Astro-sou but hesitates to accept after learning he must also live there full-time. That is until he meets the beautiful and charming caretaker, Mira, and he is sold. The two begin to work together, and their connection deepens. But Mira has a secret: she is not from this world!",
+                    "genre": "Comedy, Romance, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933543.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/wind-breaker-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfM85HjSw8XZvATYA1vu5yo81LVcviz0EJuBArfrKcxkDACL2Nle04hPAuEbvFKzH_gZBY7mJnC9WKfeJsftfLD3AZY3J3Xg8l_Gd8gcWcNA_YS6SYwJA9P8Ed0CI5AAwxB2y4XrMh4fnrATmvlxy0hZ5ZI4wjLNM8_HU4_Wo5XbOW01Z1gl_NmtK4y9yLbSWRiGsL0nMI6WIuYJ6-F3u0f6eGH2em12MCBoaKBoxzhnY_OjaElh_2t7QQUSbhFzEvGhhisJL0mWBxX05PC9JEwA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfM85HjSw8XZvATYA1vu5yo81LVcviz0EJuBArfrKcxkDACL2Nle04hPAuEbvFKzH_gZBY7mJnC9WKfeJsftfLD3AZY3J3Xg8l_Gd8gcWcNA_YS6SYwJA9P8Ed0CI5AAwxB2y4XrMh4fnrATmvlxy0hZ5ZI4wjLNM8_HU4_Wo5XbOW01Z1gl_NmtK4y9yLbSWRiGsL0nMI6WIuYJ6-F3u0f6eGH2em12MCBoaKBoxzhnY_OjaElh_2t7QQUSbhFzEvGhhisJL0mWBxX05PC9JEwA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYQxF9lo6y1WkG12mpDfB-zDnWKq7mX9OtzFU1YjxJIMwD4B2pDEVj2ZODUPGYXoNFMTfn7K_kCj-zhWwXPn1ah-Soaf-rqPLkPynrweCLgDMb50SeGNfQNL3_8Z8ic9zoe7cBHZat51nThmzIfG4GRbaEj-A5SMhhdz3F67UQ1lLR2awZLmJDBTSf9NKa_059AXczGTGgK_k62poiqf4MqKBsBbmdGfiushNdPvNxPr5KjUFVcSbQRgpLHl_Mq_-MxG4zTRtrKmJl6YOTwQf4A",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYQxF9lo6y1WkG12mpDfB-zDnWKq7mX9OtzFU1YjxJIMwD4B2pDEVj2ZODUPGYXoNFMTfn7K_kCj-zhWwXPn1ah-Soaf-rqPLkPynrweCLgDMb50SeGNfQNL3_8Z8ic9zoe7cBHZat51nThmzIfG4GRbaEj-A5SMhhdz3F67UQ1lLR2awZLmJDBTSf9NKa_059AXczGTGgK_k62poiqf4MqKBsBbmdGfiushNdPvNxPr5KjUFVcSbQRgpLHl_Mq_-MxG4zTRtrKmJl6YOTwQf4A"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYM5X215dv2OTrfc9LCq5BaLJsbW4Z5iA6R7apuCv_qZ9wxRd9QFIypzwGudPBPj54oFgAUZK6mHihp0ltcWbAE08zAQylLarDTIxlHF42MKAwA0N2OkRaZaO6fDsjcmiRFUEV-tOUSjcR9aqFEluNdXEgsMtPdMFNiU04BkEH87nNCHq3uiurCf2c8nieYcNQiQiqBqws9PeKTo85EdF4bqBonWp_92DgPb0BS9xW5ZWrn13THBbT-RLYb4GZep3t4AQIFExhBi-MOxRAt49Cg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtPHTBIDTcgrqVCTIDCi8Oifo-9sb8V43M3QeB9MjZQCsLn8yBUZUS3hJnhgvtih_0I4N5DCv-402vuKcBgYAQvvT3wOTy5OU8im5fetPjEfYM5X215dv2OTrfc9LCq5BaLJsbW4Z5iA6R7apuCv_qZ9wxRd9QFIypzwGudPBPj54oFgAUZK6mHihp0ltcWbAE08zAQylLarDTIxlHF42MKAwA0N2OkRaZaO6fDsjcmiRFUEV-tOUSjcR9aqFEluNdXEgsMtPdMFNiU04BkEH87nNCHq3uiurCf2c8nieYcNQiQiqBqws9PeKTo85EdF4bqBonWp_92DgPb0BS9xW5ZWrn13THBbT-RLYb4GZep3t4AQIFExhBi-MOxRAt49Cg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

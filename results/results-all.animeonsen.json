@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "MSjRmEwUGZKJKDBg",
+                                "title": "Snack Basue",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/MSjRmEwUGZKJKDBg"
+                            },
+                            {
+                                "url": "pc2vFfZ0o6M6beGm",
+                                "title": "Mahouka Koukou no Rettousei 3rd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/pc2vFfZ0o6M6beGm"
+                            },
+                            {
+                                "url": "PNYtfirZGuS1TOXa",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PNYtfirZGuS1TOXa"
+                            },
+                            {
+                                "url": "WnxofCxQMaM3YEmQ",
+                                "title": "Astro Note",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/WnxofCxQMaM3YEmQ"
+                            },
+                            {
                                 "url": "T7yx5cNCPS4oc90L",
                                 "title": "Henjin no Salad Bowl",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/T7yx5cNCPS4oc90L"
@@ -85,26 +105,6 @@
                                 "url": "yklvqjPoQHOa65dU",
                                 "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yklvqjPoQHOa65dU"
-                            },
-                            {
-                                "url": "VW2uXR5DvjxlLSw5",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/VW2uXR5DvjxlLSw5"
-                            },
-                            {
-                                "url": "dLBDImoiztciyOpL",
-                                "title": "Mashle 2nd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/dLBDImoiztciyOpL"
-                            },
-                            {
-                                "url": "RfRWjHsFi10Vgpih",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/RfRWjHsFi10Vgpih"
-                            },
-                            {
-                                "url": "7hBFimU3aykxg2A0",
-                                "title": "BUCCHIGIRI?!",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/7hBFimU3aykxg2A0"
                             }
                         ],
                         "hasNextPage": true
@@ -254,14 +254,14 @@
             },
             "details": {
                 "result": {
-                    "url": "T7yx5cNCPS4oc90L",
-                    "title": "Henjin no Salad Bowl",
-                    "author": "SynergySP, Studio Comet",
-                    "description": "Sousuke Kaburaya, an impoverished detective, meets Sara, a princess from another world with magical powers. They start living together, and Sara quickly adjusts her life to modern Japan.\n\n(Source: Shogakukan, translated)",
-                    "genre": "Comedy, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/T7yx5cNCPS4oc90L",
+                    "url": "MSjRmEwUGZKJKDBg",
+                    "title": "Snack Basue",
+                    "author": "Studio PuYUKAI",
+                    "description": "Located five stations away from Hokkaido's largest downtown area Susukino. A fun shop called \"Snack Bus\" can be found run by mama Basue and mama Akemi. Filled with the laughter of the girls and their unusual regulars, you'll be smiling along with them before you know it. \n\n(Official Site, translated)",
+                    "genre": "Adult Cast, Comedy, Seinen, Workplace",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/MSjRmEwUGZKJKDBg",
                     "initialized": true
                 },
                 "passed": true
@@ -269,9 +269,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "T7yx5cNCPS4oc90L/video/1",
-                        "name": "Episode 1: Awaiting Kirin (From Another World)",
-                        "episode_number": 1.0
+                        "url": "MSjRmEwUGZKJKDBg/video/13",
+                        "name": "Episode 13: Risen' To the Top / Just One Look",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "MSjRmEwUGZKJKDBg/video/12",
+                        "name": "Episode 12: The Great Pretender / Let Me Into Your World / Trouble Man",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -279,45 +284,49 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/T7yx5cNCPS4oc90L/1/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/MSjRmEwUGZKJKDBg/13/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/T7yx5cNCPS4oc90L/1/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/MSjRmEwUGZKJKDBg/13/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/en-US/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/en-US/13",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/ru-RU/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/ru-RU/13",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/pt-BR/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/pt-BR/13",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/it-IT/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/it-IT/13",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/fr-FR/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/fr-FR/13",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/es-LA/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/es-LA/13",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/es-ES/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/es-ES/13",
                                 "lang": "Español (Spain)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/de-DE/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/de-DE/13",
                                 "lang": "Deutsch"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/ar-ME/13",
+                                "lang": "العربية"
                             }
                         ]
                     }

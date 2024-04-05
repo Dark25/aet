@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-baxters/",
+                                "title": "The Baxters",
+                                "description": "Elizabeth y John Baxter, y sus hijos adultos atraviesan los altibajos de la vida, con y sin Dios. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/gI7aAZGKigIGgyNvl2JT2CfKumg.jpg"
+                            },
+                            {
+                                "url": "/lol-last-one-laughing-mexico/",
+                                "title": "LOL: Last One Laughing (México)",
+                                "description": "Eugenio Derbez confronta a diez de los mejores comediantes en México en esta batalla de celebrities. El reloj corre, son seis horas de competencia y el objetivo es eliminar a los demás competidores haicéndolos reír. El comediante que aguante sin reír hasta el final es quien gana el premio de 1 millón de pesos. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hWCV9AAXjjmgCibCoPdI6jsBuNI.jpg"
+                            },
+                            {
                                 "url": "/un-caballero-en-moscu/",
                                 "title": "Un caballero en Moscú",
                                 "description": "A Gentleman in Moscow El conde Alexander Rostov se encuentra pasando de la riqueza a la pobreza tras la revolución rusa. Un tribunal soviético lo destierra al ático de un opulento hotel, donde, ajeno al mundo exterior, descubre el verdadero valor de la amistad, la familia y el amor. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/et0MIXH2isgsuDBpBLnZT5sQnNg.jpg"
                             },
                             {
-                                "url": "/dance-life/",
-                                "title": "Dance Life",
-                                "description": "''Dance Life'' muestra la incansable carrera de los mejores estudiantes de la academia de danza más importante de Australia para convertirse en bailarines profesionales. Hay mucho en juego y no todos lo consiguen. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lLeCOJOPyqEf9nDxXAgh6IuzAC3.jpg"
-                            },
-                            {
-                                "url": "/hope-on-the-street/",
-                                "title": "HOPE ON THE STREET",
-                                "description": "El baile urbano, según J-Hope En 2024, J-Hope de BTS emprende una nueva aventura y regresa a sus raíces de bailarín en su duodécimo año de carrera. Con su antiguo instructor, el campeón de popping Boogaloo Kin, recorre las calles de Osaka, Seúl, París, Nueva York y Gwangju, y conoce a inspiradores bailarines urbanos. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tuEgLvnYyKFQYpAQhNuVZN3Fciu.jpg"
-                            },
-                            {
-                                "url": "/nowhere-man/",
-                                "title": "Nowhere Man",
+                                "url": "/arslan-senki-capitulos-completos-espanol-hd-online/",
+                                "title": "Arslan Senki",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/10/eX11TN9y362wBCP8XrNzh1jWAhl-226x339.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/11/k7vN8ZbmqadUfk96H3T2WftXm9c-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/fallen/",
-                                "title": "Fallen",
+                                "url": "/the-adventures-of-peter-pan/",
+                                "title": "The Adventures of Peter Pan",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/f2I0lwI5c7WVwZOhYgK4QSgWo4E.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bFO7Dqk3mUcRuTTZVrUJXtSbC1A.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,69 @@
             },
             "details": {
                 "result": {
-                    "url": "/un-caballero-en-moscu/",
-                    "title": "Un caballero en Moscú",
-                    "description": "A Gentleman in Moscow El conde Alexander Rostov se encuentra pasando de la riqueza a la pobreza tras la revolución rusa. Un tribunal soviético lo destierra al ático de un opulento hotel, donde, ajeno al mundo exterior, descubre el verdadero valor de la amistad, la familia y el amor.",
+                    "url": "/the-baxters/",
+                    "title": "The Baxters",
+                    "description": "Elizabeth y John Baxter, y sus hijos adultos atraviesan los altibajos de la vida, con y sin Dios.",
                     "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/awIufRN7dWaG813VWQWpKD2ErpP.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gI7aAZGKigIGgyNvl2JT2CfKumg.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-baxters-temporada-3-capitulo-12/",
+                        "name": "T03 - E12 - Episodio 12",
+                        "date_upload": 1711497600000,
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/episode/the-baxters-temporada-3-capitulo-11/",
+                        "name": "T03 - E11 - Episodio 11",
+                        "date_upload": 1711497600000,
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00065/j3uwvohuq48k_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Z5h5S2UENyoi_zZxxen682tBV21u-fAYV-W6C2EqqPk&s=1712297800&e=43200&f=326629&i=0.0&sp=0",
+                        "quality": "Fastream:608p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00065/j3uwvohuq48k_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Z5h5S2UENyoi_zZxxen682tBV21u-fAYV-W6C2EqqPk&s=1712297800&e=43200&f=326629&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00065/j3uwvohuq48k_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Z5h5S2UENyoi_zZxxen682tBV21u-fAYV-W6C2EqqPk&s=1712297800&e=43200&f=326629&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00065/j3uwvohuq48k_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Z5h5S2UENyoi_zZxxen682tBV21u-fAYV-W6C2EqqPk&s=1712297800&e=43200&f=326629&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00065/j3uwvohuq48k_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Z5h5S2UENyoi_zZxxen682tBV21u-fAYV-W6C2EqqPk&s=1712297800&e=43200&f=326629&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00065/j3uwvohuq48k_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Z5h5S2UENyoi_zZxxen682tBV21u-fAYV-W6C2EqqPk&s=1712297800&e=43200&f=326629&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

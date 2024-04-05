@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "7697-ghostbusters-minaccia-glaciale",
-                                "title": "Ghostbusters - Minaccia glaciale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/a4da513d-9327-49a6-9978-fa3c21e55a98.webp"
+                                "url": "8165-sugar",
+                                "title": "Sugar",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/16bc6e51-0a48-4137-8cb9-f1b167741b23.webp"
                             },
                             {
                                 "url": "8164-come-far-innamorare-billy-walsh",
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7697-ghostbusters-minaccia-glaciale",
-                    "description": "Dopo gli eventi in Oklahoma, la famiglia Spengler torna dove tutto è iniziato, l'iconica caserma dei pompieri di New York, e si unisce agli Acchiappafantasmi originali che hanno sviluppato un laboratorio di ricerca top-secret per portare la lotta ai fantasmi a un livello superiore. Quando la scoperta di un antico artefatto scatenerà una forza malvagia, i vecchi e nuovi Ghostbusters dovranno unire le forze per proteggere la loro casa e salvare il mondo da una seconda era glaciale.",
-                    "genre": "Fantasy, Avventura, Commedia",
+                    "url": "8165-sugar",
+                    "description": "Un enigmatico investigatore privato lotta contro i propri demoni mentre indaga sulla scomparsa dell’amata nipote di un produttore di Hollywood.",
+                    "genre": "Dramma",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -944,16 +946,542 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7697",
-                        "name": "Film",
+                        "url": "8165?episode_id=58775&next_episode=1",
+                        "name": "Stagione 1 episodio 1 - Olivia",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/218763.m3u8?type=video&rendition=720p&token=mWkJJmeOiSknwuvyVVxXlg&expires=1717481842&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/218763.m3u8?type=video&rendition=720p&token=mWkJJmeOiSknwuvyVVxXlg&expires=1717481842&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=3-eng&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=4-ara&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Arabic"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=5-bul&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Bulgarian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=6-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Simplified)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=7-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Traditional)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=8-cze&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Czech"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=9-dan&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Danish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=10-ger&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=11-gre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=12-spa&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Spanish (Latin American)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=13-spa&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Spanish (European)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=14-est&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Estonian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=15-fin&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Finnish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=16-fre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "French (Canadian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=17-fre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=18-heb&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hebrew"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=19-hin&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hindi"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=20-hun&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hungarian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=21-ind&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Indonesian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=22-forced-ita&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=23-ita&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=24-jpn&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Japanese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=25-kor&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Korean"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=26-lit&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Lithuanian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=27-lav&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Latvian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=28-may&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Malay"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=29-dut&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Dutch"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=30-nor&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Norwegian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=31-pol&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Polish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=32-por&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=33-por&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Portuguese (Brazilian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=34-rus&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Russian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=35-slo&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Slovak"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=36-slv&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Slovenian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=37-swe&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Swedish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=38-tam&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Tamil"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=39-tel&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Telugu"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=40-tha&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Thai"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=41-tur&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Turkish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=42-ukr&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Ukrainian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=43-vie&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Vietnamese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=44-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Traditional)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/218763.m3u8?type=video&rendition=1080p&token=8-GkKnv5nFtiUFIGkS45iQ&expires=1717481842&n=1",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/218763.m3u8?type=video&rendition=1080p&token=8-GkKnv5nFtiUFIGkS45iQ&expires=1717481842&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=3-eng&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=4-ara&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Arabic"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=5-bul&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Bulgarian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=6-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Simplified)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=7-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Traditional)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=8-cze&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Czech"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=9-dan&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Danish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=10-ger&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=11-gre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=12-spa&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Spanish (Latin American)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=13-spa&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Spanish (European)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=14-est&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Estonian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=15-fin&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Finnish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=16-fre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "French (Canadian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=17-fre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=18-heb&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hebrew"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=19-hin&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hindi"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=20-hun&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hungarian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=21-ind&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Indonesian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=22-forced-ita&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=23-ita&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=24-jpn&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Japanese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=25-kor&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Korean"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=26-lit&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Lithuanian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=27-lav&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Latvian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=28-may&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Malay"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=29-dut&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Dutch"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=30-nor&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Norwegian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=31-pol&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Polish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=32-por&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=33-por&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Portuguese (Brazilian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=34-rus&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Russian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=35-slo&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Slovak"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=36-slv&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Slovenian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=37-swe&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Swedish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=38-tam&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Tamil"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=39-tel&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Telugu"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=40-tha&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Thai"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=41-tur&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Turkish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=42-ukr&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Ukrainian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=43-vie&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Vietnamese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=44-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Traditional)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/218763.m3u8?type=video&rendition=480p&token=G2HqFtKGK3v6JsFsFQGdPw&expires=1717481842&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/218763.m3u8?type=video&rendition=480p&token=G2HqFtKGK3v6JsFsFQGdPw&expires=1717481842&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=3-eng&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=4-ara&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Arabic"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=5-bul&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Bulgarian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=6-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Simplified)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=7-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Traditional)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=8-cze&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Czech"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=9-dan&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Danish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=10-ger&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=11-gre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=12-spa&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Spanish (Latin American)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=13-spa&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Spanish (European)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=14-est&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Estonian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=15-fin&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Finnish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=16-fre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "French (Canadian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=17-fre&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=18-heb&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hebrew"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=19-hin&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hindi"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=20-hun&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Hungarian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=21-ind&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Indonesian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=22-forced-ita&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=23-ita&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=24-jpn&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Japanese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=25-kor&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Korean"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=26-lit&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Lithuanian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=27-lav&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Latvian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=28-may&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Malay"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=29-dut&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Dutch"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=30-nor&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Norwegian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=31-pol&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Polish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=32-por&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=33-por&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Portuguese (Brazilian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=34-rus&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Russian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=35-slo&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Slovak"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=36-slv&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Slovenian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=37-swe&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Swedish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=38-tam&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Tamil"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=39-tel&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Telugu"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=40-tha&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Thai"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=41-tur&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Turkish"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=42-ukr&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Ukrainian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=43-vie&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Vietnamese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/218763?type=subtitle&rendition=44-chi&token=p2QnY6OPo3GtvGtiegTjrQ&expires=1717481842",
+                                "lang": "Chinese (Traditional)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

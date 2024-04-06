@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
+                                "title": "Chicago Fire: Heróis Contra o Fogo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4449.webp"
+                            },
+                            {
+                                "url": "/serie/online/boku-no-hero-academia",
+                                "title": "Boku no Hero Academia",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/9288.webp"
+                            },
+                            {
                                 "url": "/serie/online/parasyte-the-grey",
                                 "title": "Parasyte: The Grey",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "FBI",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4051.webp"
-                            },
-                            {
-                                "url": "/serie/online/fbi-international",
-                                "title": "FBI: International",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19510.webp"
-                            },
-                            {
-                                "url": "/serie/online/alert-missing-persons-unit",
-                                "title": "Alert: Missing Persons Unit",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22174.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

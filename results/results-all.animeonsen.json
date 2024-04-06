@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "KRWNZ7UlFObUG9nG",
+                                "title": "Yoru no Kurage wa Oyogenai",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/KRWNZ7UlFObUG9nG"
+                            },
+                            {
+                                "url": "7hBFimU3aykxg2A0",
+                                "title": "BUCCHIGIRI?!",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/7hBFimU3aykxg2A0"
+                            },
+                            {
+                                "url": "TvUrY8jT480BAWr3",
+                                "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/TvUrY8jT480BAWr3"
+                            },
+                            {
                                 "url": "tpDOKQ9iGVuAUnTa",
                                 "title": "HIGHSPEED Étoile",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tpDOKQ9iGVuAUnTa"
@@ -90,21 +105,6 @@
                                 "url": "7buEMLBW95GhJOOo",
                                 "title": "Re:Monster",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/7buEMLBW95GhJOOo"
-                            },
-                            {
-                                "url": "D0xUCoitBKyuKpWZ",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/D0xUCoitBKyuKpWZ"
-                            },
-                            {
-                                "url": "kz42KpWoGFOlwEYy",
-                                "title": "Kami wa Game ni Ueteiru.",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/kz42KpWoGFOlwEYy"
-                            },
-                            {
-                                "url": "X5FSLBPPnmvWeoSZ",
-                                "title": "Shuumatsu Train Doko e Iku?",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/X5FSLBPPnmvWeoSZ"
                             }
                         ],
                         "hasNextPage": true
@@ -254,14 +254,13 @@
             },
             "details": {
                 "result": {
-                    "url": "tpDOKQ9iGVuAUnTa",
-                    "title": "HIGHSPEED Étoile",
-                    "author": "Studio A-CAT",
-                    "description": "In the near future, a next-generation racing event called NEX Race is announced, changing the world of racing. New technology has made racing at over 500 km/h safe, changing racing on the world stage completely. Rin Rindou, who once dreamed of being a ballet dancer, had given up her dream due to an injury, became a NEET and lives with her grandmother. However, one day she is suddenly thrown into the world of next-generation racing.\n\n(Source: MAL News)",
-                    "genre": "Racing",
+                    "url": "KRWNZ7UlFObUG9nG",
+                    "title": "Yoru no Kurage wa Oyogenai",
+                    "author": "Doga Kobo",
+                    "description": "Four young women—an artist who quit drawing, a retired idol wishing to prove her worth, a hotheaded V-tuber, and a mysterious composer—band together on the late-night streets of Shibuya to form an anonymous artist group called \"JELEE.\"\n\n(Source: HIDIVE, edited)",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tpDOKQ9iGVuAUnTa",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/KRWNZ7UlFObUG9nG",
                     "initialized": true
                 },
                 "passed": true
@@ -269,8 +268,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "tpDOKQ9iGVuAUnTa/video/1",
-                        "name": "Episode 1: Underneath Fuji's Sky",
+                        "url": "KRWNZ7UlFObUG9nG/video/1",
+                        "name": "Episode 1: Jellyfish at Night",
                         "episode_number": 1.0
                     }
                 ],
@@ -279,25 +278,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/tpDOKQ9iGVuAUnTa/1/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/KRWNZ7UlFObUG9nG/1/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/tpDOKQ9iGVuAUnTa/1/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/KRWNZ7UlFObUG9nG/1/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tpDOKQ9iGVuAUnTa/en-US/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/KRWNZ7UlFObUG9nG/en-US/1",
                                 "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tpDOKQ9iGVuAUnTa/pt-BR/1",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tpDOKQ9iGVuAUnTa/es-LA/1",
-                                "lang": "Español"
                             }
                         ]
                     }

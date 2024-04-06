@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/duna-parte-dos",
+                                "title": "Duna: Parte dos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg"
+                            },
+                            {
                                 "url": "/movies/die-middag",
                                 "title": "Die middag",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s35JX0OshnR1aQW8gmvJytptOPp.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/movies/striptease",
                                 "title": "Striptease",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/nqeGynWG1vsjFLb6wfzBj2XtdPD.jpg"
-                            },
-                            {
-                                "url": "/movies/steve-jobs",
-                                "title": "Steve Jobs",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ljiRO29Y9khEERRqMluptUYunJ9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -317,14 +317,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
-                                "url": "/movies/the-world-to-come",
-                                "title": "The World to Come",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -362,14 +362,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpTKga1uC7e4v2GMYHfwxy049xF.jpg"
                             },
                             {
-                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
-                                "title": "Billie Eilish: The world's a little blurry",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
-                            },
-                            {
                                 "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
                                 "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
+                            },
+                            {
+                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
+                                "title": "Billie Eilish: The world's a little blurry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
                             },
                             {
                                 "url": "/series/campfire-cooking-in-another-world-with-my-absurd-skills",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/die-middag",
-                    "title": "Die middag",
-                    "artist": "Hoda Niku",
-                    "description": "Roya, a refugee from Iran who has exhausted all legal remedies, flees her asylum seekers’ center to avoid being sent back to Iran. With an address in her pocket, she hopes to stay with Nassim, who assists rejected refugees. Nassim, however, claims to be unable to open the door. Having nowhere else to go, Roya is determined to stay. Slowly but surely, a conversation develops between the two. Marked by their past as refugees, they are both looking for a way out. They could be each other’s salvation, but a closed door stands between them. They get to know each other through the closed door, and so two life stories with one fate are unveiled.",
-                    "genre": "Drama",
+                    "url": "/movies/duna-parte-dos",
+                    "title": "Duna: Parte dos",
+                    "artist": "Timothée Chalamet",
+                    "description": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
+                    "genre": "Ciencia ficción, Aventura",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/s35JX0OshnR1aQW8gmvJytptOPp.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/die-middag",
+                        "url": "/movies/duna-parte-dos",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,39 +429,50 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-aisjeajqgkib0poo.voe-network.net/engine/hls2/01/11059/2dtsfxgmqvke_,n,.urlset/index-v1-a1.m3u8?t=S2OJ03pUVDES_f4Ln8GjPa3OSpBd596UMSyizofPOog&s=1712384413&e=14400&f=55296367&node=delivery-node-aisjeajqgkib0poo.voe-network.net&i=20.109&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-aisjeajqgkib0poo.voe-network.net/engine/hls2/01/11059/2dtsfxgmqvke_,n,.urlset/index-v1-a1.m3u8?t=S2OJ03pUVDES_f4Ln8GjPa3OSpBd596UMSyizofPOog&s=1712384413&e=14400&f=55296367&node=delivery-node-aisjeajqgkib0poo.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "url": "https://delivery-node-64by4o3ydkva40vc.voe-network.net/engine/hls2-c/01/11060/zvnettq7owcn_,n,.urlset/index-v1-a1.m3u8?t=n8NZpLbZRT5HujV2w1chQeQNU67jDtClc75X6Buxues&s=1712406369&e=14400&f=55300124&node=delivery-node-fr73jnefgzvhktne.voe-network.net&i=172.214&sp=2500&asn=8075",
+                        "quality": "[SUB]Voe: 720p",
+                        "videoUrl": "https://delivery-node-64by4o3ydkva40vc.voe-network.net/engine/hls2-c/01/11060/zvnettq7owcn_,n,.urlset/index-v1-a1.m3u8?t=n8NZpLbZRT5HujV2w1chQeQNU67jDtClc75X6Buxues&s=1712406369&e=14400&f=55300124&node=delivery-node-fr73jnefgzvhktne.voe-network.net&i=172.214&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05841/g1cefpd6x1mz_x/index-v1-a1.m3u8?t=k_11FR8SzZNprFHMO5qec5AltftuMD6nX1cFMDUveFA&s=1712384416&e=43200&f=29213750&srv=11&asn=8075&sp=3500",
-                        "quality": "[LAT] Filemoon:1080p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05841/g1cefpd6x1mz_x/index-v1-a1.m3u8?t=k_11FR8SzZNprFHMO5qec5AltftuMD6nX1cFMDUveFA&s=1712384416&e=43200&f=29213750&srv=11&asn=8075&sp=3500",
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/02/05846/tasd8vx8c4ru_h/index-v1-a1.m3u8?t=VYbjWH4UwIcAFewSXcFtdEqLl-2w-_rV6j7hFWpBnL8&s=1712406372&e=43200&f=29232892&srv=27&asn=8075&sp=3000",
+                        "quality": "[SUB] Filemoon:804p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/02/05846/tasd8vx8c4ru_h/index-v1-a1.m3u8?t=VYbjWH4UwIcAFewSXcFtdEqLl-2w-_rV6j7hFWpBnL8&s=1712406372&e=43200&f=29232892&srv=27&asn=8075&sp=3000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://filemoon.sx/e/9i1m0aovugb7",
+                            "Referer": "https://filemoon.sx/e/tasd8vx8c4ru",
                             "Origin": "https://filemoon.sx",
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://7jh9ab4anf.sw-cdnstreamwish.com/hls2/01/03519/ghhp3ksja2jd_n/index-v1-a1.m3u8?t=eFE7OBe5CBndiNkU_tcgYLOeuD7z4fmQherz1D9zuJ8&s=1712384415&e=129600&f=17598336&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://7jh9ab4anf.sw-cdnstreamwish.com/hls2/01/03519/ghhp3ksja2jd_n/index-v1-a1.m3u8?t=eFE7OBe5CBndiNkU_tcgYLOeuD7z4fmQherz1D9zuJ8&s=1712384415&e=129600&f=17598336&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03521/hy7ptxa3jb6h_,n,h,.urlset/index-f2-v1-a1.m3u8?t=1Yh0aMXlDZIYtR7kj3181I1xx8dkprWNduYF5yvOslE&s=1712406371&e=129600&f=17606750&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03521/hy7ptxa3jb6h_,n,h,.urlset/index-f2-v1-a1.m3u8?t=1Yh0aMXlDZIYtR7kj3181I1xx8dkprWNduYF5yvOslE&s=1712406371&e=129600&f=17606750&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/ghhp3ksja2jd"
+                            "Referer": "https://streamwish.to/e/hy7ptxa3jb6h"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=09BJq9PQG2imBL&expires=1712454414&ip=FROsD0AAKxSHDN&token=ZwugRt9ho-nA",
-                        "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=09BJq9PQG2imBL&expires=1712454414&ip=FROsD0AAKxSHDN&token=ZwugRt9ho-nA"
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03521/hy7ptxa3jb6h_,n,h,.urlset/index-f1-v1-a1.m3u8?t=1Yh0aMXlDZIYtR7kj3181I1xx8dkprWNduYF5yvOslE&s=1712406371&e=129600&f=17606750&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03521/hy7ptxa3jb6h_,n,h,.urlset/index-f1-v1-a1.m3u8?t=1Yh0aMXlDZIYtR7kj3181I1xx8dkprWNduYF5yvOslE&s=1712406371&e=129600&f=17606750&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/hy7ptxa3jb6h"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=AXlVZVv8A1iXKp8&expires=1712476370&ip=F0qQKRSSES9XKxR&token=YM94mCUH88y8",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=AXlVZVv8A1iXKp8&expires=1712476370&ip=F0qQKRSSES9XKxR&token=YM94mCUH88y8"
                     }
                 ],
                 "passed": true

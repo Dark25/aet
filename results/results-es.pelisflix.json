@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-trenza/",
+                                "title": "La trenza",
+                                "description": "Sigue a tres mujeres, Smita, Giulia y Sarah, de diferentes partes del mundo, que nunca se han conoci...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ci3F57POVOiNeDwEI91A3lwr48aHYcm1lfw.webp"
+                            },
+                            {
+                                "url": "/pelicula/teddy-la-magia-de-la-navidad/",
+                                "title": "Teddy. La magia de la Navidad",
+                                "description": "La paz navideña cae sobre el pequeño pueblo, pero en el mercado navideño hay una actividad frené...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/LPIQb9yfjrF96EZ3GWwJaWwlGO43.webp"
+                            },
+                            {
+                                "url": "/pelicula/rubikon/",
+                                "title": "Rubikon",
+                                "description": "Después de una catástrofe en la Tierra, el planeta se cubre de una niebla tóxica. La tripulación...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/vOQQ8flvozUs89vcLbqWTgzQvGzybo6.webp"
+                            },
+                            {
+                                "url": "/pelicula/musica/",
+                                "title": "Música",
+                                "description": "Sigue a un joven muy apasionado por la música. Tiene que aceptar un futuro incierto mientras equili...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/vx2NVjJOnvlqZVk0pz06RSuky.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-asesino-de-mi-hermano/",
                                 "title": "El asesino de mi hermano",
                                 "description": "Jacob es acusado de asesinato tras la muerte de su hermano mientras escalaban juntos. Él se declara...",
@@ -221,30 +245,6 @@
                                 "title": "Princezna zakletá v čase 2",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/iK1Syq4PwS1qwaesT84Lr2ZqyzPscT2k.webp"
-                            },
-                            {
-                                "url": "/pelicula/破碎太阳之心/",
-                                "title": "破碎太阳之心",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/whj1UTREVTHwTiklmFRmB7vyadSsrWcO3lFN4.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-belleza-y-el-dolor/",
-                                "title": "La Belleza y el Dolor",
-                                "description": "Sigue la vida de la artista Nan Goldin y su activismo contra la dinastía farmacéutica de los Sackl...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/a4lCxoRDbydtbh9sIJA.webp"
-                            },
-                            {
-                                "url": "/pelicula/four-little-adults/",
-                                "title": "Four Little Adults",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/nmRYVx3V73vcEfJ.webp"
-                            },
-                            {
-                                "url": "/pelicula/confidential-informant-zzbi/",
-                                "title": "Confidential Informant",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/jSPb4sNQkSxGqiFpsfEDLHfIVQZqF.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-asesino-de-mi-hermano/",
-                    "title": "El asesino de mi hermano",
-                    "description": "Jacob es acusado de asesinato tras la muerte de su hermano mientras escalaban juntos. Él se declara inocente, pero solo su madre cree que fue un accidente. Juntos, buscan la verdad detrás de lo sucedido.",
-                    "genre": "Drama, Suspense",
+                    "url": "/pelicula/la-trenza/",
+                    "title": "La trenza",
+                    "description": "Sigue a tres mujeres, Smita, Giulia y Sarah, de diferentes partes del mundo, que nunca se han conocido pero a las que les une algo íntimo y único.",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-asesino-de-mi-hermano/",
+                        "url": "/pelicula/la-trenza/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar yerXvoJvUY = \"\"; hdYWsdpi.forEach(function Oym(value) { yerXvoJvUY += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DjOrsoQUOu = \"\"; DvLHnvvoMi.forEach(function Oym(value) { DjOrsoQUOu += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

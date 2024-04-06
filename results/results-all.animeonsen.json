@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "tpDOKQ9iGVuAUnTa",
+                                "title": "HIGHSPEED Étoile",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tpDOKQ9iGVuAUnTa"
+                            },
+                            {
                                 "url": "MSjRmEwUGZKJKDBg",
                                 "title": "Snack Basue",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/MSjRmEwUGZKJKDBg"
@@ -100,11 +105,6 @@
                                 "url": "X5FSLBPPnmvWeoSZ",
                                 "title": "Shuumatsu Train Doko e Iku?",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/X5FSLBPPnmvWeoSZ"
-                            },
-                            {
-                                "url": "yklvqjPoQHOa65dU",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yklvqjPoQHOa65dU"
                             }
                         ],
                         "hasNextPage": true
@@ -254,14 +254,14 @@
             },
             "details": {
                 "result": {
-                    "url": "MSjRmEwUGZKJKDBg",
-                    "title": "Snack Basue",
-                    "author": "Studio PuYUKAI",
-                    "description": "Located five stations away from Hokkaido's largest downtown area Susukino. A fun shop called \"Snack Bus\" can be found run by mama Basue and mama Akemi. Filled with the laughter of the girls and their unusual regulars, you'll be smiling along with them before you know it. \n\n(Official Site, translated)",
-                    "genre": "Adult Cast, Comedy, Seinen, Workplace",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/MSjRmEwUGZKJKDBg",
+                    "url": "tpDOKQ9iGVuAUnTa",
+                    "title": "HIGHSPEED Étoile",
+                    "author": "Studio A-CAT",
+                    "description": "In the near future, a next-generation racing event called NEX Race is announced, changing the world of racing. New technology has made racing at over 500 km/h safe, changing racing on the world stage completely. Rin Rindou, who once dreamed of being a ballet dancer, had given up her dream due to an injury, became a NEET and lives with her grandmother. However, one day she is suddenly thrown into the world of next-generation racing.\n\n(Source: MAL News)",
+                    "genre": "Racing",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tpDOKQ9iGVuAUnTa",
                     "initialized": true
                 },
                 "passed": true
@@ -269,14 +269,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "MSjRmEwUGZKJKDBg/video/13",
-                        "name": "Episode 13: Risen' To the Top / Just One Look",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "MSjRmEwUGZKJKDBg/video/12",
-                        "name": "Episode 12: The Great Pretender / Let Me Into Your World / Trouble Man",
-                        "episode_number": 12.0
+                        "url": "tpDOKQ9iGVuAUnTa/video/1",
+                        "name": "Episode 1: Underneath Fuji's Sky",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -284,49 +279,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/MSjRmEwUGZKJKDBg/13/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/tpDOKQ9iGVuAUnTa/1/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/MSjRmEwUGZKJKDBg/13/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/tpDOKQ9iGVuAUnTa/1/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/en-US/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/tpDOKQ9iGVuAUnTa/en-US/1",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/ru-RU/13",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/pt-BR/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/tpDOKQ9iGVuAUnTa/pt-BR/1",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/it-IT/13",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/fr-FR/13",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/es-LA/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/tpDOKQ9iGVuAUnTa/es-LA/1",
                                 "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/es-ES/13",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/de-DE/13",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/MSjRmEwUGZKJKDBg/ar-ME/13",
-                                "lang": "العربية"
                             }
                         ]
                     }

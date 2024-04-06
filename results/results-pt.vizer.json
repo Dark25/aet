@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/parasyte-the-grey",
+                                "title": "Parasyte: The Grey",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22684.webp"
+                            },
+                            {
+                                "url": "/serie/online/o-bom-doutor",
+                                "title": "The Good Doctor: O Bom Doutor",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5944.webp"
+                            },
+                            {
+                                "url": "/serie/online/tokyo-vice",
+                                "title": "Tokyo Vice",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19660.webp"
+                            },
+                            {
+                                "url": "/serie/online/ltimo-ato",
+                                "title": "Último Ato",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22655.webp"
+                            },
+                            {
+                                "url": "/serie/online/sugar",
+                                "title": "Sugar",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22681.webp"
+                            },
+                            {
                                 "url": "/serie/online/ripley",
                                 "title": "RIPLEY",
                                 "status": 2,
@@ -315,36 +345,6 @@
                                 "title": "Alert: Missing Persons Unit",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22174.webp"
-                            },
-                            {
-                                "url": "/serie/online/chicago-med",
-                                "title": "Chicago Med: Atendimento de Emergência",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4818.webp"
-                            },
-                            {
-                                "url": "/serie/online/estacao-19",
-                                "title": "Estação 19",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/3664.webp"
-                            },
-                            {
-                                "url": "/serie/online/greys-anatomy",
-                                "title": "A Anatomia de Grey",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/18620.webp"
-                            },
-                            {
-                                "url": "/serie/online/american-rust",
-                                "title": "American Rust",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19483.webp"
-                            },
-                            {
-                                "url": "/serie/online/ninja-kamui",
-                                "title": "Ninja Kamui",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22630.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,49 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=IxLwgPmz1tPYfbV8E0rcWg&e=1712362771&_t=1712349055",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=IxLwgPmz1tPYfbV8E0rcWg&e=1712362771&_t=1712349055",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=OpyvP4_LukIqAiENi1fCzg&e=1712362772&_t=1712344378",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=OpyvP4_LukIqAiENi1fCzg&e=1712362772&_t=1712344378",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo59.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
-                        "quality": "WarezCDN - LEG",
-                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo59.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://vizertv.in/"
-                        }
-                    },
-                    {
-                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo64.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
-                        "quality": "WarezCDN - DUB",
-                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo64.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://vizertv.in/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "passed": false
             }
         }
     }

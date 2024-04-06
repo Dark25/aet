@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/highspeed-etoile-english-subbed",
+                                "title": "Highspeed Etoile English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933544.jpg"
+                            },
+                            {
                                 "url": "/anime/astro-note-english-subbed",
                                 "title": "Astro Note English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933543.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/remonster-english-subbed",
                                 "title": "Re:Monster English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933529.jpg"
-                            },
-                            {
-                                "url": "/anime/sand-land-the-series-english-subbed",
-                                "title": "Sand Land: The Series English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933528.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/astro-note-english-subbed",
-                    "title": "Astro Note English Subbed",
-                    "description": "Takumi, a gifted chef, was just let go from his job. He lands a gig at an old boarding house called Astro-sou but hesitates to accept after learning he must also live there full-time. That is until he meets the beautiful and charming caretaker, Mira, and he is sold. The two begin to work together, and their connection deepens. But Mira has a secret: she is not from this world!",
-                    "genre": "Comedy, Romance, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933543.jpg",
+                    "url": "/anime/highspeed-etoile-english-subbed",
+                    "title": "Highspeed Etoile English Subbed",
+                    "description": "In the near future, a next-generation racing event called NEX Race is announced, changing the world of racing. New technology has made racing at over 500 km/h safe, changing racing on the world stage completely. Rin Rindou, who once dreamed of being a ballet dancer, had given up her dream due to an injury, became a NEET and lives with her grandmother. However, one day she is suddenly thrown into the world of next-generation racing.",
+                    "genre": "Racing, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933544.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/highspeed-etoile-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiVNi9ZPTT0uvjeo1z8a3t9-hbAutcHzg1ItP1PBBSDMLW_S69qH9pCYmwkrD5Y7iZuu0gYqXspJz1KZqWmG_6Ns0lsr8jpILycbAolmOKAoNLdh229RcKp9YjSi0JmV6H1IYkQ2N13CM6PzApRYaUCGPjk_FSKQEnCLWYEOuqN7PXJDyGX5qW3Fk4PRmBpCk2jSEK7HFJ17u1zlWjPK88h_ACFLrmfzO5PhBuE4YfYuElKGfqZk3CqpodZLJFjBCB6frwM4ScVEMaulLhrrm5rPdQPQEMEnVGKIYeN4xwwuGHm6hcAsTR02ko4WXmhEEFoGBTHTIDitm4kUY9LOp6nq5dLcdmR5c-2Sl4GT3DFUNtwRgwP11Nqi1c-oOi7n4KcAYP-IW3YXlSLCdLq_jfg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiVNi9ZPTT0uvjeo1z8a3t9-hbAutcHzg1ItP1PBBSDMLW_S69qH9pCYmwkrD5Y7iZuu0gYqXspJz1KZqWmG_6Ns0lsr8jpILycbAolmOKAoNLdh229RcKp9YjSi0JmV6H1IYkQ2N13CM6PzApRYaUCGPjk_FSKQEnCLWYEOuqN7PXJDyGX5qW3Fk4PRmBpCk2jSEK7HFJ17u1zlWjPK88h_ACFLrmfzO5PhBuE4YfYuElKGfqZk3CqpodZLJFjBCB6frwM4ScVEMaulLhrrm5rPdQPQEMEnVGKIYeN4xwwuGHm6hcAsTR02ko4WXmhEEFoGBTHTIDitm4kUY9LOp6nq5dLcdmR5c-2Sl4GT3DFUNtwRgwP11Nqi1c-oOi7n4KcAYP-IW3YXlSLCdLq_jfg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiVNi9ZPTT0uvjeo1z8a3t9-hbAutcHzg1ItP1PBBSDMLW_S69qH9pCYmwkrD5Y7iZuu0gYqXspJz1KZqWmG_6Ns0lsr8jpILycbAolmOKAoRXDo0YxY1u0LKJf1xhWapOuJUpiPKFHhBpjRJxdAzefS0SXJiDfvZgj46Rqsl_m4N_AeanidXFEfUMiM3Xwdg_3JdSo3fiemuIooOSr6EuY32jWDTsjjtSEklbiecxYG8UTLjViAv_EKcmQ7YaFpnELlLebyMYIV9rXrO5GshvBYiqivC1JZQkxxUa8cWRtKiP7JZOcVTCD40NpbIPjE2KIHpxMmj6PFWiD6a4goD0IkmXXWu4L_04Jbe4v35KgxZT53Rn7Vt0t1WxSf-cBeX6XmaOy_bGcjzWYZgkfTa2g",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiVNi9ZPTT0uvjeo1z8a3t9-hbAutcHzg1ItP1PBBSDMLW_S69qH9pCYmwkrD5Y7iZuu0gYqXspJz1KZqWmG_6Ns0lsr8jpILycbAolmOKAoRXDo0YxY1u0LKJf1xhWapOuJUpiPKFHhBpjRJxdAzefS0SXJiDfvZgj46Rqsl_m4N_AeanidXFEfUMiM3Xwdg_3JdSo3fiemuIooOSr6EuY32jWDTsjjtSEklbiecxYG8UTLjViAv_EKcmQ7YaFpnELlLebyMYIV9rXrO5GshvBYiqivC1JZQkxxUa8cWRtKiP7JZOcVTCD40NpbIPjE2KIHpxMmj6PFWiD6a4goD0IkmXXWu4L_04Jbe4v35KgxZT53Rn7Vt0t1WxSf-cBeX6XmaOy_bGcjzWYZgkfTa2g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiVNi9ZPTT0uvjeo1z8a3t9-hbAutcHzg1ItP1PBBSDMLW_S69qH9pCYmwkrD5Y7iZuu0gYqXspJz1KZqWmG_6Ns0lsr8jpILycbAolmOKAogP4CgJ6yCMBiF-4bneuPEirOylz8m-nG1Zb6ynDX2E1fuY6avgflSJJR-5OEXAu7JCOWxsXTbRseg1fUSTMi9K-wWEcukpbeZmCyq_6O8eC0ZSDpiNK_jxmxKeJg_NdLJxQHD0-SSLBr7iBaHO7kW3ZLvE4yJPq2wiI3fo4vYr22iHCE5jFTgJWBFQ9Zna1V2Mkjia-8NcK_uOFxGAFPhrYK6Kp3NK7yCiJfN4h6YiWEAPLEUmj1WYGjf_g543UkIrsX80zsHHc9Dtzni9o4zg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiVNi9ZPTT0uvjeo1z8a3t9-hbAutcHzg1ItP1PBBSDMLW_S69qH9pCYmwkrD5Y7iZuu0gYqXspJz1KZqWmG_6Ns0lsr8jpILycbAolmOKAogP4CgJ6yCMBiF-4bneuPEirOylz8m-nG1Zb6ynDX2E1fuY6avgflSJJR-5OEXAu7JCOWxsXTbRseg1fUSTMi9K-wWEcukpbeZmCyq_6O8eC0ZSDpiNK_jxmxKeJg_NdLJxQHD0-SSLBr7iBaHO7kW3ZLvE4yJPq2wiI3fo4vYr22iHCE5jFTgJWBFQ9Zna1V2Mkjia-8NcK_uOFxGAFPhrYK6Kp3NK7yCiJfN4h6YiWEAPLEUmj1WYGjf_g543UkIrsX80zsHHc9Dtzni9o4zg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

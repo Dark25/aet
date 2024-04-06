@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tonbo",
+                                "title": "Tonbo!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11923.png"
+                            },
+                            {
                                 "url": "/anime/girls-band-cry",
                                 "title": "Girls Band Cry",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11922.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/laidback-camp-season-3",
                                 "title": "Laid-Back Camp Season 3",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11912.png"
-                            },
-                            {
-                                "url": "/anime/an-archdemons-dilemma-how-to-love-your-elf-bride",
-                                "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11911.png"
                             }
                         ],
                         "hasNextPage": true
@@ -77,6 +77,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tonbo",
+                                "title": "Tonbo!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11923.png"
+                            },
+                            {
                                 "url": "/anime/girls-band-cry",
                                 "title": "Girls Band Cry",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11922.png"
@@ -130,11 +135,6 @@
                                 "url": "/anime/laidback-camp-season-3",
                                 "title": "Laid-Back Camp Season 3",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11912.png"
-                            },
-                            {
-                                "url": "/anime/an-archdemons-dilemma-how-to-love-your-elf-bride",
-                                "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11911.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,30 +244,35 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/girls-band-cry",
-                    "title": "Girls Band Cry",
-                    "author": "Toei Animation",
-                    "description": "The main character drops out of high school in her second year, and aims at entering a university while working alone in Tokyo. A girl is betrayed by her friends and doesn't know what to do. Another girl is abandoned by her parents, and tries to survive in the city by doing part-time jobs. This world lets us down all the time. Nothing goes as planned. But we want something that we can continue to like. We believe there's a place where we belong. That's why we sing",
-                    "genre": "Music",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11922.png",
+                    "url": "/anime/tonbo",
+                    "title": "Tonbo",
+                    "author": "",
+                    "description": "A naked woman lying in a field is accompanied by layered and repetitive images that exhibit a unique and imaginative animation of dragonflies.",
+                    "genre": "Music, Avant Garde",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10147.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/tonbo/115029",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=GoJTNE7C34pqPn299RDuQA%3D%3D",
+                        "url": "https://slothanime.com/player-url/115029?vrf=Jl2%2FLjZFujiI%2FUMmQgacxQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=GoJTNE7C34pqPn299RDuQA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/115029?vrf=Jl2%2FLjZFujiI%2FUMmQgacxQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/tonbo/115029"
                         }
                     }
                 ],

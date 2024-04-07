@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tonari-no-yokaisan",
+                                "title": "Tonari no Yokai-san",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11929.png"
+                            },
+                            {
                                 "url": "/anime/the-fable",
                                 "title": "The Fable",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/nijiyon-animation-season-2",
                                 "title": "NIJIYON ANIMATION Season 2",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11918.png"
-                            },
-                            {
-                                "url": "/anime/san-xiu-zhi-wang",
-                                "title": "San Xiu Zhi Wang",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11917.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/tonari-no-yokaisan",
+                                "title": "Tonari no Yokai-san",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11929.png"
+                            },
                             {
                                 "url": "/anime/the-fable",
                                 "title": "The Fable",
@@ -130,11 +135,6 @@
                                 "url": "/anime/that-time-i-got-reincarnated-as-a-slime-season-3",
                                 "title": "That Time I Got Reincarnated as a Slime Season 3",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11892.png"
-                            },
-                            {
-                                "url": "/anime/the-irregular-at-magic-high-school-season-3",
-                                "title": "The Irregular at Magic High School Season 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11920.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-fable",
-                    "title": "The Fable",
-                    "author": "Tezuka Productions",
-                    "description": "When you're the infamous prodigy hitman known only as “Fable,” many things come easy. Being a normal person, however, isn't one of them. In fact, being told that he can't kill anyone for a while may just be the hardest job Fable’s ever taken...",
-                    "genre": "Action, Comedy, Drama, Romance, Seinen",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png",
+                    "url": "/anime/tonari-no-yokaisan",
+                    "title": "Tonari no Yokai-san",
+                    "author": "LIDENFILMS",
+                    "description": "Welcome to Engamori, the cozy town where supernatural beings are your friendly neighbors. For generations and to this day, the otherworldly Yokai and humans have continued to protect their easygoing way of life. Enjoy the mountain breeze and uncover the mysterious bonds that lie within.",
+                    "genre": "Josei, Slice of Life, Supernatural, Iyashikei",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11929.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/the-fable/145429",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/145429?vrf=PcoWolMo9gS9lwfRmJSLkA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=zr4djGDfSbLE0%2FEPQeZkMg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/145429?vrf=PcoWolMo9gS9lwfRmJSLkA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=zr4djGDfSbLE0%2FEPQeZkMg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/the-fable/145429"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

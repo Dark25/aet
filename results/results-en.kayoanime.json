@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-fable-1080p-eng-sub-hevc/",
+                                "title": "The Fable 1080p Eng Sub HEVC |",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/the-fable-390x220.jpg"
+                            },
+                            {
                                 "url": "/whisper-me-a-love-song-episode-1-english-subbed/",
                                 "title": "Whisper Me a Love Song",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/whisper-me-a-love-song-episode-1-english-subbed-390x220.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/remonster-episode-1-english-subbed/",
                                 "title": "Re:Monster",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/remonster-episode-1-english-subbed-390x220.jpg"
-                            },
-                            {
-                                "url": "/tsukimichi-moonlit-fantasy-season-2-episode-13-english-subbed/",
-                                "title": "Tsukimichi Moonlit Fantasy Season 2",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/tsukimichi-moonlit-fantasy-season-2-episode-13-english-subbed-390x220.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/the-fable-1080p-eng-sub-hevc/",
+                                "title": "The Fable 1080p Eng Sub HEVC |",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/the-fable-220x150.jpg"
+                            },
                             {
                                 "url": "/diaries-season-2-dual-audio/",
                                 "title": "Kusuriya no Hitorigoto (The Apothecary Diaries) (Season 1) 1080p Dual Audio HEVC",
@@ -85,11 +90,6 @@
                                 "url": "/my-hero-academia-season-7-episode-00-english-subbed/",
                                 "title": "My Hero Academia Season 7",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/my-hero-academia-season-7-episode-00-english-subbed-220x150.jpg"
-                            },
-                            {
-                                "url": "/journey-to-pick-up-trash-season-2-dual-audio/",
-                                "title": "The Weakest Tamer Began a Journey to Pick Up Trash (Season 1) 1080p Dual Audio HEVC",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/04/journey-to-pick-up-trash-season-2-dual-audio-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -159,15 +159,17 @@
             },
             "details": {
                 "result": {
-                    "url": "/whisper-me-a-love-song-episode-1-english-subbed/",
-                    "author": "Doga Kobo",
-                    "description": "\n\nType: TV\nEpisodes: 12\nStatus: Not yet aired\nAired: Apr 7, 2024 to ?\nPremiered: Spring 2024\nBroadcast: Sundays at 01:00 (JST)\nPreviewed: Mar 3, 2024\nProducers: King Records\nLicensors: None found, add some\nStudios: Doga Kobo\nSource: Original\nDuration: Unknown\nRating: None",
+                    "url": "/the-fable-1080p-eng-sub-hevc/",
+                    "author": "Tezuka Productions",
+                    "description": "\n\nType: TV\nEpisodes: 25\nStatus: Currently Airing\nAired: Apr 7, 2024 to ?\nPremiered: Spring 2024\nBroadcast: Sundays at 00:55 (JST)\nProducers: VAP, Audio Planning U\nLicensors: None found, add some\nStudios: Tezuka Productions\nSource: Manga\nGenre: Comedy\nDemographic: Seinen\nDuration: 22 min. per ep.\nRating: None",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
                 "passed": false
             },
             "videos": {

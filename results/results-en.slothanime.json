@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jx-online-3-the-adventure-of-shen-jianxin-season-3-volume-2",
+                                "title": "JX Online 3: The Adventure of Shen Jianxin, Season 3 Volume 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11933.png"
+                            },
+                            {
+                                "url": "/anime/go-go-loser-ranger",
+                                "title": "GO! GO! Loser Ranger!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11932.png"
+                            },
+                            {
+                                "url": "/anime/mission-yozakura-family",
+                                "title": "Mission: Yozakura Family",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11931.png"
+                            },
+                            {
                                 "url": "/anime/god-troubles-me-4th-season",
                                 "title": "God Troubles Me 4th Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11930.png"
@@ -50,21 +65,6 @@
                                 "url": "/anime/girls-band-cry",
                                 "title": "Girls Band Cry",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11922.png"
-                            },
-                            {
-                                "url": "/anime/highspeed-toile",
-                                "title": "HIGHSPEED Étoile",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11921.png"
-                            },
-                            {
-                                "url": "/anime/the-irregular-at-magic-high-school-season-3",
-                                "title": "The Irregular at Magic High School Season 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11920.png"
-                            },
-                            {
-                                "url": "/anime/that-time-i-got-reincarnated-as-a-slime-season-3-digression-diablos-journal",
-                                "title": "That Time I Got Reincarnated as a Slime Season 3: Digression - Diablo's Journal",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11919.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/jx-online-3-the-adventure-of-shen-jianxin-season-3-volume-2",
+                                "title": "JX Online 3: The Adventure of Shen Jianxin, Season 3 Volume 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11933.png"
+                            },
+                            {
+                                "url": "/anime/go-go-loser-ranger",
+                                "title": "GO! GO! Loser Ranger!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11932.png"
+                            },
+                            {
+                                "url": "/anime/mission-yozakura-family",
+                                "title": "Mission: Yozakura Family",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11931.png"
+                            },
                             {
                                 "url": "/anime/god-troubles-me-4th-season",
                                 "title": "God Troubles Me 4th Season",
@@ -120,21 +135,6 @@
                                 "url": "/anime/the-fable",
                                 "title": "The Fable",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
-                            },
-                            {
-                                "url": "/anime/bucchigiri",
-                                "title": "BUCCHIGIRI?!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11728.png"
-                            },
-                            {
-                                "url": "/anime/soul-land-2-the-peerless-tang-clan",
-                                "title": "Soul Land 2: The Peerless Tang Clan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11221.png"
-                            },
-                            {
-                                "url": "/anime/shadowverse-flame-special-episode",
-                                "title": "Shadowverse Flame Special Episode",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11203.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,39 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/god-troubles-me-4th-season",
-                    "title": "God Troubles Me 4th Season",
-                    "author": "L²Studio",
-                    "description": "Fourth season of Hanhua Riji.",
-                    "genre": "Comedy, Supernatural",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11930.png",
+                    "url": "/anime/jx-online-3-the-adventure-of-shen-jianxin-season-3-volume-2",
+                    "title": "JX Online 3: The Adventure of Shen Jianxin, Season 3 Volume 2",
+                    "author": "Shengying Animation",
+                    "description": "The second half of season three of Jian Wang 3: Xia Gan Yi Dan Shen Jianxin.",
+                    "genre": "Action, Adventure, Comedy, Drama, Fantasy, Martial Arts",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11933.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/god-troubles-me-4th-season/145447",
-                        "name": "Episode 5"
-                    },
-                    {
-                        "url": "/player/god-troubles-me-4th-season/145446",
-                        "name": "Episode 4"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/145447?vrf=sZjYMqcnyqkvlwYE8KS9kQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=BgumvptcSUrNsJV%2B5AQwrg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/145447?vrf=sZjYMqcnyqkvlwYE8KS9kQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=BgumvptcSUrNsJV%2B5AQwrg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/god-troubles-me-4th-season/145447"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

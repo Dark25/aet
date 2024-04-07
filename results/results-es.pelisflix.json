@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/imaginary/",
+                                "title": "Imaginary (Imaginario)",
+                                "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), s...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/bmypXZe9RrSiPMiHX.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-first-omen-la-primera-profecia/",
+                                "title": "The First Omen (La primera profecía)",
+                                "description": "Cuando una joven estadounidense es enviada a Roma para iniciar una vida de servicio a la Iglesia, se...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/B4WJaClV6j4UljIfkY3ctXLcrAf.webp"
+                            },
+                            {
+                                "url": "/pelicula/arthur-una-amistad-sin-limites/",
+                                "title": "Arthur: Una amistad sin límites",
+                                "description": "Mikael Lindnord, el capitán del equipo sueco de atletismo de aventura, tuvo un extraño encuentro d...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ziive9dbuX9jnle6OGu.webp"
+                            },
+                            {
                                 "url": "/pelicula/la-trenza/",
                                 "title": "La trenza",
                                 "description": "Sigue a tres mujeres, Smita, Giulia y Sarah, de diferentes partes del mundo, que nunca se han conoci...",
@@ -71,12 +89,6 @@
                                 "title": "Baby Ruby",
                                 "description": "El mundo estrictamente diseñado de una vloguera e influencer se desmorona a medida que la depresió...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/HqORDEpTGqDUhGyl6lJ9MYlws24ZeMTM3yux3Khz0Kk.webp"
-                            },
-                            {
-                                "url": "/pelicula/imaginary/",
-                                "title": "Imaginary",
-                                "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), s...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/bmypXZe9RrSiPMiHX.webp"
                             },
                             {
                                 "url": "/pelicula/jade/",
@@ -233,18 +245,6 @@
                                 "title": "Dos chicas a la fuga",
                                 "description": "Dos amigas emprenden un viaje por carretera lleno de obstáculos.",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/tmzA5nvX3p06TZDNOJrVpyiW.webp"
-                            },
-                            {
-                                "url": "/pelicula/콘크리트-유토피아/",
-                                "title": "콘크리트 유토피아",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/gzpz0kSpwhyK285dMnmkNocrHrJK9gCfFRFv1oLov.webp"
-                            },
-                            {
-                                "url": "/pelicula/princezna-zakleta-v-case-2/",
-                                "title": "Princezna zakletá v čase 2",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/iK1Syq4PwS1qwaesT84Lr2ZqyzPscT2k.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-trenza/",
-                    "title": "La trenza",
-                    "description": "Sigue a tres mujeres, Smita, Giulia y Sarah, de diferentes partes del mundo, que nunca se han conocido pero a las que les une algo íntimo y único.",
-                    "genre": "Comedia, Drama",
+                    "url": "/pelicula/imaginary/",
+                    "title": "Imaginary (Imaginario)",
+                    "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), su hijastra más pequeña, comienza a desarrollar un extraño apego hacia Chauncey, el oso de peluche que encuentra en el sótano. En un primer momento, Alice y Chauncey se entretienen con juegos aparentemente divertidos que, poco a poco, irán volviéndose más siniestros y peligrosos. A medida que el comportamiento de Alice se va volviendo más inquietante, Jessica decide intervenir, pero cuando lo hace se da cuenta de que Chauncey es mucho más que un inofensivo oso de peluche.",
+                    "genre": "Estrenos, Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-trenza/",
+                        "url": "/pelicula/imaginary/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar wizmeUitq = \"\"; vlzygiUcX.forEach(function Oym(value) { wizmeUitq += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar YXPIUtau = \"\"; uhjZgCcKhb.forEach(function Oym(value) { YXPIUtau += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

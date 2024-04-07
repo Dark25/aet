@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/boku-no-hero-academia-memories/",
+                                "title": "Boku no Hero Academia: Memories",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/my-hero-academia-season-7-plus-ultra-ver-teaser-visual-v0-fvevoz63xc6b1-1-215x300.webp"
+                            },
+                            {
                                 "url": "/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
                                 "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.07_01h01m17s_010_-215x300.png"
@@ -240,11 +245,6 @@
                                 "url": "/anime/meitantei-conan-movie-16-11-ninme-no-striker/",
                                 "title": "Meitantei Conan Movie 16: 11-ninme no Striker",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/03/Ashampoo_Snap_2024.03.26_21h46m27s_006_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/meitantei-conan-movie-15-chinmoku-no-quarter/",
-                                "title": "Meitantei Conan Movie 15: Chinmoku no Quarter",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/03/Ashampoo_Snap_2024.03.26_21h35m36s_004_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -359,24 +359,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
-                    "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: ربيع 2024\nالمصدر: رواية\n\nقصة انمي Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life حول مملكة كليرودي السحرية تستدعي مئات الأبطال من عوالم أخرى كل عام لمحاربة الظلام وجيشه من الشياطين القوية. “بانازا” هو واحد من أولاءك الأبطال، تم استدعاؤه من العاصمة الملكية بالوما، لكن هناك شيء غير عادي، “بانازا” ليس سوى تاجر عادي. ليس لديه سحر، ولا قدرات قتالية، وخصائصه ضعيفة للغاية. وما يجعل الأمور أسوء، يتسبب حادث في عدم قدرته على العودة إلى منزله! تم رفضه كبطل وتركه في عالم آخر، وتم التخلي عنه في أبعد أرجاء المملكة على يد ملك قاس يريد فقط التخلص منه. يبدو أن مصير “بانازا” مظلمًا جدًا. ولكن، ماذا سيحدث عندما يكتشف المرشح الفاشل لدور البطولة أن لديه قوى خارقة عندما يصل إلى المستوى الثاني؟",
-                    "genre": "مغامرات, فنتازيا, رومانسي, TV, يعرض الان, ربيع 2024",
+                    "url": "/anime/boku-no-hero-academia-memories/",
+                    "title": "Boku no Hero Academia: Memories",
+                    "description": "النوع: Special\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: 4\nمدة الحلقة: 24 دقيقة\nالموسم: ربيع 2024\nالمصدر: مانجا\n\nأربع حلقات ملخصة للمواسم الستة السابقة.",
+                    "genre": "أكشن, قوى خارقة, شونين, مدرسي, Special, يعرض الان, ربيع 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.07_01h01m17s_010_.png",
+                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/my-hero-academia-season-7-plus-ultra-ver-teaser-visual-v0-fvevoz63xc6b1-1.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/boku-no-hero-academia-7th-season-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m30.uqload.to/3rfkog7xsrw2q4drdippv4nlb2lthfdn3fwp76ky5a2exblipmzxcrv5ofva/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m30.uqload.to/3rfkog7xsrw2q4drdippv4nlb2lthfdn3fwp76ky5a2exblipmzxcrv5ofva/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

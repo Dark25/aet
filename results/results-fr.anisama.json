@@ -499,45 +499,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=123233",
+                        "name": "Episode 1100",
+                        "episode_number": 1100.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=1711891483417111",
                         "name": "Episode 1099",
                         "episode_number": 1099.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=122957",
-                        "name": "Episode 1098",
-                        "episode_number": 1098.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://videos2.sendvid.com/75/4a/tui29hmv.mp4?validfrom=1712463373&validto=1712477773&rate=250k&ip=13.91.68.95&hash=haol6pLfmgBjdGC6HWYwXs5bBTM%3D",
-                        "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/75/4a/tui29hmv.mp4?validfrom=1712463373&validto=1712477773&rate=250k&ip=13.91.68.95&hash=haol6pLfmgBjdGC6HWYwXs5bBTM%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/tui29hmv",
-                            "Referer": "https://https://sendvid.com/embed/tui29hmv/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/44c82c22cb129a304a7683be0d0b6185/548840.mp4",
-                        "quality": "(VOSTFR) Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/44c82c22cb129a304a7683be0d0b6185/548840.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=548840"
-                        }
-                    },
-                    {
-                        "url": "https://dv98.sibnet.ru/54/88/548840.mp4?st=G_ridVoTaoV4sZylKmCmKw&e=1712499000&stor=51&noip=1",
-                        "quality": "(VOSTFR) Sibnet CDN",
-                        "videoUrl": "https://dv98.sibnet.ru/54/88/548840.mp4?st=G_ridVoTaoV4sZylKmCmKw&e=1712499000&stor=51&noip=1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

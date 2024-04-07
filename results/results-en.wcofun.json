@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/yoru-no-kurage-wa-oyogenai-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiNzZdQ1eYQ9q5D5flrTATENPyCgZoL6SWydbRORMVB7_2e8QxAk4L4K7-4laX-uJs9j7ifNRA154jDCFOATl-i03LZw5NGIqdjBIro_Z0h9rOZhefaNuRvXmZz4FstZmkDhyZpSzxExGLQQ8iYRpzVpOPX26_tRva68Tzrr7R18i_wLZ4aV1ZG6t5YGCv-ymDMZ8eKtWJPAlXp_eDWrMITNLPnb9UVQBWZWbZfzyHqcBethdkQI79_fZ-f3u3TWvgfoCgsmmzOBGTKj-F4RWPIxqFKAuPVtQUaA9WP-yrDVN4088cN9Amdl79PT36Qf4ebaPB9BmXoSbiLcezFSG3YY7EAP1aHo_ozgN0p8FGDDzN6dvQqQLe3E-vYG9xj24Y9etQMSYgj-78zehK3ysIU",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiNzZdQ1eYQ9q5D5flrTATENPyCgZoL6SWydbRORMVB7_2e8QxAk4L4K7-4laX-uJs9j7ifNRA154jDCFOATl-i03LZw5NGIqdjBIro_Z0h9rOZhefaNuRvXmZz4FstZmkDhyZpSzxExGLQQ8iYRpzVpOPX26_tRva68Tzrr7R18i_wLZ4aV1ZG6t5YGCv-ymDMZ8eKtWJPAlXp_eDWrMITNLPnb9UVQBWZWbZfzyHqcBethdkQI79_fZ-f3u3TWvgfoCgsmmzOBGTKj-F4RWPIxqFKAuPVtQUaA9WP-yrDVN4088cN9Amdl79PT36Qf4ebaPB9BmXoSbiLcezFSG3YY7EAP1aHo_ozgN0p8FGDDzN6dvQqQLe3E-vYG9xj24Y9etQMSYgj-78zehK3ysIU"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiNzZdQ1eYQ9q5D5flrTATENPyCgZoL6SWydbRORMVB7_2e8QxAk4L4K7-4laX-uJs9j7ifNRA154jDCFOATl-i03LZw5NGIqdjBIro_Z0h9rOZhefaNuRvXmZz4FstZmj5jctMr4JddmP2Mwxkwn7HX3VVFAJJvDRV-IRtlg460sHKqOkt3olPcZhFDM4yituUoz0oRGYW79mZqHdfffHFiE4mo9ieZN_q0QdmEti06oDV87qlN2A-GD1-bJPFXhHq6b2pDWDjCfJDoHK_UL5sPAyaIvvX71N_zDYkrWtjuLYXhP53v0E_0tme1RcX0zBGspbchkffrZP_cptLQOqGQ0LpIzjQ8pB8SLl9gq4Lp5GRC4K-Y8zFLlvAipllA5i4tuomn8Z0Mesp2Fr8Nr4g",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiNzZdQ1eYQ9q5D5flrTATENPyCgZoL6SWydbRORMVB7_2e8QxAk4L4K7-4laX-uJs9j7ifNRA154jDCFOATl-i03LZw5NGIqdjBIro_Z0h9rOZhefaNuRvXmZz4FstZmj5jctMr4JddmP2Mwxkwn7HX3VVFAJJvDRV-IRtlg460sHKqOkt3olPcZhFDM4yituUoz0oRGYW79mZqHdfffHFiE4mo9ieZN_q0QdmEti06oDV87qlN2A-GD1-bJPFXhHq6b2pDWDjCfJDoHK_UL5sPAyaIvvX71N_zDYkrWtjuLYXhP53v0E_0tme1RcX0zBGspbchkffrZP_cptLQOqGQ0LpIzjQ8pB8SLl9gq4Lp5GRC4K-Y8zFLlvAipllA5i4tuomn8Z0Mesp2Fr8Nr4g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiNzZdQ1eYQ9q5D5flrTATENPyCgZoL6SWydbRORMVB7_2e8QxAk4L4K7-4laX-uJs9j7ifNRA154jDCFOATl-i03LZw5NGIqdjBIro_Z0h9rOZhefaNuRvXmZz4FstZmjpP0iiQPV1tA5teDXw0iAgNCnEoMzamKQI-RxOutE7p-a8TmBmAUmwt20ubg1JjD9C1J-9Zqlc6Hh1PCjjfPferAy5QSjceS_GazZbt6xdIQehZJ2ecdFqO9O_WSLfOk-uTSyXcScNbZi3uhAWvJm6yI2HCnnfi_6illwzy01j1VW8ITOwdrhB4ZGNNI_LUCEWu8o2aHz-yc-6pdQAp8UifExJlvDj0nDmn1qRTwo-wj3TR05FBAO2ypMuey92mHg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiNzZdQ1eYQ9q5D5flrTATENPyCgZoL6SWydbRORMVB7_2e8QxAk4L4K7-4laX-uJs9j7ifNRA154jDCFOATl-i03LZw5NGIqdjBIro_Z0h9rOZhefaNuRvXmZz4FstZmjpP0iiQPV1tA5teDXw0iAgNCnEoMzamKQI-RxOutE7p-a8TmBmAUmwt20ubg1JjD9C1J-9Zqlc6Hh1PCjjfPferAy5QSjceS_GazZbt6xdIQehZJ2ecdFqO9O_WSLfOk-uTSyXcScNbZi3uhAWvJm6yI2HCnnfi_6illwzy01j1VW8ITOwdrhB4ZGNNI_LUCEWu8o2aHz-yc-6pdQAp8UifExJlvDj0nDmn1qRTwo-wj3TR05FBAO2ypMuey92mHg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

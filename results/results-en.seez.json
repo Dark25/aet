@@ -54,12 +54,17 @@
                             {
                                 "url": "{\"id\":693134,\"media_type\":\"movie\"}",
                                 "title": "Dune: Part Two",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//dk3Wo6Q5azRoggtjDICwL2wCc04.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
                             },
                             {
                                 "url": "{\"id\":601796,\"media_type\":\"movie\"}",
                                 "title": "Alienoid",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg"
+                            },
+                            {
+                                "url": "{\"id\":437342,\"media_type\":\"movie\"}",
+                                "title": "The First Omen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jT6awzVlAf0ZOoXbWhIXu1y5sDu.jpg"
                             },
                             {
                                 "url": "{\"id\":1181548,\"media_type\":\"movie\"}",
@@ -72,6 +77,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg"
                             },
                             {
+                                "url": "{\"id\":940721,\"media_type\":\"movie\"}",
+                                "title": "Godzilla Minus One",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
+                            },
+                            {
                                 "url": "{\"id\":984324,\"media_type\":\"movie\"}",
                                 "title": "The Wages of Fear",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg"
@@ -82,19 +92,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg"
                             },
                             {
-                                "url": "{\"id\":940721,\"media_type\":\"movie\"}",
-                                "title": "Godzilla Minus One",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
-                            },
-                            {
                                 "url": "{\"id\":624091,\"media_type\":\"movie\"}",
                                 "title": "Sri Asih",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg"
-                            },
-                            {
-                                "url": "{\"id\":437342,\"media_type\":\"movie\"}",
-                                "title": "The First Omen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hil2ResSCwP95JweZVJsZ5CbZdc.jpg"
                             },
                             {
                                 "url": "{\"id\":969492,\"media_type\":\"movie\"}",
@@ -248,7 +248,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 1 in: \"c�\"",
+                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 0 in: \"o�\"",
                 "passed": false
             }
         }

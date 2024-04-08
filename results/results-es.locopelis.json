@@ -137,6 +137,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/19875/la-gran-exclusiva.html",
+                                "title": "La gran exclusiva",
+                                "description": "Cómo la BBC obtuvo la explosiva entrevista con el Príncipe Andrew sobre su amistad con el delincuente sexual convicto Jeffrey Epstein....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19875.webp"
+                            },
+                            {
+                                "url": "/pelicula/19874/la-casa-embrujada.html",
+                                "title": "La casa embrujada",
+                                "description": "En 1937, el investigador paranormal Harry Price recibe la misión de investigar la casa más embrujada de Inglaterra, la famosa rectoría de Borley, donde espera descubrir la verdad que se esconde tras las extrañas apariciones que han rondado la propiedad durante más de 500 años....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19874.webp"
+                            },
+                            {
                                 "url": "/pelicula/19873/la-ermita.html",
                                 "title": "La ermita",
                                 "description": "Emma (Maia Zaitegi) quiere aprender a comunicarse con el espíritu de una niña que lleva siglos atrapada en la ermita de su pueblo. Intenta convencer a Carol (Belén Rueda), una incrédula y falsa médium, para que le enseñe a hablar con fantasmas. Su ayuda será el único camino para seguir unida...",
@@ -243,18 +255,6 @@
                                 "title": "Medidas extremas",
                                 "description": "Para capturar a un peligroso sospechoso, un jefe de policía recurre a la ayuda de un espía internacional que es un viejo amigo suyo. ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19856.webp"
-                            },
-                            {
-                                "url": "/pelicula/19855/jade-guerrera-solitaria.html",
-                                "title": "Jade: Guerrera solita",
-                                "description": "Jade cuenta la historia de una mujer que se interpone entre un poderoso hombre de negocios y el líder de una banda en la búsqueda de un disco duro que podría dañar las operaciones de Interpol. A pesar de llorar la muerte de la hermana a la que accidentalmente mató, a la mujer se le exige utiliz...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19855.webp"
-                            },
-                            {
-                                "url": "/pelicula/19854/formas-de-vida.html",
-                                "title": "Formas De Vida",
-                                "description": "Un astronauta debe elegir entre una vida interminable de descubrimientos y viajes interestelares o regresar a un planeta Tierra condenado y a la mujer que ama....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19854.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dood.ws/e/aq6kuo21b1bo",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgihzxvbyr4usa/ngtt4ru1k6~IsEN7ABSBh?token=faa3a98f24ktc5woxwz3px7v&expiry=1712600293669",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

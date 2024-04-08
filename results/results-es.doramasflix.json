@@ -237,7 +237,7 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 90204: Expected string literal but 'null' literal was found at path: $.data.paginationDorama.items[25].languages[0]\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....o de asesinato.\",\"languages\":[null],\"created_by\":[],\"popular.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 90211: Expected string literal but 'null' literal was found at path: $.data.paginationDorama.items[25].languages[0]\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....o de asesinato.\",\"languages\":[null],\"created_by\":[],\"popular.....",
                 "passed": false
             },
             "search": {
@@ -333,6 +333,11 @@
                                 "url": "/doramas-online/two-worlds?id=660f085579bb9e70f2d870e1",
                                 "title": "Two Worlds (Dos mundos)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/cMlnypt7ThaOv8gybCH1acTVbgd.jpg"
+                            },
+                            {
+                                "url": "/doramas-online/the-beginning-story-of-gi-eun?id=6566afe5763dd88e5e1232de",
+                                "title": "The Beginning Story of Gi-Eun (La historia inicial de Gi-Eun)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/dAHiFBLb6Rd3UlOh9dS02o3LkCJ.jpg"
                             },
                             {
                                 "url": "/peliculas-online/the-ends-of-the-world?id=5f355ae2bc50e5ba8e37a345",

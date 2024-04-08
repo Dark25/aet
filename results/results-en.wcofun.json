@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sentai-daishikkaku",
+                                "title": "Sentai Daishikkaku",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933557.jpg"
+                            },
+                            {
+                                "url": "/anime/shinkalion-change-the-world-english-subbed",
+                                "title": "Shinkalion: Change the World English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933556.jpg"
+                            },
+                            {
+                                "url": "/anime/blue-archive-the-animation-english-subbed",
+                                "title": "Blue Archive the Animation English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933555.jpg"
+                            },
+                            {
                                 "url": "/anime/vampire-dormitory-english-subbed",
                                 "title": "Vampire Dormitory English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933554.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/wind-breaker-english-subbed",
                                 "title": "Wind Breaker English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933542.jpg"
-                            },
-                            {
-                                "url": "/anime/henjin-no-salad-bowl",
-                                "title": "Henjin no Salad Bowl",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933541.jpg"
-                            },
-                            {
-                                "url": "/anime/hananoi-kun-to-koi-no-yamai",
-                                "title": "Hananoi-kun to Koi no Yamai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933540.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-                                "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933539.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/vampire-dormitory-english-subbed",
-                    "title": "Vampire Dormitory English Subbed",
-                    "description": "Mito Yamamoto is a beautiful man, so much so that women swarm the restaurant he works at daily. When the restaurant owner decides that he has had enough, he fires Mito, leaving him unemployed and with no place to call home.",
-                    "genre": "Romance, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933554.jpg",
+                    "url": "/anime/sentai-daishikkaku",
+                    "title": "Sentai Daishikkaku",
+                    "description": "Thirteen years ago, the Nefarious Monster Army invaded Earth, but humanity’s great protectors, the Dragon Keepers, defeated them in a single year! Every Sunday since, the monsters have been forced to act out humiliating defeat after defeat in front of the unsuspecting public. Determined to change this, a single monster, D, infiltrated the Ranger Force. With the help of the mysterious Ranger, Yumeko Suzukiri, D managed to seize one of the divine artifacts—the only weapons capable of permanently killing the monsters’ immortal bodies! However, D’s subsequent encounter with the Dragon Keepers led to his unfortunate end, so who will stop them now…?",
+                    "genre": "Action, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933557.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/vampire-dormitory-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRvKpC-NH6-G7CpJv801zZZ3pD8mvze-Tb7qYtxpH8MrrqoUWwgWMyqkkGzWveK2EILpwV47Shk9INJn0QwRR07rGW5DmY1ztTgYWlLPTv_7vKHylCX9vx9S2u4QNelhkshF817jVrQQ9J-Gjd03U50o2mY4NtRlQKYGbJb70r71QLY0Wy-r3J146fXNlldYFrez3I3hk7kTFVsJDbIV5U8cXy956iYaYuBgstEjLlfIZTtENZF0DAZGmjhc_bekh8MNZjxK5z4nUJLUX2WTldFfrDuoKSqO4KoCCoWqpTjcsbwEZXabe81egFAZnYYk1eViiIvjXW2LPfHRtpyw6Nj8Nx3nAZkXRtlMGHt4PpqvocVvUJJSBCiY-ESFzIEi6P0",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRvKpC-NH6-G7CpJv801zZZ3pD8mvze-Tb7qYtxpH8MrrqoUWwgWMyqkkGzWveK2EILpwV47Shk9INJn0QwRR07rGW5DmY1ztTgYWlLPTv_7vKHylCX9vx9S2u4QNelhkshF817jVrQQ9J-Gjd03U50o2mY4NtRlQKYGbJb70r71QLY0Wy-r3J146fXNlldYFrez3I3hk7kTFVsJDbIV5U8cXy956iYaYuBgstEjLlfIZTtENZF0DAZGmjhc_bekh8MNZjxK5z4nUJLUX2WTldFfrDuoKSqO4KoCCoWqpTjcsbwEZXabe81egFAZnYYk1eViiIvjXW2LPfHRtpyw6Nj8Nx3nAZkXRtlMGHt4PpqvocVvUJJSBCiY-ESFzIEi6P0"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRvKpC-NH6-G7CpJv801zZZ3pD8mvze-Tb7qYtxpH8MrrqoUWwgWMyqkkGzWveK2EILpwV47Shk9INJn0QwRR07rGW5DmY1ztTgYWlLPTv_7vHUCkwbcJVG8x67Nd9sfqRQQbiNk7Eet1f_C_0U0ma7YNGySxmdXAGM2YFkqwWl4f4DSP7i2MeITNS9nZEYg7YM8mXpzQl1BodQPLXslYwgj9QW9Awiw01TBVbXpDywhJ_HFOUIBe3o-vhekTNyt4LJTVVhbBbXi3-lRx_P-XdR4FARQS9QQCnmKSz1bN77wZ2v63-BGeqD0f_Yym9vTpLf-hHZBM-20OBdp9N-Uhh4hs9ert1tXtlkgLkZ2MZ13jr1kkSECtxPTwCK4z0MOOg0",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRvKpC-NH6-G7CpJv801zZZ3pD8mvze-Tb7qYtxpH8MrrqoUWwgWMyqkkGzWveK2EILpwV47Shk9INJn0QwRR07rGW5DmY1ztTgYWlLPTv_7vHUCkwbcJVG8x67Nd9sfqRQQbiNk7Eet1f_C_0U0ma7YNGySxmdXAGM2YFkqwWl4f4DSP7i2MeITNS9nZEYg7YM8mXpzQl1BodQPLXslYwgj9QW9Awiw01TBVbXpDywhJ_HFOUIBe3o-vhekTNyt4LJTVVhbBbXi3-lRx_P-XdR4FARQS9QQCnmKSz1bN77wZ2v63-BGeqD0f_Yym9vTpLf-hHZBM-20OBdp9N-Uhh4hs9ert1tXtlkgLkZ2MZ13jr1kkSECtxPTwCK4z0MOOg0"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRvKpC-NH6-G7CpJv801zZZ3pD8mvze-Tb7qYtxpH8MrrqoUWwgWMyqkkGzWveK2EILpwV47Shk9INJn0QwRR07rGW5DmY1ztTgYWlLPTv_7vIeVuLRjNMYdrQEdV6hqetHypDDpD05AW1x-NmtEAGKRP2AALQaCMbsao16IbAfo0Li-TK3Ox64vSvwPyJU8M2bMtlJSuIjivpBhBoCwMJed_vsOdo3d-69Ak49-pvIEDkF_ZJOpxfIi6xrB8jZdybHpnr-1dFPouk_wEOOwQqhZFRrHL80CgycLlTtpZQY9EvScej-0QOyEHM_P32pJoR1nwEKLo5tbjgbpbRcdb6oYNozyfkHeQZAfQd7ry40K7w",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRvKpC-NH6-G7CpJv801zZZ3pD8mvze-Tb7qYtxpH8MrrqoUWwgWMyqkkGzWveK2EILpwV47Shk9INJn0QwRR07rGW5DmY1ztTgYWlLPTv_7vIeVuLRjNMYdrQEdV6hqetHypDDpD05AW1x-NmtEAGKRP2AALQaCMbsao16IbAfo0Li-TK3Ox64vSvwPyJU8M2bMtlJSuIjivpBhBoCwMJed_vsOdo3d-69Ak49-pvIEDkF_ZJOpxfIi6xrB8jZdybHpnr-1dFPouk_wEOOwQqhZFRrHL80CgycLlTtpZQY9EvScej-0QOyEHM_P32pJoR1nwEKLo5tbjgbpbRcdb6oYNozyfkHeQZAfQd7ry40K7w"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

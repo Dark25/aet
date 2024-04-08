@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg"
                             },
                             {
-                                "url": "/the-last-man-on-earth/",
-                                "title": "El último hombre en la Tierra",
+                                "url": "/motown-magic/",
+                                "title": "Motown Magic",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/5my7rGdrjukKhsx5t32BRUBTTzt-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uSr3kraYtuyTGRZ4tVcVCmGHQ5t.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/senorita-89/",
-                                "title": "Señorita 89",
+                                "url": "/el-visitante/",
+                                "title": "El Visitante",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hrRe1c0nr0iodOtQvdtPbQ5Lmvj.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/01/aMiPwPQjQI1EZN3xP2V0sSU37dc-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,59 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/los-gemelos-decoran-dos-veces-temporada-8-capitulo-6/",
+                        "name": "T08 - E06 - Episodio 6",
+                        "date_upload": 1676419200000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/los-gemelos-decoran-dos-veces-temporada-8-capitulo-5/",
+                        "name": "T08 - E05 - Episodio 5",
+                        "date_upload": 1675814400000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/15/00065/g8ulbtoggotf_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=llycLsx9YM_Ym5if9BZTtQOOnfz0LN17FxnU8Hy54_o&s=1712537777&e=43200&f=326970&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/15/00065/g8ulbtoggotf_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=llycLsx9YM_Ym5if9BZTtQOOnfz0LN17FxnU8Hy54_o&s=1712537777&e=43200&f=326970&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/15/00065/g8ulbtoggotf_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=llycLsx9YM_Ym5if9BZTtQOOnfz0LN17FxnU8Hy54_o&s=1712537777&e=43200&f=326970&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/15/00065/g8ulbtoggotf_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=llycLsx9YM_Ym5if9BZTtQOOnfz0LN17FxnU8Hy54_o&s=1712537777&e=43200&f=326970&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/15/00065/g8ulbtoggotf_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=llycLsx9YM_Ym5if9BZTtQOOnfz0LN17FxnU8Hy54_o&s=1712537777&e=43200&f=326970&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/15/00065/g8ulbtoggotf_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=llycLsx9YM_Ym5if9BZTtQOOnfz0LN17FxnU8Hy54_o&s=1712537777&e=43200&f=326970&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

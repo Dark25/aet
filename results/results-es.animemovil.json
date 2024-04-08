@@ -276,12 +276,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/blue-archive-the-animation-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-bytur7e1aal0hfyj.voe-network.net/engine/hls2-c/01/11066/zdjsrv8i8aun_,n,.urlset/index-v1-a1.m3u8?t=EOJv93LxY3scSZOYrt_hz0Fmem_B9Ajyq1F1xED6BVc&s=1712537743&e=14400&f=55335031&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=40.76&sp=2500&asn=8075",
+                        "quality": "Voe: 1080p",
+                        "videoUrl": "https://delivery-node-bytur7e1aal0hfyj.voe-network.net/engine/hls2-c/01/11066/zdjsrv8i8aun_,n,.urlset/index-v1-a1.m3u8?t=EOJv93LxY3scSZOYrt_hz0Fmem_B9Ajyq1F1xED6BVc&s=1712537743&e=14400&f=55335031&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=40.76&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkx3cuhzz3b4quuou6qr4icodcrqwwxi5rdadjv53ih47cxahfctx26rdhmml5qswbd7lzo7/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx3cuhzz3b4quuou6qr4icodcrqwwxi5rdadjv53ih47cxahfctx26rdhmml5qswbd7lzo7/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=XqzPRAQMLmH0kq&expires=1712607744&ip=GxOsEHInDS9X&token=eARw_VuPlk58",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=XqzPRAQMLmH0kq&expires=1712607744&ip=GxOsEHInDS9X&token=eARw_VuPlk58"
+                    }
+                ],
+                "passed": true
             }
         }
     }

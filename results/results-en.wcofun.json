@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tadaima-okaeri",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933558.jpg"
+                            },
+                            {
                                 "url": "/anime/sentai-daishikkaku",
                                 "title": "Sentai Daishikkaku",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933557.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/astro-note-english-subbed",
                                 "title": "Astro Note English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933543.jpg"
-                            },
-                            {
-                                "url": "/anime/wind-breaker-english-subbed",
-                                "title": "Wind Breaker English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933542.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sentai-daishikkaku",
-                    "title": "Sentai Daishikkaku",
-                    "description": "Thirteen years ago, the Nefarious Monster Army invaded Earth, but humanity’s great protectors, the Dragon Keepers, defeated them in a single year! Every Sunday since, the monsters have been forced to act out humiliating defeat after defeat in front of the unsuspecting public. Determined to change this, a single monster, D, infiltrated the Ranger Force. With the help of the mysterious Ranger, Yumeko Suzukiri, D managed to seize one of the divine artifacts—the only weapons capable of permanently killing the monsters’ immortal bodies! However, D’s subsequent encounter with the Dragon Keepers led to his unfortunate end, so who will stop them now…?",
-                    "genre": "Action, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933557.jpg",
+                    "url": "/anime/tadaima-okaeri",
+                    "title": "Tadaima, Okaeri",
+                    "description": "Masaki Fujiyoshi is a stay-at-home spouse and parent. He has fought long and hard with feelings of being a burden to his loving husband, Hiromu, due to his status as an omega—a secondary gender, allowing one to give birth regardless of if they are male or female— and the difficulty they faced to achieve this domesticity. When their son, Hikari, was born, the family moved to an area better suited for raising children.",
+                    "genre": "Boys Love, Slice Of Life, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933558.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/tadaima-okaeri-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJso_8eGuM9Valunkcz3XR9QqB8tgpUwNrAHxbPe2-Uqf2cPiEHIyXNMysBmBE-jLr37znrCIp6CQe6vHOhxKdYOUZ5ABErGcGnvlJo5nRj3zxFOdl9zuR0iucH2cm7bJ_I3S4QJLRoUJRyT68CAuqFUbAJClpfTJuhEd78J2yNxE8Pa2LY8I7twok0TESMtA6_xG-oc9P9e0SeaSPFz1zsNQzTvFi8zix4SiIZKdJzpR5cabxmBpvM-8wQlgAw5NJuQ6Iv3ur7RG-L9vhTJ6pawI7dVGGBKUiLb7HGx30Trw6KohT0NgiwjejIb9EpXeGU1UwzKWKV1My16igPA8_ON5P1gU6ujByCtK_JFHWoINwwDbqbGUSq6vh0zmxSzLFg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJso_8eGuM9Valunkcz3XR9QqB8tgpUwNrAHxbPe2-Uqf2cPiEHIyXNMysBmBE-jLr37znrCIp6CQe6vHOhxKdYOUZ5ABErGcGnvlJo5nRj3zxFOdl9zuR0iucH2cm7bJ_I3S4QJLRoUJRyT68CAuqFUbAJClpfTJuhEd78J2yNxE8Pa2LY8I7twok0TESMtA6_xG-oc9P9e0SeaSPFz1zsNQzTvFi8zix4SiIZKdJzpR5cabxmBpvM-8wQlgAw5NJuQ6Iv3ur7RG-L9vhTJ6pawI7dVGGBKUiLb7HGx30Trw6KohT0NgiwjejIb9EpXeGU1UwzKWKV1My16igPA8_ON5P1gU6ujByCtK_JFHWoINwwDbqbGUSq6vh0zmxSzLFg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJso_8eGuM9Valunkcz3XR9QqB8tgpUwNrAHxbPe2-Uqf2cPiEHIyXNMysBmBE-jLr37znrCIp6CQe6vHOhxKdYOUZ5ABErGcGnvlJo5nRj3zhZ6-QRLWnHj11TIauN1QSd3egZh6Q0Bi0N10G4xYx97U0YMgSEUDDh20sR3AS_xPtXRDeXaz4Rsi9MufjOll4pFRFkG-ZCk8rmMflIPgQNVq5xU46wR1IqDjAh5rOw4yWc5z78KAfJHS8eR3Ce8eWwylX8z38gPiWwGTjm4zZNbCAWBZBPiPkyDZCYEVmfD9hhV607eusXnBGb-WsYQR9jLXZZdUEoIO85M7jmluKcEsEcVzZRT6Z6J8SpUaQOIf7qOGgsG8EVhh1z3avczq-Q",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJso_8eGuM9Valunkcz3XR9QqB8tgpUwNrAHxbPe2-Uqf2cPiEHIyXNMysBmBE-jLr37znrCIp6CQe6vHOhxKdYOUZ5ABErGcGnvlJo5nRj3zhZ6-QRLWnHj11TIauN1QSd3egZh6Q0Bi0N10G4xYx97U0YMgSEUDDh20sR3AS_xPtXRDeXaz4Rsi9MufjOll4pFRFkG-ZCk8rmMflIPgQNVq5xU46wR1IqDjAh5rOw4yWc5z78KAfJHS8eR3Ce8eWwylX8z38gPiWwGTjm4zZNbCAWBZBPiPkyDZCYEVmfD9hhV607eusXnBGb-WsYQR9jLXZZdUEoIO85M7jmluKcEsEcVzZRT6Z6J8SpUaQOIf7qOGgsG8EVhh1z3avczq-Q"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJso_8eGuM9Valunkcz3XR9QqB8tgpUwNrAHxbPe2-Uqf2cPiEHIyXNMysBmBE-jLr37znrCIp6CQe6vHOhxKdYOUZ5ABErGcGnvlJo5nRj3zmImoX6HgLIe_8X4F3leNs-w5ghthK6kB-KXUjqkPN87vDmOZ_YckVAtvsx9UfFuiBgsTO7X-Sd05SC6ClJKRhg5Q2CeTgkuwLEdrTEPAd5P-nO5ck2ktokO-7Ok5PFB42cFfv3K3d3x1fBOsGUieI3rQ56LVTlFAEJr42ucrEcToCdzL2D6ijOHCdVwdZOtI7-0LP8wAZ8gJrFrihStd_0oEM6--nb04FOr_CxvDq-t9HJ6Zl1S8kTdiv2b0KkZWhk42OWG5-xwqYC8Z86-uXg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJso_8eGuM9Valunkcz3XR9QqB8tgpUwNrAHxbPe2-Uqf2cPiEHIyXNMysBmBE-jLr37znrCIp6CQe6vHOhxKdYOUZ5ABErGcGnvlJo5nRj3zmImoX6HgLIe_8X4F3leNs-w5ghthK6kB-KXUjqkPN87vDmOZ_YckVAtvsx9UfFuiBgsTO7X-Sd05SC6ClJKRhg5Q2CeTgkuwLEdrTEPAd5P-nO5ck2ktokO-7Ok5PFB42cFfv3K3d3x1fBOsGUieI3rQ56LVTlFAEJr42ucrEcToCdzL2D6ijOHCdVwdZOtI7-0LP8wAZ8gJrFrihStd_0oEM6--nb04FOr_CxvDq-t9HJ6Zl1S8kTdiv2b0KkZWhk42OWG5-xwqYC8Z86-uXg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

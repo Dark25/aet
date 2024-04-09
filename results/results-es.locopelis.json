@@ -137,6 +137,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/19876/rubikon-2056.html",
+                                "title": "Rubikon 2056",
+                                "description": "Después de una catástrofe en la Tierra, el planeta se cubre de una niebla tóxica. La tripulación en la estación espacial debe decidir si arriesgar sus vidas para llegar a casa y buscar supervivientes, o mantenerse a salvo en el sistema de simbiosis de algas de la estación....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19876.webp"
+                            },
+                            {
                                 "url": "/pelicula/19875/la-gran-exclusiva.html",
                                 "title": "La gran exclusiva",
                                 "description": "Cómo la BBC obtuvo la explosiva entrevista con el Príncipe Andrew sobre su amistad con el delincuente sexual convicto Jeffrey Epstein....",
@@ -249,12 +255,6 @@
                                 "title": "Superbola de pelo sal",
                                 "description": "Para salvar el mundo, Super Furball tiene que salvar a las abejas, pero para salvar a las abejas, primero tiene que salvar al peor matón del colegio. ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19857.webp"
-                            },
-                            {
-                                "url": "/pelicula/19856/medidas-extremas.html",
-                                "title": "Medidas extremas",
-                                "description": "Para capturar a un peligroso sospechoso, un jefe de policía recurre a la ayuda de un espía internacional que es un viejo amigo suyo. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19856.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dood.ws/e/aq6kuo21b1bo",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgihzxvbyr4usa/ngtt4ru1k6~IsEN7ABSBh?token=faa3a98f24ktc5woxwz3px7v&expiry=1712600293669",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

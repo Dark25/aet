@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/fbi-international",
+                                "title": "FBI: International",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19510.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-rookie",
+                                "title": "The Rookie",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/3632.webp"
+                            },
+                            {
+                                "url": "/serie/online/grown-ish",
+                                "title": "Grown-ish",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5862.webp"
+                            },
+                            {
+                                "url": "/serie/online/9-1-1",
+                                "title": "9-1-1",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4384.webp"
+                            },
+                            {
+                                "url": "/serie/online/o-regime",
+                                "title": "O Regime",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22648.webp"
+                            },
+                            {
                                 "url": "/serie/online/parasyte-the-grey",
                                 "title": "Parasyte: The Grey",
                                 "status": 1,
@@ -315,36 +345,6 @@
                                 "title": "Star Trek: Discovery",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/3640.webp"
-                            },
-                            {
-                                "url": "/serie/online/fortuna",
-                                "title": "Fortuna",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/21846.webp"
-                            },
-                            {
-                                "url": "/serie/online/x-men-97",
-                                "title": "X-Men '97",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
-                            },
-                            {
-                                "url": "/serie/online/star-wars-the-bad-batch",
-                                "title": "Star Wars: The Bad Batch",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19343.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-herdeiro-impossivel",
-                                "title": "O Herdeiro Impossível",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22644.webp"
-                            },
-                            {
-                                "url": "/serie/online/palm-royale",
-                                "title": "Palm Royale",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22658.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,49 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=LTV855pFWEnbskBnAFqIdQ&e=1712646161&_t=1712627537",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=LTV855pFWEnbskBnAFqIdQ&e=1712646161&_t=1712627537",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=V4eCYdZMBuyqSmG6sChBCw&e=1712646162&_t=1712627864",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=V4eCYdZMBuyqSmG6sChBCw&e=1712646162&_t=1712627864",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo52.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "quality": "WarezCDN - LEG",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo52.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo54.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "quality": "WarezCDN - DUB",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo54.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

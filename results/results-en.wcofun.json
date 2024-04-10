@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tonbo",
+                                "title": "Tonbo!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933564.jpg"
+                            },
+                            {
+                                "url": "/anime/rinkai-english-subbed",
+                                "title": "Rinkai! English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933563.jpg"
+                            },
+                            {
                                 "url": "/anime/the-fable-english-subbed",
                                 "title": "The Fable English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933562.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji-english-subbed",
                                 "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933549.jpg"
-                            },
-                            {
-                                "url": "/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
-                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933548.jpg"
-                            },
-                            {
-                                "url": "/anime/ooi-tonbo-english-subbed",
-                                "title": "Ooi! Tonbo English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933547.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-fable-english-subbed",
-                    "title": "The Fable English Subbed",
-                    "description": "Fable is a legendary hitman who has completed numerous jobs for a variety of clients. After concluding his latest assignment, the number of people he has recently killed becomes too high, and Fable is ordered by his boss to lay low for a year. He is suggested that having to adapt to life as an ordinary citizen might prove a valuable experience for his future work.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933562.jpg",
+                    "url": "/anime/tonbo",
+                    "title": "Tonbo!",
+                    "description": "Tonbo Ooi, the protagonist, lost both of her parents in a car accident when she was young and was raised by her grandfather, Gonji Ooi, a fisherman on the island of Kagoshima in the Tokara Islands. Tonbo learns to play golf while using her father’s inherited No. 3 iron on the island’s three golf courses, which were built by the islanders themselves.",
+                    "genre": "Drama, Sports, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933564.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/tonbo-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinjDGT9JIa73ollPCttmnQl3EGhytth3fqMt0zucbFK2Z8Y0wI3oiqbL0VZmgTupHJ4NG4OpnlrmR8RGDB8f70FtnI_fxkqrG2OrzSQc8T6D0Yt6-B7I6BKZyX8YQ4ueZNZwTN45v_giFF_e7hYPTDd68wk410FgkzYSyaW79gA7XyOx51apkU1dFXmww6ksgiogkdtCvkVt0yq-7t-l2ErVkgTkqC0i_dekdzn1d9Dwzv7VEeoRGL4XVUp8NCsDhWeOSN633HxXaA4ms6U1WuPI",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinjDGT9JIa73ollPCttmnQl3EGhytth3fqMt0zucbFK2Z8Y0wI3oiqbL0VZmgTupHJ4NG4OpnlrmR8RGDB8f70FtnI_fxkqrG2OrzSQc8T6D0Yt6-B7I6BKZyX8YQ4ueZNZwTN45v_giFF_e7hYPTDd68wk410FgkzYSyaW79gA7XyOx51apkU1dFXmww6ksgiogkdtCvkVt0yq-7t-l2ErVkgTkqC0i_dekdzn1d9Dwzv7VEeoRGL4XVUp8NCsDhWeOSN633HxXaA4ms6U1WuPI"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinpj_lDv8pJsAV6Jt5agozvy9GbOdaDEgQKiAQ5Tpfh1BCX7i7eP8vac9nYinL6wyoTIpbDFoOkjVVCei7SJc5LYj1NP335qCdKxM99Wj8r7xxaj1s_Iav7V4PpPaeQ5r60aOTutXimLsD_8OFc9AZWOwgI0PrJFEqY4AH-JMFX3jelbgSLifwX60BPJXhCjuSJeAweO38pBBz2g5fBryZAyc9_WYBbpsUphg15ZWZ6oCffSGPzmu3hf4md5arRnPiWX3N5OfNFWjY2LN9htSH8A",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinpj_lDv8pJsAV6Jt5agozvy9GbOdaDEgQKiAQ5Tpfh1BCX7i7eP8vac9nYinL6wyoTIpbDFoOkjVVCei7SJc5LYj1NP335qCdKxM99Wj8r7xxaj1s_Iav7V4PpPaeQ5r60aOTutXimLsD_8OFc9AZWOwgI0PrJFEqY4AH-JMFX3jelbgSLifwX60BPJXhCjuSJeAweO38pBBz2g5fBryZAyc9_WYBbpsUphg15ZWZ6oCffSGPzmu3hf4md5arRnPiWX3N5OfNFWjY2LN9htSH8A"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinlkyVsGE0MsbDxTLrvYDR9DOq6LV8ndLQ5yjo88Og0YIWny2nwpUxwInEa9QL6mur8Tbly6qCsFUfLiBEpmNoarUQ1iUOoFAZa68pzIgRKMNMj9tlYeQux_Jr6Vh2T9OUgagvjbdOy3ghmUTKYaGVRJMSSvHhUvAK1s_5DW7N-YEOn7UrMIkTX48aqPOOhyPKAdBxpX73TINM0ZioxxCVHWlR1CrLXqA9cCeGUU6ar0vX1KjUZvBkO6dbTFvryqtGA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinlkyVsGE0MsbDxTLrvYDR9DOq6LV8ndLQ5yjo88Og0YIWny2nwpUxwInEa9QL6mur8Tbly6qCsFUfLiBEpmNoarUQ1iUOoFAZa68pzIgRKMNMj9tlYeQux_Jr6Vh2T9OUgagvjbdOy3ghmUTKYaGVRJMSSvHhUvAK1s_5DW7N-YEOn7UrMIkTX48aqPOOhyPKAdBxpX73TINM0ZioxxCVHWlR1CrLXqA9cCeGUU6ar0vX1KjUZvBkO6dbTFvryqtGA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -184,7 +184,12 @@
                             {
                                 "url": "{\"id\":237233,\"media_type\":\"tv\"}",
                                 "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//bJYw5ocrHSTlVUqHSHjVwyQAwcO.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//3eBu6hYDRe72ZPUfLbhaHfF7EM9.jpg"
+                            },
+                            {
+                                "url": "{\"id\":131663,\"media_type\":\"tv\"}",
+                                "title": "History Of The World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//rllmEYZb4vhPHl4w6522372r6J6.jpg"
                             },
                             {
                                 "url": "{\"id\":72505,\"media_type\":\"tv\"}",
@@ -212,11 +217,6 @@
                                 "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
                                 "status": 2,
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg"
-                            },
-                            {
-                                "url": "{\"id\":129570,\"media_type\":\"tv\"}",
-                                "title": "World Famous Fairy Tales",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//oPfSmcC7J1tN93Hdknc7OJe21GK.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,7 +248,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 0 in: \"p�\"",
+                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 1 in: \"c�\"",
                 "passed": false
             }
         }

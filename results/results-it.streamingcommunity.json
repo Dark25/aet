@@ -7,16 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "7697-ghostbusters-minaccia-glaciale",
-                                "title": "Ghostbusters - Minaccia glaciale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/a4da513d-9327-49a6-9978-fa3c21e55a98.webp"
-                            },
-                            {
-                                "url": "7497-fallout",
-                                "title": "Fallout",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/0abead9a-8594-4f97-8e7d-68e6a97dd7bc.webp"
-                            },
-                            {
                                 "url": "8170-kiseiju-la-zona-grigia",
                                 "title": "Kiseiju - La zona grigia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/573feb52-59ec-46c8-9fa9-f99d483d3c01.webp"
@@ -305,6 +295,16 @@
                                 "url": "7695-drive-away-dolls",
                                 "title": "Drive-Away Dolls",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8c83deb4-061e-4f8c-8f39-69d671160ce6.webp"
+                            },
+                            {
+                                "url": "7987-ricky-stanicky-lamico-immaginario",
+                                "title": "Ricky Stanicky - L'amico immaginario",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d3ab9e5e-4cb9-490c-a4ce-fe73ba09a316.webp"
+                            },
+                            {
+                                "url": "7822-constellation",
+                                "title": "Constellation",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/5929e577-e2c7-4f80-ae2b-057b07d1a6c6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -317,9 +317,14 @@
                     {
                         "animes": [
                             {
+                                "url": "8186-disney-mech-x4",
+                                "title": "Disney Mech-X4",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ae898d86-fe0a-4985-ab5b-47cc0b77b594.webp"
+                            },
+                            {
                                 "url": "8185-the-garfield-show",
                                 "title": "The Garfield Show",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ff316b06-bc20-47b4-90ea-7d2721af9811.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/0b8177eb-45e5-4897-bf7f-a2751ab1a2f2.webp"
                             },
                             {
                                 "url": "8184-hugo-cabret",
@@ -610,11 +615,6 @@
                                 "url": "8111-road-house",
                                 "title": "Road House",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/6e8999c0-4c7a-4395-9661-a474e697fde6.webp"
-                            },
-                            {
-                                "url": "8110-spidey-e-i-suoi-fantastici-amici",
-                                "title": "Spidey e i suoi fantastici amici",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/3f5096de-8839-40c9-b5dd-44bc675d46fd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7697-ghostbusters-minaccia-glaciale",
-                    "description": "Dopo gli eventi in Oklahoma, la famiglia Spengler torna dove tutto è iniziato, l'iconica caserma dei pompieri di New York, e si unisce agli Acchiappafantasmi originali che hanno sviluppato un laboratorio di ricerca top-secret per portare la lotta ai fantasmi a un livello superiore. Quando la scoperta di un antico artefatto scatenerà una forza malvagia, i vecchi e nuovi Ghostbusters dovranno unire le forze per proteggere la loro casa e salvare il mondo da una seconda era glaciale.",
-                    "genre": "Fantasy, Avventura, Commedia",
+                    "url": "8170-kiseiju-la-zona-grigia",
+                    "description": "L'umanità si trova a dover affrontare una crescente minaccia quando parassiti non identificati prendono violentemente il controllo degli umani acquisendo sempre più potere.",
+                    "genre": "Dramma, Sci-Fi & Fantasy, Action & Adventure, Korean drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -944,16 +946,91 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7697",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "8170?episode_id=58901&next_episode=1",
+                        "name": "Stagione 1 episodio 6 - Episodio 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "8170?episode_id=58900&next_episode=1",
+                        "name": "Stagione 1 episodio 5 - Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/219168.m3u8?type=video&rendition=720p&token=K5pkn7bw8IwOUD5f6gFX3A&expires=1717914211&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/219168.m3u8?type=video&rendition=720p&token=K5pkn7bw8IwOUD5f6gFX3A&expires=1717914211&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=5-forced-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=6-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=7-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=9-kor&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Korean"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/219168.m3u8?type=video&rendition=1080p&token=eiG9PeJhpVZrKtXE7vV2rw&expires=1717914211&n=1",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/219168.m3u8?type=video&rendition=1080p&token=eiG9PeJhpVZrKtXE7vV2rw&expires=1717914211&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=5-forced-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=6-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=7-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=9-kor&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Korean"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/219168.m3u8?type=video&rendition=480p&token=WsFqcYwUFQ_GV6RGBDWqlQ&expires=1717914211&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/219168.m3u8?type=video&rendition=480p&token=WsFqcYwUFQ_GV6RGBDWqlQ&expires=1717914211&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=5-forced-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=6-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=7-ita&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/219168?type=subtitle&rendition=9-kor&token=ndDr-zk8z479yFAofKYjsA&expires=1717914211",
+                                "lang": "Korean"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

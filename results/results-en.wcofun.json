@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/seiyuu-radio-no-uraomote",
+                                "title": "Seiyuu Radio no Uraomote",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933566.jpg"
+                            },
+                            {
                                 "url": "/anime/tonbo",
                                 "title": "Tonbo!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933564.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/unnamed-memory-english-subbed",
                                 "title": "Unnamed Memory English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933550.jpg"
-                            },
-                            {
-                                "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji-english-subbed",
-                                "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933549.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tonbo",
-                    "title": "Tonbo!",
-                    "description": "Tonbo Ooi, the protagonist, lost both of her parents in a car accident when she was young and was raised by her grandfather, Gonji Ooi, a fisherman on the island of Kagoshima in the Tokara Islands. Tonbo learns to play golf while using her father’s inherited No. 3 iron on the island’s three golf courses, which were built by the islanders themselves.",
-                    "genre": "Drama, Sports, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933564.jpg",
+                    "url": "/anime/seiyuu-radio-no-uraomote",
+                    "title": "Seiyuu Radio no Uraomote",
+                    "description": "Yuuhi Yuugure and Yasumi Utatane, two high school voice actresses who just happened to attend the same school and coincidentally got placed into the same class, are the two hosts of a radio weekly program. As fellow classmates and voice actresses, they show all the listeners their great friendship! At least, on the surface. In reality, the quiet girl Chika and the gyaru Yumiko are complete opposites. And they absolutely cannot stand each other. Off air, chaos and insults erupt. On air, they’re the best of friends. Just where will this tumultuous relationship lead them?",
+                    "genre": "Comedy, Girls Love, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933566.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/tonbo-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinjDGT9JIa73ollPCttmnQl3EGhytth3fqMt0zucbFK2Z8Y0wI3oiqbL0VZmgTupHJ4NG4OpnlrmR8RGDB8f70FtnI_fxkqrG2OrzSQc8T6D0Yt6-B7I6BKZyX8YQ4ueZNWFXD2b7w3JOgnWu51FB9YIrd2kMvxrLSZvhb_zeN0yZWCVeoi4_VJ5R28HeR9AS1lWZ3FCFsaNRj5EJ0_3dOfZmZF9tIrqPz9wjqn6ehCvpPu8fd1AtASSyiOBfD4Ncib-_BXrgKjk5SbgnD1dE6ko",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinjDGT9JIa73ollPCttmnQl3EGhytth3fqMt0zucbFK2Z8Y0wI3oiqbL0VZmgTupHJ4NG4OpnlrmR8RGDB8f70FtnI_fxkqrG2OrzSQc8T6D0Yt6-B7I6BKZyX8YQ4ueZNWFXD2b7w3JOgnWu51FB9YIrd2kMvxrLSZvhb_zeN0yZWCVeoi4_VJ5R28HeR9AS1lWZ3FCFsaNRj5EJ0_3dOfZmZF9tIrqPz9wjqn6ehCvpPu8fd1AtASSyiOBfD4Ncib-_BXrgKjk5SbgnD1dE6ko"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinpj_lDv8pJsAV6Jt5agozvy9GbOdaDEgQKiAQ5Tpfh1BCX7i7eP8vac9nYinL6wyoTIpbDFoOkjVVCei7SJc5LYj1NP335qCdKxM99Wj8r7xxaj1s_Iav7V4PpPaeQ5r65HGPMfRy6_a3uCtXpgmJeUzPgtMgrVWk0qUk0lzUNU6Lzf9ScsHPRUcb5n7k-ZtIiqD-SLYLQFy5yN6PPQdN9ePE2RaIt6rmxNJ8uOfN4cZzXrHD1MLI8BWDeND1601ZkLFYozybgnGyCXgDvJgEU0",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinpj_lDv8pJsAV6Jt5agozvy9GbOdaDEgQKiAQ5Tpfh1BCX7i7eP8vac9nYinL6wyoTIpbDFoOkjVVCei7SJc5LYj1NP335qCdKxM99Wj8r7xxaj1s_Iav7V4PpPaeQ5r65HGPMfRy6_a3uCtXpgmJeUzPgtMgrVWk0qUk0lzUNU6Lzf9ScsHPRUcb5n7k-ZtIiqD-SLYLQFy5yN6PPQdN9ePE2RaIt6rmxNJ8uOfN4cZzXrHD1MLI8BWDeND1601ZkLFYozybgnGyCXgDvJgEU0"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinlkyVsGE0MsbDxTLrvYDR9DOq6LV8ndLQ5yjo88Og0YIWny2nwpUxwInEa9QL6mur8Tbly6qCsFUfLiBEpmNoarUQ1iUOoFAZa68pzIgRKMNMj9tlYeQux_Jr6Vh2T9OUqwwPtsgZnbpus_O6bAyXcrCsRtkKEuoOQ3JbqT1eZDbP-KxezmHiRG3zGwCGzi_5RCfUrh2h2IxZqh4B_rBwlmhshFG67TdOwCHyxSIYKcmn7Y1yRTSvOLyIw7AWc5931Frr71vdH0aKzCgYp3Dc6A",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82yx0WQWC56p3b2lgQNLZt-ZDHve7By931RuWsdFqA7VdlORipY8wPO0y-9ihadnYI2VXMl-yo2MFpmwHijBnRhGn8rnLwFs7FuYhp5Re4jinlkyVsGE0MsbDxTLrvYDR9DOq6LV8ndLQ5yjo88Og0YIWny2nwpUxwInEa9QL6mur8Tbly6qCsFUfLiBEpmNoarUQ1iUOoFAZa68pzIgRKMNMj9tlYeQux_Jr6Vh2T9OUqwwPtsgZnbpus_O6bAyXcrCsRtkKEuoOQ3JbqT1eZDbP-KxezmHiRG3zGwCGzi_5RCfUrh2h2IxZqh4B_rBwlmhshFG67TdOwCHyxSIYKcmn7Y1yRTSvOLyIw7AWc5931Frr71vdH0aKzCgYp3Dc6A"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

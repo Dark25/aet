@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/cambio-de-habito-1992/",
+                                "title": "Cambio De Hábito (1992)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/yPBlWxugSoQMcm05TPwsELq110n.jpg"
+                            },
+                            {
                                 "url": "/peliculas/la-bella-y-la-bestia-1991/",
                                 "title": "La bella y la bestia (1991)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Imaginario: juguete diabólico (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg"
-                            },
-                            {
-                                "url": "/peliculas/maxima-velocidad-1994/",
-                                "title": "Máxima velocidad (1994)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/zjqggnyLkwGHatlp83gGSnShbqs.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/la-bella-y-la-bestia-1991/",
-                    "title": "La bella y la bestia (1991)",
-                    "artist": "Angela Lansbury",
-                    "author": "Bill Perkins",
-                    "description": "La bella y la bestia Siga las aventuras de Belle, una joven brillante que se encuentra en el castillo de un príncipe que se ha convertido en una bestia misteriosa. Con la ayuda del personal encantado del castillo, Belle pronto aprende la lección más importante de todos – que la verdadera belleza viene de dentro.",
-                    "genre": "Animación, Familia, Fantasía, Romance",
+                    "url": "/peliculas/cambio-de-habito-1992/",
+                    "title": "Cambio De Hábito (1992)",
+                    "artist": "Bill Nunn",
+                    "author": "Emile Ardolino",
+                    "description": "Deloris Van Cartier es una mediocre cantante de cabaret. Su amante Vince ha cometido un crimen, y ella decide acogerse al programa policial de protección de testigos. Así, Deloris consigue una nueva identidad como monja en un convento que, tan sólo con su presencia, perderá su habitual tranquilidad.",
+                    "genre": "Comedia, Música",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2021/09/La-Bella-y-La-Bestia-1991.jpg",
+                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/yPBlWxugSoQMcm05TPwsELq110n.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/la-bella-y-la-bestia-1991/",
+                        "url": "/peliculas/cambio-de-habito-1992/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/08484/0ny38yluh3wj_,n,.urlset/index-v1-a1.m3u8?t=0pEJQWQiwvE-w2KjJxOPKdqFdykPHMzYK7v8HPciaHs&s=1712796939&e=14400&f=42422986&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=4.227&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe: 720p",
+                        "videoUrl": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/08484/0ny38yluh3wj_,n,.urlset/index-v1-a1.m3u8?t=0pEJQWQiwvE-w2KjJxOPKdqFdykPHMzYK7v8HPciaHs&s=1712796939&e=14400&f=42422986&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=4.227&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-ofkiqpdl5pbiqnlx.voe-network.net/engine/hls2-c/01/11097/fh5arpn8f1gs_,n,.urlset/index-v1-a1.m3u8?t=GWJYKNUnaHOXgt3h_LLYoKdTyA9ycFSJpT5lEOgPpfU&s=1712796939&e=14400&f=55487032&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=4.227&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe: 720p",
+                        "videoUrl": "https://delivery-node-ofkiqpdl5pbiqnlx.voe-network.net/engine/hls2-c/01/11097/fh5arpn8f1gs_,n,.urlset/index-v1-a1.m3u8?t=GWJYKNUnaHOXgt3h_LLYoKdTyA9ycFSJpT5lEOgPpfU&s=1712796939&e=14400&f=55487032&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=4.227&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

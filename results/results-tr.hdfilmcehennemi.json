@@ -27,14 +27,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/speed-racer_list.jpg"
                             },
                             {
-                                "url": "/nightmare/",
-                                "title": "Karabasan",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/nightmare_list.jpg"
-                            },
-                            {
                                 "url": "/natural-born-liar/",
                                 "title": "Natural Born Liar",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/natural-born-liar_list.jpg"
+                            },
+                            {
+                                "url": "/nightmare/",
+                                "title": "Karabasan",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/nightmare_list.jpg"
                             },
                             {
                                 "url": "/all-nighter-izle-4/",
@@ -437,8 +437,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://box-1087-y.vmeas.cloud/hls/xqx2pqitpnokjiqbth2cppcawq2obw5q5zzpcfok5p7kndec2pqedqez3c2a/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 480p",
+                        "videoUrl": "https://box-1087-y.vmeas.cloud/hls/xqx2pqitpnokjiqbth2cppcawq2obw5q5zzpcfok5p7kndec2pqedqez3c2a/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-u4etxd9wxwei.html"
+                        }
+                    },
+                    {
+                        "url": "https://box-1087-y.vmeas.cloud/hls/xqx2pqitpnokjiqbth2cppcawq2obw5q5zzpcfok5gnkndec2pqfwn2umwxq/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 800p",
+                        "videoUrl": "https://box-1087-y.vmeas.cloud/hls/xqx2pqitpnokjiqbth2cppcawq2obw5q5zzpcfok5gnkndec2pqfwn2umwxq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-u4etxd9wxwei.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

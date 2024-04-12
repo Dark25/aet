@@ -304,6 +304,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/spitfire-over-berlin",
+                                "title": "Spitfire Over Berlin (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xtPPOPTad1qopK6uDe3VlYUa22o.jpg"
+                            },
+                            {
                                 "url": "/pelicula/macho-alfa",
                                 "title": "Macho Alfa (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/qyTcFzfsI3sPlvkLZ8CyrlSlsCg.jpg"
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/voluntad",
                                 "title": "Voluntad (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/pfw2fYKCJWSxgUXkHcJM4kPlO2n.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-deseo-irlandes",
-                                "title": "Un deseo irlandés (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -561,10 +561,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/macho-alfa",
-                    "title": "Macho Alfa (2021)",
-                    "description": "",
-                    "genre": "Crimen, Comedia, Drama",
+                    "url": "/pelicula/spitfire-over-berlin",
+                    "title": "Spitfire Over Berlin (2022)",
+                    "description": "Agosto de 1944. Con la 8ª Fuerza Aérea Americana preparada para atacar sobre la Alemania Nazi, la Inteligencia Británica se entera de que podrían estar volando hacia una trampa mortal. Con solo horas de sobra, el teniente de vuelo Edward Barnes debe volar en una misión de vida o muerte sobre Berlín en su desarmado Spitfire para obtener pruebas fotográficas y salvar la vida de 1200 hombres.",
+                    "genre": "Bélica, Acción, Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -574,7 +574,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/macho-alfa",
+                        "url": "/pelicula/spitfire-over-berlin",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -584,15 +584,38 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ju928o2pa00e6.sw-cdnstreamwish.com/hls2/01/03551/,8jrqpmkye14b_n,8jrqpmkye14b_h,lang/spa/8jrqpmkye14b_spa,.urlset/master.m3u8?t=_2_L01Q4uKtgZaXEMNvn2gdabYt6Zm6YRWhUZnqD7AQ&s=1712859396&e=129600&f=17755060&srv=b9snc5zu87csf&i=0.4&sp=500&p1=b9snc5zu87csf&p2=b9snc5zu87csf&asn=8075",
-                        "quality": "StreamWish:Video",
-                        "videoUrl": "https://ju928o2pa00e6.sw-cdnstreamwish.com/hls2/01/03551/,8jrqpmkye14b_n,8jrqpmkye14b_h,lang/spa/8jrqpmkye14b_spa,.urlset/master.m3u8?t=_2_L01Q4uKtgZaXEMNvn2gdabYt6Zm6YRWhUZnqD7AQ&s=1712859396&e=129600&f=17755060&srv=b9snc5zu87csf&i=0.4&sp=500&p1=b9snc5zu87csf&p2=b9snc5zu87csf&asn=8075",
+                        "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f2-v1-a1.m3u8?t=XGowgduBL7Ybh6djA-I81-GFXGyDbd0hCi7RvA1tL3w&s=1712883384&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f2-v1-a1.m3u8?t=XGowgduBL7Ybh6djA-I81-GFXGyDbd0hCi7RvA1tL3w&s=1712883384&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/8jrqpmkye14b"
-                        }
+                            "Referer": "https://streamwish.to/e/xll4ai2t1g36"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f3.m3u8?t=XGowgduBL7Ybh6djA-I81-GFXGyDbd0hCi7RvA1tL3w&s=1712883384&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                                "lang": "Español"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f1-v1-a1.m3u8?t=XGowgduBL7Ybh6djA-I81-GFXGyDbd0hCi7RvA1tL3w&s=1712883384&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f1-v1-a1.m3u8?t=XGowgduBL7Ybh6djA-I81-GFXGyDbd0hCi7RvA1tL3w&s=1712883384&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/xll4ai2t1g36"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f3.m3u8?t=XGowgduBL7Ybh6djA-I81-GFXGyDbd0hCi7RvA1tL3w&s=1712883384&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                                "lang": "Español"
+                            }
+                        ]
                     }
                 ],
                 "passed": true
@@ -607,104 +630,104 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/they-are-watching/",
-                                "title": "They Are Watching",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/they-are-watching.jpg"
+                                "url": "/pelicula/el-roomie/",
+                                "title": "El roomie",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-roomie.jpg"
                             },
                             {
-                                "url": "/pelicula/lifeforms/",
-                                "title": "Lifeforms",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lifeforms.jpg"
+                                "url": "/pelicula/my-mothers-eyes/",
+                                "title": "My Mother's Eyes",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/my-mothers-eyes.jpg"
                             },
                             {
-                                "url": "/pelicula/el-pequeno-nemo-en-el-pais-de-los-suenos/",
-                                "title": "El Pequeño Nemo En El Pais De Los Sueños",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-pequeno-nemo-en-el-pais-de-los-suenos.jpg"
+                                "url": "/pelicula/earlybird/",
+                                "title": "Earlybird",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/earlybird.jpg"
                             },
                             {
-                                "url": "/pelicula/aladdin-y-los-40-ladrones/",
-                                "title": "Aladdín y el rey de los ladrones",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/aladdin-y-los-40-ladrones.jpg"
+                                "url": "/pelicula/monster-mash/",
+                                "title": "Monster Mash",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/monster-mash.jpg"
                             },
                             {
-                                "url": "/pelicula/bernardo-y-bianca-en-cangurolandia/",
-                                "title": "Bernardo y Bianca en Cangurolandia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bernardo-y-bianca-en-cangurolandia.jpg"
+                                "url": "/pelicula/rugrats-la-pelicula/",
+                                "title": "Rugrats: La película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/rugrats-la-pelicula.jpg"
                             },
                             {
-                                "url": "/pelicula/dos-pavos-en-apuros/",
-                                "title": "Dos Pavos en Apuros",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dos-pavos-en-apuros.jpg"
+                                "url": "/pelicula/juego-de-patriotas/",
+                                "title": "Juego de patriotas",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/juego-de-patriotas.jpg"
                             },
                             {
-                                "url": "/pelicula/rex-un-dinosaurio-en-nueva-york/",
-                                "title": "Rex: Un Dinosaurio En Nueva York",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/rex-un-dinosaurio-en-nueva-york.jpg"
+                                "url": "/pelicula/los-thornberrys-la-pelicula/",
+                                "title": "Los Thornberrys: la película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-thornberrys-la-pelicula.jpg"
                             },
                             {
-                                "url": "/pelicula/mas-notas-perfectas/",
-                                "title": "Más Notas Perfectas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mas-notas-perfectas.jpg"
+                                "url": "/pelicula/ronin/",
+                                "title": "Ronin",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ronin.jpg"
                             },
                             {
-                                "url": "/pelicula/kagemusha-la-sombra-del-guerrero/",
-                                "title": "Kagemusha: la sombra del guerrero",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kagemusha-la-sombra-del-guerrero.jpg"
+                                "url": "/pelicula/elvis-and-nixon/",
+                                "title": "Elvis & Nixon",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/elvis-and-nixon.jpg"
                             },
                             {
-                                "url": "/pelicula/el-canonero-del-yangtze/",
-                                "title": "El cañonero del Yangtze",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-canonero-del-yangtze.jpg"
+                                "url": "/pelicula/rugrats-en-paris/",
+                                "title": "Rugrats en París",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/rugrats-en-paris.jpg"
                             },
                             {
-                                "url": "/pelicula/el-regreso-del-gato/",
-                                "title": "El regreso del gato",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-regreso-del-gato.jpg"
+                                "url": "/pelicula/jovenes-gangsters/",
+                                "title": "Jóvenes gángsters",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jovenes-gangsters.jpg"
                             },
                             {
-                                "url": "/pelicula/mi-primer-beso/",
-                                "title": "Mi primer beso",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mi-primer-beso.jpg"
+                                "url": "/pelicula/juana-de-arco/",
+                                "title": "Juana de Arco",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/juana-de-arco.jpg"
                             },
                             {
-                                "url": "/pelicula/despereaux-un-pequeno-gran-heroe/",
-                                "title": "Despereaux: Un pequeño gran héroe",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/despereaux-un-pequeno-gran-heroe.jpg"
+                                "url": "/pelicula/yo-soy-la-venganza/",
+                                "title": "Yo soy la venganza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/yo-soy-la-venganza.jpg"
                             },
                             {
-                                "url": "/pelicula/policias-y-ratones/",
-                                "title": "Policías y Ratones",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/policias-y-ratones.jpg"
+                                "url": "/pelicula/regresando-a-casa/",
+                                "title": "Regresando a casa",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/regresando-a-casa.jpg"
                             },
                             {
-                                "url": "/pelicula/masacre-en-el-barrio-japones/",
-                                "title": "Masacre en el Barrio Japonés",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/masacre-en-el-barrio-japones.jpg"
+                                "url": "/pelicula/batman-la-broma-mortal/",
+                                "title": "Batman: La Broma Mortal",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/batman-la-broma-mortal.jpg"
                             },
                             {
-                                "url": "/pelicula/el-duelo/",
-                                "title": "Reto a muerte",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-duelo.jpg"
+                                "url": "/pelicula/atrapado-por-su-pasado/",
+                                "title": "Atrapado por su pasado",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/atrapado-por-su-pasado.jpg"
                             },
                             {
-                                "url": "/pelicula/los-angeles-al-desnudo-la-confidential/",
-                                "title": "Los Ángeles al desnudo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-angeles-al-desnudo-la-confidential.jpg"
+                                "url": "/pelicula/las-cronicas-de-narnia-la-travesia-del-viajero-del-alba/",
+                                "title": "Las crónicas de Narnia: la travesía del Viajero del Alba",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-cronicas-de-narnia-la-travesia-del-viajero-del-alba.jpg"
                             },
                             {
-                                "url": "/pelicula/sueno-de-fuga/",
-                                "title": "Sueño de fuga",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sueno-de-fuga.jpg"
+                                "url": "/pelicula/directo-al-corazon/",
+                                "title": "Directo al corazón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/directo-al-corazon.jpg"
                             },
                             {
-                                "url": "/pelicula/ahora-y-siempre/",
-                                "title": "Ahora y siempre",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ahora-y-siempre.jpg"
+                                "url": "/pelicula/las-cronicas-de-narnia-el-principe-caspian/",
+                                "title": "Las crónicas de Narnia: El príncipe Caspian",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-cronicas-de-narnia-el-principe-caspian.jpg"
                             },
                             {
-                                "url": "/pelicula/vaciones-en-las-vegas/",
-                                "title": "Vaciones en Las Vegas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/vaciones-en-las-vegas.jpg"
+                                "url": "/pelicula/escobar/",
+                                "title": "Escobar",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/escobar.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -874,11 +897,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/they-are-watching/",
-                    "title": "They Are Watching",
+                    "url": "/pelicula/el-roomie/",
+                    "title": "El roomie",
                     "artist": "",
                     "description": "",
-                    "genre": "Suspenso",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -888,7 +911,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/they-are-watching/",
+                        "url": "/pelicula/el-roomie/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -898,20 +921,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://tvrm5rqcvd.sw-cdnstreamwish.com/hls2/01/03551/q34yoxidm8gz_n/index-v1-a1.m3u8?t=zG2DQI-KIauu2ba0g8AnLELa94pUGyt-_iO1alGy81Q&s=1712859399&e=129600&f=17756733&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://tvrm5rqcvd.sw-cdnstreamwish.com/hls2/01/03551/q34yoxidm8gz_n/index-v1-a1.m3u8?t=zG2DQI-KIauu2ba0g8AnLELa94pUGyt-_iO1alGy81Q&s=1712859399&e=129600&f=17756733&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=vWNF8ChOeXUZgh1ELBf2i2_GjSy7wPFiYsXxMb4zG9o&s=1712883386&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=vWNF8ChOeXUZgh1ELBf2i2_GjSy7wPFiYsXxMb4zG9o&s=1712883386&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/q34yoxidm8gz"
+                            "Referer": "https://wishembed.pro/e/oqa24b1rheo5"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=zMW6bDOdQRtYrxR&expires=1712929401&ip=FROsD0ETKxSHDN&token=Ax1OBF-ckn0E",
-                        "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=zMW6bDOdQRtYrxR&expires=1712929401&ip=FROsD0ETKxSHDN&token=Ax1OBF-ckn0E"
+                        "url": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=vWNF8ChOeXUZgh1ELBf2i2_GjSy7wPFiYsXxMb4zG9o&s=1712883386&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=vWNF8ChOeXUZgh1ELBf2i2_GjSy7wPFiYsXxMb4zG9o&s=1712883386&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/oqa24b1rheo5"
+                        }
                     }
                 ],
                 "passed": true

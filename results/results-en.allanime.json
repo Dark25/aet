@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156023-cY4NC8gCcAg7.jpg"
                             },
                             {
-                                "url": "Q4Aj2B9wj6hvbF3H5<&sep><&sep>shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-ld9HtIKiv7xo.jpg"
-                            },
-                            {
                                 "url": "kibfyvtiFpKCGGoSD<&sep><&sep>b-c-",
                                 "title": "B.C.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
+                            },
+                            {
+                                "url": "Q4Aj2B9wj6hvbF3H5<&sep><&sep>shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-ld9HtIKiv7xo.jpg"
                             },
                             {
                                 "url": "vDTSJHSpYnrkZnAvG<&sep><&sep>nato-shippuuden",
@@ -82,14 +82,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg"
                             },
                             {
-                                "url": "suRedmDwrZtMw73vP<&sep><&sep>dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
-                                "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1158/141710.jpg"
-                            },
-                            {
                                 "url": "Jv25h5eoCnZDMSoL3<&sep><&sep>wind-breaker",
                                 "title": "Wind Breaker",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
+                            },
+                            {
+                                "url": "suRedmDwrZtMw73vP<&sep><&sep>dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
+                                "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1158/141710.jpg"
                             },
                             {
                                 "url": "h4PMucgQwndzYNNxS<&sep><&sep>kusuriya-no-hitorigoto",
@@ -143,7 +143,7 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 2716: Expected string literal but 'null' literal was found at path: $.data.shows.edges[13].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....ng Shen Season 2\",\"thumbnail\":null,\"englishName\":null,\"nativ.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 4865: Expected string literal but 'null' literal was found at path: $.data.shows.edges[21].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....ng Shen Season 2\",\"thumbnail\":null,\"englishName\":null,\"nativ.....",
                 "passed": false
             },
             "search": {
@@ -314,105 +314,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.1080.m3u8",
-                        "quality": "1080p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.vipanicdn.net",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.1080.m3u8",
-                        "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.720.m3u8",
-                        "quality": "720p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.vipanicdn.net",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.480.m3u8",
-                        "quality": "480p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.vipanicdn.net",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.360.m3u8",
-                        "quality": "360p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1100.1712457091.360.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.vipanicdn.net",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.720.m3u8",
-                        "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.480.m3u8",
-                        "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.360.m3u8",
-                        "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/vTFamEVNx1wWwt9HNmBDiA/1712938750/223391/0b594d900f47daabc194844092384914/ep.1100.1712457091.360.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

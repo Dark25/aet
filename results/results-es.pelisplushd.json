@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/entrevias",
+                                "title": "Entrevías (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fedN6uSfkN2l8EXnqF9E9jBOhfc.jpg"
+                            },
+                            {
                                 "url": "/serie/maria-de-todos-los-angeles",
                                 "title": "María de Todos los Ángeles (2009)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yy70db0qN04qKh1HXOR8V85gVPa.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/blackstar",
                                 "title": "Blackstar (19811982)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ujWNJd0ckjohwNrUsHM0tuBNZj8.jpg"
-                            },
-                            {
-                                "url": "/serie/day-of-the-dead",
-                                "title": "Day of the Dead (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/iBeWa2Ds2uCjTOlMikiBqETsS2X.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/maria-de-todos-los-angeles",
-                    "title": "María de Todos los Ángeles (2009)",
-                    "description": "María de Todos los Ángeles sueña con encontrar al amor de su vida. Desilusionada del amor, invoca a todos los ángeles de la corte celestial para encontrar al ser amado; estos se le revelan en sueños dándole señales para encontrarlo, pero siempre interpreta las señales de manera equivocada, hasta que un día conoce a su vecino Albertano Santacruz, chico romántico que pretende ser cantante de la onda grupera. A este romance, se interpondrá la sobreprotectora Doña Lucha, quien ha sacado adelante sola a sus hijos, y ahora no permitirá que su amado y consentido hijo se enrede con cualquier \"lagartona\". En esta folklórica familia vive también Rosa Aurora, la hija que trabaja como edecán y es la proveedora de la casa y El Chino, que es el hijo menor, un adolescente dominado y ninguneado por su madre, quien en realidad es el más consciente y estudioso y que batallará para que sus hermanos y su madre lo dejen hacer su tarea. En el departamento de enfrente, vive Maria de todos los Ángeles con su abuelo Don Carmelo, tacaño viejito de provincia que administra su negocio, un local de productos chinos donde emplea a la Betzabé, fiel y \"recatada\" amiga de la protagonista y a Delfino, muchacho de izquierda que tiene que vivir dentro del sistema capitalista, y es quien renta su equipo de sonido para que María de Todos los Ángeles anuncie las ofertas..",
-                    "genre": "Comedia, Drama, Familia",
+                    "url": "/serie/entrevias",
+                    "title": "Entrevías (2021)",
+                    "description": "La historia de Tirso Abantos, un hombre de principios cuya existencia sosegada y rutinaria da un vuelco cuando su nieta adolescente irrumpe de lleno en su vida..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yy70db0qN04qKh1HXOR8V85gVPa.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fedN6uSfkN2l8EXnqF9E9jBOhfc.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/maria-de-todos-los-angeles/temporada/1/capitulo/13",
-                        "name": "T1 - E13: Episodio 13",
-                        "episode_number": 13.0
+                        "url": "/serie/entrevias/temporada/2/capitulo/8",
+                        "name": "T2 - E8: Episodio 8",
+                        "episode_number": 16.0
                     },
                     {
-                        "url": "/serie/maria-de-todos-los-angeles/temporada/1/capitulo/12",
-                        "name": "T1 - E12: Episodio 12",
-                        "episode_number": 12.0
+                        "url": "/serie/entrevias/temporada/2/capitulo/7",
+                        "name": "T2 - E7: Episodio 7",
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
@@ -303,6 +303,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-roomie",
+                                "title": "El Roomie (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg"
+                            },
                             {
                                 "url": "/pelicula/spitfire-over-berlin",
                                 "title": "Spitfire Over Berlin (2022)",
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/me-llamo-loh-kiwan",
                                 "title": "Me llamo Loh Kiwan (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/fxZTNl6uQOnVe3h3xxYI1aVFQwM.jpg"
-                            },
-                            {
-                                "url": "/pelicula/voluntad",
-                                "title": "Voluntad (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/pfw2fYKCJWSxgUXkHcJM4kPlO2n.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -561,10 +561,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/spitfire-over-berlin",
-                    "title": "Spitfire Over Berlin (2022)",
-                    "description": "Agosto de 1944. Con la 8ª Fuerza Aérea Americana preparada para atacar sobre la Alemania Nazi, la Inteligencia Británica se entera de que podrían estar volando hacia una trampa mortal. Con solo horas de sobra, el teniente de vuelo Edward Barnes debe volar en una misión de vida o muerte sobre Berlín en su desarmado Spitfire para obtener pruebas fotográficas y salvar la vida de 1200 hombres.",
-                    "genre": "Bélica, Acción, Historia",
+                    "url": "/pelicula/el-roomie",
+                    "title": "El Roomie (2024)",
+                    "description": "",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -574,7 +574,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/spitfire-over-berlin",
+                        "url": "/pelicula/el-roomie",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -584,47 +584,46 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f2-v1-a1.m3u8?t=GSGamDH_8hVJcAao_b_4Wl2ZoiKBLqchKmMDwbwMyTk&s=1712924609&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f2-v1-a1.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f2-v1-a1.m3u8?t=GSGamDH_8hVJcAao_b_4Wl2ZoiKBLqchKmMDwbwMyTk&s=1712924609&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f2-v1-a1.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/xll4ai2t1g36"
+                            "Referer": "https://streamwish.to/e/hcakh7mki2nb"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f3.m3u8?t=GSGamDH_8hVJcAao_b_4Wl2ZoiKBLqchKmMDwbwMyTk&s=1712924609&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                                "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f3.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f4.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                                 "lang": "Español"
                             }
                         ]
                     },
                     {
-                        "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f1-v1-a1.m3u8?t=GSGamDH_8hVJcAao_b_4Wl2ZoiKBLqchKmMDwbwMyTk&s=1712924609&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f1-v1-a1.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f1-v1-a1.m3u8?t=GSGamDH_8hVJcAao_b_4Wl2ZoiKBLqchKmMDwbwMyTk&s=1712924609&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f1-v1-a1.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/xll4ai2t1g36"
+                            "Referer": "https://streamwish.to/e/hcakh7mki2nb"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://t3hik4wle8.sw-cdnstreamwish.com/hls2/01/03558/,xll4ai2t1g36_n,xll4ai2t1g36_h,lang/spa/xll4ai2t1g36_spa,.urlset/index-f3.m3u8?t=GSGamDH_8hVJcAao_b_4Wl2ZoiKBLqchKmMDwbwMyTk&s=1712924609&e=129600&f=17794414&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=8075",
+                                "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f3.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/03562/,hcakh7mki2nb_n,hcakh7mki2nb_h,lang/eng/hcakh7mki2nb_eng,lang/spa/hcakh7mki2nb_spa,.urlset/index-f4.m3u8?t=Xljn9risKJS5kMbAOaRqkyCEm9NaiPcXYivGDDY63bM&s=1712945701&e=129600&f=17810149&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                                 "lang": "Español"
                             }
                         ]
-                    },
-                    {
-                        "url": "https://dood.wf/e/y1qbspi6eeo3",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://ll288op.video-delivery.net/u5kj7shhe3d3sdgge5orwl2hlgf3zk6lsqlv4eqapsca6ug433besmkyempq/vonuq7851w~IErR1GMozj?token=8itj4i93tlca3n8q5kmzmkmy&expiry=1712924610223",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.wf/"
-                        }
                     }
                 ],
                 "passed": true
@@ -930,9 +929,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2QAbAFA4RQJS0mElusuV79iTO_N6G2XKisrDf_AGdNE&s=1712924611&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=faFapVw4TFJXqs6G6pN9ARUkGuUmZ_ecKazY5TW6X4I&s=1712945704&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2QAbAFA4RQJS0mElusuV79iTO_N6G2XKisrDf_AGdNE&s=1712924611&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "videoUrl": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=faFapVw4TFJXqs6G6pN9ARUkGuUmZ_ecKazY5TW6X4I&s=1712945704&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -941,23 +940,14 @@
                         }
                     },
                     {
-                        "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2QAbAFA4RQJS0mElusuV79iTO_N6G2XKisrDf_AGdNE&s=1712924611&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=faFapVw4TFJXqs6G6pN9ARUkGuUmZ_ecKazY5TW6X4I&s=1712945704&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2QAbAFA4RQJS0mElusuV79iTO_N6G2XKisrDf_AGdNE&s=1712924611&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "videoUrl": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03558/oqa24b1rheo5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=faFapVw4TFJXqs6G6pN9ARUkGuUmZ_ecKazY5TW6X4I&s=1712945704&e=129600&f=17790917&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
                             "Referer": "https://wishembed.pro/e/oqa24b1rheo5"
-                        }
-                    },
-                    {
-                        "url": "https://dood.to/e/s2b26zxttui1",
-                        "quality": "[CAST] DoodStream",
-                        "videoUrl": "https://qj905op.video-delivery.net/u5kj7rsye3d3sdgge5irwjkejjtvptsg2jlnns273vi27khr5jk7r7oy4syq/0bcntn5q5v~hHejfDpQ2h?token=y0c5wiqodxj4by4basc7c0ti&expiry=1712924613469",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.to/"
                         }
                     }
                 ],

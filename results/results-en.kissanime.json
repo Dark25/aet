@@ -3,23 +3,23 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: kissanime.com.ru: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: kissanime.com.ru",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.io.IOException: kissanime.com.ru",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: kissanime.com.ru",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: kissanime.com.ru",
                 "passed": false
             },
             "videos": {

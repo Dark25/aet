@@ -3,23 +3,23 @@
         "name": "CineClix (DE)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }

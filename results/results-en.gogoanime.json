@@ -117,6 +117,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/the-new-gate",
+                                "title": "The New Gate",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-new-gate.png"
+                            },
+                            {
+                                "url": "/category/sasayaku-you-ni-koi-wo-utau",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png"
+                            },
+                            {
+                                "url": "/category/yoru-no-kurage-wa-oyogenai",
+                                "title": "Yoru no Kurage wa Oyogenai",
+                                "thumbnail_url": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png"
+                            },
+                            {
+                                "url": "/category/kuroshitsuji-kishuku-gakkou-hen",
+                                "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+                                "thumbnail_url": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png"
+                            },
+                            {
+                                "url": "/category/kaijuu-8-gou",
+                                "title": "Kaijuu 8-gou",
+                                "thumbnail_url": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png"
+                            },
+                            {
+                                "url": "/category/one-room-hiatari-futsuu-tenshi-tsuki",
+                                "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+                                "thumbnail_url": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png"
+                            },
+                            {
+                                "url": "/category/detective-conan",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://gogocdn.net/cover/detective-conan.png"
+                            },
+                            {
                                 "url": "/category/boku-no-hero-academia-memories",
                                 "title": "Boku no Hero Academia: Memories",
                                 "thumbnail_url": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png"
@@ -180,41 +215,6 @@
                                 "url": "/category/astro-note",
                                 "title": "Astro Note",
                                 "thumbnail_url": "https://gogocdn.net/cover/astro-note.png"
-                            },
-                            {
-                                "url": "/category/super-dragon-ball-heroes-meteor-mission",
-                                "title": "Super Dragon Ball Heroes Meteor Mission",
-                                "thumbnail_url": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png"
-                            },
-                            {
-                                "url": "/category/nijiyon-animation-2",
-                                "title": "Nijiyon Animation 2",
-                                "thumbnail_url": "https://gogocdn.net/cover/nijiyon-animation-2.png"
-                            },
-                            {
-                                "url": "/category/kurayukaba",
-                                "title": "Kurayukaba",
-                                "thumbnail_url": "https://gogocdn.net/cover/kurayukaba.png"
-                            },
-                            {
-                                "url": "/category/kuramerukagari",
-                                "title": "Kuramerukagari",
-                                "thumbnail_url": "https://gogocdn.net/cover/kuramerukagari.png"
-                            },
-                            {
-                                "url": "/category/ninjala",
-                                "title": "Ninjala",
-                                "thumbnail_url": "https://gogocdn.net/cover/ninjala.png"
-                            },
-                            {
-                                "url": "/category/wind-breaker",
-                                "title": "Wind Breaker",
-                                "thumbnail_url": "https://gogocdn.net/cover/wind-breaker-1711740617.png"
-                            },
-                            {
-                                "url": "/category/chiikawa",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "https://gogocdn.net/cover/chiikawa.png"
                             }
                         ],
                         "hasNextPage": true
@@ -345,12 +345,49 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sasayaku-you-ni-koi-wo-utau-episode-1",
+                        "name": "Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxubbxyz3b4quuougqqqocbjhph2mxrjq2e7jg456mhf7rtq2zakskb57ojwuu2ypx4xkny/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxubbxyz3b4quuougqqqocbjhph2mxrjq2e7jg456mhf7rtq2zakskb57ojwuu2ypx4xkny/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://anitaku.to",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vipanicdn.net/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/997dcfe1d81cc1f475168b35cbb6a058/sasayaku-you-ni-koi-wo-utau-episode-1-1713031546.original.m3u8",
+                        "quality": "Gogostream - Video",
+                        "videoUrl": "https://vipanicdn.net/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/997dcfe1d81cc1f475168b35cbb6a058/sasayaku-you-ni-koi-wo-utau-episode-1-1713031546.original.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjIzODQ1&token=rYS4yDE4n8cLU016x8NG4Q&expires=1713039139"
+                        }
+                    },
+                    {
+                        "url": "https://vipanicdn.net/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/997dcfe1d81cc1f475168b35cbb6a058/sasayaku-you-ni-koi-wo-utau-episode-1-1713031546.original.m3u8",
+                        "quality": "Vidstreaming - Video",
+                        "videoUrl": "https://vipanicdn.net/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/997dcfe1d81cc1f475168b35cbb6a058/sasayaku-you-ni-koi-wo-utau-episode-1-1713031546.original.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjIzODQ1&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+1"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

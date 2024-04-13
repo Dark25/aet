@@ -417,8 +417,45 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(4yGaYIdj8tzfz_bww_4fksDoq67hQcn80EZjvfpIjg5kgGKqaPPaES-l1Ei-LeEUiBEiQ2oKvQVlFkUomWapNhv8kOB-1D8UaGCDUP2oOxgzmzC2k1RDp8ajtBBP11Xz0gsf3pKdTDHRNKLBtNGvbA)/video/419/847/538748914_mp4_h264_aac_hd_9.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 720p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(4yGaYIdj8tzfz_bww_4fksDoq67hQcn80EZjvfpIjg5kgGKqaPPaES-l1Ei-LeEUiBEiQ2oKvQVlFkUomWapNhv8kOB-1D8UaGCDUP2oOxgzmzC2k1RDp8ajtBBP11Xz0gsf3pKdTDHRNKLBtNGvbA)/video/419/847/538748914_mp4_h264_aac_hd_9.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(31EFSFsaMqy2Q9lcZ55GgvrbbqxcRUTV0lrjtAiS_epTB7sWaP-bsZg_E6mOVADFfH20Wfp1DD5cycw_jnd20hdDu8bniVsBJuZaJ6aqQNc8V-yap291MyyU98NCCrGIGBj2E7-3CGhnhi2qzzjKNQ)/video/419/847/538748914_mp4_h264_aac_fhd_9.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 1080p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(31EFSFsaMqy2Q9lcZ55GgvrbbqxcRUTV0lrjtAiS_epTB7sWaP-bsZg_E6mOVADFfH20Wfp1DD5cycw_jnd20hdDu8bniVsBJuZaJ6aqQNc8V-yap291MyyU98NCCrGIGBj2E7-3CGhnhi2qzzjKNQ)/video/419/847/538748914_mp4_h264_aac_fhd_9.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(dXQEL8nsnGkNgL9XPu1Mq2MdSMEHDSzpM1_IAa7I32_fP9DTqeM2vLCbkQHTAwfHLDKdqTW5nrKc1MKmMDJKV6RZrOcZHTRR_Hd_GsxTHP_2osl__3QSmKQgRsD9v220qEqQhTBsuZbFt9nhroT6NQ)/video/419/847/538748914_mp4_h264_aac_hq_9.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 480p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(dXQEL8nsnGkNgL9XPu1Mq2MdSMEHDSzpM1_IAa7I32_fP9DTqeM2vLCbkQHTAwfHLDKdqTW5nrKc1MKmMDJKV6RZrOcZHTRR_Hd_GsxTHP_2osl__3QSmKQgRsD9v220qEqQhTBsuZbFt9nhroT6NQ)/video/419/847/538748914_mp4_h264_aac_hq_9.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(sBEvaJ0rcfu9iX2QzAormfqTeZXf8v6p0rIUCHOqitA8cmRDxfU2922oBZUxeLdcfSbPBUFn9eHMFYEjgrb6GCSrqolysBrfEQbNO0lHC67ryXuP1NpLqKNTuNxNgG4aOo7oRG8AtAVYSVw8jhAeyw)/video/419/847/538748914_mp4_h264_aac_9.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 288p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(sBEvaJ0rcfu9iX2QzAormfqTeZXf8v6p0rIUCHOqitA8cmRDxfU2922oBZUxeLdcfSbPBUFn9eHMFYEjgrb6GCSrqolysBrfEQbNO0lHC67ryXuP1NpLqKNTuNxNgG4aOo7oRG8AtAVYSVw8jhAeyw)/video/419/847/538748914_mp4_h264_aac_9.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

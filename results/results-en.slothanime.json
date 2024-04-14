@@ -77,6 +77,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/baijia-jue-jianghu-gui-shi-lu",
+                                "title": "Baijia Jue: Jianghu Gui Shi Lu",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11834.png"
+                            },
+                            {
+                                "url": "/anime/legend-of-xianwu-2nd-season",
+                                "title": "Legend of Xianwu 2nd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11445.png"
+                            },
+                            {
+                                "url": "/anime/jueshi-wu-hun",
+                                "title": "Jueshi Wu Hun",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11132.png"
+                            },
+                            {
+                                "url": "/anime/taigu-xing-shen-jue",
+                                "title": "Taigu Xing Shen Jue",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11754.png"
+                            },
+                            {
+                                "url": "/anime/martial-master-2",
+                                "title": "Martial Master 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11164.png"
+                            },
+                            {
+                                "url": "/anime/captain-tsubasa-junior-youth-arc",
+                                "title": "Captain Tsubasa: Junior Youth Arc",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11459.png"
+                            },
+                            {
+                                "url": "/anime/fights-break-sphere-6",
+                                "title": "Fights Break Sphere 6",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11365.png"
+                            },
+                            {
+                                "url": "/anime/go-go-loser-ranger",
+                                "title": "GO! GO! Loser Ranger!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11932.png"
+                            },
+                            {
                                 "url": "/anime/mission-yozakura-family",
                                 "title": "Mission: Yozakura Family",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11931.png"
@@ -95,46 +135,6 @@
                                 "url": "/anime/yatagarasu-the-raven-does-not-choose-its-master",
                                 "title": "YATAGARASU: The Raven Does Not Choose Its Master",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11969.png"
-                            },
-                            {
-                                "url": "/anime/whisper-me-a-love-song",
-                                "title": "Whisper Me a Love Song",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11968.png"
-                            },
-                            {
-                                "url": "/anime/the-new-gate",
-                                "title": "THE NEW GATE",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11967.png"
-                            },
-                            {
-                                "url": "/anime/dragon-raja-the-blazing-dawn",
-                                "title": "Dragon Raja -The Blazing Dawn-",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11966.png"
-                            },
-                            {
-                                "url": "/anime/shadows-of-the-void",
-                                "title": "Shadows of the Void",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11964.png"
-                            },
-                            {
-                                "url": "/anime/black-butler-public-school-arc",
-                                "title": "Black Butler: Public School Arc",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11965.png"
-                            },
-                            {
-                                "url": "/anime/kaiju-no8",
-                                "title": "Kaiju No.8",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11963.png"
-                            },
-                            {
-                                "url": "/anime/studio-apartment-good-lighting-angel-included",
-                                "title": "Studio Apartment, Good Lighting, Angel Included",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11891.png"
-                            },
-                            {
-                                "url": "/anime/soul-land-2-the-peerless-tang-clan",
-                                "title": "Soul Land 2: The Peerless Tang Clan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11221.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,15 +255,15 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=vi6gXReXy5sQVlZ5UiiJ%2FQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=5ytiwoyK4Udcvi3KGUAJcA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=vi6gXReXy5sQVlZ5UiiJ%2FQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=5ytiwoyK4Udcvi3KGUAJcA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

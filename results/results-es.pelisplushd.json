@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/good-times",
+                                "title": "Good Times (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/D9yYJsyDa0A3fFQXel7MFhTWkj.jpg"
+                            },
+                            {
                                 "url": "/serie/entrevias",
                                 "title": "Entrevías (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fedN6uSfkN2l8EXnqF9E9jBOhfc.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/apples-never-fall",
                                 "title": "Apples Never Fall (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg"
-                            },
-                            {
-                                "url": "/serie/blackstar",
-                                "title": "Blackstar (19811982)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ujWNJd0ckjohwNrUsHM0tuBNZj8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/entrevias",
-                    "title": "Entrevías (2021)",
-                    "description": "La historia de Tirso Abantos, un hombre de principios cuya existencia sosegada y rutinaria da un vuelco cuando su nieta adolescente irrumpe de lleno en su vida..",
-                    "genre": "Crimen, Drama",
+                    "url": "/serie/good-times",
+                    "title": "Good Times (2024)",
+                    "description": "En esta atrevida e irreverente adaptación del clásico televisivo, una nueva generación de la familia Evans se mantiene a flote en una vivienda social de Chicago..",
+                    "genre": "Animación, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fedN6uSfkN2l8EXnqF9E9jBOhfc.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/D9yYJsyDa0A3fFQXel7MFhTWkj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/entrevias/temporada/2/capitulo/8",
-                        "name": "T2 - E8: Episodio 8",
-                        "episode_number": 16.0
+                        "url": "/serie/good-times/temporada/1/capitulo/10",
+                        "name": "T1 - E10: Episodio 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/serie/entrevias/temporada/2/capitulo/7",
-                        "name": "T2 - E7: Episodio 7",
-                        "episode_number": 15.0
+                        "url": "/serie/good-times/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -595,104 +595,104 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/pared-con-pared/",
-                                "title": "Pared con pared",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pared-con-pared.jpg"
+                                "url": "/pelicula/mimic-3-sentinel/",
+                                "title": "Mimic 3: Sentinel",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mimic-3-sentinel.jpg"
                             },
                             {
-                                "url": "/pelicula/el-pajaro-loco-se-va-de-campamento/",
-                                "title": "El Pájaro Loco se va de campamento",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-pajaro-loco-se-va-de-campamento.jpg"
+                                "url": "/pelicula/otro-mundo/",
+                                "title": "Otro Mundo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/otro-mundo.jpg"
                             },
                             {
-                                "url": "/pelicula/death-race-la-carrera-de-la-muerte/",
-                                "title": "Death Race: La carrera de la muerte",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/death-race-la-carrera-de-la-muerte.jpg"
+                                "url": "/pelicula/mas-extrano-que-la-ficcion/",
+                                "title": "Más extraño que la ficción",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mas-extrano-que-la-ficcion.jpg"
                             },
                             {
-                                "url": "/pelicula/la-carrera-de-la-muerte-3/",
-                                "title": "La Carrera de la Muerte 3",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-carrera-de-la-muerte-3.jpg"
+                                "url": "/pelicula/waking-life/",
+                                "title": "Despertando a la Vida",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/waking-life.jpg"
                             },
                             {
-                                "url": "/pelicula/la-carrera-de-la-muerte-2/",
-                                "title": "La Carrera de la Muerte 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-carrera-de-la-muerte-2.jpg"
+                                "url": "/pelicula/starship-troopers-2-heroe-de-la-federacion/",
+                                "title": "Starship Troopers 2: Héroe de la federación",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/starship-troopers-2-heroe-de-la-federacion.jpg"
                             },
                             {
-                                "url": "/pelicula/stuart-little-2-la-aventura-continua/",
-                                "title": "Stuart Little 2: La aventura continúa",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/stuart-little-2-la-aventura-continua.jpg"
+                                "url": "/pelicula/en-la-luna/",
+                                "title": "En la luna",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/en-la-luna.jpg"
                             },
                             {
-                                "url": "/pelicula/los-agentes-del-destino/",
-                                "title": "Los agentes del destino",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-agentes-del-destino.jpg"
+                                "url": "/pelicula/scream-4/",
+                                "title": "Scream 4",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/scream-4.jpg"
                             },
                             {
-                                "url": "/pelicula/operacion-caceria-2/",
-                                "title": "Operación Cacería 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/operacion-caceria-2.jpg"
+                                "url": "/pelicula/enemigo-mio/",
+                                "title": "Enemigo mío",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/enemigo-mio.jpg"
                             },
                             {
-                                "url": "/pelicula/el-regreso-de-los-muertos-vivientes-2/",
-                                "title": "El Regreso de los Muertos Vivientes 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-regreso-de-los-muertos-vivientes-2.jpg"
+                                "url": "/pelicula/starship-troopers/",
+                                "title": "Starship Troopers",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/starship-troopers.jpg"
                             },
                             {
-                                "url": "/pelicula/la-era-de-hielo-choque-de-mundos/",
-                                "title": "La era de hielo: Choque de mundos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-era-de-hielo-choque-de-mundos.jpg"
+                                "url": "/pelicula/el-maquinista/",
+                                "title": "El Maquinista",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-maquinista.jpg"
                             },
                             {
-                                "url": "/pelicula/arq/",
-                                "title": "ARQ",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/arq.jpg"
+                                "url": "/pelicula/starship-troopers-3-merodeador/",
+                                "title": "Starship Troopers 3: merodeador",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/starship-troopers-3-merodeador.jpg"
                             },
                             {
-                                "url": "/pelicula/el-dia-de-la-independencia-2-contraataque/",
-                                "title": "El Día de la Independencia 2: Contraataque",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-dia-de-la-independencia-2-contraataque.jpg"
+                                "url": "/pelicula/el-cuerpo-del-delito/",
+                                "title": "El cuerpo del delito",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-cuerpo-del-delito.jpg"
                             },
                             {
-                                "url": "/pelicula/juego-sin-limites/",
-                                "title": "Juego sin límites",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/juego-sin-limites.jpg"
+                                "url": "/pelicula/tiburon-3-d-el-gran-tiburon/",
+                                "title": "Tiburón 3-D: El Gran Tiburón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tiburon-3-d-el-gran-tiburon.jpg"
                             },
                             {
-                                "url": "/pelicula/todos-a-bailar/",
-                                "title": "Todos a bailar",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/todos-a-bailar.jpg"
+                                "url": "/pelicula/de-vuelta-al-colegio/",
+                                "title": "De vuelta al colegio",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/de-vuelta-al-colegio.jpg"
                             },
                             {
-                                "url": "/pelicula/el-pico-de-dante/",
-                                "title": "El pico de Dante",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-pico-de-dante.jpg"
+                                "url": "/pelicula/tiburon-2/",
+                                "title": "Tiburón 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tiburon-2.jpg"
                             },
                             {
-                                "url": "/pelicula/pumpkinhead-ii-la-revancha/",
-                                "title": "Pumpkinhead II: La revancha",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pumpkinhead-ii-la-revancha.jpg"
+                                "url": "/pelicula/conspiracion-y-poder/",
+                                "title": "Conspiración y Poder",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/conspiracion-y-poder.jpg"
                             },
                             {
-                                "url": "/pelicula/el-pueblo-de-los-malditos-12122/",
-                                "title": "El pueblo de los malditos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-pueblo-de-los-malditos-12122.jpg"
+                                "url": "/pelicula/tiburon-4-la-venganza/",
+                                "title": "Tiburón 4: La venganza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tiburon-4-la-venganza.jpg"
                             },
                             {
-                                "url": "/pelicula/pumpkinhead/",
-                                "title": "Pumpkinhead",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pumpkinhead.jpg"
+                                "url": "/pelicula/el-concordeaeropuerto-79/",
+                                "title": "El Concorde...Aeropuerto '79",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-concordeaeropuerto-79.jpg"
                             },
                             {
-                                "url": "/pelicula/12-horas-para-sobrevivir-el-ano-de-la-eleccion/",
-                                "title": "12 Horas para sobrevivir: El Año de la Elección",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/12-horas-para-sobrevivir-el-ano-de-la-eleccion.jpg"
+                                "url": "/pelicula/psicosis-11252/",
+                                "title": "Psicosis",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/psicosis-11252.jpg"
                             },
                             {
-                                "url": "/pelicula/aullidos/",
-                                "title": "Aullidos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/aullidos.jpg"
+                                "url": "/pelicula/aeropuerto-77/",
+                                "title": "Aeropuerto '77",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/aeropuerto-77.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -862,11 +862,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/pared-con-pared/",
-                    "title": "Pared con pared",
+                    "url": "/pelicula/mimic-3-sentinel/",
+                    "title": "Mimic 3: Sentinel",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Romance",
+                    "genre": "Suspenso, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -876,7 +876,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/pared-con-pared/",
+                        "url": "/pelicula/mimic-3-sentinel/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -886,37 +886,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://zwhwosoyh2em.sw-cdnstreamwish.com/hls2/01/03563/g8wlaknahkrl_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=g7n7UKPT4wNqrc_y0K4www0mrqN8_cB5B2nVO2Sfkvc&s=1713032122&e=129600&f=17817817&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[LAT] StreamWish:1040p",
-                        "videoUrl": "https://zwhwosoyh2em.sw-cdnstreamwish.com/hls2/01/03563/g8wlaknahkrl_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=g7n7UKPT4wNqrc_y0K4www0mrqN8_cB5B2nVO2Sfkvc&s=1713032122&e=129600&f=17817817&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03086/f4f6vqpuk4dz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=j2H4cfptZampTxQF8wmdsstOCFy1dcnWpnIbi5un1mE&s=1713057343&e=129600&f=15433632&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "[CAST] StreamWish:1080p",
+                        "videoUrl": "https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03086/f4f6vqpuk4dz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=j2H4cfptZampTxQF8wmdsstOCFy1dcnWpnIbi5un1mE&s=1713057343&e=129600&f=15433632&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/g8wlaknahkrl"
+                            "Referer": "https://wishembed.pro/e/f4f6vqpuk4dz"
                         }
                     },
                     {
-                        "url": "https://zwhwosoyh2em.sw-cdnstreamwish.com/hls2/01/03563/g8wlaknahkrl_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=g7n7UKPT4wNqrc_y0K4www0mrqN8_cB5B2nVO2Sfkvc&s=1713032122&e=129600&f=17817817&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://zwhwosoyh2em.sw-cdnstreamwish.com/hls2/01/03563/g8wlaknahkrl_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=g7n7UKPT4wNqrc_y0K4www0mrqN8_cB5B2nVO2Sfkvc&s=1713032122&e=129600&f=17817817&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03086/f4f6vqpuk4dz_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=j2H4cfptZampTxQF8wmdsstOCFy1dcnWpnIbi5un1mE&s=1713057343&e=129600&f=15433632&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03086/f4f6vqpuk4dz_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=j2H4cfptZampTxQF8wmdsstOCFy1dcnWpnIbi5un1mE&s=1713057343&e=129600&f=15433632&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/g8wlaknahkrl"
+                            "Referer": "https://wishembed.pro/e/f4f6vqpuk4dz"
                         }
                     },
                     {
-                        "url": "https://zwhwosoyh2em.sw-cdnstreamwish.com/hls2/01/03563/g8wlaknahkrl_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=g7n7UKPT4wNqrc_y0K4www0mrqN8_cB5B2nVO2Sfkvc&s=1713032122&e=129600&f=17817817&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://zwhwosoyh2em.sw-cdnstreamwish.com/hls2/01/03563/g8wlaknahkrl_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=g7n7UKPT4wNqrc_y0K4www0mrqN8_cB5B2nVO2Sfkvc&s=1713032122&e=129600&f=17817817&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03086/f4f6vqpuk4dz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=j2H4cfptZampTxQF8wmdsstOCFy1dcnWpnIbi5un1mE&s=1713057343&e=129600&f=15433632&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03086/f4f6vqpuk4dz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=j2H4cfptZampTxQF8wmdsstOCFy1dcnWpnIbi5un1mE&s=1713057343&e=129600&f=15433632&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/g8wlaknahkrl"
+                            "Referer": "https://wishembed.pro/e/f4f6vqpuk4dz"
                         }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=lO8xme92ymc7K92&expires=1713127345&ip=FROsD0ETKxSHDN&token=HtNQPmuuiJfn",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=lO8xme92ymc7K92&expires=1713127345&ip=FROsD0ETKxSHDN&token=HtNQPmuuiJfn"
                     }
                 ],
                 "passed": true

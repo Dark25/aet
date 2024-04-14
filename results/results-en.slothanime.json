@@ -255,15 +255,15 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=5ytiwoyK4Udcvi3KGUAJcA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=e9qUoAek2E38%2FPNUXw%2Fczw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=5ytiwoyK4Udcvi3KGUAJcA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=e9qUoAek2E38%2FPNUXw%2Fczw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

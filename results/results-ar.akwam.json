@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/9641/الهجرة-مدبلج-مصري",
+                                "title": "الهجرة مدبلج مصري",
+                                "thumbnail_url": "https://img.downet.net/thumb/178x260/uploads/Y3u0q.jpg"
+                            },
+                            {
                                 "url": "/movie/9150/مرعي-البريمو",
                                 "title": "مرعي البريمو",
                                 "thumbnail_url": "https://img.downet.net/thumb/178x260/uploads/gAPVm.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/movie/9615/monster-mash",
                                 "title": "Monster Mash",
                                 "thumbnail_url": "https://img.downet.net/thumb/178x260/uploads/waJF9.jpg"
-                            },
-                            {
-                                "url": "/movie/9614/last-night-at-terrace-lanes",
-                                "title": "Last Night at Terrace Lanes",
-                                "thumbnail_url": "https://img.downet.net/thumb/178x260/uploads/Wd7rX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -284,11 +284,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/9150/مرعي-البريمو",
-                    "title": "مرعي البريمو",
-                    "author": "مصر",
-                    "description": "قصة الفيلم فيلم مرعي البريمو في إطار كوميدي، تدور أحداث الفيلم حول (مرعي البريمو) الذي يعمل في تجارة البطيخ، حيث يواجه العديد من المواقف والمفارقات الكوميدية المثيرة من خلال عمله.",
-                    "genre": "WEB-DL - 1080p, انتاج : مصر, كوميدي",
+                    "url": "/movie/9641/الهجرة-مدبلج-مصري",
+                    "title": "الهجرة مدبلج مصري",
+                    "author": "الولايات المتحدة الأمريكية",
+                    "description": "قصة الفيلم فيلم الهجرة مدبلج مصري تحاول عائلة من البط إقناع والدهم -الذي يبالغ في حمايته لهم- بالذهاب في مغامرة ملحمية لا تحدث إلا مرة واحدة في العمر.",
+                    "genre": "WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, انمي, مدبلج, كوميدي, مغامرة",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -298,15 +298,31 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/9150/مرعي-البريمو",
+                        "url": "/movie/9641/الهجرة-مدبلج-مصري",
                         "name": "مشاهدة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s103.downet.net/download/1713221643/661c5e8b6c498/Migration.2023.1080P.WEB-DL.AKWAM.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "http://s103.downet.net/download/1713221643/661c5e8b6c498/Migration.2023.1080P.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s104.downet.net/download/1713221643/661c5e8b96773/Migration.2023.720P.WEB-DL.AKWAM.mp4",
+                        "quality": "720p",
+                        "videoUrl": "http://s104.downet.net/download/1713221643/661c5e8b96773/Migration.2023.720P.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s211d2.downet.net/download/1713221643/661c5e8bc0878/Migration.2023.480P.WEB-DL.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s211d2.downet.net/download/1713221643/661c5e8bc0878/Migration.2023.480P.WEB-DL.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

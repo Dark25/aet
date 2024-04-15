@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-simpatizante",
+                                "title": "El simpatizante (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6UbbWRDEzdsPyrYPWG7WDNQYBgR.jpg"
+                            },
+                            {
+                                "url": "/serie/los-dos-lados-del-puente",
+                                "title": "Los dos lados del puente (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5lNqt3SWF2jfzHx8t5GtoDTPrxa.jpg"
+                            },
+                            {
                                 "url": "/serie/good-times",
                                 "title": "Good Times (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/D9yYJsyDa0A3fFQXel7MFhTWkj.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/coppola-el-representante",
                                 "title": "Coppola, el representante (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg"
-                            },
-                            {
-                                "url": "/serie/the-chosen-los-elegidos",
-                                "title": "The Chosen (Los elegidos) (2017)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg"
-                            },
-                            {
-                                "url": "/serie/apples-never-fall",
-                                "title": "Apples Never Fall (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/good-times",
-                    "title": "Good Times (2024)",
-                    "description": "En esta atrevida e irreverente adaptación del clásico televisivo, una nueva generación de la familia Evans se mantiene a flote en una vivienda social de Chicago..",
-                    "genre": "Animación, Comedia",
+                    "url": "/serie/el-simpatizante",
+                    "title": "El simpatizante (2024)",
+                    "description": "Un thriller de espionaje y una sátira intercultural sobre las luchas de un espía comunista mitad francés, mitad vietnamita durante los últimos días de la Guerra de Vietnam y su exilio resultante en los Estados Unidos..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/D9yYJsyDa0A3fFQXel7MFhTWkj.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6UbbWRDEzdsPyrYPWG7WDNQYBgR.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/good-times/temporada/1/capitulo/10",
-                        "name": "T1 - E10: Episodio 10",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/serie/good-times/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/el-simpatizante/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -303,6 +298,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-viaje",
+                                "title": "El Viaje (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yA4UTLrCEQ68WIc78KYcgWnb1cF.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dune-parte-dos",
+                                "title": "Dune: Parte dos (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg"
+                            },
                             {
                                 "url": "/pelicula/robo",
                                 "title": "Robo (2024)",
@@ -412,16 +417,6 @@
                                 "url": "/pelicula/criptoestafas",
                                 "title": "Criptoestafas (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
-                            },
-                            {
-                                "url": "/pelicula/60-minutos",
-                                "title": "60 minutos (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg"
-                            },
-                            {
-                                "url": "/pelicula/liga-de-la-justicia-crisis-en-tierras-infinitas-parte-1",
-                                "title": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1 (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -561,10 +556,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/robo",
-                    "title": "Robo (2019)",
-                    "description": "Robo es una increíble historia de amistad entre un niño y un robot. Donde se abre un mundo completamente nuevo para ambos. El niño aprende a ser fuerte y valiente, y el robot, inicialmente desprovisto de sentimientos, comienza a sentir empatía y a experimentar emociones humanas reales.",
-                    "genre": "Familia, Ciencia ficción, Drama",
+                    "url": "/pelicula/el-viaje",
+                    "title": "El viaje (2021)",
+                    "description": "A Lars (Aksel Hennie) y Lisa (Noomi Rapace) se les acabó el amor que los unió en un principio. Ahora, luchan por mantener su matrimonio y sus ambiciones. La carrera de Lars como director se ha estancado en las telenovelas y Lisa no ha conseguido ningún papel desde hace años. Lars se siente ignorado, sospecha que lo están engañando y está pasando por dificultades económicas. Lisa cree que Lars es un cobarde egocéntrico que se ha echado a perder. Nada en sus vidas ha acabado como pensaban; mucho menos su matrimonio. Es por eso por lo que un viaje de fin de semana a una cabaña familiar en el bosque parece brindarles una oportunidad para deshacerse del otro. Para siempre.",
+                    "genre": "Comedia, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -574,7 +569,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/robo",
+                        "url": "/pelicula/el-viaje",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -886,9 +881,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=TJ2H2ivYVlST1cBnPo3GM4ZUWzd90aldshr8ChdM5m4&s=1713184011&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=_oZErgVvTLMKekygKMP9HDxJwmlm69LqhEx3_Wn8Q8g&s=1713205180&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:1080p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=TJ2H2ivYVlST1cBnPo3GM4ZUWzd90aldshr8ChdM5m4&s=1713184011&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=_oZErgVvTLMKekygKMP9HDxJwmlm69LqhEx3_Wn8Q8g&s=1713205180&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -897,9 +892,9 @@
                         }
                     },
                     {
-                        "url": "https://bxmysyadzfpy.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=IwL3e4_CvwYqQd6LpFhXobpQVxNhb_gLP21txmE67gU&s=1713184012&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=XTOLpW6XJuoonZnTpy5D_dhqCL2FcBEGxchpOo793aE&s=1713205179&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
                         "quality": "[SUB] StreamWish:1080p",
-                        "videoUrl": "https://bxmysyadzfpy.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=IwL3e4_CvwYqQd6LpFhXobpQVxNhb_gLP21txmE67gU&s=1713184012&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=XTOLpW6XJuoonZnTpy5D_dhqCL2FcBEGxchpOo793aE&s=1713205179&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -908,9 +903,9 @@
                         }
                     },
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=TJ2H2ivYVlST1cBnPo3GM4ZUWzd90aldshr8ChdM5m4&s=1713184011&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=_oZErgVvTLMKekygKMP9HDxJwmlm69LqhEx3_Wn8Q8g&s=1713205180&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=TJ2H2ivYVlST1cBnPo3GM4ZUWzd90aldshr8ChdM5m4&s=1713184011&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=_oZErgVvTLMKekygKMP9HDxJwmlm69LqhEx3_Wn8Q8g&s=1713205180&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -919,9 +914,9 @@
                         }
                     },
                     {
-                        "url": "https://bxmysyadzfpy.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=IwL3e4_CvwYqQd6LpFhXobpQVxNhb_gLP21txmE67gU&s=1713184012&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=XTOLpW6XJuoonZnTpy5D_dhqCL2FcBEGxchpOo793aE&s=1713205179&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://bxmysyadzfpy.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=IwL3e4_CvwYqQd6LpFhXobpQVxNhb_gLP21txmE67gU&s=1713184012&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=XTOLpW6XJuoonZnTpy5D_dhqCL2FcBEGxchpOo793aE&s=1713205179&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -930,9 +925,9 @@
                         }
                     },
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=TJ2H2ivYVlST1cBnPo3GM4ZUWzd90aldshr8ChdM5m4&s=1713184011&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=_oZErgVvTLMKekygKMP9HDxJwmlm69LqhEx3_Wn8Q8g&s=1713205180&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=TJ2H2ivYVlST1cBnPo3GM4ZUWzd90aldshr8ChdM5m4&s=1713184011&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/llmtbumcvpdd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=_oZErgVvTLMKekygKMP9HDxJwmlm69LqhEx3_Wn8Q8g&s=1713205180&e=129600&f=17858591&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -941,9 +936,9 @@
                         }
                     },
                     {
-                        "url": "https://bxmysyadzfpy.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=IwL3e4_CvwYqQd6LpFhXobpQVxNhb_gLP21txmE67gU&s=1713184012&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
+                        "url": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=XTOLpW6XJuoonZnTpy5D_dhqCL2FcBEGxchpOo793aE&s=1713205179&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://bxmysyadzfpy.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=IwL3e4_CvwYqQd6LpFhXobpQVxNhb_gLP21txmE67gU&s=1713184012&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
+                        "videoUrl": "https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03571/io65ivrv853t_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=XTOLpW6XJuoonZnTpy5D_dhqCL2FcBEGxchpOo793aE&s=1713205179&e=129600&f=17858743&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -952,14 +947,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ykLdqlyVpBfeM8&expires=1713254015&ip=F0AsFxOnDS9X&token=3CavEj4Yo3hl",
+                        "url": "https://streamtape.com/get_video?id=ykLdqlyVpBfeM8&expires=1713275182&ip=F0OSKRSRFI9XKxR&token=Cp6sNeeYZ2w6",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ykLdqlyVpBfeM8&expires=1713254015&ip=F0AsFxOnDS9X&token=3CavEj4Yo3hl"
+                        "videoUrl": "https://streamtape.com/get_video?id=ykLdqlyVpBfeM8&expires=1713275182&ip=F0OSKRSRFI9XKxR&token=Cp6sNeeYZ2w6"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=a2GwM3xDrpsxgev&expires=1713254015&ip=F0AsFxOnDS9X&token=fV_jFR3U8SXs",
+                        "url": "https://streamtape.com/get_video?id=a2GwM3xDrpsxgev&expires=1713275182&ip=F0OSKRSRFI9XKxR&token=InI6TXuxDU9W",
                         "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=a2GwM3xDrpsxgev&expires=1713254015&ip=F0AsFxOnDS9X&token=fV_jFR3U8SXs"
+                        "videoUrl": "https://streamtape.com/get_video?id=a2GwM3xDrpsxgev&expires=1713275182&ip=F0OSKRSRFI9XKxR&token=InI6TXuxDU9W"
                     }
                 ],
                 "passed": true

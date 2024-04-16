@@ -11,19 +11,19 @@
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: CANCEL",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.io.IOException: Required SETTINGS preface not received",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: CANCEL",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             }
         }

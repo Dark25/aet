@@ -117,6 +117,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
+                                "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji 3",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4032.jpg"
+                            },
+                            {
+                                "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
+                                "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji 2",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4032.jpg"
+                            },
+                            {
+                                "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
+                                "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji 1",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4032.jpg"
+                            },
+                            {
+                                "url": "/anime/rinkai",
+                                "title": "Rinkai! 2",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4020.jpg"
+                            },
+                            {
+                                "url": "/anime/boukyaku-battery-tv",
+                                "title": "Boukyaku Battery (TV) 2",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4019.jpg"
+                            },
+                            {
+                                "url": "/anime/unnamed-memory",
+                                "title": "Unnamed Memory 2",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4018.jpg"
+                            },
+                            {
                                 "url": "/anime/dekisoko",
                                 "title": "DekiSoko 4",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/3994.jpg"
@@ -185,36 +215,6 @@
                                 "url": "/anime/vampire-dormitory",
                                 "title": "Vampire Dormitory 2",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/4012.jpg"
-                            },
-                            {
-                                "url": "/anime/shinigami-bocchan-to-kuro-maid-3rd-season",
-                                "title": "Shinigami Bocchan to Kuro Maid 3rd Season 2",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4011.jpg"
-                            },
-                            {
-                                "url": "/anime/yozakurasan-chi-no-daisakusen",
-                                "title": "Yozakura-san Chi no Daisakusen 2",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4010.jpg"
-                            },
-                            {
-                                "url": "/anime/sentai-daishikkaku",
-                                "title": "Sentai Daishikkaku 2",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4009.jpg"
-                            },
-                            {
-                                "url": "/anime/hibike-euphonium-3",
-                                "title": "Hibike! Euphonium 3 2",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4008.jpg"
-                            },
-                            {
-                                "url": "/anime/captain-tsubasa-season-2-junior-youthhen",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen 28",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3901.jpg"
-                            },
-                            {
-                                "url": "/anime/sasayaku-you-ni-koi-wo-utau",
-                                "title": "Sasayaku You ni Koi wo Utau 1",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4031.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -358,9 +358,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a20240416Vq4lQlT3132/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240416L7Dh54huJ22/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240416Vq4lQlT3132/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240416L7Dh54huJ22/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"
@@ -375,15 +375,15 @@
         "name": "TioHentai (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
@@ -391,11 +391,11 @@
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             }
         }

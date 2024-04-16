@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/oomuro-ke-dear-sisters-sub-espanol",
+                                "title": "Oomuro-ke: Dear Sisters",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/oomuro-ke-dear-sisters-1713287456.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/rezero-latino-sub-espanol",
                                 "title": "ReZero Latino",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/rezero-latino-1713156759.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/seiyuu-radio-no-uraomote-sub-espanol",
                                 "title": "Seiyuu Radio no Uraomote",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/seiyuu-radio-no-uraomote-1711812989.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-sub-espanol",
-                                "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711812982.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,80 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rezero-latino-sub-espanol",
-                    "title": "ReZero Latino",
-                    "description": "Zunko Tohoku puede convertir cualquier mochi en un delicioso zunda mochi disparándolo con su Zunda Arrow. Junto con Kiritan Tohoku, Itako Tohoku, Usagi Chūgoku, Metan Shikoku y Sora Kyushu, disfruta comiendo zunda mochi mientras está llena de feli...",
-                    "genre": "Acción, Aventura, Magia, Shonen",
+                    "url": "/anime/oomuro-ke-dear-sisters-sub-espanol",
+                    "title": "Oomuro-ke: Dear Sisters",
+                    "description": "Un spin-off de Yuru Yuri protagonizado por Sakurako y sus hermanas.",
+                    "genre": "Comedia, Escolares, Yuri",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/rezero-latino-1713156759.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/oomuro-ke-dear-sisters-1713287456.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/rezero-latino-episodio-25",
-                        "name": "Episodio 25",
-                        "episode_number": 25.0
-                    },
-                    {
-                        "url": "/ver/rezero-latino-episodio-24",
-                        "name": "Episodio 24",
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=3&sig=RNmec53yuMw&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=3&sig=RNmec53yuMw&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797"
-                    },
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkx2rfpyz3b4quuotowb6y2fi6hq2rwm446qefhlsl3mmwrqex7w4ovy4bivq6ivr6awmdlb/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx2rfpyz3b4quuotowb6y2fi6hq2rwm446qefhlsl3mmwrqex7w4ovy4bivq6ivr6awmdlb/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=3&sig=RNmec53yuMw&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=3&sig=RNmec53yuMw&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797"
-                    },
-                    {
-                        "url": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=2&sig=ArAIOD8I2wU&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=2&sig=ArAIOD8I2wU&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797"
-                    },
-                    {
-                        "url": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=1&sig=FHoZOjxkymQ&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=1&sig=FHoZOjxkymQ&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797"
-                    },
-                    {
-                        "url": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=0&sig=2ZP5b3zq560&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=0&sig=2ZP5b3zq560&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797"
-                    },
-                    {
-                        "url": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=4&sig=O8Zx6RUFQJE&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd301.mycdn.me/?expires=1713356575890&srcIp=20.51.206.109&pr=10&srcAg=GECKO&ms=185.226.53.10&type=4&sig=O8Zx6RUFQJE&ct=0&urls=45.136.22.77&clientType=0&zs=43&id=6499531098797"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0RYJMKjBD9sbw47&expires=1713340176&ip=FROsE0WnDS9X&token=sf_17SgWI2ow",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0RYJMKjBD9sbw47&expires=1713340176&ip=FROsE0WnDS9X&token=sf_17SgWI2ow"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

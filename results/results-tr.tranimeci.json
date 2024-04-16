@@ -3,27 +3,114 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_sousou-no-frieren_1795.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-1",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_attack-on-titan-final-season-the-final-chapters-special-1_1455.webp"
+                            },
+                            {
+                                "url": "/series/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_one-piece_1872.webp"
+                            },
+                            {
+                                "url": "/series/jujutsu-kaisen-season-2",
+                                "title": "JUJUTSU KAISEN Season 2",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_jujutsu-kaisen-season-2_1919.webp"
+                            },
+                            {
+                                "url": "/series/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+                                "title": "Kaguya-sama wa Kokurasetai – First Kiss wa Owaranai",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai_1392.webp"
+                            },
+                            {
+                                "url": "/series/bleach_-thousand-year-blood-warr",
+                                "title": "BLEACH: Thousand-Year Blood War",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_bleach_-thousand-year-blood-war_1962.webp"
+                            },
+                            {
+                                "url": "/series/vinland-saga-s2",
+                                "title": "Vinland Saga S2",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_vinland-saga-s2_1206.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-2",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_attack-on-titan-final-season-the-final-chapters-special-2_1065.webp"
+                            },
+                            {
+                                "url": "/series/kusuriya-no-hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_kusuriya-no-hitorigoto_1338.webp"
+                            },
+                            {
+                                "url": "/series/kimetsu-no-yaiba-yuukaku-hen",
+                                "title": "Kimetsu no Yaiba Yuukaku-hen",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_kimetsu-no-yaiba_-yuukaku-hen_1446.webp"
+                            },
+                            {
+                                "url": "/series/mob-psycho-100-iii",
+                                "title": "Mob Psycho 100 III",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_mob-psycho-100-iii_1989.webp"
+                            },
+                            {
+                                "url": "/series/zhu-xian-2",
+                                "title": "Zhu Xian 2",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_zhu-xian-2_1384.jpg"
+                            },
+                            {
+                                "url": "/series/boku-no-kokoro-no-yabai-yatsu-2nd-season",
+                                "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_boku-no-kokoro-no-yabai-yatsu-2nd-season_1831.webp"
+                            },
+                            {
+                                "url": "/series/oshi-noo-koo",
+                                "title": "Oshi no Ko",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_oshi-no-ko_1790.webp"
+                            },
+                            {
+                                "url": "/series/link-click-season-2",
+                                "title": "Link Click Season 2",
+                                "thumbnail_url": "https://tranimaci.com.tr/image/series_link-click-season-2_1431.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

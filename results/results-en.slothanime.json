@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hashi-no-mukou",
+                                "title": "Hashi no Mukou",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11971.png"
+                            },
+                            {
                                 "url": "/anime/xiong-chumo-xiongxiong-leyuan-2",
                                 "title": "Xiong Chumo: Xiongxiong Leyuan 2",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11970.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/shadowverse-flame-archen",
                                 "title": "Shadowverse Flame: Arc-hen",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11960.png"
-                            },
-                            {
-                                "url": "/anime/the-idolmster-shiny-colors",
-                                "title": "THE iDOLM@STER SHINY COLORS",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11959.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,31 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/oblivion-battery",
+                                "title": "Oblivion Battery",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11948.png"
+                            },
+                            {
+                                "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
+                                "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11906.png"
+                            },
+                            {
+                                "url": "/anime/rinkai",
+                                "title": "Rinkai!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11947.png"
+                            },
+                            {
+                                "url": "/anime/hashi-no-mukou",
+                                "title": "Hashi no Mukou",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11971.png"
+                            },
+                            {
+                                "url": "/anime/unnamed-memory",
+                                "title": "Unnamed Memory",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11910.png"
+                            },
                             {
                                 "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
                                 "title": "Spice and Wolf: merchant meets the wise wolf",
@@ -110,31 +135,6 @@
                                 "url": "/anime/against-the-sky-supreme",
                                 "title": "Against The Sky Supreme",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
-                            },
-                            {
-                                "url": "/anime/swallowed-star-4",
-                                "title": "Swallowed Star 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11475.png"
-                            },
-                            {
-                                "url": "/anime/dubu-wangu-2nd-season",
-                                "title": "Dubu Wangu 2nd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
-                            {
-                                "url": "/anime/sheng-zu",
-                                "title": "Sheng Zu",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11751.png"
-                            },
-                            {
-                                "url": "/anime/ten-thousand-worlds-2",
-                                "title": "Ten Thousand Worlds 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11775.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,29 +244,35 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/xiong-chumo-xiongxiong-leyuan-2",
-                    "title": "Xiong Chumo: Xiongxiong Leyuan 2",
-                    "author": "",
-                    "genre": "Adventure, Comedy, Kids",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11970.png",
+                    "url": "/anime/hashi-no-mukou",
+                    "title": "Hashi no Mukou",
+                    "author": "Iyasakadou Film",
+                    "description": "There are old stories of children disappearing by the river's edge. This has haunted Otoha ever since her friend Jiro disappeared when she was seven years old and now she is back in her hometown covering the war between the government and the dissidents. When she gets separated from the squad, Otoha thinks someone seems to be leading her deeper into the back alleys of the town.",
+                    "genre": "Horror, Supernatural",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11971.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/hashi-no-mukou/145960",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=FR5xYyAXQ88wpmggBO5Cqg%3D%3D",
+                        "url": "https://slothanime.com/player-url/145960?vrf=8YqCWTBuLqR0MCYke%2Bh7iQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=FR5xYyAXQ88wpmggBO5Cqg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/145960?vrf=8YqCWTBuLqR0MCYke%2Bh7iQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/hashi-no-mukou/145960"
                         }
                     }
                 ],

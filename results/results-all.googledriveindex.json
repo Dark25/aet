@@ -3,82 +3,24 @@
         "name": "GoogleDriveIndex (ALL)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] [Uncensored]/\"}",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] Haikyuu Season 1/\"}",
-                                "title": "Haikyuu Season 1",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] Haikyuu Season 3/\"}",
-                                "title": "Haikyuu Season 3",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] Overflow/\"}",
-                                "title": "Overflow",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/Season 1/\"}",
-                                "title": "Season 1",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/Season 2/\"}",
-                                "title": "Season 2",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "{\"type\":\"multi\",\"url\":\"https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] [Uncensored]/\"}",
-                    "thumbnail_url": ""
-                },
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] [Uncensored]/[Ripcrabbyanime]- E01-08 [Uncensored].mkv",
-                        "name": "- E01-08.mkv",
-                        "date_upload": -1,
-                        "episode_number": 1.0,
-                        "scanlator": "672.06 MB • /"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] [Uncensored]/[Ripcrabbyanime]- E01-08 [Uncensored].mkv",
-                        "quality": "Video",
-                        "videoUrl": "https://overfl.ripcrabby89.workers.dev/0:/[Ripcrabbyanime] [Uncensored]/[Ripcrabbyanime]- E01-08 [Uncensored].mkv"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ?a=vie...",
+                "passed": false
             }
         }
     }

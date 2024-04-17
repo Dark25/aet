@@ -336,12 +336,68 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/oomuro-ke-dear-sisters-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=U31UosdVRzU&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=U31UosdVRzU&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsxvhopyz3b4quuoxsqqemkpknqcpoaaqsqvl4zt52pxqfnnkdzecduge2us3oiep55p7kmj/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxvhopyz3b4quuoxsqqemkpknqcpoaaqsqvl4zt52pxqfnnkdzecduge2us3oiep55p7kmj/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=U31UosdVRzU&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=U31UosdVRzU&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=2&sig=QQtREPftKYQ&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=2&sig=QQtREPftKYQ&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=1&sig=gmyp7mwaw0E&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=1&sig=gmyp7mwaw0E&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=0&sig=ItEw5A9o69U&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=0&sig=ItEw5A9o69U&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=4&sig=aILPhfVWY4Q&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=4&sig=aILPhfVWY4Q&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=5&sig=IeKXY4tj7hc&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1713421182323&srcIp=20.81.159.136&pr=10&srcAg=GECKO&ms=95.142.206.136&type=5&sig=IeKXY4tj7hc&ct=0&urls=45.136.21.69%3B45.136.20.32&clientType=0&zs=43&id=6507902929581"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Yg1RaMAWG9UvVGz&expires=1713404783&ip=FROsFxWnDS9X&token=9GMm2x6TzIzK",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Yg1RaMAWG9UvVGz&expires=1713404783&ip=FROsFxWnDS9X&token=9GMm2x6TzIzK"
+                    }
+                ],
+                "passed": true
             }
         }
     }

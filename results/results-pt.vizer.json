@@ -227,6 +227,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/palm-royale",
+                                "title": "Palm Royale",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22658.webp"
+                            },
+                            {
+                                "url": "/serie/online/x-men-97",
+                                "title": "X-Men '97",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
+                            },
+                            {
+                                "url": "/serie/online/star-wars-the-bad-batch",
+                                "title": "Star Wars: The Bad Batch",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19343.webp"
+                            },
+                            {
                                 "url": "/serie/online/walker",
                                 "title": "Walker",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "Franklin",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22708.webp"
-                            },
-                            {
-                                "url": "/serie/online/a-gentleman-in-moscow",
-                                "title": "A Gentleman in Moscow",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22666.webp"
-                            },
-                            {
-                                "url": "/serie/online/fallout",
-                                "title": "Fallout",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22705.webp"
-                            },
-                            {
-                                "url": "/serie/online/antracite",
-                                "title": "Antracite",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22706.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

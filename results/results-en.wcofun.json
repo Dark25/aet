@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-grimm-variations",
+                                "title": "The Grimm Variations",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933583.jpg"
+                            },
+                            {
+                                "url": "/anime/grimm-kumikyoku",
+                                "title": "Grimm Kumikyoku",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933582.jpg"
+                            },
+                            {
+                                "url": "/anime/helck",
+                                "title": "Helck",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933581.jpg"
+                            },
+                            {
                                 "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
                                 "title": "Spice and Wolf: Merchant Meets the Wise Wolf",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933580.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/kenka-dokugaku",
                                 "title": "Kenka Dokugaku",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933567.jpg"
-                            },
-                            {
-                                "url": "/anime/seiyuu-radio-no-uraomote",
-                                "title": "Seiyuu Radio no Uraomote",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933566.jpg"
-                            },
-                            {
-                                "url": "/anime/tonbo",
-                                "title": "Tonbo!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933564.jpg"
-                            },
-                            {
-                                "url": "/anime/rinkai-english-subbed",
-                                "title": "Rinkai! English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933563.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
-                    "title": "Spice and Wolf: Merchant Meets the Wise Wolf",
-                    "description": "Holo is a powerful wolf deity who is revered in the small town of Pasloe for blessing the annual harvest. Yet as years go by and the villagers become more self-sufficient, Holo has been reduced to a mere folktale. When a traveling merchant named Kraft Lawrence stops at the settlement, Holo offers to become his business partner if he takes her to her northern home of Yoitsu. The savvy trader recognizes Holo’s unusual ability to evaluate a person’s character and accepts her proposition.",
-                    "genre": "Adventure, Drama, Fantasy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933580.jpg",
+                    "url": "/anime/the-grimm-variations",
+                    "title": "The Grimm Variations",
+                    "description": "Six stories will be developed as an anthology with a new interpretation of Grimm’s fairy tales, incorporating dark elements.",
+                    "genre": "Fantasy, Horror, Suspense, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933583.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/spice-and-wolf-merchant-meets-the-wise-wolf-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82xMPf7t2XpWVWai_vpDA_7ZZipb_Y48qwmlFqRNtoYz0YULAwCEKiK2W2NRDFfcJXASvgn0KFEwBVVIOcWwRPMV2dj3SdsNdVUdjnCAHRzG9OdMhhn8xN62DJg638F5b3eo653R9-Y12MoT3-S5nqaZUSS3sLPfnF1reDBd1An23sU09SJBMAJKHeLWcCkjBsjL-Pli7jcX1e3aMuKy6FioORyE5QfP8Q3uQK8x0xciYuDTnk0J0oNnglR5uOEGxOOMW1iwE6z37EmXiK7iB0FwV0LmQm4LwqY5v2BSG3337nKZqqiddblv9rPIn5ElGSvqy3v7hiBrrfa3I_6in86gQCijJRErQNCt1JFk2fU6sxq7a7VBrDt8-6Km677hlWm9A6Jsvy_IafozfChhi_5MnylYZjc2aYY1AK21Xr0s1AqX-o656k8oN_eClFHdDHH8KJC8vsiHEGniy5HSM5er8hIU2ptNQOezRjO8VXzShw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82xMPf7t2XpWVWai_vpDA_7ZZipb_Y48qwmlFqRNtoYz0YULAwCEKiK2W2NRDFfcJXASvgn0KFEwBVVIOcWwRPMV2dj3SdsNdVUdjnCAHRzG9OdMhhn8xN62DJg638F5b3eo653R9-Y12MoT3-S5nqaZUSS3sLPfnF1reDBd1An23sU09SJBMAJKHeLWcCkjBsjL-Pli7jcX1e3aMuKy6FioORyE5QfP8Q3uQK8x0xciYuDTnk0J0oNnglR5uOEGxOOMW1iwE6z37EmXiK7iB0FwV0LmQm4LwqY5v2BSG3337nKZqqiddblv9rPIn5ElGSvqy3v7hiBrrfa3I_6in86gQCijJRErQNCt1JFk2fU6sxq7a7VBrDt8-6Km677hlWm9A6Jsvy_IafozfChhi_5MnylYZjc2aYY1AK21Xr0s1AqX-o656k8oN_eClFHdDHH8KJC8vsiHEGniy5HSM5er8hIU2ptNQOezRjO8VXzShw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82xMPf7t2XpWVWai_vpDA_7ZZipb_Y48qwmlFqRNtoYz0YULAwCEKiK2W2NRDFfcJXASvgn0KFEwBVVIOcWwRPMV2dj3SdsNdVUdjnCAHRzG9OdMhhn8xN62DJg638F5b3eo653R9-Y12MoT3-S5nqaZUSS3sLPfnF1reDBd1An23sU09SJBMAJKHeLWcCkjBsjBZS43nzj19pYy9qwXg48hcLYJqlDZ7Wj1I_sPxzI-HCOoPwiIiqV-4qOLr6nZQIAycI6xr1P5dznOo-xQgA3Y5hNqwfHIl-0w-yfKzcHNFq5aJu1lcisgVfmAkOurFP0fcHRLUpY89wWlVMAyOP62pIgphlqMdG52pfai8pgnnncF_drThtjEC5NGKrNUJMeoqkqRhh856nNir_5MDowhVBTiYgtqv2v0eYuEgL9NYqLak4dJCL5Bmz6bl5sIx2-D49EqGdtIMro5zcFcXMmyx5tsoAqr8cF9ENy4KY7j2A",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82xMPf7t2XpWVWai_vpDA_7ZZipb_Y48qwmlFqRNtoYz0YULAwCEKiK2W2NRDFfcJXASvgn0KFEwBVVIOcWwRPMV2dj3SdsNdVUdjnCAHRzG9OdMhhn8xN62DJg638F5b3eo653R9-Y12MoT3-S5nqaZUSS3sLPfnF1reDBd1An23sU09SJBMAJKHeLWcCkjBsjBZS43nzj19pYy9qwXg48hcLYJqlDZ7Wj1I_sPxzI-HCOoPwiIiqV-4qOLr6nZQIAycI6xr1P5dznOo-xQgA3Y5hNqwfHIl-0w-yfKzcHNFq5aJu1lcisgVfmAkOurFP0fcHRLUpY89wWlVMAyOP62pIgphlqMdG52pfai8pgnnncF_drThtjEC5NGKrNUJMeoqkqRhh856nNir_5MDowhVBTiYgtqv2v0eYuEgL9NYqLak4dJCL5Bmz6bl5sIx2-D49EqGdtIMro5zcFcXMmyx5tsoAqr8cF9ENy4KY7j2A"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82xMPf7t2XpWVWai_vpDA_7ZZipb_Y48qwmlFqRNtoYz0YULAwCEKiK2W2NRDFfcJXASvgn0KFEwBVVIOcWwRPMV2dj3SdsNdVUdjnCAHRzG9OdMhhn8xN62DJg638F5b3eo653R9-Y12MoT3-S5nqaZUSS3sLPfnF1reDBd1An23sU09SJBMAJKHeLWcCkjBsj4Vqf-1apJ0jFDZLGeG6dj8HFbSO0tUZ4dvPwTv1Ueoa3AMdh9RVdCkiUmj3H3R5m6ihXK-zJEYZjggS0UDDCkQRcEGiaJSaL0wsO3_hM-IyyEL4riMqdCANBUtomCtIjs_mbDduDn8T_r3_5SFHYU5NkuN2cxgJr8jvy6wOimMxW7l5bA-Jylw7oZAK40InnF4UjyEiqWM_v-s2E6gm2eCrRpZfGdNpytAxo6TrKc_-pUIDEJJPR8WRQH2lK1M7tgEwJSDDn1bYxteMA4XpBcilEIxAPHbpSXlemFV9oLdg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnHGpocJ0insfj4AndTd82xMPf7t2XpWVWai_vpDA_7ZZipb_Y48qwmlFqRNtoYz0YULAwCEKiK2W2NRDFfcJXASvgn0KFEwBVVIOcWwRPMV2dj3SdsNdVUdjnCAHRzG9OdMhhn8xN62DJg638F5b3eo653R9-Y12MoT3-S5nqaZUSS3sLPfnF1reDBd1An23sU09SJBMAJKHeLWcCkjBsj4Vqf-1apJ0jFDZLGeG6dj8HFbSO0tUZ4dvPwTv1Ueoa3AMdh9RVdCkiUmj3H3R5m6ihXK-zJEYZjggS0UDDCkQRcEGiaJSaL0wsO3_hM-IyyEL4riMqdCANBUtomCtIjs_mbDduDn8T_r3_5SFHYU5NkuN2cxgJr8jvy6wOimMxW7l5bA-Jylw7oZAK40InnF4UjyEiqWM_v-s2E6gm2eCrRpZfGdNpytAxo6TrKc_-pUIDEJJPR8WRQH2lK1M7tgEwJSDDn1bYxteMA4XpBcilEIxAPHbpSXlemFV9oLdg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

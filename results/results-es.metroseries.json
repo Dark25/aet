@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/xGMquh71mh3w3QzUrl1AhCniHys.jpg"
                             },
                             {
-                                "url": "/gungrave-capitulos-completos-latino-hd-online/",
-                                "title": "Gungrave",
+                                "url": "/llama-a-la-comadrona/",
+                                "title": "¡Llama a la comadrona!",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/h7ZwTP7dM6LPkAMH7m0rSzc3jvJ-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qxd8WcGf3VyyVSuQ53v0yCT01fi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/en-movimiento/",
-                                "title": "En movimiento",
+                                "url": "/crash-landing-on-you/",
+                                "title": "Crash Landing on You",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mhKG2PQWikMb7IkdNhCaR9AHS2f.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4qGJJR6RIEa6SDQ3jIMQk3AN9uv.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,59 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/bellas-artes-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - Una escultura mutante",
+                        "date_upload": 1712793600000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/bellas-artes-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - Artistas en residencia",
+                        "date_upload": 1712793600000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s36.fastream.to/hls2/08/00065/txr08j2zohkj_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lHHKWj9qVslQFKyZSuJ9A8KFzJZBtA03_qFxXYymfxo&s=1713377861&e=43200&f=328993&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s36.fastream.to/hls2/08/00065/txr08j2zohkj_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lHHKWj9qVslQFKyZSuJ9A8KFzJZBtA03_qFxXYymfxo&s=1713377861&e=43200&f=328993&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s36.fastream.to/hls2/08/00065/txr08j2zohkj_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lHHKWj9qVslQFKyZSuJ9A8KFzJZBtA03_qFxXYymfxo&s=1713377861&e=43200&f=328993&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s36.fastream.to/hls2/08/00065/txr08j2zohkj_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lHHKWj9qVslQFKyZSuJ9A8KFzJZBtA03_qFxXYymfxo&s=1713377861&e=43200&f=328993&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s36.fastream.to/hls2/08/00065/txr08j2zohkj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lHHKWj9qVslQFKyZSuJ9A8KFzJZBtA03_qFxXYymfxo&s=1713377861&e=43200&f=328993&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s36.fastream.to/hls2/08/00065/txr08j2zohkj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lHHKWj9qVslQFKyZSuJ9A8KFzJZBtA03_qFxXYymfxo&s=1713377861&e=43200&f=328993&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/grimm-kumikyoku",
+                                "title": "Grimm Kumikyoku",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4201.webp"
+                            },
+                            {
+                                "url": "/oomuro-ke-dear-sisters",
+                                "title": "Oomuro-ke: Dear Sisters",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4200.webp"
+                            },
+                            {
                                 "url": "/himitsu-no-aipri",
                                 "title": "Himitsu no AiPri",
                                 "status": 1,
@@ -113,18 +125,6 @@
                                 "title": "Shinkalion: Change the World",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4182.webp"
-                            },
-                            {
-                                "url": "/blue-archive-the-animation",
-                                "title": "Blue Archive the Animation",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4181.webp"
-                            },
-                            {
-                                "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4180.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/himitsu-no-aipri",
-                    "title": "Himitsu no AiPri",
-                    "description": "Nueva serie de Himitsu no AiPri",
-                    "genre": "Música",
+                    "url": "/grimm-kumikyoku",
+                    "title": "Grimm Kumikyoku",
+                    "description": "Seis cuentos se desarrollarán a modo de antología con una nueva interpretación de los cuentos de hadas de Grimm, incorporando elementos oscuros.",
+                    "genre": "Fantasía, Horror",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4199.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4201.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,13 +278,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/himitsu-no-aipri-2",
-                        "name": "Episodio 2",
+                        "url": "/ver/grimm-kumikyoku-6",
+                        "name": "Episodio 6",
                         "episode_number": 0.0
                     },
                     {
-                        "url": "/ver/himitsu-no-aipri-1",
-                        "name": "Episodio 1",
+                        "url": "/ver/grimm-kumikyoku-5",
+                        "name": "Episodio 5",
                         "episode_number": 1.0
                     }
                 ],
@@ -293,26 +293,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-ulampvobprvdaz8k.voe-network.net/engine/hls2/01/11133/oqgdvrwsfojn_,n,.urlset/index-v1-a1.m3u8?t=hDI_30y9FzkqIJF4JJiiKPbFD1aTyCypZbyQ-GgYwK0&s=1713356571&e=14400&f=55674446&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-ulampvobprvdaz8k.voe-network.net/engine/hls2/01/11133/oqgdvrwsfojn_,n,.urlset/index-v1-a1.m3u8?t=hDI_30y9FzkqIJF4JJiiKPbFD1aTyCypZbyQ-GgYwK0&s=1713356571&e=14400&f=55674446&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/11152/1ykihijgyjlj_,n,.urlset/index-v1-a1.m3u8?t=-mH0QVoy5TOUE4di7zUQb0NUmkKfa_AEYnndxQ5Xqf4&s=1713377794&e=14400&f=55765635&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=40.79&sp=2500&asn=8075",
+                        "quality": "Voe: 1080p",
+                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/11152/1ykihijgyjlj_,n,.urlset/index-v1-a1.m3u8?t=-mH0QVoy5TOUE4di7zUQb0NUmkKfa_AEYnndxQ5Xqf4&s=1713377794&e=14400&f=55765635&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=40.79&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkx75f7yz3b4quuoukqqezkvcy5kbqoiopom3z7cnop4fpfzgrq2bj5e24l77dx2itjs5ilp/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx75f7yz3b4quuoukqqezkvcy5kbqoiopom3z7cnop4fpfzgrq2bj5e24l77dx2itjs5ilp/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2xxhqpyz3b4quuoxwqr2y2hlashugck5axgemcmuot3ie6grrb5glrm7snrwvhhhnibjpd5/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xxhqpyz3b4quuoxwqr2y2hlashugck5axgemcmuot3ie6grrb5glrm7snrwvhhhnibjpd5/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Bzkb4Ba4QzTyem6&expires=1713426570&ip=F0qQKRWZD19XKxR&token=523QzrTwJUVa",
+                        "url": "https://streamtape.com/get_video?id=gowRwxJ0eecqodK&expires=1713447795&ip=GxOsEHcnDS9X&token=uYsRl5sJEoWb",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Bzkb4Ba4QzTyem6&expires=1713426570&ip=F0qQKRWZD19XKxR&token=523QzrTwJUVa"
+                        "videoUrl": "https://streamtape.com/get_video?id=gowRwxJ0eecqodK&expires=1713447795&ip=GxOsEHcnDS9X&token=uYsRl5sJEoWb"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/immaculate/",
+                                "title": "Immaculate",
+                                "description": "Cecilia, una mujer de fe devota, recibe una calurosa bienvenida en la perfecta campiña italiana, do...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/dQFQlVF7AXF1I83GAGcbmkCJwICIJxhM.webp"
+                            },
+                            {
+                                "url": "/pelicula/back-to-black/",
+                                "title": "Back to Black",
+                                "description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que c...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/sZ5gEI39sqhRviBBVXUfp7cpyDX.webp"
+                            },
+                            {
+                                "url": "/pelicula/12-hours/",
+                                "title": "12 Hours",
+                                "description": "Sigue un juego de supervivencia en un mundo virtual similar a Matrix contra varios desafíos, inclui...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/FJ4SXyz4yYlZnkNun5qkSHInZ5o6aeQGOKoC9.webp"
+                            },
+                            {
+                                "url": "/pelicula/los-que-se-quedan/",
+                                "title": "Los que se quedan",
+                                "description": "A nadie le gusta el profesor Paul Hunham (Giamatti), ni a sus alumnos, ni a sus compañeros, ni al d...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/zPI4dRlGIG1siVbHu5SimsWjagir7J7woGqr.webp"
+                            },
+                            {
                                 "url": "/pelicula/fitting-in/",
                                 "title": "Fitting In",
                                 "description": "",
@@ -175,12 +199,6 @@
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ngPTpCil3qK7VB0O7d4k3CM8hKpNrBGEIloXNx9HNJ.webp"
                             },
                             {
-                                "url": "/pelicula/back-to-black/",
-                                "title": "Back to Black",
-                                "description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que c...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/sZ5gEI39sqhRviBBVXUfp7cpyDX.webp"
-                            },
-                            {
                                 "url": "/pelicula/all-to-play-for/",
                                 "title": "All to Play For",
                                 "description": "Sylvie y sus hijos se adoran, pero cuando un hijo se lesiona después de que ella los deja solos en ...",
@@ -227,24 +245,6 @@
                                 "title": "El viaje",
                                 "description": "Una enfermedad terminal. Un futuro solitario. Una carrera en la cuerda floja. Tres amigos de la infa...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/NOg2k1eUZB7c9El7sVrWw6XZqZS7.webp"
-                            },
-                            {
-                                "url": "/pelicula/robo/",
-                                "title": "Robo",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w1"
-                            },
-                            {
-                                "url": "/pelicula/pared-con-pared/",
-                                "title": "Pared con pared",
-                                "description": "Ella (Aitana) es una joven pianista que se prepara para una audición. Él (Fernando Guallar), un in...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/60rXiR3GhR42wpvdq4PGLaOlFAsK0tEXjWKrDEYLlT.webp"
-                            },
-                            {
-                                "url": "/pelicula/ferrari-zmuo/",
-                                "title": "Ferrari",
-                                "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empres...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/D0HxxuMylRgLnVBQ.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/fitting-in/",
-                    "title": "Fitting In",
-                    "description": "",
-                    "genre": "Uncategorized",
+                    "url": "/pelicula/immaculate/",
+                    "title": "Immaculate",
+                    "description": "Cecilia, una mujer de fe devota, recibe una calurosa bienvenida en la perfecta campiña italiana, donde se le ofrece un nuevo papel en un ilustre convento. Pero se vuelve más claro para Cecilia que su nuevo hogar alberga oscuros y horribles secretos.",
+                    "genre": "Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/fitting-in/",
+                        "url": "/pelicula/immaculate/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar aVYsKhJH = \"\"; aMFeenzmEN.forEach(function Oym(value) { aVYsKhJH += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar muPqBfNvfG = \"\"; VieUDhpyo.forEach(function Oym(value) { muPqBfNvfG += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

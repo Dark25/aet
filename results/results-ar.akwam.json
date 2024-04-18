@@ -3,23 +3,30 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
-                "passed": false
+                "result": {
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

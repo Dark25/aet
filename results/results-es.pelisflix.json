@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/monkey-man-el-despertar-de-la-bestia/",
+                                "title": "Monkey Man: El despertar de la bestia",
+                                "description": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adap...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/GX4NFi4edTgptbKBg9fmWb4CJYjZFDzcr.webp"
+                            },
+                            {
                                 "url": "/pelicula/pool-boy-nightmare/",
                                 "title": "Pool Boy Nightmare",
                                 "description": "La historia sigue a Gale mientras tiene un breve romance con el limpiador de piscinas Adam, pero rá...",
@@ -239,12 +245,6 @@
                                 "title": "My Secret Valentine",
                                 "description": "Una joven que dirige la empresa familiar, alquila su casa de campo en una web. Lo que no sospecha es...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/iLiycQgAUrjIZofyafcs.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-pajaro-loco-lio-en-el-campamento/",
-                                "title": "El Pájaro Loco ¡Lío en el campamento!",
-                                "description": "Tras su expulsión del bosque, Woody cree haber encontrado un nuevo hogar en el Campamento Woo Hoo, ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/CiNnNq1ubuPy196t5AG8x6gDmjG8FHR7QuluK.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/pool-boy-nightmare/",
-                    "title": "Pool Boy Nightmare",
-                    "description": "La historia sigue a Gale mientras tiene un breve romance con el limpiador de piscinas Adam, pero rápidamente rechaza sus continuos avances. Insultado por ser rechazado, Adam comienza a salir con la hija de Gale en edad de secundaria, Becca, usándola como un peón desprevenido en un retorcido juego de venganza.",
-                    "genre": "Suspense",
+                    "url": "/pelicula/monkey-man-el-despertar-de-la-bestia/",
+                    "title": "Monkey Man: El despertar de la bestia",
+                    "description": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.",
+                    "genre": "Acción, Estrenos, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/pool-boy-nightmare/",
+                        "url": "/pelicula/monkey-man-el-despertar-de-la-bestia/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar gQJRthr = \"\"; sirthnp.forEach(function Oym(value) { gQJRthr += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar IXZQwrfFO = \"\"; CBXpboHfK.forEach(function Oym(value) { IXZQwrfFO += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
@@ -544,7 +544,7 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             },
             "search": {

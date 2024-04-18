@@ -304,6 +304,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-batalla-de-los-super-simios",
+                                "title": "La Batalla de los Super Simios (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dJaIw8OgACelojyV6YuVsOhtTLO.jpg"
+                            },
+                            {
+                                "url": "/pelicula/1618",
+                                "title": "1618 (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/e7i1lcSZdmFOQZukHgcc6nSMX7M.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-haunting-in-ravenwood",
+                                "title": "A Haunting in Ravenwood (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/irRETI08jnisCRTVEbSDRnmRLXO.jpg"
+                            },
+                            {
+                                "url": "/pelicula/reunion",
+                                "title": "Reunión (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qcKGtvP2TPZB6OGlHgkhQ1rvuBB.jpg"
+                            },
+                            {
                                 "url": "/pelicula/el-viaje",
                                 "title": "El Viaje (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/yA4UTLrCEQ68WIc78KYcgWnb1cF.jpg"
@@ -402,26 +422,6 @@
                                 "url": "/pelicula/jaque-mate",
                                 "title": "Jaque Mate (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg"
-                            },
-                            {
-                                "url": "/pelicula/snoopy-presenta-bienvenido-a-la-pandilla-franklin",
-                                "title": "Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg"
-                            },
-                            {
-                                "url": "/pelicula/de-las-cenizas",
-                                "title": "De las cenizas (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jpa9FO979rt16205hnup44sMK38.jpg"
-                            },
-                            {
-                                "url": "/pelicula/monsters-el-infierno-del-dragon",
-                                "title": "Monsters: El infierno del dragón (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6Isg2ASUQXzFwLBTFnItfkOlqo9.jpg"
-                            },
-                            {
-                                "url": "/pelicula/criptoestafas",
-                                "title": "Criptoestafas (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -433,6 +433,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/capitanes-del-mundo",
+                                "title": "Capitanes del mundo (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mmmmPbXvCo5xXpRyOicvkpFYwqx.jpg"
+                            },
                             {
                                 "url": "/anime/arifureta-shokugyou-de-sekai-saikyou",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou (2019)",
@@ -547,11 +552,6 @@
                                 "url": "/serie/the-walking-dead-world-beyond",
                                 "title": "The Walking Dead: World Beyond (2020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
-                            },
-                            {
-                                "url": "/serie/jurassic-world-campamento-cretacico",
-                                "title": "Jurassic World: Campamento Cretácico (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -561,10 +561,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-viaje",
-                    "title": "El viaje (2021)",
-                    "description": "A Lars (Aksel Hennie) y Lisa (Noomi Rapace) se les acabó el amor que los unió en un principio. Ahora, luchan por mantener su matrimonio y sus ambiciones. La carrera de Lars como director se ha estancado en las telenovelas y Lisa no ha conseguido ningún papel desde hace años. Lars se siente ignorado, sospecha que lo están engañando y está pasando por dificultades económicas. Lisa cree que Lars es un cobarde egocéntrico que se ha echado a perder. Nada en sus vidas ha acabado como pensaban; mucho menos su matrimonio. Es por eso por lo que un viaje de fin de semana a una cabaña familiar en el bosque parece brindarles una oportunidad para deshacerse del otro. Para siempre.",
-                    "genre": "Comedia, Terror",
+                    "url": "/pelicula/la-batalla-de-los-super-simios",
+                    "title": "La Batalla de los Super Simios (2023)",
+                    "description": "",
+                    "genre": "Acción, Ciencia ficción",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -574,7 +574,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-viaje",
+                        "url": "/pelicula/la-batalla-de-los-super-simios",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -582,8 +582,43 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03600/,ziib7g70n92k_n,ziib7g70n92k_h,lang/spa/ziib7g70n92k_spa,.urlset/index-f2-v1-a1.m3u8?t=XELW8vYqLY65wRk82SDd9_m4SEDPsBETcxWw9SNHEIs&s=1713421095&e=129600&f=18002474&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03600/,ziib7g70n92k_n,ziib7g70n92k_h,lang/spa/ziib7g70n92k_spa,.urlset/index-f2-v1-a1.m3u8?t=XELW8vYqLY65wRk82SDd9_m4SEDPsBETcxWw9SNHEIs&s=1713421095&e=129600&f=18002474&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ziib7g70n92k"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03600/,ziib7g70n92k_n,ziib7g70n92k_h,lang/spa/ziib7g70n92k_spa,.urlset/index-f3.m3u8?t=XELW8vYqLY65wRk82SDd9_m4SEDPsBETcxWw9SNHEIs&s=1713421095&e=129600&f=18002474&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                                "lang": "Español"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03600/,ziib7g70n92k_n,ziib7g70n92k_h,lang/spa/ziib7g70n92k_spa,.urlset/index-f1-v1-a1.m3u8?t=XELW8vYqLY65wRk82SDd9_m4SEDPsBETcxWw9SNHEIs&s=1713421095&e=129600&f=18002474&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03600/,ziib7g70n92k_n,ziib7g70n92k_h,lang/spa/ziib7g70n92k_spa,.urlset/index-f1-v1-a1.m3u8?t=XELW8vYqLY65wRk82SDd9_m4SEDPsBETcxWw9SNHEIs&s=1713421095&e=129600&f=18002474&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ziib7g70n92k"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03600/,ziib7g70n92k_n,ziib7g70n92k_h,lang/spa/ziib7g70n92k_spa,.urlset/index-f3.m3u8?t=XELW8vYqLY65wRk82SDd9_m4SEDPsBETcxWw9SNHEIs&s=1713421095&e=129600&f=18002474&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                                "lang": "Español"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -886,9 +921,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Pu3fhascYz9A0kX2fFNgwbQtidC7lpFI2R7Ipe8ISqo&s=1713401707&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f2-v1-a1.m3u8?t=oBDd4P6nHo80W5joFanfhwlaj52q2FtIEvkBNkCH1_0&s=1713421098&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Pu3fhascYz9A0kX2fFNgwbQtidC7lpFI2R7Ipe8ISqo&s=1713401707&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f2-v1-a1.m3u8?t=oBDd4P6nHo80W5joFanfhwlaj52q2FtIEvkBNkCH1_0&s=1713421098&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -897,9 +932,9 @@
                         }
                     },
                     {
-                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Pu3fhascYz9A0kX2fFNgwbQtidC7lpFI2R7Ipe8ISqo&s=1713401707&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f1-v1-a1.m3u8?t=oBDd4P6nHo80W5joFanfhwlaj52q2FtIEvkBNkCH1_0&s=1713421098&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Pu3fhascYz9A0kX2fFNgwbQtidC7lpFI2R7Ipe8ISqo&s=1713401707&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03596/ft3begsmqhba_,n,h,.urlset/index-f1-v1-a1.m3u8?t=oBDd4P6nHo80W5joFanfhwlaj52q2FtIEvkBNkCH1_0&s=1713421098&e=129600&f=17984614&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

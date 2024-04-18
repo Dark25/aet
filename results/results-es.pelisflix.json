@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/pool-boy-nightmare/",
+                                "title": "Pool Boy Nightmare",
+                                "description": "La historia sigue a Gale mientras tiene un breve romance con el limpiador de piscinas Adam, pero rá...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/r3lU50KAKpLtDK2NkOCdT0nLXClRS.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-killer-in-the-guest-house/",
+                                "title": "The Killer in the Guest House",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Wyyhbppf7tJ9V1ti4c1d.webp"
+                            },
+                            {
+                                "url": "/pelicula/cancion-de-cuna-para-una-madre/",
+                                "title": "Canción de cuna para una madre",
+                                "description": "Cuando el bebé recién nacido de Olivia y Harry Davis no sobrevive al nacimiento, la tragedia sume ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/AyiN3KCCaAPxUbmsxAjF3G19SEUfZRYpf628H.webp"
+                            },
+                            {
+                                "url": "/pelicula/our-son/",
+                                "title": "Our Son",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/qryyPF2ytWIRH22SpNuw4L6Z2ZyjuBVLTk.webp"
+                            },
+                            {
                                 "url": "/pelicula/immaculate/",
                                 "title": "Immaculate",
                                 "description": "Cecilia, una mujer de fe devota, recibe una calurosa bienvenida en la perfecta campiña italiana, do...",
@@ -221,30 +245,6 @@
                                 "title": "El Pájaro Loco ¡Lío en el campamento!",
                                 "description": "Tras su expulsión del bosque, Woody cree haber encontrado un nuevo hogar en el Campamento Woo Hoo, ...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/CiNnNq1ubuPy196t5AG8x6gDmjG8FHR7QuluK.webp"
-                            },
-                            {
-                                "url": "/pelicula/amar-singh-chamkila/",
-                                "title": "Amar Singh Chamkila",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w1"
-                            },
-                            {
-                                "url": "/pelicula/el-roomie/",
-                                "title": "El Roomie",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/JrDOM4I7ADHmvtYhFotnnXELsNGvAaiarLO3Gm1.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-night-the-world-ends/",
-                                "title": "The Night The World Ends",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/G5oaIgSZb0TujHValio6sIVZ9dapr7lY2AZBGIrIyb2H.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-viaje-2/",
-                                "title": "El viaje",
-                                "description": "Una enfermedad terminal. Un futuro solitario. Una carrera en la cuerda floja. Tres amigos de la infa...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/NOg2k1eUZB7c9El7sVrWw6XZqZS7.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/immaculate/",
-                    "title": "Immaculate",
-                    "description": "Cecilia, una mujer de fe devota, recibe una calurosa bienvenida en la perfecta campiña italiana, donde se le ofrece un nuevo papel en un ilustre convento. Pero se vuelve más claro para Cecilia que su nuevo hogar alberga oscuros y horribles secretos.",
-                    "genre": "Suspense, Terror",
+                    "url": "/pelicula/pool-boy-nightmare/",
+                    "title": "Pool Boy Nightmare",
+                    "description": "La historia sigue a Gale mientras tiene un breve romance con el limpiador de piscinas Adam, pero rápidamente rechaza sus continuos avances. Insultado por ser rechazado, Adam comienza a salir con la hija de Gale en edad de secundaria, Becca, usándola como un peón desprevenido en un retorcido juego de venganza.",
+                    "genre": "Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/immaculate/",
+                        "url": "/pelicula/pool-boy-nightmare/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar zfNLOfvmPb = \"\"; Fvnjeyx.forEach(function Oym(value) { zfNLOfvmPb += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar orokCtYoj = \"\"; qJdEHXfzm.forEach(function Oym(value) { orokCtYoj += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8192-civil-war",
+                                "title": "Civil War",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/060b1cf7-8b01-473d-afad-5fe93325caa3.webp"
+                            },
+                            {
                                 "url": "8210-vicini-davvero",
                                 "title": "Vicini davvero",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8c8784f3-8c6b-438d-9241-f66dda84864a.webp"
@@ -300,11 +305,6 @@
                                 "url": "7895-code-8-part-ii",
                                 "title": "Code 8 Part II",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7688960d-2552-4bee-b1af-4c9e4a8b1f3d.webp"
-                            },
-                            {
-                                "url": "7874-shogun",
-                                "title": "Shōgun",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/fe17eba7-2f81-4745-82ac-ef23ada7d083.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -522,9 +522,19 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b8310cfb-75b6-4094-bf42-2b76a1cd192d.webp"
                             },
                             {
+                                "url": "8172-ripley",
+                                "title": "RIPLEY",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/81f16bf1-1d76-4c7a-b7a5-32262c93cb55.webp"
+                            },
+                            {
                                 "url": "8171-dirk-gently-agenzia-di-investigazione-olistica",
                                 "title": "Dirk Gently, agenzia di investigazione olistica",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/f8ca58e8-989e-4af8-a843-16c1447a695d.webp"
+                            },
+                            {
+                                "url": "8169-crooks",
+                                "title": "Crooks",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/552384b8-9a55-47b4-9767-08c57d8e7d35.webp"
                             },
                             {
                                 "url": "8168-la-casa-nella-prateria",
@@ -540,6 +550,16 @@
                                 "url": "8166-angel",
                                 "title": "Angel",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/333b626d-6e0c-42f2-b136-62108181d449.webp"
+                            },
+                            {
+                                "url": "8165-sugar",
+                                "title": "Sugar",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/16bc6e51-0a48-4137-8cb9-f1b167741b23.webp"
+                            },
+                            {
+                                "url": "8164-come-far-innamorare-billy-walsh",
+                                "title": "Come far innamorare Billy Walsh",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/f677269f-b23b-499b-b2ed-38a186ceefdf.webp"
                             },
                             {
                                 "url": "8162-asterix-e-cleopatra",
@@ -560,6 +580,11 @@
                                 "url": "8159-together-alla-conquista-del-triplete",
                                 "title": "Together: alla conquista del Triplete",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/af1b310d-0dc2-47d3-839f-bdc2981c25d8.webp"
+                            },
+                            {
+                                "url": "8158-fabbricante-di-lacrime",
+                                "title": "Fabbricante di lacrime",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e677927b-8335-4501-8fd2-8a38d153c2a5.webp"
                             },
                             {
                                 "url": "8157-vanderpump-villa",
@@ -590,31 +615,6 @@
                                 "url": "8151-the-great-north",
                                 "title": "The Great North",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/6308ede9-9528-49b2-9d23-e2b70a389cff.webp"
-                            },
-                            {
-                                "url": "8150-this-must-be-the-place",
-                                "title": "This Must Be the Place",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/52ed99fd-f464-4e1e-a248-e024334e5f52.webp"
-                            },
-                            {
-                                "url": "8149-ci-hai-rotto-papa",
-                                "title": "Ci hai rotto papà",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/629aac08-8280-4917-8a5b-d2ac8d301d08.webp"
-                            },
-                            {
-                                "url": "8148-uno-di-troppo",
-                                "title": "Uno di troppo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d5c5b4d5-1f5a-4521-b36f-9125ca832258.webp"
-                            },
-                            {
-                                "url": "8147-mangiaracina-investigazioni",
-                                "title": "Mangiaracina Investigazioni",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/499bb8fb-e599-4cc8-98c8-697dd65cd5bd.webp"
-                            },
-                            {
-                                "url": "8145-il-ladro-di-orchidee",
-                                "title": "Il ladro di orchidee",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8d43eaad-7e3b-4aea-a1ad-fe8d0a2f3868.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "8210-vicini-davvero",
-                    "description": "Valentina è una giovane pianista che sta cambiando vita, il suo vicino David è un inventore che odia il rumore e una parete sottile come la carta è destinata a fare da cupido.",
-                    "genre": "Commedia, Romance",
+                    "url": "8192-civil-war",
+                    "description": "In un'America sull'orlo del collasso, attraverso terre desolate e città distrutte dall’esplosione di una guerra civile, un gruppo di reporter intraprende un viaggio in condizioni estreme, mettendo a rischio le proprie vite per raccontare la verità.",
+                    "genre": "Dramma, Azione, Fantascienza",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8210",
+                        "url": "8192",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,66 +954,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/221364.m3u8?type=video&rendition=720p&token=dnIjtlvvDqeTBh91liqHuQ&expires=1718562108&n=1",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/221364.m3u8?type=video&rendition=720p&token=dnIjtlvvDqeTBh91liqHuQ&expires=1718562108&n=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=5-forced-ita&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=6-ita&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=7-eng&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/221364.m3u8?type=video&rendition=1080p&token=naY4Tj_looHT9fE_y6pUSw&expires=1718562108&n=1",
-                        "quality": "1080p",
-                        "videoUrl": "https://vixcloud.co/playlist/221364.m3u8?type=video&rendition=1080p&token=naY4Tj_looHT9fE_y6pUSw&expires=1718562108&n=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=5-forced-ita&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=6-ita&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=7-eng&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/221364.m3u8?type=video&rendition=480p&token=ry5OP4GoN63ilIDvX_Movg&expires=1718562108&n=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/221364.m3u8?type=video&rendition=480p&token=ry5OP4GoN63ilIDvX_Movg&expires=1718562108&n=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=5-forced-ita&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=6-ita&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/221364?type=subtitle&rendition=7-eng&token=PNTe3ieof3oJmZH79NZD2A&expires=1718562108",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

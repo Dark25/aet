@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wind-breaker",
+                                "title": "Wind Breaker",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933587.jpg"
+                            },
+                            {
+                                "url": "/anime/a-condition-called-love",
+                                "title": "A Condition Called Love",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933586.jpg"
+                            },
+                            {
+                                "url": "/anime/an-archdemons-dilemma-how-to-love-your-elf-bride",
+                                "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933585.jpg"
+                            },
+                            {
                                 "url": "/anime/the-most-heretical-last-boss-queen-from-villainess-to-savior",
                                 "title": "The Most Heretical Last Boss Queen: From Villainess to Savior",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933584.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/kaijuu-8-gou",
                                 "title": "Kaijuu 8-gou",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933571.jpg"
-                            },
-                            {
-                                "url": "/anime/good-times",
-                                "title": "Good Times",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933570.jpg"
-                            },
-                            {
-                                "url": "/anime/the-idolmaster-shiny-colors-english-subbed",
-                                "title": "The Idolmaster: Shiny Colors English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933569.jpg"
-                            },
-                            {
-                                "url": "/anime/kaii-to-otome-to-kamikakushi",
-                                "title": "Kaii to Otome to Kamikakushi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933568.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-most-heretical-last-boss-queen-from-villainess-to-savior",
-                    "title": "The Most Heretical Last Boss Queen: From Villainess to Savior",
-                    "description": "Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light. While on her way to replay it, she tragically died, reincarnating as the game’s final boss and firstborn princess of Freesia. Her knowledge of the game’s events leads everyone to believe she has the power of precognition. But unlike the game’s original princess, this new Pride does not wish to torment those around her, such as her younger sister and adopted brother.",
-                    "genre": "Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933584.jpg",
+                    "url": "/anime/wind-breaker",
+                    "title": "Wind Breaker",
+                    "description": "Haruka Sakura wants nothing to do with weaklings—he’s only interested in the strongest of the strong. He’s just started at Furin High School, a school of degenerates known only for their brawling strength—strength they use to protect their town from anyone who wishes it ill. But Haruka’s not interested in being a hero or being part of any sort of team—he just wants to fight his way to the top!",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933587.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-most-heretical-last-boss-queen-from-villainess-to-savior-episode-2-english-dubbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
-                    },
-                    {
-                        "url": "/the-most-heretical-last-boss-queen-from-villainess-to-savior-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgsWziHXswZjxLNhWFvYrOth4F1u6CrwmUp2h-JFs31aQEx-6zy5UJrDKOI_08rgIo9yHcu2V3A3tDWyJOUXeGEKy-8rjgj2sHq1FaJqZyeuyVurOqVDP2PWUFHxtnAE4ze_d0yNZf8EIji6d7PcnZADHBaICqhCUMioRpq7rW_cF1aQxecnjGi1ZE9fcXJACC0VvlKONunC0pkkf6FhV5rbr3r0WvUgYTgU7oF5rETpme5uKMZY9H6zLij_4CfhbELzHtXYV58_9Do7m0s78dRvvm2Re8EjPdFNYqhWP5E3yabsz9NUOS-Sq0Re-cVKC1FQFVeWnl4lzQyG-X5Os9y3gUDPnZ4SgzV7rkpTDEIE7uqNQj_vi8P8a2JUs0C4va8BiofOH5SLWylpR4qtvE6Zp54-3cozilql3p5f4On1n41rU8WHotf343ov_dAaQgLA2fKukcQQ8C-UI4Hv3axxzzT29scwC0O3xhxl5yGm7Z0rNRRiJrMU1_IBfPYGkQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgsWziHXswZjxLNhWFvYrOth4F1u6CrwmUp2h-JFs31aQEx-6zy5UJrDKOI_08rgIo9yHcu2V3A3tDWyJOUXeGEKy-8rjgj2sHq1FaJqZyeuyVurOqVDP2PWUFHxtnAE4ze_d0yNZf8EIji6d7PcnZADHBaICqhCUMioRpq7rW_cF1aQxecnjGi1ZE9fcXJACC0VvlKONunC0pkkf6FhV5rbr3r0WvUgYTgU7oF5rETpme5uKMZY9H6zLij_4CfhbELzHtXYV58_9Do7m0s78dRvvm2Re8EjPdFNYqhWP5E3yabsz9NUOS-Sq0Re-cVKC1FQFVeWnl4lzQyG-X5Os9y3gUDPnZ4SgzV7rkpTDEIE7uqNQj_vi8P8a2JUs0C4va8BiofOH5SLWylpR4qtvE6Zp54-3cozilql3p5f4On1n41rU8WHotf343ov_dAaQgLA2fKukcQQ8C-UI4Hv3axxzzT29scwC0O3xhxl5yGm7Z0rNRRiJrMU1_IBfPYGkQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgsWziHXswZjxLNhWFvYrOth4F1u6CrwmUp2h-JFs31aQEx-6zy5UJrDKOI_08rgIo9yHcu2V3A3tDWyJOUXeGEKy-8rjgj2sHq1FaJqZyeuyVurOqVDP2PWUFHxtnAE4ze_d0yNZf8EIji6d7PcnZADHBaICqhCUMioRpq7rW_cF1aQxecnjGi1ZE9fcXJACC0VvlKONunC0pkkf6FhV5rLZpKoSwPPvsbirjwIhHRqxFEW3MEOCPPNi7jAH-QbrTJfIs3xI-3NC38rm4_PS-xNFdCAUfyThZ3koL6Zce4anldFHGM1lLcv7nb28OXWINPRJT4qeTBq7qAzwTjIhsNs2vxd1d1qL5ReW-VoSOr9zFxrN5AYFsbn2JbC8j3JLbGJrSzvvR8p85cVTjdPentQhsxCkVOtD2Kffn1-urXcigrIH4mdp2h5wEW15hjQvrnbWNFezF73JVscMPmjI65RzczluXmBzG973zKIxL869yhUN9SVuHkzh7LXOft2MA",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgsWziHXswZjxLNhWFvYrOth4F1u6CrwmUp2h-JFs31aQEx-6zy5UJrDKOI_08rgIo9yHcu2V3A3tDWyJOUXeGEKy-8rjgj2sHq1FaJqZyeuyVurOqVDP2PWUFHxtnAE4ze_d0yNZf8EIji6d7PcnZADHBaICqhCUMioRpq7rW_cF1aQxecnjGi1ZE9fcXJACC0VvlKONunC0pkkf6FhV5rLZpKoSwPPvsbirjwIhHRqxFEW3MEOCPPNi7jAH-QbrTJfIs3xI-3NC38rm4_PS-xNFdCAUfyThZ3koL6Zce4anldFHGM1lLcv7nb28OXWINPRJT4qeTBq7qAzwTjIhsNs2vxd1d1qL5ReW-VoSOr9zFxrN5AYFsbn2JbC8j3JLbGJrSzvvR8p85cVTjdPentQhsxCkVOtD2Kffn1-urXcigrIH4mdp2h5wEW15hjQvrnbWNFezF73JVscMPmjI65RzczluXmBzG973zKIxL869yhUN9SVuHkzh7LXOft2MA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgsWziHXswZjxLNhWFvYrOth4F1u6CrwmUp2h-JFs31aQEx-6zy5UJrDKOI_08rgIo9yHcu2V3A3tDWyJOUXeGEKy-8rjgj2sHq1FaJqZyeuyVurOqVDP2PWUFHxtnAE4ze_d0yNZf8EIji6d7PcnZADHBaICqhCUMioRpq7rW_cF1aQxecnjGi1ZE9fcXJACC0VvlKONunC0pkkf6FhV5oybFRVnjIoLC6MGQdapPhRkI3G3xNQj7a9VSYv8YBI44QZK5uSCzmprJp6uxQR-dB3GCCM-YheSjlcxZ5ZMYlEo18RxPtLyrT0KtKyOUCziYjDoCrRqNJpRA0sMrSVxbk2tXAlJIJpQTqw0uXrPo-p7xKriXHK4K8pohMe71AByQ-0wPp3lSt4_dbXsw-20voDKsPddNyrUdxBxh8wwvbcSjPw9CBBsBkEk1g5GPwiSI57tFMeT6O6zZ9esZrhzPwDGjHFuY_1uvzLT3Rg4Ggi",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgsWziHXswZjxLNhWFvYrOth4F1u6CrwmUp2h-JFs31aQEx-6zy5UJrDKOI_08rgIo9yHcu2V3A3tDWyJOUXeGEKy-8rjgj2sHq1FaJqZyeuyVurOqVDP2PWUFHxtnAE4ze_d0yNZf8EIji6d7PcnZADHBaICqhCUMioRpq7rW_cF1aQxecnjGi1ZE9fcXJACC0VvlKONunC0pkkf6FhV5oybFRVnjIoLC6MGQdapPhRkI3G3xNQj7a9VSYv8YBI44QZK5uSCzmprJp6uxQR-dB3GCCM-YheSjlcxZ5ZMYlEo18RxPtLyrT0KtKyOUCziYjDoCrRqNJpRA0sMrSVxbk2tXAlJIJpQTqw0uXrPo-p7xKriXHK4K8pohMe71AByQ-0wPp3lSt4_dbXsw-20voDKsPddNyrUdxBxh8wwvbcSjPw9CBBsBkEk1g5GPwiSI57tFMeT6O6zZ9esZrhzPwDGjHFuY_1uvzLT3Rg4Ggi"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

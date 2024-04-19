@@ -53,11 +53,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NumberFormatException: empty String",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/las-dos-cara-de-ana-capitulo-1/",
+                        "name": "Capítulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

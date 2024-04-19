@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/matchstick-men/",
+                                "title": "Üçkağıtçılar",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/matchstick-men_list.jpg"
+                            },
+                            {
                                 "url": "/hope-of-escape/",
                                 "title": "Hope of Escape",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/hope-of-escape_list.jpg"
@@ -140,11 +145,6 @@
                                 "url": "/the-young-observant-2/",
                                 "title": "Garson Adayı",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-young-observant_list.jpg"
-                            },
-                            {
-                                "url": "/dizi/jimmy-savile-a-british-horror-story-3/",
-                                "title": "Jimmy Savile: A British Horror Story",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/jimmy-savile-a-british-horror-story_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -157,7 +157,7 @@
                     {
                         "animes": [
                             {
-                                "url": "/the-hunger-games-the-ballad-of-songbirds-snakes-10/",
+                                "url": "/the-hunger-games-the-ballad-of-songbirds-snakes-11/",
                                 "title": "Açlık Oyunları Kuşların ve Yılanların Şarkısı",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-hunger-games-the-ballad-of-songbirds-snakes_list.jpg"
                             },
@@ -414,14 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/hope-of-escape/",
-                    "title": "Hope of Escape",
-                    "artist": "Hope Blackstock, April Marcell, Jason Alan Cook",
-                    "description": "Bir anne ve kızı, sonsuza dek satılıp ayrılacaklarını öğrendikten sonra kölelikten kaçışlarını planlamak zorundadır.",
-                    "genre": "Biyografi, Dram, Tarih",
+                    "url": "/matchstick-men/",
+                    "title": "Üçkağıtçılar",
+                    "artist": "Nicolas Cage, Sam Rockwell, Alison Lohman, Bruce Altman, Bruce McGill, Jenny O'Hara, Steve Eastin, Beth Grant, Sheila Kelley, Fran Kranz",
+                    "description": "Dolandırıcı Roy (Nicolas Cage) ve ortağı Frank (Sam Rockwell), son dönemde kendilerini promosyonlu su filtre sistemlerini satma işine vermiştir. Araba, mücevher ve tatil gibi vaatlerle satışlarda patlama yaparlar ama bu hediyeler hiçbir zaman verilmeyecektir. Başta küçük gibi görünen bu iş; zamanla büyük gelir getiren bir işe dönüşür. Ancak Roy, özel hayatında pek parlak bir dönem geçirmemektedir. Yaşadığından haberdar bile olmadığı 14 yaşındaki kızı (Alison Lohman), bir gün babasının karşısına çıkar.",
+                    "genre": "Komedi, Suç, Dram",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/hope-of-escape.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/matchstick-men.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -429,7 +429,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/hope-of-escape/",
+                        "url": "/matchstick-men/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -437,8 +437,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://box-ln-003x.vmeas.cloud/hls/xqx2ou42mnokjiqbte5clocm45nwaavba77ro3be5qxg6s3nbtaut3gz7mjq/index-v1.m3u8",
+                        "quality": "Vidmoly - 800p",
+                        "videoUrl": "https://box-ln-003x.vmeas.cloud/hls/xqx2ou42mnokjiqbte5clocm45nwaavba77ro3be5qxg6s3nbtaut3gz7mjq/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-q865a4xf14mj.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

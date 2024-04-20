@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/shinobi-no-ie-house-of-ninjas-sub-espanol",
+                                "title": "Shinobi no Ie: House of Ninjas",
+                                "description": "Shinobi no Ie: House of Ninjas",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/shinobi-no-ie-house-of-ninjas-1713577741.jpg"
+                            },
+                            {
                                 "url": "/dorama/la-ultima-familia-ninja-latino-sub-espanol",
                                 "title": "La última familia ninja Latino",
                                 "description": "La última familia ninja Latino",
@@ -179,12 +185,6 @@
                                 "title": "Moon In The Day",
                                 "description": "Moon In The Day",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/moon-in-the-day-1706900555.jpg"
-                            },
-                            {
-                                "url": "/dorama/a-good-day-to-be-a-dog-sub-espanol",
-                                "title": "A Good Day to Be a Dog",
-                                "description": "A Good Day to Be a Dog",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/a-good-day-to-be-a-dog-1706742818.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,8 +280,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/la-ultima-familia-ninja-latino-sub-espanol",
-                    "title": "La última familia ninja Latino (0)",
+                    "url": "/dorama/shinobi-no-ie-house-of-ninjas-sub-espanol",
+                    "title": "Shinobi no Ie: House of Ninjas (0)",
                     "description": "Años después de abandonar sus formidables vidas como ninjas, una familia desestructurada retoma sus misteriosas misiones para plantarle cara a una amenaza inquietante. ",
                     "genre": "Acción, Drama, J-Drama",
                     "status": 2,
@@ -291,72 +291,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/la-ultima-familia-ninja-latino-episodio-8",
-                        "name": "Episodio 8.0",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver/la-ultima-familia-ninja-latino-episodio-7",
-                        "name": "Episodio 7.0",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiAGKAUwAzgCeMIIts29S7YVUXg/fn/track.m3u8",
-                        "quality": "Okru:960p",
-                        "videoUrl": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiAGKAUwAzgCeMIIts29S7YVUXg/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiAFKAQwAzgCeMIIqgEICgYIgAoQgAWyAQQIxNgC0gEGCAMQAigX2gECCBjMrDenTGbliw/fn/track.m3u8",
-                        "quality": "Okru:640p",
-                        "videoUrl": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiAFKAQwAzgCeMIIqgEICgYIgAoQgAWyAQQIxNgC0gEGCAMQAigX2gECCBjMrDenTGbliw/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiAEKAMwAzgCeMIIqgEICgYI2AYQqAOyAQQIxNgC0gEGCAEQAigX2gECCBBDqLdRmh-nrg/fn/track.m3u8",
-                        "quality": "Okru:424p",
-                        "videoUrl": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiAEKAMwAzgCeMIIqgEICgYI2AYQqAOyAQQIxNgC0gEGCAEQAigX2gECCBBDqLdRmh-nrg/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiADKAIwAzgCeMIIqgEICgYIgAUQwAKyAQQIxNgC0gEEEAIoF9oBAggQMhdtdMVF96g/fn/track.m3u8",
-                        "quality": "Okru:320p",
-                        "videoUrl": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiADKAIwAzgCeMIIqgEICgYIgAUQwAKyAQQIxNgC0gEEEAIoF9oBAggQMhdtdMVF96g/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiACKAEwAzgCeMIIqgEICgYIqAMQ2AGyAQQIxNgC0gEEEAIoF9oBAggQFIbj4jORdkY/fn/track.m3u8",
-                        "quality": "Okru:216p",
-                        "videoUrl": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiACKAEwAzgCeMIIqgEICgYIqAMQ2AGyAQQIxNgC0gEEEAIoF9oBAggQFIbj4jORdkY/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiABMAM4AnjCCKoBCAoGCIACEIABsgEECMTYAtIBBBACKBfaAQIICBsxqTBL-lmp/fn/track.m3u8",
-                        "quality": "Okru:128p",
-                        "videoUrl": "https://vd225.mycdn.me/expires/1713661158879/clientType/0/srcIp/20.55.118.211/type/2/mid/6639556626975/id/6127039875615/ms/45.136.22.33/zs/43/srcAg/GECKO/urls/185.226.52.36/oq/0/pr/10/ct/28/sig/BKsopuvxRJw/ondemand/CJ-UpICpsgESFAiflKSAqbIBEJ-UpICpsgEYNyABGhQIn5SkgKmyARCflKSAqbIBGDcgAiABMAM4AnjCCKoBCAoGCIACEIABsgEECMTYAtIBBBACKBfaAQIICBsxqTBL-lmp/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

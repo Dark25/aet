@@ -264,25 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/08484/na459zfjlq8z_,n,.urlset/index-v1-a1.m3u8?t=o2PDrZP6-GgEODA4HHAQtl0wFgRWYccVszTyIbDyKUU&s=1713637314&e=14400&f=42423200&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=20.109&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/08484/na459zfjlq8z_,n,.urlset/index-v1-a1.m3u8?t=o2PDrZP6-GgEODA4HHAQtl0wFgRWYccVszTyIbDyKUU&s=1713637314&e=14400&f=42423200&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=20.109&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/11169/znm3vjngcmru_,n,.urlset/index-v1-a1.m3u8?t=TrWPD22OjbyesX_6gUWa82faQxQvpiCSSJ_KodPfDKQ&s=1713637312&e=14400&f=55849650&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=20.109&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/11169/znm3vjngcmru_,n,.urlset/index-v1-a1.m3u8?t=TrWPD22OjbyesX_6gUWa82faQxQvpiCSSJ_KodPfDKQ&s=1713637312&e=14400&f=55849650&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=20.109&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

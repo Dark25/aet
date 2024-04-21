@@ -7,7 +7,7 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonLiteral is not a JsonObject",
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonArray is not a JsonObject",
                 "passed": false
             },
             "search": {
@@ -23,7 +23,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonLiteral is not a JsonObject",
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonArray is not a JsonObject",
                 "passed": false
             }
         }

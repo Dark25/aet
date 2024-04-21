@@ -227,6 +227,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/captain-tsubasa-2018",
+                                "title": "Super Campeões",
+                                "status": 2,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/3828.webp"
+                            },
+                            {
+                                "url": "/serie/online/ninja-kamui",
+                                "title": "Ninja Kamui",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22630.webp"
+                            },
+                            {
+                                "url": "/serie/online/one-piece",
+                                "title": "One Piece",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19081.webp"
+                            },
+                            {
                                 "url": "/serie/online/fbi",
                                 "title": "FBI",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "Fire Country",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22026.webp"
-                            },
-                            {
-                                "url": "/serie/online/xogum-a-gloriosa-saga-do-japao",
-                                "title": "Xógum: A Gloriosa Saga do Japão",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22643.webp"
-                            },
-                            {
-                                "url": "/serie/online/fbi-international",
-                                "title": "FBI: International",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19510.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-simpatizante",
-                                "title": "O Simpatizante",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22714.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,49 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a-delivery33.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=-JSaTskg1Y2iM0edy0mX1Q&e=1713745206&_t=1713732365",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://a-delivery33.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=-JSaTskg1Y2iM0edy0mX1Q&e=1713745206&_t=1713732365",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=VW10jsjwp0FvymKg2aqtgw&e=1713745207&_t=1713724227",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=VW10jsjwp0FvymKg2aqtgw&e=1713745207&_t=1713724227",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo50.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "quality": "WarezCDN - LEG",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo50.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo53.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "quality": "WarezCDN - DUB",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo53.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

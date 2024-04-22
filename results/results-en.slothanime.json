@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/immortality-season-3-2024",
+                                "title": "IMMORTALITY Season 3 (2024)",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11982.png"
+                            },
+                            {
                                 "url": "/anime/mahou-no-tenshi-creamy-mami-zutto-kitto-motto",
                                 "title": "Mahou no Tenshi Creamy Mami: Zutto Kitto Motto",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11981.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/hashi-no-mukou",
                                 "title": "Hashi no Mukou",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11971.png"
-                            },
-                            {
-                                "url": "/anime/xiong-chumo-xiongxiong-leyuan-2",
-                                "title": "Xiong Chumo: Xiongxiong Leyuan 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11970.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/immortality-season-3-2024",
+                                "title": "IMMORTALITY Season 3 (2024)",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11982.png"
+                            },
                             {
                                 "url": "/anime/losing-money-to-be-a-tycoon",
                                 "title": "Losing Money to Be a Tycoon",
@@ -130,11 +135,6 @@
                                 "url": "/anime/grandpa-and-grandma-turn-young-again",
                                 "title": "Grandpa and Grandma Turn Young Again",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11935.png"
-                            },
-                            {
-                                "url": "/anime/sound-euphonium-season-3",
-                                "title": "Sound! Euphonium Season 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11905.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,29 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mahou-no-tenshi-creamy-mami-zutto-kitto-motto",
-                    "title": "Mahou no Tenshi Creamy Mami: Zutto Kitto Motto",
-                    "author": "Pierrot",
-                    "description": "A music clip made for the LD Mahou no Tenshi Creamy Mami Featherstar Box 1. It features an adult Yuu reminiscing about her past.",
-                    "genre": "Fantasy, Music, Romance, School, Sci-Fi, Mahou Shoujo",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11981.png",
+                    "url": "/anime/immortality-season-3-2024",
+                    "title": "IMMORTALITY Season 3 (2024)",
+                    "author": "",
+                    "genre": "Action, Adventure",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11982.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/mahou-no-tenshi-creamy-mami-zutto-kitto-motto/146134",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146134?vrf=KYqzLprmFpUp7zUSHXWF8w%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=uaPRizMxgLO3WVjwg%2FZH0A%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146134?vrf=KYqzLprmFpUp7zUSHXWF8w%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=uaPRizMxgLO3WVjwg%2FZH0A%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/mahou-no-tenshi-creamy-mami-zutto-kitto-motto/146134"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

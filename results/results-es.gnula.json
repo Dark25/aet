@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/der-pfau",
+                                "title": "Der Pfau",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vFwp58lnB2bqgz4mhaamgroqNnh.jpg"
+                            },
+                            {
+                                "url": "/movies/puppy-love",
+                                "title": "Amor De Cachorros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gQw6UuHnbRTwM1UYINZYDHEqSwZ.jpg"
+                            },
+                            {
+                                "url": "/movies/popular-theory",
+                                "title": "Popular Theory",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gFOSM6eDKC1k0f1ze63ObBt8UAI.jpg"
+                            },
+                            {
+                                "url": "/movies/camino-de-la-suerte",
+                                "title": "Camino de la suerte",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7S1UAhDK81UELm2PwJowtK5ssZb.jpg"
+                            },
+                            {
                                 "url": "/movies/le-temps-dun-ete",
                                 "title": "Le temps d'un été",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/33KGCpaAbqH5SMIV7koQo7Fjt3M.jpg"
@@ -110,26 +130,6 @@
                                 "url": "/movies/eragon",
                                 "title": "Eragon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kr7MbR744tyqIJqbs2FSCfsy9pg.jpg"
-                            },
-                            {
-                                "url": "/movies/la-pandilla-los-pequenos-traviesos",
-                                "title": "La Pandilla: Los Pequeños Traviesos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mKHvAWXSpVZ8io6CMoEGyZe7VNJ.jpg"
-                            },
-                            {
-                                "url": "/movies/el-reto-20857",
-                                "title": "El Reto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lpe5eazfSur86SJQul7eQQmUYJ3.jpg"
-                            },
-                            {
-                                "url": "/movies/sing-ven-y-canta",
-                                "title": "Sing: ¡Ven y canta!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg"
-                            },
-                            {
-                                "url": "/movies/este-cuerpo-no-es-mio",
-                                "title": "Este cuerpo no es mío",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -317,14 +317,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
-                                "url": "/movies/the-world-to-come",
-                                "title": "The World to Come",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -362,14 +362,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpTKga1uC7e4v2GMYHfwxy049xF.jpg"
                             },
                             {
-                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
-                                "title": "Billie Eilish: The world's a little blurry",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
-                            },
-                            {
                                 "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
                                 "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
+                            },
+                            {
+                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
+                                "title": "Billie Eilish: The world's a little blurry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
                             },
                             {
                                 "url": "/series/campfire-cooking-in-another-world-with-my-absurd-skills",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/le-temps-dun-ete",
-                    "title": "Le temps d'un été",
-                    "artist": "Patrice Robitaille",
-                    "description": "For more than 25 years, Marc Côté, street chaplain and parish priest, has lived with the poor and the homeless. Today, Marc is a worn-out man. Exhausted from running his church, which serves as a shelter, and overwhelmed by the bills they can no longer pay, Marc must face the facts: he will have to shut down his church. Like a call from Providence, he inherits a property in the Bas-du-Fleuve region and decides to take a group of homeless people with him, who, like himself, need a vacation.",
-                    "genre": "Drama, Comedia",
+                    "url": "/movies/der-pfau",
+                    "title": "Der Pfau",
+                    "artist": "Lavinia Wilson",
+                    "description": "Cuando la banquera de inversiones Linda Bachmann y su equipo llegan a la finca de Lord y Lady Macintosh, las señales no son buenas para un relajante fin de semana en Escocia: el balance anual es pésimo, los colegas sospechan de sí mismos y de su jefe, y existe el rumor que pronto se reestructurará el equipo. Para colmo, la propiedad no es muy cómoda, las habilidades de la cocinera Helen no pueden ocultarlo, y los métodos de la joven líder del seminario, Rebecca, también parecen bastante cuestionables. Cuando primero el pavo real favorito del Señor y luego el ganso favorito de la Dama desaparecen, más discusiones y caos son inevitables. Y por fin empieza a nevar...",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/33KGCpaAbqH5SMIV7koQo7Fjt3M.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/vFwp58lnB2bqgz4mhaamgroqNnh.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/le-temps-dun-ete",
+                        "url": "/movies/der-pfau",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,31 +429,92 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/05948/0v4bm3u1k11t_h/index-v1-a1.m3u8?t=AgkLJzKRLfQ6RyMOGGLk9M_nFz-Qz4tRtcd43-6z-m0&s=1713723668&e=43200&f=29741352&srv=24&asn=8075&sp=4000",
-                        "quality": "[LAT] Filemoon:720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/05948/0v4bm3u1k11t_h/index-v1-a1.m3u8?t=AgkLJzKRLfQ6RyMOGGLk9M_nFz-Qz4tRtcd43-6z-m0&s=1713723668&e=43200&f=29741352&srv=24&asn=8075&sp=4000",
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05953/yu2zb58dlaxv_n/index-v1-a1.m3u8?t=-r1ReAoI08b23V4qLHN-GsFllIkhGZ4vVoyxwAOkmjY&s=1713747730&e=43200&f=29768019&srv=47&asn=8075&sp=4000",
+                        "quality": "[SUB] Filemoon:1036p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05953/yu2zb58dlaxv_n/index-v1-a1.m3u8?t=-r1ReAoI08b23V4qLHN-GsFllIkhGZ4vVoyxwAOkmjY&s=1713747730&e=43200&f=29768019&srv=47&asn=8075&sp=4000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://filemoon.sx/e/0v4bm3u1k11t",
+                            "Referer": "https://filemoon.sx/e/yu2zb58dlaxv",
                             "Origin": "https://filemoon.sx",
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://y8tlqvihzpbs.sw-cdnstreamwish.com/hls2/01/03622/6nq9l2xjxjcs_n/index-v1-a1.m3u8?t=YH9P-pTqKRE--JR8Cad49TDz7u7MdrCHKIbQ7vYaCVQ&s=1713723662&e=129600&f=18114269&srv=jd1do4chtg&i=0.4&sp=500&p1=jd1do4chtg&p2=jd1do4chtg&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://y8tlqvihzpbs.sw-cdnstreamwish.com/hls2/01/03622/6nq9l2xjxjcs_n/index-v1-a1.m3u8?t=YH9P-pTqKRE--JR8Cad49TDz7u7MdrCHKIbQ7vYaCVQ&s=1713723662&e=129600&f=18114269&srv=jd1do4chtg&i=0.4&sp=500&p1=jd1do4chtg&p2=jd1do4chtg&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/6uhgt1hdrmzq_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=auN3B8cRYPrzHEERA3G0JdNFhPG8dyZnxKpsM59pUgs&s=1713747730&e=129600&f=18144682&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:1036p",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/6uhgt1hdrmzq_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=auN3B8cRYPrzHEERA3G0JdNFhPG8dyZnxKpsM59pUgs&s=1713747730&e=129600&f=18144682&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/6nq9l2xjxjcs"
+                            "Referer": "https://streamwish.to/e/6uhgt1hdrmzq"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=9WMVLZO7y9saeGq&expires=1713793662&ip=FROsD0IZKxSHDN&token=zD_-vMCDwoK4",
-                        "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=9WMVLZO7y9saeGq&expires=1713793662&ip=FROsD0IZKxSHDN&token=zD_-vMCDwoK4"
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/03/05953/aasl3dkjlmgd_n/index-v1-a1.m3u8?t=A4avm0kcI3U6BTPliKVHELgK_yMsM3vHL_hLFqjlBDg&s=1713747722&e=43200&f=29767991&srv=30&asn=8075&sp=4000",
+                        "quality": "[CAST] Filemoon:1036p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/03/05953/aasl3dkjlmgd_n/index-v1-a1.m3u8?t=A4avm0kcI3U6BTPliKVHELgK_yMsM3vHL_hLFqjlBDg&s=1713747722&e=43200&f=29767991&srv=30&asn=8075&sp=4000",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://filemoon.sx/e/aasl3dkjlmgd",
+                            "Origin": "https://filemoon.sx",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/preh0ll8sf3c_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=rJW9ktiM0mUm0lRifzPnP03F2svBoIL-lV-piuxRRsE&s=1713747725&e=129600&f=18144629&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8075",
+                        "quality": "[CAST] StreamWish:1036p",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/preh0ll8sf3c_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=rJW9ktiM0mUm0lRifzPnP03F2svBoIL-lV-piuxRRsE&s=1713747725&e=129600&f=18144629&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/preh0ll8sf3c"
+                        }
+                    },
+                    {
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/6uhgt1hdrmzq_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=auN3B8cRYPrzHEERA3G0JdNFhPG8dyZnxKpsM59pUgs&s=1713747730&e=129600&f=18144682&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/6uhgt1hdrmzq_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=auN3B8cRYPrzHEERA3G0JdNFhPG8dyZnxKpsM59pUgs&s=1713747730&e=129600&f=18144682&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/6uhgt1hdrmzq"
+                        }
+                    },
+                    {
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/preh0ll8sf3c_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=rJW9ktiM0mUm0lRifzPnP03F2svBoIL-lV-piuxRRsE&s=1713747725&e=129600&f=18144629&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/preh0ll8sf3c_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=rJW9ktiM0mUm0lRifzPnP03F2svBoIL-lV-piuxRRsE&s=1713747725&e=129600&f=18144629&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/preh0ll8sf3c"
+                        }
+                    },
+                    {
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/6uhgt1hdrmzq_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=auN3B8cRYPrzHEERA3G0JdNFhPG8dyZnxKpsM59pUgs&s=1713747730&e=129600&f=18144682&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/6uhgt1hdrmzq_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=auN3B8cRYPrzHEERA3G0JdNFhPG8dyZnxKpsM59pUgs&s=1713747730&e=129600&f=18144682&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/6uhgt1hdrmzq"
+                        }
+                    },
+                    {
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/preh0ll8sf3c_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=rJW9ktiM0mUm0lRifzPnP03F2svBoIL-lV-piuxRRsE&s=1713747725&e=129600&f=18144629&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03628/preh0ll8sf3c_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=rJW9ktiM0mUm0lRifzPnP03F2svBoIL-lV-piuxRRsE&s=1713747725&e=129600&f=18144629&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/preh0ll8sf3c"
+                        }
                     }
                 ],
                 "passed": true

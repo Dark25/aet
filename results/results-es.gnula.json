@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/abigail-1111873",
+                                "title": "Abigail",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg"
+                            },
+                            {
                                 "url": "/movies/premonition",
                                 "title": "Premonition",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mXuCi5VeJ7UPZWOnjAnpgq3M3z8.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/movies/inframundo-5-guerras-de-sangre",
                                 "title": "Inframundo 5: Guerras de sangre",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg"
-                            },
-                            {
-                                "url": "/movies/mr-brooks",
-                                "title": "Mr.  Brooks",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/premonition",
-                    "title": "Premonition",
-                    "artist": "",
-                    "description": "Camilla Hardin vive una vida protegida. Sin embargo, su predecible vida da un giro para peor cuando imagina ser secuestrada y asesinada. La pregunta es ¿quién creerá en su premonición?",
-                    "genre": "",
+                    "url": "/movies/abigail-1111873",
+                    "title": "Abigail",
+                    "artist": "Alisha Weir",
+                    "description": "Después de que un grupo de delincuentes secuestra a la hija bailarina de ballet de 12 años de un poderoso personaje del bajo mundo, todo lo que tienen que hacer para cobrar un rescate de 50 millones de dólares es vigilar a la niña durante la noche. En una mansión aislada, los captores comienzan a disminuir, uno por uno, y descubren, para su creciente horror, que están encerrados adentro con una niña que no es para nada normal.",
+                    "genre": "Terror, Suspenso, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/mXuCi5VeJ7UPZWOnjAnpgq3M3z8.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/premonition",
+                        "url": "/movies/abigail-1111873",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,12 +429,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05954/lzczsz6bbhmq_x/index-v1-a1.m3u8?t=0FFxPdXq5TXt6vW526V-IL0QVzwQq7VlJ99wLVkkAQs&s=1713788982&e=43200&f=29789339&srv=44&asn=8075&sp=5500",
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05939/011m80u102kn_o/index-v1-a1.m3u8?t=ZKoosJau1GWts9iFfLzfxQs4XD7ofAfP4s7zPqGODy0&s=1713810059&e=43200&f=29700748&srv=04&asn=8075&sp=5500",
                         "quality": "[LAT] Filemoon:1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05954/lzczsz6bbhmq_x/index-v1-a1.m3u8?t=0FFxPdXq5TXt6vW526V-IL0QVzwQq7VlJ99wLVkkAQs&s=1713788982&e=43200&f=29789339&srv=44&asn=8075&sp=5500",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05939/011m80u102kn_o/index-v1-a1.m3u8?t=ZKoosJau1GWts9iFfLzfxQs4XD7ofAfP4s7zPqGODy0&s=1713810059&e=43200&f=29700748&srv=04&asn=8075&sp=5500",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://filemoon.sx/e/wsawryms5cxm",
+                            "Referer": "https://filemoon.sx/e/q79epoh4pg1m",
+                            "Origin": "https://filemoon.sx",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05939/011m80u102kn_x/index-v1-a1.m3u8?t=ZKoosJau1GWts9iFfLzfxQs4XD7ofAfP4s7zPqGODy0&s=1713810059&e=43200&f=29700748&srv=04&asn=8075&sp=5500",
+                        "quality": "[LAT] Filemoon:1080p",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05939/011m80u102kn_x/index-v1-a1.m3u8?t=ZKoosJau1GWts9iFfLzfxQs4XD7ofAfP4s7zPqGODy0&s=1713810059&e=43200&f=29700748&srv=04&asn=8075&sp=5500",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://filemoon.sx/e/q79epoh4pg1m",
                             "Origin": "https://filemoon.sx",
                             "Accept": "*/*"
                         }

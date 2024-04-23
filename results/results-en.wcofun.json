@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mickeys-christmas-tales",
+                                "title": "Mickey's Christmas Tales",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933590.jpg"
+                            },
+                            {
                                 "url": "/anime/chillin-in-another-world-with-level-2-super-cheat-powers",
                                 "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933589.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/sasayaku-you-ni-koi-wo-utau",
                                 "title": "Sasayaku You ni Koi wo Utau",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933575.jpg"
-                            },
-                            {
-                                "url": "/anime/dragon-raja-english-subbed",
-                                "title": "Dragon Raja English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933573.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/chillin-in-another-world-with-level-2-super-cheat-powers",
-                    "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
-                    "description": "The Magical Kingdom of Klyrode summons hundreds of heroes from other worlds every year to fight in their war against the Dark One and his army of powerful demons. Banaza is one of those heroes, summoned from the Royal Capital Paluma, but something’s not right—Banaza is only an average merchant. He has no magic, no fighting ability, and his stats are abysmal. Worse, a mishap leaves him unable to return home! Rejected as a hero and stranded in another world, abandoned to the far reaches of the kingdom by a cruel king who just wants him gone, Banaza’s fate looks pretty bleak. But what will happen once the failed hero candidate finds himself with super cheat powers once he hits level two?",
-                    "genre": "Adventure, Fantasy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933589.jpg",
+                    "url": "/anime/mickeys-christmas-tales",
+                    "title": "Mickey's Christmas Tales",
+                    "description": "Picking up where the enchanting adventure of Mickey Saves Christmas left off, Mickey’s Christmas Tales lets us jump back in with Mickey, Minnie and the gang along with Santa, Mrs. Claus and everyone’s favorite baby reindeer, Jingle and Jolly, for even more stop-motion excitement. The shorts follow Mickey and Friends in classic holiday misadventures such as Goofy teaching how to build a snowman, the gang trying to grant a Christmas wish by placing a star atop the Town Square Christmas tree, surprising Santa and so much more.",
+                    "genre": "Adventure, Animation, Short, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933590.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mickeys-christmas-tales-episode-5-up-all-eve",
+                        "name": "Season 1 - Episode 5",
+                        "episode_number": 105.0
+                    },
+                    {
+                        "url": "/mickeys-christmas-tales-episode-4-slip-n-sleigh",
+                        "name": "Season 1 - Episode 4",
+                        "episode_number": 104.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk5v_nOLcJk6QlsrWrKEIuq_JfdL8PNIDYKQEp6jYooDQwJA4rN3WFt5j6UrlG0TSpE0gqm6o-w1CbLFj58IP568sOeiFtBzvsV3zPIrpwtROHLCyBgLlol3cmaOHvlaratQolOH_QlTTGy8fZ_b2KpeuTkHA36ppX3RZDFKvMe___We3SSGYj4kHFus2q5AP6Gq0nTkQqQQP3AyC7k9PTG_fJpq6146dTd-lJlk0VpbFRPaGtlehrS8PnlCJwUf5UiZUxfDUIc8YYfN06335YdI",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk5v_nOLcJk6QlsrWrKEIuq_JfdL8PNIDYKQEp6jYooDQwJA4rN3WFt5j6UrlG0TSpE0gqm6o-w1CbLFj58IP568sOeiFtBzvsV3zPIrpwtROHLCyBgLlol3cmaOHvlaratQolOH_QlTTGy8fZ_b2KpeuTkHA36ppX3RZDFKvMe___We3SSGYj4kHFus2q5AP6Gq0nTkQqQQP3AyC7k9PTG_fJpq6146dTd-lJlk0VpbFRPaGtlehrS8PnlCJwUf5UiZUxfDUIc8YYfN06335YdI"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk0gkT09KopFY-mxIn9YTtAwEdWcq19wINVyiVcb_ot-16gK-X35xH7UtepAaFTnS4e_WmUIkuS4yPXzqllCRj_GLL_HlcRsGMIutgjgp_h7jfTtMPepG16BvgXvpAp16fymptU01k1wcomilLBUzapza3dy2bXqaKEPZPHJmAn-9GFq8qdJP4McN4peX05elj2Vxaxh2GQUQqlqXeNG8D6pZuRzGJdcCZj3nl_gthwFrV3xKLNLm91oAgyhvPRqNYkxjKCJAS4sUlz-TfRCrNa8",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk0gkT09KopFY-mxIn9YTtAwEdWcq19wINVyiVcb_ot-16gK-X35xH7UtepAaFTnS4e_WmUIkuS4yPXzqllCRj_GLL_HlcRsGMIutgjgp_h7jfTtMPepG16BvgXvpAp16fymptU01k1wcomilLBUzapza3dy2bXqaKEPZPHJmAn-9GFq8qdJP4McN4peX05elj2Vxaxh2GQUQqlqXeNG8D6pZuRzGJdcCZj3nl_gthwFrV3xKLNLm91oAgyhvPRqNYkxjKCJAS4sUlz-TfRCrNa8"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXkzVnZTsCTmCQGV8R1_0Ryu0n9w7aHfomMCTXt3n6TN6d9edYo-OLoq-jDBlM-CRHmBbhSTsAGdjEumkhpPXKu3TRDFUyoCoKtkwwpZetomiEPmNhqN4qAyhHdcLBi3MlpbtAaL88a6Vl7fzSTaTsqXhfwFOl3_BBqkPrE7uXMH_Chvtj5TkvOCzBsOEu1a5rv-uKEze_9ag9tm1-4Tys2wldJAaeIWLLXwZpeKWF_Cte4KrTsvv3lC4_azSiV---XA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXkzVnZTsCTmCQGV8R1_0Ryu0n9w7aHfomMCTXt3n6TN6d9edYo-OLoq-jDBlM-CRHmBbhSTsAGdjEumkhpPXKu3TRDFUyoCoKtkwwpZetomiEPmNhqN4qAyhHdcLBi3MlpbtAaL88a6Vl7fzSTaTsqXhfwFOl3_BBqkPrE7uXMH_Chvtj5TkvOCzBsOEu1a5rv-uKEze_9ag9tm1-4Tys2wldJAaeIWLLXwZpeKWF_Cte4KrTsvv3lC4_azSiV---XA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

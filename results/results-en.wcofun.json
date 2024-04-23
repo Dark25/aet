@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/chillin-in-another-world-with-level-2-super-cheat-powers",
+                                "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933589.jpg"
+                            },
+                            {
                                 "url": "/anime/vampire-dormitory",
                                 "title": "Vampire Dormitory",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933588.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/dragon-raja-english-subbed",
                                 "title": "Dragon Raja English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933573.jpg"
-                            },
-                            {
-                                "url": "/anime/kaiju-no-8",
-                                "title": "Kaiju No. 8",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933572.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/vampire-dormitory",
-                    "title": "Vampire Dormitory",
-                    "description": "Mito Yamamoto is a beautiful man, so much so that women swarm the restaurant he works at daily. When the restaurant owner decides that he has had enough, he fires Mito, leaving him unemployed and with no place to call home.",
-                    "genre": "Romance, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933588.jpg",
+                    "url": "/anime/chillin-in-another-world-with-level-2-super-cheat-powers",
+                    "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+                    "description": "The Magical Kingdom of Klyrode summons hundreds of heroes from other worlds every year to fight in their war against the Dark One and his army of powerful demons. Banaza is one of those heroes, summoned from the Royal Capital Paluma, but something’s not right—Banaza is only an average merchant. He has no magic, no fighting ability, and his stats are abysmal. Worse, a mishap leaves him unable to return home! Rejected as a hero and stranded in another world, abandoned to the far reaches of the kingdom by a cruel king who just wants him gone, Banaza’s fate looks pretty bleak. But what will happen once the failed hero candidate finds himself with super cheat powers once he hits level two?",
+                    "genre": "Adventure, Fantasy, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933589.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/vampire-dormitory-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRuTlbj3D2KDzkO7avHU6mpvE6Li-U0SMRJVNMe5Gm6tLhGUEVnBUcUi9kOLqehG92JkoTuVWljuyjoUTzBLH9qEg8ExNttkip6ErXuzhl-7o2GAqF0adt5LK8y_pp7nVb8WWCly8ATdSpHWXbBC6Tz5qkE14SJWdtR1ntx4dQpSQf8Vp30jP7k_B1RxLsOhHSDbWrm4qAcwohhQHn-QZmi4bAUlSsjEKU4sqSupr9HRdXtlFcXridzb8lwzcO11ruwea1zIaQ3CeiUdw7g4vfqqe8J3mBerXtTtHcJtvURNnr3lEopdkqwvCXvHZJq2F6U35xEU7ydZvysjP7pq2RWqxms2ni0ZMwYmh1ptCaaYtSeCSYRE1ko-s6x6t5X0ZqQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRuTlbj3D2KDzkO7avHU6mpvE6Li-U0SMRJVNMe5Gm6tLhGUEVnBUcUi9kOLqehG92JkoTuVWljuyjoUTzBLH9qEg8ExNttkip6ErXuzhl-7o2GAqF0adt5LK8y_pp7nVb8WWCly8ATdSpHWXbBC6Tz5qkE14SJWdtR1ntx4dQpSQf8Vp30jP7k_B1RxLsOhHSDbWrm4qAcwohhQHn-QZmi4bAUlSsjEKU4sqSupr9HRdXtlFcXridzb8lwzcO11ruwea1zIaQ3CeiUdw7g4vfqqe8J3mBerXtTtHcJtvURNnr3lEopdkqwvCXvHZJq2F6U35xEU7ydZvysjP7pq2RWqxms2ni0ZMwYmh1ptCaaYtSeCSYRE1ko-s6x6t5X0ZqQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRuTlbj3D2KDzkO7avHU6mpvE6Li-U0SMRJVNMe5Gm6tLhGUEVnBUcUi9kOLqehG92JkoTuVWljuyjoUTzBLH9qEg8ExNttkip6ErXuzhl-7o2_O5Y_EPL0M7kcNYyXZhOBDXh2lY4EFiDU7LMHhLS3nPAaXkSWWxYngR1HBBibvsH9LBHYBLd0D3spVvi8ekOBDWJpAMREaghRCZooAFz0QAYezMeJfZoCN6BkJ8uXaLdVf9b7hHSVPj3HtWT-3ZfZ2N55YQfOpfWWnhsDqreHGDoiwQczSSZsvahwuTACp06oleHUd2uy0WhpYJjCRjjh0LBQ8bWQnAH2XSIvUi4iW5hJLDP4W6exxJjMcEVIyQofaMZA5-C8ExAo4YqTtisI",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRuTlbj3D2KDzkO7avHU6mpvE6Li-U0SMRJVNMe5Gm6tLhGUEVnBUcUi9kOLqehG92JkoTuVWljuyjoUTzBLH9qEg8ExNttkip6ErXuzhl-7o2_O5Y_EPL0M7kcNYyXZhOBDXh2lY4EFiDU7LMHhLS3nPAaXkSWWxYngR1HBBibvsH9LBHYBLd0D3spVvi8ekOBDWJpAMREaghRCZooAFz0QAYezMeJfZoCN6BkJ8uXaLdVf9b7hHSVPj3HtWT-3ZfZ2N55YQfOpfWWnhsDqreHGDoiwQczSSZsvahwuTACp06oleHUd2uy0WhpYJjCRjjh0LBQ8bWQnAH2XSIvUi4iW5hJLDP4W6exxJjMcEVIyQofaMZA5-C8ExAo4YqTtisI"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRuTlbj3D2KDzkO7avHU6mpvE6Li-U0SMRJVNMe5Gm6tLhGUEVnBUcUi9kOLqehG92JkoTuVWljuyjoUTzBLH9qEg8ExNttkip6ErXuzhl-7oyzfama2IP5vXuHaSKjgRCmsTdu65O3cAonfDMGJYX9XImNzeFsE_XfcodHbW-v--U-Q8RwH8WTWXxTBhlZfo5Hx4zDmxHQLhvmWU6LopoOjfGIU9yGJ2D7Uk7Z_7XxkZt5JVl6twYDFRIXrt8hSXr7iGWhKqsLZhC4GonovQTc_zNVcLuAVeCGANVqHqq6WvxUx6hpZ7wKlxzRc18s_Wsxq3okp8NFVNVioXbpbT7u3k4_IfdHhAvGlwbzhQ7DUSlLsrhpVQochBJRN4LIXWgc",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJe4rnPhgTNVmmKv_vKbRuTlbj3D2KDzkO7avHU6mpvE6Li-U0SMRJVNMe5Gm6tLhGUEVnBUcUi9kOLqehG92JkoTuVWljuyjoUTzBLH9qEg8ExNttkip6ErXuzhl-7oyzfama2IP5vXuHaSKjgRCmsTdu65O3cAonfDMGJYX9XImNzeFsE_XfcodHbW-v--U-Q8RwH8WTWXxTBhlZfo5Hx4zDmxHQLhvmWU6LopoOjfGIU9yGJ2D7Uk7Z_7XxkZt5JVl6twYDFRIXrt8hSXr7iGWhKqsLZhC4GonovQTc_zNVcLuAVeCGANVqHqq6WvxUx6hpZ7wKlxzRc18s_Wsxq3okp8NFVNVioXbpbT7u3k4_IfdHhAvGlwbzhQ7DUSlLsrhpVQochBJRN4LIXWgc"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

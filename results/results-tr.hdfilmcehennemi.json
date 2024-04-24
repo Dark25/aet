@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/blur/",
+                                "title": "Blur",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/blur_list.jpg"
+                            },
+                            {
                                 "url": "/dizi/the-grimm-variations/",
                                 "title": "The Grimm Variations",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-grimm-variations_list.jpg"
@@ -140,11 +145,6 @@
                                 "url": "/storage-24/",
                                 "title": "Korku Kapanı",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/storage-24_list.jpg"
-                            },
-                            {
-                                "url": "/dead-snow/",
-                                "title": "Dead Snow",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/dead-snow_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,12 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/dizi/the-grimm-variations/",
-                    "title": "The Grimm Variations",
-                    "artist": "Misato Fukuen, Tatsuhisa Suzuki, Kenji Nojima",
-                    "description": "Grimm kardeşlerin klasik öykülerinden esinlenen bu antolojide, insanın tutkularının karanlık yönlerini ortaya çıkaran korkunç gelişmelerle dolu altı öykü yer alıyor. Evvel zaman içinde, kalbur saman içinde Jacob ve Wilhelm adlı iki erkek kardeş yaşarmış. Bu iki kardeş ülkenin dört bir yanından topladıkları masalları bir kitaba dönüştürmüş. Ama hikâye burada bitmemiş; Jacob ve Wilhelm'in bir de çok sevdikleri, Charlotte adında masum ve meraklı bir kız kardeşi varmış. Bir gün, her zamanki gibi Charlotte'a bir masal anlatırlarken kız kardeşleri hüzünlü bir yüzle \"Sizce sonsuza dek mutlu yaşadılar mı?\" diye sormuş. Jacob ve Wilhelm tarafından kaleme alınan Grimm Masalları, öyküleri erkek kardeşlerinden oldukça farklı yorumlayan Charlotte'ın benzersiz perspektifiyle ekrana taşınıyor.",
-                    "genre": "Animasyon, Dram, Fantastik",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-grimm-variations.jpg",
+                    "url": "/blur/",
+                    "title": "Blur",
+                    "artist": "Kasia Stelmach, Abigail Bianca",
+                    "description": "Bir polis, onu kurtarmak için zamana karşı yarışırken, bir kadın kadim bir iblis tarafından evinde mahsur kalır.",
+                    "genre": "Korku, Gerilim",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/blur.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -427,16 +429,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/dizi/the-grimm-variations/sezon-1/bolum-6/",
-                        "name": "1. Sezon 6. Bölüm",
-                        "date_upload": 1713312000000,
-                        "episode_number": 1.006
-                    },
-                    {
-                        "url": "/dizi/the-grimm-variations/sezon-1/bolum-5/",
-                        "name": "1. Sezon 5. Bölüm",
-                        "date_upload": 1713312000000,
-                        "episode_number": 1.005
+                        "url": "/blur/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

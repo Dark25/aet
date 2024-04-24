@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/dune-parte-dos/",
+                                "title": "Dune: Parte dos",
+                                "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de vengan...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/JSa4mVWA9YLJrPciCQJN.webp"
+                            },
+                            {
+                                "url": "/pelicula/monkey-man-el-despertar-de-la-bestia/",
+                                "title": "Monkey Man: El despertar de la bestia",
+                                "description": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adap...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/GX4NFi4edTgptbKBg9fmWb4CJYjZFDzcr.webp"
+                            },
+                            {
+                                "url": "/pelicula/hip-hop-and-the-white-house/",
+                                "title": "Hip-Hop and the White House",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EXcTnE43MvS2sSBVwka60WDSSh3IoZGTNID1dxUPTDIb.webp"
+                            },
+                            {
                                 "url": "/pelicula/downtown-owl/",
                                 "title": "Downtown Owl",
                                 "description": "",
@@ -211,12 +229,6 @@
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/kebMcRBwdBoP532.webp"
                             },
                             {
-                                "url": "/pelicula/monkey-man-el-despertar-de-la-bestia/",
-                                "title": "Monkey Man: El despertar de la bestia",
-                                "description": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adap...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/GX4NFi4edTgptbKBg9fmWb4CJYjZFDzcr.webp"
-                            },
-                            {
                                 "url": "/pelicula/pool-boy-nightmare/",
                                 "title": "Pool Boy Nightmare",
                                 "description": "La historia sigue a Gale mientras tiene un breve romance con el limpiador de piscinas Adam, pero rá...",
@@ -233,18 +245,6 @@
                                 "title": "Canción de cuna para una madre",
                                 "description": "Cuando el bebé recién nacido de Olivia y Harry Davis no sobrevive al nacimiento, la tragedia sume ...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/AyiN3KCCaAPxUbmsxAjF3G19SEUfZRYpf628H.webp"
-                            },
-                            {
-                                "url": "/pelicula/our-son/",
-                                "title": "Our Son",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/qryyPF2ytWIRH22SpNuw4L6Z2ZyjuBVLTk.webp"
-                            },
-                            {
-                                "url": "/pelicula/back-to-black/",
-                                "title": "Back to Black",
-                                "description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que c...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/sZ5gEI39sqhRviBBVXUfp7cpyDX.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/downtown-owl/",
-                    "title": "Downtown Owl",
-                    "description": "",
-                    "genre": "Comedia, Drama",
+                    "url": "/pelicula/dune-parte-dos/",
+                    "title": "Dune: Parte dos",
+                    "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+                    "genre": "Acción, Aventura, C. Ficción, Estrenos",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/downtown-owl/",
+                        "url": "/pelicula/dune-parte-dos/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mBFbGeGB = \"\"; XuflGaNhBM.forEach(function Oym(value) { mBFbGeGB += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar cbXTStvD = \"\"; CFyiCbeD.forEach(function Oym(value) { cbXTStvD += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

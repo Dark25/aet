@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/fortuna",
+                                "title": "Fortuna",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/21846.webp"
+                            },
+                            {
+                                "url": "/serie/online/a-maquina-do-destino",
+                                "title": "A Máquina do Destino",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22246.webp"
+                            },
+                            {
+                                "url": "/serie/online/palm-royale",
+                                "title": "Palm Royale",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22658.webp"
+                            },
+                            {
+                                "url": "/serie/online/x-men-97",
+                                "title": "X-Men '97",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
+                            },
+                            {
+                                "url": "/serie/online/star-wars-the-bad-batch",
+                                "title": "Star Wars: The Bad Batch",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19343.webp"
+                            },
+                            {
                                 "url": "/serie/online/we-were-the-lucky-ones",
                                 "title": "We Were the Lucky Ones",
                                 "status": 1,
@@ -315,36 +345,6 @@
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22642.webp"
-                            },
-                            {
-                                "url": "/serie/online/bebe-rena",
-                                "title": "Bebê Rena",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22719.webp"
-                            },
-                            {
-                                "url": "/serie/online/franklin",
-                                "title": "Franklin",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22708.webp"
-                            },
-                            {
-                                "url": "/serie/online/sugar",
-                                "title": "Sugar",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22681.webp"
-                            },
-                            {
-                                "url": "/serie/online/ltimo-ato",
-                                "title": "Último Ato",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22655.webp"
-                            },
-                            {
-                                "url": "/serie/online/historia-de-horror-americana",
-                                "title": "Histórias de Terror Americana",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5543.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

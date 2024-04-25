@@ -3,7 +3,7 @@
         "name": "AnimeUI (ALL)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='socket hang up\n  name='Error\n  stack='Error: socket hang up\n    at connResetException (node:internal/errors:720:14)\n    at TLSSocket.socketOnEnd (node:_http_client:525:23)\n    at TLSSocket.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n}\nCall log:\n- → GET https://animeui.com/api/home-list\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8\n-   accept-encoding: gzip, deflate, br\n-   host: animeui.com\n-   accept-language: en-US,en;q=0.5\n-   upgrade-insecure-requests: 1\n-   sec-fetch-dest: document\n-   sec-fetch-mode: navigate\n-   sec-fetch-site: none\n-   sec-fetch-user: ?1\n-   connection: keep-alive\n",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {

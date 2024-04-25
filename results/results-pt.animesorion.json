@@ -3,27 +3,27 @@
         "name": "Animes Órion (PT-BR)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: CANCEL",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

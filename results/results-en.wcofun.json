@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/viral-hit",
+                                "title": "Viral Hit",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933591.jpg"
+                            },
+                            {
                                 "url": "/anime/mickeys-christmas-tales",
                                 "title": "Mickey's Christmas Tales",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933590.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/the-new-gate-english-subbed",
                                 "title": "The New Gate English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933576.jpg"
-                            },
-                            {
-                                "url": "/anime/sasayaku-you-ni-koi-wo-utau",
-                                "title": "Sasayaku You ni Koi wo Utau",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933575.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mickeys-christmas-tales",
-                    "title": "Mickey's Christmas Tales",
-                    "description": "Picking up where the enchanting adventure of Mickey Saves Christmas left off, Mickey’s Christmas Tales lets us jump back in with Mickey, Minnie and the gang along with Santa, Mrs. Claus and everyone’s favorite baby reindeer, Jingle and Jolly, for even more stop-motion excitement. The shorts follow Mickey and Friends in classic holiday misadventures such as Goofy teaching how to build a snowman, the gang trying to grant a Christmas wish by placing a star atop the Town Square Christmas tree, surprising Santa and so much more.",
-                    "genre": "Adventure, Animation, Short, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933590.jpg",
+                    "url": "/anime/viral-hit",
+                    "title": "Viral Hit",
+                    "description": "Bullied by his classmate and popular Newtube streamer Pakgo, Yoo Hobin spends his high school days suffering from humiliation and abuse. His troubles do not end there, though; outside of school, Hobin slaves away at a part-time job to pay for his mother’s hospital bills. One day, Hobin accidentally spills ramen on Pakgo’s cameraman Woo “Jiksae” Jihyeok, tripping over a cord and disconnecting the other boy from his gaming stream. Finally fed up with his miserable lifestyle, Hobin fights back and ends up in a pathetic brawl with Jiksae.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933591.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mickeys-christmas-tales-episode-5-up-all-eve",
-                        "name": "Season 1 - Episode 5",
-                        "episode_number": 105.0
-                    },
-                    {
-                        "url": "/mickeys-christmas-tales-episode-4-slip-n-sleigh",
-                        "name": "Season 1 - Episode 4",
-                        "episode_number": 104.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk5v_nOLcJk6QlsrWrKEIuq_JfdL8PNIDYKQEp6jYooDQwJA4rN3WFt5j6UrlG0TSpE0gqm6o-w1CbLFj58IP568sOeiFtBzvsV3zPIrpwtROHLCyBgLlol3cmaOHvlarapVtbE6i7mI_DHa6P_gAs84g_0XOAAxFUnA0AE-VuxJMUR4wLQYXEfzArgYpMfxGf0wcBXnBtU8oFObpda9wCLpu50dF07oZuEViX-3ueox9onDrc2lCpFLEYwX6Ni4iftxcAcl34hb_5Z6R8af4hAc",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk5v_nOLcJk6QlsrWrKEIuq_JfdL8PNIDYKQEp6jYooDQwJA4rN3WFt5j6UrlG0TSpE0gqm6o-w1CbLFj58IP568sOeiFtBzvsV3zPIrpwtROHLCyBgLlol3cmaOHvlarapVtbE6i7mI_DHa6P_gAs84g_0XOAAxFUnA0AE-VuxJMUR4wLQYXEfzArgYpMfxGf0wcBXnBtU8oFObpda9wCLpu50dF07oZuEViX-3ueox9onDrc2lCpFLEYwX6Ni4iftxcAcl34hb_5Z6R8af4hAc"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk0gkT09KopFY-mxIn9YTtAwEdWcq19wINVyiVcb_ot-16gK-X35xH7UtepAaFTnS4e_WmUIkuS4yPXzqllCRj_GLL_HlcRsGMIutgjgp_h7jfTtMPepG16BvgXvpAp16fwomyLwEEn1bcb2c28maiOb1yNrmEcQZuLK-6-dcov5ZMbmJ6-SBPlnVdpxCi82RhDC2fKB-CL4GzxgiTMIlW7lA3xVQcDgvokPs0e1IF4CEpm11OfP0RjPZhB5wMkvs5mUjHxEMjTABOUxxf6vjXTM",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXk0gkT09KopFY-mxIn9YTtAwEdWcq19wINVyiVcb_ot-16gK-X35xH7UtepAaFTnS4e_WmUIkuS4yPXzqllCRj_GLL_HlcRsGMIutgjgp_h7jfTtMPepG16BvgXvpAp16fwomyLwEEn1bcb2c28maiOb1yNrmEcQZuLK-6-dcov5ZMbmJ6-SBPlnVdpxCi82RhDC2fKB-CL4GzxgiTMIlW7lA3xVQcDgvokPs0e1IF4CEpm11OfP0RjPZhB5wMkvs5mUjHxEMjTABOUxxf6vjXTM"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXkzVnZTsCTmCQGV8R1_0Ryu0n9w7aHfomMCTXt3n6TN6d9edYo-OLoq-jDBlM-CRHmBbhSTsAGdjEumkhpPXKu3TRDFUyoCoKtkwwpZetomiEPmNhqN4qAyhHdcLBi3MlpTcnKxgV9IqxTCZmj6eIBIvVqn65cGUGu8Os8WaXrCyM0irujryiEsI_GY1jfkYAD07xm9pNkosyuA_jtm062wBttI-sDlBDqtuB5twKdOm4jCfuIimQCD3088k0vesc1w",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsSHSJahpq_9I_YCs3j_gXZoUmsuJRIrmtR8Om8ZxSqoBIFAJhJ-k8tvgfM7jFmLQoa7i-Wb6TUdm7qTMJPus2NNMn0UZomXsjYQ4lb0-wZraun6b-NX-4vidOV0xjuVDbt9KPQ7QFI_Axx1HVXxuX7d03KVwLWj3UqXlL4-xLfaqsTyjr6MwnVyijP26_bXkzVnZTsCTmCQGV8R1_0Ryu0n9w7aHfomMCTXt3n6TN6d9edYo-OLoq-jDBlM-CRHmBbhSTsAGdjEumkhpPXKu3TRDFUyoCoKtkwwpZetomiEPmNhqN4qAyhHdcLBi3MlpTcnKxgV9IqxTCZmj6eIBIvVqn65cGUGu8Os8WaXrCyM0irujryiEsI_GY1jfkYAD07xm9pNkosyuA_jtm062wBttI-sDlBDqtuB5twKdOm4jCfuIimQCD3088k0vesc1w"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

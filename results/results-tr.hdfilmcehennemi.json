@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/sifreli-istasyon-hd_list.jpg"
                             },
                             {
-                                "url": "/dizi/brigands-the-quest-for-gold/",
-                                "title": "Briganti",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/brigands-the-quest-for-gold_list.jpg"
-                            },
-                            {
                                 "url": "/monkey-man/",
                                 "title": "Maymun Adam",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/monkey-man_list.jpg"
+                            },
+                            {
+                                "url": "/dizi/brigands-the-quest-for-gold/",
+                                "title": "Briganti",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/brigands-the-quest-for-gold_list.jpg"
                             },
                             {
                                 "url": "/dizi/the-pact-hdfc/",
@@ -162,6 +162,16 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/mob-land_list.jpg"
                             },
                             {
+                                "url": "/after-yang-hdf1-32/",
+                                "title": "After Yang",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/after-yang_list.jpg"
+                            },
+                            {
+                                "url": "/the-factory-hdfc/",
+                                "title": "The Factory",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-factory-hdfc_list.jpg"
+                            },
+                            {
                                 "url": "/hack-your-health-the-secrets-of-your-gut/",
                                 "title": "Hack Your Health The Secrets of Your Gut",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/hack-your-health-the-secrets-of-your-gut_list.jpg"
@@ -225,16 +235,6 @@
                                 "url": "/late-night-with-the-devil/",
                                 "title": "Şeytanla Bir Gece",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/late-night-with-the-devil_list.jpg"
-                            },
-                            {
-                                "url": "/asphalt-city/",
-                                "title": "Asphalt City",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/asphalt-city_list.jpg"
-                            },
-                            {
-                                "url": "/the-unbearable-weight-of-massive-talent-29/",
-                                "title": "The Unbearable Weight of Massive Talent",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-unbearable-weight-of-massive-talent_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -437,20 +437,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://up-1079-e.vmeas.cloud/hls/xqx2pd3rcvokjiqbtgycl6cc4tbh7mejr7ezknoptne2vmh4yqgobuxheblq/index-v1.m3u8",
-                        "quality": "Vidmoly - 1080p",
-                        "videoUrl": "https://up-1079-e.vmeas.cloud/hls/xqx2pd3rcvokjiqbtgycl6cc4tbh7mejr7ezknoptne2vmh4yqgobuxheblq/index-v1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-165tcde8kyh3.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

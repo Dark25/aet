@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8317-dead-boy-detectives",
+                                "title": "Dead Boy Detectives",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e4753a0a-56ac-416f-8e82-cb4f5b7a6707.webp"
+                            },
+                            {
                                 "url": "8276-gli-addestratori",
                                 "title": "Gli addestratori",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/1926ac6d-7dc6-4245-8a85-5ce19df794c1.webp"
@@ -300,11 +305,6 @@
                                 "url": "8123-imaginary",
                                 "title": "Imaginary",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8f84bd3f-2c6d-4d11-ad90-e1dc64733792.webp"
-                            },
-                            {
-                                "url": "7490-supersex",
-                                "title": "Supersex",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d830cbe0-58dd-4dbe-b11b-2af8c3ce2fa9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8318-enea",
+                                "title": "Enea",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/9926e815-a77f-409d-9cf1-4d2b2b6671aa.webp"
+                            },
                             {
                                 "url": "8316-attraction",
                                 "title": "Attraction",
@@ -610,11 +615,6 @@
                                 "url": "8229-cindy-la-regia-la-serie",
                                 "title": "Cindy la Regia: La serie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/cd2a0a40-55ca-4e54-89e0-09dc4a140ad5.webp"
-                            },
-                            {
-                                "url": "8228-tore",
-                                "title": "Tore",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/4a4615cf-779f-40c2-9c3b-3600b41531b5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8276-gli-addestratori",
-                    "description": "Dopo aver perso una scommessa con la sua ex moglie Marta, Pasquale, goffo ma appassionato addestratore di cani, ha dovuto cederle Cecchino, il suo amatissimo cane. L’unico modo che ha per riprenderselo è quello di racimolare abbastanza soldi da dimostrare a Marta di poter prendersi cura del cane (e di sé stesso). L’idea è semplice: aprire una nuova scuola di addestramento. E tutto sembra filare per il verso giusto: dopo neanche un giorno, il corso, incredibilmente, è sold-out. Peccato per un dettaglio: il volantino è arrivato nelle mani sbagliate e, a causa di un malinteso, ad essersi iscritti non sono i padroni di cani, ma i genitori di cinque pestiferi bambini. Ormai il danno è fatto, i pagamenti sono stati effettuati e i bambini devono restare con lui. Ma d’altronde, pensa, se i cani sono un po’ come dei bambini, anche i bambini non saranno poi così diversi dai cani...giusto?",
-                    "genre": "Commedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "8317-dead-boy-detectives",
+                    "description": "Due giovani fantasmi collaborano con una sensitiva alla risoluzione di misteri per i loro clienti soprannaturali, finché una potente strega non complica le cose.",
+                    "genre": "Dramma, Sci-Fi & Fantasy, Mistero",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8276",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "8317?episode_id=60509&next_episode=1",
+                        "name": "Stagione 1 episodio 8 - Il caso del serpente affamato",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "8317?episode_id=60508&next_episode=1",
+                        "name": "Stagione 1 episodio 7 - Il caso della lunga scalinata",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -956,47 +961,59 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vixcloud.co/playlist/223282.m3u8?type=video&rendition=720p&token=6Zou0BV3Wb6mJreaoYU4Lg&expires=1719318284&n=1",
+                        "url": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=720p&token=UQb0ri9S3RUVsmUXQ5KJBQ&expires=1719339457&n=1",
                         "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/223282.m3u8?type=video&rendition=720p&token=6Zou0BV3Wb6mJreaoYU4Lg&expires=1719318284&n=1",
+                        "videoUrl": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=720p&token=UQb0ri9S3RUVsmUXQ5KJBQ&expires=1719339457&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223282?type=subtitle&rendition=2-ita&token=LD6bcqOTbNMvAnqcYRlhaw&expires=1719318284",
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=3-forced-ita&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=4-ita&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223282?type=subtitle&rendition=3-eng&token=LD6bcqOTbNMvAnqcYRlhaw&expires=1719318284",
-                                "lang": "English"
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=5-eng&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
+                                "lang": "English [CC]"
                             }
                         ]
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/223282.m3u8?type=video&rendition=1080p&token=m9GTdwdq6ZnvUnc78xCbNQ&expires=1719318284&n=1",
+                        "url": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=1080p&token=Mib8Ha4pwT46Gu437d8aiQ&expires=1719339457&n=1",
                         "quality": "1080p",
-                        "videoUrl": "https://vixcloud.co/playlist/223282.m3u8?type=video&rendition=1080p&token=m9GTdwdq6ZnvUnc78xCbNQ&expires=1719318284&n=1",
+                        "videoUrl": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=1080p&token=Mib8Ha4pwT46Gu437d8aiQ&expires=1719339457&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223282?type=subtitle&rendition=2-ita&token=LD6bcqOTbNMvAnqcYRlhaw&expires=1719318284",
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=3-forced-ita&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=4-ita&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223282?type=subtitle&rendition=3-eng&token=LD6bcqOTbNMvAnqcYRlhaw&expires=1719318284",
-                                "lang": "English"
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=5-eng&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
+                                "lang": "English [CC]"
                             }
                         ]
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/223282.m3u8?type=video&rendition=480p&token=z6Y-1UvM4KB3e0rd8DuswA&expires=1719318284&n=1",
+                        "url": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=480p&token=XCm3lW6HcnrIt6F6b_Mx7A&expires=1719339457&n=1",
                         "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/223282.m3u8?type=video&rendition=480p&token=z6Y-1UvM4KB3e0rd8DuswA&expires=1719318284&n=1",
+                        "videoUrl": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=480p&token=XCm3lW6HcnrIt6F6b_Mx7A&expires=1719339457&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223282?type=subtitle&rendition=2-ita&token=LD6bcqOTbNMvAnqcYRlhaw&expires=1719318284",
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=3-forced-ita&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=4-ita&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223282?type=subtitle&rendition=3-eng&token=LD6bcqOTbNMvAnqcYRlhaw&expires=1719318284",
-                                "lang": "English"
+                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=5-eng&token=tRWtu3-m5MludMuNE6azqg&expires=1719339457",
+                                "lang": "English [CC]"
                             }
                         ]
                     }

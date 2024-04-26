@@ -3,19 +3,19 @@
         "name": "Lista de Animes (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: www.listadeanimes.com: Temporary failure in name resolution",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: www.listadeanimes.com",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: www.listadeanimes.com",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: www.listadeanimes.com",
                 "passed": false
             },
             "videos": {

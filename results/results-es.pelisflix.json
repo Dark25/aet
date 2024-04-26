@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/sayen-la-cazadora/",
+                                "title": "Sayen: La Cazadora",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/BXN7u2bmtSWsJG7yTjzKopkA8akSwdGY1jVmbWy.webp"
+                            },
+                            {
+                                "url": "/pelicula/antares-de-la-luz-la-secta-del-fin-del-mundo/",
+                                "title": "Antares de la Luz: La secta del fin del mundo",
+                                "description": "Años después de ser acusados de un crimen atroz, ex miembros de una secta chilena comparten ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/m7CWdfnnoEkmP3ntXbDeIeEm7XFACchOaKBe.webp"
+                            },
+                            {
+                                "url": "/pelicula/hachiko/",
+                                "title": "Hachiko",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w1"
+                            },
+                            {
                                 "url": "/pelicula/los-colores-del-incendio/",
                                 "title": "Los colores del incendio",
                                 "description": "París, 1927. Cuando Madeleine decide ponerse al frente del imperio financiero que ha heredado, el d...",
@@ -227,24 +245,6 @@
                                 "title": "Late Night with the Devil",
                                 "description": "Una transmisión de televisión en vivo en 1977 sale terriblemente mal, desatando el mal en las sala...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/dmdA9NwL3hteSb6KIWPha9NSz2retAL.webp"
-                            },
-                            {
-                                "url": "/pelicula/problemista/",
-                                "title": "Problemista",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/o7QCjJlcdrdco3CJhzz6bgR820KKlmvzkb1tKd.webp"
-                            },
-                            {
-                                "url": "/pelicula/camino-de-la-suerte/",
-                                "title": "Camino de la suerte",
-                                "description": "Narra el amor de Joaquín (Tito Valverde) y Rosario (María Jesús Sirvent), dos personajes sin la e...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/CXThbLtpi0hk3bgUMB58C7bX73uXetMGgvOi77xg.webp"
-                            },
-                            {
-                                "url": "/pelicula/rebel-moon-parte-dos-la-guerrera-que-deja-marcas/",
-                                "title": "Rebel Moon - Parte dos: La guerrera que deja marcas",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/8wdxIW0MoXub758wJn4EmwkS8iLveLdc8hzG3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/los-colores-del-incendio/",
-                    "title": "Los colores del incendio",
-                    "description": "París, 1927. Cuando Madeleine decide ponerse al frente del imperio financiero que ha heredado, el destino decidirá lo contrario y se enfrentará a una gran conspiración destinada a despojarla de todo lo que tiene. Enfrentada a la adversidad de los que la rodean y a la corrupción desenfrenada de la Francia codiciosa del periodo de entreguerras, Madeleine echará mano de una gran inteligencia y energía para llevar a cabo su terrible venganza, que no perdonará a nadie.",
-                    "genre": "Drama",
+                    "url": "/pelicula/sayen-la-cazadora/",
+                    "title": "Sayen: La Cazadora",
+                    "description": "",
+                    "genre": "Acción, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/los-colores-del-incendio/",
+                        "url": "/pelicula/sayen-la-cazadora/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar nOIdVUoC = \"\"; nsTmGkM.forEach(function Oym(value) { nOIdVUoC += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar wKmGqRe = \"\"; kQMLCBr.forEach(function Oym(value) { wKmGqRe += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

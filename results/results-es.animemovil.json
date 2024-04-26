@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/parasyte-los-grises",
+                                "title": "Parasyte: Los grises",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4204.webp"
+                            },
+                            {
                                 "url": "/the-first-slam-dunk",
                                 "title": "The First Slam Dunk",
                                 "status": 2,
@@ -119,12 +125,6 @@
                                 "title": "Unnamed Memory",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4185.webp"
-                            },
-                            {
-                                "url": "/tadaima-okaeri",
-                                "title": "Tadaima, Okaeri",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4184.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-first-slam-dunk",
-                    "title": "The First Slam Dunk",
-                    "description": "El \"velocista\" y armador de Shohoku, Ryouta Miyagi, siempre juega con inteligencia y la velocidad del rayo, corriendo en círculos alrededor de sus oponentes mientras finge compostura. Nacido y criado en Okinawa, Ryouta tenía un hermano tres años mayor. Siguiendo los pasos de su hermano mayor, que fue un famoso jugador local desde muy joven, Ryouta también se volvió adicto al baloncesto. En su segundo año de escuela secundaria, Ryouta juega con el equipo de baloncesto de la escuela secundaria Shohoku junto con Sakuragi, Rukawa, Akagi y Mitsui mientras suben al escenario en el Campeonato Nacional Inter-High School. Y ahora están a punto de desafiar a los campeones reinantes, la escuela secundaria Sannoh Kogyo.",
-                    "genre": "Deportes, Shounen",
+                    "url": "/parasyte-los-grises",
+                    "title": "Parasyte: Los grises",
+                    "description": "Cuando unas formas de vida parasitaria no identificadas que subsisten a expensas de los huéspedes humanos intentan aumentar su poder y empiezan a perturbar a la sociedad, un grupo de humanos declara la guerra a los invasores.",
+                    "genre": "Acción, Drama, Fantasía, Ciencia Ficción, Aventuras",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4203.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4204.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/the-first-slam-dunk-1",
-                        "name": "Película",
+                        "url": "/ver/parasyte-los-grises-6",
+                        "name": "Episodio 6",
                         "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/parasyte-los-grises-5",
+                        "name": "Episodio 5",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -288,17 +293,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-xygvp1sk9y8ulkte.voe-network.net/engine/hls2/01/11180/lrhvlkfugowa_,n,.urlset/index-v1-a1.m3u8?t=UjR7ZDCmelrHndq6dNFnvAQtufsBqWr7PpIVE18gPwk&s=1714134196&e=14400&f=55906121&node=delivery-node-xygvp1sk9y8ulkte.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-wi114x2bre4yltgi.voe-network.net/engine/hls2/01/11208/dyugzbfkwfau_,n,.urlset/index-v1-a1.m3u8?t=luALb6V8ARv-j9FG5RDdLp5lsCiJhEqlJNr7osXd3eM&s=1714155382&e=14400&f=56041321&node=delivery-node-wi114x2bre4yltgi.voe-network.net&i=52.238&sp=2500&asn=8075",
                         "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-xygvp1sk9y8ulkte.voe-network.net/engine/hls2/01/11180/lrhvlkfugowa_,n,.urlset/index-v1-a1.m3u8?t=UjR7ZDCmelrHndq6dNFnvAQtufsBqWr7PpIVE18gPwk&s=1714134196&e=14400&f=55906121&node=delivery-node-xygvp1sk9y8ulkte.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-wi114x2bre4yltgi.voe-network.net/engine/hls2/01/11208/dyugzbfkwfau_,n,.urlset/index-v1-a1.m3u8?t=luALb6V8ARv-j9FG5RDdLp5lsCiJhEqlJNr7osXd3eM&s=1714155382&e=14400&f=56041321&node=delivery-node-wi114x2bre4yltgi.voe-network.net&i=52.238&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=e3mO0ZA06zFY6V6&expires=1714204197&ip=F0qQKRWZD19XKxR&token=83330KHx1q93",
+                        "url": "https://a3.mp4upload.com:183/d/xsxxirpyz3b4quuou6quso2lcbunjgfboxj2r44skxy5neyhrdhelfg63lmjvp4xr2iozqbw/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxxirpyz3b4quuou6quso2lcbunjgfboxj2r44skxy5neyhrdhelfg63lmjvp4xr2iozqbw/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=JvlZ0Prb8VHjDkM&expires=1714225380&ip=G0WsDROZKxSHDN&token=0I4ZhO2vDPwU",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=e3mO0ZA06zFY6V6&expires=1714204197&ip=F0qQKRWZD19XKxR&token=83330KHx1q93"
+                        "videoUrl": "https://streamtape.com/get_video?id=JvlZ0Prb8VHjDkM&expires=1714225380&ip=G0WsDROZKxSHDN&token=0I4ZhO2vDPwU"
                     }
                 ],
                 "passed": true

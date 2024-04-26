@@ -361,8 +361,51 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for aHR0cH...",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/11171/izpmodylli7a_,n,.urlset/index-v1-a1.m3u8?t=GxxGbHCEB0bO6G7KyMdmNWa18_CpSAH3TEWduWZ70wc&s=1714134223&e=14400&f=55857954&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/11171/izpmodylli7a_,n,.urlset/index-v1-a1.m3u8?t=GxxGbHCEB0bO6G7KyMdmNWa18_CpSAH3TEWduWZ70wc&s=1714134223&e=14400&f=55857954&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=3&sig=PyPY_O9sQ74&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=3&sig=PyPY_O9sQ74&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127"
+                    },
+                    {
+                        "url": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=2&sig=2KN9RjVSYgo&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=2&sig=2KN9RjVSYgo&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127"
+                    },
+                    {
+                        "url": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=1&sig=nqxH6wfby2I&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=1&sig=nqxH6wfby2I&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127"
+                    },
+                    {
+                        "url": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=0&sig=qKEcF1bWAPU&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=0&sig=qKEcF1bWAPU&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127"
+                    },
+                    {
+                        "url": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=4&sig=7ng7IoI8XFA&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd414.mycdn.me/?expires=1714220624943&srcIp=172.183.154.242&pr=10&srcAg=GECKO&ms=45.136.20.51&type=4&sig=7ng7IoI8XFA&ct=0&urls=45.136.22.33&clientType=0&zs=43&id=6609532226127"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a2024042604E58YT4yJ8/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a2024042604E58YT4yJ8/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -621,8 +664,26 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for aHR0cH...",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-wfy1ssu9pftrhkpl.voe-network.net/engine/hls2/01/11100/m8gq52h8uxvz_,n,.urlset/index-v1-a1.m3u8?t=yqUf9Mh8ahnrk_IJkpOsnqXu2MOZNn5IRVNq-LBcrjQ&s=1714134228&e=14400&f=55504264&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-wfy1ssu9pftrhkpl.voe-network.net/engine/hls2/01/11100/m8gq52h8uxvz_,n,.urlset/index-v1-a1.m3u8?t=yqUf9Mh8ahnrk_IJkpOsnqXu2MOZNn5IRVNq-LBcrjQ&s=1714134228&e=14400&f=55504264&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a2024042654yLTHdu7Ds/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a2024042654yLTHdu7Ds/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

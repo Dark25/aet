@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/dAzbtjL1B0aXFjgFvA4m2oe3i8F.jpg"
                             },
                             {
+                                "url": "/animes/mushoku-tensei-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uOwjWZOJwddC5ZwIx0Wl7pNsLB9.jpg"
+                            },
+                            {
                                 "url": "/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/evIoi0zSoK9g8xxKxFlQ3nVGsZ3.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/animes/sakurasou-no-pet-na-kanojo/",
                                 "title": "Sakurasou no Pet na Kanojo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/6pV5QSSZNtHd3ONrJeMy4SCoVFE.jpg"
-                            },
-                            {
-                                "url": "/animes/dungeon-meshi-dublado/",
-                                "title": "Dungeon Meshi Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8QE6T2vb8HgsHUNV1shubQmKhOP.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -358,15 +358,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/animes/bartender-kami-no-glass/",
-                    "title": "Bartender: Kami no Glass",
-                    "description": "Numa rua escondida do distrito de Ginza, encontra-se Eden Hall, um bar único gerido por Ryuu Sasakura, um bartender prodígio conhecido por preparar os cocktails mais incríveis que alguém já provou. Contudo, não é qualquer um que consegue encontrar Eden Hall; na verdade, é o Eden Hall que encontra você. Diversos clientes, com os mais variados problemas, acabam entrando neste bar. Apesar disso, Ryuu tem sempre o cocktail ideal para consolar e orientar cada alma aflita.\n\nTítulo original: バーテンダー 神のグラス\nTemporadas: 1\nEpisódios: 1",
-                    "genre": "Adult Cast, Drama, Gourmet, Seinen, Trabalho",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/mglsK2WEYWNYSODSzTjO5eoHHQ1.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -384,33 +377,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.secvideo1.online/get_file/11/ac6f177878de2e543ac5a22a729c4122e3a79705d0/781000/781135/781135_720p.mp4/",
-                        "quality": "Ruplay - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/ac6f177878de2e543ac5a22a729c4122e3a79705d0/781000/781135/781135_720p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/ac6f177878de2e543ac5a22a729c4122e3a79705d0/781000/781135/781135_720p.mp4/"
-                        }
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/11/d998aba1dcc8a500d4791498f7bfaa20ee3f7307b0/781000/781135/781135.mp4/",
-                        "quality": "Ruplay - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/d998aba1dcc8a500d4791498f7bfaa20ee3f7307b0/781000/781135/781135.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/d998aba1dcc8a500d4791498f7bfaa20ee3f7307b0/781000/781135/781135.mp4/"
-                        }
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/11/7b7e5c5f61fd305590c6bfa6308332a338457c9144/781000/781135/781135_360p.mp4/",
-                        "quality": "Ruplay - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/7b7e5c5f61fd305590c6bfa6308332a338457c9144/781000/781135/781135_360p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/7b7e5c5f61fd305590c6bfa6308332a338457c9144/781000/781135/781135_360p.mp4/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

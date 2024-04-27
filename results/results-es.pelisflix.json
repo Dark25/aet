@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/spy-x-family-codigo-blanco/",
+                                "title": "SPY x FAMILY CÓDIGO: Blanco",
+                                "description": "Es un espía. Ella es una asesina. Juntos, Loid y Yor se guardan su doble vida para sí mismos mient...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/YErwedKvMe0skTJO4M8zKSn1nD5wxtglYxH2A.webp"
+                            },
+                            {
+                                "url": "/pelicula/vacaciones-sin-mama/",
+                                "title": "Vacaciones sin mamá",
+                                "description": "Cuenta la historia de Antoine que opta por quedarse en casa para cuidar a sus hijos tras su despido....",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/qxN29Ns6JvJyAtNziSfF2zkiO0044ZRlnvem8xj.webp"
+                            },
+                            {
+                                "url": "/pelicula/metronom/",
+                                "title": "Metronom",
+                                "description": "La película \"Metronom\" narra la conmovedora historia de amor adolescente entre Ana, de 17 años, y ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/HKLc8G9TclQnbQMLt6QaiByxyhfRdeLKOmMMSMwVYc.webp"
+                            },
+                            {
+                                "url": "/pelicula/ashkal/",
+                                "title": "Ashkal",
+                                "description": "Esta película aborda una investigación cuando se encuentra el cuerpo de un vigilante calcinado en ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/3BKZknMfF1e5gzgFVdDcfEOR6r0nJgeCHPrS24XxV.webp"
+                            },
+                            {
                                 "url": "/pelicula/sayen-la-cazadora/",
                                 "title": "Sayen: La Cazadora",
                                 "description": "",
@@ -221,30 +245,6 @@
                                 "title": "1618",
                                 "description": "La Inquisición continúa la persecución de los judíos portugueses, enviando al Visitador Sebasti�...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/20LEb3hxm9zvBUMDpJrjzBZ.webp"
-                            },
-                            {
-                                "url": "/pelicula/elevator-game/",
-                                "title": "Elevator Game",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/BPgrKqrAwIhqTxpSCLV6bIWpP.webp"
-                            },
-                            {
-                                "url": "/pelicula/fear/",
-                                "title": "Fear",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EEtQmiGWGBzWYPnTgMT3rrI7CFwl993EDnkP.webp"
-                            },
-                            {
-                                "url": "/pelicula/abigail-2/",
-                                "title": "Abigail",
-                                "description": "A una banda de delincuentes se les ha encargado secuestrar a Abigail, una bailarina de doce años hi...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/c5aaL6lUsDTgi4uh6llDY4CuQnCfaTbdOcdq9parSUx.webp"
-                            },
-                            {
-                                "url": "/pelicula/late-night-with-the-devil/",
-                                "title": "Late Night with the Devil",
-                                "description": "Una transmisión de televisión en vivo en 1977 sale terriblemente mal, desatando el mal en las sala...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/dmdA9NwL3hteSb6KIWPha9NSz2retAL.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/sayen-la-cazadora/",
-                    "title": "Sayen: La Cazadora",
-                    "description": "",
-                    "genre": "Acción, Suspense",
+                    "url": "/pelicula/spy-x-family-codigo-blanco/",
+                    "title": "SPY x FAMILY CÓDIGO: Blanco",
+                    "description": "Es un espía. Ella es una asesina. Juntos, Loid y Yor se guardan su doble vida para sí mismos mientras pretenden ser la familia perfecta. Sin embargo, su hija adoptiva Anya, una telépata, conoce ambos apasionantes secretos sin que ellos lo sepan. Con el pretexto de llevar a su familia a una escapada de fin de semana de invierno, el intento de Loid de avanzar en su misión actual, Operación Strix, resulta difícil cuando Anya se involucra por error y desencadena eventos que amenazan la paz mundial.",
+                    "genre": "Acción, Animación, Aventura, Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/sayen-la-cazadora/",
+                        "url": "/pelicula/spy-x-family-codigo-blanco/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar wKmGqRe = \"\"; kQMLCBr.forEach(function Oym(value) { wKmGqRe += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar TjGfkYD = \"\"; kHSgSuO.forEach(function Oym(value) { TjGfkYD += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/knuckles",
+                                "title": "Knuckles",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933593.jpg"
+                            },
+                            {
                                 "url": "/anime/jantama-kan",
                                 "title": "Jantama Kan!!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933592.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/the-vexations-of-a-shut-in-vampire-princess",
                                 "title": "The Vexations of a Shut-In Vampire Princess",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933578.jpg"
-                            },
-                            {
-                                "url": "/anime/karasu-wa-aruji-wo-erabanai",
-                                "title": "Karasu wa Aruji wo Erabanai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933577.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,18 +604,29 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jantama-kan",
-                    "title": "Jantama Kan!!",
-                    "description": "Sequel to Jantama Pong☆.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933592.jpg",
+                    "url": "/anime/knuckles",
+                    "title": "Knuckles",
+                    "description": "Knuckles the Echidna teaches deputy Wade Whipple the techniques of the Echidna warrior.",
+                    "genre": "Action, Adventure, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933593.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/knuckles-episode-6-what-happens-in-reno-stays-in-reno",
+                        "name": "Season 1 - Episode 6",
+                        "episode_number": 106.0
+                    },
+                    {
+                        "url": "/knuckles-episode-5-reno-baby",
+                        "name": "Season 1 - Episode 5",
+                        "episode_number": 105.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

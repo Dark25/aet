@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/avatar-la-leyenda-de-aang-live-action-latino-sub-espanol",
+                                "title": "Avatar: La leyenda de Aang (Live Action) Latino",
+                                "description": "Avatar: La leyenda de Aang (Live Action) Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/avatar-la-leyenda-de-aang-live-action-latino-1714241607.jpg"
+                            },
+                            {
                                 "url": "/dorama/a-date-with-the-future-sub-espanol",
                                 "title": "A Date With the Future",
                                 "description": "A Date With the Future",
@@ -179,12 +185,6 @@
                                 "title": "Love In Contract",
                                 "description": "Love In Contract",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-in-contract-1707067551.jpg"
-                            },
-                            {
-                                "url": "/dorama/my-happy-ending-sub-espanol",
-                                "title": "My Happy Ending",
-                                "description": "My Happy Ending",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/my-happy-ending-1706907665.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/a-date-with-the-future-sub-espanol",
-                    "title": "A Date With the Future (0)",
-                    "description": "Desde una operación de rescate hace diez años hasta su encuentro diez años después, el bombero Jin Shi Chuan y Xu Lai, que ahora es periodista y entrenadora de perros, se convierten en socios. Hace diez años, Xu Lai fue rescatado por el bombero Jin Shi Chuan y su perro de rescate Zhui Feng. Para consolar a Xu Lai herido, Jin Shi Chuan acepta una promesa de diez años. Diez años después, Xu Lai regresa a China como Periodista y entrenadora de perros, conoce a Jin Shi Chuan en un lugar de rescate, quien no solo no la reconoce, sino que la confunde con una reportera sin escrúpulos. Cuando se forma el equipo de perros de búsqueda y rescate, Xu Lai se convierte en el socio de Jin Shi Chuan debido a sus calificaciones internacionales como entrenadora de perros. Ella se gana a todos con sus habilidades comprobadas. Como reporteros y bomberos, las dos personas siempre se encuentran en el En repetidos encuentros de vida o muerte, gradualmente se enamoran. ",
-                    "genre": "Romance, Drama, C-Drama",
+                    "url": "/dorama/avatar-la-leyenda-de-aang-live-action-latino-sub-espanol",
+                    "title": "Avatar: La leyenda de Aang (Live Action) Latino (0)",
+                    "description": "Adaptación en vivo de la serie animada centrada en las aventuras de Aang y sus amigos, que luchan por salvar el mundo derrotando a la Nación del Fuego. ",
+                    "genre": "Comedia, Acción, Aventuras",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,72 +291,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/a-date-with-the-future-sub-espanol-episodio-36",
-                        "name": "Episodio 36.0",
-                        "episode_number": 36.0
-                    },
-                    {
-                        "url": "/ver/a-date-with-the-future-sub-espanol-episodio-35",
-                        "name": "Episodio 35.0",
-                        "episode_number": 35.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiAFKAQwAzgCeJoHqgEICgYIgAoQ0AWyAQQIxNgC0gEGCAMQAigX2gECCBhaJPa9aMYH7A/fn/track.m3u8",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiAFKAQwAzgCeJoHqgEICgYIgAoQ0AWyAQQIxNgC0gEGCAMQAigX2gECCBhaJPa9aMYH7A/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiAEKAMwAzgCeJoHqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBAZUIvC79dmVg/fn/track.m3u8",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiAEKAMwAzgCeJoHqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBAZUIvC79dmVg/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiADKAIwAzgCeJoHqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQe0iYq3Ty1vE/fn/track.m3u8",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiADKAIwAzgCeJoHqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQe0iYq3Ty1vE/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiACKAEwAzgCeJoHqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQwGRyzwBjTVA/fn/track.m3u8",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiACKAEwAzgCeJoHqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQwGRyzwBjTVA/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiABMAM4AniaB6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICBvWYp9Fi5Wq/fn/track.m3u8",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiABMAM4AniaB6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICBvWYp9Fi5Wq/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiAGKAUwAzgCeJoHaucPn_on0DE/fn/track.m3u8",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1714307120789/clientType/0/srcIp/52.238.25.3/type/2/mid/6662997019167/id/6161214212639/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.70/oq/0/pr/10/ct/28/sig/oPTdQr5C8sc/ondemand/CJ-U8KeoswESFAiflPCnqLMBEJ-U8KeoswEYNyABGhQIn5Twp6izARCflPCnqLMBGDcgAiAGKAUwAzgCeJoHaucPn_on0DE/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

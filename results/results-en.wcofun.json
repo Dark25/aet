@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/cardfight-vanguard-divinez",
+                                "title": "Cardfight!! Vanguard: Divinez",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933594.jpg"
+                            },
+                            {
                                 "url": "/anime/knuckles",
                                 "title": "Knuckles",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933593.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability",
                                 "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933579.jpg"
-                            },
-                            {
-                                "url": "/anime/the-vexations-of-a-shut-in-vampire-princess",
-                                "title": "The Vexations of a Shut-In Vampire Princess",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933578.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/knuckles",
-                    "title": "Knuckles",
-                    "description": "Knuckles the Echidna teaches deputy Wade Whipple the techniques of the Echidna warrior.",
-                    "genre": "Action, Adventure, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933593.jpg",
+                    "url": "/anime/cardfight-vanguard-divinez",
+                    "title": "Cardfight!! Vanguard: Divinez",
+                    "description": "Sixth season of Cardfight!! Vanguard: D Series.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933594.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,21 +616,32 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/knuckles-episode-6-what-happens-in-reno-stays-in-reno",
-                        "name": "Season 1 - Episode 6",
-                        "episode_number": 106.0
-                    },
-                    {
-                        "url": "/knuckles-episode-5-reno-baby",
-                        "name": "Season 1 - Episode 5",
-                        "episode_number": 105.0
+                        "url": "/cardfight-vanguard-divinez-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gYTdohs18MKB3pIYBxsCt5Sgz4KQS0Mr5aKZzPMYzELbqmomxwIuTvsSAFbp_0xD5mS90LSxrCSHZqbGPBx2jceJ4gxEEaYTlD_-qY0BAzWqC_Kl6ITkE3H9xVYmJe8xBKc4wRjMqkOGS1JjA34DkgFCcbvoiIntp6JLybD7WlcO3qLE4OI522RsgAmvdqf6TEz6iY-iV0LT4Iu1_uOAE6BCrlPdsJiweuR-_DOHByp3HeZplMGMYRVVqDGbAN1I3Kc6LpB5KaCHclMMishxqRCe6dUYEnwpKU7HA6UHPU0OKAspZs8ahE11g7oniVq2BoaKgtdiOrL27ZXBzAYHhJMiWsrWkfAo76D1FMZRzu4WY5DXizB1nziJyfO_pczVpt0J7j1tZyykFzABUTWSnbu0TTAIDb9DvwlEzpT_wkOK5C3R2UYroHj6TtH8-9B5A",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gYTdohs18MKB3pIYBxsCt5Sgz4KQS0Mr5aKZzPMYzELbqmomxwIuTvsSAFbp_0xD5mS90LSxrCSHZqbGPBx2jceJ4gxEEaYTlD_-qY0BAzWqC_Kl6ITkE3H9xVYmJe8xBKc4wRjMqkOGS1JjA34DkgFCcbvoiIntp6JLybD7WlcO3qLE4OI522RsgAmvdqf6TEz6iY-iV0LT4Iu1_uOAE6BCrlPdsJiweuR-_DOHByp3HeZplMGMYRVVqDGbAN1I3Kc6LpB5KaCHclMMishxqRCe6dUYEnwpKU7HA6UHPU0OKAspZs8ahE11g7oniVq2BoaKgtdiOrL27ZXBzAYHhJMiWsrWkfAo76D1FMZRzu4WY5DXizB1nziJyfO_pczVpt0J7j1tZyykFzABUTWSnbu0TTAIDb9DvwlEzpT_wkOK5C3R2UYroHj6TtH8-9B5A"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gYTdohs18MKB3pIYBxsCt5Sgz4KQS0Mr5aKZzPMYzELbqmomxwIuTvsSAFbp_0xD5mS90LSxrCSHZqbGPBx2jceJ4gxEEaYTlD_-qY0BAzWqC_Kl6ITkE3H9xVYmJe8xBKc4wRjMqkOGS1JjA34DkgFCcbvoiIntp6JLybD7WlcNwLJXcow7ZrFiqcIbrWadoyQzhmHP_mgI2l5IBkZYkFDWikJGkW4RsIhh-x1w-lxU3ZzOqnhXe1SZ4W1u-KxbQYhbgiMJnVmABQLYsDcRnziVztKxpgrxXNBOibvL3hfabVgGCgE3XyiMePXwTR3EteYzeNE7pQTnNmUWAF3b4MUUH_3yjvPzowvSY38C61YrKS8Zj7visxlPazPsvFw-MTHsTO48-7JvVpY7XrvC51mNgC3n7_nBgIeEtq5J0HghgP5VMrP8V2c1R6CF7O0l0",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gYTdohs18MKB3pIYBxsCt5Sgz4KQS0Mr5aKZzPMYzELbqmomxwIuTvsSAFbp_0xD5mS90LSxrCSHZqbGPBx2jceJ4gxEEaYTlD_-qY0BAzWqC_Kl6ITkE3H9xVYmJe8xBKc4wRjMqkOGS1JjA34DkgFCcbvoiIntp6JLybD7WlcNwLJXcow7ZrFiqcIbrWadoyQzhmHP_mgI2l5IBkZYkFDWikJGkW4RsIhh-x1w-lxU3ZzOqnhXe1SZ4W1u-KxbQYhbgiMJnVmABQLYsDcRnziVztKxpgrxXNBOibvL3hfabVgGCgE3XyiMePXwTR3EteYzeNE7pQTnNmUWAF3b4MUUH_3yjvPzowvSY38C61YrKS8Zj7visxlPazPsvFw-MTHsTO48-7JvVpY7XrvC51mNgC3n7_nBgIeEtq5J0HghgP5VMrP8V2c1R6CF7O0l0"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gYTdohs18MKB3pIYBxsCt5Sgz4KQS0Mr5aKZzPMYzELbqmomxwIuTvsSAFbp_0xD5mS90LSxrCSHZqbGPBx2jceJ4gxEEaYTlD_-qY0BAzWqC_Kl6ITkE3H9xVYmJe8xBKc4wRjMqkOGS1JjA34DkgFCcbvoiIntp6JLybD7WlcMh1AvvkNPuH4wPkWg0KAKBs3F4sXeUtNiCEKjD47r0_3jThlvTs0zr2W7-SLYU3sLgeAUiG81pPZaCmYZmt_ZUK4R3AemlOzKVIdaNn4OEeeVGxCi3oWeLdLDr47PpoGmFj2bvc1hWa3gau2fbOlOcsnmNgw7_8t6To8g12zyaOvFLbqrlFpr5gSNzwIAwONSb9Cj5egmvNplEvTzFWy8foJFFoWUIRnIf5UTdrCEtSMMbtk5BIWJiwSqc5H0ud_I-fEkwhPKcI2TmLVsS8Csg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gYTdohs18MKB3pIYBxsCt5Sgz4KQS0Mr5aKZzPMYzELbqmomxwIuTvsSAFbp_0xD5mS90LSxrCSHZqbGPBx2jceJ4gxEEaYTlD_-qY0BAzWqC_Kl6ITkE3H9xVYmJe8xBKc4wRjMqkOGS1JjA34DkgFCcbvoiIntp6JLybD7WlcMh1AvvkNPuH4wPkWg0KAKBs3F4sXeUtNiCEKjD47r0_3jThlvTs0zr2W7-SLYU3sLgeAUiG81pPZaCmYZmt_ZUK4R3AemlOzKVIdaNn4OEeeVGxCi3oWeLdLDr47PpoGmFj2bvc1hWa3gau2fbOlOcsnmNgw7_8t6To8g12zyaOvFLbqrlFpr5gSNzwIAwONSb9Cj5egmvNplEvTzFWy8foJFFoWUIRnIf5UTdrCEtSMMbtk5BIWJiwSqc5H0ud_I-fEkwhPKcI2TmLVsS8Csg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

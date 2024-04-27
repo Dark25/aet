@@ -358,8 +358,15 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/bartender-kami-no-glass/",
+                    "title": "Bartender: Kami no Glass",
+                    "description": "Numa rua escondida do distrito de Ginza, encontra-se Eden Hall, um bar único gerido por Ryuu Sasakura, um bartender prodígio conhecido por preparar os cocktails mais incríveis que alguém já provou. Contudo, não é qualquer um que consegue encontrar Eden Hall; na verdade, é o Eden Hall que encontra você. Diversos clientes, com os mais variados problemas, acabam entrando neste bar. Apesar disso, Ryuu tem sempre o cocktail ideal para consolar e orientar cada alma aflita.\n\nTítulo original: バーテンダー 神のグラス\nTemporadas: 1\nEpisódios: 1",
+                    "genre": "Adult Cast, Drama, Gourmet, Seinen, Trabalho",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/mglsK2WEYWNYSODSzTjO5eoHHQ1.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -377,8 +384,33 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/ac6f177878de2e543ac5a22a729c412294b9d84350/781000/781135/781135_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/ac6f177878de2e543ac5a22a729c412294b9d84350/781000/781135/781135_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/ac6f177878de2e543ac5a22a729c412294b9d84350/781000/781135/781135_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/d998aba1dcc8a500d4791498f7bfaa206fdd6ed735/781000/781135/781135.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/d998aba1dcc8a500d4791498f7bfaa206fdd6ed735/781000/781135/781135.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/d998aba1dcc8a500d4791498f7bfaa206fdd6ed735/781000/781135/781135.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/7b7e5c5f61fd305590c6bfa6308332a330bf22bd0d/781000/781135/781135_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/7b7e5c5f61fd305590c6bfa6308332a330bf22bd0d/781000/781135/781135_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/7b7e5c5f61fd305590c6bfa6308332a330bf22bd0d/781000/781135/781135_360p.mp4/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

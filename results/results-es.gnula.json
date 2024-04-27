@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/city-hunter",
+                                "title": "City Hunter",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg"
+                            },
+                            {
+                                "url": "/movies/the-quantum-devil",
+                                "title": "The Quantum Devil",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/eJtVUr5hR2QrrlTCyN74NzqANzD.jpg"
+                            },
+                            {
+                                "url": "/movies/gato-galactico-e-o-feitico-do-tempo",
+                                "title": "Gato Galáctico e o Feitiço do Tempo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/e9ayeO02YQVLbQpY62lj1gqAFl6.jpg"
+                            },
+                            {
                                 "url": "/movies/nightman",
                                 "title": "Nightman: La sombra del mal",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fmwq5BuVZzpQEAzqfsSilKvbRJK.jpg"
@@ -40,11 +55,6 @@
                                 "url": "/movies/black-lotus",
                                 "title": "Rescate en Ámsterdam",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hhLmRxnTgKrldOp2zyAapsXayiI.jpg"
-                            },
-                            {
-                                "url": "/movies/city-hunter",
-                                "title": "City Hunter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg"
                             },
                             {
                                 "url": "/movies/antares-de-la-luz-la-secta-del-fin-del-mundo",
@@ -120,16 +130,6 @@
                                 "url": "/movies/diario-de-un-chico-travieso-el-largo-recorrido",
                                 "title": "Diario de Greg: Un viaje de locos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3jCOrICWTL2OGao2czxQ1ZIxG06.jpg"
-                            },
-                            {
-                                "url": "/movies/invicto-4-la-gran-pelea",
-                                "title": "Invicto 4: La gran pelea",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hn2C89W1APrPPoZ1XQv69jJb1RP.jpg"
-                            },
-                            {
-                                "url": "/movies/la-increible-jessica-james",
-                                "title": "La increíble Jessica James",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/r7tDHGsFzHY0YBCaaNctvAxZhpc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -382,14 +382,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg"
                             },
                             {
-                                "url": "/movies/la-guerra-de-los-mundos-destruccion-total",
-                                "title": "La Guerra de los mundos: Destrucción total",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
-                            },
-                            {
                                 "url": "/series/carol-y-el-fin-del-mundo",
                                 "title": "Carol y el fin del mundo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/eqXQL8XGvL2tn2NfXKirBHQKo2d.jpg"
+                            },
+                            {
+                                "url": "/movies/la-guerra-de-los-mundos-destruccion-total",
+                                "title": "La Guerra de los mundos: Destrucción total",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
                             },
                             {
                                 "url": "/movies/guerra-mundial-z",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/nightman",
-                    "title": "Nightman: La sombra del mal",
-                    "artist": "Zara Devlin",
-                    "description": "Una joven embarazada descubre que aparentemente perfecto novio puede que sea un peligroso sonámbulo cuando se entera de extrañas desapariciones y asesinatos que tienen lugar en la región.",
-                    "genre": "Suspenso, Terror",
+                    "url": "/movies/city-hunter",
+                    "title": "City Hunter",
+                    "artist": "Ryohei Suzuki",
+                    "description": "El detective privado Ryo Saeba —experto francotirador y mujeriego sin remedio— acepta, a regañadientes, aliarse con la hermana de su compañero para investigar su muerte.",
+                    "genre": "Acción, Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/fmwq5BuVZzpQEAzqfsSilKvbRJK.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/nightman",
+                        "url": "/movies/city-hunter",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,91 +429,118 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-aenweewvyripecad.voe-network.net/engine/hls2/01/11210/53dj9i0qcgoi_,o,.urlset/index-v1-a1.m3u8?t=OrmZmsEAehcY600JjHTiXErMgUtzg4pApiE-_SNYxxM&s=1714179537&e=14400&f=56052153&node=delivery-node-aenweewvyripecad.voe-network.net&i=23.96&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe: 800p",
-                        "videoUrl": "https://delivery-node-aenweewvyripecad.voe-network.net/engine/hls2/01/11210/53dj9i0qcgoi_,o,.urlset/index-v1-a1.m3u8?t=OrmZmsEAehcY600JjHTiXErMgUtzg4pApiE-_SNYxxM&s=1714179537&e=14400&f=56052153&node=delivery-node-aenweewvyripecad.voe-network.net&i=23.96&sp=2500&asn=8075",
+                        "url": "https://delivery-node-kkcaaydxqcwtrsep.voe-network.net/engine/hls2/01/11210/vo2fzqkwg1vm_,n,.urlset/index-v1-a1.m3u8?t=jIKAbZuBF4vat0ZoQ2MpaFkFJcXBxEmfieombKJdwGk&s=1714198905&e=14400&f=56053438&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe: 720p",
+                        "videoUrl": "https://delivery-node-kkcaaydxqcwtrsep.voe-network.net/engine/hls2/01/11210/vo2fzqkwg1vm_,n,.urlset/index-v1-a1.m3u8?t=jIKAbZuBF4vat0ZoQ2MpaFkFJcXBxEmfieombKJdwGk&s=1714198905&e=14400&f=56053438&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/02/05980/012pi59n098f_n/index-v1-a1.m3u8?t=NEjJfHl7r3twikZWM66ElazQ4dKxpWY_nddZepq0A5U&s=1714179533&e=43200&f=29904079&srv=31&asn=8075&sp=4000",
-                        "quality": "[LAT] Filemoon:800p",
-                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/02/05980/012pi59n098f_n/index-v1-a1.m3u8?t=NEjJfHl7r3twikZWM66ElazQ4dKxpWY_nddZepq0A5U&s=1714179533&e=43200&f=29904079&srv=31&asn=8075&sp=4000",
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05991/9v4ku9gjsybg_h/index-v1-a1.m3u8?t=C-k7kSfnzvU5GhQ_hU8EVp5_2GgQ6Jf_O76IDAV59KI&s=1714198906&e=43200&f=29956865&srv=33&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:1080p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05991/9v4ku9gjsybg_h/index-v1-a1.m3u8?t=C-k7kSfnzvU5GhQ_hU8EVp5_2GgQ6Jf_O76IDAV59KI&s=1714198906&e=43200&f=29956865&srv=33&asn=8075&sp=4000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://filemoon.sx/e/012pi59n098f",
+                            "Referer": "https://filemoon.sx/e/9v4ku9gjsybg",
                             "Origin": "https://filemoon.sx",
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03685/3zl2lgb9of2r_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Mym-hsbktVdnSIk-jsMXQy8yFFiWM0k9hGp8ZCActwE&s=1714179535&e=129600&f=18427991&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "url": "https://fq97k6f9wh.sw-cdnstreamwish.com/hls2/01/03708/azllogycj6mu_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9SZhpvSbVTOpv1_vphzo0Qdl-Ks5yPoZH_XBdW4B7dg&s=1714198908&e=129600&f=18542888&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "quality": "[LAT] StreamWish:1080p",
+                        "videoUrl": "https://fq97k6f9wh.sw-cdnstreamwish.com/hls2/01/03708/azllogycj6mu_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9SZhpvSbVTOpv1_vphzo0Qdl-Ks5yPoZH_XBdW4B7dg&s=1714198908&e=129600&f=18542888&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/azllogycj6mu"
+                        }
+                    },
+                    {
+                        "url": "https://fq97k6f9wh.sw-cdnstreamwish.com/hls2/01/03708/azllogycj6mu_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=9SZhpvSbVTOpv1_vphzo0Qdl-Ks5yPoZH_XBdW4B7dg&s=1714198908&e=129600&f=18542888&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03685/3zl2lgb9of2r_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Mym-hsbktVdnSIk-jsMXQy8yFFiWM0k9hGp8ZCActwE&s=1714179535&e=129600&f=18427991&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "videoUrl": "https://fq97k6f9wh.sw-cdnstreamwish.com/hls2/01/03708/azllogycj6mu_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=9SZhpvSbVTOpv1_vphzo0Qdl-Ks5yPoZH_XBdW4B7dg&s=1714198908&e=129600&f=18542888&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3zl2lgb9of2r"
+                            "Referer": "https://streamwish.to/e/azllogycj6mu"
                         }
                     },
                     {
-                        "url": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03685/3zl2lgb9of2r_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Mym-hsbktVdnSIk-jsMXQy8yFFiWM0k9hGp8ZCActwE&s=1714179535&e=129600&f=18427991&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "url": "https://fq97k6f9wh.sw-cdnstreamwish.com/hls2/01/03708/azllogycj6mu_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=9SZhpvSbVTOpv1_vphzo0Qdl-Ks5yPoZH_XBdW4B7dg&s=1714198908&e=129600&f=18542888&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03685/3zl2lgb9of2r_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Mym-hsbktVdnSIk-jsMXQy8yFFiWM0k9hGp8ZCActwE&s=1714179535&e=129600&f=18427991&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "videoUrl": "https://fq97k6f9wh.sw-cdnstreamwish.com/hls2/01/03708/azllogycj6mu_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=9SZhpvSbVTOpv1_vphzo0Qdl-Ks5yPoZH_XBdW4B7dg&s=1714198908&e=129600&f=18542888&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3zl2lgb9of2r"
+                            "Referer": "https://streamwish.to/e/azllogycj6mu"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=7bkVmR3JBvfAdjB&expires=1714249534&ip=FRAsF0InDS9X&token=jR0FA4ab2IrT",
+                        "url": "https://streamtape.com/get_video?id=abP7o121k0ibky&expires=1714268907&ip=F0qQKRWZD19XKxR&token=4Nd56HYU44op",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7bkVmR3JBvfAdjB&expires=1714249534&ip=FRAsF0InDS9X&token=jR0FA4ab2IrT"
+                        "videoUrl": "https://streamtape.com/get_video?id=abP7o121k0ibky&expires=1714268907&ip=F0qQKRWZD19XKxR&token=4Nd56HYU44op"
                     },
                     {
-                        "url": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/11199/sjist5x4pju9_,n,.urlset/index-v1-a1.m3u8?t=85I_ym6BNOjRhd1G2hcStV5nor5KNbPU4YbQZfdCZ_s&s=1714179543&e=14400&f=55999369&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=23.96&sp=2500&asn=8075",
-                        "quality": "[SUB]Voe: 800p",
-                        "videoUrl": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/11199/sjist5x4pju9_,n,.urlset/index-v1-a1.m3u8?t=85I_ym6BNOjRhd1G2hcStV5nor5KNbPU4YbQZfdCZ_s&s=1714179543&e=14400&f=55999369&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=23.96&sp=2500&asn=8075",
+                        "url": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/11210/8ypiewnlwwgu_,n,.urlset/index-v1-a1.m3u8?t=cjjJr1qK1wV3kG0rkI8L7qoeYfcbJoJvBiRq4miYKOE&s=1714198915&e=14400&f=56053562&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[SUB]Voe: 720p",
+                        "videoUrl": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/11210/8ypiewnlwwgu_,n,.urlset/index-v1-a1.m3u8?t=cjjJr1qK1wV3kG0rkI8L7qoeYfcbJoJvBiRq4miYKOE&s=1714198915&e=14400&f=56053562&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05980/nphvux4rjcxv_n/index-v1-a1.m3u8?t=DtdIKJJ7HzQtDCl-uf8L_hHIXPBvaDVh5bCezkgU8aU&s=1714179541&e=43200&f=29904115&srv=15&asn=8075&sp=4000",
-                        "quality": "[SUB] Filemoon:800p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05980/nphvux4rjcxv_n/index-v1-a1.m3u8?t=DtdIKJJ7HzQtDCl-uf8L_hHIXPBvaDVh5bCezkgU8aU&s=1714179541&e=43200&f=29904115&srv=15&asn=8075&sp=4000",
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/05991/59omo1c3aq9l_h/index-v1-a1.m3u8?t=N9PEDDTB8Irjpvd29a-ARPqvyDrdhp7SKZZ-fkH6YgI&s=1714198913&e=43200&f=29957215&srv=18&asn=8075&sp=4000",
+                        "quality": "[SUB] Filemoon:1080p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/05991/59omo1c3aq9l_h/index-v1-a1.m3u8?t=N9PEDDTB8Irjpvd29a-ARPqvyDrdhp7SKZZ-fkH6YgI&s=1714198913&e=43200&f=29957215&srv=18&asn=8075&sp=4000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://filemoon.sx/e/nphvux4rjcxv",
+                            "Referer": "https://filemoon.sx/e/59omo1c3aq9l",
                             "Origin": "https://filemoon.sx",
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03685/ygl418ae34d6_,n,h,.urlset/index-f2-v1-a1.m3u8?t=L29awPR-hCdv4xlQV-yyqMx2Ci11O30pxLxEp_BeBA8&s=1714179540&e=129600&f=18428029&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03685/ygl418ae34d6_,n,h,.urlset/index-f2-v1-a1.m3u8?t=L29awPR-hCdv4xlQV-yyqMx2Ci11O30pxLxEp_BeBA8&s=1714179540&e=129600&f=18428029&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "url": "https://cv9fqnu812.sw-cdnstreamwish.com/hls2/01/03708/1ioqy5iyk0hi_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PD3BOJmszbD-hhYVxTuvcWY96F-C8mzeR0l9ibnZW3Q&s=1714198913&e=129600&f=18543093&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[SUB] StreamWish:1080p",
+                        "videoUrl": "https://cv9fqnu812.sw-cdnstreamwish.com/hls2/01/03708/1ioqy5iyk0hi_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PD3BOJmszbD-hhYVxTuvcWY96F-C8mzeR0l9ibnZW3Q&s=1714198913&e=129600&f=18543093&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/ygl418ae34d6"
+                            "Referer": "https://streamwish.to/e/1ioqy5iyk0hi"
                         }
                     },
                     {
-                        "url": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03685/ygl418ae34d6_,n,h,.urlset/index-f1-v1-a1.m3u8?t=L29awPR-hCdv4xlQV-yyqMx2Ci11O30pxLxEp_BeBA8&s=1714179540&e=129600&f=18428029&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://vuvabh8vnota.sw-cdnstreamwish.com/hls2/01/03685/ygl418ae34d6_,n,h,.urlset/index-f1-v1-a1.m3u8?t=L29awPR-hCdv4xlQV-yyqMx2Ci11O30pxLxEp_BeBA8&s=1714179540&e=129600&f=18428029&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "url": "https://cv9fqnu812.sw-cdnstreamwish.com/hls2/01/03708/1ioqy5iyk0hi_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PD3BOJmszbD-hhYVxTuvcWY96F-C8mzeR0l9ibnZW3Q&s=1714198913&e=129600&f=18543093&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://cv9fqnu812.sw-cdnstreamwish.com/hls2/01/03708/1ioqy5iyk0hi_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PD3BOJmszbD-hhYVxTuvcWY96F-C8mzeR0l9ibnZW3Q&s=1714198913&e=129600&f=18543093&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/ygl418ae34d6"
+                            "Referer": "https://streamwish.to/e/1ioqy5iyk0hi"
                         }
+                    },
+                    {
+                        "url": "https://cv9fqnu812.sw-cdnstreamwish.com/hls2/01/03708/1ioqy5iyk0hi_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PD3BOJmszbD-hhYVxTuvcWY96F-C8mzeR0l9ibnZW3Q&s=1714198913&e=129600&f=18543093&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://cv9fqnu812.sw-cdnstreamwish.com/hls2/01/03708/1ioqy5iyk0hi_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PD3BOJmszbD-hhYVxTuvcWY96F-C8mzeR0l9ibnZW3Q&s=1714198913&e=129600&f=18543093&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/1ioqy5iyk0hi"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=PJ0qJlaeZ2TG8A&expires=1714268912&ip=F0qQKRWZD19XKxR&token=CfVEOz4nQU1_",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=PJ0qJlaeZ2TG8A&expires=1714268912&ip=F0qQKRWZD19XKxR&token=CfVEOz4nQU1_"
                     }
                 ],
                 "passed": true

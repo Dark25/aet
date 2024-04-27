@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-especialista/",
+                                "title": "El especialista",
+                                "description": "Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disp...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/XYNIQNXUNATmRoI2nZqy2D165xyICpEqehYUVMEzcoLU.webp"
+                            },
+                            {
                                 "url": "/pelicula/spy-x-family-codigo-blanco/",
                                 "title": "SPY x FAMILY CÓDIGO: Blanco",
                                 "description": "Es un espía. Ella es una asesina. Juntos, Loid y Yor se guardan su doble vida para sí mismos mient...",
@@ -239,12 +245,6 @@
                                 "title": "Hypochondriac",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w1"
-                            },
-                            {
-                                "url": "/pelicula/1618/",
-                                "title": "1618",
-                                "description": "La Inquisición continúa la persecución de los judíos portugueses, enviando al Visitador Sebasti�...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/20LEb3hxm9zvBUMDpJrjzBZ.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/spy-x-family-codigo-blanco/",
-                    "title": "SPY x FAMILY CÓDIGO: Blanco",
-                    "description": "Es un espía. Ella es una asesina. Juntos, Loid y Yor se guardan su doble vida para sí mismos mientras pretenden ser la familia perfecta. Sin embargo, su hija adoptiva Anya, una telépata, conoce ambos apasionantes secretos sin que ellos lo sepan. Con el pretexto de llevar a su familia a una escapada de fin de semana de invierno, el intento de Loid de avanzar en su misión actual, Operación Strix, resulta difícil cuando Anya se involucra por error y desencadena eventos que amenazan la paz mundial.",
-                    "genre": "Acción, Animación, Aventura, Comedia",
+                    "url": "/pelicula/el-especialista/",
+                    "title": "El especialista",
+                    "description": "Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo. ¿Qué podría salir bien?",
+                    "genre": "Acción, Aventura, Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/spy-x-family-codigo-blanco/",
+                        "url": "/pelicula/el-especialista/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar gqiHpjie = \"\"; ghXGgQLZc.forEach(function Oym(value) { gqiHpjie += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar SPQHvCS = \"\"; aRPmAlO.forEach(function Oym(value) { SPQHvCS += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

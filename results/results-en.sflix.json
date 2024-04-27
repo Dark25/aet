@@ -473,18 +473,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/movie/free-the-doomsday-cult-of-antares-de-la-luz-hd-108496",
-                    "title": "The Doomsday Cult of Antares de la Luz",
-                    "author": "Fabula, Fábula",
-                    "description": " Almost 10 years after being charged with a heinous crime, former members of a Chilean cult share their haunting experiences.",
-                    "genre": "Documentary",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/60/f8/60f86e3cde437250c3cc15d1b6da4b14/60f86e3cde437250c3cc15d1b6da4b14.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [

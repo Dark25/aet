@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8319-knuckles",
+                                "title": "Knuckles",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/4c41d311-5b8b-46d3-a301-56f4ae5d9908.webp"
+                            },
+                            {
                                 "url": "8317-dead-boy-detectives",
                                 "title": "Dead Boy Detectives",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e4753a0a-56ac-416f-8e82-cb4f5b7a6707.webp"
@@ -300,11 +305,6 @@
                                 "url": "8221-ci-vediamo-in-unaltra-vita",
                                 "title": "Ci vediamo in un'altra vita",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/49bbbdb9-eac7-44a6-945d-121eb7dd6983.webp"
-                            },
-                            {
-                                "url": "8123-imaginary",
-                                "title": "Imaginary",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8f84bd3f-2c6d-4d11-ad90-e1dc64733792.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8317-dead-boy-detectives",
-                    "description": "Due giovani fantasmi collaborano con una sensitiva alla risoluzione di misteri per i loro clienti soprannaturali, finché una potente strega non complica le cose.",
-                    "genre": "Dramma, Sci-Fi & Fantasy, Mistero",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "8319-knuckles",
+                    "description": "La nuova serie live action segue Knuckles in un viaggio di scoperta personale esilarante e pieno d'azione quando accetta di allenare Wade e di prenderlo sotto la sua ala, insegnandogli le usanze dei guerrieri Echidna.",
+                    "genre": "Commedia, Action & Adventure, Famiglia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,14 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8317?episode_id=60509&next_episode=1",
-                        "name": "Stagione 1 episodio 8 - Il caso del serpente affamato",
-                        "episode_number": 8.0
+                        "url": "8319?episode_id=60515&next_episode=1",
+                        "name": "Stagione 1 episodio 6 - Quello che succede a Reno, resta a Reno",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "8317?episode_id=60508&next_episode=1",
-                        "name": "Stagione 1 episodio 7 - Il caso della lunga scalinata",
-                        "episode_number": 7.0
+                        "url": "8319?episode_id=60516&next_episode=1",
+                        "name": "Stagione 1 episodio 5 - Reno, Baby",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -961,40 +961,47 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=720p&token=VeSa_yWCc9LqBllwjNeDig&expires=1719382719&n=1",
+                        "url": "https://vixcloud.co/playlist/223540.m3u8?type=video&rendition=720p&token=X2xDOFJNnzGSnb0PJUN_1Q&expires=1719404553&n=1",
                         "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=720p&token=VeSa_yWCc9LqBllwjNeDig&expires=1719382719&n=1",
+                        "videoUrl": "https://vixcloud.co/playlist/223540.m3u8?type=video&rendition=720p&token=X2xDOFJNnzGSnb0PJUN_1Q&expires=1719404553&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=3-forced-ita&token=49J3S0xutAtw-tfl47Ab1g&expires=1719382719",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=4-ita&token=49J3S0xutAtw-tfl47Ab1g&expires=1719382719",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=5-eng&token=49J3S0xutAtw-tfl47Ab1g&expires=1719382719",
+                                "url": "https://vixcloud.co/playlist/223540?type=subtitle&rendition=3-eng&token=KYN78s-sSjtnfBP-KamzgA&expires=1719404553",
                                 "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223540?type=subtitle&rendition=4-ita&token=KYN78s-sSjtnfBP-KamzgA&expires=1719404553",
+                                "lang": "Italian"
                             }
                         ]
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=480p&token=YjmF5YV3p6SC2DI0x-CKkg&expires=1719382719&n=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/223518.m3u8?type=video&rendition=480p&token=YjmF5YV3p6SC2DI0x-CKkg&expires=1719382719&n=1",
+                        "url": "https://vixcloud.co/playlist/223540.m3u8?type=video&rendition=1080p&token=vEDEweb1JKRXwLwC708jUA&expires=1719404553&n=1",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/223540.m3u8?type=video&rendition=1080p&token=vEDEweb1JKRXwLwC708jUA&expires=1719404553&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=3-forced-ita&token=49J3S0xutAtw-tfl47Ab1g&expires=1719382719",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=4-ita&token=49J3S0xutAtw-tfl47Ab1g&expires=1719382719",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/223518?type=subtitle&rendition=5-eng&token=49J3S0xutAtw-tfl47Ab1g&expires=1719382719",
+                                "url": "https://vixcloud.co/playlist/223540?type=subtitle&rendition=3-eng&token=KYN78s-sSjtnfBP-KamzgA&expires=1719404553",
                                 "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223540?type=subtitle&rendition=4-ita&token=KYN78s-sSjtnfBP-KamzgA&expires=1719404553",
+                                "lang": "Italian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/223540.m3u8?type=video&rendition=480p&token=5cEEp-ueLg1omX0icUf46Q&expires=1719404553&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/223540.m3u8?type=video&rendition=480p&token=5cEEp-ueLg1omX0icUf46Q&expires=1719404553&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/223540?type=subtitle&rendition=3-eng&token=KYN78s-sSjtnfBP-KamzgA&expires=1719404553",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223540?type=subtitle&rendition=4-ita&token=KYN78s-sSjtnfBP-KamzgA&expires=1719404553",
+                                "lang": "Italian"
                             }
                         ]
                     }

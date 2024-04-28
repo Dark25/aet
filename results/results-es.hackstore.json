@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/selkirk-el-verdadero-robinson-crusoe-2012/",
+                                "title": "Selkirk, el verdadero Robinson Crusoe (2012)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/nD2oSuPhISvpkHRGsYRYldDOET3.jpg"
+                            },
+                            {
                                 "url": "/peliculas/operacion-esperanza-los-ninos-perdidos-en-el-amazonas-2024/",
                                 "title": "Operación Esperanza: Los niños perdidos en el Amazonas (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "La Dama de Negro (2012)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg"
-                            },
-                            {
-                                "url": "/peliculas/la-colina-de-las-amapolas-2011/",
-                                "title": "La colina de las amapolas (2011)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/La-colina-de-las-amapolas-2011-scaled.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/operacion-esperanza-los-ninos-perdidos-en-el-amazonas-2024/",
-                    "title": "Operación Esperanza: Los niños perdidos en el Amazonas (2024)",
-                    "artist": "Servidores Online: Voe",
-                    "author": "Elenco: Servidores Online: Voe",
-                    "description": "Narra lo acontecido el 1 de mayo de 2023, cuando cuatro niños estaban a bordo de un pequeño avión que se estrelló en lo profundo del Amazonas. Los niños no solo sobrevivieron al accidente, sino que pasaron 40 días solos en la selva hasta que finalmente fueron rescatados el 9 de junio.",
-                    "genre": "Documental",
+                    "url": "/peliculas/selkirk-el-verdadero-robinson-crusoe-2012/",
+                    "title": "Selkirk, el verdadero Robinson Crusoe (2012)",
+                    "artist": "Ariel Cister",
+                    "author": "Walter Tournier",
+                    "description": "Selkirk es el timonel del Esperanza. Un pirata despreciado por su rebeldía y egoísmo y que lo ha perdido todo en apuestas. Cuando el capitán decide abandonarlo en una isla desierta, deberá afrontar una nueva manera de ver el mundo.",
+                    "genre": "Animación",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/h0ZbUTH2yl0w2OyAK9nkJjdOG3C-202x300.jpg",
+                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/nD2oSuPhISvpkHRGsYRYldDOET3.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/operacion-esperanza-los-ninos-perdidos-en-el-amazonas-2024/",
+                        "url": "/peliculas/selkirk-el-verdadero-robinson-crusoe-2012/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-3qxdghox0csibqlw.voe-network.net/engine/hls2/01/11211/f1ssrtq9vzlk_,n,.urlset/index-v1-a1.m3u8?t=YYIiY48l9NmFL0AVpU9P_Xpc3w4tlxuK_f0u2MwJ_RU&s=1714266210&e=14400&f=56056672&node=delivery-node-3qxdghox0csibqlw.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-3qxdghox0csibqlw.voe-network.net/engine/hls2/01/11211/f1ssrtq9vzlk_,n,.urlset/index-v1-a1.m3u8?t=YYIiY48l9NmFL0AVpU9P_Xpc3w4tlxuK_f0u2MwJ_RU&s=1714266210&e=14400&f=56056672&node=delivery-node-3qxdghox0csibqlw.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

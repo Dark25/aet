@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/kamen-rider-the-winter-movie-gotchard-geats.html",
-                                "title": "Kamen Rider The Winter Movie: Gotchard & Geats",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-the-winter-movie-gotchard-geats-thumb.png"
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-gotchard.html",
@@ -17,9 +17,9 @@
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
                             },
                             {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                                "url": "/watch/kamen-rider-the-winter-movie-gotchard-geats.html",
+                                "title": "Kamen Rider The Winter Movie: Gotchard & Geats",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-the-winter-movie-gotchard-geats-thumb.png"
                             },
                             {
                                 "url": "/watch/zyuden-sentai-kyoryuger-final-live-tour.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-the-winter-movie-gotchard-geats.html",
-                    "title": "Kamen Rider The Winter Movie: Gotchard & Geats",
-                    "author": "Year 2023",
-                    "description": "Kamen Rider The Winter Movie: Gotchard & Geats Strongest Chemy★Great Gotcha Operation is a Japanese superhero Tokusatsu crossover film between Kamen Rider Gotchard and Kamen Rider Geats, and is the 14th Movie War.",
-                    "genre": "Kamen Rider, Movie",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-the-winter-movie-gotchard-geats-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-the-winter-movie-gotchard-geats.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=10#watch",
+                        "name": "Episode 10",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=9#watch",
+                        "name": "Episode 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -3,13 +3,23 @@
         "name": "Egy Dead (AR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/مشاهدة-فيلم-avengers-endgame-2019-مترجم/",
+                                "title": "مشاهدة فيلم Avengers Endgame 2019 مترجم",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2018/02/فيلم-Avengers-Endgame-2019-مترجم-198x280.jpg"
+                            },
+                            {
+                                "url": "/episode/انمي-one-piece-الحلقة-1102-مترجمة/",
+                                "title": "انمي One Piece الحلقة 1102 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2023/12/انمي-One-Piece-Egghead-مترجم-1-225x280.jpg"
+                            },
                             {
                                 "url": "/episode/انمي-yozakura-san-chi-no-daisakusen-الحلقة-3-مترجمة/",
                                 "title": "انمي Yozakura-san Chi no Daisakusen الحلقة 3 مترجمة",
@@ -239,16 +249,6 @@
                                 "url": "/مشاهدة-فيلم-cash-out-2024-مترجم/",
                                 "title": "مشاهدة فيلم Cash Out 2024 مترجم",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/فيلم-Cash-Out-2024-مترجم-187x280.jpg"
-                            },
-                            {
-                                "url": "/season/مسلسل-el-caso-asunta-2024-مترجم-كامل/",
-                                "title": "مسلسل El caso Asunta 2024 مترجم كامل",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-El-caso-Asunta-2024-مترجم-كامل-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-el-caso-asunta-الحلقة-6-مترجمة/",
-                                "title": "مسلسل El caso Asunta الحلقة 6 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-El-caso-Asunta-2024-مترجم-كامل-210x280.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -508,15 +508,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/episode/انمي-yozakura-san-chi-no-daisakusen-الحلقة-3-مترجمة/",
-                    "title": "انمي Yozakura-san Chi no Daisakusen الحلقة 3 مترجمة",
-                    "artist": "مسلسلات انمي",
-                    "author": "اليابان",
-                    "description": "تايو أسانو هو طالب في المدرسة الثانوية خجول للغاية والشخص الوحيد الذي يمكنه التحدث إليه هو صديقة طفولته موتسومي يوزاكورا. يتضح لاحقًا أن أفراد عائلة موتسومي حواسيس! تتعرض موتسومي لمضايقات بسبب الحماية المفرطة من قبل شقيقها كيوشيرو الذي يشكل كابوس بالنسبة لها. ما هي الخطوات الجذرية التي سيتعين على تايو اتخاذها لإنقاذ موتسومي",
-                    "genre": "اكشن, شونين, كوميديا, اليابانية, 2024",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/انمي-Yozakura-san-Chi-no-Daisakusen-2024-مترجم.jpg",
+                    "url": "/مشاهدة-فيلم-avengers-endgame-2019-مترجم/",
+                    "title": "مشاهدة فيلم Avengers Endgame 2019 مترجم",
+                    "artist": "افلام اجنبي افلام اسلام الجيزاوي",
+                    "author": "أمريكا",
+                    "description": "بعد تنفيذ ثانوس خطته الشريرة عقب استيلائه على أحجار اﻷبدية الستة، وقضائه على نصف سكان كوكب اﻷرض، تتفرق السبل بمن ظل حيًا من فريق المنتقمون في كافة اﻷرجاء، لتبقى الكثير من اﻷسئلة المعلقة: هل يوجد أمل باق في الانتصار على ثانوس؟ وهل يوجد ثمة حل ﻹعادة اﻷمور إلى نصابها من جديد Infinity War 2",
+                    "genre": "اكشن, خيال علمي, دراما, مغامرة, الأنجليزية, 2019",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2018/02/فيلم-Avengers-Endgame-2019-مترجم.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -524,14 +524,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/انمي-yozakura-san-chi-no-daisakusen-الحلقة-3-مترجمة/",
-                        "name": "حلقه 3",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/episode/انمي-yozakura-san-chi-no-daisakusen-الحلقة-2-مترجمة/",
-                        "name": "حلقه 2",
-                        "episode_number": 2.0
+                        "url": "/مشاهدة-فيلم-avengers-endgame-2019-مترجم/",
+                        "name": "مشاهدة"
                     }
                 ],
                 "passed": true
@@ -539,36 +533,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://82psw98llf.sw-cdnstreamwish.com/hls2/01/03715/g39duwzftz80_,n,x,o,.urlset/index-f1-v1-a1.m3u8?t=d0f7QKUvmmgLJ20n2nyEq6OGt_8z3WrjTeNKrdFXtI8&s=1714266310&e=129600&f=18578152&srv=dA4Gg33I0Q92&i=0.4&sp=500&p1=dA4Gg33I0Q92&p2=dA4Gg33I0Q92&asn=8075",
+                        "url": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f1-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://82psw98llf.sw-cdnstreamwish.com/hls2/01/03715/g39duwzftz80_,n,x,o,.urlset/index-f1-v1-a1.m3u8?t=d0f7QKUvmmgLJ20n2nyEq6OGt_8z3WrjTeNKrdFXtI8&s=1714266310&e=129600&f=18578152&srv=dA4Gg33I0Q92&i=0.4&sp=500&p1=dA4Gg33I0Q92&p2=dA4Gg33I0Q92&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f1-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/g39duwzftz80"
+                            "Referer": "https://trgsfjll.sbs/e/1j9ytv5ikrnm"
                         }
                     },
                     {
-                        "url": "https://82psw98llf.sw-cdnstreamwish.com/hls2/01/03715/g39duwzftz80_,n,x,o,.urlset/index-f2-v1-a1.m3u8?t=d0f7QKUvmmgLJ20n2nyEq6OGt_8z3WrjTeNKrdFXtI8&s=1714266310&e=129600&f=18578152&srv=dA4Gg33I0Q92&i=0.4&sp=500&p1=dA4Gg33I0Q92&p2=dA4Gg33I0Q92&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://82psw98llf.sw-cdnstreamwish.com/hls2/01/03715/g39duwzftz80_,n,x,o,.urlset/index-f2-v1-a1.m3u8?t=d0f7QKUvmmgLJ20n2nyEq6OGt_8z3WrjTeNKrdFXtI8&s=1714266310&e=129600&f=18578152&srv=dA4Gg33I0Q92&i=0.4&sp=500&p1=dA4Gg33I0Q92&p2=dA4Gg33I0Q92&asn=8075",
+                        "url": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f2-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f2-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/g39duwzftz80"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llf.sw-cdnstreamwish.com/hls2/01/03715/g39duwzftz80_,n,x,o,.urlset/index-f3-v1-a1.m3u8?t=d0f7QKUvmmgLJ20n2nyEq6OGt_8z3WrjTeNKrdFXtI8&s=1714266310&e=129600&f=18578152&srv=dA4Gg33I0Q92&i=0.4&sp=500&p1=dA4Gg33I0Q92&p2=dA4Gg33I0Q92&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://82psw98llf.sw-cdnstreamwish.com/hls2/01/03715/g39duwzftz80_,n,x,o,.urlset/index-f3-v1-a1.m3u8?t=d0f7QKUvmmgLJ20n2nyEq6OGt_8z3WrjTeNKrdFXtI8&s=1714266310&e=129600&f=18578152&srv=dA4Gg33I0Q92&i=0.4&sp=500&p1=dA4Gg33I0Q92&p2=dA4Gg33I0Q92&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/g39duwzftz80"
+                            "Referer": "https://trgsfjll.sbs/e/1j9ytv5ikrnm"
                         }
                     }
                 ],

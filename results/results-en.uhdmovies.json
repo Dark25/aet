@@ -3,24 +3,19 @@
         "name": "UHD Movies (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: uhdmovies.vip",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: uhdmovies.vip",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "title": "Movie",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.UnknownHostException: uhdmovies.vip",
+                "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: Only Zip Pack Available",
+                "error": "java.net.UnknownHostException: uhdmovies.vip",
                 "passed": false
             },
             "videos": {

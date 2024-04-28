@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/puan/",
+                                "title": "Puan",
+                                "description": "Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UB...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/FZfshwrmyMR3vVOJXvpi.webp"
+                            },
+                            {
+                                "url": "/pelicula/descifra-tu-salud-los-secretos-del-intestino/",
+                                "title": "Descifra tu salud: Los secretos del intestino",
+                                "description": "Profundice en el sistema digestivo con este documental alegre e informativo que desmitifica el papel...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/P8GwmNP65JEchHXcHwmid.webp"
+                            },
+                            {
+                                "url": "/pelicula/vermin-la-plaga/",
+                                "title": "Vermin: La plaga",
+                                "description": "Kaleb está a punto de cumplir 30 años y nunca ha estado más solo. Está peleando con su hermana p...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/eGgUM6JIHvPSFn3iu2g.webp"
+                            },
+                            {
+                                "url": "/pelicula/sangre-en-los-labios/",
+                                "title": "Sangre en los labios",
+                                "description": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una comp...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/e8n9Sd7uiSkh2DFUiRn0qmyH80iql4ep3rpLvm6.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-especialista/",
                                 "title": "El especialista",
                                 "description": "Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disp...",
@@ -221,30 +245,6 @@
                                 "title": "Nina y el secreto del erizo",
                                 "description": "Nina, de 10 años, está muy triste desde que su padre perdió su trabajo en una fábrica tras un de...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/K5kyQEUbz68logjPCyzUgQ7CDM.webp"
-                            },
-                            {
-                                "url": "/pelicula/cuando-termine-la-guerra/",
-                                "title": "Cuando termine la guerra",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/gOzNLVBPeqvRcrei8H8vx50jFDlSirNo6d2HYtm3KIK.webp"
-                            },
-                            {
-                                "url": "/pelicula/impuratus/",
-                                "title": "Impuratus",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/It7O335vFDsLkCmgvFB2x7YZEcKyzgq8AnNuhIQMb8.webp"
-                            },
-                            {
-                                "url": "/pelicula/un-pavo-en-apuros/",
-                                "title": "Un pavo en apuros",
-                                "description": "Cuando la banquera de inversiones Linda Bachmann y su equipo llegan a la finca de Lord y Lady Macint...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/JnuH7jeIWupdpddWNP2OHTHam9oDJknixIPvR.webp"
-                            },
-                            {
-                                "url": "/pelicula/hypochondriac/",
-                                "title": "Hypochondriac",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w1"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-especialista/",
-                    "title": "El especialista",
-                    "description": "Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo. ¿Qué podría salir bien?",
-                    "genre": "Acción, Aventura, Comedia",
+                    "url": "/pelicula/puan/",
+                    "title": "Puan",
+                    "description": "Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UBA de la calle Puan. Tras la muerte de su mentor, el venerable profesor Caselli, se ha abierto una brutal e inesperada rivalidad por la cátedra con Rafael Sujarchuk, un antiguo discípulo de Caselli que vuelve de Alemania.",
+                    "genre": "Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-especialista/",
+                        "url": "/pelicula/puan/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar OzHUuZdYzo = \"\"; MbvFnga.forEach(function Oym(value) { OzHUuZdYzo += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar AoRcLQqG = \"\"; HhSaIkrQ.forEach(function Oym(value) { AoRcLQqG += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

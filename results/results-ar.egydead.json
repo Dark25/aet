@@ -3,7 +3,7 @@
         "name": "Egy Dead (AR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
@@ -11,9 +11,64 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/انمي-كابتن-ماجد-2018-الجزء-الثاني-الحلقة-30-م/",
+                                "title": "انمي كابتن ماجد 2018 الجزء الثاني الحلقة 30 مدبلجة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2023/10/انمي-كابتن-ماجد-2018-الجزء-الثاني-203x280.jpg"
+                            },
+                            {
+                                "url": "/episode/انمي-captain-tsubasa-2018-الموسم-الثاني-الحلقة-30-مترجمة/",
+                                "title": "انمي Captain Tsubasa 2018 الموسم الثاني الحلقة 30 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2023/10/انمي-Captain-Tsubasa-2018-الموسم-الثاني-203x280.jpg"
+                            },
+                            {
+                                "url": "/episode/انمي-hibike-euphonium-الموسم-الثالث-الحلقة-4-مترجمة/",
+                                "title": "انمي Hibike Euphonium الموسم الثالث الحلقة 4 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/انمي-Hibike-Euphonium-الموسم-الثالث-225x280.jpg"
+                            },
+                            {
+                                "url": "/episode/مسلسل-the-conners-الموسم-السادس-الحلقة-9-مترجمة/",
+                                "title": "مسلسل The Conners الموسم السادس الحلقة 9 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/02/مسلسل-The-Conners-الموسم-السادس-210x280.jpg"
+                            },
+                            {
+                                "url": "/episode/مسلسل-bmf-الموسم-الثالث-الحلقة-9-مترجمة/",
+                                "title": "مسلسل BMF الموسم الثالث الحلقة 9 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2023/01/مسلسل-BMF-الموسم-الثالث-225x280.jpg"
+                            },
+                            {
+                                "url": "/episode/مسلسل-parish-الموسم-الاول-الحلقة-5-مترجمة/",
+                                "title": "مسلسل Parish الموسم الاول الحلقة 5 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/03/مسلسل-Parish-الموسم-الاول-187x280.jpg"
+                            },
+                            {
+                                "url": "/episode/مسلسل-beacon-23-الموسم-الثاني-الحلقة-4-مترجمة/",
+                                "title": "مسلسل Beacon 23 الموسم الثاني الحلقة 4 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Beacon-23-الموسم-الثاني-210x280.jpg"
+                            },
+                            {
+                                "url": "/assembly/سلسلة-افلام-avengers-مترجمة-كاملة/",
+                                "title": "سلسلة افلام Avengers مترجمة كاملة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2018/02/سلسلة-افلام-Avengers-افنجرز-كاملة-203x280.jpg"
+                            },
+                            {
                                 "url": "/مشاهدة-فيلم-avengers-endgame-2019-مترجم/",
                                 "title": "مشاهدة فيلم Avengers Endgame 2019 مترجم",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2018/02/فيلم-Avengers-Endgame-2019-مترجم-198x280.jpg"
+                            },
+                            {
+                                "url": "/فيلم-avengers-infinity-war-2018-مترجم/",
+                                "title": "مشاهدة فيلم Avengers Infinity War 2018 مترجم",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2018/02/فيلم-Avengers-Infinity-War-2018-مترجم-193x280.jpg"
+                            },
+                            {
+                                "url": "/مشاهدة-فيلم-avengers-age-of-ultron-2015-مترجم/",
+                                "title": "مشاهدة فيلم Avengers Age of Ultron 2015 مترجم",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/فيلم-Avengers-Age-of-Ultron-2015-مترجم-210x280.jpg"
+                            },
+                            {
+                                "url": "/مشاهدة-فيلم-the-avengers-2012-مترجم/",
+                                "title": "مشاهدة فيلم The Avengers 2012 مترجم",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/فيلم-The-Avengers-2012-مترجم-210x280.jpg"
                             },
                             {
                                 "url": "/episode/انمي-one-piece-الحلقة-1102-مترجمة/",
@@ -131,11 +186,6 @@
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/02/مسلسل-S.W.A.T.-الموسم-السابع-210x280.jpg"
                             },
                             {
-                                "url": "/مشاهدة-فيلم-avengers-age-of-ultron-2015-مترجم/",
-                                "title": "مشاهدة فيلم Avengers Age of Ultron 2015 مترجم",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/فيلم-Avengers-Age-of-Ultron-2015-مترجم-210x280.jpg"
-                            },
-                            {
                                 "url": "/episode/انمي-tensei-shitara-slime-datta-ken-الموسم-الثالث-الحلقة-4-مترجم/",
                                 "title": "انمي Tensei shitara Slime Datta Ken الموسم الثالث الحلقة 4 مترجمة",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/03/انمي-Tensei-shitara-Slime-Datta-Ken-الموسم-الثالث-217x280.jpg"
@@ -199,56 +249,6 @@
                                 "url": "/episode/مسلسل-baby-reindeer-الحلقة-1-مترجمة/",
                                 "title": "مسلسل Baby Reindeer الحلقة 1 مترجمة",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Baby-Reindeer-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-knuckles-الحلقة-6-مترجمة/",
-                                "title": "مسلسل Knuckles الحلقة 6 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Knuckles-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-so-help-me-todd-الموسم-الثاني-الحلقة-7-مترجمة/",
-                                "title": "مسلسل So Help Me Todd الموسم الثاني الحلقة 7 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/02/مسلسل-So-Help-Me-Todd-الموسم-الثاني-200x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-elsbeth-الموسم-الاول-الحلقة-6-مترجمة/",
-                                "title": "مسلسل Elsbeth الموسم الاول الحلقة 6 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/03/مسلسل-Elsbeth-الموسم-الاول-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-knuckles-الحلقة-5-مترجمة/",
-                                "title": "مسلسل Knuckles الحلقة 5 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Knuckles-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-knuckles-الحلقة-4-مترجمة/",
-                                "title": "مسلسل Knuckles الحلقة 4 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Knuckles-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-knuckles-الحلقة-3-مترجمة/",
-                                "title": "مسلسل Knuckles الحلقة 3 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Knuckles-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-knuckles-الحلقة-2-مترجمة/",
-                                "title": "مسلسل Knuckles الحلقة 2 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Knuckles-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/season/مسلسل-knuckles-2024-مترجم-كامل/",
-                                "title": "مسلسل Knuckles 2024 مترجم كامل",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/مسلسل-Knuckles-2024-مترجم-كامل-210x280.jpg"
-                            },
-                            {
-                                "url": "/مشاهدة-فيلم-possessions-2024-مترجم/",
-                                "title": "مشاهدة فيلم Possessions 2024 مترجم",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/فيلم-Possessions-2024-مترجم-210x280.jpg"
-                            },
-                            {
-                                "url": "/مشاهدة-فيلم-cash-out-2024-مترجم/",
-                                "title": "مشاهدة فيلم Cash Out 2024 مترجم",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/فيلم-Cash-Out-2024-مترجم-187x280.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -508,15 +508,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/مشاهدة-فيلم-avengers-endgame-2019-مترجم/",
-                    "title": "مشاهدة فيلم Avengers Endgame 2019 مترجم",
-                    "artist": "افلام اجنبي افلام اسلام الجيزاوي",
-                    "author": "أمريكا",
-                    "description": "بعد تنفيذ ثانوس خطته الشريرة عقب استيلائه على أحجار اﻷبدية الستة، وقضائه على نصف سكان كوكب اﻷرض، تتفرق السبل بمن ظل حيًا من فريق المنتقمون في كافة اﻷرجاء، لتبقى الكثير من اﻷسئلة المعلقة: هل يوجد أمل باق في الانتصار على ثانوس؟ وهل يوجد ثمة حل ﻹعادة اﻷمور إلى نصابها من جديد Infinity War 2",
-                    "genre": "اكشن, خيال علمي, دراما, مغامرة, الأنجليزية, 2019",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2018/02/فيلم-Avengers-Endgame-2019-مترجم.jpg",
+                    "url": "/episode/انمي-كابتن-ماجد-2018-الجزء-الثاني-الحلقة-30-م/",
+                    "title": "انمي كابتن ماجد 2018 الجزء الثاني الحلقة 30 مدبلجة",
+                    "artist": "مسلسلات انمي",
+                    "author": "اليابان",
+                    "description": "بعد فوز فريقه في البطولة الوطنية للمدارس المتوسطة، يتم اختيار تسوباسا للانضمام إلى فريق اليابان في بطولة العالم للشباب، حيث يواجه بعض أفضل اللاعبين في العالم.",
+                    "genre": "رياضي, شونين, العربية, 2023",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2023/10/انمي-كابتن-ماجد-2018-الجزء-الثاني.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -524,8 +524,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/مشاهدة-فيلم-avengers-endgame-2019-مترجم/",
-                        "name": "مشاهدة"
+                        "url": "/episode/انمي-كابتن-ماجد-2018-الجزء-الثاني-الحلقة-30-م/",
+                        "name": "حلقه 30",
+                        "episode_number": 30.0
+                    },
+                    {
+                        "url": "/episode/انمي-كابتن-ماجد-2018-الجزء-الثاني-الحلقة-29-م/",
+                        "name": "حلقه 29",
+                        "episode_number": 29.0
                     }
                 ],
                 "passed": true
@@ -533,25 +539,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f1-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "url": "https://osegdl8o.sw-cdnstreamwish.com/hls2/01/03719/9t51uhkza50p_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=6kGm0kBYo7whA2PCcrf1LfZV8bKCFeoPYx6emg6XGhw&s=1714307302&e=129600&f=18595710&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f1-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "videoUrl": "https://osegdl8o.sw-cdnstreamwish.com/hls2/01/03719/9t51uhkza50p_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=6kGm0kBYo7whA2PCcrf1LfZV8bKCFeoPYx6emg6XGhw&s=1714307302&e=129600&f=18595710&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/1j9ytv5ikrnm"
+                            "Referer": "https://trgsfjll.sbs/e/9t51uhkza50p"
                         }
                     },
                     {
-                        "url": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f2-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "url": "https://osegdl8o.sw-cdnstreamwish.com/hls2/01/03719/9t51uhkza50p_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=6kGm0kBYo7whA2PCcrf1LfZV8bKCFeoPYx6emg6XGhw&s=1714307302&e=129600&f=18595710&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://6wyav2r9i6.sw-cdnstreamwish.com/hls2/01/03716/1j9ytv5ikrnm_,n,h,.urlset/index-f2-v1-a1.m3u8?t=59U7nbU7yO11x0gQPJ2UQdH2JxdR7A-227Q7A18bjxc&s=1714285387&e=129600&f=18581307&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "videoUrl": "https://osegdl8o.sw-cdnstreamwish.com/hls2/01/03719/9t51uhkza50p_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=6kGm0kBYo7whA2PCcrf1LfZV8bKCFeoPYx6emg6XGhw&s=1714307302&e=129600&f=18595710&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/1j9ytv5ikrnm"
+                            "Referer": "https://trgsfjll.sbs/e/9t51uhkza50p"
+                        }
+                    },
+                    {
+                        "url": "https://osegdl8o.sw-cdnstreamwish.com/hls2/01/03719/9t51uhkza50p_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=6kGm0kBYo7whA2PCcrf1LfZV8bKCFeoPYx6emg6XGhw&s=1714307302&e=129600&f=18595710&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://osegdl8o.sw-cdnstreamwish.com/hls2/01/03719/9t51uhkza50p_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=6kGm0kBYo7whA2PCcrf1LfZV8bKCFeoPYx6emg6XGhw&s=1714307302&e=129600&f=18595710&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trgsfjll.sbs",
+                            "Referer": "https://trgsfjll.sbs/e/9t51uhkza50p"
                         }
                     }
                 ],

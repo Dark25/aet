@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/me-llamo-loh-kiwan-latino-sub-espanol",
+                                "title": "Me llamo Loh Kiwan Latino",
+                                "description": "Me llamo Loh Kiwan Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/me-llamo-loh-kiwan-latino-1714251862.jpg"
+                            },
+                            {
                                 "url": "/dorama/avatar-la-leyenda-de-aang-live-action-latino-sub-espanol",
                                 "title": "Avatar: La leyenda de Aang (Live Action) Latino",
                                 "description": "Avatar: La leyenda de Aang (Live Action) Latino",
@@ -179,12 +185,6 @@
                                 "title": "Perfect Marriage Revenge",
                                 "description": "Perfect Marriage Revenge",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/perfect-marriage-revenge-1707175990.jpg"
-                            },
-                            {
-                                "url": "/dorama/love-in-contract-sub-espanol",
-                                "title": "Love In Contract",
-                                "description": "Love In Contract",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-in-contract-1707067551.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/avatar-la-leyenda-de-aang-live-action-latino-sub-espanol",
-                    "title": "Avatar: La leyenda de Aang (Live Action) Latino (0)",
-                    "description": "Adaptación en vivo de la serie animada centrada en las aventuras de Aang y sus amigos, que luchan por salvar el mundo derrotando a la Nación del Fuego. ",
-                    "genre": "Comedia, Acción, Aventuras",
+                    "url": "/dorama/me-llamo-loh-kiwan-latino-sub-espanol",
+                    "title": "Me llamo Loh Kiwan Latino (0)",
+                    "description": "Tras huir de Corea del Norte, Loh Kiwan intenta conseguir asilo político en Bélgica, donde conoce a una mujer que había perdido toda esperanza. ",
+                    "genre": "Romance, Drama, K-Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,12 +291,67 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/me-llamo-loh-kiwan-latino-episodio-1",
+                        "name": "Episodio 1.0",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiAFKAQwAzgCeOcUqgEICgYIgAoQsAWyAQQIxNgC0gEGCAMQAigX2gECCBigYaUsKFaU3w/fn/track.m3u8",
+                        "quality": "Okru:688p",
+                        "videoUrl": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiAFKAQwAzgCeOcUqgEICgYIgAoQsAWyAQQIxNgC0gEGCAMQAigX2gECCBigYaUsKFaU3w/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiAEKAMwAzgCeOcUqgEICgYI2AYQ0AOyAQQIxNgC0gEGCAEQAigX2gECCBBeReAuu2pZlQ/fn/track.m3u8",
+                        "quality": "Okru:464p",
+                        "videoUrl": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiAEKAMwAzgCeOcUqgEICgYI2AYQ0AOyAQQIxNgC0gEGCAEQAigX2gECCBBeReAuu2pZlQ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiADKAIwAzgCeOcUqgEICgYIgAUQ2AKyAQQIxNgC0gEEEAIoF9oBAggQ6QFI-0MNc2o/fn/track.m3u8",
+                        "quality": "Okru:344p",
+                        "videoUrl": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiADKAIwAzgCeOcUqgEICgYIgAUQ2AKyAQQIxNgC0gEEEAIoF9oBAggQ6QFI-0MNc2o/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiACKAEwAzgCeOcUqgEICgYIqAMQ6AGyAQQIxNgC0gEEEAIoF9oBAggQlRqR3uKXgBM/fn/track.m3u8",
+                        "quality": "Okru:232p",
+                        "videoUrl": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiACKAEwAzgCeOcUqgEICgYIqAMQ6AGyAQQIxNgC0gEEEAIoF9oBAggQlRqR3uKXgBM/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiABMAM4AnjnFKoBCAoGCIACEIgBsgEECMTYAtIBBBACKBfaAQIICA8K0_zNgUuX/fn/track.m3u8",
+                        "quality": "Okru:136p",
+                        "videoUrl": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiABMAM4AnjnFKoBCAoGCIACEIgBsgEECMTYAtIBBBACKBfaAQIICA8K0_zNgUuX/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiAGKAUwAzgCeOcUfnEcWTQL9fc/fn/track.m3u8",
+                        "quality": "Okru:1036p",
+                        "videoUrl": "https://vd408.mycdn.me/expires/1714352699195/clientType/0/srcIp/20.57.14.26/type/2/mid/6665550563871/id/6165475232287/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.53.88/oq/0/pr/10/ct/28/sig/sXpV5J5Mvi8/ondemand/CJ-U2Je4swESFAiflNiXuLMBEJ-U2Je4swEYNyABGhQIn5TYl7izARCflNiXuLMBGDcgAiAGKAUwAzgCeOcUfnEcWTQL9fc/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

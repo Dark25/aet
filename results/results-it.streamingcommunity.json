@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8342-aporia",
+                                "title": "Aporia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/cbace4cd-6271-457c-8f32-3d2dd3ec9db2.webp"
+                            },
+                            {
                                 "url": "8341-vanilla-sky",
                                 "title": "Vanilla Sky",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/bd1377bc-c64f-4b5d-a727-af7aeb459639.webp"
@@ -610,11 +615,6 @@
                                 "url": "8243-the-cursed",
                                 "title": "The Cursed",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/49f71057-73a8-4cd8-aada-dec1f160d15c.webp"
-                            },
-                            {
-                                "url": "8242-one-life",
-                                "title": "One Life",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/af7115b4-0129-4be0-825c-539241694465.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -961,39 +961,58 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=720p&token=Fac2wBpeSLAEJmIIYzaYAQ&expires=1719555602&n=1",
+                        "url": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=720p&token=YtdHnYcPa2HobWAA2hCdhQ&expires=1719577592&n=1",
                         "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=720p&token=Fac2wBpeSLAEJmIIYzaYAQ&expires=1719555602&n=1",
+                        "videoUrl": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=720p&token=YtdHnYcPa2HobWAA2hCdhQ&expires=1719577592&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=4-forced-ita&token=jJNbzuRuBnk_jqp3VLqKqg&expires=1719555602",
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=4-forced-ita&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
                                 "lang": "Italian [Forced]"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=5-ita&token=jJNbzuRuBnk_jqp3VLqKqg&expires=1719555602",
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=5-ita&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=6-spa&token=jJNbzuRuBnk_jqp3VLqKqg&expires=1719555602",
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=6-spa&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
                                 "lang": "Spanish"
                             }
                         ]
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=480p&token=XY6F0SOSLcWDECsMm4msNw&expires=1719555602&n=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=480p&token=XY6F0SOSLcWDECsMm4msNw&expires=1719555602&n=1",
+                        "url": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=1080p&token=5CFcwkPVR1jWvzUNYWavjw&expires=1719577592&n=1",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=1080p&token=5CFcwkPVR1jWvzUNYWavjw&expires=1719577592&n=1",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=4-forced-ita&token=jJNbzuRuBnk_jqp3VLqKqg&expires=1719555602",
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=4-forced-ita&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
                                 "lang": "Italian [Forced]"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=5-ita&token=jJNbzuRuBnk_jqp3VLqKqg&expires=1719555602",
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=5-ita&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=6-spa&token=jJNbzuRuBnk_jqp3VLqKqg&expires=1719555602",
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=6-spa&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=480p&token=o8hGEZsR50ZoSlL4Qg6_8g&expires=1719577592&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/223616.m3u8?type=video&rendition=480p&token=o8hGEZsR50ZoSlL4Qg6_8g&expires=1719577592&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=4-forced-ita&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=5-ita&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223616?type=subtitle&rendition=6-spa&token=WdtI3RJ-ZkRafbZVktjP8g&expires=1719577592",
                                 "lang": "Spanish"
                             }
                         ]

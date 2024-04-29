@@ -1083,12 +1083,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/23942-star-wars-the-bad-batch-stream-deutsch.html",
+                    "title": "Star Wars: The Bad Batch - Staffel 3 stream online",
+                    "author": "Jennifer Corbett",
+                    "description": "Der \"Bad Batch\" von Elite- und experimentellen Klonen bahnt sich unmittelbar nach dem Klonkrieg seinen Weg durch eine sich ständig verändernde Galaxie.",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2022-09/1663392458-307937984.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/23942-star-wars-the-bad-batch-stream-deutsch.html",
+                        "name": "Star Wars: The Bad Batch - Staffel 3 stream online",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalStateException: No videos!",

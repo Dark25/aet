@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tales-of-demons-and-gods-season-7",
+                                "title": "Tales of Demons and Gods Season 7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
+                            },
+                            {
                                 "url": "/anime/jueshi-zhan-hun",
                                 "title": "Jueshi Zhan Hun",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11991.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/mahou-no-tenshi-creamy-mami-zutto-kitto-motto",
                                 "title": "Mahou no Tenshi Creamy Mami: Zutto Kitto Motto",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11981.png"
-                            },
-                            {
-                                "url": "/anime/kaze-no-invitation",
-                                "title": "Kaze no invitation",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11980.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/tales-of-demons-and-gods-season-7",
+                                "title": "Tales of Demons and Gods Season 7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
+                            },
                             {
                                 "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
                                 "title": "Spice and Wolf: merchant meets the wise wolf",
@@ -130,11 +135,6 @@
                                 "url": "/anime/a-record-of-mortals-journey-to-immortality-season-3",
                                 "title": "A Record of Mortal's Journey to Immortality Season 3",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11600.png"
-                            },
-                            {
-                                "url": "/anime/losing-money-to-be-a-tycoon",
-                                "title": "Losing Money to Be a Tycoon",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11765.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jueshi-zhan-hun",
-                    "title": "Jueshi Zhan Hun",
-                    "author": "",
-                    "description": "The Xuanling Sect, the head of the four major sects, came to Shuicheng to select disciples for the first time in many years. The Fang and Qin families started fighting openly and secretly around this opportunity that would determine their fate. In the end, Qin Nan relied on his dedicated training, excellent talent, and the God of War Soul obtained by chance, and under the fair judgment of the messenger Xiao Qingxue, he successfully reversed the decline and defeated the Fang family. After entering the sect, Qin Nan aroused the hatred of Ouyang Jun, the son of the sect leader, because of his involvement in Xiao Qingxue's forced marriage. In order to continue to become stronger and repay Xiao Qingxue's kindness, Qin Nan repeatedly defeated powerful enemies, won the first place in the Wanxiang Competition and the Outer Sect Competition, entered the Wuyuan Pavilion with the four major sect geniuses, and obtained the power to stir up the continent. A shocking secret, an appointment with Leng Feng to fight in the Palace of Life and Death, overcoming the siege of Linshui City by the Beihai family, exploring the Nine-Character Mantra Tower, and vowing to fight the evil forces of the sect to the end.",
-                    "genre": "Action, Adventure, Fantasy, Martial Arts",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11991.png",
+                    "url": "/anime/tales-of-demons-and-gods-season-7",
+                    "title": "Tales of Demons and Gods Season 7",
+                    "author": "Ruo Hong Culture",
+                    "description": "The sixth season of Yao Shen Ji.",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Martial Arts, Romance",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/jueshi-zhan-hun/146378",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146378?vrf=RkW1xiHvWadj7C7Sq0AxrA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=D9Okoi2cKueKY4HIEhT2FQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146378?vrf=RkW1xiHvWadj7C7Sq0AxrA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=D9Okoi2cKueKY4HIEhT2FQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/jueshi-zhan-hun/146378"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

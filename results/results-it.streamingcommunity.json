@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "8322-garfield-una-missione-gustosa",
-                                "title": "Garfield - Una missione gustosa",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ea4bef5d-5a66-4d5c-acdd-7f455f61c88e.webp"
+                                "url": "8349-the-veil",
+                                "title": "The Veil",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/fbba55be-c840-4095-be58-a95b138da38f.webp"
                             },
                             {
                                 "url": "8333-asunta",
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8322-garfield-una-missione-gustosa",
-                    "description": "Garfield, il famoso gatto di casa che odia il lunedì e ama le lasagne, sta per vivere un’avventura selvaggia all’aria aperta! Dopo un inaspettato ricongiungimento con il padre scomparso da tempo, il trasandato gatto di strada Vic, Garfield e il suo amico canino Odie sono costretti ad abbandonare la loro vita domestica per unirsi a Vic in una esilarante rapina ad alto rischio.",
-                    "genre": "Commedia, Famiglia, Animazione",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "8349-the-veil",
+                    "description": "Due donne fanno un gioco mortale di verità e bugie sulla strada da Istanbul verso Parigi e Londra.",
+                    "genre": "Dramma",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,16 +946,74 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8322",
-                        "name": "Film",
+                        "url": "8349?episode_id=60591&next_episode=1",
+                        "name": "Stagione 1 episodio 1 - The Camp",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/223783.m3u8?type=video&rendition=720p&token=6EMrW5l6K5rZQ6tewU_wDw&expires=1719663911&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/223783.m3u8?type=video&rendition=720p&token=6EMrW5l6K5rZQ6tewU_wDw&expires=1719663911&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=3-forced-ita&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=4-ita&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=6-eng&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "English [CC]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/223783.m3u8?type=video&rendition=1080p&token=-SvZ1DmLyg8cte3kp4SbDA&expires=1719663911&n=1",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/223783.m3u8?type=video&rendition=1080p&token=-SvZ1DmLyg8cte3kp4SbDA&expires=1719663911&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=3-forced-ita&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=4-ita&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=6-eng&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "English [CC]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/223783.m3u8?type=video&rendition=480p&token=_nla8EjG_sR_MEKnAE36Jg&expires=1719663911&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/223783.m3u8?type=video&rendition=480p&token=_nla8EjG_sR_MEKnAE36Jg&expires=1719663911&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=3-forced-ita&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=4-ita&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/223783?type=subtitle&rendition=6-eng&token=whfzEXNYq2RprIwMmzV2HQ&expires=1719663911",
+                                "lang": "English [CC]"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

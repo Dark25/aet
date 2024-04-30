@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-caso-asunta",
+                                "title": "El caso Asunta (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mqVwu7nwNyYv6ehdVbRGCkLraUQ.jpg"
+                            },
+                            {
                                 "url": "/serie/adios-tierra",
                                 "title": "Adiós, Tierra (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/en8cVOlW0pk7VrSyFf4Gih834K0.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/iwaju",
                                 "title": "Iwájú (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/efdcTuG4IB9kREnNmpv0Pe8Q6KG.jpg"
-                            },
-                            {
-                                "url": "/serie/parasyte-los-grises",
-                                "title": "Parasyte: Los grises (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/adios-tierra",
-                    "title": "Adiós, Tierra (2024)",
-                    "description": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste..",
-                    "genre": "Drama",
+                    "url": "/serie/el-caso-asunta",
+                    "title": "El caso Asunta (2024)",
+                    "description": "Cuando un matrimonio denuncia la desaparición de su hija de 12 años, la investigación no tarda en volverse contra ellos..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/en8cVOlW0pk7VrSyFf4Gih834K0.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mqVwu7nwNyYv6ehdVbRGCkLraUQ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/adios-tierra/temporada/1/capitulo/12",
-                        "name": "T1 - E12: Episodio 12",
-                        "episode_number": 13.0
+                        "url": "/serie/el-caso-asunta/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/serie/adios-tierra/temporada/1/capitulo/11",
-                        "name": "T1 - E11: Episodio 11",
-                        "episode_number": 12.0
+                        "url": "/serie/el-caso-asunta/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -704,9 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f2-v1-a1.m3u8?t=w_diwQeFRo9y84I-QCqA43KZkIU7SV5KxFprqRUMYVc&s=1714479846&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
+                        "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f2-v1-a1.m3u8?t=GOTWNCrZOW9Yt9F6e6P4teBJL5HDvjmID_vqx_mYBpU&s=1714501217&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f2-v1-a1.m3u8?t=w_diwQeFRo9y84I-QCqA43KZkIU7SV5KxFprqRUMYVc&s=1714479846&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
+                        "videoUrl": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f2-v1-a1.m3u8?t=GOTWNCrZOW9Yt9F6e6P4teBJL5HDvjmID_vqx_mYBpU&s=1714501217&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -715,15 +715,15 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f3.m3u8?t=w_diwQeFRo9y84I-QCqA43KZkIU7SV5KxFprqRUMYVc&s=1714479846&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
+                                "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f3.m3u8?t=GOTWNCrZOW9Yt9F6e6P4teBJL5HDvjmID_vqx_mYBpU&s=1714501217&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
                                 "lang": "Español"
                             }
                         ]
                     },
                     {
-                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f1-v1-a1.m3u8?t=w_diwQeFRo9y84I-QCqA43KZkIU7SV5KxFprqRUMYVc&s=1714479846&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
+                        "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f1-v1-a1.m3u8?t=GOTWNCrZOW9Yt9F6e6P4teBJL5HDvjmID_vqx_mYBpU&s=1714501217&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f1-v1-a1.m3u8?t=w_diwQeFRo9y84I-QCqA43KZkIU7SV5KxFprqRUMYVc&s=1714479846&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
+                        "videoUrl": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f1-v1-a1.m3u8?t=GOTWNCrZOW9Yt9F6e6P4teBJL5HDvjmID_vqx_mYBpU&s=1714501217&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -732,7 +732,7 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f3.m3u8?t=w_diwQeFRo9y84I-QCqA43KZkIU7SV5KxFprqRUMYVc&s=1714479846&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
+                                "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03730/,1k0sdv8apo85_n,1k0sdv8apo85_h,lang/spa/1k0sdv8apo85_spa,.urlset/index-f3.m3u8?t=GOTWNCrZOW9Yt9F6e6P4teBJL5HDvjmID_vqx_mYBpU&s=1714501217&e=129600&f=18650516&srv=yj2fzd6ckh3pt&i=0.4&sp=500&p1=yj2fzd6ckh3pt&p2=yj2fzd6ckh3pt&asn=8075",
                                 "lang": "Español"
                             }
                         ]
@@ -1041,9 +1041,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=FazMnHOqTqRbwlenPwo53I_5XuJKiBY_QO6Qmxxgs2o&s=1714479850&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=6KonuE5Q-R97kF8iUO-jVAfpEOz4S-L1zm0pE3QyAhk&s=1714501222&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=FazMnHOqTqRbwlenPwo53I_5XuJKiBY_QO6Qmxxgs2o&s=1714479850&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=6KonuE5Q-R97kF8iUO-jVAfpEOz4S-L1zm0pE3QyAhk&s=1714501222&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1052,9 +1052,9 @@
                         }
                     },
                     {
-                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=tXXeG_hmM6LQORRnu9LTsUflNellSuGYqWH1kdrtRfE&s=1714479849&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4oe_ikXvxhsnCcvwTlDNF5eGEubczY76PEBahy9_vQ8&s=1714501221&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=tXXeG_hmM6LQORRnu9LTsUflNellSuGYqWH1kdrtRfE&s=1714479849&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4oe_ikXvxhsnCcvwTlDNF5eGEubczY76PEBahy9_vQ8&s=1714501221&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1063,9 +1063,9 @@
                         }
                     },
                     {
-                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FazMnHOqTqRbwlenPwo53I_5XuJKiBY_QO6Qmxxgs2o&s=1714479850&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=6KonuE5Q-R97kF8iUO-jVAfpEOz4S-L1zm0pE3QyAhk&s=1714501222&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FazMnHOqTqRbwlenPwo53I_5XuJKiBY_QO6Qmxxgs2o&s=1714479850&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=6KonuE5Q-R97kF8iUO-jVAfpEOz4S-L1zm0pE3QyAhk&s=1714501222&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1074,9 +1074,9 @@
                         }
                     },
                     {
-                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=tXXeG_hmM6LQORRnu9LTsUflNellSuGYqWH1kdrtRfE&s=1714479849&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4oe_ikXvxhsnCcvwTlDNF5eGEubczY76PEBahy9_vQ8&s=1714501221&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=tXXeG_hmM6LQORRnu9LTsUflNellSuGYqWH1kdrtRfE&s=1714479849&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4oe_ikXvxhsnCcvwTlDNF5eGEubczY76PEBahy9_vQ8&s=1714501221&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

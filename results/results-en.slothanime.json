@@ -77,9 +77,34 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/unnamed-memory",
+                                "title": "Unnamed Memory",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11910.png"
+                            },
+                            {
+                                "url": "/anime/wan-jie-xian-zong-5",
+                                "title": "Wan Jie Xian Zong 5",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11198.png"
+                            },
+                            {
                                 "url": "/anime/tales-of-demons-and-gods-season-7",
                                 "title": "Tales of Demons and Gods Season 7",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
+                            },
+                            {
+                                "url": "/anime/against-the-sky-supreme",
+                                "title": "Against The Sky Supreme",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
+                            },
+                            {
+                                "url": "/anime/dubu-xiaoyao",
+                                "title": "Dubu Xiaoyao",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11157.png"
+                            },
+                            {
+                                "url": "/anime/sheng-zu",
+                                "title": "Sheng Zu",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11751.png"
                             },
                             {
                                 "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
@@ -110,31 +135,6 @@
                                 "url": "/anime/gods-games-we-play",
                                 "title": "Gods' Games We Play",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11885.png"
-                            },
-                            {
-                                "url": "/anime/jueshi-wu-hun",
-                                "title": "Jueshi Wu Hun",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11132.png"
-                            },
-                            {
-                                "url": "/anime/xian-ni",
-                                "title": "Xian Ni",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11449.png"
-                            },
-                            {
-                                "url": "/anime/jueshi-zhan-hun",
-                                "title": "Jueshi Zhan Hun",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11991.png"
-                            },
-                            {
-                                "url": "/anime/saint-seiya-knights-of-the-zodiac-battle-for-sanctuary-part-2",
-                                "title": "Saint Seiya: Knights of the Zodiac - Battle for Sanctuary Part 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11897.png"
-                            },
-                            {
-                                "url": "/anime/a-record-of-mortals-journey-to-immortality-season-3",
-                                "title": "A Record of Mortal's Journey to Immortality Season 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11600.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,19 +255,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/tales-of-demons-and-gods-season-7/146405",
+                        "name": "Episode 3"
+                    },
+                    {
+                        "url": "/player/tales-of-demons-and-gods-season-7/146404",
+                        "name": "Episode 2"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=D9Okoi2cKueKY4HIEhT2FQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/146405?vrf=%2BlClSR42cyKd1hhucg%2BqzA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=D9Okoi2cKueKY4HIEhT2FQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/146405?vrf=%2BlClSR42cyKd1hhucg%2BqzA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/tales-of-demons-and-gods-season-7/146405"
                         }
                     }
                 ],

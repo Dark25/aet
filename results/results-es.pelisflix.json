@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/downtown-owl/",
+                                "title": "Downtown Owl",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/WYY0JQ59kL4uvQOyh9OYQUzriPnwIn.webp"
+                            },
+                            {
+                                "url": "/pelicula/atrapados-en-lo-profundo-zvwc/",
+                                "title": "Atrapados en lo profundo",
+                                "description": "Esta película sigue a personajes de orígenes muy diferentes que se juntan cuando el avión en el q...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/A98jDI0ACK2h8IGHDAEaHZDSW9ys364t63.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-quantum-devil/",
+                                "title": "The Quantum Devil",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/hY0jZXxGtvTATm70.webp"
+                            },
+                            {
+                                "url": "/pelicula/luna-sin-miel/",
+                                "title": "Luna sin miel",
+                                "description": "Una pareja de recién casados se da cuenta en su luna de miel de que realmente son completamente dif...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/NSODSQrBVBzAUoVP3zwJrtukK4e4dE1RmFk5mCw83WyO.webp"
+                            },
+                            {
+                                "url": "/pelicula/lisa-frankenstein/",
+                                "title": "Lisa Frankenstein",
+                                "description": "En 1989, una impopular chica de secundaria llamada Lisa reanima accidentalmente un apuesto cadáver ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/bwS3UA8BE1RYqC6255YAAW0EpsP3DK.webp"
+                            },
+                            {
                                 "url": "/pelicula/after-death/",
                                 "title": "After Death",
                                 "description": "Basada en experiencias reales cercanas a la muerte, 'After Death' explora el más allá de la mano d...",
@@ -215,36 +245,6 @@
                                 "title": "La fiesta de la vida",
                                 "description": "Un organizador de bodas quiere poner fin a su actividad profesional con una boda en un pintoresco ca...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EWdutRIbxgmSdbK2d727lxLvYR.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-quantum-devil/",
-                                "title": "The Quantum Devil",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/hY0jZXxGtvTATm70.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-maldicion-de-david/",
-                                "title": "La maldición de David",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/kPcXa04JHjK4s7KXt7cY8h5YBYkWxwQHcSvdJqMhAn.webp"
-                            },
-                            {
-                                "url": "/pelicula/arthur-una-amistad-sin-limites/",
-                                "title": "Arthur: Una amistad sin límites",
-                                "description": "Mikael Lindnord, el capitán del equipo sueco de atletismo de aventura, tuvo un extraño encuentro d...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ziive9dbuX9jnle6OGu.webp"
-                            },
-                            {
-                                "url": "/pelicula/dune-parte-dos/",
-                                "title": "Dune: Parte dos",
-                                "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de vengan...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/JSa4mVWA9YLJrPciCQJN.webp"
-                            },
-                            {
-                                "url": "/pelicula/monkey-man-el-despertar-de-la-bestia/",
-                                "title": "Monkey Man: El despertar de la bestia",
-                                "description": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adap...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/GX4NFi4edTgptbKBg9fmWb4CJYjZFDzcr.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -528,10 +528,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/after-death/",
-                    "title": "After Death",
-                    "description": "Basada en experiencias reales cercanas a la muerte, 'After Death' explora el más allá de la mano de autores superventas del New York Times, expertos médicos, científicos y supervivientes que arrojan luz sobre lo que nos espera.",
-                    "genre": "Documental, Drama",
+                    "url": "/pelicula/downtown-owl/",
+                    "title": "Downtown Owl",
+                    "description": "",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -539,7 +539,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/after-death/",
+                        "url": "/pelicula/downtown-owl/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -547,7 +547,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar fEkEQPDE = \"\"; EYPJnyxfnO.forEach(function Oym(value) { fEkEQPDE += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DuXOaBU = \"\"; cjUOQhD.forEach(function Oym(value) { DuXOaBU += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

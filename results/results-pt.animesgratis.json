@@ -7,9 +7,19 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/kung-fu-panda-dublado/",
+                                "title": "Kung Fu Panda Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6figomnwyiUa2ErqK8QangIAO6c.jpg"
+                            },
+                            {
                                 "url": "/animes/boku-no-hero-academia-2/",
                                 "title": "Boku no Hero Academia 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/dAzbtjL1B0aXFjgFvA4m2oe3i8F.jpg"
+                            },
+                            {
+                                "url": "/animes/jiisan-baasan-wakagaeru/",
+                                "title": "Jiisan Baasan Wakagaeru",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3llI961Bu2PlrO0IhLipLHMvszP.jpg"
                             },
                             {
                                 "url": "/animes/quanzhi-fashi-6/",
@@ -27,6 +37,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/bRwyDiOajOFwg2o7kLPnr1Lgbub.jpg"
                             },
                             {
+                                "url": "/animes/beelzebub/",
+                                "title": "Beelzebub",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pKD21lpNb6LzdXi3FfqDirxPGEo.jpg"
+                            },
+                            {
                                 "url": "/animes/shangri-la-frontier/",
                                 "title": "Shangri-La Frontier",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/v9bl7yQduqMS7RBrUyzN7aUE34Q.jpg"
@@ -40,21 +55,6 @@
                                 "url": "/animes/dungeon-meshi-dublado/",
                                 "title": "Dungeon Meshi Dublado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/8QE6T2vb8HgsHUNV1shubQmKhOP.jpg"
-                            },
-                            {
-                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-3/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mu4F6a4ImUT5xqYlc0IcwHaALKE.jpg"
-                            },
-                            {
-                                "url": "/animes/jiisan-baasan-wakagaeru/",
-                                "title": "Jiisan Baasan Wakagaeru",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3llI961Bu2PlrO0IhLipLHMvszP.jpg"
-                            },
-                            {
-                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -359,29 +359,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/boku-no-hero-academia-2/",
-                    "title": "Boku no Hero Academia 2",
-                    "description": "Segunda Temporada de Boku no Hero Academia\n\nTítulo original: 僕のヒーローアカデミア",
-                    "genre": "Ação, Escolar, Shounen, Super Poder",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/dAzbtjL1B0aXFjgFvA4m2oe3i8F.jpg",
+                    "url": "/filmes/kung-fu-panda-dublado/",
+                    "title": "Kung Fu Panda Dublado",
+                    "description": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.\n",
+                    "genre": "Ação, Artes Marciais, Aventura, Comédia, Fantasia, Super Poder",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/6figomnwyiUa2ErqK8QangIAO6c.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/boku-no-hero-academia-2-episodio-25/",
-                        "name": "Episódio 25",
-                        "episode_number": 25.0
-                    },
-                    {
-                        "url": "/episodio/boku-no-hero-academia-2-episodio-24/",
-                        "name": "Episódio 24",
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

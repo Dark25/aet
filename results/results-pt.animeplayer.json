@@ -191,8 +191,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.OutOfMemoryError: Java heap space",
-                "passed": false
+                "result": [
+                    {
+                        "url": "\u0000\u0000\u0000 ftypisom\u0000\u0000\u0002\u0000isomiso2avc1mp41\u0000\u0000\u0000\bfree!\u0014�Ymdat\u0000\u0000\u0000\f\u0006\u0000\u0007�u0\u0000\u0000\u0003\u0000@�\u0000\u0000\u0000\b\u0006\u0001\u0004\u0000\u0000\b\u0010�\u0000\u0001��e�\u0004\u0000\u0017��Z��g�Kz�\u0005AAb¾�Ƿv*\u001a���4\u0005t��œ�����/���o��+�I:G��C�\u0019o0)�LU���\u0003�c'",
+                        "quality": "Blogger - Unknown",
+                        "videoUrl": "\u0000\u0000\u0000 ftypisom\u0000\u0000\u0002\u0000isomiso2avc1mp41\u0000\u0000\u0000\bfree!\u0014�Ymdat\u0000\u0000\u0000\f\u0006\u0000\u0007�u0\u0000\u0000\u0003\u0000@�\u0000\u0000\u0000\b\u0006\u0001\u0004\u0000\u0000\b\u0010�\u0000\u0001��e�\u0004\u0000\u0017��Z��g�Kz�\u0005AAb¾�Ƿv*\u001a���4\u0005t��œ�����/���o��+�I:G��C�\u0019o0)�LU���\u0003�c'",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

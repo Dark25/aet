@@ -117,15 +117,30 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/anime/accel-world-infinite-burst/",
+                    "author": "",
+                    "description": "Accel World Infinite ∞ Burst n’est pas une suite d’Accel World. Il s’agira d’une histoire originale rédigée par Reki Kawahara pour l’occasion.\n\nOn y retrouvera toutefois des personnages de la série originale tels que Haruyuki, Kuroyukihime, Chiyuri et Takumu.\n\nAutre Nom: Accel World Unlimited ∞ Burst\nAuteur: Obara Masakazu\nRéalisateur: Kawahara Reki\nType: Serie\nSortie initiale: 2016\nDurée: 1h03",
+                    "genre": "Drame, Samurai, Sci-Fi",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/accel-world-infinite-burst-film-vostfr/",
+                        "name": "Accel World Infinite Burst Film Vostfr",
+                        "date_upload": 1479168000000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             }
         }

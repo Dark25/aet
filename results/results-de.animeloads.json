@@ -252,8 +252,35 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=djlV33rXZmCkmkm&expires=1714681573&ip=FROsD0ETKxSHDN&token=QpYq0As2hZCv",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=djlV33rXZmCkmkm&expires=1714681573&ip=FROsD0ETKxSHDN&token=QpYq0As2hZCv"
+                    },
+                    {
+                        "url": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/11202/awvh7zbc3pkg_,n,.urlset/index-v1-a1.m3u8?t=F2N6YnkeLrs1qF1W8KzrAa7eEN7efT2AbVb0EOJ1AjA&s=1714611566&e=14400&f=56013924&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/11202/awvh7zbc3pkg_,n,.urlset/index-v1-a1.m3u8?t=F2N6YnkeLrs1qF1W8KzrAa7eEN7efT2AbVb0EOJ1AjA&s=1714611566&e=14400&f=56013924&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7YVobJo1w8cA3r4&expires=1714681558&ip=FROsD0ETKxSHDN&token=OtSwIgtYxN-O",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=7YVobJo1w8cA3r4&expires=1714681558&ip=FROsD0ETKxSHDN&token=OtSwIgtYxN-O"
+                    },
+                    {
+                        "url": "https://delivery-node-6thw7b00uppejdtq.voe-network.net/engine/hls2/01/11201/yip94r8btnub_,n,.urlset/index-v1-a1.m3u8?t=cHYpAGOVcwY-mvFDQC8Rhe6vUNSUpeOTztcgAOM0jJI&s=1714611550&e=14400&f=56009995&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-6thw7b00uppejdtq.voe-network.net/engine/hls2/01/11201/yip94r8btnub_,n,.urlset/index-v1-a1.m3u8?t=cHYpAGOVcwY-mvFDQC8Rhe6vUNSUpeOTztcgAOM0jJI&s=1714611550&e=14400&f=56009995&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

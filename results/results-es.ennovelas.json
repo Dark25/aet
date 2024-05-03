@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/el-legado-capitulo-503/",
+                                "title": "El Legado Capitulo 503",
+                                "description": "",
+                                "thumbnail_url": "https://a.ennovelas.io/wp-content/uploads/2023/06/MV5BNjAzZTdmMmUtZDRjNi00NDRmLWFjZGQtYjhmMWVhNWI0YTIwXkEyXkFqcGdeQXVyMTE5MjE5NzMw._V1_UY1200_CR45,0,630,1200_AL_-273x520.webp"
+                            },
+                            {
                                 "url": "/juego-de-voces-mexico-capitulo-4-completo/",
                                 "title": "Juego de voces Mexico Capítulo 4 Completo",
                                 "description": "",
@@ -83,12 +89,6 @@
                                 "title": "El Señor de los Cielos Temporada 9 Capítulo 57",
                                 "description": "",
                                 "thumbnail_url": "https://a.ennovelas.io/wp-content/uploads/2024/03/El-Senor-de-los-Cielos-9-Temporada-Capitulos-Completos.jpg"
-                            },
-                            {
-                                "url": "/desafio-xx-capitulo-23/",
-                                "title": "Desafío XX Capítulo 23",
-                                "description": "",
-                                "thumbnail_url": "https://a.ennovelas.io/wp-content/uploads/2024/04/Desafio-XX-tv-series-e1712814820317-346x520.jpeg"
                             },
                             {
                                 "url": "/series/el-senor-de-los-cielos-9-temporada-capitulos-completos/",
@@ -288,12 +288,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/juego-de-voces-mexico-capitulo-4-completo/",
-                    "title": "Juego de voces Mexico Capítulo 4 Completo",
+                    "url": "/el-legado-capitulo-503/",
+                    "title": "El Legado Capitulo 503",
                     "artist": "",
-                    "author": "2024",
-                    "description": "Juego de voces Mexico Capítulo 4 Completo",
-                    "genre": "Novelas Mexicanas, Srnovelas",
+                    "author": "Basak Yazi Odasi",
+                    "description": "El Legado Capitulo 503",
+                    "genre": "Acción, Música, Romance, Series y Novelas Turcas Gratis en Español, Srnovelas",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -301,21 +303,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/juego-de-voces-mexico-capitulo-4-completo/",
-                        "name": "T - E4 - Capítulo 4 Completo",
-                        "episode_number": 4.0
+                        "url": "/el-legado-capitulo-503/",
+                        "name": "Capitulo 503",
+                        "episode_number": 503.0
                     },
                     {
-                        "url": "/juego-de-voces-mexico-capitulo-3-kt/",
-                        "name": "T - E3 - Capítulo 3",
-                        "episode_number": 3.0
+                        "url": "/el-legado-capitulo-502/",
+                        "name": "Capitulo 502",
+                        "episode_number": 502.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m40.uqload.to/3rfk3e5vtjw2q4drdic7vjpubcxp7on6b442qzag5i7c3mrpgvbrzhjg5mra/v.mp4",
+                        "quality": "Uqload Uqload",
+                        "videoUrl": "https://m40.uqload.to/3rfk3e5vtjw2q4drdic7vjpubcxp7on6b442qzag5i7c3mrpgvbrzhjg5mra/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

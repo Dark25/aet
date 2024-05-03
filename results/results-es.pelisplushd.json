@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/fiasco",
+                                "title": "Fiasco (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fWMCScVRF1YJ0ofNl3CqZy9Z2hM.jpg"
+                            },
+                            {
+                                "url": "/serie/castaway-diva",
+                                "title": "Castaway Diva (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/uVSmm2MdzXLIxylmMRyUqbKWIWv.jpg"
+                            },
+                            {
+                                "url": "/serie/the-veil-red-de-mentiras",
+                                "title": "The Veil: red de mentiras (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oRMKokc0NIXM2GPkpgLvd2zsQPu.jpg"
+                            },
+                            {
                                 "url": "/serie/el-caso-asunta",
                                 "title": "El caso Asunta (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mqVwu7nwNyYv6ehdVbRGCkLraUQ.jpg"
@@ -110,21 +125,6 @@
                                 "url": "/serie/pictoline-la-vida-secreta-de-tu-mente",
                                 "title": "Pictoline: La Vida Secreta de tu Mente (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fY5xmMMUjjunmgKJLwiwPSABAlB.jpg"
-                            },
-                            {
-                                "url": "/serie/la-chica-que-el-nunca-noto",
-                                "title": "La chica que él nunca notó (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ssyV3gIqPSxpjjX6SmkV1txGmJW.jpg"
-                            },
-                            {
-                                "url": "/serie/fallout",
-                                "title": "Fallout (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5P5P2LL4luYbWawQFAhYqxHqOWy.jpg"
-                            },
-                            {
-                                "url": "/serie/iwaju",
-                                "title": "Iwájú (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/efdcTuG4IB9kREnNmpv0Pe8Q6KG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/el-caso-asunta",
-                    "title": "El caso Asunta (2024)",
-                    "description": "Cuando un matrimonio denuncia la desaparición de su hija de 12 años, la investigación no tarda en volverse contra ellos..",
-                    "genre": "Crimen, Drama",
+                    "url": "/serie/fiasco",
+                    "title": "Fiasco (2024)",
+                    "description": "Un cineasta primerizo se enfrenta a un rodaje desastroso y el equipo técnico lo graba todo mientras se suceden los contratiempos, el chantaje y el sabotaje..",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mqVwu7nwNyYv6ehdVbRGCkLraUQ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fWMCScVRF1YJ0ofNl3CqZy9Z2hM.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/el-caso-asunta/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/fiasco/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/serie/el-caso-asunta/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/fiasco/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -303,6 +303,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/mil-veces-hasta-siempre",
+                                "title": "Mil veces hasta siempre (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vcrqc0Qh4SJd6TDCe1uWjqO9XJ6.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-camara-del-demonio",
+                                "title": "La Camara del Demonio (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mHQDLK9DZ5lULet8GhXYumd85p7.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-precio-del-perdon",
+                                "title": "El Precio del Perdon (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kZdwkqAklIFkL3TiXrJyEMq0QUy.jpg"
+                            },
                             {
                                 "url": "/pelicula/te-llevo-en-el-alma",
                                 "title": "Te llevo en el alma (2024)",
@@ -407,21 +422,6 @@
                                 "url": "/pelicula/el-ultimo-paciente",
                                 "title": "El último paciente (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/bWnMWYOeIDjPV8aeTmQoEk5saib.jpg"
-                            },
-                            {
-                                "url": "/pelicula/rescate-en-amsterdam",
-                                "title": "Rescate en Amsterdam (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hhLmRxnTgKrldOp2zyAapsXayiI.jpg"
-                            },
-                            {
-                                "url": "/pelicula/despierta-el-miedo",
-                                "title": "Despierta el Miedo (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6iaQsn0MLBq1jgCYTmPYdfE2J9l.jpg"
-                            },
-                            {
-                                "url": "/pelicula/antares-de-la-luz-la-secta-del-fin-del-mundo",
-                                "title": "Antares de la Luz: La secta del fin del mundo (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +681,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/te-llevo-en-el-alma",
-                    "title": "Te llevo en el alma (2024)",
-                    "description": "La historia del origen de una de las mayores estrellas del rock italiano, Gianna Nannini, que persiguió su sueño a pesar de los obstáculos de su familia y de la industria musical.",
-                    "genre": "Música, Drama",
+                    "url": "/pelicula/mil-veces-hasta-siempre",
+                    "title": "Mil veces hasta siempre (2024)",
+                    "description": "Una adolescente intenta resolver un misterio que rodea a un multimillonario fugitivo.",
+                    "genre": "Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +694,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/te-llevo-en-el-alma",
+                        "url": "/pelicula/mil-veces-hasta-siempre",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,52 +704,52 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f3-v1-a1.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                        "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f3-v1-a1.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f3-v1-a1.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                        "videoUrl": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f3-v1-a1.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bfbadnzy00mr"
+                            "Referer": "https://streamwish.to/e/to4m5tgbb9lo"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f4.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                                "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f4.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                                 "lang": "Español"
                             }
                         ]
                     },
                     {
-                        "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f2-v1-a1.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                        "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f2-v1-a1.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f2-v1-a1.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                        "videoUrl": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f2-v1-a1.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bfbadnzy00mr"
+                            "Referer": "https://streamwish.to/e/to4m5tgbb9lo"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f4.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                                "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f4.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                                 "lang": "Español"
                             }
                         ]
                     },
                     {
-                        "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f1-v1-a1.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                        "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f1-v1-a1.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f1-v1-a1.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                        "videoUrl": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f1-v1-a1.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bfbadnzy00mr"
+                            "Referer": "https://streamwish.to/e/to4m5tgbb9lo"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,bfbadnzy00mr_n,bfbadnzy00mr_h,bfbadnzy00mr_x,lang/spa/bfbadnzy00mr_spa,.urlset/index-f4.m3u8?t=RYk6S1PU1874bL8X4prtdYo0Z67XNAVOxS51FVD_Q04&s=1714673892&e=129600&f=18766083&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
+                                "url": "https://eewh6zs51u.sw-cdnstreamwish.com/hls2/01/03753/,to4m5tgbb9lo_n,to4m5tgbb9lo_h,to4m5tgbb9lo_x,lang/spa/to4m5tgbb9lo_spa,.urlset/index-f4.m3u8?t=-looEQlCuhe0bV3RYAJseOvpsEFUJwb0LWF5lwTxWKs&s=1714698017&e=129600&f=18767320&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=8075",
                                 "lang": "Español"
                             }
                         ]
@@ -1038,7 +1038,7 @@
                     "title": "Elevator Game",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -1058,9 +1058,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=cZr95FaYJt1i754RFSY6WJMW1IGeDHf1fcfXGJ-O4wM&s=1714673894&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=3e8YSklkuCZ97OaK3TrJh8p8HZ3Mb-IirAh73hJNBpc&s=1714698020&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=cZr95FaYJt1i754RFSY6WJMW1IGeDHf1fcfXGJ-O4wM&s=1714673894&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=3e8YSklkuCZ97OaK3TrJh8p8HZ3Mb-IirAh73hJNBpc&s=1714698020&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1069,9 +1069,9 @@
                         }
                     },
                     {
-                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=WiR0VnPsFav6c7YgWxMBEUHsVO96We1EE8N06i8AXLc&s=1714673894&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=M2_X4eJdyPvdtXJzSUeAYsE9k3B36qIV8xP_r552PFI&s=1714698021&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=WiR0VnPsFav6c7YgWxMBEUHsVO96We1EE8N06i8AXLc&s=1714673894&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=M2_X4eJdyPvdtXJzSUeAYsE9k3B36qIV8xP_r552PFI&s=1714698021&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1080,9 +1080,9 @@
                         }
                     },
                     {
-                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=cZr95FaYJt1i754RFSY6WJMW1IGeDHf1fcfXGJ-O4wM&s=1714673894&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=3e8YSklkuCZ97OaK3TrJh8p8HZ3Mb-IirAh73hJNBpc&s=1714698020&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=cZr95FaYJt1i754RFSY6WJMW1IGeDHf1fcfXGJ-O4wM&s=1714673894&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=3e8YSklkuCZ97OaK3TrJh8p8HZ3Mb-IirAh73hJNBpc&s=1714698020&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1091,9 +1091,9 @@
                         }
                     },
                     {
-                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=WiR0VnPsFav6c7YgWxMBEUHsVO96We1EE8N06i8AXLc&s=1714673894&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=M2_X4eJdyPvdtXJzSUeAYsE9k3B36qIV8xP_r552PFI&s=1714698021&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=WiR0VnPsFav6c7YgWxMBEUHsVO96We1EE8N06i8AXLc&s=1714673894&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=M2_X4eJdyPvdtXJzSUeAYsE9k3B36qIV8xP_r552PFI&s=1714698021&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

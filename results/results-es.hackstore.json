@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/batman-1989/",
+                                "title": "Batman (1989)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2022/06/Batman-1989-scaled.jpg"
+                            },
+                            {
                                 "url": "/peliculas/mil-veces-hasta-siempre-2024/",
                                 "title": "Mil veces hasta siempre (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Downtown Owl (2023)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/jJc9FJehQALnKOAwCdLVbqgeycQ.jpg"
-                            },
-                            {
-                                "url": "/peliculas/pequenos-guerreros-1998/",
-                                "title": "Pequeños guerreros (1998)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/04/4wHuFNEN1E0LVYIRXbP7BjDH8Y6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/mil-veces-hasta-siempre-2024/",
-                    "title": "Mil veces hasta siempre (2024)",
-                    "artist": "Cory Hardin",
-                    "author": "Hannah Marks",
-                    "description": "Aza confronta su potencial de amor, felicidad, amistad y esperanza mientras navega por un aluvión interminable de pensamientos invasivos y obsesivos.",
-                    "genre": "Drama, Romance",
+                    "url": "/peliculas/batman-1989/",
+                    "title": "Batman (1989)",
+                    "artist": "Billy Dee Williams",
+                    "author": "Cheryl Leigh",
+                    "description": "Batman La oscura y peligrosa ciudad Gótica tan sólo se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reputada periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
+                    "genre": "Acción, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/05/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg",
+                    "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2022/06/Batman-1989.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/mil-veces-hasta-siempre-2024/",
+                        "url": "/peliculas/batman-1989/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,11 +266,87 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/11267/14rqr26spum7_,n,.urlset/index-v1-a1.m3u8?t=WhCtbCFz7itNOg786bt9MndWV7asROhQubqQOxGiZ2M&s=1714698222&e=14400&f=56337441&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "url": "https://qegvxbigwywv.sw-cdnstreamwish.com/hls2/01/00285/otu37ea6yvrk_n/index-v1-a1.m3u8?t=nNI7z2XyRx20vxGLLWbKkWmnDtTkxi6EZ_cOpDArdX8&s=1714717318&e=129600&f=1426170&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://qegvxbigwywv.sw-cdnstreamwish.com/hls2/01/00285/otu37ea6yvrk_n/index-v1-a1.m3u8?t=nNI7z2XyRx20vxGLLWbKkWmnDtTkxi6EZ_cOpDArdX8&s=1714717318&e=129600&f=1426170&srv=bjg7pyty5fruapll&i=0.4&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/otu37ea6yvrk"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-gagmup5nvenf5ta8.voe-network.net/engine/hls2/01/10531/sz0smaklpo7b_,n,.urlset/index-v1-a1.m3u8?t=CQkQCpPM3HlyQPcgY2ZR8-c9cTcwBfx1DbbtCn767Jw&s=1714717319&e=14400&f=55444655&node=delivery-node-gagmup5nvenf5ta8.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/11267/14rqr26spum7_,n,.urlset/index-v1-a1.m3u8?t=WhCtbCFz7itNOg786bt9MndWV7asROhQubqQOxGiZ2M&s=1714698222&e=14400&f=56337441&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-gagmup5nvenf5ta8.voe-network.net/engine/hls2/01/10531/sz0smaklpo7b_,n,.urlset/index-v1-a1.m3u8?t=CQkQCpPM3HlyQPcgY2ZR8-c9cTcwBfx1DbbtCn767Jw&s=1714717319&e=14400&f=55444655&node=delivery-node-gagmup5nvenf5ta8.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/03975/gdv71cllsj4c_h/index-v1-a1.m3u8?t=Y5iC-Vv4hRMyBMqToITWc7jFbRp2Jy0jceT9zY5K5gE&s=1714717321&e=43200&f=29469982&srv=21&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:720p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/03975/gdv71cllsj4c_h/index-v1-a1.m3u8?t=Y5iC-Vv4hRMyBMqToITWc7jFbRp2Jy0jceT9zY5K5gE&s=1714717321&e=43200&f=29469982&srv=21&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-wr40nh2kjzygwk6v.voe-network.net/engine/hls2/01/11267/su8nx6mugrs1_,n,.urlset/index-v1-a1.m3u8?t=DKHeRDB0eZtX9MOjVkJwJjuPvlQlDIv1H7Qqpa3j6-c&s=1714717321&e=14400&f=56339687&node=delivery-node-wr40nh2kjzygwk6v.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe: 720p",
+                        "videoUrl": "https://delivery-node-wr40nh2kjzygwk6v.voe-network.net/engine/hls2/01/11267/su8nx6mugrs1_,n,.urlset/index-v1-a1.m3u8?t=DKHeRDB0eZtX9MOjVkJwJjuPvlQlDIv1H7Qqpa3j6-c&s=1714717321&e=14400&f=56339687&node=delivery-node-wr40nh2kjzygwk6v.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o1VzR1eZqDIJ4Rb&expires=1714787320&ip=F0qQKRWZD19XKxR&token=lqkhl2eIFGLd",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o1VzR1eZqDIJ4Rb&expires=1714787320&ip=F0qQKRWZD19XKxR&token=lqkhl2eIFGLd"
+                    },
+                    {
+                        "url": "https://7ieciod7jz.sw-cdnstreamwish.com/hls2/01/00289/rjd33ay8b5d1_n/index-v1-a1.m3u8?t=lI6PJ3egw-V1K75vhWr5UVjrdG89h21PcaYDISKVRKo&s=1714717323&e=129600&f=1448515&srv=rlaj2blvduli&i=0.4&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://7ieciod7jz.sw-cdnstreamwish.com/hls2/01/00289/rjd33ay8b5d1_n/index-v1-a1.m3u8?t=lI6PJ3egw-V1K75vhWr5UVjrdG89h21PcaYDISKVRKo&s=1714717323&e=129600&f=1448515&srv=rlaj2blvduli&i=0.4&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/rjd33ay8b5d1"
+                        }
+                    },
+                    {
+                        "url": "https://n92qfljg.sw-cdnstreamwish.com/hls2/01/00285/wmoitkebl2rm_n/index-v1-a1.m3u8?t=NlzNcnOA9hD96cBN-mzTpxmzA3Vzr3VZ6axXnmY9JJQ&s=1714717324&e=129600&f=1426335&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://n92qfljg.sw-cdnstreamwish.com/hls2/01/00285/wmoitkebl2rm_n/index-v1-a1.m3u8?t=NlzNcnOA9hD96cBN-mzTpxmzA3Vzr3VZ6axXnmY9JJQ&s=1714717324&e=129600&f=1426335&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/wmoitkebl2rm"
+                        }
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/03396/mfyq2fbyuzz5_x/index-v1-a1.m3u8?t=DPgj0AbXDZ9Pl5GO6SOLJwwJWDvWgskI_R1as-yOenM&s=1714717324&e=43200&f=29469985&srv=01&asn=8075&sp=5500",
+                        "quality": "[SUB] Filemoon:720p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/03396/mfyq2fbyuzz5_x/index-v1-a1.m3u8?t=DPgj0AbXDZ9Pl5GO6SOLJwwJWDvWgskI_R1as-yOenM&s=1714717324&e=43200&f=29469985&srv=01&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/03975/brocrwsraovr_h/index-v1-a1.m3u8?t=FMQOtzPbxMPdD92cvdrYizm9wayoqF4Ws1jHJ5x759Q&s=1714717322&e=43200&f=29469984&srv=23&asn=8075&sp=4000",
+                        "quality": "[CAST] Filemoon:720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/03975/brocrwsraovr_h/index-v1-a1.m3u8?t=FMQOtzPbxMPdD92cvdrYizm9wayoqF4Ws1jHJ5x759Q&s=1714717322&e=43200&f=29469984&srv=23&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
                         }
                     }
                 ],

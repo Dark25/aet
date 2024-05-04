@@ -437,8 +437,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://box-1095-q.vmeas.cloud/hls/xqx2ocxhcvokjiqbtg5cl6q3vmxyhkzmiw6rbxgm6s7yggsns5qqiz3owqoq/index-v1.m3u8",
+                        "quality": "Vidmoly - 480p",
+                        "videoUrl": "https://box-1095-q.vmeas.cloud/hls/xqx2ocxhcvokjiqbtg5cl6q3vmxyhkzmiw6rbxgm6s7yggsns5qqiz3owqoq/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-3ozmnu5oo70o.html"
+                        }
+                    },
+                    {
+                        "url": "https://box-1095-q.vmeas.cloud/hls/xqx2ocxhcvokjiqbtg5cl6q3vmxyhkzmiw6rbxgm63nyggsns5qwat363tra/index-v1.m3u8",
+                        "quality": "Vidmoly - 900p",
+                        "videoUrl": "https://box-1095-q.vmeas.cloud/hls/xqx2ocxhcvokjiqbtg5cl6q3vmxyhkzmiw6rbxgm63nyggsns5qwat363tra/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-3ozmnu5oo70o.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

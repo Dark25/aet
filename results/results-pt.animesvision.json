@@ -3,11 +3,11 @@
         "name": "AnimesVision (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
@@ -15,15 +15,15 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-heredero-ilegitimo",
+                                "title": "El heredero ilegítimo (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gohAuKheCdRkliOgCHHielPi5ro.jpg"
+                            },
+                            {
                                 "url": "/serie/todo-un-hombre",
                                 "title": "Todo un hombre (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/o6iM2JDs15CwEGEcNMUU8HtLivE.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/las-leyendas-creaturas-ocultas",
                                 "title": "Las Leyendas: Creaturas ocultas (2019)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uBfuEKQPHYyDjc4p12xcPShtU0.jpg"
-                            },
-                            {
-                                "url": "/serie/el-lobista",
-                                "title": "El Lobista (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gevIzXnjw5u0XUo8rsbaeANIvRM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/todo-un-hombre",
-                    "title": "Todo un hombre (2024)",
-                    "description": "Entre enemigos implacables, una quiebra repentina y un imperio que empieza a desmoronarse, un magnate inmobiliario de Atlanta deberá luchar por volver a la cima..",
+                    "url": "/serie/el-heredero-ilegitimo",
+                    "title": "El heredero ilegítimo (2024)",
+                    "description": "Cuando el hijo ilegítimo del propietario de un conglomerado coreano se asocia con su ambicioso amigo de la infancia, el dúo no se detendrá ante nada para hacerse con su lugar en la cima de la cadena alimentaria social. Nacido en un hogar monoparental empobrecido y sin nada más que su buena apariencia y encanto, Kang In Ha está hambriento de éxito. Decidido a hacer algo por sí mismo, sin importar el costo, In Ha descubre que su padre es el presidente del exitoso Grupo Kang Oh y deja atrás su vida de pobreza. Rechazado por el resto de su nueva familia, In Ha se asocia con su amigo intelectualmente talentoso Han Tae Oh, tramando un plan desde una edad temprana para hacerse cargo de la empresa y hacerse con sus lugares en la cima de la sociedad. Al darse cuenta del éxito desde el principio, la pareja comienza su ascenso de manera constante hasta que una mujer igualmente ambiciosa con un pasado igualmente problemático amenaza con descarrilar sus planes para siempre..",
                     "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/o6iM2JDs15CwEGEcNMUU8HtLivE.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gohAuKheCdRkliOgCHHielPi5ro.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/todo-un-hombre/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/el-heredero-ilegitimo/temporada/1/capitulo/12",
+                        "name": "T1 - E12: Episodio 12",
+                        "episode_number": 13.0
                     },
                     {
-                        "url": "/serie/todo-un-hombre/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/el-heredero-ilegitimo/temporada/1/capitulo/11",
+                        "name": "T1 - E11: Episodio 11",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -303,6 +303,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/dogman",
+                                "title": "Dogman (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uX9GzeM5F1qYOlBazEhutf5WHyf.jpg"
+                            },
                             {
                                 "url": "/pelicula/no-filter",
                                 "title": "#No_Filter (2022)",
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/fiesta-en-la-madriguera",
                                 "title": "Fiesta en la Madriguera (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/s38XHjbFXd7Wv2zJKwWnq5Qyl5l.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-ultimo-soldado",
-                                "title": "El último soldado (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6a0bUR38ql62j5hdRZl3yRQai2A.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +681,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/no-filter",
-                    "title": "#No_Filter (2022)",
-                    "description": "",
-                    "genre": "Terror, Suspense, Fantasía, Película de TV",
+                    "url": "/pelicula/dogman",
+                    "title": "Dogman (2023)",
+                    "description": "Un chico, magullado por la vida, encuentra su salvación a través del amor de sus perros.",
+                    "genre": "Acción, Drama, Crimen",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +694,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/no-filter",
+                        "url": "/pelicula/dogman",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,52 +704,35 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f3-v1-a1.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
-                        "quality": "StreamWish:960p",
-                        "videoUrl": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f3-v1-a1.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/f790uy4ec8w7"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f4.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
-                                "lang": "Español"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f2-v1-a1.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
+                        "url": "https://e9vfjuh4kw5l5.sw-cdnstreamwish.com/hls2/01/03770/,08cl3cu9cge3_n,08cl3cu9cge3_h,lang/spa/08cl3cu9cge3_spa,.urlset/index-f2-v1-a1.m3u8?t=TR0N-eaTS4FpxEo8ajTskC7ZpsappUncLufkDECZips&s=1714889897&e=129600&f=18851682&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f2-v1-a1.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
+                        "videoUrl": "https://e9vfjuh4kw5l5.sw-cdnstreamwish.com/hls2/01/03770/,08cl3cu9cge3_n,08cl3cu9cge3_h,lang/spa/08cl3cu9cge3_spa,.urlset/index-f2-v1-a1.m3u8?t=TR0N-eaTS4FpxEo8ajTskC7ZpsappUncLufkDECZips&s=1714889897&e=129600&f=18851682&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/f790uy4ec8w7"
+                            "Referer": "https://streamwish.to/e/08cl3cu9cge3"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f4.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
+                                "url": "https://e9vfjuh4kw5l5.sw-cdnstreamwish.com/hls2/01/03770/,08cl3cu9cge3_n,08cl3cu9cge3_h,lang/spa/08cl3cu9cge3_spa,.urlset/index-f3.m3u8?t=TR0N-eaTS4FpxEo8ajTskC7ZpsappUncLufkDECZips&s=1714889897&e=129600&f=18851682&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=8075",
                                 "lang": "Español"
                             }
                         ]
                     },
                     {
-                        "url": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f1-v1-a1.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
+                        "url": "https://e9vfjuh4kw5l5.sw-cdnstreamwish.com/hls2/01/03770/,08cl3cu9cge3_n,08cl3cu9cge3_h,lang/spa/08cl3cu9cge3_spa,.urlset/index-f1-v1-a1.m3u8?t=TR0N-eaTS4FpxEo8ajTskC7ZpsappUncLufkDECZips&s=1714889897&e=129600&f=18851682&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f1-v1-a1.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
+                        "videoUrl": "https://e9vfjuh4kw5l5.sw-cdnstreamwish.com/hls2/01/03770/,08cl3cu9cge3_n,08cl3cu9cge3_h,lang/spa/08cl3cu9cge3_spa,.urlset/index-f1-v1-a1.m3u8?t=TR0N-eaTS4FpxEo8ajTskC7ZpsappUncLufkDECZips&s=1714889897&e=129600&f=18851682&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/f790uy4ec8w7"
+                            "Referer": "https://streamwish.to/e/08cl3cu9cge3"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://yvgdwtamlx.sw-cdnstreamwish.com/hls2/01/03761/,f790uy4ec8w7_n,f790uy4ec8w7_h,f790uy4ec8w7_x,lang/spa/f790uy4ec8w7_spa,.urlset/index-f4.m3u8?t=IDkdRsvyRSvBVAazbRCKutjSTUjj_j35CWfeW-PKkEU&s=1714870862&e=129600&f=18809500&srv=n3hekrhru6pz&i=0.4&sp=500&p1=n3hekrhru6pz&p2=n3hekrhru6pz&asn=8075",
+                                "url": "https://e9vfjuh4kw5l5.sw-cdnstreamwish.com/hls2/01/03770/,08cl3cu9cge3_n,08cl3cu9cge3_h,lang/spa/08cl3cu9cge3_spa,.urlset/index-f3.m3u8?t=TR0N-eaTS4FpxEo8ajTskC7ZpsappUncLufkDECZips&s=1714889897&e=129600&f=18851682&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=8075",
                                 "lang": "Español"
                             }
                         ]
@@ -1058,9 +1041,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=AYqvjH6e2QJFa1EjlgKbPQUtZWlMF05FSUwcHtlbiZU&s=1714870866&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IkYKzmVFQudjrKQCBDjJLHY9GHxSzUwaU45mtjb8LsY&s=1714889899&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=AYqvjH6e2QJFa1EjlgKbPQUtZWlMF05FSUwcHtlbiZU&s=1714870866&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IkYKzmVFQudjrKQCBDjJLHY9GHxSzUwaU45mtjb8LsY&s=1714889899&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1069,9 +1052,9 @@
                         }
                     },
                     {
-                        "url": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=sAGouXO5Aw7GMG7gbxcwW7lm-wLNAnihdtfgVgVCjZQ&s=1714870866&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=C5S35rfr9SLOf0woqoDxtBdLh0LKGCyD7ZZGMvq5TTA&s=1714889900&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=sAGouXO5Aw7GMG7gbxcwW7lm-wLNAnihdtfgVgVCjZQ&s=1714870866&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=C5S35rfr9SLOf0woqoDxtBdLh0LKGCyD7ZZGMvq5TTA&s=1714889900&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1080,9 +1063,9 @@
                         }
                     },
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=AYqvjH6e2QJFa1EjlgKbPQUtZWlMF05FSUwcHtlbiZU&s=1714870866&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IkYKzmVFQudjrKQCBDjJLHY9GHxSzUwaU45mtjb8LsY&s=1714889899&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=AYqvjH6e2QJFa1EjlgKbPQUtZWlMF05FSUwcHtlbiZU&s=1714870866&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IkYKzmVFQudjrKQCBDjJLHY9GHxSzUwaU45mtjb8LsY&s=1714889899&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1091,9 +1074,9 @@
                         }
                     },
                     {
-                        "url": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=sAGouXO5Aw7GMG7gbxcwW7lm-wLNAnihdtfgVgVCjZQ&s=1714870866&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=C5S35rfr9SLOf0woqoDxtBdLh0LKGCyD7ZZGMvq5TTA&s=1714889900&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=sAGouXO5Aw7GMG7gbxcwW7lm-wLNAnihdtfgVgVCjZQ&s=1714870866&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=C5S35rfr9SLOf0woqoDxtBdLh0LKGCyD7ZZGMvq5TTA&s=1714889900&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

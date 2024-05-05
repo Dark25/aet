@@ -3,13 +3,23 @@
         "name": "Egy Dead (AR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episode/انمي-detective-conan-الحلقة-1122-مترجمة/",
+                                "title": "انمي Detective Conan الحلقة 1122 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/01/انمي-Detective-Conan-مترجم-200x280.jpg"
+                            },
+                            {
+                                "url": "/episode/انمي-one-piece-الحلقة-1103-مترجمة/",
+                                "title": "انمي One Piece الحلقة 1103 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2023/12/انمي-One-Piece-Egghead-مترجم-1-225x280.jpg"
+                            },
                             {
                                 "url": "/episode/انمي-the-new-gate-الحلقة-4-مترجمة/",
                                 "title": "انمي The New Gate الحلقة 4 مترجمة",
@@ -239,16 +249,6 @@
                                 "url": "/episode/مسلسل-station-19-الموسم-السابع-الحلقة-6-مترجمة/",
                                 "title": "مسلسل Station 19 الموسم السابع الحلقة 6 مترجمة",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/03/مسلسل-Station-19-الموسم-السابع-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-elsbeth-الموسم-الاول-الحلقة-7-مترجمة/",
-                                "title": "مسلسل Elsbeth الموسم الاول الحلقة 7 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/03/مسلسل-Elsbeth-الموسم-الاول-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/مسلسل-so-help-me-todd-الموسم-الثاني-الحلقة-8-مترجمة/",
-                                "title": "مسلسل So Help Me Todd الموسم الثاني الحلقة 8 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/02/مسلسل-So-Help-Me-Todd-الموسم-الثاني-200x280.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -508,15 +508,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/episode/انمي-the-new-gate-الحلقة-4-مترجمة/",
-                    "title": "انمي The New Gate الحلقة 4 مترجمة",
+                    "url": "/episode/انمي-detective-conan-الحلقة-1122-مترجمة/",
+                    "title": "انمي Detective Conan الحلقة 1122 مترجمة",
                     "artist": "مسلسلات انمي",
                     "author": "اليابان",
-                    "description": "تحولت لعبة البوابة الجديدة إلى نزاع بين الحياة والموت عبر الإنترنت للاعبيها. بفضل جهود شين، الأقوى بينهم جميعًا، بدأت نهاية اللعبة وحرية الجميع تبدو في متناول اليد. لكن لحظات بعد هزيمة شين لزعيم اللعبة النهائي، يجد نفسه مكتنزاً بنور غامض ومنقول حتى 500 سنة في مستقبل العالم الافتراضي للعبة. سيُلقَى شاب من لعبة بسيطة تحولت إلى كارثة في أرض جديدة غريبة، وهو محارب شاب ذو قوة لا تضاهى على وشك أن يبدأ رحلة أسطورية!",
-                    "genre": "اكشن, ايسيكاي, فانتازيا, مغامرة, اليابانية, 2024",
+                    "description": "تحول إلى فتًى بعد تناوله شرابًا مسمومًا، ليصبح المحقق \"كونان\"، الذي يساعد في كشف الجرائم الغامضة ويطارد العملاء الذين سمّموه",
+                    "genre": "شونين, غموض, كوميديا, مغامرة, اليابانية, 1996",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/انمي-The-New-Gate-2024-مترجم.jpg",
+                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/01/انمي-Detective-Conan-مترجم.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -524,14 +524,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/انمي-the-new-gate-الحلقة-4-مترجمة/",
-                        "name": "حلقه 4",
-                        "episode_number": 4.0
+                        "url": "/episode/انمي-detective-conan-الحلقة-1122-مترجمة/",
+                        "name": "حلقه 1122",
+                        "episode_number": 1122.0
                     },
                     {
-                        "url": "/episode/انمي-the-new-gate-الحلقة-3-مترجمة/",
-                        "name": "حلقه 3",
-                        "episode_number": 3.0
+                        "url": "/episode/انمي-detective-conan-الحلقة-1121-مترجمة/",
+                        "name": "حلقه 1121",
+                        "episode_number": 1121.0
                     }
                 ],
                 "passed": true
@@ -539,36 +539,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://rrvswpnvn.sw-cdnstreamwish.com/hls2/01/03769/gc5t2qtjuu3l_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=zDOM7B9CPl3bF_HK8kTVFxn9mKFXkIF6XlqA4Ki8opA&s=1714871141&e=129600&f=18846612&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03770/v6a27hz5nfqh_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-puluspTpBTKC6oLjOYxesX5UKHgM4TWa_ZvHKCFFwA&s=1714890151&e=129600&f=18851283&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://rrvswpnvn.sw-cdnstreamwish.com/hls2/01/03769/gc5t2qtjuu3l_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=zDOM7B9CPl3bF_HK8kTVFxn9mKFXkIF6XlqA4Ki8opA&s=1714871141&e=129600&f=18846612&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03770/v6a27hz5nfqh_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-puluspTpBTKC6oLjOYxesX5UKHgM4TWa_ZvHKCFFwA&s=1714890151&e=129600&f=18851283&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/gc5t2qtjuu3l"
+                            "Referer": "https://trgsfjll.sbs/e/v6a27hz5nfqh"
                         }
                     },
                     {
-                        "url": "https://rrvswpnvn.sw-cdnstreamwish.com/hls2/01/03769/gc5t2qtjuu3l_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zDOM7B9CPl3bF_HK8kTVFxn9mKFXkIF6XlqA4Ki8opA&s=1714871141&e=129600&f=18846612&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03770/v6a27hz5nfqh_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-puluspTpBTKC6oLjOYxesX5UKHgM4TWa_ZvHKCFFwA&s=1714890151&e=129600&f=18851283&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://rrvswpnvn.sw-cdnstreamwish.com/hls2/01/03769/gc5t2qtjuu3l_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zDOM7B9CPl3bF_HK8kTVFxn9mKFXkIF6XlqA4Ki8opA&s=1714871141&e=129600&f=18846612&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03770/v6a27hz5nfqh_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-puluspTpBTKC6oLjOYxesX5UKHgM4TWa_ZvHKCFFwA&s=1714890151&e=129600&f=18851283&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/gc5t2qtjuu3l"
+                            "Referer": "https://trgsfjll.sbs/e/v6a27hz5nfqh"
                         }
                     },
                     {
-                        "url": "https://rrvswpnvn.sw-cdnstreamwish.com/hls2/01/03769/gc5t2qtjuu3l_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zDOM7B9CPl3bF_HK8kTVFxn9mKFXkIF6XlqA4Ki8opA&s=1714871141&e=129600&f=18846612&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03770/v6a27hz5nfqh_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-puluspTpBTKC6oLjOYxesX5UKHgM4TWa_ZvHKCFFwA&s=1714890151&e=129600&f=18851283&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://rrvswpnvn.sw-cdnstreamwish.com/hls2/01/03769/gc5t2qtjuu3l_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zDOM7B9CPl3bF_HK8kTVFxn9mKFXkIF6XlqA4Ki8opA&s=1714871141&e=129600&f=18846612&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03770/v6a27hz5nfqh_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-puluspTpBTKC6oLjOYxesX5UKHgM4TWa_ZvHKCFFwA&s=1714890151&e=129600&f=18851283&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://trgsfjll.sbs",
-                            "Referer": "https://trgsfjll.sbs/e/gc5t2qtjuu3l"
+                            "Referer": "https://trgsfjll.sbs/e/v6a27hz5nfqh"
                         }
                     }
                 ],

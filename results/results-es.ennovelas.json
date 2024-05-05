@@ -314,8 +314,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m170.uqload.to/3rfkzbfetjw2q4drdidpvlvobrlfztskgyxmpaxepu5wabpvbdaqouef2fja/v.mp4",
+                        "quality": "Uqload Uqload",
+                        "videoUrl": "https://m170.uqload.to/3rfkzbfetjw2q4drdidpvlvobrlfztskgyxmpaxepu5wabpvbdaqouef2fja/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

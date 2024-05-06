@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/animes/rakudai-kishi-no-cavalry/",
-                                "title": "Rakudai Kishi no Cavalry",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/d48gIgIwhOBBeOYCPZEa52V1YPl.jpg"
-                            },
-                            {
                                 "url": "/filmes/jujutsu-kaisen-0-movie/",
                                 "title": "Jujutsu Kaisen 0 Movie",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg"
@@ -25,6 +20,11 @@
                                 "url": "/animes/shangri-la-frontier/",
                                 "title": "Shangri-La Frontier",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/v9bl7yQduqMS7RBrUyzN7aUE34Q.jpg"
+                            },
+                            {
+                                "url": "/animes/rakudai-kishi-no-cavalry/",
+                                "title": "Rakudai Kishi no Cavalry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/d48gIgIwhOBBeOYCPZEa52V1YPl.jpg"
                             },
                             {
                                 "url": "/filmes/o-tempo-com-voce-dublado/",
@@ -359,29 +359,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/rakudai-kishi-no-cavalry/",
-                    "title": "Rakudai Kishi no Cavalry",
-                    "description": "Os Cavaleiros Mágicos, usuários de magia modernos que lutam com armas convertidas de suas almas. Kurogane Ikki frequenta uma escola para esses Cavaleiros Mágicos, mas é o “Cavaleiro Fracassado” ou “O Pior” que falhou por não ter habilidades mágicas. No entanto, certo dia, ele é desafiado para um duelo por Stella, uma princesa estrangeira e a aluna número um. Neste duelo, o perdedor deve obedecer o vencedor pelo resto da vida.\n\nTítulo original: 落第騎士の英雄譚\nTemporadas: 1\nEpisódios: 12",
-                    "genre": "Ação, Ecchi, Escolar, Fantasia, Romance",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/d48gIgIwhOBBeOYCPZEa52V1YPl.jpg",
+                    "url": "/filmes/jujutsu-kaisen-0-movie/",
+                    "title": "Jujutsu Kaisen 0 Movie",
+                    "description": "O jovem Yuta Okkotsu ganha o controle de um espírito extremamente poderoso, então um grupo de feiticeiros o matriculam na Tokyo Prefectural Jujutsu High School, para ajudá-lo a controlar esse poder e também para ficar de olho nele.\n",
+                    "genre": "Ação, Fantasia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/rakudai-kishi-no-cavalry-episodio-12/",
-                        "name": "Episódio 12",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/episodio/rakudai-kishi-no-cavalry-episodio-11/",
-                        "name": "Episódio 11",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

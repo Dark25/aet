@@ -232,11 +232,6 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg"
                             },
                             {
-                                "url": "/ninja-kamui-19018",
-                                "title": "Ninja Kamui",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dc00291c4fcaed8675d6efb7260b916.jpg"
-                            },
-                            {
                                 "url": "/wind-breaker-19136",
                                 "title": "Wind Breaker",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9bb23228e5a641b5a3e9386382dae3a.jpg"
@@ -415,6 +410,11 @@
                                 "url": "/unnamed-memory-19135",
                                 "title": "Unnamed Memory",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/535d5f27a10102d2cbabb61b6b40ec3a.jpg"
+                            },
+                            {
+                                "url": "/burning-kabaddi-15540",
+                                "title": "Shakunetsu Kabaddi",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cca9fc3f4d274abd7209911454388913.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -641,8 +641,111 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd2.biananset.net/_v7/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483028edaa879308558f06538ebf644a00f9857e8e0f3a33ab0649eef27dc9746b27797d4f46a869e94c40a70d1c976cca60139c09956d012e25a9c158d89e0346ed8a09d66df12d4d1af24bd4c73f00a01/index-f1-v1-a1.m3u8",
+                        "quality": "HD-1 - 1080p - sub",
+                        "videoUrl": "https://vd2.biananset.net/_v7/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483028edaa879308558f06538ebf644a00f9857e8e0f3a33ab0649eef27dc9746b27797d4f46a869e94c40a70d1c976cca60139c09956d012e25a9c158d89e0346ed8a09d66df12d4d1af24bd4c73f00a01/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/beb7b53eb69729bf00c58b29c35a4d8a/beb7b53eb69729bf00c58b29c35a4d8a.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vd2.biananset.net/_v7/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483028edaa879308558f06538ebf644a00f9857e8e0f3a33ab0649eef27dc9746b27797d4f46a869e94c40a70d1c976cca60139c09956d012e25a9c158d89e0346ed8a09d66df12d4d1af24bd4c73f00a01/index-f2-v1-a1.m3u8",
+                        "quality": "HD-1 - 720p - sub",
+                        "videoUrl": "https://vd2.biananset.net/_v7/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483028edaa879308558f06538ebf644a00f9857e8e0f3a33ab0649eef27dc9746b27797d4f46a869e94c40a70d1c976cca60139c09956d012e25a9c158d89e0346ed8a09d66df12d4d1af24bd4c73f00a01/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/beb7b53eb69729bf00c58b29c35a4d8a/beb7b53eb69729bf00c58b29c35a4d8a.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vd2.biananset.net/_v7/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483028edaa879308558f06538ebf644a00f9857e8e0f3a33ab0649eef27dc9746b27797d4f46a869e94c40a70d1c976cca60139c09956d012e25a9c158d89e0346ed8a09d66df12d4d1af24bd4c73f00a01/index-f3-v1-a1.m3u8",
+                        "quality": "HD-1 - 360p - sub",
+                        "videoUrl": "https://vd2.biananset.net/_v7/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483028edaa879308558f06538ebf644a00f9857e8e0f3a33ab0649eef27dc9746b27797d4f46a869e94c40a70d1c976cca60139c09956d012e25a9c158d89e0346ed8a09d66df12d4d1af24bd4c73f00a01/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/beb7b53eb69729bf00c58b29c35a4d8a/beb7b53eb69729bf00c58b29c35a4d8a.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ed.netmagcdn.com:2228/hls-playback/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483ee6c2c1627ed445983c67c5578d94583f1882bc2d2ddf615b656c79922f6b9d747c461c04017579e325267fe815013c30c127001c59241187f27a64b76b3d70b2464cf99a5c398fbc9d8914707a72ba83444e19bcabf5d609cc6627d15872563/index-f1-v1-a1.m3u8",
+                        "quality": "HD-2 - 1080p - sub",
+                        "videoUrl": "https://ed.netmagcdn.com:2228/hls-playback/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483ee6c2c1627ed445983c67c5578d94583f1882bc2d2ddf615b656c79922f6b9d747c461c04017579e325267fe815013c30c127001c59241187f27a64b76b3d70b2464cf99a5c398fbc9d8914707a72ba83444e19bcabf5d609cc6627d15872563/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/beb7b53eb69729bf00c58b29c35a4d8a/beb7b53eb69729bf00c58b29c35a4d8a.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ed.netmagcdn.com:2228/hls-playback/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483ee6c2c1627ed445983c67c5578d94583f1882bc2d2ddf615b656c79922f6b9d747c461c04017579e325267fe815013c30c127001c59241187f27a64b76b3d70b2464cf99a5c398fbc9d8914707a72ba83444e19bcabf5d609cc6627d15872563/index-f2-v1-a1.m3u8",
+                        "quality": "HD-2 - 720p - sub",
+                        "videoUrl": "https://ed.netmagcdn.com:2228/hls-playback/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483ee6c2c1627ed445983c67c5578d94583f1882bc2d2ddf615b656c79922f6b9d747c461c04017579e325267fe815013c30c127001c59241187f27a64b76b3d70b2464cf99a5c398fbc9d8914707a72ba83444e19bcabf5d609cc6627d15872563/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/beb7b53eb69729bf00c58b29c35a4d8a/beb7b53eb69729bf00c58b29c35a4d8a.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ed.netmagcdn.com:2228/hls-playback/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483ee6c2c1627ed445983c67c5578d94583f1882bc2d2ddf615b656c79922f6b9d747c461c04017579e325267fe815013c30c127001c59241187f27a64b76b3d70b2464cf99a5c398fbc9d8914707a72ba83444e19bcabf5d609cc6627d15872563/index-f3-v1-a1.m3u8",
+                        "quality": "HD-2 - 360p - sub",
+                        "videoUrl": "https://ed.netmagcdn.com:2228/hls-playback/982646fad7f93009fcde8d9c9af15d3ffca744001310186d8ebb01429725f456630591dc47670d5a64ce7fde47a8f483ee6c2c1627ed445983c67c5578d94583f1882bc2d2ddf615b656c79922f6b9d747c461c04017579e325267fe815013c30c127001c59241187f27a64b76b3d70b2464cf99a5c398fbc9d8914707a72ba83444e19bcabf5d609cc6627d15872563/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/beb7b53eb69729bf00c58b29c35a4d8a/beb7b53eb69729bf00c58b29c35a4d8a.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

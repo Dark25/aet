@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/apartamento-404-sub-espanol",
+                                "title": "Apartamento 404",
+                                "description": "Apartamento 404",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/apartamento-404-1715036525.jpg"
+                            },
+                            {
+                                "url": "/dorama/step-by-step-love-sub-espanol",
+                                "title": "Step by Step Love",
+                                "description": "Step by Step Love",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/step-by-step-love-1715025328.jpg"
+                            },
+                            {
+                                "url": "/dorama/4-kings-sub-espanol",
+                                "title": "4 Kings",
+                                "description": "4 Kings",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/4-kings-1715023162.jpg"
+                            },
+                            {
+                                "url": "/dorama/4-kings-fuera-de-los-muros-del-colegio-latino-sub-espanol",
+                                "title": "4 Kings: Fuera De Los Muros Del Colegio Latino",
+                                "description": "4 Kings: Fuera De Los Muros Del Colegio Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/4-kings-fuera-de-los-muros-del-colegio-latino-1715021791.jpg"
+                            },
+                            {
+                                "url": "/dorama/city-hunter-2024-live-action-sub-espanol",
+                                "title": "City Hunter (2024) Live Action",
+                                "description": "City Hunter (2024) Live Action",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/city-hunter-2024-live-action-1715020390.jpg"
+                            },
+                            {
                                 "url": "/dorama/city-hunter-2024-live-action-latino-sub-espanol",
                                 "title": "City Hunter (2024) Live Action Latino",
                                 "description": "City Hunter (2024) Live Action Latino",
@@ -155,36 +185,6 @@
                                 "title": "Parasyte: The Grey",
                                 "description": "Parasyte: The Grey",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/parasyte-the-grey-1713542541.jpg"
-                            },
-                            {
-                                "url": "/dorama/parasyte-los-grises-latino-sub-espanol",
-                                "title": "Parasyte: Los Grises Latino",
-                                "description": "Parasyte: Los Grises Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/parasyte-los-grises-latino-1713539463.jpg"
-                            },
-                            {
-                                "url": "/dorama/578-magnum-latino-sub-espanol",
-                                "title": "578 Magnum Latino",
-                                "description": "578 Magnum Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/578-magnum-latino-1713500073.jpg"
-                            },
-                            {
-                                "url": "/dorama/magnum-578-sub-espanol",
-                                "title": "Magnum 578",
-                                "description": "Magnum 578",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/magnum-578-1713497568.jpg"
-                            },
-                            {
-                                "url": "/dorama/the-third-marriage-sub-espanol",
-                                "title": "The Third Marriage",
-                                "description": "The Third Marriage",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-third-marriage-1712454308.jpg"
-                            },
-                            {
-                                "url": "/dorama/deaths-game-sub-espanol",
-                                "title": "Death's Game",
-                                "description": "Death's Game",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/deaths-game-1712446560.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/city-hunter-2024-live-action-latino-sub-espanol",
-                    "title": "City Hunter (2024) Live Action Latino (0)",
-                    "description": "Ryo Saeba, detective privado de puntería extraordinaria y mujeriego redomado, se alía a regañadientes con la hermana de su difunto compañero para investigar su muerte. ",
-                    "genre": "Comedia, Acción, J-Drama, Crimen",
+                    "url": "/dorama/apartamento-404-sub-espanol",
+                    "title": "Apartamento 404 (0)",
+                    "description": "Seis residentes son invitados a un apartamento lleno de incógnitas, donde se enfrentan a misterios y resuelven secretos. ",
+                    "genre": "Comedia, K-Drama, Reality Show",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,12 +291,37 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/apartamento-404-sub-espanol-episodio-3",
+                        "name": "Episodio 3.0",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver/apartamento-404-sub-espanol-episodio-2",
+                        "name": "Episodio 2.0",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd294.mycdn.me/?expires=1715130064666&srcIp=13.83.123.177&pr=10&srcAg=GECKO&ms=185.226.52.44&type=5&sig=yMUa2NHUNxg&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6206306257439",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd294.mycdn.me/?expires=1715130064666&srcIp=13.83.123.177&pr=10&srcAg=GECKO&ms=185.226.52.44&type=5&sig=yMUa2NHUNxg&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6206306257439"
+                    },
+                    {
+                        "url": "https://m160.uqload.to/3rfk3sp5tjw2q4drdiapv4vya2t7h2ok74hqnmyyg2wo3a3h53k5nlae57wq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m160.uqload.to/3rfk3sp5tjw2q4drdiapv4vya2t7h2ok74hqnmyyg2wo3a3h53k5nlae57wq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

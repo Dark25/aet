@@ -168,7 +168,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "videos": {

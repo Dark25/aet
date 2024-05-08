@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dizi/the-acolyte/",
+                                "title": "The Acolyte",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-acolyte_list.jpg"
+                            },
+                            {
                                 "url": "/papi-sitter/",
                                 "title": "Papi Sitter",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/papi-sitter_list.jpg"
@@ -62,14 +67,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/bora_list.jpg"
                             },
                             {
-                                "url": "/el-gringo/",
-                                "title": "Yabancı",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/el-gringo_list.jpg"
-                            },
-                            {
                                 "url": "/murat-gogebakan-kalbim-yarali/",
                                 "title": "Murat Göğebakan Kalbim Yaralı",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/murat-gogebakan-kalbim-yarali_list.jpg"
+                            },
+                            {
+                                "url": "/el-gringo/",
+                                "title": "Yabancı",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/el-gringo_list.jpg"
                             },
                             {
                                 "url": "/challengers/",
@@ -140,11 +145,6 @@
                                 "url": "/attack-of-the-meth-gator/",
                                 "title": "Attack of the Meth Gator",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/attack-of-the-meth-gator_list.jpg"
-                            },
-                            {
-                                "url": "/tom-and-jerry-the-wizard-of-oz-1/",
-                                "title": "Tom ve Jerry: Oz Büyücüsü",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/tom-and-jerry-the-wizard-of-oz_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,6 +156,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/aquaman-and-the-lost-kingdom-7/",
+                                "title": "Aquaman ve Kayıp Krallık",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/aquaman-and-the-lost-kingdom_list.jpg"
+                            },
+                            {
+                                "url": "/the-final-attack-on-wembley/",
+                                "title": "The Final: Attack on Wembley",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-final-attack-on-wembley_list.jpg"
+                            },
                             {
                                 "url": "/my-big-fat-greek-wedding-3-1/",
                                 "title": "My Big Fat Greek Wedding 3",
@@ -225,16 +235,6 @@
                                 "url": "/craig-before-the-creek/",
                                 "title": "Craig Before the Creek",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/craig-before-the-creek_list.jpg"
-                            },
-                            {
-                                "url": "/chief-of-station/",
-                                "title": "Chief of Station",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/chief-of-station_list.jpg"
-                            },
-                            {
-                                "url": "/justice-league-x-rwby-super-heroes-huntsmen-part-two/",
-                                "title": "Justice League x RWBY Super Heroes Huntsmen Part Two",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/justice-league-x-rwby-super-heroes-huntsmen-part-two_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,43 +414,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/papi-sitter/",
-                    "title": "Papi Sitter",
-                    "artist": "Gérard Lanvin, Olivier Marchal, Camille Aguilar, Jean-François Cayrey, Anne Girouard, Philippine Leroy-Beaulieu, Laurent Olmedo, Souad Arsane, Paco Fuster, Côme Levin",
-                    "description": "Franck ve Karine, küçük kızları Camille'i psikopat bir emekli polis olan büyükbabası Andre'ye emanet eder. Aniden eski bir gece kulübü yöneticisi olan diğer büyükbaba Teddy de ortama dahil olur. Büyükbabalar ile yaşamanın karmaşık olmaktan daha fazlası olduğunu keşfeden Camille, onların kavgalarından yararlanmaya başlar.",
-                    "genre": "Komedi, Dram",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/papi-sitter.jpg",
+                    "url": "/dizi/the-acolyte/",
+                    "title": "The Acolyte",
+                    "artist": "Amandla Stenberg, Lee Jung-jae, Manny Jacinto, Dafne Keen, Charlie Barnett, Jodie Turner-Smith, Rebecca Henderson, Dean-Charles Chapman, Joonas Suotamo, Carrie-Anne Moss",
+                    "description": "Yüksek Cumhuriyet döneminin son günlerinde, karanlık sırlar galaksiyi karartırken ve bir dizi karanlık taraf gücü ortaya çıkarken, eski bir Padawan bir dizi suçu araştırmak için Jedi Ustası ile yeniden bir araya gelir. Çok geçmeden karşılarına çıkan güçlerin beklenenden çok daha zorlu olduğu ortaya çıkar.",
+                    "genre": "Aksiyon, Macera, Dram",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-acolyte.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/papi-sitter/",
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://box-1099-r.vmeas.cloud/hls/xqx2p6v6cvokjiqbtg7clpy24wlv3wz6ey7ekvrrjfaaaffiaaqsr6hgzuva/index-v1.m3u8",
-                        "quality": "Vidmoly - 800p",
-                        "videoUrl": "https://box-1099-r.vmeas.cloud/hls/xqx2p6v6cvokjiqbtg7clpy24wlv3wz6ey7ekvrrjfaaaffiaaqsr6hgzuva/index-v1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-vn4gtph2swie.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -3,28 +3,404 @@
         "name": "AnimeParadise (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "{\"slug\":\"kimetsu-no-yaiba-yuukaku-hen\",\"id\":\"xKy7XheZlohKLg7D\"}",
+                                "title": "Kimetsu no Yaiba: Yuukaku-hen",
+                                "thumbnail_url": "https://media.kitsu.io/anime/44081/poster_image/4b749200e30cbdb20ab4ef2c6961688b.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"sousou-no-frieren\",\"id\":\"NIUsb960SxtXls4h\"}",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46474/poster_image/99d7df09d8cb9360b1e02825372ce612.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"jujutsu-kaisen-2\",\"id\":\"E8rjQS8jYwW2K6pF\"}",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://media.kitsu.io/anime/45857/poster_image/6a6b5472cd1b1414796c70733fe332b3.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kimetsu-no-yaiba-katanakaji-no-satohen\",\"id\":\"7kSNKpRTb6yvemdk\"}",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "thumbnail_url": "https://media.kitsu.io/anime/45866/poster_image/a5022affc85af72ccd5790c874e31a89.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"jujutsu-kaisen\",\"id\":\"IKgbjdf8gZs0u4Fh\"}",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://media.kitsu.io/anime/42765/poster_image/5f099d83883544fc6200be91706d70e0.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kusuriya-no-hitorigoto\",\"id\":\"zrBglYXYh1rTMfWT\"}",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://media.kitsu.io/anime/47083/poster_image/1e25d26e74707ada861514620f630da8.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"spy-x-family\",\"id\":\"MFiYzMq0l7D6fXrN\"}",
+                                "title": "SPY×FAMILY",
+                                "thumbnail_url": "https://media.kitsu.io/anime/45398/poster_image/cc0bbc0dd2a123fb79b041078fce6f89.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"Boku-no-Kokoro-no-Yabai-Yatsu-2nd-Season\",\"id\":\"dzLtl2wlH4zFrpW0\"}",
+                                "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+                                "thumbnail_url": "https://media.kitsu.io/anime/47634/poster_image/f3962fc7efc4e43e605804a72b668566.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"chainsaw-man\",\"id\":\"L9ZkZbe8ioz6OgGs\"}",
+                                "title": "Chainsaw Man",
+                                "thumbnail_url": "https://media.kitsu.io/anime/43806/poster_image/cefec27a530ff9faac1b2fc238acad13.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"spy-x-family-part-2\",\"id\":\"lsek0Wlt8n6vwcLv\"}",
+                                "title": "SPY x FAMILY Part 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/45619/poster_image/5cca71b653a3a63b294581aa7b82722f.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"solo-leveling\",\"id\":\"Y45v9Oh6TpXU1EEY\"}",
+                                "title": "Ore Dake Level Up na Ken",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46231/poster_image/63b0009b44fcba44e86701d7c30c93d5.png"
+                            },
+                            {
+                                "url": "{\"slug\":\"boku-no-hero-academia\",\"id\":\"8CRFGI7GCB8g00d1\"}",
+                                "title": "Boku no Hero Academia",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/11469/original.png"
+                            },
+                            {
+                                "url": "{\"slug\":\"boku-no-hero-academia-6th-season\",\"id\":\"lxU8t9HdJj0RpkC4\"}",
+                                "title": "Boku no Hero Academia 6",
+                                "thumbnail_url": "https://media.kitsu.io/anime/45240/poster_image/e34cc4ad3b176c5bdb2f754d82e09de4.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"boku-no-hero-academia-5th-season\",\"id\":\"T7wZTwshYPaqY8Ud\"}",
+                                "title": "Boku no Hero Academia 5th Season",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/43108/original.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"death-note\",\"id\":\"Wt3KyfXyy1qKPhNi\"}",
+                                "title": "Death Note",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/1376/original.png"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "{\"slug\":\"boku-no-hero-academia-7th-season\",\"id\":\"sgspTIfclSW4ftUh\"}",
+                                "title": "Boku no Hero Academia 7",
+                                "thumbnail_url": "https://media.kitsu.io/anime/47232/poster_image/d9db15b595b7683d47dc70ba02b1a0e7.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"the-new-gate\",\"id\":\"65627c82e2837ade9baa6329\"}",
+                                "title": "THE NEW GATE",
+                                "thumbnail_url": "https://media.kitsu.io/anime/48214/poster_image/446770558da4788fe0fcaafbeb8ccaa6.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"sasayaku-you-ni-koi-wo-utau\",\"id\":\"jj6EHSs6eVascGx3\"}",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46971/poster_image/2d2d865bf021b8dadddd0b8ea10e067c.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kaijuu-8-gou\",\"id\":\"9r9Z181Vmk7bs2Qq\"}",
+                                "title": "Kaijuu 8-gou",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46300/poster_image/c8a7d985608494c388e9aa1a5fa66428.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kuroshitsuji-2024\",\"id\":\"kaIf0OrdX1yB1klO\"}",
+                                "title": "Kuroshitsuji (2024)",
+                                "thumbnail_url": "https://media.kitsu.io/anime/47688/poster_image/a0459458e8d4344d9e23f80ff9338f4c.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2nd-season-part-2\",\"id\":\"wAEKwU1xr8MgO0HV\"}",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season Part 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/45081/poster_image/ea2d245ea4027dc01fb0b868bb83835d.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"seiyuu-radio-no-uraomote\",\"id\":\"OriGaq7aav08kFNP\"}",
+                                "title": "Seiyuu Radio no Uraomote",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46923/poster_image/6a111bdd8566c7b93b79acc3218498cd.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kaii-to-otome-to-kamikakushi\",\"id\":\"prueFKfl43FIy2VP\"}",
+                                "title": "Kaii to Otome to Kamikakushi",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46975/poster_image/7e81724b7de0e4bf5d8a376b9295c86d.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kono-subarashii-sekai-ni-shukufuku-wo-3\",\"id\":\"T3vKmE2biZQf2YDF\"}",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://media.kitsu.io/anime/44911/poster_image/04af94f3b0c7fe47f1a28c5d45737fe1.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"date-a-live-v\",\"id\":\"6HuouUt7P2JrAczL\"}",
+                                "title": "Date A Live V",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46207/poster_image/ba7411b9386c069775ed4433fa5e6bb9.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"boukyaku-battery-tv\",\"id\":\"659c7e76fdf0045f08fcc341\"}",
+                                "title": "Boukyaku Battery (TV)",
+                                "thumbnail_url": "https://media.kitsu.io/anime/48388/poster_image/fa03dad91a111c6490edae0f2a347aef.png"
+                            },
+                            {
+                                "url": "{\"slug\":\"unnamed-memory\",\"id\":\"hZKrZ2NLdho0I1E8\"}",
+                                "title": "Unnamed Memory",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46921/poster_image/0175eb4d7b8131a6e7b132c1e1ca760a.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"tadaima-okaeri\",\"id\":\"656670fbe2837ade9babe519\"}",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://media.kitsu.io/anime/48009/poster_image/67b2d25bd7a0f123a0d7da0020112793.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life\",\"id\":\"654ec068c05da78e2cf93f6f\"}",
+                                "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://media.kitsu.io/anime/48125/poster_image/5b24219ca70b781cce0ba1c2b3c55e76.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"Mushoku-Tensei-II-Isekai-Ittara-Honki-Dasu-Part-2\",\"id\":\"083jwmRQ17PMS4jy\"}",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/47694/poster_image/3c442533034ef44885e22df064277d90.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "{\"slug\":\"dr-stone-new-world-part-2\",\"id\":\"PyufyZFkbG7ZB9VF\"}",
+                                "title": "Dr.STONE: NEW WORLD Part 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/47246/poster_image/b1fa85143151a24d0ae818d2c5907741.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru\",\"id\":\"vVz5FTSpXkxbDruQ\"}",
+                                "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/44393/original.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"rezero-season-2-part-2\",\"id\":\"hM0pROeVxa9mJ6lu\"}",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/43247/original.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"arifureta-shokugyou-de-sekai-saikyou-2\",\"id\":\"5DNXi21k57zZ3tYp\"}",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/42611/poster_image/95d869f45d41c5e8155deb6dacac82e3.png"
+                            },
+                            {
+                                "url": "{\"slug\":\"re-zero-kara-hajimeru-isekai-seikatsu-2\",\"id\":\"Df4z5nHsoZvwj2Yk\"}",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/42198/original.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"dr-stone-three\",\"id\":\"TIRKno1OuZE2uozH\"}",
+                                "title": "Dr. STONE 3rd Season",
+                                "thumbnail_url": "https://media.kitsu.io/anime/44289/poster_image/5a688053ea687f40b9c01d77e591ff87.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"isekai-wa-smartphone-to-tomo-ni-2nd-season\",\"id\":\"TLSK41h9z4gvjgAn\"}",
+                                "title": "Isekai wa Smartphone to Tomo ni. 2nd Season",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46057/poster_image/18a9ee25e8a8a2ee3aea4f32e9b7b8c9.png"
+                            },
+                            {
+                                "url": "{\"slug\":\"re-zero-kara-hajimeru-isekai-seikatsu\",\"id\":\"LtR5651P5LpQiLC8\"}",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/11209/original.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"kono-subarashii-sekai-ni-shukufuku-wo-3\",\"id\":\"T3vKmE2biZQf2YDF\"}",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://media.kitsu.io/anime/44911/poster_image/04af94f3b0c7fe47f1a28c5d45737fe1.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu\",\"id\":\"XVBCK3LPcOkJBrQD\"}",
+                                "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+                                "thumbnail_url": "https://media.kitsu.io/anime/44982/poster_image/649d29311de97533f61cd00d3a0db103.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore\",\"id\":\"a5c2zKQ9vr2yQa6K\"}",
+                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/43612/original.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life\",\"id\":\"654ec068c05da78e2cf93f6f\"}",
+                                "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://media.kitsu.io/anime/48125/poster_image/5b24219ca70b781cce0ba1c2b3c55e76.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"Kono-Subarashii-Sekai-ni-Bakuen-wo\",\"id\":\"f8JwAsLEfWYuvLe8\"}",
+                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
+                                "thumbnail_url": "https://media.kitsu.io/anime/46139/poster_image/55c0e00c8e27514262c4cf44b2c9c0d7.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita\",\"id\":\"nVtOvpWMM7wzilw9\"}",
+                                "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+                                "thumbnail_url": "https://media.kitsu.io/anime/44015/poster_image/33e3a54903ef8e2510deae100e3c6863.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu\",\"id\":\"BQ8Gh7NHwGun7oSw\"}",
+                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/42222/original.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": {
+                    "url": "{\"slug\":\"kimetsu-no-yaiba-yuukaku-hen\",\"id\":\"xKy7XheZlohKLg7D\"}",
+                    "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n(Source: Funimation)\n\nNote:\n- The first episode aired with a runtime of ~47 minutes.\n- The last episode aired with a runtime of ~33 minutes.",
+                    "genre": "Action, Adventure, Fantasy, Supernatural",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/33630a9f-a7cf-e1b9-10e8-9c6755acfe34?origin=xKy7XheZlohKLg7D",
+                        "name": "Ep. 11 - No Matter How Many Lives",
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "/watch/9b94aa5d-e81a-d89f-cd00-f85a56f644b1?origin=xKy7XheZlohKLg7D",
+                        "name": "Ep. 10 - Never Give Up",
+                        "episode_number": 10.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/DkZ4QpVoG7tkv3X",
+                        "quality": "1080p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/DkZ4QpVoG7tkv3X",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/vK7VQyjPj2h4Rl4",
+                        "quality": "720p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/vK7VQyjPj2h4Rl4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/jPzlo8YqprIG8G",
+                        "quality": "480p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/jPzlo8YqprIG8G",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/ygGqWq2Pd1u1MLy",
+                        "quality": "360p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/ygGqWq2Pd1u1MLy",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

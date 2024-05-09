@@ -77,6 +77,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-legend-of-sword-domain-3rd-season",
+                                "title": "The Legend of Sword Domain 3rd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11543.png"
+                            },
+                            {
+                                "url": "/anime/blader-soul",
+                                "title": "Blader Soul",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11833.png"
+                            },
+                            {
                                 "url": "/anime/homecoming",
                                 "title": "Homecoming",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12002.png"
@@ -85,6 +95,11 @@
                                 "url": "/anime/one-piecekawaisouni-kono-boushi-wo-omae-ni-azukeru",
                                 "title": "ONE PIECE×KAWAISOUNI! Kono Boushi wo Omae ni Azukeru",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12001.png"
+                            },
+                            {
+                                "url": "/anime/villain-initialization",
+                                "title": "Villain Initialization",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11977.png"
                             },
                             {
                                 "url": "/anime/kaii-to-otome-to-kamikakushi",
@@ -120,21 +135,6 @@
                                 "url": "/anime/the-peak-of-true-martial-arts-3rd-season",
                                 "title": "The Peak of True Martial Arts 3rd Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11604.png"
-                            },
-                            {
-                                "url": "/anime/oblivion-battery",
-                                "title": "Oblivion Battery",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11948.png"
-                            },
-                            {
-                                "url": "/anime/odekake-kozame",
-                                "title": "Odekake Kozame",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11358.png"
-                            },
-                            {
-                                "url": "/anime/rinkai",
-                                "title": "Rinkai!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11947.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,19 +255,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/homecoming/146585",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=5HVcsGYoXu0RH6wQzmkqxw%3D%3D",
+                        "url": "https://slothanime.com/player-url/146585?vrf=u8b25g%2FsM2KYp3OSNobb3w%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=5HVcsGYoXu0RH6wQzmkqxw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/146585?vrf=u8b25g%2FsM2KYp3OSNobb3w%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/homecoming/146585"
                         }
                     }
                 ],

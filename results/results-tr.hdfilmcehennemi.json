@@ -22,7 +22,7 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/me-contro-te-il-film-missione-giungla_list.jpg"
                             },
                             {
-                                "url": "/dizi/thank-you-next/",
+                                "url": "/dizi/thank-you-next-1/",
                                 "title": "Kimler Geldi Kimler Geçti",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/thank-you-next_list.jpg"
                             },
@@ -217,7 +217,7 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/me-contro-te-il-film-missione-giungla_list.jpg"
                             },
                             {
-                                "url": "/about-my-father-16/",
+                                "url": "/about-my-father-17/",
                                 "title": "About My Father - Eyvah Babam",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/about-my-father_list.jpg"
                             },
@@ -262,7 +262,7 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/when-you-finish-saving-the-world.jpg"
                             },
                             {
-                                "url": "/dizi/the-continental-from-the-world-of-john-wick-36",
+                                "url": "/dizi/the-continental-from-the-world-of-john-wick-37",
                                 "title": "The Continental From the World of John Wick",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-continental-from-the-world-of-john-wick.jpg"
                             },
@@ -442,8 +442,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://box-1095-q.vmeas.cloud/hls/xqx2ozl4crokjiqbtg6sll2au5oowgbfczvxlhday7evq2kxnsndvkmw7ikq/index-v1.m3u8",
+                        "quality": "Vidmoly - 1080p",
+                        "videoUrl": "https://box-1095-q.vmeas.cloud/hls/xqx2ozl4crokjiqbtg6sll2au5oowgbfczvxlhday7evq2kxnsndvkmw7ikq/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-f4vmvgdk2x10.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

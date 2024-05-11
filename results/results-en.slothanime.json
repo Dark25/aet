@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/anpanman-dororin-and-the-transformation-carnival",
+                                "title": "Anpanman: Dororin and the Transformation Carnival",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12006.png"
+                            },
+                            {
+                                "url": "/anime/anpanman-fluffy-furry-and-the-land-of-clouds",
+                                "title": "Anpanman: Fluffy Furry and the Land of Clouds",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12005.png"
+                            },
+                            {
                                 "url": "/anime/arawi-keiichi-tanpen",
                                 "title": "Arawi Keiichi Tanpen",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12004.png"
@@ -55,16 +65,6 @@
                                 "url": "/anime/tp-bon",
                                 "title": "T・P BON",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11995.png"
-                            },
-                            {
-                                "url": "/anime/enter-the-garden",
-                                "title": "Enter The Garden",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11994.png"
-                            },
-                            {
-                                "url": "/anime/tales-of-dark-river-part-2",
-                                "title": "Tales Of Dark River Part 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11993.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,31 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/the-irregular-at-magic-high-school-season-3",
+                                "title": "The Irregular at Magic High School Season 3",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11920.png"
+                            },
+                            {
+                                "url": "/anime/rail-romanesque-2",
+                                "title": "Rail Romanesque 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11556.png"
+                            },
+                            {
+                                "url": "/anime/that-time-i-got-reincarnated-as-a-slime-season-3",
+                                "title": "That Time I Got Reincarnated as a Slime Season 3",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11892.png"
+                            },
+                            {
+                                "url": "/anime/anpanman-dororin-and-the-transformation-carnival",
+                                "title": "Anpanman: Dororin and the Transformation Carnival",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12006.png"
+                            },
+                            {
+                                "url": "/anime/anpanman-fluffy-furry-and-the-land-of-clouds",
+                                "title": "Anpanman: Fluffy Furry and the Land of Clouds",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12005.png"
+                            },
                             {
                                 "url": "/anime/nijiyon-animation-season-2",
                                 "title": "NIJIYON ANIMATION Season 2",
@@ -110,31 +135,6 @@
                                 "url": "/anime/dubu-wangu-2nd-season",
                                 "title": "Dubu Wangu 2nd Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
-                            {
-                                "url": "/anime/ninjala",
-                                "title": "Ninjala",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11109.png"
-                            },
-                            {
-                                "url": "/anime/the-success-of-empyrean-xuan-emperor-5th-season",
-                                "title": "The Success Of Empyrean Xuan Emperor 5th Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11593.png"
-                            },
-                            {
-                                "url": "/anime/wanmei-shijie-4",
-                                "title": "Wanmei Shijie 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11507.png"
-                            },
-                            {
-                                "url": "/anime/chiikawa",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11068.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/arawi-keiichi-tanpen",
-                    "title": "Arawi Keiichi Tanpen",
-                    "author": "",
-                    "description": "Some short animation by Arawi Keiichi, featuring characters from Nichijou.",
-                    "genre": "Comedy",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12004.png",
+                    "url": "/anime/anpanman-dororin-and-the-transformation-carnival",
+                    "title": "Anpanman: Dororin and the Transformation Carnival",
+                    "author": "TMS Entertainment",
+                    "description": "The film is set in Obake Town, a town where everything can change into something else. Anpanman and the others receive an invitation to the town's Bakeru Carnival, where those skilled at transforming can use their skills to entertain people. However, a resident of the town named Dororin is unskilled at transforming, and is unable to enjoy the Carnival from the bottom of his heart. He has a chance meeting with Cream Panda and strike up a friendship. Together, they venture into a forest in search of the Black Cape, said to hold the world's greatest powers of transformation. But Baikinman is also after the cloak for its power that will allow him to rule Obake Town. Now it is up to Anpanman, Cream Panda, and Dororin to protect the town.",
+                    "genre": "Comedy, Fantasy, Kids",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12006.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/arawi-keiichi-tanpen/146617",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146617?vrf=aIcYzV0HhDgZbHvKPPs3Fw%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=GGfFrt5YYBkviHK0vxd0NA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146617?vrf=aIcYzV0HhDgZbHvKPPs3Fw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=GGfFrt5YYBkviHK0vxd0NA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/arawi-keiichi-tanpen/146617"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

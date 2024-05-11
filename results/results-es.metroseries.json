@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/gracias-el-siguiente/",
+                                "title": "Gracias, ¿el siguiente?",
+                                "description": "Kimler Geldi Kimler Geçti Tras una dolorosa ruptura, una joven abogada se lanza al complicado mundo de las citas actual, sabiendo que sus mejores amigas son su red de seguridad. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg"
+                            },
+                            {
                                 "url": "/juego-limpio-o-sucio/",
                                 "title": "¿Juego limpio o sucio?",
                                 "description": "Mauvais joueurs En este impredecible juego de estrategia y supervivencia, 13 concursantes que parten de cero compiten para entrar en una villa de lujo y la oportunidad de ganar 150 000 euros. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kVftXTbaMoHU7JwI5EXCpLcR1bK.jpg"
                             },
                             {
-                                "url": "/los-pasillos-del-juzgado/",
-                                "title": "Los pasillos del juzgado",
-                                "description": "मामला लीगल है El caos vs. la ley. Los extravagantes empleados del juzgado de Patparganj se esfuerzan por defender la justicia... pero siempre con alguna que otra objeción. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/A9krYovvsiUXcQLOnQ2O53MHVwd.jpg"
-                            },
-                            {
-                                "url": "/mh370-el-avion-que-desaparecio/",
-                                "title": "MH370: El avión que desapareció",
+                                "url": "/las-aventuras-de-orphen-capitulos-completos-latino-hd-online/",
+                                "title": "Orphen",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lVyBjky45Yqay2G3DaN6pkFCaUH.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/j0SwzgMHQ2WYSLQ01hp0bxAJGMX-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/avocado-toast/",
-                                "title": "Avocado Toast",
+                                "url": "/mi-amor-seis-grandes-historias-de-amor/",
+                                "title": "Mi amor: Seis grandes historias de amor",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/k0ZKBojDXQUVvdzH1i5Zd62kPuv.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/m1wstrAmRFHPmsCPdp7eEJmgAPg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,102 @@
             },
             "details": {
                 "result": {
-                    "url": "/juego-limpio-o-sucio/",
-                    "title": "¿Juego limpio o sucio?",
-                    "description": "Mauvais joueurs En este impredecible juego de estrategia y supervivencia, 13 concursantes que parten de cero compiten para entrar en una villa de lujo y la oportunidad de ganar 150 000 euros.",
-                    "genre": "Reality",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5rePINHmVZmTbCkClXrxzgdKDWK.jpg",
+                    "url": "/gracias-el-siguiente/",
+                    "title": "Gracias, ¿el siguiente?",
+                    "description": "Kimler Geldi Kimler Geçti Tras una dolorosa ruptura, una joven abogada se lanza al complicado mundo de las citas actual, sabiendo que sus mejores amigas son su red de seguridad.",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/gracias-el-siguiente-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - #Boda",
+                        "date_upload": 1715212800000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/gracias-el-siguiente-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - #VerdadOReto",
+                        "date_upload": 1715212800000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=NvbMKE0c5apxsTi02oXQG1sx4iym8LuCt6tCJuEYaO8&s=1715389292&e=43200&f=333242&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=NvbMKE0c5apxsTi02oXQG1sx4iym8LuCt6tCJuEYaO8&s=1715389292&e=43200&f=333242&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,.urlset/index-f1-v1-a1.m3u8?t=NvbMKE0c5apxsTi02oXQG1sx4iym8LuCt6tCJuEYaO8&s=1715389292&e=43200&f=333242&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,.urlset/index-f1-v1-a1.m3u8?t=NvbMKE0c5apxsTi02oXQG1sx4iym8LuCt6tCJuEYaO8&s=1715389292&e=43200&f=333242&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=E-EIdf8souoLOIJ-FahhyiTwaJA35fHuHPNrp3JxXB4&s=1715389290&e=43200&f=333243&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

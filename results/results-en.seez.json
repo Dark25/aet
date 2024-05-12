@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "{\"id\":940721,\"media_type\":\"movie\"}",
-                                "title": "Godzilla Minus One",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
-                            },
-                            {
                                 "url": "{\"id\":653346,\"media_type\":\"movie\"}",
                                 "title": "Kingdom of the Planet of the Apes",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+                            },
+                            {
+                                "url": "{\"id\":940721,\"media_type\":\"movie\"}",
+                                "title": "Godzilla Minus One",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
                             },
                             {
                                 "url": "{\"id\":967847,\"media_type\":\"movie\"}",
@@ -67,6 +67,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg"
                             },
                             {
+                                "url": "{\"id\":748783,\"media_type\":\"movie\"}",
+                                "title": "The Garfield Movie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//zK2sFxZcelHJRPVr242rxy5VK4T.jpg"
+                            },
+                            {
                                 "url": "{\"id\":934632,\"media_type\":\"movie\"}",
                                 "title": "Rebel Moon - Part Two: The Scargiver",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//cxevDYdeFkiixRShbObdwAHBZry.jpg"
@@ -75,11 +80,6 @@
                                 "url": "{\"id\":1057001,\"media_type\":\"movie\"}",
                                 "title": "The Childe",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//ydC8ubFXQfkPJDhkduMhbE9mTz7.jpg"
-                            },
-                            {
-                                "url": "{\"id\":748783,\"media_type\":\"movie\"}",
-                                "title": "The Garfield Movie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//zK2sFxZcelHJRPVr242rxy5VK4T.jpg"
                             },
                             {
                                 "url": "{\"id\":7451,\"media_type\":\"movie\"}",
@@ -225,10 +225,10 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":940721,\"media_type\":\"movie\"}",
-                    "author": "TOHO, TOHO Studios, Robot Communications",
-                    "description": "Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.\n\nRelease date: 2023-11-03\nLanguages: English (English), Japanese (日本語)\n",
-                    "genre": "Science Fiction, Horror, Action",
+                    "url": "{\"id\":653346,\"media_type\":\"movie\"}",
+                    "author": "20th Century Studios, Oddball Entertainment, Jason T. Reed Productions",
+                    "description": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.\n\nRelease date: 2024-05-08\nLanguages: English (English)\n",
+                    "genre": "Science Fiction, Adventure, Action",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -238,9 +238,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/940721",
+                        "url": "/movie/653346",
                         "name": "Movie",
-                        "date_upload": 1698969600000,
+                        "date_upload": 1715126400000,
                         "episode_number": 1.0
                     }
                 ],

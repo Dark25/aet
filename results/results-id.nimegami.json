@@ -3,11 +3,11 @@
         "name": "NimeGami (ID)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
@@ -71,16 +71,70 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/dr-stone-new-world-part-2-sub-indo/",
+                    "title": "Dr. Stone: New World Part 2 Sub Indo",
+                    "artist": "TMS Entertainment,",
+                    "description": "Dr. Stone: New World Part 2 – Part kedua dari Dr. Stone: New World.\n\nJudul : Dr. Stone: New World Part 2\nJudul Alternatif : Dr. Stone 3rd Season Part 2,\nDurasi Per Episode : Unknown Menit\nRating : - [MAL]\nStudio : TMS Entertainment,\nKategori : Adventure, Comedy, Sci-Fi, Shounen, Time Travel\nMusim / Rilis : Fall 2023\nType : TV\nSeries : Dr. Stone\nSubtitle : Indonesia\nCredit : Oploverz",
+                    "genre": "Adventure, Comedy, Sci-Fi, Shounen, Time Travel",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://nimegami.id/wp-content/uploads/2023/10/Dr.-Stone-New-World-Part-2-Sub-Indo1-161x228.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "W3siZm9ybWF0IjoiMzYwcCIsInVybCI6WyJodHRwczpcL1wvZGwuYmVya2FzZHJpdmUuY29tXC9zdHJlYW1pbmdcLz9pZD1hSFIwY0hNNkx5OXRhWFJsWkhKcGRtVXVZMjl0TDNacFpYY3ZZM0F4YkhreSJdfSx7ImZvcm1hdCI6IjQ4MHAiLCJ1cmwiOlsiaHR0cHM6XC9cL2RsLmJlcmthc2RyaXZlLmNvbVwvc3RyZWFtaW5nXC8/aWQ9YUhSMGNITTZMeTl0YVhSbFpISnBkbVV1WTI5dEwzWnBaWGN2VGt4TFJHSnAiXX0seyJmb3JtYXQiOiI3MjBwIiwidXJsIjpbImh0dHBzOlwvXC9kbC5iZXJrYXNkcml2ZS5jb21cL3N0cmVhbWluZ1wvP2lkPWFIUjBjSE02THk5dGFYUmxaSEpwZG1VdVkyOXRMM1pwWlhjdmFrVlROMmRQIl19LHsiZm9ybWF0IjoiMTA4MHAiLCJ1cmwiOlsiaHR0cHM6XC9cL2RsLmJlcmthc2RyaXZlLmNvbVwvc3RyZWFtaW5nXC8/aWQ9YUhSMGNITTZMeTl0YVhSbFpISnBkbVV1WTI5dEwzWnBaWGN2YjBaUFIxVTEiXX1d",
+                        "name": "Episode 11",
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "W3siZm9ybWF0IjoiMzYwcCIsInVybCI6WyJodHRwczpcL1wvZGwuYmVya2FzZHJpdmUuY29tXC9zdHJlYW1pbmdcLz9pZD1hSFIwY0hNNkx5OXRhWFJsWkhKcGRtVXVZMjl0TDNacFpYY3ZUMDAwTUhaeSJdfSx7ImZvcm1hdCI6IjQ4MHAiLCJ1cmwiOlsiaHR0cHM6XC9cL2RsLmJlcmthc2RyaXZlLmNvbVwvc3RyZWFtaW5nXC8/aWQ9YUhSMGNITTZMeTl0YVhSbFpISnBkbVV1WTI5dEwzWnBaWGN2VlVKaGNXVjUiXX0seyJmb3JtYXQiOiI3MjBwIiwidXJsIjpbImh0dHBzOlwvXC9kbC5iZXJrYXNkcml2ZS5jb21cL3N0cmVhbWluZ1wvP2lkPWFIUjBjSE02THk5dGFYUmxaSEpwZG1VdVkyOXRMM1pwWlhjdmVUbFRSRk53Il19LHsiZm9ybWF0IjoiMTA4MHAiLCJ1cmwiOlsiaHR0cHM6XC9cL2RsLmJlcmthc2RyaXZlLmNvbVwvc3RyZWFtaW5nXC8/aWQ9YUhSMGNITTZMeTl0YVhSbFpISnBkbVV1WTI5dEwzWnBaWGN2VFhGb2JuZFoiXX1d",
+                        "name": "Episode 10",
+                        "episode_number": 10.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv1.miterequest.my.id/storage/86/72f40a92bb02b6f6803f31c2a3ec6225209ce8fb-cp1ly2.mp4",
+                        "quality": "Berkasdrive - 360p",
+                        "videoUrl": "https://srv1.miterequest.my.id/storage/86/72f40a92bb02b6f6803f31c2a3ec6225209ce8fb-cp1ly2.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://srv1.miterequest.my.id/storage/86/2f09371f33bf7fd69eb9b3436b9f909c8be10159-NLKDbi.mp4",
+                        "quality": "Berkasdrive - 480p",
+                        "videoUrl": "https://srv1.miterequest.my.id/storage/86/2f09371f33bf7fd69eb9b3436b9f909c8be10159-NLKDbi.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://srv1.miterequest.my.id/storage/86/990bbd07f2bc0bf2956b7c96fe4943a34336e102-jES7gO.mp4",
+                        "quality": "Berkasdrive - 720p",
+                        "videoUrl": "https://srv1.miterequest.my.id/storage/86/990bbd07f2bc0bf2956b7c96fe4943a34336e102-jES7gO.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://srv1.miterequest.my.id/storage/86/faaad99797a920d99a151e3f0a620c4c60646935-oFOGU5.mp4",
+                        "quality": "Berkasdrive - 1080p",
+                        "videoUrl": "https://srv1.miterequest.my.id/storage/86/faaad99797a920d99a151e3f0a620c4c60646935-oFOGU5.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

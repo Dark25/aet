@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/kamen-rider-gotchard-hyper-battle-dvd.html",
                                 "title": "Kamen Rider Gotchard – Hyper Battle DVD",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-hyper-battle-dvd-thumb.png"
@@ -20,16 +30,6 @@
                                 "url": "/watch/uchuu-keiji-gavan.html",
                                 "title": "Uchuu Keiji Gavan",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/uchuu-keiji-gavan-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-the-winter-movie-gotchard-geats.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-gotchard-hyper-battle-dvd.html",
-                    "title": "Kamen Rider Gotchard – Hyper Battle DVD",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
                     "author": "Year 2024",
-                    "description": "Kamen Rider Gotchard: What’s That!? Houtaro and Rinne Switched Places!! is a Televi-Kun Hyper Battle DVD of Kamen Rider Gotchard, included in the February-March to April-May 2024 issues of the Televi-Kun.",
-                    "genre": "Kamen Rider, Movie",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-hyper-battle-dvd-thumb.png",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-gotchard-hyper-battle-dvd.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=12#watch",
+                        "name": "Episode 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=11#watch",
+                        "name": "Episode 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

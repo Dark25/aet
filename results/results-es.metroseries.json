@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/mi-nombre-es-farah/",
+                                "title": "Mi nombre es Farah",
+                                "description": "Adım Farah Farah es una joven que ha tenido que huir de su país natal y lucha ilegalmente por sobrevivir junto a su hijo enfermo en Estambul. En una noche aparentemente ordinaria, su vida da un giro inesperado cuando presencia involuntariamente un asesinato. Este suceso la llevará a un cruce de caminos con Tahir Lekesiz, […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lw9DBdrF58jsv2mkCqcQTJynsTU.jpg"
+                            },
+                            {
+                                "url": "/under-the-bridge/",
+                                "title": "Under the Bridge",
+                                "description": "Reena Virk, una niña de catorce años, fue a reunirse con amigos en una fiesta y nunca regresó a casa. Siete chicas adolescentes y un chico fueron acusados del brutal asesinato. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4YMpCGsAAHXWGScHsK1sbd7wprE.jpg"
+                            },
+                            {
                                 "url": "/gracias-el-siguiente/",
                                 "title": "Gracias, ¿el siguiente?",
                                 "description": "Kimler Geldi Kimler Geçti Tras una dolorosa ruptura, una joven abogada se lanza al complicado mundo de las citas actual, sabiendo que sus mejores amigas son su red de seguridad. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/llCDNlOzbjrDIroIMQwCQDoElZU.jpg"
                             },
                             {
-                                "url": "/ara-san-juan-el-submarino-que-desaparecio/",
-                                "title": "ARA San Juan: El submarino que desapareció",
-                                "description": "En esta docuserie de investigación se entrevista a especialistas y familiares sobre la trágica desaparición en 2017 de un submarino militar que conmocionó al mundo. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xytXKYBrNW9z3kOfkxoRWqRwzkL.jpg"
-                            },
-                            {
-                                "url": "/knuckles/",
-                                "title": "Knuckles",
-                                "description": "Knuckles se embarca en un viaje de autodescubrimiento hilarante y lleno de acción cuando acepta entrenar a Wade como su protegido y enseñarle los caminos del guerrero Equidna. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kVftXTbaMoHU7JwI5EXCpLcR1bK.jpg"
-                            },
-                            {
-                                "url": "/el-gavilan/",
-                                "title": "El gavilán",
+                                "url": "/72-cutest-animals/",
+                                "title": "72 Cutest Animals",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vjk9E2MHgQhQRdTXt4oDzjVAZnF.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/p12954660_b_v8_aa-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/depp-vs-heard/",
-                                "title": "Depp Vs Heard",
+                                "url": "/yellowjackets/",
+                                "title": "Yellowjackets",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bZx9uZXBJIqqGcxDHfaH5y8WYiT.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/XtnjzjjFAnmTEiDk4xu7diCvMF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,91 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/gracias-el-siguiente/",
-                    "title": "Gracias, ¿el siguiente?",
-                    "description": "Kimler Geldi Kimler Geçti Tras una dolorosa ruptura, una joven abogada se lanza al complicado mundo de las citas actual, sabiendo que sus mejores amigas son su red de seguridad.",
-                    "genre": "Comedia, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg",
+                    "url": "/mi-nombre-es-farah/",
+                    "title": "Mi nombre es Farah",
+                    "description": "Adım Farah Farah es una joven que ha tenido que huir de su país natal y lucha ilegalmente por sobrevivir junto a su hijo enfermo en Estambul. En una noche aparentemente ordinaria, su vida da un giro inesperado cuando presencia involuntariamente un asesinato. Este suceso la llevará a un cruce de caminos con Tahir Lekesiz, un hombre al que conoce esa misma noche. Este encuentro cambiará sus vidas para siempre y los arrastrará a un mundo de misterio, intriga y peligro.",
+                    "genre": "Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lw9DBdrF58jsv2mkCqcQTJynsTU.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/gracias-el-siguiente-temporada-1-capitulo-8/",
-                        "name": "T01 - E08 - #Boda",
-                        "date_upload": 1715212800000,
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/gracias-el-siguiente-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - #VerdadOReto",
-                        "date_upload": 1715212800000,
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s36.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=-PvEJSMbOTPzeddgQHfnMp3PY51MagqJADhFKtunIUQ&s=1715451721&e=43200&f=333242&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s36.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=-PvEJSMbOTPzeddgQHfnMp3PY51MagqJADhFKtunIUQ&s=1715451721&e=43200&f=333242&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=-PvEJSMbOTPzeddgQHfnMp3PY51MagqJADhFKtunIUQ&s=1715451721&e=43200&f=333242&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=-PvEJSMbOTPzeddgQHfnMp3PY51MagqJADhFKtunIUQ&s=1715451721&e=43200&f=333242&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Ks0huujQLwi0NtwatAnzeWNzrHCIr5767NzdwxJuQgQ&s=1715451719&e=43200&f=333243&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s37.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Ks0huujQLwi0NtwatAnzeWNzrHCIr5767NzdwxJuQgQ&s=1715451719&e=43200&f=333243&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=-PvEJSMbOTPzeddgQHfnMp3PY51MagqJADhFKtunIUQ&s=1715451721&e=43200&f=333242&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/23/00066/ol6tixbbect0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=-PvEJSMbOTPzeddgQHfnMp3PY51MagqJADhFKtunIUQ&s=1715451721&e=43200&f=333242&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Ks0huujQLwi0NtwatAnzeWNzrHCIr5767NzdwxJuQgQ&s=1715451719&e=43200&f=333243&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s37.fastream.to/hls2/13/00066/xxkrh0swty18_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Ks0huujQLwi0NtwatAnzeWNzrHCIr5767NzdwxJuQgQ&s=1715451719&e=43200&f=333243&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

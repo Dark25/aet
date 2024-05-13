@@ -97,7 +97,7 @@
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-the-idolmaster-shiny-colors-cover.jpg"
                             },
                             {
-                                "url": "/media/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2-2nd-cour",
+                                "url": "/media/maou-gakuin-no-futekigou-sha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2-2nd-cour",
                                 "title": "The Misfit of Demon King Academy II (Cour 2)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2-2nd-cour-cover.jpg"
                             },
@@ -247,8 +247,35 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=LDWOG06drZFRj02&expires=1715694407&ip=FROsF0EnDS9X&token=30fg8Ll1qvvd",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=LDWOG06drZFRj02&expires=1715694407&ip=FROsF0EnDS9X&token=30fg8Ll1qvvd"
+                    },
+                    {
+                        "url": "https://delivery-node-f0qi6qwj8dwdjwvg.voe-network.net/engine/hls2-c/01/11328/s9yodct9hzqh_,n,.urlset/index-v1-a1.m3u8?t=sLfrQ_Pj5OmUjVqrN5KTOrKNJIOgMTN5XnVo50iRutI&s=1715624402&e=14400&f=56641645&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-f0qi6qwj8dwdjwvg.voe-network.net/engine/hls2-c/01/11328/s9yodct9hzqh_,n,.urlset/index-v1-a1.m3u8?t=sLfrQ_Pj5OmUjVqrN5KTOrKNJIOgMTN5XnVo50iRutI&s=1715624402&e=14400&f=56641645&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=xvL6elrePdsljk&expires=1715694393&ip=FROsF0EnDS9X&token=girBGpCgji_M",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=xvL6elrePdsljk&expires=1715694393&ip=FROsF0EnDS9X&token=girBGpCgji_M"
+                    },
+                    {
+                        "url": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/11328/tcehoyeaqfft_,n,.urlset/index-v1-a1.m3u8?t=arLgTPEQ3mGVEjzzeasiqK5HmiojN7u_lAEEDuXE-ms&s=1715624387&e=14400&f=56640766&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/11328/tcehoyeaqfft_,n,.urlset/index-v1-a1.m3u8?t=arLgTPEQ3mGVEjzzeasiqK5HmiojN7u_lAEEDuXE-ms&s=1715624387&e=14400&f=56640766&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

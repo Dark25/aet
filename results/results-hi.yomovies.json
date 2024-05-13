@@ -443,8 +443,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://jagur.ydc1wes.me/hls2/01/00006/ptzcewqdj7mj_h/index-v1-a1.m3u8?t=Zf_-JD9TDjS2KwSVzw4N22KWOfQPjktIUeFWwkmH4QM&s=1715603108&e=14400&f=30393&i=0.0&sp=0",
+                        "quality": "[Server 1] -  Minoplres - 544p",
+                        "videoUrl": "https://jagur.ydc1wes.me/hls2/01/00006/ptzcewqdj7mj_h/index-v1-a1.m3u8?t=Zf_-JD9TDjS2KwSVzw4N22KWOfQPjktIUeFWwkmH4QM&s=1715603108&e=14400&f=30393&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://minoplres.xyz",
+                            "Referer": "https://minoplres.xyz/embed-ptzcewqdj7mj.html"
+                        }
+                    },
+                    {
+                        "url": "https://jagur.ydc1wes.me/hls2/01/00006/ptzcewqdj7mj_l/index-v1-a1.m3u8?t=Zf_-JD9TDjS2KwSVzw4N22KWOfQPjktIUeFWwkmH4QM&s=1715603108&e=14400&f=30393&i=0.0&sp=0",
+                        "quality": "[Server 1] -  Minoplres - 360p",
+                        "videoUrl": "https://jagur.ydc1wes.me/hls2/01/00006/ptzcewqdj7mj_l/index-v1-a1.m3u8?t=Zf_-JD9TDjS2KwSVzw4N22KWOfQPjktIUeFWwkmH4QM&s=1715603108&e=14400&f=30393&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://minoplres.xyz",
+                            "Referer": "https://minoplres.xyz/embed-ptzcewqdj7mj.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

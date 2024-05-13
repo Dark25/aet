@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-guzman-la-reina-del-rock/",
+                                "title": "La Guzmán: La Reina Del Rock",
+                                "description": "La vida de la cantante mexicana Alejandra Guzmán ha inspirados los capitulos de esta fantastica historia. La serie recrea los videos musicales más exitosos de la cantante. Pasajes de su vida, amores, desamores y revelaciones que darán mucho de que hablar. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/drU36Euw7QcXeFv0LrPsaZiNyWu.jpg"
+                            },
+                            {
                                 "url": "/mi-nombre-es-farah/",
                                 "title": "Mi nombre es Farah",
                                 "description": "Adım Farah Farah es una joven que ha tenido que huir de su país natal y lucha ilegalmente por sobrevivir junto a su hijo enfermo en Estambul. En una noche aparentemente ordinaria, su vida da un giro inesperado cuando presencia involuntariamente un asesinato. Este suceso la llevará a un cruce de caminos con Tahir Lekesiz, […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/bCOxX1rjJOhn8jsW93ptOzWGip6.jpg"
                             },
                             {
-                                "url": "/cautivar-a-un-rey/",
-                                "title": "Cautivar a un rey",
-                                "description": "세작, 매혹된 자들 Lee In es un príncipe, su hermano mayor es el rey Lee Sun, quien se preocupa mucho por él. Lee In, que promete lealtad a su hermano mayor, es tomado como rehén por la dinastía Qing. El rey Lee Sun pronto ve la lealtad de su hermano menor como una traición y […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/llCDNlOzbjrDIroIMQwCQDoElZU.jpg"
-                            },
-                            {
-                                "url": "/maria-marta-el-crimen-del-country/",
-                                "title": "María Marta: el crimen del country",
+                                "url": "/remi-el-nino-de-nadie-capitulos-completos-latino-hd-online/",
+                                "title": "Remi",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6cHOCZalfOA4qeNgFSLI9tIqxun.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/vWPWVexfLDWU9vszZJVKtcgyuiL-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/transparent/",
-                                "title": "Transparent",
+                                "url": "/the-crown/",
+                                "title": "The Crown",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/aRrVzzmuYTkvoZGLB6uB39CsuTH.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/11/hWhUtIaieHMBqjOLxudgdnprWse-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,58 @@
             },
             "details": {
                 "result": {
-                    "url": "/mi-nombre-es-farah/",
-                    "title": "Mi nombre es Farah",
-                    "description": "Adım Farah Farah es una joven que ha tenido que huir de su país natal y lucha ilegalmente por sobrevivir junto a su hijo enfermo en Estambul. En una noche aparentemente ordinaria, su vida da un giro inesperado cuando presencia involuntariamente un asesinato. Este suceso la llevará a un cruce de caminos con Tahir Lekesiz, un hombre al que conoce esa misma noche. Este encuentro cambiará sus vidas para siempre y los arrastrará a un mundo de misterio, intriga y peligro.",
-                    "genre": "Crimen, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lw9DBdrF58jsv2mkCqcQTJynsTU.jpg",
+                    "url": "/la-guzman-la-reina-del-rock/",
+                    "title": "La Guzmán: La Reina Del Rock",
+                    "description": "La vida de la cantante mexicana Alejandra Guzmán ha inspirados los capitulos de esta fantastica historia. La serie recrea los videos musicales más exitosos de la cantante. Pasajes de su vida, amores, desamores y revelaciones que darán mucho de que hablar.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/drU36Euw7QcXeFv0LrPsaZiNyWu.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/la-guzman-la-reina-del-rock-temporada-1-capitulo-30/",
+                        "name": "T01 - E30 - Quiero que Despiertes",
+                        "date_upload": 1551398400000,
+                        "episode_number": 30.0
+                    },
+                    {
+                        "url": "/episode/la-guzman-la-reina-del-rock-temporada-1-capitulo-29/",
+                        "name": "T01 - E29 - Hacer el Amor con Otro",
+                        "date_upload": 1551312000000,
+                        "episode_number": 29.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/22/00066/2ou56e861nov_,l,n,.urlset/index-f2-v1-a1.m3u8?t=52DDpuGCMV4wV4f6JdNdenfj73hMOhRehApzIYwDt_Q&s=1715562232&e=43200&f=333040&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/22/00066/2ou56e861nov_,l,n,.urlset/index-f2-v1-a1.m3u8?t=52DDpuGCMV4wV4f6JdNdenfj73hMOhRehApzIYwDt_Q&s=1715562232&e=43200&f=333040&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/22/00066/2ou56e861nov_,l,n,.urlset/index-f1-v1-a1.m3u8?t=52DDpuGCMV4wV4f6JdNdenfj73hMOhRehApzIYwDt_Q&s=1715562232&e=43200&f=333040&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/22/00066/2ou56e861nov_,l,n,.urlset/index-f1-v1-a1.m3u8?t=52DDpuGCMV4wV4f6JdNdenfj73hMOhRehApzIYwDt_Q&s=1715562232&e=43200&f=333040&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

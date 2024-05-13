@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/kimetsu-no-yaiba-hashira-geiko-hen",
+                                "title": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kimetsu-no-yaiba-hashira-geiko-hen-cover.png"
+                            },
+                            {
                                 "url": "/media/boku-no-hero-academia-7",
                                 "title": "My Hero Academia: Season 7",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boku-no-hero-academia-7-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/kenka-dokugaku",
                                 "title": "Viral Hit",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kenka-dokugaku-cover.png"
-                            },
-                            {
-                                "url": "/media/date-a-live-v",
-                                "title": "Date a Live V",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-date-a-live-v-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/boku-no-hero-academia-7",
-                    "title": "My Hero Academia: Season 7",
+                    "url": "/media/kimetsu-no-yaiba-hashira-geiko-hen",
+                    "title": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
                     "author": "",
                     "description": "Quelle: aniSearch",
-                    "genre": "Actionkomödie",
+                    "genre": "Actiondrama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boku-no-hero-academia-7-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kimetsu-no-yaiba-hashira-geiko-hen-cover.png",
                     "initialized": true
                 },
                 "passed": true
@@ -239,12 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/boku-no-hero-academia-7#streams_episodes_1_1",
-                        "name": "Ep.2 Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/media/boku-no-hero-academia-7#streams_episodes_1_0",
+                        "url": "/media/kimetsu-no-yaiba-hashira-geiko-hen#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -254,14 +249,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=1PezXddoBoIeqde&expires=1715608096&ip=F0qQKRWADS9XKxR&token=p3tZ2Kneczv-",
+                        "url": "https://streamtape.com/get_video?id=LDWOG06drZFRj02&expires=1715632140&ip=F0qQKRWADS9XKxR&token=0JRoxPPLJfoe",
                         "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=1PezXddoBoIeqde&expires=1715608096&ip=F0qQKRWADS9XKxR&token=p3tZ2Kneczv-"
+                        "videoUrl": "https://streamtape.com/get_video?id=LDWOG06drZFRj02&expires=1715632140&ip=F0qQKRWADS9XKxR&token=0JRoxPPLJfoe"
                     },
                     {
-                        "url": "https://delivery-node-2gqaxh1cdrhcqz7i.voe-network.net/engine/hls2-c/01/11321/sxmfk6baogmq_,n,.urlset/index-v1-a1.m3u8?t=NxSxrWZ7CI55PzwM4begeATSTU6bE4-BE5jBgYzzLTU&s=1715538090&e=14400&f=56606734&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "url": "https://delivery-node-bnagz7hqqw9izsm5.voe-network.net/engine/hls2-c/01/11328/s9yodct9hzqh_,n,.urlset/index-v1-a1.m3u8?t=3HOd8QGqsv5KPV6kqfaGd-RSOSrMX_ZYhfGL9-3py0w&s=1715562134&e=14400&f=56641645&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "quality": "(Deutsch Sub) Voe: 720p",
-                        "videoUrl": "https://delivery-node-2gqaxh1cdrhcqz7i.voe-network.net/engine/hls2-c/01/11321/sxmfk6baogmq_,n,.urlset/index-v1-a1.m3u8?t=NxSxrWZ7CI55PzwM4begeATSTU6bE4-BE5jBgYzzLTU&s=1715538090&e=14400&f=56606734&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-bnagz7hqqw9izsm5.voe-network.net/engine/hls2-c/01/11328/s9yodct9hzqh_,n,.urlset/index-v1-a1.m3u8?t=3HOd8QGqsv5KPV6kqfaGd-RSOSrMX_ZYhfGL9-3py0w&s=1715562134&e=14400&f=56641645&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=xvL6elrePdsljk&expires=1715632127&ip=F0qQKRWADS9XKxR&token=8YTPThmhJnor",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=xvL6elrePdsljk&expires=1715632127&ip=F0qQKRWADS9XKxR&token=8YTPThmhJnor"
+                    },
+                    {
+                        "url": "https://delivery-node-8vfljdnjbu5ktwxw.voe-network.net/engine/hls2-c/01/11328/tcehoyeaqfft_,n,.urlset/index-v1-a1.m3u8?t=q9ZjTCM0a5Ya6qkoF7d3xdrWphy2cG-6gfpWXOZgp2U&s=1715562122&e=14400&f=56640766&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-8vfljdnjbu5ktwxw.voe-network.net/engine/hls2-c/01/11328/tcehoyeaqfft_,n,.urlset/index-v1-a1.m3u8?t=q9ZjTCM0a5Ya6qkoF7d3xdrWphy2cG-6gfpWXOZgp2U&s=1715562122&e=14400&f=56640766&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

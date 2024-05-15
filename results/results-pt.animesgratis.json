@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/animes/wind-breaker-dublado/",
-                                "title": "Wind Breaker Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg"
-                            },
-                            {
                                 "url": "/filmes/jujutsu-kaisen-0-movie/",
                                 "title": "Jujutsu Kaisen 0 Movie",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg"
@@ -55,6 +50,11 @@
                                 "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-3/",
                                 "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/mu4F6a4ImUT5xqYlc0IcwHaALKE.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/yoru-no-kurage-wa-oyogenai-episodio-6/",
+                                "title": "Yoru no Kurage wa Oyogenai – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/icNEwrQU3ZYK2rNapTDw55DPf9j.jpg"
+                            },
+                            {
+                                "url": "/episodio/blue-archive-the-animation-episodio-6/",
+                                "title": "Blue Archive the Animation – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/gWpJtkjuXqd0QW7li45VwMfWnRn.jpg"
+                            },
                             {
                                 "url": "/episodio/boukyaku-battery-episodio-6/",
                                 "title": "Boukyaku Battery – Episódio 6",
@@ -205,16 +215,6 @@
                                 "url": "/episodio/one-piece-episodio-1104/",
                                 "title": "One Piece – Episódio 1104",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/iXBb9JFsRqZqhr0JDvlCBjsDRkS.jpg"
-                            },
-                            {
-                                "url": "/episodio/the-fable-episodio-6/",
-                                "title": "The Fable – Episódio 6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/uZilbjIa8DOgpEt7H7C9mnLPEay.jpg"
-                            },
-                            {
-                                "url": "/episodio/dragon-raja-dub-japones-episodio-10/",
-                                "title": "Dragon Raja (Dub Japonês) – Episódio 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/tiQ2L3DTj6I1WLdgHOvpT2fZ7xH.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,58 +364,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/wind-breaker-dublado/",
-                    "title": "Wind Breaker Dublado",
-                    "description": "Aqui as médias de notas são mais baixas, mas as lutas são as mais intensas! A Escola Furin é conhecida como uma superescola de delinquentes! Haruka Sakura, um estudante do primeiro ano do ensino médio, veio de fora da cidade pronto para lutar até o topo… No entanto, a Escola Furin acabou se tornando um grupo que protege a cidade! É aqui que a lenda heroica do delinquente Sakura no ensino médio começa!\n\nTítulo original: WIND BREAKER\nTemporadas: 1\nEpisódios: 12",
-                    "genre": "Ação, Delinquents, Escolar",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
+                    "url": "/filmes/jujutsu-kaisen-0-movie/",
+                    "title": "Jujutsu Kaisen 0 Movie",
+                    "description": "O jovem Yuta Okkotsu ganha o controle de um espírito extremamente poderoso, então um grupo de feiticeiros o matriculam na Tokyo Prefectural Jujutsu High School, para ajudá-lo a controlar esse poder e também para ficar de olho nele.\n",
+                    "genre": "Ação, Fantasia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/wind-breaker-dublado-episodio-3/",
-                        "name": "Episódio 3",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/episodio/wind-breaker-dublado-episodio-2/",
-                        "name": "Episódio 2",
-                        "episode_number": 2.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.secvideo1.online/get_file/11/d407646d1eb00223b7e21fb580048367ce920f4af6/785000/785478/785478_720p.mp4/",
-                        "quality": "Ruplay - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/d407646d1eb00223b7e21fb580048367ce920f4af6/785000/785478/785478_720p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/d407646d1eb00223b7e21fb580048367ce920f4af6/785000/785478/785478_720p.mp4/"
-                        }
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/11/df523207ad65e4c70bfd6629874188103510a9bfbd/785000/785478/785478.mp4/",
-                        "quality": "Ruplay - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/df523207ad65e4c70bfd6629874188103510a9bfbd/785000/785478/785478.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/df523207ad65e4c70bfd6629874188103510a9bfbd/785000/785478/785478.mp4/"
-                        }
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/11/8e5ce365921ef2388e05193b774d36eaede937cf88/785000/785478/785478_360p.mp4/",
-                        "quality": "Ruplay - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/8e5ce365921ef2388e05193b774d36eaede937cf88/785000/785478/785478_360p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/8e5ce365921ef2388e05193b774d36eaede937cf88/785000/785478/785478_360p.mp4/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

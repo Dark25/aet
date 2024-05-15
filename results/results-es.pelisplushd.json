@@ -304,6 +304,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/bromas-que-matan",
+                                "title": "Bromas que Matan (1999)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yUdkn57AcZJCBiO74D9xQYq99Bm.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-cienpies-humano",
+                                "title": "El Cienpies Humano (2009)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg"
+                            },
+                            {
                                 "url": "/pelicula/the-monsters-without",
                                 "title": "The Monsters Without (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/mCH0peC15wIQ7Un1JJ7CO0oZ5Q1.jpg"
@@ -412,16 +422,6 @@
                                 "url": "/pelicula/la-madre-de-la-novia",
                                 "title": "La madre de la novia (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/zT3NK8SgkxTYGjQUE4q3cKN9k6M.jpg"
-                            },
-                            {
-                                "url": "/pelicula/wanted-man",
-                                "title": "Wanted Man (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/pmdgdb8biQLLzTjySZLPdK13KwM.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bring-him-back-dead",
-                                "title": "Bring Him Back Dead (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wlwNJAITz7l6S1dKD8doncOJzNZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +681,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-monsters-without",
-                    "title": "The Monsters Without (2023)",
-                    "description": "",
-                    "genre": "Fantasía, Aventura, Ciencia ficción",
+                    "url": "/pelicula/bromas-que-matan",
+                    "title": "Bromas que Matan (1999)",
+                    "description": "Tres de las más populares estudiantes del Instituto Reagan matan accidentalmente a la reina del baile de graduación con un caramelo. La broma de cumpleaños se convierte en una tragedia que es descubierta por la empollona de la clase. Para evitar que les delate, la convertirán en la jefa del grupo. Comedia que parodia los filmes de terror ambientados en las High Schools americanas.",
+                    "genre": "Comedia, Crimen",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +694,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-monsters-without",
+                        "url": "/pelicula/bromas-que-matan",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,25 +704,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://zmgpkp2j9b.sw-cdnstreamwish.com/hls2/01/03839/asnvys18d4wk_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fVDy0Nl8twznOX79CRKrrPBROKyR0CAIdMLEENo6gvc&s=1715710702&e=129600&f=19199278&srv=hl3933oigscv&i=0.4&sp=500&p1=hl3933oigscv&p2=hl3933oigscv&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://zmgpkp2j9b.sw-cdnstreamwish.com/hls2/01/03839/asnvys18d4wk_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fVDy0Nl8twznOX79CRKrrPBROKyR0CAIdMLEENo6gvc&s=1715710702&e=129600&f=19199278&srv=hl3933oigscv&i=0.4&sp=500&p1=hl3933oigscv&p2=hl3933oigscv&asn=8075",
+                        "url": "https://yrwo6l2a.sw-cdnstreamwish.com/hls2/01/03840/70kbu2i6x7se_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=kZXki_656lSJz6FlKEBU4_uFN-GQbwWIi-DJwD5jgPs&s=1715734706&e=129600&f=19201002&srv=tfaullundco4&i=0.4&sp=500&p1=tfaullundco4&p2=tfaullundco4&asn=8075",
+                        "quality": "StreamWish:1040p",
+                        "videoUrl": "https://yrwo6l2a.sw-cdnstreamwish.com/hls2/01/03840/70kbu2i6x7se_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=kZXki_656lSJz6FlKEBU4_uFN-GQbwWIi-DJwD5jgPs&s=1715734706&e=129600&f=19201002&srv=tfaullundco4&i=0.4&sp=500&p1=tfaullundco4&p2=tfaullundco4&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/asnvys18d4wk"
+                            "Referer": "https://streamwish.to/e/70kbu2i6x7se"
                         }
                     },
                     {
-                        "url": "https://zmgpkp2j9b.sw-cdnstreamwish.com/hls2/01/03839/asnvys18d4wk_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fVDy0Nl8twznOX79CRKrrPBROKyR0CAIdMLEENo6gvc&s=1715710702&e=129600&f=19199278&srv=hl3933oigscv&i=0.4&sp=500&p1=hl3933oigscv&p2=hl3933oigscv&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://zmgpkp2j9b.sw-cdnstreamwish.com/hls2/01/03839/asnvys18d4wk_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fVDy0Nl8twznOX79CRKrrPBROKyR0CAIdMLEENo6gvc&s=1715710702&e=129600&f=19199278&srv=hl3933oigscv&i=0.4&sp=500&p1=hl3933oigscv&p2=hl3933oigscv&asn=8075",
+                        "url": "https://yrwo6l2a.sw-cdnstreamwish.com/hls2/01/03840/70kbu2i6x7se_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=kZXki_656lSJz6FlKEBU4_uFN-GQbwWIi-DJwD5jgPs&s=1715734706&e=129600&f=19201002&srv=tfaullundco4&i=0.4&sp=500&p1=tfaullundco4&p2=tfaullundco4&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://yrwo6l2a.sw-cdnstreamwish.com/hls2/01/03840/70kbu2i6x7se_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=kZXki_656lSJz6FlKEBU4_uFN-GQbwWIi-DJwD5jgPs&s=1715734706&e=129600&f=19201002&srv=tfaullundco4&i=0.4&sp=500&p1=tfaullundco4&p2=tfaullundco4&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/asnvys18d4wk"
+                            "Referer": "https://streamwish.to/e/70kbu2i6x7se"
+                        }
+                    },
+                    {
+                        "url": "https://yrwo6l2a.sw-cdnstreamwish.com/hls2/01/03840/70kbu2i6x7se_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=kZXki_656lSJz6FlKEBU4_uFN-GQbwWIi-DJwD5jgPs&s=1715734706&e=129600&f=19201002&srv=tfaullundco4&i=0.4&sp=500&p1=tfaullundco4&p2=tfaullundco4&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://yrwo6l2a.sw-cdnstreamwish.com/hls2/01/03840/70kbu2i6x7se_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=kZXki_656lSJz6FlKEBU4_uFN-GQbwWIi-DJwD5jgPs&s=1715734706&e=129600&f=19201002&srv=tfaullundco4&i=0.4&sp=500&p1=tfaullundco4&p2=tfaullundco4&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/70kbu2i6x7se"
                         }
                     }
                 ],
@@ -1009,7 +1020,7 @@
                     "title": "Elevator Game",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -1029,9 +1040,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=qmbYbvqITKCRdh8UWgJommXnrTVM2kunmsf7PXV1T4A&s=1715710705&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=YK31qHgWSbdjYU-Wi2hVfNu37wWJ8_33IODX_n5G7tY&s=1715734708&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=qmbYbvqITKCRdh8UWgJommXnrTVM2kunmsf7PXV1T4A&s=1715710705&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=YK31qHgWSbdjYU-Wi2hVfNu37wWJ8_33IODX_n5G7tY&s=1715734708&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1040,9 +1051,9 @@
                         }
                     },
                     {
-                        "url": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=PN-EYd3ae150_dyICThT4g9pLIkkRgjPMnb1wdBUSX0&s=1715710704&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=TkK3137-NtdFj45r7Cmq2AKaXrcVm95bBl1h2qzPzvM&s=1715734709&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=PN-EYd3ae150_dyICThT4g9pLIkkRgjPMnb1wdBUSX0&s=1715710704&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=TkK3137-NtdFj45r7Cmq2AKaXrcVm95bBl1h2qzPzvM&s=1715734709&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1062,9 @@
                         }
                     },
                     {
-                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=qmbYbvqITKCRdh8UWgJommXnrTVM2kunmsf7PXV1T4A&s=1715710705&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=YK31qHgWSbdjYU-Wi2hVfNu37wWJ8_33IODX_n5G7tY&s=1715734708&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=qmbYbvqITKCRdh8UWgJommXnrTVM2kunmsf7PXV1T4A&s=1715710705&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=YK31qHgWSbdjYU-Wi2hVfNu37wWJ8_33IODX_n5G7tY&s=1715734708&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1062,9 +1073,9 @@
                         }
                     },
                     {
-                        "url": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=PN-EYd3ae150_dyICThT4g9pLIkkRgjPMnb1wdBUSX0&s=1715710704&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=TkK3137-NtdFj45r7Cmq2AKaXrcVm95bBl1h2qzPzvM&s=1715734709&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://h0zzcaomekv.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=PN-EYd3ae150_dyICThT4g9pLIkkRgjPMnb1wdBUSX0&s=1715710704&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=TkK3137-NtdFj45r7Cmq2AKaXrcVm95bBl1h2qzPzvM&s=1715734709&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

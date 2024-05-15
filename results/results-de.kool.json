@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/data/watch/?_id=823464&type=movie",
+                                "title": "Godzilla x Kong: The New Empire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/itEDZpdKaDIRnvAvqULveddBUMC.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=653346&type=movie",
                                 "title": "Planet der Affen: New Kingdom",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2BUZrtbcKWsY4naDB10sH19mnuv.jpg"
@@ -15,11 +20,6 @@
                                 "url": "/data/watch/?_id=940721&type=movie",
                                 "title": "Godzilla Minus One",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jy0CKGuj5gcWn6DAnJ4HEdUgjJO.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=823464&type=movie",
-                                "title": "Godzilla x Kong: The New Empire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/itEDZpdKaDIRnvAvqULveddBUMC.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=967847&type=movie",
@@ -207,11 +207,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/kSlvFr4iLNEXhHOYvcH7oHbJ2Z9.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=821937&type=movie",
-                                "title": "578: Magnum",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vndLcT0mWKksuN8xvehWVFvy5LK.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=346698&type=movie",
                                 "title": "Barbie",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6WP6FD932ce3H3Xi2UU5CVI7ilL.jpg"
@@ -250,6 +245,11 @@
                                 "url": "/data/watch/?_id=298618&type=movie",
                                 "title": "The Flash",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/tuPAjzS42xDG0LHxTTr4Kma0KOo.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=359410&type=movie",
+                                "title": "Road House",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/aHcpYUxDVRuT63Ue2eYkiD4cMIk.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=62&type=movie",
@@ -968,10 +968,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/data/watch/?_id=653346&type=movie",
-                    "title": "Planet der Affen: New Kingdom",
-                    "description": "Etwa 300 Jahre nach der blutigen und verlustreichen Schlacht zwischen den von Caesar angeführten Affen und den Menschen unter Kommando des Colonels, haben sich in der Oase, in die Caesar seine Artgenossen einst geführt hat, mehrere Affengesellschaften parallel entwickelt. Die Menschen hingegen sind wieder Wilde geworden. Einige der Affenclans haben noch nie etwas von Caesar gehört. Andere wiederum nutzen dessen Legendenstatus aus, um seine Lehren zugunsten ehrgeiziger Ziele zu verdrehen. Vor diesem Hintergrund versklavt der Affenanführer Proximus Caesar andere Clans, um eine geheime, menschliche Technologie zu finden. Als der Schimpanse Noa mitansehen muss, wie seine Sippe entführt wird, begibt er sich zusammen mit dem menschlichen Mädchen Mae auf die Suche, um seine verschleppten Artgenossen zu finden und zu befreien...",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/2BUZrtbcKWsY4naDB10sH19mnuv.jpg",
+                    "url": "/data/watch/?_id=823464&type=movie",
+                    "title": "Godzilla x Kong: The New Empire",
+                    "description": "Der epische Kampf geht weiter! Nach dem explosiven Showdown in \"Godzilla vs. Kong\" präsentiert Legendary Pictures ein brandneues Abenteuer aus dem MonsterVerse: Der allmächtige Kong und der furchteinflößende Godzilla treten gegen eine gewaltige, unbekannte Bedrohung an, die in unserer Welt verborgen liegt - und die ihre gesamte Existenz infrage stellt. \"Godzilla x Kong: The New Empire\" beschäftigt sich mit der Geschichte und den Ursprüngen der beiden Titanen sowie mit den Geheimnissen, die Skull Island birgt. Außerdem enthüllt das neue Kapitel mehr über den mythischen Kampf, der zur Entstehung dieser außergewöhnlichen Kreaturen beigetragen und sie für immer untrennbar mit der Menschheit verbunden hat.",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/itEDZpdKaDIRnvAvqULveddBUMC.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -979,7 +979,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=653346&name=Planet der Affen: New Kingdom&type=movie",
+                        "url": "/kool-cluster/mediahubmx-source.json?id=823464&name=Godzilla x Kong: The New Empire&type=movie",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -987,8 +987,43 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=kkQRawQKjdHOG2a&expires=1715823964&ip=GxOsD0WPKxSHDN&token=NTYX31jVeFPd",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=kkQRawQKjdHOG2a&expires=1715823964&ip=GxOsD0WPKxSHDN&token=NTYX31jVeFPd"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=QgGYOwkVrJI0oQJ&expires=1715823964&ip=GxOsD0WPKxSHDN&token=exa9Dj48mU1U",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=QgGYOwkVrJI0oQJ&expires=1715823964&ip=GxOsD0WPKxSHDN&token=exa9Dj48mU1U"
+                    },
+                    {
+                        "url": "https://delivery-node-dz1mutsrjvg36eso.voe-network.net/engine/hls2-c/01/11087/koswswf8u61v_,n,.urlset/index-v1-a1.m3u8?t=9-g708jFIf019L6vkppWtYbVp7AW3hQ_-_KJFV_a_hs&s=1715753963&e=14400&f=55435606&node=delivery-node-wkgtlrbhjc1mxcjt.voe-network.net&i=40.116&sp=2500&asn=8075",
+                        "quality": "Voe: 560p",
+                        "videoUrl": "https://delivery-node-dz1mutsrjvg36eso.voe-network.net/engine/hls2-c/01/11087/koswswf8u61v_,n,.urlset/index-v1-a1.m3u8?t=9-g708jFIf019L6vkppWtYbVp7AW3hQ_-_KJFV_a_hs&s=1715753963&e=14400&f=55435606&node=delivery-node-wkgtlrbhjc1mxcjt.voe-network.net&i=40.116&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/11087/xms0nujbbvd0_,n,.urlset/index-v1-a1.m3u8?t=6RaNVCQvTh4BnnIU7eM_C56t1JB5XtwP0dP3ARGA4wg&s=1715753961&e=14400&f=55435593&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=40.116&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/11087/xms0nujbbvd0_,n,.urlset/index-v1-a1.m3u8?t=6RaNVCQvTh4BnnIU7eM_C56t1JB5XtwP0dP3ARGA4wg&s=1715753961&e=14400&f=55435593&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=40.116&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2-c/01/11329/lzqv559ndfcp_,n,.urlset/index-v1-a1.m3u8?t=uekd2XjfDCJ-1G0H6VLjp4iGmm5rJxKfes1F08uKJxU&s=1715753960&e=14400&f=56645221&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=40.116&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2-c/01/11329/lzqv559ndfcp_,n,.urlset/index-v1-a1.m3u8?t=uekd2XjfDCJ-1G0H6VLjp4iGmm5rJxKfes1F08uKJxU&s=1715753960&e=14400&f=56645221&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=40.116&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

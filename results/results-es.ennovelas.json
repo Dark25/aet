@@ -3,23 +3,67 @@
         "name": "EnNovelas (ES)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/las-dos-cara-de-ana/",
+                                "title": "Las dos cara de ana",
+                                "description": "",
+                                "thumbnail_url": "https://ennovelas.net/wp-content/uploads/2022/10/MV5BNGIxNTFhNWItZDA4My00NTNhLWFkZjctMmY4YTVlMTRkNzQ0XkEyXkFqcGdeQXVyMzQ2NTY2MTg@-392x520.jpg"
+                            },
+                            {
+                                "url": "/series/secretos-del-paraiso/",
+                                "title": "Secretos del paraiso",
+                                "description": "",
+                                "thumbnail_url": "https://ennovelas.net/wp-content/uploads/2022/11/Secretos-del-paraiso..jpg"
+                            },
+                            {
+                                "url": "/series/apocalipsis/",
+                                "title": "Apocalipsis",
+                                "description": "",
+                                "thumbnail_url": "https://ennovelas.net/wp-content/uploads/2022/08/Screenshot-62.png"
+                            },
+                            {
+                                "url": "/series/asesinato-en-el-fin-del-mundo-4k/",
+                                "title": "Asesinato en el fin del mundo",
+                                "description": "",
+                                "thumbnail_url": "https://ennovelas.net/wp-content/uploads/2023/11/Asesinato-en-el-fin-del-mundo-416x520.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/series/las-dos-cara-de-ana/",
+                    "title": "Las dos cara de ana",
+                    "artist": "",
+                    "author": "2006",
+                    "description": "Las dos cara de ana",
+                    "genre": "Familia, Novelas Mexicanas, Soap Opera, Srnovelas",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/las-dos-cara-de-ana-capitulo-1/",
+                        "name": "Capítulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

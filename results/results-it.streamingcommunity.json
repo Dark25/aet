@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "7691-if-gli-amici-immaginari",
-                                "title": "IF - Gli amici immaginari",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/6da29db4-012e-41aa-81eb-96c2e1022d43.webp"
+                                "url": "7976-il-regno-del-pianeta-delle-scimmie",
+                                "title": "Il regno del pianeta delle scimmie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d3cd57d8-1096-41e9-bb18-0d0530c849cc.webp"
                             },
                             {
                                 "url": "8438-doctor-who",
@@ -24,7 +24,7 @@
                             {
                                 "url": "8492-thank-you-next",
                                 "title": "Thank You, Next",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/1f43edc2-daf7-4ee7-9765-c1be4c70a722.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/5cd40789-36fe-43ba-a971-486236f320b0.webp"
                             },
                             {
                                 "url": "8430-bodkin",
@@ -572,6 +572,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/1cd6c498-8224-4990-8922-e739d75c86f2.webp"
                             },
                             {
+                                "url": "8437-il-tatuatore-di-auschwitz",
+                                "title": "Il tatuatore di Auschwitz",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7ad5495f-644b-4a07-b300-fd1a37f912fb.webp"
+                            },
+                            {
                                 "url": "8435-in-fuga-a-quattro-zampe",
                                 "title": "In fuga a quattro zampe",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/fd235aa5-bf3c-4823-8636-8eccf3546f8b.webp"
@@ -610,11 +615,6 @@
                                 "url": "8425-insuperabili-x-men",
                                 "title": "Insuperabili X-Men",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/6c2d695f-3d32-4505-aaf6-1c163934c9c5.webp"
-                            },
-                            {
-                                "url": "8423-non-tutte-le-sciagure-vengono-dal-cielo",
-                                "title": "Non tutte le sciagure vengono dal cielo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/0e515fbb-ca59-4a9c-b04f-3474da407a54.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7691-if-gli-amici-immaginari",
-                    "description": "L’incredibile e magica storia di una bambina e della sua capacità di vedere gli IF, cioè gli amici immaginari di tutte le persone. Grazie a questo suo insolito superpotere, si imbarcherà in una magica avventura per ricongiungere gli IF dimenticati con i loro bambini.",
-                    "genre": "Dramma, Fantasy, Commedia, Famiglia",
+                    "url": "7976-il-regno-del-pianeta-delle-scimmie",
+                    "description": "Diverse generazioni nel futuro dopo il regno di Cesare, le scimmie sono ora la specie dominante che vive armoniosamente e gli umani sono stati ridotti a vivere nell'ombra. Mentre un nuovo tirannico capo scimmia costruisce il suo impero, una giovane scimmia intraprende un viaggio straziante che la porterà a mettere in discussione tutto ciò che ha conosciuto del passato e a fare delle scelte che definiranno un futuro sia per le scimmie che per gli umani.",
+                    "genre": "Azione, Fantascienza, Avventura",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -944,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7691",
+                        "url": "7976",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -952,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

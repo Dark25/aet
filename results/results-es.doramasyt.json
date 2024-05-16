@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/doctor-slump-sub-espanol",
+                                "title": "Doctor Slump",
+                                "description": "Doctor Slump",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/doctor-slump-1715821258.jpg"
+                            },
+                            {
+                                "url": "/dorama/the-believers-sub-espanol",
+                                "title": "The Believers",
+                                "description": "The Believers",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-believers-1715817035.jpg"
+                            },
+                            {
+                                "url": "/dorama/the-believers-que-asi-sea-latino-sub-espanol",
+                                "title": "The Believers: Que así sea Latino",
+                                "description": "The Believers: Que así sea Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-believers-que-asi-sea-latino-1715813367.jpg"
+                            },
+                            {
                                 "url": "/dorama/la-reina-de-las-lagrimas-latino-sub-espanol",
                                 "title": "La reina de las lágrimas Latino",
                                 "description": "La reina de las lágrimas Latino",
@@ -167,24 +185,6 @@
                                 "title": "Apartamento 404",
                                 "description": "Apartamento 404",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/apartamento-404-1715036525.jpg"
-                            },
-                            {
-                                "url": "/dorama/step-by-step-love-sub-espanol",
-                                "title": "Step by Step Love",
-                                "description": "Step by Step Love",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/step-by-step-love-1715025328.jpg"
-                            },
-                            {
-                                "url": "/dorama/4-kings-sub-espanol",
-                                "title": "4 Kings",
-                                "description": "4 Kings",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/4-kings-1715023162.jpg"
-                            },
-                            {
-                                "url": "/dorama/4-kings-fuera-de-los-muros-del-colegio-latino-sub-espanol",
-                                "title": "4 Kings: Fuera De Los Muros Del Colegio Latino",
-                                "description": "4 Kings: Fuera De Los Muros Del Colegio Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/4-kings-fuera-de-los-muros-del-colegio-latino-1715021791.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,9 +280,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/la-reina-de-las-lagrimas-latino-sub-espanol",
-                    "title": "La reina de las lágrimas Latino (0)",
-                    "description": "La reina de los grandes almacenes y el príncipe de los supermercados atraviesan una crisis matrimonial hasta que, por arte de magia, el amor vuelve a florecer. ",
+                    "url": "/dorama/doctor-slump-sub-espanol",
+                    "title": "Doctor Slump (0)",
+                    "description": "Dos médicos brillantes y antiguos rivales académicos que se reencuentran por casualidad lidian con problemas existenciales mientras hallan consuelo el uno en el otro. ",
                     "genre": "Romance, Comedia, Drama, K-Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -291,80 +291,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/la-reina-de-las-lagrimas-latino-episodio-7",
-                        "name": "Episodio 7.0",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/ver/la-reina-de-las-lagrimas-latino-episodio-6",
-                        "name": "Episodio 6.0",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiAGKAUwAzgCeJ0NX8iwOAcmuPM/fn/track.m3u8",
-                        "quality": "Okru:960p",
-                        "videoUrl": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiAGKAUwAzgCeJ0NX8iwOAcmuPM/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiAFKAQwAzgCeJ0NqgEICgYIgAoQgAWyAQQIxNgC0gEGCAMQAigX2gECCBiovlyjAYV2bw/fn/track.m3u8",
-                        "quality": "Okru:640p",
-                        "videoUrl": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiAFKAQwAzgCeJ0NqgEICgYIgAoQgAWyAQQIxNgC0gEGCAMQAigX2gECCBiovlyjAYV2bw/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiAEKAMwAzgCeJ0NqgEICgYI2AYQqAOyAQQIxNgC0gEGCAEQAigX2gECCBD4hhDCYomcNQ/fn/track.m3u8",
-                        "quality": "Okru:424p",
-                        "videoUrl": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiAEKAMwAzgCeJ0NqgEICgYI2AYQqAOyAQQIxNgC0gEGCAEQAigX2gECCBD4hhDCYomcNQ/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiADKAIwAzgCeJ0NqgEICgYIgAUQwAKyAQQIxNgC0gEEEAIoF9oBAggQB6j6i6FZ3Cg/fn/track.m3u8",
-                        "quality": "Okru:320p",
-                        "videoUrl": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiADKAIwAzgCeJ0NqgEICgYIgAUQwAKyAQQIxNgC0gEEEAIoF9oBAggQB6j6i6FZ3Cg/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiACKAEwAzgCeJ0NqgEICgYIqAMQ2AGyAQQIxNgC0gEEEAIoF9oBAggQicKlEoFlzNA/fn/track.m3u8",
-                        "quality": "Okru:216p",
-                        "videoUrl": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiACKAEwAzgCeJ0NqgEICgYIqAMQ2AGyAQQIxNgC0gEEEAIoF9oBAggQicKlEoFlzNA/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiABMAM4AnidDaoBCAoGCIACEIABsgEECMTYAtIBBBACKBfaAQIICFHbjKDm-oYD/fn/track.m3u8",
-                        "quality": "Okru:128p",
-                        "videoUrl": "https://vd456.mycdn.me/expires/1715883747290/clientType/0/srcIp/172.183.106.58/type/2/mid/6717893184031/id/6246797675039/ms/45.136.20.73/zs/43/srcAg/GECKO/urls/45.136.21.48/oq/0/pr/10/ct/28/sig/fvL1sFTsOWs/ondemand/CJ-UoJHntQESFAiflKCR57UBEJ-UoJHntQEYNyABGhQIn5Sgkee1ARCflKCR57UBGDcgAiABMAM4AnidDaoBCAoGCIACEIABsgEECMTYAtIBBBACKBfaAQIICFHbjKDm-oYD/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://m50.uqload.to/3rfklakytjw2q4drdl4pv45fajgy64z6uip674hrgvwhfca3lrzfdff4zera/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m50.uqload.to/3rfklakytjw2q4drdl4pv45fajgy64z6uip674hrgvwhfca3lrzfdff4zera/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/jovenes-virgenes-latino-sub-espanol",
+                                "title": "Jóvenes vírgenes Latino",
+                                "description": "Jóvenes vírgenes Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/jovenes-virgenes-latino-1715883596.jpg"
+                            },
+                            {
                                 "url": "/dorama/echoes-of-the-thunder-sub-espanol",
                                 "title": "Echoes of the Thunder",
                                 "description": "Echoes of the Thunder",
@@ -179,12 +185,6 @@
                                 "title": "I Cannot Reach You",
                                 "description": "I Cannot Reach You",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/i-cannot-reach-you-1715130827.jpg"
-                            },
-                            {
-                                "url": "/dorama/boys-be-brave-sub-espanol",
-                                "title": "Boys Be Brave",
-                                "description": "Boys Be Brave",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/boys-be-brave-1715128511.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/echoes-of-the-thunder-sub-espanol",
-                    "title": "Echoes of the Thunder (0)",
-                    "description": "Nam y Fire son campeones de carreras en pista y calle de Asia. Sin embargo, cuando el dueño de un equipo de carreras recluta a Nam para que sea el mentor de su hijo Calvin y se convierta en un futuro campeón, Nam no se da cuenta de que su elección destruirá todo lo que tiene. Con Fire y Calvin sufriendo los accidentes fatales causados por Kenji, un despiadado corredor japonés, reaviva el coraje de Nam para enfrentar nuevamente su desafío más oscuro en la carretera. ",
-                    "genre": "Thriller, Drama, Deporte, Thai-Drama, Suspenso",
+                    "url": "/dorama/jovenes-virgenes-latino-sub-espanol",
+                    "title": "Jóvenes vírgenes Latino (0)",
+                    "description": "Cuando la chica popular en la escuela muere misteriosamente después de su dulce fiesta de cumpleaños número 17, una compañera de la escuela reúne la ayuda de sus amigas para crear una investigación documental que le ayude a ser aceptada en la escuela de sus sueños. Su investigación revela la verdad detrás de la falsa fachada perfecta que sus compañeros de clase aparentan en la escuela y las sumerge en los peligros de los depredadores en línea que buscan jóvenes vírgenes. ",
+                    "genre": "Drama, Misterio",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,75 +291,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/echoes-of-the-thunder-sub-espanol-episodio-1",
-                        "name": "Episodio 1.0",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAGKAUwAzgCeOYOOQrYBuNdaz4/fn/track.m3u8",
-                        "quality": "Okru:816p",
-                        "videoUrl": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAGKAUwAzgCeOYOOQrYBuNdaz4/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAFKAQwAzgCeOYOqgEICgYIgAoQoASyAQQIxNgC0gEGCAMQAigX2gECCBj7KlmUknkbQg/fn/track.m3u8",
-                        "quality": "Okru:544p",
-                        "videoUrl": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAFKAQwAzgCeOYOqgEICgYIgAoQoASyAQQIxNgC0gEGCAMQAigX2gECCBj7KlmUknkbQg/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAEKAMwAzgCeOYOqgEICgYI2AYQ6AKyAQQIxNgC0gEGCAEQAigX2gECCBDTLc2Qx4VKzA/fn/track.m3u8",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAEKAMwAzgCeOYOqgEICgYI2AYQ6AKyAQQIxNgC0gEGCAEQAigX2gECCBDTLc2Qx4VKzA/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiADKAIwAzgCeOYOqgEICgYIgAUQkAKyAQQIxNgC0gEEEAIoF9oBAggQU_a_kl8x0Ew/fn/track.m3u8",
-                        "quality": "Okru:272p",
-                        "videoUrl": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiADKAIwAzgCeOYOqgEICgYIgAUQkAKyAQQIxNgC0gEEEAIoF9oBAggQU_a_kl8x0Ew/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiACKAEwAzgCeOYOqgEICgYIqAMQuAGyAQQIxNgC0gEEEAIoF9oBAggQ8xGZk8Ag844/fn/track.m3u8",
-                        "quality": "Okru:184p",
-                        "videoUrl": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiACKAEwAzgCeOYOqgEICgYIqAMQuAGyAQQIxNgC0gEEEAIoF9oBAggQ8xGZk8Ag844/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiABMAM4AnjmDqoBBwoFCIACEHCyAQQIxNgC0gEEEAIoF9oBAggILn4fMuXMy1s/fn/track.m3u8",
-                        "quality": "Okru:112p",
-                        "videoUrl": "https://vd263.mycdn.me/expires/1715948964617/clientType/0/srcIp/172.183.107.215/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/TuKCazZ6_wc/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiABMAM4AnjmDqoBBwoFCIACEHCyAQQIxNgC0gEEEAIoF9oBAggILn4fMuXMy1s/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://m50.uqload.to/3rfkkkkltjw2q4drdl47vpvubbcpnf4ongssmt2giqhwfoqsug4dc5mfpm6a/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m50.uqload.to/3rfkkkkltjw2q4drdl47vpvubbcpnf4ongssmt2giqhwfoqsug4dc5mfpm6a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

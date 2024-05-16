@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/wind-breaker-episode-7-english-subbed/",
+                                "title": "Wind Breaker",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/wind-breaker-episode-7-english-subbed-390x220.jpg"
+                            },
+                            {
                                 "url": "/no-8-episode-5-english-subbed/",
                                 "title": "Kaiju No. 8",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/no-8-episode-5-english-subbed-390x220.jpg"
@@ -22,19 +27,9 @@
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/the-new-gate-episode-5-english-subbed-390x220.jpg"
                             },
                             {
-                                "url": "/an-archdemons-dilemma-how-to-love-your-elf-bride-episode-7-english-subbed/",
-                                "title": "An Archdemon’s Dilemma: How to Love Your Elf Bride",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/an-archdemons-dilemma-how-to-love-your-elf-bride-episode-7-english-subbed-390x220.jpg"
-                            },
-                            {
                                 "url": "/a-condition-called-love-episode-6-english-subbed/",
                                 "title": "A Condition Called Love",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/a-condition-called-love-episode-6-english-subbed-390x220.jpg"
-                            },
-                            {
-                                "url": "/wind-breaker-episode-6-english-subbed/",
-                                "title": "Wind Breaker",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/wind-breaker-episode-6-english-subbed-390x220.jpg"
                             },
                             {
                                 "url": "/konosuba-season-3-episode-5-english-subbed/",
@@ -55,6 +50,11 @@
                                 "url": "/unnamed-memory-episode-5-english-subbed/",
                                 "title": "Unnamed Memory",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/unnamed-memory-episode-5-english-subbed-390x220.jpg"
+                            },
+                            {
+                                "url": "/tsukimichi-moonlit-fantasy-season-2-episode-18-english-subbed/",
+                                "title": "Tsukimichi Moonlit Fantasy Season 2",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/tsukimichi-moonlit-fantasy-season-2-episode-18-english-subbed-390x220.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/wind-breaker-episode-7-english-subbed/",
+                                "title": "Wind Breaker",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/wind-breaker-episode-7-english-subbed-220x150.jpg"
+                            },
                             {
                                 "url": "/no-8-episode-5-english-subbed/",
                                 "title": "Kaiju No. 8",
@@ -85,11 +90,6 @@
                                 "url": "/basket-season-6-dual-audio/",
                                 "title": "Fruits Basket (Season 1-3 + Movie) 1080p Dual Audio HEVC",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/basket-season-6-dual-audio-220x150.jpg"
-                            },
-                            {
-                                "url": "/an-archdemons-dilemma-how-to-love-your-elf-bride-episode-7-english-subbed/",
-                                "title": "An Archdemon’s Dilemma: How to Love Your Elf Bride",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/05/an-archdemons-dilemma-how-to-love-your-elf-bride-episode-7-english-subbed-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -159,16 +159,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/no-8-episode-5-english-subbed/",
-                    "author": "Production I.G",
-                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Not yet aired\nAired: Apr 13, 2024 to ?\nPremiered: Spring 2024\nBroadcast: Saturdays at 23:00 (JST)\nProducers: Khara, TOHO animation, Shueisha Licensors: None found, add some\nStudios: Production I.G\nSource: Manga\nGenres: Action, Sci-Fi\nTheme: Military\nDemographic: Shounen\nDuration: Unknown\nRating: None",
-                    "genre": "Action, Sci-Fi",
+                    "url": "/wind-breaker-episode-7-english-subbed/",
+                    "author": "CloverWorks",
+                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Not yet aired\nAired: Apr 5, 2024 to ?\nPremiered: Spring 2024\nBroadcast: Fridays at 00:26 (JST)\nProducers: Aniplex\nLicensors: None found, add some\nStudios: CloverWorks\nSource: Web manga\nGenre: Action\nThemes: Delinquents, School\nDuration: Unknown\nRating: None",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
                 "passed": false
             },
             "videos": {

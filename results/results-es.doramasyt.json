@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/echoes-of-the-thunder-sub-espanol",
+                                "title": "Echoes of the Thunder",
+                                "description": "Echoes of the Thunder",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/echoes-of-the-thunder-1715835274.jpg"
+                            },
+                            {
+                                "url": "/dorama/slr-sub-espanol",
+                                "title": "SLR",
+                                "description": "SLR",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/slr-1715829219.jpg"
+                            },
+                            {
+                                "url": "/dorama/slr-la-camara-del-demonio-latino-sub-espanol",
+                                "title": "SLR: La cámara del demonio Latino",
+                                "description": "SLR: La cámara del demonio Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/slr-la-camara-del-demonio-latino-1715827708.jpg"
+                            },
+                            {
+                                "url": "/dorama/velocidad-sin-limites-latino-sub-espanol",
+                                "title": "Velocidad Sin Límites Latino",
+                                "description": "Velocidad Sin Límites Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/velocidad-sin-limites-latino-1715827340.jpg"
+                            },
+                            {
+                                "url": "/dorama/romance-by-romance-movie-sub-espanol",
+                                "title": "Romance By Romance (Movie)",
+                                "description": "Romance By Romance (Movie)",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/romance-by-romance-movie-1715826180.jpg"
+                            },
+                            {
                                 "url": "/dorama/doctor-slump-sub-espanol",
                                 "title": "Doctor Slump",
                                 "description": "Doctor Slump",
@@ -155,36 +185,6 @@
                                 "title": "Boys Be Brave",
                                 "description": "Boys Be Brave",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/boys-be-brave-1715128511.jpg"
-                            },
-                            {
-                                "url": "/dorama/hide-desaparecido-sub-espanol",
-                                "title": "Hide (Desaparecido)",
-                                "description": "Hide (Desaparecido)",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/hide-desaparecido-1715120903.jpg"
-                            },
-                            {
-                                "url": "/dorama/beauty-and-mr-romantic-sub-espanol",
-                                "title": "Beauty and Mr. Romantic",
-                                "description": "Beauty and Mr. Romantic",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/beauty-and-mr-romantic-1715112985.jpg"
-                            },
-                            {
-                                "url": "/dorama/goodbye-earth-sub-espanol",
-                                "title": "Goodbye Earth",
-                                "description": "Goodbye Earth",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/goodbye-earth-1715056863.jpg"
-                            },
-                            {
-                                "url": "/dorama/adios-tierra-latino-sub-espanol",
-                                "title": "Adiós, Tierra Latino",
-                                "description": "Adiós, Tierra Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/adios-tierra-latino-1715049889.jpg"
-                            },
-                            {
-                                "url": "/dorama/apartamento-404-sub-espanol",
-                                "title": "Apartamento 404",
-                                "description": "Apartamento 404",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/apartamento-404-1715036525.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/doctor-slump-sub-espanol",
-                    "title": "Doctor Slump (0)",
-                    "description": "Dos médicos brillantes y antiguos rivales académicos que se reencuentran por casualidad lidian con problemas existenciales mientras hallan consuelo el uno en el otro. ",
-                    "genre": "Romance, Comedia, Drama, K-Drama",
+                    "url": "/dorama/echoes-of-the-thunder-sub-espanol",
+                    "title": "Echoes of the Thunder (0)",
+                    "description": "Nam y Fire son campeones de carreras en pista y calle de Asia. Sin embargo, cuando el dueño de un equipo de carreras recluta a Nam para que sea el mentor de su hijo Calvin y se convierta en un futuro campeón, Nam no se da cuenta de que su elección destruirá todo lo que tiene. Con Fire y Calvin sufriendo los accidentes fatales causados por Kenji, un despiadado corredor japonés, reaviva el coraje de Nam para enfrentar nuevamente su desafío más oscuro en la carretera. ",
+                    "genre": "Thriller, Drama, Deporte, Thai-Drama, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,12 +291,75 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/echoes-of-the-thunder-sub-espanol-episodio-1",
+                        "name": "Episodio 1.0",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAGKAUwAzgCeOYOOQrYBuNdaz4/fn/track.m3u8",
+                        "quality": "Okru:816p",
+                        "videoUrl": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAGKAUwAzgCeOYOOQrYBuNdaz4/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAFKAQwAzgCeOYOqgEICgYIgAoQoASyAQQIxNgC0gEGCAMQAigX2gECCBj7KlmUknkbQg/fn/track.m3u8",
+                        "quality": "Okru:544p",
+                        "videoUrl": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAFKAQwAzgCeOYOqgEICgYIgAoQoASyAQQIxNgC0gEGCAMQAigX2gECCBj7KlmUknkbQg/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAEKAMwAzgCeOYOqgEICgYI2AYQ6AKyAQQIxNgC0gEGCAEQAigX2gECCBDTLc2Qx4VKzA/fn/track.m3u8",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiAEKAMwAzgCeOYOqgEICgYI2AYQ6AKyAQQIxNgC0gEGCAEQAigX2gECCBDTLc2Qx4VKzA/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiADKAIwAzgCeOYOqgEICgYIgAUQkAKyAQQIxNgC0gEEEAIoF9oBAggQU_a_kl8x0Ew/fn/track.m3u8",
+                        "quality": "Okru:272p",
+                        "videoUrl": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiADKAIwAzgCeOYOqgEICgYIgAUQkAKyAQQIxNgC0gEEEAIoF9oBAggQU_a_kl8x0Ew/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiACKAEwAzgCeOYOqgEICgYIqAMQuAGyAQQIxNgC0gEEEAIoF9oBAggQ8xGZk8Ag844/fn/track.m3u8",
+                        "quality": "Okru:184p",
+                        "videoUrl": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiACKAEwAzgCeOYOqgEICgYIqAMQuAGyAQQIxNgC0gEEEAIoF9oBAggQ8xGZk8Ag844/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiABMAM4AnjmDqoBBwoFCIACEHCyAQQIxNgC0gEEEAIoF9oBAggILn4fMuXMy1s/fn/track.m3u8",
+                        "quality": "Okru:112p",
+                        "videoUrl": "https://vd263.mycdn.me/expires/1715926776003/clientType/0/srcIp/20.172.17.134/type/2/mid/6718675356191/id/6248065468959/ms/185.226.52.13/zs/43/srcAg/GECKO/urls/45.136.20.48/oq/0/pr/10/ct/28/sig/8wc_fYD9WT8/ondemand/CJ-U5O3rtQESFAiflOTt67UBEJ-U5O3rtQEYNyABGhQIn5Tk7eu1ARCflOTt67UBGDcgAiABMAM4AnjmDqoBBwoFCIACEHCyAQQIxNgC0gEEEAIoF9oBAggILn4fMuXMy1s/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://m50.uqload.to/3rfkkkkltjw2q4drdl47vpvubbcpnf4ongssmt2giqhweaqj3puqokqnnq3q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m50.uqload.to/3rfkkkkltjw2q4drdl47vpvubbcpnf4ongssmt2giqhweaqj3puqokqnnq3q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

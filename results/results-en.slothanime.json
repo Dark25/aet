@@ -3,79 +3,28 @@
         "name": "SlothAnime (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/fabulous-beasts-3",
-                                "title": "Fabulous Beasts 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12011.png"
-                            },
-                            {
-                                "url": "/anime/magical-girl-holowitches",
-                                "title": "Magical Girl holoWitches!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12010.png"
-                            },
-                            {
-                                "url": "/anime/luchika-the-hedgehog",
-                                "title": "Luchika the Hedgehog",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12009.png"
-                            },
-                            {
-                                "url": "/anime/anime-tenchou-movie",
-                                "title": "Anime Tenchou Movie",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12008.png"
-                            },
-                            {
-                                "url": "/anime/captain-bal",
-                                "title": "Captain Bal",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12007.png"
-                            },
-                            {
-                                "url": "/anime/anpanman-dororin-and-the-transformation-carnival",
-                                "title": "Anpanman: Dororin and the Transformation Carnival",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12006.png"
-                            },
-                            {
-                                "url": "/anime/anpanman-fluffy-furry-and-the-land-of-clouds",
-                                "title": "Anpanman: Fluffy Furry and the Land of Clouds",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12005.png"
-                            },
-                            {
-                                "url": "/anime/arawi-keiichi-tanpen",
-                                "title": "Arawi Keiichi Tanpen",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12004.png"
-                            },
-                            {
-                                "url": "/anime/hui-ming-fenghuo-sanyue",
-                                "title": "Hui Ming: Fenghuo Sanyue",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12003.png"
-                            },
-                            {
-                                "url": "/anime/homecoming",
-                                "title": "Homecoming",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12002.png"
-                            },
-                            {
-                                "url": "/anime/one-piecekawaisouni-kono-boushi-wo-omae-ni-azukeru",
-                                "title": "ONE PIECE×KAWAISOUNI! Kono Boushi wo Omae ni Azukeru",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12001.png"
-                            },
-                            {
-                                "url": "/anime/9anime-anime-awards-2021",
-                                "title": "9anime Anime Awards 2021",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12000.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/jinwu-wei-feng-qi-jingling",
+                                "title": "Jinwu Wei: Feng Qi Jingling",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12014.png"
+                            },
+                            {
+                                "url": "/anime/nirvana-of-storm-rider",
+                                "title": "Nirvana of Storm Rider",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12013.png"
+                            },
+                            {
+                                "url": "/anime/overlord-the-sacred-kingdom",
+                                "title": "OVERLORD: The Sacred Kingdom",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12012.png"
+                            },
                             {
                                 "url": "/anime/fabulous-beasts-3",
                                 "title": "Fabulous Beasts 3",
@@ -120,21 +69,6 @@
                                 "url": "/anime/shrouding-the-heavens",
                                 "title": "Shrouding the Heavens",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11075.png"
-                            },
-                            {
-                                "url": "/anime/the-peak-of-true-martial-arts-3rd-season",
-                                "title": "The Peak of True Martial Arts 3rd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11604.png"
-                            },
-                            {
-                                "url": "/anime/himitsu-no-aipri",
-                                "title": "Himitsu no AiPri",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11943.png"
-                            },
-                            {
-                                "url": "/anime/rinkai",
-                                "title": "Rinkai!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11947.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,12 +178,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/fabulous-beasts-3",
-                    "title": "Fabulous Beasts 3",
-                    "author": "Fenz",
-                    "description": "The third season of You Shou Yan.",
-                    "genre": "Comedy, Fantasy",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12011.png",
+                    "url": "/anime/jinwu-wei-feng-qi-jingling",
+                    "title": "Jinwu Wei: Feng Qi Jingling",
+                    "author": "CG Year",
+                    "genre": "Action, Fantasy",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12014.png",
                     "initialized": true
                 },
                 "passed": true
@@ -261,9 +194,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=hVxXJtk6%2BRahY6bYZHavIw%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=xmzTnaECPwbPuDJzeyx79g%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=hVxXJtk6%2BRahY6bYZHavIw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=xmzTnaECPwbPuDJzeyx79g%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

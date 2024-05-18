@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/best-bester",
+                                "title": "Best & Bester",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933600.jpg"
+                            },
+                            {
                                 "url": "/anime/mr-birchum",
                                 "title": "Mr Birchum",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933599.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/an-archdemons-dilemma-how-to-love-your-elf-bride",
                                 "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933585.jpg"
-                            },
-                            {
-                                "url": "/anime/the-most-heretical-last-boss-queen-from-villainess-to-savior",
-                                "title": "The Most Heretical Last Boss Queen: From Villainess to Savior",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933584.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mr-birchum",
-                    "title": "Mr Birchum",
-                    "description": "Mr. Birchum attempts to navigate a world he doesn’t comprehend. He’s confused by his gaming streamer son, Eddie, annoyed at his selfie-taking, students and is constantly at war with the school district’s appointed “J.E.D.I.” Mr. Karponzi.",
-                    "genre": "Animation, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933599.jpg",
+                    "url": "/anime/best-bester",
+                    "title": "Best & Bester",
+                    "description": "Best and Bester is an animated buddy comedy following a pair of hilariously individual twins who live in a weird and wonderful alternate reality where your neighbour could be a pair of disgruntled trousers or your best friend a floating cloud of bottom burp. But, unlike their friends and neighbours, Best and Bester have the unique ability to choose a new body every single day and, in doing so, experience life in a completely different way.",
+                    "genre": "Animation, Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933600.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mr-birchum-episode-2-thank-you-for-your-meal-service",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
-                    },
-                    {
-                        "url": "/mr-birchum-episode-1-welcome-back-birchum",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqMlgDJnF8meILI7Ra5nd79nXaIn8Ywn5LPOR-5f8k3QfPKfPQDdJMEVqIFGhamtxe5cgG39HAcCp37Fl7eyNSOO35rPrz0cxJ2D-UbGYBJgHHC1I-GpiiyUYRJFElbzmQGk0csLj7KUf-RphPGQD_p0Xlw_w6276OBjw8iP7yaIlJrvFU1IFQgcXz5zIzQqPq-j38Q1TLQyc0ibTunTIHriER3n45V2T7rU5UUPDQ7iTgvVriMc7qo1UpcJEDpIV8llIF8gojqqJjoofhmEeK0NHkGLiuuXGpQw5ESW7pQfMEbVMJDpntrJmPWpW7ve9lAbRW1SYyfCRsQFzvEmBoL8OrReI9JtHXza7_vdeaZn_IQzcaJz7rUJQc4fhsvkY1UJJJseS3JAxdN1BlYWEWE",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqMlgDJnF8meILI7Ra5nd79nXaIn8Ywn5LPOR-5f8k3QfPKfPQDdJMEVqIFGhamtxe5cgG39HAcCp37Fl7eyNSOO35rPrz0cxJ2D-UbGYBJgHHC1I-GpiiyUYRJFElbzmQGk0csLj7KUf-RphPGQD_p0Xlw_w6276OBjw8iP7yaIlJrvFU1IFQgcXz5zIzQqPq-j38Q1TLQyc0ibTunTIHriER3n45V2T7rU5UUPDQ7iTgvVriMc7qo1UpcJEDpIV8llIF8gojqqJjoofhmEeK0NHkGLiuuXGpQw5ESW7pQfMEbVMJDpntrJmPWpW7ve9lAbRW1SYyfCRsQFzvEmBoL8OrReI9JtHXza7_vdeaZn_IQzcaJz7rUJQc4fhsvkY1UJJJseS3JAxdN1BlYWEWE"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqMlgDJnF8meILI7Ra5nd79nXaIn8Ywn5LPOR-5f8k3QfPKfPQDdJMEVqIFGhamtxe5cgG39HAcCp37Fl7eyNSOO35rPrz0cxJ2D-UbGYBJgHHC1I-GpiiyUYRJFElbzmcIppTMLRaOHkR7uUxQQRFEENNjrDRVeAhfDZssGwSTXW6MpXBv0K9jW2aaQ5C3JMUUy69C9nPhqw5VU9yWntDmUztWBjLr99ZKAj3OE6J7VEK6eAnPk4Nx5dZIs_6rztN-4kMR8Q5YNjykeCk9EB9fTT0x0emTu3khwl7KzCNeDU61Xb_x71Mu-5huPTlvxtaaFSIAF4ImTj2suOOsSAYu99oioSCH4nJSJSYyvZPtLT9_AGwwls8S9RQm7LyB0MsJTOAxcQaI2PHwvSEANvJc",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqMlgDJnF8meILI7Ra5nd79nXaIn8Ywn5LPOR-5f8k3QfPKfPQDdJMEVqIFGhamtxe5cgG39HAcCp37Fl7eyNSOO35rPrz0cxJ2D-UbGYBJgHHC1I-GpiiyUYRJFElbzmcIppTMLRaOHkR7uUxQQRFEENNjrDRVeAhfDZssGwSTXW6MpXBv0K9jW2aaQ5C3JMUUy69C9nPhqw5VU9yWntDmUztWBjLr99ZKAj3OE6J7VEK6eAnPk4Nx5dZIs_6rztN-4kMR8Q5YNjykeCk9EB9fTT0x0emTu3khwl7KzCNeDU61Xb_x71Mu-5huPTlvxtaaFSIAF4ImTj2suOOsSAYu99oioSCH4nJSJSYyvZPtLT9_AGwwls8S9RQm7LyB0MsJTOAxcQaI2PHwvSEANvJc"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqMlgDJnF8meILI7Ra5nd79nXaIn8Ywn5LPOR-5f8k3QfPKfPQDdJMEVqIFGhamtxe5cgG39HAcCp37Fl7eyNSOO35rPrz0cxJ2D-UbGYBJgHHC1I-GpiiyUYRJFElbzmRqFAmBWdAO_ZIHY0E_MXmP3FFsVvJU8Xd7wiIvDomu-dTghd5d4_2YftiD0heP2bHYutsezspWxQr8OV-J5QqFNMTI7euPx8ZQkh8yw1vxnR74NDdLZMsFu2lLCmk8ImIFDckbJc2dQfoeVmv_GBu8fJpH_UZ8IRlQiK3JiJtuDON-GB1ZPQKNSVCIrNWUgNAxsFwFxw5nAk1xkxJoacumjGhOfRcGMjWL4tQaoebW32-8IOQD3wN9RlQdYVz1HBg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqMlgDJnF8meILI7Ra5nd79nXaIn8Ywn5LPOR-5f8k3QfPKfPQDdJMEVqIFGhamtxe5cgG39HAcCp37Fl7eyNSOO35rPrz0cxJ2D-UbGYBJgHHC1I-GpiiyUYRJFElbzmRqFAmBWdAO_ZIHY0E_MXmP3FFsVvJU8Xd7wiIvDomu-dTghd5d4_2YftiD0heP2bHYutsezspWxQr8OV-J5QqFNMTI7euPx8ZQkh8yw1vxnR74NDdLZMsFu2lLCmk8ImIFDckbJc2dQfoeVmv_GBu8fJpH_UZ8IRlQiK3JiJtuDON-GB1ZPQKNSVCIrNWUgNAxsFwFxw5nAk1xkxJoacumjGhOfRcGMjWL4tQaoebW32-8IOQD3wN9RlQdYVz1HBg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -190,58 +190,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/maou-gakuin-no-futekigousha-ii-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-part-2/5",
-                        "name": "5 :الحلقة",
-                        "episode_number": 5.0
+                        "url": "/watch/maou-gakuin-no-futekigousha-ii-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-part-2/7",
+                        "name": "7 :الحلقة",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/watch/maou-gakuin-no-futekigousha-ii-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-part-2/4",
-                        "name": "4 :الحلقة",
-                        "episode_number": 4.0
+                        "url": "/watch/maou-gakuin-no-futekigousha-ii-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-part-2/6",
+                        "name": "6 :الحلقة",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/720p.mp4?expires=1716013053&token=uYddWdcsQmymYtV_BBJv1A",
-                        "quality": "Blkom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/720p.mp4?expires=1716013053&token=uYddWdcsQmymYtV_BBJv1A",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/1080p.mp4?expires=1716013053&token=dNHKvlJOu3Zwq4i5kQkHcA",
-                        "quality": "Blkom - 1080p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/1080p.mp4?expires=1716013053&token=dNHKvlJOu3Zwq4i5kQkHcA",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/480p.mp4?expires=1716013053&token=p9GH3no68nkwpkTId4TaDg",
-                        "quality": "Blkom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/480p.mp4?expires=1716013053&token=p9GH3no68nkwpkTId4TaDg",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/360p.mp4?expires=1716013053&token=hwKOwvMyimt3ruflMuSF-g",
-                        "quality": "Blkom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/663e6abab0573/360p.mp4?expires=1716013053&token=hwKOwvMyimt3ruflMuSF-g",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

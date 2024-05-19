@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/kiya-the-kimoja-heroes",
+                                "title": "Kiya & the Kimoja Heroes (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bHSi1VWdZpEdhW9f1MFmy9c6zmS.jpg"
+                            },
+                            {
                                 "url": "/serie/un-caballero-en-moscu",
                                 "title": "Un caballero en Moscú (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fw4DjD7Hrfey9yitduBaiPadrEm.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/un-buen-divorcio",
                                 "title": "Un buen divorcio (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/glcLNeBXF2a6oIpI8FptvxyFUhX.jpg"
-                            },
-                            {
-                                "url": "/serie/como-atrape-a-mi-asesino",
-                                "title": "Cómo atrapé a mi asesino (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/un-caballero-en-moscu",
-                    "title": "Un caballero en Moscú (2024)",
-                    "description": "El conde Alexander Rostov se encuentra pasando de la riqueza a la pobreza tras la revolución rusa. Un tribunal soviético lo destierra al ático de un opulento hotel, donde, ajeno al mundo exterior, descubre el verdadero valor de la amistad, la familia y el amor..",
-                    "genre": "Drama",
+                    "url": "/serie/kiya-the-kimoja-heroes",
+                    "title": "Kiya & the Kimoja Heroes (2023)",
+                    "description": "Juntos, con sus poderes cargados de cristal, son superhéroes en la ciudad de Kimoja, inspirada en el sur de África, y brillan intensamente para hacer las cosas bien hasta que se restablezca la armonía y la unidad en su comunidad..",
+                    "genre": "Animación, Kids",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fw4DjD7Hrfey9yitduBaiPadrEm.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bHSi1VWdZpEdhW9f1MFmy9c6zmS.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/un-caballero-en-moscu/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/kiya-the-kimoja-heroes/temporada/1/capitulo/21",
+                        "name": "T1 - E21: Episodio 21",
+                        "episode_number": 21.0
                     },
                     {
-                        "url": "/serie/un-caballero-en-moscu/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/kiya-the-kimoja-heroes/temporada/1/capitulo/20",
+                        "name": "T1 - E20: Episodio 20",
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
@@ -704,9 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f2-v1-a1.m3u8?t=rF0b9SRUQkqYTcL-4uEmrdZdqAAKEOC_M9wCIMj-Rd4&s=1716121461&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
+                        "url": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7ZCDdmPMOWLKiy2P_qaVseAWxcLhooDnmlsTubkK7vc&s=1716142695&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f2-v1-a1.m3u8?t=rF0b9SRUQkqYTcL-4uEmrdZdqAAKEOC_M9wCIMj-Rd4&s=1716121461&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
+                        "videoUrl": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7ZCDdmPMOWLKiy2P_qaVseAWxcLhooDnmlsTubkK7vc&s=1716142695&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -715,9 +715,9 @@
                         }
                     },
                     {
-                        "url": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f1-v1-a1.m3u8?t=rF0b9SRUQkqYTcL-4uEmrdZdqAAKEOC_M9wCIMj-Rd4&s=1716121461&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
+                        "url": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7ZCDdmPMOWLKiy2P_qaVseAWxcLhooDnmlsTubkK7vc&s=1716142695&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f1-v1-a1.m3u8?t=rF0b9SRUQkqYTcL-4uEmrdZdqAAKEOC_M9wCIMj-Rd4&s=1716121461&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
+                        "videoUrl": "https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03864/6qmku89xy994_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7ZCDdmPMOWLKiy2P_qaVseAWxcLhooDnmlsTubkK7vc&s=1716142695&e=129600&f=19324852&srv=klhveajrfvm1&i=0.0&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1029,9 +1029,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7BsqbedATX3-Q_jov2V25dDNBC6zY-Qt3yCF6py3Jv0&s=1716121463&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://r7nim14weg.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4D6Xwycua6wTKxP2yOeJtLPpZZkRI0X1SaRY2q7ZW_M&s=1716142700&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7BsqbedATX3-Q_jov2V25dDNBC6zY-Qt3yCF6py3Jv0&s=1716121463&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://r7nim14weg.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4D6Xwycua6wTKxP2yOeJtLPpZZkRI0X1SaRY2q7ZW_M&s=1716142700&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1040,9 +1040,9 @@
                         }
                     },
                     {
-                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=g9L4_8VF4eMfLISdDeenVTZFkbVH7ipTNqdG0pzrXUg&s=1716121463&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=_S_Ak13_AZiZpdIQJGAJSqsbFanXMVOYrF6W8LJPw_A&s=1716142699&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=g9L4_8VF4eMfLISdDeenVTZFkbVH7ipTNqdG0pzrXUg&s=1716121463&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=_S_Ak13_AZiZpdIQJGAJSqsbFanXMVOYrF6W8LJPw_A&s=1716142699&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1051,9 @@
                         }
                     },
                     {
-                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7BsqbedATX3-Q_jov2V25dDNBC6zY-Qt3yCF6py3Jv0&s=1716121463&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://r7nim14weg.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4D6Xwycua6wTKxP2yOeJtLPpZZkRI0X1SaRY2q7ZW_M&s=1716142700&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7BsqbedATX3-Q_jov2V25dDNBC6zY-Qt3yCF6py3Jv0&s=1716121463&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://r7nim14weg.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4D6Xwycua6wTKxP2yOeJtLPpZZkRI0X1SaRY2q7ZW_M&s=1716142700&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1062,9 +1062,9 @@
                         }
                     },
                     {
-                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=g9L4_8VF4eMfLISdDeenVTZFkbVH7ipTNqdG0pzrXUg&s=1716121463&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=_S_Ak13_AZiZpdIQJGAJSqsbFanXMVOYrF6W8LJPw_A&s=1716142699&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=g9L4_8VF4eMfLISdDeenVTZFkbVH7ipTNqdG0pzrXUg&s=1716121463&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=_S_Ak13_AZiZpdIQJGAJSqsbFanXMVOYrF6W8LJPw_A&s=1716142699&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

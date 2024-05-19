@@ -3,23 +3,23 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
                 "passed": false
             }
         }

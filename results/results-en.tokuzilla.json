@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/ohsama-sentai-king-ohger-final-three-episodes.html",
                                 "title": "Ohsama Sentai King-Ohger Final Three Episodes",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-three-episodes-thumb.png"
@@ -20,11 +25,6 @@
                                 "url": "/watch/kamen-rider-outsiders.html",
                                 "title": "Kamen Rider Outsiders",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
                             },
                             {
                                 "url": "/watch/bakuage-sentai-boonboomger.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/ohsama-sentai-king-ohger-final-three-episodes.html",
-                    "title": "Ohsama Sentai King-Ohger Final Three Episodes",
-                    "author": "Year 2024",
-                    "description": "Ohsama Sentai King-Ohger Final Three Episodes TTFC Special Version is a TTFC -exclusive special serving as a directors cut version of the three final episodes of Ohsama Sentai King-Ohger, namely “Ep. 48: Farewell, Dear People”, “Ep. 49: The Kings Are Here”, and “Final Ep.: We Will Rule the World”, with approximately 10 additional minutes of previously deleted scenes.",
-                    "genre": "Movie, Super Sentai",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-three-episodes-thumb.png",
+                    "url": "/watch/kamen-rider-gotchard.html",
+                    "title": "Kamen Rider Gotchard",
+                    "author": "Year 2023",
+                    "description": "Kamen Rider Gotchard is an upcoming Japanese Tokusatsu drama, the 34th entry of Toei Company’s Kamen Rider metaseries, and the fifth series to debut during the Reiwa period.",
+                    "genre": "Kamen Rider, Series",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/ohsama-sentai-king-ohger-final-three-episodes.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/kamen-rider-gotchard.html?ep=37#watch",
+                        "name": "Episode 37",
+                        "episode_number": 37.0
+                    },
+                    {
+                        "url": "/watch/kamen-rider-gotchard.html?ep=36#watch",
+                        "name": "Episode 36",
+                        "episode_number": 36.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

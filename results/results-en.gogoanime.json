@@ -117,6 +117,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/tonari-no-youkai-san",
+                                "title": "Tonari no Youkai-san",
+                                "thumbnail_url": "https://gogocdn.net/cover/tonari-no-youkai-san.png"
+                            },
+                            {
+                                "url": "/category/sasayaku-you-ni-koi-wo-utau",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png"
+                            },
+                            {
+                                "url": "/category/yoru-no-kurage-wa-oyogenai",
+                                "title": "Yoru no Kurage wa Oyogenai",
+                                "thumbnail_url": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png"
+                            },
+                            {
+                                "url": "/category/karasu-wa-aruji-wo-erabanai",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "thumbnail_url": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png"
+                            },
+                            {
                                 "url": "/category/the-fable",
                                 "title": "The Fable",
                                 "thumbnail_url": "https://gogocdn.net/cover/the-fable-1711739355.png"
@@ -195,26 +215,6 @@
                                 "url": "/category/tensei-shitara-slime-datta-ken-3rd-season",
                                 "title": "Tensei shitara Slime Datta Ken 3rd Season",
                                 "thumbnail_url": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png"
-                            },
-                            {
-                                "url": "/category/honoo-no-labyrinth",
-                                "title": "Honoo no Labyrinth",
-                                "thumbnail_url": "https://gogocdn.net/cover/honoo-no-labyrinth.png"
-                            },
-                            {
-                                "url": "/category/astro-note",
-                                "title": "Astro Note",
-                                "thumbnail_url": "https://gogocdn.net/cover/astro-note.png"
-                            },
-                            {
-                                "url": "/category/nijiyon-animation-2",
-                                "title": "Nijiyon Animation 2",
-                                "thumbnail_url": "https://gogocdn.net/cover/nijiyon-animation-2.png"
-                            },
-                            {
-                                "url": "/category/yugioh-go-rush",
-                                "title": "Yu☆Gi☆Oh!: Go Rush!!",
-                                "thumbnail_url": "https://gogocdn.net/cover/yugioh-go-rush.png"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/sasayaku-you-ni-koi-wo-utau-episode-6",
+                        "name": "Episode 6",
+                        "episode_number": 6.0
+                    },
+                    {
                         "url": "/sasayaku-you-ni-koi-wo-utau-episode-5",
                         "name": "Episode 5",
                         "episode_number": 5.0
-                    },
-                    {
-                        "url": "/sasayaku-you-ni-koi-wo-utau-episode-4",
-                        "name": "Episode 4",
-                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -362,19 +362,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.1080.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.1080.m3u8",
                         "quality": "Gogostream - 1080p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.1080.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.1080.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/embedplus?id=MjI1Mjcx&token=cRDi5_UoMsACcdkL4X8oNw&expires=1716063365"
+                            "Referer": "https://embtaku.com/embedplus?id=MjI1NjYx&token=CuQCM06IYnjxsQClrtPv3w&expires=1716087637"
                         }
                     },
                     {
-                        "url": "https://www3.mp4upload.com:183/d/r2xufvp2z3b4quuoycqq2pkicoq3gt5eil7kilsazi4akyxte7akieqfxwjpj2qmvdpeymsh/video.mp4",
+                        "url": "https://www13.mp4upload.com:183/d/q2xzzeefz3b4quuo3kqq4matiaoqzfsnb4olilstnx4ntsehdpdft2rmyi6nq7qxjsffvgcg/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2xufvp2z3b4quuoycqq2pkicoq3gt5eil7kilsazi4akyxte7akieqfxwjpj2qmvdpeymsh/video.mp4",
+                        "videoUrl": "https://www13.mp4upload.com:183/d/q2xzzeefz3b4quuo3kqq4matiaoqzfsnb4olilstnx4ntsehdpdft2rmyi6nq7qxjsffvgcg/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -382,115 +382,106 @@
                         }
                     },
                     {
-                        "url": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03816/sn5ewnjem75u_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9n5OphAaqXY7MQfX6R8lrE0lNUcewn26N1Yu6dX5Ko8&s=1716056167&e=129600&f=19084027&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "url": "https://bqpofk7o.sw-cdnstreamwish.com/hls2/01/03872/l70mtloe1tp2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9urH0ks3zr0hv4xPT3m3Qg9JoEA1AdVooKPrRXY77IA&s=1716080438&e=129600&f=19361649&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03816/sn5ewnjem75u_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9n5OphAaqXY7MQfX6R8lrE0lNUcewn26N1Yu6dX5Ko8&s=1716056167&e=129600&f=19084027&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "videoUrl": "https://bqpofk7o.sw-cdnstreamwish.com/hls2/01/03872/l70mtloe1tp2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9urH0ks3zr0hv4xPT3m3Qg9JoEA1AdVooKPrRXY77IA&s=1716080438&e=129600&f=19361649&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://awish.pro",
-                            "Referer": "https://awish.pro/e/sn5ewnjem75u"
+                            "Referer": "https://awish.pro/e/l70mtloe1tp2"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.1080.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.1080.m3u8",
                         "quality": "Vidstreaming - 1080p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.1080.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.1080.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/streaming.php?id=MjI1Mjcx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+5"
+                            "Referer": "https://embtaku.com/streaming.php?id=MjI1NjYx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+6"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.720.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.720.m3u8",
                         "quality": "Gogostream - 720p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.720.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.720.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/embedplus?id=MjI1Mjcx&token=cRDi5_UoMsACcdkL4X8oNw&expires=1716063365"
+                            "Referer": "https://embtaku.com/embedplus?id=MjI1NjYx&token=CuQCM06IYnjxsQClrtPv3w&expires=1716087637"
                         }
                     },
                     {
-                        "url": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03816/sn5ewnjem75u_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=9n5OphAaqXY7MQfX6R8lrE0lNUcewn26N1Yu6dX5Ko8&s=1716056167&e=129600&f=19084027&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "url": "https://bqpofk7o.sw-cdnstreamwish.com/hls2/01/03872/l70mtloe1tp2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=9urH0ks3zr0hv4xPT3m3Qg9JoEA1AdVooKPrRXY77IA&s=1716080438&e=129600&f=19361649&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03816/sn5ewnjem75u_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=9n5OphAaqXY7MQfX6R8lrE0lNUcewn26N1Yu6dX5Ko8&s=1716056167&e=129600&f=19084027&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "videoUrl": "https://bqpofk7o.sw-cdnstreamwish.com/hls2/01/03872/l70mtloe1tp2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=9urH0ks3zr0hv4xPT3m3Qg9JoEA1AdVooKPrRXY77IA&s=1716080438&e=129600&f=19361649&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://awish.pro",
-                            "Referer": "https://awish.pro/e/sn5ewnjem75u"
+                            "Referer": "https://awish.pro/e/l70mtloe1tp2"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.720.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.720.m3u8",
                         "quality": "Vidstreaming - 720p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.720.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.720.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/streaming.php?id=MjI1Mjcx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+5"
+                            "Referer": "https://embtaku.com/streaming.php?id=MjI1NjYx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+6"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.480.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.480.m3u8",
                         "quality": "Gogostream - 480p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.480.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.480.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/embedplus?id=MjI1Mjcx&token=cRDi5_UoMsACcdkL4X8oNw&expires=1716063365"
+                            "Referer": "https://embtaku.com/embedplus?id=MjI1NjYx&token=CuQCM06IYnjxsQClrtPv3w&expires=1716087637"
                         }
                     },
                     {
-                        "url": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03816/sn5ewnjem75u_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=9n5OphAaqXY7MQfX6R8lrE0lNUcewn26N1Yu6dX5Ko8&s=1716056167&e=129600&f=19084027&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "url": "https://bqpofk7o.sw-cdnstreamwish.com/hls2/01/03872/l70mtloe1tp2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=9urH0ks3zr0hv4xPT3m3Qg9JoEA1AdVooKPrRXY77IA&s=1716080438&e=129600&f=19361649&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03816/sn5ewnjem75u_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=9n5OphAaqXY7MQfX6R8lrE0lNUcewn26N1Yu6dX5Ko8&s=1716056167&e=129600&f=19084027&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "videoUrl": "https://bqpofk7o.sw-cdnstreamwish.com/hls2/01/03872/l70mtloe1tp2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=9urH0ks3zr0hv4xPT3m3Qg9JoEA1AdVooKPrRXY77IA&s=1716080438&e=129600&f=19361649&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://awish.pro",
-                            "Referer": "https://awish.pro/e/sn5ewnjem75u"
+                            "Referer": "https://awish.pro/e/l70mtloe1tp2"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.480.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.480.m3u8",
                         "quality": "Vidstreaming - 480p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.480.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.480.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/streaming.php?id=MjI1Mjcx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+5"
+                            "Referer": "https://embtaku.com/streaming.php?id=MjI1NjYx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+6"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.360.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.360.m3u8",
                         "quality": "Gogostream - 360p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.360.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.360.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/embedplus?id=MjI1Mjcx&token=cRDi5_UoMsACcdkL4X8oNw&expires=1716063365"
+                            "Referer": "https://embtaku.com/embedplus?id=MjI1NjYx&token=CuQCM06IYnjxsQClrtPv3w&expires=1716087637"
                         }
                     },
                     {
-                        "url": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.360.m3u8",
+                        "url": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.360.m3u8",
                         "quality": "Vidstreaming - 360p",
-                        "videoUrl": "https://www116.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.5.1715450321.360.m3u8",
+                        "videoUrl": "https://www045.vipanicdn.net/streamhls/7a2215a44548be5c6a1a32acc5e913ed/ep.6.1716059913.360.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.com",
-                            "Referer": "https://embtaku.com/streaming.php?id=MjI1Mjcx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+5"
-                        }
-                    },
-                    {
-                        "url": "https://dood.wf/e/qbo6mywppac0",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://km270l.video-delivery.net/u5kj6vhfp7d3sdgge4ib6jyui6hwaw5whdswuhkpdaq6ytwopmb5x6vc7osq/kuqq9hwom4~WNOuExhIKL?token=dnps91er1vrj3v97vunvcoy0&expiry=1716056167828",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.wf/"
+                            "Referer": "https://embtaku.com/streaming.php?id=MjI1NjYx&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+6"
                         }
                     }
                 ],

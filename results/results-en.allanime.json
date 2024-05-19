@@ -67,6 +67,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-PBV7zukIHW7V.png"
                             },
                             {
+                                "url": "w39mxyQm5xxSaMQc9<&sep><&sep>the-new-gate",
+                                "title": "The New Gate",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
+                            },
+                            {
                                 "url": "kibfyvtiFpKCGGoSD<&sep><&sep>b-c-",
                                 "title": "B.C.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
@@ -75,11 +80,6 @@
                                 "url": "suRedmDwrZtMw73vP<&sep><&sep>dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
                                 "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1158/141710.jpg"
-                            },
-                            {
-                                "url": "w39mxyQm5xxSaMQc9<&sep><&sep>the-new-gate",
-                                "title": "The New Gate",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
                             },
                             {
                                 "url": "cskJzx6rseAgcGcAe<&sep><&sep>boku-no-hero-academia-7th-season",
@@ -146,6 +146,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "LMwfiWbQSst3SdpNk<&sep><&sep>yong-sheng-shi-nian-zhi-yue-season-3",
+                                "title": "Yong Sheng: Shi Nian Zhi Yue Season 3",
+                                "thumbnail_url": "https://gogocdn.net/cover/yong-sheng-shi-nian-zhi-yue-3rd-season.png"
+                            },
+                            {
+                                "url": "ReooPAxPMsHM4KPMY<&sep><&sep>1p",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965l.jpg"
+                            },
+                            {
+                                "url": "zZLPHFxwEWKmY9qCJ<&sep><&sep>wonderful-precure-",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
                             {
                                 "url": "2gBL63MLdirCpfeuH<&sep><&sep>tonari-no-youkai-san",
                                 "title": "Tonari no Youkai-san",
@@ -260,21 +275,6 @@
                                 "url": "YQBCjcWZwwXjCP8Gw<&sep><&sep>urban-master-i-am-the-peak-of-medicine-and-martial-arts",
                                 "title": "Urban Master: I Am The Peak of Medicine And Martial Arts",
                                 "thumbnail_url": "https://gogocdn.net/cover/urban-master-i-am-the-peak-of-medicine-and-martial-arts.png"
-                            },
-                            {
-                                "url": "cGw4bD4Cqj63jwq7Y<&sep><&sep>zhen-wu-dianfeng-season-2",
-                                "title": "Zhen Wu Dianfeng Season 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1877/135536.webp"
-                            },
-                            {
-                                "url": "pRENMCXmeEYXzHg4Q<&sep><&sep>binghuo-mochu",
-                                "title": "Binghuo Mochu",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129245-WMhJ1yHaWktk.jpg"
-                            },
-                            {
-                                "url": "oCYNhMf2R6t9MxLm5<&sep><&sep>yao-shen-ji-8th-season-2024-",
-                                "title": "Yao Shen Ji 8th Season (2024)",
-                                "thumbnail_url": "https://gogocdn.net/cover/yao-shen-ji-8th-season-2024-1714457740.png"
                             }
                         ],
                         "hasNextPage": true
@@ -437,14 +437,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1105\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
+                        "name": "Episode 1105 (sub)",
+                        "episode_number": 1105.0
+                    },
+                    {
                         "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1104\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
                         "name": "Episode 1104 (sub)",
                         "episode_number": 1104.0
-                    },
-                    {
-                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1103\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
-                        "name": "Episode 1103 (sub)",
-                        "episode_number": 1103.0
                     }
                 ],
                 "passed": true
@@ -452,9 +452,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737322867686f65626875727463676b286f68606929706f62636975296e6a7529703e68305e614f6c4f4a747c64597c556b4f7c7e71712937313730363f3236323429343433343f32293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736322837313733323e3730353e286b35733e242a2476677475634e6a75243c727473632a2462677263243c3731373036303f3036363636367b",
+                        "url": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737352867686f65626875727463676b286f68606929706f62636975296e6a7529414d357e7e3e6d5950754f71686e64515e717167317129373137303737353633312934343330303e293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736332837313730363e33303235286b35733e242a2476677475634e6a75243c727473632a2462677263243c3731373036303f3036363636367b",
                         "quality": "internal Luf-mp4 - Alt",
-                        "videoUrl": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737322867686f65626875727463676b286f68606929706f62636975296e6a7529703e68305e614f6c4f4a747c64597c556b4f7c7e71712937313730363f3236323429343433343f32293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736322837313733323e3730353e286b35733e242a2476677475634e6a75243c727473632a2462677263243c3731373036303f3036363636367b",
+                        "videoUrl": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737352867686f65626875727463676b286f68606929706f62636975296e6a7529414d357e7e3e6d5950754f71686e64515e717167317129373137303737353633312934343330303e293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736332837313730363e33303235286b35733e242a2476677475634e6a75243c727473632a2462677263243c3731373036303f3036363636367b",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

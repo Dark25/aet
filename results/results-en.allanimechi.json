@@ -67,6 +67,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-PBV7zukIHW7V.png"
                             },
                             {
+                                "url": "w39mxyQm5xxSaMQc9",
+                                "title": "The New Gate",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
+                            },
+                            {
                                 "url": "kibfyvtiFpKCGGoSD",
                                 "title": "B.C.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
@@ -75,11 +80,6 @@
                                 "url": "suRedmDwrZtMw73vP",
                                 "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1158/141710.jpg"
-                            },
-                            {
-                                "url": "w39mxyQm5xxSaMQc9",
-                                "title": "The New Gate",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
                             },
                             {
                                 "url": "cskJzx6rseAgcGcAe",
@@ -166,6 +166,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "LMwfiWbQSst3SdpNk",
+                                "title": "Yong Sheng: Shi Nian Zhi Yue Season 3",
+                                "thumbnail_url": "https://gogocdn.net/cover/yong-sheng-shi-nian-zhi-yue-3rd-season.png"
+                            },
+                            {
+                                "url": "ReooPAxPMsHM4KPMY",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965l.jpg"
+                            },
+                            {
+                                "url": "zZLPHFxwEWKmY9qCJ",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
                             {
                                 "url": "2gBL63MLdirCpfeuH",
                                 "title": "Tonari no Youkai-san",
@@ -300,21 +315,6 @@
                                 "url": "DoCP8DtxaAPgJvPTr",
                                 "title": "Hui Ming: Fenghuo San Yue",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1756/142338.jpg"
-                            },
-                            {
-                                "url": "aAr4nGaZ3tMh9LFHw",
-                                "title": "The BestMaestro Season 4",
-                                "thumbnail_url": "https://gogocdn.net/cover/the-bestmaestro-season-4.png"
-                            },
-                            {
-                                "url": "hdyMEziepXXieqFig",
-                                "title": "Rebirth: City Deity Season 2",
-                                "thumbnail_url": "https://gogocdn.net/cover/rebirth-city-deity-2nd-season.png"
-                            },
-                            {
-                                "url": "QJYZNwWCYS7g5BLmj",
-                                "title": "Shadowverse Flame",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -497,21 +497,150 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1105\"}",
+                        "name": "Episode 1105 (sub)",
+                        "episode_number": 1105.0
+                    },
+                    {
                         "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1104\"}",
                         "name": "Episode 1104 (sub)",
                         "episode_number": 1104.0
-                    },
-                    {
-                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1103\"}",
-                        "name": "Episode 1103 (sub)",
-                        "episode_number": 1103.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.1080.m3u8",
+                        "quality": "Luf-mp4 - hls P - 1080p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www113.anicdnstream.info/videos/hls/GK3xx8k_VsIwnhbWXwwa7w/1716113057/225668/0b594d900f47daabc194844092384914/ep.1105.1716085643.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.720.m3u8",
+                        "quality": "Luf-mp4 - hls P - 720p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.480.m3u8",
+                        "quality": "Luf-mp4 - hls P - 480p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.360.m3u8",
+                        "quality": "Luf-mp4 - hls P - 360p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI1NjY4&title=One+Piece+Episode+1105&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI1NjY4&title=One+Piece+Episode+1105&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI1NjY4&title=One+Piece+Episode+1105&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www113.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1105.1716085643.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI1NjY4&title=One+Piece+Episode+1105&typesub=SUB"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

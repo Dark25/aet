@@ -62,6 +62,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/One-Piece-Free-Stream-Online-Anime-Free-Motarjam.jpg"
+                            },
+                            {
                                 "url": "/anime/the-new-gate/",
                                 "title": "The New Gate",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-The-New-Gate-661af7cbb09f0.jpg"
@@ -175,11 +180,6 @@
                                 "url": "/anime/bartender-kami-no-glass/",
                                 "title": "Bartender: Kami no Glass",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/Bartender-Kami-no-Glass-EP.jpg"
-                            },
-                            {
-                                "url": "/anime/unnamed-memory/",
-                                "title": "Unnamed Memory",
-                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Unnamed-Memory-66156157a1d6b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -288,14 +288,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/one-piece-1105-الحلقة/",
+                        "name": "الحلقة 1105",
+                        "episode_number": 1105.0
+                    },
+                    {
                         "url": "/episode/one-piece-الحلقة-1104/",
                         "name": "الحلقة 1104",
                         "episode_number": 1104.0
-                    },
-                    {
-                        "url": "/episode/one-piece-الحلقة-1103/",
-                        "name": "الحلقة 1103",
-                        "episode_number": 1103.0
                     }
                 ],
                 "passed": true
@@ -303,14 +303,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www.4shared.com/web/embed/file/3CDjjD0cku",
-                        "quality": "4shared FHD",
-                        "videoUrl": "https://dc770.4shared.com/img/3CDjjD0cku/400d0b47/dlink__2Fdownload_2F3CDjjD0cku_3Fsbsr_3D2d051575609d3f6523cd7de4d6163206b15_26bip_3DMjAuMzYuMTkyLjQw_26lgfp_3D66_26bip_3DMjAuMzYuMTkyLjQw_26bip_3DMjAuMzYuMTkyLjQw/preview.mp4"
+                        "url": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=3&sig=O2FiHL3cRwQ&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=3&sig=O2FiHL3cRwQ&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
                     },
                     {
-                        "url": "https://www.4shared.com/web/embed/file/0ZKertZKge",
-                        "quality": "4shared HD",
-                        "videoUrl": "https://dc707.4shared.com/img/0ZKertZKge/be099334/dlink__2Fdownload_2F0ZKertZKge_3Fsbsr_3Dea6d68fe139bd372f1106b11b23a6b05b15_26bip_3DMjAuMzYuMTkyLjQw_26lgfp_3D66_26bip_3DMjAuMzYuMTkyLjQw_26bip_3DMjAuMzYuMTkyLjQw/preview.mp4"
+                        "url": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=4&sig=o0BEy0C4UQc&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=4&sig=o0BEy0C4UQc&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
+                    },
+                    {
+                        "url": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=0&sig=hrDwCYags4c&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=0&sig=hrDwCYags4c&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
+                    },
+                    {
+                        "url": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=1&sig=QnK417s5344&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=1&sig=QnK417s5344&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
+                    },
+                    {
+                        "url": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=2&sig=TTT4cc5JCFU&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd203.mycdn.me/?expires=1716185782223&srcIp=20.172.43.109&pr=10&srcAg=GECKO&ms=45.136.22.11&type=2&sig=TTT4cc5JCFU&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
                     }
                 ],
                 "passed": true

@@ -11,6 +11,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/blue-archive-the-animation",
+                                "title": "Blue Archive the Animation 7",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4015.jpg"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-hashira-geikohen",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen 2",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4034.jpg"
+                            },
+                            {
                                 "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
                                 "title": "Tensei Kizoku, Kantei Skill de Nariagaru 7",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/4014.jpg"
@@ -99,16 +109,6 @@
                                 "url": "/anime/one-room-hiatari-futsuu-tenshitsuki",
                                 "title": "One Room, Hiatari Futsuu, Tenshi-tsuki. 8",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/3988.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-hero-academia-7th-season",
-                                "title": "Boku no Hero Academia 7th Season 3",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4033.jpg"
-                            },
-                            {
-                                "url": "/anime/shadowverse-flame",
-                                "title": "Shadowverse Flame 81",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3624.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -228,34 +228,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
-                    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-                    "description": "En una tierra en la que los nobles suelen blandir sus espadas, ¡Ars Louvent prefiere usar su habilidad Tasación! Únete a este noble y no demasiado fuerte joven en su viaje para convertir sus pequeños dominios en una fuerza a tener en cuenta, todo ello mientras recorre un mundo repleto de habilidades mágicas. Pero te avisamos: la habilidad Tasación de Ars es mucho más poderosa que cualquier espada y su viaje dará más giros que un guiverno en un laberinto.",
-                    "genre": "Aventuras, Fantasía",
+                    "url": "/anime/blue-archive-the-animation",
+                    "title": "Blue Archive the Animation",
+                    "description": "Las academias de la ciudad están divididas en sus propios distritos y se consideran en su mayoría independientes. El Consejo General de Estudiantes actúa como junta de gobierno para gestionar las academias en su conjunto. Sin embargo, la capacidad de gobierno del grupo se ha detenido desde la misteriosa desaparición del presidente del Consejo General de Estudiantes. Un sinfín de problemas han comenzado a surgir en todo Kivotos en ausencia del liderazgo del presidente. Para evitar el desastre, el Consejo General de Estudiantes solicita la ayuda del Club de Investigación Federal, también conocido como Schale. De hecho, Schale es el club más nuevo de la ciudad y el último en ser aprobado antes de la desaparición del presidente. Para llevar a cabo su tarea, Schale cuenta con la orientación de un Sensei que les ayude a resolver los incidentes en torno a Kivotos.",
+                    "genre": "Acción, Escolares, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://tioanime.com/uploads/portadas/4014.jpg",
+                    "thumbnail_url": "https://tioanime.com/uploads/portadas/4015.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/tensei-kizoku-kantei-skill-de-nariagaru-7",
-                        "name": "Episodio 7",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/ver/tensei-kizoku-kantei-skill-de-nariagaru-6",
-                        "name": "Episodio 6",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
                 "passed": false
             }
         }
@@ -388,16 +377,52 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": {
+                    "url": "/hentai/midareuchi",
+                    "title": "Midareuchi",
+                    "description": "",
+                    "genre": "Escolar, Tetonas, Violacion, Virgenes, Felacion",
+                    "thumbnail_url": "https://tiohentai.com/uploads/portadas/817.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/midareuchi-2",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/midareuchi-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11360/vgve1bwyq2rx_,n,.urlset/index-v1-a1.m3u8?t=rhX4CGtXBIylMg6GJh6W4s4fo2nBNocD4fXKU4JbYe0&s=1716166693&e=14400&f=56800438&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11360/vgve1bwyq2rx_,n,.urlset/index-v1-a1.m3u8?t=rhX4CGtXBIylMg6GJh6W4s4fo2nBNocD4fXKU4JbYe0&s=1716166693&e=14400&f=56800438&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240519C0CQAiExHgQ/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240519C0CQAiExHgQ/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

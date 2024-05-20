@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8323-la-profezia-del-male",
+                                "title": "La profezia del male",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/64c005cf-6253-4058-be30-05f30cf72922.webp"
+                            },
+                            {
                                 "url": "8505-the-8-show",
                                 "title": "The 8 Show",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7967f7f7-dcab-4dbf-af52-81679efd2030.webp"
@@ -269,7 +274,7 @@
                             {
                                 "url": "8169-crooks",
                                 "title": "Crooks",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/552384b8-9a55-47b4-9767-08c57d8e7d35.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/164f8946-40b8-474b-9b96-ec1d3306852f.webp"
                             },
                             {
                                 "url": "8165-sugar",
@@ -300,11 +305,6 @@
                                 "url": "8159-together-alla-conquista-del-triplete",
                                 "title": "Together: alla conquista del Triplete",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/af1b310d-0dc2-47d3-839f-bdc2981c25d8.webp"
-                            },
-                            {
-                                "url": "8157-vanderpump-villa",
-                                "title": "Vanderpump Villa",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7a60f4af-10b0-46d4-b049-9950ed5caa22.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8521-super-troopers",
+                                "title": "Super Troopers",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/5aee9a99-639c-4fe5-9c37-25b3cc1b012b.webp"
+                            },
+                            {
+                                "url": "8520-pompei-la-serie",
+                                "title": "Pompei - La serie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/aab5a449-a3f5-4480-a6ed-f97530450c86.webp"
+                            },
                             {
                                 "url": "8519-conan-il-distruttore",
                                 "title": "Conan il distruttore",
@@ -605,16 +615,6 @@
                                 "url": "8453-confessions-confessioni-di-un-assassino",
                                 "title": "Confessions - Confessioni di un assassino",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/624b3e90-d40c-4c7a-b7b9-1fa59a62bd60.webp"
-                            },
-                            {
-                                "url": "8452-jungle-beat-il-film",
-                                "title": "Jungle Beat - Il film",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/1f09b92d-c4c2-4e18-966a-d84a8f92f1e2.webp"
-                            },
-                            {
-                                "url": "8451-poirot",
-                                "title": "Poirot",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e5ff48df-2f60-4132-b324-94c567ec1d76.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -729,7 +729,7 @@
                             {
                                 "url": "7646-we-are-the-world-la-notte-che-ha-cambiato-il-pop",
                                 "title": "We Are the World - La notte che ha cambiato il pop",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/fdb97cef-31fc-4b55-8c2d-47d1955b1d77.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b4217e81-9562-4992-844e-05f41bcd0b81.webp"
                             },
                             {
                                 "url": "378-thor-the-dark-world",
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "8505-the-8-show",
-                    "description": "Otto individui intrappolati in un misterioso edificio di otto piani partecipano a un programma allettante ma pericoloso in cui guadagnano denaro con il passare del tempo.",
-                    "genre": "Dramma, Mistero, Korean drama",
+                    "url": "8323-la-profezia-del-male",
+                    "description": "Mai usare le carte di qualcun altro: questa la regola sacra nella lettura dei Tarocchi. Quando un gruppo di amici la infrange scatena inconsapevolmente una terribile minaccia imprigionata nelle carte maledette. Uno dopo l'altro, i protagonisti dovranno affrontare il loro destino in una sfida contro la morte per sfuggire al futuro predetto nella profezia dei Tarocchi.",
+                    "genre": "Thriller, Horror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,20 +946,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8505?episode_id=62195&next_episode=1",
-                        "name": "Stagione 1 episodio 8 - Episodio 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "8505?episode_id=62194&next_episode=1",
-                        "name": "Stagione 1 episodio 7 - Episodio 7",
-                        "episode_number": 7.0
+                        "url": "8323",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

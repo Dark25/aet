@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/animes/gantz-2nd-stage/",
-                                "title": "Gantz 2nd Stage",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/szuWA7B3KP1Cu0T7uW3meDn8ftT.jpg"
-                            },
-                            {
                                 "url": "/animes/sousou-no-frieren/",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/bRwyDiOajOFwg2o7kLPnr1Lgbub.jpg"
@@ -55,6 +50,11 @@
                                 "url": "/animes/mushoku-tensei-isekai-ittara-honki-dasu/",
                                 "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/uOwjWZOJwddC5ZwIx0Wl7pNsLB9.jpg"
+                            },
+                            {
+                                "url": "/animes/watashi-no-shiawase-na-kekkon/",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ah6TeFIa7bIUI3rwxUw8cRjW7ZK.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/blue-archive-the-animation-episodio-7/",
+                                "title": "Blue Archive the Animation – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/c9aMhaLi1Z42DucBiLW5uMuWxJA.jpg"
+                            },
                             {
                                 "url": "/episodio/yozakura-san-chi-no-daisakusen-episodio-7/",
                                 "title": "Yozakura-san Chi no Daisakusen – Episódio 7",
@@ -210,11 +215,6 @@
                                 "url": "/episodio/highspeed-etoile-episodio-7/",
                                 "title": "Highspeed Etoile – Episódio 7",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/yxwmaI0BuIT1ktCVziR3sp6xgqP.jpg"
-                            },
-                            {
-                                "url": "/episodio/maou-gakuin-no-futekigousha-2-part-2-episodio-6/",
-                                "title": "Maou Gakuin no Futekigousha 2 Part 2 – Episódio 6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/7BgZPCn698GTC8HAT1KGWibheYw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,11 +364,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/gantz-2nd-stage/",
-                    "title": "Gantz 2nd Stage",
-                    "description": "Segunda temporada de Gantz.\n\nTítulo original: ガンツ\nTemporadas: 2\nEpisódios: 24",
-                    "genre": "Ação, Drama, Ficção Científica, Gore, High Stakes Game, Psicológico, Seinen, Survival, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/szuWA7B3KP1Cu0T7uW3meDn8ftT.jpg",
+                    "url": "/animes/sousou-no-frieren/",
+                    "title": "Sousou no Frieren",
+                    "description": "O rei demônio foi derrotado, e o grupo vitorioso de heróis retorna para casa antes de se desfazer. Os quatro – o mago Frieren, o herói Himmel, o sacerdote Heiter e o guerreiro Eisen – relembram sua jornada de uma década, enquanto o momento de se despedirem um do outro se aproxima. Mas a passagem do tempo é diferente para os elfos, e assim Frieren testemunha seus companheiros partirem lentamente, um a um. Antes de sua morte, Heiter consegue impor um jovem aprendiz humano chamado Fern a Frieren. Impulsionados pela paixão do elfo por colecionar uma infinidade de feitiços mágicos, a dupla embarca em uma jornada aparentemente sem rumo, revisitando os lugares que os heróis do passado haviam visitado. Ao longo de suas viagens, Frieren lentamente enfrenta seus arrependimentos por oportunidades perdidas de formar laços mais profundos com seus camaradas agora falecidos.\n\nTítulo original: 葬送のフリーレン\nTemporadas: 1\nEpisódios: 1",
+                    "genre": "Aventura, Drama, Fantasia, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/bRwyDiOajOFwg2o7kLPnr1Lgbub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -376,21 +376,46 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodio/gantz-2nd-stage-episodio-13/",
-                        "name": "Episódio 13",
-                        "episode_number": 13.0
+                        "url": "/episodio/sousou-no-frieren-episodio-28/",
+                        "name": "Episódio 28 (Final)",
+                        "episode_number": 0.0
                     },
                     {
-                        "url": "/episodio/gantz-2nd-stage-episodio-12/",
-                        "name": "Episódio 12",
-                        "episode_number": 12.0
+                        "url": "/episodio/sousou-no-frieren-episodio-27/",
+                        "name": "Episódio 27",
+                        "episode_number": 27.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/9/5d9b5b05ef0057af89fab8dd234ab4d4db4a9244f7/773000/773033/773033_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/9/5d9b5b05ef0057af89fab8dd234ab4d4db4a9244f7/773000/773033/773033_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/9/5d9b5b05ef0057af89fab8dd234ab4d4db4a9244f7/773000/773033/773033_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/9/48b1661e8668c5b21e8583d9f7d0d78aba5fdba3db/773000/773033/773033.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/9/48b1661e8668c5b21e8583d9f7d0d78aba5fdba3db/773000/773033/773033.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/9/48b1661e8668c5b21e8583d9f7d0d78aba5fdba3db/773000/773033/773033.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/9/61e67bca1aeba9f4651c2cafc2b5e8b77af7fc9cc5/773000/773033/773033_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/9/61e67bca1aeba9f4651c2cafc2b5e8b77af7fc9cc5/773000/773033/773033_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/9/61e67bca1aeba9f4651c2cafc2b5e8b77af7fc9cc5/773000/773033/773033_360p.mp4/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

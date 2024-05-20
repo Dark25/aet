@@ -3,8 +3,114 @@
         "name": "TioAnime (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-hashira-geikohen",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4034.jpg"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-7th-season",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4033.jpg"
+                            },
+                            {
+                                "url": "/anime/sasayaku-you-ni-koi-wo-utau",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4031.jpg"
+                            },
+                            {
+                                "url": "/anime/the-new-gate",
+                                "title": "The New Gate",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4029.jpg"
+                            },
+                            {
+                                "url": "/anime/kaijuu-8gou",
+                                "title": "Kaijuu 8-gou",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4027.jpg"
+                            },
+                            {
+                                "url": "/anime/kuroshitsuji-kishuku-gakkouhen",
+                                "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4028.jpg"
+                            },
+                            {
+                                "url": "/anime/kenka-dokugaku",
+                                "title": "Kenka Dokugaku",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4025.jpg"
+                            },
+                            {
+                                "url": "/anime/date-a-live-v",
+                                "title": "Date A Live V",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4023.jpg"
+                            },
+                            {
+                                "url": "/anime/seiyuu-radio-no-uraomote",
+                                "title": "Seiyuu Radio no Uraomote",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4021.jpg"
+                            },
+                            {
+                                "url": "/anime/kaii-to-otome-to-kamikakushi",
+                                "title": "Kaii to Otome to Kamikakushi",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4022.jpg"
+                            },
+                            {
+                                "url": "/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4024.jpg"
+                            },
+                            {
+                                "url": "/anime/unnamed-memory",
+                                "title": "Unnamed Memory",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4018.jpg"
+                            },
+                            {
+                                "url": "/anime/boukyaku-battery-tv",
+                                "title": "Boukyaku Battery (TV)",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4019.jpg"
+                            },
+                            {
+                                "url": "/anime/rinkai",
+                                "title": "Rinkai!",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4020.jpg"
+                            },
+                            {
+                                "url": "/anime/tadaima-okaeri",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4017.jpg"
+                            },
+                            {
+                                "url": "/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4016.jpg"
+                            },
+                            {
+                                "url": "/anime/shinigami-bocchan-to-kuro-maid-3rd-season",
+                                "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4011.jpg"
+                            },
+                            {
+                                "url": "/anime/blue-archive-the-animation",
+                                "title": "Blue Archive the Animation",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4015.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4014.jpg"
+                            },
+                            {
+                                "url": "/anime/hibike-euphonium-3",
+                                "title": "Hibike! Euphonium 3",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4008.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -228,24 +334,78 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/blue-archive-the-animation",
-                    "title": "Blue Archive the Animation",
-                    "description": "Las academias de la ciudad están divididas en sus propios distritos y se consideran en su mayoría independientes. El Consejo General de Estudiantes actúa como junta de gobierno para gestionar las academias en su conjunto. Sin embargo, la capacidad de gobierno del grupo se ha detenido desde la misteriosa desaparición del presidente del Consejo General de Estudiantes. Un sinfín de problemas han comenzado a surgir en todo Kivotos en ausencia del liderazgo del presidente. Para evitar el desastre, el Consejo General de Estudiantes solicita la ayuda del Club de Investigación Federal, también conocido como Schale. De hecho, Schale es el club más nuevo de la ciudad y el último en ser aprobado antes de la desaparición del presidente. Para llevar a cabo su tarea, Schale cuenta con la orientación de un Sensei que les ayude a resolver los incidentes en torno a Kivotos.",
-                    "genre": "Acción, Escolares, Fantasía",
+                    "url": "/anime/kimetsu-no-yaiba-hashira-geikohen",
+                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                    "description": "Nueva tempo",
+                    "genre": "Acción, Fantasía, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://tioanime.com/uploads/portadas/4015.jpg",
+                    "thumbnail_url": "https://tioanime.com/uploads/portadas/4034.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/kimetsu-no-yaiba-hashira-geikohen-2",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/kimetsu-no-yaiba-hashira-geikohen-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-nbs5rsezfjtaqnht.voe-network.net/engine/hls2-c/01/11382/00pxbjyc2ilz_,n,.urlset/index-v1-a1.m3u8?t=KTfhnLigBqBQBHrk7NAbBgfx4vXAu--Wn-GGkMyDJoo&s=1716185929&e=14400&f=56914882&node=delivery-node-pzfuyc1xcoehbifb.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-nbs5rsezfjtaqnht.voe-network.net/engine/hls2-c/01/11382/00pxbjyc2ilz_,n,.urlset/index-v1-a1.m3u8?t=KTfhnLigBqBQBHrk7NAbBgfx4vXAu--Wn-GGkMyDJoo&s=1716185929&e=14400&f=56914882&node=delivery-node-pzfuyc1xcoehbifb.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=kVF6CwETB3U&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=kVF6CwETB3U&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=PzAnIymtd6s&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=PzAnIymtd6s&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=XCx1HfshDLc&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=XCx1HfshDLc&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=mXrxvZLb7Ak&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=mXrxvZLb7Ak&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615"
+                    },
+                    {
+                        "url": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=gv1ivmoNHHY&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1716272331618&srcIp=20.55.15.33&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=gv1ivmoNHHY&ct=0&urls=45.136.22.15%3B45.136.21.38&clientType=0&zs=43&id=6749694593615"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240519COsBaO04dU7/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240519COsBaO04dU7/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -363,8 +523,114 @@
                 "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/hentai/midareuchi",
+                                "title": "Midareuchi 2",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/817.jpg"
+                            },
+                            {
+                                "url": "/hentai/midareuchi",
+                                "title": "Midareuchi 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/817.jpg"
+                            },
+                            {
+                                "url": "/hentai/kateikyoushi-x-2-the-animation",
+                                "title": "Kateikyoushi x ** 2 The Animation 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/816.jpg"
+                            },
+                            {
+                                "url": "/hentai/rennyu-order-okawari-the-animation",
+                                "title": "Rennyu Order: Okawari The Animation 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/815.jpg"
+                            },
+                            {
+                                "url": "/hentai/mebuki-the-animation",
+                                "title": "Mebuki The Animation 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/814.jpg"
+                            },
+                            {
+                                "url": "/hentai/succubus-connect",
+                                "title": "Succubus Connect! 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/813.jpg"
+                            },
+                            {
+                                "url": "/hentai/nocturnal",
+                                "title": "NocturnaL 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/812.jpg"
+                            },
+                            {
+                                "url": "/hentai/konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi",
+                                "title": "Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/811.jpg"
+                            },
+                            {
+                                "url": "/hentai/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi",
+                                "title": "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!? 3",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/782.jpg"
+                            },
+                            {
+                                "url": "/hentai/shunka-shuutou",
+                                "title": "Shunka Shuutou 2",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/802.jpg"
+                            },
+                            {
+                                "url": "/hentai/kotowarenai-haha",
+                                "title": "Kotowarenai Haha 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/810.jpg"
+                            },
+                            {
+                                "url": "/hentai/ruins-seeker",
+                                "title": "Ruins Seeker 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/809.jpg"
+                            },
+                            {
+                                "url": "/hentai/sinisistar",
+                                "title": "SiNiSistar 2",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/803.jpg"
+                            },
+                            {
+                                "url": "/hentai/ojisan-de-umeru-ana-the-animation",
+                                "title": "Ojisan de Umeru Ana The Animation 2",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/808.jpg"
+                            },
+                            {
+                                "url": "/hentai/ojisan-de-umeru-ana-the-animation",
+                                "title": "Ojisan de Umeru Ana The Animation 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/808.jpg"
+                            },
+                            {
+                                "url": "/hentai/69-itsuwari-no-bishou",
+                                "title": "69: Itsuwari no Bishou 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/807.jpg"
+                            },
+                            {
+                                "url": "/hentai/no-waifu-no-life",
+                                "title": "No Waifu No Life! 1",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/806.jpg"
+                            },
+                            {
+                                "url": "/hentai/hatsukoi-jikan",
+                                "title": "Hatsukoi Jikan 6",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/799.jpg"
+                            },
+                            {
+                                "url": "/hentai/hatsukoi-jikan",
+                                "title": "Hatsukoi Jikan 5",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/799.jpg"
+                            },
+                            {
+                                "url": "/hentai/ane-jiyoku-tsukushi-neesan-no-shitagi",
+                                "title": "Ane Jiyoku Tsukushi: Neesan no Shitagi 2",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/800.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -405,17 +671,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11360/vgve1bwyq2rx_,n,.urlset/index-v1-a1.m3u8?t=rhX4CGtXBIylMg6GJh6W4s4fo2nBNocD4fXKU4JbYe0&s=1716166693&e=14400&f=56800438&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "url": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11360/vgve1bwyq2rx_,n,.urlset/index-v1-a1.m3u8?t=1hvyOxBNXp8Y-_k-T7Apvb7moUnCdo9iSapiZ9PErDs&s=1716185935&e=14400&f=56800438&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.55&sp=2500&asn=8075",
                         "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11360/vgve1bwyq2rx_,n,.urlset/index-v1-a1.m3u8?t=rhX4CGtXBIylMg6GJh6W4s4fo2nBNocD4fXKU4JbYe0&s=1716166693&e=14400&f=56800438&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11360/vgve1bwyq2rx_,n,.urlset/index-v1-a1.m3u8?t=1hvyOxBNXp8Y-_k-T7Apvb7moUnCdo9iSapiZ9PErDs&s=1716185935&e=14400&f=56800438&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.55&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20240519C0CQAiExHgQ/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240519C3IOVm23gI4/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240519C0CQAiExHgQ/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240519C3IOVm23gI4/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"

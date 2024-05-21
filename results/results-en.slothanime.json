@@ -73,74 +73,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/tsukimichi-moonlit-fantasy-season-2",
-                                "title": "Tsukimichi -Moonlit Fantasy- Season 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11309.png"
-                            },
-                            {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
-                            },
-                            {
-                                "url": "/anime/xiao-bing-chuanqi",
-                                "title": "Xiao Bing Chuanqi",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11989.png"
-                            },
-                            {
-                                "url": "/anime/wan-jie-xian-zong-5",
-                                "title": "Wan Jie Xian Zong 5",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11198.png"
-                            },
-                            {
-                                "url": "/anime/the-legend-of-sword-domain-3rd-season",
-                                "title": "The Legend of Sword Domain 3rd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11543.png"
-                            },
-                            {
-                                "url": "/anime/solo-leveling",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/9888.png"
-                            },
-                            {
-                                "url": "/anime/saint-seiya-knights-of-the-zodiac-battle-for-sanctuary-part-2",
-                                "title": "Saint Seiya: Knights of the Zodiac - Battle for Sanctuary Part 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11897.png"
-                            },
-                            {
-                                "url": "/anime/a-record-of-mortals-journey-to-immortality-season-3",
-                                "title": "A Record of Mortal's Journey to Immortality Season 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11600.png"
-                            },
-                            {
-                                "url": "/anime/jellyfish-cant-swim-in-the-night",
-                                "title": "Jellyfish Can’t Swim in the Night",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11927.png"
-                            },
-                            {
-                                "url": "/anime/fights-break-sphere-6",
-                                "title": "Fights Break Sphere 6",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11365.png"
-                            },
-                            {
-                                "url": "/anime/jueshi-wu-hun",
-                                "title": "Jueshi Wu Hun",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11132.png"
-                            },
-                            {
-                                "url": "/anime/san-xiu-zhi-wang",
-                                "title": "San Xiu Zhi Wang",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11917.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -269,9 +203,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146849?vrf=8aHTcasR4Pxphv%2BO8loP7w%3D%3D",
+                        "url": "https://slothanime.com/player-url/146849?vrf=qefUeaYvQMGgJoUP5zUoQg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146849?vrf=8aHTcasR4Pxphv%2BO8loP7w%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/146849?vrf=qefUeaYvQMGgJoUP5zUoQg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

@@ -73,8 +73,74 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/ten-thousand-worlds-2",
+                                "title": "Ten Thousand Worlds 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11775.png"
+                            },
+                            {
+                                "url": "/anime/swallowed-star-4",
+                                "title": "Swallowed Star 4",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11475.png"
+                            },
+                            {
+                                "url": "/anime/martial-master-2",
+                                "title": "Martial Master 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11164.png"
+                            },
+                            {
+                                "url": "/anime/solo-leveling",
+                                "title": "Solo Leveling",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/9888.png"
+                            },
+                            {
+                                "url": "/anime/yugioh-go-rush",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11169.png"
+                            },
+                            {
+                                "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
+                                "title": "Spice and Wolf: merchant meets the wise wolf",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11903.png"
+                            },
+                            {
+                                "url": "/anime/the-banished-former-hero-lives-as-he-pleases",
+                                "title": "The Banished Former Hero Lives as He Pleases",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11893.png"
+                            },
+                            {
+                                "url": "/anime/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability",
+                                "title": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11900.png"
+                            },
+                            {
+                                "url": "/anime/tadaima-okaeri",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11940.png"
+                            },
+                            {
+                                "url": "/anime/remonster",
+                                "title": "Re:Monster",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11899.png"
+                            },
+                            {
+                                "url": "/anime/tsukimichi-moonlit-fantasy-season-2",
+                                "title": "Tsukimichi -Moonlit Fantasy- Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11309.png"
+                            },
+                            {
+                                "url": "/anime/wu-shang-shen-di-2",
+                                "title": "Wu Shang Shen Di 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -203,9 +269,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146849?vrf=qefUeaYvQMGgJoUP5zUoQg%3D%3D",
+                        "url": "https://slothanime.com/player-url/146849?vrf=s1%2BOPaYCVlgbg0sbhW2lTA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146849?vrf=qefUeaYvQMGgJoUP5zUoQg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/146849?vrf=s1%2BOPaYCVlgbg0sbhW2lTA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

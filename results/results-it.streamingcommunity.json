@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "8323-la-profezia-del-male",
-                                "title": "La profezia del male",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/64c005cf-6253-4058-be30-05f30cf72922.webp"
-                            },
-                            {
                                 "url": "7691-if-gli-amici-immaginari",
                                 "title": "IF - Gli amici immaginari",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e25d7d1a-0a41-4052-aec9-879303e00000.webp"
@@ -60,6 +55,11 @@
                                 "url": "8436-ombre-dal-passato",
                                 "title": "Ombre dal Passato",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/9ae22237-6e1f-44ba-b779-5e09e212cc55.webp"
+                            },
+                            {
+                                "url": "8540-la-vita-dei-leopardi",
+                                "title": "La vita dei leopardi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/2fc2682c-06fc-42ae-8d38-b5f61d54de99.webp"
                             },
                             {
                                 "url": "8492-thank-you-next",
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8542-speed-racer",
+                                "title": "Speed Racer",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d9be39a4-e3c5-4b01-909d-f5e8eb925741.webp"
+                            },
+                            {
+                                "url": "8541-law-and-order-unita-vittime-speciali",
+                                "title": "Law & Order - Unità vittime speciali",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7d1d355d-23d7-4527-9b49-7897e1701309.webp"
+                            },
+                            {
+                                "url": "8539-golden-kamui",
+                                "title": "Golden Kamui",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/2e19455f-41e3-4c54-8ad8-cc4c87969424.webp"
+                            },
                             {
                                 "url": "8538-the-great-hack-privacy-violata",
                                 "title": "The Great Hack - Privacy violata",
@@ -600,21 +615,6 @@
                                 "url": "8473-antonino-chef-academy",
                                 "title": "Antonino Chef Academy",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/bf6cd3b2-cde0-46ff-973f-2fce5caab15f.webp"
-                            },
-                            {
-                                "url": "8472-luomo-con-i-pugni-di-ferro-2",
-                                "title": "L'uomo con i pugni di ferro 2",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/18f4174b-9408-48c2-b991-f27e81edacd9.webp"
-                            },
-                            {
-                                "url": "8471-the-blair-witch-project-il-mistero-della-strega-di-blair",
-                                "title": "The Blair Witch Project - Il mistero della strega di Blair",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/75a568e0-978d-4df6-89ba-27a8795c1459.webp"
-                            },
-                            {
-                                "url": "8470-dogtooth",
-                                "title": "Dogtooth",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/91a9e81c-96e7-44ae-9020-e10412a5c20f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "8323-la-profezia-del-male",
-                    "description": "Mai usare le carte di qualcun altro: questa la regola sacra nella lettura dei Tarocchi. Quando un gruppo di amici la infrange scatena inconsapevolmente una terribile minaccia imprigionata nelle carte maledette. Uno dopo l'altro, i protagonisti dovranno affrontare il loro destino in una sfida contro la morte per sfuggire al futuro predetto nella profezia dei Tarocchi.",
-                    "genre": "Thriller, Horror",
+                    "url": "7691-if-gli-amici-immaginari",
+                    "description": "L’incredibile e magica storia di una bambina e della sua capacità di vedere gli IF, cioè gli amici immaginari di tutte le persone. Grazie a questo suo insolito superpotere, si imbarcherà in una magica avventura per ricongiungere gli IF dimenticati con i loro bambini.",
+                    "genre": "Fantasy, Commedia, Famiglia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8323",
+                        "url": "7691",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

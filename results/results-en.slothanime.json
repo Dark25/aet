@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/chalkiro-no-people",
+                                "title": "Chalk-iro no People",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12016.png"
+                            },
+                            {
                                 "url": "/anime/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries",
                                 "title": "Sono Hanabira ni Kuchizuke wo: Reo x Mai Diaries",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12015.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/anpanman-fluffy-furry-and-the-land-of-clouds",
                                 "title": "Anpanman: Fluffy Furry and the Land of Clouds",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12005.png"
-                            },
-                            {
-                                "url": "/anime/arawi-keiichi-tanpen",
-                                "title": "Arawi Keiichi Tanpen",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12004.png"
                             }
                         ],
                         "hasNextPage": true
@@ -80,6 +80,11 @@
                                 "url": "/anime/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries",
                                 "title": "Sono Hanabira ni Kuchizuke wo: Reo x Mai Diaries",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12015.png"
+                            },
+                            {
+                                "url": "/anime/chalkiro-no-people",
+                                "title": "Chalk-iro no People",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12016.png"
                             },
                             {
                                 "url": "/anime/bartender-glass-of-god",
@@ -130,11 +135,6 @@
                                 "url": "/anime/rinkai",
                                 "title": "Rinkai!",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11947.png"
-                            },
-                            {
-                                "url": "/anime/oblivion-battery",
-                                "title": "Oblivion Battery",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11948.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,39 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries",
-                    "title": "Sono Hanabira ni Kuchizuke wo: Reo x Mai Diaries",
+                    "url": "/anime/chalkiro-no-people",
+                    "title": "Chalk-iro no People",
                     "author": "",
-                    "description": "Short picture episodes of Reo and Mai during their daily life as a couple.",
-                    "genre": "Comedy, Romance, School, Girls Love",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12015.png",
+                    "description": "OVA adaptation of a manga by Watase Seizou. Five short episodes from Seizou Watase's romantic manga: \"Building Without Tide,\" \"Brother and Sister\" \"Sometimes I'm Happy\" \"I've Saved the Sidecar for You\" \"The Santa Quartet\"",
+                    "genre": "Romance, Seinen",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12016.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries/146941",
-                        "name": "Episode 7"
-                    },
-                    {
-                        "url": "/player/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries/146940",
-                        "name": "Episode 6"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146941?vrf=aiHyHdGpQsgMVLh8X7C4Pg%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=nUxwna%2FPzKBi4nDLXcYyVg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146941?vrf=aiHyHdGpQsgMVLh8X7C4Pg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=nUxwna%2FPzKBi4nDLXcYyVg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries/146941"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

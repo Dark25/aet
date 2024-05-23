@@ -3,23 +3,23 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "search": {
-                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "details": {
-                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to akw-cdn1.link/72.52.178.23:443",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             }
         }

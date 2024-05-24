@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/my-oni-girl",
+                                "title": "My Oni Girl",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12021.png"
+                            },
+                            {
                                 "url": "/anime/dead-dead-demons-dededede-destruction",
                                 "title": "Dead Dead Demons Dededede Destruction",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12020.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/magical-girl-holowitches",
                                 "title": "Magical Girl holoWitches!",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12010.png"
-                            },
-                            {
-                                "url": "/anime/luchika-the-hedgehog",
-                                "title": "Luchika the Hedgehog",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12009.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/my-oni-girl",
+                                "title": "My Oni Girl",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12021.png"
+                            },
+                            {
+                                "url": "/anime/ninjala",
+                                "title": "Ninjala",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11109.png"
+                            },
                             {
                                 "url": "/anime/bear-bear-bear-kuma-punch-daiundoukaihen",
                                 "title": "Bear Bear Bear Kuma Punch!! Daiundoukai-hen",
@@ -125,16 +135,6 @@
                                 "url": "/anime/fights-break-sphere-6",
                                 "title": "Fights Break Sphere 6",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11365.png"
-                            },
-                            {
-                                "url": "/anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
-                                "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11813.png"
-                            },
-                            {
-                                "url": "/anime/chiikawa",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11068.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dead-dead-demons-dededede-destruction",
-                    "title": "Dead Dead Demons Dededede Destruction",
-                    "author": "Production +h.",
-                    "description": "The first film of the Dead Dead Demon's Dededededestruction duology. The Japan Self-Defense Forces are still looking for a way to combat the alien threat, but so far conventional weapons have had no effect. Maybe it’s time to try something unconventional. Meanwhile, Kadode Koyama and her best friend avidly track the aliens’ movements on social media and less enthusiastically study for college entrance exams. When the end of the world looms overhead, you learn to take things one step at a time.",
-                    "genre": "Comedy, Drama, Military, School, Sci-Fi, Seinen, Slice of Life, Demons",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12020.png",
+                    "url": "/anime/my-oni-girl",
+                    "title": "My Oni Girl",
+                    "author": "Studio Colorido",
+                    "description": "Yearning to get along with others and not be disliked, first-year high school student Hiiragi finds himself unable to say no whenever someone requests something of him. One summer day, while unsuccessfully carrying out yet another request, he encounters an oni girl named Tsumugi, who has come to the human world to search for her mother. She does whatever she pleases and is the complete opposite of Hiiragi. Snow mysteriously begins to fall... and their adventure begins.",
+                    "genre": "Adventure, Supernatural",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12021.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/dead-dead-demons-dededede-destruction/146989",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/146989?vrf=0X5OEtBVpY9vNOsphFoYqA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=wzLdL08mtlvsg3hMaUNphw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/146989?vrf=0X5OEtBVpY9vNOsphFoYqA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=wzLdL08mtlvsg3hMaUNphw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/dead-dead-demons-dededede-destruction/146989"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

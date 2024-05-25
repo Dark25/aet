@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "8387-furiosa-a-mad-max-saga",
-                                "title": "Furiosa: A Mad Max Saga",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e64f6c9a-dcf9-4a63-8cf9-792e5a9b7fc3.webp"
+                                "url": "8589-under-the-bridge",
+                                "title": "Under the Bridge",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/53d23fb1-252e-4403-96fa-e67bf28159cc.webp"
                             },
                             {
                                 "url": "8582-jurassic-world-teoria-del-caos",
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8387-furiosa-a-mad-max-saga",
-                    "description": "Mentre il mondo va in rovina, la giovane Furiosa viene strappata dal Luogo Verde delle Molte Madri, e cade nelle mani di una grande Orda di Motociclisti guidata dal Signore della Guerra Dementus. Attraversando le Terre Desolate, si imbattono nella Cittadella presieduta da Immortan Joe. Mentre i due tiranni si battono per il predominio, Furiosa deve sopravvivere a molte prove e mettere insieme i mezzi per trovare la strada di casa.",
-                    "genre": "Azione, Fantascienza, Avventura",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "8589-under-the-bridge",
+                    "description": "Adattamento dell’omonimo libro di Rebecca Godfrey, il thriller drammatico racconta la vera storia dell’omicidio di Reena Virk, quattordicenne canadese brutalmente assassinata per futili motivi da un gruppetto di coetanee.",
+                    "genre": "Dramma, Crime",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,15 +946,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8387",
-                        "name": "Film",
+                        "url": "8589?episode_id=63011&next_episode=1",
+                        "name": "Stagione 1 episodio 1 - Looking Glass",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

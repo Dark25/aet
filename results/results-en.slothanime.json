@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mom-im-sorry",
+                                "title": "Mom, I'm Sorry",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12022.png"
+                            },
+                            {
                                 "url": "/anime/my-oni-girl",
                                 "title": "My Oni Girl",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12021.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/fabulous-beasts-3",
                                 "title": "Fabulous Beasts 3",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12011.png"
-                            },
-                            {
-                                "url": "/anime/magical-girl-holowitches",
-                                "title": "Magical Girl holoWitches!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12010.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/mom-im-sorry",
+                                "title": "Mom, I'm Sorry",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12022.png"
+                            },
+                            {
+                                "url": "/anime/tonbo",
+                                "title": "Tonbo!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11923.png"
+                            },
+                            {
+                                "url": "/anime/pokmon-horizons-the-series",
+                                "title": "Pokémon Horizons: The Series",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11105.png"
+                            },
+                            {
+                                "url": "/anime/girls-band-cry",
+                                "title": "Girls Band Cry",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11922.png"
+                            },
                             {
                                 "url": "/anime/the-irregular-at-magic-high-school-season-3",
                                 "title": "The Irregular at Magic High School Season 3",
@@ -115,26 +135,6 @@
                                 "url": "/anime/my-oni-girl",
                                 "title": "My Oni Girl",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12021.png"
-                            },
-                            {
-                                "url": "/anime/ninjala",
-                                "title": "Ninjala",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11109.png"
-                            },
-                            {
-                                "url": "/anime/bear-bear-bear-kuma-punch-daiundoukaihen",
-                                "title": "Bear Bear Bear Kuma Punch!! Daiundoukai-hen",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12017.png"
-                            },
-                            {
-                                "url": "/anime/sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries",
-                                "title": "Sono Hanabira ni Kuchizuke wo: Reo x Mai Diaries",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12015.png"
-                            },
-                            {
-                                "url": "/anime/against-the-sky-supreme",
-                                "title": "Against The Sky Supreme",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,30 +244,35 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/my-oni-girl",
-                    "title": "My Oni Girl",
-                    "author": "Studio Colorido",
-                    "description": "Yearning to get along with others and not be disliked, first-year high school student Hiiragi finds himself unable to say no whenever someone requests something of him. One summer day, while unsuccessfully carrying out yet another request, he encounters an oni girl named Tsumugi, who has come to the human world to search for her mother. She does whatever she pleases and is the complete opposite of Hiiragi. Snow mysteriously begins to fall... and their adventure begins.",
-                    "genre": "Adventure, Supernatural",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12021.png",
+                    "url": "/anime/mom-im-sorry",
+                    "title": "Mom, I'm Sorry",
+                    "author": "",
+                    "description": "In order to save his terminally-ill mother, Dong Cuican signs a \"contract\" with a mysterious man, trading his own time for his dying mother's life. After recovery, his mother Yan Jinyu returns to the age of 20 and is still healthy. By virtue of her maturity and optimism, she lives a more exciting life that she never expected. However, to not worry his mother, Dong Cuican conceals the truth about his life, and takes on the cost of the contract alone. He decides to make up for his regrets and repay his mother's love and care in his last days.",
+                    "genre": "Comedy, Drama, Slice of Life, Supernatural",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12022.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/mom-im-sorry/147006",
+                        "name": "Episode 2"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=hXl7PkV5RmBPEF9tEIxFhg%3D%3D",
+                        "url": "https://slothanime.com/player-url/147006?vrf=GVdm2QpUh8KdVTJFo6Jj0Q%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=hXl7PkV5RmBPEF9tEIxFhg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/147006?vrf=GVdm2QpUh8KdVTJFo6Jj0Q%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/mom-im-sorry/147006"
                         }
                     }
                 ],

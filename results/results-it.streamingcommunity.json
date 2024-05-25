@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8387-furiosa-a-mad-max-saga",
+                                "title": "Furiosa: A Mad Max Saga",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e64f6c9a-dcf9-4a63-8cf9-792e5a9b7fc3.webp"
+                            },
+                            {
                                 "url": "8582-jurassic-world-teoria-del-caos",
                                 "title": "Jurassic World: Teoria del caos",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8d3337d3-9784-431d-b991-25009820db1e.webp"
@@ -300,11 +305,6 @@
                                 "url": "7497-fallout",
                                 "title": "Fallout",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/0abead9a-8594-4f97-8e7d-68e6a97dd7bc.webp"
-                            },
-                            {
-                                "url": "8522-unlocked-un-esperimento-carcerario",
-                                "title": "Unlocked: un esperimento carcerario",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/4c8f30ca-1ee0-4cde-aea3-ba5819f1bd2f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8582-jurassic-world-teoria-del-caos",
-                    "description": "Il gruppo del Campo Cretaceo si riunisce per risolvere un mistero quando scopre un complotto globale che mette in pericolo i dinosauri... e loro stessi.",
-                    "genre": "Sci-Fi & Fantasy, Action & Adventure, Famiglia, Animazione, Kids",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "8387-furiosa-a-mad-max-saga",
+                    "description": "Mentre il mondo va in rovina, la giovane Furiosa viene strappata dal Luogo Verde delle Molte Madri, e cade nelle mani di una grande Orda di Motociclisti guidata dal Signore della Guerra Dementus. Attraversando le Terre Desolate, si imbattono nella Cittadella presieduta da Immortan Joe. Mentre i due tiranni si battono per il predominio, Furiosa deve sopravvivere a molte prove e mettere insieme i mezzi per trovare la strada di casa.",
+                    "genre": "Azione, Fantascienza, Avventura",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,20 +946,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8582?episode_id=62863&next_episode=1",
-                        "name": "Stagione 1 episodio 10 - La fine dell'inizio",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "8582?episode_id=62862&next_episode=1",
-                        "name": "Stagione 1 episodio 9 - Nella nebbia",
-                        "episode_number": 9.0
+                        "url": "8387",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

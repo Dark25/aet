@@ -304,6 +304,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/atlas",
+                                "title": "Atlas (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wSnBSv7oHgm1kZmiM8IqithlTmJ.jpg"
+                            },
+                            {
+                                "url": "/pelicula/perra-vida",
+                                "title": "Perra Vida (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ybbNggVtUaFWPeSwF4tQuqKhSAW.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mi-querida-oni",
+                                "title": "Mi querida oni (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/3dt8zEEpE2HGO2GRVlGr3bT4wo3.jpg"
+                            },
+                            {
+                                "url": "/pelicula/civil-war-2024",
+                                "title": "Civil War (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/iCOQUVVaPqRuR3JqF71akguf6Mj.jpg"
+                            },
+                            {
                                 "url": "/pelicula/dragonheart-vengeance",
                                 "title": "Dragonheart: Vengeance (2020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg"
@@ -402,26 +422,6 @@
                                 "url": "/pelicula/nahir",
                                 "title": "Nahir (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/3lCerAA6lArxaVskPqR586GJqB5.jpg"
-                            },
-                            {
-                                "url": "/pelicula/damaged",
-                                "title": "Damaged (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wDf3FFcVsiv6rd8zeUYgcnrS1BK.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-tierra-prometida",
-                                "title": "La tierra prometida (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kP4h36EWnMmG0diPlQw08VXVcvx.jpg"
-                            },
-                            {
-                                "url": "/pelicula/4-horsemen-apocalypse",
-                                "title": "4 Horsemen: Apocalypse (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aD6wsyHA6K2AIca9JJMt2w2IWjS.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-shift",
-                                "title": "The Shift (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/rJ90n7OugxdqYct8Tb5TtljtMqs.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -680,64 +680,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/dragonheart-vengeance",
-                    "title": "Dragonheart: Vengeance (2020)",
-                    "description": "Lukas, un verde agricultor cuya descendientes es asesinada por salvajes guerreros, se embarca en una divagación épica en averiguación de vendetta, formando un trío inasequible con un dragón majestuoso y un soldado fanfarrón llamado Darius.",
-                    "genre": "Fantasía, Acción, Aventura",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/dragonheart-vengeance",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03933/pytby9zsuxye_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=5X2FK8He-o5QInTk4OyF5KwZjOYx7PbCmMxkGun6dXw&s=1716574756&e=129600&f=19668091&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03933/pytby9zsuxye_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=5X2FK8He-o5QInTk4OyF5KwZjOYx7PbCmMxkGun6dXw&s=1716574756&e=129600&f=19668091&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/pytby9zsuxye"
-                        }
-                    },
-                    {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03933/pytby9zsuxye_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=5X2FK8He-o5QInTk4OyF5KwZjOYx7PbCmMxkGun6dXw&s=1716574756&e=129600&f=19668091&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03933/pytby9zsuxye_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=5X2FK8He-o5QInTk4OyF5KwZjOYx7PbCmMxkGun6dXw&s=1716574756&e=129600&f=19668091&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/pytby9zsuxye"
-                        }
-                    },
-                    {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03933/pytby9zsuxye_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=5X2FK8He-o5QInTk4OyF5KwZjOYx7PbCmMxkGun6dXw&s=1716574756&e=129600&f=19668091&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03933/pytby9zsuxye_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=5X2FK8He-o5QInTk4OyF5KwZjOYx7PbCmMxkGun6dXw&s=1716574756&e=129600&f=19668091&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/pytby9zsuxye"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1040,9 +992,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=LsgQaDddVLZJ-zbHBhSmAblxyR9YLH0TMK-GrpeK29w&s=1716574760&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.0&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=tJjj8iDZgQ_OQvYt2oHfWznRxbBPx0njHkQWJ6B6uXI&s=1716598678&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=LsgQaDddVLZJ-zbHBhSmAblxyR9YLH0TMK-GrpeK29w&s=1716574760&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.0&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=tJjj8iDZgQ_OQvYt2oHfWznRxbBPx0njHkQWJ6B6uXI&s=1716598678&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1003,9 @@
                         }
                     },
                     {
-                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=SO7Au2ze2Ncci_XLlZj0VdQDIyt2FzVNYaVjToypMUA&s=1716574761&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=-pIFxwtHMUy-8_eesxFEo4KwTQyRglnNQ_c3ZnZRlOo&s=1716598679&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=SO7Au2ze2Ncci_XLlZj0VdQDIyt2FzVNYaVjToypMUA&s=1716574761&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=-pIFxwtHMUy-8_eesxFEo4KwTQyRglnNQ_c3ZnZRlOo&s=1716598679&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1062,9 +1014,9 @@
                         }
                     },
                     {
-                        "url": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=LsgQaDddVLZJ-zbHBhSmAblxyR9YLH0TMK-GrpeK29w&s=1716574760&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.0&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=tJjj8iDZgQ_OQvYt2oHfWznRxbBPx0njHkQWJ6B6uXI&s=1716598678&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://sfuyxpozfv.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=LsgQaDddVLZJ-zbHBhSmAblxyR9YLH0TMK-GrpeK29w&s=1716574760&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.0&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=tJjj8iDZgQ_OQvYt2oHfWznRxbBPx0njHkQWJ6B6uXI&s=1716598678&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1073,9 +1025,9 @@
                         }
                     },
                     {
-                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=SO7Au2ze2Ncci_XLlZj0VdQDIyt2FzVNYaVjToypMUA&s=1716574761&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=-pIFxwtHMUy-8_eesxFEo4KwTQyRglnNQ_c3ZnZRlOo&s=1716598679&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=SO7Au2ze2Ncci_XLlZj0VdQDIyt2FzVNYaVjToypMUA&s=1716574761&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=-pIFxwtHMUy-8_eesxFEo4KwTQyRglnNQ_c3ZnZRlOo&s=1716598679&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

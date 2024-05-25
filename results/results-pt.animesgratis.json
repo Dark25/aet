@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/hunter-x-hunter/",
+                                "title": "Hunter x Hunter",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eobAuhCJA8oRp814V67WhezVXtQ.jpg"
+                            },
+                            {
                                 "url": "/animes/hellsing/",
                                 "title": "Hellsing",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/xA3wsLJzj6XnvuryerPBPwoQodH.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/animes/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/",
                                 "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/hYXSXKCYFNvpD8VIEqyJF2oYHQF.jpg"
-                            },
-                            {
-                                "url": "/animes/rezero-kara-hajimeru-isekai-seikatsu/",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -364,29 +364,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/hellsing/",
-                    "title": "Hellsing",
-                    "description": "A agência Hellsing é um grupo dos guerreiros que protege a Inglaterra e a igreja Anglicana de vampiros. Guiados por Integra Hellsing, a líder da lendária família Hellsing, a agência combate vampiros junto com Arucard, um vampiro renegado que luta pela humanidade. Arucard não é um vampiro ordinário, e também não é um amante dos humanos, ele possui seus próprios motivos para lutar ao lado dos humanos.\n\nTítulo original: ヘルシング\nTemporadas: 1\nEpisódios: 13",
-                    "genre": "Ação, Gore, Seinen, Sobrenatural, Terror, Vampiro",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/xA3wsLJzj6XnvuryerPBPwoQodH.jpg",
+                    "url": "/animes/hunter-x-hunter/",
+                    "title": "Hunter x Hunter",
+                    "description": "Gon é um garoto que nunca conheceu seu pai e sua mãe faleceu quando ele era muito pequeno, sendo cuidado por sua tia que para ele é sua mãe. Certo dia Gon descobre que seu pai ainda está vivo e que é um Hunter, então Gon decide sair de sua ilha para virar um Hunter e conhecer seu pai. Muitos outros personagens aparecem como: Kurapika, que foi o único sobrevivente de seu clã que foi massacrado pelo Genei Ryodan e deseja vingança, Killua um jovem garoto que é da famosa família de assassinos Zoldick, Leorio que deseja se tornar Hunter para ganhar muito dinheiro e virar médico.\n\nTítulo original: ハンター×ハンター\nTemporadas: 1\nEpisódios: 62",
+                    "genre": "Ação, Aventura, Fantasia, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/hellsing-episodio-13/",
-                        "name": "Episódio 13",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/episodio/hellsing-episodio-12/",
-                        "name": "Episódio 12",
-                        "episode_number": 12.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

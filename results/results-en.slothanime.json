@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/lucky-feat-umi",
+                                "title": "Lucky (feat. UMI)",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12023.png"
+                            },
+                            {
                                 "url": "/anime/mom-im-sorry",
                                 "title": "Mom, I'm Sorry",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12022.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/overlord-the-sacred-kingdom",
                                 "title": "OVERLORD: The Sacred Kingdom",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12012.png"
-                            },
-                            {
-                                "url": "/anime/fabulous-beasts-3",
-                                "title": "Fabulous Beasts 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12011.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,36 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/studio-apartment-good-lighting-angel-included",
+                                "title": "Studio Apartment, Good Lighting, Angel Included",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11891.png"
+                            },
+                            {
+                                "url": "/anime/lucky-feat-umi",
+                                "title": "Lucky (feat. UMI)",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12023.png"
+                            },
+                            {
+                                "url": "/anime/wanmei-shijie-4",
+                                "title": "Wanmei Shijie 4",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11507.png"
+                            },
+                            {
+                                "url": "/anime/wu-shang-shen-di-2",
+                                "title": "Wu Shang Shen Di 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
+                            },
+                            {
+                                "url": "/anime/the-peak-of-true-martial-arts-3rd-season",
+                                "title": "The Peak of True Martial Arts 3rd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11604.png"
+                            },
+                            {
+                                "url": "/anime/my-hero-academia-season-7",
+                                "title": "My Hero Academia Season 7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11924.png"
+                            },
                             {
                                 "url": "/anime/one-hundred-thousand-years-of-qi-refining",
                                 "title": "One Hundred Thousand Years of Qi Refining",
@@ -105,36 +135,6 @@
                                 "url": "/anime/tales-of-demons-and-gods-season-7",
                                 "title": "Tales of Demons and Gods Season 7",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
-                            },
-                            {
-                                "url": "/anime/the-magic-chef-of-fire-and-ice-2",
-                                "title": "The Magic Chef of Fire and Ice 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11144.png"
-                            },
-                            {
-                                "url": "/anime/ten-thousand-worlds-2",
-                                "title": "Ten Thousand Worlds 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11775.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
-                            {
-                                "url": "/anime/mom-im-sorry",
-                                "title": "Mom, I'm Sorry",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12022.png"
-                            },
-                            {
-                                "url": "/anime/tonbo",
-                                "title": "Tonbo!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11923.png"
-                            },
-                            {
-                                "url": "/anime/pokmon-horizons-the-series",
-                                "title": "Pokémon Horizons: The Series",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11105.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mom-im-sorry",
-                    "title": "Mom, I'm Sorry",
-                    "author": "",
-                    "description": "In order to save his terminally-ill mother, Dong Cuican signs a \"contract\" with a mysterious man, trading his own time for his dying mother's life. After recovery, his mother Yan Jinyu returns to the age of 20 and is still healthy. By virtue of her maturity and optimism, she lives a more exciting life that she never expected. However, to not worry his mother, Dong Cuican conceals the truth about his life, and takes on the cost of the contract alone. He decides to make up for his regrets and repay his mother's love and care in his last days.",
-                    "genre": "Comedy, Drama, Slice of Life, Supernatural",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12022.png",
+                    "url": "/anime/lucky-feat-umi",
+                    "title": "Lucky (feat. UMI)",
+                    "author": "MAPPA, Contrail",
+                    "description": "Music video directed by Kyouhei Ishiguro for the song Lucky by Nulbarich and Sunny (feat. UMI).",
+                    "genre": "Music",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12023.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/mom-im-sorry/147006",
-                        "name": "Episode 2"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/147006?vrf=5uc%2BpHE5rKtNO5c%2BQ3ThAQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=uv3d1yvX4s8YRIATGDt2eA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/147006?vrf=5uc%2BpHE5rKtNO5c%2BQ3ThAQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=uv3d1yvX4s8YRIATGDt2eA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/mom-im-sorry/147006"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

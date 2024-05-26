@@ -113,30 +113,19 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=661e6bd3dd9cecb1c7e04880",
-                    "title": "Godzilla x Kong - Das neue Imperium",
-                    "description": "Der allmächtige Kong und der furchterregende Godzilla müssen gegen eine kolossale, unentdeckte Bedrohung ankämpfen, die sowohl ihre als auch die menschliche Existenz bedroht. Welche Geheimnisse verbirgt Skull Island? Wo liegt der Ursprung der hohlen Erde und der uralte Kampf der Titanen?\n\n\nDas Sequel „Godzilla x Kong: The New Empire” von Regisseur Adam Wingard ist der fünfte Film des sogenannten MonsterVerse, welches 2014 mit „Godzilla” von Warner ins Leben gerufen wurde. Im Monster-Universum treffen sowohl japanische als auch amerikanische Filmmonster aufeinander und messen ihre Kräfte im Kino.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=661e6bd3dd9cecb1c7e04880",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             }
         }

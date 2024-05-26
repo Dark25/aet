@@ -3,27 +3,541 @@
         "name": "FilmPalast (DE)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/stream/john-wick",
+                                "title": "John Wick",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/john-wick.jpg"
+                            },
+                            {
+                                "url": "/stream/kedi-von-katzen-und-menschen",
+                                "title": "Kedi - Von Katzen und Menschen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/kedi-von-katzen-und-menschen.jpg"
+                            },
+                            {
+                                "url": "/stream/spider-man-no-way-home",
+                                "title": "Spider-Man: No Way Home",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/spider-man-no-way-home.jpg"
+                            },
+                            {
+                                "url": "/stream/odd-thomas",
+                                "title": "Odd Thomas",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/odd-thomas.jpg"
+                            },
+                            {
+                                "url": "/stream/man-of-steel",
+                                "title": "Man of Steel",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/man-of-steel.jpg"
+                            },
+                            {
+                                "url": "/stream/riddick-uberleben-ist-seine-rache",
+                                "title": "Riddick - Überleben ist seine Rache",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/riddick-uberleben-ist-seine-rache.jpg"
+                            },
+                            {
+                                "url": "/stream/the-accountant-2016",
+                                "title": "The Accountant (2016)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-accountant-2016.jpg"
+                            },
+                            {
+                                "url": "/stream/john-wick-kapitel-4",
+                                "title": "John Wick Kapitel 4",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/john-wick-kapitel-4.jpg"
+                            },
+                            {
+                                "url": "/stream/guardians-of-the-galaxy",
+                                "title": "Guardians of the Galaxy",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/guardians-of-the-galaxy.jpg"
+                            },
+                            {
+                                "url": "/stream/deadpool",
+                                "title": "Deadpool",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/deadpool.jpg"
+                            },
+                            {
+                                "url": "/stream/mechanic-2-resurrection",
+                                "title": "Mechanic 2: Resurrection",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/mechanic-2-resurrection.jpg"
+                            },
+                            {
+                                "url": "/stream/ip-man-4-the-finale",
+                                "title": "Ip Man 4 The Finale",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ip-man-4-the-finale.jpg"
+                            },
+                            {
+                                "url": "/stream/jason-bourne",
+                                "title": "Jason Bourne",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jason-bourne.jpg"
+                            },
+                            {
+                                "url": "/stream/cash-truck",
+                                "title": "Cash Truck",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cash-truck.jpg"
+                            },
+                            {
+                                "url": "/stream/lucy",
+                                "title": "Lucy",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/lucy.jpg"
+                            },
+                            {
+                                "url": "/stream/interstellar",
+                                "title": "Interstellar",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/interstellar.jpg"
+                            },
+                            {
+                                "url": "/stream/phantastische-tierwesen-grindelwalds-verbrechen",
+                                "title": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/phantastische-tierwesen-grindelwalds-verbrechen.jpg"
+                            },
+                            {
+                                "url": "/stream/feinde-hostiles",
+                                "title": "Feinde - Hostiles",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/feinde-hostiles.jpg"
+                            },
+                            {
+                                "url": "/stream/avatar-the-way-of-water",
+                                "title": "Avatar: The Way of Water",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/avatar-the-way-of-water.jpg"
+                            },
+                            {
+                                "url": "/stream/the-equalizer",
+                                "title": "The Equalizer",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-equalizer.jpg"
+                            },
+                            {
+                                "url": "/stream/thor-love-and-thunder",
+                                "title": "Thor: Love and Thunder",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/thor-love-and-thunder.jpg"
+                            },
+                            {
+                                "url": "/stream/guardians-of-the-galaxy-vol-2",
+                                "title": "Guardians Of The Galaxy Vol. 2",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/guardians-of-the-galaxy-vol-2.jpg"
+                            },
+                            {
+                                "url": "/stream/nobody",
+                                "title": "Nobody",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/nobody.jpg"
+                            },
+                            {
+                                "url": "/stream/upgrade",
+                                "title": "Upgrade",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/upgrade.jpg"
+                            },
+                            {
+                                "url": "/stream/aquaman",
+                                "title": "Aquaman",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/aquaman.jpg"
+                            },
+                            {
+                                "url": "/stream/passengers",
+                                "title": "Passengers",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/passengers.jpg"
+                            },
+                            {
+                                "url": "/stream/es-2017",
+                                "title": "Es (2017)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/es-2017.jpg"
+                            },
+                            {
+                                "url": "/stream/navalny",
+                                "title": "Navalny",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/navalny.jpg"
+                            },
+                            {
+                                "url": "/stream/fack-ju-gohte",
+                                "title": "Fack ju Göhte",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fack-ju-gohte.jpg"
+                            },
+                            {
+                                "url": "/stream/jurassic-world",
+                                "title": "Jurassic World",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jurassic-world.jpg"
+                            },
+                            {
+                                "url": "/stream/the-beekeeper",
+                                "title": "The Beekeeper",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-beekeeper.jpg"
+                            },
+                            {
+                                "url": "/stream/fast-and-furious-7",
+                                "title": "Fast and Furious 7",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fast-and-furious-7.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/stream/star-trek-discovery-s05e09",
+                                "title": "Star Trek: Discovery S05E09",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-discovery-s05e09.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-discovery-s05e08",
+                                "title": "Star Trek: Discovery S05E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-discovery-s05e08.jpg"
+                            },
+                            {
+                                "url": "/stream/no-way-up",
+                                "title": "No Way Up",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/no-way-up.jpg"
+                            },
+                            {
+                                "url": "/stream/paradox-effect",
+                                "title": "Paradox Effect",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/paradox-effect.jpg"
+                            },
+                            {
+                                "url": "/stream/cora",
+                                "title": "Cora",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cora.jpg"
+                            },
+                            {
+                                "url": "/stream/schock-kein-weg-zuruck",
+                                "title": "Schock - Kein Weg zurück",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/schock-kein-weg-zuruck.jpg"
+                            },
+                            {
+                                "url": "/stream/ein-sommer-voller-leidenschaft",
+                                "title": "Ein Sommer voller Leidenschaft",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ein-sommer-voller-leidenschaft.jpg"
+                            },
+                            {
+                                "url": "/stream/jackdaw",
+                                "title": "Jackdaw",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jackdaw.jpg"
+                            },
+                            {
+                                "url": "/stream/the-engineer",
+                                "title": "The Engineer",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-engineer.jpg"
+                            },
+                            {
+                                "url": "/stream/the-last-girl",
+                                "title": "The Last Girl",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-last-girl.jpg"
+                            },
+                            {
+                                "url": "/stream/american-star",
+                                "title": "American Star",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/american-star.jpg"
+                            },
+                            {
+                                "url": "/stream/atlas-2024",
+                                "title": "Atlas (2024)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/atlas-2024.jpg"
+                            },
+                            {
+                                "url": "/stream/a-killers-memory",
+                                "title": "A Killer's Memory",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/a-killers-memory.jpg"
+                            },
+                            {
+                                "url": "/stream/creation-of-the-gods-i-kingdom-of-storms",
+                                "title": "Creation of the Gods I: Kingdom of Storms",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/creation-of-the-gods-i-kingdom-of-storms.jpg"
+                            },
+                            {
+                                "url": "/stream/the-harbinger-traume-des-grauens",
+                                "title": "The Harbinger - Träume des Grauens",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-harbinger-traume-des-grauens.jpg"
+                            },
+                            {
+                                "url": "/stream/little-wing-2024",
+                                "title": "Little Wing (2024)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/little-wing-2024.jpg"
+                            },
+                            {
+                                "url": "/stream/if-imaginare-freunde",
+                                "title": "IF - Imaginäre Freunde",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/if-imaginare-freunde.jpg"
+                            },
+                            {
+                                "url": "/stream/adagio-erbarmungslose-stadt",
+                                "title": "Adagio - Erbarmungslose Stadt",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/adagio-erbarmungslose-stadt.jpg"
+                            },
+                            {
+                                "url": "/stream/alienoid-the-return-to-the-future",
+                                "title": "Alienoid: The Return to the Future",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/alienoid-the-return-to-the-future.jpg"
+                            },
+                            {
+                                "url": "/stream/the-crazies",
+                                "title": "The Crazies",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-crazies.jpg"
+                            },
+                            {
+                                "url": "/stream/phil-tipppett-meister-der-fantastischen-kreaturen",
+                                "title": "Phil Tipppett - Meister der fantastischen Kreaturen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/phil-tipppett-meister-der-fantastischen-kreaturen.jpg"
+                            },
+                            {
+                                "url": "/stream/day-of-the-dead",
+                                "title": "Day of the Dead",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/day-of-the-dead.jpg"
+                            },
+                            {
+                                "url": "/stream/made-in-britain",
+                                "title": "Made in Britain",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/made-in-britain.jpg"
+                            },
+                            {
+                                "url": "/stream/darkmatters01e04-133",
+                                "title": "Dark Matter S01E04",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/darkmatters01e04-133.jpg"
+                            },
+                            {
+                                "url": "/stream/the-tattooist-of-auschwitz-s01e03",
+                                "title": "The Tattooist of Auschwitz S01E03",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-tattooist-of-auschwitz-s01e03.jpg"
+                            },
+                            {
+                                "url": "/stream/the-tattooist-of-auschwitz-s01e02",
+                                "title": "The Tattooist of Auschwitz S01E02",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-tattooist-of-auschwitz-s01e02.jpg"
+                            },
+                            {
+                                "url": "/stream/the-tattooist-of-auschwitz-s01e01",
+                                "title": "The Tattooist of Auschwitz S01E01",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-tattooist-of-auschwitz-s01e01.jpg"
+                            },
+                            {
+                                "url": "/stream/varsity-blues",
+                                "title": "Varsity Blues",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/varsity-blues.jpg"
+                            },
+                            {
+                                "url": "/stream/romantik-a-la-carte",
+                                "title": "Romantik à la Carte",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/romantik-a-la-carte.jpg"
+                            },
+                            {
+                                "url": "/stream/der-duft-der-liebe",
+                                "title": "Der Duft der Liebe",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-duft-der-liebe.jpg"
+                            },
+                            {
+                                "url": "/stream/miss-viborg",
+                                "title": "Miss Viborg",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/miss-viborg.jpg"
+                            },
+                            {
+                                "url": "/stream/american-horror-story-s12e06",
+                                "title": "American Horror Story S12E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/american-horror-story-s12e06.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/stream/cyberbunker-the-criminal-underworld",
+                                "title": "Cyberbunker: The Criminal Underworld",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cyberbunker-the-criminal-underworld.jpg"
+                            },
+                            {
+                                "url": "/stream/leave-the-world-behind",
+                                "title": "Leave the World Behind",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/leave-the-world-behind.jpg"
+                            },
+                            {
+                                "url": "/stream/world-war-z",
+                                "title": "World War Z",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/world-war-z.jpg"
+                            },
+                            {
+                                "url": "/stream/the-loneliest-boy-in-the-world",
+                                "title": "The Loneliest Boy in the World",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-loneliest-boy-in-the-world.jpg"
+                            },
+                            {
+                                "url": "/stream/new-world-disorder-das-killerprogramm",
+                                "title": "New World Disorder - Das Killerprogramm",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/new-world-disorder-das-killerprogramm.jpg"
+                            },
+                            {
+                                "url": "/stream/underworld-blood-wars-2016",
+                                "title": "Underworld: Blood Wars (2016)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/underworld-blood-wars-2016.jpg"
+                            },
+                            {
+                                "url": "/stream/zombieworld-welcome-to-the-ultimate-zombie-party",
+                                "title": "Zombieworld - Welcome To The Ultimate Zombie Party",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/zombieworld-welcome-to-the-ultimate-zombie-party.jpg"
+                            },
+                            {
+                                "url": "/stream/between-worlds",
+                                "title": "Between Worlds",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/between-worlds.jpg"
+                            },
+                            {
+                                "url": "/stream/world-of-the-living-dead",
+                                "title": "World of the Living Dead",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/world-of-the-living-dead.jpg"
+                            },
+                            {
+                                "url": "/stream/finsterworld",
+                                "title": "Finsterworld",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/finsterworld.jpg"
+                            },
+                            {
+                                "url": "/stream/battlefield-fall-of-the-world",
+                                "title": "Battlefield: Fall of the World",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/battlefield-fall-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/stream/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-world-to-come.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e10",
+                                "title": "Star Trek: Strange New Worlds S02E10",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e10.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e09",
+                                "title": "Star Trek: Strange New Worlds S02E09",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e09.jpg"
+                            },
+                            {
+                                "url": "/stream/when-you-finish-saving-the-world",
+                                "title": "When You finish saving the world",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/when-you-finish-saving-the-world.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e08",
+                                "title": "Star Trek: Strange New Worlds S02E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e08.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e07",
+                                "title": "Star Trek: Strange New Worlds S02E07",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e07.jpg"
+                            },
+                            {
+                                "url": "/stream/fireball-visitors-from-darker-worlds",
+                                "title": "Fireball: Visitors from Darker Worlds",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fireball-visitors-from-darker-worlds.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e06",
+                                "title": "Star Trek: Strange New Worlds S02E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e06.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e05",
+                                "title": "Star Trek: Strange New Worlds S02E05",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e05.jpg"
+                            },
+                            {
+                                "url": "/stream/yakuza-apocalypse-the-great-war-of-the-underworld",
+                                "title": "Yakuza Apocalypse: The Great War of the Underworld",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/yakuza-apocalypse-the-great-war-of-the-underworld.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e04",
+                                "title": "Star Trek: Strange New Worlds S02E04",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e04.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e03",
+                                "title": "Star Trek: Strange New Worlds S02E03",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e03.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e02",
+                                "title": "Star Trek: Strange New Worlds S02E02",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e02.jpg"
+                            },
+                            {
+                                "url": "/stream/star-trek-strange-new-worlds-s02e01",
+                                "title": "Star Trek: Strange New Worlds S02E01",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-trek-strange-new-worlds-s02e01.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e10",
+                                "title": "Westworld S01E10",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e10.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e09",
+                                "title": "Westworld S01E09",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e09.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e08",
+                                "title": "Westworld S01E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e08.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e07",
+                                "title": "Westworld S01E07",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e07.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e06",
+                                "title": "Westworld S01E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e06.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e05",
+                                "title": "Westworld S01E05",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e05.jpg"
+                            },
+                            {
+                                "url": "/stream/westworld-s01e04",
+                                "title": "Westworld S01E04",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/westworld-s01e04.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/stream/john-wick",
+                    "title": "John Wick",
+                    "author": "Chad Stahelski David Leitch",
+                    "description": "John Wick (Keanu Reeves) genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau (Bridget Moynahan) einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov (Alfie Allen), der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov (Michael Nyqvist), für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus (Willem Dafoe) an seinen Fersen hängen...",
+                    "genre": "Thriller Action",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://filmpalast.to/files/movies/450/john-wick.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/stream/john-wick",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

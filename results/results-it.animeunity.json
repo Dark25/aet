@@ -503,22 +503,22 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/anime/12-one-piece/81164",
+                        "name": "Episode 1106",
+                        "date_upload": 1716682866000,
+                        "episode_number": 1106.0
+                    },
+                    {
                         "url": "/anime/12-one-piece/80745",
                         "name": "Episode 1105",
                         "date_upload": 1716116346000,
                         "episode_number": 1105.0
-                    },
-                    {
-                        "url": "/anime/12-one-piece/80469",
-                        "name": "Episode 1104",
-                        "date_upload": 1715510954000,
-                        "episode_number": 1104.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

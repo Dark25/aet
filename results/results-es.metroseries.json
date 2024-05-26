@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/total-drama-island/",
+                                "title": "Total Drama Island",
+                                "description": "Drama Total | Isla del Drama Total Drama Island es un concurso de supervivencia en el que 22 participantes se enfrentan a numerosas pruebas para optar a un premio de 100.000 $. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2mBbbvAIK7rrZD2Zhuc9WYB28xJ.jpg"
+                            },
+                            {
                                 "url": "/garoden-el-camino-del-lobo-solitario/",
                                 "title": "Garōden: El camino del lobo solitario",
                                 "description": "餓狼伝: The Way of the Lone Wolf Huyendo de un crimen del pasado, Juzo Fujimaki es chantajeado para unirse a un torneo ilícito en el que tendrá que enfrentarse a los mejores luchadores en enfrentamientos a muerte. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/4YMpCGsAAHXWGScHsK1sbd7wprE.jpg"
                             },
                             {
-                                "url": "/gracias-el-siguiente/",
-                                "title": "Gracias, ¿el siguiente?",
-                                "description": "Kimler Geldi Kimler Geçti Tras una dolorosa ruptura, una joven abogada se lanza al complicado mundo de las citas actual, sabiendo que sus mejores amigas son su red de seguridad. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg"
-                            },
-                            {
-                                "url": "/gambito-de-reina/",
-                                "title": "Gambito de reina",
+                                "url": "/el-tiempo-que-te-doy/",
+                                "title": "El tiempo que te doy",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/loAhiXxBZj3TwZlNwNho1AA5AWL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/the-south-westerlies/",
-                                "title": "The South Westerlies",
+                                "url": "/marea-de-pasiones/",
+                                "title": "Marea de pasiones",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3scmuffObMQj7VohOy7yWJ1Zkyh.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,135 @@
             },
             "details": {
                 "result": {
-                    "url": "/garoden-el-camino-del-lobo-solitario/",
-                    "title": "Garōden: El camino del lobo solitario",
-                    "description": "餓狼伝: The Way of the Lone Wolf Huyendo de un crimen del pasado, Juzo Fujimaki es chantajeado para unirse a un torneo ilícito en el que tendrá que enfrentarse a los mejores luchadores en enfrentamientos a muerte.",
-                    "genre": "Action & Adventure, Animación",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oErcrWuqjHqigYuovMhqym5VmzW.jpg",
+                    "url": "/total-drama-island/",
+                    "title": "Total Drama Island",
+                    "description": "Drama Total | Isla del Drama Total Drama Island es un concurso de supervivencia en el que 22 participantes se enfrentan a numerosas pruebas para optar a un premio de 100.000 $.",
+                    "genre": "Animación, Comedia, Drama, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2mBbbvAIK7rrZD2Zhuc9WYB28xJ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/total-drama-island-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Episodio 2",
+                        "date_upload": 1183852800000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/total-drama-island-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - Episodio 1",
+                        "date_upload": 1183852800000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/02/00067/gch9e5r00l7d_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=RoO76KUsCNQfH8zjEqg4ViS-rihs8DvFrMFH5jbqY80&s=1716704277&e=43200&f=335044&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/02/00067/gch9e5r00l7d_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=RoO76KUsCNQfH8zjEqg4ViS-rihs8DvFrMFH5jbqY80&s=1716704277&e=43200&f=335044&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/17/00067/6gnlbuyfzqb8_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=K7vvW6c20HKETG33Kr0F9QZY6I6inVwmwazG4esNwOQ&s=1716704276&e=43200&f=335098&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/17/00067/6gnlbuyfzqb8_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=K7vvW6c20HKETG33Kr0F9QZY6I6inVwmwazG4esNwOQ&s=1716704276&e=43200&f=335098&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/05/00067/xi81q8o1n9u4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=dPvlcZ52ZUU7m1p9-KiaKOU7J6PwVhl7-5XtUwgRPQc&s=1716704274&e=43200&f=335090&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/05/00067/xi81q8o1n9u4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=dPvlcZ52ZUU7m1p9-KiaKOU7J6PwVhl7-5XtUwgRPQc&s=1716704274&e=43200&f=335090&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/02/00067/gch9e5r00l7d_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=RoO76KUsCNQfH8zjEqg4ViS-rihs8DvFrMFH5jbqY80&s=1716704277&e=43200&f=335044&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/02/00067/gch9e5r00l7d_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=RoO76KUsCNQfH8zjEqg4ViS-rihs8DvFrMFH5jbqY80&s=1716704277&e=43200&f=335044&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/17/00067/6gnlbuyfzqb8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=K7vvW6c20HKETG33Kr0F9QZY6I6inVwmwazG4esNwOQ&s=1716704276&e=43200&f=335098&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/17/00067/6gnlbuyfzqb8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=K7vvW6c20HKETG33Kr0F9QZY6I6inVwmwazG4esNwOQ&s=1716704276&e=43200&f=335098&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/05/00067/xi81q8o1n9u4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dPvlcZ52ZUU7m1p9-KiaKOU7J6PwVhl7-5XtUwgRPQc&s=1716704274&e=43200&f=335090&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/05/00067/xi81q8o1n9u4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dPvlcZ52ZUU7m1p9-KiaKOU7J6PwVhl7-5XtUwgRPQc&s=1716704274&e=43200&f=335090&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/02/00067/gch9e5r00l7d_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=RoO76KUsCNQfH8zjEqg4ViS-rihs8DvFrMFH5jbqY80&s=1716704277&e=43200&f=335044&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/02/00067/gch9e5r00l7d_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=RoO76KUsCNQfH8zjEqg4ViS-rihs8DvFrMFH5jbqY80&s=1716704277&e=43200&f=335044&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/17/00067/6gnlbuyfzqb8_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=K7vvW6c20HKETG33Kr0F9QZY6I6inVwmwazG4esNwOQ&s=1716704276&e=43200&f=335098&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/17/00067/6gnlbuyfzqb8_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=K7vvW6c20HKETG33Kr0F9QZY6I6inVwmwazG4esNwOQ&s=1716704276&e=43200&f=335098&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/05/00067/xi81q8o1n9u4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=dPvlcZ52ZUU7m1p9-KiaKOU7J6PwVhl7-5XtUwgRPQc&s=1716704274&e=43200&f=335090&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/05/00067/xi81q8o1n9u4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=dPvlcZ52ZUU7m1p9-KiaKOU7J6PwVhl7-5XtUwgRPQc&s=1716704274&e=43200&f=335090&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -62,6 +62,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/One-Piece-Free-Stream-Online-Anime-Free-Motarjam.jpg"
+                            },
+                            {
                                 "url": "/anime/tonari-no-youkai-san/",
                                 "title": "Tonari no Youkai-san",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Tonari-no-Youkai-san-6611cf34c67ee.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/anime/hananoi-kun-to-koi-no-yamai/",
                                 "title": "Hananoi-kun to Koi no Yamai",
                                 "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Hananoi-kun-to-Koi-no-Yamai-660ee5d537e4b.jpg"
-                            },
-                            {
-                                "url": "/anime/garouden-the-way-of-the-lone-wolf/",
-                                "title": "Garouden: The Way of the Lone Wolf",
-                                "thumbnail_url": "https://animelek.me/uploads/posters/Garouden-The-Way-of-the-Lone-Wolf-EP.jpg"
                             },
                             {
                                 "url": "/anime/garouden-the-way-of-the-lone-wolf/",
@@ -288,47 +288,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/one-piece-1106-الحلقة/",
+                        "name": "الحلقة 1106",
+                        "episode_number": 1106.0
+                    },
+                    {
                         "url": "/episode/one-piece-1105-الحلقة/",
                         "name": "الحلقة 1105",
                         "episode_number": 1105.0
-                    },
-                    {
-                        "url": "/episode/one-piece-الحلقة-1104/",
-                        "name": "الحلقة 1104",
-                        "episode_number": 1104.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=3&sig=-vZ_uCDdJV8&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=3&sig=-vZ_uCDdJV8&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
-                    },
-                    {
-                        "url": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=4&sig=v2X5Zhe_flY&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=4&sig=v2X5Zhe_flY&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
-                    },
-                    {
-                        "url": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=0&sig=dXcP8y3v96A&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=0&sig=dXcP8y3v96A&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
-                    },
-                    {
-                        "url": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=1&sig=oahdaeUvzko&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=1&sig=oahdaeUvzko&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
-                    },
-                    {
-                        "url": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=2&sig=nX-vHVxy83w&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd203.mycdn.me/?expires=1716771702964&srcIp=20.97.189.21&pr=10&srcAg=GECKO&ms=45.136.22.11&type=2&sig=nX-vHVxy83w&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6390130215642"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/romi/",
+                                "title": "ROMI",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/romi_list.jpg"
+                            },
+                            {
+                                "url": "/bad-boys-ride-or-die/",
+                                "title": "Bad Boys Ya Hep Ya Hiç",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/bad-boys-ride-or-die_list.jpg"
+                            },
+                            {
+                                "url": "/south-park-the-end-of-obesity/",
+                                "title": "South Park The End Of Obesity",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/south-park-the-end-of-obesity_list.jpg"
+                            },
+                            {
+                                "url": "/model-house/",
+                                "title": "Model House",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/model-house_list.jpg"
+                            },
+                            {
                                 "url": "/dizi/the-red-king/",
                                 "title": "The Red King",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-red-king_list.jpg"
@@ -47,14 +67,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/big-trip-2-special-delivery_list.jpg"
                             },
                             {
-                                "url": "/ashes-in-the-sky/",
-                                "title": "Ashes in the Sky",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/ashes-in-the-sky_list.jpg"
-                            },
-                            {
                                 "url": "/crew/",
                                 "title": "Crew",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/crew_list.jpg"
+                            },
+                            {
+                                "url": "/ashes-in-the-sky/",
+                                "title": "Ashes in the Sky",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/ashes-in-the-sky_list.jpg"
                             },
                             {
                                 "url": "/dizi/garouden-the-way-of-the-lone-wolf/",
@@ -70,6 +90,11 @@
                                 "url": "/the-death-of-dick-long/",
                                 "title": "The Death of Dick Long",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-death-of-dick-long_list.jpg"
+                            },
+                            {
+                                "url": "/the-best-man/",
+                                "title": "The Best Man",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-best-man_list.jpg"
                             },
                             {
                                 "url": "/the-deadly-swarm/",
@@ -97,9 +122,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/cold-copy_list.jpg"
                             },
                             {
-                                "url": "/the-best-man/",
-                                "title": "The Best Man",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-best-man_list.jpg"
+                                "url": "/sag-salim-3-olu-ya-da-diri/",
+                                "title": "Sağ Salim 3 Ölü ya da Diri",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/sag-salim-3-olu-ya-da-diri_list.jpg"
+                            },
+                            {
+                                "url": "/atlas/",
+                                "title": "Atlas",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/atlas_list.jpg"
                             },
                             {
                                 "url": "/asphalt-city/",
@@ -115,36 +145,6 @@
                                 "url": "/bridesmaids-1/",
                                 "title": "Nedimeler",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/bridesmaids_list.jpg"
-                            },
-                            {
-                                "url": "/amar-singh-chamkila/",
-                                "title": "Amar Singh Chamkila",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/amar-singh-chamkila_list.jpg"
-                            },
-                            {
-                                "url": "/sag-salim-3-olu-ya-da-diri/",
-                                "title": "Sağ Salim 3 Ölü ya da Diri",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/sag-salim-3-olu-ya-da-diri_list.jpg"
-                            },
-                            {
-                                "url": "/atlas/",
-                                "title": "Atlas",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/atlas_list.jpg"
-                            },
-                            {
-                                "url": "/bosco/",
-                                "title": "Bosco",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/bosco_list.jpg"
-                            },
-                            {
-                                "url": "/detective-chirp-the-golden-beehive/",
-                                "title": "Zıpır Dedektif ve Altın Arı Kovanı",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/detective-chirp-the-golden-beehive_list.jpg"
-                            },
-                            {
-                                "url": "/arctic-hollow/",
-                                "title": "Arctic Hollow",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/arctic-hollow_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,12 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/dizi/the-red-king/",
-                    "title": "The Red King",
-                    "artist": "Anjli Mohindra, Jill Halfpenny, Adjoa Andoh, Mark Lewis Jones, Lu Corfield, Sam Swainsbury, Marc Warren",
-                    "description": "Karakter odaklı gizem-gerilim dizisi, karmaşık bir polis soruşturmasının güçlü öyküsünü, Kızıl Kral olarak adlandırılan pagan bir Tanrı'ya ve Gerçek Yol kültünü ortaya çıkarıyor.",
-                    "genre": "Gerilim",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-red-king.jpg",
+                    "url": "/romi/",
+                    "title": "ROMI",
+                    "artist": "Alexa Barajas, Juan Riedinger, Pavel Kříž, Jocelyn Chugg",
+                    "description": "Son teknolojiye sahip bir akıllı evde saklanmak zorunda kalan genç bir kadın, kötü niyetli dijital asistanı ROMI tarafından avlanır.",
+                    "genre": "Korku, Gizem",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/romi.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -261,16 +263,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/dizi/the-red-king/sezon-1/bolum-6/",
-                        "name": "1. Sezon 6. Bölüm",
-                        "date_upload": 1716681600000,
-                        "episode_number": 1.006
-                    },
-                    {
-                        "url": "/dizi/the-red-king/sezon-1/bolum-5/",
-                        "name": "1. Sezon 5. Bölüm",
-                        "date_upload": 1716681600000,
-                        "episode_number": 1.005
+                        "url": "/romi/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

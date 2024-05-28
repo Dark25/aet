@@ -3,8 +3,64 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/dearest-blue/",
+                                "title": "Dearest Blue",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/05/Dearest-Blue-Sub.jpg?fit=185%2C259&ssl=1"
+                            },
+                            {
+                                "url": "/animes/the-boys/",
+                                "title": "The Boys",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/05/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/dead-dead-demons-dededededestruction/",
+                                "title": "Dead Dead Demon’s Dededede Destruction",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/05/45XAw7d5aTu6CK6OC4XQ3ji8s89.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/kiss-x-sis/",
+                                "title": "Kiss x Sis",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2020/06/o90qmkbmuSKFJa2DceSFMC0VD8U.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/rick-e-morty/",
+                                "title": "Rick e Morty",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/202330135.jpg?fit=185%2C258&ssl=1"
+                            },
+                            {
+                                "url": "/animes/bojack-horseman/",
+                                "title": "BoJack Horseman",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/cavalo.webp?fit=185%2C264&ssl=1"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD.jpg?fit=185%2C278&ssl=1"
+                            },
+                            {
+                                "url": "/animes/the-midnight-gospel/",
+                                "title": "The Midnight Gospel",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/me3kxfiFRkdto6SmDQv0nczjfmP.jpg?fit=185%2C272&ssl=1"
+                            },
+                            {
+                                "url": "/animes/trailer-park-boys/",
+                                "title": "Trailer Park Boys",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/ncJAzlVu44RN9ZWWsxI5SCFuOP3.jpg?fit=185%2C278&ssl=1"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -127,14 +183,20 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/dearest-blue/",
+                    "title": "Dearest Blue",
+                    "genre": "+18, Estupro, Fantasia, Jogo, Legendado, Submissao, Vida Escolar, Virgem",
+                    "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/05/Dearest-Blue-Sub.jpg?fit=185%2C259&ssl=1",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/ookami-to-koushinryou-merchant-meets-the-wise-wolf-episodio-9/",
-                        "name": "Filme",
+                        "url": "/episodios/dearest-blue-episodio-1/",
+                        "name": "Temporada 1 x Episódio 1",
                         "episode_number": 1.0
                     }
                 ],
@@ -143,18 +205,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://rr4---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1716906002&ei=kndVZsuxBOyBy_sPiKK2oAo&ip=20.42.106.70&id=e53bea789c699a7c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=XY&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=4&pl=17&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1430.186&lmt=1716836499021923&mt=1716876797&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgYX1xnhQHg9JbgsiPOYGCIJvBtyVJ7WF2ci80H-6RWJwCIQCCwcwaCXnYNuE9gHDONwlxFO1_q6xd9j8cSBXqwN9rAA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRgIhAKy6KfZ9_V8yZ6uoLGXlV0kubDWiI-Qr9oY4wLAHwu5kAiEAvfaEckeBnFSEZKQabiMfiOqaR49ojvaGjXMRPUX-v_Y%3D",
+                        "url": "https://rr4---sn-p5qlsn7l.googlevideo.com/videoplayback?expire=1716928007&ei=h81VZvSuG4Cpy_sP7fmo8AQ&ip=20.55.214.168&id=fac5cd2c1eed6383&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=F0&mm=31&mn=sn-p5qlsn7l&ms=au&mv=u&mvi=4&pl=22&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1235.464&lmt=1716816846668777&mt=1716898593&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAJ-3-abPRUy1Vyj94ESwec2NCgO8d_7rrq9qP8QCOyOoAiBx0u-cAwFDRc7X4deKfiyWCxy-zPMPmnbJH8J0qyu_0Q%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRAIgGdJqrO05tFBX6yfFUVhYLMRh8JgRiQEcmhWkjmMV6PgCIHundMe34KE37IgWfWU8QOp7iqve55WY3ogIBAHLkmOx",
                         "quality": "Blogger - 720p",
-                        "videoUrl": "https://rr4---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1716906002&ei=kndVZsuxBOyBy_sPiKK2oAo&ip=20.42.106.70&id=e53bea789c699a7c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=XY&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=4&pl=17&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1430.186&lmt=1716836499021923&mt=1716876797&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgYX1xnhQHg9JbgsiPOYGCIJvBtyVJ7WF2ci80H-6RWJwCIQCCwcwaCXnYNuE9gHDONwlxFO1_q6xd9j8cSBXqwN9rAA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRgIhAKy6KfZ9_V8yZ6uoLGXlV0kubDWiI-Qr9oY4wLAHwu5kAiEAvfaEckeBnFSEZKQabiMfiOqaR49ojvaGjXMRPUX-v_Y%3D",
+                        "videoUrl": "https://rr4---sn-p5qlsn7l.googlevideo.com/videoplayback?expire=1716928007&ei=h81VZvSuG4Cpy_sP7fmo8AQ&ip=20.55.214.168&id=fac5cd2c1eed6383&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=F0&mm=31&mn=sn-p5qlsn7l&ms=au&mv=u&mvi=4&pl=22&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1235.464&lmt=1716816846668777&mt=1716898593&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAJ-3-abPRUy1Vyj94ESwec2NCgO8d_7rrq9qP8QCOyOoAiBx0u-cAwFDRc7X4deKfiyWCxy-zPMPmnbJH8J0qyu_0Q%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRAIgGdJqrO05tFBX6yfFUVhYLMRh8JgRiQEcmhWkjmMV6PgCIHundMe34KE37IgWfWU8QOp7iqve55WY3ogIBAHLkmOx",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://animeplayer.com.br"
                         }
                     },
                     {
-                        "url": "https://rr4---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1716906002&ei=kndVZsuxBOyBy_sPiKK2oAo&ip=20.42.106.70&id=e53bea789c699a7c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=XY&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=4&pl=17&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1430.186&lmt=1716837274678712&mt=1716876797&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRgIhAJFEdXyVcY9_Gefz4shVNks5t1r9Dek3WBOTygXFTPSzAiEAyjiuq8nhPV5XXWDjeqZNVCKZ8AUW2X3BIo9NWfTHPSs%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRgIhAK9Xg98BFBwXcBwn_eGm-b5YdY9FpFPmqadr5OIfvOfoAiEA2-x8ycIIINP-kmkSY9jXRa2qQJE4zZXWEhbZ_RtlsK0%3D",
+                        "url": "https://rr4---sn-p5qlsn7l.googlevideo.com/videoplayback?expire=1716928007&ei=h81VZvSuG4Cpy_sP7fmo8AQ&ip=20.55.214.168&id=fac5cd2c1eed6383&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=F0&mm=31&mn=sn-p5qlsn7l&ms=au&mv=u&mvi=4&pl=22&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1235.464&lmt=1716816948657199&mt=1716898593&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAPyJCqlhSEp9EnjW1g8wxGIrxYAuhFW8OjVvMs9q_JLNAiB8shLPw3cLGLhWQn0iyDrftdaYpRI42q3CX_oQcNP0Xg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRQIhAPkd3pkyQGKiYW27nBpgcnocXnSTQao2y3d_nFzt_qCxAiAwUJBUB6GT-EF9Thj1FBvQe7-iXu8Rdeb8EZhmNsDcNA%3D%3D",
                         "quality": "Blogger - 360p",
-                        "videoUrl": "https://rr4---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1716906002&ei=kndVZsuxBOyBy_sPiKK2oAo&ip=20.42.106.70&id=e53bea789c699a7c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=XY&mm=31&mn=sn-p5qddn7r&ms=au&mv=m&mvi=4&pl=17&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1430.186&lmt=1716837274678712&mt=1716876797&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRgIhAJFEdXyVcY9_Gefz4shVNks5t1r9Dek3WBOTygXFTPSzAiEAyjiuq8nhPV5XXWDjeqZNVCKZ8AUW2X3BIo9NWfTHPSs%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRgIhAK9Xg98BFBwXcBwn_eGm-b5YdY9FpFPmqadr5OIfvOfoAiEA2-x8ycIIINP-kmkSY9jXRa2qQJE4zZXWEhbZ_RtlsK0%3D",
+                        "videoUrl": "https://rr4---sn-p5qlsn7l.googlevideo.com/videoplayback?expire=1716928007&ei=h81VZvSuG4Cpy_sP7fmo8AQ&ip=20.55.214.168&id=fac5cd2c1eed6383&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=F0&mm=31&mn=sn-p5qlsn7l&ms=au&mv=u&mvi=4&pl=22&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1235.464&lmt=1716816948657199&mt=1716898593&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAPyJCqlhSEp9EnjW1g8wxGIrxYAuhFW8OjVvMs9q_JLNAiB8shLPw3cLGLhWQn0iyDrftdaYpRI42q3CX_oQcNP0Xg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHWaYeowRQIhAPkd3pkyQGKiYW27nBpgcnocXnSTQao2y3d_nFzt_qCxAiAwUJBUB6GT-EF9Thj1FBvQe7-iXu8Rdeb8EZhmNsDcNA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://animeplayer.com.br"

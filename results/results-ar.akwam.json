@@ -3,30 +3,23 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

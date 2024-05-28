@@ -3,23 +3,29 @@
         "name": "EnNovelas (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "artist": "",
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

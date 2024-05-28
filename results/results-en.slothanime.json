@@ -77,6 +77,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dubu-xiaoyao",
+                                "title": "Dubu Xiaoyao",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11157.png"
+                            },
+                            {
+                                "url": "/anime/against-the-sky-supreme",
+                                "title": "Against The Sky Supreme",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
+                            },
+                            {
+                                "url": "/anime/sheng-zu",
+                                "title": "Sheng Zu",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11751.png"
+                            },
+                            {
+                                "url": "/anime/tales-of-demons-and-gods-season-7",
+                                "title": "Tales of Demons and Gods Season 7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
+                            },
+                            {
+                                "url": "/anime/wan-jie-xian-zong-5",
+                                "title": "Wan Jie Xian Zong 5",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11198.png"
+                            },
+                            {
+                                "url": "/anime/swallowed-star-4",
+                                "title": "Swallowed Star 4",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11475.png"
+                            },
+                            {
+                                "url": "/anime/martial-master-2",
+                                "title": "Martial Master 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11164.png"
+                            },
+                            {
+                                "url": "/anime/wu-shang-shen-di-2",
+                                "title": "Wu Shang Shen Di 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
+                            },
+                            {
                                 "url": "/anime/super-xiang",
                                 "title": "Super Xiang",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11942.png"
@@ -95,46 +135,6 @@
                                 "url": "/anime/the-banished-former-hero-lives-as-he-pleases",
                                 "title": "The Banished Former Hero Lives as He Pleases",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11893.png"
-                            },
-                            {
-                                "url": "/anime/getter-robo-go",
-                                "title": "Getter Robo Go",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11046.png"
-                            },
-                            {
-                                "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
-                                "title": "Spice and Wolf: merchant meets the wise wolf",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11903.png"
-                            },
-                            {
-                                "url": "/anime/tsukimichi-moonlit-fantasy-season-2",
-                                "title": "Tsukimichi -Moonlit Fantasy- Season 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11309.png"
-                            },
-                            {
-                                "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
-                                "title": "Tensei Kizoku Kantei Skill de Nariagaru",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11904.png"
-                            },
-                            {
-                                "url": "/anime/tadaima-okaeri",
-                                "title": "Tadaima, Okaeri",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11940.png"
-                            },
-                            {
-                                "url": "/anime/train-to-the-end-of-the-world",
-                                "title": "Train to the End of the World",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11898.png"
-                            },
-                            {
-                                "url": "/anime/chillin-in-another-world-with-level-2-super-cheat-powers",
-                                "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11909.png"
-                            },
-                            {
-                                "url": "/anime/gods-games-we-play",
-                                "title": "Gods' Games We Play",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11885.png"
                             }
                         ],
                         "hasNextPage": true
@@ -243,16 +243,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/lucky-feat-umi",
-                    "title": "Lucky (feat. UMI)",
-                    "author": "MAPPA, Contrail",
-                    "description": "Music video directed by Kyouhei Ishiguro for the song Lucky by Nulbarich and Sunny (feat. UMI).",
-                    "genre": "Music",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12023.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
@@ -261,9 +253,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=y3vgxuN6LnrxwbHTZXPRNA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=k0cGfrMux95BDMXWbmxoJA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=y3vgxuN6LnrxwbHTZXPRNA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=k0cGfrMux95BDMXWbmxoJA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

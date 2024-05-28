@@ -127,14 +127,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-2jUaUdiGBZQ8.jpg"
                             },
                             {
-                                "url": "Q7h4rxYmdHDADCTfY<&sep><&sep>mahouka-koukou-no-rettousei-season-3",
-                                "title": "Mahouka Koukou no Rettousei Season 3",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg"
-                            },
-                            {
                                 "url": "QdcDzpRCfcjqHCNNg<&sep><&sep>yozakura-san-chi-no-daisakusen",
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
+                            },
+                            {
+                                "url": "Q7h4rxYmdHDADCTfY<&sep><&sep>mahouka-koukou-no-rettousei-season-3",
+                                "title": "Mahouka Koukou no Rettousei Season 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,13 +143,154 @@
                 "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "bx4iqprCv2p5vPB2B<&sep><&sep>rinkai-",
+                                "title": "Rinkai!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163141-dWqdA3MOGtYz.png"
+                            },
+                            {
+                                "url": "TXkaJ8nzG8xKMgqcZ<&sep><&sep>unnamed-memory",
+                                "title": "Unnamed Memory",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158709-WFA0RHloDvPl.jpg"
+                            },
+                            {
+                                "url": "aSbymCPgDzS4HWgFv<&sep><&sep>san-xiuzhi-wang",
+                                "title": "San Xiuzhi Wang",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1419/142176.jpg"
+                            },
+                            {
+                                "url": "nK2Sf5kD4JZaFRoxW<&sep><&sep>reborn-as-a-monster-what-the-hell",
+                                "title": "Reborn As A Monster! What The Hell",
+                                "thumbnail_url": "https://gogocdn.net/cover/reborn-as-a-monster-what-the-hell.png"
+                            },
+                            {
+                                "url": "d2PMyPbDAthsitf5x<&sep><&sep>wan-jie-du-zun-season-2",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
+                            {
+                                "url": "ox2opWHHwh2d663NG<&sep><&sep>ling-jian-zun-season-4",
+                                "title": "Ling Jian Zun Season 4",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120272-v1UXPGEyyVDb.png"
+                            },
+                            {
+                                "url": "dnyamHyFWPDL2ta9v<&sep><&sep>fatal-fury-the-motion-picture",
+                                "title": "Fatal Fury: The Motion Picture",
+                                "thumbnail_url": "https://gogocdn.net/cover/fatal-fury-the-motion-picture.png"
+                            },
+                            {
+                                "url": "SY3rDPD3ikTh5TLZo<&sep><&sep>fatal-fury-2-the-new-battle",
+                                "title": "Fatal Fury 2: The New Battle",
+                                "thumbnail_url": "https://gogocdn.net/cover/fatal-fury-2-the-new-battle.png"
+                            },
+                            {
+                                "url": "DzwbxStZgvuTF9LSW<&sep><&sep>fatal-fury-legend-of-the-hungry-wolf",
+                                "title": "Fatal Fury: Legend of the Hungry Wolf",
+                                "thumbnail_url": "https://gogocdn.net/cover/fatal-fury-legend-of-the-hungry-wolf.png"
+                            },
+                            {
+                                "url": "hEQboPQtuKx2N2Lmb<&sep><&sep>lian-qi-shi-wan-nian",
+                                "title": "Lian Qi Shi Wan Nian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
+                            },
+                            {
+                                "url": "48LSqzbA9D6Bvhihf<&sep><&sep>wushen-zhuzai",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1537/111213.jpg"
+                            },
+                            {
+                                "url": "tKnWhSXG6Wxop4w6X<&sep><&sep>jingju-mao-zhi-cheng-feng-polang",
+                                "title": "Jingju Mao Zhi Cheng Feng Polang",
+                                "thumbnail_url": "https://gogocdn.net/cover/jingju-mao-zhi-cheng-feng-polang.png"
+                            },
+                            {
+                                "url": "vkAhPCDetQztGQJpi<&sep><&sep>tunshi-xingkong-season-2",
+                                "title": "Tunshi Xingkong Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134283-VKSWjndQWceF.png"
+                            },
+                            {
+                                "url": "oCYNhMf2R6t9MxLm5<&sep><&sep>yao-shen-ji-8th-season-2024-",
+                                "title": "Yao Shen Ji 8th Season (2024)",
+                                "thumbnail_url": "https://gogocdn.net/cover/yao-shen-ji-8th-season-2024-1714457740.png"
+                            },
+                            {
+                                "url": "3Gk8ZqbZTxpEg7dyo<&sep><&sep>wan-jie-xian-zong-season-5",
+                                "title": "Wan Jie Xian Zong Season 5",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136146-gkYucz4cEkGg.jpg"
+                            },
+                            {
+                                "url": "ZDxMfy9mmxEbjryKP<&sep><&sep>ni-tian-zhizun",
+                                "title": "Ni Tian Zhizun",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1099/117046.jpg"
+                            },
+                            {
+                                "url": "A5SQqDayQ3p4ArMvk<&sep><&sep>sheng-zu",
+                                "title": "Sheng Zu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1958/141075.jpg"
+                            },
+                            {
+                                "url": "HLJNkFHDEuEBrzX24<&sep><&sep>bakugan-battle-brawlers",
+                                "title": "Bakugan Battle Brawlers",
+                                "thumbnail_url": "https://gogocdn.net/cover/bakugan-battle-brawlers.png"
+                            },
+                            {
+                                "url": "GxTmykBMRwozpxW9e<&sep><&sep>bakugan-battle-brawlers-gundalian-invaders",
+                                "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+                                "thumbnail_url": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png"
+                            },
+                            {
+                                "url": "MsQMzfMtztc93Eiui<&sep><&sep>shinkalion-change-the-world",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172395-TESU4M0kQ94c.jpg"
+                            },
+                            {
+                                "url": "suRedmDwrZtMw73vP<&sep><&sep>dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
+                                "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166372-AO67sLMZfUpB.jpg"
+                            },
+                            {
+                                "url": "yCkrq8Mdgs6t983iL<&sep><&sep>ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145728-YUKXjN2E81Pq.jpg"
+                            },
+                            {
+                                "url": "DAjEDih9TwTDFifyz<&sep><&sep>tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+                                "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1253/142886.jpg"
+                            },
+                            {
+                                "url": "hhaewxSaxsm9RH3mZ<&sep><&sep>tadaima-okaeri",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169698-pmIhuxlGufON.jpg"
+                            },
+                            {
+                                "url": "BHtzBbDXNuhBjypaJ<&sep><&sep>re-monster",
+                                "title": "Re:Monster",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
+                            },
+                            {
+                                "url": "wAMnpBBwaE3fJ8jwH<&sep><&sep>tsuki-ga-michibiku-isekai-douchuu-season-2",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "d2PMyPbDAthsitf5x<&sep><&sep>wan-jie-du-zun-season-2",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
                             {
                                 "url": "MsQMzfMtztc93Eiui<&sep><&sep>shinkalion-change-the-world",
                                 "title": "Shinkalion: Change the World",
@@ -174,11 +315,6 @@
                                 "url": "QusmPJR29sg3G35CB<&sep><&sep>mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-JC56ExYSC2YB.jpg"
-                            },
-                            {
-                                "url": "d2PMyPbDAthsitf5x<&sep><&sep>wan-jie-du-zun-season-2",
-                                "title": "Wan Jie Du Zun Season 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
                             },
                             {
                                 "url": "6oDA6BDxtLCJq5FZx<&sep><&sep>wanmei-shijie",
@@ -316,9 +452,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737312867686f65626875727463676b286f68606929706f62636975296e6a7529625272505072774342557c44527c5e544c634d50474729373137303f373535363f29343430373231293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736302837313730303f363e3f37286b35733e242a2476677475634e6a75243c727473632a2462677263243c373137303e32313436363636367b",
+                        "url": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737312867686f65626875727463676b286f68606929706f62636975296e6a7529436842473f315945416277536b51734844344454545729373137303f353234343429343430373231293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736302837313730303f363e3f37286b35733e242a2476677475634e6a75243c727473632a2462677263243c373137303e32313436363636367b",
                         "quality": "internal Luf-mp4 - Alt",
-                        "videoUrl": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737312867686f65626875727463676b286f68606929706f62636975296e6a7529625272505072774342557c44527c5e544c634d50474729373137303f373535363f29343430373231293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736302837313730303f363e3f37286b35733e242a2476677475634e6a75243c727473632a2462677263243c373137303e32313436363636367b",
+                        "videoUrl": "https://workfields.maverickki.lol/7d2473746a243c246e727276753c29297171713737312867686f65626875727463676b286f68606929706f62636975296e6a7529436842473f315945416277536b51734844344454545729373137303f353234343429343430373231293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373736302837313730303f363e3f37286b35733e242a2476677475634e6a75243c727473632a2462677263243c373137303e32313436363636367b",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

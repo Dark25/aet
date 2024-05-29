@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kamen-rider-gotchard-anime",
+                                "title": "Kamen Rider Gotchard Anime",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12024.png"
+                            },
+                            {
                                 "url": "/anime/lucky-feat-umi",
                                 "title": "Lucky (feat. UMI)",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12023.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/nirvana-of-storm-rider",
                                 "title": "Nirvana of Storm Rider",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12013.png"
-                            },
-                            {
-                                "url": "/anime/overlord-the-sacred-kingdom",
-                                "title": "OVERLORD: The Sacred Kingdom",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12012.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,51 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/san-xiu-zhi-wang",
+                                "title": "San Xiu Zhi Wang",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11917.png"
+                            },
+                            {
+                                "url": "/anime/the-peak-of-true-martial-arts-3rd-season",
+                                "title": "The Peak of True Martial Arts 3rd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11604.png"
+                            },
+                            {
+                                "url": "/anime/shrouding-the-heavens",
+                                "title": "Shrouding the Heavens",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11075.png"
+                            },
+                            {
+                                "url": "/anime/kamen-rider-gotchard-anime",
+                                "title": "Kamen Rider Gotchard Anime",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12024.png"
+                            },
+                            {
+                                "url": "/anime/himitsu-no-aipri",
+                                "title": "Himitsu no AiPri",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11943.png"
+                            },
+                            {
+                                "url": "/anime/animation-paralympic-who-is-your-hero",
+                                "title": "Animation × Paralympic: Who Is Your Hero?",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/9356.png"
+                            },
+                            {
+                                "url": "/anime/rinkai",
+                                "title": "Rinkai!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11947.png"
+                            },
+                            {
+                                "url": "/anime/one-hundred-thousand-years-of-qi-refining",
+                                "title": "One Hundred Thousand Years of Qi Refining",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11097.png"
+                            },
+                            {
+                                "url": "/anime/psychopass-3-first-inspector",
+                                "title": "PSYCHO-PASS 3: First Inspector",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/5785.png"
+                            },
                             {
                                 "url": "/anime/dubu-xiaoyao",
                                 "title": "Dubu Xiaoyao",
@@ -90,51 +135,6 @@
                                 "url": "/anime/sheng-zu",
                                 "title": "Sheng Zu",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11751.png"
-                            },
-                            {
-                                "url": "/anime/tales-of-demons-and-gods-season-7",
-                                "title": "Tales of Demons and Gods Season 7",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
-                            },
-                            {
-                                "url": "/anime/wan-jie-xian-zong-5",
-                                "title": "Wan Jie Xian Zong 5",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11198.png"
-                            },
-                            {
-                                "url": "/anime/swallowed-star-4",
-                                "title": "Swallowed Star 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11475.png"
-                            },
-                            {
-                                "url": "/anime/martial-master-2",
-                                "title": "Martial Master 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11164.png"
-                            },
-                            {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
-                            },
-                            {
-                                "url": "/anime/super-xiang",
-                                "title": "Super Xiang",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11942.png"
-                            },
-                            {
-                                "url": "/anime/chang-jian-fengyun-2",
-                                "title": "Chang Jian Fengyun 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11049.png"
-                            },
-                            {
-                                "url": "/anime/shinkalion-change-the-world",
-                                "title": "Shinkalion: Change the World",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11938.png"
-                            },
-                            {
-                                "url": "/anime/the-banished-former-hero-lives-as-he-pleases",
-                                "title": "The Banished Former Hero Lives as He Pleases",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11893.png"
                             }
                         ],
                         "hasNextPage": true
@@ -243,23 +243,39 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/kamen-rider-gotchard-anime",
+                    "title": "Kamen Rider Gotchard Anime",
+                    "author": "",
+                    "genre": "Comedy",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12024.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/kamen-rider-gotchard-anime/147099",
+                        "name": "Episode 2"
+                    },
+                    {
+                        "url": "/player/kamen-rider-gotchard-anime/147098",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=k0cGfrMux95BDMXWbmxoJA%3D%3D",
+                        "url": "https://slothanime.com/player-url/147099?vrf=YHGm5uHS2ga%2Fm8mYAquxNg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=k0cGfrMux95BDMXWbmxoJA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/147099?vrf=YHGm5uHS2ga%2Fm8mYAquxNg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/kamen-rider-gotchard-anime/147099"
                         }
                     }
                 ],

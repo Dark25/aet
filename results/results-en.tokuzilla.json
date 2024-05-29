@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/king-ohger-vs-donbrothers-king-ohger-vs-kyoryuger.html",
+                                "title": "Ohsama Sentai King-Ohger VS Donbrothers",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2024/05/Thumb-ohsama-sentai-king-ohger-vs-donbrothers.jpg"
+                            },
+                            {
                                 "url": "/watch/bakuage-sentai-boonboomger.html",
                                 "title": "Bakuage Sentai Boonboomger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
@@ -20,11 +25,6 @@
                                 "url": "/watch/ohsama-sentai-king-ohger-vs-kyoryuger.html",
                                 "title": "Ohsama Sentai King-Ohger vs. Kyoryuger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-vs-kyoryuger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/king-ohger-vs-donbrothers-king-ohger-vs-kyoryuger.html",
-                                "title": "Ohsama Sentai King-Ohger VS Donbrothers",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2024/05/Thumb-ohsama-sentai-king-ohger-vs-donbrothers.jpg"
                             },
                             {
                                 "url": "/watch/ohsama-sentai-king-ohger-final-three-episodes.html",
@@ -144,14 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/bakuage-sentai-boonboomger.html",
-                    "title": "Bakuage Sentai Boonboomger",
+                    "url": "/watch/king-ohger-vs-donbrothers-king-ohger-vs-kyoryuger.html",
+                    "title": "Ohsama Sentai King-Ohger VS Donbrothers",
                     "author": "Year 2024",
-                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
-                    "genre": "Series, Super Sentai",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
+                    "description": "Ohsama Sentai King-Ohger vs. Donbrothers is a Japanese superhero crossover film between the protagonists of Ohsama Sentai King-Ohger and Avataro Sentai Donbrothers, and serves as the 30th installment of the VS series of films alongside Ohsama Sentai King-Ohger vs. Kyoryuger.",
+                    "genre": "Movie, Super Sentai",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2024/05/Thumb-ohsama-sentai-king-ohger-vs-donbrothers.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -159,20 +157,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=14#watch",
-                        "name": "Episode 14",
-                        "episode_number": 14.0
-                    },
-                    {
-                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=13#watch",
-                        "name": "Episode 13",
-                        "episode_number": 13.0
+                        "url": "/watch/king-ohger-vs-donbrothers-king-ohger-vs-kyoryuger.html",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

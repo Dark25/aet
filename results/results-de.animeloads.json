@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/kawaisugi-crisis",
+                                "title": "Too Cute Crisis",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kawaisugi-crisis-cover.jpg"
+                            },
+                            {
                                 "url": "/media/kimetsu-no-yaiba-hashira-geiko-hen",
                                 "title": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kimetsu-no-yaiba-hashira-geiko-hen-cover.png"
@@ -100,11 +105,6 @@
                                 "url": "/media/maou-gakuin-no-futekigou-sha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2-2nd-cour",
                                 "title": "The Misfit of Demon King Academy II (Cour 2)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2-2nd-cour-cover.jpg"
-                            },
-                            {
-                                "url": "/media/kenka-dokugaku",
-                                "title": "Viral Hit",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kenka-dokugaku-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,25 +224,50 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/kimetsu-no-yaiba-hashira-geiko-hen",
-                    "title": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
+                    "url": "/media/kawaisugi-crisis",
+                    "title": "Too Cute Crisis",
                     "author": "",
-                    "description": "Quelle: aniSearch",
-                    "genre": "Actiondrama",
+                    "description": "Die Herrschaft des Imperiums Azatoth umspannt eine Vielzahl an Planeten. Nun sind die außerirdischen Eroberer auf dem Weg zur Erde. Liza Luna, die Leiterin des Forschungsbüros, würde den Planeten am liebsten sofort zerstören – zu primitiv sind ihrer Ansicht nach die Bewohner. Amat Roy, der stellvertretende Kommandant, möchte jedoch nichts überstürzen. Jeder Planet ist einmalig, und vielleicht gibt es selbst auf diesem rückständigen Planeten etwas, das dem Imperium von Nutzen sein könnte. So macht Liza sich ohne große Erwartungen zur Erde auf. Als sie sich schon in ihren voreiligen Schlüssen bestätigt fühlt, betritt sie ein Café. Was sie darin vorfindet, stellt alles, woran sie bislang geglaubt hat, auf den Kopf: Katzen! Ohne zu wissen, worum es sich bei diesem Café – einem Katzen-Café namens »nyanday« – handelt, wird sie von den flauschigen Wesen noch nie zuvor gesehener Niedlichkeit übermannt und in die Knie gezwungen. Zweifellos: Katzen sind der spektakulärste Organismus, den sie jemals gesehen hat! Doch Liza muss stark sein, denn in weiterer Folge trifft sie auch auf andere niedliche Tiere. Sie steckt wahrlich in einer Krise ... in einer zu niedlichen Krise! Quelle: aniSearch",
+                    "genre": "Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kimetsu-no-yaiba-hashira-geiko-hen-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kawaisugi-crisis-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/media/kawaisugi-crisis#streams_episodes_1_11",
+                        "name": "Ep.12 Too Cute",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/media/kawaisugi-crisis#streams_episodes_1_10",
+                        "name": "Ep.11 Warriors",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=8vjX7AGBZ4foVGz&expires=1717163395&ip=F0qQKRWZD19XKxR&token=8Two1CZ3ySlh",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=8vjX7AGBZ4foVGz&expires=1717163395&ip=F0qQKRWZD19XKxR&token=8Two1CZ3ySlh"
+                    },
+                    {
+                        "url": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/11467/zeklt2pbtdin_,n,.urlset/index-v1-a1.m3u8?t=W0cb5uL6Rk5Y0NW4scyCWgrcO9jshf0IdRGa7-_wSVc&s=1717093388&e=14400&f=57337253&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe: 720p",
+                        "videoUrl": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/11467/zeklt2pbtdin_,n,.urlset/index-v1-a1.m3u8?t=W0cb5uL6Rk5Y0NW4scyCWgrcO9jshf0IdRGa7-_wSVc&s=1717093388&e=14400&f=57337253&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

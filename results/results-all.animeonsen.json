@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "T7yx5cNCPS4oc90L",
+                                "title": "Henjin no Salad Bowl",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/T7yx5cNCPS4oc90L"
+                            },
+                            {
+                                "url": "qDtAkQ4aXRZB3nDJ",
+                                "title": "Wind Breaker",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qDtAkQ4aXRZB3nDJ"
+                            },
+                            {
                                 "url": "Izjuq1DxP4VWKWef",
                                 "title": "Urusei Yatsura (2022) 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Izjuq1DxP4VWKWef"
@@ -95,16 +105,6 @@
                                 "url": "V6OjOws40DqJqeQI",
                                 "title": "Unnamed Memory",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/V6OjOws40DqJqeQI"
-                            },
-                            {
-                                "url": "YHJ51kxfCoX1Ur1I",
-                                "title": "Girls Band Cry",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/YHJ51kxfCoX1Ur1I"
-                            },
-                            {
-                                "url": "etAHvQ3kEgBRRKCP",
-                                "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/etAHvQ3kEgBRRKCP"
                             }
                         ],
                         "hasNextPage": true
@@ -279,14 +279,14 @@
             },
             "details": {
                 "result": {
-                    "url": "Izjuq1DxP4VWKWef",
-                    "title": "Urusei Yatsura (2022) 2nd Season",
-                    "author": "David Production",
-                    "description": "Second season of Urusei Yatsura (2022).\n",
-                    "genre": "Comedy, Romance, Sci-Fi, Shounen",
+                    "url": "T7yx5cNCPS4oc90L",
+                    "title": "Henjin no Salad Bowl",
+                    "author": "SynergySP, Studio Comet",
+                    "description": "Sousuke Kaburaya, an impoverished detective, meets Sara, a princess from another world with magical powers. They start living together, and Sara quickly adjusts her life to modern Japan.\n\n(Source: Shogakukan, translated)",
+                    "genre": "Comedy, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Izjuq1DxP4VWKWef",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/T7yx5cNCPS4oc90L",
                     "initialized": true
                 },
                 "passed": true
@@ -294,14 +294,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "Izjuq1DxP4VWKWef/video/20",
-                        "name": "Episode 20: Boy Meets Girl: Are You Really Getting Married?",
-                        "episode_number": 20.0
+                        "url": "T7yx5cNCPS4oc90L/video/9",
+                        "name": "Episode 9: The Demon Lord's Descendant Makes Her Grade School Debut",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "Izjuq1DxP4VWKWef/video/19",
-                        "name": "Episode 19: Lum's Wrath / Steal My Heart",
-                        "episode_number": 19.0
+                        "url": "T7yx5cNCPS4oc90L/video/8",
+                        "name": "Episode 8: The Princess and the Father",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -309,17 +309,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/Izjuq1DxP4VWKWef/20/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/T7yx5cNCPS4oc90L/9/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/Izjuq1DxP4VWKWef/20/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/T7yx5cNCPS4oc90L/9/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/Izjuq1DxP4VWKWef/en-US/20",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/en-US/9",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/ru-RU/9",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/pt-BR/9",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/it-IT/9",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/fr-FR/9",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/es-LA/9",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/es-ES/9",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/de-DE/9",
+                                "lang": "Deutsch"
                             }
                         ]
                     }

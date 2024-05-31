@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "8646-ni-una-mas",
+                                "title": "Ni una más",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/dc4e7e82-8cc1-48dc-a7d8-65a245260b0f.webp"
+                            },
+                            {
+                                "url": "8645-una-parte-di-te",
+                                "title": "Una parte di te",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e157ff47-435e-402c-b96c-934494f65f7a.webp"
+                            },
+                            {
                                 "url": "8643-die-hart-2-die-harter",
                                 "title": "Die Hart 2: Die Harter",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/eeb6274f-5925-44cc-9a2b-27f564861661.webp"
@@ -35,6 +45,11 @@
                                 "url": "8323-la-profezia-del-male",
                                 "title": "La profezia del male",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/64c005cf-6253-4058-be30-05f30cf72922.webp"
+                            },
+                            {
+                                "url": "8644-dancing-for-the-devil-storia-di-una-setta-su-tiktok",
+                                "title": "Dancing for the Devil: storia di una setta su TikTok",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ae05c01c-4aec-434e-a103-6b081d9175df.webp"
                             },
                             {
                                 "url": "8627-i-colori-del-male-rosso",
@@ -290,21 +305,6 @@
                                 "url": "7696-challengers",
                                 "title": "Challengers",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/538ec93f-f8e6-4eb9-9894-8b0fa505c4a6.webp"
-                            },
-                            {
-                                "url": "8310-briganti",
-                                "title": "Briganti",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/389a54ec-8170-4fcd-92b8-81eb05620c6a.webp"
-                            },
-                            {
-                                "url": "8192-civil-war",
-                                "title": "Civil War",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/060b1cf7-8b01-473d-afad-5fe93325caa3.webp"
-                            },
-                            {
-                                "url": "8338-alessandro-siani-off-line",
-                                "title": "Alessandro Siani - Off line",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ab005ae1-6c33-457c-ac66-d1b0552e56f5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8643-die-hart-2-die-harter",
-                    "description": "In questo sequel, Kevin Hart, la più grande star d'azione al mondo, è vittima di un crudele piano di vendetta e deve avvalersi dell'aiuto della sua collega preferita e del suo assistente zelante per sopravvivere.",
-                    "genre": "Azione, Commedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "8646-ni-una-mas",
+                    "description": "Quando una diciassettenne denuncia uno stupro avvenuto nel suo liceo, un'inchiesta le sconvolge la vita e mette alla prova le sue relazioni.",
+                    "genre": "Dramma",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8643",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "8646?episode_id=63458&next_episode=1",
+                        "name": "Stagione 1 episodio 8 - Sangue o lacrime",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "8646?episode_id=63457&next_episode=1",
+                        "name": "Stagione 1 episodio 7 - Come catturare un predatore sessuale",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true

@@ -3,19 +3,8 @@
         "name": "AnimeWorld India (ALL)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/pokemon-the-johto-journeys/",
-                                "title": "Pokémon: The Johto Journeys",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/709.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -154,12 +143,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-the-johto-journeys/",
-                    "title": "Pokémon: The Johto Journeys",
-                    "artist": "Studio Jack",
-                    "author": "Studio Jack",
-                    "description": "The Orange League beckons and Ash answers the call, taking on the Orange Crew and their leader, Drake. Upon returning to Pallet Town, Ash and Misty reunite with Brock and set out on the next stage of their Pokémon journey—the Johto region! Though he still has an errand to run for Professor Oak, Ash jumps with both feet into the Johto League, taking on a couple of Gym Leaders and adding Pokémon like Totodile and Chikorita to his team.",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
+                    "url": "/series/akebis-sailor-uniform/",
+                    "title": "Akebi’s Sailor Uniform",
+                    "artist": "CloverWorks",
+                    "author": "Aniplex",
+                    "description": "Ever since she was young, Komichi Akebi has always adored sailor uniforms, even going so far as to ask her mother to sew one if she succeeds in getting into her mother's alma mater, Roubai Academy. And thus, when she gets accepted into the prestigious school, Komichi is ecstatic. However, much to her surprise, the middle school no longer uses sailor uniforms as its dress code—making Komichi stand out from her schoolmates. Despite this, Komichi is granted permission to continue wearing the traditional attire. With renewed confidence, Komichi meets fascinating classmates as they experience school life together. Under the colorful shower of blossoming prospects, an exciting tomorrow awaits them!",
+                    "genre": "Comedy, School, Seinen, Slice of Life",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -169,16 +158,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1046",
-                        "name": "Season 5 - Episode 64",
-                        "date_upload": 1710123403000,
-                        "episode_number": 272.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12768",
+                        "name": "Episode 12 - I'm Not Alone",
+                        "date_upload": 1717115029000,
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1045",
-                        "name": "Season 5 - Episode 63",
-                        "date_upload": 1710123402000,
-                        "episode_number": 271.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12767",
+                        "name": "Episode 11 - Sharing This Time... With Everyone..",
+                        "date_upload": 1717113535000,
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -186,9 +175,99 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[japanese] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[english] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[telugu] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[tamil] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[hindi] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "PHPSESSID=j2al6rvne17i90fvqg5jpsjb0g",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
+                        "quality": "[japanese] MyStream: 240p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
+                        "quality": "[japanese] MyStream: 360p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "quality": "[japanese] MyStream: 480p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[japanese] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -196,9 +275,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -206,9 +285,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
                         "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -216,32 +295,132 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[english] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
+                        "quality": "[telugu] MyStream: 240p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
+                        "quality": "[telugu] MyStream: 360p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "quality": "[telugu] MyStream: 480p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[telugu] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
+                        "quality": "[tamil] MyStream: 240p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
+                        "quality": "[tamil] MyStream: 360p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "quality": "[tamil] MyStream: 480p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[tamil] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=s66p9vl3ahl73medtlq3rh4tl2",
+                            "cookie": "PHPSESSID=j2al6rvne17i90fvqg5jpsjb0g",
                             "accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=s66p9vl3ahl73medtlq3rh4tl2",
+                            "cookie": "PHPSESSID=j2al6rvne17i90fvqg5jpsjb0g",
                             "accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
                         "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=s66p9vl3ahl73medtlq3rh4tl2",
+                            "cookie": "PHPSESSID=j2al6rvne17i90fvqg5jpsjb0g",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[hindi] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "PHPSESSID=j2al6rvne17i90fvqg5jpsjb0g",
                             "accept": "*/*"
                         }
                     }
@@ -374,19 +553,8 @@
         "name": "AnimeWorld India (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/pokemon-the-johto-journeys/",
-                                "title": "Pokémon: The Johto Journeys",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/709.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -525,12 +693,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-the-johto-journeys/",
-                    "title": "Pokémon: The Johto Journeys",
-                    "artist": "Studio Jack",
-                    "author": "Studio Jack",
-                    "description": "The Orange League beckons and Ash answers the call, taking on the Orange Crew and their leader, Drake. Upon returning to Pallet Town, Ash and Misty reunite with Brock and set out on the next stage of their Pokémon journey—the Johto region! Though he still has an errand to run for Professor Oak, Ash jumps with both feet into the Johto League, taking on a couple of Gym Leaders and adding Pokémon like Totodile and Chikorita to his team.",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
+                    "url": "/series/akebis-sailor-uniform/",
+                    "title": "Akebi’s Sailor Uniform",
+                    "artist": "CloverWorks",
+                    "author": "Aniplex",
+                    "description": "Ever since she was young, Komichi Akebi has always adored sailor uniforms, even going so far as to ask her mother to sew one if she succeeds in getting into her mother's alma mater, Roubai Academy. And thus, when she gets accepted into the prestigious school, Komichi is ecstatic. However, much to her surprise, the middle school no longer uses sailor uniforms as its dress code—making Komichi stand out from her schoolmates. Despite this, Komichi is granted permission to continue wearing the traditional attire. With renewed confidence, Komichi meets fascinating classmates as they experience school life together. Under the colorful shower of blossoming prospects, an exciting tomorrow awaits them!",
+                    "genre": "Comedy, School, Seinen, Slice of Life",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -540,16 +708,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1046",
-                        "name": "Season 5 - Episode 64",
-                        "date_upload": 1710123403000,
-                        "episode_number": 272.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12768",
+                        "name": "Episode 12 - I'm Not Alone",
+                        "date_upload": 1717115029000,
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1045",
-                        "name": "Season 5 - Episode 63",
-                        "date_upload": 1710123402000,
-                        "episode_number": 271.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12767",
+                        "name": "Episode 11 - Sharing This Time... With Everyone..",
+                        "date_upload": 1717113535000,
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -557,9 +725,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[english] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -567,9 +745,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -577,9 +755,19 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
                         "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[english] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -595,19 +783,8 @@
         "name": "AnimeWorld India (HI)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/pokemon-the-johto-journeys/",
-                                "title": "Pokémon: The Johto Journeys",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/709.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -741,12 +918,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-the-johto-journeys/",
-                    "title": "Pokémon: The Johto Journeys",
-                    "artist": "Studio Jack",
-                    "author": "Studio Jack",
-                    "description": "The Orange League beckons and Ash answers the call, taking on the Orange Crew and their leader, Drake. Upon returning to Pallet Town, Ash and Misty reunite with Brock and set out on the next stage of their Pokémon journey—the Johto region! Though he still has an errand to run for Professor Oak, Ash jumps with both feet into the Johto League, taking on a couple of Gym Leaders and adding Pokémon like Totodile and Chikorita to his team.",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
+                    "url": "/series/akebis-sailor-uniform/",
+                    "title": "Akebi’s Sailor Uniform",
+                    "artist": "CloverWorks",
+                    "author": "Aniplex",
+                    "description": "Ever since she was young, Komichi Akebi has always adored sailor uniforms, even going so far as to ask her mother to sew one if she succeeds in getting into her mother's alma mater, Roubai Academy. And thus, when she gets accepted into the prestigious school, Komichi is ecstatic. However, much to her surprise, the middle school no longer uses sailor uniforms as its dress code—making Komichi stand out from her schoolmates. Despite this, Komichi is granted permission to continue wearing the traditional attire. With renewed confidence, Komichi meets fascinating classmates as they experience school life together. Under the colorful shower of blossoming prospects, an exciting tomorrow awaits them!",
+                    "genre": "Comedy, School, Seinen, Slice of Life",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -756,16 +933,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1046",
-                        "name": "Season 5 - Episode 64",
-                        "date_upload": 1710123403000,
-                        "episode_number": 272.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12768",
+                        "name": "Episode 12 - I'm Not Alone",
+                        "date_upload": 1717115029000,
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1045",
-                        "name": "Season 5 - Episode 63",
-                        "date_upload": 1710123402000,
-                        "episode_number": 271.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12767",
+                        "name": "Episode 11 - Sharing This Time... With Everyone..",
+                        "date_upload": 1717113535000,
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -773,9 +950,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "quality": "[hindi] MyStream: 1080p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzV5aldPM01BK3FvN2RnSnNMV0JOVERsdytkazBPRUZPKy9jN0JlNUJEekE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlI4cnBZTGlwK0RINlZBZXJHOWFEdDdpRmNZK1NBWHZ4bGpBSUo2Z01kUmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRm41TVNWbis0c1g0WWQrbml1d3hxK1BkZExKaG16SXVIdU1KSzdWM1o0Q1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -783,9 +970,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxdlVPa1J1cHRnWmlpT2J3NTdkMFBQSUpUTlpNb0hKdFRCWDBXU0IvWW1Gb2c9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRzJJdXFPQTQ2emhVNUxCSml2MG9RRGpTR2YvNTZPRE1qWmtobFNlMXJrc1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -793,9 +980,19 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
                         "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/UXYxT3V2SC9Ob3BWV3E1QVMwbEUraXZhRm8wNTFPbGhoRzRRMXlDM2dxc2xPNEg4YlBuaFpGMjh5dU9PQjRQZU9QVHJlSEZRQkJZMTdvd1Q4QkdhRkE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BSC9jUWxuanhUbHVHenlSdnBnbU4yNjl3WkovNnpkUm5lQmdYUnlyR25RYVE9PQ==",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "cookie": "",
+                            "accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
+                        "quality": "[hindi] MyStream: 720p",
+                        "videoUrl": "https://beta.awstream.net/stream/cjNjMTN2dFZZdnZCS3ZkTU9EN2U3Vmx1bzhHVGg5dGNrSlFVc0FxS29BRnQyS2MzWEpXdnZIMkt2UnMvYXhkZ25WVmEwYTVORGtPZFR6N0R3ejN3SWc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -899,14 +1096,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7927.webp"
                             },
                             {
-                                "url": "/series/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
-                                "title": "Pokémon The Movie: Volcanion and the Mechanical Marvel",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7926.webp"
-                            },
-                            {
                                 "url": "/series/pokemon-the-movie-spell-of-the-unown/",
                                 "title": "Pokémon : The Movie – Spell of the Unown",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7925.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
+                                "title": "Pokémon The Movie: Volcanion and the Mechanical Marvel",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/7926.webp"
                             },
                             {
                                 "url": "/series/pokemon-the-movie-the-power-of-us/",

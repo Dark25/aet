@@ -92,6 +92,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/eyeshield-21-dublado/",
+                                "title": "Eyeshield 21 Dublado",
+                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/05/1715200815-8947-133529.jpg"
+                            },
+                            {
+                                "url": "/anime/tegamibachi-dublado/",
+                                "title": "Tegamibachi Dublado",
+                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/05/1715816833-5754-71808.jpg"
+                            },
+                            {
+                                "url": "/anime/highspeed-etoile/",
+                                "title": "Highspeed Etoile",
+                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/04/1714175381-2505-141862.jpg"
+                            },
+                            {
+                                "url": "/anime/aria-the-natural-dublado/",
+                                "title": "Aria the Natural Dublado",
+                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/05/1715958502-7066-77621.jpg"
+                            },
+                            {
+                                "url": "/anime/hananoi-kun-to-koi-no-yamai-dublado/",
+                                "title": "Hananoi-kun to Koi no Yamai Dublado",
+                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/05/1715291439-4129-141411.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-shitara-slime-datta-ken-3-dublado/",
+                                "title": "Tensei shitara Slime Datta Ken 3 Dublado",
+                                "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/05/1714835697-7417-141789.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-gakuin-no-futekigousha-ii-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-part-2/",
+                                "title": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2",
+                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/05/1714767500-3040-141651.jpg"
+                            },
+                            {
                                 "url": "/anime/shijou-saikyou-no-deshi-kenichi-dublado/",
                                 "title": "Shijou Saikyou no Deshi Kenichi Dublado",
                                 "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/05/1717178532-1419-75515.jpg"
@@ -130,41 +165,6 @@
                                 "url": "/anime/wind-breaker/",
                                 "title": "Wind Breaker",
                                 "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/05/1714687885-5858-141816.jpg"
-                            },
-                            {
-                                "url": "/anime/henjin-no-salad-bowl/",
-                                "title": "Henjin no Salad Bowl",
-                                "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/05/1714753467-3318-141482.jpg"
-                            },
-                            {
-                                "url": "/anime/wind-breaker-dublado/",
-                                "title": "Wind Breaker Dublado",
-                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/05/1714753932-7175-141816.jpg"
-                            },
-                            {
-                                "url": "/anime/yuru-camp-3-dublado/",
-                                "title": "Yuru Camp△ 3 Dublado",
-                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/05/1714753846-2748-142710.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii/",
-                                "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/05/1714687456-3204-141203.jpg"
-                            },
-                            {
-                                "url": "/anime/hananoi-kun-to-koi-no-yamai/",
-                                "title": "Hananoi-kun to Koi no Yamai",
-                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/05/1714688354-9791-141411.jpg"
-                            },
-                            {
-                                "url": "/anime/girls-band-cry/",
-                                "title": "Girls Band Cry",
-                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/04/1714174907-3314-140515.jpg"
-                            },
-                            {
-                                "url": "/anime/yuru-camp-3/",
-                                "title": "Yuru Camp△ 3",
-                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/05/1714752884-9083-142710.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1717232790&ei=FnRaZvvwMPWAy_sPqIXHqQU&ip=172.69.70.246&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5uaezns7&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1717203643&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgIw-zB8YRDQx1dLJj-ja6f3NGFdS4NZU5umCW0mZP3AYCIF5fPMD3bzCn5T0-3wA2R5G85V2iPPLRPLaxWDabENVK&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRgIhAOYg6K6uyWjkT4E_xMzWfPePfwjV_MPiicdIL6EF6g0PAiEAlwddUTF6dobbjk0yoMocgPcpufVPjXQNlp6vPEb6rvo%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1717232790&ei=FnRaZvvwMPWAy_sPqIXHqQU&ip=172.69.70.246&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5uaezns7&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1717203643&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgIw-zB8YRDQx1dLJj-ja6f3NGFdS4NZU5umCW0mZP3AYCIF5fPMD3bzCn5T0-3wA2R5G85V2iPPLRPLaxWDabENVK&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRgIhAOYg6K6uyWjkT4E_xMzWfPePfwjV_MPiicdIL6EF6g0PAiEAlwddUTF6dobbjk0yoMocgPcpufVPjXQNlp6vPEb6rvo%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1717232790&ei=FnRaZvvwMPWAy_sPqIXHqQU&ip=172.69.70.246&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5uaezns7&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1717203643&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgYBh4DANuJFB2F6ZaxweBd-ESy16e9XPf1SIqmvKztZICIAVO1i5nnwzYwIQAFvobGq1GOpt0joxmaY2hNoasRRZw&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgYqHklsUMiI1Wpx9UnhrAWzdg5316GiMzcZ_a6olXZiMCIQDS47gIcd7OfswAcYl9y9zNQVQROqwvQ_dmqOOenk9IJg%3D%3D",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1717232790&ei=FnRaZvvwMPWAy_sPqIXHqQU&ip=172.69.70.246&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5uaezns7&ms=au&mv=m&mvi=2&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1717203643&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgYBh4DANuJFB2F6ZaxweBd-ESy16e9XPf1SIqmvKztZICIAVO1i5nnwzYwIQAFvobGq1GOpt0joxmaY2hNoasRRZw&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgYqHklsUMiI1Wpx9UnhrAWzdg5316GiMzcZ_a6olXZiMCIQDS47gIcd7OfswAcYl9y9zNQVQROqwvQ_dmqOOenk9IJg%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

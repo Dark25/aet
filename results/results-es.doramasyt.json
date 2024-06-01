@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/godzilla-minus-one-latino-sub-espanol",
+                                "title": "Godzilla Minus One Latino",
+                                "description": "Godzilla Minus One Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/godzilla-minus-one-latino-1717198024.jpg"
+                            },
+                            {
+                                "url": "/dorama/wonderhatch-soratobu-ryu-no-shima-sub-espanol",
+                                "title": "Wonderhatch: Soratobu Ryu no Shima",
+                                "description": "Wonderhatch: Soratobu Ryu no Shima",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/wonderhatch-soratobu-ryu-no-shima-1717191255.jpg"
+                            },
+                            {
                                 "url": "/dorama/dragons-of-wonderhatch-latino-sub-espanol",
                                 "title": "Dragons of Wonderhatch Latino",
                                 "description": "Dragons of Wonderhatch Latino",
@@ -173,18 +185,6 @@
                                 "title": "Reblooming Blue",
                                 "description": "Reblooming Blue",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/reblooming-blue-1716069164.jpg"
-                            },
-                            {
-                                "url": "/dorama/tomorrow-ill-be-someones-girlfriend-sub-espanol",
-                                "title": "Tomorrow, I'll Be Someone's Girlfriend",
-                                "description": "Tomorrow, I'll Be Someone's Girlfriend",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/tomorrow-ill-be-someones-girlfriend-1716056564.jpg"
-                            },
-                            {
-                                "url": "/dorama/algun-dia-sere-la-novia-de-alguien-latino-sub-espanol",
-                                "title": "Algún día seré la novia de alguien Latino",
-                                "description": "Algún día seré la novia de alguien Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/algun-dia-sere-la-novia-de-alguien-latino-1716002586.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/dragons-of-wonderhatch-latino-sub-espanol",
-                    "title": "Dragons of Wonderhatch Latino (0)",
-                    "description": "Nagi, una chica de instituto en el mundo real, y Tyme, un chico que vive en otro mundo donde los dragonriders oyen los gritos de los dragones y se comunican con ellos. ",
-                    "genre": "Acción, Aventuras, J-Drama",
+                    "url": "/dorama/godzilla-minus-one-latino-sub-espanol",
+                    "title": "Godzilla Minus One Latino (0)",
+                    "description": "Japón, desolado tras el fin de la Segunda Guerra Mundial, entra en crisis tras la apparencia de un monstruo creado por la bomba atómica. ",
+                    "genre": "Acción, Drama, Aventuras, J-Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,72 +291,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/dragons-of-wonderhatch-latino-episodio-8",
-                        "name": "Episodio 8.0",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver/dragons-of-wonderhatch-latino-episodio-7",
-                        "name": "Episodio 7.0",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiAFKAQwAzgCeO4HsgEECMTYAtoBAggYxN0Iw9Dwx4M/fn/track.m3u8",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiAFKAQwAzgCeO4HsgEECMTYAtoBAggYxN0Iw9Dwx4M/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiAEKAMwAzgCeO4HqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBAEePlxpIzGrA/fn/track.m3u8",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiAEKAMwAzgCeO4HqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBAEePlxpIzGrA/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiADKAIwAzgCeO4HqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQRDuYnpJqVQo/fn/track.m3u8",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiADKAIwAzgCeO4HqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQRDuYnpJqVQo/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiACKAEwAzgCeO4HqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQU-gJ7bkvDSE/fn/track.m3u8",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiACKAEwAzgCeO4HqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQU-gJ7bkvDSE/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiABMAM4AnjuB6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICI11uvnAftc-/fn/track.m3u8",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd408.mycdn.me/expires/1717266130152/clientType/0/srcIp/13.91.68.152/type/2/mid/6762558851615/id/6331560495647/ms/45.136.20.48/zs/43/srcAg/GECKO/urls/185.226.52.60/oq/0/pr/10/ct/28/sig/8xJFUcEsDiY/ondemand/CJ-UqPOiuAESFAiflKjzorgBEJ-UqPOiuAEYAyABGhQIn5So86K4ARCflKjzorgBGAMgAiABMAM4AnjuB6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICI11uvnAftc-/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://en9.uqload.to/3rfk4fnhtbw2q4drdlupvmnvlazaugljkefrl4no5ibnqy6yepzrwus3u4hq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://en9.uqload.to/3rfk4fnhtbw2q4drdlupvmnvlazaugljkefrl4no5ibnqy6yepzrwus3u4hq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

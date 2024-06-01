@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8563-me-contro-te-il-film-operazione-spie",
+                                "title": "Me contro Te: Il film - Operazione spie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/0f4f5287-a846-4587-82b5-cb63bd8b7226.webp"
+                            },
+                            {
                                 "url": "8646-ni-una-mas",
                                 "title": "Ni una más",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/dc4e7e82-8cc1-48dc-a7d8-65a245260b0f.webp"
@@ -300,11 +305,6 @@
                                 "url": "8311-city-hunter",
                                 "title": "City Hunter",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b1f212ac-abf3-4c53-b117-d332be317fd8.webp"
-                            },
-                            {
-                                "url": "7696-challengers",
-                                "title": "Challengers",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/538ec93f-f8e6-4eb9-9894-8b0fa505c4a6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8649-connessioni-di-sangue",
+                                "title": "Connessioni di sangue",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7c777c2e-1f7d-4e88-b834-6b5123705beb.webp"
+                            },
+                            {
+                                "url": "8648-streets-of-bombay",
+                                "title": "Streets of Bombay",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/42c2bb91-f410-4316-84ac-ab3ea224f245.webp"
+                            },
+                            {
+                                "url": "8647-reset",
+                                "title": "Reset",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/423accf5-ac1c-4ffc-be21-dd091222a6ed.webp"
+                            },
                             {
                                 "url": "8642-volo-mh370-laereo-sparito-nel-nulla",
                                 "title": "Volo MH370: l'aereo sparito nel nulla",
@@ -600,21 +615,6 @@
                                 "url": "8561-maudie-una-vita-a-colori",
                                 "title": "Maudie - Una vita a colori",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/5cfc3085-20a7-4519-9bae-2e8934327b92.webp"
-                            },
-                            {
-                                "url": "8560-la-donna-piu-assassinata-del-mondo",
-                                "title": "La donna più assassinata del mondo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/53535a1a-b1ea-4e84-9e41-2f9dc56987aa.webp"
-                            },
-                            {
-                                "url": "8559-il-club-degli-infedeli",
-                                "title": "Il club degli infedeli",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/515dd587-cad7-4eff-9868-0895aa272303.webp"
-                            },
-                            {
-                                "url": "8558-sotto-la-pelle-del-lupo",
-                                "title": "Sotto la pelle del lupo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8ddebac5-64a2-4d25-9b7f-4d211d8badd9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "8646-ni-una-mas",
-                    "description": "Quando una diciassettenne denuncia uno stupro avvenuto nel suo liceo, un'inchiesta le sconvolge la vita e mette alla prova le sue relazioni.",
-                    "genre": "Dramma",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "8563-me-contro-te-il-film-operazione-spie",
+                    "description": "Sofì e Luì sono ricercati dalla polizia per via dei loro poteri magici da fata e scienziato! Dovranno scappare e fermare chi si nasconde dietro tutto questo!",
+                    "genre": "Avventura, Commedia, Famiglia",
                     "initialized": true
                 },
                 "passed": true
@@ -946,20 +944,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8646?episode_id=63458&next_episode=1",
-                        "name": "Stagione 1 episodio 8 - Sangue o lacrime",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "8646?episode_id=63457&next_episode=1",
-                        "name": "Stagione 1 episodio 7 - Come catturare un predatore sessuale",
-                        "episode_number": 7.0
+                        "url": "8563",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

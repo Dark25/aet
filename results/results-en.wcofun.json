@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/nyaaaanvy-english-subbed",
+                                "title": "Nyaaaanvy English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933609.jpg"
+                            },
+                            {
                                 "url": "/anime/dead-dead-demons-dededede-destruction-ona-english-subbed",
                                 "title": "Dead Dead Demons Dededede Destruction (ONA) English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933608.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/cardfight-vanguard-divinez",
                                 "title": "Cardfight!! Vanguard: Divinez",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933594.jpg"
-                            },
-                            {
-                                "url": "/anime/knuckles",
-                                "title": "Knuckles",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933593.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dead-dead-demons-dededede-destruction-ona-english-subbed",
-                    "title": "Dead Dead Demons Dededede Destruction (ONA) English Subbed",
-                    "description": "When you look up at the sky, what do you see? A blue sky? Freedom? A hopeful future? The people of Tokyo see none of these. Instead, an ominous alien mothership looms overhead, engulfing the city skyscape.",
-                    "genre": "Drama, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933608.jpg",
+                    "url": "/anime/nyaaaanvy-english-subbed",
+                    "title": "Nyaaaanvy English Subbed",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933609.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/dead-dead-demons-dededede-destruction-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    },
-                    {
-                        "url": "/dead-dead-demons-dededede-destruction-episode-0-english-subbed",
-                        "name": "Season 1 - Episode 0",
-                        "episode_number": 100.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXzsFJ8T4qVAFknhAQMAiYsy3CcDfhiRllNQ1Eq_OM5vAWzmCBFafj0IovDU0sS2DshW5cFE3CBCk-w6-NjnN5bYdhI_81lr_yMRsB1wjGsskWUq3zttC42KtLX3DcIqj2RuP1qd3vU7iRN139Bh6lpHkwlDfH_ceca0RyL7Bn7qQyh3_OM0HusC3ECL9tpt-zkh-hsskwWCJwpmNdk-1wleK0nmJXFD1p7OvI2DNIExuiB7L8IfFx8rTteE7HyvE8llOCqjLUQwHFG-zZC3qKMLToudz-1ITF4gV--xnSTw2w6rhOCH5faiem0d2vUWtukQkepXCv1T-Y534ylGL3_trJQM0EGhAhooK0koOSvID8dLLKmxgU4e-sTwRy55tymePiw5t167Y811rqFexOJjhUrqSEB75zgI8WjmSQAGg",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXzsFJ8T4qVAFknhAQMAiYsy3CcDfhiRllNQ1Eq_OM5vAWzmCBFafj0IovDU0sS2DshW5cFE3CBCk-w6-NjnN5bYdhI_81lr_yMRsB1wjGsskWUq3zttC42KtLX3DcIqj2RuP1qd3vU7iRN139Bh6lpHkwlDfH_ceca0RyL7Bn7qQyh3_OM0HusC3ECL9tpt-zkh-hsskwWCJwpmNdk-1wleK0nmJXFD1p7OvI2DNIExuiB7L8IfFx8rTteE7HyvE8llOCqjLUQwHFG-zZC3qKMLToudz-1ITF4gV--xnSTw2w6rhOCH5faiem0d2vUWtukQkepXCv1T-Y534ylGL3_trJQM0EGhAhooK0koOSvID8dLLKmxgU4e-sTwRy55tymePiw5t167Y811rqFexOJjhUrqSEB75zgI8WjmSQAGg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXzsFJ8T4qVAFknhAQMAiYsy3CcDfhiRllNQ1Eq_OM5vAWzmCBFafj0IovDU0sS2DshW5cFE3CBCk-w6-NjnN5bYdhI_81lr_yMRsB1wjGsskWUq3zttC42KtLX3DcIqj2RuP1qd3vU7iRN139Bh6lpDCC7L-fMAT4bAHPbOmjNDJ7t4aKQ7KS39xNFD3ubMmN6iE_5TrwWbVsD8e0hbDi22IKs40hoR2HMH3B-sMw2wQYbu5V3n3lc82caW0R7LyOxlru4U-MQ1vzyJsMriHzBqNXt0_nq4BmU8PeuqxSlV8Igt4B0WIpKHU3sH5ksHlVBR-6oIXHYqFK7SJhx1BSwp2aU0PvidUp-LVlsg1X9ixgS1Brjylo9c7ARguDEEP5gVHfD-IOOitn_7-lYkXi9pMiqgt00xH4uzb-Upd5heA",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXzsFJ8T4qVAFknhAQMAiYsy3CcDfhiRllNQ1Eq_OM5vAWzmCBFafj0IovDU0sS2DshW5cFE3CBCk-w6-NjnN5bYdhI_81lr_yMRsB1wjGsskWUq3zttC42KtLX3DcIqj2RuP1qd3vU7iRN139Bh6lpDCC7L-fMAT4bAHPbOmjNDJ7t4aKQ7KS39xNFD3ubMmN6iE_5TrwWbVsD8e0hbDi22IKs40hoR2HMH3B-sMw2wQYbu5V3n3lc82caW0R7LyOxlru4U-MQ1vzyJsMriHzBqNXt0_nq4BmU8PeuqxSlV8Igt4B0WIpKHU3sH5ksHlVBR-6oIXHYqFK7SJhx1BSwp2aU0PvidUp-LVlsg1X9ixgS1Brjylo9c7ARguDEEP5gVHfD-IOOitn_7-lYkXi9pMiqgt00xH4uzb-Upd5heA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXzsFJ8T4qVAFknhAQMAiYsy3CcDfhiRllNQ1Eq_OM5vAWzmCBFafj0IovDU0sS2DshW5cFE3CBCk-w6-NjnN5bYdhI_81lr_yMRsB1wjGsskWUq3zttC42KtLX3DcIqj2RuP1qd3vU7iRN139Bh6lp965U-dipLJbMuehiOLf8TkFzct9YEU7DpugI6_7JTSsI-f5wAmG3TPx6KIYZNEOodtHSPtod7z6bUEUuHf_No0A-YCEJB33KbvNPAYiQ22HmGD5uGHxy-vzboPnyACx_dH75YeyrdTWyYzrW8-IKxbqb2QlO9m77z8rHqxHI4Gtd58pCI7bh0DFlg8XaH98Qm5n60uFpXadS-2JGvGt-gRYItnmbhLoYCf45IAfH29OrCmfd1k2LShGy6ZnZtv-Fimo7JCUxHA3OHGg4Bh7uzw",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXzsFJ8T4qVAFknhAQMAiYsy3CcDfhiRllNQ1Eq_OM5vAWzmCBFafj0IovDU0sS2DshW5cFE3CBCk-w6-NjnN5bYdhI_81lr_yMRsB1wjGsskWUq3zttC42KtLX3DcIqj2RuP1qd3vU7iRN139Bh6lp965U-dipLJbMuehiOLf8TkFzct9YEU7DpugI6_7JTSsI-f5wAmG3TPx6KIYZNEOodtHSPtod7z6bUEUuHf_No0A-YCEJB33KbvNPAYiQ22HmGD5uGHxy-vzboPnyACx_dH75YeyrdTWyYzrW8-IKxbqb2QlO9m77z8rHqxHI4Gtd58pCI7bh0DFlg8XaH98Qm5n60uFpXadS-2JGvGt-gRYItnmbhLoYCf45IAfH29OrCmfd1k2LShGy6ZnZtv-Fimo7JCUxHA3OHGg4Bh7uzw"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -289,26 +289,35 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://srv09.dropload.io/hls2/01/00187/mnybyvyc6aid_h/index-v1-a1.m3u8?t=6GgZ-CWuroO9N16CMETB02tAcPGdvZ5zYZhU8X9IB4k&s=1717244566&e=21600&f=937341&i=0.3&sp=0",
+                        "url": "https://srv14.dropload.io/hls2/01/00187/mnybyvyc6aid_h/index-v1-a1.m3u8?t=jAd35413wp_y4q89BPBVEOJg5F-EnZQxoAE0ee85BtA&s=1717265783&e=21600&f=937341&srv=srv09&i=0.3&sp=0&p1=srv09&p2=srv09",
                         "quality": "Dropload:720p ",
-                        "videoUrl": "https://srv09.dropload.io/hls2/01/00187/mnybyvyc6aid_h/index-v1-a1.m3u8?t=6GgZ-CWuroO9N16CMETB02tAcPGdvZ5zYZhU8X9IB4k&s=1717244566&e=21600&f=937341&i=0.3&sp=0",
+                        "videoUrl": "https://srv14.dropload.io/hls2/01/00187/mnybyvyc6aid_h/index-v1-a1.m3u8?t=jAd35413wp_y4q89BPBVEOJg5F-EnZQxoAE0ee85BtA&s=1717265783&e=21600&f=937341&srv=srv09&i=0.3&sp=0&p1=srv09&p2=srv09",
                         "headers": {
                             "origin": "https://dropload.io",
                             "referer": "https://dropload.io/"
                         }
                     },
                     {
-                        "url": "https://s-delivery36.mxcontent.net/v/b0c210c76a2f46889ad4e814849dbe26.mp4?s=Ov8hXX5z5XzOV8V4nVFPNA&e=1717266168&_t=1717246355",
+                        "url": "https://s-delivery36.mxcontent.net/v/b0c210c76a2f46889ad4e814849dbe26.mp4?s=6bb4wJM7qgquAsqC13KSgg&e=1717287385&_t=1717272981",
                         "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery36.mxcontent.net/v/b0c210c76a2f46889ad4e814849dbe26.mp4?s=Ov8hXX5z5XzOV8V4nVFPNA&e=1717266168&_t=1717246355",
+                        "videoUrl": "https://s-delivery36.mxcontent.net/v/b0c210c76a2f46889ad4e814849dbe26.mp4?s=6bb4wJM7qgquAsqC13KSgg&e=1717287385&_t=1717272981",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ZPXPgYRG2OTq2rY&expires=1717314568&ip=G0WsDRONKxSHDN&token=Y0DSm7CkpmAX",
+                        "url": "https://streamtape.com/get_video?id=ZPXPgYRG2OTq2rY&expires=1717335786&ip=GHEsDROOKxSHDN&token=ZfY5qJvkPAiv",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZPXPgYRG2OTq2rY&expires=1717314568&ip=G0WsDRONKxSHDN&token=Y0DSm7CkpmAX"
+                        "videoUrl": "https://streamtape.com/get_video?id=ZPXPgYRG2OTq2rY&expires=1717335786&ip=GHEsDROOKxSHDN&token=ZfY5qJvkPAiv"
+                    },
+                    {
+                        "url": "https://dood.to/e/s9e4fr642b5y",
+                        "quality": "Doodstream",
+                        "videoUrl": "https://ws955xs.video-delivery.net/u5kj7mynttd3sdgge6fb4jkpjvtwo2lby34avulrcihmkplrywogpjdbocoq/5cuzf84ck7~wG6exKcMdY?token=stbly9h45tcj217gnq91ys1e&expiry=1717265787838",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.to/"
+                        }
                     }
                 ],
                 "passed": true

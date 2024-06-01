@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/digimon-adventure-02-the-beginning",
+                                "title": "Digimon Adventure 02 The Beginning",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12031.png"
+                            },
+                            {
                                 "url": "/anime/nyaaaanvy",
                                 "title": "Nyaaaanvy",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12030.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/dead-dead-demons-dededede-destruction",
                                 "title": "Dead Dead Demons Dededede Destruction",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12020.png"
-                            },
-                            {
-                                "url": "/anime/garouden-the-way-of-the-lone-wolf",
-                                "title": "Garouden: The Way of the Lone Wolf",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12019.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,41 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/black-butler-public-school-arc",
+                                "title": "Black Butler: Public School Arc",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11965.png"
+                            },
+                            {
+                                "url": "/anime/digimon-adventure-02-the-beginning",
+                                "title": "Digimon Adventure 02 The Beginning",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12031.png"
+                            },
+                            {
+                                "url": "/anime/studio-apartment-good-lighting-angel-included",
+                                "title": "Studio Apartment, Good Lighting, Angel Included",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11891.png"
+                            },
+                            {
+                                "url": "/anime/case-closed",
+                                "title": "Case Closed",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11106.png"
+                            },
+                            {
+                                "url": "/anime/one-hundred-thousand-years-of-qi-refining",
+                                "title": "One Hundred Thousand Years of Qi Refining",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11097.png"
+                            },
+                            {
+                                "url": "/anime/soul-land-2-the-peerless-tang-clan",
+                                "title": "Soul Land 2: The Peerless Tang Clan",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11221.png"
+                            },
+                            {
+                                "url": "/anime/tales-of-demons-and-gods-season-7",
+                                "title": "Tales of Demons and Gods Season 7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
+                            },
                             {
                                 "url": "/anime/the-magic-chef-of-fire-and-ice-2",
                                 "title": "The Magic Chef of Fire and Ice 2",
@@ -100,41 +135,6 @@
                                 "url": "/anime/zhu-xian-2",
                                 "title": "Zhu Xian 2",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11889.png"
-                            },
-                            {
-                                "url": "/anime/against-the-sky-supreme",
-                                "title": "Against The Sky Supreme",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
-                            {
-                                "url": "/anime/beyblade-x",
-                                "title": "Beyblade X",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11393.png"
-                            },
-                            {
-                                "url": "/anime/nyaaaanvy",
-                                "title": "Nyaaaanvy",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12030.png"
-                            },
-                            {
-                                "url": "/anime/shadowverse-flame-archen",
-                                "title": "Shadowverse Flame: Arc-hen",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11960.png"
-                            },
-                            {
-                                "url": "/anime/highspeed-toile",
-                                "title": "HIGHSPEED Étoile",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11921.png"
-                            },
-                            {
-                                "url": "/anime/captain-kuppa",
-                                "title": "Captain Kuppa",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11758.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,34 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/nyaaaanvy",
-                    "title": "Nyaaaanvy",
-                    "author": "Shin-Ei Animation, Lesprit",
-                    "genre": "Comedy",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12030.png",
+                    "url": "/anime/digimon-adventure-02-the-beginning",
+                    "title": "Digimon Adventure 02 The Beginning",
+                    "author": "Yumeta Company",
+                    "description": "It’s 2012, and ten years have passed since the adventure in the Digital World. Daisuke Motomiya is now twenty, and he and the rest of the DigiDestined seem to be changing bit by bit in terms of appearance and lifestyle. Then one day, a giant Digitama suddenly appears in the sky over Tokyo Tower. Daisuke and the others encounter a mysterious young man named Lui Ohwada, who informs them that he’s the first ever DigiDestined in the world…",
+                    "genre": "Action, Adventure, Comedy, Drama, Fantasy",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12031.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/nyaaaanvy/147169",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/147169?vrf=B9bkUcI72StFMKjWmDkvbg%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=3WG1h5cRjGUvU1ByEXACeA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/147169?vrf=B9bkUcI72StFMKjWmDkvbg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=3WG1h5cRjGUvU1ByEXACeA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/nyaaaanvy/147169"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

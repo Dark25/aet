@@ -3,13 +3,28 @@
         "name": "Egy Dead (AR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episode/انمي-kaiju-no-8-الحلقة-8-مترجمة/",
+                                "title": "انمي Kaiju No 8 الحلقة 8 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/انمي-Kaiju-No-8-2024-مترجم-207x280.jpg"
+                            },
+                            {
+                                "url": "/episode/انمي-one-room-hiatari-futsuu-tenshi-tsuki-الحلقة-10-مترجمة/",
+                                "title": "انمي One Room Hiatari Futsuu Tenshi-tsuki الحلقة 10 مترجمة",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/03/انمي-One-Room-Hiatari-Futsuu-Tenshi-tsuki-2024-مترجم-225x280.jpg"
+                            },
+                            {
+                                "url": "/مشاهدة-فيلم-bag-of-lies-2024-مترجم/",
+                                "title": "مشاهدة فيلم Bag of Lies 2024 مترجم",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/06/فيلم-Bag-of-Lies-2024-مترجم-210x280.jpg"
+                            },
                             {
                                 "url": "/episode/انمي-shadowverse-flame-الحلقة-83-مترجمة/",
                                 "title": "انمي Shadowverse Flame الحلقة 83 مترجمة",
@@ -39,6 +54,11 @@
                                 "url": "/episode/برنامج-الدحيح-5-الحلقة-9-تسلا/",
                                 "title": "برنامج الدحيح 5 الحلقة 9 تسلا",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/05/برنامج-الدحيح-5-الموسم-الخامس-197x280.jpg"
+                            },
+                            {
+                                "url": "/season/مسلسل-flowers-in-the-attic-the-origin-2022-مترجم-كامل/",
+                                "title": "مسلسل Flowers in the Attic The Origin 2022 مترجم كامل",
+                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2022/08/مسلسل-Flowers-in-the-Attic-The-Origin-2022-مترجم-كامل-225x280.jpg"
                             },
                             {
                                 "url": "/season/مسلسل-colin-from-accounts-الموسم-الاول-مترجم-كامل/",
@@ -229,26 +249,6 @@
                                 "url": "/episode/برنامج-the-kardashians-الموسم-الثالث-الحلقة-4-مترجم/",
                                 "title": "برنامج The Kardashians الموسم الثالث الحلقة 4 مترجمة",
                                 "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/05/برنامج-The-Kardashians-الموسم-الثالث-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/برنامج-the-kardashians-الموسم-الثالث-الحلقة-3-مترجم/",
-                                "title": "برنامج The Kardashians الموسم الثالث الحلقة 3 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/05/برنامج-The-Kardashians-الموسم-الثالث-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/برنامج-the-kardashians-الموسم-الثالث-الحلقة-2-مترجم/",
-                                "title": "برنامج The Kardashians الموسم الثالث الحلقة 2 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/05/برنامج-The-Kardashians-الموسم-الثالث-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/برنامج-the-kardashians-الموسم-الثالث-الحلقة-1-مترجم/",
-                                "title": "برنامج The Kardashians الموسم الثالث الحلقة 1 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/05/برنامج-The-Kardashians-الموسم-الثالث-210x280.jpg"
-                            },
-                            {
-                                "url": "/episode/برنامج-the-kardashians-الموسم-الثاني-الحلقة-11-مترجم/",
-                                "title": "برنامج The Kardashians الموسم الثاني الحلقة 11 مترجمة",
-                                "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/05/برنامج-The-Kardashians-الموسم-الثاني-205x280.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -508,15 +508,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/episode/انمي-shadowverse-flame-الحلقة-83-مترجمة/",
-                    "title": "انمي Shadowverse Flame الحلقة 83 مترجمة",
+                    "url": "/episode/انمي-kaiju-no-8-الحلقة-8-مترجمة/",
+                    "title": "انمي Kaiju No 8 الحلقة 8 مترجمة",
                     "artist": "مسلسلات انمي",
                     "author": "اليابان",
-                    "description": "لايت تينريو البطل جديد وقصته في كلية شادوفار وهي منشأة تقوم بتدريب اللاعبين المحترفين في لعبة شادوفرس الطالب المنتقل تينريو يقرر الانضمام إلى اللهب السابع وهو واحد نوادي شادوفار السبعة ولكن اللهب السابع على وشك الإغلاق بسبب نقص الأعضاء لتجنب نهاية النادي يقرر لايت البحث عن أعضاء جدد لكن ما ينتظره هو منافسين أقوياء يمتلكون مجموعة متنوعة للغاية من الأوراق",
-                    "genre": "فانتازيا, اليابانية, 2022",
+                    "description": "في عالم يعاني تهديد مخلوقات تُعرف بـ الكايجو، كان كافكا هيبينو يطمح للتجنيد في قوات الدفاع اليابانية لهزيمتها. \"لنقضي على الكايجو معًا. تعهد كافكا لصديقة طفولته، مينا أشيرو. مع مرور الوقت، أجبرتهما ظروف الحياة على أن يسلكوا طرقًا مختلفة، وجعلته يتخلى عن طموحه الدائم. وُظِّف من قبل شركة تنظيف محترفة متخصصة في تنظيف آثار معارك الكايجو. في الوقت نفسه، أصبحت مينا أشيرو الآن قائدة الفرقة الثالثة في قوات الدفاع. وفي الوضع الحالي، فهو غير مؤهل للقتال إلى جانبها ضد الكايجو. في العمل، يتصادف كافكا مع رينو إيشيكاوا المتحفز للغاية. إصرار رينو الدائم على الانضمام إلى القوات الدفاعية لا يترك مجالًا للفشل. إصراره يعيد إحياء طموح كافكا بالوقوف بجانب مينا وحماية البشرية من كايجو معًا.",
+                    "genre": "اكشن, خيال علمي, شونين, عسكري, اليابانية, 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/انمي-Shadowverse-Flame-Arc-hen-مترجم.jpg",
+                    "thumbnail_url": "https://egydead.space/wp-content/uploads/2024/04/انمي-Kaiju-No-8-2024-مترجم.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -524,14 +524,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/انمي-shadowverse-flame-الحلقة-83-مترجمة/",
-                        "name": "الموسم الثاني حلقه 83",
-                        "episode_number": 83.0
+                        "url": "/episode/انمي-kaiju-no-8-الحلقة-8-مترجمة/",
+                        "name": "حلقه 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/انمي-shadowverse-flame-الحلقة-82-مترجمة/",
-                        "name": "الموسم الثاني حلقه 82",
-                        "episode_number": 82.0
+                        "url": "/episode/انمي-kaiju-no-8-الحلقة-7-مترجمة/",
+                        "name": "حلقه 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -539,36 +539,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://acu5tifykrnh.sw-cdnstreamwish.com/hls2/01/04050/9c1ns531tiky_,n,x,o,.urlset/index-f1-v1-a1.m3u8?t=8rv9vX_vUwlF9J7f-3FbUTMYiKUDYUuJ2nkg9twc4mU&s=1717244613&e=129600&f=20251382&srv=rKNIEwr90CTs&i=0.4&sp=500&p1=rKNIEwr90CTs&p2=rKNIEwr90CTs&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04052/gernlov802yr_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=6pWxIoGDuF3hl-e2ARuMa5--hhARkSVjGSar3OL58e4&s=1717265776&e=129600&f=20260222&srv=54pkdcyxbsxbermn&i=0.0&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://acu5tifykrnh.sw-cdnstreamwish.com/hls2/01/04050/9c1ns531tiky_,n,x,o,.urlset/index-f1-v1-a1.m3u8?t=8rv9vX_vUwlF9J7f-3FbUTMYiKUDYUuJ2nkg9twc4mU&s=1717244613&e=129600&f=20251382&srv=rKNIEwr90CTs&i=0.4&sp=500&p1=rKNIEwr90CTs&p2=rKNIEwr90CTs&asn=8075",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04052/gernlov802yr_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=6pWxIoGDuF3hl-e2ARuMa5--hhARkSVjGSar3OL58e4&s=1717265776&e=129600&f=20260222&srv=54pkdcyxbsxbermn&i=0.0&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://gsfqzmqu.sbs",
-                            "Referer": "https://gsfqzmqu.sbs/e/9c1ns531tiky"
+                            "Referer": "https://gsfqzmqu.sbs/e/gernlov802yr"
                         }
                     },
                     {
-                        "url": "https://acu5tifykrnh.sw-cdnstreamwish.com/hls2/01/04050/9c1ns531tiky_,n,x,o,.urlset/index-f2-v1-a1.m3u8?t=8rv9vX_vUwlF9J7f-3FbUTMYiKUDYUuJ2nkg9twc4mU&s=1717244613&e=129600&f=20251382&srv=rKNIEwr90CTs&i=0.4&sp=500&p1=rKNIEwr90CTs&p2=rKNIEwr90CTs&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://acu5tifykrnh.sw-cdnstreamwish.com/hls2/01/04050/9c1ns531tiky_,n,x,o,.urlset/index-f2-v1-a1.m3u8?t=8rv9vX_vUwlF9J7f-3FbUTMYiKUDYUuJ2nkg9twc4mU&s=1717244613&e=129600&f=20251382&srv=rKNIEwr90CTs&i=0.4&sp=500&p1=rKNIEwr90CTs&p2=rKNIEwr90CTs&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04052/gernlov802yr_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=6pWxIoGDuF3hl-e2ARuMa5--hhARkSVjGSar3OL58e4&s=1717265776&e=129600&f=20260222&srv=54pkdcyxbsxbermn&i=0.0&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04052/gernlov802yr_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=6pWxIoGDuF3hl-e2ARuMa5--hhARkSVjGSar3OL58e4&s=1717265776&e=129600&f=20260222&srv=54pkdcyxbsxbermn&i=0.0&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://gsfqzmqu.sbs",
-                            "Referer": "https://gsfqzmqu.sbs/e/9c1ns531tiky"
+                            "Referer": "https://gsfqzmqu.sbs/e/gernlov802yr"
                         }
                     },
                     {
-                        "url": "https://acu5tifykrnh.sw-cdnstreamwish.com/hls2/01/04050/9c1ns531tiky_,n,x,o,.urlset/index-f3-v1-a1.m3u8?t=8rv9vX_vUwlF9J7f-3FbUTMYiKUDYUuJ2nkg9twc4mU&s=1717244613&e=129600&f=20251382&srv=rKNIEwr90CTs&i=0.4&sp=500&p1=rKNIEwr90CTs&p2=rKNIEwr90CTs&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04052/gernlov802yr_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=6pWxIoGDuF3hl-e2ARuMa5--hhARkSVjGSar3OL58e4&s=1717265776&e=129600&f=20260222&srv=54pkdcyxbsxbermn&i=0.0&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://acu5tifykrnh.sw-cdnstreamwish.com/hls2/01/04050/9c1ns531tiky_,n,x,o,.urlset/index-f3-v1-a1.m3u8?t=8rv9vX_vUwlF9J7f-3FbUTMYiKUDYUuJ2nkg9twc4mU&s=1717244613&e=129600&f=20251382&srv=rKNIEwr90CTs&i=0.4&sp=500&p1=rKNIEwr90CTs&p2=rKNIEwr90CTs&asn=8075",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04052/gernlov802yr_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=6pWxIoGDuF3hl-e2ARuMa5--hhARkSVjGSar3OL58e4&s=1717265776&e=129600&f=20260222&srv=54pkdcyxbsxbermn&i=0.0&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://gsfqzmqu.sbs",
-                            "Referer": "https://gsfqzmqu.sbs/e/9c1ns531tiky"
+                            "Referer": "https://gsfqzmqu.sbs/e/gernlov802yr"
                         }
                     }
                 ],

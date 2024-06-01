@@ -304,6 +304,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/the-doors",
+                                "title": "The Doors (1991)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xa5dn3u0pwFcbWqANxZt0LTQCka.jpg"
+                            },
+                            {
                                 "url": "/pelicula/gims-on-the-record",
                                 "title": "GIMS: On the Record (2020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/qDTIyjUIufAZZ3jMmHOfC1AkoYU.jpg"
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/la-soga",
                                 "title": "La soga (1948)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/2OSsF5p44O53tgCa5HxGtkCLAlt.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-inconquistables",
-                                "title": "Los inconquistables (1947)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mobRfqBHAaPXAJPpAsBgGYzz9Oj.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -680,64 +680,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/gims-on-the-record",
-                    "title": "GIMS: On the Record (2020)",
-                    "description": "Ve al backstage con la querida superestrella del rap Gims en el año previo a su gran actuación en el Stade de France de 2019 en este documental de cerca.",
-                    "genre": "Documental, Música",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/gims-on-the-record",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04047/3f8dhmwqdo9p_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PWzYWpr00RY0ImV7Q8Pumx5mKtU7GeQy0YVv_X3K2L0&s=1717222776&e=129600&f=20235084&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04047/3f8dhmwqdo9p_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PWzYWpr00RY0ImV7Q8Pumx5mKtU7GeQy0YVv_X3K2L0&s=1717222776&e=129600&f=20235084&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3f8dhmwqdo9p"
-                        }
-                    },
-                    {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04047/3f8dhmwqdo9p_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PWzYWpr00RY0ImV7Q8Pumx5mKtU7GeQy0YVv_X3K2L0&s=1717222776&e=129600&f=20235084&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04047/3f8dhmwqdo9p_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PWzYWpr00RY0ImV7Q8Pumx5mKtU7GeQy0YVv_X3K2L0&s=1717222776&e=129600&f=20235084&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3f8dhmwqdo9p"
-                        }
-                    },
-                    {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04047/3f8dhmwqdo9p_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PWzYWpr00RY0ImV7Q8Pumx5mKtU7GeQy0YVv_X3K2L0&s=1717222776&e=129600&f=20235084&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04047/3f8dhmwqdo9p_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PWzYWpr00RY0ImV7Q8Pumx5mKtU7GeQy0YVv_X3K2L0&s=1717222776&e=129600&f=20235084&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3f8dhmwqdo9p"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1040,9 +992,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=6QB-vsUa_lW0siH-eYEk5lHKUR_2bt7IyT7P4G8NplA&s=1717222783&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=MpxjCnbP22EUAAY1cL2UF2LnKGPySzHeFSn2nYdB4jw&s=1717244714&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=6QB-vsUa_lW0siH-eYEk5lHKUR_2bt7IyT7P4G8NplA&s=1717222783&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=MpxjCnbP22EUAAY1cL2UF2LnKGPySzHeFSn2nYdB4jw&s=1717244714&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1003,9 @@
                         }
                     },
                     {
-                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hhgA7QmZhj3Dp4wudDbyLtDvyLaSfwYVniMGbVWYqig&s=1717222782&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=__iqsx_H6x313UgWDuRaTWesMVR3sdm9VMDiXKjWn6Q&s=1717244715&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hhgA7QmZhj3Dp4wudDbyLtDvyLaSfwYVniMGbVWYqig&s=1717222782&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=__iqsx_H6x313UgWDuRaTWesMVR3sdm9VMDiXKjWn6Q&s=1717244715&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1062,9 +1014,9 @@
                         }
                     },
                     {
-                        "url": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=6QB-vsUa_lW0siH-eYEk5lHKUR_2bt7IyT7P4G8NplA&s=1717222783&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=MpxjCnbP22EUAAY1cL2UF2LnKGPySzHeFSn2nYdB4jw&s=1717244714&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=6QB-vsUa_lW0siH-eYEk5lHKUR_2bt7IyT7P4G8NplA&s=1717222783&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://nd2fut82nala.sw-cdnstreamwish.com/hls2/01/03607/3502h703krr4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=MpxjCnbP22EUAAY1cL2UF2LnKGPySzHeFSn2nYdB4jw&s=1717244714&e=129600&f=18035439&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1073,9 +1025,9 @@
                         }
                     },
                     {
-                        "url": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hhgA7QmZhj3Dp4wudDbyLtDvyLaSfwYVniMGbVWYqig&s=1717222782&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=__iqsx_H6x313UgWDuRaTWesMVR3sdm9VMDiXKjWn6Q&s=1717244715&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://i2qq0vb1aul7.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hhgA7QmZhj3Dp4wudDbyLtDvyLaSfwYVniMGbVWYqig&s=1717222782&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03607/gaz9epbektzo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=__iqsx_H6x313UgWDuRaTWesMVR3sdm9VMDiXKjWn6Q&s=1717244715&e=129600&f=18035453&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

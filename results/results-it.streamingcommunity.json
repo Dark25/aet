@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "8563-me-contro-te-il-film-operazione-spie",
-                                "title": "Me contro Te: Il film - Operazione spie",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/0f4f5287-a846-4587-82b5-cb63bd8b7226.webp"
-                            },
-                            {
                                 "url": "8646-ni-una-mas",
                                 "title": "Ni una más",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/dc4e7e82-8cc1-48dc-a7d8-65a245260b0f.webp"
@@ -305,6 +300,11 @@
                                 "url": "8311-city-hunter",
                                 "title": "City Hunter",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b1f212ac-abf3-4c53-b117-d332be317fd8.webp"
+                            },
+                            {
+                                "url": "7696-challengers",
+                                "title": "Challengers",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/538ec93f-f8e6-4eb9-9894-8b0fa505c4a6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8650-frenchie-shore",
+                                "title": "Frenchie Shore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d2f916b0-12d2-4b18-821c-fcb221d930a0.webp"
+                            },
                             {
                                 "url": "8649-connessioni-di-sangue",
                                 "title": "Connessioni di sangue",
@@ -489,7 +494,7 @@
                             {
                                 "url": "8603-bicycle-man",
                                 "title": "Bicycle Man",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/278e6c5d-92df-4b04-a709-c2a149b2f405.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/2a3e9636-1b82-4c6b-b244-39c796c50b5d.webp"
                             },
                             {
                                 "url": "8602-lore-antologia-dellorrore",
@@ -499,7 +504,7 @@
                             {
                                 "url": "8601-dr-anthos",
                                 "title": "Dr. Anthos",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/cae88ee1-1797-4e96-bc89-346d1c4042eb.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/7d86c829-09d8-4c85-9eb3-62107378a322.webp"
                             },
                             {
                                 "url": "8600-i-love-dick",
@@ -610,11 +615,6 @@
                                 "url": "8562-per-primo-hanno-ucciso-mio-padre",
                                 "title": "Per primo hanno ucciso mio padre",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/30a03fbe-2e8d-425f-a130-5e02e468ed39.webp"
-                            },
-                            {
-                                "url": "8561-maudie-una-vita-a-colori",
-                                "title": "Maudie - Una vita a colori",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/5cfc3085-20a7-4519-9bae-2e8934327b92.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8563-me-contro-te-il-film-operazione-spie",
-                    "description": "Sofì e Luì sono ricercati dalla polizia per via dei loro poteri magici da fata e scienziato! Dovranno scappare e fermare chi si nasconde dietro tutto questo!",
-                    "genre": "Avventura, Commedia, Famiglia",
+                    "url": "8646-ni-una-mas",
+                    "description": "Quando una diciassettenne denuncia uno stupro avvenuto nel suo liceo, un'inchiesta le sconvolge la vita e mette alla prova le sue relazioni.",
+                    "genre": "Dramma",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -944,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8563",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "8646?episode_id=63458&next_episode=1",
+                        "name": "Stagione 1 episodio 8 - Sangue o lacrime",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "8646?episode_id=63457&next_episode=1",
+                        "name": "Stagione 1 episodio 7 - Come catturare un predatore sessuale",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

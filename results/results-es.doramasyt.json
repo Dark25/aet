@@ -291,12 +291,75 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/godzilla-minus-one-latino-episodio-1",
+                        "name": "Episodio 1.0",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiAGKAUwAzgCeL0TOfEQneGvszc/fn/track.m3u8",
+                        "quality": "Okru:800p",
+                        "videoUrl": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiAGKAUwAzgCeL0TOfEQneGvszc/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiAFKAQwAzgCeL0TqgEICgYIgAoQmASyAQQIxNgC0gEGCAMQAigX2gECCBi7QCFVFdc6UQ/fn/track.m3u8",
+                        "quality": "Okru:536p",
+                        "videoUrl": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiAFKAQwAzgCeL0TqgEICgYIgAoQmASyAQQIxNgC0gEGCAMQAigX2gECCBi7QCFVFdc6UQ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiAEKAMwAzgCeL0TqgEICgYI2AYQ4AKyAQQIxNgC0gEGCAEQAigX2gECCBA0acWuHCk_fA/fn/track.m3u8",
+                        "quality": "Okru:352p",
+                        "videoUrl": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiAEKAMwAzgCeL0TqgEICgYI2AYQ4AKyAQQIxNgC0gEGCAEQAigX2gECCBA0acWuHCk_fA/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiADKAIwAzgCeL0TqgEICgYIgAUQiAKyAQQIxNgC0gEEEAIoF9oBAggQ4uRZEWDPaac/fn/track.m3u8",
+                        "quality": "Okru:264p",
+                        "videoUrl": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiADKAIwAzgCeL0TqgEICgYIgAUQiAKyAQQIxNgC0gEEEAIoF9oBAggQ4uRZEWDPaac/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiACKAEwAzgCeL0TqgEICgYIqAMQsAGyAQQIxNgC0gEEEAIoF9oBAggQLXI85ERFw5c/fn/track.m3u8",
+                        "quality": "Okru:176p",
+                        "videoUrl": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiACKAEwAzgCeL0TqgEICgYIqAMQsAGyAQQIxNgC0gEEEAIoF9oBAggQLXI85ERFw5c/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiABMAM4Ani9E6oBBwoFCIACEGiyAQQIxNgC0gEEEAIoF9oBAggIpd_SCemHKgg/fn/track.m3u8",
+                        "quality": "Okru:104p",
+                        "videoUrl": "https://vd407.mycdn.me/expires/1717309329722/clientType/0/srcIp/172.183.74.4/type/2/mid/6763310221855/id/6332785691167/ms/45.136.20.40/zs/43/srcAg/GECKO/urls/185.226.53.44/oq/0/pr/10/ct/28/sig/rHZKt9tA9g0/ondemand/CJ-UxLunuAESFAiflMS7p7gBEJ-UxLunuAEYNyABGhQIn5TEu6e4ARCflMS7p7gBGDcgAiABMAM4Ani9E6oBBwoFCIACEGiyAQQIxNgC0gEEEAIoF9oBAggIpd_SCemHKgg/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://m180.uqload.to/3rfky5m5tbw2q4drdlupvi7tl5mp6fpxnhmfyvgo5y4z7li7gy3jr325j2jq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m180.uqload.to/3rfky5m5tbw2q4drdlupvi7tl5mp6fpxnhmfyvgo5y4z7li7gy3jr325j2jq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

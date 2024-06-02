@@ -369,19 +369,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=jZ4q9aD982izAGq&expires=1717336257&ip=F0qQKRWZD19XKxR&token=P_b4axneRjFu",
-                        "quality": "StreamTape - Legendado",
-                        "videoUrl": "https://streamtape.com/get_video?id=jZ4q9aD982izAGq&expires=1717336257&ip=F0qQKRWZD19XKxR&token=P_b4axneRjFu"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Y8WqWdozvkcdGl&expires=1717336256&ip=F0qQKRWZD19XKxR&token=9rurLVDn2tOs",
-                        "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=Y8WqWdozvkcdGl&expires=1717336256&ip=F0qQKRWZD19XKxR&token=9rurLVDn2tOs"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

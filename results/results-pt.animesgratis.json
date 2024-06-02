@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/sentai-daishikkaku-episodio-8/",
+                                "title": "Sentai Daishikkaku – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/sNr4ffnufET3VoYWCe2Hz112gry.jpg"
+                            },
+                            {
                                 "url": "/episodio/one-piece-episodio-1107/",
                                 "title": "One Piece – Episódio 1107",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/s0y56j5SvNvzQtZpaaMPCYvvN51.jpg"
@@ -154,11 +159,6 @@
                                 "url": "/episodio/shinigami-bocchan-to-kuro-maid-3-episodio-8/",
                                 "title": "Shinigami Bocchan to Kuro Maid 3 – Episódio 8",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/mbLBO2qn6iaHlRAO6OfLUjWAHlM.jpg"
-                            },
-                            {
-                                "url": "/episodio/hibike-euphonium-3-episodio-8/",
-                                "title": "Hibike! Euphonium 3 – Episódio 8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/gV0KclQ8ZZqn9X1WRbwJRUNRWOF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -308,18 +308,29 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/one-piece/",
-                    "title": "One Piece",
-                    "description": "Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. “Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!”. Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis… Assim começou a Grande Era dos Piratas!\n\nTítulo original: ワンピース",
-                    "genre": "Ação, Aventura, Fantasia, Shounen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg",
+                    "url": "/animes/sentai-daishikkaku/",
+                    "title": "Sentai Daishikkaku",
+                    "description": "Há treze anos atrás, o Exército de Monstros Nefastos invadiu a Terra, mas os grandes protetores da humanidade, os Guardiões do Dragão, derrotaram-nos em apenas um ano! Desde então, todos os domingos, os monstros têm sido obrigados a encenar derrota após derrota humilhante diante do público desavisado. Determinado a mudar essa situação, um único monstro, D, infiltrou-se na Força Ranger. Com a ajuda do misterioso Ranger, Yumeko Suzukiri, D conseguiu apoderar-se de um dos artefatos divinos — as únicas armas capazes de matar permanentemente os corpos imortais dos monstros! Contudo, o encontro subsequente de D com os Guardiões do Dragão levou ao seu trágico fim, então quem os deterá agora…?\n\nTítulo original: 戦隊大失格\nTemporadas: 1\nEpisódios: 1",
+                    "genre": "Ação, Ficção Científica, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/ehVlmldQnNdlU3uCjERzqH5A8mk.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/sentai-daishikkaku-episodio-8/",
+                        "name": "Episódio 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episodio/sentai-daishikkaku-episodio-7/",
+                        "name": "Episódio 7",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

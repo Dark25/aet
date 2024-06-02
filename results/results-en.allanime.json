@@ -147,6 +147,26 @@
                     {
                         "animes": [
                             {
+                                "url": "aRT8Sa4QjNZcvGbBA<&sep><&sep>sasayaku-you-ni-koi-wo-utau",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160181-EGC0Scngy5In.jpg"
+                            },
+                            {
+                                "url": "LMwfiWbQSst3SdpNk<&sep><&sep>yong-sheng-shi-nian-zhi-yue-season-3",
+                                "title": "Yong Sheng: Shi Nian Zhi Yue Season 3",
+                                "thumbnail_url": "https://gogocdn.net/cover/yong-sheng-shi-nian-zhi-yue-3rd-season.png"
+                            },
+                            {
+                                "url": "ReooPAxPMsHM4KPMY<&sep><&sep>1p",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965l.jpg"
+                            },
+                            {
+                                "url": "zZLPHFxwEWKmY9qCJ<&sep><&sep>wonderful-precure-",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
+                            {
                                 "url": "HdS5gtXuScQcpopXc<&sep><&sep>digimon-adventure-02-the-beginning",
                                 "title": "Digimon Adventure 02: The Beginning",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137310-vs8V9IrCHIZ2.jpg"
@@ -255,26 +275,6 @@
                                 "url": "45rRT7xtiSi4eTRn4<&sep><&sep>chaos-sword-god-season-2",
                                 "title": "Chaos Sword God Season 2",
                                 "thumbnail_url": "https://cdnimg.xyz/cover/chaos-sword-god-season-2.png"
-                            },
-                            {
-                                "url": "Lt4j4kXftk2A7a2Ag<&sep><&sep>i-feel-so-good-in-mysterious-world",
-                                "title": "I Feel So Good In Mysterious World",
-                                "thumbnail_url": "https://cdnimg.xyz/cover/i-feel-so-good-in-mysterious-world.png"
-                            },
-                            {
-                                "url": "5tpi4dQo8FAi8TAeG<&sep><&sep>the-creatures-that-we-are",
-                                "title": "The Creatures that We Are",
-                                "thumbnail_url": "https://gogocdn.net/cover/the-creatures-that-we-are.png"
-                            },
-                            {
-                                "url": "rpLASMGyuGeZTZnnv<&sep><&sep>my-apprentice-is-female-emperor",
-                                "title": "My Apprentice is Female Emperor",
-                                "thumbnail_url": "https://cdnimg.xyz/cover/my-apprentice-is-female-emperor.png"
-                            },
-                            {
-                                "url": "6rQw3KRxagqh42hwk<&sep><&sep>douluo-dalu-2-jueshi-tangmen",
-                                "title": "Douluo Dalu 2: Jueshi Tangmen",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137683-IMuvIECdZNBh.png"
                             }
                         ],
                         "hasNextPage": true
@@ -437,14 +437,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1107\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
+                        "name": "Episode 1107 (sub)",
+                        "episode_number": 1107.0
+                    },
+                    {
                         "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1106\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
                         "name": "Episode 1106 (sub)",
                         "episode_number": 1106.0
-                    },
-                    {
-                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1105\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
-                        "name": "Episode 1105 (sub)",
-                        "episode_number": 1105.0
                     }
                 ],
                 "passed": true
@@ -452,97 +452,97 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.1080.m3u8",
+                        "url": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.1080.m3u8",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.anicdnstream.info",
+                            "Host": "www112.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.1080.m3u8",
+                        "url": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.1080.m3u8",
+                        "videoUrl": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.vipanicdn.net",
+                            "Host": "www112.vipanicdn.net",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.720.m3u8",
+                        "url": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.720.m3u8",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.anicdnstream.info",
+                            "Host": "www112.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.480.m3u8",
+                        "url": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.480.m3u8",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.anicdnstream.info",
+                            "Host": "www112.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.360.m3u8",
+                        "url": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/NJ8h0beFl8JUpvVZWYvm9A/1717303878/226147/0b594d900f47daabc194844092384914/ep.1106.1716690891.360.m3u8",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/h0iG_tTYoF9FX_d2Cr6_FQ/1717322724/226512/0b594d900f47daabc194844092384914/ep.1107.1717295530.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.anicdnstream.info",
+                            "Host": "www112.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.720.m3u8",
+                        "url": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.720.m3u8",
+                        "videoUrl": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.vipanicdn.net",
+                            "Host": "www112.vipanicdn.net",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.480.m3u8",
+                        "url": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.480.m3u8",
+                        "videoUrl": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.vipanicdn.net",
+                            "Host": "www112.vipanicdn.net",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.360.m3u8",
+                        "url": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1106.1716690891.360.m3u8",
+                        "videoUrl": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1107.1717295530.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www117.vipanicdn.net",
+                            "Host": "www112.vipanicdn.net",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }

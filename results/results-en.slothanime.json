@@ -77,6 +77,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11134.png"
+                            },
+                            {
+                                "url": "/anime/wonderful-precure",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11764.png"
+                            },
+                            {
+                                "url": "/anime/nijiyon-animation-specials",
+                                "title": "Nijiyon Animation Specials",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12032.png"
+                            },
+                            {
+                                "url": "/anime/tonari-no-yokaisan",
+                                "title": "Tonari no Yokai-san",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11929.png"
+                            },
+                            {
                                 "url": "/anime/dragon-raja-the-blazing-dawn",
                                 "title": "Dragon Raja -The Blazing Dawn-",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11966.png"
@@ -85,11 +105,6 @@
                                 "url": "/anime/the-fable",
                                 "title": "The Fable",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
-                            },
-                            {
-                                "url": "/anime/nijiyon-animation-specials",
-                                "title": "Nijiyon Animation Specials",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12032.png"
                             },
                             {
                                 "url": "/anime/black-butler-public-school-arc",
@@ -120,21 +135,6 @@
                                 "url": "/anime/soul-land-2-the-peerless-tang-clan",
                                 "title": "Soul Land 2: The Peerless Tang Clan",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11221.png"
-                            },
-                            {
-                                "url": "/anime/tales-of-demons-and-gods-season-7",
-                                "title": "Tales of Demons and Gods Season 7",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
-                            },
-                            {
-                                "url": "/anime/the-magic-chef-of-fire-and-ice-2",
-                                "title": "The Magic Chef of Fire and Ice 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11144.png"
-                            },
-                            {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,19 +255,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/nijiyon-animation-specials/147195",
+                        "name": "Episode 3"
+                    },
+                    {
+                        "url": "/player/nijiyon-animation-specials/147194",
+                        "name": "Episode 2"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=BmnK1C%2F37PzSaJM5%2BuL8wQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/147195?vrf=CAXYquYhwCeZnwR3VBYvCg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=BmnK1C%2F37PzSaJM5%2BuL8wQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/147195?vrf=CAXYquYhwCeZnwR3VBYvCg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/nijiyon-animation-specials/147195"
                         }
                     }
                 ],

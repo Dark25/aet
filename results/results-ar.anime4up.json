@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/digimon-adventure-02-the-beginning/",
+                                "title": "Digimon Adventure 02: The Beginning",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/06/Ashampoo_Snap_2024.06.03_15h56m36s_001_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/hokkyoku-hyakkaten-no-concierge-san/",
                                 "title": "Hokkyoku Hyakkaten no Concierge-san",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/05/film-Hokkyoku-Hyakkaten-no-Concierge-san-visuel-1-215x300.jpeg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/shinigami-bocchan-to-kuro-maid-3rd-season/",
                                 "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.05_05h34m01s_026_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/hibike-euphonium-3/",
-                                "title": "Hibike! Euphonium 3",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.05_05h28m52s_025_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -359,48 +359,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hokkyoku-hyakkaten-no-concierge-san/",
-                    "title": "Hokkyoku Hyakkaten no Concierge-san",
-                    "description": "النوع: Movie\nبداية العرض: 2023\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 1 ساعة و 10 دقيقة\nالموسم: ربيع 2023\nالمصدر: مانجا\n\nالقصة تدور في مجمّع تجاريّ يرتاده زبائن عبارة عن حيوانات منقرضة!",
-                    "genre": "فنتازيا, سينين, شريحة من الحياة, Movie, مكتمل, ربيع 2023",
+                    "url": "/anime/digimon-adventure-02-the-beginning/",
+                    "title": "Digimon Adventure 02: The Beginning",
+                    "description": "النوع: Movie\nبداية العرض: 2023\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 1 ساعة و 20 دقيقة\nالموسم: خريف 2023\nالمصدر: اصلي\n\nفيلم ديجيمون 02 الجديد. الآن، باب المغامرة يفتح… “أنا أول شخص على الإطلاق يصبح شريكا للديجيمون“ سيتم الآن الكشف عن السر وراء ولادة “ديجي ديزايند” (المختارين الرقميين)! إنه عام 2012، عشر سنوات بعد المغامرات بين “أودايبا” وعالم الديجيتال. بينما انطلقوا في طرقهم الخاصة، إلا أن “دايسكي” وبقية الـ”ديجي ديزايند” وشركاؤهم ديجيمون ما زالوا مرتبطين بنفس الرابط. ثم في يوم ما، ظهرت بيضة رقمية عملاقة فجأة في السماء فوق برج طوكيو، مُرسِلة رِسالة إلى العالم. “عسى أن يكون لكل شخص في العالم أصدقاء، عسى أن يكون لكل منهم ديجيمون“ وبينما العالم يُشاهد، يظهر شاب يُدعى “أووادا روي” أمام “دايسكي” وأصدقائه ومعه “ديجي فايس” متصدع.",
+                    "genre": "أكشن, مغامرات, كوميدي, دراما, فنتازيا, Movie, مكتمل, خريف 2023",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/05/film-Hokkyoku-Hyakkaten-no-Concierge-san-visuel-1-725x1024.jpeg",
+                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/06/Ashampoo_Snap_2024.06.03_15h56m36s_001_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/فيلم-hokkyoku-hyakkaten-no-concierge-san/",
-                        "name": "الفلم 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkx7vjehz3b4quuo7wqrqz2vkahqtcnchpkk7ruhlgj5ji4c237jvhbvochh764pj3td4hzs/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7vjehz3b4quuo7wqrqz2vkahqtcnchpkk7ruhlgj5ji4c237jvhbvochh764pj3td4hzs/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m40.uqload.to/3rfkx52ptfw2q4drdlxpvpxrd2l3lsaz2utckg4spue3utmc37clbf3ud2ja/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m40.uqload.to/3rfkx52ptfw2q4drdlxpvpxrd2l3lsaz2utckg4spue3utmc37clbf3ud2ja/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -77,6 +77,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jinwu-wei-feng-qi-jingling",
+                                "title": "Jinwu Wei: Feng Qi Jingling",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12014.png"
+                            },
+                            {
+                                "url": "/anime/the-island-of-siliang-2nd-season",
+                                "title": "The Island of Siliang 2nd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12035.png"
+                            },
+                            {
+                                "url": "/anime/super-xiang",
+                                "title": "Super Xiang",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11942.png"
+                            },
+                            {
                                 "url": "/anime/yugioh-go-rush",
                                 "title": "Yu☆Gi☆Oh! Go Rush!!",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11169.png"
@@ -85,11 +100,6 @@
                                 "url": "/anime/a-record-of-mortals-journey-to-immortality-season-3",
                                 "title": "A Record of Mortal's Journey to Immortality Season 3",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11600.png"
-                            },
-                            {
-                                "url": "/anime/the-island-of-siliang-2nd-season",
-                                "title": "The Island of Siliang 2nd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12035.png"
                             },
                             {
                                 "url": "/anime/hai-step-jun",
@@ -125,16 +135,6 @@
                                 "url": "/anime/chibi-marukochan",
                                 "title": "Chibi Maruko-chan",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10498.png"
-                            },
-                            {
-                                "url": "/anime/dragon-prince-yuan",
-                                "title": "Dragon Prince Yuan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12033.png"
-                            },
-                            {
-                                "url": "/anime/sound-euphonium-season-3",
-                                "title": "Sound! Euphonium Season 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11905.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,19 +255,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/the-island-of-siliang-2nd-season/147249",
+                        "name": "Episode 2"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=gcZPAGXxtv6dScXGjzv2yg%3D%3D",
+                        "url": "https://slothanime.com/player-url/147249?vrf=AlalIhCoa48OW31Sfxm5yA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=gcZPAGXxtv6dScXGjzv2yg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/147249?vrf=AlalIhCoa48OW31Sfxm5yA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/the-island-of-siliang-2nd-season/147249"
                         }
                     }
                 ],

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/smile-hdfc/",
+                                "title": "Tebessüm",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/smile-hdfc_list.jpg"
+                            },
+                            {
+                                "url": "/the-birdcage/",
+                                "title": "Kuş Kafesi",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-birdcage_list.jpg"
+                            },
+                            {
                                 "url": "/dizi/the-outlaws/",
                                 "title": "The Outlaws",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-outlaws_list.jpg"
@@ -135,16 +145,6 @@
                                 "url": "/the-wonderful-story-of-henry-sugar-and-three-more/",
                                 "title": "Şeker Henry'nin İnanılmaz Öyküsü ve Diğerleri",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-wonderful-story-of-henry-sugar-and-three-more_list.jpg"
-                            },
-                            {
-                                "url": "/too-big-to-fail/",
-                                "title": "Too Big to Fail",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/too-big-to-fail_list.jpg"
-                            },
-                            {
-                                "url": "/we-are-happy/",
-                                "title": "Mutluyuz",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/we-are-happy_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,12 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/dizi/the-outlaws/",
-                    "title": "The Outlaws",
-                    "artist": "Rhianne Barreto, Darren Boyd, Gamba Cole, Jessica Gunning, Clare Perkins, Eleanor Tomlinson, Grace Calder, Kojo Kamara, Harry Trevaldwyn, Rhys Yates",
-                    "description": "Toplumun farklı kesimlerinden yedi yabancı, Bristol'de topluluk tarafından verilen intikam cezasını tamamlamak üzere bir araya gelmeye zorlanır.",
-                    "genre": "Komedi, Suç, Dram",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/the-outlaws.jpg",
+                    "url": "/smile-hdfc/",
+                    "title": "Tebessüm",
+                    "artist": "Onur Buldu, Seda Türkmen, Güvenç Selekman, Emir Çubukçu",
+                    "description": "Çevresi tarafından asık suratlılığı ve asosyalliği ile tanınan Mustafa İstanbul’da bir devlet dairesinde arşiv bölümünde çalışmaktadır. Mustafa’nın aranan bir katile benzemesi dolayısıyla sık sık polis kontrolüne takılması, işleri onun için iyice içinden çıkılmaz bir hale sokmaktadır. Mustafa’nın imajından hoşnutsuzluğunu bilen arkadaşı Zeki’nin, Mustafa’yı güler yüzlü gösterecek bir planı vardır ve Mustafa’yı da buna ikna eder. İşler ters gider, Mustafa’nın yeni imajı hiç de olumlu bir sonuç yaratmadığı gibi Mustafa için bundan sonra hayatında, pek de gülünecek bir şey kalmaz. Babasının Denizli’de hastaneye kaldırılıp bacağının kesildiğini öğrenir. Kesik bacağı gömmekle vazifelendirilen Mustafa ve kendisinin tam zıttı olan amcasının oğlu Mehmet kendilerini beklenmedik hataların ve absürtlüklerin içinde bulurlar.",
+                    "genre": "Komedi, Dram",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.sh/uploads/poster/smile-hdfc.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -261,14 +263,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/dizi/the-outlaws/sezon-3/bolum-5/",
-                        "name": "3. Sezon 5. Bölüm",
-                        "episode_number": 3.005
-                    },
-                    {
-                        "url": "/dizi/the-outlaws/sezon-3/bolum-4/",
-                        "name": "3. Sezon 4. Bölüm",
-                        "episode_number": 3.004
+                        "url": "/smile-hdfc/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

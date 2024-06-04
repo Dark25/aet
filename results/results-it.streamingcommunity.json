@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "8585-the-acolyte-la-seguace",
-                                "title": "The Acolyte: La Seguace",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/6f1071e4-f865-4bba-981d-46c9e5007cee.webp"
+                                "url": "8681-ricchi-a-tutti-i-costi",
+                                "title": "Ricchi a tutti i costi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/d1bf827f-bbb1-4bed-8d01-ae1fa15b6411.webp"
                             },
                             {
                                 "url": "8646-ni-una-mas",
@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8682-aaa-achille",
+                                "title": "A.A.A. Achille",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ac570c5b-6965-4329-8eec-709ff19461b0.webp"
+                            },
+                            {
                                 "url": "8680-il-fantasma-e-molly-mcgee",
                                 "title": "Il Fantasma e Molly Mcgee",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b8cbec99-00ea-40e8-8eaf-70f9e954e670.webp"
@@ -610,11 +615,6 @@
                                 "url": "8608-comedy-match",
                                 "title": "Comedy Match",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/dc4e377a-045b-4ac2-a53d-a62283cb576e.webp"
-                            },
-                            {
-                                "url": "8607-red-oaks",
-                                "title": "Red Oaks",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/3b8f5975-2ea9-4c3c-b224-0c33ae29e5f9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,19 +934,27 @@
             },
             "details": {
                 "result": {
-                    "url": "8585-the-acolyte-la-seguace",
-                    "description": "“The Acolyte: La Seguace” esamina una galassia di segreti e poteri oscuri e non tutto è come sembra.",
-                    "genre": "Sci-Fi & Fantasy, Mistero",
+                    "url": "8681-ricchi-a-tutti-i-costi",
+                    "description": "Quando una nonna si innamora di un corteggiatore sfacciato dalle dubbie intenzioni, la sua famiglia escogita un piano segreto per proteggere la sua vita... e la loro eredità.",
+                    "genre": "Commedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "8681",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/geek-girl/",
+                                "title": "Geek Girl",
+                                "description": "Harriet es una peculiar adolescente que siempre ha querido encajar, hasta que la descubre un importante agente de modelos y comprende que algunas personas han nacido para destacar. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg"
+                            },
+                            {
                                 "url": "/hausen/",
                                 "title": "Hausen",
                                 "description": "Un chico de 16 años llamado Juri y su padre Jaschek se mudan a un complejo de viviendas en un destartalado edificio prefabricado en las afueras de la ciudad, después de la muerte de la madre de Juri, solo para descubrir que el edificio tiene vida propia. EL edificio se alimenta del sufrimiento de sus […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/oz4y6d2dDIKlyenkxzrX4yL9Kwh.jpg"
                             },
                             {
-                                "url": "/jurassic-world-teoria-del-dinocaos/",
-                                "title": "Jurassic World: Teoría del dinocaos",
-                                "description": "Jurassic World: Chaos Theory La pandilla del Campamento Cretácico se junta para desentrañar un misterio tras descubrir una conspiración global que pone en peligro a los dinosaurios… y a ellos mismos. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
-                            },
-                            {
-                                "url": "/bojack-horseman/",
-                                "title": "BoJack Horseman",
+                                "url": "/o-menino-maluquinho/",
+                                "title": "O Menino Maluquinho",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/10/1bnrSsJNejoQq8lGBDECQroGjPz-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/37aj7Vuci28GJz1AXiESAb74tGM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/perverso/",
-                                "title": "Perverso",
+                                "url": "/red-election/",
+                                "title": "Red Election",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6625yGn4KSy06d9dEG2sgTEhyrL.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKDJ5yN3wzBkREMKBgY5mXf439t.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,11 +156,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/hausen/",
-                    "title": "Hausen",
-                    "description": "Un chico de 16 años llamado Juri y su padre Jaschek se mudan a un complejo de viviendas en un destartalado edificio prefabricado en las afueras de la ciudad, después de la muerte de la madre de Juri, solo para descubrir que el edificio tiene vida propia. EL edificio se alimenta del sufrimiento de sus habitantes y Juri debe unirse con los otros residentes para convencer a su padre de que vuelva a la luz, después de que este caiga profundamente bajo el hechizo del edificio.",
-                    "genre": "Drama, Misterio, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/Av0Up0LN0PCl3vorBmsuwdCGog2.jpg",
+                    "url": "/geek-girl/",
+                    "title": "Geek Girl",
+                    "description": "Harriet es una peculiar adolescente que siempre ha querido encajar, hasta que la descubre un importante agente de modelos y comprende que algunas personas han nacido para destacar.",
+                    "genre": "Comedia, Drama, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -168,16 +168,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/hausen-temporada-1-capitulo-8/",
-                        "name": "T01 - E08 - Episodio 8",
-                        "date_upload": 1604188800000,
-                        "episode_number": 8.0
+                        "url": "/episode/geek-girl-temporada-1-capitulo-10/",
+                        "name": "T01 - E10 - Capítulo 10",
+                        "date_upload": 1717027200000,
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/hausen-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - Episodio 7",
-                        "date_upload": 1604188800000,
-                        "episode_number": 7.0
+                        "url": "/episode/geek-girl-temporada-1-capitulo-9/",
+                        "name": "T01 - E09 - Capítulo 9",
+                        "date_upload": 1717027200000,
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -185,9 +185,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s36.fastream.to/hls2/02/00067/rcohcleil8ts_,l,n,.urlset/index-f2-v1-a1.m3u8?t=AWQTc2Ylz5afr78m8uZskXpnJ59v8Y0reuVbMaVhaE0&s=1717438777&e=43200&f=336752&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00067/rcohcleil8ts_,l,n,.urlset/index-f2-v1-a1.m3u8?t=AWQTc2Ylz5afr78m8uZskXpnJ59v8Y0reuVbMaVhaE0&s=1717438777&e=43200&f=336752&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "url": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -196,9 +196,53 @@
                         }
                     },
                     {
-                        "url": "https://s36.fastream.to/hls2/02/00067/rcohcleil8ts_,l,n,.urlset/index-f1-v1-a1.m3u8?t=AWQTc2Ylz5afr78m8uZskXpnJ59v8Y0reuVbMaVhaE0&s=1717438777&e=43200&f=336752&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "url": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s36.fastream.to/hls2/08/00067/12ez8qe5nrf6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=f_sc8YYARMBDAxxSsDACPi1S4X1KXLU5DviQ1LEbbt4&s=1717462775&e=43200&f=336744&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s36.fastream.to/hls2/08/00067/12ez8qe5nrf6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=f_sc8YYARMBDAxxSsDACPi1S4X1KXLU5DviQ1LEbbt4&s=1717462775&e=43200&f=336744&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
                         "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00067/rcohcleil8ts_,l,n,.urlset/index-f1-v1-a1.m3u8?t=AWQTc2Ylz5afr78m8uZskXpnJ59v8Y0reuVbMaVhaE0&s=1717438777&e=43200&f=336752&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "videoUrl": "https://s40.fastream.to/hls2/19/00067/m3zibvaljd6x_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=109be6sBu4e51iYCLk0Nb5Re3xla8NFoGst_vgV6SsY&s=1717462777&e=43200&f=336743&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s36.fastream.to/hls2/08/00067/12ez8qe5nrf6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=f_sc8YYARMBDAxxSsDACPi1S4X1KXLU5DviQ1LEbbt4&s=1717462775&e=43200&f=336744&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s36.fastream.to/hls2/08/00067/12ez8qe5nrf6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=f_sc8YYARMBDAxxSsDACPi1S4X1KXLU5DviQ1LEbbt4&s=1717462775&e=43200&f=336744&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

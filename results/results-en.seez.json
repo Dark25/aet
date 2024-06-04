@@ -3,23 +3,252 @@
         "name": "Seez (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "{\"id\":653346,\"media_type\":\"movie\"}",
+                                "title": "Kingdom of the Planet of the Apes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+                            },
+                            {
+                                "url": "{\"id\":929590,\"media_type\":\"movie\"}",
+                                "title": "Civil War",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
+                            },
+                            {
+                                "url": "{\"id\":823464,\"media_type\":\"movie\"}",
+                                "title": "Godzilla x Kong: The New Empire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+                            },
+                            {
+                                "url": "{\"id\":719221,\"media_type\":\"movie\"}",
+                                "title": "Tarot",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//gAEUXC37vl1SnM7PXsHTF23I2vq.jpg"
+                            },
+                            {
+                                "url": "{\"id\":614933,\"media_type\":\"movie\"}",
+                                "title": "Atlas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
+                            },
+                            {
+                                "url": "{\"id\":437342,\"media_type\":\"movie\"}",
+                                "title": "The First Omen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg"
+                            },
+                            {
+                                "url": "{\"id\":746036,\"media_type\":\"movie\"}",
+                                "title": "The Fall Guy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
+                            },
+                            {
+                                "url": "{\"id\":940721,\"media_type\":\"movie\"}",
+                                "title": "Godzilla Minus One",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
+                            },
+                            {
+                                "url": "{\"id\":882059,\"media_type\":\"movie\"}",
+                                "title": "Boy Kills World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//25JskXmchcYwj3jHRmcPm738MpB.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1219685,\"media_type\":\"movie\"}",
+                                "title": "Un père idéal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//4xJd3uwtL1vCuZgEfEc8JXI9Uyx.jpg"
+                            },
+                            {
+                                "url": "{\"id\":786892,\"media_type\":\"movie\"}",
+                                "title": "Furiosa: A Mad Max Saga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1011985,\"media_type\":\"movie\"}",
+                                "title": "Kung Fu Panda 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+                            },
+                            {
+                                "url": "{\"id\":693134,\"media_type\":\"movie\"}",
+                                "title": "Dune: Part Two",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
+                            },
+                            {
+                                "url": "{\"id\":748783,\"media_type\":\"movie\"}",
+                                "title": "The Garfield Movie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1041613,\"media_type\":\"movie\"}",
+                                "title": "Immaculate",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//fdZpvODTX5wwkD0ikZNaClE4AoW.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1022789,\"media_type\":\"movie\"}",
+                                "title": "Inside Out 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//xeqXXTE1Cd3qNaAEOT6qbhhCsgJ.jpg"
+                            },
+                            {
+                                "url": "{\"id\":660360,\"media_type\":\"movie\"}",
+                                "title": "Noryang: Deadly Sea",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//wFAe7gA513Pi2meI4ECwf6YEKR1.jpg"
+                            },
+                            {
+                                "url": "{\"id\":940551,\"media_type\":\"movie\"}",
+                                "title": "Migration",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//ldfCF9RhR40mppkzmftxapaHeTo.jpg"
+                            },
+                            {
+                                "url": "{\"id\":996154,\"media_type\":\"movie\"}",
+                                "title": "Black Lotus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//y3AeW200hqGLxoPyHMDHpzudylz.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1096197,\"media_type\":\"movie\"}",
+                                "title": "No Way Up",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "{\"id\":1147400,\"media_type\":\"movie\"}",
+                                "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+                                "status": 2,
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg"
+                            },
+                            {
+                                "url": "{\"id\":65942,\"media_type\":\"tv\"}",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5MrRCj7z92YLWMXHeWKp19eJPYv.jpg"
+                            },
+                            {
+                                "url": "{\"id\":16425,\"media_type\":\"tv\"}",
+                                "title": "Mapping the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//fXovsgQMUctOevjEJGXxiuzJzyZ.jpg"
+                            },
+                            {
+                                "url": "{\"id\":82670,\"media_type\":\"tv\"}",
+                                "title": "World War Two",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//wAs1ai9mVvebPK2Fz46oKjipeTt.jpg"
+                            },
+                            {
+                                "url": "{\"id\":250670,\"media_type\":\"tv\"}",
+                                "title": "Maxton Hall - The World Between Us",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//poe7azEgbyew5PVlWSYpFQBjwD7.jpg"
+                            },
+                            {
+                                "url": "{\"id\":5022,\"media_type\":\"tv\"}",
+                                "title": "The Real World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//pqeqlmK1KEBfEfABnPjEr7oXjWL.jpg"
+                            },
+                            {
+                                "url": "{\"id\":882059,\"media_type\":\"movie\"}",
+                                "title": "Boy Kills World",
+                                "status": 2,
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//25JskXmchcYwj3jHRmcPm738MpB.jpg"
+                            },
+                            {
+                                "url": "{\"id\":206748,\"media_type\":\"tv\"}",
+                                "title": "Saving 80,000 Gold in Another World for My Retirement",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//heAGJJHVkYmGJnj5xJZg60HZHXf.jpg"
+                            },
+                            {
+                                "url": "{\"id\":65844,\"media_type\":\"tv\"}",
+                                "title": "KONOSUBA - God's blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//oRaOeQlwktbGSd2T31FYAcgHZlh.jpg"
+                            },
+                            {
+                                "url": "{\"id\":82172,\"media_type\":\"tv\"}",
+                                "title": "The World Heritage",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//bES9DDFubda9XEIbdcEK6DAu8rZ.jpg"
+                            },
+                            {
+                                "url": "{\"id\":237233,\"media_type\":\"tv\"}",
+                                "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//3eBu6hYDRe72ZPUfLbhaHfF7EM9.jpg"
+                            },
+                            {
+                                "url": "{\"id\":205493,\"media_type\":\"tv\"}",
+                                "title": "The Prince of Tennis II: U-17 World Cup",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jtlnqKX1Cl3N3TrJjNthdvVluSg.jpg"
+                            },
+                            {
+                                "url": "{\"id\":46028,\"media_type\":\"tv\"}",
+                                "title": "Girl Meets World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//xhU1KkPtM9fpE1HKpdghX0VlyYF.jpg"
+                            },
+                            {
+                                "url": "{\"id\":61628,\"media_type\":\"tv\"}",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//lchqxvVvOeSfkpuvVAIxaDm8Mth.jpg"
+                            },
+                            {
+                                "url": "{\"id\":23936,\"media_type\":\"tv\"}",
+                                "title": "The Wonderful World of Disney",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//liQIvgYvnNwqjV6MvnFzvlXJNL2.jpg"
+                            },
+                            {
+                                "url": "{\"id\":129570,\"media_type\":\"tv\"}",
+                                "title": "World Famous Fairy Tales",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//oPfSmcC7J1tN93Hdknc7OJe21GK.jpg"
+                            },
+                            {
+                                "url": "{\"id\":74097,\"media_type\":\"tv\"}",
+                                "title": "Kino's Journey: The Beautiful World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//wvEdPTuJfwqDZQwrh41N1rdzFi7.jpg"
+                            },
+                            {
+                                "url": "{\"id\":203040,\"media_type\":\"tv\"}",
+                                "title": "KONOSUBA – An Explosion on This Wonderful World!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//68rh8l8RaGujTDF6k87yykxixIy.jpg"
+                            },
+                            {
+                                "url": "{\"id\":72505,\"media_type\":\"tv\"}",
+                                "title": "In Another World with My Smartphone",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg"
+                            },
+                            {
+                                "url": "{\"id\":122612,\"media_type\":\"tv\"}",
+                                "title": "Ten Thousand Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//l2Z8oW6lW4FhgWt2Uu2NQhaEVLK.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": {
+                    "url": "{\"id\":653346,\"media_type\":\"movie\"}",
+                    "author": "20th Century Studios, Oddball Entertainment, Jason T. Reed Productions",
+                    "description": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.\n\nRelease date: 2024-05-08\nLanguages: English (English)\n",
+                    "genre": "Science Fiction, Adventure, Action",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movie/653346",
+                        "name": "Movie",
+                        "date_upload": 1715126400000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 1 in: \"c�\"",
                 "passed": false
             }
         }

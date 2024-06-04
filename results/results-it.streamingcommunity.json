@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8585-the-acolyte-la-seguace",
+                                "title": "The Acolyte: La Seguace",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/6f1071e4-f865-4bba-981d-46c9e5007cee.webp"
+                            },
+                            {
                                 "url": "8646-ni-una-mas",
                                 "title": "Ni una más",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/dc4e7e82-8cc1-48dc-a7d8-65a245260b0f.webp"
@@ -300,11 +305,6 @@
                                 "url": "8311-city-hunter",
                                 "title": "City Hunter",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b1f212ac-abf3-4c53-b117-d332be317fd8.webp"
-                            },
-                            {
-                                "url": "7696-challengers",
-                                "title": "Challengers",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/538ec93f-f8e6-4eb9-9894-8b0fa505c4a6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8680-il-fantasma-e-molly-mcgee",
+                                "title": "Il Fantasma e Molly Mcgee",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/b8cbec99-00ea-40e8-8eaf-70f9e954e670.webp"
+                            },
+                            {
+                                "url": "8679-tour-de-france-sulla-scia-dei-campioni",
+                                "title": "Tour de France: sulla scia dei campioni",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/87e01145-e968-43f1-8365-2ca5dba102fb.webp"
+                            },
+                            {
+                                "url": "8678-good-morning-call",
+                                "title": "Good Morning Call",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/210f93dc-551e-4f5d-b19a-2ec720d98468.webp"
+                            },
                             {
                                 "url": "8677-doctor-slump",
                                 "title": "Doctor slump",
@@ -600,21 +615,6 @@
                                 "url": "8607-red-oaks",
                                 "title": "Red Oaks",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/3b8f5975-2ea9-4c3c-b224-0c33ae29e5f9.webp"
-                            },
-                            {
-                                "url": "8606-free-rein",
-                                "title": "Free Rein",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/8776d350-d40e-48c0-9d76-94adb11d2eec.webp"
-                            },
-                            {
-                                "url": "8605-the-listener",
-                                "title": "The Listener",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/1f047b48-5d7d-4880-b67f-6d031352d90e.webp"
-                            },
-                            {
-                                "url": "8604-little-fires-everywhere",
-                                "title": "Little Fires Everywhere",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/976ff7b3-af3c-40ec-be77-f6bd7180aeaf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,32 +934,19 @@
             },
             "details": {
                 "result": {
-                    "url": "8646-ni-una-mas",
-                    "description": "Quando una diciassettenne denuncia uno stupro avvenuto nel suo liceo, un'inchiesta le sconvolge la vita e mette alla prova le sue relazioni.",
-                    "genre": "Dramma",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "8585-the-acolyte-la-seguace",
+                    "description": "“The Acolyte: La Seguace” esamina una galassia di segreti e poteri oscuri e non tutto è come sembra.",
+                    "genre": "Sci-Fi & Fantasy, Mistero",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "8646?episode_id=63458&next_episode=1",
-                        "name": "Stagione 1 episodio 8 - Sangue o lacrime",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "8646?episode_id=63457&next_episode=1",
-                        "name": "Stagione 1 episodio 7 - Come catturare un predatore sessuale",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
                 "passed": false
             }
         }

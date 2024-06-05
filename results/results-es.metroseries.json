@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dragon-ball-super/",
+                                "title": "Dragon Ball Super",
+                                "description": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kbhu0tIv5E1PbAw2YPjrhoQ7I1s.jpg"
+                            },
+                            {
                                 "url": "/testamento-la-historia-de-moises/",
                                 "title": "Testamento: La historia de Moisés",
                                 "description": "Testament: The Story of Moses Este docudrama esclarecedor, que cuenta con la participación de teólogos e historiadores, narra la fascinante vida de Moisés como príncipe, profeta y mucho más. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/5fAHVS8C88mWvwzMWqchNwYVcQO.jpg"
                             },
                             {
-                                "url": "/mi-querido-arlo/",
-                                "title": "Mi querido Arlo",
-                                "description": "I Heart Arlo Arlo y sus singulares amiguitos afrontan un mundo totalmente nuevo cuando se proponen reconstruir un barrio de Nueva York abandonado... y hacerlo suyo. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ecaxpn3pIxM0PtKr6ltSblO2Gel.jpg"
-                            },
-                            {
-                                "url": "/ulven-kommer/",
-                                "title": "Ulven kommer",
+                                "url": "/linea-roja/",
+                                "title": "Línea roja",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9uQLiuZJWlZ4qXL2wT0ScElwCRJ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cMJZKpWiQurraX4PoZgpsSG6AmL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/awkward-b2/",
-                                "title": "La chica invisible",
+                                "url": "/el-fin-del-amor/",
+                                "title": "El Fin del Amor",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/cnHeVPcbjzSS75b2UPRM4tRCzbi-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/e0WBmIJiapZxIPIuYRRSCffFNKe.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,135 +156,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/testamento-la-historia-de-moises/",
-                    "title": "Testamento: La historia de Moisés",
-                    "description": "Testament: The Story of Moses Este docudrama esclarecedor, que cuenta con la participación de teólogos e historiadores, narra la fascinante vida de Moisés como príncipe, profeta y mucho más.",
-                    "genre": "Documental, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
+                    "url": "/dragon-ball-super/",
+                    "description": "",
+                    "genre": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/testamento-la-historia-de-moises-temporada-1-capitulo-3/",
-                        "name": "T01 - E03 - 3.ª parte: La tierra prometida",
-                        "date_upload": 1711497600000,
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/episode/testamento-la-historia-de-moises-temporada-1-capitulo-2/",
-                        "name": "T01 - E02 - 2.ª parte: Las plagas",
-                        "date_upload": 1711497600000,
-                        "episode_number": 2.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s39.fastream.to/hls2/22/00067/z92rst29h16h_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=NgddB-6EQH_H52CCzQwpaM8zl9acAl31jPiIMXccEOg&s=1717549158&e=43200&f=337094&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/22/00067/z92rst29h16h_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=NgddB-6EQH_H52CCzQwpaM8zl9acAl31jPiIMXccEOg&s=1717549158&e=43200&f=337094&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s28.fastream.to/hls2/05/00065/g9msciyhvcgd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=H681m3bTwKayPOBRDIgj0wNjVCwQKsB7of6pRVZIzM8&s=1717549157&e=43200&f=326083&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s28.fastream.to/hls2/05/00065/g9msciyhvcgd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=H681m3bTwKayPOBRDIgj0wNjVCwQKsB7of6pRVZIzM8&s=1717549157&e=43200&f=326083&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s28.fastream.to/hls2/06/00065/rit7ogaag24f_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=199jbWcWcYyIKJCtzo32-7bnrVbJW-0Y_yyBDfqwDOY&s=1717549154&e=43200&f=326214&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s28.fastream.to/hls2/06/00065/rit7ogaag24f_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=199jbWcWcYyIKJCtzo32-7bnrVbJW-0Y_yyBDfqwDOY&s=1717549154&e=43200&f=326214&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/22/00067/z92rst29h16h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=NgddB-6EQH_H52CCzQwpaM8zl9acAl31jPiIMXccEOg&s=1717549158&e=43200&f=337094&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/22/00067/z92rst29h16h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=NgddB-6EQH_H52CCzQwpaM8zl9acAl31jPiIMXccEOg&s=1717549158&e=43200&f=337094&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s28.fastream.to/hls2/05/00065/g9msciyhvcgd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=H681m3bTwKayPOBRDIgj0wNjVCwQKsB7of6pRVZIzM8&s=1717549157&e=43200&f=326083&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s28.fastream.to/hls2/05/00065/g9msciyhvcgd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=H681m3bTwKayPOBRDIgj0wNjVCwQKsB7of6pRVZIzM8&s=1717549157&e=43200&f=326083&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s28.fastream.to/hls2/06/00065/rit7ogaag24f_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=199jbWcWcYyIKJCtzo32-7bnrVbJW-0Y_yyBDfqwDOY&s=1717549154&e=43200&f=326214&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s28.fastream.to/hls2/06/00065/rit7ogaag24f_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=199jbWcWcYyIKJCtzo32-7bnrVbJW-0Y_yyBDfqwDOY&s=1717549154&e=43200&f=326214&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/22/00067/z92rst29h16h_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=NgddB-6EQH_H52CCzQwpaM8zl9acAl31jPiIMXccEOg&s=1717549158&e=43200&f=337094&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/22/00067/z92rst29h16h_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=NgddB-6EQH_H52CCzQwpaM8zl9acAl31jPiIMXccEOg&s=1717549158&e=43200&f=337094&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s28.fastream.to/hls2/05/00065/g9msciyhvcgd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=H681m3bTwKayPOBRDIgj0wNjVCwQKsB7of6pRVZIzM8&s=1717549157&e=43200&f=326083&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s28.fastream.to/hls2/05/00065/g9msciyhvcgd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=H681m3bTwKayPOBRDIgj0wNjVCwQKsB7of6pRVZIzM8&s=1717549157&e=43200&f=326083&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s28.fastream.to/hls2/06/00065/rit7ogaag24f_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=199jbWcWcYyIKJCtzo32-7bnrVbJW-0Y_yyBDfqwDOY&s=1717549154&e=43200&f=326214&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s28.fastream.to/hls2/06/00065/rit7ogaag24f_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=199jbWcWcYyIKJCtzo32-7bnrVbJW-0Y_yyBDfqwDOY&s=1717549154&e=43200&f=326214&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

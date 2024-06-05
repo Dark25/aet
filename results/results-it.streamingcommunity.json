@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "8704-lego-ninjago-la-rivolta-dei-draghi",
+                                "title": "LEGO Ninjago: La rivolta dei draghi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/715b1773-ff5d-4121-8e73-f22aefbca628.webp"
+                            },
+                            {
+                                "url": "8703-geordie-shore",
+                                "title": "Geordie Shore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e85793b8-806a-450a-90e8-c3c0175b51a7.webp"
+                            },
+                            {
                                 "url": "8702-the-witch",
                                 "title": "The Witch",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/4054d751-fa80-43b2-9380-6b0fb531caf8.webp"
@@ -605,16 +615,6 @@
                                 "url": "8634-lultimo-tycoon",
                                 "title": "L'ultimo Tycoon",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e4aff62e-468d-4e88-859e-72424d81b44a.webp"
-                            },
-                            {
-                                "url": "8633-treadstone",
-                                "title": "Treadstone",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ed9bcebd-b603-4edb-867e-3ba33e8039b4.webp"
-                            },
-                            {
-                                "url": "8632-diario-di-una-squillo-perbene",
-                                "title": "Diario di una Squillo Perbene",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/c77f55d9-52c8-4732-a4f4-603810cd36c2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -942,11 +942,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "8585?episode_id=64041&next_episode=1",
+                        "name": "Stagione 1 episodio 2 - Vendetta/Giutizia",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "8585?episode_id=64042&next_episode=1",
+                        "name": "Stagione 1 episodio 1 - Perso/Ritrovato",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-acolyte/",
+                                "title": "The Acolyte",
+                                "description": "Star Wars: The Acolyte \"The Acolyte\" lleva a los espectadores a una galaxia de oscuros secretos y poderes emergentes del lado oscuro en los últimos días de la era de la Alta República. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg"
+                            },
+                            {
                                 "url": "/doctor-who-2024/",
                                 "title": "Doctor Who (2024)",
                                 "description": "El Doctor y su compañera Ruby Sunday viajan a través del tiempo y el espacio, viviendo aventuras desde la época de la Regencia en Inglaterra hasta mundos futuros asolados por la guerra. A través de sus aventuras en la Tardis... una nave que viaja por el tiempo con forma de cabina telefónica de la policía, […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/fvpYJkQaeon5kmxioIPHFmgA2v5.jpg"
                             },
                             {
-                                "url": "/huset/",
-                                "title": "Huset",
-                                "description": "Sammi, Henrik, Miriam y Gert son funcionarios de prisiones y colegas en una antigua y deteriorada prisión danesa. Su ambiente de trabajo es crudo y hostil, y sus respectivas vidas fuera de los muros de la prisión están llenas de conflictos, secretos y soledad por razones muy diferentes. Secretos que pronto resurgirán y tendrán grandes […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7Vld3m911sM9pJF6OI6vgovbS9j.jpg"
-                            },
-                            {
-                                "url": "/murder-in-provence/",
-                                "title": "Murder in Provence",
+                                "url": "/manes/",
+                                "title": "Manes",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ruqUtcuL18Y1gyxO1gUMh1r4FD.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lRTIqUI2LrZJ07ns311lXG1GSBe.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/el-desafio-eta/",
-                                "title": "El Desafío: ETA",
+                                "url": "/ulven-kommer/",
+                                "title": "Ulven kommer",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/gLavHjDKDbg1no9Xu4KZTrTb92J.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9uQLiuZJWlZ4qXL2wT0ScElwCRJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,179 @@
             },
             "details": {
                 "result": {
-                    "url": "/doctor-who-2024/",
-                    "title": "Doctor Who (2024)",
-                    "description": "El Doctor y su compañera Ruby Sunday viajan a través del tiempo y el espacio, viviendo aventuras desde la época de la Regencia en Inglaterra hasta mundos futuros asolados por la guerra. A través de sus aventuras en la Tardis... una nave que viaja por el tiempo con forma de cabina telefónica de la policía, encuentran amigos increíbles y peligrosos enemigos, incluido un aterrador coco y el enemigo más poderoso del Doctor hasta la fecha.",
-                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5ed6T2KGtuIkn1eHOvjQRchU75b.jpg",
+                    "url": "/the-acolyte/",
+                    "title": "The Acolyte",
+                    "description": "Star Wars: The Acolyte \"The Acolyte\" lleva a los espectadores a una galaxia de oscuros secretos y poderes emergentes del lado oscuro en los últimos días de la era de la Alta República.",
+                    "genre": "Misterio, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-acolyte-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Venganza / Justicia",
+                        "date_upload": 1717459200000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/the-acolyte-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - Perdido / Encontrado",
+                        "date_upload": 1717459200000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=I5Ml4oo6PWPfZNmg248Y9YvLPVD3FF9PI6SMGUOfteM&s=1717635566&e=43200&f=337308&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=I5Ml4oo6PWPfZNmg248Y9YvLPVD3FF9PI6SMGUOfteM&s=1717635566&e=43200&f=337308&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=I5Ml4oo6PWPfZNmg248Y9YvLPVD3FF9PI6SMGUOfteM&s=1717635566&e=43200&f=337308&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=I5Ml4oo6PWPfZNmg248Y9YvLPVD3FF9PI6SMGUOfteM&s=1717635566&e=43200&f=337308&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,.urlset/index-f2-v1-a1.m3u8?t=alx2y4mRI0UmOM480UTVRvQFIHNTN76c3jUpNQ8vZeU&s=1717635564&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s37.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,.urlset/index-f2-v1-a1.m3u8?t=alx2y4mRI0UmOM480UTVRvQFIHNTN76c3jUpNQ8vZeU&s=1717635564&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=I5Ml4oo6PWPfZNmg248Y9YvLPVD3FF9PI6SMGUOfteM&s=1717635566&e=43200&f=337308&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=I5Ml4oo6PWPfZNmg248Y9YvLPVD3FF9PI6SMGUOfteM&s=1717635566&e=43200&f=337308&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,.urlset/index-f1-v1-a1.m3u8?t=alx2y4mRI0UmOM480UTVRvQFIHNTN76c3jUpNQ8vZeU&s=1717635564&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s37.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,.urlset/index-f1-v1-a1.m3u8?t=alx2y4mRI0UmOM480UTVRvQFIHNTN76c3jUpNQ8vZeU&s=1717635564&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s37.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Ga7aaf9dLTSpgyO_7Hbt_Hyqdqf1chnurvZzWVmjITo&s=1717635563&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s37.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=fFHwpzG03VKETS9-m1IeKJRH80IZ7PWN6XyTq4RCeYs&s=1717635560&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

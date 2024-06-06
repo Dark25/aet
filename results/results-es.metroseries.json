@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/hitler-y-los-nazis-la-maldad-a-juicio/",
+                                "title": "Hitler y los nazis: La maldad a juicio",
+                                "description": "Hitler and the Nazis: Evil on Trial Esta fascinante docuserie analiza el ascenso y la caída de Adolf Hitler y los nazis, desde antes de la Segunda Guerra Mundial hasta el Holocausto y los juicios de Núremberg. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ykDva4WxCNzo8M1rYVEepoA5pFJ.jpg"
+                            },
+                            {
                                 "url": "/the-acolyte/",
                                 "title": "The Acolyte",
                                 "description": "Star Wars: The Acolyte \"The Acolyte\" lleva a los espectadores a una galaxia de oscuros secretos y poderes emergentes del lado oscuro en los últimos días de la era de la Alta República. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg"
                             },
                             {
-                                "url": "/bodkin/",
-                                "title": "Bodkin",
-                                "description": "Un peculiar equipo de creadores de pódcast investiga unas misteriosas desapariciones ocurridas décadas atrás en un encantador pueblo irlandés lleno de oscuros secretos. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fvpYJkQaeon5kmxioIPHFmgA2v5.jpg"
-                            },
-                            {
-                                "url": "/slasher/",
-                                "title": "Slasher",
+                                "url": "/la-leyenda-de-los-tres-caballeros/",
+                                "title": "La Leyenda de los Tres Caballeros",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ySFDBMgVwAGZ8dw2Z9ols4Qulyt.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/289sp4yd303R477Ji9MoWgVOFQD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/empire/",
-                                "title": "Empire",
+                                "url": "/will-y-grace-ii-2017/",
+                                "title": "Will y Grace II (2017)",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/j7Y4uVrGydvkj3EXxwaOawaOJs5.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pPJ9twkxrQ5vKc7W8y10TT8SBeI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,201 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-acolyte/",
-                    "title": "The Acolyte",
-                    "description": "Star Wars: The Acolyte \"The Acolyte\" lleva a los espectadores a una galaxia de oscuros secretos y poderes emergentes del lado oscuro en los últimos días de la era de la Alta República.",
-                    "genre": "Misterio, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg",
+                    "url": "/hitler-y-los-nazis-la-maldad-a-juicio/",
+                    "title": "Hitler y los nazis: La maldad a juicio",
+                    "description": "Hitler and the Nazis: Evil on Trial Esta fascinante docuserie analiza el ascenso y la caída de Adolf Hitler y los nazis, desde antes de la Segunda Guerra Mundial hasta el Holocausto y los juicios de Núremberg.",
+                    "genre": "Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ykDva4WxCNzo8M1rYVEepoA5pFJ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/the-acolyte-temporada-1-capitulo-2/",
-                        "name": "T01 - E02 - Venganza / Justicia",
-                        "date_upload": 1717459200000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/the-acolyte-temporada-1-capitulo-1/",
-                        "name": "T01 - E01 - Perdido / Encontrado",
-                        "date_upload": 1717459200000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=tnS9rniXodhaBnUVxeX1kQHehDcKHXvVNkaiuEjA49A&s=1717654752&e=43200&f=337308&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=tnS9rniXodhaBnUVxeX1kQHehDcKHXvVNkaiuEjA49A&s=1717654752&e=43200&f=337308&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=tnS9rniXodhaBnUVxeX1kQHehDcKHXvVNkaiuEjA49A&s=1717654752&e=43200&f=337308&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=tnS9rniXodhaBnUVxeX1kQHehDcKHXvVNkaiuEjA49A&s=1717654752&e=43200&f=337308&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tnS9rniXodhaBnUVxeX1kQHehDcKHXvVNkaiuEjA49A&s=1717654752&e=43200&f=337308&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/13/00067/4ionbfr7vspl_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tnS9rniXodhaBnUVxeX1kQHehDcKHXvVNkaiuEjA49A&s=1717654752&e=43200&f=337308&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/18/00067/jg1gqwikapik_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=klU43XhnJysF4ZOsuXEAVe9iSUp8ehTOSJ-5quvkeIk&s=1717654750&e=43200&f=337280&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00067/iv6sbm38d0ti_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=alK2qEzrtZ2voWVnMj6eMuWyH1-b3tCfKbgfu7Br-2c&s=1717654748&e=43200&f=337278&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/14/00067/ecoayfxw9qcb_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=n2oMhKsdRQpju6zTCbSP2RMkxZwBXldTReRRBYgtsz4&s=1717654746&e=43200&f=337279&srv=s39&i=0.0&sp=0&p1=s39&p2=s39",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

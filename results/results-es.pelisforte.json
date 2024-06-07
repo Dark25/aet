@@ -241,42 +241,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04060/f2uz0yyw8byo_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Pi805bwx1963HK6rJzce4gxmz5yZ0JgaxSyG7kPTpiA&s=1717741212&e=129600&f=20300438&srv=rlaj2blvduli&i=0.0&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
-                        "quality": "[LAT]StreamWish:952p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04060/f2uz0yyw8byo_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Pi805bwx1963HK6rJzce4gxmz5yZ0JgaxSyG7kPTpiA&s=1717741212&e=129600&f=20300438&srv=rlaj2blvduli&i=0.0&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/f2uz0yyw8byo"
-                        }
-                    },
-                    {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04060/f2uz0yyw8byo_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Pi805bwx1963HK6rJzce4gxmz5yZ0JgaxSyG7kPTpiA&s=1717741212&e=129600&f=20300438&srv=rlaj2blvduli&i=0.0&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
-                        "quality": "[LAT]StreamWish:720p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04060/f2uz0yyw8byo_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Pi805bwx1963HK6rJzce4gxmz5yZ0JgaxSyG7kPTpiA&s=1717741212&e=129600&f=20300438&srv=rlaj2blvduli&i=0.0&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/f2uz0yyw8byo"
-                        }
-                    },
-                    {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04060/f2uz0yyw8byo_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Pi805bwx1963HK6rJzce4gxmz5yZ0JgaxSyG7kPTpiA&s=1717741212&e=129600&f=20300438&srv=rlaj2blvduli&i=0.0&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
-                        "quality": "[LAT]StreamWish:480p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04060/f2uz0yyw8byo_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Pi805bwx1963HK6rJzce4gxmz5yZ0JgaxSyG7kPTpiA&s=1717741212&e=129600&f=20300438&srv=rlaj2blvduli&i=0.0&sp=500&p1=rlaj2blvduli&p2=rlaj2blvduli&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/f2uz0yyw8byo"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

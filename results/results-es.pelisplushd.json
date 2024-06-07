@@ -702,31 +702,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=3XLar0ehX0yeZrVSfmjIxh3l_IBn2Eonh8CGX2tX44U&s=1717697974&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=3XLar0ehX0yeZrVSfmjIxh3l_IBn2Eonh8CGX2tX44U&s=1717697974&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/kysmm6qbaobv"
-                        }
-                    },
-                    {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=3XLar0ehX0yeZrVSfmjIxh3l_IBn2Eonh8CGX2tX44U&s=1717697974&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=3XLar0ehX0yeZrVSfmjIxh3l_IBn2Eonh8CGX2tX44U&s=1717697974&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/kysmm6qbaobv"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -737,6 +714,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/posesion-diabolica/",
+                                "title": "Posesión Diabólica",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/posesion-diabolica.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-boda-del-senor-darcy/",
+                                "title": "La boda del señor Darcy",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-boda-del-senor-darcy.jpg"
+                            },
+                            {
+                                "url": "/pelicula/todo-el-dia-y-una-noche/",
+                                "title": "Todo el día y una noche",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/todo-el-dia-y-una-noche.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-ultimo-vikingo/",
+                                "title": "El último vikingo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-ultimo-vikingo.jpg"
+                            },
                             {
                                 "url": "/pelicula/stardog-y-turbocat/",
                                 "title": "StarDog y TurboCat",
@@ -816,26 +813,6 @@
                                 "url": "/pelicula/una-vida-oculta/",
                                 "title": "Una vida oculta",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/una-vida-oculta.jpg"
-                            },
-                            {
-                                "url": "/pelicula/robin-williams-entre-en-mi-mente/",
-                                "title": "Robin Williams: entre en mi mente",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/robin-williams-entre-en-mi-mente.jpg"
-                            },
-                            {
-                                "url": "/pelicula/he-vuelto/",
-                                "title": "He vuelto",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/he-vuelto.jpg"
-                            },
-                            {
-                                "url": "/pelicula/erase-una-vez-anastasia/",
-                                "title": "Érase una vez: Anastasia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/erase-una-vez-anastasia.jpg"
-                            },
-                            {
-                                "url": "/pelicula/charlie-dice/",
-                                "title": "Charlie dice",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/charlie-dice.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1005,11 +982,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/stardog-y-turbocat/",
-                    "title": "StarDog y TurboCat",
+                    "url": "/pelicula/posesion-diabolica/",
+                    "title": "Posesión Diabólica",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Suspenso, Terror, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -1019,7 +996,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/stardog-y-turbocat/",
+                        "url": "/pelicula/posesion-diabolica/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -1027,31 +1004,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vypd0e87z8.sw-cdnstreamwish.com/hls2/01/04073/t97cx29vlehg_,n,h,.urlset/index-f2-v1-a1.m3u8?t=m7_LOdUmkWCnAZybHUft9mn167JMTSbAG04BvIIfgis&s=1717697979&e=129600&f=20369858&srv=qpljyz39awcoenfd&i=0.4&sp=500&p1=qpljyz39awcoenfd&p2=qpljyz39awcoenfd&asn=8075",
-                        "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://vypd0e87z8.sw-cdnstreamwish.com/hls2/01/04073/t97cx29vlehg_,n,h,.urlset/index-f2-v1-a1.m3u8?t=m7_LOdUmkWCnAZybHUft9mn167JMTSbAG04BvIIfgis&s=1717697979&e=129600&f=20369858&srv=qpljyz39awcoenfd&i=0.4&sp=500&p1=qpljyz39awcoenfd&p2=qpljyz39awcoenfd&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/t97cx29vlehg"
-                        }
-                    },
-                    {
-                        "url": "https://vypd0e87z8.sw-cdnstreamwish.com/hls2/01/04073/t97cx29vlehg_,n,h,.urlset/index-f1-v1-a1.m3u8?t=m7_LOdUmkWCnAZybHUft9mn167JMTSbAG04BvIIfgis&s=1717697979&e=129600&f=20369858&srv=qpljyz39awcoenfd&i=0.4&sp=500&p1=qpljyz39awcoenfd&p2=qpljyz39awcoenfd&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://vypd0e87z8.sw-cdnstreamwish.com/hls2/01/04073/t97cx29vlehg_,n,h,.urlset/index-f1-v1-a1.m3u8?t=m7_LOdUmkWCnAZybHUft9mn167JMTSbAG04BvIIfgis&s=1717697979&e=129600&f=20369858&srv=qpljyz39awcoenfd&i=0.4&sp=500&p1=qpljyz39awcoenfd&p2=qpljyz39awcoenfd&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/t97cx29vlehg"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "T7yx5cNCPS4oc90L",
+                                "title": "Henjin no Salad Bowl",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/T7yx5cNCPS4oc90L"
+                            },
+                            {
                                 "url": "Izjuq1DxP4VWKWef",
                                 "title": "Urusei Yatsura (2022) 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Izjuq1DxP4VWKWef"
@@ -100,11 +105,6 @@
                                 "url": "D0xUCoitBKyuKpWZ",
                                 "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/D0xUCoitBKyuKpWZ"
-                            },
-                            {
-                                "url": "ujn3LXCZrOeQXyWv",
-                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ujn3LXCZrOeQXyWv"
                             }
                         ],
                         "hasNextPage": true
@@ -279,14 +279,14 @@
             },
             "details": {
                 "result": {
-                    "url": "Izjuq1DxP4VWKWef",
-                    "title": "Urusei Yatsura (2022) 2nd Season",
-                    "author": "David Production",
-                    "description": "Second season of Urusei Yatsura (2022).\n",
-                    "genre": "Comedy, Romance, Sci-Fi, Shounen",
+                    "url": "T7yx5cNCPS4oc90L",
+                    "title": "Henjin no Salad Bowl",
+                    "author": "SynergySP, Studio Comet",
+                    "description": "Sousuke Kaburaya, an impoverished detective, meets Sara, a princess from another world with magical powers. They start living together, and Sara quickly adjusts her life to modern Japan.\n\n(Source: Shogakukan, translated)",
+                    "genre": "Comedy, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Izjuq1DxP4VWKWef",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/T7yx5cNCPS4oc90L",
                     "initialized": true
                 },
                 "passed": true
@@ -294,14 +294,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "Izjuq1DxP4VWKWef/video/21",
-                        "name": "Episode 21: Boy Meets Girl: Are You Really Getting Married?",
-                        "episode_number": 21.0
+                        "url": "T7yx5cNCPS4oc90L/video/10",
+                        "name": "Episode 10: Gambler Lady Knight",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "Izjuq1DxP4VWKWef/video/20",
-                        "name": "Episode 20: Boy Meets Girl: The Morning of Farewell",
-                        "episode_number": 20.0
+                        "url": "T7yx5cNCPS4oc90L/video/9",
+                        "name": "Episode 9: The Demon Lord's Descendant Makes Her Grade School Debut",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -309,17 +309,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/Izjuq1DxP4VWKWef/21/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/T7yx5cNCPS4oc90L/10/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/Izjuq1DxP4VWKWef/21/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/T7yx5cNCPS4oc90L/10/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/Izjuq1DxP4VWKWef/en-US/21",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/en-US/10",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/ru-RU/10",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/pt-BR/10",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/it-IT/10",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/fr-FR/10",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/es-LA/10",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/es-ES/10",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/T7yx5cNCPS4oc90L/de-DE/10",
+                                "lang": "Deutsch"
                             }
                         ]
                     }

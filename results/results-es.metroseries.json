@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/segunda-muerte/",
+                                "title": "Segunda muerte",
+                                "description": "En una cabaña aislada del paradisiaco valle pasiego del Miera, Sandra, una joven auxiliar de policía, halla un cadáver que no debería estar ahí. Lo extraño es que se trata de Juliana, una mujer que ya fue enterrada hace años. ¿Puede alguien morir una segunda vez? Sandra atraviesa un momento personal complicado e intentará mantenerse […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJyVwGLZyUucYdj2fdHyfjT7oOe.jpg"
+                            },
+                            {
                                 "url": "/hitler-y-los-nazis-la-maldad-a-juicio/",
                                 "title": "Hitler y los nazis: La maldad a juicio",
                                 "description": "Hitler and the Nazis: Evil on Trial Esta fascinante docuserie analiza el ascenso y la caída de Adolf Hitler y los nazis, desde antes de la Segunda Guerra Mundial hasta el Holocausto y los juicios de Núremberg. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/pJbUYGnDNSeUvcNAT6qdMELxmsX.jpg"
                             },
                             {
-                                "url": "/t・p-bon/",
-                                "title": "T・P BON",
-                                "description": "T・Pぼん Bon se entromete en un caso de la Patrulla del Tiempo y debe unirse a la agente Ream para salvar vidas inocentes del pasado mientras ve desarrollarse la historia. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg"
-                            },
-                            {
-                                "url": "/minx/",
-                                "title": "Minx",
+                                "url": "/un-nuevo-amanecer/",
+                                "title": "Un Nuevo Amanecer",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fFxywtQtyTDPTdMg8WUDAHxsDlG.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qy733ANy2VoWBeLJS7EEvcKhQaV.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/star-trek-lower-decks/",
-                                "title": "Star Trek: Lower Decks",
+                                "url": "/pasion-de-gavilanes-capitulos-completos-latino-hd-online/",
+                                "title": "Pasión de gavilanes",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2gVVCoxtNtU5fTTyGU1nGwrFl2f.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/xwvFbtHfBTJiInXs8mYYEi2dd78-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,58 @@
             },
             "details": {
                 "result": {
-                    "url": "/hitler-y-los-nazis-la-maldad-a-juicio/",
-                    "title": "Hitler y los nazis: La maldad a juicio",
-                    "description": "Hitler and the Nazis: Evil on Trial Esta fascinante docuserie analiza el ascenso y la caída de Adolf Hitler y los nazis, desde antes de la Segunda Guerra Mundial hasta el Holocausto y los juicios de Núremberg.",
-                    "genre": "Documental",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ykDva4WxCNzo8M1rYVEepoA5pFJ.jpg",
+                    "url": "/segunda-muerte/",
+                    "title": "Segunda muerte",
+                    "description": "En una cabaña aislada del paradisiaco valle pasiego del Miera, Sandra, una joven auxiliar de policía, halla un cadáver que no debería estar ahí. Lo extraño es que se trata de Juliana, una mujer que ya fue enterrada hace años. ¿Puede alguien morir una segunda vez? Sandra atraviesa un momento personal complicado e intentará mantenerse al margen de la investigación: Castro, pareja y padre de su hijo de seis años, está a punto de salir de la cárcel. Sandra ha criado sola al niño, y desde hace unos meses cuida también de su padre, Tello, un reconocido exagente de la UCO con principio de demencia senil, con el que tanto Sandra como Castro mantienen una complicada relación. Un giro inesperado en la investigación del caso involucrará a Sandra, y acabará con su tranquilidad y la del lugar.",
+                    "genre": "Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJyVwGLZyUucYdj2fdHyfjT7oOe.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/segunda-muerte-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - La ballena",
+                        "date_upload": 1717632000000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/segunda-muerte-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - La segunda muerte",
+                        "date_upload": 1717632000000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s36.fastream.to/hls2/24/00067/cqizuvv91xz3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=SdDizUdY-Aa97u1EOWGRITuWHtym6lNF-fy7v7ZEgfs&s=1717808367&e=43200&f=337352&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s36.fastream.to/hls2/24/00067/cqizuvv91xz3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=SdDizUdY-Aa97u1EOWGRITuWHtym6lNF-fy7v7ZEgfs&s=1717808367&e=43200&f=337352&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s36.fastream.to/hls2/24/00067/cqizuvv91xz3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=SdDizUdY-Aa97u1EOWGRITuWHtym6lNF-fy7v7ZEgfs&s=1717808367&e=43200&f=337352&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s36.fastream.to/hls2/24/00067/cqizuvv91xz3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=SdDizUdY-Aa97u1EOWGRITuWHtym6lNF-fy7v7ZEgfs&s=1717808367&e=43200&f=337352&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

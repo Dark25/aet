@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/jerarquia",
+                                "title": "Jerarquía (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/rULIBlzh1apfUjPUMi77V6mYStU.jpg"
+                            },
+                            {
                                 "url": "/serie/the-acolyte",
                                 "title": "The Acolyte (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/mi-chico-es-cupido",
                                 "title": "Mi chico es Cupido (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bUIyiygNMZSLqXyu1VO42tdjVge.jpg"
-                            },
-                            {
-                                "url": "/serie/el-heredero-ilegitimo",
-                                "title": "El heredero ilegítimo (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gohAuKheCdRkliOgCHHielPi5ro.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-acolyte",
-                    "title": "The Acolyte (2024)",
-                    "description": "\"The Acolyte\" lleva a los espectadores a una galaxia de oscuros secretos y poderes emergentes del lado oscuro en los últimos días de la era de la Alta República..",
-                    "genre": "Misterio, Sci-Fi & Fantasy",
+                    "url": "/serie/jerarquia",
+                    "title": "Jerarquía (2024)",
+                    "description": "En esta deliciosamente escandalosa serie de misterio adolescente, un nuevo alumno becado navega las traicioneras aguas de la alta sociedad para llevar a cabo una misión secreta..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rULIBlzh1apfUjPUMi77V6mYStU.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-acolyte/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/jerarquia/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/serie/the-acolyte/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/jerarquia/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -704,9 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=K9IijyCBVIXqobB1AwedWYnjfTDWLIvRbAGJ6SgNUQA&s=1717849487&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hMf9EaauvDFCm4dFF68cZES9FBOGfM8vR-wKzsq3ALc&s=1717870721&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=K9IijyCBVIXqobB1AwedWYnjfTDWLIvRbAGJ6SgNUQA&s=1717849487&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hMf9EaauvDFCm4dFF68cZES9FBOGfM8vR-wKzsq3ALc&s=1717870721&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -715,9 +715,9 @@
                         }
                     },
                     {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=K9IijyCBVIXqobB1AwedWYnjfTDWLIvRbAGJ6SgNUQA&s=1717849487&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hMf9EaauvDFCm4dFF68cZES9FBOGfM8vR-wKzsq3ALc&s=1717870721&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=K9IijyCBVIXqobB1AwedWYnjfTDWLIvRbAGJ6SgNUQA&s=1717849487&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04083/kysmm6qbaobv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hMf9EaauvDFCm4dFF68cZES9FBOGfM8vR-wKzsq3ALc&s=1717870721&e=129600&f=20416471&srv=cizz2w6hmadb&i=0.0&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1029,9 +1029,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://xy0rg432t6i3.sw-cdnstreamwish.com/hls2/01/00772/3c9t3ge5wa34_x/index-v1-a1.m3u8?t=dPSeJQ6HEqwGOUvuYTnREQPSEJucXVXgo8kYvIH0EH0&s=1717849491&e=129600&f=3861229&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
+                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/00772/3c9t3ge5wa34_x/index-v1-a1.m3u8?t=ro-fLBVrcKHiQarhBi9VKUZzfTcfMYjys38Dvfz7hQI&s=1717870724&e=129600&f=3861229&srv=cwfuommwagyrfcg6&i=0.0&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
                         "quality": "[SUB] StreamWish:640p",
-                        "videoUrl": "https://xy0rg432t6i3.sw-cdnstreamwish.com/hls2/01/00772/3c9t3ge5wa34_x/index-v1-a1.m3u8?t=dPSeJQ6HEqwGOUvuYTnREQPSEJucXVXgo8kYvIH0EH0&s=1717849491&e=129600&f=3861229&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
+                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/00772/3c9t3ge5wa34_x/index-v1-a1.m3u8?t=ro-fLBVrcKHiQarhBi9VKUZzfTcfMYjys38Dvfz7hQI&s=1717870724&e=129600&f=3861229&srv=cwfuommwagyrfcg6&i=0.0&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1040,9 +1040,9 @@
                         }
                     },
                     {
-                        "url": "https://m8lb9i2jsuhyh.sw-cdnstreamwish.com/hls2/01/04073/yay2wlzv5l33_n/index-v1-a1.m3u8?t=dGP0HWy6W7g44R_QZ2tnNRFGIL79mTBk9gzOBlx0mGs&s=1717849490&e=129600&f=20369520&srv=5nrdhdrayadkaqp2&i=0.0&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "url": "https://p0tgll7ek4pg.sw-cdnstreamwish.com/hls2/01/04073/yay2wlzv5l33_n/index-v1-a1.m3u8?t=q1a8-l6KIWPwjtRc_LzZRwK5ezcq_Y1BnA4CHOXMyDc&s=1717870725&e=129600&f=20369520&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://m8lb9i2jsuhyh.sw-cdnstreamwish.com/hls2/01/04073/yay2wlzv5l33_n/index-v1-a1.m3u8?t=dGP0HWy6W7g44R_QZ2tnNRFGIL79mTBk9gzOBlx0mGs&s=1717849490&e=129600&f=20369520&srv=5nrdhdrayadkaqp2&i=0.0&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
+                        "videoUrl": "https://p0tgll7ek4pg.sw-cdnstreamwish.com/hls2/01/04073/yay2wlzv5l33_n/index-v1-a1.m3u8?t=q1a8-l6KIWPwjtRc_LzZRwK5ezcq_Y1BnA4CHOXMyDc&s=1717870725&e=129600&f=20369520&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

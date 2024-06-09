@@ -258,48 +258,249 @@
                 "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/one-piece-100",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg"
+                            },
+                            {
+                                "url": "/sound-euphonium-3-15728",
+                                "title": "Hibike! Euphonium 3",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b7/54/b754e41063fd71da3397e13e0c1a3f2a/b754e41063fd71da3397e13e0c1a3f2a.jpg"
+                            },
+                            {
+                                "url": "/konosuba-gods-blessing-on-this-wonderful-world-3-19108",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c5/34/c534bc3db886ec705a2e17fe8e8d0069/c534bc3db886ec705a2e17fe8e8d0069.jpg"
+                            },
+                            {
+                                "url": "/battle-through-the-heavens-5th-season-18119",
+                                "title": "Doupo Cangqiong: Nian Fan",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c1/b1/c1b111d71dc055a9bd1ccc5492dfedbc/c1b111d71dc055a9bd1ccc5492dfedbc.png"
+                            },
+                            {
+                                "url": "/mushoku-tensei-jobless-reincarnation-season-2-part-2-19147",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/66/a0/66a0da3af056880ef24fe6c866078b96/66a0da3af056880ef24fe6c866078b96.jpg"
+                            },
+                            {
+                                "url": "/laid-back-camp-season-3-19141",
+                                "title": "Yuru Camp Season 3",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/de/2f/de2fd13f70285ba3dd86b7a17e2c9c36/de2fd13f70285ba3dd86b7a17e2c9c36.jpg"
+                            },
+                            {
+                                "url": "/kaiju-no-8-19145",
+                                "title": "Kaijuu 8-gou",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ed/fc/edfc7fe935b6eac2d704cf5b0a60e356/edfc7fe935b6eac2d704cf5b0a60e356.jpg"
+                            },
+                            {
+                                "url": "/throne-of-seal-2nd-season-18643",
+                                "title": "Shen Yin Wangzuo 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e7/ea/e7eae90b00f92055c4cb250605b10879/e7eae90b00f92055c4cb250605b10879.jpg"
+                            },
+                            {
+                                "url": "/delicious-in-dungeon-18506",
+                                "title": "Dungeon Meshi",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/45/f6/45f648679dc0bc867c3229ece67d5e4a/45f648679dc0bc867c3229ece67d5e4a.jpg"
+                            },
+                            {
+                                "url": "/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-19107",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1f/06/1f06eb0baf5520aa639b546fc189400d/1f06eb0baf5520aa639b546fc189400d.jpg"
+                            },
+                            {
+                                "url": "/jellyfish-cant-swim-in-the-night-19124",
+                                "title": "Yoru no Kurage wa Oyogenai",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c0/68/c068a9c8c27a61e66171aecf814868b4/c068a9c8c27a61e66171aecf814868b4.jpg"
+                            },
+                            {
+                                "url": "/holo-graffiti-17369",
+                                "title": "Holo no Graffiti",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/40/5f/405fc35850233fce26ed9bc6ff7409fe/405fc35850233fce26ed9bc6ff7409fe.jpg"
+                            },
+                            {
+                                "url": "/case-closed-323",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3b/18/3b185ed9d10aa300bb0cb7fc35b84999/3b185ed9d10aa300bb0cb7fc35b84999.jpg"
+                            },
+                            {
+                                "url": "/girls-band-cry-19115",
+                                "title": "Girls Band Cry",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7e/e4/7ee4fe82e35f214e5676bcf22d5d64d6/7ee4fe82e35f214e5676bcf22d5d64d6.jpg"
+                            },
+                            {
+                                "url": "/spice-and-wolf-merchant-meets-the-wise-wolf-19143",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/9a/04/9a04e0bf651bcb1a0aefaace3d2349fa/9a04e0bf651bcb1a0aefaace3d2349fa.jpg"
+                            },
+                            {
+                                "url": "/black-butler-public-school-arc-19137",
+                                "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b0/e1/b0e186794ce8e1e649399b3de4fe6470/b0e186794ce8e1e649399b3de4fe6470.jpg"
+                            },
+                            {
+                                "url": "/soul-land-2-peerless-tang-sect-18416",
+                                "title": "Douluo Dalu II: Jueshi Tangmen",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/78/67/78670f95e8a9cdaaedc82e50c998674d/78670f95e8a9cdaaedc82e50c998674d.png"
+                            },
+                            {
+                                "url": "/date-a-live-v-19144",
+                                "title": "Date A Live V",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/98/71/987156345df524528ff0001d350c407e/987156345df524528ff0001d350c407e.jpg"
+                            },
+                            {
+                                "url": "/that-time-i-got-reincarnated-as-a-slime-season-3-19109",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f9/b5/f9b501458823539b6a2004f2cdb98a4a/f9b501458823539b6a2004f2cdb98a4a.jpg"
+                            },
+                            {
+                                "url": "/my-hero-academia-season-7-19146",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/af/49/af4938d7388aad3438e443e74b02531e/af4938d7388aad3438e443e74b02531e.jpg"
+                            },
+                            {
+                                "url": "/wind-breaker-19136",
+                                "title": "Wind Breaker",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/d9/bb/d9bb23228e5a641b5a3e9386382dae3a/d9bb23228e5a641b5a3e9386382dae3a.jpg"
+                            },
+                            {
+                                "url": "/renegade-immortal-18573",
+                                "title": "Xian Ni",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ce/be/cebe9badca272a139feb6b70f6d4c147/cebe9badca272a139feb6b70f6d4c147.jpg"
+                            },
+                            {
+                                "url": "/perfect-world-17492",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
+                            },
+                            {
+                                "url": "/shin-chan-1058",
+                                "title": "Crayon Shin-chan",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e8/23/e823a4a4b8b1445deac56a7075aa8748/e823a4a4b8b1445deac56a7075aa8748.jpg"
+                            },
+                            {
+                                "url": "/tsukimichi-moonlit-fantasy-season-2-18877",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/74/73/74738a6fa2c6303f2da0603d58c67671/74738a6fa2c6303f2da0603d58c67671.jpg"
+                            },
+                            {
+                                "url": "/urusei-yatsura-2022-2nd-season-18835",
+                                "title": "Urusei Yatsura (2022) 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/0f/56/0f56b13e4f855e09bd1bb26fecbfbe55/0f56b13e4f855e09bd1bb26fecbfbe55.jpg"
+                            },
+                            {
+                                "url": "/a-record-of-mortals-journey-to-immortality-season-3-19015",
+                                "title": "Fanren Xiu Xian Chuan 3rd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c1/13/c113cfdf822840adf77c553d59794d85/c113cfdf822840adf77c553d59794d85.jpg"
+                            },
+                            {
+                                "url": "/the-duke-of-death-and-his-maid-season-3-19128",
+                                "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/d2/0b/d20bd9561d2f1764d75b458f05b7f89d/d20bd9561d2f1764d75b458f05b7f89d.jpg"
+                            },
+                            {
+                                "url": "/doraemon-2005-1551",
+                                "title": "Doraemon (2005)",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
+                            },
+                            {
+                                "url": "/dead-dead-demons-dededede-destruction-19171",
+                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/32/f5/32f52183551e27fbf6ebb243f907a5d6/32f52183551e27fbf6ebb243f907a5d6.jpg"
+                            },
+                            {
+                                "url": "/go-go-loser-ranger-19139",
+                                "title": "Sentai Daishikkaku",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8f/cf/8fcf4a4bfda6a6a5f63377beebe56041/8fcf4a4bfda6a6a5f63377beebe56041.jpg"
+                            },
+                            {
+                                "url": "/wushen-zhuzai-4037",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/fd/79/fd7927e81e521af7fb95ed010d6f3fcf/fd7927e81e521af7fb95ed010d6f3fcf.jpg"
+                            },
+                            {
+                                "url": "/an-archdemons-dilemma-how-to-love-your-elf-bride-19130",
+                                "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5c/03/5c03a34d9cb5e32348d90271798190fd/5c03a34d9cb5e32348d90271798190fd.jpg"
+                            },
+                            {
+                                "url": "/train-to-the-end-of-the-world-19106",
+                                "title": "Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/22/c322c791493b191eb77e6a25df2fb000/c322c791493b191eb77e6a25df2fb000.jpg"
+                            },
+                            {
+                                "url": "/idol-land-pripara-17708",
+                                "title": "Idol Land PriPara",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f4/32/f432bfbd7d93cef26defefd2e179091d/f432bfbd7d93cef26defefd2e179091d.jpg"
+                            },
+                            {
+                                "url": "/pokemon-horizons-the-series-18397",
+                                "title": "Pokemon (2023)",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/4b/14/4b145f650126e400b69e783e3d6cdd2a/4b145f650126e400b69e783e3d6cdd2a.jpg"
+                            },
+                            {
+                                "url": "/bartender-glass-of-god-19131",
+                                "title": "Bartender: Kami no Glass",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/35/75/3575eb0dcb2cddf901d19bc62aef9ac8/3575eb0dcb2cddf901d19bc62aef9ac8.jpg"
+                            },
+                            {
+                                "url": "/the-irregular-at-magic-high-school-season-3-19142",
+                                "title": "Mahouka Koukou no Rettousei 3rd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c8/8b/c88b9a228d9bfda84fba5795ec2cd593/c88b9a228d9bfda84fba5795ec2cd593.jpg"
+                            },
+                            {
+                                "url": "/yatagarasu-the-raven-does-not-choose-its-master-19104",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e5/40/e5402d031727e1b320686d26aaf85ca5/e5402d031727e1b320686d26aaf85ca5.jpg"
+                            },
+                            {
+                                "url": "/blue-archive-the-animation-19125",
+                                "title": "Blue Archive the Animation",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ea/3d/ea3dd4a5448f8a1a1dedd0e3a6521745/ea3dd4a5448f8a1a1dedd0e3a6521745.jpg"
+                            },
+                            {
+                                "url": "/captain-tsubasa-season-2-junior-youth-hen-18571",
+                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/dc/f6/dcf6309921b0b1389c7f62c3876ef2e2/dcf6309921b0b1389c7f62c3876ef2e2.jpg"
+                            },
+                            {
+                                "url": "/tadaima-okaeri-19116",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/78/e4/78e485190f9da2d4502da66890e9ff89/78e485190f9da2d4502da66890e9ff89.jpg"
+                            },
+                            {
+                                "url": "/shrouding-the-heavens-18635",
+                                "title": "Zhe Tian",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/77/4d/774db8f67bda9e97e285f8ce0fa050b5/774db8f67bda9e97e285f8ce0fa050b5.jpg"
+                            },
+                            {
+                                "url": "/jade-dynasty-19153",
+                                "title": "Zhu Xian 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/a5/7a/a57a764f7ff07f78cb2e030cd94b875a/a57a764f7ff07f78cb2e030cd94b875a.jpg"
+                            },
+                            {
+                                "url": "/whisper-me-a-love-song-19140",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/57/a4/57a408ec40a1c1c3dc5c584b98a20a9a/57a408ec40a1c1c3dc5c584b98a20a9a.jpg"
+                            },
+                            {
+                                "url": "/hifuu-club-activity-record-the-sealed-esoteric-history-2328",
+                                "title": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/29/51/295167d642d2a9477d4193b33c5f78c9/295167d642d2a9477d4193b33c5f78c9.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/shinkalion-change-the-world-19150?ref=search",
-                                "title": "Shinkalion: Change the World",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/32/07/320764accaec6ce29c0d40cc7b079fa6/320764accaec6ce29c0d40cc7b079fa6.jpg"
-                            },
-                            {
-                                "url": "/mushoku-tensei-jobless-reincarnation-season-2-part-2-19147?ref=search",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/66/a0/66a0da3af056880ef24fe6c866078b96/66a0da3af056880ef24fe6c866078b96.jpg"
-                            },
-                            {
-                                "url": "/chillin-in-another-world-with-level-2-super-cheat-powers-19129?ref=search",
-                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/62/c362ed824f0f2e383cef1e66b5d58567/c362ed824f0f2e383cef1e66b5d58567.jpg"
-                            },
-                            {
-                                "url": "/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-19127?ref=search",
-                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/fa/84/fa8451169753e07cdbfddc5507c1c01e/fa8451169753e07cdbfddc5507c1c01e.jpg"
-                            },
-                            {
-                                "url": "/konosuba-gods-blessing-on-this-wonderful-world-3-19108?ref=search",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c5/34/c534bc3db886ec705a2e17fe8e8d0069/c534bc3db886ec705a2e17fe8e8d0069.jpg"
-                            },
-                            {
-                                "url": "/train-to-the-end-of-the-world-19106?ref=search",
-                                "title": "Shuumatsu Train Doko e Iku?",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/22/c322c791493b191eb77e6a25df2fb000/c322c791493b191eb77e6a25df2fb000.jpg"
-                            },
-                            {
-                                "url": "/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-18847?ref=search",
-                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e6/70/e670bd9fd14f8659450e9be3d87f517b/e670bd9fd14f8659450e9be3d87f517b.jpg"
-                            },
                             {
                                 "url": "/stella-of-the-theater-world-dai-star-18375?ref=search",
                                 "title": "World Dai Star",
@@ -416,26 +617,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3a/19/3a197753b4f69a919cde3d5c13df3019/3a197753b4f69a919cde3d5c13df3019.jpg"
                             },
                             {
-                                "url": "/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-17980?ref=search",
-                                "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/18/3a/183ad57e46df609a8cf7fb3f5c2041a0/183ad57e46df609a8cf7fb3f5c2041a0.jpg"
-                            },
-                            {
-                                "url": "/skeleton-knight-in-another-world-17979?ref=search",
-                                "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/2a/c32a2fc9a170dc5055225600772dce7f/c32a2fc9a170dc5055225600772dce7f.jpg"
-                            },
-                            {
-                                "url": "/worlds-end-harem-17959?ref=search",
-                                "title": "Shuumatsu no Harem",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/34/b9/34b9a8ed656558d0d40f427f91a86325/34b9a8ed656558d0d40f427f91a86325.jpg"
-                            },
-                            {
-                                "url": "/restaurant-to-another-world-2-17902?ref=search",
-                                "title": "Isekai Shokudou 2",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/69/c6/69c6bd02f8c527c736c09644a5d7f513/69c6bd02f8c527c736c09644a5d7f513.jpg"
-                            },
-                            {
                                 "url": "/fluffy-paradise-18799?ref=search",
                                 "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8e/b5/8eb5c6f92a85d2ea805a7812cec2c1e3/8eb5c6f92a85d2ea805a7812cec2c1e3.jpg"
@@ -444,6 +625,61 @@
                                 "url": "/ten-thousand-worlds-2nd-season-18634?ref=search",
                                 "title": "Wan Jie Du Zun 2nd Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/67/c6/67c61b7ab03b9ac5dede28c14959d6c9/67c61b7ab03b9ac5dede28c14959d6c9.jpg"
+                            },
+                            {
+                                "url": "/good-night-world-18623?ref=search",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/09/f0/09f07b5b13fb0cfe9f36aa1340bc911d/09f07b5b13fb0cfe9f36aa1340bc911d.jpg"
+                            },
+                            {
+                                "url": "/shinkalion-change-the-world-19150?ref=search",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/32/07/320764accaec6ce29c0d40cc7b079fa6/320764accaec6ce29c0d40cc7b079fa6.jpg"
+                            },
+                            {
+                                "url": "/chillin-in-another-world-with-level-2-super-cheat-powers-19129?ref=search",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/62/c362ed824f0f2e383cef1e66b5d58567/c362ed824f0f2e383cef1e66b5d58567.jpg"
+                            },
+                            {
+                                "url": "/konosuba-gods-blessing-on-this-wonderful-world-3-19108?ref=search",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c5/34/c534bc3db886ec705a2e17fe8e8d0069/c534bc3db886ec705a2e17fe8e8d0069.jpg"
+                            },
+                            {
+                                "url": "/train-to-the-end-of-the-world-19106?ref=search",
+                                "title": "Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/22/c322c791493b191eb77e6a25df2fb000/c322c791493b191eb77e6a25df2fb000.jpg"
+                            },
+                            {
+                                "url": "/parallel-world-pharmacy-18087?ref=search",
+                                "title": "Isekai Yakkyoku",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1e/7c/1e7ca3599cde40855ea3d01860382495/1e7ca3599cde40855ea3d01860382495.jpg"
+                            },
+                            {
+                                "url": "/ojisan-in-another-world-18083?ref=search",
+                                "title": "Isekai Ojisan",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/db/26/db26a264b25ad4e9db2632e803da2d72/db26a264b25ad4e9db2632e803da2d72.jpg"
+                            },
+                            {
+                                "url": "/from-common-job-class-to-the-strongest-in-the-world-2nd-season-special-18051?ref=search",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/41/a9/41a9691f742d6632c33604afaa9dddc7/41a9691f742d6632c33604afaa9dddc7.jpg"
+                            },
+                            {
+                                "url": "/my-journey-in-an-alternate-world-18026?ref=search",
+                                "title": "Wo De Yi Jie Zhi Lu",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7d/54/7d54c76f9fe852b34f7099b8a60b5b10/7d54c76f9fe852b34f7099b8a60b5b10.jpg"
+                            },
+                            {
+                                "url": "/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-18847?ref=search",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e6/70/e670bd9fd14f8659450e9be3d87f517b/e670bd9fd14f8659450e9be3d87f517b.jpg"
+                            },
+                            {
+                                "url": "/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-17980?ref=search",
+                                "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/18/3a/183ad57e46df609a8cf7fb3f5c2041a0/183ad57e46df609a8cf7fb3f5c2041a0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -482,9 +718,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://tt57.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
+                        "url": "https://mmd.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
                         "quality": "Vidstreaming - 1080p - sub",
-                        "videoUrl": "https://tt57.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://mmd.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -515,9 +751,9 @@
                         ]
                     },
                     {
-                        "url": "https://tt57.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
+                        "url": "https://mmd.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
                         "quality": "Vidstreaming - 720p - sub",
-                        "videoUrl": "https://tt57.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://mmd.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -548,9 +784,9 @@
                         ]
                     },
                     {
-                        "url": "https://tt57.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
+                        "url": "https://mmd.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
                         "quality": "Vidstreaming - 360p - sub",
-                        "videoUrl": "https://tt57.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://mmd.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -581,9 +817,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e29ca890bfef9271b6e23d87cb720ee00191231f5d071f79511960e01cdad0eecbc271a7b7c9fdf55ea74b20caabac527ef8f3f0a43c62589568ed50dcd65a1b4ff5a6dd1138b7e2fb8616b8700f7db9e4e86442cf00e6f80bfb2b2a840e5f9c3a/index-f1-v1-a1.m3u8",
+                        "url": "https://c-an-ca6.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2f9633673dd1b26bab54ff293cfac590b566c74adbf5c041de4067ed5475e6890e1804fa5a9d8d9e1c819e2853a97b8e7a9a75b7a3e138e6261decd44c027efb996678e6013c27f0580bace30da1151756cc30f7adcfbab6962c12bfd9b69be5e/index-f1-v1-a1.m3u8",
                         "quality": "Vidcloud - 1080p - sub",
-                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e29ca890bfef9271b6e23d87cb720ee00191231f5d071f79511960e01cdad0eecbc271a7b7c9fdf55ea74b20caabac527ef8f3f0a43c62589568ed50dcd65a1b4ff5a6dd1138b7e2fb8616b8700f7db9e4e86442cf00e6f80bfb2b2a840e5f9c3a/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca6.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2f9633673dd1b26bab54ff293cfac590b566c74adbf5c041de4067ed5475e6890e1804fa5a9d8d9e1c819e2853a97b8e7a9a75b7a3e138e6261decd44c027efb996678e6013c27f0580bace30da1151756cc30f7adcfbab6962c12bfd9b69be5e/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -614,9 +850,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e29ca890bfef9271b6e23d87cb720ee00191231f5d071f79511960e01cdad0eecbc271a7b7c9fdf55ea74b20caabac527ef8f3f0a43c62589568ed50dcd65a1b4ff5a6dd1138b7e2fb8616b8700f7db9e4e86442cf00e6f80bfb2b2a840e5f9c3a/index-f2-v1-a1.m3u8",
+                        "url": "https://c-an-ca6.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2f9633673dd1b26bab54ff293cfac590b566c74adbf5c041de4067ed5475e6890e1804fa5a9d8d9e1c819e2853a97b8e7a9a75b7a3e138e6261decd44c027efb996678e6013c27f0580bace30da1151756cc30f7adcfbab6962c12bfd9b69be5e/index-f2-v1-a1.m3u8",
                         "quality": "Vidcloud - 720p - sub",
-                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e29ca890bfef9271b6e23d87cb720ee00191231f5d071f79511960e01cdad0eecbc271a7b7c9fdf55ea74b20caabac527ef8f3f0a43c62589568ed50dcd65a1b4ff5a6dd1138b7e2fb8616b8700f7db9e4e86442cf00e6f80bfb2b2a840e5f9c3a/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca6.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2f9633673dd1b26bab54ff293cfac590b566c74adbf5c041de4067ed5475e6890e1804fa5a9d8d9e1c819e2853a97b8e7a9a75b7a3e138e6261decd44c027efb996678e6013c27f0580bace30da1151756cc30f7adcfbab6962c12bfd9b69be5e/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -647,9 +883,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e29ca890bfef9271b6e23d87cb720ee00191231f5d071f79511960e01cdad0eecbc271a7b7c9fdf55ea74b20caabac527ef8f3f0a43c62589568ed50dcd65a1b4ff5a6dd1138b7e2fb8616b8700f7db9e4e86442cf00e6f80bfb2b2a840e5f9c3a/index-f3-v1-a1.m3u8",
+                        "url": "https://c-an-ca6.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2f9633673dd1b26bab54ff293cfac590b566c74adbf5c041de4067ed5475e6890e1804fa5a9d8d9e1c819e2853a97b8e7a9a75b7a3e138e6261decd44c027efb996678e6013c27f0580bace30da1151756cc30f7adcfbab6962c12bfd9b69be5e/index-f3-v1-a1.m3u8",
                         "quality": "Vidcloud - 360p - sub",
-                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e29ca890bfef9271b6e23d87cb720ee00191231f5d071f79511960e01cdad0eecbc271a7b7c9fdf55ea74b20caabac527ef8f3f0a43c62589568ed50dcd65a1b4ff5a6dd1138b7e2fb8616b8700f7db9e4e86442cf00e6f80bfb2b2a840e5f9c3a/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca6.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2f9633673dd1b26bab54ff293cfac590b566c74adbf5c041de4067ed5475e6890e1804fa5a9d8d9e1c819e2853a97b8e7a9a75b7a3e138e6261decd44c027efb996678e6013c27f0580bace30da1151756cc30f7adcfbab6962c12bfd9b69be5e/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -680,9 +916,9 @@
                         ]
                     },
                     {
-                        "url": "https://g4fv.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
+                        "url": "https://fds.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
                         "quality": "Vidstreaming - 1080p - dub",
-                        "videoUrl": "https://g4fv.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://fds.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -697,9 +933,9 @@
                         ]
                     },
                     {
-                        "url": "https://g4fv.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
+                        "url": "https://fds.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
                         "quality": "Vidstreaming - 720p - dub",
-                        "videoUrl": "https://g4fv.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://fds.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -714,9 +950,9 @@
                         ]
                     },
                     {
-                        "url": "https://g4fv.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
+                        "url": "https://fds.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
                         "quality": "Vidstreaming - 360p - dub",
-                        "videoUrl": "https://g4fv.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://fds.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -731,9 +967,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca2.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b8c4658ec5e1901b50dc8d370aa11c7ff16b04e31bb1dbecbfb0a6026714d5e61bfd7c6599c18cf698040d0335cf398220efaf5fb9e25848cf9d55ae1de4b1ddcfb262ce8a2610d1d8ea44de5e03ff8145ab9a1b7dc4cd400a1925f55725bcdcd/index-f1-v1-a1.m3u8",
+                        "url": "https://c-an-ca5.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b333fe9ea41eacb54856294a77cecf7fb986678d00f231944bb0c367a886e4bb4995fc7937c7509bb3dff65812d48da0bc9ea80bf075ffdaf9745123f57a8d15998737b94530b39e163a3fde93d8b585e04a0eb61a92f0e3ed46e28a995c3eca9/index-f1-v1-a1.m3u8",
                         "quality": "Vidcloud - 1080p - dub",
-                        "videoUrl": "https://c-an-ca2.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b8c4658ec5e1901b50dc8d370aa11c7ff16b04e31bb1dbecbfb0a6026714d5e61bfd7c6599c18cf698040d0335cf398220efaf5fb9e25848cf9d55ae1de4b1ddcfb262ce8a2610d1d8ea44de5e03ff8145ab9a1b7dc4cd400a1925f55725bcdcd/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca5.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b333fe9ea41eacb54856294a77cecf7fb986678d00f231944bb0c367a886e4bb4995fc7937c7509bb3dff65812d48da0bc9ea80bf075ffdaf9745123f57a8d15998737b94530b39e163a3fde93d8b585e04a0eb61a92f0e3ed46e28a995c3eca9/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -748,9 +984,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca2.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b8c4658ec5e1901b50dc8d370aa11c7ff16b04e31bb1dbecbfb0a6026714d5e61bfd7c6599c18cf698040d0335cf398220efaf5fb9e25848cf9d55ae1de4b1ddcfb262ce8a2610d1d8ea44de5e03ff8145ab9a1b7dc4cd400a1925f55725bcdcd/index-f2-v1-a1.m3u8",
+                        "url": "https://c-an-ca5.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b333fe9ea41eacb54856294a77cecf7fb986678d00f231944bb0c367a886e4bb4995fc7937c7509bb3dff65812d48da0bc9ea80bf075ffdaf9745123f57a8d15998737b94530b39e163a3fde93d8b585e04a0eb61a92f0e3ed46e28a995c3eca9/index-f2-v1-a1.m3u8",
                         "quality": "Vidcloud - 720p - dub",
-                        "videoUrl": "https://c-an-ca2.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b8c4658ec5e1901b50dc8d370aa11c7ff16b04e31bb1dbecbfb0a6026714d5e61bfd7c6599c18cf698040d0335cf398220efaf5fb9e25848cf9d55ae1de4b1ddcfb262ce8a2610d1d8ea44de5e03ff8145ab9a1b7dc4cd400a1925f55725bcdcd/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca5.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b333fe9ea41eacb54856294a77cecf7fb986678d00f231944bb0c367a886e4bb4995fc7937c7509bb3dff65812d48da0bc9ea80bf075ffdaf9745123f57a8d15998737b94530b39e163a3fde93d8b585e04a0eb61a92f0e3ed46e28a995c3eca9/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -765,9 +1001,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca2.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b8c4658ec5e1901b50dc8d370aa11c7ff16b04e31bb1dbecbfb0a6026714d5e61bfd7c6599c18cf698040d0335cf398220efaf5fb9e25848cf9d55ae1de4b1ddcfb262ce8a2610d1d8ea44de5e03ff8145ab9a1b7dc4cd400a1925f55725bcdcd/index-f3-v1-a1.m3u8",
+                        "url": "https://c-an-ca5.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b333fe9ea41eacb54856294a77cecf7fb986678d00f231944bb0c367a886e4bb4995fc7937c7509bb3dff65812d48da0bc9ea80bf075ffdaf9745123f57a8d15998737b94530b39e163a3fde93d8b585e04a0eb61a92f0e3ed46e28a995c3eca9/index-f3-v1-a1.m3u8",
                         "quality": "Vidcloud - 360p - dub",
-                        "videoUrl": "https://c-an-ca2.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b8c4658ec5e1901b50dc8d370aa11c7ff16b04e31bb1dbecbfb0a6026714d5e61bfd7c6599c18cf698040d0335cf398220efaf5fb9e25848cf9d55ae1de4b1ddcfb262ce8a2610d1d8ea44de5e03ff8145ab9a1b7dc4cd400a1925f55725bcdcd/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca5.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b333fe9ea41eacb54856294a77cecf7fb986678d00f231944bb0c367a886e4bb4995fc7937c7509bb3dff65812d48da0bc9ea80bf075ffdaf9745123f57a8d15998737b94530b39e163a3fde93d8b585e04a0eb61a92f0e3ed46e28a995c3eca9/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

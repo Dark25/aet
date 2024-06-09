@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kagari-hibana",
+                                "title": "Kagari Hibana",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12039.png"
+                            },
+                            {
                                 "url": "/anime/baki-hanma-vs-kengan-ashura",
                                 "title": "Baki Hanma VS Kengan Ashura",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12038.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/dead-dead-demons-dededede-destruction-episode-0",
                                 "title": "Dead Dead Demons Dededede Destruction Episode 0",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12028.png"
-                            },
-                            {
-                                "url": "/anime/soukyuu-no-fafner-behind-the-line",
-                                "title": "Soukyuu no Fafner: BEHIND THE LINE",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12027.png"
                             }
                         ],
                         "hasNextPage": true
@@ -73,8 +73,74 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/sound-euphonium-season-3",
+                                "title": "Sound! Euphonium Season 3",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11905.png"
+                            },
+                            {
+                                "url": "/anime/chibi-marukochan",
+                                "title": "Chibi Maruko-chan",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10498.png"
+                            },
+                            {
+                                "url": "/anime/captain-tsubasa-junior-youth-arc",
+                                "title": "Captain Tsubasa: Junior Youth Arc",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11459.png"
+                            },
+                            {
+                                "url": "/anime/jueshi-wu-hun",
+                                "title": "Jueshi Wu Hun",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11132.png"
+                            },
+                            {
+                                "url": "/anime/kagari-hibana",
+                                "title": "Kagari Hibana",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12039.png"
+                            },
+                            {
+                                "url": "/anime/mission-yozakura-family",
+                                "title": "Mission: Yozakura Family",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11931.png"
+                            },
+                            {
+                                "url": "/anime/wonderful-precure",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11764.png"
+                            },
+                            {
+                                "url": "/anime/the-fable",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
+                            },
+                            {
+                                "url": "/anime/kaiju-no8",
+                                "title": "Kaiju No.8",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11963.png"
+                            },
+                            {
+                                "url": "/anime/case-closed",
+                                "title": "Case Closed",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11106.png"
+                            },
+                            {
+                                "url": "/anime/wu-shang-shen-di-2",
+                                "title": "Wu Shang Shen Di 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
+                            },
+                            {
+                                "url": "/anime/one-hundred-thousand-years-of-qi-refining",
+                                "title": "One Hundred Thousand Years of Qi Refining",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11097.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -178,35 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/baki-hanma-vs-kengan-ashura",
-                    "title": "Baki Hanma VS Kengan Ashura",
-                    "author": "TMS Entertainment",
-                    "description": "Who will be crowned victorious in the ultimate fight between the strongest high schooler on earth and the successor of the Niko Style?",
-                    "genre": "Action, Martial Arts, Sports",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12038.png",
+                    "url": "/anime/kagari-hibana",
+                    "title": "Kagari Hibana",
+                    "author": "",
+                    "description": "A boy genius, Hurt, and a flower girl, Hibana. Hibana, a flower girl, is a dropout. The two childhood friends have lived completely different lives since they were small children. Hurt speaks warmly to Hibana to encourage her to run away from the coming-of-age ceremony. However, his voice did not reach her heart. Then, an incident occurred that changed their destiny drastically... A great adventure set in the World Tree. A few years before the day of their journey In the deep forest, what is it that befalls the inexperienced boy and girl...!",
+                    "genre": "Action, Fantasy, Romance, Supernatural",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12039.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/baki-hanma-vs-kengan-ashura/147282",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/147282?vrf=wpEG3crPHUW%2BUWZGbyZ%2B6g%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=KjqOekQW89FBab1UCiKwuw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/147282?vrf=wpEG3crPHUW%2BUWZGbyZ%2B6g%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=KjqOekQW89FBab1UCiKwuw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/baki-hanma-vs-kengan-ashura/147282"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

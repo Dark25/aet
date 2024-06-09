@@ -73,74 +73,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/the-fable",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
-                            },
-                            {
-                                "url": "/anime/kaiju-no8",
-                                "title": "Kaiju No.8",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11963.png"
-                            },
-                            {
-                                "url": "/anime/case-closed",
-                                "title": "Case Closed",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11106.png"
-                            },
-                            {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
-                            },
-                            {
-                                "url": "/anime/one-hundred-thousand-years-of-qi-refining",
-                                "title": "One Hundred Thousand Years of Qi Refining",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11097.png"
-                            },
-                            {
-                                "url": "/anime/the-charm-of-soul-pets",
-                                "title": "The Charm of Soul Pets",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12026.png"
-                            },
-                            {
-                                "url": "/anime/soul-land-2-the-peerless-tang-clan",
-                                "title": "Soul Land 2: The Peerless Tang Clan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11221.png"
-                            },
-                            {
-                                "url": "/anime/against-the-sky-supreme",
-                                "title": "Against The Sky Supreme",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
-                            },
-                            {
-                                "url": "/anime/tales-of-demons-and-gods-season-7",
-                                "title": "Tales of Demons and Gods Season 7",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
-                            },
-                            {
-                                "url": "/anime/the-magic-chef-of-fire-and-ice-2",
-                                "title": "The Magic Chef of Fire and Ice 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11144.png"
-                            },
-                            {
-                                "url": "/anime/ten-thousand-worlds-2",
-                                "title": "Ten Thousand Worlds 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11775.png"
-                            },
-                            {
-                                "url": "/anime/the-peak-of-true-martial-arts-3rd-season",
-                                "title": "The Peak of True Martial Arts 3rd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11604.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -266,9 +200,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/147282?vrf=Vza%2F%2BWOMVLXDumC2t%2Fb5xQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/147282?vrf=wpEG3crPHUW%2BUWZGbyZ%2B6g%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/147282?vrf=Vza%2F%2BWOMVLXDumC2t%2Fb5xQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/147282?vrf=wpEG3crPHUW%2BUWZGbyZ%2B6g%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

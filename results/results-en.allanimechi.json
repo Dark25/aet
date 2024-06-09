@@ -62,6 +62,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-JC56ExYSC2YB.jpg"
                             },
                             {
+                                "url": "w39mxyQm5xxSaMQc9",
+                                "title": "The New Gate",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
+                            },
+                            {
                                 "url": "vDTSJHSpYnrkZnAvG",
                                 "title": "Nato: Shippuuden",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
@@ -72,19 +77,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156023-cY4NC8gCcAg7.jpg"
                             },
                             {
-                                "url": "w39mxyQm5xxSaMQc9",
-                                "title": "The New Gate",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
+                                "url": "cskJzx6rseAgcGcAe",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
                             },
                             {
                                 "url": "kibfyvtiFpKCGGoSD",
                                 "title": "B.C.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
-                            },
-                            {
-                                "url": "cskJzx6rseAgcGcAe",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
                             },
                             {
                                 "url": "gAcGCcMENjbWhBnR9",
@@ -132,9 +132,9 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg"
                             },
                             {
-                                "url": "QdcDzpRCfcjqHCNNg",
-                                "title": "Yozakura-san Chi no Daisakusen",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
+                                "url": "pHvWXYLR3i26pTchn",
+                                "title": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg"
                             },
                             {
                                 "url": "DkKWjEA3A7m5kCJWp",
@@ -142,14 +142,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png"
                             },
                             {
-                                "url": "pHvWXYLR3i26pTchn",
-                                "title": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg"
-                            },
-                            {
                                 "url": "pNPGCMYN5yA4yQH5J",
                                 "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season Part 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130590-DjkWMn8iRxrh.jpg"
+                            },
+                            {
+                                "url": "QdcDzpRCfcjqHCNNg",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
                             },
                             {
                                 "url": "8Ti9Lnd3gW7TgeCXj",
@@ -163,11 +163,11 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "details": {
@@ -185,21 +185,150 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1108\"}",
+                        "name": "Episode 1108 (sub)",
+                        "episode_number": 1108.0
+                    },
+                    {
                         "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1107\"}",
                         "name": "Episode 1107 (sub)",
                         "episode_number": 1107.0
-                    },
-                    {
-                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1106\"}",
-                        "name": "Episode 1106 (sub)",
-                        "episode_number": 1106.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "quality": "Luf-mp4 - hls P - 1080p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "quality": "Luf-mp4 - hls P - 720p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "quality": "Luf-mp4 - hls P - 480p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "quality": "Luf-mp4 - hls P - 360p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/WRrou2j-Becp5X6VHw6fSQ/1717928254/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

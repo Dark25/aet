@@ -1,85 +1,61 @@
 [
     {
-        "name": "AnimesOnline (PT-BR)",
+        "name": "Bakashi (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/kaijuu-8-gou/",
+                                "title": "Kaijuu 8-gou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg"
+                            },
+                            {
+                                "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
+                            },
+                            {
+                                "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wD55C85rLI568fxlQUhlTADdwo3.jpg"
+                            },
+                            {
+                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qITTVYkhDr66r2nYkeMc2KUj8k9.jpg"
+                            },
+                            {
+                                "url": "/animes/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg"
+                            },
+                            {
+                                "url": "/animes/upando-sozinho/",
+                                "title": "Solo Leveling",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zn7hOslLYG1U2m06jGJJln8Ry7t.jpg"
+                            },
+                            {
+                                "url": "/animes/jujutsu-kaisen/",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3cKEEthevZvKRelF4Ko6cUnUdu.jpg"
+                            },
+                            {
+                                "url": "/animes/black-clover/",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xoqmJpO3jGxEldDCItXuGj2MVTV.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/animes/tonari-no-youkai-san/",
-                                "title": "Tonari no Youkai-san",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zTSj9kK3ESba2m0fHZreGZWCnM8.jpg"
-                            },
-                            {
-                                "url": "/animes/karasu-wa-aruji-wo-erabanai/",
-                                "title": "Karasu wa Aruji wo Erabanai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ovx7ShHL64wdiBRhQbPBQQiEGnj.jpg"
-                            },
-                            {
-                                "url": "/animes/the-new-gate/",
-                                "title": "The New Gate",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rvIPeeqOpoFwjOiwdZibI9BkgI4.jpg"
-                            },
-                            {
-                                "url": "/animes/the-fable/",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/baflpfvihSZCNsyTHZGBKkDIlXr.jpg"
-                            },
-                            {
-                                "url": "/animes/dragon-raja-dub-japones/",
-                                "title": "Dragon Raja (Dub Japonês)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/aIgUv58csBbyTvsu3DOScmqNLN2.jpg"
-                            },
-                            {
-                                "url": "/animes/kuroshitsuji-kishuku-gakkou-hen/",
-                                "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6o15Ye75BYMTJiYRs6DTkvbgnUa.jpg"
-                            },
-                            {
-                                "url": "/animes/kaijuu-8-gou-dublado/",
-                                "title": "Kaijuu 8-gou Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dabMTDzhpdYYpkFhHHe7nudDm5g.jpg"
-                            },
-                            {
-                                "url": "/animes/kaijuu-8-gou/",
-                                "title": "Kaijuu 8-gou",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg"
-                            },
-                            {
-                                "url": "/animes/one-room-hiatari-futsuu-tenshi-tsuki/",
-                                "title": "One Room, Hiatari Futsuu, Tenshi-tsuki",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qbPr7nY0eWIkytC9UbPRdOSdlFZ.jpg"
-                            },
-                            {
-                                "url": "/animes/boku-no-hero-academia-7/",
-                                "title": "Boku no Hero Academia 7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/GS8yE0MI4IqpRyJ6SMMKPzmU9T.jpg"
-                            },
-                            {
-                                "url": "/animes/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg"
-                            },
-                            {
-                                "url": "/animes/sasayaku-you-ni-koi-wo-utau/",
-                                "title": "Sasayaku You ni Koi wo Utau",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xWStcaXFVsu7iyJovp6spxZplWG.jpg"
-                            },
-                            {
-                                "url": "/animes/yoru-no-kurage-wa-oyogenai/",
-                                "title": "Yoru no Kurage wa Oyogenai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/r2FXjiG9Mgn0AtSqVfpat2PpNU0.jpg"
-                            },
-                            {
-                                "url": "/animes/mashle-2-dublado/",
-                                "title": "Mashle 2 Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1c3MsS6Z9Wtp8epHeVf5GwHfuWN.jpg"
-                            },
                             {
                                 "url": "/episodio/tonari-no-youkai-san-episodio-10/",
                                 "title": "Tonari no Youkai-san – Episódio 10",
@@ -196,16 +172,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/dkcCRO69cgGtV5R5WioGjZ4pNjo.jpg"
                             },
                             {
-                                "url": "/filmes/baki-hanma-x-kengan-ashura-dublado/",
-                                "title": "Baki Hanma x Kengan Ashura Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/zNueX4mKKQlBqHRmeSziGCHmbiz.jpg"
-                            },
-                            {
-                                "url": "/filmes/hanma-baki-vs-kengan-ashura/",
-                                "title": "Hanma Baki vs. Kengan Ashura",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg"
-                            },
-                            {
                                 "url": "/episodio/kenka-dokugaku-episodio-9/",
                                 "title": "Kenka Dokugaku – Episódio 9",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/uS28JLpgUsG983eCkJBEm3nj4an.jpg"
@@ -221,107 +187,27 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/2BtSdXNO68YoO1YuHmfSUPEpnUS.jpg"
                             },
                             {
-                                "url": "/animes/dead-dead-demons-dededede-destruction/",
-                                "title": "Dead Dead Demons Dededede Destruction",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/45XAw7d5aTu6CK6OC4XQ3ji8s89.jpg"
+                                "url": "/episodio/kono-subarashii-sekai-ni-shukufuku-wo-3-episodio-9/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/xXiVMqzhvnZJe7qMtdqPASTPm8v.jpg"
                             },
                             {
-                                "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dublado/",
-                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
+                                "url": "/episodio/date-a-live-v-episodio-9/",
+                                "title": "Date A Live V – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/kyae9yMp7nDqpf50SzYEsOf16Fk.jpg"
                             },
                             {
-                                "url": "/animes/wind-breaker-dublado/",
-                                "title": "Wind Breaker Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg"
+                                "url": "/episodio/kaii-to-otome-to-kamikakushi-episodio-9/",
+                                "title": "Kaii to Otome to Kamikakushi – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/wfxOfSEl33OgZnT4f9cMP1k66it.jpg"
                             },
                             {
-                                "url": "/animes/hananoi-kun-to-koi-no-yamai-dublado/",
-                                "title": "Hananoi-kun to Koi no Yamai Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg"
-                            },
-                            {
-                                "url": "/animes/grimm-kumikyoku/",
-                                "title": "Grimm Kumikyoku",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lmwK3t35OFht8zQQ1XvWWwgQn9P.jpg"
-                            },
-                            {
-                                "url": "/animes/date-a-live-v/",
-                                "title": "Date A Live V",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5cgL4ZjFO5jQphTZdMLPsWUJPJC.jpg"
-                            },
-                            {
-                                "url": "/animes/kaijuu-8-gou-dublado/",
-                                "title": "Kaijuu 8-gou Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dabMTDzhpdYYpkFhHHe7nudDm5g.jpg"
-                            },
-                            {
-                                "url": "/animes/overflow-dublado-sem-censura/",
-                                "title": "Overflow Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg"
-                            },
-                            {
-                                "url": "/animes/kuroshitsuji-kishuku-gakkou-hen/",
-                                "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6o15Ye75BYMTJiYRs6DTkvbgnUa.jpg"
-                            },
-                            {
-                                "url": "/animes/maou-gakuin-no-futekigousha-2-part-2/",
-                                "title": "Maou Gakuin no Futekigousha 2 Part 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/r3GqJILccmxHZYgcr4NJwpoBcYR.jpg"
-                            },
-                            {
-                                "url": "/filmes/baki-hanma-x-kengan-ashura-dublado/",
-                                "title": "Baki Hanma x Kengan Ashura Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z2bu2qhzrtHARJqatXVqWA7HVhI.jpg"
-                            },
-                            {
-                                "url": "/filmes/hanma-baki-vs-kengan-ashura/",
-                                "title": "Hanma Baki vs. Kengan Ashura",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z2bu2qhzrtHARJqatXVqWA7HVhI.jpg"
-                            },
-                            {
-                                "url": "/filmes/kimi-to-nami-ni-noretara/",
-                                "title": "Kimi to, Nami ni Noretara",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wafhaWhK000xPK4N2xzjd08oBca.jpg"
-                            },
-                            {
-                                "url": "/filmes/koe-no-katachi/",
-                                "title": "Koe no Katachi",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2lDneiW73fbtDEIlemzq6Bv2vuR.jpg"
-                            },
-                            {
-                                "url": "/filmes/ai-no-utagoe-wo-kikasete/",
-                                "title": "Ai no Utagoe wo Kikasete",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wADIagXKOwofnI8qv7sevcwZYZC.jpg"
-                            },
-                            {
-                                "url": "/filmes/shika-no-ou-yuna-to-yakusoku-no-tabi/",
-                                "title": "Shika no Ou: Yuna to Yakusoku no Tabi",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mtv5cMNIREd9mZaHcgJo926Paso.jpg"
-                            },
-                            {
-                                "url": "/filmes/blue-thermal/",
-                                "title": "Blue Thermal",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yAx1VhF6yETL8ecyOwE1ohrOPKb.jpg"
-                            },
-                            {
-                                "url": "/filmes/bakuten-movie/",
-                                "title": "Bakuten!! Movie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/b2KaXf2pV51YWUtMBJ6P9a2m3Vk.jpg"
-                            },
-                            {
-                                "url": "/filmes/metalocalypse-army-of-the-doomstar-dublado/",
-                                "title": "Metalocalypse: Army of the Doomstar Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fGc9HKeGKebC1RD7WPt0NYDONTo.jpg"
-                            },
-                            {
-                                "url": "/filmes/kung-fu-panda-4-dublado/",
-                                "title": "Kung Fu Panda 4 Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg"
+                                "url": "/episodio/unnamed-memory-episodio-9/",
+                                "title": "Unnamed Memory – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/7jjodA6biA9AkTPBlwtyUbTP6XK.jpg"
                             }
                         ],
-                        "hasNextPage": false
+                        "hasNextPage": true
                     }
                 ],
                 "passed": true
@@ -467,16 +353,91 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/kaijuu-8-gou/",
+                    "title": "Kaijuu 8-gou",
+                    "description": "Monstros grotescos, semelhantes ao Godzilla e conhecidos como “kaijuu”, têm surgido pelo Japão durante vários anos. Para lutar contra essas feras, uma unidade militar de elite, denominada Corpo de Defesa, arrisca suas vidas todos os dias para proteger a população civil. Após a morte de uma criatura, os “varredores”, empregados pela Corporação Profissional de Limpeza de Kaijuu, são responsáveis por eliminar seus restos mortais. Kafka Hibino, um homem de 32 anos, não está satisfeito com seu trabalho como varredor. Desde jovem, ele sonha em se juntar ao Corpo de Defesa e viver para matar kaijuus. No entanto, após algumas tentativas frustradas, ele desiste de seus sonhos e se conforma com uma vida de mediocridade, que ao menos lhe garante um bom salário. Contudo, a chegada de um jovem recruta ambicioso de 18 anos, Leno Ichikawa, em sua equipe de limpeza faz Kafka reacender seu desejo de entrar para o militar. Após uma série de eventos infelizes e um encontro com o varredor mais novo, Kafka tem um encontro com um kaijuu parasita que entra em seu corpo pela boca, transformando-o em um monstro humanoide. Com seus novos poderes, Kafka decide dar mais uma chance ao seu sonho de vida.\n\nTítulo original: 怪獣８号\nTemporadas: 1\nEpisódios: 12",
+                    "genre": "Ação, Ficção Científica, Militar, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/kaijuu-8-gou-episodio-9/",
+                        "name": "Episódio 9",
+                        "episode_number": 9.0
+                    },
+                    {
+                        "url": "/episodio/kaijuu-8-gou-episodio-8/",
+                        "name": "Episódio 8",
+                        "episode_number": 8.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/5/fe19376736e4e1d1e2a5678f33cecf83f7b3fd2361/792000/792050/792050_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/5/fe19376736e4e1d1e2a5678f33cecf83f7b3fd2361/792000/792050/792050_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/5/fe19376736e4e1d1e2a5678f33cecf83f7b3fd2361/792000/792050/792050_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMAgIGXlRVHRAe/ea6e3cb9ddd6344a93d4fed8d910db62c89565519ca184f9f93f6ad05d6e6c13?token=b8hoTBJV1R-di1-m2-KF6A&ts=1717921919&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMAgIGXlRVHRAe/ea6e3cb9ddd6344a93d4fed8d910db62c89565519ca184f9f93f6ad05d6e6c13?token=b8hoTBJV1R-di1-m2-KF6A&ts=1717921919&ht=video/mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://bakashi.tv"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery50.mxcontent.net/v/f286980235433a1f26f5dc92e3eb9616.mp4?s=nmVpZYBTGeosoxAQ0sp4gA&e=1717935618&_t=1717917902",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery50.mxcontent.net/v/f286980235433a1f26f5dc92e3eb9616.mp4?s=nmVpZYBTGeosoxAQ0sp4gA&e=1717935618&_t=1717917902",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06320/a5kip7t4urn9_x/index-v1-a1.m3u8?t=u0TgeHwJETBio9LtQq_b-FBdF78iZspNx7MAj79GMPA&s=1717914017&e=43200&f=31600788&srv=08&asn=8075&sp=5500",
+                        "quality": "Filemoon - 1080p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06320/a5kip7t4urn9_x/index-v1-a1.m3u8?t=u0TgeHwJETBio9LtQq_b-FBdF78iZspNx7MAj79GMPA&s=1717914017&e=43200&f=31600788&srv=08&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=plWzz24erkCxbJ&expires=1717984017&ip=FROsE0WnDS9X&token=Q3uLwrkjZuWd",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=plWzz24erkCxbJ&expires=1717984017&ip=FROsE0WnDS9X&token=Q3uLwrkjZuWd"
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/5/1247bf775797417ef76b3f4a78d57416f9c7a3e83f/792000/792050/792050.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/5/1247bf775797417ef76b3f4a78d57416f9c7a3e83f/792000/792050/792050.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/5/1247bf775797417ef76b3f4a78d57416f9c7a3e83f/792000/792050/792050.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/5/d03fadf462f2d1374656a50c83df8a76af72423bc2/792000/792050/792050_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/5/d03fadf462f2d1374656a50c83df8a76af72423bc2/792000/792050/792050_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/5/d03fadf462f2d1374656a50c83df8a76af72423bc2/792000/792050/792050_360p.mp4/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -62,6 +62,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/One-Piece-Free-Stream-Online-Anime-Free-Motarjam.jpg"
+                            },
+                            {
                                 "url": "/anime/tonari-no-youkai-san/",
                                 "title": "Tonari no Youkai-san",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tonari-no-Youkai-san-6611cf34c67ee.jpg"
@@ -175,11 +180,6 @@
                                 "url": "/anime/bartender-kami-no-glass/",
                                 "title": "Bartender: Kami no Glass",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/Bartender-Kami-no-Glass-EP.jpg"
-                            },
-                            {
-                                "url": "/anime/kono-subarashii-sekai-ni-shukufuku-wo-3/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Kono-Subarashii-Sekai-ni-Shukufuku-wo-3-6616b9e6223ec.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -288,21 +288,62 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/one-piece-1108-الحلقة/",
+                        "name": "الحلقة 1108",
+                        "episode_number": 1108.0
+                    },
+                    {
                         "url": "/episode/one-piece-1107-الحلقة/",
                         "name": "الحلقة 1107",
                         "episode_number": 1107.0
-                    },
-                    {
-                        "url": "/episode/one-piece-1106-الحلقة/",
-                        "name": "الحلقة 1106",
-                        "episode_number": 1106.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiAFKAQwAzgCeN0DsgEECMTYAtoBAggYfdDh2HDq8L8/fn/track.m3u8",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiAFKAQwAzgCeN0DsgEECMTYAtoBAggYfdDh2HDq8L8/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiAEKAMwAzgCeN0DqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBBFsqj16I8jew/fn/track.m3u8",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiAEKAMwAzgCeN0DqgEICgYI2AYQ4AOyAQQIxNgC0gEGCAEQAigX2gECCBBFsqj16I8jew/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiADKAIwAzgCeN0DqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQPkINAmRJQww/fn/track.m3u8",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiADKAIwAzgCeN0DqgEICgYIgAUQ6AKyAQQIxNgC0gEEEAIoF9oBAggQPkINAmRJQww/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiACKAEwAzgCeN0DqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQRMGwU_XGeHI/fn/track.m3u8",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiACKAEwAzgCeN0DqgEICgYIqAMQ8AGyAQQIxNgC0gEEEAIoF9oBAggQRMGwU_XGeHI/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiABMAM4AnjdA6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICIL49Znrs3bW/fn/track.m3u8",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd371.mycdn.me/expires/1718000262791/clientType/0/srcIp/20.109.60.242/type/2/mid/6995308514010/id/6498196196058/ms/45.136.22.76/zs/43/srcAg/GECKO/urls/45.136.20.77/pr/10/ct/28/sig/v4UE9V0G04M/ondemand/CNqVtNWPvQESFAjalbTVj70BENqVtNWPvQEYAyABGhQI2pW01Y-9ARDalbTVj70BGAMgAiABMAM4AnjdA6oBCAoGCIACEJABsgEECMTYAtIBBBACKBfaAQIICIL49Znrs3bW/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

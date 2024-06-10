@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/furiosa-de-la-saga-mad-max-2024-1717988115",
+                                "title": "Furiosa: De la Saga Mad Max",
+                                "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/06/tGHUlykWn9V2IIQ4ZaATIAq9VLB-240x360.jpg"
+                            },
+                            {
                                 "url": "/pelicula/garfield-fuera-de-casa-2024-1717378196",
                                 "title": "Garfield: Fuera de Casa",
                                 "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/06/6QR2FOCQr41gSduN70WulRIhJb7-240x360.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/pelicula/un-lugar-seguro-2022-1716581043",
                                 "title": "Un lugar seguro",
                                 "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/05/eymTgzHgYretvL5mT7pwznX4p341-240x360.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-salon-de-profesores-2023-1716580300",
-                                "title": "El salón de profesores",
-                                "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/05/5CJKu0gYgBbRs8MOxPLBpH55h62-240x360.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -219,13 +219,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/garfield-fuera-de-casa-2024-1717378196",
-                    "title": "Garfield: Fuera de Casa",
-                    "artist": "Alicia Grace Turrell",
-                    "author": "Mark Dindal",
-                    "description": "Garfield, el famoso gato que odia los lunes y es amante de la lasaña, está a punto de vivir una salvaje aventura al aire libre. Tras un inesperado reencuentro con su padre, el desaliñado gato callejero Vic, Garfield y su amigo canino Odie se ven obligados a abandonar su mimada vida para unirse a Vic en un divertidísimo atraco de alto riesgo. Disfruta de esta película completa, Disponible por ahora solo en calidad TELESYNC-HD (Contiene publicidad flotante). también conocida por los títulos: The Garfield Movie.",
-                    "genre": "Animación, Aventura, Comedia, Familia",
-                    "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/06/6QR2FOCQr41gSduN70WulRIhJb7-240x360.jpg",
+                    "url": "/pelicula/furiosa-de-la-saga-mad-max-2024-1717988115",
+                    "title": "Furiosa: De la Saga Mad Max",
+                    "artist": "Adam Thompson",
+                    "author": "George Miller",
+                    "description": "Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los dos tiranos luchan por el dominio de la zona, Furiosa deberá sobrevivir a muchas pruebas buscando volver a casa. Disfruta de esta película completa, Disponible por ahora solo en calidad TELESYNC-HD. también conocida por los títulos: Furiosa: A Mad Max Saga.",
+                    "genre": "Acción, Aventura, Ciencia ficción",
+                    "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/06/tGHUlykWn9V2IIQ4ZaATIAq9VLB-240x360.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,7 +233,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/garfield-fuera-de-casa-2024-1717378196",
+                        "url": "/pelicula/furiosa-de-la-saga-mad-max-2024-1717988115",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -241,8 +241,61 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04081/9msdn5s7y2ts_,n,h,.urlset/index-f2-v1-a1.m3u8?t=VXuyEFab8TfNUe62V9qyASM5nfVvg3-myoal4HXFVqQ&s=1718000496&e=129600&f=20407367&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
+                        "quality": "[LAT]StreamWish:720p",
+                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04081/9msdn5s7y2ts_,n,h,.urlset/index-f2-v1-a1.m3u8?t=VXuyEFab8TfNUe62V9qyASM5nfVvg3-myoal4HXFVqQ&s=1718000496&e=129600&f=20407367&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/9msdn5s7y2ts"
+                        }
+                    },
+                    {
+                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04081/9msdn5s7y2ts_,n,h,.urlset/index-f1-v1-a1.m3u8?t=VXuyEFab8TfNUe62V9qyASM5nfVvg3-myoal4HXFVqQ&s=1718000496&e=129600&f=20407367&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
+                        "quality": "[LAT]StreamWish:480p",
+                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04081/9msdn5s7y2ts_,n,h,.urlset/index-f1-v1-a1.m3u8?t=VXuyEFab8TfNUe62V9qyASM5nfVvg3-myoal4HXFVqQ&s=1718000496&e=129600&f=20407367&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/9msdn5s7y2ts"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=BKZeMYvcQ5E&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624",
+                        "quality": "[LAT] Okru:1080p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=BKZeMYvcQ5E&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=12a_LUihv-A&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624",
+                        "quality": "[LAT] Okru:720p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=12a_LUihv-A&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=FJXPfruKaV4&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624",
+                        "quality": "[LAT] Okru:480p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=FJXPfruKaV4&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=h65Ko2AiPIA&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624",
+                        "quality": "[LAT] Okru:360p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=h65Ko2AiPIA&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=y9tn9on_d88&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624",
+                        "quality": "[LAT] Okru:240p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=y9tn9on_d88&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=IWwBfMVwA_8&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624",
+                        "quality": "[LAT] Okru:144p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1718086895214&srcIp=52.234.33.254&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=IWwBfMVwA_8&ct=0&urls=45.136.22.38%3B45.136.21.70&clientType=0&zs=43&id=7517632858624"
+                    }
+                ],
+                "passed": true
             }
         }
     }

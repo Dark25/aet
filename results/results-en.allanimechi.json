@@ -510,8 +510,137 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "quality": "Luf-mp4 - hls P - 1080p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www117.anicdnstream.info/videos/hls/0537ouaQFVQliCtWKwc02Q/1717995273/226757/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "quality": "Luf-mp4 - hls P - 720p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "quality": "Luf-mp4 - hls P - 480p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "quality": "Luf-mp4 - hls P - 360p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www117.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1108.1717900182.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI2NzU3&title=One+Piece+Episode+1108&typesub=SUB"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

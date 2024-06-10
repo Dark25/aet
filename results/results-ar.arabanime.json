@@ -3,11 +3,11 @@
         "name": "ArabAnime (AR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n    at ProgressController.run (/tmp/playwright-java-12315829747255838558/package/lib/server/progress.js:87:26)\n    at Frame.goto (/tmp/playwright-java-12315829747255838558/package/lib/server/frames.js:517:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-12315829747255838558/package/lib/server/dispatchers/frameDispatcher.js:81:119)\n    at FrameDispatcher._handleCommand (/tmp/playwright-java-12315829747255838558/package/lib/server/dispatchers/dispatcher.js:94:40)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-12315829747255838558/package/lib/server/dispatchers/dispatcher.js:362:39)\n}\nCall log:\n- navigating to \"https://www.arabanime.net/api?page=1\", waiting until \"load\"\n",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: page@08f7fed61e0d3243707a4d5852f5eda0",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "search": {

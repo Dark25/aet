@@ -77,6 +77,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jin-can-wangshi",
+                                "title": "Jin Can Wangshi",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12042.png"
+                            },
+                            {
+                                "url": "/anime/jueshi-zhan-hun",
+                                "title": "Jueshi Zhan Hun",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11991.png"
+                            },
+                            {
+                                "url": "/anime/against-the-sky-supreme",
+                                "title": "Against The Sky Supreme",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11154.png"
+                            },
+                            {
                                 "url": "/anime/the-legend-of-sword-domain-3rd-season",
                                 "title": "The Legend of Sword Domain 3rd Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11543.png"
@@ -95,11 +110,6 @@
                                 "url": "/anime/the-mirage-house-in-the-clouds",
                                 "title": "The Mirage House in the Clouds",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11787.png"
-                            },
-                            {
-                                "url": "/anime/jin-can-wangshi",
-                                "title": "Jin Can Wangshi",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12042.png"
                             },
                             {
                                 "url": "/anime/jinwu-wei-feng-qi-jingling",
@@ -125,16 +135,6 @@
                                 "url": "/anime/wangzhe-da-shixiong",
                                 "title": "Wangzhe Da Shixiong",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12040.png"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-jobless-reincarnation-season-2",
-                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/9896.png"
-                            },
-                            {
-                                "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
-                                "title": "Tensei Kizoku Kantei Skill de Nariagaru",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11904.png"
                             }
                         ],
                         "hasNextPage": true
@@ -254,19 +254,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/jin-can-wangshi/147399",
+                        "name": "Episode 2"
+                    },
+                    {
+                        "url": "/player/jin-can-wangshi/147398",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=D3A26TJM9D4U0BOKj%2F%2F%2FrA%3D%3D",
+                        "url": "https://slothanime.com/player-url/147399?vrf=aG7MIbNFrZ7iF%2FAzBgUAtA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=D3A26TJM9D4U0BOKj%2F%2F%2FrA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/147399?vrf=aG7MIbNFrZ7iF%2FAzBgUAtA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/jin-can-wangshi/147399"
                         }
                     }
                 ],

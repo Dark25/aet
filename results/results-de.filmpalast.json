@@ -3,27 +3,375 @@
         "name": "FilmPalast (DE)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/stream/john-wick",
+                                "title": "John Wick",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/john-wick.jpg"
+                            },
+                            {
+                                "url": "/stream/kedi-von-katzen-und-menschen",
+                                "title": "Kedi - Von Katzen und Menschen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/kedi-von-katzen-und-menschen.jpg"
+                            },
+                            {
+                                "url": "/stream/spider-man-no-way-home",
+                                "title": "Spider-Man: No Way Home",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/spider-man-no-way-home.jpg"
+                            },
+                            {
+                                "url": "/stream/odd-thomas",
+                                "title": "Odd Thomas",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/odd-thomas.jpg"
+                            },
+                            {
+                                "url": "/stream/man-of-steel",
+                                "title": "Man of Steel",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/man-of-steel.jpg"
+                            },
+                            {
+                                "url": "/stream/riddick-uberleben-ist-seine-rache",
+                                "title": "Riddick - Überleben ist seine Rache",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/riddick-uberleben-ist-seine-rache.jpg"
+                            },
+                            {
+                                "url": "/stream/the-accountant-2016",
+                                "title": "The Accountant (2016)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-accountant-2016.jpg"
+                            },
+                            {
+                                "url": "/stream/john-wick-kapitel-4",
+                                "title": "John Wick Kapitel 4",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/john-wick-kapitel-4.jpg"
+                            },
+                            {
+                                "url": "/stream/guardians-of-the-galaxy",
+                                "title": "Guardians of the Galaxy",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/guardians-of-the-galaxy.jpg"
+                            },
+                            {
+                                "url": "/stream/deadpool",
+                                "title": "Deadpool",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/deadpool.jpg"
+                            },
+                            {
+                                "url": "/stream/mechanic-2-resurrection",
+                                "title": "Mechanic 2: Resurrection",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/mechanic-2-resurrection.jpg"
+                            },
+                            {
+                                "url": "/stream/ip-man-4-the-finale",
+                                "title": "Ip Man 4 The Finale",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ip-man-4-the-finale.jpg"
+                            },
+                            {
+                                "url": "/stream/jason-bourne",
+                                "title": "Jason Bourne",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jason-bourne.jpg"
+                            },
+                            {
+                                "url": "/stream/cash-truck",
+                                "title": "Cash Truck",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cash-truck.jpg"
+                            },
+                            {
+                                "url": "/stream/lucy",
+                                "title": "Lucy",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/lucy.jpg"
+                            },
+                            {
+                                "url": "/stream/interstellar",
+                                "title": "Interstellar",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/interstellar.jpg"
+                            },
+                            {
+                                "url": "/stream/phantastische-tierwesen-grindelwalds-verbrechen",
+                                "title": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/phantastische-tierwesen-grindelwalds-verbrechen.jpg"
+                            },
+                            {
+                                "url": "/stream/feinde-hostiles",
+                                "title": "Feinde - Hostiles",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/feinde-hostiles.jpg"
+                            },
+                            {
+                                "url": "/stream/avatar-the-way-of-water",
+                                "title": "Avatar: The Way of Water",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/avatar-the-way-of-water.jpg"
+                            },
+                            {
+                                "url": "/stream/the-equalizer",
+                                "title": "The Equalizer",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-equalizer.jpg"
+                            },
+                            {
+                                "url": "/stream/thor-love-and-thunder",
+                                "title": "Thor: Love and Thunder",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/thor-love-and-thunder.jpg"
+                            },
+                            {
+                                "url": "/stream/guardians-of-the-galaxy-vol-2",
+                                "title": "Guardians Of The Galaxy Vol. 2",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/guardians-of-the-galaxy-vol-2.jpg"
+                            },
+                            {
+                                "url": "/stream/nobody",
+                                "title": "Nobody",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/nobody.jpg"
+                            },
+                            {
+                                "url": "/stream/upgrade",
+                                "title": "Upgrade",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/upgrade.jpg"
+                            },
+                            {
+                                "url": "/stream/aquaman",
+                                "title": "Aquaman",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/aquaman.jpg"
+                            },
+                            {
+                                "url": "/stream/passengers",
+                                "title": "Passengers",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/passengers.jpg"
+                            },
+                            {
+                                "url": "/stream/es-2017",
+                                "title": "Es (2017)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/es-2017.jpg"
+                            },
+                            {
+                                "url": "/stream/navalny",
+                                "title": "Navalny",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/navalny.jpg"
+                            },
+                            {
+                                "url": "/stream/fack-ju-gohte",
+                                "title": "Fack ju Göhte",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fack-ju-gohte.jpg"
+                            },
+                            {
+                                "url": "/stream/jurassic-world",
+                                "title": "Jurassic World",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jurassic-world.jpg"
+                            },
+                            {
+                                "url": "/stream/the-beekeeper",
+                                "title": "The Beekeeper",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-beekeeper.jpg"
+                            },
+                            {
+                                "url": "/stream/fast-and-furious-7",
+                                "title": "Fast and Furious 7",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fast-and-furious-7.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/stream/mothers-instinct",
+                                "title": "Mothers Instinct",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/mothers-instinct.jpg"
+                            },
+                            {
+                                "url": "/stream/the-american-society-of-magical-negroes",
+                                "title": "The American Society of Magical Negroes",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-american-society-of-magical-negroes.jpg"
+                            },
+                            {
+                                "url": "/stream/bad-boys-ride-or-die",
+                                "title": "Bad Boys: Ride or Die",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/bad-boys-ride-or-die.jpg"
+                            },
+                            {
+                                "url": "/stream/star-wars-andor-s01e12",
+                                "title": "Star Wars: Andor S01E12",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-wars-andor-s01e12.jpg"
+                            },
+                            {
+                                "url": "/stream/a-killer-romance-2023",
+                                "title": "A Killer Romance (2023)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/a-killer-romance-2023.jpg"
+                            },
+                            {
+                                "url": "/stream/your-lucky-day-das-grose-los",
+                                "title": "Your Lucky Day - Das große Los",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/your-lucky-day-das-grose-los.jpg"
+                            },
+                            {
+                                "url": "/stream/sanitatem",
+                                "title": "Sanitatem",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sanitatem.jpg"
+                            },
+                            {
+                                "url": "/stream/the-underground-war-tod-im-dunkeln",
+                                "title": "The Underground War - Tod im Dunkeln",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-underground-war-tod-im-dunkeln.jpg"
+                            },
+                            {
+                                "url": "/stream/geliebte-kochin",
+                                "title": "Geliebte Köchin",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/geliebte-kochin.jpg"
+                            },
+                            {
+                                "url": "/stream/arctic-armageddon",
+                                "title": "Arctic Armageddon",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/arctic-armageddon.jpg"
+                            },
+                            {
+                                "url": "/stream/the-tattooist-of-auschwitz-s01e05",
+                                "title": "The Tattooist of Auschwitz S01E05",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-tattooist-of-auschwitz-s01e05.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e08",
+                                "title": "Sweet Tooth S03E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e08.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e07",
+                                "title": "Sweet Tooth S03E07",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e07.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e06",
+                                "title": "Sweet Tooth S03E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e06.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e05",
+                                "title": "Sweet Tooth S03E05",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e05.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e04",
+                                "title": "Sweet Tooth S03E04",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e04.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e03",
+                                "title": "Sweet Tooth S03E03",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e03.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e02",
+                                "title": "Sweet Tooth S03E02",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e02.jpg"
+                            },
+                            {
+                                "url": "/stream/sweet-tooth-s03e01",
+                                "title": "Sweet Tooth S03E01",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sweet-tooth-s03e01.jpg"
+                            },
+                            {
+                                "url": "/stream/rickerl-musik-is-hochstens-a-hobby",
+                                "title": "Rickerl - Musik is höchstens a Hobby",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/rickerl-musik-is-hochstens-a-hobby.jpg"
+                            },
+                            {
+                                "url": "/stream/lebenszeichen-proof-of-life",
+                                "title": "Lebenszeichen - Proof of Life",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/lebenszeichen-proof-of-life.jpg"
+                            },
+                            {
+                                "url": "/stream/der-admiral-2-die-schlacht-des-drachen",
+                                "title": "Der Admiral 2 - Die Schlacht des Drachen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-admiral-2-die-schlacht-des-drachen.jpg"
+                            },
+                            {
+                                "url": "/stream/monsternado",
+                                "title": "Monsternado",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/monsternado.jpg"
+                            },
+                            {
+                                "url": "/stream/the-great-arms-robbery-undercover-unter-waffenhandlern",
+                                "title": "The Great Arms Robbery - Undercover Unter Waffenhändlern",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-great-arms-robbery-undercover-unter-waffenhandlern.jpg"
+                            },
+                            {
+                                "url": "/stream/mother-of-the-bride",
+                                "title": "Mother of the Bride",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/mother-of-the-bride.jpg"
+                            },
+                            {
+                                "url": "/stream/ella-und-der-schwarze-jaguar",
+                                "title": "Ella und der schwarze Jaguar",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ella-und-der-schwarze-jaguar.jpg"
+                            },
+                            {
+                                "url": "/stream/ich-capitano",
+                                "title": "Ich Capitano",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ich-capitano.jpg"
+                            },
+                            {
+                                "url": "/stream/human-traffic",
+                                "title": "Human Traffic",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/human-traffic.jpg"
+                            },
+                            {
+                                "url": "/stream/der-zopf",
+                                "title": "Der Zopf",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-zopf.jpg"
+                            },
+                            {
+                                "url": "/stream/the-acolyte-s01e02",
+                                "title": "The Acolyte S01E02",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-acolyte-s01e02.jpg"
+                            },
+                            {
+                                "url": "/stream/the-acolyte-s01e01",
+                                "title": "The Acolyte S01E01",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-acolyte-s01e01.jpg"
+                            },
+                            {
+                                "url": "/stream/dark-sea-gefangen-in-der-tiefe",
+                                "title": "Dark Sea - Gefangen in der Tiefe",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/dark-sea-gefangen-in-der-tiefe.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/stream/john-wick",
+                    "title": "John Wick",
+                    "author": "Chad Stahelski David Leitch",
+                    "description": "John Wick (Keanu Reeves) genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau (Bridget Moynahan) einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov (Alfie Allen), der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov (Michael Nyqvist), für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus (Willem Dafoe) an seinen Fersen hängen...",
+                    "genre": "Thriller Action",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://filmpalast.to/files/movies/450/john-wick.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/stream/john-wick",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

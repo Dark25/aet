@@ -733,18 +733,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/a/lbjbKcdCeu",
-                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Demon Slayer 4).",
-                    "author": "Sotozaki, Haruo",
-                    "description": "Quarta temporada de Kimetsu no Yaiba.\n",
-                    "genre": "Ação, Fantasia, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://static.anroll.net/images/animes/capas/kimetsu-no-yaiba-geiko-hen.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [

@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tokyo-revengers-seiya-kessen-hen-dublado/",
+                                "title": "Tokyo Revengers: Seiya Kessen-hen Dublado",
+                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/05/1716168214-3735-132313.jpg"
+                            },
+                            {
                                 "url": "/anime/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita/",
                                 "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
                                 "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/05/1714596038-4490-141710.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/anime/shuumatsu-train-doko-e-iku/",
                                 "title": "Shuumatsu Train Doko e Iku?",
                                 "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/04/1714432052-2640-137451.jpg"
-                            },
-                            {
-                                "url": "/anime/kami-wa-game-ni-ueteiru/",
-                                "title": "Kami wa Game ni Ueteiru.",
-                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/04/1714431257-9756-141782.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1718159018&ei=KpZoZoGKFamO2LYPi6ySkAw&ip=172.71.98.186&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsd&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1718129813&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgHQCWMmTL-rguEknIEce0mRfsE4Z0cmXDDzMk_Bn2ySYCIQCUntmnE8retiUnDntNSV_7WYXYMCTbzJcfVaim6ldueQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIhAIbhytwTLczce8J-4xHWPSydYRfndVOsf8L5nbg56IPsAiANqu7SkPwtkMrpD-jjiNqEiHFagjMVu6YBxlAEA2YC3g%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1718159018&ei=KpZoZoGKFamO2LYPi6ySkAw&ip=172.71.98.186&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsd&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1718129813&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgHQCWMmTL-rguEknIEce0mRfsE4Z0cmXDDzMk_Bn2ySYCIQCUntmnE8retiUnDntNSV_7WYXYMCTbzJcfVaim6ldueQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIhAIbhytwTLczce8J-4xHWPSydYRfndVOsf8L5nbg56IPsAiANqu7SkPwtkMrpD-jjiNqEiHFagjMVu6YBxlAEA2YC3g%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1718159018&ei=KpZoZoGKFamO2LYPi6ySkAw&ip=172.71.98.186&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsd&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1718129813&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAP9NzzXx3rQdOLs5HL3KluJadOLQ7VT991vIXpBLetptAiBULjnA_gTuTm4BaTQGGkNlO7jIim12bim4X-BseGdvpw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIhAMDQAciAK1ojk0pP2osob3MKbOW8SgduCz9YE-21TLzUAiBGKpoyeJYwjBWfih5YHac8VTpdcbiqCzdzlGuLBiMBVA%3D%3D",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1718159018&ei=KpZoZoGKFamO2LYPi6ySkAw&ip=172.71.98.186&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsd&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1718129813&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAP9NzzXx3rQdOLs5HL3KluJadOLQ7VT991vIXpBLetptAiBULjnA_gTuTm4BaTQGGkNlO7jIim12bim4X-BseGdvpw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIhAMDQAciAK1ojk0pP2osob3MKbOW8SgduCz9YE-21TLzUAiBGKpoyeJYwjBWfih5YHac8VTpdcbiqCzdzlGuLBiMBVA%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

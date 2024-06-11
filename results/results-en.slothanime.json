@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dinocore",
+                                "title": "DinoCore",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12045.png"
+                            },
+                            {
+                                "url": "/anime/dinocore-season-2",
+                                "title": "DinoCore Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12044.png"
+                            },
+                            {
+                                "url": "/anime/mythical-creatures-are-my-dinners",
+                                "title": "Mythical Creatures Are My Dinners",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12043.png"
+                            },
+                            {
                                 "url": "/anime/jin-can-wangshi",
                                 "title": "Jin Can Wangshi",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12042.png"
@@ -50,21 +65,6 @@
                                 "url": "/anime/the-imaginary",
                                 "title": "The Imaginary",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12034.png"
-                            },
-                            {
-                                "url": "/anime/dragon-prince-yuan",
-                                "title": "Dragon Prince Yuan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12033.png"
-                            },
-                            {
-                                "url": "/anime/nijiyon-animation-specials",
-                                "title": "Nijiyon Animation Specials",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12032.png"
-                            },
-                            {
-                                "url": "/anime/digimon-adventure-02-the-beginning",
-                                "title": "Digimon Adventure 02 The Beginning",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12031.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,31 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/remonster",
+                                "title": "Re:Monster",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11899.png"
+                            },
+                            {
+                                "url": "/anime/dinocore",
+                                "title": "DinoCore",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12045.png"
+                            },
+                            {
+                                "url": "/anime/dinocore-season-2",
+                                "title": "DinoCore Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12044.png"
+                            },
+                            {
+                                "url": "/anime/tadaima-okaeri",
+                                "title": "Tadaima, Okaeri",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11940.png"
+                            },
+                            {
+                                "url": "/anime/mythical-creatures-are-my-dinners",
+                                "title": "Mythical Creatures Are My Dinners",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12043.png"
+                            },
                             {
                                 "url": "/anime/super-dragon-ball-heroes-meteor-mission",
                                 "title": "Super Dragon Ball Heroes Meteor Mission",
@@ -110,31 +135,6 @@
                                 "url": "/anime/wu-shang-shen-di-2",
                                 "title": "Wu Shang Shen Di 2",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
-                            },
-                            {
-                                "url": "/anime/the-mirage-house-in-the-clouds",
-                                "title": "The Mirage House in the Clouds",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11787.png"
-                            },
-                            {
-                                "url": "/anime/jinwu-wei-feng-qi-jingling",
-                                "title": "Jinwu Wei: Feng Qi Jingling",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12014.png"
-                            },
-                            {
-                                "url": "/anime/fabulous-beasts-3",
-                                "title": "Fabulous Beasts 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12011.png"
-                            },
-                            {
-                                "url": "/anime/purgatory-walkers",
-                                "title": "Purgatory Walkers",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12041.png"
-                            },
-                            {
-                                "url": "/anime/super-xiang",
-                                "title": "Super Xiang",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11942.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,38 +244,29 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jin-can-wangshi",
-                    "title": "Jin Can Wangshi",
-                    "author": "Yofox Culture",
-                    "genre": "Mystery, Supernatural",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12042.png",
+                    "url": "/anime/dinocore",
+                    "title": "DinoCore",
+                    "author": "",
+                    "genre": "Action, Kids, Mecha",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12045.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/jin-can-wangshi/147399",
-                        "name": "Episode 2"
-                    },
-                    {
-                        "url": "/player/jin-can-wangshi/147398",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/147399?vrf=eu9n7t5usfgJC3PhalQCPQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=lbdyEojXFUmyx2sIpq89UQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/147399?vrf=eu9n7t5usfgJC3PhalQCPQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=lbdyEojXFUmyx2sIpq89UQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/jin-can-wangshi/147399"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dna-nl/",
+                                "title": "DNA (NL)",
+                                "description": "La pequeña hija del investigador policial Rolf Larsen desaparece en circunstancias trágicas, mientras él y su colega Jarl Skaubo la llevan al trabajo. Pero a medida que se revela un error del sistema en el registro de ADN de la policía, la esperanza de encontrar sus brotes en Rolf, y seguimos su búsqueda de respuestas […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9nznsSr4DNObllAnI3Lqeg5S7Q6.jpg"
+                            },
+                            {
                                 "url": "/scooby-doo-misterios-s-a/",
                                 "title": "Scooby-Doo! Misterios, S. A.",
                                 "description": "Scooby-Doo! Mystery Incorporated Un pueblo pequeño y tranquilo cuenta con una larga historia de avistamientos de fantasmas, duendes, posesión de demonios y otros sucesos paranormales. Este pueblo es el hogar del famoso grupo conocido como \"Misterio a la Orden\", compuesto por los adolescentes Fred Jones, Daphne Blake, Vilma Dinkley, Shaggy Rogers y por supuesto, el […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/bFF27f2wER4thhWwiKge1oRsgWF.jpg"
                             },
                             {
-                                "url": "/segunda-muerte/",
-                                "title": "Segunda muerte",
-                                "description": "En una cabaña aislada del paradisiaco valle pasiego del Miera, Sandra, una joven auxiliar de policía, halla un cadáver que no debería estar ahí. Lo extraño es que se trata de Juliana, una mujer que ya fue enterrada hace años. ¿Puede alguien morir una segunda vez? Sandra atraviesa un momento personal complicado e intentará mantenerse […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJyVwGLZyUucYdj2fdHyfjT7oOe.jpg"
-                            },
-                            {
-                                "url": "/the-barbarian-and-the-troll/",
-                                "title": "The Barbarian and the Troll",
+                                "url": "/abominable-and-the-invisible-city/",
+                                "title": "Abominable and the Invisible City",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7n1FcfArbnpbRZmOcMSKaAGrm7M.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rk3eYIsdGge9A8DlrqMYI7IKJ6m.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/made-in-italy/",
-                                "title": "Made in Italy",
+                                "url": "/the-gulf/",
+                                "title": "The Gulf",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/a26IspZznIu11D7cb37m0mJ8Jg5.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/8aFpUPQr3Swtbn1vMl1ovMuVgmK-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,91 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/scooby-doo-misterios-s-a/",
-                    "title": "Scooby-Doo! Misterios, S. A.",
-                    "description": "Scooby-Doo! Mystery Incorporated Un pueblo pequeño y tranquilo cuenta con una larga historia de avistamientos de fantasmas, duendes, posesión de demonios y otros sucesos paranormales. Este pueblo es el hogar del famoso grupo conocido como \"Misterio a la Orden\", compuesto por los adolescentes Fred Jones, Daphne Blake, Vilma Dinkley, Shaggy Rogers y por supuesto, el gran danés Scooby-Doo, donde ellos viven junto a sus familias. Siendo esta una secuela de la serie original, retrata a la pandilla como se los vió en ¿Scooby-Doo, Dónde estás?",
-                    "genre": "Animación, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gUcaxw7wocfn1FjgiVb5P7aKNqn.jpg",
+                    "url": "/dna-nl/",
+                    "title": "DNA (NL)",
+                    "description": "La pequeña hija del investigador policial Rolf Larsen desaparece en circunstancias trágicas, mientras él y su colega Jarl Skaubo la llevan al trabajo. Pero a medida que se revela un error del sistema en el registro de ADN de la policía, la esperanza de encontrar sus brotes en Rolf, y seguimos su búsqueda de respuestas por Europa.",
+                    "genre": "Crimen, Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9nznsSr4DNObllAnI3Lqeg5S7Q6.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/scooby-doo-misterios-s-a-temporada-1-capitulo-26/",
-                        "name": "T01 - E26 - El terror del freak",
-                        "date_upload": 1311638400000,
-                        "episode_number": 26.0
-                    },
-                    {
-                        "url": "/episode/scooby-doo-misterios-s-a-temporada-1-capitulo-25/",
-                        "name": "T01 - E25 - El peón de las sombras",
-                        "date_upload": 1311033600000,
-                        "episode_number": 25.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s37.fastream.to/hls2/18/00067/c4u61f2bczak_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zvVu-36iiR0fnSngKbsa8ktr7kQae-8HDj0a5-P5Wz0&s=1718154025&e=43200&f=337486&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s37.fastream.to/hls2/18/00067/c4u61f2bczak_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zvVu-36iiR0fnSngKbsa8ktr7kQae-8HDj0a5-P5Wz0&s=1718154025&e=43200&f=337486&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00067/t8mqp12mj988_,l,n,.urlset/index-f2-v1-a1.m3u8?t=KyHzBNCPEy4t34DULGsd-pAJ3W-kNB-gtUO-Pa57ZEQ&s=1718154027&e=43200&f=337419&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00067/t8mqp12mj988_,l,n,.urlset/index-f2-v1-a1.m3u8?t=KyHzBNCPEy4t34DULGsd-pAJ3W-kNB-gtUO-Pa57ZEQ&s=1718154027&e=43200&f=337419&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/18/00067/c4u61f2bczak_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zvVu-36iiR0fnSngKbsa8ktr7kQae-8HDj0a5-P5Wz0&s=1718154025&e=43200&f=337486&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s37.fastream.to/hls2/18/00067/c4u61f2bczak_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zvVu-36iiR0fnSngKbsa8ktr7kQae-8HDj0a5-P5Wz0&s=1718154025&e=43200&f=337486&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00067/t8mqp12mj988_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KyHzBNCPEy4t34DULGsd-pAJ3W-kNB-gtUO-Pa57ZEQ&s=1718154027&e=43200&f=337419&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00067/t8mqp12mj988_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KyHzBNCPEy4t34DULGsd-pAJ3W-kNB-gtUO-Pa57ZEQ&s=1718154027&e=43200&f=337419&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s37.fastream.to/hls2/18/00067/c4u61f2bczak_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zvVu-36iiR0fnSngKbsa8ktr7kQae-8HDj0a5-P5Wz0&s=1718154025&e=43200&f=337486&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s37.fastream.to/hls2/18/00067/c4u61f2bczak_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zvVu-36iiR0fnSngKbsa8ktr7kQae-8HDj0a5-P5Wz0&s=1718154025&e=43200&f=337486&srv=s40&i=0.0&sp=0&p1=s40&p2=s40",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

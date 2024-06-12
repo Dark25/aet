@@ -1173,15 +1173,15 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: The source provides ZERO episodes.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

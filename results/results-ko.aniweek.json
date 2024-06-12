@@ -408,12 +408,37 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/e/언네임드 메모리 10화",
+                        "name": "언네임드 메모리 10화",
+                        "date_upload": 1718150400000,
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/e/언네임드 메모리 9화",
+                        "name": "언네임드 메모리 9화",
+                        "date_upload": 1717545600000,
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to generate form",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdndania.com/m3/Vnc0R29zQmhlNHI2R2Y2dHg5OW5IZEpPMDExZi91NFhIU0h6KzRPbEg2WTFGd2s3ek40cm5tMlFKM1JvdHoyLytvbDlEM0NqTEJveWZTa1VIQW90cnZFTUcxdTB2a01McVpnWDRrSWZaK2RGaVZYdnhqNzNGYVFNZkNmc3RqSkpwUUx0cVozRng2Tm5NaXRyNGwxREFnQVo3am13Rjhmb1YrU0Y5RFpUbVNyT29YRG16SzNnT2tsUFdGanl5LzVPZU1EUHhFbVhmY3k2RnlOYldTSGsyNk5PQnN2Qm1ySE9uL0NSS3MyS0FYN2RkMkpHZ0NDWmhxK05Uc29MbHdhMDRPSWxpTlFqSnIwdW1lQit2K0p4UEpFaXh4Y09uZVo2L09kei9vbUVUeUU2Zy9nYXQ1Z0w2NW5zZ1h5bVJMWlM%3D",
+                        "quality": "1080p",
+                        "videoUrl": "https://cdndania.com/m3/Vnc0R29zQmhlNHI2R2Y2dHg5OW5IZEpPMDExZi91NFhIU0h6KzRPbEg2WTFGd2s3ek40cm5tMlFKM1JvdHoyLytvbDlEM0NqTEJveWZTa1VIQW90cnZFTUcxdTB2a01McVpnWDRrSWZaK2RGaVZYdnhqNzNGYVFNZkNmc3RqSkpwUUx0cVozRng2Tm5NaXRyNGwxREFnQVo3am13Rjhmb1YrU0Y5RFpUbVNyT29YRG16SzNnT2tsUFdGanl5LzVPZU1EUHhFbVhmY3k2RnlOYldTSGsyNk5PQnN2Qm1ySE9uL0NSS3MyS0FYN2RkMkpHZ0NDWmhxK05Uc29MbHdhMDRPSWxpTlFqSnIwdW1lQit2K0p4UEpFaXh4Y09uZVo2L09kei9vbUVUeUU2Zy9nYXQ1Z0w2NW5zZ1h5bVJMWlM%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://cdndania.com",
+                            "Referer": "https://cdndania.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

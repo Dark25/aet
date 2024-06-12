@@ -282,8 +282,125 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Operation `storagestream.findOne()` buffering timed out after 10000ms",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/MrrWxQDd33imWwB",
+                        "quality": "1080p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/MrrWxQDd33imWwB",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1KQk_QVC1SBfMA4td50FfHh3vTv8zfFin",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1aXEbPnA8oAXN_RSWmcnaUOoIMq-7u56f",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/16eBIeSO0SG1rQru9s48tD4pzk_BqrG_0",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1_-l6a3Or7cyu84apdBsvXNbYvx2z7zm6",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/BexAVWqOgefyb6B",
+                        "quality": "720p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/BexAVWqOgefyb6B",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1KQk_QVC1SBfMA4td50FfHh3vTv8zfFin",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1aXEbPnA8oAXN_RSWmcnaUOoIMq-7u56f",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/16eBIeSO0SG1rQru9s48tD4pzk_BqrG_0",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1_-l6a3Or7cyu84apdBsvXNbYvx2z7zm6",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/PbqzvByDDOC026V",
+                        "quality": "480p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/PbqzvByDDOC026V",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1KQk_QVC1SBfMA4td50FfHh3vTv8zfFin",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1aXEbPnA8oAXN_RSWmcnaUOoIMq-7u56f",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/16eBIeSO0SG1rQru9s48tD4pzk_BqrG_0",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1_-l6a3Or7cyu84apdBsvXNbYvx2z7zm6",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://api.animeparadise.moe/stream/storage/GJXYkrYbqKi1626",
+                        "quality": "360p",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/GJXYkrYbqKi1626",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "api.animeparadise.moe",
+                            "Referer": "https://www.animeparadise.moe/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1KQk_QVC1SBfMA4td50FfHh3vTv8zfFin",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1aXEbPnA8oAXN_RSWmcnaUOoIMq-7u56f",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/16eBIeSO0SG1rQru9s48tD4pzk_BqrG_0",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://api.animeparadise.moe/stream/file/1_-l6a3Or7cyu84apdBsvXNbYvx2z7zm6",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

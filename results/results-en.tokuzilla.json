@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/kamen-rider-outsiders.html",
+                                "title": "Kamen Rider Outsiders",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
+                            },
+                            {
                                 "url": "/watch/kamen-rider-gotchard.html",
                                 "title": "Kamen Rider Gotchard",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
@@ -30,11 +35,6 @@
                                 "url": "/watch/ohsama-sentai-king-ohger-final-three-episodes.html",
                                 "title": "Ohsama Sentai King-Ohger Final Three Episodes",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-three-episodes-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-gotchard-hyper-battle-dvd.html",
@@ -144,14 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-gotchard.html",
-                    "title": "Kamen Rider Gotchard",
-                    "author": "Year 2023",
-                    "description": "Kamen Rider Gotchard is an upcoming Japanese Tokusatsu drama, the 34th entry of Toei Company’s Kamen Rider metaseries, and the fifth series to debut during the Reiwa period.",
-                    "genre": "Kamen Rider, Series",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png",
+                    "url": "/watch/kamen-rider-outsiders.html",
+                    "title": "Kamen Rider Outsiders",
+                    "author": "Year 2022",
+                    "description": "Kamen Rider Outsiders is a TTFCIcon-crosswiki.png-exclusive anthology series serving as a crossover between various Kamen Rider Series. In the special, multiple Kamen Riders fight against the villainous schemes of a returning Foundation X and Zein.",
+                    "genre": "Kamen Rider, Series, Kamen Rider Ex-Aid",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,20 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=40#watch",
-                        "name": "Episode 40",
-                        "episode_number": 40.0
+                        "url": "/watch/kamen-rider-outsiders.html?ep=6#watch",
+                        "name": "Episode 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=39#watch",
-                        "name": "Episode 39",
-                        "episode_number": 39.0
+                        "url": "/watch/kamen-rider-outsiders.html?ep=5#watch",
+                        "name": "Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

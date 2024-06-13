@@ -327,14 +327,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/jujutsu-kaisen-2nd-season-723",
-                                "title": "Jujutsu Kaisen Saison 2",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1600/134703.webp"
-                            },
-                            {
                                 "url": "/anime/pokémon-horizons-series-898",
                                 "title": "Pokemon (2023)",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1703/137216.webp"
+                            },
+                            {
+                                "url": "/anime/viral-hit-1665",
+                                "title": "Viral Hit",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1594/142521.webp"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season-723",
+                                "title": "Jujutsu Kaisen Saison 2",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1600/134703.webp"
                             },
                             {
                                 "url": "/anime/bartender-kami-no-glass-1641",
@@ -470,11 +475,6 @@
                                 "url": "/anime/karasu-wa-aruji-wo-erabanai-1676",
                                 "title": "Karasu wa Aruji wo Erabanai",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1630/141499.webp"
-                            },
-                            {
-                                "url": "/anime/captain-tsubasa-season-2-junior-youth-hen-1415",
-                                "title": "Captain Tsubasa Saison 2",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1716/137279.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -497,11 +497,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.fr.anisama.AniSama.HtmlResponseDTO', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ajax/episode/servers?episodeId=124987",
+                        "name": "Episode 1108",
+                        "episode_number": 1108.0
+                    },
+                    {
+                        "url": "/ajax/episode/servers?episodeId=1717315880970914",
+                        "name": "Episode 1107",
+                        "episode_number": 1107.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"fr.....",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.fr.anisama.AniSama.HtmlResponseDTO', but it was missing at path: $",
                 "passed": false
             }
         }

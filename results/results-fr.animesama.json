@@ -652,6 +652,14 @@
                                 "initialized": true
                             },
                             {
+                                "url": "/catalogue/viral-hit//saison1/vostfr",
+                                "title": "Viral Hit Saison 1",
+                                "description": "Le lycéen tout maigre et fragile Yoo Ho Bin est probablement le dernier gars qu'on s'attendrait de voir sur une chaîne Newtube qui tourne autour des combats. Mais après avoir suivi les conseils d'une mystérieuse chaîne Newtube, Ho Bin assomme des gars plus forts que lui et engrange plus d'argent qu'il n'aurait jamais pu rêver. Ho Bin pourra-t-il continuer comme ça ou finira-t-il par rencontrer son égal ?",
+                                "genre": "Manhwa, Webcomic, Action, Comédie, Drame, Romance, School-Life, Adolescence, Arts martiaux, Combats, Ecole, Vengeance",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/viral-hit0.jpg",
+                                "initialized": true
+                            },
+                            {
                                 "url": "/catalogue/bartender-kami-no-glass//saison1hs/vostfr",
                                 "title": "Bartender: Kami no Glass Version 2006",
                                 "description": "Un légendaire barman du nom de Sasakura Ryu possède un bar Eden Hall dans une rue de Ginza à Tokyo. Grâce à son talent, il rassure les clients et les aide. Car, il sait toujours quelle boisson offrir à son client et possède une mémoire étonnante. Dans chaque épisode, un nouveau personnage pénètre dans le bar, et quelle que soit son origine sociale, Sasakura Ryu parvient toujours à résoudre les difficultés de son client.",
@@ -1570,14 +1578,6 @@
                                 "genre": "Comédie, Romance, Surnaturel, Jeunesse, Voyage-temporel",
                                 "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jiisan-baasan-wakagaeru.jpg",
                                 "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/vampire-dormitory//saison1/vostfr",
-                                "title": "Vampire Dormitory Saison 1",
-                                "description": "Orpheline, Mito est à la rue où elle survit, travestie en garçon à l'insu de tous. Alors le jour où elle perd son emploi, son univers s'effondre ! Surgit alors Ruka, un vampire distingué, qui lui propose de l'héberger dans son pensionnat contre un don de sang régulier. Problème : comme Mito n'a jamais connu l'amour, son sang est infect... Mais Ruka, que les filles dégoûtent, refuse d'abandonner pour si peu et compte bien résoudre le problème de Mito à grand renfort d'affection ! Si Mito veut garder un toit sur la tête, il va donc lui falloir préserver son secret à tout prix...",
-                                "genre": "Comédie, Romance, Surnaturel, Amour, Crossdressing, Vampires",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vampire-dormitory.jpg",
-                                "initialized": true
                             }
                         ],
                         "hasNextPage": false
@@ -1691,13 +1691,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1718209219&validto=1718223619&rate=200k&ip=20.55.14.156&hash=mbMstVrVj0SKwvXNA2ma5YCaZM0%3D",
+                        "url": "https://video.sibnet.ru/v/acad01949af65919ceb5493a3a1f2144/5150375.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/acad01949af65919ceb5493a3a1f2144/5150375.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5150375"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1718233228&validto=1718247628&rate=200k&ip=74.249.13.141&hash=upuXG0D%2B7yiyVmOozxZSOe72FZI%3D",
                         "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1718209219&validto=1718223619&rate=200k&ip=20.55.14.156&hash=mbMstVrVj0SKwvXNA2ma5YCaZM0%3D",
+                        "videoUrl": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1718233228&validto=1718247628&rate=200k&ip=74.249.13.141&hash=upuXG0D%2B7yiyVmOozxZSOe72FZI%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://https://sendvid.com/embed/po9rn5vq",
                             "Referer": "https://https://sendvid.com/embed/po9rn5vq/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/0871f9a324ba41cace4ec04ed93ae7e2/5295770.mp4",
+                        "quality": "(VF) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/0871f9a324ba41cace4ec04ed93ae7e2/5295770.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5295770"
                         }
                     }
                 ],

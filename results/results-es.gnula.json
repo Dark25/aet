@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/menudas-piezas",
+                                "title": "Menudas piezas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg"
+                            },
+                            {
                                 "url": "/movies/enamorada",
                                 "title": "Enamorada",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/cddVs38wKRVRbBWXNDoi8ambexY.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/movies/el-caso-watts-el-padre-homicida",
                                 "title": "El caso Watts: El padre homicida",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg"
-                            },
-                            {
-                                "url": "/movies/vigilados",
-                                "title": "Vigilados",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7uGMCqUB6aRkmCARMocysRGTV9v.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/dune-world",
-                                "title": "Dune World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
-                            },
-                            {
                                 "url": "/movies/adios-mundo",
                                 "title": "Adios Mundo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
+                            },
+                            {
+                                "url": "/movies/dune-world",
+                                "title": "Dune World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -362,14 +362,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             },
                             {
-                                "url": "/movies/007-el-mundo-no-basta",
-                                "title": "007: El mundo no basta",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
-                            },
-                            {
                                 "url": "/series/guerra-de-los-mundos",
                                 "title": "Guerra de los Mundos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
+                            },
+                            {
+                                "url": "/movies/007-el-mundo-no-basta",
+                                "title": "007: El mundo no basta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/enamorada",
-                    "title": "Enamorada",
-                    "artist": "Giovanna Antonelli",
-                    "description": "Basada en el libro de Cris Souza Fontes, Apaixonada cuenta la historia de una mujer que se da cuenta de lo monótona que es su vida. Se encuentra desesperada y enfrentada a una crisis de identidad. A partir de entonces, se ve obligada a iniciar un apasionante viaje de autodescubrimiento que la acercará a todas las pasiones que la vida tiene para ofrecerle.",
-                    "genre": "Comedia, Romance",
+                    "url": "/movies/menudas-piezas",
+                    "title": "Menudas piezas",
+                    "artist": "Alexandra Jiménez",
+                    "description": "Candela cometió el error de pensar que el ascensor social solo funciona en una dirección, la de subida. Y ahora, tras un traumático e inesperado divorcio, pierde su trabajo en un colegio de élite. Por eso Candela tiene que volver al barrio del que salió y pedir ayuda a su hermana y su padre, esos a los que lleva años mirando por encima del hombro. Es hora de recolocar las piezas en el tablero, empezar de cero y buscar una segunda oportunidad. Pero la única que encuentra es dar clases en su antiguo instituto a estudiantes con problemas de integración. Pasa de la crème de la crème, a la crème de la mediocridad. Lo que Candela no se espera es que con ellos aprenderá que lo importante no es quién fuiste ayer, sino quién eres hoy, que un grupo de perdedores por los que nadie da un duro pueden acabar siendo campeones de España, y que en el ajedrez, como en la vida, no importa si eres rey o peón, porque al final de la partida, ambos acaban en la misma caja.",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/ih0G409JNF8L7Maz3tQwPnLOjD7.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/enamorada",
+                        "url": "/movies/menudas-piezas",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,17 +429,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-mccw20pel8yekfhz.voe-network.net/engine/hls2-c/01/11551/o4pdqdlbkv4v_,n,.urlset/index-v1-a1.m3u8?t=j1OGM6QjHM0-N_dPjzMc723pKlibDTtUAl0PNGjGAC0&s=1718259586&e=14400&f=57755699&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "url": "https://delivery-node-4mmoxunltsltbmvq.voe-network.net/engine/hls2-c/01/11531/e9kgtdkei3m7_,n,.urlset/index-v1-a1.m3u8?t=jU_trt5yUqnOdSiFKhfFVc6Fk7qrE-qi9FJSRrWLkwQ&s=1718281577&e=14400&f=57659902&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=4.242&sp=2500&asn=8075",
                         "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-mccw20pel8yekfhz.voe-network.net/engine/hls2-c/01/11551/o4pdqdlbkv4v_,n,.urlset/index-v1-a1.m3u8?t=j1OGM6QjHM0-N_dPjzMc723pKlibDTtUAl0PNGjGAC0&s=1718259586&e=14400&f=57755699&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-4mmoxunltsltbmvq.voe-network.net/engine/hls2-c/01/11531/e9kgtdkei3m7_,n,.urlset/index-v1-a1.m3u8?t=jU_trt5yUqnOdSiFKhfFVc6Fk7qrE-qi9FJSRrWLkwQ&s=1718281577&e=14400&f=57659902&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=4.242&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06343/l9z20tt159hf_n/index-v1-a1.m3u8?t=0cBqf94R9cLYOXWIKBcUvxna0fRbYAz5WxTZaKoKxNM&s=1718259588&e=43200&f=31715888&srv=52&asn=8075&sp=4000",
-                        "quality": "[LAT] Filemoon:1080p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06343/l9z20tt159hf_n/index-v1-a1.m3u8?t=0cBqf94R9cLYOXWIKBcUvxna0fRbYAz5WxTZaKoKxNM&s=1718259588&e=43200&f=31715888&srv=52&asn=8075&sp=4000",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06325/u2tpdhfotvg6_x/index-v1-a1.m3u8?t=X9lxaKY0rPOcczM3YfwxvQYrYAybvhDA9j3J5E9z0e0&s=1718281576&e=43200&f=31626965&srv=35&asn=8075&sp=5500",
+                        "quality": "[LAT] Filemoon:804p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06325/u2tpdhfotvg6_x/index-v1-a1.m3u8?t=X9lxaKY0rPOcczM3YfwxvQYrYAybvhDA9j3J5E9z0e0&s=1718281576&e=43200&f=31626965&srv=35&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -447,36 +447,59 @@
                         }
                     },
                     {
-                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04131/i2vhzm1o6d4p_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=IgT86czFXShBihqlNgUiBcjzoGgWvQ3-jtt48XTm8NU&s=1718259587&e=129600&f=20656002&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "quality": "[LAT] StreamWish:1080p",
-                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04131/i2vhzm1o6d4p_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=IgT86czFXShBihqlNgUiBcjzoGgWvQ3-jtt48XTm8NU&s=1718259587&e=129600&f=20656002&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/i2vhzm1o6d4p"
-                        }
-                    },
-                    {
-                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04131/i2vhzm1o6d4p_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=IgT86czFXShBihqlNgUiBcjzoGgWvQ3-jtt48XTm8NU&s=1718259587&e=129600&f=20656002&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04131/i2vhzm1o6d4p_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=IgT86czFXShBihqlNgUiBcjzoGgWvQ3-jtt48XTm8NU&s=1718259587&e=129600&f=20656002&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/i2vhzm1o6d4p"
-                        }
-                    },
-                    {
-                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04131/i2vhzm1o6d4p_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=IgT86czFXShBihqlNgUiBcjzoGgWvQ3-jtt48XTm8NU&s=1718259587&e=129600&f=20656002&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "url": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/04110/eqghve7za06b_n/index-v1-a1.m3u8?t=EKvP7RtEtW0pVl5MbU8IaCiEDCA84sSnkjsp0MAKqcM&s=1718281578&e=129600&f=20553805&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04131/i2vhzm1o6d4p_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=IgT86czFXShBihqlNgUiBcjzoGgWvQ3-jtt48XTm8NU&s=1718259587&e=129600&f=20656002&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "videoUrl": "https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/04110/eqghve7za06b_n/index-v1-a1.m3u8?t=EKvP7RtEtW0pVl5MbU8IaCiEDCA84sSnkjsp0MAKqcM&s=1718281578&e=129600&f=20553805&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/i2vhzm1o6d4p"
+                            "Referer": "https://streamwish.to/e/eqghve7za06b"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=3OQOdYd1D0sX2v&expires=1718351581&ip=Gy5QExSnDS9X&token=WV-Ak4u0irvA",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=3OQOdYd1D0sX2v&expires=1718351581&ip=Gy5QExSnDS9X&token=WV-Ak4u0irvA"
+                    },
+                    {
+                        "url": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2/01/11554/compycu5hbpq_,n,.urlset/index-v1-a1.m3u8?t=AynKuEWLvUV0Vzu5HcntvWoQtu-Xh-BOK136Md8CBQA&s=1718281585&e=14400&f=57774513&node=delivery-node-xvilochagwi6rqt2.voe-network.net&i=4.242&sp=2500&asn=8075",
+                        "quality": "[CAST]Voe: 720p",
+                        "videoUrl": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2/01/11554/compycu5hbpq_,n,.urlset/index-v1-a1.m3u8?t=AynKuEWLvUV0Vzu5HcntvWoQtu-Xh-BOK136Md8CBQA&s=1718281585&e=14400&f=57774513&node=delivery-node-xvilochagwi6rqt2.voe-network.net&i=4.242&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/06346/goqdxfvbgpe3_n/index-v1-a1.m3u8?t=Jn4EumxpinNGmRsIDdXJRipcUoepY-5B1xMsFZxl4HI&s=1718281589&e=43200&f=31731736&srv=34&asn=8075&sp=4000",
+                        "quality": "[CAST] Filemoon:800p",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/06346/goqdxfvbgpe3_n/index-v1-a1.m3u8?t=Jn4EumxpinNGmRsIDdXJRipcUoepY-5B1xMsFZxl4HI&s=1718281589&e=43200&f=31731736&srv=34&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04140/xfcbtrkspb4a_,n,h,.urlset/index-f2-v1-a1.m3u8?t=LoxGHXhLqa7xRnbabDhvR2aDKFxrTfqHVralzBdoRGw&s=1718281586&e=129600&f=20701935&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04140/xfcbtrkspb4a_,n,h,.urlset/index-f2-v1-a1.m3u8?t=LoxGHXhLqa7xRnbabDhvR2aDKFxrTfqHVralzBdoRGw&s=1718281586&e=129600&f=20701935&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/xfcbtrkspb4a"
+                        }
+                    },
+                    {
+                        "url": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04140/xfcbtrkspb4a_,n,h,.urlset/index-f1-v1-a1.m3u8?t=LoxGHXhLqa7xRnbabDhvR2aDKFxrTfqHVralzBdoRGw&s=1718281586&e=129600&f=20701935&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04140/xfcbtrkspb4a_,n,h,.urlset/index-f1-v1-a1.m3u8?t=LoxGHXhLqa7xRnbabDhvR2aDKFxrTfqHVralzBdoRGw&s=1718281586&e=129600&f=20701935&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/xfcbtrkspb4a"
                         }
                     }
                 ],

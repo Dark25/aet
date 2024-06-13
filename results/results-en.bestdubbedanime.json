@@ -3,64 +3,8 @@
         "name": "BestDubbedAnime (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/One-Piece",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://i.imgur.com/DlCLYf5.jpg"
-                            },
-                            {
-                                "url": "/Bleach",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://i.imgur.com/8m1YRzg.png"
-                            },
-                            {
-                                "url": "/The-Eminence-in-Shadow",
-                                "title": "The Eminence in Shadow",
-                                "thumbnail_url": "https://i.imgur.com/MZZBT7j.jpg"
-                            },
-                            {
-                                "url": "/That-Time-I-Got-Reincarnated-as-a-Slime",
-                                "title": "That Time I Got Reincarnated as a Slime",
-                                "thumbnail_url": "https://i.imgur.com/19Iu7fo.jpg"
-                            },
-                            {
-                                "url": "/Sorcery-Fight-2nd-Season",
-                                "title": "Sorcery Fight 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/RxLW9kGl.jpg"
-                            },
-                            {
-                                "url": "/The-Dangers-in-My-Heart",
-                                "title": "The Dangers in My Heart",
-                                "thumbnail_url": "https://i.imgur.com/HBzYbVQl.jpg"
-                            },
-                            {
-                                "url": "/The-Eminence-in-Shadow-2nd-Season",
-                                "title": "The Eminence in Shadow 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/uJpOzIsl.png"
-                            },
-                            {
-                                "url": "/Dr-Stone",
-                                "title": "Dr. Stone",
-                                "thumbnail_url": "https://i.imgur.com/RAnT04O.jpg"
-                            },
-                            {
-                                "url": "/In-Another-World-With-My-Smartphone-2nd-Season",
-                                "title": "In Another World With My Smartphone 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/1OzPwL4.jpg"
-                            },
-                            {
-                                "url": "/Classroom-of-the-Elite-2nd-Season",
-                                "title": "Classroom of the Elite 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/S4jyxlK.png?1"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -204,11 +148,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/One-Piece",
-                    "description": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Pieceâ€”which promises an unlimited amount of riches and fameâ€”and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunesâ€”One Piece.",
-                    "genre": "Action, Adventure, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/The-Dangers-in-My-Heart",
+                    "description": "Kyoutarou Ichikawa may look like a shy and reserved middle school student, but deep within his heart is a bloodthirsty killer. His ultimate desire is to see his classmate Anna Yamada's beautiful face writhing in pain before he ends her life. But this fantasy may never come to fruition, as Ichikawa starts to see an entirely different side to Yamada. Often seeking refuge in the library, Ichikawa frequently runs into Yamada. It is during these encounters that Ichikawa realizes his model classmate is actually an airhead who can never read the room. As they spend more time together, the boy cannot help but feel not only a sense of endearment toward the very girl he wishes to murder but also a desire to protect her at all costs. Is it possible that this sudden change in Ichikawa's perspective could lead to something more?",
+                    "genre": "Comedy, Romance, Bokuyaba, Boku no Kokoro no Yabai Yatsu",
                     "initialized": true
                 },
                 "passed": true
@@ -216,14 +158,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/One-Piece/1024",
-                        "name": "Episode 1024",
-                        "episode_number": 1024.0
+                        "url": "/The-Dangers-in-My-Heart/12",
+                        "name": "Episode 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/One-Piece/1023",
-                        "name": "Episode 1023",
-                        "episode_number": 1023.0
+                        "url": "/The-Dangers-in-My-Heart/11",
+                        "name": "Episode 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -231,9 +173,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1718540683&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODU0MDY4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=OgHdPitqVHmzwgFF6mA55SiftCaowLhYdcgJPDC8FdIMVlxIylJg6%7EPbTubaJuQDagW7c1XYAeMK2nS9q4%7EFn-BVbS5Ghnb9MOa9qiuxtw6s8oR0bLVfxD%7EyvZZEpFKVxaf4S-bXybsuzyzyKsKgS2jZklqeqoZhezrQzChMBGIYYi8%7EhdVLaYsrMgifoCWpeQWFc8oc7XDVwDDZxhqGN3ahDS-cI3MmWlNUGDn4T2JL137DiWihT%7EapEoGGXNI61Bj6myJUYEsaP26AwmSBpR4lAq7fJ0fMBThKjJvn2VgMfOR9f8LB%7EVw8fGr1suS4KA355a%7EAMduntD7dZxL9ZQ__&Key-Pair-Id=K3ESJI6DHPFC7",
+                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/d998990eaaf044c9836aa6207272b5e0d187240dcb777fa39de8c2c9d03e122e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27boku-no-kokoro-no-yabai-yatsu-dub-episode-12.mp4%3B+filename%3D%22boku-no-kokoro-no-yabai-yatsu-dub-episode-12.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1718562012&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODU2MjAxMn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1L2Q5OTg5OTBlYWFmMDQ0Yzk4MzZhYTYyMDcyNzJiNWUwZDE4NzI0MGRjYjc3N2ZhMzlkZThjMmM5ZDAzZTEyMmU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=lyO3J-L-E-dzcF-V4q4W9JcL50aDkNp2%7ER71OJvTfe2xUHF%7EE-B3X%7ETCQ%7E4-MSwml7lOZF4lQIcZEOxt8f7CUNg9l4MEOOvxRt6SqYeRfLx5qvvx3F86JFJ2JRJXBoR0KJ4hNdG5hEqu5vMYtnayyXAC4wdMQZMexC4TIcCi80fZQIB4AUyGmrZoFEk0RoBYA98Q69v-G9jEycX6FJDgMK9KuOGX%7E07S6QizJzMOaW7prytq6n3rceE9vDgsxeUsZm7FtmZYNYJQWRS90-P84SZm1EIePXnZZRVKDhkHc5v1qByHxnDSVzZ2HKXj43JCpFXmnntIcKYTQrmySbrsGQ__&Key-Pair-Id=K3ESJI6DHPFC7",
                         "quality": "720p # 1 (BDA-HF)",
-                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1718540683&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODU0MDY4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=OgHdPitqVHmzwgFF6mA55SiftCaowLhYdcgJPDC8FdIMVlxIylJg6%7EPbTubaJuQDagW7c1XYAeMK2nS9q4%7EFn-BVbS5Ghnb9MOa9qiuxtw6s8oR0bLVfxD%7EyvZZEpFKVxaf4S-bXybsuzyzyKsKgS2jZklqeqoZhezrQzChMBGIYYi8%7EhdVLaYsrMgifoCWpeQWFc8oc7XDVwDDZxhqGN3ahDS-cI3MmWlNUGDn4T2JL137DiWihT%7EapEoGGXNI61Bj6myJUYEsaP26AwmSBpR4lAq7fJ0fMBThKjJvn2VgMfOR9f8LB%7EVw8fGr1suS4KA355a%7EAMduntD7dZxL9ZQ__&Key-Pair-Id=K3ESJI6DHPFC7"
+                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/d998990eaaf044c9836aa6207272b5e0d187240dcb777fa39de8c2c9d03e122e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27boku-no-kokoro-no-yabai-yatsu-dub-episode-12.mp4%3B+filename%3D%22boku-no-kokoro-no-yabai-yatsu-dub-episode-12.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1718562012&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODU2MjAxMn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1L2Q5OTg5OTBlYWFmMDQ0Yzk4MzZhYTYyMDcyNzJiNWUwZDE4NzI0MGRjYjc3N2ZhMzlkZThjMmM5ZDAzZTEyMmU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=lyO3J-L-E-dzcF-V4q4W9JcL50aDkNp2%7ER71OJvTfe2xUHF%7EE-B3X%7ETCQ%7E4-MSwml7lOZF4lQIcZEOxt8f7CUNg9l4MEOOvxRt6SqYeRfLx5qvvx3F86JFJ2JRJXBoR0KJ4hNdG5hEqu5vMYtnayyXAC4wdMQZMexC4TIcCi80fZQIB4AUyGmrZoFEk0RoBYA98Q69v-G9jEycX6FJDgMK9KuOGX%7E07S6QizJzMOaW7prytq6n3rceE9vDgsxeUsZm7FtmZYNYJQWRS90-P84SZm1EIePXnZZRVKDhkHc5v1qByHxnDSVzZ2HKXj43JCpFXmnntIcKYTQrmySbrsGQ__&Key-Pair-Id=K3ESJI6DHPFC7"
                     }
                 ],
                 "passed": true

@@ -22,11 +22,6 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx110595-vHd33fbqdK6B.png"
                             },
                             {
-                                "url": "/anime/An-Archdemons-Dilemma-How-to-Love-Your-Elf-Bride",
-                                "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
-                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/iP9RP.jpg"
-                            },
-                            {
                                 "url": "/anime/As-a-Reincarnated-Aristocrat-Ill-Use-My-Appraisal-Skill-to-Rise-in-the-World",
                                 "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx164702-FjpM96MPdzVm.jpg"
@@ -87,16 +82,6 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/dead-dead-demons-dededede-destruction-key-art-english.png"
                             },
                             {
-                                "url": "/anime/Delicious-in-Dungeon",
-                                "title": "Delicious in Dungeon",
-                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/Dungeon.png"
-                            },
-                            {
-                                "url": "/anime/Delicious-in-Dungeon-ITA",
-                                "title": "Delicious in Dungeon Dub ITA",
-                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/Dungeon.png"
-                            },
-                            {
                                 "url": "/anime/Demon-Slayer-Kimetsu-no-Yaiba-Hashira-Training-Arc",
                                 "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/8Qo73.png"
@@ -155,6 +140,21 @@
                                 "url": "/anime/High-Card-2-ITA",
                                 "title": "High Card 2 Dub ITA",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx163151-yxXcufmMoCmv.jpg"
+                            },
+                            {
+                                "url": "/anime/Highspeed-Etoile",
+                                "title": "Highspeed Etoile",
+                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx152302-afLOVyltWMSq.jpg"
+                            },
+                            {
+                                "url": "/anime/Himitsu-no-AiPri",
+                                "title": "Himitsu no AiPri",
+                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx171080-5d1bxwJRQ4vk.png"
+                            },
+                            {
+                                "url": "/anime/How-to-Steal-55-Kisses-3",
+                                "title": "How to Steal 55 Kisses 3",
+                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx103023-XAQRFS8gKTKw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,12 +262,12 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx528-HIz7955MvEnN.jpg"
                             },
                             {
-                                "url": "/anime/Busou-Shinki-Moon-Angel",
+                                "url": "/anime/Busou-Shinki-Moon-Angel-a",
                                 "title": "Busou Shinki Moon Angel",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/11103.jpg"
                             },
                             {
-                                "url": "/anime/Busou-Shinki-Armored-War-Goddess",
+                                "url": "/anime/Busou-Shinki-Armored-War-Goddess-a",
                                 "title": "Busou Shinki: Armored War Goddess",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx14237-pPc6o8bvfOFC.png"
                             },
@@ -282,7 +282,7 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/148866.jpg"
                             },
                             {
-                                "url": "/anime/Petshop-of-Horrors-ITA",
+                                "url": "/anime/Petshop-of-Horrors-ITA-a",
                                 "title": "Petshop of Horrors Dub ITA",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx326-dCwCoSAE7dWZ.jpg"
                             },
@@ -422,7 +422,7 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/46073l.jpg"
                             },
                             {
-                                "url": "/anime/Farming-Life-in-Another-World",
+                                "url": "/anime/Farming-Life-in-Another-World-a",
                                 "title": "Farming Life in Another World",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx146850-xfeAFIE0M9hl.jpg"
                             },
@@ -499,14 +499,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ep/A-Condition-Called-Love-ep-11",
+                        "name": "Episodio 11",
+                        "episode_number": 11.0
+                    },
+                    {
                         "url": "/ep/A-Condition-Called-Love-ep-10",
                         "name": "Episodio 10",
                         "episode_number": 10.0
-                    },
-                    {
-                        "url": "/ep/A-Condition-Called-Love-ep-9",
-                        "name": "Episodio 9",
-                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -514,29 +514,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/720p/playlist_720p.m3u8",
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/720p/playlist_720p.m3u8",
                         "quality": "720p",
-                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/720p/playlist_720p.m3u8"
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/720p/playlist_720p.m3u8"
                     },
                     {
-                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/480p/playlist_480p.m3u8",
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/480p/playlist_480p.m3u8",
                         "quality": "480p",
-                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/480p/playlist_480p.m3u8"
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/480p/playlist_480p.m3u8"
                     },
                     {
-                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/360p/playlist_360p.m3u8",
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/360p/playlist_360p.m3u8",
                         "quality": "360p",
-                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/360p/playlist_360p.m3u8"
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/360p/playlist_360p.m3u8"
                     },
                     {
-                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/240p/playlist_240p.m3u8",
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/240p/playlist_240p.m3u8",
                         "quality": "240p",
-                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/240p/playlist_240p.m3u8"
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/240p/playlist_240p.m3u8"
                     },
                     {
-                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/144p/playlist_144p.m3u8",
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/144p/playlist_144p.m3u8",
                         "quality": "144p",
-                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/10/144p/playlist_144p.m3u8"
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/Hananoi-kunToKoiNoYamai/11/144p/playlist_144p.m3u8"
                     }
                 ],
                 "passed": true

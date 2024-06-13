@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/4jVemTkvEqERhe6EIIVymkZh72f.jpg"
                             },
                             {
-                                "url": "/las-nuevas-aventuras-de-jonny-quest/",
-                                "title": "Las nuevas aventuras de Jonny Quest",
+                                "url": "/bajo-sospecha-los-secretos-del-caso-wesphael/",
+                                "title": "Bajo sospecha: Los secretos del caso Wesphael",
                                 "description": "",
-                                "thumbnail_url": "https://2.bp.blogspot.com/-Ce0rXuwVWeo/U4uKZb-cjDI/AAAAAAAAJjY/HfeH9XymAqM/s1600/jonny-quest-big.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pBsyJaohiW9375PZViDIbvQ7sPG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg"
                             },
                             {
-                                "url": "/erase-una-vez-los-exploradores-capitulos-completos-latino-hd-online/",
-                                "title": "Érase una vez... los exploradores",
+                                "url": "/le-temes-a-la-oscuridad-capitulos-completos-latino-hd-online/",
+                                "title": "El club de medianoche",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/pGDCtiewyrA0P9BezLG5NnTqGwr-226x339.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/hcVvglRh3l38IRhhtawlT2nUDY8-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,81 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/desde-el-manana-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Episodio 8",
+                        "date_upload": 1718150400000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/desde-el-manana-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Episodio 7",
+                        "date_upload": 1718150400000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/17/00067/1xlcqoleizuq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KkXPdrIU-xaW3V6xHfPnlOR2NEyLNTiZe_sD2JhE1gM&s=1718302811&e=43200&f=338141&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/17/00067/1xlcqoleizuq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KkXPdrIU-xaW3V6xHfPnlOR2NEyLNTiZe_sD2JhE1gM&s=1718302811&e=43200&f=338141&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/17/00067/1xlcqoleizuq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KkXPdrIU-xaW3V6xHfPnlOR2NEyLNTiZe_sD2JhE1gM&s=1718302811&e=43200&f=338141&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/17/00067/1xlcqoleizuq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KkXPdrIU-xaW3V6xHfPnlOR2NEyLNTiZe_sD2JhE1gM&s=1718302811&e=43200&f=338141&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00067/zkoc7jemhhzz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=wCvgTqKGIVmHXGXPuUO1jqy4cRR3OxAhgC7QB2O-O4I&s=1718302809&e=43200&f=338140&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00067/zkoc7jemhhzz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=wCvgTqKGIVmHXGXPuUO1jqy4cRR3OxAhgC7QB2O-O4I&s=1718302809&e=43200&f=338140&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/17/00067/1xlcqoleizuq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KkXPdrIU-xaW3V6xHfPnlOR2NEyLNTiZe_sD2JhE1gM&s=1718302811&e=43200&f=338141&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/17/00067/1xlcqoleizuq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KkXPdrIU-xaW3V6xHfPnlOR2NEyLNTiZe_sD2JhE1gM&s=1718302811&e=43200&f=338141&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00067/zkoc7jemhhzz_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wCvgTqKGIVmHXGXPuUO1jqy4cRR3OxAhgC7QB2O-O4I&s=1718302809&e=43200&f=338140&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00067/zkoc7jemhhzz_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wCvgTqKGIVmHXGXPuUO1jqy4cRR3OxAhgC7QB2O-O4I&s=1718302809&e=43200&f=338140&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

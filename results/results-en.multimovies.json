@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Multimovies (EN)",
+        "results": {
+            "popular": {
+                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "passed": false
+            }
+        }
+    }
+]

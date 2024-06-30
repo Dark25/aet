@@ -1,0 +1,31 @@
+[
+    {
+        "name": "SuperStream (EN)",
+        "results": {
+            "popular": {
+                "error": "java.lang.Exception: Query Failed\njava.net.UnknownHostException: showbox.shegu.net: No address associated with hostname",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.lang.Exception: Query Failed\njava.net.UnknownHostException: showbox.shegu.net",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.Exception: Query Failed\njava.net.UnknownHostException: showbox.shegu.net",
+                "passed": false
+            },
+            "details": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "episodes": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]

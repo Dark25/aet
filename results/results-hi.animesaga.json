@@ -1,0 +1,37 @@
+[
+    {
+        "name": "AnimeSAGA (HI)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "details": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]

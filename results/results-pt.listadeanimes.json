@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Lista de Animes (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: www.listadeanimes.com: Temporary failure in name resolution",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: www.listadeanimes.com",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: www.listadeanimes.com",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: www.listadeanimes.com",
+                "passed": false
+            },
+            "videos": {
+                "result": [
+                    {
+                        "videoUrl": ""
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

@@ -652,6 +652,21 @@
                                 "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1717931936-593693493.jpg"
                             },
                             {
+                                "url": "/35522-nicht-eine-mehr-stream-deutsch.html",
+                                "title": "Nicht eine mehr",
+                                "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1719736554-386266395.jpg"
+                            },
+                            {
+                                "url": "/35523-fiasco-stream-deutsch.html",
+                                "title": "Fiasco",
+                                "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1719737516-488871085.jpg"
+                            },
+                            {
+                                "url": "/35524-der-fall-asunta-stream-deutsch.html",
+                                "title": "Der Fall Asunta",
+                                "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1719738567-168137855.jpg"
+                            },
+                            {
                                 "url": "/35361-greyfriars-bobby-stream-deutsch.html",
                                 "title": "Greyfriars Bobby",
                                 "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1717932257-513020192.jpg"
@@ -990,21 +1005,6 @@
                                 "url": "/35416-letzte-spur-berlin-stream-deutsch.html",
                                 "title": "Letzte Spur Berlin",
                                 "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1718707641_186500_entity.jpg"
-                            },
-                            {
-                                "url": "/31045-highschool-dxd-stream-deutsch.html",
-                                "title": "Highschool DxD",
-                                "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2023-05/1682918429-408530500.jpg"
-                            },
-                            {
-                                "url": "/35435-spurlos-in-athen-stream-deutsch.html",
-                                "title": "Spurlos in Athen",
-                                "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1718871869-331429169.jpg"
-                            },
-                            {
-                                "url": "/35436-doktor-dolittle-stream-deutsch.html",
-                                "title": "Doktor Dolittle",
-                                "thumbnail_url": "https://streamcloud.movie/uploads/thumb/300x450-0-80/2024-06/1718872272-343212057.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -1096,8 +1096,14 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/22965-house-of-the-dragon-4k-stream-deutsch.html",
+                        "name": "House of the Dragon - Staffel 2 stream online",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalStateException: No videos!",

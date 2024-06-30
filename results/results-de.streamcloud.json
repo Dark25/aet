@@ -1096,14 +1096,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/22965-house-of-the-dragon-4k-stream-deutsch.html",
-                        "name": "House of the Dragon - Staffel 2 stream online",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalStateException: No videos!",

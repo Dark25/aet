@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg"
+                            },
+                            {
                                 "url": "/animes/kaijuu-8-gou/",
                                 "title": "Kaijuu 8-gou",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg"
@@ -20,11 +25,6 @@
                                 "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
                                 "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
-                            },
-                            {
-                                "url": "/animes/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg"
                             },
                             {
                                 "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
@@ -56,6 +56,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/one-piece-episodio-1110/",
+                                "title": "One Piece – Episódio 1110",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/A6Tg0pgyozyffTBfXlQuhzRX0D5.jpg"
+                            },
                             {
                                 "url": "/episodio/tonari-no-youkai-san-episodio-13/",
                                 "title": "Tonari no Youkai-san – Episódio 13",
@@ -200,11 +205,6 @@
                                 "url": "/episodio/date-a-live-v-episodio-12/",
                                 "title": "Date A Live V – Episódio 12",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/ciByw8zeupqBIuzT8cnhAdg1iTW.jpg"
-                            },
-                            {
-                                "url": "/episodio/kaii-to-otome-to-kamikakushi-episodio-12/",
-                                "title": "Kaii to Otome to Kamikakushi – Episódio 12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/h2ul6lDIbQn39xeW3DP7jnSSvKF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -354,90 +354,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/kaijuu-8-gou/",
-                    "title": "Kaijuu 8-gou",
-                    "description": "Monstros grotescos, semelhantes ao Godzilla e conhecidos como “kaijuu”, têm surgido pelo Japão durante vários anos. Para lutar contra essas feras, uma unidade militar de elite, denominada Corpo de Defesa, arrisca suas vidas todos os dias para proteger a população civil. Após a morte de uma criatura, os “varredores”, empregados pela Corporação Profissional de Limpeza de Kaijuu, são responsáveis por eliminar seus restos mortais. Kafka Hibino, um homem de 32 anos, não está satisfeito com seu trabalho como varredor. Desde jovem, ele sonha em se juntar ao Corpo de Defesa e viver para matar kaijuus. No entanto, após algumas tentativas frustradas, ele desiste de seus sonhos e se conforma com uma vida de mediocridade, que ao menos lhe garante um bom salário. Contudo, a chegada de um jovem recruta ambicioso de 18 anos, Leno Ichikawa, em sua equipe de limpeza faz Kafka reacender seu desejo de entrar para o militar. Após uma série de eventos infelizes e um encontro com o varredor mais novo, Kafka tem um encontro com um kaijuu parasita que entra em seu corpo pela boca, transformando-o em um monstro humanoide. Com seus novos poderes, Kafka decide dar mais uma chance ao seu sonho de vida.\n\nTítulo original: 怪獣８号\nTemporadas: 1\nEpisódios: 12",
-                    "genre": "Ação, Ficção Científica, Militar, Shounen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+                    "url": "/animes/one-piece/",
+                    "title": "One Piece",
+                    "description": "Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. “Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!”. Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis… Assim começou a Grande Era dos Piratas!\n\nTítulo original: ワンピース",
+                    "genre": "Ação, Aventura, Fantasia, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/kaijuu-8-gou-episodio-12/",
-                        "name": "Episódio 12 (Final)",
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/episodio/kaijuu-8-gou-episodio-11/",
-                        "name": "Episódio 11",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.secvideo1.online/get_file/12/def57eae438512d8fee3df7235d3110065fa66e46c/797000/797154/797154_720p.mp4/",
-                        "quality": "Ruplay - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/12/def57eae438512d8fee3df7235d3110065fa66e46c/797000/797154/797154_720p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/12/def57eae438512d8fee3df7235d3110065fa66e46c/797000/797154/797154_720p.mp4/"
-                        }
-                    },
-                    {
-                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABIGXlRVXxkB/d3d90f56d7e6e4d1ef049164702737bf9b726eae8965295b46c23b96ac81dc8c?token=T3c9uNI-KfS9wdV_E31k6Q&ts=1719716900&ht=video/mp4",
-                        "quality": "Player - 720p",
-                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABIGXlRVXxkB/d3d90f56d7e6e4d1ef049164702737bf9b726eae8965295b46c23b96ac81dc8c?token=T3c9uNI-KfS9wdV_E31k6Q&ts=1719716900&ht=video/mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://bakashi.tv"
-                        }
-                    },
-                    {
-                        "url": "https://s-delivery49.mxcontent.net/v/ef824873b1336e63608f2568a11066f7.mp4?s=ERWsZo-AIE1o8v-2H4bfqA&e=1719728196&_t=1719707729",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery49.mxcontent.net/v/ef824873b1336e63608f2568a11066f7.mp4?s=ERWsZo-AIE1o8v-2H4bfqA&e=1719728196&_t=1719707729",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/03/06418/9amfsdtnrpi5_x/index-v1-a1.m3u8?t=GGKpThPgI-ojJ093WO_FR6weHES6GydMhDXNKc_1Mxc&s=1719706596&e=43200&f=32093058&srv=30&asn=8075&sp=5500",
-                        "quality": "Filemoon - 1080p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/03/06418/9amfsdtnrpi5_x/index-v1-a1.m3u8?t=GGKpThPgI-ojJ093WO_FR6weHES6GydMhDXNKc_1Mxc&s=1719706596&e=43200&f=32093058&srv=30&asn=8075&sp=5500",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pjQK8rxpyasry93&expires=1719776593&ip=G0WsDROZKxSHDN&token=xDPSzjAxWXkg",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=pjQK8rxpyasry93&expires=1719776593&ip=G0WsDROZKxSHDN&token=xDPSzjAxWXkg"
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/12/763ac0024ca273253abeafae8cbf7282b0073212ca/797000/797154/797154.mp4/",
-                        "quality": "Ruplay - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/12/763ac0024ca273253abeafae8cbf7282b0073212ca/797000/797154/797154.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/12/763ac0024ca273253abeafae8cbf7282b0073212ca/797000/797154/797154.mp4/"
-                        }
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/12/154e7a64c4ade99f56fd2a8ac4ebc03b43cd53b411/797000/797154/797154_360p.mp4/",
-                        "quality": "Ruplay - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/12/154e7a64c4ade99f56fd2a8ac4ebc03b43cd53b411/797000/797154/797154_360p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/12/154e7a64c4ade99f56fd2a8ac4ebc03b43cd53b411/797000/797154/797154_360p.mp4/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

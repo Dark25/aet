@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Debrid Index (ALL)",
+        "results": {
+            "popular": {
+                "error": "java.lang.Exception: Please enter the token in extension settings.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.Exception: Please enter the token in extension settings.",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "videos": {
+                "result": [
+                    {
+                        "videoUrl": ""
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

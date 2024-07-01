@@ -276,12 +276,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/gimai-seikatsu-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=lAaWaOzpp8FZeX&expires=1719883983&ip=FROsD0ISKxSHDN&token=RiM_mAJ2RyFb",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=lAaWaOzpp8FZeX&expires=1719883983&ip=FROsD0ISKxSHDN&token=RiM_mAJ2RyFb"
+                    }
+                ],
+                "passed": true
             }
         }
     }

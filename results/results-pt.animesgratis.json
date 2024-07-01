@@ -3,8 +3,34 @@
         "name": "Bakashi (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Connection reset",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wD55C85rLI568fxlQUhlTADdwo3.jpg"
+                            },
+                            {
+                                "url": "/animes/black-clover/",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xoqmJpO3jGxEldDCItXuGj2MVTV.jpg"
+                            },
+                            {
+                                "url": "/animes/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg"
+                            },
+                            {
+                                "url": "/animes/naruto-shippuden/",
+                                "title": "Naruto Shippuden",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nRJmByfK9XdtOY73VArcN8KpKVs.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -216,6 +242,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/3mhFxFzTF0faJwPM0937qTxYHeU.jpg"
                             },
                             {
+                                "url": "/animes/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka/",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6U4SotIXAsqOAhsB3gk3m8ushye.jpg"
+                            },
+                            {
+                                "url": "/animes/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-2/",
+                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5Rr5mjyGufwXiffYoIDeXeTgeQy.jpg"
+                            },
+                            {
                                 "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dublado/",
                                 "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Dublado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
@@ -335,26 +371,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb3af548b860/797000/797471/797471_720p.mp4/",
+                        "url": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3febaeac771899/797000/797471/797471_720p.mp4/",
                         "quality": "Ruplay - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb3af548b860/797000/797471/797471_720p.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3febaeac771899/797000/797471/797471_720p.mp4/",
                         "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb3af548b860/797000/797471/797471_720p.mp4/"
+                            "Referer": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3febaeac771899/797000/797471/797471_720p.mp4/"
                         }
                     },
                     {
-                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=q4XClWTNuZ9Yv18b9g75rQ&ts=1719800681&ht=video/mp4",
+                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=2KSseXo1mwmRx6SaXF3CFw&ts=1719822282&ht=video/mp4",
                         "quality": "Player - 720p",
-                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=q4XClWTNuZ9Yv18b9g75rQ&ts=1719800681&ht=video/mp4",
+                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=2KSseXo1mwmRx6SaXF3CFw&ts=1719822282&ht=video/mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://bakashi.tv"
                         }
                     },
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=d3DiP1XlJTKXBf9kwQi-sp4woYxVM7vuJv8o92KajVo&s=1719793033&e=43200&f=32112014&srv=23&asn=8075&sp=5500",
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=huuQyML_dfRdqVK3aFZ07FWZyEaxX9pO2pv1RRvAgR4&s=1719814029&e=43200&f=32112014&srv=23&asn=8075&sp=5500",
                         "quality": "Filemoon - 1080p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=d3DiP1XlJTKXBf9kwQi-sp4woYxVM7vuJv8o92KajVo&s=1719793033&e=43200&f=32112014&srv=23&asn=8075&sp=5500",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=huuQyML_dfRdqVK3aFZ07FWZyEaxX9pO2pv1RRvAgR4&s=1719814029&e=43200&f=32112014&srv=23&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -362,32 +398,32 @@
                         }
                     },
                     {
-                        "url": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=0JU6yudZZEQSoIzYMARkBQ&e=1719814633&_t=1719802348",
+                        "url": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=_PgXe2PN2ze5pBjwSnP4xQ&e=1719835630&_t=1719821208",
                         "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=0JU6yudZZEQSoIzYMARkBQ&e=1719814633&_t=1719802348",
+                        "videoUrl": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=_PgXe2PN2ze5pBjwSnP4xQ&e=1719835630&_t=1719821208",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=VP93JxRKP9FY1l&expires=1719863034&ip=FROsEHMnDS9X&token=e6wtHeXhy48j",
+                        "url": "https://streamtape.com/get_video?id=VP93JxRKP9FY1l&expires=1719884030&ip=F0qQKRWADS9XKxR&token=mDdOGc-LKXMt",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=VP93JxRKP9FY1l&expires=1719863034&ip=FROsEHMnDS9X&token=e6wtHeXhy48j"
+                        "videoUrl": "https://streamtape.com/get_video?id=VP93JxRKP9FY1l&expires=1719884030&ip=F0qQKRWADS9XKxR&token=mDdOGc-LKXMt"
                     },
                     {
-                        "url": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa04fcc784834/797000/797471/797471.mp4/",
+                        "url": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa00360076a79/797000/797471/797471.mp4/",
                         "quality": "Ruplay - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa04fcc784834/797000/797471/797471.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa00360076a79/797000/797471/797471.mp4/",
                         "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa04fcc784834/797000/797471/797471.mp4/"
+                            "Referer": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa00360076a79/797000/797471/797471.mp4/"
                         }
                     },
                     {
-                        "url": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce833a61bb39/797000/797471/797471_360p.mp4/",
+                        "url": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce9ce3f067d6/797000/797471/797471_360p.mp4/",
                         "quality": "Ruplay - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce833a61bb39/797000/797471/797471_360p.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce9ce3f067d6/797000/797471/797471_360p.mp4/",
                         "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce833a61bb39/797000/797471/797471_360p.mp4/"
+                            "Referer": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce9ce3f067d6/797000/797471/797471_360p.mp4/"
                         }
                     }
                 ],

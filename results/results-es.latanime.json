@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ai-tenchi-muyo-latino",
+                                "title": "Ai Tenchi Muyo! Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/ai-tenchi-muyo-latino-1719792669.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-hashira-geiko-hen-latino",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kimetsu-no-yaiba-hashira-geiko-hen-latino-1719783834.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/perfecto-infiltrado-latino",
                                 "title": "Perfecto Infiltrado Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/perfecto-infiltrado-latino-1719627209.jpg?v=1.5"
@@ -145,16 +155,6 @@
                                 "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-castellano",
                                 "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/nanatsu-no-taizai-mokushiroku-no-yonkishi-castellano-1706828043.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/tsuki-ga-michibiku-isekai-douchuu-s2-latino",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/tsuki-ga-michibiku-isekai-douchuu-s2-latino-1706560841.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-latino",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/nanatsu-no-taizai-mokushiroku-no-yonkishi-latino-1706402752.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,37 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/perfecto-infiltrado-latino",
-                    "title": "Perfecto Infiltrado Latino",
-                    "description": "En un laboratorio remoto en una isla solitaria, vive Shiki Magata, una programadora prodigio aislada desde su adolescencia. El profesor adjunto Sohei Saikawa y su alumna Moe Nishinosono desean conocerla, pero se ven involucrados en una escena del crimen. Aunque nadie parece haber ingresado a la habitación de Shiki, allí yace su cadáver, con un vestido de novia y las extremidades amputadas. Así, Saikawa y Moe comienzan a investigar este misterioso asesinato en una habitación cerrada. Sin embargo, con el peligro acechando, este podría ser el último misterio que intenten resolver.",
-                    "genre": "Ciencia Ficción, Misterio, Psicológico, Suspenso",
+                    "url": "/anime/ai-tenchi-muyo-latino",
+                    "title": "Ai Tenchi Muyo! Latino",
+                    "description": "\"¡¿Tenchi se convierte en profesor de una escuela exclusiva para chicas?!\" Una vez más, el mundo enfrenta una situación crítica debido a problemas causados por Washu. Para contrarrestar esta crisis, Tenchi Masaki decide unirse como profesor practicante en la Academia Junai, una escuela femenina en la Prefectura de Okayama. Sin embargo, debido a su naturaleza propensa a meterse en problemas, Tenchi se ve envuelto en varios dilemas. Así comienza su nueva vida como docente, enfrentando dificultades con las chicas del Consejo Estudiantil y el Club de Ciencias. ¿Podrá usar toda su astucia para cumplir con su labor?",
+                    "genre": "Ciencia Ficción, Comedia, Ecchi",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/perfecto-infiltrado-latino-episodio-1",
-                        "name": "Perfecto Infiltrado Latino Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxxyqedz3b4quuoegrbe2qvislte74jq744v7lk3larf7jhg5wdu6mos2pvv3j2qapu4bfz/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxxyqedz3b4quuoegrbe2qvislte74jq744v7lk3larf7jhg5wdu6mos2pvv3j2qapu4bfz/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

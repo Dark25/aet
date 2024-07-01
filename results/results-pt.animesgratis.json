@@ -3,59 +3,18 @@
         "name": "Bakashi (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2/",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qITTVYkhDr66r2nYkeMc2KUj8k9.jpg"
-                            },
-                            {
-                                "url": "/animes/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/acKdAHRH4ypzQ4jnkjCDC7Ac9jH.jpg"
-                            },
-                            {
-                                "url": "/animes/kaijuu-8-gou/",
-                                "title": "Kaijuu 8-gou",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg"
-                            },
-                            {
-                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-3/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mu4F6a4ImUT5xqYlc0IcwHaALKE.jpg"
-                            },
-                            {
-                                "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
-                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
-                            },
-                            {
-                                "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
-                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wD55C85rLI568fxlQUhlTADdwo3.jpg"
-                            },
-                            {
-                                "url": "/animes/upando-sozinho/",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zn7hOslLYG1U2m06jGJJln8Ry7t.jpg"
-                            },
-                            {
-                                "url": "/animes/jujutsu-kaisen/",
-                                "title": "Jujutsu Kaisen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3cKEEthevZvKRelF4Ko6cUnUdu.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketException: Connection reset",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-8/",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/nOyjDNvJJf3BX6lBkCQ23L2txU8.jpg"
+                            },
                             {
                                 "url": "/episodio/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episodio-12/",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 – Episódio 12",
@@ -200,11 +159,6 @@
                                 "url": "/episodio/wind-breaker-episodio-13/",
                                 "title": "Wind Breaker – Episódio 13",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/23dU6mJNsvdFdUdUXpZ5FkZ0s2U.jpg"
-                            },
-                            {
-                                "url": "/episodio/isekai-suicide-squad-episodio-3/",
-                                "title": "Isekai Suicide Squad – Episódio 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/phB1qjPwCjHxuSDBTST70ii5L44.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -354,11 +308,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2/",
-                    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-                    "description": "A segunda parte de Mushoku Tensei II: Isekai Ittara Honki Dasu.\n\nTítulo original: 無職転生 ～異世界行ったら本気だす～\nTemporadas: 2\nEpisódios: 47",
-                    "genre": "Aventura, Drama, Ecchi, Fantasia, Isekai, Reencarnação",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qITTVYkhDr66r2nYkeMc2KUj8k9.jpg",
+                    "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
+                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                    "description": "Uma nova temporada de Kimetsu no Yaiba.\n\nTítulo original: 鬼滅の刃",
+                    "genre": "Ação, Fantasia, Histórico, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/wD55C85rLI568fxlQUhlTADdwo3.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -366,14 +320,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodio/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episodio-12/",
-                        "name": "Episódio 12 (Final)",
+                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-8/",
+                        "name": "Episódio 8 (Final)",
                         "episode_number": 0.0
                     },
                     {
-                        "url": "/episodio/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episodio-11/",
-                        "name": "Episódio 11",
-                        "episode_number": 11.0
+                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-7/",
+                        "name": "Episódio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -381,26 +335,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www.secvideo1.online/get_file/10/23f2b79db2544a9ce85442c05ab450606863dc6bc6/797000/797439/797439_720p.mp4/",
+                        "url": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb3af548b860/797000/797471/797471_720p.mp4/",
                         "quality": "Ruplay - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/10/23f2b79db2544a9ce85442c05ab450606863dc6bc6/797000/797439/797439_720p.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb3af548b860/797000/797471/797471_720p.mp4/",
                         "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/10/23f2b79db2544a9ce85442c05ab450606863dc6bc6/797000/797439/797439_720p.mp4/"
+                            "Referer": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb3af548b860/797000/797471/797471_720p.mp4/"
                         }
                     },
                     {
-                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEKXlRVVQNc/2d299bf203fe74e83d302f76367683f202490ad158a3642df3aa84eba69cb161?token=stMYgPGktQTKTe2cT8T5xA&ts=1719780105&ht=video/mp4",
+                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=q4XClWTNuZ9Yv18b9g75rQ&ts=1719800681&ht=video/mp4",
                         "quality": "Player - 720p",
-                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEKXlRVVQNc/2d299bf203fe74e83d302f76367683f202490ad158a3642df3aa84eba69cb161?token=stMYgPGktQTKTe2cT8T5xA&ts=1719780105&ht=video/mp4",
+                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=q4XClWTNuZ9Yv18b9g75rQ&ts=1719800681&ht=video/mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://bakashi.tv"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06421/ebryd8sz4kmz_x/index-v1-a1.m3u8?t=pYIRBRGHILXgDsEimw9ZwTPq_k3BVlAEdzSkSKnhhGE&s=1719770769&e=43200&f=32109618&srv=12&asn=8075&sp=5500",
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=d3DiP1XlJTKXBf9kwQi-sp4woYxVM7vuJv8o92KajVo&s=1719793033&e=43200&f=32112014&srv=23&asn=8075&sp=5500",
                         "quality": "Filemoon - 1080p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06421/ebryd8sz4kmz_x/index-v1-a1.m3u8?t=pYIRBRGHILXgDsEimw9ZwTPq_k3BVlAEdzSkSKnhhGE&s=1719770769&e=43200&f=32109618&srv=12&asn=8075&sp=5500",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=d3DiP1XlJTKXBf9kwQi-sp4woYxVM7vuJv8o92KajVo&s=1719793033&e=43200&f=32112014&srv=23&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -408,24 +362,32 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=k3Mp1lLaeOHOMV3&expires=1719840771&ip=F0qQKRWADS9XKxR&token=8RXYL063CZEa",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=k3Mp1lLaeOHOMV3&expires=1719840771&ip=F0qQKRWADS9XKxR&token=8RXYL063CZEa"
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/10/9e6de0f3a021765b7ec30f4354a74af4545b5e6f99/797000/797439/797439.mp4/",
-                        "quality": "Ruplay - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/10/9e6de0f3a021765b7ec30f4354a74af4545b5e6f99/797000/797439/797439.mp4/",
+                        "url": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=0JU6yudZZEQSoIzYMARkBQ&e=1719814633&_t=1719802348",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=0JU6yudZZEQSoIzYMARkBQ&e=1719814633&_t=1719802348",
                         "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/10/9e6de0f3a021765b7ec30f4354a74af4545b5e6f99/797000/797439/797439.mp4/"
+                            "Referer": "https://mixdrop.co/"
                         }
                     },
                     {
-                        "url": "https://www.secvideo1.online/get_file/10/e51bfd270b568d2f9131b3b8be94a8486d44594dc8/797000/797439/797439_360p.mp4/",
-                        "quality": "Ruplay - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/10/e51bfd270b568d2f9131b3b8be94a8486d44594dc8/797000/797439/797439_360p.mp4/",
+                        "url": "https://streamtape.com/get_video?id=VP93JxRKP9FY1l&expires=1719863034&ip=FROsEHMnDS9X&token=e6wtHeXhy48j",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=VP93JxRKP9FY1l&expires=1719863034&ip=FROsEHMnDS9X&token=e6wtHeXhy48j"
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa04fcc784834/797000/797471/797471.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa04fcc784834/797000/797471/797471.mp4/",
                         "headers": {
-                            "Referer": "https://www.secvideo1.online/get_file/10/e51bfd270b568d2f9131b3b8be94a8486d44594dc8/797000/797439/797439_360p.mp4/"
+                            "Referer": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa04fcc784834/797000/797471/797471.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce833a61bb39/797000/797471/797471_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce833a61bb39/797000/797471/797471_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce833a61bb39/797000/797471/797471_360p.mp4/"
                         }
                     }
                 ],

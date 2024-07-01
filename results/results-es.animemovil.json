@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/gimai-seikatsu",
+                                "title": "Gimai Seikatsu",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4217.webp"
+                            },
+                            {
                                 "url": "/boku-no-tsuma-wa-kanjou-ga-nai",
                                 "title": "Boku no Tsuma wa Kanjou ga Nai",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Sasayaku You ni Koi wo Utau",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4198.webp"
-                            },
-                            {
-                                "url": "/karasu-wa-aruji-wo-erabanai",
-                                "title": "Karasu wa Aruji wo Erabanai",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4197.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,53 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/boku-no-tsuma-wa-kanjou-ga-nai",
-                    "title": "Boku no Tsuma wa Kanjou ga Nai",
-                    "description": "Takuma es un chico soltero que no hace más que ir al trabajo y volver a casa. Demasiado cansado para hacer las tareas del hogar, decide conseguir un robot para cocinar y mantener la casa. \"Mina-chan\" es una excelente ama de llaves, y Takuma bromea diciendo que debería convertirse en su esposa. Mina se toma en serio la broma de Takuma, y poco a poco comienzan a hacer más cosas juntos, como tener un picnic al aire libre. Con el tiempo, Takuma comienza a enamorarse de Mina, pero, ¿pueden un humano y un robot tener una relación equitativa y amorosa?",
-                    "genre": "Romance, Comedia, Seinen, Ciencia Ficción",
+                    "url": "/gimai-seikatsu",
+                    "title": "Gimai Seikatsu",
+                    "description": "Yuuta Asamura tiene una nueva hermanastra después de que su padre se vuelve a casar, Saki Ayase, quien resulta ser la belleza número uno del año escolar. Se prometen mutuamente no ser demasiado cercanos, no ser demasiado opuestos y simplemente mantener una distancia vaga y cómoda, habiendo aprendido valores importantes sobre las relaciones entre hombres y mujeres de las relaciones anteriores de sus padres. Saki, que ha trabajado sola por el bien de su familia, no sabe cómo confiar adecuadamente en los demás, mientras que Yuuta no está seguro de cómo tratarla realmente. Al encontrarse en un terreno bastante igualitario, estos dos aprenden gradualmente la comodidad de vivir juntos. Su relación progresa de extraños a amigos a medida que pasan los días. Esta es una historia que algún día puede conducir al amor.",
+                    "genre": "Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4216.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4217.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/boku-no-tsuma-wa-kanjou-ga-nai-1",
-                        "name": "Episodio 1",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxzsw4dz3b4quuoekra2j2wcpvm3dbwghv6rsy3mo2pu7ydyb2hs2klimfbstmctnmrkz4l/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxzsw4dz3b4quuoekra2j2wcpvm3dbwghv6rsy3mo2pu7ydyb2hs2klimfbstmctnmrkz4l/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m140.uqload.to/3rfkv6qet5w2q4drdlk7vmpsax27xx3deeb5stfx6tw3mup3wx2iqxsz4mya/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m140.uqload.to/3rfkv6qet5w2q4drdlk7vmpsax27xx3deeb5stfx6tw3mup3wx2iqxsz4mya/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=BbxRA3XwJlUyxql&expires=1719840731&ip=F0qQKRWZD19XKxR&token=f8kYp-ZqaJXX",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=BbxRA3XwJlUyxql&expires=1719840731&ip=F0qQKRWZD19XKxR&token=f8kYp-ZqaJXX"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

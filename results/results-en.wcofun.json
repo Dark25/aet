@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kit-n-kate-episode-13-and-what-if-dressed-to-ill-quiet-time-something-fishy",
+                        "name": "Season 1 - Episode 13",
+                        "episode_number": 113.0
+                    },
+                    {
+                        "url": "/kit-n-kate-episode-12-the-pet-set-the-chew-chew-train-now-were-cookin-the-blame-game",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmrJMz8wyMQN8WMIGA3T3NRBrsOGgbT_U1EpCwpRzN667icVIu0ekm-Q-3uvg72OIW_3wFH96m4HKuMdgrAZUygf0jW8laqVODQYhwj6S4vNAfOY-9v95dTmQh2XieEOuwso5kgRvpyXVaC2Sa4ISk0kkWSHbReXC_axPb4x-g0QU90BarGTkg28s5z5odTgCx1xSF3XSV1JI4pXlsLatXR71li9yqDDLyECMTG8P5mmmfI_spqELqgsIitF3gmJULR7TrlSCQm7xrB2FhGflWveXyGe99tlZ5SuTc9IsyaPvv-aEjA7naRlAbZQrIRXdg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmrJMz8wyMQN8WMIGA3T3NRBrsOGgbT_U1EpCwpRzN667icVIu0ekm-Q-3uvg72OIW_3wFH96m4HKuMdgrAZUygf0jW8laqVODQYhwj6S4vNAfOY-9v95dTmQh2XieEOuwso5kgRvpyXVaC2Sa4ISk0kkWSHbReXC_axPb4x-g0QU90BarGTkg28s5z5odTgCx1xSF3XSV1JI4pXlsLatXR71li9yqDDLyECMTG8P5mmmfI_spqELqgsIitF3gmJULR7TrlSCQm7xrB2FhGflWveXyGe99tlZ5SuTc9IsyaPvv-aEjA7naRlAbZQrIRXdg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmrJMz8wyMQN8WMIGA3T3NSZadOIDzYrtjZ6jhwZNXBAcARdzciF6FH-QAEkl0pwlZyRSzOmZ58FrGDDUBDg8Uo5iDpSwTtHzKEuh3tgSjO3-PekIKG-dBJld1xw82fd8Hw3NS5zjVuUSt_bb3B6xzIJfw_mfVIiJ3wj1SbJNqhcv8qyPiu2-tx_9oSY2xudTzo7BV_K4jyVgT0FWjgD1md1ZLYH1ZXDwM1M-mdwLeNIEp5qoiIZ-DBMXUhbS3ORuu2qEhuAJrWtXGUpV2y_bkk2sqrj1FERT40zKuTO6Hg_",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmrJMz8wyMQN8WMIGA3T3NSZadOIDzYrtjZ6jhwZNXBAcARdzciF6FH-QAEkl0pwlZyRSzOmZ58FrGDDUBDg8Uo5iDpSwTtHzKEuh3tgSjO3-PekIKG-dBJld1xw82fd8Hw3NS5zjVuUSt_bb3B6xzIJfw_mfVIiJ3wj1SbJNqhcv8qyPiu2-tx_9oSY2xudTzo7BV_K4jyVgT0FWjgD1md1ZLYH1ZXDwM1M-mdwLeNIEp5qoiIZ-DBMXUhbS3ORuu2qEhuAJrWtXGUpV2y_bkk2sqrj1FERT40zKuTO6Hg_"
+                    }
+                ],
+                "passed": true
             }
         }
     }

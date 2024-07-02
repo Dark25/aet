@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasuuketsu/",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://anime4up.top/wp-content/uploads/2024/07/Ashampoo_Snap_2024.07.02_15h40m22s_001_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/shy-2nd-season/",
                                 "title": "Shy 2nd Season",
                                 "thumbnail_url": "https://anime4up.top/wp-content/uploads/2024/07/filters_quality95formatwebp-215x300.webp"
@@ -240,11 +245,6 @@
                                 "url": "/anime/yozakura-san-chi-no-daisakusen/",
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "thumbnail_url": "https://anime4up.top/wp-content/uploads/2024/04/Ashampoo_Snap_2024.04.07_21h12m35s_001_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/sentai-daishikkaku/",
-                                "title": "Sentai Daishikkaku",
-                                "thumbnail_url": "https://anime4up.top/wp-content/uploads/2024/04/sentai_daishikkaku_11639-215x300.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -359,73 +359,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/shy-2nd-season/",
-                    "title": "Shy 2nd Season",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: صيف 2024\nالمصدر: مانجا\n\nالموسم الثاني من الأنمي.",
-                    "genre": "أكشن, دراما, قوى خارقة, شونين, TV, يعرض الان, صيف 2024",
+                    "url": "/anime/tasuuketsu/",
+                    "title": "Tasuuketsu",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 23 دقيقة\nالموسم: صيف 2024\nالمصدر: مانجا\n\nالقصة تتبع مجموعة مكونة من خمسة أفراد في عالم اختفى فيه الناس فجأة. يقوم “الإمبراطور” الغامض بجمع خمسة أشخاص عن طريق رسائل مجهولة ويجعلهم يشاركون في لعبة. يجيب المشاركون على السؤال “هل ترغب في الحياة أم الموت؟“، ولكن للعبة قاعدة واحدة فقط: “الأغلب يموتون“.",
+                    "genre": "أكشن, دراما, فضائي, نفسي, العاب, TV, يعرض الان, صيف 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.top/wp-content/uploads/2024/07/filters_quality95formatwebp-723x1024.webp",
+                    "thumbnail_url": "https://anime4up.top/wp-content/uploads/2024/07/Ashampoo_Snap_2024.07.02_15h40m22s_001_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/shy-2nd-season-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m60.uqload.to/3rfkmsdit5w2q4drdll7vpneayvqzi2o6tacqnkuopygckugcjxvpbqsae4q/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m60.uqload.to/3rfkmsdit5w2q4drdll7vpneayvqzi2o6tacqnkuopygckugcjxvpbqsae4q/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://ans-a.segavid.cfd/hls/vxzxhhdkrgqfycihmrn7zwfscxwjmvpeovj6tkyumuxjwt2gfjiq4qbhzajq/index-v1-a1.m3u8",
-                        "quality": "Vidshare: 480p",
-                        "videoUrl": "https://ans-a.segavid.cfd/hls/vxzxhhdkrgqfycihmrn7zwfscxwjmvpeovj6tkyumuxjwt2gfjiq4qbhzajq/index-v1-a1.m3u8"
-                    },
-                    {
-                        "url": "https://a2.mp4upload.com:183/d/xwx3ky4dz3b4quuoeorbyj2slnf7jkzqupqnqltj7bt7czl2cfgsak2gcqfkx7qgzh6vtx24/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwx3ky4dz3b4quuoeorbyj2slnf7jkzqupqnqltj7bt7czl2cfgsak2gcqfkx7qgzh6vtx24/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=4&sig=oYx_4F9hOJ8&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=4&sig=oYx_4F9hOJ8&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754"
-                    },
-                    {
-                        "url": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=0&sig=KwdnnaE_iE0&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=0&sig=KwdnnaE_iE0&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754"
-                    },
-                    {
-                        "url": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=1&sig=lYO4mkm2uUc&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=1&sig=lYO4mkm2uUc&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754"
-                    },
-                    {
-                        "url": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=2&sig=YpMvyfjt6Zo&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd460.mycdn.me/?expires=1720008353936&srcIp=20.81.158.168&pr=10&srcAg=GECKO&ms=45.136.20.77&type=2&sig=YpMvyfjt6Zo&ct=0&urls=45.136.21.4&clientType=0&zs=43&id=6604851841754"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

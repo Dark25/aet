@@ -137,6 +137,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20152/fuerza-extrema.html",
+                                "title": "Fuerza extrema",
+                                "description": "El detective Lin, que establece una unidad especial para arrestar a un ladrón de motocicletas y un sindicato del crimen en Foshan, mientras su esposa embarazada es atacada....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20152.webp"
+                            },
+                            {
+                                "url": "/pelicula/20151/el-espiritu-de-las-tinieblas.html",
+                                "title": "El Espiritu De Las Ti",
+                                "description": "Amy, una joven, está huyendo con su pequeño hijo Adrian de su abusiva exnovia. Cuando el pasado surge para perseguirlos, deben enfrentar las fuerzas que los amenazan tanto desde afuera como desde adentro....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20151.webp"
+                            },
+                            {
                                 "url": "/pelicula/20150/juanpis-gonzalez-el-presidente-de-la-gente.html",
                                 "title": "Juanpis González: El",
                                 "description": "Juanpis González llega a ser presidente de Colombia. El hombre más malcriado del país tiene que superar una difícil prueba impuesta por su abuelo para heredar la fortuna familiar, a través de la cual encuentra la que, cree, es su vocación: hacer política, pero de una forma no siempre lícita....",
@@ -243,18 +255,6 @@
                                 "title": "Sight",
                                 "description": "La historia del doctor Ming Wang, el cirujano ocular más influyente del mundo. Este reputado oftalmólogo se enfrenta a la misión imposible de salvar la vista de un huérfano ciego, pero se topa con recuerdos de su propio pasado traumático....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20133.webp"
-                            },
-                            {
-                                "url": "/pelicula/20132/multiverso-realidad-paralela.html",
-                                "title": "Multiverso Realidad P",
-                                "description": "Cuatro universitarios brillantes se ven obligados a enfrentarse a sí mismos de forma aterradora cuando su experimento de física cuántica los lleva a una enmarañada existencia paralela que hace que se cuestionen quiénes son y qué es real....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20132.webp"
-                            },
-                            {
-                                "url": "/pelicula/20131/la-estrella-azul.html",
-                                "title": "La estrella azul",
-                                "description": "Años 90. Mauricio Aznar, un famoso rockero español recorre Latinoamérica buscando reencontrarse con su vocación dejando atrás el fantasma de la adicción. Allí conoce a Don Carlos, un anciano músico en horas bajas que, a pesar de ser autor de algunas de las canciones más famosas del folclore...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20131.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dood.ws/e/aq6kuo21b1bo",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgjfh7s3virbia/mbn7z4ocz5~Qn888Dw83D?token=faa3a98f24ktc5woxwz3px7v&expiry=1719943505644",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

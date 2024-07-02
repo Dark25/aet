@@ -509,8 +509,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: mixdrop.ms: Name or service not known",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery43.mxcontent.net/v/6388658350b2576fcf16729e96ce217d.mp4?s=rhhY_lXNrq2XWvrUVQaiAA&e=1719965133&_t=1719944491",
+                        "quality": "MixDrop(SERVIDOR 3)",
+                        "videoUrl": "https://s-delivery43.mxcontent.net/v/6388658350b2576fcf16729e96ce217d.mp4?s=rhhY_lXNrq2XWvrUVQaiAA&e=1719965133&_t=1719944491",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

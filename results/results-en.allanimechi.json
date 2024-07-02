@@ -27,6 +27,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png"
                             },
                             {
+                                "url": "QusmPJR29sg3G35CB",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-JC56ExYSC2YB.jpg"
+                            },
+                            {
                                 "url": "Jv25h5eoCnZDMSoL3",
                                 "title": "Wind Breaker",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
@@ -35,11 +40,6 @@
                                 "url": "9ztGdmAXbsZAjgT8T",
                                 "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170130-tvhn13WYQ2qM.jpg"
-                            },
-                            {
-                                "url": "QusmPJR29sg3G35CB",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-JC56ExYSC2YB.jpg"
                             },
                             {
                                 "url": "KB5XDvwPdtLFEkoQZ",
@@ -117,14 +117,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158709-WFA0RHloDvPl.jpg"
                             },
                             {
-                                "url": "zMSJqj9smuvAJJP2d",
-                                "title": "Kenka Dokugaku",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174653-OsnK4BuENjUT.jpg"
-                            },
-                            {
                                 "url": "SnAA5xQmny6aXeFHo",
                                 "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156023-cY4NC8gCcAg7.jpg"
+                            },
+                            {
+                                "url": "zMSJqj9smuvAJJP2d",
+                                "title": "Kenka Dokugaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174653-OsnK4BuENjUT.jpg"
                             },
                             {
                                 "url": "gAcGCcMENjbWhBnR9",
@@ -147,14 +147,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
                             },
                             {
-                                "url": "2tzuyxhPsGHxDLe9z",
-                                "title": "Dragon Ball Super",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
-                            },
-                            {
                                 "url": "DkKWjEA3A7m5kCJWp",
                                 "title": "Hunter x Hunter (2011)",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png"
+                            },
+                            {
+                                "url": "2tzuyxhPsGHxDLe9z",
+                                "title": "Dragon Ball Super",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -163,12 +163,324 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "8uWZHXsgmcubcy5PT",
+                                "title": "Boukyaku Battery (TV)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167927-eHWavr99BeTj.png"
+                            },
+                            {
+                                "url": "29biW3uJAuna5WJj6",
+                                "title": "The hero in the apocalypse",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-hero-in-the-apocalypse.png"
+                            },
+                            {
+                                "url": "nK2Sf5kD4JZaFRoxW",
+                                "title": "Reborn As A Monster! What The Hell",
+                                "thumbnail_url": "https://gogocdn.net/cover/reborn-as-a-monster-what-the-hell.png"
+                            },
+                            {
+                                "url": "ox2opWHHwh2d663NG",
+                                "title": "Ling Jian Zun Season 4",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120272-v1UXPGEyyVDb.png"
+                            },
+                            {
+                                "url": "d2PMyPbDAthsitf5x",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
+                            {
+                                "url": "f4x8gxsF6ZXdWPwFQ",
+                                "title": "Touch 3: Kimi ga Toorisugita Ato ni: Don't Pass Me By",
+                                "thumbnail_url": "https://gogocdn.net/cover/touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by.png"
+                            },
+                            {
+                                "url": "idjwgL7NsX9LYFMab",
+                                "title": "Touch 2: Sayonara no Okurimono",
+                                "thumbnail_url": "https://gogocdn.net/cover/touch-2-sayonara-no-okurimono.png"
+                            },
+                            {
+                                "url": "Pu2NRGQNWJFKchseW",
+                                "title": "Touch: Sebangou no Nai Ace",
+                                "thumbnail_url": "https://gogocdn.net/cover/touch-sebangou-no-nai-ace.png"
+                            },
+                            {
+                                "url": "B84ZwzdAYvnJyNAyf",
+                                "title": "Sukuwareru Ramiris",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b146503-7YahVCQ9T039.png"
+                            },
+                            {
+                                "url": "A5SQqDayQ3p4ArMvk",
+                                "title": "Sheng Zu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1958/141075.jpg"
+                            },
+                            {
+                                "url": "48LSqzbA9D6Bvhihf",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1537/111213.jpg"
+                            },
+                            {
+                                "url": "oCYNhMf2R6t9MxLm5",
+                                "title": "Yao Shen Ji 8th Season (2024)",
+                                "thumbnail_url": "https://gogocdn.net/cover/yao-shen-ji-8th-season-2024-1714457740.png"
+                            },
+                            {
+                                "url": "hEQboPQtuKx2N2Lmb",
+                                "title": "Lian Qi Shi Wan Nian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
+                            },
+                            {
+                                "url": "r6bYnFT6WC823HEp9",
+                                "title": "Jueshi Zhan Hun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132461-QEHBKbouieSm.png"
+                            },
+                            {
+                                "url": "vkAhPCDetQztGQJpi",
+                                "title": "Tunshi Xingkong Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134283-VKSWjndQWceF.png"
+                            },
+                            {
+                                "url": "XQxFWACgTTP7mWmzQ",
+                                "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161474-K0hRhv7rBNff.jpg"
+                            },
+                            {
+                                "url": "yCkrq8Mdgs6t983iL",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145728-YUKXjN2E81Pq.jpg"
+                            },
+                            {
+                                "url": "5QN3sznB2tFoR8zww",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1007/141625.jpg"
+                            },
+                            {
+                                "url": "ggpPkwsAN5wC6qQRv",
+                                "title": "Shy Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171748-yigmfmsgq6SR.jpg"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
+                            },
+                            {
+                                "url": "6HfY2fsLGhtLv9tGX",
+                                "title": "I Am the Monster Overlord",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-am-the-monster-overlord.png"
+                            },
+                            {
+                                "url": "qCi9BjaQeLJtDxv3u",
+                                "title": "Return of the Immortal",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/return-of-the-immortal.png"
+                            },
+                            {
+                                "url": "zpmYwTd9wCuna9tFC",
+                                "title": "Sanguo Sha: Taiping Tianshu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1244/143816.jpg"
+                            },
+                            {
+                                "url": "3Gk8ZqbZTxpEg7dyo",
+                                "title": "Wan Jie Xian Zong Season 5",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136146-gkYucz4cEkGg.jpg"
+                            },
+                            {
+                                "url": "uAcLqrDzdyFFzG6Q2",
+                                "title": "I was invincible long ago",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-was-invincible-long-ago.png"
+                            },
+                            {
+                                "url": "657gwR8WxZEF7c3on",
+                                "title": "My Wife Is a Heavenly Big Shot",
+                                "thumbnail_url": "https://gogocdn.net/cover/my-wife-is-a-heavenly-big-shot.png"
+                            },
+                            {
+                                "url": "aAr4nGaZ3tMh9LFHw",
+                                "title": "The BestMaestro Season 4",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-bestmaestro-season-4.png"
+                            },
+                            {
+                                "url": "6qEPZgnCodN2yEugp",
+                                "title": "I Really Don't Want to Be a Fairy",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/i-really-dont-want-to-be-a-fairy.png"
+                            },
+                            {
+                                "url": "akAAFoxCzW7S7W6Mo",
+                                "title": "Jin Can Wangshi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155315-ok2f4vFZ033C.png"
+                            },
+                            {
+                                "url": "ZDxMfy9mmxEbjryKP",
+                                "title": "Ni Tian Zhizun",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1099/117046.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "d2PMyPbDAthsitf5x",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
+                            },
+                            {
+                                "url": "QusmPJR29sg3G35CB",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-JC56ExYSC2YB.jpg"
+                            },
+                            {
+                                "url": "NfBeMoZbfr5Ko3FWF",
+                                "title": "The Snack World (TV)",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/83341.jpg"
+                            },
+                            {
+                                "url": "Lt4j4kXftk2A7a2Ag",
+                                "title": "I Feel So Good In Mysterious World",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/i-feel-so-good-in-mysterious-world.png"
+                            },
+                            {
+                                "url": "6oDA6BDxtLCJq5FZx",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120218-J6LXCFOHO9cT.jpg"
+                            },
+                            {
+                                "url": "MsQMzfMtztc93Eiui",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172395-TESU4M0kQ94c.jpg"
+                            },
+                            {
+                                "url": "9ztGdmAXbsZAjgT8T",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170130-tvhn13WYQ2qM.jpg"
+                            },
+                            {
+                                "url": "gQNFQMggjDNXrpn4X",
+                                "title": "Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg"
+                            },
+                            {
+                                "url": "ncNQiQiTh4Zwk4rAv",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg"
+                            },
+                            {
+                                "url": "7cTdxtzvohmd79Bt4",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
+                            },
+                            {
+                                "url": "2BfL69oW9fbiRJwgC",
+                                "title": "Araiguma Rascal",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/araiguma-rascal.png"
+                            },
+                            {
+                                "url": "DAtgTFpAHTCvZkBvb",
+                                "title": "Wanmei Shijie 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137757-6ZAUpMhSWrm2.jpg"
+                            },
+                            {
+                                "url": "xAvnoBLp8Fqhy6utY",
+                                "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97995-VO6rXNU0fmBq.jpg"
+                            },
+                            {
+                                "url": "X7PffJcuAthGCcLkd",
+                                "title": "Minami no Niji no Lucy",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1769/102083.jpg"
+                            },
+                            {
+                                "url": "pgG55CyYEDacBfXc4",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158028-gQ2vnz7LEb0E.jpg"
+                            },
+                            {
+                                "url": "cncuwM4aTfL6AhZrf",
+                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152072-W9oSGZjsKiqm.jpg"
+                            },
+                            {
+                                "url": "pp62vn9QWb2TAd224",
+                                "title": "Jin Zhan Fashi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137660-4FFdGnJ5AkjS.png"
+                            },
+                            {
+                                "url": "SZvdTvpjESzrMk5Fa",
+                                "title": "My Disciples are All Over the World",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/my-disciples-are-all-over-the-world-1705028905.png"
+                            },
+                            {
+                                "url": "5iv3T3SgdChc2YMwx",
+                                "title": "Sweep the Comprehension World With One Move",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/sweep-the-comprehension-world-with-one-move.png"
+                            },
+                            {
+                                "url": "MGJWWRWEdXWNyX6TX",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg"
+                            },
+                            {
+                                "url": "WjbWDFPRq9kAxwsQ6",
+                                "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154214-Uf9x7mY4IJJr.jpg"
+                            },
+                            {
+                                "url": "2xLcE4L9uhcWehxpj",
+                                "title": "Kikou Kai Galient OVA",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10751.jpg"
+                            },
+                            {
+                                "url": "rtt7efsitnvtH48WG",
+                                "title": "Become the Castellan in Another World",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/become-the-castellan-in-another-world.png"
+                            },
+                            {
+                                "url": "7miGTFQCmHR5fbZpN",
+                                "title": "K SEVEN STORIES: SIDE:GREEN ~Uwagaki Sekai~",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102347-jKbfW7sVXzwh.png"
+                            },
+                            {
+                                "url": "rTXytPMkdFrpv7r2G",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167820-Xd8CEIAA5N3A.jpg"
+                            },
+                            {
+                                "url": "uvaA8ufcJbrFmF8Sb",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-IjirxRK26O03.png"
+                            },
+                            {
+                                "url": "iYwbaywiQ86vCc3cf",
+                                "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155418-wLWulAHYVrE5.jpg"
+                            },
+                            {
+                                "url": "znhCkJM6meke2aFRC",
+                                "title": "World Forbidden Zone",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/world-forbidden-zone.png"
+                            },
+                            {
+                                "url": "robkG4KFfWdwWiHZy",
+                                "title": "Peter Pan no Bouken Specials",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/61493.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -200,6 +512,17 @@
             "videos": {
                 "result": [
                     {
+                        "url": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
                         "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
                         "quality": "Luf-mp4 - hls P - 1080p",
                         "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
@@ -211,9 +534,31 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 1080p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "url": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/HBpLfge_pljtA11zpvE8Pg/1719957467/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -247,39 +592,6 @@
                         "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
                         "quality": "Luf-mp4 - hls P - 360p",
                         "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playtaku.net",
-                            "Referer": "https://playtaku.net/"
-                        }
-                    },
-                    {
-                        "url": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 720p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playtaku.net",
-                            "Referer": "https://playtaku.net/"
-                        }
-                    },
-                    {
-                        "url": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 480p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playtaku.net",
-                            "Referer": "https://playtaku.net/"
-                        }
-                    },
-                    {
-                        "url": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 360p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/JUBXBdCKvFMLcVhHMgY1_Q/1719936346/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

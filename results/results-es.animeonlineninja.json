@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/kuragehime-cap-5/",
+                                "title": "Kuragehime Cap 5",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/07/6KFpw0ysrSWi9VjVwtZ1PfqqcGi-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/yuushibu-ova/",
                                 "title": "Yuushibu OVA",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2020/12/descarga-13-300x170.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/episodio/ai-tenchi-muyo-cap-10/",
                                 "title": "Ai Tenchi Muyo! Cap 10",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/07/aOi4RKotVkqJo2j2NdLyNcFH5YN-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/ai-tenchi-muyo-cap-11/",
-                                "title": "Ai Tenchi Muyo! Cap 11",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/07/uNMBcv8HiYArbvbZSzDRyGWMVvb-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -509,17 +509,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery43.mxcontent.net/v/6388658350b2576fcf16729e96ce217d.mp4?s=leKBh8obLHAGhqYs7hDbsw&e=1719922027&_t=1719909998",
-                        "quality": "MixDrop(SERVIDOR 3)",
-                        "videoUrl": "https://s-delivery43.mxcontent.net/v/6388658350b2576fcf16729e96ce217d.mp4?s=leKBh8obLHAGhqYs7hDbsw&e=1719922027&_t=1719909998",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: mixdrop.ms: Name or service not known",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kit-n-kate",
+                                "title": "Kit n Kate",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933628.jpg"
+                            },
+                            {
+                                "url": "/anime/wondla",
+                                "title": "WondLa",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933627.jpg"
+                            },
+                            {
+                                "url": "/anime/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933626.jpg"
+                            },
+                            {
+                                "url": "/anime/gimai-seikatsu",
+                                "title": "Gimai Seikatsu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933625.jpg"
+                            },
+                            {
                                 "url": "/anime/beyblade-x-english-dubbed",
                                 "title": "Beyblade X English Dubbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933624.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/code-geass-roze-of-the-recapture",
                                 "title": "Code Geass: Rozé of the Recapture",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933613.jpg"
-                            },
-                            {
-                                "url": "/anime/mission-yozakura-family",
-                                "title": "Mission: Yozakura Family",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933612.jpg"
-                            },
-                            {
-                                "url": "/anime/camp-snoopy",
-                                "title": "Camp Snoopy",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933611.jpg"
-                            },
-                            {
-                                "url": "/anime/caillou-2024",
-                                "title": "Caillou (2024)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933610.jpg"
-                            },
-                            {
-                                "url": "/anime/nyaaaanvy-english-subbed",
-                                "title": "Nyaaaanvy English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933609.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,39 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/beyblade-x-english-dubbed",
-                    "title": "Beyblade X English Dubbed",
-                    "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ekusu also known as ‘Kamen X’ and forms a team so that they can aim for the “top” of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before: the yet unseen “X.” The super accelerated (Xtreme) beyblade runs through a new era!",
-                    "genre": "Adventure, Sports, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933624.jpg",
+                    "url": "/anime/kit-n-kate",
+                    "title": "Kit n Kate",
+                    "description": "Two small kitties named Kit and Kate love their toy box. As soon as they hop inside, magic starts to happen. Kids’ imagination transforms their room into a blueberry island, racetrack, or medieval castle. Every time, the kitties create a whole new world with amazing discoveries, surprises, and not-so-easy-to-solve dilemmas.",
+                    "genre": "Animation, Family, Kids, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933628.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/beyblade-x-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jVg0FqifVKbrcKhEE9k-GcOESouR6Or66OQvQ3GimL18p8AUHp9NieZu6pr3536fKlqlRyyqXSqAVBVd6nuVrL1Ai4Z-7yYf1FgSkU4FmlFDdbiP-6nsn5QFGGa7tguGpxdXzZA2Ieg3ZtCndeuMcABcbSG84Q3IjIjPVH7EORY68LRtoAVZJ1d_TRgJRhqkYyGeL_i-HT474QTDBwOJFYJnhBkm-HNe1gNN9_IINuHBOimcin3LmN47qjImEVpTy0M30UNgOWWS-Qa421XW39YM8Na5AtH76s3YL2mXkUX6CkegxO_wvLP_diiEtPqpuCu6H80fJUcK6EtoQmbUnV1iJYPFDFy-evABNUGfRAYw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jVg0FqifVKbrcKhEE9k-GcOESouR6Or66OQvQ3GimL18p8AUHp9NieZu6pr3536fKlqlRyyqXSqAVBVd6nuVrL1Ai4Z-7yYf1FgSkU4FmlFDdbiP-6nsn5QFGGa7tguGpxdXzZA2Ieg3ZtCndeuMcABcbSG84Q3IjIjPVH7EORY68LRtoAVZJ1d_TRgJRhqkYyGeL_i-HT474QTDBwOJFYJnhBkm-HNe1gNN9_IINuHBOimcin3LmN47qjImEVpTy0M30UNgOWWS-Qa421XW39YM8Na5AtH76s3YL2mXkUX6CkegxO_wvLP_diiEtPqpuCu6H80fJUcK6EtoQmbUnV1iJYPFDFy-evABNUGfRAYw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jVg0FqifVKbrcKhEE9k-GcOESouR6Or66OQvQ3GimL18p8AUHp9NieZu6pr3536fKlqlRyyqXSqAVBVd6nuVrLlmRhyoaEzgoG-CpQrw9deEWiCNaubRUa796N7sQblfcmEQ7GugCZMWlYMa-CcwjKSqWmOoVabpbb-sT25ySUxB4eeq0WSmQRQOmuRVLVHKgvMmFtctV8bm0FXy4B_5iufz3tphBIqe9K-SHv3CeFB4RS_Rvhr0XKKu_6DcVH1FM84DLKP7T8g1XF-YOK3rIaKS4h8lI93vIQspmTxkElL61oTQbGv_vgqC_7zxZ4xh5ii417HoXq5jAvQPwVm259j3TykxsKDCSZ4CJS0FJxvg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jVg0FqifVKbrcKhEE9k-GcOESouR6Or66OQvQ3GimL18p8AUHp9NieZu6pr3536fKlqlRyyqXSqAVBVd6nuVrLlmRhyoaEzgoG-CpQrw9deEWiCNaubRUa796N7sQblfcmEQ7GugCZMWlYMa-CcwjKSqWmOoVabpbb-sT25ySUxB4eeq0WSmQRQOmuRVLVHKgvMmFtctV8bm0FXy4B_5iufz3tphBIqe9K-SHv3CeFB4RS_Rvhr0XKKu_6DcVH1FM84DLKP7T8g1XF-YOK3rIaKS4h8lI93vIQspmTxkElL61oTQbGv_vgqC_7zxZ4xh5ii417HoXq5jAvQPwVm259j3TykxsKDCSZ4CJS0FJxvg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

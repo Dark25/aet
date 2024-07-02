@@ -276,12 +276,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxyayudz3b4quuoeoreeosmcpc5ar7dlvjvgriniyykrczzqds52l2feogjesiobwtxjhez/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxyayudz3b4quuoeoreeosmcpc5ar7dlvjvgriniyykrczzqds52l2feogjesiobwtxjhez/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m40.uqload.to/3rfkvclgt5w2q4drdll7vpnpkkkza267lnxc7vwkjj4en6h7j55rwo2z4q7a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m40.uqload.to/3rfkvclgt5w2q4drdll7vpnpkkkza267lnxc7vwkjj4en6h7j55rwo2z4q7a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ajQkz8WYxeCx8XD&expires=1719949273&ip=G0WsDRSOKxSHDN&token=eSOXFTtys4b7",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ajQkz8WYxeCx8XD&expires=1719949273&ip=G0WsDRSOKxSHDN&token=eSOXFTtys4b7"
+                    }
+                ],
+                "passed": true
             }
         }
     }

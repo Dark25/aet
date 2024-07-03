@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7430-un-piedipiatti-a-beverly-hills-axel-f",
+                                "title": "Un piedipiatti a Beverly Hills - Axel F",
+                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/01a31fc3-d42a-4660-8502-057ec23a203d.webp"
+                            },
+                            {
                                 "url": "9043-sprint",
                                 "title": "SPRINT",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/ac250d01-c03d-4f64-afc2-78c9849b43b7.webp"
@@ -300,11 +305,6 @@
                                 "url": "8568-pauline",
                                 "title": "Pauline",
                                 "thumbnail_url": "https://cdn.streamingcommunity.forum/images/aa907cd1-4251-47d4-b6b1-782b9aeeca14.webp"
-                            },
-                            {
-                                "url": "7691-if-gli-amici-immaginari",
-                                "title": "IF - Gli amici immaginari",
-                                "thumbnail_url": "https://cdn.streamingcommunity.forum/images/e25d7d1a-0a41-4052-aec9-879303e00000.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9043-sprint",
-                    "description": "Tra allenamenti, pressione dei media e competitività spietata, questa serie sportiva segue alcuni grandi velocisti mentre gareggiano per diventare la persona più veloce del mondo.",
-                    "genre": "Documentario",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "7430-un-piedipiatti-a-beverly-hills-axel-f",
+                    "description": "Il detective Axel Foley (Eddie Murphy) torna a pattugliare le strade di Beverly Hills. Dopo che la vita di sua figlia è minacciata, lei (Taylour Paige) e Foley fanno squadra con un nuovo partner (Joseph Gordon-Levitt) e i vecchi amici Billy Rosewood (Judge Reinhold) e John Taggart (John Ashton) per svelare un complotto.",
+                    "genre": "Crime, Azione, Commedia",
                     "initialized": true
                 },
                 "passed": true
@@ -946,20 +944,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9043?episode_id=68569&next_episode=1",
-                        "name": "Stagione 1 episodio 6 - LA DOPPIETTA",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "9043?episode_id=68568&next_episode=1",
-                        "name": "Stagione 1 episodio 5 - LA CORSA ALL'ORO",
-                        "episode_number": 5.0
+                        "url": "7430",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

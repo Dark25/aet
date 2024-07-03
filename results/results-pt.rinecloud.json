@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shy-2/",
+                                "title": "Shy 2",
+                                "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/07/1719960853-5105-143558.jpg"
+                            },
+                            {
+                                "url": "/anime/tsuki-ga-michibiku-isekai-douchuu-2-dublado/",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2 Dublado",
+                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/05/1715014250-1082-142621.jpg"
+                            },
+                            {
                                 "url": "/anime/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru/",
                                 "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
                                 "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/07/1719865259-3747-141625.jpg"
@@ -155,16 +165,6 @@
                                 "url": "/anime/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2023/04/one.jpg"
-                            },
-                            {
-                                "url": "/anime/the-new-gate/",
-                                "title": "The New Gate",
-                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/04/1714250085-1810-141857.jpg"
-                            },
-                            {
-                                "url": "/anime/tonari-no-youkai-san/",
-                                "title": "Tonari no Youkai-san",
-                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/04/1714251998-2350-141559.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1719994639&ei=j5iEZpnAHpu3kucPt_aqmA0&ip=172.71.183.200&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1719965354&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAOdMHgkuA-3spwtXlJ-lp0gcS1GoHhlpxEpvv5_8g5liAiAbyMr2ApdzfUxXYazHseL4GbFoQtIgJeJQeLw2-hbDSw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgMGtarJq4CUqMczJuoDzhYh7y1HFgT7AlOwh7E7dkixACIQCv1697Obc_j43M9YIgCKez7yaBRs2JX4eDgAFoHcAOXw%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1719994639&ei=j5iEZpnAHpu3kucPt_aqmA0&ip=172.71.183.200&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1719965354&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAOdMHgkuA-3spwtXlJ-lp0gcS1GoHhlpxEpvv5_8g5liAiAbyMr2ApdzfUxXYazHseL4GbFoQtIgJeJQeLw2-hbDSw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgMGtarJq4CUqMczJuoDzhYh7y1HFgT7AlOwh7E7dkixACIQCv1697Obc_j43M9YIgCKez7yaBRs2JX4eDgAFoHcAOXw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1719994639&ei=j5iEZpnAHpu3kucPt_aqmA0&ip=172.71.183.200&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1719965354&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgDrfZziwVTdRcc6JA0tr0qUtXB6aizxGzCTllARUznuMCIQC-Ye45vB4OvpvhI_lunC_7VNipX9RvPh1KuGbkZjHYig%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgJt6bqL4mjBNPmajq223KSSMfX7JCBB5Uzozrgr0WqVECIQC_bX9vmiBTmOY-AejZAr3RfazOrvQrJBd5HNxPeMOgTQ%3D%3D",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1719994639&ei=j5iEZpnAHpu3kucPt_aqmA0&ip=172.71.183.200&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1719965354&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgDrfZziwVTdRcc6JA0tr0qUtXB6aizxGzCTllARUznuMCIQC-Ye45vB4OvpvhI_lunC_7VNipX9RvPh1KuGbkZjHYig%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgJt6bqL4mjBNPmajq223KSSMfX7JCBB5Uzozrgr0WqVECIQC_bX9vmiBTmOY-AejZAr3RfazOrvQrJBd5HNxPeMOgTQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

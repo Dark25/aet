@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/os-observadores/",
+                                "title": "Os Observadores",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg"
+                            },
+                            {
                                 "url": "/filmes/um-lugar-silencioso-dia-um/",
                                 "title": "Um Lugar Silencioso: Dia Um",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gyEnhITeHLky85XJxuTPqniPrzE.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/flutuar/",
                                 "title": "Flutuar",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/htcFpvCQycruzW2PV2ceihMRQyY.jpg"
-                            },
-                            {
-                                "url": "/series/bridgerton/",
-                                "title": "Bridgerton",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bP1LSYUxYTjtDHMV9cC20ighQfN.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,36 @@
                                 "url": "/series/avatar-o-ultimo-mestre-do-ar/",
                                 "title": "Avatar: O Último Mestre do Ar",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg"
+                            },
+                            {
+                                "url": "/series/por-uma-vida-melhor-a-jornada/",
+                                "title": "Por Uma Vida Melhor: A Jornada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aHcJuzyGiHCRqtxjOxvDMJ2Kn5e.jpg"
+                            },
+                            {
+                                "url": "/series/meu-filho-jeffrey-as-gravacoes-da-familia-dahmer/",
+                                "title": "Meu filho Jeffrey: As gravações da família Dahmer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/r0MrF66ZvZLSTiJcYhg1L9Jx17F.jpg"
+                            },
+                            {
+                                "url": "/series/apartamento-404/",
+                                "title": "Apartamento 404",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/et0MIXH2isgsuDBpBLnZT5sQnNg.jpg"
+                            },
+                            {
+                                "url": "/series/entre-tierras/",
+                                "title": "Entre tierras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9CoArNRTXUxiaGvR8CUX59jRB6k.jpg"
+                            },
+                            {
+                                "url": "/series/supacell/",
+                                "title": "Supacell",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iZsQBIobC1oKSBEX0XoWF598j7F.jpg"
+                            },
+                            {
+                                "url": "/series/gangues-da-galicia/",
+                                "title": "Gangues da Galícia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7CRPtNIylSfnRsqZn35cmMbvLA2.jpg"
                             },
                             {
                                 "url": "/series/historia-do-comunismo/",
@@ -255,36 +285,6 @@
                                 "url": "/series/mahkum/",
                                 "title": "Mahkum",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/iWp4xpTXu34d0XvNyO63UUszwxh.jpg"
-                            },
-                            {
-                                "url": "/series/o-pequeno-grande-mundo-de-jessica/",
-                                "title": "O Pequeno Grande Mundo de Jéssica",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9WpVcGA7YGQL0uivYwTeZL41syB.jpg"
-                            },
-                            {
-                                "url": "/series/little-baby-bum-hora-da-musica/",
-                                "title": "Little Baby Bum: Hora da Música",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ktvfNCNLwoT9PTRfyL2AFsxrYDE.jpg"
-                            },
-                            {
-                                "url": "/series/o-anti-heroi/",
-                                "title": "O Anti-Herói",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/WzBXCQjcdm1zEsYVZPIA1KPi64.jpg"
-                            },
-                            {
-                                "url": "/series/kubra/",
-                                "title": "Kübra",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/amlpVWYgv1KXiFfZKvY2t0fqvMf.jpg"
-                            },
-                            {
-                                "url": "/series/ren-faire/",
-                                "title": "Ren Faire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1FmskgCiConpCzLnj38UEqumb5W.jpg"
-                            },
-                            {
-                                "url": "/series/pelados-e-condenados/",
-                                "title": "Pelados e Condenados",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fv8o3WuzWelTDYS83L23HBHOlcD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/um-lugar-silencioso-dia-um/",
-                    "title": "Um Lugar Silencioso: Dia Um",
-                    "description": "Um prequel que conta a origem das criaturas de “Um Lugar Silencioso”.\n\nTítulo Original: A Quiet Place: Day One",
-                    "genre": "Drama, Ficção científica, Terror, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/gyEnhITeHLky85XJxuTPqniPrzE.jpg",
+                    "url": "/filmes/os-observadores/",
+                    "title": "Os Observadores",
+                    "description": "Mina, uma artista de 28 anos, que se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.\n\nTítulo Original: The Watchers",
+                    "genre": "Fantasia, Mistério, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/um-lugar-silencioso-dia-um/",
+                        "url": "/filmes/os-observadores/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

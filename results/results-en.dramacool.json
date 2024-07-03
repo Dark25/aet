@@ -197,6 +197,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/red-swan-2024-episode-2.html",
+                                "title": "Red Swan (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/she-1719546727.png"
+                            },
+                            {
                                 "url": "/the-princess-royal-2024-episode-17.html",
                                 "title": "The Princess Royal (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/the-princess-royal-2024-1719375568.png"
@@ -370,11 +375,6 @@
                                 "url": "/the-legend-of-heroes-2024-episode-30.html",
                                 "title": "The Legend of Heroes (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/the-legend-of-heroes-1718614909.png"
-                            },
-                            {
-                                "url": "/dang-thorani-2024-episode-14.html",
-                                "title": "Dang Thorani (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/dang-thorani-2024-1714515313.png"
                             }
                         ],
                         "hasNextPage": true
@@ -499,18 +499,79 @@
                     "author": "Hulu",
                     "description": "Oh Wan Soo reached the top of her sport as a golf player. Dreaming of having a perfect life within the upper class, she marries the successor of the Hwain Group. Now, Wan Soo works as the chairperson for a foundation and has gained worldwide fame through her charity work. She has Seo Do Yoon as her new bodyguard. Do Yoon, who graduated from the police university, excels in the martial arts. He joined the Hwang Group's security team for a specific reason. Through her bodyguard, Wan Soo faces a secret of the Hwain Family.\n(Source: AsianWiki)",
                     "genre": "Action, Bodyguard, Drama, Martial Arts, melodrama, Miniseries, Romance",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "thumbnail_url": "https://asianimg.pro/cover/she-1719546727.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/red-swan-2024-episode-2.html",
+                        "name": "SUB: Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/red-swan-2024-episode-1.html",
+                        "name": "SUB: Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://c2h4vrews.sw-cdnstreamwish.com/hls2/01/04289/j0mz9el1o786_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-rZG2ZmIT60Y9Ty3BikLJujePqru3MOinv2m70AJkbY&s=1720008342&e=129600&f=21445550&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://c2h4vrews.sw-cdnstreamwish.com/hls2/01/04289/j0mz9el1o786_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-rZG2ZmIT60Y9Ty3BikLJujePqru3MOinv2m70AJkbY&s=1720008342&e=129600&f=21445550&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/j0mz9el1o786?caption_1=https://sub.plcool1.com&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://c2h4vrews.sw-cdnstreamwish.com/hls2/01/04289/j0mz9el1o786_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-rZG2ZmIT60Y9Ty3BikLJujePqru3MOinv2m70AJkbY&s=1720008342&e=129600&f=21445550&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://c2h4vrews.sw-cdnstreamwish.com/hls2/01/04289/j0mz9el1o786_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-rZG2ZmIT60Y9Ty3BikLJujePqru3MOinv2m70AJkbY&s=1720008342&e=129600&f=21445550&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/j0mz9el1o786?caption_1=https://sub.plcool1.com&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://c2h4vrews.sw-cdnstreamwish.com/hls2/01/04289/j0mz9el1o786_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-rZG2ZmIT60Y9Ty3BikLJujePqru3MOinv2m70AJkbY&s=1720008342&e=129600&f=21445550&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://c2h4vrews.sw-cdnstreamwish.com/hls2/01/04289/j0mz9el1o786_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-rZG2ZmIT60Y9Ty3BikLJujePqru3MOinv2m70AJkbY&s=1720008342&e=129600&f=21445550&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/j0mz9el1o786?caption_1=https://sub.plcool1.com&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=eqDmL7OWJ0soxl&expires=1720078343&ip=GHEsDRqAKxSHDN&token=074pe1nEmPwF",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=eqDmL7OWJ0soxl&expires=1720078343&ip=GHEsDRqAKxSHDN&token=074pe1nEmPwF"
+                    },
+                    {
+                        "url": "https://d0000d.com/e/r568wopdhvel?c1_file=https://sub.plcool1.com&c1_label=English",
+                        "quality": "Doodstream mirror",
+                        "videoUrl": "https://gv675rt.video-delivery.net/u5kj6gip2dd3sdgge4hoejcdd3qplndkeyz3opo22e6qimcyoqiu2imbgb4a/8c965ba3lm~07sJhvhiTA?token=6gr1c93yhngieqc8zrpxttzz&expiry=1720008343612",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://d0000d.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

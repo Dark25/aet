@@ -10,6 +10,7 @@
                                 "url": "/anime/gurQuZptZMf8dk1c10xkEJN4Je5BUh5Z",
                                 "title": "Oshi no Ko Season 2",
                                 "description": "The second season of [Oshi no Ko].",
+                                "status": 1,
                                 "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreiad7pioqwhkqhxtknhyfaoyew4l4wz3kpatoeh67gudaesf4uokxi"
                             },
                             {
@@ -22,6 +23,7 @@
                                 "url": "/anime/MqddXvnmcIEJbO4sttXIQZvRNxUCyIJg",
                                 "title": "Alya Sometimes Hides Her Feelings in Russian",
                                 "description": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!\n\n(Source: Crunchyroll)",
+                                "status": 1,
                                 "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreih3p26nmdndejlicutwjkjmc6wvby2ankcflor6np52j53rjiqrne"
                             },
                             {
@@ -359,18 +361,120 @@
                     "title": "Oshi no Ko Season 2",
                     "description": "The second season of [Oshi no Ko].",
                     "genre": "Drama, Supernatural, Mystery, Psychological",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreiad7pioqwhkqhxtknhyfaoyew4l4wz3kpatoeh67gudaesf4uokxi",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/gurQuZptZMf8dk1c10xkEJN4Je5BUh5Z/1",
+                        "name": "Tokyo Blade",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'episodeData' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.all.sudatchi.dto.EpisodePageDto', but it was missing at path: $.props.pageProps",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ipfs.animeui.com/ipfs/bafybeiaqfdicaktbpztlpip7hqsa4fjrtme3kcrir2f5b22n4ydb4touhu/1920x1080.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
+                        "videoUrl": "https://ipfs.animeui.com/ipfs/bafybeiaqfdicaktbpztlpip7hqsa4fjrtme3kcrir2f5b22n4ydb4touhu/1920x1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreibhitsllc2fvgoc3fiftsyjr2oq76jrvozkdkan34ltvabir4wuay",
+                                "lang": "English (eng)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreifwidjovqxz7dtthud6hbulpp5ha2su26jypgufnwhrmnj6q3mhfu",
+                                "lang": "Chinese (Mainland China) (zho)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreigxz46puxvdm53twsswcl7qgaq67soctju5hvmtjrc5uqvzj37zhy",
+                                "lang": "French (fra)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreibksdi7m7qanvcbkn354yidr3gmz7sgnikwq6tn2snpl63lx6qiwa",
+                                "lang": "Indonesian (ind)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreiavbaays5xxowhyw7mpdccqhfwrrrivblw5mj6dnjgct47cwhf63m",
+                                "lang": "Thai (tha)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ipfs.animeui.com/ipfs/bafybeifwt3mpffvuvchgcayicaueqc6je6olsnsgqq254uc5kdjfenwgx4/1280x720.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - 720p",
+                        "videoUrl": "https://ipfs.animeui.com/ipfs/bafybeifwt3mpffvuvchgcayicaueqc6je6olsnsgqq254uc5kdjfenwgx4/1280x720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreibhitsllc2fvgoc3fiftsyjr2oq76jrvozkdkan34ltvabir4wuay",
+                                "lang": "English (eng)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreifwidjovqxz7dtthud6hbulpp5ha2su26jypgufnwhrmnj6q3mhfu",
+                                "lang": "Chinese (Mainland China) (zho)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreigxz46puxvdm53twsswcl7qgaq67soctju5hvmtjrc5uqvzj37zhy",
+                                "lang": "French (fra)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreibksdi7m7qanvcbkn354yidr3gmz7sgnikwq6tn2snpl63lx6qiwa",
+                                "lang": "Indonesian (ind)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreiavbaays5xxowhyw7mpdccqhfwrrrivblw5mj6dnjgct47cwhf63m",
+                                "lang": "Thai (tha)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ipfs.animeui.com/ipfs/bafybeieuuos56p4rbw2kupzawfur7xxzcnojej2u7punlwptwb2yifmdv4/854x480.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - 480p",
+                        "videoUrl": "https://ipfs.animeui.com/ipfs/bafybeieuuos56p4rbw2kupzawfur7xxzcnojej2u7punlwptwb2yifmdv4/854x480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreibhitsllc2fvgoc3fiftsyjr2oq76jrvozkdkan34ltvabir4wuay",
+                                "lang": "English (eng)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreifwidjovqxz7dtthud6hbulpp5ha2su26jypgufnwhrmnj6q3mhfu",
+                                "lang": "Chinese (Mainland China) (zho)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreigxz46puxvdm53twsswcl7qgaq67soctju5hvmtjrc5uqvzj37zhy",
+                                "lang": "French (fra)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreibksdi7m7qanvcbkn354yidr3gmz7sgnikwq6tn2snpl63lx6qiwa",
+                                "lang": "Indonesian (ind)"
+                            },
+                            {
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreiavbaays5xxowhyw7mpdccqhfwrrrivblw5mj6dnjgct47cwhf63m",
+                                "lang": "Thai (tha)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

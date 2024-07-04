@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/las-cronicas-de-narnia-el-principe-caspian-2008/",
+                                "title": "Las crónicas de Narnia: El príncipe Caspian (2008)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/r3X3ss0pEy1CntvxbgDYZD3XFa6.jpg"
+                            },
+                            {
                                 "url": "/peliculas/tom-y-jerry-el-cascanueces-2007/",
                                 "title": "Tom y Jerry: El cascanueces (2007)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Enamorándome de mi Ex (2009)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/06/Enamorandome-de-mi-Ex-2009.jpg"
-                            },
-                            {
-                                "url": "/peliculas/la-isla-siniestra-2010/",
-                                "title": "La Isla Siniestra (2010)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/06/La-Isla-Siniestra-2010.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/tom-y-jerry-el-cascanueces-2007/",
-                    "title": "Tom y Jerry: El cascanueces (2007)",
-                    "artist": "Chantal Strand",
-                    "author": "Spike Brandt",
-                    "description": "El edificio de la opera está vacío, Jerry desearía poder actuar y como por arte de magia, su sueño se hace realidad. El pequeño ratón es lanzado a un reino encantado donde todo es posible: bosques de caramelo, copos de nieve cantarines, ¡hasta los muñecos cobran vida!. Jerry lo pasa en grande con sus nuevos amigos y es el ratón más feliz del mundo cuando baila con la bailarina de una caja de música. Desafortunadamente, los gatos callejeros, dirigidos por Tom, irrumpen en su fiesta y raptan a la bailarina de la caja de música causando estragos en el reino de las vacaciones. Está en manos de Jerry arreglar el asunto y con la ayuda de Tuffy, un dulce ratón, y otros muchos nuevos amigos, ¡Jerry podrá conseguirlo!",
-                    "genre": "Animación, Comedia, Familia",
+                    "url": "/peliculas/las-cronicas-de-narnia-el-principe-caspian-2008/",
+                    "title": "Las crónicas de Narnia: El príncipe Caspian (2008)",
+                    "artist": "Anna Popplewell",
+                    "author": "Elenco: Anna Popplewell",
+                    "description": "La acción de “Las crónicas de Narnia. El Príncipe Caspian” transcurre un año después de los increíbles acontecimientos de «El León, la Bruja y el Armario», cuando los reyes y las reinas de Narnia -los 4 hermanos Pevensie- vuelven a reunirse en ese remoto y fantástico mundo, donde descubrirán que han pasado más de 1.300 años, calculados en tiempo narniano. Durante su ausencia, la Edad de Oro de Narnia ha terminado, y los Telmarinos han conquistado el reino de Narnia, que ahora está dominado por el malvado Rey Miraz, que gobierna sin piedad. Los cuatro niños no tardarán en conocer un nuevo y extraño personaje: el joven Príncipe Caspian, heredero legítimo al trono que se ha visto obligado a esconderse ya que su tío Miraz trama su asesinato para colocar a su hijo recién nacido en el trono.",
+                    "genre": "Aventura, Familia, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/evxTPd82kN4nYqM215SDBoJEROt.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/r3X3ss0pEy1CntvxbgDYZD3XFa6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/tom-y-jerry-el-cascanueces-2007/",
+                        "url": "/peliculas/las-cronicas-de-narnia-el-principe-caspian-2008/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,110 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://j4higu6x.sw-cdnstreamwish.com/hls2/01/03088/kgqy20w08xl2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=FaDep4nrtgTKhvDf9DMMa-dTgNewpVBMrDmThxrF_oE&s=1720052076&e=129600&f=15441149&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://j4higu6x.sw-cdnstreamwish.com/hls2/01/03088/kgqy20w08xl2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=FaDep4nrtgTKhvDf9DMMa-dTgNewpVBMrDmThxrF_oE&s=1720052076&e=129600&f=15441149&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kgqy20w08xl2"
+                        }
+                    },
+                    {
+                        "url": "https://j4higu6x.sw-cdnstreamwish.com/hls2/01/03088/kgqy20w08xl2_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FaDep4nrtgTKhvDf9DMMa-dTgNewpVBMrDmThxrF_oE&s=1720052076&e=129600&f=15441149&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://j4higu6x.sw-cdnstreamwish.com/hls2/01/03088/kgqy20w08xl2_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FaDep4nrtgTKhvDf9DMMa-dTgNewpVBMrDmThxrF_oE&s=1720052076&e=129600&f=15441149&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kgqy20w08xl2"
+                        }
+                    },
+                    {
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05558/4h0rlqginx2v_h/index-v1-a1.m3u8?t=cdHwIEWkZedWPFUpgM0UQn1Zec5qRibhsfbiiNVT0Ec&s=1720052067&e=43200&f=27794834&srv=41&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:792p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05558/4h0rlqginx2v_h/index-v1-a1.m3u8?t=cdHwIEWkZedWPFUpgM0UQn1Zec5qRibhsfbiiNVT0Ec&s=1720052067&e=43200&f=27794834&srv=41&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=2Kg9pmW1O1UZbMx&expires=1720122068&ip=G0WsDRONKxSHDN&token=ZOQiMK7z_jqF",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=2Kg9pmW1O1UZbMx&expires=1720122068&ip=G0WsDRONKxSHDN&token=ZOQiMK7z_jqF"
+                    },
+                    {
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/7wziy972c88u_,n,h,.urlset/index-f2-v1-a1.m3u8?t=rrFyw0Q-FWJrt7gWEbo0fGmPqtNZJwP7vYfgwUIN1Tk&s=1720052073&e=129600&f=17770448&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/7wziy972c88u_,n,h,.urlset/index-f2-v1-a1.m3u8?t=rrFyw0Q-FWJrt7gWEbo0fGmPqtNZJwP7vYfgwUIN1Tk&s=1720052073&e=129600&f=17770448&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/7wziy972c88u"
+                        }
+                    },
+                    {
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/mr6i3wnncxwx_,n,h,.urlset/index-f2-v1-a1.m3u8?t=y3DUun0ksBWouvcLAcWNcwQ6SYQ0FYuktPf_RAG9Q7o&s=1720052069&e=129600&f=17770317&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/mr6i3wnncxwx_,n,h,.urlset/index-f2-v1-a1.m3u8?t=y3DUun0ksBWouvcLAcWNcwQ6SYQ0FYuktPf_RAG9Q7o&s=1720052069&e=129600&f=17770317&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/mr6i3wnncxwx"
+                        }
+                    },
+                    {
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/7wziy972c88u_,n,h,.urlset/index-f1-v1-a1.m3u8?t=rrFyw0Q-FWJrt7gWEbo0fGmPqtNZJwP7vYfgwUIN1Tk&s=1720052073&e=129600&f=17770448&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/7wziy972c88u_,n,h,.urlset/index-f1-v1-a1.m3u8?t=rrFyw0Q-FWJrt7gWEbo0fGmPqtNZJwP7vYfgwUIN1Tk&s=1720052073&e=129600&f=17770448&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/7wziy972c88u"
+                        }
+                    },
+                    {
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/mr6i3wnncxwx_,n,h,.urlset/index-f1-v1-a1.m3u8?t=y3DUun0ksBWouvcLAcWNcwQ6SYQ0FYuktPf_RAG9Q7o&s=1720052069&e=129600&f=17770317&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03554/mr6i3wnncxwx_,n,h,.urlset/index-f1-v1-a1.m3u8?t=y3DUun0ksBWouvcLAcWNcwQ6SYQ0FYuktPf_RAG9Q7o&s=1720052069&e=129600&f=17770317&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/mr6i3wnncxwx"
+                        }
+                    },
+                    {
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05881/o0rlcorvdax4_n/index-v1-a1.m3u8?t=uxY5ezV8FtD1bdLKPz41m72wtp4dCqIZkCmELig6rfw&s=1720052070&e=43200&f=29405689&srv=11&asn=8075&sp=4000",
+                        "quality": "[CAST] Filemoon:800p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05881/o0rlcorvdax4_n/index-v1-a1.m3u8?t=uxY5ezV8FtD1bdLKPz41m72wtp4dCqIZkCmELig6rfw&s=1720052070&e=43200&f=29405689&srv=11&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/06/05881/5496xl4zsqit_n/index-v1-a1.m3u8?t=FPXbkfoAlSWkLeGzAiBZ0f7HuLFFo_Xpb3p-3LcOxJM&s=1720052072&e=43200&f=29405753&srv=53&asn=8075&sp=4000",
+                        "quality": "[SUB] Filemoon:792p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/06/05881/5496xl4zsqit_n/index-v1-a1.m3u8?t=FPXbkfoAlSWkLeGzAiBZ0f7HuLFFo_Xpb3p-3LcOxJM&s=1720052072&e=43200&f=29405753&srv=53&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

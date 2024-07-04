@@ -237,14 +237,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-2MXV30htoCSh.png"
                             },
                             {
-                                "url": "2612-my-hero-academia-3",
-                                "title": "My Hero Academia 3",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100166-jUCZYbzn2XLw.jpg"
-                            },
-                            {
                                 "url": "69-bleach",
                                 "title": "Bleach",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx269-KxkqTIuQgJ6v.png"
+                            },
+                            {
+                                "url": "2612-my-hero-academia-3",
+                                "title": "My Hero Academia 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100166-jUCZYbzn2XLw.jpg"
                             },
                             {
                                 "url": "4284-mashle-magic-and-muscles",
@@ -266,6 +266,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "5424-ramen-akaneko",
+                                "title": "Ramen Akaneko",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx170998-Xc42BizUiTeo.jpg"
+                            },
+                            {
+                                "url": "5423-curiosando-nei-cortili-del-cuore-movie",
+                                "title": "Curiosando nei Cortili del Cuore Movie",
+                                "thumbnail_url": "https://img.animeunity.to/anime/7578.jpg"
+                            },
+                            {
+                                "url": "5422-curiosando-nei-cortili-del-cuore-ita",
+                                "title": "Curiosando nei Cortili del Cuore (ITA)",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx852-1chkfKkfOczt.jpg"
+                            },
                             {
                                 "url": "5421-inuyasha-movie-3-tenka-hadou-no-ken",
                                 "title": "InuYasha Movie 3: Tenka Hadou no Ken",
@@ -305,21 +320,6 @@
                                 "url": "5413-harmony-ita",
                                 "title": "Harmony (ITA)",
                                 "thumbnail_url": "https://img.animeunity.to/anime/bx20932-kw702YuhGeH5.jpg"
-                            },
-                            {
-                                "url": "5412-harmony",
-                                "title": "Harmony",
-                                "thumbnail_url": "https://img.animeunity.to/anime/bx20932-kw702YuhGeH5.jpg"
-                            },
-                            {
-                                "url": "5411-tasuketsu-fate-of-the-majority",
-                                "title": "Tasuketsu -Fate of the Majority-",
-                                "thumbnail_url": "https://img.animeunity.to/anime/bx174070-mrec0spMuATz.jpg"
-                            },
-                            {
-                                "url": "5410-sengoku-youko-thousand-demons-chaos-arc",
-                                "title": "Sengoku Youko: Thousand Demons Chaos Arc",
-                                "thumbnail_url": "https://img.animeunity.to/anime/bx176660-GOt1nKsuO2NB.png"
                             }
                         ],
                         "hasNextPage": true
@@ -518,8 +518,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/240668?type=video&rendition=1080p&token=WJ6K5p0xwP5WDZ1RRv9ClA&expires=1725300364&edge=au-u1-01",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/240668?type=video&rendition=1080p&token=WJ6K5p0xwP5WDZ1RRv9ClA&expires=1725300364&edge=au-u1-01"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/240668?type=video&rendition=720p&token=iGLohYW4yrZXhCHyrvF70g&expires=1725300364&edge=au-u1-01",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/240668?type=video&rendition=720p&token=iGLohYW4yrZXhCHyrvF70g&expires=1725300364&edge=au-u1-01"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/240668?type=video&rendition=480p&token=IUpc_cR_luCVcir9y5xZuw&expires=1725300364&edge=au-u1-01",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/240668?type=video&rendition=480p&token=IUpc_cR_luCVcir9y5xZuw&expires=1725300364&edge=au-u1-01"
+                    }
+                ],
+                "passed": true
             }
         }
     }

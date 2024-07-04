@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/politicamente-incorrectos/",
+                                "title": "Políticamente incorrectos",
+                                "description": "España hierve de crispación, el país está totalmente polarizado y las redes sociales arden a dia...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/UyrHN4wkjifjWl6w5EPleEQIoR.webp"
+                            },
+                            {
                                 "url": "/pelicula/superdetective-en-hollywood-axel-f/",
                                 "title": "Superdetective en Hollywood: Axel F.",
                                 "description": "Cuatro décadas después de su inolvidable primer caso en Beverly Hills, el detective de Detroit Axe...",
@@ -239,12 +245,6 @@
                                 "title": "La academia del Sr. Kleks",
                                 "description": "En busca de su padre, que ha desaparecido, una adolescente aparentemente normal acepta asistir a una...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/hDhfWpO5AdL3fACZXCuY.webp"
-                            },
-                            {
-                                "url": "/pelicula/sulis-1907/",
-                                "title": "Sulis 1907",
-                                "description": "En 1906, a los 17 años, Konrad clasifica cobre bajo una nube tóxica de azufre en la mina más pró...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ORI0Zczui1BcDg064qco4LsOZOBiIubmbKc1NClVtN.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/superdetective-en-hollywood-axel-f/",
-                    "title": "Superdetective en Hollywood: Axel F.",
-                    "description": "Cuatro décadas después de su inolvidable primer caso en Beverly Hills, el detective de Detroit Axel Foley vuelve a lo que mejor se le da: resolver crímenes y sembrar el caos.",
-                    "genre": "Acción, Comedia, Crimen",
+                    "url": "/pelicula/politicamente-incorrectos/",
+                    "title": "Políticamente incorrectos",
+                    "description": "España hierve de crispación, el país está totalmente polarizado y las redes sociales arden a diario... Los partidos NUEVA IZQUIERDA y ESPAÑA LIBERAL se enfrentan en las próximas elecciones generales. Laura, una progre perroflauta y Pablo, un pijo con fachaleco, están dispuestos a revolcarse en el fango político para conseguir la victoria de sus respectivos líderes. Pero como ocurre siempre en política, cuando los rivales se lanzan a la arena, nada sale como se espera. Viejos rencores, programas sin cumplir y amores prohibidos viajarán en una maquinaria electoral a todo gas y sin frenos... ¿Qué puede salir mal?",
+                    "genre": "Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/superdetective-en-hollywood-axel-f/",
+                        "url": "/pelicula/politicamente-incorrectos/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -544,23 +544,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

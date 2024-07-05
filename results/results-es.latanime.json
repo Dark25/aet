@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dragon-ball-z-kai-castellano",
+                                "title": "Dragon Ball Z Kai Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/dragon-ball-z-kai-castellano-1720194032.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/ririsa-una-chica-en-25d-latino",
+                                "title": "Ririsa, una chica en 2.5D Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/ririsa-una-chica-en-25d-latino-1720187447.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/alya-sometimes-hides-her-feelings-in-russian-latino",
                                 "title": "Alya Sometimes Hides Her Feelings in Russian Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/alya-sometimes-hides-her-feelings-in-russian-latino-1720132776.jpg?v=1.5"
@@ -145,16 +155,6 @@
                                 "url": "/anime/los-diarios-de-la-boticaria",
                                 "title": "Los Diarios De La Boticaria",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/los-diarios-de-la-boticaria-1710619006.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/horizontes-pokemon-latino",
-                                "title": "Horizontes Pokémon Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/horizontes-pokemon-latino-1710018762.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/sister-princess-latino",
-                                "title": "Sister Princess Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/sister-princess-latino-1708651938.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,21 +324,42 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/alya-sometimes-hides-her-feelings-in-russian-latino",
-                    "title": "Alya Sometimes Hides Her Feelings in Russian Latino",
-                    "description": "Alya es una estudiante recién transferida que disfruta de tener buenas calificaciones y mucha popularidad en su nueva preparatoria, aunque lo habitual es que luzca muy fría. No suele hablar nunca con un compañero de clase muy estudioso llamado Kuza Masachika, y cuando lo hace, es para decirle algún halago en ruso. Lo que ella no sabe es que Kuze entiende el ruso, aunque hace ver que no. ¡Comprobemos hasta dónde llega esta curiosa historia de amor!",
-                    "genre": "Comedia, Escolares, Romance",
+                    "url": "/anime/dragon-ball-z-kai-castellano",
+                    "title": "Dragon Ball Z Kai Castellano",
+                    "description": "Dragon Ball Kai es un remake/revisión de la serie Dragon Ball Z, producida en conmemoración de su 20 aniversario. Comenzó a emitirse en abril de 2009. Cuenta con animación mejorada, soporte para imagen en alta definición, nuevos efectos especiales y todas las voces fueron regrabadas por los actores de doblaje originales. Pese a que sigue la misma historia que Dragon Ball Z, esta vez se reducirá drásticamente con la intención de acercarla más a lo narrado en el manga, dejando la serie en un total de 159 episodios, frente a los 291 que componían Dragon Ball Z.",
+                    "genre": "Acción, Aventura, Comedia, Fantasía, Shonen, Artes Marciales",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/dragon-ball-z-kai-castellano-episodio-5",
+                        "name": "Dragon Ball Z Kai Castellano Capitulo 5",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/ver/dragon-ball-z-kai-castellano-episodio-4",
+                        "name": "Dragon Ball Z Kai Castellano Capitulo 4",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxudjucz3b4quuoh2rew2qwij6ld2f6555rc4fzacmd2swowy67ytaj4fz5uhdzky26gtfs/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 720p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxudjucz3b4quuoh2rew2qwij6ld2f6555rc4fzacmd2swowy67ytaj4fz5uhdzky26gtfs/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

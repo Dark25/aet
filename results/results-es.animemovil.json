@@ -7,6 +7,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/cardfight-vanguard-divinez-season-2",
+                                "title": "Cardfight!! Vanguard: Divinez Season 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4236.webp"
+                            },
+                            {
+                                "url": "/kono-sekai-wa-fukanzen-sugiru",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4235.webp"
+                            },
+                            {
+                                "url": "/dungeon-no-naka-no-hito",
+                                "title": "Dungeon no Naka no Hito",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4234.webp"
+                            },
+                            {
+                                "url": "/nier-automata-ver1-1a-cour-2",
+                                "title": "NieR:Automata Ver1.1a Part 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4233.webp"
+                            },
+                            {
+                                "url": "/yaneura-no-rudger",
+                                "title": "Yaneura no Rudger",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4232.webp"
+                            },
+                            {
+                                "url": "/2-5-jigen-no-ririsa",
+                                "title": "2.5-jigen no Ririsa",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4231.webp"
+                            },
+                            {
                                 "url": "/senpai-wa-otokonoko",
                                 "title": "Senpai wa Otokonoko",
                                 "status": 1,
@@ -89,42 +125,6 @@
                                 "title": "Gimai Seikatsu",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4217.webp"
-                            },
-                            {
-                                "url": "/boku-no-tsuma-wa-kanjou-ga-nai",
-                                "title": "Boku no Tsuma wa Kanjou ga Nai",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4216.webp"
-                            },
-                            {
-                                "url": "/seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
-                                "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
-                                "status": 2,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4215.webp"
-                            },
-                            {
-                                "url": "/isekai-suicide-squad",
-                                "title": "Isekai Suicide Squad",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4214.webp"
-                            },
-                            {
-                                "url": "/kimitachi-wa-dou-ikiru-ka",
-                                "title": "Kimitachi wa Dou Ikiru ka",
-                                "status": 2,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4213.webp"
-                            },
-                            {
-                                "url": "/maougun-saikyou-no-majutsushi-wa-ningen-datta",
-                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4212.webp"
-                            },
-                            {
-                                "url": "/code-geass-dakkan-no-roze",
-                                "title": "Code Geass: Dakkan no Rozé",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4211.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,53 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/senpai-wa-otokonoko",
-                    "title": "Senpai wa Otokonoko",
-                    "description": "¿Puede el amor verdadero realmente superar algún obstáculo? Saki, una estudiante de secundaria, le confiesa sus sentimientos a Makoto. Desconcertado, Makoto revela su secreto, pero el repentino descubrimiento no parece molestar a Saki, quien ya está perdidamente enamorada de él. Después de ser rechazada, Saki le pide a Ryuji, el amigo de la infancia de Makoto, algunos consejos sobre cómo ganarse su corazón. Se desarrolla un triángulo amoroso cuando Ryuji se da cuenta de que también podría sentir algo por su viejo amigo.",
-                    "genre": "Escolares, Romance",
+                    "url": "/cardfight-vanguard-divinez-season-2",
+                    "title": "Cardfight!! Vanguard: Divinez Season 2",
+                    "description": "Segunda temporada de CARDFIGHT!! VANGUARD Divinez",
+                    "genre": "Acción, Comedia, Juegos",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4230.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4236.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/senpai-wa-otokonoko-1",
-                        "name": "Episodio 1",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxtteucz3b4quuohwraekcldfujuw3k4dtnkhreqqog3uppvjucffundsqoy5sc2ievcylb/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxtteucz3b4quuohwraekcldfujuw3k4dtnkhreqqog3uppvjucffundsqoy5sc2ievcylb/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m60.uqload.to/3rfkoqv3tzw2q4drdli7v4filttinw5cmiy55z3lnhmtgpi4ggwakcga4qpq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m60.uqload.to/3rfkoqv3tzw2q4drdli7v4filttinw5cmiy55z3lnhmtgpi4ggwakcga4qpq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=9yzmdkZz4Jha80m&expires=1720251197&ip=FROsD0ETKxSHDN&token=wFQ0fVWkUiik",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=9yzmdkZz4Jha80m&expires=1720251197&ip=FROsD0ETKxSHDN&token=wFQ0fVWkUiik"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

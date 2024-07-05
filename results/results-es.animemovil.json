@@ -276,12 +276,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/senpai-wa-otokonoko-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsxtteucz3b4quuohwraekcldfujuw3k4dtnkhreqqonlst5bnt4fll7rkyx2xk77xmx5bp5/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxtteucz3b4quuohwraekcldfujuw3k4dtnkhreqqonlst5bnt4fll7rkyx2xk77xmx5bp5/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m60.uqload.to/3rfkoqv3tzw2q4drdli7v4filttinw5cmiy55z3lnhmthbihumgyn3twc7iq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m60.uqload.to/3rfkoqv3tzw2q4drdli7v4filttinw5cmiy55z3lnhmthbihumgyn3twc7iq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=9yzmdkZz4Jha80m&expires=1720208460&ip=F0qQKRWZD19XKxR&token=3UOfWtICsY8K",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=9yzmdkZz4Jha80m&expires=1720208460&ip=F0qQKRWZD19XKxR&token=3UOfWtICsY8K"
+                    }
+                ],
+                "passed": true
             }
         }
     }

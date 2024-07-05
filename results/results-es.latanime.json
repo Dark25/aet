@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/alya-sometimes-hides-her-feelings-in-russian-latino",
+                                "title": "Alya Sometimes Hides Her Feelings in Russian Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/alya-sometimes-hides-her-feelings-in-russian-latino-1720132776.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/ai-tenchi-muyo-latino",
                                 "title": "Ai Tenchi Muyo! Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/ai-tenchi-muyo-latino-1719796346.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/sister-princess-latino",
                                 "title": "Sister Princess Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/sister-princess-latino-1708651938.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kuroko-no-basket-s2-latino",
-                                "title": "Kuroko no Basket S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kuroko-no-basket-s2-latino-1707357957.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,72 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ai-tenchi-muyo-latino",
-                    "title": "Ai Tenchi Muyo! Latino",
-                    "description": "\"¡¿Tenchi se convierte en profesor de una escuela exclusiva para chicas?!\" Una vez más, el mundo enfrenta una situación crítica debido a problemas causados por Washu. Para contrarrestar esta crisis, Tenchi Masaki decide unirse como profesor practicante en la Academia Junai, una escuela femenina en la Prefectura de Okayama. Sin embargo, debido a su naturaleza propensa a meterse en problemas, Tenchi se ve envuelto en varios dilemas. Así comienza su nueva vida como docente, enfrentando dificultades con las chicas del Consejo Estudiantil y el Club de Ciencias. ¿Podrá usar toda su astucia para cumplir con su labor?",
-                    "genre": "Ciencia Ficción, Comedia, Ecchi",
+                    "url": "/anime/alya-sometimes-hides-her-feelings-in-russian-latino",
+                    "title": "Alya Sometimes Hides Her Feelings in Russian Latino",
+                    "description": "Alya es una estudiante recién transferida que disfruta de tener buenas calificaciones y mucha popularidad en su nueva preparatoria, aunque lo habitual es que luzca muy fría. No suele hablar nunca con un compañero de clase muy estudioso llamado Kuza Masachika, y cuando lo hace, es para decirle algún halago en ruso. Lo que ella no sabe es que Kuze entiende el ruso, aunque hace ver que no. ¡Comprobemos hasta dónde llega esta curiosa historia de amor!",
+                    "genre": "Comedia, Escolares, Romance",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/ai-tenchi-muyo-latino-episodio-25",
-                        "name": "Ai Tenchi Muyo! Latino Capitulo 25",
-                        "episode_number": 25.0
-                    },
-                    {
-                        "url": "/ver/ai-tenchi-muyo-latino-episodio-24",
-                        "name": "Ai Tenchi Muyo! Latino Capitulo 24",
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=5&sig=IPJjw56uuwY&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=5&sig=IPJjw56uuwY&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045"
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxwk3edz3b4quuoekre2zqskokooub5bhlmftex3yne4htvx374nfwscsrpjpuoj7ojugtl/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxwk3edz3b4quuoekre2zqskokooub5bhlmftex3yne4htvx374nfwscsrpjpuoj7ojugtl/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=3&sig=UKoxJ9MmErA&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=3&sig=UKoxJ9MmErA&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045"
-                    },
-                    {
-                        "url": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=2&sig=UV2Eczn2XpE&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=2&sig=UV2Eczn2XpE&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045"
-                    },
-                    {
-                        "url": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=1&sig=EWABf3pM0dM&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=1&sig=EWABf3pM0dM&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045"
-                    },
-                    {
-                        "url": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=0&sig=nSqhAW_v5-o&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=0&sig=nSqhAW_v5-o&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045"
-                    },
-                    {
-                        "url": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=4&sig=sSGXCRgqBls&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://vd355.mycdn.me/?expires=1720202767296&srcIp=52.234.33.119&pr=10&srcAg=GECKO&ms=45.136.21.70&type=4&sig=sSGXCRgqBls&ct=0&urls=185.226.52.42&clientType=0&zs=43&id=7028468288045"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

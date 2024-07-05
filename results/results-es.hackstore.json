@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/dragonball-evolucion-2009/",
+                                "title": "DragonBall Evolución (2009)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/wMCD0CYAFlVxbP33Xgh7sexhRkC.jpg"
+                            },
+                            {
+                                "url": "/peliculas/codigo-flecha-rota-1996/",
+                                "title": "Código flecha rota (1996)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/Codigo-flecha-rota-1996-scaled.jpg"
+                            },
+                            {
+                                "url": "/peliculas/un-detective-suelto-en-hollywood-axel-f-2024/",
+                                "title": "Un detective suelto en Hollywood: Axel F. (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/kmIaT03NZ58gmc0pQZkFUCqMcf1.jpg"
+                            },
+                            {
                                 "url": "/peliculas/novata-espacial-2024/",
                                 "title": "Novata Espacial (2024)",
                                 "description": "",
@@ -95,24 +113,6 @@
                                 "title": "Furiosa: De la Saga Mad Max (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/06/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg"
-                            },
-                            {
-                                "url": "/peliculas/un-zoologico-en-casa-2011/",
-                                "title": "Un Zoologico en Casa (2011)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/06/Un-Zoologico-en-Casa-2011.jpg"
-                            },
-                            {
-                                "url": "/peliculas/gangster-americano-2007/",
-                                "title": "Gángster Americano (2007)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/06/Gangster-Americano-2007-scaled.jpg"
-                            },
-                            {
-                                "url": "/peliculas/jonah-hex-2010/",
-                                "title": "Jonah Hex (2010)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/06/iNQvBSgWAusU9r32y38vmAgDE91.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/novata-espacial-2024/",
-                    "title": "Novata Espacial (2024)",
-                    "artist": "Dave Foley",
-                    "author": "Liz W. Garcia",
-                    "description": "Tiffany “Rex” Simpson (Emma Roberts) siempre soñó con ir al espacio, y con su aplicación “retocada” consigue un lugar en el supercompetitivo programa de entrenamiento de astronautas de la NASA. En aprietos, ¿podrá esta chica de Florida recurrir a su astucia, agallas y determinación para terminar el entrenamiento y viajar al espacio antes de que se descubra su secreto?",
-                    "genre": "Comedia, Romance",
+                    "url": "/peliculas/dragonball-evolucion-2009/",
+                    "title": "DragonBall Evolución (2009)",
+                    "artist": "Chow Yun-Fat",
+                    "author": "James Wong Elenco: Chow Yun-Fat",
+                    "description": "La aventura de Goku comienza de forma bastante inocente en el exterior de la casa de su abuelo, donde Gohan está adiestrando al joven en unas exóticas técnicas marciales. Goku cumple ese día 18 años, y el regalo de Gohan a su nieto es una Bola de Dragón, una esfera pequeña y redonda cuya superficie es blanda y anacarada pero con una blanca translucidez que le proporciona profundidad. Cuatro estrellas flotan en el interior de la esfera. Sólo existen seis más como ella en el mundo, y se dice que cuando las siete Bolas de Dragón están juntas pueden conceder cualquier deseo a quien las posee. Las Bolas de Dragón tienen conexión tanto con el misterioso pasado del propio Goku como con el próximo eclipse solar, que la superstición señala como el inicio del Apocalipsis. Gohan promete contarle todo a Goku durante la cena especial de cumpleaños que está preparando para su nieto.",
+                    "genre": "Acción, Aventura, Ciencia ficción, Fantasía, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/wMCD0CYAFlVxbP33Xgh7sexhRkC-212x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/novata-espacial-2024/",
+                        "url": "/peliculas/dragonball-evolucion-2009/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,61 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v5jtd49o.sw-cdnstreamwish.com/hls2/01/03206/t0frnx7xcqca_n/index-v1-a1.m3u8?t=6pioe7wFieMOM9qdgGupkuejrxr-VgRMqLjT1jqdRu0&s=1720138471&e=129600&f=16030604&srv=hkpl82vl0bni&i=0.0&sp=500&p1=hkpl82vl0bni&p2=hkpl82vl0bni&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://v5jtd49o.sw-cdnstreamwish.com/hls2/01/03206/t0frnx7xcqca_n/index-v1-a1.m3u8?t=6pioe7wFieMOM9qdgGupkuejrxr-VgRMqLjT1jqdRu0&s=1720138471&e=129600&f=16030604&srv=hkpl82vl0bni&i=0.0&sp=500&p1=hkpl82vl0bni&p2=hkpl82vl0bni&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/t0frnx7xcqca"
+                        }
+                    },
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/05636/nxa3ycfwi3vj_o/index-v1-a1.m3u8?t=Iamkv5gVi5a0JsyqBQqXedXkL7-OFHX1OL5QeaSdhpU&s=1720138469&e=43200&f=28183271&srv=22&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:536p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/05636/nxa3ycfwi3vj_o/index-v1-a1.m3u8?t=Iamkv5gVi5a0JsyqBQqXedXkL7-OFHX1OL5QeaSdhpU&s=1720138469&e=43200&f=28183271&srv=22&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/05636/nxa3ycfwi3vj_n/index-v1-a1.m3u8?t=Iamkv5gVi5a0JsyqBQqXedXkL7-OFHX1OL5QeaSdhpU&s=1720138469&e=43200&f=28183271&srv=22&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:536p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/05636/nxa3ycfwi3vj_n/index-v1-a1.m3u8?t=Iamkv5gVi5a0JsyqBQqXedXkL7-OFHX1OL5QeaSdhpU&s=1720138469&e=43200&f=28183271&srv=22&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://be5vhfd378.sw-cdnstreamwish.com/hls2/01/03206/62s6n9urjdhh_n/index-v1-a1.m3u8?t=cOOhv_SyDrx7VGphh_y78q-Ij9tQ9jwu0sRwza91lCo&s=1720138468&e=129600&f=16030526&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[CAST] StreamWish:260p",
+                        "videoUrl": "https://be5vhfd378.sw-cdnstreamwish.com/hls2/01/03206/62s6n9urjdhh_n/index-v1-a1.m3u8?t=cOOhv_SyDrx7VGphh_y78q-Ij9tQ9jwu0sRwza91lCo&s=1720138468&e=129600&f=16030526&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/62s6n9urjdhh"
+                        }
+                    },
+                    {
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/05636/r11q415dve7p_n/index-v1-a1.m3u8?t=e6ZVJnYv7EY4MJdUA-RHZuhv_dTygCRVbUSZbF65toI&s=1720138470&e=43200&f=28183256&srv=17&asn=8075&sp=4000",
+                        "quality": "[CAST] Filemoon:260p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/05636/r11q415dve7p_n/index-v1-a1.m3u8?t=e6ZVJnYv7EY4MJdUA-RHZuhv_dTygCRVbUSZbF65toI&s=1720138470&e=43200&f=28183256&srv=17&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

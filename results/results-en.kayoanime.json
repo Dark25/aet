@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/2-5-dimensional-seduction-episode-1-english-subbed/",
+                                "title": "2.5 Dimensional Seduction",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/07/2-5-dimensional-seduction-episode-1-english-subbed-390x220.jpg"
+                            },
+                            {
                                 "url": "/i-parry-everything-episode-1-english-subbed/",
                                 "title": "I Parry Everything",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/07/i-parry-everything-episode-1-english-subbed-390x220.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/alya-sometimes-hides-her-feelings-in-russian-episode-1-english-subbed/",
                                 "title": "Alya Sometimes Hides Her Feelings in Russian",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/06/alya-sometimes-hides-her-feelings-in-russian-episode-1-english-subbed-390x220.jpg"
-                            },
-                            {
-                                "url": "/kaiju-no-8-episode-12-english-subbed/",
-                                "title": "Kaiju No. 8",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/06/kaiju-no-8-episode-12-english-subbed-390x220.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/2-5-dimensional-seduction-episode-1-english-subbed/",
+                                "title": "2.5 Dimensional Seduction",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/07/2-5-dimensional-seduction-episode-1-english-subbed-220x150.jpg"
+                            },
                             {
                                 "url": "/i-parry-everything-episode-1-english-subbed/",
                                 "title": "I Parry Everything",
@@ -85,11 +90,6 @@
                                 "url": "/senpai-is-an-otokonoko-episode-1-english-subbed/",
                                 "title": "Senpai is an Otokonoko",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/07/senpai-is-an-otokonoko-episode-1-english-subbed-220x150.jpg"
-                            },
-                            {
-                                "url": "/oshi-no-ko-season-2-episode-1-english-subbed/",
-                                "title": "Oshi No Ko Season 2",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/07/oshi-no-ko-season-2-episode-1-english-subbed-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -159,18 +159,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/i-parry-everything-episode-1-english-subbed/",
-                    "author": "OLM",
-                    "description": "\n\nType: TV\nEpisodes: 12\nStatus: Currently Airing\nAired: Jul 5, 2024 to ?\nPremiered: Summer 2024\nBroadcast: Fridays at 00:00 (JST)\nProducers: None found, add some\nLicensors: Sentai Filmworks\nStudios: OLM\nSource: Light novel\nGenres: Action, Adventure, Fantasy\nDuration: Unknown\nRating: None",
-                    "genre": "Action, Adventure, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/2-5-dimensional-seduction-episode-1-english-subbed/",
+                    "author": "J.C.Staff",
+                    "description": "\n\nType: TV\nEpisodes: 24\nStatus: Not yet aired\nAired: Jul 5, 2024 to ?\nPremiered: Summer 2024\nBroadcast: Fridays at 22:30 (JST)\nProducers: Magic Capsule, Shueisha\nLicensors: Sentai Filmworks\nStudios: J.C.Staff\nSource: Manga\nGenres: Comedy, Ecchi\nThemes: Harem, Otaku Culture, School\nDemographic: Shounen\nDuration: Unknown\nRating: None",
+                    "genre": "Comedy, Ecchi",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

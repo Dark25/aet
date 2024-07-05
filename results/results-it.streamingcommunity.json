@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9055-una-parte-di-me",
+                                "title": "Una parte di me",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/0d348c9b-ceac-48ea-8c07-c0cddde0d541.webp"
+                            },
+                            {
                                 "url": "9050-fly-me-to-the-moon-le-due-facce-della-luna",
                                 "title": "Fly Me to the Moon - Le due facce della luna",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/86325c2a-2df7-4685-bfb4-2e72dbed9af2.webp"
@@ -45,6 +50,11 @@
                                 "url": "9002-come-unonda",
                                 "title": "Come un'onda",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/4074e979-7aa1-4ff8-99d0-a2ccb71591d3.webp"
+                            },
+                            {
+                                "url": "9057-goyo",
+                                "title": "Goyo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/04b6b963-ce35-4ec2-847f-a18132daeb5c.webp"
                             },
                             {
                                 "url": "9011-wondla",
@@ -295,16 +305,6 @@
                                 "url": "8580-atlas",
                                 "title": "Atlas",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/53cde44f-f2fc-49f0-969c-e4241d325c47.webp"
-                            },
-                            {
-                                "url": "8578-tires",
-                                "title": "Tires",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/bb2c04de-3bd5-41b9-a21c-4d777a637b96.webp"
-                            },
-                            {
-                                "url": "8579-in-buone-mani-2",
-                                "title": "In buone mani 2",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/5ad32f64-d4fc-4be3-96be-de4bf4fc164e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9056-american-barbecue",
+                                "title": "American Barbecue",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/40db06ef-042d-4a7c-a286-92751ee6f7f2.webp"
+                            },
                             {
                                 "url": "9054-hit-man-killer-per-caso",
                                 "title": "Hit Man - Killer per caso",
@@ -610,11 +615,6 @@
                                 "url": "8982-galaxy-quest",
                                 "title": "Galaxy Quest",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/abf65357-df2e-4a09-ad50-fc9be804523a.webp"
-                            },
-                            {
-                                "url": "8981-la-nona-porta",
-                                "title": "La nona porta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/cae0a149-d972-4bc6-953f-3083b20b4f04.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9050-fly-me-to-the-moon-le-due-facce-della-luna",
-                    "description": "Ambientato nel contesto dello storico allunaggio NASA dell’Apollo 11. Assunta per rilanciare l’immagine pubblica della NASA, Kelly Jones (Johansson), ragazza prodigio del marketing, si scontrerà con Cole Davis (Tatum), direttore del programma di lancio,  creando scompiglio nel suo già difficile compito. Quando la Casa Bianca ritiene che la missione sia troppo importante per fallire, Kelly Jones viene incaricata di inscenare un finto sbarco sulla Luna come piano di riserva. A quel punto il conto alla rovescia inizia davvero...",
-                    "genre": "Commedia, Romance",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9055-una-parte-di-me",
+                    "description": "Per un raro fenomeno, una donna resta incinta di due gemelli da due uomini diversi. Con il passare del tempo fa di tutto per tenere unita la famiglia... e i segreti ben nascosti.",
+                    "genre": "Dramma",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,16 +946,139 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9050",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9055?episode_id=68672&next_episode=1",
+                        "name": "Stagione 1 episodio 17 - La mia metà",
+                        "episode_number": 17.0
+                    },
+                    {
+                        "url": "9055?episode_id=68675&next_episode=1",
+                        "name": "Stagione 1 episodio 16 - Causa ed effetto",
+                        "episode_number": 16.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/242024?type=video&rendition=1080p&token=uPtmiUvzLVScF--FnyBuOQ&expires=1725365217&edge=sc-u5-01",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/242024?type=video&rendition=1080p&token=uPtmiUvzLVScF--FnyBuOQ&expires=1725365217&edge=sc-u5-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=3-por&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Portuguese (Brazilian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=4-ger&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=5-eng&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=6-eng&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=7-fre&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=8-forced-ita&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=9-ita&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=10-ukr&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/242024?type=video&rendition=720p&token=YXOY2M0ZDdXTy-07dV3uiA&expires=1725365217&edge=sc-u5-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/242024?type=video&rendition=720p&token=YXOY2M0ZDdXTy-07dV3uiA&expires=1725365217&edge=sc-u5-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=3-por&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Portuguese (Brazilian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=4-ger&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=5-eng&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=6-eng&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=7-fre&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=8-forced-ita&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=9-ita&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=10-ukr&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/242024?type=video&rendition=480p&token=IYrEq2OhQAuezOoHRnz5nA&expires=1725365217&edge=sc-u5-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/242024?type=video&rendition=480p&token=IYrEq2OhQAuezOoHRnz5nA&expires=1725365217&edge=sc-u5-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=3-por&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Portuguese (Brazilian)"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=4-ger&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=5-eng&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=6-eng&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=7-fre&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=8-forced-ita&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=9-ita&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/242024?type=subtitle&rendition=10-ukr&token=xyZ2ctZA1ERkIVvd976lCw&expires=1725365217&edge=sc-u5-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

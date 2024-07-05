@@ -7,19 +7,24 @@
                     {
                         "animes": [
                             {
-                                "url": "{\"id\":1022789,\"media_type\":\"movie\"}",
-                                "title": "Inside Out 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
-                            },
-                            {
                                 "url": "{\"id\":786892,\"media_type\":\"movie\"}",
                                 "title": "Furiosa: A Mad Max Saga",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
                             },
                             {
+                                "url": "{\"id\":1022789,\"media_type\":\"movie\"}",
+                                "title": "Inside Out 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+                            },
+                            {
                                 "url": "{\"id\":653346,\"media_type\":\"movie\"}",
                                 "title": "Kingdom of the Planet of the Apes",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+                            },
+                            {
+                                "url": "{\"id\":519182,\"media_type\":\"movie\"}",
+                                "title": "Despicable Me 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
                             },
                             {
                                 "url": "{\"id\":573435,\"media_type\":\"movie\"}",
@@ -30,11 +35,6 @@
                                 "url": "{\"id\":150540,\"media_type\":\"movie\"}",
                                 "title": "Inside Out",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
-                            },
-                            {
-                                "url": "{\"id\":519182,\"media_type\":\"movie\"}",
-                                "title": "Despicable Me 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
                             },
                             {
                                 "url": "{\"id\":704673,\"media_type\":\"movie\"}",
@@ -203,11 +203,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg"
                             },
                             {
-                                "url": "{\"id\":114565,\"media_type\":\"tv\"}",
-                                "title": "Seol Min-seok's Naked World History",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//7iGhlgpoUr7GddxAioxffROrWlZ.jpg"
-                            },
-                            {
                                 "url": "{\"id\":10463,\"media_type\":\"tv\"}",
                                 "title": "Dave's World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//pAv15TI2wRZiS07D2z5rgdPtdKv.jpg"
@@ -216,6 +211,11 @@
                                 "url": "{\"id\":155942,\"media_type\":\"tv\"}",
                                 "title": "Handyman Saitou in Another World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//xp404PMU2cGsODMTIkkUizbYhcm.jpg"
+                            },
+                            {
+                                "url": "{\"id\":237150,\"media_type\":\"tv\"}",
+                                "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jsugIfxS7mg7G254ZOi6b4jDIgM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -225,10 +225,10 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":1022789,\"media_type\":\"movie\"}",
-                    "author": "Walt Disney Pictures, Pixar",
-                    "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.\n\nRelease date: 2024-06-11\nLanguages: English (English)\n",
-                    "genre": "Animation, Family, Adventure, Comedy",
+                    "url": "{\"id\":786892,\"media_type\":\"movie\"}",
+                    "author": "Warner Bros. Pictures, Kennedy Miller Mitchell, Domain Entertainment",
+                    "description": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.\n\nRelease date: 2024-05-22\nLanguages: English (English)\n",
+                    "genre": "Action, Adventure, Science Fiction",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -238,16 +238,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/1022789",
+                        "url": "/movie/786892",
                         "name": "Movie",
-                        "date_upload": 1718064000000,
+                        "date_upload": 1716336000000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape (%) pattern - Error at index 0 in: \"�Z\"",
                 "passed": false
             }
         }

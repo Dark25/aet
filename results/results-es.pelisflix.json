@@ -8,9 +8,9 @@
                         "animes": [
                             {
                                 "url": "/pelicula/mi-villano-favorito-4/",
-                                "title": "Mi villano favorito 4",
+                                "title": "Gru 4 - Mi villano favorito 4",
                                 "description": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gr...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/575D3PTuwbxvjq53A93APu4lnAu4wZGsWB.webp"
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/RkgEXrYcdX8m0kq3hCAS4dKQ1crmbu3TF9os.webp"
                             },
                             {
                                 "url": "/pelicula/infiltrada-en-la-nasa/",
@@ -548,19 +548,19 @@
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

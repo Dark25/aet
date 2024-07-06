@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/elf-san-wa-yaserarenai",
+                                "title": "Elf-san wa Yaserarenai.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933649.jpg"
+                            },
+                            {
+                                "url": "/anime/tensui-no-sakuna-hime",
+                                "title": "Tensui no Sakuna-hime",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933648.jpg"
+                            },
+                            {
+                                "url": "/anime/mob-kara-hajimaru-tansaku-eiyuutan",
+                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933647.jpg"
+                            },
+                            {
+                                "url": "/anime/madougushi-dahliya-wa-utsumukanai",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933646.jpg"
+                            },
+                            {
+                                "url": "/anime/nige-jouzu-no-wakagimi",
+                                "title": "Nige Jouzu no Wakagimi",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933645.jpg"
+                            },
+                            {
+                                "url": "/anime/monogatari-series-off-monster-season-english-subbed",
+                                "title": "Monogatari Series: Off & Monster Season English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933644.jpg"
+                            },
+                            {
                                 "url": "/anime/quality-assurance-in-another-world",
                                 "title": "Quality Assurance in Another World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933643.jpg"
@@ -55,36 +85,6 @@
                                 "url": "/anime/ramen-akaneko",
                                 "title": "Ramen Akaneko",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933634.jpg"
-                            },
-                            {
-                                "url": "/anime/giji-harem",
-                                "title": "Giji Harem",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933633.jpg"
-                            },
-                            {
-                                "url": "/anime/tasogare-out-focus",
-                                "title": "Tasogare Out Focus",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933632.jpg"
-                            },
-                            {
-                                "url": "/anime/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-                                "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933631.jpg"
-                            },
-                            {
-                                "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933630.jpg"
-                            },
-                            {
-                                "url": "/anime/tasuuketsu",
-                                "title": "Tasuuketsu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933629.jpg"
-                            },
-                            {
-                                "url": "/anime/kit-n-kate",
-                                "title": "Kit n Kate",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933628.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/quality-assurance-in-another-world",
-                    "title": "Quality Assurance in Another World",
-                    "description": "Nikola is just a village girl working at the inn…until the day dragons invade, and she meets Haga, a scholar of everything around him. He’s a part of an elite society called “Seeker,” created to address a series of maladies plaguing their usually peaceful world. But both Nikola and Haga have secrets they hide…ones that will change each other’s very existence…",
-                    "genre": "Adventure, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933643.jpg",
+                    "url": "/anime/elf-san-wa-yaserarenai",
+                    "title": "Elf-san wa Yaserarenai.",
+                    "description": "Naoe-kun, a massage therapist, is about to head home for the day when he’s saddled with a rather strange patient. This lovely lady has emerald eyes, pointy ears, and grew up in the forest—everything about her screams “elf,” except for one thing: her bodacious body. It turns out she left her world but loves junk food in this one, and now her obsession has caught up with her. Can Naoe-kun help this loveable elf girl lose the weight—and keep it off?",
+                    "genre": "Comedy, Ecchi, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933649.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/quality-assurance-in-another-world-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2haMwyGa1HSzBFv8-UmtrSmTJ0LHP5SQip_C8XtXKwinJRMjZLehdOldYItAUkJEF7fiVoMcIC-9rvEkd3U2yTebNvWUGPUulM4fsN7eg3CBrrZZ4CmmZ64xWbckWe1_vRgU6_MASxSW6vGZOPyz7RcgDJHuhkR-LC2VbBADishtSIhN5bR-5BWMtySTDLE_In7eMq8ezj9O6zp0BKk_YNBt35M1ZBvNs3Mv4YHQvaN4AfuCxrZIZ1xNTxOI_fEK18zsqobWw5NtkmsgfW44lVy53zttXp4ppvZC98rDhckfQx116sLlBYghmN_VTgj99YdkxxGmj8nTcCyfE6jlOT4mZB8vmXAm3pUQOdyDMZ0W98hVNrLQwn9d8QpmLxsPJAXEdLuScosKEiD21F5g5dF2Hai2VLOnstdZGq_En34lRAI-ke5AHFmFXzV1J07YbQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2haMwyGa1HSzBFv8-UmtrSmTJ0LHP5SQip_C8XtXKwinJRMjZLehdOldYItAUkJEF7fiVoMcIC-9rvEkd3U2yTebNvWUGPUulM4fsN7eg3CBrrZZ4CmmZ64xWbckWe1_vRgU6_MASxSW6vGZOPyz7RcgDJHuhkR-LC2VbBADishtSIhN5bR-5BWMtySTDLE_In7eMq8ezj9O6zp0BKk_YNBt35M1ZBvNs3Mv4YHQvaN4AfuCxrZIZ1xNTxOI_fEK18zsqobWw5NtkmsgfW44lVy53zttXp4ppvZC98rDhckfQx116sLlBYghmN_VTgj99YdkxxGmj8nTcCyfE6jlOT4mZB8vmXAm3pUQOdyDMZ0W98hVNrLQwn9d8QpmLxsPJAXEdLuScosKEiD21F5g5dF2Hai2VLOnstdZGq_En34lRAI-ke5AHFmFXzV1J07YbQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2haMwyGa1HSzBFv8-UmtrSmTJ0LHP5SQip_C8XtXKwinJRMjZLehdOldYItAUkJEF7fiVoMcIC-9rvEkd3U2yTebNvWUGPUulM4fsN7eg3CBrrZZ4CmmZ64xWbckWe1_vRgU6_MASxSW6vGZOPyz7RcgDJHuhkR-LC2VbBADishtcsXZxXnFYgrcq7OaeB3kDIXtDoOulFURUpI5fDudzpuuSOpOtjqReyUMckoVUc7RLiTJjHQzIPWnq9rW9qOG6sy6k5kF8Iz_4r_k5m7h2MzKLf68Y_zXmuWluiPLihJ2CN9MZaKThRnniim9yFWDraD1iEddGIr6HJVlyqr7Ui63O2LgmkVGDm77D7xo7LO5qvDEoBV3-Jek1SI6gNG3eH--9nnYrKeI4oIGbg2OyoyX41VulhGBy97Pw7BgKvkNmh5SR1zeMK10ngAbowJcI8",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2haMwyGa1HSzBFv8-UmtrSmTJ0LHP5SQip_C8XtXKwinJRMjZLehdOldYItAUkJEF7fiVoMcIC-9rvEkd3U2yTebNvWUGPUulM4fsN7eg3CBrrZZ4CmmZ64xWbckWe1_vRgU6_MASxSW6vGZOPyz7RcgDJHuhkR-LC2VbBADishtcsXZxXnFYgrcq7OaeB3kDIXtDoOulFURUpI5fDudzpuuSOpOtjqReyUMckoVUc7RLiTJjHQzIPWnq9rW9qOG6sy6k5kF8Iz_4r_k5m7h2MzKLf68Y_zXmuWluiPLihJ2CN9MZaKThRnniim9yFWDraD1iEddGIr6HJVlyqr7Ui63O2LgmkVGDm77D7xo7LO5qvDEoBV3-Jek1SI6gNG3eH--9nnYrKeI4oIGbg2OyoyX41VulhGBy97Pw7BgKvkNmh5SR1zeMK10ngAbowJcI8"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2haMwyGa1HSzBFv8-UmtrSmTJ0LHP5SQip_C8XtXKwinJRMjZLehdOldYItAUkJEF7fiVoMcIC-9rvEkd3U2yTebNvWUGPUulM4fsN7eg3CBrrZZ4CmmZ64xWbckWe1_vRgU6_MASxSW6vGZOPyz7RcgDJHuhkR-LC2VbBADishtfo4o90B-ywA3381sP_2qNTWRUWJTgYxoKgbZ5Wha2CSjakJRy4WzKbvTcWEl1sIQlk-SM8COhzPNnD51z3P_eDCBj1QoAybBguWilkTMM8n1QZUyNRAHu8hLeTjfwaPMzUgZKfxky4tyPoG7HCNLyrmdCVjVKPp1I2SNFmOg8StJyoIUTIPc2CVufWEigGrYqpegce51w9s_jYbSlHCZJTOCyLBIfgxKvURZGhdzVy53bEstttc0N_n4Mt1CoRBp__7ITp8nVV-c37KciHFKDo",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2haMwyGa1HSzBFv8-UmtrSmTJ0LHP5SQip_C8XtXKwinJRMjZLehdOldYItAUkJEF7fiVoMcIC-9rvEkd3U2yTebNvWUGPUulM4fsN7eg3CBrrZZ4CmmZ64xWbckWe1_vRgU6_MASxSW6vGZOPyz7RcgDJHuhkR-LC2VbBADishtfo4o90B-ywA3381sP_2qNTWRUWJTgYxoKgbZ5Wha2CSjakJRy4WzKbvTcWEl1sIQlk-SM8COhzPNnD51z3P_eDCBj1QoAybBguWilkTMM8n1QZUyNRAHu8hLeTjfwaPMzUgZKfxky4tyPoG7HCNLyrmdCVjVKPp1I2SNFmOg8StJyoIUTIPc2CVufWEigGrYqpegce51w9s_jYbSlHCZJTOCyLBIfgxKvURZGhdzVy53bEstttc0N_n4Mt1CoRBp__7ITp8nVV-c37KciHFKDo"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

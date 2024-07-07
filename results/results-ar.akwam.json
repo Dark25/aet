@@ -3,30 +3,23 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
+                "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
                 "passed": false
             }
         }

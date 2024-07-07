@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
                             },
                             {
-                                "url": "w39mxyQm5xxSaMQc9<&sep><&sep>the-new-gate",
-                                "title": "The New Gate",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
-                            },
-                            {
                                 "url": "XqKvkSEty5koms32i<&sep><&sep>bleach",
                                 "title": "Bleach",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png"
+                            },
+                            {
+                                "url": "w39mxyQm5xxSaMQc9<&sep><&sep>the-new-gate",
+                                "title": "The New Gate",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
                             },
                             {
                                 "url": "vDTSJHSpYnrkZnAvG<&sep><&sep>nato-shippuuden",
@@ -97,11 +97,6 @@
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1253/142886.jpg"
                             },
                             {
-                                "url": "diBoKGs7oLZTY9ShL<&sep><&sep>sentai-daishikkaku",
-                                "title": "Sentai Daishikkaku",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-2jUaUdiGBZQ8.jpg"
-                            },
-                            {
                                 "url": "gvwLtiYciaenJRoFy<&sep><&sep>kimetsu-no-yaiba",
                                 "title": "Kimetsu no Yaiba",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1264/111392.jpg"
@@ -110,6 +105,11 @@
                                 "url": "42rJA8uTPMKqWH6qw<&sep><&sep>gimai-seikatsu",
                                 "title": "Gimai Seikatsu",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152681-xtQiVOYDhr3p.jpg"
+                            },
+                            {
+                                "url": "diBoKGs7oLZTY9ShL<&sep><&sep>sentai-daishikkaku",
+                                "title": "Sentai Daishikkaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-2jUaUdiGBZQ8.jpg"
                             },
                             {
                                 "url": "QdcDzpRCfcjqHCNNg<&sep><&sep>yozakura-san-chi-no-daisakusen",
@@ -122,14 +122,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173694-XcwGOMBxboOO.png"
                             },
                             {
-                                "url": "ReHMC7TQnch3C6z8j<&sep><&sep>sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
-                            },
-                            {
                                 "url": "EbFttcGsJ5AmN6A68<&sep><&sep>ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
                                 "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg"
+                            },
+                            {
+                                "url": "ReHMC7TQnch3C6z8j<&sep><&sep>sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
                             },
                             {
                                 "url": "XJzfDyv8vsXWCMkTk<&sep><&sep>kny-3",
@@ -143,8 +143,144 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1007: Expected string literal but 'null' literal was found at path: $.data.shows.edges[4].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....a wa Utsumukanai\",\"thumbnail\":null,\"englishName\":null,\"nativ.....",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "48LSqzbA9D6Bvhihf<&sep><&sep>wushen-zhuzai",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1537/111213.jpg"
+                            },
+                            {
+                                "url": "DemxGScrqmeJT3wei<&sep><&sep>peerless-martial-spirit",
+                                "title": "Peerless Martial Spirit",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1183/110438.jpg"
+                            },
+                            {
+                                "url": "edPKR5wfPHapavFQQ<&sep><&sep>fairy-tail-100-nen-quest",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
+                            },
+                            {
+                                "url": "RZ8kKEvdYnFBZAQvj<&sep><&sep>tsue-to-tsurugi-no-wistoria",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
+                            },
+                            {
+                                "url": "iKcHqQDFiK7wQ8BRA<&sep><&sep>legend-of-xianwu-season-2",
+                                "title": "Legend of Xianwu Season 2",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/legend-of-xianwu-2nd-season.png"
+                            },
+                            {
+                                "url": "QdcDzpRCfcjqHCNNg<&sep><&sep>yozakura-san-chi-no-daisakusen",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
+                            },
+                            {
+                                "url": "THMCYTSQWC82yaDAH<&sep><&sep>doupo-cangqiong-nian-fan",
+                                "title": "Doupo Cangqiong: Nian Fan",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1171/138471.jpg"
+                            },
+                            {
+                                "url": "BTZNmesQ5kK9xbxH8<&sep><&sep>xuwu-bianjing",
+                                "title": "Xuwu Bianjing",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156095-cWGfaBKBt8bK.jpg"
+                            },
+                            {
+                                "url": "JqtBBEomGLm6Kcp2G<&sep><&sep>wuliao-jiu-wanjie",
+                                "title": "Wuliao Jiu Wanjie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156087-0LAtkHTAafoP.jpg"
+                            },
+                            {
+                                "url": "LMwfiWbQSst3SdpNk<&sep><&sep>yong-sheng-shi-nian-zhi-yue-season-3",
+                                "title": "Yong Sheng: Shi Nian Zhi Yue Season 3",
+                                "thumbnail_url": "https://gogocdn.net/cover/yong-sheng-shi-nian-zhi-yue-3rd-season.png"
+                            },
+                            {
+                                "url": "ReooPAxPMsHM4KPMY<&sep><&sep>1p",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965.jpg"
+                            },
+                            {
+                                "url": "zZLPHFxwEWKmY9qCJ<&sep><&sep>wonderful-precure-",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
+                            {
+                                "url": "XxTCm6axpDvYFauzC<&sep><&sep>shoushimin-series",
+                                "title": "Shoushimin Series",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173295-5DIOnrTYiF0a.jpg"
+                            },
+                            {
+                                "url": "w4w7kjeaW6dbWpJRZ<&sep><&sep>the-fable",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg"
+                            },
+                            {
+                                "url": "x8k9P88s9fFCG35hd<&sep><&sep>nige-jouzu-no-wakagimi",
+                                "title": "Nige Jouzu no Wakagimi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg"
+                            },
+                            {
+                                "url": "vvfeEk6eEtr5YrqD2<&sep><&sep>tensui-no-sakuna-hime",
+                                "title": "Tensui no Sakuna-hime",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175868-2MbQ54E9Il6p.jpg"
+                            },
+                            {
+                                "url": "6ReQ4XCHNkmZyLw2n<&sep><&sep>boku-no-tsuma-wa-kanjou-ga-nai",
+                                "title": "Boku no Tsuma wa Kanjou ga Nai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175450-Wfjd6OqFOn2h.jpg"
+                            },
+                            {
+                                "url": "QpieRGp28ocWT2jWf<&sep><&sep>elf-san-wa-yaserarenai-",
+                                "title": "Elf-san wa Yaserarenai.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173388-iPHxsekSIFpg.png"
+                            },
+                            {
+                                "url": "KskTkSCsQHiGkYgAZ<&sep><&sep>monogatari-series-off-monster-season",
+                                "title": "Monogatari Series: Off & Monster Season",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173533-0dZ2eV1Y0wQI.jpg"
+                            },
+                            {
+                                "url": "ATiT5RkzK8nB97zJi<&sep><&sep>mob-kara-hajimaru-tansaku-eiyuutan",
+                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
+                            },
+                            {
+                                "url": "ti6qjYajBCabuKDwm<&sep><&sep>madougushi-dahliya-wa-utsumukanai",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168623-30sdDCCLjsEW.jpg"
+                            },
+                            {
+                                "url": "bqSX6EuziZqWwRWce<&sep><&sep>atashin-chi-next",
+                                "title": "Atashin'chi Next",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173313-DirbTHTioULL.png"
+                            },
+                            {
+                                "url": "8MnP4H462F7bfRZD7<&sep><&sep>bizarre-game-i-cleared-it-using-billions-of-merit-points",
+                                "title": "Bizarre Game: I Cleared It Using Billions of Merit Points",
+                                "thumbnail_url": "https://gogocdn.net/cover/bizarre-game-i-cleared-it-using-billions-of-merit-points.png"
+                            },
+                            {
+                                "url": "hdyMEziepXXieqFig<&sep><&sep>rebirth-city-deity-season-2",
+                                "title": "Rebirth: City Deity Season 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/rebirth-city-deity-2nd-season.png"
+                            },
+                            {
+                                "url": "KFB2fqf2pHS57aBew<&sep><&sep>sudden-wealth-system-i-have-999-new-identities",
+                                "title": "Sudden Wealth System: I Have 999 New Identities",
+                                "thumbnail_url": "https://gogocdn.net/cover/sudden-wealth-system-i-have-999-new-identities.png"
+                            },
+                            {
+                                "url": "d2PMyPbDAthsitf5x<&sep><&sep>wan-jie-du-zun-season-2",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -316,9 +452,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -340,9 +476,9 @@
                         }
                     },
                     {
-                        "url": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -352,9 +488,9 @@
                         }
                     },
                     {
-                        "url": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -364,9 +500,9 @@
                         }
                     },
                     {
-                        "url": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/XtcF5DIjuVqrMNQemanXFg/1720346762/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/5gAe5RbdmQzAZR5KRYAsdA/1720368183/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

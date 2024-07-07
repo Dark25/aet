@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/shoushimin-series",
+                                "title": "Shoshimin: How to Become Ordinary",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shoushimin-series-cover.png"
+                            },
+                            {
                                 "url": "/media/elf-san-wa-yaserarenai",
                                 "title": "Plus-Sized Elf",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-elf-san-wa-yaserarenai-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/oshi-no-ko-dai-2-ki",
                                 "title": "Oshi no Ko: Mein Star - Season 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-oshi-no-ko-dai-2-ki-cover.jpg"
-                            },
-                            {
-                                "url": "/media/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-                                "title": "Alya Sometimes Hides Her Feelings in Russian",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,25 +224,37 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/elf-san-wa-yaserarenai",
-                    "title": "Plus-Sized Elf",
+                    "url": "/media/shoushimin-series",
+                    "title": "Shoshimin: How to Become Ordinary",
                     "author": "",
-                    "description": "Bei seiner Arbeit als Masseur sind Naoe Tomoatsu schon einige seltsame Kunden begegnet. Doch die junge, übergewichtige Frau, die kurz vor dem Ende seiner Schicht den Laden betritt, ist noch sonderbarer als gewöhnlich. Denn Erufuda ist in Wahrheit kein Mensch, wie Naoe schnell herausfindet, sondern eine Elfe! Und sie hat ein großes Problem, denn aufgrund ihres zu hohen Gewichts kann sie nicht mehr in ihre Welt zurückkehren, da das Portal nur funktioniert, wenn sie bei der zweiten Benutzung genauso viel wiegt wie bei der ersten. Als Naoe sie ausfragt, findet er schnell heraus, wo das Problem liegt. In ihrer Welt gibt es lediglich ungewürztes, gekochtes oder gegrilltes Gemüse zu essen. Das Essen in der Menschenwelt ist einfach viel zu lecker und ungesund – insbesondere Pommes haben es der jungen Elfe angetan. Auf Naoes Abnehm-Tipps reagiert Erufuda genervt, doch ihr bleibt keine andere Wahl, als auf Naoe zu hören. Doch der vermeintliche Erfolg währt nicht lange, und bald schon hat er eine neue Stammkundin gewonnen, deren Essgewohnheiten ihn schier in den Wahnsinn treiben. Quelle: aniSearch",
-                    "genre": "Komödie",
+                    "description": "Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-elf-san-wa-yaserarenai-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shoushimin-series-cover.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/media/shoushimin-series#streams_episodes_1_0",
+                        "name": "Ep.1 Ein Wolf im Schafspelz",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=lkmb0lXjwmSoKv&expires=1720381333&ip=GHEsDRqAKxSHDN&token=D0tt93Uql72E",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=lkmb0lXjwmSoKv&expires=1720381333&ip=GHEsDRqAKxSHDN&token=D0tt93Uql72E"
+                    }
+                ],
+                "passed": true
             }
         }
     }

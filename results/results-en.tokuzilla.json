@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/yodonna-the-final.html",
-                                "title": "Yodonna – THE FINAL",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/yodonna-the-final-thumb.png"
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-gotchard.html",
@@ -17,9 +17,9 @@
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
                             },
                             {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                                "url": "/watch/yodonna-the-final.html",
+                                "title": "Yodonna – THE FINAL",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/yodonna-the-final-thumb.png"
                             },
                             {
                                 "url": "/watch/tokusou-sentai-dekaranger-with-tombo-ohger.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/yodonna-the-final.html",
-                    "title": "Yodonna – THE FINAL",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
                     "author": "Year 2024",
-                    "description": "Mashin Sentai Kiramager Spin-Off: Yodonna THE FINAL is a TTFC-exclusive special within the continuity of Mashin Sentai Kiramager.",
-                    "genre": "Movie, Super Sentai",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/yodonna-the-final-thumb.png",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/yodonna-the-final.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=20#watch",
+                        "name": "Episode 20",
+                        "episode_number": 20.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=19#watch",
+                        "name": "Episode 19",
+                        "episode_number": 19.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

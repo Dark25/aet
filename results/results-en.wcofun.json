@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/shoushimin-series-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUJOdzIAhQ5IcCo48Dnes083nNkQQeUrJ2KYoqJvJjVbKqYtTvE4c_zCjOAH9QOeG057cfRhveTSzrybrCwwIfiWYOsHPdwTR_3UX-TdXC52MS0jxXFtD-TrH4FFZMmNNlG38CwGvXYtPjT5PdgDQkES9feMiQhHMEtigpuTHLQgGQ-BgjifuEMxk66Q5pnavbGWne1iH4_dWYrB83QqE7kwZ1R1Wm1-jpuNrOMaWH5aLz4XVt6EdFO_WewzqAbZzrlhfnnCZIw5IqSoLRCHAbTxfBXFFs3qCI56489PHhY3wq9o9Oogx4AAtlaqWQIFJN6oqgO0aE1jbzk8NqZ5M_w6T7ScIWGvt7lKGErfywcX4eEp0-CoC1eCeqmrddPoyo",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUJOdzIAhQ5IcCo48Dnes083nNkQQeUrJ2KYoqJvJjVbKqYtTvE4c_zCjOAH9QOeG057cfRhveTSzrybrCwwIfiWYOsHPdwTR_3UX-TdXC52MS0jxXFtD-TrH4FFZMmNNlG38CwGvXYtPjT5PdgDQkES9feMiQhHMEtigpuTHLQgGQ-BgjifuEMxk66Q5pnavbGWne1iH4_dWYrB83QqE7kwZ1R1Wm1-jpuNrOMaWH5aLz4XVt6EdFO_WewzqAbZzrlhfnnCZIw5IqSoLRCHAbTxfBXFFs3qCI56489PHhY3wq9o9Oogx4AAtlaqWQIFJN6oqgO0aE1jbzk8NqZ5M_w6T7ScIWGvt7lKGErfywcX4eEp0-CoC1eCeqmrddPoyo"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUJOdzIAhQ5IcCo48Dnes083nNkQQeUrJ2KYoqJvJjVbKqYtTvE4c_zCjOAH9QOeG057cfRhveTSzrybrCwwIfiWYOsHPdwTR_3UX-TdXC52A_hrKQ__Mmo4B2S0omK0gZuXULwWEjeiIRdA-UpfyqVjJb0CQltNBJ-BV7eTbjhvK-jlazUpsnj8rd1FXqpiIAj5jMLRURBZPqyLTdvArjPUm1F891xMsl1tsBDS_tMoCvEObfIOrHiuSKXo3K8m3TKUe0kFb4rtLuV_gAP_lHP-ncig8pAs1dijV9-lF_MzBqrT33OzyhxxRtrzUDbcjWejR8eeUtC9Z9NXYJOvurDiS7fmF8EdE3e4r3LndrtjGe00h1LAy0fPKKZC07oqug",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUJOdzIAhQ5IcCo48Dnes083nNkQQeUrJ2KYoqJvJjVbKqYtTvE4c_zCjOAH9QOeG057cfRhveTSzrybrCwwIfiWYOsHPdwTR_3UX-TdXC52A_hrKQ__Mmo4B2S0omK0gZuXULwWEjeiIRdA-UpfyqVjJb0CQltNBJ-BV7eTbjhvK-jlazUpsnj8rd1FXqpiIAj5jMLRURBZPqyLTdvArjPUm1F891xMsl1tsBDS_tMoCvEObfIOrHiuSKXo3K8m3TKUe0kFb4rtLuV_gAP_lHP-ncig8pAs1dijV9-lF_MzBqrT33OzyhxxRtrzUDbcjWejR8eeUtC9Z9NXYJOvurDiS7fmF8EdE3e4r3LndrtjGe00h1LAy0fPKKZC07oqug"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUJOdzIAhQ5IcCo48Dnes083nNkQQeUrJ2KYoqJvJjVbKqYtTvE4c_zCjOAH9QOeG057cfRhveTSzrybrCwwIfiWYOsHPdwTR_3UX-TdXC52KxjpaapDbg9YXM-TwwJ0uQhynfujSznU-w2WwbkTWQ-YM16buRZ2WrxuhvuDsFrnsGhBufWfCYyiQSJ389VeOq6NJr81n7ZbwdpqmsobZJHJxw_4Fp5LF8U7mRRW7p-xJpxnxln5TufcqlXAkgzfgyUx2BEkJHQ_jnFuoiF-FcaBKibGuEDawmFs0gSocmhsJi2OT1bS_rUey3LMBw3O621LeSXst0i5Ru7rcW3b3dyeFRici0JyBVNXR5hGMfi-A",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUJOdzIAhQ5IcCo48Dnes083nNkQQeUrJ2KYoqJvJjVbKqYtTvE4c_zCjOAH9QOeG057cfRhveTSzrybrCwwIfiWYOsHPdwTR_3UX-TdXC52KxjpaapDbg9YXM-TwwJ0uQhynfujSznU-w2WwbkTWQ-YM16buRZ2WrxuhvuDsFrnsGhBufWfCYyiQSJ389VeOq6NJr81n7ZbwdpqmsobZJHJxw_4Fp5LF8U7mRRW7p-xJpxnxln5TufcqlXAkgzfgyUx2BEkJHQ_jnFuoiF-FcaBKibGuEDawmFs0gSocmhsJi2OT1bS_rUey3LMBw3O621LeSXst0i5Ru7rcW3b3dyeFRici0JyBVNXR5hGMfi-A"
+                    }
+                ],
+                "passed": true
             }
         }
     }

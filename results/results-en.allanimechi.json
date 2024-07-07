@@ -62,14 +62,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
                             },
                             {
-                                "url": "rSv4f43vPEEaE7bGE",
-                                "title": "Isekai Suicide Squad",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg"
-                            },
-                            {
                                 "url": "cskJzx6rseAgcGcAe",
                                 "title": "Boku no Hero Academia 7th Season",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
+                            },
+                            {
+                                "url": "rSv4f43vPEEaE7bGE",
+                                "title": "Isekai Suicide Squad",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg"
                             },
                             {
                                 "url": "kibfyvtiFpKCGGoSD",
@@ -122,19 +122,9 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173694-XcwGOMBxboOO.png"
                             },
                             {
-                                "url": "pNPGCMYN5yA4yQH5J",
-                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season Part 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130590-DjkWMn8iRxrh.jpg"
-                            },
-                            {
                                 "url": "ReHMC7TQnch3C6z8j",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
-                            },
-                            {
-                                "url": "XJzfDyv8vsXWCMkTk",
-                                "title": "KnY 3",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1765/135099.jpg"
                             },
                             {
                                 "url": "EbFttcGsJ5AmN6A68",
@@ -142,14 +132,24 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg"
                             },
                             {
-                                "url": "7cTdxtzvohmd79Bt4",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
+                                "url": "XJzfDyv8vsXWCMkTk",
+                                "title": "KnY 3",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1765/135099.jpg"
+                            },
+                            {
+                                "url": "pNPGCMYN5yA4yQH5J",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season Part 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130590-DjkWMn8iRxrh.jpg"
                             },
                             {
                                 "url": "iv4jDGx4DbuzXyM6J",
                                 "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg"
+                            },
+                            {
+                                "url": "7cTdxtzvohmd79Bt4",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
                             },
                             {
                                 "url": "DdTHXmTjwHji2aApQ",
@@ -163,7 +163,7 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 753: Expected string literal but 'null' literal was found at path: $.data.shows.edges[1].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....\"nativeName\":null,\"thumbnail\":null,\"lastEpisodeInfo\":{\"sub\":.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 2435: Expected string literal but 'null' literal was found at path: $.data.shows.edges[4].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....\"nativeName\":null,\"thumbnail\":null,\"lastEpisodeInfo\":{\"sub\":.....",
                 "passed": false
             },
             "search": {
@@ -341,14 +341,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1111\"}",
+                        "name": "Episode 1111 (sub)",
+                        "episode_number": 1111.0
+                    },
+                    {
                         "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1110\"}",
                         "name": "Episode 1110 (sub)",
                         "episode_number": 1110.0
-                    },
-                    {
-                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1109\"}",
-                        "name": "Episode 1109 (sub)",
-                        "episode_number": 1109.0
                     }
                 ],
                 "passed": true
@@ -356,19 +356,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://tools.fast4speed.rsvp//media8/videos/ReooPAxPMsHM4KPMY/sub/1110",
-                        "quality": "Yt-mp4",
-                        "videoUrl": "https://tools.fast4speed.rsvp//media8/videos/ReooPAxPMsHM4KPMY/sub/1110",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "origin": "https://allanime.to",
-                            "referer": "https://allanime.to/"
-                        }
-                    },
-                    {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 1080p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -377,9 +367,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "quality": "Luf-mp4 - hls P - 1080p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -388,9 +378,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 720p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -399,9 +389,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 480p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -410,9 +400,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "url": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 360p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S85V045DXkCtNEJOQroZkw/1720325211/227506/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "videoUrl": "https://www035.anicdnstream.info/videos/hls/nr75Uxfciq6q1Gg5sfRk9w/1720346263/227763/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -421,9 +411,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "quality": "Luf-mp4 - hls P - 720p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -432,9 +422,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "quality": "Luf-mp4 - hls P - 480p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -443,9 +433,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "quality": "Luf-mp4 - hls P - 360p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -454,89 +444,43 @@
                         }
                     },
                     {
-                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=ESzznHPTfcRDrknyjHr5HzUBzn_B6pIkF7gnoyH4XWpiFw",
-                        "quality": "S-mp4 - Mp4",
-                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=ESzznHPTfcRDrknyjHr5HzUBzn_B6pIkF7gnoyH4XWpiFw",
-                        "headers": {
-                            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ3A.230705.001.B4)"
-                        }
-                    },
-                    {
-                        "url": "https://uc75ba13c76938d7241163a45178.dl.dropboxusercontent.com/cd/0/get/CWOpzKPBePOcstauhJzao-Qja7rsVWZ-H9tjgkWnTkp8GYbv5nrfBephGjF0wqKmih93yeoQ884GORKGK3jSoqX2szXA2cfO6luAgRxeEN0S7ez-GZUtAlj1u1GIRaC88D85FKjyeIjwyOfdnjsjAXJPPkOLX0zXKe82Nr6kQFCk3Q/file",
-                        "quality": "Sak - Mp4",
-                        "videoUrl": "https://uc75ba13c76938d7241163a45178.dl.dropboxusercontent.com/cd/0/get/CWOpzKPBePOcstauhJzao-Qja7rsVWZ-H9tjgkWnTkp8GYbv5nrfBephGjF0wqKmih93yeoQ884GORKGK3jSoqX2szXA2cfO6luAgRxeEN0S7ez-GZUtAlj1u1GIRaC88D85FKjyeIjwyOfdnjsjAXJPPkOLX0zXKe82Nr6kQFCk3Q/file",
-                        "headers": {
-                            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 5 Build/TQ3A.230705.001.B4)"
-                        }
-                    },
-                    {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06436/1hvs3kil7xgw_h/index-v1-a1.m3u8?t=L7cwra46RPVg4mPQnp3u7RovlBUG12-LRF1taZqSJNE&s=1720311295&e=43200&f=32183275&srv=38&asn=8075&sp=4000",
-                        "quality": "Fm-Hls - 1080p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06436/1hvs3kil7xgw_h/index-v1-a1.m3u8?t=L7cwra46RPVg4mPQnp3u7RovlBUG12-LRF1taZqSJNE&s=1720311295&e=43200&f=32183275&srv=38&asn=8075&sp=4000",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.to",
-                            "Referer": "https://filemoon.to/"
-                        }
-                    },
-                    {
-                        "url": "https://hxrfzft9ooce.sw-cdnstreamwish.com/hls2/01/04293/2n74bg2qfeny_n/index-v1-a1.m3u8?t=f2ifPBAYDQBXMH6qPOTEK8tNqkx-LQOKlHaD_PR0JPg&s=1720311294&e=129600&f=21468663&srv=rkfta80dggca&i=0.4&sp=500&p1=rkfta80dggca&p2=rkfta80dggca&asn=8075",
-                        "quality": "Sw - 480p",
-                        "videoUrl": "https://hxrfzft9ooce.sw-cdnstreamwish.com/hls2/01/04293/2n74bg2qfeny_n/index-v1-a1.m3u8?t=f2ifPBAYDQBXMH6qPOTEK8tNqkx-LQOKlHaD_PR0JPg&s=1720311294&e=129600&f=21468663&srv=rkfta80dggca&i=0.4&sp=500&p1=rkfta80dggca&p2=rkfta80dggca&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2n74bg2qfeny"
-                        }
-                    },
-                    {
-                        "url": "https://a2.mp4upload.com:183/d/xwxrtamcz3b4quuohwrbaicbidwrnlzmla5rq35374zempvckffs4uxgiqycrscoviqrpcp5/video.mp4",
-                        "quality": "Mp4 - Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxrtamcz3b4quuohwrbaicbidwrnlzmla5rq35374zempvckffs4uxgiqycrscoviqrpcp5/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "quality": "Vidstreaming - 1080p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.1080.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.1080.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NTA2&title=One+Piece+Episode+1110&typesub=SUB"
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NzYz&title=One+Piece+Episode+1111&typesub=SUB"
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "quality": "Vidstreaming - 720p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.720.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.720.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NTA2&title=One+Piece+Episode+1110&typesub=SUB"
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NzYz&title=One+Piece+Episode+1111&typesub=SUB"
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "quality": "Vidstreaming - 480p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.480.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.480.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NTA2&title=One+Piece+Episode+1110&typesub=SUB"
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NzYz&title=One+Piece+Episode+1111&typesub=SUB"
                         }
                     },
                     {
-                        "url": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "url": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "quality": "Vidstreaming - 360p",
-                        "videoUrl": "https://www040.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1110.1719715824.360.m3u8",
+                        "videoUrl": "https://www035.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1111.1720320016.360.m3u8",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NTA2&title=One+Piece+Episode+1110&typesub=SUB"
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjI3NzYz&title=One+Piece+Episode+1111&typesub=SUB"
                         }
                     }
                 ],

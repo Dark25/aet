@@ -167,6 +167,11 @@
                                 "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/07/MV5BNDEwYjlhM2QtZTRkZi00MGY4LTg3ZDQtODVkNDhlNGVlYTc3XkEyXkFqcGdeQXVyNTA3MTU2MjE@.jpg_V1_SX700.jpg"
                             },
                             {
+                                "url": "/مسلسل-house-of-the-dragon-الموسم-الثاني-الحلقة-4/watch/",
+                                "title": "House of the Dragon الموسم الثاني (ep:4)",
+                                "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/06/MV5BNjMzNDBhNGMtYmMxNC00ZTE2LThhYzItNmFjYzQzZTQ2OGQ2XkEyXkFqcGc@._V1_.jpg"
+                            },
+                            {
                                 "url": "/مسلسل-mayor-of-kingstown-الموسم-الثالث-الحلقة-6/watch/",
                                 "title": "Mayor of Kingstown الموسم الثالث (ep:6)",
                                 "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/06/MV5BY2YxNDc1MjAtMzMxNy00ZjkyLWIwMDMtYmE2NDk3YWIyNmY1XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX190_CR00190281_.jpg"
@@ -220,11 +225,6 @@
                                 "url": "/مسلسل-the-boys-الموسم-الرابع-الحلقة-6/watch/",
                                 "title": "The Boys الموسم الرابع (ep:6)",
                                 "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/06/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX700.jpg"
-                            },
-                            {
-                                "url": "/مسلسل-sprint-الموسم-الاول-الحلقة-1/watch/",
-                                "title": "Sprint الموسم الاول (ep:1)",
-                                "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/07/MV5BZDhlOWE0ODYtOTIwMy00ZGQ1LTk3YTctNjMwYTA5NGVmZDk3XkEyXkFqcGc@.jpg_V1_SX700.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -236,6 +236,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/مسلسل-house-of-the-dragon-الموسم-الثاني-الحلقة-4/watch/",
+                                "title": "House of the Dragon الموسم الثاني (ep:4)",
+                                "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/06/MV5BNjMzNDBhNGMtYmMxNC00ZTE2LThhYzItNmFjYzQzZTQ2OGQ2XkEyXkFqcGc@._V1_.jpg"
+                            },
                             {
                                 "url": "/انمي-shikanoko-nokonoko-koshitantan-الحلقة-1-مترجمة/watch/",
                                 "title": "Shikanoko Nokonoko Koshitantan (ep:1)",
@@ -430,11 +435,6 @@
                                 "url": "/مسلسل-fantasmas-الموسم-الاول-الحلقة-5/watch/",
                                 "title": "Fantasmas الموسم الاول (ep:5)",
                                 "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/06/MV5BYjQ0ODkwODgtOGU3Mi00YzU3LTkwZjctNzRmMjRmYTI3ODE1XkEyXkFqcGc@.jpg_V1_SX700.jpg"
-                            },
-                            {
-                                "url": "/انمي-the-fable-الحلقة-14-مترجمة/watch/",
-                                "title": "The Fable (ep:14)",
-                                "thumbnail_url": "https://www.tuktukcima.com/wp-content/uploads/2024/04/MV5BZDhkOWE5ZmItNGYwOC00ZmRmLWJhYjMtNWUxODdjY2FlMTc3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX700.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -669,14 +669,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/فيلم-control-2023-مترجم-اون-لاين//watch/",
+                        "url": "/فيلم-control-2023-مترجم-اون-لاين/watch//watch/",
                         "name": "مشاهدة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

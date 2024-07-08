@@ -159,20 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=20#watch",
-                        "name": "Episode 20",
-                        "episode_number": 20.0
-                    },
-                    {
                         "url": "/watch/bakuage-sentai-boonboomger.html?ep=19#watch",
                         "name": "Episode 19",
                         "episode_number": 19.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=18#watch",
+                        "name": "Episode 18",
+                        "episode_number": 18.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

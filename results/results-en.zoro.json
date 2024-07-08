@@ -222,14 +222,14 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg"
                             },
                             {
-                                "url": "/case-closed-323",
-                                "title": "Detective Conan",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg"
-                            },
-                            {
                                 "url": "/that-time-i-got-reincarnated-as-a-slime-season-3-19109",
                                 "title": "Tensei shitara Slime Datta Ken 3rd Season",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9b501458823539b6a2004f2cdb98a4a.jpg"
+                            },
+                            {
+                                "url": "/case-closed-323",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg"
                             },
                             {
                                 "url": "/my-hero-academia-season-7-19146",
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6511271f7f9ca415411b234df57125ed.jpg"
                             },
                             {
-                                "url": "/whisper-me-a-love-song-19140",
-                                "title": "Sasayaku You ni Koi wo Utau",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57a408ec40a1c1c3dc5c584b98a20a9a.jpg"
-                            },
-                            {
                                 "url": "/oshi-no-ko-season-2-19256",
                                 "title": "\"Oshi no Ko\" 2nd Season",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1cb3f0d6a5eea02851ea80f515b984.jpg"
+                            },
+                            {
+                                "url": "/whisper-me-a-love-song-19140",
+                                "title": "Sasayaku You ni Koi wo Utau",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57a408ec40a1c1c3dc5c584b98a20a9a.jpg"
                             },
                             {
                                 "url": "/days-with-my-stepsister-19251",
@@ -367,14 +367,14 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad3b2f1d4d3045fb85b52aa7b7dcf27f.png"
                             },
                             {
-                                "url": "/yatagarasu-the-raven-does-not-choose-its-master-19104",
-                                "title": "Karasu wa Aruji wo Erabanai",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5402d031727e1b320686d26aaf85ca5.jpg"
-                            },
-                            {
                                 "url": "/i-parry-everything-19229",
                                 "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/009a25ddb8db9e068e16effd7e93f30e.jpg"
+                            },
+                            {
+                                "url": "/yatagarasu-the-raven-does-not-choose-its-master-19104",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5402d031727e1b320686d26aaf85ca5.jpg"
                             },
                             {
                                 "url": "/ling-jian-zun-4th-season-14951",
@@ -397,14 +397,14 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ad880700443ac9ec86140e913bf3bf9.jpg"
                             },
                             {
+                                "url": "/tower-of-god-season-2-19255",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41adea817f66830f8d965562c2d62e03.jpg"
+                            },
+                            {
                                 "url": "/shinkalion-change-the-world-19150",
                                 "title": "Shinkalion: Change the World",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/320764accaec6ce29c0d40cc7b079fa6.jpg"
-                            },
-                            {
-                                "url": "/throne-of-seal-2nd-season-18643",
-                                "title": "Shen Yin Wangzuo 2nd Season",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7eae90b00f92055c4cb250605b10879.jpg"
                             },
                             {
                                 "url": "/my-deer-friend-nokotan-19249",
@@ -412,9 +412,9 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5439875b4262583ec34720afd5e5f10.jpg"
                             },
                             {
-                                "url": "/mom-im-sorry-19166",
-                                "title": "Xiehou ta de Shaonu Shidai",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a2d850b6623731483ad46c1d0d1d711.jpg"
+                                "url": "/throne-of-seal-2nd-season-18643",
+                                "title": "Shen Yin Wangzuo 2nd Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7eae90b00f92055c4cb250605b10879.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -641,8 +641,111 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://fds.biananset.net/_v7/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3f0d39051c8444afb7536ee9578465a13f4d9f1402a49fcabc0d089b61f1a04a848cf62a492f97e58beba11be24aef3dc10cf49df56c78e5d62c03ecab0f46d4f7781c70e42717cd10766dbbc983e5bfb/index-f1-v1-a1.m3u8",
+                        "quality": "HD-1 - 1080p - sub",
+                        "videoUrl": "https://fds.biananset.net/_v7/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3f0d39051c8444afb7536ee9578465a13f4d9f1402a49fcabc0d089b61f1a04a848cf62a492f97e58beba11be24aef3dc10cf49df56c78e5d62c03ecab0f46d4f7781c70e42717cd10766dbbc983e5bfb/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/1ee5f5bff93b61168986b2856f0c15a7/1ee5f5bff93b61168986b2856f0c15a7.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://fds.biananset.net/_v7/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3f0d39051c8444afb7536ee9578465a13f4d9f1402a49fcabc0d089b61f1a04a848cf62a492f97e58beba11be24aef3dc10cf49df56c78e5d62c03ecab0f46d4f7781c70e42717cd10766dbbc983e5bfb/index-f2-v1-a1.m3u8",
+                        "quality": "HD-1 - 720p - sub",
+                        "videoUrl": "https://fds.biananset.net/_v7/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3f0d39051c8444afb7536ee9578465a13f4d9f1402a49fcabc0d089b61f1a04a848cf62a492f97e58beba11be24aef3dc10cf49df56c78e5d62c03ecab0f46d4f7781c70e42717cd10766dbbc983e5bfb/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/1ee5f5bff93b61168986b2856f0c15a7/1ee5f5bff93b61168986b2856f0c15a7.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://fds.biananset.net/_v7/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3f0d39051c8444afb7536ee9578465a13f4d9f1402a49fcabc0d089b61f1a04a848cf62a492f97e58beba11be24aef3dc10cf49df56c78e5d62c03ecab0f46d4f7781c70e42717cd10766dbbc983e5bfb/index-f3-v1-a1.m3u8",
+                        "quality": "HD-1 - 360p - sub",
+                        "videoUrl": "https://fds.biananset.net/_v7/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3f0d39051c8444afb7536ee9578465a13f4d9f1402a49fcabc0d089b61f1a04a848cf62a492f97e58beba11be24aef3dc10cf49df56c78e5d62c03ecab0f46d4f7781c70e42717cd10766dbbc983e5bfb/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/1ee5f5bff93b61168986b2856f0c15a7/1ee5f5bff93b61168986b2856f0c15a7.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3c2fa2fd926fde05c9e915f4b9e934282b2fc2baf7d4860e032525a7d3752737e32c3cd2b06b77dab1e2058314a6e6fd188318614d2adcedb0e2b16f447888e319e135e76d8bf3f7813199159e3a57aea9ea85a0d86e982b5ea924727b35a3d58/index-f1-v1-a1.m3u8",
+                        "quality": "HD-2 - 1080p - sub",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3c2fa2fd926fde05c9e915f4b9e934282b2fc2baf7d4860e032525a7d3752737e32c3cd2b06b77dab1e2058314a6e6fd188318614d2adcedb0e2b16f447888e319e135e76d8bf3f7813199159e3a57aea9ea85a0d86e982b5ea924727b35a3d58/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/1ee5f5bff93b61168986b2856f0c15a7/1ee5f5bff93b61168986b2856f0c15a7.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3c2fa2fd926fde05c9e915f4b9e934282b2fc2baf7d4860e032525a7d3752737e32c3cd2b06b77dab1e2058314a6e6fd188318614d2adcedb0e2b16f447888e319e135e76d8bf3f7813199159e3a57aea9ea85a0d86e982b5ea924727b35a3d58/index-f2-v1-a1.m3u8",
+                        "quality": "HD-2 - 720p - sub",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3c2fa2fd926fde05c9e915f4b9e934282b2fc2baf7d4860e032525a7d3752737e32c3cd2b06b77dab1e2058314a6e6fd188318614d2adcedb0e2b16f447888e319e135e76d8bf3f7813199159e3a57aea9ea85a0d86e982b5ea924727b35a3d58/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/1ee5f5bff93b61168986b2856f0c15a7/1ee5f5bff93b61168986b2856f0c15a7.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3c2fa2fd926fde05c9e915f4b9e934282b2fc2baf7d4860e032525a7d3752737e32c3cd2b06b77dab1e2058314a6e6fd188318614d2adcedb0e2b16f447888e319e135e76d8bf3f7813199159e3a57aea9ea85a0d86e982b5ea924727b35a3d58/index-f3-v1-a1.m3u8",
+                        "quality": "HD-2 - 360p - sub",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/2bd4ee9f871304c0ced7bfe1fa0258f8d8d501fff7235de00b6ab4b92cab4b2a014998defaa79ae56ec85c5cbaaffed3c2fa2fd926fde05c9e915f4b9e934282b2fc2baf7d4860e032525a7d3752737e32c3cd2b06b77dab1e2058314a6e6fd188318614d2adcedb0e2b16f447888e319e135e76d8bf3f7813199159e3a57aea9ea85a0d86e982b5ea924727b35a3d58/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://s.megastatics.com/subtitle/1ee5f5bff93b61168986b2856f0c15a7/1ee5f5bff93b61168986b2856f0c15a7.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

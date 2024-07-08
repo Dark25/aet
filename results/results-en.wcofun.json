@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mayonaka-punch-english-subbed",
+                                "title": "Mayonaka Punch English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933659.jpg"
+                            },
+                            {
                                 "url": "/anime/my-deer-friend-nokotan",
                                 "title": "My Deer Friend Nokotan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/monogatari-series-off-monster-season-english-subbed",
                                 "title": "Monogatari Series: Off & Monster Season English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933644.jpg"
-                            },
-                            {
-                                "url": "/anime/quality-assurance-in-another-world",
-                                "title": "Quality Assurance in Another World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933643.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/my-deer-friend-nokotan",
-                    "title": "My Deer Friend Nokotan",
-                    "description": "No one knows Torako used to be a delinquent. All of her classmates only know her as the perfect student. But everything changes when Nokotan, a transfer student with antlers, enters her life. Antlers aren’t the only thing strange about Nokotan. Her deer nose can sniff out Torako’s secret past! Whether it’s at school or the zoo, chaos follows this doe-eyed girl’s every step. Torako has so many questions! Is Nokotan a deer, a girl, or something in-between?",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg",
+                    "url": "/anime/mayonaka-punch-english-subbed",
+                    "title": "Mayonaka Punch English Subbed",
+                    "description": "Meet Masaki, the now former member of the popular NewTuber group, Harikiri Sisters. After a career setback, aka getting fired unexpectedly via a live stream, she joins forces with Live, a partner with superhuman abilities. Together, they aim to create sensational content and reach 1 million subscribers. Will they reach their content dreams or be hit with the block button?",
+                    "genre": "Comedy, Supernatural, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933659.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mayonaka-punch-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUcwguX-SLbWMpMWCXpl5Eln9o7OWiToTJD3bdHSpqIlhPShIq22KBqyKyb9VpDkohAskFII5S8ZaqLkhbU1A0vow0yQAc3xZU8IlCtIR8hmWy3ptC_8I2RAkTKSoQcqDbWLUwJOd10PzARAX1anerSikgtLlCh7Sb1NNqP2dx3LSWgij_jme2ocpdL5Mi4T9N8DuRcSZvUEh4IpCDg544GWxQ9u7R0ZX-leiwgesX_V7S9hoMoRrvv40s7h2bgbufNl_hvc2fTgERfsIwCgQpuMDdoupZYGV43Z5OA63mPxHGlNil1DhqO9GtWoMaJ_RJneMm1b-vlF7d4ZXXOusnug6AvuuSl9l06KpBi_LZTYQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUcwguX-SLbWMpMWCXpl5Eln9o7OWiToTJD3bdHSpqIlhPShIq22KBqyKyb9VpDkohAskFII5S8ZaqLkhbU1A0vow0yQAc3xZU8IlCtIR8hmWy3ptC_8I2RAkTKSoQcqDbWLUwJOd10PzARAX1anerSikgtLlCh7Sb1NNqP2dx3LSWgij_jme2ocpdL5Mi4T9N8DuRcSZvUEh4IpCDg544GWxQ9u7R0ZX-leiwgesX_V7S9hoMoRrvv40s7h2bgbufNl_hvc2fTgERfsIwCgQpuMDdoupZYGV43Z5OA63mPxHGlNil1DhqO9GtWoMaJ_RJneMm1b-vlF7d4ZXXOusnug6AvuuSl9l06KpBi_LZTYQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUcwguX-SLbWMpMWCXpl5Eln9o7OWiToTJD3bdHSpqIlhPShIq22KBqyKyb9VpDkohAskFII5S8ZaqLkhbU1A0vp0LOdQHrbm3GAti3aoOLTwHk0M6yiTwn6VMLHs2EABXMNlneD7uFtvmDAov4gh6iemHtvGWqJvdziTLB9aGKxtpkGtisfasa0SEMysp2_BRz5WkNKJSAPaPXMKUB2v8FJxQvWuu9KYq4uFqjCG6vdlLU5iNR_yTsuRpds0zA-afRv3wS3yAJi4WppEO8dIIGsZtZ4g1q1xyGKrK5AHczeZDPUfeyJ8cCPhYvmQf63qDR4AZ5i6qXrnM9cvShPd-SZTOmi2J3sphxTx4LciawKA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUcwguX-SLbWMpMWCXpl5Eln9o7OWiToTJD3bdHSpqIlhPShIq22KBqyKyb9VpDkohAskFII5S8ZaqLkhbU1A0vp0LOdQHrbm3GAti3aoOLTwHk0M6yiTwn6VMLHs2EABXMNlneD7uFtvmDAov4gh6iemHtvGWqJvdziTLB9aGKxtpkGtisfasa0SEMysp2_BRz5WkNKJSAPaPXMKUB2v8FJxQvWuu9KYq4uFqjCG6vdlLU5iNR_yTsuRpds0zA-afRv3wS3yAJi4WppEO8dIIGsZtZ4g1q1xyGKrK5AHczeZDPUfeyJ8cCPhYvmQf63qDR4AZ5i6qXrnM9cvShPd-SZTOmi2J3sphxTx4LciawKA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUcwguX-SLbWMpMWCXpl5Eln9o7OWiToTJD3bdHSpqIlhPShIq22KBqyKyb9VpDkohAskFII5S8ZaqLkhbU1A0vjFfNhyuhkSUqGzT2hwivhxffJGvCk2Wh4OxAgun2-i4lkpAq4CzuW6-BAisMIvQQg44Dwg4OtShjSQRBR6Eh8joZQmTeFSlElDjTUgGLuTRukMvx4uw63Kpm4DqGnnmsbL69Le2bRRzNnvM-h0y6Pe3Zq41ywKJi4KEdH8Q0Hp_lN9CI4RiRw-MDLgBo9BBJzZpNOFCz-vG6m2IgD_LFttStpcf3huHnGu-zrdqG_0ygnjCHgMVbF7QyXf5779P-qSU8kXJNzUF5agJ0A-1cQw",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuUcwguX-SLbWMpMWCXpl5Eln9o7OWiToTJD3bdHSpqIlhPShIq22KBqyKyb9VpDkohAskFII5S8ZaqLkhbU1A0vjFfNhyuhkSUqGzT2hwivhxffJGvCk2Wh4OxAgun2-i4lkpAq4CzuW6-BAisMIvQQg44Dwg4OtShjSQRBR6Eh8joZQmTeFSlElDjTUgGLuTRukMvx4uw63Kpm4DqGnnmsbL69Le2bRRzNnvM-h0y6Pe3Zq41ywKJi4KEdH8Q0Hp_lN9CI4RiRw-MDLgBo9BBJzZpNOFCz-vG6m2IgD_LFttStpcf3huHnGu-zrdqG_0ygnjCHgMVbF7QyXf5779P-qSU8kXJNzUF5agJ0A-1cQw"
+                    }
+                ],
+                "passed": true
             }
         }
     }

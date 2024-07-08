@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/my-deer-friend-nokotan",
+                                "title": "My Deer Friend Nokotan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg"
+                            },
+                            {
+                                "url": "/anime/kinnikuman-kanpeki-chоujin-shiso-hen",
+                                "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933657.jpg"
+                            },
+                            {
                                 "url": "/anime/a-journey-through-another-world-raising-kids-while-adventuring",
                                 "title": "A Journey Through Another World: Raising Kids While Adventuring",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933656.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/quality-assurance-in-another-world",
                                 "title": "Quality Assurance in Another World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933643.jpg"
-                            },
-                            {
-                                "url": "/anime/grendizer-u-english-subbed",
-                                "title": "Grendizer U English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933642.jpg"
-                            },
-                            {
-                                "url": "/anime/kono-sekai-wa-fukanzen-sugiru",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933641.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/a-journey-through-another-world-raising-kids-while-adventuring",
-                    "title": "A Journey Through Another World: Raising Kids While Adventuring",
-                    "description": "“I’m terribly sorry!”",
-                    "genre": "Fantasy, Slice Of Life, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933656.jpg",
+                    "url": "/anime/my-deer-friend-nokotan",
+                    "title": "My Deer Friend Nokotan",
+                    "description": "No one knows Torako used to be a delinquent. All of her classmates only know her as the perfect student. But everything changes when Nokotan, a transfer student with antlers, enters her life. Antlers aren’t the only thing strange about Nokotan. Her deer nose can sniff out Torako’s secret past! Whether it’s at school or the zoo, chaos follows this doe-eyed girl’s every step. Torako has so many questions! Is Nokotan a deer, a girl, or something in-between?",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/a-journey-through-another-world-raising-kids-while-adventuring-episode-2-english-dubbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
-                    },
-                    {
-                        "url": "/a-journey-through-another-world-raising-kids-while-adventuring-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYBD6iDSvAA2-Mo3-1qdsGdhSp46q0rNHmYBb9w8gPZglXZ08XtBrrN6uwxzHIjjMGCHdkfOjis9K2wly5hdlIXM6Nk4TjDn3Fyd-CwO7ZXnIbAuJTAJ1JE985Z6LHInQDA6CIqo6BYTlf-aIu4JEhBlbLW8hdtSONe5tV3YVgfRIQxPMU7199bg1JKSqD6Sa_QtzZwdEN7IymuuK9AkBYhEY2azSzWVDME0kTEgaz7OcuQbax-rEi-2dhYGGzCwzt_Fkut27tnz4sEGos5lHfU",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYBD6iDSvAA2-Mo3-1qdsGdhSp46q0rNHmYBb9w8gPZglXZ08XtBrrN6uwxzHIjjMGCHdkfOjis9K2wly5hdlIXM6Nk4TjDn3Fyd-CwO7ZXnIbAuJTAJ1JE985Z6LHInQDA6CIqo6BYTlf-aIu4JEhBlbLW8hdtSONe5tV3YVgfRIQxPMU7199bg1JKSqD6Sa_QtzZwdEN7IymuuK9AkBYhEY2azSzWVDME0kTEgaz7OcuQbax-rEi-2dhYGGzCwzt_Fkut27tnz4sEGos5lHfU"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxZf0gXJDtOkcX9gTUqhwJlMeZwN3Loz7gKCT1OZPBlMV2I1vFlD2OatAT0te2fWYoF2Xutf_T0AGs85LUFXuGcrJukHNA0-18xmS5gHmUbQh1p6goZZsxph4NI_dYlCDDHEZ0hIyJLPfiOjlptEx9_M_0g2lta01gYwUyTdcvrYmZRapmvvINglZUi_EXou3iFbi-WmNn9kxUMMM1aePljcEoL28naVW4Vzz3svj26ch330i8qQcIa2G1wNcBITqIof5icjo2IHuEsOwbfWIVKe",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxZf0gXJDtOkcX9gTUqhwJlMeZwN3Loz7gKCT1OZPBlMV2I1vFlD2OatAT0te2fWYoF2Xutf_T0AGs85LUFXuGcrJukHNA0-18xmS5gHmUbQh1p6goZZsxph4NI_dYlCDDHEZ0hIyJLPfiOjlptEx9_M_0g2lta01gYwUyTdcvrYmZRapmvvINglZUi_EXou3iFbi-WmNn9kxUMMM1aePljcEoL28naVW4Vzz3svj26ch330i8qQcIa2G1wNcBITqIof5icjo2IHuEsOwbfWIVKe"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYnML8gHgsd20nyetrex6XEbNzsX2vT0uQDNbIh8-5-KlJ-yoK39TvkKO5Z5PKSyJi-cEH3vSfZhFa0qaek0RBhCCsNKKzsk4owupsdYP6qRG8okl8kpvImN32C8gKVrU4b5bLCTW2YlpNOxT0nQmy6Jg3DhrTf1WoMEmH6cAiIRtGIkErtnFOpn7MXnclp8H3PJDNk4jtUx7wLP7UBn2RlG4vlLWO06kS8hqq4poBpsX8UfjzP0YYseqljPi1YrgsGvS-E1N2YNnPzvHI4LSIH",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYnML8gHgsd20nyetrex6XEbNzsX2vT0uQDNbIh8-5-KlJ-yoK39TvkKO5Z5PKSyJi-cEH3vSfZhFa0qaek0RBhCCsNKKzsk4owupsdYP6qRG8okl8kpvImN32C8gKVrU4b5bLCTW2YlpNOxT0nQmy6Jg3DhrTf1WoMEmH6cAiIRtGIkErtnFOpn7MXnclp8H3PJDNk4jtUx7wLP7UBn2RlG4vlLWO06kS8hqq4poBpsX8UfjzP0YYseqljPi1YrgsGvS-E1N2YNnPzvHI4LSIH"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/a-journey-through-another-world-raising-kids-while-adventuring",
+                                "title": "A Journey Through Another World: Raising Kids While Adventuring",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933656.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933655.jpg"
+                            },
+                            {
+                                "url": "/anime/na-nare-hana-nare",
+                                "title": "Na Nare Hana Nare",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933654.jpg"
+                            },
+                            {
                                 "url": "/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
                                 "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933653.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/kono-sekai-wa-fukanzen-sugiru",
                                 "title": "Kono Sekai wa Fukanzen Sugiru",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933641.jpg"
-                            },
-                            {
-                                "url": "/anime/shikanoko-nokonoko-koshitantan",
-                                "title": "Shikanoko Nokonoko Koshitantan",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933640.jpg"
-                            },
-                            {
-                                "url": "/anime/dungeon-no-naka-no-hito",
-                                "title": "Dungeon no Naka no Hito",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933639.jpg"
-                            },
-                            {
-                                "url": "/anime/2-5-jigen-no-ririsa",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933638.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-                    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-                    "description": "Twenty-year-old former wage slave Yuki Tanaka now works among her idols: the streamers of Live-On, one of Japan’s top VTuber companies. As the gorgeous, polite Awayuki Kokorone, she delivers only the most ladylike content. Unfortunately, her subscriber count and savings are at rock bottom.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933653.jpg",
+                    "url": "/anime/a-journey-through-another-world-raising-kids-while-adventuring",
+                    "title": "A Journey Through Another World: Raising Kids While Adventuring",
+                    "description": "“I’m terribly sorry!”",
+                    "genre": "Fantasy, Slice Of Life, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933656.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/a-journey-through-another-world-raising-kids-while-adventuring-episode-2-english-dubbed",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
+                    },
+                    {
+                        "url": "/a-journey-through-another-world-raising-kids-while-adventuring-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYBD6iDSvAA2-Mo3-1qdsGdhSp46q0rNHmYBb9w8gPZglXZ08XtBrrN6uwxzHIjjMGCHdkfOjis9K2wly5hdlIXM6Nk4TjDn3Fyd-CwO7ZXnIbAuJTAJ1JE985Z6LHInQDP1Wc9CtTdeyEihdQ_97pUu5zeDnVWY6Zl6qFr8IPhzhpMR0gfKfGuwI1OwdSDBPw531x8Yy4wE9KQXf-W3Nh9OAQ-1DJmZC45ngDQAxEWPclKfO81_fA36czlcBgLychvRHHD6h3v2mV-sjwEfG2z",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYBD6iDSvAA2-Mo3-1qdsGdhSp46q0rNHmYBb9w8gPZglXZ08XtBrrN6uwxzHIjjMGCHdkfOjis9K2wly5hdlIXM6Nk4TjDn3Fyd-CwO7ZXnIbAuJTAJ1JE985Z6LHInQDP1Wc9CtTdeyEihdQ_97pUu5zeDnVWY6Zl6qFr8IPhzhpMR0gfKfGuwI1OwdSDBPw531x8Yy4wE9KQXf-W3Nh9OAQ-1DJmZC45ngDQAxEWPclKfO81_fA36czlcBgLychvRHHD6h3v2mV-sjwEfG2z"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxZf0gXJDtOkcX9gTUqhwJlMeZwN3Loz7gKCT1OZPBlMV2I1vFlD2OatAT0te2fWYoF2Xutf_T0AGs85LUFXuGcrJukHNA0-18xmS5gHmUbQh1p6goZZsxph4NI_dYlCDDExLu9YviYJ8W4GIRYgXq26do2EecXqVnPjEnsT-f-YeQcsAsyIyXT-TUvof1uykekIQN77TCloCzxjmXHIIyNFzqRZkGdfapkSlQOwmOmlTWPE9Jx7qSBF7CpfPsVn6Ag66t29gZUQ_1cPuwYpfoBE",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxZf0gXJDtOkcX9gTUqhwJlMeZwN3Loz7gKCT1OZPBlMV2I1vFlD2OatAT0te2fWYoF2Xutf_T0AGs85LUFXuGcrJukHNA0-18xmS5gHmUbQh1p6goZZsxph4NI_dYlCDDExLu9YviYJ8W4GIRYgXq26do2EecXqVnPjEnsT-f-YeQcsAsyIyXT-TUvof1uykekIQN77TCloCzxjmXHIIyNFzqRZkGdfapkSlQOwmOmlTWPE9Jx7qSBF7CpfPsVn6Ag66t29gZUQ_1cPuwYpfoBE"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYnML8gHgsd20nyetrex6XEbNzsX2vT0uQDNbIh8-5-KlJ-yoK39TvkKO5Z5PKSyJi-cEH3vSfZhFa0qaek0RBhCCsNKKzsk4owupsdYP6qRG8okl8kpvImN32C8gKVrU5YtQDlYu26ZwYNpz-kWiqz3tuP8cCjHfVIHFoy-kwPMSUiuGCLVs1PuvE2eD1U3ikK2__jS8kM5_cy8uShxRN4AEfSDlnXZmiWtK3zK5hMNJM-JKNXGuJxbnk2gEvVAu39Uyu7OvkHgOWs4NZU2EHz",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ji-Pniy-W4g7dqTFPksWF4Qzlp64MMZK5_Mhu-s02AaS1Glv_SrSNisEwdZtYfJ4E2jVTjHWiJw4vZdVwHH6q4Q3kv4Vai2TkRsLillAyjg9R2fPfpUYMHGhNQxh-0dK-RnH3_8XxsA9zcNpUG6WqbbhHQIouWIIST3Y75wglZLbtQCHe_b_TTGTliO2ET4in0io5BxJJVRXHMNB8EbowcZ-co4pxwqt-fVqY_0zK9cyCSGUN4bfiY-uNUt-srKxYnML8gHgsd20nyetrex6XEbNzsX2vT0uQDNbIh8-5-KlJ-yoK39TvkKO5Z5PKSyJi-cEH3vSfZhFa0qaek0RBhCCsNKKzsk4owupsdYP6qRG8okl8kpvImN32C8gKVrU5YtQDlYu26ZwYNpz-kWiqz3tuP8cCjHfVIHFoy-kwPMSUiuGCLVs1PuvE2eD1U3ikK2__jS8kM5_cy8uShxRN4AEfSDlnXZmiWtK3zK5hMNJM-JKNXGuJxbnk2gEvVAu39Uyu7OvkHgOWs4NZU2EHz"
+                    }
+                ],
+                "passed": true
             }
         }
     }

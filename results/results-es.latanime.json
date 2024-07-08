@@ -333,12 +333,33 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-latino-episodio-2",
+                        "name": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu Latino Capitulo 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-latino-episodio-1",
+                        "name": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu Latino Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xsvtecz3b4quuoh6rb2yqrjyqidtiqstpc6vis3w37xs7a22tubpif3npnx74bflvqrqsn/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xsvtecz3b4quuoh6rb2yqrjyqidtiqstpc6vis3w37xs7a22tubpif3npnx74bflvqrqsn/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

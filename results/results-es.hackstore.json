@@ -264,52 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://nue3mlrqqmp4.sw-cdnstreamwish.com/hls2/01/03988/2h28bjyf9b1d_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=yhYZXio64dC0q0SDSJuMxFneHICsD59Qhxdke-KIlDo&s=1720505182&e=129600&f=19943765&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
-                        "quality": "[LAT] StreamWish:960p",
-                        "videoUrl": "https://nue3mlrqqmp4.sw-cdnstreamwish.com/hls2/01/03988/2h28bjyf9b1d_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=yhYZXio64dC0q0SDSJuMxFneHICsD59Qhxdke-KIlDo&s=1720505182&e=129600&f=19943765&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2h28bjyf9b1d"
-                        }
-                    },
-                    {
-                        "url": "https://nue3mlrqqmp4.sw-cdnstreamwish.com/hls2/01/03988/2h28bjyf9b1d_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=yhYZXio64dC0q0SDSJuMxFneHICsD59Qhxdke-KIlDo&s=1720505182&e=129600&f=19943765&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://nue3mlrqqmp4.sw-cdnstreamwish.com/hls2/01/03988/2h28bjyf9b1d_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=yhYZXio64dC0q0SDSJuMxFneHICsD59Qhxdke-KIlDo&s=1720505182&e=129600&f=19943765&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2h28bjyf9b1d"
-                        }
-                    },
-                    {
-                        "url": "https://nue3mlrqqmp4.sw-cdnstreamwish.com/hls2/01/03988/2h28bjyf9b1d_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=yhYZXio64dC0q0SDSJuMxFneHICsD59Qhxdke-KIlDo&s=1720505182&e=129600&f=19943765&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://nue3mlrqqmp4.sw-cdnstreamwish.com/hls2/01/03988/2h28bjyf9b1d_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=yhYZXio64dC0q0SDSJuMxFneHICsD59Qhxdke-KIlDo&s=1720505182&e=129600&f=19943765&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2h28bjyf9b1d"
-                        }
-                    },
-                    {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/02/06234/adm64h826tyb_n/index-v1-a1.m3u8?t=CXzPhZpzjtQQKd2elh8FOqUoqylKRk-Q2tOKjReM-qE&s=1720505179&e=43200&f=31779332&srv=29&asn=8075&sp=4000",
-                        "quality": "[LAT] Filemoon:960p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/02/06234/adm64h826tyb_n/index-v1-a1.m3u8?t=CXzPhZpzjtQQKd2elh8FOqUoqylKRk-Q2tOKjReM-qE&s=1720505179&e=43200&f=31779332&srv=29&asn=8075&sp=4000",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

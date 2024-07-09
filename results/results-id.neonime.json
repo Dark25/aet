@@ -261,8 +261,51 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr2---sn-a5mekn6k.googlevideo.com/videoplayback?expire=1720512995&ei=Y4GMZpThKp6Z2OMP5PiaoAw&ip=20.171.70.62&id=d19b164d3c4c0f86&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=n3&mm=31&mn=sn-a5mekn6k&ms=au&mv=m&mvi=2&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1426.471&lmt=1720480741479937&mt=1720483774&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgI7stk_BJSeZh69yL5ZhNQvpf5NdQjAlxvf-I-0op2GcCIGhzewa7gJvQVgYY325NH9xlj-zKZ6wwYvcf0SRwy7VR&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgD0PrudgcFSFG6j7EQ5CsMzdxoN37LMEyoXhjwxfv4SsCIQCwExqvAi9y78B7BGnRquU4085othBlVoeUokBPpy1ZRQ%3D%3D",
+                        "quality": "Blogger - 360p GD Standard",
+                        "videoUrl": "https://rr2---sn-a5mekn6k.googlevideo.com/videoplayback?expire=1720512995&ei=Y4GMZpThKp6Z2OMP5PiaoAw&ip=20.171.70.62&id=d19b164d3c4c0f86&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=n3&mm=31&mn=sn-a5mekn6k&ms=au&mv=m&mvi=2&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1426.471&lmt=1720480741479937&mt=1720483774&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgI7stk_BJSeZh69yL5ZhNQvpf5NdQjAlxvf-I-0op2GcCIGhzewa7gJvQVgYY325NH9xlj-zKZ6wwYvcf0SRwy7VR&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgD0PrudgcFSFG6j7EQ5CsMzdxoN37LMEyoXhjwxfv4SsCIQCwExqvAi9y78B7BGnRquU4085othBlVoeUokBPpy1ZRQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://rr1---sn-a5mekn6l.googlevideo.com/videoplayback?expire=1720512995&ei=Y4GMZtr1OO2Yn88Pi4mNYA&ip=20.171.70.62&id=23716cd8e7836008&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=wF&mm=31&mn=sn-a5mekn6l&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1426.657&lmt=1720482747164270&mt=1720483774&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgfU62oQE2RIvYtNOxfMQrGMnqTQVjgtWmQ9XfqyV0LGsCIDTZyxfozl7YqBpGGuTq6vbPKeObAYbRHEkJM9eHm9Gq&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIhAKpQi9RRYxXtYKXf6hVh2ZklfO3WP76B-t9FbxrTH47vAiAz-JP0qHR7ftNI1co2Fi2Fkf-pfqBr33VDe1y_gohikQ%3D%3D",
+                        "quality": "Blogger - 360p YT HD",
+                        "videoUrl": "https://rr1---sn-a5mekn6l.googlevideo.com/videoplayback?expire=1720512995&ei=Y4GMZtr1OO2Yn88Pi4mNYA&ip=20.171.70.62&id=23716cd8e7836008&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=wF&mm=31&mn=sn-a5mekn6l&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1426.657&lmt=1720482747164270&mt=1720483774&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgfU62oQE2RIvYtNOxfMQrGMnqTQVjgtWmQ9XfqyV0LGsCIDTZyxfozl7YqBpGGuTq6vbPKeObAYbRHEkJM9eHm9Gq&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIhAKpQi9RRYxXtYKXf6hVh2ZklfO3WP76B-t9FbxrTH47vAiAz-JP0qHR7ftNI1co2Fi2Fkf-pfqBr33VDe1y_gohikQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://rr1---sn-a5mekn6l.googlevideo.com/videoplayback?expire=1720512995&ei=Y4GMZtr1OO2Yn88Pi4mNYA&ip=20.171.70.62&id=23716cd8e7836008&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=wF&mm=31&mn=sn-a5mekn6l&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1426.657&lmt=1720482679017909&mt=1720483774&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgGsIHRQMcpg0n_52j6zNyC728PLMfFxYOjwvnonKZt_4CIQC3YYq579zRm_7hDiaZTWwQlf6zMs_J143jw6THn0UXRQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgabXcn8_EVUIVfvpzpPbEQdoios1h8wLPIBjtEyJ4vr0CIQCOqsbMgBAXckIsAdhjrnyka3opcUhyFuyTAs0QzpVXxw%3D%3D",
+                        "quality": "Blogger - 720p YT HD",
+                        "videoUrl": "https://rr1---sn-a5mekn6l.googlevideo.com/videoplayback?expire=1720512995&ei=Y4GMZtr1OO2Yn88Pi4mNYA&ip=20.171.70.62&id=23716cd8e7836008&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=wF&mm=31&mn=sn-a5mekn6l&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1426.657&lmt=1720482679017909&mt=1720483774&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgGsIHRQMcpg0n_52j6zNyC728PLMfFxYOjwvnonKZt_4CIQC3YYq579zRm_7hDiaZTWwQlf6zMs_J143jw6THn0UXRQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgabXcn8_EVUIVfvpzpPbEQdoios1h8wLPIBjtEyJ4vr0CIQCOqsbMgBAXckIsAdhjrnyka3opcUhyFuyTAs0QzpVXxw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240708kPkV18WDFeO/video.mp4",
+                        "quality": "Original - YUI 480p",
+                        "videoUrl": "https://vidcache.net:8161/a20240708kPkV18WDFeO/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240708YE108Usk47f/video.mp4",
+                        "quality": "Original - YUI 720p",
+                        "videoUrl": "https://vidcache.net:8161/a20240708YE108Usk47f/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

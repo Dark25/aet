@@ -137,6 +137,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20170/un-actor-malo.html",
+                                "title": "Un actor malo",
+                                "description": "Los actores Sandra Navarro y Daniel Zavala están listos para coprotagonizar una película de un prestigioso cineasta. Charlas casuales con el equipo, conversaciones amistosas, y las carreras de ambos están por fin floreciendo: puede que estén en sintonía para una difícil escena que se avecina. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20170.webp"
+                            },
+                            {
                                 "url": "/pelicula/20169/jack-en-la-caja-maldita-3-el-ascenso.html",
                                 "title": "Jack en la caja maldi",
                                 "description": "Cuando una adolescente estadounidense accede a un internado femenino del Reino Unido, sus compañeras no tardan en darse cuenta de que ha ido a buscar una misteriosa caja de juguetes escondida en el patio del colegio. Tras encontrarla y abrirla, seis alumnos se lanzan a una lucha por la supervivenci...",
@@ -249,12 +255,6 @@
                                 "title": "El Espiritu De Las Ti",
                                 "description": "Amy, una joven, está huyendo con su pequeño hijo Adrian de su abusiva exnovia. Cuando el pasado surge para perseguirlos, deben enfrentar las fuerzas que los amenazan tanto desde afuera como desde adentro....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20151.webp"
-                            },
-                            {
-                                "url": "/pelicula/20150/juanpis-gonzalez-el-presidente-de-la-gente.html",
-                                "title": "Juanpis González: El",
-                                "description": "Juanpis González llega a ser presidente de Colombia. El hombre más malcriado del país tiene que superar una difícil prueba impuesta por su abuelo para heredar la fortuna familiar, a través de la cual encuentra la que, cree, es su vocación: hacer política, pero de una forma no siempre lícita....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20150.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dood.ws/e/aq6kuo21b1bo",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqglkultysjo4xa/z3pnd2d2g1~Wpl46vDQ9n?token=faa3a98f24ktc5woxwz3px7v&expiry=1720526851283",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

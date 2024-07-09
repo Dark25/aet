@@ -217,6 +217,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/play/no-longer-allowed-in-another-world.z9TSJ/VZmYK7",
+                                "title": "No Longer Allowed In Another World",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/z9TSJ.jpg"
+                            },
+                            {
+                                "url": "/play/the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies.yrJNf/8CVo0r",
+                                "title": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/yrJNf.jpg"
+                            },
+                            {
+                                "url": "/play/tokyo-mew-mew-new-ita.Ussqj/fUPFit",
+                                "title": "Tokyo Mew Mew New ♡ (ITA)",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/mbqyv.png"
+                            },
+                            {
                                 "url": "/play/pokemon-2023.IzUqZ/Am8bxp",
                                 "title": "Pokemon Horizons: The Series",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/MuSsy.jpg"
@@ -333,7 +348,7 @@
                             },
                             {
                                 "url": "/play/tensui-no-sakuna-hime.Gz6VA/fVBcLJ",
-                                "title": " Sakuna: Of Rice and Ruin",
+                                "title": "Sakuna: Of Rice and Ruin",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/Gz6VA.png"
                             },
                             {
@@ -400,21 +415,6 @@
                                 "url": "/play/the-imaginary-ita.M8SzF/vtvA6f",
                                 "title": "The Imaginary (ITA)",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/M8SzF.jpg"
-                            },
-                            {
-                                "url": "/play/the-imaginary.oDmtD/v7Y8-z",
-                                "title": "The Imaginary",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/oDmtD.jpg"
-                            },
-                            {
-                                "url": "/play/nierautomata-ver11a-part-2.tp3VB/rHefvo",
-                                "title": "NieR:Automata Ver1.1a Part 2",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/tp3VB.jpg"
-                            },
-                            {
-                                "url": "/play/tensei-shitara-slime-datta-ken-3.s33dx/Tlo4Fe",
-                                "title": "Tensei shitara Slime Datta Ken 3",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/s33dx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -662,7 +662,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketException: Network is unreachable",
                 "passed": false
             }
         }

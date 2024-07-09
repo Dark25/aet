@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/tracker",
+                                "title": "Tracker (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ivhqGQa4ndqDatKiASIfSMJIJuh.jpg"
+                            },
+                            {
                                 "url": "/serie/the-newsreader",
                                 "title": "The Newsreader (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/tW6pFsH04QrinknQKM26wtzLjia.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/proyecto-ourika",
                                 "title": "Proyecto Ourika (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/nes2TJ40JP2dxbGgEPJOAs1vVXD.jpg"
-                            },
-                            {
-                                "url": "/serie/ara-san-juan-el-submarino-que-desaparecio",
-                                "title": "ARA San Juan: El submarino que desapareció (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xytXKYBrNW9z3kOfkxoRWqRwzkL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-newsreader",
-                    "title": "The Newsreader (2021)",
-                    "description": "En el despiadado mundo de los informativos de televisión en 1986, el ambicioso reportero Dale Jennings y la estrella de las noticias Helen Norville, con un carácter difícil, forman pareja en un programa nocturno de éxito. Juntos cubren noticias históricas como el desastre del Challenger, la crisis del sida o la llegada del cometa Halley. Sus vidas personales y profesionales empiezan a mezclarse mientras el mundo a su alrededor afronta grandes cambios a un ritmo vertiginoso..",
-                    "genre": "Drama",
+                    "url": "/serie/tracker",
+                    "title": "Tracker (2024)",
+                    "description": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tW6pFsH04QrinknQKM26wtzLjia.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ivhqGQa4ndqDatKiASIfSMJIJuh.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-newsreader/temporada/2/capitulo/1",
-                        "name": "T2 - E1: Decisión del 87",
-                        "episode_number": 7.0
+                        "url": "/serie/tracker/temporada/1/capitulo/13",
+                        "name": "T1 - E13: La tormenta",
+                        "episode_number": 13.0
                     },
                     {
-                        "url": "/serie/the-newsreader/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Colapso",
-                        "episode_number": 6.0
+                        "url": "/serie/tracker/temporada/1/capitulo/12",
+                        "name": "T1 - E12: En negro",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -702,8 +702,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f2-v1-a1.m3u8?t=TXV96k2X4uW81IkmR6q1NWh__80BFF1nti44yxdjrBM&s=1720548363&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f2-v1-a1.m3u8?t=TXV96k2X4uW81IkmR6q1NWh__80BFF1nti44yxdjrBM&s=1720548363&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/54ukproswxbf"
+                        }
+                    },
+                    {
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f1-v1-a1.m3u8?t=TXV96k2X4uW81IkmR6q1NWh__80BFF1nti44yxdjrBM&s=1720548363&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f1-v1-a1.m3u8?t=TXV96k2X4uW81IkmR6q1NWh__80BFF1nti44yxdjrBM&s=1720548363&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/54ukproswxbf"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -1006,9 +1029,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=lwMQQgd1PeCbja&expires=1720596924&ip=G0WsDROZKxSHDN&token=VSUrL6rtbugb",
+                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04332/4e8jxb30gqhl_,n,h,.urlset/index-f2-v1-a1.m3u8?t=CVrOm9t4a5LXKaIARkTpaRd-ZZZHiimtz2BdeneUSWo&s=1720548366&e=129600&f=21663903&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04332/4e8jxb30gqhl_,n,h,.urlset/index-f2-v1-a1.m3u8?t=CVrOm9t4a5LXKaIARkTpaRd-ZZZHiimtz2BdeneUSWo&s=1720548366&e=129600&f=21663903&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/4e8jxb30gqhl"
+                        }
+                    },
+                    {
+                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04332/4e8jxb30gqhl_,n,h,.urlset/index-f1-v1-a1.m3u8?t=CVrOm9t4a5LXKaIARkTpaRd-ZZZHiimtz2BdeneUSWo&s=1720548366&e=129600&f=21663903&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04332/4e8jxb30gqhl_,n,h,.urlset/index-f1-v1-a1.m3u8?t=CVrOm9t4a5LXKaIARkTpaRd-ZZZHiimtz2BdeneUSWo&s=1720548366&e=129600&f=21663903&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/4e8jxb30gqhl"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=lwMQQgd1PeCbja&expires=1720618368&ip=FROsD0ISKxSHDN&token=SHoml5LQxtK8",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=lwMQQgd1PeCbja&expires=1720596924&ip=G0WsDROZKxSHDN&token=VSUrL6rtbugb"
+                        "videoUrl": "https://streamtape.com/get_video?id=lwMQQgd1PeCbja&expires=1720618368&ip=FROsD0ISKxSHDN&token=SHoml5LQxtK8"
                     }
                 ],
                 "passed": true

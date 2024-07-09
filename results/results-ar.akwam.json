@@ -1,6 +1,6 @@
 [
     {
-        "name": "edytjedhgmdhm (EN)",
+        "name": "أكوام (AR)",
         "results": {
             "popular": {
                 "error": "java.util.NoSuchElementException: List is empty.",
@@ -12,6 +12,12 @@
             },
             "details": {
                 "result": {
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
                 },
                 "passed": true
             },
@@ -20,14 +26,8 @@
                 "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
-                        "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

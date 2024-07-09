@@ -253,27 +253,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://download1479.mediafire.com/lhvrp9mrxycgyhuvTJyHRIY8lfsLrHorHfXegNoNpMYDnVbzMJ34kNNkfLVYusmsAyChIDkEslQqg7CTSK8uoxRH3Xnoj32DHJtPE6qS672A1_2EgqDxNvWgjxwY-yNQn8aXV8SHR4PG6lwlECekzTgHU3Chw4c2O9XOFnuqNv_R/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
-                        "quality": "Mediafire - FULL HD",
-                        "videoUrl": "https://download1479.mediafire.com/lhvrp9mrxycgyhuvTJyHRIY8lfsLrHorHfXegNoNpMYDnVbzMJ34kNNkfLVYusmsAyChIDkEslQqg7CTSK8uoxRH3Xnoj32DHJtPE6qS672A1_2EgqDxNvWgjxwY-yNQn8aXV8SHR4PG6lwlECekzTgHU3Chw4c2O9XOFnuqNv_R/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
-                        }
-                    },
-                    {
-                        "url": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO&confirm=t&uuid=f5cd586c-891b-405c-b3b6-62db2a1a74a2",
-                        "quality": "GDrive - FULL HD (894M) ",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO&confirm=t&uuid=f5cd586c-891b-405c-b3b6-62db2a1a74a2",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": ""
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: timeout",
+                "passed": false
             }
         }
     }

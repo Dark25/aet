@@ -87,6 +87,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg"
                             },
                             {
+                                "url": "{\"id\":280180,\"media_type\":\"movie\"}",
+                                "title": "Beverly Hills Cop: Axel F",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//zszRKfzjM5jltiq8rk6rasKVpUv.jpg"
+                            },
+                            {
                                 "url": "{\"id\":1214509,\"media_type\":\"movie\"}",
                                 "title": "In a Violent Nature",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//o5pcDZaA9Up0X612os34JNCRX6j.jpg"
@@ -100,11 +105,6 @@
                                 "url": "{\"id\":955555,\"media_type\":\"movie\"}",
                                 "title": "The Roundup: No Way Out",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg"
-                            },
-                            {
-                                "url": "{\"id\":719221,\"media_type\":\"movie\"}",
-                                "title": "Tarot",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//sS9ePS66VV2HMUPk4pyA5qAyhII.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -247,7 +247,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.UnknownHostException: vidsrc.to: No address associated with hostname",
                 "passed": false
             }
         }

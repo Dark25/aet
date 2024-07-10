@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "2ngTGms0Hbzaehn5",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5"
+                            },
+                            {
                                 "url": "iIp5feNrFjxu6iAN",
                                 "title": "Shinkalion: Change the World",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN"
@@ -100,11 +105,6 @@
                                 "url": "E8ZS5G4ffO881VVM",
                                 "title": "Mob kara Hajimaru Tansaku Eiyuutan",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/E8ZS5G4ffO881VVM"
-                            },
-                            {
-                                "url": "ovBLzy1ncMeooNL3",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ovBLzy1ncMeooNL3"
                             }
                         ],
                         "hasNextPage": true
@@ -294,14 +294,14 @@
             },
             "details": {
                 "result": {
-                    "url": "iIp5feNrFjxu6iAN",
-                    "title": "Shinkalion: Change the World",
-                    "author": "Production I.G, Signal.MD",
-                    "description": "Once upon a time, an unidentified enemy, the Unknown, suddenly appeared. The \"Super Evolutionary Railway Development Agency,\" had developed the \"Shinkalion,\" a robot that transforms into a bullet train, as a countermeasure against this threat.\n\n(Source: Official Website, translated)\n",
-                    "genre": "Action, Kids, Mecha, School, Sci-Fi",
+                    "url": "2ngTGms0Hbzaehn5",
+                    "title": "Tasuuketsu",
+                    "author": "Satelight",
+                    "description": "The story follows a group of five in a world where people have suddenly disappeared. A mysterious self-proclaimed \"Emperor\" gathers five people together through anonymous messages and has them participate in a game. Participants answer the question \"Do you want to live or die?\" The game has only one rule: \"Majority dies.\" \n\n(Source: MangaUpdates)",
+                    "genre": "Action, Drama, High Stakes Game, Psychological, Suspense",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5",
                     "initialized": true
                 },
                 "passed": true
@@ -309,14 +309,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "iIp5feNrFjxu6iAN/video/13",
-                        "name": "Episode 13: A Cool Person",
-                        "episode_number": 13.0
+                        "url": "2ngTGms0Hbzaehn5/video/2",
+                        "name": "Episode 2: Good Intentions",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "iIp5feNrFjxu6iAN/video/12",
-                        "name": "Episode 12: Reunion",
-                        "episode_number": 12.0
+                        "url": "2ngTGms0Hbzaehn5/video/1",
+                        "name": "Episode 1: Tomorrow",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -324,17 +324,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/iIp5feNrFjxu6iAN/13/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/2/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/iIp5feNrFjxu6iAN/13/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/2/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/iIp5feNrFjxu6iAN/en-US/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/2",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/2",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/2",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/2",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/2",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/2",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/2",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/de-DE/2",
+                                "lang": "Deutsch"
                             }
                         ]
                     }

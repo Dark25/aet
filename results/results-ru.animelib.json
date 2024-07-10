@@ -377,6 +377,12 @@
                     {
                         "animes": [
                             {
+                                "url": "19190--tunshi-xingkong-2nd-season-anime",
+                                "title": "Пожиратель звёзд 2",
+                                "status": 2,
+                                "thumbnail_url": "https://cover.imgslib.link/uploads/anime/19190/cover/8f04ea84-f6fa-482b-b7c5-cd5b15d91d6c_thumb.jpg"
+                            },
+                            {
                                 "url": "20681--isekai-shikkaku-anime",
                                 "title": "Дисквалифицирован по жизни",
                                 "thumbnail_url": "https://cover.imgslib.link/uploads/anime/20681/cover/5b77f06e-493f-4382-9980-b824f52179d8_thumb.jpg"
@@ -464,12 +470,6 @@
                                 "title": "Стесняшка 2",
                                 "status": 1,
                                 "thumbnail_url": "https://cover.imgslib.link/uploads/anime/23131/cover/96225b39-3703-46a6-9acb-17a2447dc661_thumb.jpg"
-                            },
-                            {
-                                "url": "19190--tunshi-xingkong-2nd-season-anime",
-                                "title": "Пожиратель звёзд 2",
-                                "status": 2,
-                                "thumbnail_url": "https://cover.imgslib.link/uploads/anime/19190/cover/8f04ea84-f6fa-482b-b7c5-cd5b15d91d6c_thumb.jpg"
                             },
                             {
                                 "url": "22140--shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-anime",
@@ -1139,8 +1139,460 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/2998/2998_2160.mp4",
+                        "quality": "AniLibria.TV (2160p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/2998/2998_2160.mp4"
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/2486/2486_1080.mp4",
+                        "quality": "Dream Cast (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/2486/2486_1080.mp4"
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/a536ce0c-a8d5-438d-9946-52b12fa7c400/a09f0458203574a710018c784aec0884:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "OnWave (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/a536ce0c-a8d5-438d-9946-52b12fa7c400/a09f0458203574a710018c784aec0884:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/3992/3992_1080.mp4",
+                        "quality": "Flarrow Films (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/3992/3992_1080.mp4"
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/21215/21215_1080.mp4",
+                        "quality": "КОМНАТА ДИДИ (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/21215/21215_1080.mp4"
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/2473/2473_1080.mp4",
+                        "quality": "FumoDub (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/2473/2473_1080.mp4"
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/2485/2485_1080.mp4",
+                        "quality": "SHIZA Project (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/2485/2485_1080.mp4"
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/1720e329-50c7-45b3-a760-ed1365abf4bd/c3e887ac648949336edbbac990f8b4ee:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AnimeVost (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/1720e329-50c7-45b3-a760-ed1365abf4bd/c3e887ac648949336edbbac990f8b4ee:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/11009/11009_1080.mp4",
+                        "quality": "Crunchyroll (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/11009/11009_1080.mp4"
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/9bc2a792-9c3d-47e1-93b8-ec1d4c0d9b7c/9c36292003da2273c842162585ce94f2:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniPlague (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/9bc2a792-9c3d-47e1-93b8-ec1d4c0d9b7c/9c36292003da2273c842162585ce94f2:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/16102/16102_1080.mp4",
+                        "quality": "DubClub (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/16102/16102_1080.mp4"
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/63787b39-6387-4cf4-b3bf-0a57ce067912/0f53ba25d9c2ff18e1c085923c26310a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "EVA (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/63787b39-6387-4cf4-b3bf-0a57ce067912/0f53ba25d9c2ff18e1c085923c26310a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/3259/3259_1080.mp4",
+                        "quality": "AniRise (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/3259/3259_1080.mp4"
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/4567/4567_1080.mp4",
+                        "quality": "Amazing Dubbing (1080p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/4567/4567_1080.mp4"
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/fd7271b3-0819-4f1a-b1b2-ff3ff1ee889a/7c21732eb06c2a76340907140c4aa09b:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniFilm (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/fd7271b3-0819-4f1a-b1b2-ff3ff1ee889a/7c21732eb06c2a76340907140c4aa09b:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/aa6fdbd1-055e-4321-a659-c580ea431a21/a150062af89ea5820533e89160a99e41:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Kazoku Project (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/aa6fdbd1-055e-4321-a659-c580ea431a21/a150062af89ea5820533e89160a99e41:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/123f5fe6-6621-424d-9674-9063642994d9/c876aab36a7977346fda2355a9141943:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniJoy (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/123f5fe6-6621-424d-9674-9063642994d9/c876aab36a7977346fda2355a9141943:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/b24009fb-3cfc-4519-9e0e-e42b1b673677/72b26220d921e2da159dba01005c6ecb:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniMaunt (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/b24009fb-3cfc-4519-9e0e-e42b1b673677/72b26220d921e2da159dba01005c6ecb:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/4c6ea22f-16bb-4929-97b1-851533c80686/0c57bdfd6d3feb91f007ab187d3e23bf:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Ушастая озвучка (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/4c6ea22f-16bb-4929-97b1-851533c80686/0c57bdfd6d3feb91f007ab187d3e23bf:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/516b5263-3688-45bc-8985-5483d02eab0b/74fbe07f1a88f2e9ddd4f279132e0790:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Akame (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/516b5263-3688-45bc-8985-5483d02eab0b/74fbe07f1a88f2e9ddd4f279132e0790:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/7b5a794c-2353-4cce-88f8-c53d306774b4/2c0568303358dc02116ae8a4fd34eb96:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "NekoVoice (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/7b5a794c-2353-4cce-88f8-c53d306774b4/2c0568303358dc02116ae8a4fd34eb96:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://video1.anilib.me/.аs//uploads/converted_videos/19737/19737_720.mp4",
+                        "quality": "NekoVoice (720p Animelib)",
+                        "videoUrl": "https://video1.anilib.me/.аs//uploads/converted_videos/19737/19737_720.mp4"
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/1e4b8aef-c97c-46f5-aa4c-f40c8a0c36e0/424acbfcd729f64c643e6e776def94d4:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "FreedubStudio (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/1e4b8aef-c97c-46f5-aa4c-f40c8a0c36e0/424acbfcd729f64c643e6e776def94d4:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/4f972bf0-8e45-4d1a-92f7-ab4065260045/93054b5136b526f3c6fa2d0fadcd1871:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Youkai Studio (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/4f972bf0-8e45-4d1a-92f7-ab4065260045/93054b5136b526f3c6fa2d0fadcd1871:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/aa69a485-e557-4acc-a804-324556dcd51b/3fd04201f6f4749bc44f876d3a2b11b6:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "DOBROVOICE (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/aa69a485-e557-4acc-a804-324556dcd51b/3fd04201f6f4749bc44f876d3a2b11b6:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/41b5f7f7-d613-4523-8e5f-b249765d9696/6d95c74ffb3c6b66bd5347a97fa756f3:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "TVShows (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/41b5f7f7-d613-4523-8e5f-b249765d9696/6d95c74ffb3c6b66bd5347a97fa756f3:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/dea2d0c2-27e0-4e3e-916c-a55deb72b30e/be75254a19f70364663e6d8de7715534:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "J&N Union (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/dea2d0c2-27e0-4e3e-916c-a55deb72b30e/be75254a19f70364663e6d8de7715534:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/7d69907f-cf9c-4a5a-bd13-db6620650db2/d66ee6c3f08cb8537ef5a9f4b89f247f:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Fronda Studio (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/7d69907f-cf9c-4a5a-bd13-db6620650db2/d66ee6c3f08cb8537ef5a9f4b89f247f:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/6d4d3d48-5c8c-4008-9ee2-f6c054c3d964/46f809a032a83c761c3047af78302eb3:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "OneDub (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/6d4d3d48-5c8c-4008-9ee2-f6c054c3d964/46f809a032a83c761c3047af78302eb3:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/cd435ea1-0a71-408f-8509-c579234e3419/755549bd430a504fba5e22048bd7bf69:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Невинный Кружок (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/cd435ea1-0a71-408f-8509-c579234e3419/755549bd430a504fba5e22048bd7bf69:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/9d8593d4-4ee5-4024-8bd7-c4713f902060/59ac259866b19c030d9a6cecf0b5d622:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "KrioDub (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/9d8593d4-4ee5-4024-8bd7-c4713f902060/59ac259866b19c030d9a6cecf0b5d622:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/811fe889-bfae-4705-aec5-3ba00e674874/21252ed56b34397ce1775271b60f6c6a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Кладбище топовых релизов (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/811fe889-bfae-4705-aec5-3ba00e674874/21252ed56b34397ce1775271b60f6c6a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/d89739da-a583-484b-b13f-be9dcb9f8520/836622f2c11543ab02f0ce6578be5989:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Shikoku Studio (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/d89739da-a583-484b-b13f-be9dcb9f8520/836622f2c11543ab02f0ce6578be5989:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/304c1789-7e60-4639-92d7-db55fb053ac9/12f20471198967fb0303707ebe4efa9e:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniLeague.tv (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/304c1789-7e60-4639-92d7-db55fb053ac9/12f20471198967fb0303707ebe4efa9e:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/5bb8b90b-3268-4b4c-918c-a33fd0ab50c7/2f7fafdbb96058c5c4ed94f73f11aa97:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniBoom (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/5bb8b90b-3268-4b4c-918c-a33fd0ab50c7/2f7fafdbb96058c5c4ed94f73f11aa97:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/19af3f12-fc6f-4251-9e16-12405de2328a/83283b978ff6d8ebf8e174153ba545bf:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "2D-DUB (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/19af3f12-fc6f-4251-9e16-12405de2328a/83283b978ff6d8ebf8e174153ba545bf:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/89ba4945-a643-47a5-852e-520455f7488b/01d56aef706ef5b74e9f02e058cf3119:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "MifFan (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/89ba4945-a643-47a5-852e-520455f7488b/01d56aef706ef5b74e9f02e058cf3119:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/06d4714e-55b1-4843-8c29-1cd68fd10ff5/5362e915e640e917859cc8916d2de083:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AEROChannelEkat (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/06d4714e-55b1-4843-8c29-1cd68fd10ff5/5362e915e640e917859cc8916d2de083:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/dca6c677-9c73-4c6c-bc60-359f95436247/a7dc24470450ca1b599a7839908da413:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Head Pack Films (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/dca6c677-9c73-4c6c-bc60-359f95436247/a7dc24470450ca1b599a7839908da413:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/3c8d3552-3c1e-4e42-95b6-9c784004cc15/7cdd0e907638f4b7a453a4028fb19eda:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "SENU Project (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/3c8d3552-3c1e-4e42-95b6-9c784004cc15/7cdd0e907638f4b7a453a4028fb19eda:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/a0dca849-433d-4766-b14e-959049fbbfaa/c3fbc37cda9d6579760c51ffd67c7a60:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Jisedai (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/a0dca849-433d-4766-b14e-959049fbbfaa/c3fbc37cda9d6579760c51ffd67c7a60:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/6fadeae0-8b2c-4c5f-98aa-429995ea6994/6d8b2610570853e665ef5e20434da339:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniDorFilm (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/6fadeae0-8b2c-4c5f-98aa-429995ea6994/6d8b2610570853e665ef5e20434da339:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/ecbe8f15-06fe-4139-878b-07f29fc94295/491fe5ae64213567086ebb213946813a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "BanderYmka (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/ecbe8f15-06fe-4139-878b-07f29fc94295/491fe5ae64213567086ebb213946813a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/24d1ffb1-0217-469d-b294-977b1e3c8cf1/98a3440afb863bede3819eab649a7705:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "TAKEOVER Project (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/24d1ffb1-0217-469d-b294-977b1e3c8cf1/98a3440afb863bede3819eab649a7705:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/ac513e16-c069-403a-a0d9-8020c6b93672/f00b660df4843fb739b860e11f0e10e3:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "NoNameDUB Project (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/ac513e16-c069-403a-a0d9-8020c6b93672/f00b660df4843fb739b860e11f0e10e3:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/c582666c-e74c-4c77-afe8-dc7a2f6bd5c0/9b3aabd499aec40899c215a0c50080c9:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "HaronMedia (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/c582666c-e74c-4c77-afe8-dc7a2f6bd5c0/9b3aabd499aec40899c215a0c50080c9:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/7bd1a022-d480-4e8a-a902-f27cc6ec132c/a66e94b56d505d3b83c180875a60ea2a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniClub (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/7bd1a022-d480-4e8a-a902-f27cc6ec132c/a66e94b56d505d3b83c180875a60ea2a:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/64dbae18-a062-43c1-a8d3-e30df2cd8d26/438d03921e7c5bc7af62984790246104:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "VOX-S (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/64dbae18-a062-43c1-a8d3-e30df2cd8d26/438d03921e7c5bc7af62984790246104:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/60f2948f-429d-4c18-99b9-cf33f1ad2adb/7f7c54d0fb2b491dae44ab402a07020c:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "FNDP (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/60f2948f-429d-4c18-99b9-cf33f1ad2adb/7f7c54d0fb2b491dae44ab402a07020c:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/58e001e6-dba3-436f-8b6d-83b22cb351d9/91d10a30139cc5d6ab4b1ab8cd29bf43:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "FaulyDub (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/58e001e6-dba3-436f-8b6d-83b22cb351d9/91d10a30139cc5d6ab4b1ab8cd29bf43:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/3a95e10d-d0a8-4f15-bd91-ab9756e4a13e/42712a44678dd0f6921b855713d865d4:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "ReVoice (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/3a95e10d-d0a8-4f15-bd91-ab9756e4a13e/42712a44678dd0f6921b855713d865d4:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/dc256872-d3e2-454f-ab8d-bd792cb85f44/2a0a1872f6b25662ba5d99b20b2b30f6:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "AniRai (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/dc256872-d3e2-454f-ab8d-bd792cb85f44/2a0a1872f6b25662ba5d99b20b2b30f6:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/5e32f56e-b1f2-43ba-bdd7-90edf13ed47e/86414abb269d24148c3f88268a597bf9:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "LampStudio (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/5e32f56e-b1f2-43ba-bdd7-90edf13ed47e/86414abb269d24148c3f88268a597bf9:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/7d6fc018-e199-4ea8-9c2d-508a3c0ec9c9/e71943ef87f8cf39d4b4d5d5519e8505:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "BAZA Band (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/7d6fc018-e199-4ea8-9c2d-508a3c0ec9c9/e71943ef87f8cf39d4b4d5d5519e8505:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cloud.kodik-storage.com/useruploads/aac400f1-63c2-4d5b-ab5d-afda2026fa6b/c394514718be0f31160ddfabac930026:2024071018/720.mp4:hls:manifest.m3u8",
+                        "quality": "Crimson Star Voice (720p Kodik)",
+                        "videoUrl": "https://cloud.kodik-storage.com/useruploads/aac400f1-63c2-4d5b-ab5d-afda2026fa6b/c394514718be0f31160ddfabac930026:2024071018/720.mp4:hls:manifest.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -371,12 +371,53 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/koi-wa-futago-de-warikirenai-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vip-muayad-88-a.vidblue.pics/hls/vxzxgpl6rgqfycihmropzqhhidc6h5dkfnbcqbmnqgd44fwh56d4w3pc4ixa/index-v1-a1.m3u8",
+                        "quality": "Vidshare: 480p",
+                        "videoUrl": "https://vip-muayad-88-a.vidblue.pics/hls/vxzxgpl6rgqfycihmropzqhhidc6h5dkfnbcqbmnqgd44fwh56d4w3pc4ixa/index-v1-a1.m3u8"
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xqnu4cz3b4quuohcrbqjkfjmnn4j6wpk3qhmomoluuahtwajhbuae3ejekpcwhuenfmkep/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xqnu4cz3b4quuohcrbqjkfjmnn4j6wpk3qhmomoluuahtwajhbuae3ejekpcwhuenfmkep/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=4&sig=z0YxX6gBhSA&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=4&sig=z0YxX6gBhSA&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322"
+                    },
+                    {
+                        "url": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=0&sig=BrYHQ_6J-IQ&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=0&sig=BrYHQ_6J-IQ&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322"
+                    },
+                    {
+                        "url": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=1&sig=0EvXA4nZyNc&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=1&sig=0EvXA4nZyNc&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322"
+                    },
+                    {
+                        "url": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=2&sig=ovZd0Noe3SI&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd361.mycdn.me/?expires=1720721107537&srcIp=172.200.107.242&pr=10&srcAg=GECKO&ms=45.136.21.76&type=2&sig=ovZd0Noe3SI&ct=0&urls=185.226.52.70&clientType=0&zs=43&id=6647269231322"
+                    }
+                ],
+                "passed": true
             }
         }
     }

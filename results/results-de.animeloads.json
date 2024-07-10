@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/koi-wa-futago-de-warikirenai",
+                                "title": "Love Is Indivisible by Twins",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-koi-wa-futago-de-warikirenai-cover.jpg"
+                            },
+                            {
+                                "url": "/media/kimi-to-boku-no-saigo-no-senjou-arui-wa-sekai-ga-hajimaru-seisen-season-ii",
+                                "title": "Our Last Crusade or the Rise of a New World: Staffel 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ezgif-6-de621f442f.jpg"
+                            },
+                            {
                                 "url": "/media/isekai-shikkaku",
                                 "title": "No Longer Allowed in Another World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-shikkaku-cover.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/media/cardfight-vanguard-divinez-season-2",
                                 "title": "Cardfight!! Vanguard: Divinez Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-cardfight-vanguard-divinez-season-2-cover.jpg"
-                            },
-                            {
-                                "url": "/media/kono-sekai-wa-fukanzen-sugiru",
-                                "title": "Quality Assurance in Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kono-sekai-wa-fukanzen-sugiru-cover.jpg"
-                            },
-                            {
-                                "url": "/media/nierautomata-ver11a-2-cour",
-                                "title": "NieR:Automata Ver1.1a (Cour 2)",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-nier-automata-ver1-1a-2-cour-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/isekai-shikkaku",
-                    "title": "No Longer Allowed in Another World",
+                    "url": "/media/koi-wa-futago-de-warikirenai",
+                    "title": "Love Is Indivisible by Twins",
                     "author": "",
-                    "description": "Im Jahr 1948 fasst der depressive Schriftsteller Osamu Dazai einen verhängnisvollen Entschluss: Er begeht mit seiner Freundin einen Doppelselbstmord, der ihn von seinem ewigen Leid erlösen soll und wird von einem Lastwagen erfasst. Unglücklicherweise findet er sich daraufhin jedoch nicht im Jenseits wieder, sondern vor einer überraschend gut gelaunten Göttin, die ihm fröhlich verkündet, er sei der auserwählte Held, der Zauberberg, eine fremde magische Welt retten soll. Daran hat Osamu jedoch überhaupt kein Interesse und erhielt anscheinend auch kein besonderes Talent, um diese unmögliche Aufgabe zu erledigen. Deshalb beschließt er, seinen ursprünglichen Plan in die Tat umzusetzen. Wenn er reinkarniert wurde, dann bestimmt auch seine Freundin. Deshalb macht er sich auf den Weg, um sie zu finden und mit ihr gemeinsam erneut sterben zu können. Quelle: aniSearch",
-                    "genre": "",
+                    "description": "Schon seit seiner Kindheit ist Jun Shirasaki mit den beiden Zwillingsschwestern Ryuumi und Naori von nebenan befreundet. Obwohl die beiden Mädchen grundverschieden sind, verstehen sie sich gut und Jun verbringt viel Zeit mit ihnen. Er beginnt sogar eine Beziehung mit Ryuumi und ist sehr glücklich mit ihr, bis sie sich plötzlich ohne große Erklärung von ihm trennt und ihn überredet, stattdessen mit ihrer Schwester auszugehen, die ihn auch zu mögen scheint. Jun ist davon überhaupt nicht begeistert und trauert seiner Exfreundin lange hinterher. Liebt Ryuumi ihn wirklich nicht mehr? Oder gibt es noch einen anderen Grund für die Trennung? Quelle: aniSearch",
+                    "genre": "Romantische Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-shikkaku-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-koi-wa-futago-de-warikirenai-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/isekai-shikkaku#streams_episodes_1_0",
+                        "url": "/media/koi-wa-futago-de-warikirenai#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,14 +247,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=O1p2l6AYKetZy4j&expires=1720683202&ip=F0qQKRWZD19XKxR&token=i2E21K4Nk01p",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=O1p2l6AYKetZy4j&expires=1720683202&ip=F0qQKRWZD19XKxR&token=i2E21K4Nk01p"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

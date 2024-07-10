@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/la-guerra-de-las-galaxias",
+                                "title": "La guerra de las galaxias",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg"
+                            },
+                            {
                                 "url": "/movies/bad-boys-hasta-la-muerte",
                                 "title": "Bad Boys: Hasta la muerte",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/movies/un-actor-malo",
                                 "title": "Un actor malo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/qmYiApzK6e54NRus1iY7oiefS4q.jpg"
-                            },
-                            {
-                                "url": "/movies/guardianes-del-tiempo",
-                                "title": "Guardianes del Tiempo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/78PZy78ZbML3ifDY0MqdQxzrtaq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -362,14 +362,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             },
                             {
-                                "url": "/movies/007-el-mundo-no-basta",
-                                "title": "007: El mundo no basta",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
-                            },
-                            {
                                 "url": "/series/guerra-de-los-mundos",
                                 "title": "Guerra de los Mundos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
+                            },
+                            {
+                                "url": "/movies/007-el-mundo-no-basta",
+                                "title": "007: El mundo no basta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/bad-boys-hasta-la-muerte",
-                    "title": "Bad Boys: Hasta la muerte",
-                    "artist": "Will Smith",
-                    "description": "Tras escuchar falsas acusaciones sobre su excapitán y mentor Mike y Marcus deciden investigar el asunto incluso volverse los más buscados de ser necesarios",
-                    "genre": "Acción, Crimen, Suspenso, Comedia",
+                    "url": "/movies/la-guerra-de-las-galaxias",
+                    "title": "La guerra de las galaxias",
+                    "artist": "Mark Hamill",
+                    "description": "La Princesa Leia Organa ha sido capturada por Darth Vader por tener los planos de la Estrella de la muerte, la temida estación espacial del imperio. Dos androides escapan al planeta Tatooine, ambos son comprados por Luke Skywalker, un joven granjero, este se entera de un mensaje que ella, uno de ellos y busca a Obi Wan Kenobi, un antiguo caballero Jedi que lo lleva a conocer sobre la fuerza y como utilizarla. Contratan a Han Solo, un foragido espacial que tiene al Halcón Milenario, una gran nave capaz de recorrer a la velocidad de la luz con la intención de rescatar a la princesa y luego organizar una batalla para destruir a la Estrella de la muerte.",
+                    "genre": "Aventura, Acción, Ciencia ficción",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/bad-boys-hasta-la-muerte",
+                        "url": "/movies/la-guerra-de-las-galaxias",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,47 +429,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04341/sfl8svd3s61o_,n,h,.urlset/index-f2-v1-a1.m3u8?t=mlN4vSt5aExXHbMC23VyMuZNAnIcs_7k8TYy2Xa-Tfo&s=1720613232&e=129600&f=21705850&srv=dcdxsqfmj7z5tynr&i=0.0&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04341/sfl8svd3s61o_,n,h,.urlset/index-f2-v1-a1.m3u8?t=mlN4vSt5aExXHbMC23VyMuZNAnIcs_7k8TYy2Xa-Tfo&s=1720613232&e=129600&f=21705850&srv=dcdxsqfmj7z5tynr&i=0.0&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/sfl8svd3s61o"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04341/sfl8svd3s61o_,n,h,.urlset/index-f1-v1-a1.m3u8?t=mlN4vSt5aExXHbMC23VyMuZNAnIcs_7k8TYy2Xa-Tfo&s=1720613232&e=129600&f=21705850&srv=dcdxsqfmj7z5tynr&i=0.0&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "url": "https://plzxvt62.sw-cdnstreamwish.com/hls2/01/00065/ittyyo3qivxe_n/index-v1-a1.m3u8?t=fGhpoWNE-hkn9YUW77Gze-vFmvY69HHTO2wLFRyvWMo&s=1720634769&e=129600&f=329837&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04341/sfl8svd3s61o_,n,h,.urlset/index-f1-v1-a1.m3u8?t=mlN4vSt5aExXHbMC23VyMuZNAnIcs_7k8TYy2Xa-Tfo&s=1720613232&e=129600&f=21705850&srv=dcdxsqfmj7z5tynr&i=0.0&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=8075",
+                        "videoUrl": "https://plzxvt62.sw-cdnstreamwish.com/hls2/01/00065/ittyyo3qivxe_n/index-v1-a1.m3u8?t=fGhpoWNE-hkn9YUW77Gze-vFmvY69HHTO2wLFRyvWMo&s=1720634769&e=129600&f=329837&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/sfl8svd3s61o"
+                            "Referer": "https://streamwish.to/e/ittyyo3qivxe"
                         }
                     },
                     {
-                        "url": "https://rvlzhfoat7kb.sw-cdnstreamwish.com/hls2/01/04341/efldlit6o0wb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=KL0I7yYHVR3JWsZNZMZkhT2BfwXtyqPtONvdsVRf_PA&s=1720613236&e=129600&f=21705865&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
-                        "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://rvlzhfoat7kb.sw-cdnstreamwish.com/hls2/01/04341/efldlit6o0wb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=KL0I7yYHVR3JWsZNZMZkhT2BfwXtyqPtONvdsVRf_PA&s=1720613236&e=129600&f=21705865&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/efldlit6o0wb"
-                        }
-                    },
-                    {
-                        "url": "https://rvlzhfoat7kb.sw-cdnstreamwish.com/hls2/01/04341/efldlit6o0wb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=KL0I7yYHVR3JWsZNZMZkhT2BfwXtyqPtONvdsVRf_PA&s=1720613236&e=129600&f=21705865&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "url": "https://hljptjnakd.sw-cdnstreamwish.com/hls2/01/00066/5eauudj7i5jf_n/index-v1-a1.m3u8?t=OijnSt3iIcZ-o0qntPlQnchrxW7qNe8qHOcF_iW2pE0&s=1720634780&e=129600&f=330106&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://rvlzhfoat7kb.sw-cdnstreamwish.com/hls2/01/04341/efldlit6o0wb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=KL0I7yYHVR3JWsZNZMZkhT2BfwXtyqPtONvdsVRf_PA&s=1720613236&e=129600&f=21705865&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "videoUrl": "https://hljptjnakd.sw-cdnstreamwish.com/hls2/01/00066/5eauudj7i5jf_n/index-v1-a1.m3u8?t=OijnSt3iIcZ-o0qntPlQnchrxW7qNe8qHOcF_iW2pE0&s=1720634780&e=129600&f=330106&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/efldlit6o0wb"
+                            "Referer": "https://streamwish.to/e/5eauudj7i5jf"
+                        }
+                    },
+                    {
+                        "url": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03286/1lgb2j2w5nm6_n/index-v1-a1.m3u8?t=ibaQhnCDt3YencacgRGqeS0_S2kCoJCJAYbGU6uUB1Y&s=1720634774&e=129600&f=16432346&srv=hkpl82vl0bni&i=0.0&sp=500&p1=hkpl82vl0bni&p2=hkpl82vl0bni&asn=8075",
+                        "quality": "[CAST] StreamWish:264p",
+                        "videoUrl": "https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/03286/1lgb2j2w5nm6_n/index-v1-a1.m3u8?t=ibaQhnCDt3YencacgRGqeS0_S2kCoJCJAYbGU6uUB1Y&s=1720634774&e=129600&f=16432346&srv=hkpl82vl0bni&i=0.0&sp=500&p1=hkpl82vl0bni&p2=hkpl82vl0bni&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/1lgb2j2w5nm6"
                         }
                     }
                 ],

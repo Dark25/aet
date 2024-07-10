@@ -3,7 +3,7 @@
         "name": "ArabAnime (AR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: page@9f5f6eda7123db5b7a887c8c23063fbc",
                 "passed": false
             },
             "latest": {

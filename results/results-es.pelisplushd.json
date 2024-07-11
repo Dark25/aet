@@ -680,16 +680,53 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/bikeriders-la-ley-del-asfalto",
+                    "title": "Bikeriders. La ley del asfalto (2024)",
+                    "description": "Tras un encuentro casual en un bar, Kathy, una mujer con carácter, se siente profundamente atraída por Benny, el miembro más reciente de “The Vandals” (Los vándalos), un club de moteros del Medio Oeste liderado por el enigmático Johnny. Al igual que el país, el club empieza a cambiar, y pasa de ser un lugar de reunión para los forasteros locales a convertirse en un punto de encuentro para un violento submundo, obligando a Benny a escoger entre Kathy y la lealtad que siente por sus compañeros.",
+                    "genre": "Crimen, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/bikeriders-la-ley-del-asfalto",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04353/lhk6z2v8swbu_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4PZfSO6bsnxhULoX8cvASTm9MgV2VIxk-KrsEoQRz88&s=1720699677&e=129600&f=21768407&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04353/lhk6z2v8swbu_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4PZfSO6bsnxhULoX8cvASTm9MgV2VIxk-KrsEoQRz88&s=1720699677&e=129600&f=21768407&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/lhk6z2v8swbu"
+                        }
+                    },
+                    {
+                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04353/lhk6z2v8swbu_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4PZfSO6bsnxhULoX8cvASTm9MgV2VIxk-KrsEoQRz88&s=1720699677&e=129600&f=21768407&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04353/lhk6z2v8swbu_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4PZfSO6bsnxhULoX8cvASTm9MgV2VIxk-KrsEoQRz88&s=1720699677&e=129600&f=21768407&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/lhk6z2v8swbu"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -992,9 +1029,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=7nNKgQo1lnJRkHjHCy-ngEe3js7BO0LHhD3BQtlhL8c&s=1720678007&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
+                        "url": "https://lpbugn8i.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=gJpfzL-Oag8GETJuzmOIffZEa5onIhjCRrgbU4FXNHY&s=1720699681&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=7nNKgQo1lnJRkHjHCy-ngEe3js7BO0LHhD3BQtlhL8c&s=1720678007&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
+                        "videoUrl": "https://lpbugn8i.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=gJpfzL-Oag8GETJuzmOIffZEa5onIhjCRrgbU4FXNHY&s=1720699681&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1003,9 +1040,9 @@
                         }
                     },
                     {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=vEDx0DepVgZuEgs9MiNhtVo-lpoBiLcyZo5hOqubC-E&s=1720678009&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.0&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=Z4TfYSQRMs9_xFBhO7Ca6H951-PI7NmQgawEoSQ5MPs&s=1720699683&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.0&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=vEDx0DepVgZuEgs9MiNhtVo-lpoBiLcyZo5hOqubC-E&s=1720678009&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.0&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=Z4TfYSQRMs9_xFBhO7Ca6H951-PI7NmQgawEoSQ5MPs&s=1720699683&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.0&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1014,9 +1051,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720748012&ip=F0qQKRWZD19XKxR&token=vLFh5QExeaV0",
+                        "url": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720769685&ip=FROsE0EnDS9X&token=NNhQa4K5VKaV",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720748012&ip=F0qQKRWZD19XKxR&token=vLFh5QExeaV0"
+                        "videoUrl": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720769685&ip=FROsE0EnDS9X&token=NNhQa4K5VKaV"
                     }
                 ],
                 "passed": true

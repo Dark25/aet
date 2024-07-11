@@ -304,6 +304,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/bikeriders-la-ley-del-asfalto",
+                                "title": "Bikeriders. La ley del asfalto (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/b7Vf9doQIZavdJS16969KfO0Lsa.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-guerra-de-los-mundos-el-ataque",
+                                "title": "La guerra de los mundos: el ataque (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/h0xF7q5k07BRVJz9Z3A8dGdbpLR.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-descendientes-3",
+                                "title": "Los descendientes 3 (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg"
+                            },
+                            {
                                 "url": "/pelicula/el-reino-del-planeta-de-los-simios",
                                 "title": "El reino del planeta de los simios (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg"
@@ -407,21 +422,6 @@
                                 "url": "/pelicula/los-que-aman-odian",
                                 "title": "Los que aman, odian (2017)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/sKMAogyfoq78LTZi0peWOexGIOZ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/amar-es-madurar",
-                                "title": "Amar es madurar (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1MN8Qxg691Az7nofmXkZPsuIZVD.jpg"
-                            },
-                            {
-                                "url": "/pelicula/casando-a-mi-ex",
-                                "title": "Casando a mi Ex (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/8NwGv3IvOypQt3sQGFFlffcg1zC.jpg"
-                            },
-                            {
-                                "url": "/pelicula/orgasm-inc-la-historia-de-onetaste",
-                                "title": "Orgasm Inc: La historia de OneTaste (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gfaJ7D4ifDftBAMVD1jpbF3ieRm.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -680,53 +680,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/el-reino-del-planeta-de-los-simios",
-                    "title": "El reino del planeta de los simios (2024)",
-                    "description": "Ambientada varias generaciones en el futuro tras el reinado de César, en la que los simios son la especie dominante que vive en armonía y los humanos se han visto reducidos a vivir en la sombra. Mientras un nuevo y tiránico líder simio construye su imperio, un joven simio emprende un angustioso viaje que le llevará a cuestionarse todo lo que sabe sobre el pasado y a tomar decisiones que definirán el futuro de simios y humanos por igual.",
-                    "genre": "Ciencia ficción, Aventura, Acción",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/el-reino-del-planeta-de-los-simios",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Gitq-k8AiVrUFH8HlfTTiMQLVXqVW8oOfoX3VwjjlRs&s=1720656978&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Gitq-k8AiVrUFH8HlfTTiMQLVXqVW8oOfoX3VwjjlRs&s=1720656978&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/54ukproswxbf"
-                        }
-                    },
-                    {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Gitq-k8AiVrUFH8HlfTTiMQLVXqVW8oOfoX3VwjjlRs&s=1720656978&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04334/54ukproswxbf_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Gitq-k8AiVrUFH8HlfTTiMQLVXqVW8oOfoX3VwjjlRs&s=1720656978&e=129600&f=21670154&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/54ukproswxbf"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1029,9 +992,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=g8KQ0SHC3egMMa0wnuPevddTtDxLeYIQAelXyg0Uf6U&s=1720656982&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
+                        "url": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=7nNKgQo1lnJRkHjHCy-ngEe3js7BO0LHhD3BQtlhL8c&s=1720678007&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=g8KQ0SHC3egMMa0wnuPevddTtDxLeYIQAelXyg0Uf6U&s=1720656982&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
+                        "videoUrl": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00463/0yvbe617mrcu_n/index-v1-a1.m3u8?t=7nNKgQo1lnJRkHjHCy-ngEe3js7BO0LHhD3BQtlhL8c&s=1720678007&e=129600&f=2317973&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1040,9 +1003,9 @@
                         }
                     },
                     {
-                        "url": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=PCd9bLIO_Wh3EXUK_jqrgcGaJod7L_xINpZ-a-1l1FY&s=1720656984&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=vEDx0DepVgZuEgs9MiNhtVo-lpoBiLcyZo5hOqubC-E&s=1720678009&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.0&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://v1twzbljz9.sw-cdnstreamwish.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=PCd9bLIO_Wh3EXUK_jqrgcGaJod7L_xINpZ-a-1l1FY&s=1720656984&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.4&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/00478/kc68u079w719_n/index-v1-a1.m3u8?t=vEDx0DepVgZuEgs9MiNhtVo-lpoBiLcyZo5hOqubC-E&s=1720678009&e=129600&f=2392996&srv=sedrfmwrpjxatem5&i=0.0&sp=500&p1=sedrfmwrpjxatem5&p2=sedrfmwrpjxatem5&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1014,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720726987&ip=F0AsFxgnDS9X&token=ZopJ6OMjA6p6",
+                        "url": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720748012&ip=F0qQKRWZD19XKxR&token=vLFh5QExeaV0",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720726987&ip=F0AsFxgnDS9X&token=ZopJ6OMjA6p6"
+                        "videoUrl": "https://streamtape.com/get_video?id=JbbeZa1OK9UZeJ&expires=1720748012&ip=F0qQKRWZD19XKxR&token=vLFh5QExeaV0"
                     }
                 ],
                 "passed": true

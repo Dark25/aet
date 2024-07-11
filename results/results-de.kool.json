@@ -29,7 +29,7 @@
                             {
                                 "url": "/data/watch/?_id=1214509&type=movie",
                                 "title": "In a Violent Nature",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/o5pcDZaA9Up0X612os34JNCRX6j.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=573435&type=movie",
@@ -911,6 +911,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/8FSoyuxvUT2HiomWjWA3qIBjQ6Q.jpg"
                             },
                             {
+                                "url": "https://www.kool.to/data/watch/?_id=518764&type=movie",
+                                "title": "Animal World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg"
+                            },
+                            {
                                 "url": "https://www.kool.to/data/watch/?_id=251981&type=movie",
                                 "title": "The World of Kanako",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/y7JSRcBg1Wm3ZoMI3xsRm6L6N0m.jpg"
@@ -954,11 +959,6 @@
                                 "url": "https://www.kool.to/data/watch/?_id=40572&type=movie",
                                 "title": "How Bruce Lee Changed the World - Das Leben und Wirken einer Ikone",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/4AZebV9VllVpaRna69pMX8P4EQK.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=157360&type=movie",
-                                "title": "In a World...",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/xbuiPYXOk1aHaNf7o2mAQxeDs7s.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -987,8 +987,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=eqPlO1oQA2i2kR&expires=1720747937&ip=GxOsEHInDS9X&token=UPvtemah99GT",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=eqPlO1oQA2i2kR&expires=1720747937&ip=GxOsEHInDS9X&token=UPvtemah99GT"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=9OAPROLvg4ialDX&expires=1720747937&ip=GxOsEHInDS9X&token=oF-5pNTIXriV",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=9OAPROLvg4ialDX&expires=1720747937&ip=GxOsEHInDS9X&token=oF-5pNTIXriV"
+                    }
+                ],
+                "passed": true
             }
         }
     }

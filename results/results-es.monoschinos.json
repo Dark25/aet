@@ -3,23 +3,23 @@
         "name": "MonosChinos (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

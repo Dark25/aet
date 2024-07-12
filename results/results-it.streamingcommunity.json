@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9116-essere-ben",
+                                "title": "Essere Ben",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/0edfbb04-0c10-436e-a003-10b87bd1648c.webp"
+                            },
+                            {
                                 "url": "9053-exploding-kittens",
                                 "title": "Exploding Kittens",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/8d36e11f-5a58-4552-b1bc-04ae8e99822a.webp"
@@ -300,11 +305,6 @@
                                 "url": "8644-dancing-for-the-devil-storia-di-una-setta-su-tiktok",
                                 "title": "Dancing for the Devil: storia di una setta su TikTok",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/ae05c01c-4aec-434e-a103-6b081d9175df.webp"
-                            },
-                            {
-                                "url": "8627-i-colori-del-male-rosso",
-                                "title": "I colori del male: Rosso",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/363d27fd-d93c-4640-bdeb-54ba4f26a470.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9119-la-meglio-gioventu",
+                                "title": "La meglio gioventù",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/b28f5688-5f0c-4fac-8540-4cbedeeaae79.webp"
+                            },
+                            {
+                                "url": "9118-balle-spaziali",
+                                "title": "Balle spaziali",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c27626c9-bc24-4f9a-b071-34f0736b96be.webp"
+                            },
+                            {
+                                "url": "9117-immortals",
+                                "title": "Immortals",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/4c654384-e74f-4814-8f66-1b349154ce79.webp"
+                            },
                             {
                                 "url": "9114-starship-troopers-attacco-su-marte",
                                 "title": "Starship Troopers: Attacco su Marte",
@@ -600,21 +615,6 @@
                                 "url": "9044-storie-incredibili",
                                 "title": "Storie incredibili",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/7b656a93-675b-48de-8e2d-4e16a38853f8.webp"
-                            },
-                            {
-                                "url": "9042-vampirina",
-                                "title": "Vampirina",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/860e26c5-8d1b-4b0c-a258-0abdd49d1001.webp"
-                            },
-                            {
-                                "url": "9041-wild",
-                                "title": "Wild",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/93ab70ff-5b25-4ddd-8707-4598f254df81.webp"
-                            },
-                            {
-                                "url": "9040-jessie",
-                                "title": "Jessie",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/9d6f5738-6e53-430a-905c-d0cb1c2746c8.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9053-exploding-kittens",
-                    "description": "Infuria la lotta tra il bene e il male quando Dio e la sua nemica, la figlia di Satana, giungono sulla Terra per vivere con gli esseri umani... sotto forma di gatti parlanti.",
-                    "genre": "Commedia, Animazione",
+                    "url": "9116-essere-ben",
+                    "description": "Nuova scuola, nuova famiglia, nuovo superpotere. È un periodo di cambiamenti per il dodicenne Ben Vasani che scopre di potersi trasformare in chiunque incontri. Come mutaforma, Ben deve capire chi è e chi vuole essere.",
+                    "genre": "Sci-Fi & Fantasy, Famiglia",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -944,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9053",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9116?episode_id=69574&next_episode=1",
+                        "name": "Stagione 1 episodio 10 - La fine dell'inizio",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "9116?episode_id=69578&next_episode=1",
+                        "name": "Stagione 1 episodio 9 - La testa sotto la sabbia",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

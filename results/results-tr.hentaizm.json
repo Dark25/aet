@@ -144,8 +144,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://videa.hu/static/480p/7.1311749.2118904.1.11.1.1?md5=rH58li_sGdNYyx2Hz1tXSA&expires=1720793265",
+                        "quality": "Videa - 480p",
+                        "videoUrl": "https://videa.hu/static/480p/7.1311749.2118904.1.11.1.1?md5=rH58li_sGdNYyx2Hz1tXSA&expires=1720793265",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=RsboPQeml8skVN5j",
+                            "origin": "https://videa.hu"
+                        }
+                    },
+                    {
+                        "url": "https://videa.hu/static/240p/7.1311749.2118904.1.11.1.1?md5=jtcrQwJMptG_E-9CFOFhZg&expires=1720793265",
+                        "quality": "Videa - 240p",
+                        "videoUrl": "https://videa.hu/static/240p/7.1311749.2118904.1.11.1.1?md5=jtcrQwJMptG_E-9CFOFhZg&expires=1720793265",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=RsboPQeml8skVN5j",
+                            "origin": "https://videa.hu"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

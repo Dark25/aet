@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9053-exploding-kittens",
+                                "title": "Exploding Kittens",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/8d36e11f-5a58-4552-b1bc-04ae8e99822a.webp"
+                            },
+                            {
                                 "url": "9115-divorzio-in-nero-di-tyler-perry",
                                 "title": "Divorzio in nero di Tyler Perry",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/121c578a-ec8d-4d89-a555-ba3d0774b5bb.webp"
@@ -300,11 +305,6 @@
                                 "url": "8627-i-colori-del-male-rosso",
                                 "title": "I colori del male: Rosso",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/363d27fd-d93c-4640-bdeb-54ba4f26a470.webp"
-                            },
-                            {
-                                "url": "8626-la-vita-che-volevi",
-                                "title": "La vita che volevi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/eaab2d13-b065-4338-823f-4af3d66f9401.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9115-divorzio-in-nero-di-tyler-perry",
-                    "description": "La storia di Ava(Meagan Good), una giovane professionista del settore bancario la cui vita viene sconvolta quando suo marito Dallas(Cory Hardrict) decide di porre fine al loro matrimonio. Devastata, Ava è determinata a lottare per salvare la loro unione, finché il destino non interviene e rivela le malefatte di Dallas. Le rivelazioni mandano in frantumi non solo il loro matrimonio, ma anche i sogni di Ava di essere amata dalla sua vera anima gemella. Il film, che promette suspense ed emozioni, segue Ava mentre naviga tra le macerie del suo matrimonio per trovare la sua strada e, forse, una nuova possibilità di amare.",
-                    "genre": "Dramma, Thriller, Mistero",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9053-exploding-kittens",
+                    "description": "Infuria la lotta tra il bene e il male quando Dio e la sua nemica, la figlia di Satana, giungono sulla Terra per vivere con gli esseri umani... sotto forma di gatti parlanti.",
+                    "genre": "Commedia, Animazione",
                     "initialized": true
                 },
                 "passed": true
@@ -946,7 +944,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9115",
+                        "url": "9053",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bye-bye-earth",
+                                "title": "Bye Bye, Earth",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4071.jpg"
+                            },
+                            {
                                 "url": "/anime/koi-wa-futago-de-warikirenai",
                                 "title": "Koi wa Futago de Warikirenai",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/4070.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/anime/elfsan-wa-yaserarenai",
                                 "title": "Elf-san wa Yaserarenai.",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/4056.jpg"
-                            },
-                            {
-                                "url": "/anime/dungeon-no-naka-no-hito",
-                                "title": "Dungeon no Naka no Hito",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/4050.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -116,6 +116,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/nierautomata-ver11a",
+                                "title": "NieR:Automata Ver1.1a 14",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3778.jpg"
+                            },
+                            {
+                                "url": "/anime/bye-bye-earth",
+                                "title": "Bye Bye, Earth 1",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4071.jpg"
+                            },
+                            {
+                                "url": "/anime/25jigen-no-ririsa",
+                                "title": "2.5-jigen no Ririsa 2",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4049.jpg"
+                            },
+                            {
+                                "url": "/anime/code-geass-dakkan-no-roze",
+                                "title": "Code Geass: Dakkan no Rozé 4",
+                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4035.jpg"
+                            },
                             {
                                 "url": "/anime/senpai-wa-otokonoko",
                                 "title": "Senpai wa Otokonoko 2",
@@ -195,26 +215,6 @@
                                 "url": "/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
                                 "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita. 1",
                                 "thumbnail_url": "https://tioanime.com/uploads/thumbs/4068.jpg"
-                            },
-                            {
-                                "url": "/anime/isekai-shikkaku",
-                                "title": "Isekai Shikkaku 1",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4067.jpg"
-                            },
-                            {
-                                "url": "/anime/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf 15",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3993.jpg"
-                            },
-                            {
-                                "url": "/anime/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
-                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru. 2",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/4039.jpg"
-                            },
-                            {
-                                "url": "/anime/shy",
-                                "title": "Shy 14",
-                                "thumbnail_url": "https://tioanime.com/uploads/thumbs/3907.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -334,13 +334,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/koi-wa-futago-de-warikirenai",
-                    "title": "Koi wa Futago de Warikirenai",
-                    "description": "La vida amorosa de Jun Shirasaki cambia por completo cuando se ve atrapado entre las gemelas Jinguji, dos amigas de la infancia que son como el día y la noche. Rumi, la hermana mayor, es una chica de actitud más masculina pero muy dulce y tierna, mientras que Naori es una chica extremadamente linda pero que también es una gran amante de la cultura otaku. Sus sentimientos por ellas van creciendo a la par que su confusión, así que Jun tendrá que lidiar como pueda con este triángulo amoroso con sus vecinas.",
-                    "genre": "Comedia, Escolares, Romance",
+                    "url": "/anime/bye-bye-earth",
+                    "title": "Bye Bye, Earth",
+                    "description": "Belle Lablac no encaja al ser la única humana en un mundo repleto de animales antropomórficos. No tiene colmillos, ni piel, ni escamas, ni garras. Sola y deseos de descubrir de dónde procede, Belle parte a un viaje para encontrar respuestas a las preguntas que la acechan. Portando únicamente su gigantesca espada, Runding, se enfrenta a un mundo de posibilidades y problemas con la esperanza de alcanzar a descubrir la verdad.",
+                    "genre": "Acción, Aventuras, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://tioanime.com/uploads/portadas/4070.jpg",
+                    "thumbnail_url": "https://tioanime.com/uploads/portadas/4071.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -348,7 +348,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/koi-wa-futago-de-warikirenai-1",
+                        "url": "/ver/bye-bye-earth-1",
                         "name": "Episodio 1",
                         "episode_number": 1.0
                     }
@@ -358,34 +358,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=cQOuVesx880&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375",
+                        "url": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=uBVV23YhXD4&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023",
                         "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=cQOuVesx880&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=uBVV23YhXD4&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023"
                     },
                     {
-                        "url": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=7OXvlBA4zHU&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375",
+                        "url": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=eCPHRTMgm8w&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023",
                         "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=7OXvlBA4zHU&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=eCPHRTMgm8w&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023"
                     },
                     {
-                        "url": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=ubyl6Yg047Y&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375",
+                        "url": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=vFfWRuNpusM&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023",
                         "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=ubyl6Yg047Y&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=vFfWRuNpusM&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023"
                     },
                     {
-                        "url": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=UKjJHUdErg4&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375",
+                        "url": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=xukIjL9AmEc&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023",
                         "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=UKjJHUdErg4&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=xukIjL9AmEc&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023"
                     },
                     {
-                        "url": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=fy-Wq3NnPIk&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375",
+                        "url": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=5CgxQzMgAng&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023",
                         "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1720872469502&srcIp=20.75.95.173&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=fy-Wq3NnPIk&ct=0&urls=185.226.53.21%3B45.136.20.40&clientType=0&zs=43&id=7006434167375"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1720893979718&srcIp=172.183.132.79&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=5CgxQzMgAng&ct=0&urls=185.226.52.70%3B45.136.21.67&clientType=0&zs=43&id=7016568851023"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20240712426huwB1PTm/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240712i00q86RgY7K/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240712426huwB1PTm/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240712i00q86RgY7K/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"
@@ -514,6 +514,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/hentai/konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi",
+                                "title": "Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi 2",
+                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/811.jpg"
+                            },
+                            {
                                 "url": "/hentai/enjo-kouhai",
                                 "title": "Enjo Kouhai 9",
                                 "thumbnail_url": "https://tiohentai.com/uploads/thumbs/632.jpg"
@@ -607,11 +612,6 @@
                                 "url": "/hentai/nocturnal",
                                 "title": "NocturnaL 1",
                                 "thumbnail_url": "https://tiohentai.com/uploads/thumbs/812.jpg"
-                            },
-                            {
-                                "url": "/hentai/konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi",
-                                "title": "Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi 1",
-                                "thumbnail_url": "https://tiohentai.com/uploads/thumbs/811.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -653,9 +653,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a20240712Vkm45DJajm4/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240712Js4d6oPA3Ia/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240712Vkm45DJajm4/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240712Js4d6oPA3Ia/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"

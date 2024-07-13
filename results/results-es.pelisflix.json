@@ -22,7 +22,7 @@
                                 "url": "/pelicula/mi-villano-favorito-4/",
                                 "title": "Gru 4 - Mi villano favorito 4",
                                 "description": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gr...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/RCXmhrfrIUWUiz5mDBHQUgzcQ36NExl.webp"
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/QBPrKpQqIZFHeBiQAykltpRRdkcDCPhihXz.webp"
                             },
                             {
                                 "url": "/pelicula/infiltrada-en-la-nasa/",
@@ -544,23 +544,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             }
         }

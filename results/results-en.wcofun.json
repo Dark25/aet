@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/bye-bye-earth-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEt-wtDioaDELJ3IEgETcQC8VFbkVi0VtU5SVa4PwXP55YH5Q9gb9Jfglf6tuo4mufyhrJsRF2_VcOFHGK4unL9pvUMAxibkCPWdhpZqttmg25RN_px9z0XKEfhIzlzMR7WmEnFLcYB7SzCMheJDOyb0Av3C1gRWjvi-VmAxa6ANWqvJOVM2O3EKruiEpiH1nyfBl4XK-w4gnOad44OAOKJlIiTvycGioENBWOZlJD62GD7ke912pjL-ggko7Pi0qrcXHfjjUexp3ti_u5VFCafg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEt-wtDioaDELJ3IEgETcQC8VFbkVi0VtU5SVa4PwXP55YH5Q9gb9Jfglf6tuo4mufyhrJsRF2_VcOFHGK4unL9pvUMAxibkCPWdhpZqttmg25RN_px9z0XKEfhIzlzMR7WmEnFLcYB7SzCMheJDOyb0Av3C1gRWjvi-VmAxa6ANWqvJOVM2O3EKruiEpiH1nyfBl4XK-w4gnOad44OAOKJlIiTvycGioENBWOZlJD62GD7ke912pjL-ggko7Pi0qrcXHfjjUexp3ti_u5VFCafg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEqn9GzIYIpS7c7kEdPjXvsSN7Y9p6aRA2Ht3BZNQIIRrOaCQWLqL3wGs9pfe_1r15UpCCZ5XL2FoYkyMq4Jd8rsm3RvbJt2rdFuf3RGi0hmfvL_sggfC4glURdD7PFAvuCXwjrOIqqxXNFiB7mxPIA-U-3_MQO_2pkAwP1KI56MbgcRPjmxe-G5PCn1lj9-_BSP2-uKzc57cARuA5GHa8EcfWUe5765CtcZZjHDlEvJOVc_xkflEa8FL_EqcMPfTQL0FPapNk7OPWmCgbDREeTZYgYjWit1lt6HkVW3y1XpE",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEqn9GzIYIpS7c7kEdPjXvsSN7Y9p6aRA2Ht3BZNQIIRrOaCQWLqL3wGs9pfe_1r15UpCCZ5XL2FoYkyMq4Jd8rsm3RvbJt2rdFuf3RGi0hmfvL_sggfC4glURdD7PFAvuCXwjrOIqqxXNFiB7mxPIA-U-3_MQO_2pkAwP1KI56MbgcRPjmxe-G5PCn1lj9-_BSP2-uKzc57cARuA5GHa8EcfWUe5765CtcZZjHDlEvJOVc_xkflEa8FL_EqcMPfTQL0FPapNk7OPWmCgbDREeTZYgYjWit1lt6HkVW3y1XpE"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEewEbkKG2djZBfu8VvbtQ71ThFP8cLgjaO-pBr7vRdJlzWUXOLnPIO1UoY617TmdD6SPuSyBGKLfDX-VQ2J5lQP6CoMiR1DOYLz21AAMkdx2-eJR8eyKTzu5OGMWwol8QI1McaJ4xUjnRy-DarUhnAvSPKu9Tn4WZi6TfJTHa6vET7vO418zmVequ3RB2zjLv_J9m6tBwvS7OAWhbwHM1M9aaHapSlSm-RmQKvy5aESZVtaOyxNG5Oy3RStaoTwsRmmVmFpKJ7djKLoAD5QJFCA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEewEbkKG2djZBfu8VvbtQ71ThFP8cLgjaO-pBr7vRdJlzWUXOLnPIO1UoY617TmdD6SPuSyBGKLfDX-VQ2J5lQP6CoMiR1DOYLz21AAMkdx2-eJR8eyKTzu5OGMWwol8QI1McaJ4xUjnRy-DarUhnAvSPKu9Tn4WZi6TfJTHa6vET7vO418zmVequ3RB2zjLv_J9m6tBwvS7OAWhbwHM1M9aaHapSlSm-RmQKvy5aESZVtaOyxNG5Oy3RStaoTwsRmmVmFpKJ7djKLoAD5QJFCA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

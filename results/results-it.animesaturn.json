@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/-Sakuna-Of-Rice-and-Ruin",
-                                "title": "Sakuna: Of Rice and Ruin",
-                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/9cff54f392f4b813ce066c7a9ffb2a31.png"
-                            },
-                            {
                                 "url": "/anime/25-Dimensional-Seduction",
                                 "title": "2.5 Dimensional Seduction",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/v9KKh.jpg"
@@ -35,6 +30,11 @@
                                 "url": "/anime/Alya-Sometimes-Hides-Her-Feelings-in-Russian",
                                 "title": "Alya Sometimes Hides Her Feelings in Russian",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/vosdU.jpg"
+                            },
+                            {
+                                "url": "/anime/ATRI--My-Dear-Moments-",
+                                "title": "ATRI -My Dear Moments-",
+                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/mgVgu.jpg"
                             },
                             {
                                 "url": "/anime/Boku-no-Hero-Academia-7-aa",
@@ -127,11 +127,6 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/WisfX.jpg"
                             },
                             {
-                                "url": "/anime/Kaiju-No-8-ITA-a",
-                                "title": "Kaiju No. 8 Dub ITA",
-                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/Iputw.jpg"
-                            },
-                            {
                                 "url": "/anime/Kinnikuman-Perfect-Origin-Arc",
                                 "title": "Kinnikuman Perfect Origin Arc",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/Ejpsb.jpg"
@@ -145,6 +140,11 @@
                                 "url": "/anime/Love-Is-Indivisible-by-Twins",
                                 "title": "Love Is Indivisible by Twins",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/qHeed.png"
+                            },
+                            {
+                                "url": "/anime/Makeine-Too-Many-Losing-Heroines",
+                                "title": "Makeine: Too Many Losing Heroines!",
+                                "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/bx171457-Z8tZRk7LhcZk.jpg"
                             },
                             {
                                 "url": "/anime/Mayonaka-Punch",
@@ -297,8 +297,8 @@
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/vn8uq.jpg"
                             },
                             {
-                                "url": "/anime/-Sakuna-Of-Rice-and-Ruin",
-                                "title": " Sakuna: Of Rice and Ruin",
+                                "url": "/anime/Sakuna-Of-Rice-and-Ruin",
+                                "title": "Sakuna: Of Rice and Ruin",
                                 "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/9cff54f392f4b813ce066c7a9ffb2a31.png"
                             },
                             {
@@ -484,14 +484,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/-Sakuna-Of-Rice-and-Ruin",
-                    "title": "Sakuna: Of Rice and Ruin ",
-                    "author": "P.A. Works",
-                    "description": "Molto tempo fa, la viziata principessa Sakuna viveva una vita di svago nella capitale Mihashira, tra gli dei e gli spiriti di Yanato. Sul ponte galleggiante del paradiso che separa l'immortale Regno Elevato dal Regno Infimo dei mortali, un incontro casuale con i figli degli uomini portò a una serie di disavventure. Purtroppo, ciò culminò con il loro esilio sull'Isola Hinoe, la cosiddetta Isola dei Demoni. Sakuna doma l'isola sconfiggendo i demoni usando gli attrezzi agricoli come armi e la sua \"sciarpa celeste\", un oggetto magico che le permette di afferrare nemici e piattaforme distanti.\n\nTitolo Alternativo: Tensui no Sakuna-hime",
+                    "url": "/anime/25-Dimensional-Seduction",
+                    "title": "2.5 Dimensional Seduction ",
+                    "author": "J.C. Staff",
+                    "description": "\"Non mi interessano le donne vere! Mia moglie, Lilliel, è una ragazza in 2D!\" Ma qualcosa di inaspettato appare di fronte a Okumura, il presidente del club di ricerca sui manga... una vera Lilliel?\n\nTitolo Alternativo: 2.5-jigen no Ririsa",
                     "genre": "",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/9cff54f392f4b813ce066c7a9ffb2a31.png",
+                    "thumbnail_url": "https://cdn.animesaturn.nl/static/images/locandine/v9KKh.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -499,7 +499,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ep/-Sakuna-Of-Rice-and-Ruin-ep-1",
+                        "url": "/ep/25-Dimensional-Seduction-ep-2",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ep/25-Dimensional-Seduction-ep-1",
                         "name": "Episodio 1",
                         "episode_number": 1.0
                     }
@@ -509,12 +514,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://srv19.sunahama.streampeaker.org/DDL/ANIME/TensuiNoSakuna-hime/TensuiNoSakuna-hime_Ep_01_SUB_ITA.mp4",
-                        "quality": "Qualità predefinita",
-                        "videoUrl": "https://srv19.sunahama.streampeaker.org/DDL/ANIME/TensuiNoSakuna-hime/TensuiNoSakuna-hime_Ep_01_SUB_ITA.mp4",
-                        "headers": {
-                            "Referer": "https://www.animesaturn.nl/watch?file=1CJmgwwYBip&s=alt"
-                        }
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/720p/playlist_720p.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/720p/playlist_720p.m3u8"
+                    },
+                    {
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/480p/playlist_480p.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/480p/playlist_480p.m3u8"
+                    },
+                    {
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/360p/playlist_360p.m3u8",
+                        "quality": "360p",
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/360p/playlist_360p.m3u8"
+                    },
+                    {
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/240p/playlist_240p.m3u8",
+                        "quality": "240p",
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/240p/playlist_240p.m3u8"
+                    },
+                    {
+                        "url": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/144p/playlist_144p.m3u8",
+                        "quality": "144p",
+                        "videoUrl": "https://srv23.shiro.streampeaker.org/DDL/ANIME/2.5-JigenNoRirisa/02/144p/playlist_144p.m3u8"
                     }
                 ],
                 "passed": true

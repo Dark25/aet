@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/make-heroine-ga-oosugiru",
+                                "title": "Make Heroine ga Oosugiru!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933669.jpg"
+                            },
+                            {
+                                "url": "/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933668.jpg"
+                            },
+                            {
+                                "url": "/anime/atri-my-dear-moments",
+                                "title": "Atri: My Dear Moments",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933667.jpg"
+                            },
+                            {
                                 "url": "/anime/bye-bye-earth-english-subbed",
                                 "title": "Bye Bye, Earth English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933666.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/na-nare-hana-nare",
                                 "title": "Na Nare Hana Nare",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933654.jpg"
-                            },
-                            {
-                                "url": "/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-                                "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933653.jpg"
-                            },
-                            {
-                                "url": "/anime/tsue-to-tsurugi-no-wistoria",
-                                "title": "Tsue to Tsurugi no Wistoria",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933652.jpg"
-                            },
-                            {
-                                "url": "/anime/fairy-tail-100-nen-quest",
-                                "title": "Fairy Tail: 100-nen Quest",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933651.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bye-bye-earth-english-subbed",
-                    "title": "Bye Bye, Earth English Subbed",
-                    "description": "In a world of anthropomorphic animals, Belle Lablac was born as the only human being. Having no fangs, fur, or scales, she was called “Faceless,” and she lived a lonely life with no one else she could identify with. “I want to be part of the world…” With such longing in her heart, she decides to set out on a journey to find her roots, carrying the Runding, a great sword as tall as she is. She doesn’t know how many adversities await her along the way…",
-                    "genre": "Action, Adventure, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933666.jpg",
+                    "url": "/anime/make-heroine-ga-oosugiru",
+                    "title": "Make Heroine ga Oosugiru!",
+                    "description": "Kazuhiko Nukumizu, a self-proclaimed “background character,” accidentally witnessed his popular classmate Anna Yanami being rejected by her childhood friend. Since then, Kazuhiko has become involved with several loser heroines, including Anna.",
+                    "genre": "Comedy, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933669.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/bye-bye-earth-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEt-wtDioaDELJ3IEgETcQC8VFbkVi0VtU5SVa4PwXP55YH5Q9gb9Jfglf6tuo4mufyhrJsRF2_VcOFHGK4unL9pvUMAxibkCPWdhpZqttmg25RN_px9z0XKEfhIzlzMR7GpKKHlird1PltMdrX_-3kMiXijRneH1NTgKt9-C6K_QnBoGVQljX-dRrN3dAITQet2fvkNLmaHj4TD0M_mTX-AvGJCR1PIzWSETxKT88AwaTydKbGjeklZEwYIYodiayE3INV1-XRVXONoWPlBBR7A",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEt-wtDioaDELJ3IEgETcQC8VFbkVi0VtU5SVa4PwXP55YH5Q9gb9Jfglf6tuo4mufyhrJsRF2_VcOFHGK4unL9pvUMAxibkCPWdhpZqttmg25RN_px9z0XKEfhIzlzMR7GpKKHlird1PltMdrX_-3kMiXijRneH1NTgKt9-C6K_QnBoGVQljX-dRrN3dAITQet2fvkNLmaHj4TD0M_mTX-AvGJCR1PIzWSETxKT88AwaTydKbGjeklZEwYIYodiayE3INV1-XRVXONoWPlBBR7A"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEqn9GzIYIpS7c7kEdPjXvsSN7Y9p6aRA2Ht3BZNQIIRrOaCQWLqL3wGs9pfe_1r15UpCCZ5XL2FoYkyMq4Jd8rsm3RvbJt2rdFuf3RGi0hmfvL_sggfC4glURdD7PFAvuspL4NmKi7MPaXv2as57dOGwPJEgZpzT_qU4g4Rj2X0Xcsmli1yPh--y5ZveHfkI5IfajktPz6E33Fy3zE-fZqcEPtVZ6oydYJWYTbAG2sDMp3wv7_uXlazFygcHuZ8ZRDY_s4_niRuNSlkVQjySQ5w",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEqn9GzIYIpS7c7kEdPjXvsSN7Y9p6aRA2Ht3BZNQIIRrOaCQWLqL3wGs9pfe_1r15UpCCZ5XL2FoYkyMq4Jd8rsm3RvbJt2rdFuf3RGi0hmfvL_sggfC4glURdD7PFAvuspL4NmKi7MPaXv2as57dOGwPJEgZpzT_qU4g4Rj2X0Xcsmli1yPh--y5ZveHfkI5IfajktPz6E33Fy3zE-fZqcEPtVZ6oydYJWYTbAG2sDMp3wv7_uXlazFygcHuZ8ZRDY_s4_niRuNSlkVQjySQ5w"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEewEbkKG2djZBfu8VvbtQ71ThFP8cLgjaO-pBr7vRdJlzWUXOLnPIO1UoY617TmdD6SPuSyBGKLfDX-VQ2J5lQP6CoMiR1DOYLz21AAMkdx2-eJR8eyKTzu5OGMWwol8QspOHOtWSh7GPOWIOaeNEmTxP-uY6Pxl15H8Dl2FZogscNhplaB_vgOIkL2BDj_hH88V2noxqXWcMwy6hSfs-zAcnU5wbpt2x91Gv28g5TpewRMOWH8r9YB17X8HIdY6H5T19ALe7uqmEnr_1bImpTg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXnFUzhyA4ls04fBtbYeX6Bv3rCBkCeuQQuEEyCtxa2zxSP0pzpBYJ73FOHC_MiPJokR7txPIF3AVS9mVGFH5tEewEbkKG2djZBfu8VvbtQ71ThFP8cLgjaO-pBr7vRdJlzWUXOLnPIO1UoY617TmdD6SPuSyBGKLfDX-VQ2J5lQP6CoMiR1DOYLz21AAMkdx2-eJR8eyKTzu5OGMWwol8QspOHOtWSh7GPOWIOaeNEmTxP-uY6Pxl15H8Dl2FZogscNhplaB_vgOIkL2BDj_hH88V2noxqXWcMwy6hSfs-zAcnU5wbpt2x91Gv28g5TpewRMOWH8r9YB17X8HIdY6H5T19ALe7uqmEnr_1bImpTg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

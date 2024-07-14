@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/vcop-370x208.jpg"
+                            },
+                            {
                                 "url": "/shoushimin-series-ger-sub/",
                                 "title": "Shoushimin Series Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/06/v71262-370x208.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ger-sub/",
                                 "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/06/v61325-370x208.jpg"
-                            },
-                            {
-                                "url": "/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii-ger-sub/",
-                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/06/v54566-370x208.jpg"
                             },
                             {
                                 "url": "/boku-no-hero-academia-7th-season-ger-dub/",
@@ -394,13 +394,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/shoushimin-series-ger-sub/",
-                    "title": "Shoushimin Series Ger Sub",
-                    "description": "Jougorou Kobato möchte nach einer schmerzhaften Erfahrung ein ruhiges Leben führen. Er und Yuki Osanai gehen eine »für beide Seiten vorteilhafte Beziehung« ein, da auch Yuki dasselbe will.",
-                    "genre": "Mystery, School",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/06/71262.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -408,41 +408,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/shoushimin-series-ger-sub/?link=1",
-                        "name": "Ep. 2",
-                        "episode_number": 2.0
+                        "url": "/16455-2/?link=180",
+                        "name": "Ep. 181",
+                        "episode_number": 181.0
                     },
                     {
-                        "url": "/shoushimin-series-ger-sub/?link=0",
-                        "name": "Ep. 1",
-                        "episode_number": 1.0
+                        "url": "/16455-2/?link=179",
+                        "name": "Ep. 180",
+                        "episode_number": 180.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www3.mp4upload.com:183/d/r2x4maecz3b4quuohore6oyrkw3dk3oy7cssbumjfixzinqhbkm67d4bkjir3orngrqfmc6a/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2x4maecz3b4quuohore6oyrkw3dk3oy7cssbumjfixzinqhbkm67d4bkjir3orngrqfmc6a/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06503/uq9x9alj9qp4_x/index-v1-a1.m3u8?t=vnrAamqG9hThYNVu1_yNSFJp9dkjpe1LxIuzxqdnXNY&s=1720916125&e=10800&f=32516794&srv=45&asn=8075&sp=5500",
-                        "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06503/uq9x9alj9qp4_x/index-v1-a1.m3u8?t=vnrAamqG9hThYNVu1_yNSFJp9dkjpe1LxIuzxqdnXNY&s=1720916125&e=10800&f=32516794&srv=45&asn=8075&sp=5500",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

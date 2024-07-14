@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
                                 "url": "/watch/andro-melos.html",
                                 "title": "Andro Melos",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/andro-melos-thumb.png"
@@ -25,16 +35,6 @@
                                 "url": "/watch/tokusou-sentai-dekaranger-with-tombo-ohger.html",
                                 "title": "Tokusou Sentai Dekaranger with Tombo Ohger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/tokusou-sentai-dekaranger-with-tombo-ohger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
                             },
                             {
                                 "url": "/watch/yodonna-the-final.html",
@@ -144,14 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/andro-melos.html",
-                    "title": "Andro Melos",
-                    "author": "Year 1983",
-                    "description": "Andro Melos is a 1983 mini-series about the Andro Super Warriors in their Cosmo Tector suits fighting against aliens and monsters who are working for the evil Gua Empire.",
-                    "genre": "Other, Series",
+                    "url": "/watch/kamen-rider-gotchard.html",
+                    "title": "Kamen Rider Gotchard",
+                    "author": "Year 2023",
+                    "description": "Kamen Rider Gotchard is an upcoming Japanese Tokusatsu drama, the 34th entry of Toei Company’s Kamen Rider metaseries, and the fifth series to debut during the Reiwa period.",
+                    "genre": "Kamen Rider, Series",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/andro-melos-thumb.png",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,12 +159,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/andro-melos.html?ep=45#watch",
+                        "url": "/watch/kamen-rider-gotchard.html?ep=45#watch",
                         "name": "Episode 45",
                         "episode_number": 45.0
                     },
                     {
-                        "url": "/watch/andro-melos.html?ep=44#watch",
+                        "url": "/watch/kamen-rider-gotchard.html?ep=44#watch",
                         "name": "Episode 44",
                         "episode_number": 44.0
                     }
@@ -172,7 +172,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

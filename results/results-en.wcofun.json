@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/make-heroine-ga-oosugiru-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZpnppK3syMPEg6dvjAcAS7NQ-MLoveQ4IZYd1g87vODZjwdEfh7HfViINXjHzxnEM0I5ewfNieszIEBPjiAKyZDGBVcy7pdXTOidovRx6zjRlqXeO247sbLTaG5srcFvX6yakSCDRlTPogWju5zRXqBwczuXJTageCbRZWAs2P_b6Mmj7ANQiHgNnzYWcZuqS-yGjQ9TWdU_Um934Njvh-wwPFa3XxImuBRJ_8Aw2PvXJ_BK1D3I-OYXd76xywhiaboaYkoi7ooaHSb8EYPuNXb",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZpnppK3syMPEg6dvjAcAS7NQ-MLoveQ4IZYd1g87vODZjwdEfh7HfViINXjHzxnEM0I5ewfNieszIEBPjiAKyZDGBVcy7pdXTOidovRx6zjRlqXeO247sbLTaG5srcFvX6yakSCDRlTPogWju5zRXqBwczuXJTageCbRZWAs2P_b6Mmj7ANQiHgNnzYWcZuqS-yGjQ9TWdU_Um934Njvh-wwPFa3XxImuBRJ_8Aw2PvXJ_BK1D3I-OYXd76xywhiaboaYkoi7ooaHSb8EYPuNXb"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZq4DH2HaeVXbrILtmvw7LBGqs4NmOTBDplVOwlIaSQ3eLTL9TcNMaAWORpprs-jzz_4WEouey8KFXdrYkJx8rgZqfgltg0qStKADYoAHbgnQ6MFQeKTH-jxiX6rH21iKrjqimWf8UEmIj6WiGPfyhoe2uTXx2f376QCFjY_MRy8SpNzwfbchBhiHGMClGTf6orTQ4JSIKEugcoquwSDXWBNULQHo2Ibb7qgpW_LnHh8Gr5yR5VaLDjh1bRKi0HK5cC605HtNjsPQqUfKTX2LI4V",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZq4DH2HaeVXbrILtmvw7LBGqs4NmOTBDplVOwlIaSQ3eLTL9TcNMaAWORpprs-jzz_4WEouey8KFXdrYkJx8rgZqfgltg0qStKADYoAHbgnQ6MFQeKTH-jxiX6rH21iKrjqimWf8UEmIj6WiGPfyhoe2uTXx2f376QCFjY_MRy8SpNzwfbchBhiHGMClGTf6orTQ4JSIKEugcoquwSDXWBNULQHo2Ibb7qgpW_LnHh8Gr5yR5VaLDjh1bRKi0HK5cC605HtNjsPQqUfKTX2LI4V"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZrYuH5Xn-cDNkR0KuVMHHLIRttBYp5TC_Y8ZSAm-E0XYtvgACm7E4OKY5E_PF2mVX--VSMuMCdvFHWiJv2yM3ECaOHBZB5JpjbxENS6nrFNyH5EXRnwYn-SgxnlLhIpDHFLKzHoAJvv9Kwayc1_JxbaDVSJnTCq1enkF5dtd0VdLB37RfRy0I6C_5cWI8Xd5AUCG4msPqWRihW9iuYDskI9L1kjcoVWnWzv6hg4R6JpxgUwz7LB3mPfKXmMd25sQLs",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZrYuH5Xn-cDNkR0KuVMHHLIRttBYp5TC_Y8ZSAm-E0XYtvgACm7E4OKY5E_PF2mVX--VSMuMCdvFHWiJv2yM3ECaOHBZB5JpjbxENS6nrFNyH5EXRnwYn-SgxnlLhIpDHFLKzHoAJvv9Kwayc1_JxbaDVSJnTCq1enkF5dtd0VdLB37RfRy0I6C_5cWI8Xd5AUCG4msPqWRihW9iuYDskI9L1kjcoVWnWzv6hg4R6JpxgUwz7LB3mPfKXmMd25sQLs"
+                    }
+                ],
+                "passed": true
             }
         }
     }

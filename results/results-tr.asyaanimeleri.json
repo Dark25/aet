@@ -117,6 +117,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/rise-from-the-rubble/",
+                                "title": "Rise From the Rubble",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/09/Rise-From-the-Rubble-English-Subbed-214x300.webp"
+                            },
+                            {
+                                "url": "/series/bing-huo-mo-chu/",
+                                "title": "Bing Huo Mo Chu",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2021/11/the-magic-chef-of-ice-and-fire-chinese-anime-lucifer-donghua-169x300.webp"
+                            },
+                            {
+                                "url": "/series/wan-jie-du-zun-2-sezon/",
+                                "title": "Wan Jie Du Zun 2.Sezon",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2022/08/127040-214x300.jpg"
+                            },
+                            {
+                                "url": "/series/back-to-the-great-ming/",
+                                "title": "Back to the Great Ming",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/05/1715797927-2978-142338-169x300.jpg"
+                            },
+                            {
+                                "url": "/series/whisper-me-a-love-song/",
+                                "title": "Whisper Me a Love Song",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/04/Whisper-Me-a-Love-Song-212x300.jpg"
+                            },
+                            {
+                                "url": "/series/shoushimin-series/",
+                                "title": "Shoushimin Series",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/06/Shoushimin-Series-212x300.jpg"
+                            },
+                            {
                                 "url": "/series/make-heroine-ga-oosugiru/",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/07/Make-Heroine-ga-Oosugiru-212x300.jpg"
@@ -185,36 +215,6 @@
                                 "url": "/series/seytan-avcisi/",
                                 "title": "Şeytan Avcısı",
                                 "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/06/136462-169x300.jpg"
-                            },
-                            {
-                                "url": "/series/zhe-tian/",
-                                "title": "Zhe Tian",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/04/zhe_tian_11270-e1693494730832-178x300.webp"
-                            },
-                            {
-                                "url": "/series/yao-shen-ji-8-sezon/",
-                                "title": "Yao Shen Ji 8.Sezon",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/04/Tales-of-Demons-and-Gods-Season-8-214x300.webp"
-                            },
-                            {
-                                "url": "/series/douluo-dalu-2-essiz-tang-mezhebi/",
-                                "title": "Douluo Dalu 2: Eşsiz Tang Mezhebi",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/06/126721-214x300.jpg"
-                            },
-                            {
-                                "url": "/series/rise-from-the-rubble/",
-                                "title": "Rise From the Rubble",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/09/Rise-From-the-Rubble-English-Subbed-214x300.webp"
-                            },
-                            {
-                                "url": "/series/quanzhi-gaoshou-3/",
-                                "title": "Quanzhi Gaoshou 3",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/04/126723-214x300.jpg"
-                            },
-                            {
-                                "url": "/series/kono-sekai-wa-fukanzen-sugiru/",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/06/Kono-Sekai-wa-Fukanzen-Sugiru-212x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -313,17 +313,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://video.sibnet.ru/v/b0156dfdd7423712c1141792872726fd/5595361.mp4",
-                        "quality": "Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/b0156dfdd7423712c1141792872726fd/5595361.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5595361"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

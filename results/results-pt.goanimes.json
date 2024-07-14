@@ -1,0 +1,31 @@
+[
+    {
+        "name": "GoAnimes (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: goanimes.net: No address associated with hostname",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: goanimes.net",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: goanimes.net",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: goanimes.net",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: goanimes.net",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: goanimes.net",
+                "passed": false
+            }
+        }
+    }
+]

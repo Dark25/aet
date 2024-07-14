@@ -485,7 +485,7 @@
             "details": {
                 "result": {
                     "url": "https://animesz.xyz/anime/one-piece-9",
-                    "title": "One Piece VOSTFR",
+                    "title": "One Piece VF et VOSTFR",
                     "artist": "Toei Animation",
                     "description": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
                     "genre": "Action , Aventure , Fantastique",
@@ -499,21 +499,42 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=126171",
+                        "name": "Episode 1112",
+                        "episode_number": 1112.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=125856",
                         "name": "Episode 1111",
                         "episode_number": 1111.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=125723",
-                        "name": "Episode 1110",
-                        "episode_number": 1110.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720952017&validto=1720966417&rate=250k&ip=20.97.191.242&hash=q5Qf3sEH8KDGILRfsh9u1%2BC%2F2wc%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720952017&validto=1720966417&rate=250k&ip=20.97.191.242&hash=q5Qf3sEH8KDGILRfsh9u1%2BC%2F2wc%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://https://sendvid.com/embed/8czavhmf",
+                            "Referer": "https://https://sendvid.com/embed/8czavhmf/"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720952015&validto=1720966415&rate=250k&ip=20.97.191.242&hash=sleZqpPFu6oG7pb%2FkCPIAJJ0Njc%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720952015&validto=1720966415&rate=250k&ip=20.97.191.242&hash=sleZqpPFu6oG7pb%2FkCPIAJJ0Njc%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://https://sendvid.com/embed/8czavhmf",
+                            "Referer": "https://https://sendvid.com/embed/8czavhmf/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

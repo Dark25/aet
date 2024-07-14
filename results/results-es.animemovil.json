@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/grendizer-u",
+                                "title": "Grendizer U",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4262.webp"
+                            },
+                            {
                                 "url": "/make-heroine-ga-oosugiru",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Shoushimin Series",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4243.webp"
-                            },
-                            {
-                                "url": "/nige-jouzu-no-wakagimi",
-                                "title": "Nige Jouzu no Wakagimi",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4242.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/make-heroine-ga-oosugiru",
-                    "title": "Make Heroine ga Oosugiru!",
-                    "description": "Nukumizu Kazuhiko, sencilla, aburrida y sin amigos, ha sido testigo de algo completamente desconcertante: ¡la popular chica Yanami Anna fue asignada a su amiga de la infancia y a su amor platónico! De hecho, todas las chicas populares que lo rodean son igualmente rechazadas por los chicos que les gustan. ¡Sin darse cuenta, Kazuhiko se ve envuelto en el drama de una relación donde todas las heroínas principales están perdiendo el amor! ¿Podrá mantenerles el ánimo en alto y ayudarlos a encontrar la felicidad?",
-                    "genre": "Escolares, Romance, Comedia",
+                    "url": "/grendizer-u",
+                    "title": "Grendizer U",
+                    "description": "Anime que se desarrolla en el universo de Mazinger Z. Tras un devastador ataque de las fuerzas de Vega en el planeta Fleed, Duke Fleed y Grendizer escaparon a la Tierra. Cuando llegó allí, el Dr. Amon, director del Centro de Investigación Espacial, lo adoptó y le puso el nombre de Daisuke. ¡Mientras trabajaban lado a lado en el centro en una búsqueda para descubrir qué objetos extraños aparecieron en el cielo de la ciudad! Fueron sorprendidos por un ataque que sacudió la memoria de Daisuke (Esto es un Reboot del anime de 1975 UFO Robot Grendizer).",
+                    "genre": "Ciencia Ficción, Mecha",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4261.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4262.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/make-heroine-ga-oosugiru-1",
-                        "name": "Episodio 1",
+                        "url": "/ver/grendizer-u-2",
+                        "name": "Episodio 2",
                         "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/grendizer-u-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -288,26 +293,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxt6amcz3b4quuohorbijcrkeffcfv3nwnlphsg4a7tvc3q3dvmxmospn3dqoazv57ssdiz/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxt6amcz3b4quuohorbijcrkeffcfv3nwnlphsg4a7tvc3q3dvmxmospn3dqoazv57ssdiz/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsxywfmcz3b4quuogsreqkavlg4ujeiful45ajsthlt222dwvrstohcro2sp7sadmssx5nks/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxywfmcz3b4quuogsreqkavlg4ujeiful45ajsthlt222dwvrstohcro2sp7sadmssx5nks/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://m40.uqload.ws/3rfkulw4tzw2q4drdlhpvnfdld4ncawr6yek7krcwpkhukpij35fvv4jqewa/v.mp4",
+                        "url": "https://m50.uqload.ws/3rfkjr6wtzw2q4drdlhpvivmbu4lodfzpgebrpuy5r3lof6f4pzt3gte25gq/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m40.uqload.ws/3rfkulw4tzw2q4drdlhpvnfdld4ncawr6yek7krcwpkhukpij35fvv4jqewa/v.mp4",
+                        "videoUrl": "https://m50.uqload.ws/3rfkjr6wtzw2q4drdlhpvivmbu4lodfzpgebrpuy5r3lof6f4pzt3gte25gq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=LJZLzYZwgeHRXP7&expires=1721050449&ip=FROsE0WnDS9X&token=POHWPzrj316C",
+                        "url": "https://streamtape.com/get_video?id=wVOYD7yzgPtJMAg&expires=1721052355&ip=FROsE0MnDS9X&token=QzGKJuY3sLx_",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LJZLzYZwgeHRXP7&expires=1721050449&ip=FROsE0WnDS9X&token=POHWPzrj316C"
+                        "videoUrl": "https://streamtape.com/get_video?id=wVOYD7yzgPtJMAg&expires=1721052355&ip=FROsE0MnDS9X&token=QzGKJuY3sLx_"
                     }
                 ],
                 "passed": true

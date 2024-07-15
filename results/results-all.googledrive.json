@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Google Drive (ALL)",
+        "results": {
+            "popular": {
+                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
+                "passed": false
+            },
+            "details": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "episodes": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=",
+                        "quality": "Video",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

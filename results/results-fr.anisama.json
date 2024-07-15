@@ -485,7 +485,7 @@
             "details": {
                 "result": {
                     "url": "https://animesz.xyz/anime/one-piece-9",
-                    "title": "One Piece VF et VOSTFR",
+                    "title": "One Piece VOSTFR",
                     "artist": "Toei Animation",
                     "description": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
                     "genre": "Action , Aventure , Fantastique",
@@ -512,37 +512,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720995393&validto=1721009793&rate=250k&ip=172.183.82.200&hash=EXnagfpQb9btqs7Mo6xB7qt70zg%3D",
-                        "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720995393&validto=1721009793&rate=250k&ip=172.183.82.200&hash=EXnagfpQb9btqs7Mo6xB7qt70zg%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/8czavhmf",
-                            "Referer": "https://https://sendvid.com/embed/8czavhmf/"
-                        }
-                    },
-                    {
-                        "url": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720995395&validto=1721009795&rate=250k&ip=172.183.82.200&hash=o6mIT9Ym0Svlu%2BN3s8%2F03nGmQjY%3D",
-                        "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1720995395&validto=1721009795&rate=250k&ip=172.183.82.200&hash=o6mIT9Ym0Svlu%2BN3s8%2F03nGmQjY%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/8czavhmf",
-                            "Referer": "https://https://sendvid.com/embed/8czavhmf/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/ee77707d6678af129335e77f2cbd44cf/5596284.mp4",
-                        "quality": "(VOSTFR) Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/ee77707d6678af129335e77f2cbd44cf/5596284.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5596284"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

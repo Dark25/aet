@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/los-colonos",
+                                "title": "Los colonos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5kYF9g8xqzr5twOhUmoI8EFlKnW.jpg"
+                            },
+                            {
+                                "url": "/movies/justice-league-crisis-on-infinite-earths-part-three",
+                                "title": "Justice League: Crisis on Infinite Earths Part Three",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg"
+                            },
+                            {
                                 "url": "/movies/mi-villano-favorito-4",
                                 "title": "Mi villano favorito 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/movies/un-afortunado-sonador",
                                 "title": "Un Afortunado Soñador",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ymyyoJLOKIc9XW7t4RdvLSjf5We.jpg"
-                            },
-                            {
-                                "url": "/movies/la-pequena-serena-un-oceano-de-aventuras",
-                                "title": "La Pequeña Serena: Un Océano de Aventuras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lJFbrJxKqCHrnfJzuYlKAHq9CuG.jpg"
-                            },
-                            {
-                                "url": "/movies/divorcio-en-negro-de-tyler-perry",
-                                "title": "Divorcio en negro, de Tyler Perry",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mdas5vG9QXZjFU2F6dE9BALiMov.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/mi-villano-favorito-4",
-                    "title": "Mi villano favorito 4",
-                    "artist": "Steve Carell",
-                    "description": "Gru y Lucy dan a luz a Gru Jr. y ahi Gru, con su hijo y una aprendiz robaran algo para detener a los nuevos villanos de turno.",
-                    "genre": "Animación, Familia, Comedia, Acción",
+                    "url": "/movies/los-colonos",
+                    "title": "Los colonos",
+                    "artist": "Camilo Arancibia",
+                    "description": "Chile, principios del siglo XX. José Menéndez, un rico terrateniente, contrata a tres jinetes para que delimiten el perímetro de su extensa propiedad y abran una ruta hacia el océano Atlántico a través de la vasta Patagonia.",
+                    "genre": "Drama, Western",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/5kYF9g8xqzr5twOhUmoI8EFlKnW.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/mi-villano-favorito-4",
+                        "url": "/movies/los-colonos",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,26 +429,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04386/h7hhj3m69osj_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Z1ZoolE9Al4fjRBTimw5RlF0ZZrm7rL_uC4apZ68jxg&s=1721045239&e=129600&f=21934029&srv=js4bwlkgfmtmjmvh&i=0.0&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04386/h7hhj3m69osj_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Z1ZoolE9Al4fjRBTimw5RlF0ZZrm7rL_uC4apZ68jxg&s=1721045239&e=129600&f=21934029&srv=js4bwlkgfmtmjmvh&i=0.0&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03502/9zv01f29qnzw_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=UoafDaRln4dMuyL3IuaeUnCpueJuzZw58pdZLZzndro&s=1721066804&e=129600&f=17512021&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[LAT] StreamWish:1076p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03502/9zv01f29qnzw_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=UoafDaRln4dMuyL3IuaeUnCpueJuzZw58pdZLZzndro&s=1721066804&e=129600&f=17512021&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/h7hhj3m69osj"
+                            "Referer": "https://streamwish.to/e/9zv01f29qnzw"
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04386/h7hhj3m69osj_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Z1ZoolE9Al4fjRBTimw5RlF0ZZrm7rL_uC4apZ68jxg&s=1721045239&e=129600&f=21934029&srv=js4bwlkgfmtmjmvh&i=0.0&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04386/h7hhj3m69osj_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Z1ZoolE9Al4fjRBTimw5RlF0ZZrm7rL_uC4apZ68jxg&s=1721045239&e=129600&f=21934029&srv=js4bwlkgfmtmjmvh&i=0.0&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=8075",
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03502/9zv01f29qnzw_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=UoafDaRln4dMuyL3IuaeUnCpueJuzZw58pdZLZzndro&s=1721066804&e=129600&f=17512021&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03502/9zv01f29qnzw_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=UoafDaRln4dMuyL3IuaeUnCpueJuzZw58pdZLZzndro&s=1721066804&e=129600&f=17512021&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/h7hhj3m69osj"
+                            "Referer": "https://streamwish.to/e/9zv01f29qnzw"
                         }
+                    },
+                    {
+                        "url": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03502/9zv01f29qnzw_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=UoafDaRln4dMuyL3IuaeUnCpueJuzZw58pdZLZzndro&s=1721066804&e=129600&f=17512021&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03502/9zv01f29qnzw_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=UoafDaRln4dMuyL3IuaeUnCpueJuzZw58pdZLZzndro&s=1721066804&e=129600&f=17512021&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/9zv01f29qnzw"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=QPzlZjdb0RC0o4O&expires=1721136809&ip=G0WsDRONKxSHDN&token=52LqunbMHu70",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=QPzlZjdb0RC0o4O&expires=1721136809&ip=G0WsDRONKxSHDN&token=52LqunbMHu70"
                     }
                 ],
                 "passed": true

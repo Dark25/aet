@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9172-wonderoos",
+                                "title": "Wonderoos",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/192a37e3-2420-467a-8dfb-daa659ca79f6.webp"
+                            },
+                            {
                                 "url": "9121-el-campeon",
                                 "title": "El Campeón",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/94281354-a894-4ce7-9f9d-70fe8d86775f.webp"
@@ -300,11 +305,6 @@
                                 "url": "8640-geek-girl",
                                 "title": "Geek Girl",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/ffaba2fa-95ad-48b9-bf32-fe7f827ac4c1.webp"
-                            },
-                            {
-                                "url": "8631-omen-lorigine-del-presagio",
-                                "title": "Omen - L’origine del presagio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/996c9326-dc30-4c1e-b67a-fb6c95e23027.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9173-sthlm-blackout",
+                                "title": "STHLM Blackout",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c2c0b68d-bc57-4cc9-8e47-287f508de7c3.webp"
+                            },
                             {
                                 "url": "9170-divorce",
                                 "title": "Divorce",
@@ -610,11 +615,6 @@
                                 "url": "9097-justice-league",
                                 "title": "Justice League",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/00a77875-183d-49fe-9411-138b152bdc05.webp"
-                            },
-                            {
-                                "url": "9096-non-uccidere",
-                                "title": "Non Uccidere",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/1b5e74f1-8e98-4d6f-a08a-a24581de65f3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9121-el-campeon",
-                    "description": "Dopo uno scontro, un calciatore fuoriclasse testardo che ha tutto finisce in panchina con un nuovo coach, un insegnante schivo che gli insegna ad affrontare le sue paure.",
-                    "genre": "Dramma, Commedia, Famiglia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9172-wonderoos",
+                    "description": "Segui gli amici animali Kiki, Dewey, Hazzy, Luly e Teshi impegnati a stringere amicizie, assaggiare cibi mai provati e sperimentare cose nuove nella colorata Wonder City!",
+                    "genre": "Animazione, Kids",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,16 +946,127 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9121",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9172?episode_id=70625&next_episode=1",
+                        "name": "Stagione 1 episodio 20 - La prima volta senza schermi",
+                        "episode_number": 20.0
+                    },
+                    {
+                        "url": "9172?episode_id=70622&next_episode=1",
+                        "name": "Stagione 1 episodio 19 - La prima volta che non avevo nessuno con cui giocare",
+                        "episode_number": 19.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/245754?type=video&rendition=1080p&token=bYHl-WZke7NZH1F5fW8bug&expires=1726229268&edge=sc-u6-01",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/245754?type=video&rendition=1080p&token=bYHl-WZke7NZH1F5fW8bug&expires=1726229268&edge=sc-u6-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=3-eng&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=4-ger&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=5-gre&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=6-fre&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=7-forced-ita&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=8-ita&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=9-ukr&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/245754?type=video&rendition=720p&token=hS1Nanf6YjDrX8qb02y6Zw&expires=1726229268&edge=sc-u6-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/245754?type=video&rendition=720p&token=hS1Nanf6YjDrX8qb02y6Zw&expires=1726229268&edge=sc-u6-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=3-eng&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=4-ger&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=5-gre&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=6-fre&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=7-forced-ita&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=8-ita&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=9-ukr&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/245754?type=video&rendition=480p&token=Uxe1MV6mtL18yYh8iiGfKg&expires=1726229268&edge=sc-u6-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/245754?type=video&rendition=480p&token=Uxe1MV6mtL18yYh8iiGfKg&expires=1726229268&edge=sc-u6-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=3-eng&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=4-ger&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=5-gre&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=6-fre&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=7-forced-ita&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=8-ita&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/245754?type=subtitle&rendition=9-ukr&token=EJSwf9fGw0XcIM69lK_H7Q&expires=1726229268&edge=sc-u6-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

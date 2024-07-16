@@ -304,6 +304,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/tierra-a-eco",
+                                "title": "Tierra a Eco (2014)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/3rG0K0tqNX02KfnCydOCbZ2k2Z1.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-reyes-del-verano",
+                                "title": "Los reyes del verano (2013)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9Ynqr8gwUnLxp3YAroK9zE5fsmr.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-arte-de-robar",
+                                "title": "El arte de robar (2013)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bVAPHCh1LrMtlRXRKUpqNxDi6Yp.jpg"
+                            },
+                            {
+                                "url": "/pelicula/3-dias-para-matar",
+                                "title": "3 días para matar (2014)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bvuutiVW3i66VA4R9KnGJiCEytu.jpg"
+                            },
+                            {
+                                "url": "/pelicula/st-vincent",
+                                "title": "St. Vincent (2014)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1bb7MTHCIPhpKZFysDpxNaNrdMk.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mcfarland",
+                                "title": "McFarland (2015)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/71bNxM4kKh2tSBwTgV4V8C0Bcaj.jpg"
+                            },
+                            {
+                                "url": "/pelicula/elvis-y-nixon",
+                                "title": "Elvis y Nixon (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wA1Hf3JIIeFEdHBUtHraqBzVVHU.jpg"
+                            },
+                            {
                                 "url": "/pelicula/patlabor-2-la-pelicula",
                                 "title": "Patlabor 2: La película (1993)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/5LNUJJaKAaM1Jk3FyphZyTbZyDO.jpg"
@@ -387,41 +422,6 @@
                                 "url": "/pelicula/la-formula-de-la-felicidad",
                                 "title": "La fórmula de la felicidad (2014)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/z4fVz3zPQQseoeb1YhT19b9ZH8g.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-huesped",
-                                "title": "La huésped (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2BcXskV3zyySAomN3xObv6O4SUt.jpg"
-                            },
-                            {
-                                "url": "/pelicula/casese-quien-pueda",
-                                "title": "Cásese quien pueda (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qShzlTIGJRDENDgvgVVvrIqpmIJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-hombre-mas-buscado",
-                                "title": "El hombre más buscado (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5hkdjO3VEcU5ZpHpj3VeBcJ2ZKL.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mortal-kombat-legends-la-venganza-de-scorpion",
-                                "title": "Mortal Kombat Legends: La venganza de Scorpion (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/sqBl12v4AXVoc5PmeGnd8oZ7HHY.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ip-man-la-lucha-final",
-                                "title": "Ip Man: La lucha final (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7e3xBpcHNSyuVarU2mbZpdU6VT5.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-llave-magica",
-                                "title": "La llave mágica (1995)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/l6G4XS6p9Mg1sdD5ugpeJoeE7in.jpg"
-                            },
-                            {
-                                "url": "/pelicula/vampire-hunter-d",
-                                "title": "Vampire Hunter D (1985)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xx7EBASpMOuQIGoGQqT4C5O0TUl.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -680,64 +680,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/patlabor-2-la-pelicula",
-                    "title": "Patlabor 2: La película (1993)",
-                    "description": "Tres años después de los acontecimientos de Patlabor, la segunda sección debe investigar un nuevo y terrible hecho: la voladura del puente de la bahia de Yokohama. Premio a la mejor pelicula de animación Mainichi film competition 1993, Japón.",
-                    "genre": "Animación, Ciencia ficción, Acción, Suspense",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/patlabor-2-la-pelicula",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04393/bm282tpiild3_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zm6Znvd2lE9nhVXo22xd1ChoKCNTGWVS5TIrjd05Gzk&s=1721110044&e=129600&f=21967231&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "quality": "StreamWish:1032p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04393/bm282tpiild3_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zm6Znvd2lE9nhVXo22xd1ChoKCNTGWVS5TIrjd05Gzk&s=1721110044&e=129600&f=21967231&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bm282tpiild3"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04393/bm282tpiild3_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zm6Znvd2lE9nhVXo22xd1ChoKCNTGWVS5TIrjd05Gzk&s=1721110044&e=129600&f=21967231&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04393/bm282tpiild3_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zm6Znvd2lE9nhVXo22xd1ChoKCNTGWVS5TIrjd05Gzk&s=1721110044&e=129600&f=21967231&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bm282tpiild3"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04393/bm282tpiild3_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=zm6Znvd2lE9nhVXo22xd1ChoKCNTGWVS5TIrjd05Gzk&s=1721110044&e=129600&f=21967231&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04393/bm282tpiild3_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=zm6Znvd2lE9nhVXo22xd1ChoKCNTGWVS5TIrjd05Gzk&s=1721110044&e=129600&f=21967231&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bm282tpiild3"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1040,9 +992,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://jturq6cd3wcv.pradoi.com/hls2/01/04391/bbmqs9seuqce_n/index-v1-a1.m3u8?t=CX-GryIEFQyH2L6qZ71aX2s1k2Q_f3lxfUZ36XQroPk&s=1721110050&e=129600&f=21955927&srv=wnijrlwmta&i=0.0&sp=500&p1=wnijrlwmta&p2=wnijrlwmta&asn=8075",
+                        "url": "https://jturq6cd3wcv.pradoi.com/hls2/01/04391/bbmqs9seuqce_n/index-v1-a1.m3u8?t=2KF5r-4yK8y1rYYCQ0GaAmO1E6gWKVLSKlcQljvQbjg&s=1721131709&e=129600&f=21955927&srv=wnijrlwmta&i=0.0&sp=500&p1=wnijrlwmta&p2=wnijrlwmta&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://jturq6cd3wcv.pradoi.com/hls2/01/04391/bbmqs9seuqce_n/index-v1-a1.m3u8?t=CX-GryIEFQyH2L6qZ71aX2s1k2Q_f3lxfUZ36XQroPk&s=1721110050&e=129600&f=21955927&srv=wnijrlwmta&i=0.0&sp=500&p1=wnijrlwmta&p2=wnijrlwmta&asn=8075",
+                        "videoUrl": "https://jturq6cd3wcv.pradoi.com/hls2/01/04391/bbmqs9seuqce_n/index-v1-a1.m3u8?t=2KF5r-4yK8y1rYYCQ0GaAmO1E6gWKVLSKlcQljvQbjg&s=1721131709&e=129600&f=21955927&srv=wnijrlwmta&i=0.0&sp=500&p1=wnijrlwmta&p2=wnijrlwmta&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1003,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=yroD83RDBMF1Q6w&expires=1721180051&ip=F0qQKRWZD19XKxR&token=GYs6Y6ahXwQD",
+                        "url": "https://streamtape.com/get_video?id=yroD83RDBMF1Q6w&expires=1721201710&ip=F0qQKRWADS9XKxR&token=kNp4npvvJEbg",
                         "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=yroD83RDBMF1Q6w&expires=1721180051&ip=F0qQKRWZD19XKxR&token=GYs6Y6ahXwQD"
+                        "videoUrl": "https://streamtape.com/get_video?id=yroD83RDBMF1Q6w&expires=1721201710&ip=F0qQKRWADS9XKxR&token=kNp4npvvJEbg"
                     }
                 ],
                 "passed": true

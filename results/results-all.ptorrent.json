@@ -3,19 +3,19 @@
         "name": "PTorrent (Torrent) (ALL)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.ptorrents.com not verified:\n    certificate: sha256/ALOyRubepcdr4k3LY38DIni/l+3kBX2kA+7VJowIy7s=\n    DN: CN=cdn.fuckjpg.com\n    subjectAltNames: [cdn.fuckjpg.com]",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.ptorrents.com not verified:\n    certificate: sha256/ALOyRubepcdr4k3LY38DIni/l+3kBX2kA+7VJowIy7s=\n    DN: CN=cdn.fuckjpg.com\n    subjectAltNames: [cdn.fuckjpg.com]",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.ptorrents.com not verified:\n    certificate: sha256/ALOyRubepcdr4k3LY38DIni/l+3kBX2kA+7VJowIy7s=\n    DN: CN=cdn.fuckjpg.com\n    subjectAltNames: [cdn.fuckjpg.com]",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.ptorrents.com not verified:\n    certificate: sha256/ALOyRubepcdr4k3LY38DIni/l+3kBX2kA+7VJowIy7s=\n    DN: CN=cdn.fuckjpg.com\n    subjectAltNames: [cdn.fuckjpg.com]",
                 "passed": false
             },
             "videos": {

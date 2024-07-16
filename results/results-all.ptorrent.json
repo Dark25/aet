@@ -1,0 +1,31 @@
+[
+    {
+        "name": "PTorrent (Torrent) (ALL)",
+        "results": {
+            "popular": {
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
+            },
+            "videos": {
+                "result": [
+                    {
+                        "videoUrl": ""
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

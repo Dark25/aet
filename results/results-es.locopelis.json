@@ -137,6 +137,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20195/perspectiva.html",
+                                "title": "Perspectiva",
+                                "description": "En un futuro cercano, la tecnología permite ver lo que sucederá en nuestras vidas creando una ilusión de futuro mediante el uso de nuestros recuerdos y procesos cognitivos. LookApp es una aplicación que funciona con una IA completamente nueva que promete mostrarte dónde estarás y así poder to...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20195.webp"
+                            },
+                            {
                                 "url": "/pelicula/20194/los-descendientes-corazon-rebelde.html",
                                 "title": "Los descendientes: Co",
                                 "description": "Las hijas de la Reina de Corazones y Cenicienta viajan al pasado para evitar un golpe de estado en Auradon. ...",
@@ -249,12 +255,6 @@
                                 "title": "El hilo invisible",
                                 "description": "En el Londres de la posguerra, en 1950, el famoso modisto Reynolds Woodcock (Daniel Day-Lewis) y su hermana Cyril (Lesley Manville) están a la cabeza de la moda británica, vistiendo a la realeza y a toda mujer elegante de la época. Un día, el soltero Reynolds conoce a Alma (Vicky Krieps), una du...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20176.webp"
-                            },
-                            {
-                                "url": "/pelicula/20175/como-tener-sexo.html",
-                                "title": "Cómo Tener Sexo",
-                                "description": "Tres adolescentes británicas se van de vacaciones para celebrar sus ritos de iniciación: beber, salir de fiesta y ligar, en lo que debería ser el mejor verano de sus vidas....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20175.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dood.ws/e/aq6kuo21b1bo",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgjlxtixeqw3wa/y8de2w4g8t~l3Najt7WX0?token=faa3a98f24ktc5woxwz3px7v&expiry=1721088925744",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

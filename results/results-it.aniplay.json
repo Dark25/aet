@@ -3,27 +3,27 @@
         "name": "AniPlay (IT)",
         "results": {
             "popular": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
                 "passed": false
             }
         }

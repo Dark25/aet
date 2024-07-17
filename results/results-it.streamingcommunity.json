@@ -959,66 +959,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/246647?type=video&rendition=1080p&token=-M6LPa3sBPHOwZHHjcQSOA&expires=1726359365&edge=sc-u7-01",
-                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/246647?type=video&rendition=1080p&token=-M6LPa3sBPHOwZHHjcQSOA&expires=1726359365&edge=sc-u7-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=3-eng&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=4-forced-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=5-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "Italian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/246647?type=video&rendition=720p&token=gJ4pfj14tb1KfuQ3preFSg&expires=1726359365&edge=sc-u7-01",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/246647?type=video&rendition=720p&token=gJ4pfj14tb1KfuQ3preFSg&expires=1726359365&edge=sc-u7-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=3-eng&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=4-forced-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=5-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "Italian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/246647?type=video&rendition=480p&token=2ELRFQKW-whtfGn1vs2S0w&expires=1726359365&edge=sc-u7-01",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/246647?type=video&rendition=480p&token=2ELRFQKW-whtfGn1vs2S0w&expires=1726359365&edge=sc-u7-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=3-eng&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=4-forced-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=5-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
-                                "lang": "Italian"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

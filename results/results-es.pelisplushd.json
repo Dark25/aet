@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/pedro-el-escamoso-mas-escamoso-que-nunca",
+                                "title": "Pedro el escamoso: más escamoso que nunca (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/p1Y8Llw3evdIdnnS3V4g2C921xg.jpg"
+                            },
+                            {
                                 "url": "/serie/under-the-bridge-el-asesinato-de-reena-virk",
                                 "title": "Under the bridge: el asesinato de Reena Virk (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yCgdQ0lF1YO9d9uEAfpN7HYD5lY.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/guerra-ira-y-venganza",
                                 "title": "Guerra: Ira y venganza (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/r4H9gQtTUiB1OLYyaSPhRQ6zz4t.jpg"
-                            },
-                            {
-                                "url": "/serie/se-llamaba-pedro-infante",
-                                "title": "Se Llamaba Pedro Infante (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/v4yoq9GST6crMxdEbpazWplDpcp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/under-the-bridge-el-asesinato-de-reena-virk",
-                    "title": "Under the bridge: el asesinato de Reena Virk (2024)",
-                    "description": "La historia real sobre una joven de 14 años que salió de fiesta con sus amigos y jamás volvió..",
-                    "genre": "Crimen, Drama",
+                    "url": "/serie/pedro-el-escamoso-mas-escamoso-que-nunca",
+                    "title": "Pedro el escamoso: más escamoso que nunca (2024)",
+                    "description": "Después de veinte años en el extranjero, Pedro regresa a Colombia y se enamora nuevamente de la mujer equivocada. Fernanda es la jefa y futura suegra de su hijo, lo que pone en riesgo la carrera ascendente de Junior. Para protegerlo, Pedro oculta sus lazos de sangre a todo el mundo y trabaja en la reconstrucción de su problemática relación mientras intenta salir adelante en su vida amorosa..",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yCgdQ0lF1YO9d9uEAfpN7HYD5lY.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/p1Y8Llw3evdIdnnS3V4g2C921xg.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/under-the-bridge-el-asesinato-de-reena-virk/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Solo misericordia",
-                        "episode_number": 8.0
+                        "url": "/serie/pedro-el-escamoso-mas-escamoso-que-nunca/temporada/1/capitulo/23",
+                        "name": "T1 - E23: Episodio 23",
+                        "episode_number": 23.0
                     },
                     {
-                        "url": "/serie/under-the-bridge-el-asesinato-de-reena-virk/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Tres y siete",
-                        "episode_number": 7.0
+                        "url": "/serie/pedro-el-escamoso-mas-escamoso-que-nunca/temporada/1/capitulo/22",
+                        "name": "T1 - E22: Episodio 22",
+                        "episode_number": 22.0
                     }
                 ],
                 "passed": true
@@ -303,6 +303,56 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/justice-league-crisis-on-infinite-earths-part-three",
+                                "title": "Justice League: Crisis on Infinite Earths Part Three (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jXeeV5YrACBgc9CGvggdsA6PEmd.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-ballena",
+                                "title": "La Ballena (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-nube",
+                                "title": "La nube (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/s31liVC5148H5a1crqpoTGF02zL.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lightyear",
+                                "title": "Lightyear (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg"
+                            },
+                            {
+                                "url": "/pelicula/detras-de-la-noticia",
+                                "title": "Detrás de la noticia (1994)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9Jd4eHfpgTBfkOQT32sXcOIS917.jpg"
+                            },
+                            {
+                                "url": "/pelicula/posse",
+                                "title": "Posse (1993)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hKx3ZSFa5K8PkEaIob2Vo5oHOxr.jpg"
+                            },
+                            {
+                                "url": "/pelicula/love-hurts",
+                                "title": "Love Hurts (1990)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/3IeCYMlIbwLCSt0Qgcdlj45ouWg.jpg"
+                            },
+                            {
+                                "url": "/pelicula/fiel-amigo",
+                                "title": "Fiel amigo (1957)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ehhvTMUfZHbuCMeTWv38iX0yGil.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-colina-del-adios",
+                                "title": "La colina del adiós (1955)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vrCub5vZPkNN2PuwcwPn7Phiqzd.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-corazon-purpura",
+                                "title": "El corazón púrpura (1944)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oFFOFUv27hEoQREGu4DxtWKsTt9.jpg"
+                            },
                             {
                                 "url": "/pelicula/tierra-a-eco",
                                 "title": "Tierra a Eco (2014)",
@@ -372,56 +422,6 @@
                                 "url": "/pelicula/yo-frankenstein",
                                 "title": "Yo, Frankenstein (2014)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/mUZh4lHJDUN8tQodoePjTn33S1H.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-darkness",
-                                "title": "The Darkness (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg"
-                            },
-                            {
-                                "url": "/pelicula/about-cherry",
-                                "title": "About Cherry (2012)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg"
-                            },
-                            {
-                                "url": "/pelicula/las-sesiones",
-                                "title": "Las sesiones (2012)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/omE7lN5w61Vs7EBEgWakjCUYdEu.jpg"
-                            },
-                            {
-                                "url": "/pelicula/beethoven-aventura-de-navidad",
-                                "title": "Beethoven: Aventura de navidad (2011)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/y9lB7wV0TGsuKsDj3JrlgegyIdh.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-mirada-del-amor",
-                                "title": "La mirada del amor (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/4uVP3EmTfe0NYRsX2U9NBtSGGlP.jpg"
-                            },
-                            {
-                                "url": "/pelicula/diana",
-                                "title": "Diana (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/u1e2hMO0GvtTE5OXsMcPUDyfMgs.jpg"
-                            },
-                            {
-                                "url": "/pelicula/vidas-criminales",
-                                "title": "Vidas criminales (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bXv0lbJGNsXGXclMwUakP5vpFJg.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-gran-revancha",
-                                "title": "La gran revancha (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/d2ZFknSBw4YE3IXKnGDTXgg1xLj.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-chico-del-millon-de-dolares",
-                                "title": "El chico del millón de dólares (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jn2WHwRLN2VmSkdaEMGxce2usuE.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-formula-de-la-felicidad",
-                                "title": "La fórmula de la felicidad (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/z4fVz3zPQQseoeb1YhT19b9ZH8g.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -992,9 +992,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://0r0muqzr7.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f2-v1-a1.m3u8?t=qDEs72XjMWAOD3wEGjqw4tPp35BqIj3aLTfsxk93ha8&s=1721196451&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://en907cj7x.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f2-v1-a1.m3u8?t=xX5rHt0kVy3WezbtkIdQksslolcYLBrlpd9Pszfx01E&s=1721218091&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://0r0muqzr7.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f2-v1-a1.m3u8?t=qDEs72XjMWAOD3wEGjqw4tPp35BqIj3aLTfsxk93ha8&s=1721196451&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://en907cj7x.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f2-v1-a1.m3u8?t=xX5rHt0kVy3WezbtkIdQksslolcYLBrlpd9Pszfx01E&s=1721218091&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1003,9 +1003,9 @@
                         }
                     },
                     {
-                        "url": "https://0r0muqzr7.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f1-v1-a1.m3u8?t=qDEs72XjMWAOD3wEGjqw4tPp35BqIj3aLTfsxk93ha8&s=1721196451&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://en907cj7x.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f1-v1-a1.m3u8?t=xX5rHt0kVy3WezbtkIdQksslolcYLBrlpd9Pszfx01E&s=1721218091&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://0r0muqzr7.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f1-v1-a1.m3u8?t=qDEs72XjMWAOD3wEGjqw4tPp35BqIj3aLTfsxk93ha8&s=1721196451&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://en907cj7x.sw-cdnstreamwish.com/hls2/01/04393/qy3f2cl74ls6_,n,h,.urlset/index-f1-v1-a1.m3u8?t=xX5rHt0kVy3WezbtkIdQksslolcYLBrlpd9Pszfx01E&s=1721218091&e=129600&f=21968363&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1014,9 +1014,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=888GAZGwKbH4z3&expires=1721266452&ip=F0qQKRWZD19XKxR&token=KCZdIqZbL381",
+                        "url": "https://streamtape.com/get_video?id=888GAZGwKbH4z3&expires=1721288092&ip=F0qQKRWZD19XKxR&token=-ASI94xQrIep",
                         "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=888GAZGwKbH4z3&expires=1721266452&ip=F0qQKRWZD19XKxR&token=KCZdIqZbL381"
+                        "videoUrl": "https://streamtape.com/get_video?id=888GAZGwKbH4z3&expires=1721288092&ip=F0qQKRWZD19XKxR&token=-ASI94xQrIep"
                     }
                 ],
                 "passed": true

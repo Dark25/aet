@@ -3,74 +3,8 @@
         "name": "SlothAnime (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream",
-                                "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12108.png"
-                            },
-                            {
-                                "url": "/anime/narenare-cheer-for-you",
-                                "title": "Narenare -Cheer for You!-",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12107.png"
-                            },
-                            {
-                                "url": "/anime/my-deer-friend-nokotan",
-                                "title": "My Deer Friend Nokotan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12106.png"
-                            },
-                            {
-                                "url": "/anime/a-journey-through-another-world-raising-kids-while-adventuring",
-                                "title": "A Journey Through Another World: Raising Kids While Adventuring",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12105.png"
-                            },
-                            {
-                                "url": "/anime/dont-give-up",
-                                "title": "Don't Give Up!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12104.png"
-                            },
-                            {
-                                "url": "/anime/kinnikuman-perfect-origin-arc-episode-0",
-                                "title": "Kinnikuman: Perfect Origin Arc Episode 0",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12103.png"
-                            },
-                            {
-                                "url": "/anime/mayonaka-punch",
-                                "title": "MAYONAKA PUNCH",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12102.png"
-                            },
-                            {
-                                "url": "/anime/monogatari-series-off-monster-season",
-                                "title": "MONOGATARI Series: OFF & MONSTER Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12101.png"
-                            },
-                            {
-                                "url": "/anime/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools",
-                                "title": "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12100.png"
-                            },
-                            {
-                                "url": "/anime/plussized-elf",
-                                "title": "Plus-Sized Elf",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12099.png"
-                            },
-                            {
-                                "url": "/anime/sakuna-of-rice-and-ruin",
-                                "title": "Sakuna: Of Rice and Ruin",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12098.png"
-                            },
-                            {
-                                "url": "/anime/a-nobodys-way-up-to-an-exploration-hero",
-                                "title": "A Nobody's Way Up to an Exploration Hero",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12097.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -266,9 +200,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/148194?vrf=vclNk3udfAmzIFeOK6pZ8A%3D%3D",
+                        "url": "https://slothanime.com/player-url/148194?vrf=JIPCoGqkz04tu0CucrZlyw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/148194?vrf=vclNk3udfAmzIFeOK6pZ8A%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/148194?vrf=JIPCoGqkz04tu0CucrZlyw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

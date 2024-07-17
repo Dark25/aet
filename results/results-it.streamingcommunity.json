@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9198-mafia-spies",
+                                "title": "Mafia Spies",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/4629e489-2360-4730-9be8-6b8a3394216f.webp"
+                            },
+                            {
                                 "url": "9104-il-caso-yara-oltre-ogni-ragionevole-dubbio",
                                 "title": "Il caso Yara: oltre ogni ragionevole dubbio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/96ca0406-6364-4040-bb40-d4dae1727d98.webp"
@@ -300,11 +305,6 @@
                                 "url": "8645-una-parte-di-te",
                                 "title": "Una parte di te",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/e157ff47-435e-402c-b96c-934494f65f7a.webp"
-                            },
-                            {
-                                "url": "8643-die-hart-2-die-harter",
-                                "title": "Die Hart 2: Die Harter",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/eeb6274f-5925-44cc-9a2b-27f564861661.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9197-landscapers-un-crimine-quasi-perfetto",
+                                "title": "Landscapers - Un crimine quasi perfetto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/40579c7e-f4d2-42b2-9072-b151743becd2.webp"
+                            },
+                            {
+                                "url": "9196-una-squadra",
+                                "title": "Una squadra",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/2d61c904-ee38-44fc-8e8c-0e31c4ba3ebd.webp"
+                            },
+                            {
+                                "url": "9195-temple",
+                                "title": "Temple",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/ca8ee7c7-4fec-45bb-9223-fd5aa83091ea.webp"
+                            },
                             {
                                 "url": "9194-das-boot",
                                 "title": "Das Boot",
@@ -600,21 +615,6 @@
                                 "url": "9131-lego-ninjago-masters-of-spinjitzu",
                                 "title": "LEGO Ninjago: Masters of Spinjitzu",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/733643fe-ddc3-49be-8dd8-d3a17bc66705.webp"
-                            },
-                            {
-                                "url": "9130-le-avventure-del-gatto-con-gli-stivali",
-                                "title": "Le avventure del Gatto con gli stivali",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/777cde09-86e2-4b00-a9cb-b1605153ab3b.webp"
-                            },
-                            {
-                                "url": "9129-baby-boss-di-nuovo-in-affari",
-                                "title": "Baby Boss - Di nuovo in affari",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/b32526c7-9b6f-4ae0-b073-4904b6f1f185.webp"
-                            },
-                            {
-                                "url": "9128-cera-una-volta-la-vita-la-favolosa-storia-del-corpo-umano",
-                                "title": "C'era una volta la vita - La favolosa storia del corpo umano",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/56cfa6ba-7f23-4c0e-8d23-4fa0538bffc9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9104-il-caso-yara-oltre-ogni-ragionevole-dubbio",
-                    "description": "Questa docuserie analizza la scomparsa della tredicenne Yara e le sconcertanti indagini che hanno sconvolto una comunità locale.",
-                    "genre": "Documentario",
+                    "url": "9198-mafia-spies",
+                    "description": "Spie, gangster, amanti, Sinatra, JFK, persino James Bond! Incredibile ma vero, Mafia Spies racconta la storia della vergognosa cospirazione tra la CIA e la mafia per assassinare Fidel Castro.",
+                    "genre": "Dramma, Documentario",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -946,21 +946,79 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9104?episode_id=70793&next_episode=1",
-                        "name": "Stagione 1 episodio 5 - Episodio 5",
-                        "episode_number": 5.0
+                        "url": "9198?episode_id=71057&next_episode=1",
+                        "name": "Stagione 1 episodio 6 - Il fallimento",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "9104?episode_id=70791&next_episode=1",
-                        "name": "Stagione 1 episodio 4 - Episodio 4",
-                        "episode_number": 4.0
+                        "url": "9198?episode_id=71055&next_episode=1",
+                        "name": "Stagione 1 episodio 5 - La resa dei conti",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/246647?type=video&rendition=1080p&token=-M6LPa3sBPHOwZHHjcQSOA&expires=1726359365&edge=sc-u7-01",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/246647?type=video&rendition=1080p&token=-M6LPa3sBPHOwZHHjcQSOA&expires=1726359365&edge=sc-u7-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=3-eng&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=4-forced-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=5-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "Italian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/246647?type=video&rendition=720p&token=gJ4pfj14tb1KfuQ3preFSg&expires=1726359365&edge=sc-u7-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/246647?type=video&rendition=720p&token=gJ4pfj14tb1KfuQ3preFSg&expires=1726359365&edge=sc-u7-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=3-eng&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=4-forced-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=5-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "Italian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/246647?type=video&rendition=480p&token=2ELRFQKW-whtfGn1vs2S0w&expires=1726359365&edge=sc-u7-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/246647?type=video&rendition=480p&token=2ELRFQKW-whtfGn1vs2S0w&expires=1726359365&edge=sc-u7-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=3-eng&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=4-forced-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/246647?type=subtitle&rendition=5-ita&token=ddija10_SRDVHYF1mrcobw&expires=1726359365&edge=sc-u7-01",
+                                "lang": "Italian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

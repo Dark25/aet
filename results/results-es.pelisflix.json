@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/the-strangers-chapter-1/",
+                                "title": "The Strangers: Chapter 1",
+                                "description": "Una pareja joven tiene un viaje para tener un nuevo comienzo, desafortunadamente no tienen otra opor...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/sSMo1p8R98zfWYFfVD.webp"
+                            },
+                            {
                                 "url": "/pelicula/hasta-el-fin-del-mundo/",
                                 "title": "Hasta el fin del mundo",
                                 "description": "Vivienne Le Coudy, una mujer tremendamente independiente, se embarca en una relación con un inmigra...",
@@ -239,12 +245,6 @@
                                 "title": "Dicks: The Musical",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/tzPfjEWaeXP5ITRNBcx9HhtGrh8ml1.webp"
-                            },
-                            {
-                                "url": "/pelicula/furiosa-de-la-saga-mad-max-zlqg/",
-                                "title": "Furiosa: De la saga Mad Max",
-                                "description": "Precuela de la película de 2015 'Mad Max: Furia en la carretera'.",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Ps8XADBIrW1XAVTUMea.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/hasta-el-fin-del-mundo/",
-                    "title": "Hasta el fin del mundo",
-                    "description": "Vivienne Le Coudy, una mujer tremendamente independiente, se embarca en una relación con un inmigrante danés llamado Holger Olsen. Después de conocer a Olsen en San Francisco, Vivienne accede a viajar con él a su casa cerca del tranquilo pueblo de Elk Flats, donde comienzan una vida juntos. Sin embargo, la Guerra Civil los separa, dejando a Vivienne sola en un lugar controlado por el poderoso ranchero Alfred Jeffries, su violento y descarriado hijo Weston Jeffries y la ayuda y la complicidad del corrupto alcalde Rudolph Schiller.",
-                    "genre": "Drama",
+                    "url": "/pelicula/the-strangers-chapter-1/",
+                    "title": "The Strangers: Chapter 1",
+                    "description": "Una pareja joven tiene un viaje para tener un nuevo comienzo, desafortunadamente no tienen otra oportunidad que detenerse en un AirBnb aislado en Oregón. Una noche de terror contra 3 desconocidos enmascarados se avecina.",
+                    "genre": "Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/hasta-el-fin-del-mundo/",
+                        "url": "/pelicula/the-strangers-chapter-1/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -544,23 +544,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             }
         }

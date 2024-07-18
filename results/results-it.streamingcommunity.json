@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9207-my-spy-la-citta-eterna",
+                                "title": "My Spy - La città eterna",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/cb507169-970c-4a94-baf7-1687e6f5a7a2.webp"
+                            },
+                            {
                                 "url": "9199-simone-biles-rising-verso-le-olimpiadi",
                                 "title": "Simone Biles Rising: verso le Olimpiadi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/1fcf7475-9342-4693-8041-cb8ab856868a.webp"
@@ -300,11 +305,6 @@
                                 "url": "8714-bande-criminali-italiane",
                                 "title": "Bande Criminali Italiane",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/33ab008e-c3b9-4fc7-96f8-aafe8148f199.webp"
-                            },
-                            {
-                                "url": "8646-ni-una-mas",
-                                "title": "Ni una más",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/3308e897-79d0-4f71-8250-f72a7d808a07.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9199-simone-biles-rising-verso-le-olimpiadi",
-                    "description": "Segui la ginnasta Simone Biles mentre concilia la sua vita personale, il suo percorso di salute mentale e gli allenamenti in vista dell'atteso ritorno alle Olimpiadi.",
-                    "genre": "Documentario",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9207-my-spy-la-citta-eterna",
+                    "description": "L'adolescente Sophie riesce a convincere JJ ad accompagnare la sua classe in gita scolastica, durante la quale finiscono entrambi con l'essere pedine in un complotto terroristico internazionale che prende di mira il capo della CIA, David Kim, e il figlio Collin, che è il migliore amico di Sophie.",
+                    "genre": "Azione, Commedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,13 +946,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9199?episode_id=71072&next_episode=1",
-                        "name": "Stagione 1 episodio 2 - Non mi spezzerò",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "9199?episode_id=71071&next_episode=1",
-                        "name": "Stagione 1 episodio 1 - Scrivi di me nella storia...",
+                        "url": "9207",
+                        "name": "Film",
                         "episode_number": 1.0
                     }
                 ],

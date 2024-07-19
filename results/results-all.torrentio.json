@@ -836,25 +836,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/stream/series/tt1190634:5:1.json",
-                        "name": "S5:E1 - Episode #5.1",
-                        "episode_number": 5.1,
-                        "scanlator": ""
-                    },
-                    {
-                        "url": "/stream/series/tt1190634:4:8.json",
-                        "name": "S4:E8 - Season Four Finale",
-                        "date_upload": 1721260800000,
-                        "episode_number": 4.8,
-                        "scanlator": ""
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }

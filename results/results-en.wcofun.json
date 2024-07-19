@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/twilight-out-of-focus",
+                                "title": "Twilight Out of Focus",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933673.jpg"
+                            },
+                            {
                                 "url": "/anime/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard",
                                 "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933672.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/my-deer-friend-nokotan",
                                 "title": "My Deer Friend Nokotan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg"
-                            },
-                            {
-                                "url": "/anime/kinnikuman-kanpeki-chоujin-shiso-hen",
-                                "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933657.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard",
-                    "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
-                    "description": "When mundane office worker Kiyoshi Adachi turns 30 years old, he discovers that he has gained the ability to read minds due simply to remaining a virgin for his entire life. The caveat, however, is that he must make physical contact with a person to know what they are thinking about. Adachi believes there is no real use for this power until he accidentally hears the thoughts of his coworker, Yuuichi Kurosawa.",
-                    "genre": "Boys Love, Comedy, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933672.jpg",
+                    "url": "/anime/twilight-out-of-focus",
+                    "title": "Twilight Out of Focus",
+                    "description": "In front of a camera, roommates Mao Tsuchiya and Hisashi Ootomo make three promises: Mao must not tell anyone Hisashi is gay and in a relationship with another man; Hisashi must never fall in love or make any advances on Mao; and one must not disturb the other’s “personal time.” Thus begins their second year of cohabitation.",
+                    "genre": "Boys Love, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933673.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/twilight-out-of-focus-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g-PP5ZKRgBePoIfB8kn_g-OkXxscp9ZBS743wGPz8lXTkFGR9RIDM_GmMiqnX19_EeDZ-GnLE12o9OFP6T-P76SpTsxnua4Ou0qS9_c8I7kJ8UMVgYmHM-RkwJY_tn_3AaK92qjjJUIxiV7Hno1wlRwkZ4sD5lUmZkk0PMLvd5U0UPUEiKInjAmVcuUbQLjjtAi1oSJx26t0wGTbDyg6hz5y8Etj_4e2mH4553B6g7-Zb3nKT8M0cUucvjwhMoJ6VwHpLECKgnx65aZoecocOxFawf0ntuaTm6aUAL-Ote68AiecfMV58ZlvBoc1B76MM9ds_fqB87au3iXqgRqfeOrsjKq3UoslXr1iBYnNIc26VSczXgsCQKGgfSo3f7oYFLDInjlr_aDSOiaQ3qR1DGZnIL-0AZmIfK80PQuhDjbQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g-PP5ZKRgBePoIfB8kn_g-OkXxscp9ZBS743wGPz8lXTkFGR9RIDM_GmMiqnX19_EeDZ-GnLE12o9OFP6T-P76SpTsxnua4Ou0qS9_c8I7kJ8UMVgYmHM-RkwJY_tn_3AaK92qjjJUIxiV7Hno1wlRwkZ4sD5lUmZkk0PMLvd5U0UPUEiKInjAmVcuUbQLjjtAi1oSJx26t0wGTbDyg6hz5y8Etj_4e2mH4553B6g7-Zb3nKT8M0cUucvjwhMoJ6VwHpLECKgnx65aZoecocOxFawf0ntuaTm6aUAL-Ote68AiecfMV58ZlvBoc1B76MM9ds_fqB87au3iXqgRqfeOrsjKq3UoslXr1iBYnNIc26VSczXgsCQKGgfSo3f7oYFLDInjlr_aDSOiaQ3qR1DGZnIL-0AZmIfK80PQuhDjbQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g-PP5ZKRgBePoIfB8kn_g-OkXxscp9ZBS743wGPz8lXTkFGR9RIDM_GmMiqnX19_EeDZ-GnLE12o9OFP6T-P76SpTsxnua4Ou0qS9_c8I7kJ8UMVgYmHM-RkwJY_tn_3AaK92qjjJUIxiV7Hno1wlRsZlYo3FvSHUVTV2gOWcVh2mB6xWvlrC3O0w07A0sTATz4_CCHX4cNeSroI-zcPzznJDRcDhPEK5Fz5TJ9u0-h11BHbx-FqRU7uxsPLpyzOwab1BbbXEKDFPo329Ymcfeq5aaBN_VX5y-fBW0GjIERXfot-4fQcm9sMB4wRv-R5cF1ZtD1NImW656DB8U4_YgdD6nTsKL0LXnyPinrTyzStgW0xCFrAHAOW44Zn5zPzfNhEnCq6DWbAb8GBADQkb-cniadwvR4bP-gCf6ddWBFw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g-PP5ZKRgBePoIfB8kn_g-OkXxscp9ZBS743wGPz8lXTkFGR9RIDM_GmMiqnX19_EeDZ-GnLE12o9OFP6T-P76SpTsxnua4Ou0qS9_c8I7kJ8UMVgYmHM-RkwJY_tn_3AaK92qjjJUIxiV7Hno1wlRsZlYo3FvSHUVTV2gOWcVh2mB6xWvlrC3O0w07A0sTATz4_CCHX4cNeSroI-zcPzznJDRcDhPEK5Fz5TJ9u0-h11BHbx-FqRU7uxsPLpyzOwab1BbbXEKDFPo329Ymcfeq5aaBN_VX5y-fBW0GjIERXfot-4fQcm9sMB4wRv-R5cF1ZtD1NImW656DB8U4_YgdD6nTsKL0LXnyPinrTyzStgW0xCFrAHAOW44Zn5zPzfNhEnCq6DWbAb8GBADQkb-cniadwvR4bP-gCf6ddWBFw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g-PP5ZKRgBePoIfB8kn_g-OkXxscp9ZBS743wGPz8lXTkFGR9RIDM_GmMiqnX19_EeDZ-GnLE12o9OFP6T-P76SpTsxnua4Ou0qS9_c8I7kJ8UMVgYmHM-RkwJY_tn_3AaK92qjjJUIxiV7Hno1wlRKboRCbzsj5uCooKdSazSctvhUmGMb2NiDkOdLkHXhIYjEjLQ3nzLkz05tA5aDqM_7KkgBe4b5ObfZrzJZ-Def8EHprlqiwjwzKQRyfH8zFFh979TggeKzTK192QqMX4dXwvqvmYh5oWr1quFVZ02kGYfsl-CQo0Dj2y_tyvqz1P2aAP_2V-6iw_8viNq_hMMhfRYRbPZ0VxsHF_8nstJ_IpFfUpRxiOqMonIiYsRBXf3e-kgKmZGZqp3bT5OKZAS-KMrBgLW8GlaHUrvMTtCjQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g-PP5ZKRgBePoIfB8kn_g-OkXxscp9ZBS743wGPz8lXTkFGR9RIDM_GmMiqnX19_EeDZ-GnLE12o9OFP6T-P76SpTsxnua4Ou0qS9_c8I7kJ8UMVgYmHM-RkwJY_tn_3AaK92qjjJUIxiV7Hno1wlRKboRCbzsj5uCooKdSazSctvhUmGMb2NiDkOdLkHXhIYjEjLQ3nzLkz05tA5aDqM_7KkgBe4b5ObfZrzJZ-Def8EHprlqiwjwzKQRyfH8zFFh979TggeKzTK192QqMX4dXwvqvmYh5oWr1quFVZ02kGYfsl-CQo0Dj2y_tyvqz1P2aAP_2V-6iw_8viNq_hMMhfRYRbPZ0VxsHF_8nstJ_IpFfUpRxiOqMonIiYsRBXf3e-kgKmZGZqp3bT5OKZAS-KMrBgLW8GlaHUrvMTtCjQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

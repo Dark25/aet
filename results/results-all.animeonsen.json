@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "leuVVArR5TeUXOwL",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leuVVArR5TeUXOwL"
+                            },
+                            {
                                 "url": "OJqyBSbIHptKxN1L",
                                 "title": "Dungeon no Naka no Hito",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OJqyBSbIHptKxN1L"
@@ -100,11 +105,6 @@
                                 "url": "ULg1598bBOrlWjys",
                                 "title": "Oshi no Ko 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ULg1598bBOrlWjys"
-                            },
-                            {
-                                "url": "FohRSB9LkFgnhdPx",
-                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/FohRSB9LkFgnhdPx"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "OJqyBSbIHptKxN1L",
-                    "title": "Dungeon no Naka no Hito",
-                    "author": "OLM",
-                    "description": "An unexplored dungeon, filled with monsters and traps. An expert thief, searching for her lost father. When Clay delves into the dungeon deeper than any adventurer has ever gone, she is offered a job by the dungeon's caretaker! Now, instead of exploring, Clay must learn how to interview new monsters, set traps and position slimes around the dungeon. Will this new career path bring her any closer to finding her father?\n\n(Source: Seven Seas Entertainment)",
-                    "genre": "Adventure, Comedy, Fantasy",
+                    "url": "leuVVArR5TeUXOwL",
+                    "title": "Kono Sekai wa Fukanzen Sugiru",
+                    "author": "Studio Palette, 100studio",
+                    "description": "Nikola is just a village girl working at the inn...until the day dragons invade, and she meets Haga, a scholar of everything around him. He's a part of an elite society called \"Seeker,\" created to address a series of maladies plaguing their usually peaceful world. But both Nikola and Haga have secrets they hide...ones that will change each other's very existence...\n\n(Source: Kodansha USA)",
+                    "genre": "Adventure, Fantasy, Video Game",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OJqyBSbIHptKxN1L",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leuVVArR5TeUXOwL",
                     "initialized": true
                 },
                 "passed": true
@@ -314,13 +314,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "OJqyBSbIHptKxN1L/video/3",
-                        "name": "Episode 3: The Ice Wolf's Fangs",
+                        "url": "leuVVArR5TeUXOwL/video/3",
+                        "name": "Episode 3: Tesla",
                         "episode_number": 3.0
                     },
                     {
-                        "url": "OJqyBSbIHptKxN1L/video/2",
-                        "name": "Episode 2: Starting Work in the Dungeon",
+                        "url": "leuVVArR5TeUXOwL/video/2",
+                        "name": "Episode 2: Haga Makoto",
                         "episode_number": 2.0
                     }
                 ],
@@ -329,17 +329,49 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/OJqyBSbIHptKxN1L/3/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/leuVVArR5TeUXOwL/3/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/OJqyBSbIHptKxN1L/3/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/leuVVArR5TeUXOwL/3/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OJqyBSbIHptKxN1L/en-US/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/en-US/3",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/ru-RU/3",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/pt-BR/3",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/it-IT/3",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/fr-FR/3",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/es-LA/3",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/es-ES/3",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/de-DE/3",
+                                "lang": "Deutsch"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/leuVVArR5TeUXOwL/ar-ME/3",
+                                "lang": "العربية"
                             }
                         ]
                     }

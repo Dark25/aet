@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/cobra-kai/",
+                                "title": "Cobra Kai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            },
+                            {
                                 "url": "/filmes/twisters/",
                                 "title": "Twisters",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/a-casa-do-dragao/",
                                 "title": "A Casa do Dragão",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/tqWF1vSDKXSiQaRaFkep3ofvyzQ.jpg"
-                            },
-                            {
-                                "url": "/series/the-boys/",
-                                "title": "The Boys",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/cobra-kai/",
+                                "title": "Cobra Kai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            },
                             {
                                 "url": "/series/la-brea/",
                                 "title": "La Brea",
@@ -130,11 +135,6 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
-                            },
-                            {
-                                "url": "/series/avatar-o-ultimo-mestre-do-ar/",
-                                "title": "Avatar: O Último Mestre do Ar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg"
                             },
                             {
                                 "url": "/series/a-mulher-no-lago/",
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/twisters/",
-                    "title": "Twisters",
-                    "description": "Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico.\n\nTítulo Original: Twisters",
-                    "genre": "Ação, Aventura, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg",
+                    "url": "/series/cobra-kai/",
+                    "title": "Cobra Kai",
+                    "description": "Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tournament de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai .\n\nTítulo Original: Cobra Kai\nTemporadas: 6\nEpisódios: 60",
+                    "genre": "Action & Adventure, Comédia, Drama, Família",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,9 +466,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/twisters/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodes/cobra-kai-6x10/",
+                        "name": "Temporada 6 x 10 - Episódio 10",
+                        "date_upload": 1731628800000,
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/episodes/cobra-kai-6x9/",
+                        "name": "Temporada 6 x 9 - Episódio 9",
+                        "date_upload": 1731628800000,
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true

@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/shoushimin-series/",
+                                "title": "Shoushimin Series",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/06/Shoushimin-Series-212x300.jpg"
+                            },
+                            {
                                 "url": "/series/make-heroine-ga-oosugiru/",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/07/Make-Heroine-ga-Oosugiru-212x300.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/series/nierautomata-ver1-1a-part-2/",
                                 "title": "NieR:Automata Ver1.1a Part 2",
                                 "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/06/NieR-Automata-Ver1-1a-Part-2-212x300.jpg"
-                            },
-                            {
-                                "url": "/series/tensei-shitara-slime-datta-ken-3-sezon/",
-                                "title": "Tensei shitara Slime Datta Ken 3.Sezon",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/04/141789-205x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -313,8 +313,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/a69403b1a3d32f63719cfe081c18650a/5602614.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/a69403b1a3d32f63719cfe081c18650a/5602614.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5602614"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

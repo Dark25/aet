@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sugar-sugar-rune-latino",
+                                "title": "Sugar Sugar Rune Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/sugar-sugar-rune-latino-1721519937.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/isekai-suicide-squad-latino",
                                 "title": "Isekai Suicide Squad Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/isekai-suicide-squad-latino-1721180615.jpg?v=1.5"
@@ -120,11 +125,6 @@
                                 "url": "/anime/el-gran-pasaje-latino",
                                 "title": "El Gran Pasaje Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/el-gran-pasaje-latino-1715739863.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/date-a-live-v-latino",
-                                "title": "Date A Live V Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/date-a-live-v-latino-1714592265.jpg?v=1.5"
                             },
                             {
                                 "url": "/anime/shinigami-bocchan-to-kuro-maid-s3-latino",
@@ -324,42 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/isekai-suicide-squad-latino",
-                    "title": "Isekai Suicide Squad Latino",
-                    "description": "Amanda Waller, directora de ARGUS, ha reunido a un grupo de criminales notorios para una misión: Harley Quinn, Deadshot, Peacemaker, Clayface y King Shark. Estos supervillanos de DC son enviados a un reino de otro mundo que está conectado a este mundo a través de una puerta. Es un mundo de espadas y magia donde los orcos arrasan y los dragones gobiernan los cielos: ¡un \"¡ISEKAI!\" Harley Quinn y los demás se vuelven locos después de llegar al ISEKAI, pero son capturados por los soldados del Reino y enviados a prisión. Sólo tienen 72 horas antes de que exploten las bombas implantadas en sus cuellos. El reloj está corriendo. Después de negociaciones con la reina Aldora, su liberación depende de la conquista de sus enemigos, el hostil ejército imperial. Los miembros del escuadrón no tienen más remedio que lanzarse de cabeza al frente de batalla. Si corren, mueren. Si pierden, mueren. Con sus vidas en juego, ¿podrán Harley Quinn y el Escuadrón Suicida sobrevivir en el ISEKAI? ¡Prepárense para la trepidante saga del grupo de trabajo de élite conocido como \"Suicide Squad\" mientras se embarcan en una aventura asombrosa! ¡Que comience la fiesta!",
-                    "genre": "Acción",
+                    "url": "/anime/sugar-sugar-rune-latino",
+                    "title": "Sugar Sugar Rune Latino",
+                    "description": "Chocolat Meilleur y Vanilla Mieux son amigas cercanas y rivales como candidatas a Reina del Mundo Mágico. Ambas llegan al mundo humano para competir por el título en una prueba que consiste en recolectar la mayor cantidad posible de corazones humanos, que son los cristales de los sentimientos hacia ellas. Para lograrlo, se transfieren a la Academia Moegi y se esfuerzan por ganarse el afecto de todos. Sin embargo, Chocolat, antes popular en el mundo mágico, no tiene éxito y es superada por la tímida Vanilla. Para complicar las cosas, Chocolat se siente atraída por un chico misterioso llamado Pierre, y dado que las brujas solo tienen un corazón, perderlo implica graves consecuencias. ¿Podrá Chocolat proteger su corazón? ¿Y quién se convertirá en la próxima soberana del Mundo Mágico?",
+                    "genre": "Comedia, Drama, Fantasía, Magia, Shojo",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/isekai-suicide-squad-latino-episodio-4",
-                        "name": "Isekai Suicide Squad Latino Capitulo 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/ver/isekai-suicide-squad-latino-episodio-3",
-                        "name": "Isekai Suicide Squad Latino Capitulo 3",
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsx5epucz3b4quuogwrbknkyjlcgidn6rbxjp645qke35f7jnily4srfxtcoov655j5jjm7v/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx5epucz3b4quuogwrbknkyjlcgidn6rbxjp645qke35f7jnily4srfxtcoov655j5jjm7v/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

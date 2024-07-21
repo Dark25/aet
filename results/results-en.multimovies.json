@@ -3,27 +3,27 @@
         "name": "Multimovies (EN)",
         "results": {
             "popular": {
-                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to multimovies.space/208.115.214.69:443",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

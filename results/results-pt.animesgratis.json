@@ -37,6 +37,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/karasu-wa-aruji-wo-erabanai-episodio-14/",
+                                "title": "Karasu wa Aruji wo Erabanai – Episódio 14",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/gvXuR5YgfnQ0Qc1Rc1Jt4FqTnJk.jpg"
+                            },
+                            {
+                                "url": "/episodio/shoushimin-series-episodio-3/",
+                                "title": "Shoushimin Series – Episódio 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/h07L0ifFa6r7x65QcqgwiGVzYm8.jpg"
+                            },
+                            {
+                                "url": "/episodio/dungeon-no-naka-no-hito-episodio-3/",
+                                "title": "Dungeon no Naka no Hito – Episódio 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/clkoYT8d3dicvb8JVjYp9fyQjn2.jpg"
+                            },
+                            {
                                 "url": "/episodio/the-fable-episodio-16/",
                                 "title": "The Fable – Episódio 16",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/6HCzbkgOF5GBwOabfwLL46un1VX.jpg"
@@ -100,11 +115,6 @@
                                 "url": "/episodio/kono-sekai-wa-fukanzen-sugiru-episodio-3/",
                                 "title": "Kono Sekai wa Fukanzen Sugiru – Episódio 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/tv19IJ9HYUE7s3lUZkatjpQyOjR.jpg"
-                            },
-                            {
-                                "url": "/episodio/dungeon-no-naka-no-hito-episodio-3/",
-                                "title": "Dungeon no Naka no Hito – Episódio 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/clkoYT8d3dicvb8JVjYp9fyQjn2.jpg"
                             },
                             {
                                 "url": "/episodio/nierautomata-ver1-1a-part-2-episodio-3/",
@@ -175,16 +185,6 @@
                                 "url": "/episodio/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episodio-3/",
                                 "title": "Hazurewaku no “Joutai Ijou Skill” de Saikyou ni Natta Ore ga Subete wo Juurin suru made – Episódio 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/ruTj5dFJb9eLohp5TNRhuL6ip4i.jpg"
-                            },
-                            {
-                                "url": "/episodio/megami-no-cafe-terrace-2-episodio-3/",
-                                "title": "Megami no Café Terrace 2 – Episódio 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/ypLU3wIgEdrYkTYSFASpQsQyx2W.jpg"
-                            },
-                            {
-                                "url": "/episodio/giji-harem-episodio-3/",
-                                "title": "Giji Harem – Episódio 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/rXtMDjsawFIS5nDsa6fGNGC8Wkl.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,12 +364,77 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-8/",
+                        "name": "Episódio 8 (Final)",
+                        "date_upload": 1719705600000,
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-7/",
+                        "name": "Episódio 7",
+                        "date_upload": 1719100800000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb1977f39ddf/797000/797471/797471_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb1977f39ddf/797000/797471/797471_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb1977f39ddf/797000/797471/797471_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=7g2Ue8TLt2Ufij7-t7FTtw&ts=1721531096&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=7g2Ue8TLt2Ufij7-t7FTtw&ts=1721531096&ht=video/mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://bakashi.tv"
+                        }
+                    },
+                    {
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=RKfTeFYvZ2I5q441VwgQ2rI-mpXKAKiHPl7oDQvttC4&s=1721521029&e=10800&f=32112014&srv=23&asn=8075&sp=5500",
+                        "quality": "Filemoon - 1080p",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=RKfTeFYvZ2I5q441VwgQ2rI-mpXKAKiHPl7oDQvttC4&s=1721521029&e=10800&f=32112014&srv=23&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa0c4a8059661/797000/797471/797471.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa0c4a8059661/797000/797471/797471.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa0c4a8059661/797000/797471/797471.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3cec51ebd3590/797000/797471/797471_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3cec51ebd3590/797000/797471/797471_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3cec51ebd3590/797000/797471/797471_360p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=OcSUOlyoUw4kIY4dtmyvIg&e=1721542630&_t=1721522481",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery27.mxcontent.net/v/7fad29c5e99b18a7d70874308f7fc670.mp4?s=OcSUOlyoUw4kIY4dtmyvIg&e=1721542630&_t=1721522481",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

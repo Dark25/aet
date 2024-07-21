@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/thelma",
+                                "title": "Thelma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/rUcuageYgv9SsJoWuc0seRWG6JC.jpg"
+                            },
+                            {
+                                "url": "/movies/reverse-the-curse",
+                                "title": "Reverse the Curse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ZLa3asN2XbjdRcw9eOYPcIzjFz.jpg"
+                            },
+                            {
+                                "url": "/movies/protocol-7",
+                                "title": "Protocol-7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/img74ojiZaAChozjYeYyS7Lv35f.jpg"
+                            },
+                            {
+                                "url": "/movies/my-two-husbands",
+                                "title": "My Two Husbands",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sQXHZtgIoO0YKghkuwqDRtojll.jpg"
+                            },
+                            {
                                 "url": "/movies/midas",
                                 "title": "Midas",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6oetpELBLxtKTu8oWAn5yRggehM.jpg"
@@ -110,26 +130,6 @@
                                 "url": "/movies/wildcat-1076101",
                                 "title": "Wildcat",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/qRFlDK9cXKNF3UU1E567ZpsC4Rq.jpg"
-                            },
-                            {
-                                "url": "/movies/grandes-espias-mision-italia",
-                                "title": "Grandes espías: Misión Italia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ghlwOez45gndnAp3aPMzg5kxMjp.jpg"
-                            },
-                            {
-                                "url": "/movies/the-convert",
-                                "title": "The Convert",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/e5ZqqPlhKstzB4geibpZh38w7Pq.jpg"
-                            },
-                            {
-                                "url": "/movies/kthb-abydh",
-                                "title": "كذب أبيض",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4Veon1l9ujsImklgmkdwp1wHG7B.jpg"
-                            },
-                            {
-                                "url": "/movies/fiebre-del-espacio",
-                                "title": "Fiebre del Espacio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oqeo4WSV5SmIux6tqMQ5lFM7Brr.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/adios-mundo",
-                                "title": "Adios Mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
-                            },
-                            {
                                 "url": "/movies/dune-world",
                                 "title": "Dune World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
+                            },
+                            {
+                                "url": "/movies/adios-mundo",
+                                "title": "Adios Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/midas",
-                    "title": "Midas",
-                    "artist": "Laquan Copeland",
-                    "description": "After a charismatic college dropout lies his way into a job at an insurance juggernaut, he recruits his two best friends for a plot to steal thousands. In the process, they uncover a much darker scheme that tests the limits of their greed.",
-                    "genre": "Acción, Crimen, Suspenso",
+                    "url": "/movies/thelma",
+                    "title": "Thelma",
+                    "artist": "June Squibb",
+                    "description": "Thelma Post, una abuela de 90 años, es engañada por un estafador telefónico que se hace pasar por su nieto y emprende una búsqueda para recuperar lo que le fue arrebatado.",
+                    "genre": "Acción, Comedia, Aventura",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/midas",
+                        "url": "/movies/thelma",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,9 +429,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/04/06478/k2gcz0uci51b_h/index-v1-a1.m3u8?t=uDij_WY660_Sqg9BBrS8TkrYU1Yhrw_qqXaNmD9qMK0&s=1721585124&e=10800&f=32393494&srv=53&asn=8075&sp=4000",
-                        "quality": "[SUB] Filemoon:720p",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/04/06478/k2gcz0uci51b_h/index-v1-a1.m3u8?t=uDij_WY660_Sqg9BBrS8TkrYU1Yhrw_qqXaNmD9qMK0&s=1721585124&e=10800&f=32393494&srv=53&asn=8075&sp=4000",
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06546/pmuywgefz5yy_h/index-v1-a1.m3u8?t=OcUi8D9tp1Pp35H3s8lHHJ_Tmbc054RqkgZci4wCKgA&s=1721594550&e=10800&f=32730298&srv=34&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:800p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06546/pmuywgefz5yy_h/index-v1-a1.m3u8?t=OcUi8D9tp1Pp35H3s8lHHJ_Tmbc054RqkgZci4wCKgA&s=1721594550&e=10800&f=32730298&srv=34&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -439,20 +439,46 @@
                         }
                     },
                     {
-                        "url": "https://jcsbarevnx.cdn-jupiter.com/hls2/01/04351/zule0lkkdd06_n/index-v1-a1.m3u8?t=0mcuoZA5vscXGwhbTZ9tnFEZemzWGgkrzaau-g0M0Fs&s=1721585126&e=129600&f=21759127&srv=k80yo9sdul3c&i=0.4&sp=500&p1=k80yo9sdul3c&p2=k80yo9sdul3c&asn=8075",
-                        "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://jcsbarevnx.cdn-jupiter.com/hls2/01/04351/zule0lkkdd06_n/index-v1-a1.m3u8?t=0mcuoZA5vscXGwhbTZ9tnFEZemzWGgkrzaau-g0M0Fs&s=1721585126&e=129600&f=21759127&srv=k80yo9sdul3c&i=0.4&sp=500&p1=k80yo9sdul3c&p2=k80yo9sdul3c&asn=8075",
+                        "url": "https://scyh6qaq.cdn-jupiter.com/hls2/01/04437/2prqr3d7t68u_n/index-v1-a1.m3u8?t=p2ELHnktxeoZ1PEuRBHuTdqkCjtADOPYHHmfRgTSk2E&s=1721594549&e=129600&f=22185448&srv=hxrfzft9ooce&i=0.4&sp=500&p1=hxrfzft9ooce&p2=hxrfzft9ooce&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://scyh6qaq.cdn-jupiter.com/hls2/01/04437/2prqr3d7t68u_n/index-v1-a1.m3u8?t=p2ELHnktxeoZ1PEuRBHuTdqkCjtADOPYHHmfRgTSk2E&s=1721594549&e=129600&f=22185448&srv=hxrfzft9ooce&i=0.4&sp=500&p1=hxrfzft9ooce&p2=hxrfzft9ooce&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/zule0lkkdd06"
+                            "Referer": "https://streamwish.to/e/2prqr3d7t68u"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=oW6ALPVVJeuJVA8&expires=1721655123&ip=FROsD0ETKxSHDN&token=HcYPDQwpMI5n",
+                        "url": "https://streamtape.com/get_video?id=Lk08ZzowWGHRBW8&expires=1721664549&ip=FROsD0ESKxSHDN&token=_rJcNOTcPO_S",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Lk08ZzowWGHRBW8&expires=1721664549&ip=FROsD0ESKxSHDN&token=_rJcNOTcPO_S"
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/04/06414/ia2encmq34uv_x/index-v1-a1.m3u8?t=k3urR9npe9sWWKNlEox13f9QDzsiaTYQ6HbNSfztjk0&s=1721594557&e=10800&f=32072866&srv=53&asn=8075&sp=5500",
+                        "quality": "[SUB] Filemoon:804p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/04/06414/ia2encmq34uv_x/index-v1-a1.m3u8?t=k3urR9npe9sWWKNlEox13f9QDzsiaTYQ6HbNSfztjk0&s=1721594557&e=10800&f=32072866&srv=53&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://6i0f2riqeyuq4.cdn-jupiter.com/hls2/01/04248/jzzi6i88x2iq_n/index-v1-a1.m3u8?t=I4L-0N5FbFOl8hlIk0teeM-RjU3Z8L46dansHK8fY7s&s=1721594555&e=129600&f=21241526&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://6i0f2riqeyuq4.cdn-jupiter.com/hls2/01/04248/jzzi6i88x2iq_n/index-v1-a1.m3u8?t=I4L-0N5FbFOl8hlIk0teeM-RjU3Z8L46dansHK8fY7s&s=1721594555&e=129600&f=21241526&srv=xhisossxof6ziadr&i=0.4&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/jzzi6i88x2iq"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=kvVx4OjAGrSOMPB&expires=1721664555&ip=FROsD0ESKxSHDN&token=NAFhrg2HEbs8",
                         "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=oW6ALPVVJeuJVA8&expires=1721655123&ip=FROsD0ETKxSHDN&token=HcYPDQwpMI5n"
+                        "videoUrl": "https://streamtape.com/get_video?id=kvVx4OjAGrSOMPB&expires=1721664555&ip=FROsD0ESKxSHDN&token=NAFhrg2HEbs8"
                     }
                 ],
                 "passed": true

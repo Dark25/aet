@@ -406,111 +406,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/2334160/",
-                        "name": "Episodio 7",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/paste/2734036/",
-                        "name": "Episodio 6",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=5&sig=TxNFwer_Hw0&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "quality": "vk.com - 1080p",
-                        "videoUrl": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=5&sig=TxNFwer_Hw0&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=3&sig=Gj3mUyLHmF4&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "quality": "vk.com - 720p",
-                        "videoUrl": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=3&sig=Gj3mUyLHmF4&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m3x3w3m3yy.cdn-jupiter.com/hls2/01/04454/b0ihjwso9f1g_h/index-v1-a1.m3u8?t=qWT4i5a2jqZnK2CXsP45EWmhv4MkzztA8XXOtpC3T-w&s=1721736441&e=129600&f=22270892&srv=9hgr7iplsz&i=0.4&sp=500&p1=9hgr7iplsz&p2=9hgr7iplsz&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://m3x3w3m3yy.cdn-jupiter.com/hls2/01/04454/b0ihjwso9f1g_h/index-v1-a1.m3u8?t=qWT4i5a2jqZnK2CXsP45EWmhv4MkzztA8XXOtpC3T-w&s=1721736441&e=129600&f=22270892&srv=9hgr7iplsz&i=0.4&sp=500&p1=9hgr7iplsz&p2=9hgr7iplsz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://strwish.com",
-                            "Referer": "https://strwish.com/e/b0ihjwso9f1g"
-                        }
-                    },
-                    {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06552/mxyid2rbkvfd_h/index-v1-a1.m3u8?t=TRmjaTfgpCcF38GDU-CGnXN5NYeHNv7sczvy3SqX1vU&s=1721736439&e=10800&f=32760024&srv=41&asn=8075&sp=4000",
-                        "quality": "Filemoon:720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06552/mxyid2rbkvfd_h/index-v1-a1.m3u8?t=TRmjaTfgpCcF38GDU-CGnXN5NYeHNv7sczvy3SqX1vU&s=1721736439&e=10800&f=32760024&srv=41&asn=8075&sp=4000",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=2&sig=OgZaPAl2LCo&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "quality": "vk.com - 480p",
-                        "videoUrl": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=2&sig=OgZaPAl2LCo&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=1&sig=FNET6Ny82Hg&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "quality": "vk.com - 360p",
-                        "videoUrl": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=1&sig=FNET6Ny82Hg&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=0&sig=vLbHhSa_tJc&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "quality": "vk.com - 240p",
-                        "videoUrl": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=0&sig=vLbHhSa_tJc&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=4&sig=YXpJL1zrRGE&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "quality": "vk.com - 144p",
-                        "videoUrl": "https://vkvd124.mycdn.me/?expires=1721995643651&srcIp=20.172.17.142&pr=40&srcAg=GECKO&ms=185.226.53.168&type=4&sig=YXpJL1zrRGE&ct=0&urls=45.136.20.170&clientType=13&appId=512000384397&zs=43&id=6936497031832",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             }
         }
     }

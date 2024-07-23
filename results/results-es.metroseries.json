@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/gatitos-explosivos/",
+                                "title": "Gatitos explosivos",
+                                "description": "Exploding Kittens En la batalla definitiva entre el bien y el mal, Dios y su némesis, la semilla del Diablo, son enviados a la Tierra en el cuerpo de dos gatos que hablan. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg"
+                            },
+                            {
+                                "url": "/duenos-de-manhattan/",
+                                "title": "Dueños de Manhattan",
+                                "description": "Owning Manhattan El magnate inmobiliario Ryan Serhant dirige una de las mayores empresas de Nueva York y empuja a sus agentes para que triunfen mientras gestionan mansiones carísimas. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qz67U5WBMt6LFXEKwxYEZG5pJlN.jpg"
+                            },
+                            {
                                 "url": "/el-senor-de-la-casa/",
                                 "title": "El señor de la casa",
                                 "description": "สืบสันดาน Una familia entabla una lucha por el poder tras la muerte de su patriarca, que deja un imperio en la industria del diamante… y a la empleada con la que se había casado. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/wt3XtZ9CgCf484HWbpm10Adu1te.jpg"
                             },
                             {
-                                "url": "/yo/",
-                                "title": "Yo",
-                                "description": "Me Colegio nuevo. Familia nueva. Superpoder nuevo. Ben Vasani, un chico de 12 años, está en época de cambios, ya que acaba de descubrir que puede transformarse en cualquier persona que conozca. Así que tendrá que descubrir quién es y quién quiere ser. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ArfIbN2lwV7gJZkN9Y3lDDEsq9U.jpg"
-                            },
-                            {
-                                "url": "/jenni-rivera-mariposa-de-barrio/",
-                                "title": "Jenni Rivera: Mariposa de Barrio",
-                                "description": "Este drama sigue la improbable transformación de Jenni Rivera, una adolescente embarazada y mujer maltratada que se convirtió en estrella de la música mexicana. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vIHwoZF3YjLkoFKJGJMIiIO4HsF.jpg"
-                            },
-                            {
-                                "url": "/reaper/",
-                                "title": "Reaper",
+                                "url": "/rap-sht/",
+                                "title": "Rap Sh!t",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/reaper-62419-poster-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9vy8ga6H5pK9U9GBfGL9ao22SCc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/cM00L1INzac7WWnCpokxVLVdkEW.jpg"
                             },
                             {
-                                "url": "/monster-musume-no-oisha-san/",
-                                "title": "Monster Musume no Oisha-san",
+                                "url": "/savior-complex/",
+                                "title": "Savior Complex",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/d2D80008oi4xYYUVSk34WcuosAF.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/q6rel95DKkHXnN6xtuIP6lqydE5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,168 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/el-senor-de-la-casa/",
-                    "title": "El señor de la casa",
-                    "description": "สืบสันดาน Una familia entabla una lucha por el poder tras la muerte de su patriarca, que deja un imperio en la industria del diamante… y a la empleada con la que se había casado.",
-                    "genre": "Drama, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hf3SfWsGnUzEblMXIEk44xP3jHf.jpg",
+                    "url": "/gatitos-explosivos/",
+                    "title": "Gatitos explosivos",
+                    "description": "Exploding Kittens En la batalla definitiva entre el bien y el mal, Dios y su némesis, la semilla del Diablo, son enviados a la Tierra en el cuerpo de dos gatos que hablan.",
+                    "genre": "Animación, Comedia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/el-senor-de-la-casa-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - El señor de la casa",
-                        "date_upload": 1721260800000,
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/episode/el-senor-de-la-casa-temporada-1-capitulo-6/",
-                        "name": "T01 - E06 - Rebelión",
-                        "date_upload": 1721260800000,
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/20/00068/lp1i6ehksap3_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=VbJ8nrhBpxV9a_uxqDSTmfYBwqSQwEDqAlNDm4h_sH8&s=1721736435&e=43200&f=341366&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00068/cdkb95yrcteu_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Kmut5SFBKGUG-pD2AObe05tjeJ_LD8srE2AHpgYBwRs&s=1721736433&e=43200&f=341364&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00068/pta2kuamazpr_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=gia5JK50XKzkwOzJ3gXuodvX_5Th2yhHHJox-rBKHVs&s=1721736431&e=43200&f=341365&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -143,36 +143,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/watch/kamen-rider-gotchard.html",
-                    "title": "Kamen Rider Gotchard",
-                    "author": "Year 2023",
-                    "description": "Kamen Rider Gotchard is an upcoming Japanese Tokusatsu drama, the 34th entry of Toei Company’s Kamen Rider metaseries, and the fifth series to debut during the Reiwa period.",
-                    "genre": "Kamen Rider, Series",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=46#watch",
-                        "name": "Episode 46",
-                        "episode_number": 46.0
-                    },
-                    {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=45#watch",
-                        "name": "Episode 45",
-                        "episode_number": 45.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

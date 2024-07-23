@@ -32,6 +32,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/enemy",
+                                "title": "Enemy (2014)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xfnlKJtM7mztkrRE8dMOOdm1GJh.jpg"
+                            },
+                            {
                                 "url": "/pelicula/bad-boys-ride-or-die",
                                 "title": "Bad Boys: Ride or Die (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg"
@@ -145,11 +150,6 @@
                                 "url": "/pelicula/pasion-por-el-triunfo",
                                 "title": "Pasión por el triunfo (1992)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/zs9F90g0Sh9o7KabExnzzI3QTjU.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-cielo-proximamente",
-                                "title": "El cielo... próximamente (1991)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1d2cXTn5SetC7nn8NELn9BUNzKz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -408,53 +408,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/bad-boys-ride-or-die",
-                    "title": "Bad Boys: Ride or Die (2024)",
-                    "description": "Tras escuchar falsas acusaciones sobre su excapitán y mentor Mike y Marcus deciden investigar el asunto incluso volverse los más buscados de ser necesarios",
-                    "genre": "Acción, Crimen, Suspense, Comedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/bad-boys-ride-or-die",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04451/iiaipayxp6lb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=VZlYoOvzCbe0xouBrxMNJi-4-SYrGrEA93IWfss53XY&s=1721671601&e=129600&f=22255948&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04451/iiaipayxp6lb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=VZlYoOvzCbe0xouBrxMNJi-4-SYrGrEA93IWfss53XY&s=1721671601&e=129600&f=22255948&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/iiaipayxp6lb"
-                        }
-                    },
-                    {
-                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04451/iiaipayxp6lb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=VZlYoOvzCbe0xouBrxMNJi-4-SYrGrEA93IWfss53XY&s=1721671601&e=129600&f=22255948&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04451/iiaipayxp6lb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=VZlYoOvzCbe0xouBrxMNJi-4-SYrGrEA93IWfss53XY&s=1721671601&e=129600&f=22255948&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/iiaipayxp6lb"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -737,7 +700,7 @@
                     "title": "Eureka",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Western, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true

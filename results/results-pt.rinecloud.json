@@ -263,8 +263,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/-wcjzZmDVFWk/ZjU003Ag9XI/AAAAAAAAAMk/WhhNVVCPPTAv3wSVLs6W4W-obpD5yTisACNcBGAsYHQ/m18/erro.mp4",
+                        "quality": "Rinecloud - Video",
+                        "videoUrl": "https://lh3.googleusercontent.com/-wcjzZmDVFWk/ZjU003Ag9XI/AAAAAAAAAMk/WhhNVVCPPTAv3wSVLs6W4W-obpD5yTisACNcBGAsYHQ/m18/erro.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

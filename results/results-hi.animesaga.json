@@ -3,15 +3,15 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "details": {

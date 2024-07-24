@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9241-twisters",
+                                "title": "Twisters",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/438d2596-9706-47c6-8dda-99e5735924e4.webp"
+                            },
+                            {
                                 "url": "9267-nato-con-la-camicia",
                                 "title": "Nato con la camicia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c1454def-a51a-4bf5-912e-c326a254022e.webp"
@@ -300,11 +305,6 @@
                                 "url": "8725-hierarchy",
                                 "title": "Hierarchy",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/df073e84-9827-471b-9396-7b85a9b9fe4b.webp"
-                            },
-                            {
-                                "url": "8805-the-watchers-loro-ti-guardano",
-                                "title": "The Watchers - Loro ti guardano",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/67817fa2-afbc-46aa-aa53-ffc632f909f7.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9267-nato-con-la-camicia",
-                    "description": "“Nato con la Camicia” racconta la storia di un Don Giovanni: un uomo dal look stravagante, balbuziente ma con la battuta pronta e circondato da tante belle donne. Un unico punto fermo nella sua vita: la zia materna, Rosetta, che alla sua morte gli lascerà tutto in eredità",
-                    "genre": "Commedia",
+                    "url": "9241-twisters",
+                    "description": "Kate Cooper (Daisy Edgar-Jones) è un'ex cacciatrice di uragani segnata dall’incontro devastante con un tornado durante i suoi anni al college. Kate, che ora studia i percorsi degli uragani al riparo nel suo ufficio di New York City, viene spinta a tornare in campo dal suo amico Javi per testare un innovativo sistema di tracciamento. Il suo percorso incrocia quello di Tyler Owens (Glen Powell), un'affascinante e spericolata superstar dei social media che si diverte a postare le sue avventure a caccia di tempeste con il suo gruppo: più sono pericolose, meglio è! Con l'intensificarsi della stagione delle tempeste, si scatenano fenomeni terrificanti mai visti prima e Kate, Tyler e le loro rispettive squadre si ritrovano sulla traiettoria di molteplici sistemi temporaleschi che convergono sull'Oklahoma centrale e che metteranno a dura prova la loro sopravvivenza.",
+                    "genre": "Azione, Thriller, Avventura",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9267",
+                        "url": "9241",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

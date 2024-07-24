@@ -137,6 +137,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20219/skywalkers-una-historia-de-amor.html",
+                                "title": "Skywalkers: Una histo",
+                                "description": "Una atrevida pareja viaja por todo el mundo para escalar el último superrascacielos, realizando una audaz acrobacia en la cumbre para salvar tanto su carrera como su relación....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20219.webp"
+                            },
+                            {
                                 "url": "/pelicula/20218/las-cosas-sencillas.html",
                                 "title": "Las cosas sencillas",
                                 "description": "Vincent es un famoso empresario de éxito. Un día, la avería de su coche en una carretera de montaña interrumpe temporalmente su frenético ritmo de vida. Pierre, que vive apartado del mundo moderno en medio de una naturaleza sublime, acude en su ayuda y le ofrece su hospitalidad. El encuentro en...",
@@ -249,12 +255,6 @@
                                 "title": "Liga de la Justicia:",
                                 "description": "Universos paralelos se desmoronan cuando el Antimonitor ataca. La Liga de la Justicia y héroes de otras épocas unen fuerzas para detener la destrucción inminente, dispuestos a sacrificarse por el triunfo. Tercera .y última- entrega de la trilogía animada de 2024 Justice League: Crisis on Infini...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20200.webp"
-                            },
-                            {
-                                "url": "/pelicula/20199/los-extranos-capitulo-1.html",
-                                "title": "Los extraños: Capít",
-                                "description": "Tras sufrir una avería en su coche en un pequeño e inquietante pueblecito de Oregón, una joven pareja (Madelaine Petsch y Froy Gutiérrez) se ve obligada a pasar la noche en una aislada cabaña en medio del bosque. El pánico se apodera de ellos cuando son aterrorizados por tres extraños enmasca...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20199.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dood.ws/e/aq6kuo21b1bo",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgilkh6zfdut7a/082p2fk4s2~olw4y1xV7o?token=faa3a98f24ktc5woxwz3px7v&expiry=1721780144062",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

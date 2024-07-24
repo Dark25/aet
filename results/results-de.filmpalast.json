@@ -177,6 +177,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/naughty-entfesselte-lust",
+                                "title": "Naughty - Entfesselte Lust",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/naughty-entfesselte-lust.jpg"
+                            },
+                            {
                                 "url": "/stream/shadow-of-violence",
                                 "title": "Shadow of Violence",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/shadow-of-violence.jpg"
@@ -330,11 +335,6 @@
                                 "url": "/stream/week-end",
                                 "title": "Week End",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/week-end.jpg"
-                            },
-                            {
-                                "url": "/stream/das-madchen-das-durch-die-zeit-sprang",
-                                "title": "Das Mädchen, das durch die Zeit sprang",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/das-madchen-das-durch-die-zeit-sprang.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,31 +347,15 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/stream/john-wick",
-                    "title": "John Wick",
-                    "author": "Chad Stahelski David Leitch",
-                    "description": "John Wick (Keanu Reeves) genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau (Bridget Moynahan) einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov (Alfie Allen), der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov (Michael Nyqvist), für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus (Willem Dafoe) an seinen Fersen hängen...",
-                    "genre": "Thriller Action",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://filmpalast.to/files/movies/450/john-wick.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/stream/john-wick",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

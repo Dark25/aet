@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "9295-house-of-ho",
+                                "title": "House of Ho",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/2555823e-3ac1-4343-bb08-c6211df391f8.webp"
+                            },
+                            {
+                                "url": "9294-il-mio-grosso-grasso-matrimonio-greco-2",
+                                "title": "Il mio grosso grasso matrimonio greco 2",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/39e1c73d-142b-4eac-81e3-55bc2a28c08a.webp"
+                            },
+                            {
+                                "url": "9293-hercai-amore-e-vendetta",
+                                "title": "Hercai - Amore e vendetta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/371925c8-3a8b-4a40-a7c5-ed68e87b12f4.webp"
+                            },
+                            {
+                                "url": "9292-il-mio-grosso-grasso-matrimonio-greco",
+                                "title": "Il mio grosso grasso matrimonio greco",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/92c58761-4098-4b00-bab8-5e4ed927e591.webp"
+                            },
+                            {
                                 "url": "9290-i-flintstone",
                                 "title": "I Flintstone",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c0a80f08-6c8f-42c3-b8f7-2dcc49e5d808.webp"
@@ -595,26 +615,6 @@
                                 "url": "9225-milk",
                                 "title": "Milk",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/b3aa8cee-064c-4b61-ac53-6759711e0dde.webp"
-                            },
-                            {
-                                "url": "9224-helgoland-513",
-                                "title": "Helgoland 513",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/0a91c6c9-b08b-4a45-91d6-e655a6e39cc3.webp"
-                            },
-                            {
-                                "url": "9223-vita-da-gatto",
-                                "title": "Vita da gatto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/706ea789-f1b2-4e79-a682-803ad9610e9b.webp"
-                            },
-                            {
-                                "url": "9222-la-ragazza-del-mare",
-                                "title": "La ragazza del mare",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/561ea570-ecd4-4838-828e-5a8a0c568595.webp"
-                            },
-                            {
-                                "url": "9221-prey-la-grande-caccia",
-                                "title": "Prey - La grande caccia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/7b88babf-18a9-483e-aba4-bf29748e0377.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -727,14 +727,14 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c1cffc50-7fb4-4231-9aa3-d5b9be1ff993.webp"
                             },
                             {
-                                "url": "3334-run-the-world",
-                                "title": "Run the World",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/face4c2a-22ac-45ce-a623-e636f657e708.webp"
-                            },
-                            {
                                 "url": "9231-the-new-world-il-nuovo-mondo",
                                 "title": "The New World - Il nuovo mondo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/3325d5d4-1af2-4b15-8876-025cf60fd60f.webp"
+                            },
+                            {
+                                "url": "3334-run-the-world",
+                                "title": "Run the World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/face4c2a-22ac-45ce-a623-e636f657e708.webp"
                             },
                             {
                                 "url": "8830-inside-the-worlds-toughest-prisons",
@@ -959,8 +959,114 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/248413?type=video&rendition=1080p&token=9xyMdi8zJmCSbZfBEy_QVw&expires=1727028458&edge=sc-u1-01",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/248413?type=video&rendition=1080p&token=9xyMdi8zJmCSbZfBEy_QVw&expires=1727028458&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=3-eng&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=4-ger&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=5-gre&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=6-fre&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=7-forced-ita&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=8-ita&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=9-ukr&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/248413?type=video&rendition=720p&token=pvOTrgr5hKFFMPhcJVWWww&expires=1727028458&edge=sc-u1-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/248413?type=video&rendition=720p&token=pvOTrgr5hKFFMPhcJVWWww&expires=1727028458&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=3-eng&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=4-ger&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=5-gre&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=6-fre&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=7-forced-ita&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=8-ita&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=9-ukr&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/248413?type=video&rendition=480p&token=sfosiIl0zoDbXp82N7a1Xg&expires=1727028458&edge=sc-u1-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/248413?type=video&rendition=480p&token=sfosiIl0zoDbXp82N7a1Xg&expires=1727028458&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=3-eng&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=4-ger&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=5-gre&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=6-fre&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=7-forced-ita&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=8-ita&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/248413?type=subtitle&rendition=9-ukr&token=dW3kpstgSIzoRF39dgaoMg&expires=1727028458&edge=sc-u1-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

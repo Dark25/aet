@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9287-dirty-pop-la-truffa-delle-boy-band",
+                                "title": "Dirty Pop: la truffa delle boy band",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/8e3e8cf8-f9ec-41b4-ad2e-67467969efaf.webp"
+                            },
+                            {
                                 "url": "9241-twisters",
                                 "title": "Twisters",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/438d2596-9706-47c6-8dda-99e5735924e4.webp"
@@ -300,11 +305,6 @@
                                 "url": "8806-presunto-innocente",
                                 "title": "Presunto innocente",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/85d8c711-fee6-42fc-a9cb-55c198d61d96.webp"
-                            },
-                            {
-                                "url": "8726-becoming-karl-lagerfeld",
-                                "title": "Becoming Karl Lagerfeld",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/e18c24ad-fd8d-4306-ab90-46ccf2287f44.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9290-i-flintstone",
+                                "title": "I Flintstone",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c0a80f08-6c8f-42c3-b8f7-2dcc49e5d808.webp"
+                            },
+                            {
+                                "url": "9289-ce-sempre-il-sole-a-philadelphia",
+                                "title": "C'è sempre il sole a Philadelphia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/b570b76d-5520-4479-aee7-fb5f033366b2.webp"
+                            },
+                            {
+                                "url": "9288-nashville",
+                                "title": "Nashville",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/34ae52c1-178e-4894-b2c6-8f4c5adc3826.webp"
+                            },
                             {
                                 "url": "9286-sognando-lafrica",
                                 "title": "Sognando l'Africa",
@@ -600,21 +615,6 @@
                                 "url": "9221-prey-la-grande-caccia",
                                 "title": "Prey - La grande caccia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/7b88babf-18a9-483e-aba4-bf29748e0377.webp"
-                            },
-                            {
-                                "url": "9220-cattiverie-a-domicilio",
-                                "title": "Cattiverie a domicilio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/5c034672-f098-4cdd-a1b1-86156ad4293f.webp"
-                            },
-                            {
-                                "url": "9217-manhattan",
-                                "title": "Manhattan",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/96a14318-2602-423b-a23a-3ed8a1ec53e1.webp"
-                            },
-                            {
-                                "url": "9216-una-moglie-bellissima",
-                                "title": "Una moglie bellissima",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/b8490cc2-0c09-4e93-9f52-82512517d122.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9241-twisters",
-                    "description": "Kate Cooper (Daisy Edgar-Jones) è un'ex cacciatrice di uragani segnata dall’incontro devastante con un tornado durante i suoi anni al college. Kate, che ora studia i percorsi degli uragani al riparo nel suo ufficio di New York City, viene spinta a tornare in campo dal suo amico Javi per testare un innovativo sistema di tracciamento. Il suo percorso incrocia quello di Tyler Owens (Glen Powell), un'affascinante e spericolata superstar dei social media che si diverte a postare le sue avventure a caccia di tempeste con il suo gruppo: più sono pericolose, meglio è! Con l'intensificarsi della stagione delle tempeste, si scatenano fenomeni terrificanti mai visti prima e Kate, Tyler e le loro rispettive squadre si ritrovano sulla traiettoria di molteplici sistemi temporaleschi che convergono sull'Oklahoma centrale e che metteranno a dura prova la loro sopravvivenza.",
-                    "genre": "Azione, Thriller, Avventura",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9287-dirty-pop-la-truffa-delle-boy-band",
+                    "description": "Backstreet Boys e NSYNC: Lou Pearlman ha creato le più grandi boy band degli anni '90 e dato vita a una delle più grosse truffe della storia.",
+                    "genre": "Crime, Documentario",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9241",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9287?episode_id=71402&next_episode=1",
+                        "name": "Stagione 1 episodio 3 - Denaro sporco di sangue",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "9287?episode_id=71401&next_episode=1",
+                        "name": "Stagione 1 episodio 2 - Gli affari sono affari",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

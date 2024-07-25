@@ -3,23 +3,23 @@
         "name": "FMovies (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: fmovies24.to: No address associated with hostname",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: fmovies24.to",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: fmovies24.to",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: fmovies24.to",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: fmovies24.to",
                 "passed": false
             },
             "videos": {

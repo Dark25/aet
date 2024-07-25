@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/deadpool-and-wolverine",
+                                "title": "Deadpool & Wolverine",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4263.webp"
+                            },
+                            {
                                 "url": "/grendizer-u",
                                 "title": "Grendizer U",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Fairy Tail: 100-nen Quest",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4244.webp"
-                            },
-                            {
-                                "url": "/shoushimin-series",
-                                "title": "Shoushimin Series",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4243.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,58 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/grendizer-u",
-                    "title": "Grendizer U",
-                    "description": "Anime que se desarrolla en el universo de Mazinger Z. Tras un devastador ataque de las fuerzas de Vega en el planeta Fleed, Duke Fleed y Grendizer escaparon a la Tierra. Cuando llegó allí, el Dr. Amon, director del Centro de Investigación Espacial, lo adoptó y le puso el nombre de Daisuke. ¡Mientras trabajaban lado a lado en el centro en una búsqueda para descubrir qué objetos extraños aparecieron en el cielo de la ciudad! Fueron sorprendidos por un ataque que sacudió la memoria de Daisuke (Esto es un Reboot del anime de 1975 UFO Robot Grendizer).",
-                    "genre": "Ciencia Ficción, Mecha",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4262.webp",
+                    "url": "/deadpool-and-wolverine",
+                    "title": "Deadpool & Wolverine",
+                    "description": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
+                    "genre": "Acción, Comedia, Superpoderes, Ciencia Ficción, Aventuras",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4263.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/grendizer-u-3",
-                        "name": "Episodio 3",
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/ver/grendizer-u-2",
-                        "name": "Episodio 2",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a1.mp4upload.com:183/d/x2x7oy4cz3b4quuog6ragkcjislz66vxugnnjz5s72p5fumffixct4evxovpxbgbruwct5a5/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7oy4cz3b4quuog6ragkcjislz66vxugnnjz5s72p5fumffixct4evxovpxbgbruwct5a5/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m140.uqload.ws/3rfkujintzw2q4drdlfpvivcbjvtm4o5mket57pnanzatlp2ynv37uxiyvza/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m140.uqload.ws/3rfkujintzw2q4drdlfpvivcbjvtm4o5mket57pnanzatlp2ynv37uxiyvza/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7brzLBA1R6TJZg&expires=1721979208&ip=G0WsDROZKxSHDN&token=GExIo6EKAqmH",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7brzLBA1R6TJZg&expires=1721979208&ip=G0WsDROZKxSHDN&token=GExIo6EKAqmH"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

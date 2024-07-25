@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/guerra-sem-regras/",
+                                "title": "Guerra Sem Regras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/m3291Tju4htO3p6P2TG5G8nrAx9.jpg"
+                            },
+                            {
                                 "url": "/filmes/deadpool-wolverine/",
                                 "title": "Deadpool & Wolverine",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/la-brea/",
                                 "title": "La Brea",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg"
-                            },
-                            {
-                                "url": "/filmes/divertida-mente-2/",
-                                "title": "Divertida Mente 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/deadpool-wolverine/",
-                    "title": "Deadpool & Wolverine",
-                    "description": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficou para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante… relutante? Mais relutante? Ele deve convencer um Wolverine relutante em… Porra. As sinopses são tão estúpidas.\n\nTítulo Original: Deadpool & Wolverine",
-                    "genre": "Ação, Comédia, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg",
+                    "url": "/filmes/guerra-sem-regras/",
+                    "title": "Guerra Sem Regras",
+                    "description": "Militares britânicos recrutam um pequeno grupo de soldados altamente qualificados para atacar as forças nazistas atrás das linhas inimigas durante a Segunda Guerra Mundial.\n\nTítulo Original: The Ministry of Ungentlemanly Warfare",
+                    "genre": "Ação, Comédia, Drama, Guerra",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/m3291Tju4htO3p6P2TG5G8nrAx9.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/deadpool-wolverine/",
+                        "url": "/filmes/guerra-sem-regras/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

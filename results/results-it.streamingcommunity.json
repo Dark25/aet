@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "9302-jimenshi-i-maghi-della-truffa",
+                                "title": "Jimenshi - I maghi della truffa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/ba5f91b7-5227-41c9-94cd-41b32739d982.webp"
+                            },
+                            {
+                                "url": "9301-the-decameron",
+                                "title": "The Decameron",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/754f2a17-3a28-41bc-8a0d-68a7e15eb787.webp"
+                            },
+                            {
                                 "url": "5384-deadpool-and-wolverine",
                                 "title": "Deadpool & Wolverine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/867e271b-d4d5-4b20-a10a-e17570147e08.webp"
@@ -30,11 +40,6 @@
                                 "url": "9267-nato-con-la-camicia",
                                 "title": "Nato con la camicia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c1454def-a51a-4bf5-912e-c326a254022e.webp"
-                            },
-                            {
-                                "url": "9051-matrimonio-con-sorpresa",
-                                "title": "Matrimonio con sorpresa",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/6a056cda-b92e-44e6-9d65-1fcef4b707d1.webp"
                             },
                             {
                                 "url": "9050-fly-me-to-the-moon-le-due-facce-della-luna",
@@ -300,11 +305,6 @@
                                 "url": "8865-essere-umani-le-cicatrici-di-cape-town",
                                 "title": "Essere Umani - Le Cicatrici Di Cape Town",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/dae5e224-70c2-45b8-a53f-bcf7ee5c153b.webp"
-                            },
-                            {
-                                "url": "8587-bad-boys-ride-or-die",
-                                "title": "Bad Boys: Ride or Die",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/1b5e27fe-9b6a-4952-88fd-ce476ebb8357.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9304-per-elisa-il-caso-claps",
+                                "title": "Per Elisa - Il caso Claps",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/5eae616d-1a50-4413-b8ec-c44d477258a5.webp"
+                            },
+                            {
+                                "url": "9303-il-ministero-della-guerra-sporca",
+                                "title": "Il ministero della guerra sporca",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/1ebb927d-fc66-4a4a-b613-7d16cbec8b68.webp"
+                            },
                             {
                                 "url": "9300-leoni-per-agnelli",
                                 "title": "Leoni per agnelli",
@@ -605,16 +615,6 @@
                                 "url": "9232-ultraviolet",
                                 "title": "Ultraviolet",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/7a63c940-8d74-46eb-aa16-b99b73d9d7ed.webp"
-                            },
-                            {
-                                "url": "9231-the-new-world-il-nuovo-mondo",
-                                "title": "The New World - Il nuovo mondo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/3325d5d4-1af2-4b15-8876-025cf60fd60f.webp"
-                            },
-                            {
-                                "url": "9230-arma-letale-4",
-                                "title": "Arma letale 4",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/8ee477bc-d309-4cf9-b49f-5c1a89d4a5ad.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "5384-deadpool-and-wolverine",
-                    "description": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
-                    "genre": "Fantascienza, Avventura, Commedia",
+                    "url": "9302-jimenshi-i-maghi-della-truffa",
+                    "description": "Una squadra di truffatori scopre l'esistenza di proprietà del valore di dieci miliardi di yen e non si ferma davanti a nulla per mettere in atto la sua truffa più ambiziosa.",
+                    "genre": "Dramma, Crime",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -944,16 +946,151 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "5384",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9302?episode_id=71910&next_episode=1",
+                        "name": "Stagione 1 episodio 7 - Episodio#7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "9302?episode_id=71908&next_episode=1",
+                        "name": "Stagione 1 episodio 6 - Episodio#6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/249257?type=video&rendition=1080p&token=gAzf4xCeqtVQHBZEwTAEpA&expires=1727093257&edge=sc-u4-01",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/249257?type=video&rendition=1080p&token=gAzf4xCeqtVQHBZEwTAEpA&expires=1727093257&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=3-jpn&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Japanese [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=4-jpn&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Japanese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=5-ger&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=6-eng&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=7-eng&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=8-fre&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=9-forced-ita&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=10-ita&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=11-ukr&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/249257?type=video&rendition=720p&token=ecdzuzqHJnyR746oHKGFKA&expires=1727093257&edge=sc-u4-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/249257?type=video&rendition=720p&token=ecdzuzqHJnyR746oHKGFKA&expires=1727093257&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=3-jpn&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Japanese [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=4-jpn&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Japanese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=5-ger&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=6-eng&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=7-eng&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=8-fre&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=9-forced-ita&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=10-ita&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=11-ukr&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/249257?type=video&rendition=480p&token=knfcBS_up8KUInOCnu5TBg&expires=1727093257&edge=sc-u4-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/249257?type=video&rendition=480p&token=knfcBS_up8KUInOCnu5TBg&expires=1727093257&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=3-jpn&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Japanese [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=4-jpn&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Japanese"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=5-ger&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=6-eng&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=7-eng&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=8-fre&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=9-forced-ita&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=10-ita&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/249257?type=subtitle&rendition=11-ukr&token=7fl3AjyEK8-j6eFws1tT9A&expires=1727093257&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/world-of-winx/",
+                                "title": "World of Winx",
+                                "description": "Las chicas del Club Winx regresan a Gardenia, la ciudad natal de Bloom en la Tierra, donde trabajan como un grupo de cazatalentos en un programa de reality show llamado WOW, para encontrar niños y adolescentes con diversos talentos. El objetivo de las Winx es evitar que la Reina de los Sueños se quede con […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9jqoIjnHs5l1NdMZJQiaTcZQPr9.jpg"
+                            },
+                            {
                                 "url": "/gatitos-explosivos/",
                                 "title": "Gatitos explosivos",
                                 "description": "Exploding Kittens En la batalla definitiva entre el bien y el mal, Dios y su némesis, la semilla del Diablo, son enviados a la Tierra en el cuerpo de dos gatos que hablan. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/HpUL0vlKDbiHpfzKXZIEjUktDh.jpg"
                             },
                             {
-                                "url": "/el-caso-cenicienta/",
-                                "title": "El caso Cenicienta",
-                                "description": "Miniserie de TV. 8 Episodios. Segunda parte de la miniserie 'El jurado' (2019) y sigue la historia de un jurado popular que tiene que dictar el veredicto en un caso complejo. Anton Bergman y su hija Julie son acusados de asesinar a Marianne Coens, la pareja de Anton y madrastra de Julie. Sin embargo, nada […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wt3XtZ9CgCf484HWbpm10Adu1te.jpg"
-                            },
-                            {
-                                "url": "/la-ruta/",
-                                "title": "La Ruta",
+                                "url": "/encadenada/",
+                                "title": "Encadenada",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lGmIg0kKpptUpTOCsxhxbTfcR4m.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jzeRhsGQQjw5KCYibU6c3GDe5X0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -82,6 +82,12 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/world-of-winx/",
+                                "title": "World of Winx",
+                                "description": "Las chicas del Club Winx regresan a Gardenia, la ciudad natal de Bloom en la Tierra, donde trabajan como un grupo de cazatalentos en un programa de reality show llamado WOW, para encontrar niños y adolescentes con diversos talentos. El objetivo de las Winx es evitar que la Reina de los Sueños se quede con […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9jqoIjnHs5l1NdMZJQiaTcZQPr9.jpg"
+                            },
                             {
                                 "url": "/little-people-big-world/",
                                 "title": "Little People, Big World",
@@ -137,16 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/hetalia-world★stars/",
-                                "title": "Hetalia World★Stars",
-                                "description": "Hay gente extraña en este mundo. Si es corto, desaparecerá durante varios días, y si es largo, desaparecerá durante cientos de años. El nombre y la personalidad cambiaron, y de repente apareció la inesperada idea de alguien. A pesar de que es el más extraño, su jefe lo acepta y lo usa libremente. Esta es […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cM00L1INzac7WWnCpokxVLVdkEW.jpg"
-                            },
-                            {
-                                "url": "/deutschland-83/",
-                                "title": "Deutschland 83",
+                                "url": "/kate-koji/",
+                                "title": "Kate & Koji",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rUNxzIHnQJqn36zCVOE1lnTIUYY.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/aB0dhE7UMSE56YcTtcMMCQgi9FV.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,18 +156,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/gatitos-explosivos/",
-                    "title": "Gatitos explosivos",
-                    "description": "Exploding Kittens En la batalla definitiva entre el bien y el mal, Dios y su némesis, la semilla del Diablo, son enviados a la Tierra en el cuerpo de dos gatos que hablan.",
-                    "genre": "Animación, Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg",
+                    "url": "/world-of-winx/",
+                    "title": "World of Winx",
+                    "description": "Las chicas del Club Winx regresan a Gardenia, la ciudad natal de Bloom en la Tierra, donde trabajan como un grupo de cazatalentos en un programa de reality show llamado WOW, para encontrar niños y adolescentes con diversos talentos. El objetivo de las Winx es evitar que la Reina de los Sueños se quede con los niños y sus habilidades.",
+                    "genre": "Action & Adventure, Animación",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9jqoIjnHs5l1NdMZJQiaTcZQPr9.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/world-of-winx-temporada-2-capitulo-13/",
+                        "name": "T02 - E13 - Episodio 13",
+                        "date_upload": 1497571200000,
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/episode/world-of-winx-temporada-2-capitulo-12/",
+                        "name": "T02 - E12 - Episodio 12",
+                        "date_upload": 1497571200000,
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

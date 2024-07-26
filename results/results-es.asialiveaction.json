@@ -393,53 +393,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/tokyo-friends-sub-espanol/",
-                    "title": "Tokyo Friends (1/5)",
-                    "description": "Rei es una chica de un pequeño pueblo, ella viaja a Tokio persiguiendo su sueño, allí encuentra un trabajo a tiempo parcial como camarera en un pequeño restaurante donde hace nuevos amigos. La historia se centra en Rei y sus amigos, su amistad y sus problemas.",
-                    "genre": "Comedia, Drama, Música, Romance",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/Aahf6LWWU85k4FtGelyqQE3O2qi.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/1734228/",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vkvd46.mycdn.me/?expires=1722233176411&srcIp=20.98.6.142&pr=40&srcAg=GECKO&ms=45.136.22.136&type=3&sig=cVIEODfKzFQ&ct=0&urls=185.226.52.148&clientType=13&appId=512000384397&zs=43&id=7026717690485",
-                        "quality": "vk.com - 720p",
-                        "videoUrl": "https://vkvd46.mycdn.me/?expires=1722233176411&srcIp=20.98.6.142&pr=40&srcAg=GECKO&ms=45.136.22.136&type=3&sig=cVIEODfKzFQ&ct=0&urls=185.226.52.148&clientType=13&appId=512000384397&zs=43&id=7026717690485",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06570/p38xdrul5bt6_h/index-v1-a1.m3u8?t=Xtdtk7CRZHtS-DPC-q9LKSLwsquuZ2t31lXWuvkcG_I&s=1721973974&e=10800&f=32850364&srv=33&asn=8075&sp=4000",
-                        "quality": "Filemoon:720p",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06570/p38xdrul5bt6_h/index-v1-a1.m3u8?t=Xtdtk7CRZHtS-DPC-q9LKSLwsquuZ2t31lXWuvkcG_I&s=1721973974&e=10800&f=32850364&srv=33&asn=8075&sp=4000",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             }
         }
     }

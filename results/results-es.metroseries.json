@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-dama-del-lago/",
+                                "title": "La dama del lago",
+                                "description": "Lady in the Lake En un momento de 1966 en el que la desaparición de una niña tiene afligida a la ciudad de Baltimore, la vida de dos mujeres emprende un rumbo que las conduce hacia un choque mortal. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ttF7W6N1ixRZUChRamjBaEqBUyU.jpg"
+                            },
+                            {
                                 "url": "/mafia-spies/",
                                 "title": "Mafia Spies",
                                 "description": "Basándose en material recientemente desclasificado y en recreaciones cinematográficas de primera calidad, esta serie traza un juego del gato y el ratón durante la Guerra Fría, desde Las Vegas a Miami y La Habana, que enfrentó a los jugadores más fuertes de Washington con los gángsters más notorios del siglo XX, y explora las conexiones […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/WE35ee67i9pzb0yqVIGxz0nSrp.jpg"
                             },
                             {
-                                "url": "/lab-rats-equipo-de-elite/",
-                                "title": "Lab Rats: Equipo de Élite",
-                                "description": "Lab Rats: Fuerza Elite | Lab Rats: Elite Force Los Labs Rats, Chase y Bree tendrán que unir fuerzas con los Mighty Med Kaz, Oliver y Skylar para formar un nuevo \"Equipo de Élite\" que combine lo mejor de la biónica y los superpoderes. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/drw2vULR7AmpgZQWEL68MYJszTc.jpg"
-                            },
-                            {
-                                "url": "/isla-brava/",
-                                "title": "Isla Brava",
+                                "url": "/scavengers-reign/",
+                                "title": "Scavengers Reign",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5j1NL8512boOikoOUxG90A12HUv.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iMGhp7CG8pwt3o5VdeVjUEvhzfT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/el-mundo-de-karma/",
-                                "title": "El mundo de Karma",
+                                "url": "/notorious/",
+                                "title": "Notorious",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xWoTBTcWicfHnB7hRq1EDKdV1Mw.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tj1PiPPCp01NhBdYVAnoOQAv2U4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,80 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/mafia-spies/",
-                    "title": "Mafia Spies",
-                    "description": "Basándose en material recientemente desclasificado y en recreaciones cinematográficas de primera calidad, esta serie traza un juego del gato y el ratón durante la Guerra Fría, desde Las Vegas a Miami y La Habana, que enfrentó a los jugadores más fuertes de Washington con los gángsters más notorios del siglo XX, y explora las conexiones secretas entre la CIA, la mafia y el Rat Pack de Sinatra que aún resuenan hoy en día.",
-                    "genre": "Documental, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg",
+                    "url": "/la-dama-del-lago/",
+                    "title": "La dama del lago",
+                    "description": "Lady in the Lake En un momento de 1966 en el que la desaparición de una niña tiene afligida a la ciudad de Baltimore, la vida de dos mujeres emprende un rumbo que las conduce hacia un choque mortal.",
+                    "genre": "Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ttF7W6N1ixRZUChRamjBaEqBUyU.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/mafia-spies-temporada-1-capitulo-6/",
-                        "name": "T01 - E06 - Episodio 6",
-                        "date_upload": 1721088000000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episode/mafia-spies-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Episodio 5",
-                        "date_upload": 1721088000000,
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00068/43zupvp7kmxa_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=nRt0H2N6gqzlFmntfRcPRzgMByt5DVtMdSJ5aeumAuM&s=1721973984&e=43200&f=341392&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/WE35ee67i9pzb0yqVIGxz0nSrp.jpg"
                             },
                             {
-                                "url": "/scavengers-reign/",
-                                "title": "Scavengers Reign",
+                                "url": "/las-aventuras-de-jimmy-neutron-el-nino-genio/",
+                                "title": "Las aventuras de Jimmy Neutrón: El Niño Genio",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iMGhp7CG8pwt3o5VdeVjUEvhzfT.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/673w55EH1a5RGB1cJt5u0TYolJt.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/notorious/",
-                                "title": "Notorious",
+                                "url": "/reality-z/",
+                                "title": "Reality Z",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tj1PiPPCp01NhBdYVAnoOQAv2U4.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hpqLI8lq8u1biqZgdQomERkIsSC.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,125 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/la-dama-del-lago-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Tiene que ver con la búsqueda de lo maravilloso.",
+                        "date_upload": 1721260800000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/la-dama-del-lago-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - ¿Sabías que los caballitos son peces?",
+                        "date_upload": 1721260800000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/21/00068/s91z6f3ct713_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IxO8_hXXOvmXYUMMEyYZ-Awxoj_dt-iQtJdH7vmT7xk&s=1722017162&e=43200&f=342444&i=0.3&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/21/00068/s91z6f3ct713_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IxO8_hXXOvmXYUMMEyYZ-Awxoj_dt-iQtJdH7vmT7xk&s=1722017162&e=43200&f=342444&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/03/00068/k2cjzkbdapn4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JJPuNLRh9hqI7UdvJE0kEQrxxgqWdmxKVIz5PBzXyQs&s=1722017160&e=43200&f=341383&i=0.3&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/03/00068/k2cjzkbdapn4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JJPuNLRh9hqI7UdvJE0kEQrxxgqWdmxKVIz5PBzXyQs&s=1722017160&e=43200&f=341383&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00068/d2z56gz1lsux_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XVM1iRlhpcTD41joV7U88lnBNKgQ74wPTpA9Ji8T404&s=1722017157&e=43200&f=341384&i=0.3&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00068/d2z56gz1lsux_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XVM1iRlhpcTD41joV7U88lnBNKgQ74wPTpA9Ji8T404&s=1722017157&e=43200&f=341384&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/21/00068/s91z6f3ct713_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=IxO8_hXXOvmXYUMMEyYZ-Awxoj_dt-iQtJdH7vmT7xk&s=1722017162&e=43200&f=342444&i=0.3&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/21/00068/s91z6f3ct713_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=IxO8_hXXOvmXYUMMEyYZ-Awxoj_dt-iQtJdH7vmT7xk&s=1722017162&e=43200&f=342444&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/03/00068/k2cjzkbdapn4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=JJPuNLRh9hqI7UdvJE0kEQrxxgqWdmxKVIz5PBzXyQs&s=1722017160&e=43200&f=341383&i=0.3&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/03/00068/k2cjzkbdapn4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=JJPuNLRh9hqI7UdvJE0kEQrxxgqWdmxKVIz5PBzXyQs&s=1722017160&e=43200&f=341383&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00068/d2z56gz1lsux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XVM1iRlhpcTD41joV7U88lnBNKgQ74wPTpA9Ji8T404&s=1722017157&e=43200&f=341384&i=0.3&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00068/d2z56gz1lsux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XVM1iRlhpcTD41joV7U88lnBNKgQ74wPTpA9Ji8T404&s=1722017157&e=43200&f=341384&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/21/00068/s91z6f3ct713_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IxO8_hXXOvmXYUMMEyYZ-Awxoj_dt-iQtJdH7vmT7xk&s=1722017162&e=43200&f=342444&i=0.3&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/21/00068/s91z6f3ct713_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IxO8_hXXOvmXYUMMEyYZ-Awxoj_dt-iQtJdH7vmT7xk&s=1722017162&e=43200&f=342444&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/03/00068/k2cjzkbdapn4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JJPuNLRh9hqI7UdvJE0kEQrxxgqWdmxKVIz5PBzXyQs&s=1722017160&e=43200&f=341383&i=0.3&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/03/00068/k2cjzkbdapn4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JJPuNLRh9hqI7UdvJE0kEQrxxgqWdmxKVIz5PBzXyQs&s=1722017160&e=43200&f=341383&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/13/00068/d2z56gz1lsux_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XVM1iRlhpcTD41joV7U88lnBNKgQ74wPTpA9Ji8T404&s=1722017157&e=43200&f=341384&i=0.3&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/13/00068/d2z56gz1lsux_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XVM1iRlhpcTD41joV7U88lnBNKgQ74wPTpA9Ji8T404&s=1722017157&e=43200&f=341384&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/ensemble-stars",
+                                "title": "Ensemble Stars!",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ensemble-stars-cover.jpg"
+                            },
+                            {
                                 "url": "/media/megaton-kyuu-musashi-2022",
                                 "title": "Megaton-kyuu Musashi (2022)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-megaton-kyuu-musashi-2022-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/tsue-to-tsurugi-no-wistoria",
                                 "title": "Wistoria: Wand and Sword",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tsue-to-tsurugi-no-wistoria-cover.jpg"
-                            },
-                            {
-                                "url": "/media/fairy-tail-100-years-quest",
-                                "title": "Fairy Tail: 100 Years Quest",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-fairy-tail-100-years-quest-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/megaton-kyuu-musashi-2022",
-                    "title": "Megaton-kyuu Musashi (2022)",
+                    "url": "/media/ensemble-stars",
+                    "title": "Ensemble Stars!",
                     "author": "",
-                    "description": "Zweite Staffel von Megaton Musashi. Quelle: aniSearch",
-                    "genre": "",
+                    "description": "In »Ensemble Stars!«, der Anime-Adaption zum gleichnamigen Smartphone-Spiel, folgen wir der Idol-Gruppe Trickstar. Wie viele andere junge Männer besuchen die Mitglieder Trickstars die Yumenosaki Private Academy, eine Privatschule in einer Berglandschaft mit Blick auf den Ozean. Die Yumenosaki Private Academy hat sich auf die Ausbildung von Männer-Idol-Gruppen spezialisiert und hat in der Vergangenheit schon Generation um Generation junger talentierter Männer zu beliebten Idols für die Entertainment-Welt gemacht. Natürlich sind alle Schüler der Idol-Akademie männlich! Subaru Akehoshi, Hokuto Hidaka, Makoto Yuuki und Mao Isara, die allesamt das zweite Jahr der Schule besuchen, bilden Trickstar – eine Gruppe, die als »der neue aufgehende Stern der Academy« bezeichnet wird. Um ihrem Ruf gerecht zu werden, arbeiten die vier Jungen tagein, tagein sehr hart und trainieren unentwegt. Das »DreamFes« steht bevor, ein Live-Event, bei dem die verschiedenen Idol-Gruppen der Schule gegeneinander antreten, um sich zu messen und die eigene Popularität zu steigern. Doch aus der Vergangenheit weiß man, dass es beim »DreamFes« nicht unbedingt immer fair zugeht und die Ergebnisse häufig von der Schulleitung manipuliert werden. Nun wollen die Jungs von Trickstar es jedoch mit dem Schülerrat aufnehmen und das »DreamFes« reformieren ...! Quelle: aniSearch",
+                    "genre": "Ganbatte",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-megaton-kyuu-musashi-2022-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ensemble-stars-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,27 +239,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/megaton-kyuu-musashi-2022#streams_episodes_1_14",
-                        "name": "Ep.15 Episode 15",
-                        "episode_number": 15.0
+                        "url": "/media/ensemble-stars#streams_episodes_1_23",
+                        "name": "Ep.24 Miracle",
+                        "episode_number": 24.0
                     },
                     {
-                        "url": "/media/megaton-kyuu-musashi-2022#streams_episodes_1_13",
-                        "name": "Ep.14 Episode 14",
-                        "episode_number": 14.0
+                        "url": "/media/ensemble-stars#streams_episodes_1_22",
+                        "name": "Ep.23 Effort",
+                        "episode_number": 23.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=7B7b6RKrQVUx3a&expires=1722065552&ip=G0WsDRONKxSHDN&token=eSjcx6g5o_v3",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=7B7b6RKrQVUx3a&expires=1722065552&ip=G0WsDRONKxSHDN&token=eSjcx6g5o_v3"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

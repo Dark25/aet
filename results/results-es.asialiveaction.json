@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/b-fighter/",
+                                "title": "Juukou B-Fighter (12/53)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oEqJT5NyPcaM06NkHbx1HOKwiXy.jpg"
+                            },
+                            {
                                 "url": "/tokyo-friends-sub-espanol/",
                                 "title": "Tokyo Friends (1/5)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/Aahf6LWWU85k4FtGelyqQE3O2qi.jpg"
-                            },
-                            {
-                                "url": "/b-fighter/",
-                                "title": "Juukou B-Fighter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oEqJT5NyPcaM06NkHbx1HOKwiXy.jpg"
                             },
                             {
                                 "url": "/concrete-utopia-sub-espanol/",
@@ -137,14 +137,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/b-fighter/",
+                                "title": "Juukou B-Fighter (12/53)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oEqJT5NyPcaM06NkHbx1HOKwiXy.jpg"
+                            },
+                            {
                                 "url": "/tokyo-friends-sub-espanol/",
                                 "title": "Tokyo Friends (1/5)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/Aahf6LWWU85k4FtGelyqQE3O2qi.jpg"
-                            },
-                            {
-                                "url": "/b-fighter/",
-                                "title": "Juukou B-Fighter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oEqJT5NyPcaM06NkHbx1HOKwiXy.jpg"
                             },
                             {
                                 "url": "/concrete-utopia-sub-espanol/",
@@ -393,15 +393,35 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/b-fighter/",
+                    "title": "Juukou B-Fighter (12/53)",
+                    "description": "Juukou B-Fighter es una serie de televisión japonesa tokusatsu de 1995. B-Fighter es la abreviatura de \"Beetle Fighter\". Era parte de la serie Metal Hero en curso de Toei. Se trataba de tres miembros de la prestigiosa Academia de la Tierra que luchaban contra las fuerzas del mal del sobrenatural Imperio Jamahl. Las imágenes de acción y los accesorios se utilizaron más tarde para Big Bad Beetleborgs.",
+                    "genre": "Tokusatsu",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oEqJT5NyPcaM06NkHbx1HOKwiXy.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/2834179/",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    },
+                    {
+                        "url": "/paste/1234196/",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -3,278 +3,28 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://tranimaci.com/image/series_sousou-no-frieren_1795.webp"
-                            },
-                            {
-                                "url": "/series/monogatari-series_-off-monster-season",
-                                "title": "Monogatari Series: Off & Monster Season",
-                                "thumbnail_url": "https://tranimaci.com/image/series_monogatari-series_-off-monster-season_1614.webp"
-                            },
-                            {
-                                "url": "/series/boku-no-kokoro-no-yabai-yatsu-2nd-season",
-                                "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
-                                "thumbnail_url": "https://tranimaci.com/image/series_boku-no-kokoro-no-yabai-yatsu-2nd-season_1831.webp"
-                            },
-                            {
-                                "url": "/series/kusuriya-no-hitorigoto",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kusuriya-no-hitorigoto_1338.webp"
-                            },
-                            {
-                                "url": "/series/one-piece",
-                                "title": "ONE PIECE",
-                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece_1872.webp"
-                            },
-                            {
-                                "url": "/series/jujutsu-kaisen-season-2",
-                                "title": "JUJUTSU KAISEN Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen-season-2_1919.webp"
-                            },
-                            {
-                                "url": "/series/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
-                                "title": "Kaguya-sama wa Kokurasetai – First Kiss wa Owaranai",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai_1392.webp"
-                            },
-                            {
-                                "url": "/series/bleach_-thousand-year-blood-warr",
-                                "title": "BLEACH: Thousand-Year Blood War",
-                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-thousand-year-blood-war_1962.webp"
-                            },
-                            {
-                                "url": "/series/vinland-saga-s2",
-                                "title": "Vinland Saga S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_vinland-saga-s2_1206.webp"
-                            },
-                            {
-                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-1",
-                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
-                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-1_1455.webp"
-                            },
-                            {
-                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-2",
-                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-2_1065.webp"
-                            },
-                            {
-                                "url": "/series/mob-psycho-100-iii",
-                                "title": "Mob Psycho 100 III",
-                                "thumbnail_url": "https://tranimaci.com/image/series_mob-psycho-100-iii_1989.webp"
-                            },
-                            {
-                                "url": "/series/hibike-euphonium-s3",
-                                "title": "Hibike! Euphonium S3",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hibike-euphonium-s3_1205.webp"
-                            },
-                            {
-                                "url": "/series/heaven-officials-blessing-season-2",
-                                "title": "Heaven Officials Blessing Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_heaven-officials-blessing-season-2_1586.webp"
-                            },
-                            {
-                                "url": "/series/link-click-season-2",
-                                "title": "Link Click Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_link-click-season-2_1431.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/the-legend-of-sword-domain",
-                                "title": "The Legend Of Sword Domain",
-                                "thumbnail_url": "https://tranimaci.com/image/series_the-legend-of-sword-domain_1723.webp"
-                            },
-                            {
-                                "url": "/series/senpai-wa-otokonoko",
-                                "title": "Senpai wa Otokonoko",
-                                "thumbnail_url": "https://tranimaci.com/image/series_senpai-wa-otokonoko_1493.webp"
-                            },
-                            {
-                                "url": "/series/hazurewaku",
-                                "title": "Hazurewaku",
-                                "thumbnail_url": "https://tranimaci.com/image/20240704212122-6654.webp"
-                            },
-                            {
-                                "url": "/series/megami-no-caf-terrace-2nd-season",
-                                "title": "Megami no Café Terrace 2nd Season",
-                                "thumbnail_url": "https://tranimaci.com/image/series_megami-no-caf-terrace-2nd-season_1026.webp"
-                            },
-                            {
-                                "url": "/series/giji-harem",
-                                "title": "Giji Harem",
-                                "thumbnail_url": "https://tranimaci.com/image/series_giji-harem_1337.webp"
-                            },
-                            {
-                                "url": "/series/ramen-akaneko",
-                                "title": "Ramen Akaneko",
-                                "thumbnail_url": "https://tranimaci.com/image/series_ramen-akaneko_1342.webp"
-                            },
-                            {
-                                "url": "/series/tasogare-out-focus",
-                                "title": "Tasogare Out Focus",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tasogare-out-focus_1165.webp"
-                            },
-                            {
-                                "url": "/series/ore-wa-subete-wo-parry-suru",
-                                "title": "Ore wa Subete wo Parry suru",
-                                "thumbnail_url": "https://tranimaci.com/image/series_ore-wa-subete-wo-parry-suru_1318.webp"
-                            },
-                            {
-                                "url": "/series/shen-yin-wangzuo-2",
-                                "title": "Shen Yin Wangzuo 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_shen-yin-wangzuo-2_1212.webp"
-                            },
-                            {
-                                "url": "/series/dubu-xiaoyao",
-                                "title": "Dubu Xiaoyao",
-                                "thumbnail_url": "https://tranimaci.com/image/series_dubu-xiaoyao_1286.webp"
-                            },
-                            {
-                                "url": "/series/yuan-zun",
-                                "title": "Yuan Zun",
-                                "thumbnail_url": "https://tranimaci.com/image/series_yuan-zun_1046.webp"
-                            },
-                            {
-                                "url": "/series/shixiong-a-shixiong-2-sezon",
-                                "title": "Shixiong A Shixiong 2 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/20231214145113-7253.webp"
-                            },
-                            {
-                                "url": "/series/gimai-seikatsu",
-                                "title": "Gimai Seikatsu",
-                                "thumbnail_url": "https://tranimaci.com/image/series_gimai-seikatsu_1994.webp"
-                            },
-                            {
-                                "url": "/series/maou-gakuin-no-futekigousha-s2-cour-2",
-                                "title": "Maou Gakuin no Futekigousha S2 (Cour 2)",
-                                "thumbnail_url": "https://tranimaci.com/image/series_maou-gakuin-no-futekigousha-s2-cour-2_1168.webp"
-                            },
-                            {
-                                "url": "/series/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san_1541.webp"
-                            },
-                            {
-                                "url": "/series/sengoku-youko-part-2",
-                                "title": "Sengoku Youko Part 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_sengoku-youko-part-2_1365.jpg"
-                            },
-                            {
-                                "url": "/series/oshi-no-ko-season-2",
-                                "title": "Oshi no Ko Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_oshi-no-ko-season-2_1715.webp"
-                            },
-                            {
-                                "url": "/series/maougun-saikyou-no-majutsushi-wa-ningen-datta",
-                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-                                "thumbnail_url": "https://tranimaci.com/image/series_maougun-saikyou-no-majutsushi-wa-ningen-datta_1887.webp"
-                            },
-                            {
-                                "url": "/series/koi-wa-futago-de-warikirenai",
-                                "title": "Koi wa Futago de Warikirenai",
-                                "thumbnail_url": "https://tranimaci.com/image/series_koi-wa-futago-de-warikirenai_1446.webp"
-                            },
-                            {
-                                "url": "/series/kimi-to-boku-no-saigo-no-senjou-arui-wa-sekai-ga-hajimaru-seisen-s2",
-                                "title": "Kimi to Boku no Saigo no Senjou Arui wa Sekai ga Hajimaru Seisen S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kimi-to-boku-no-saigo-no-senjou-arui-wa-sekai-ga-hajimaru-seisen-s2_1324.webp"
-                            },
-                            {
-                                "url": "/series/zhe-tian",
-                                "title": "Zhe Tian",
-                                "thumbnail_url": "https://tranimaci.com/image/series_zhe-tian_1604.webp"
-                            },
-                            {
-                                "url": "/series/jue-shi-wu-hun",
-                                "title": "Jue Shi Wu Hun",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jue-shi-wu-hun_1981.webp"
-                            },
-                            {
-                                "url": "/series/tianting-ban-zhuan-xia",
-                                "title": "Tianting Ban Zhuan Xia",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tianting-ban-zhuan-xia_1765.webp"
-                            },
-                            {
-                                "url": "/series/charm-of-soul-pets-huan-chong-shi",
-                                "title": "Charm of Soul Pets (Huan Chong Shi)",
-                                "thumbnail_url": "https://tranimaci.com/image/20240530123310-7990.webp"
-                            },
-                            {
-                                "url": "/series/tasuuketsu",
-                                "title": "Tasuuketsu",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tasuuketsu_1076.webp"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/video/sousou-no-frieren-28-bolum",
-                        "name": "Bölüm 28",
-                        "date_upload": 1711065600000,
-                        "episode_number": 28.0
-                    },
-                    {
-                        "url": "/video/sousou-no-frieren-27-bolum",
-                        "name": "Bölüm 27",
-                        "date_upload": 1710460800000,
-                        "episode_number": 27.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://api.animeuzayi.com/api/v1/0039c501e07908125dcdf4ed48b25e1474dcc537096d76ea9ae01dd68fb93a6c",
-                        "quality": "720p",
-                        "videoUrl": "https://api.animeuzayi.com/api/v1/0039c501e07908125dcdf4ed48b25e1474dcc537096d76ea9ae01dd68fb93a6c",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://tranimaci.com/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeuzayi.com/api/v1/39fbc59be49c4990fe0d58a44b874b4a65415728148bccaf49116707b882ddbc",
-                        "quality": "1080p",
-                        "videoUrl": "https://api.animeuzayi.com/api/v1/39fbc59be49c4990fe0d58a44b874b4a65415728148bccaf49116707b882ddbc",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://tranimaci.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

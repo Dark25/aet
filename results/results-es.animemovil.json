@@ -276,12 +276,32 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/deadpool-and-wolverine-1",
+                        "name": "Película",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://en3.uqload.ws/3rfk5dc2tzw2q4drdlcpvjfxafr4jdvzgtphkdakgnbuxhh2rkmddqegdovq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://en3.uqload.ws/3rfk5dc2tzw2q4drdlcpvjfxafr4jdvzgtphkdakgnbuxhh2rkmddqegdovq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=zMqMzxepVkTYDXQ&expires=1722022857&ip=F0qQKRWZD19XKxR&token=vKCUB1u1wI1g",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zMqMzxepVkTYDXQ&expires=1722022857&ip=F0qQKRWZD19XKxR&token=vKCUB1u1wI1g"
+                    }
+                ],
+                "passed": true
             }
         }
     }

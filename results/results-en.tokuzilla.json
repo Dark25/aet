@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/tokusou-sentai-dekaranger-20th-fireball-booster.html",
                                 "title": "Tokusou Sentai Dekaranger 20th: Fireball Booster",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/tokusou-sentai-dekaranger-20th-fireball-booster-thumb.png"
@@ -15,16 +25,6 @@
                                 "url": "/watch/power-rangers-dino-force-brave.html",
                                 "title": "Power Rangers Dino Force Brave",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/power-rangers-dino-force-brave-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
                             },
                             {
                                 "url": "/watch/andro-melos.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/tokusou-sentai-dekaranger-20th-fireball-booster.html",
-                    "title": "Tokusou Sentai Dekaranger 20th: Fireball Booster",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
                     "author": "Year 2024",
-                    "description": "Tokusou Sentai Dekaranger 20th: Fireball Booster is a Japanese superhero V-Cinema film that serves to commemorate the 20th anniversary of Tokusou Sentai Dekaranger.",
-                    "genre": "Movie, Super Sentai",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/tokusou-sentai-dekaranger-20th-fireball-booster-thumb.png",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/tokusou-sentai-dekaranger-20th-fireball-booster.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=23#watch",
+                        "name": "Episode 23",
+                        "episode_number": 23.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=22#watch",
+                        "name": "Episode 22",
+                        "episode_number": 22.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

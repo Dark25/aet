@@ -512,29 +512,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://videos2.sendvid.com/a8/87/0qn3hj4g.mp4?validfrom=1722161190&validto=1722175590&rate=250k&ip=20.81.159.62&hash=QC6RUohSQ9YSMhcV8K1ED6h29cw%3D",
-                        "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/a8/87/0qn3hj4g.mp4?validfrom=1722161190&validto=1722175590&rate=250k&ip=20.81.159.62&hash=QC6RUohSQ9YSMhcV8K1ED6h29cw%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/0qn3hj4g",
-                            "Referer": "https://https://sendvid.com/embed/0qn3hj4g/"
-                        }
-                    },
-                    {
-                        "url": "https://videos2.sendvid.com/a8/87/0qn3hj4g.mp4?validfrom=1722161190&validto=1722175590&rate=250k&ip=20.81.159.62&hash=QC6RUohSQ9YSMhcV8K1ED6h29cw%3D",
-                        "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/a8/87/0qn3hj4g.mp4?validfrom=1722161190&validto=1722175590&rate=250k&ip=20.81.159.62&hash=QC6RUohSQ9YSMhcV8K1ED6h29cw%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/0qn3hj4g",
-                            "Referer": "https://https://sendvid.com/embed/0qn3hj4g/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

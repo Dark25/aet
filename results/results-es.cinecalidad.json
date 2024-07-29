@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/jLzozjKx",
+                                "title": "Netflix Premium 12 meses (Garantía 1 año)",
+                                "thumbnail_url": "/off/ne.jpg?v=1"
+                            },
+                            {
+                                "url": "/T5us74j5",
+                                "title": "Suscripción Disney Plus 1 año",
+                                "thumbnail_url": "/off/di.jpg?v=1"
+                            },
+                            {
+                                "url": "/Q4IGu8Ck",
+                                "title": "Suscripción HBO MAX 1 año",
+                                "thumbnail_url": "/off/hb.jpg?v=1"
+                            },
+                            {
                                 "url": "/ver-pelicula/bernardo-y-bianca-2-en-cangurolandia/",
                                 "title": "Bernardo y Bianca 2: En Cangurolandia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//hyuP9jI0Q6bBDEvvsYD8ka27QD0.jpg"
@@ -198,42 +213,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/ver-pelicula/bernardo-y-bianca-2-en-cangurolandia/",
-                    "title": "Bernardo y Bianca 2: En Cangurolandia",
-                    "artist": "Adam Ryen, Bernard Fox, Billy Barty, Bob Newhart, Carla Meyer",
-                    "description": "Los agentes de la R.A.S., la Srta. Bianca y Bernardo, corren a Australia para salvar a un niño y a una rara águila dorada de un cazador furtivo asesino.",
-                    "genre": "Animación, Aventura, Familia, Fantasía",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//hyuP9jI0Q6bBDEvvsYD8ka27QD0.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver-pelicula/bernardo-y-bianca-2-en-cangurolandia/",
-                        "name": "Película",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04498/q75yv02k8p6t_n/index-v1-a1.m3u8?t=jjOdzJZd7MO4kyThVyFMhQKjd1eyNBatUREZVARYCOc&s=1722212141&e=129600&f=22492851&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04498/q75yv02k8p6t_n/index-v1-a1.m3u8?t=jjOdzJZd7MO4kyThVyFMhQKjd1eyNBatUREZVARYCOc&s=1722212141&e=129600&f=22492851&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://strwish.com",
-                            "Referer": "https://strwish.com/e/q75yv02k8p6t"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

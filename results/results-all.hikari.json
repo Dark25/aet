@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/39987/Strike_Witches_501_Butai_Hasshin_Shimasu_Movie",
+                                "title": "Strike Witches: 501 Butai Hasshin Shimasu! Movie",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1102/101638l.jpg"
+                            },
+                            {
+                                "url": "/anime/37651/Fate-Extra_Last_Encore_Illustrias_Tendousetsu",
+                                "title": "Fate-Extra: Last Encore - Illustrias Tendousetsu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1280/93468l.jpg"
+                            },
+                            {
+                                "url": "/anime/52635/Kami_no_Tou_Tower_of_God_2nd_SEASON",
+                                "title": "Kami no Tou: Tower of God 2nd SEASON",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1107/143536l.jpg"
+                            },
+                            {
                                 "url": "/anime/54918/Tokyo_Revengers_Tenjiku-hen",
                                 "title": "Tokyo Revengers: Tenjiku-hen",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1853/139843l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/54870/Seishun_Buta_Yarou_wa_Randoseru_Girl_no_Yume_wo_Minai",
                                 "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1937/138379l.jpg"
-                            },
-                            {
-                                "url": "/anime/202/Wolfs_Rain",
-                                "title": "Wolf's Rain",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg"
-                            },
-                            {
-                                "url": "/anime/50631/Komi-san_wa_Komyushou_desu_2",
-                                "title": "Komi-san wa, Komyushou desu. 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1108/121157l.jpg"
-                            },
-                            {
-                                "url": "/anime/48926/Komi-san_wa_Komyushou_desu",
-                                "title": "Komi-san wa, Komyushou desu.",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -512,30 +512,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://pjg3itk8bndw.hgagecdn.com/hls2/01/02004/ctvikudn8wmm_h/index-v1-a3.m3u8?t=wvVEDVvhPO-7V6UfPI-N-1f0cQPhNo84g60sLZr4HZE&s=1722254770&e=129600&f=10020322&srv=NAkkmw4aEpwu&i=0.4&sp=500&p1=NAkkmw4aEpwu&p2=NAkkmw4aEpwu&asn=8075",
-                        "quality": "VidHide - 1080p",
-                        "videoUrl": "https://pjg3itk8bndw.hgagecdn.com/hls2/01/02004/ctvikudn8wmm_h/index-v1-a3.m3u8?t=wvVEDVvhPO-7V6UfPI-N-1f0cQPhNo84g60sLZr4HZE&s=1722254770&e=129600&f=10020322&srv=NAkkmw4aEpwu&i=0.4&sp=500&p1=NAkkmw4aEpwu&p2=NAkkmw4aEpwu&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhidepre.com",
-                            "Referer": "https://vidhidepre.com/embed/ctvikudn8wmm"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://NAkkmw4aEpwu.hgagecdn.com/vtt/01/02004/ctvikudn8wmm_eng.vtt",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://NAkkmw4aEpwu.hgagecdn.com/vtt/01/02004/ctvikudn8wmm_spa.vtt",
-                                "lang": "Spanish"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

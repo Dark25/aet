@@ -3,11 +3,11 @@
         "name": "Seez (EN)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname seez.su not verified:\n    certificate: sha256/HdDBgtnj07/NrKNmLCbg5rxK78ZehdHZ/Uoutx4iHzY=\n    DN: CN=cloudflare-dns.com, O=\"Cloudflare, Inc.\", L=San Francisco, ST=California, C=US\n    subjectAltNames: [1.0.0.1, 1.1.1.1, 162.159.36.1, 162.159.46.1, 2606:4700:4700:0:0:0:0:1001, 2606:4700:4700:0:0:0:0:1111, 2606:4700:4700:0:0:0:0:64, 2606:4700:4700:0:0:0:0:6400, cloudflare-dns.com, *.cloudflare-dns.com, one.one.one.one]",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname seez.su not verified:\n    certificate: sha256/4pqQ+yl3lAtRvKdoCCUR8iDmA53I+cJ7orgBLiF08kQ=\n    DN: CN=cloudflare-dns.com, O=\"Cloudflare, Inc.\", L=San Francisco, ST=California, C=US\n    subjectAltNames: [1.0.0.1, 1.1.1.1, 162.159.36.1, 162.159.46.1, 2606:4700:4700:0:0:0:0:1001, 2606:4700:4700:0:0:0:0:1111, 2606:4700:4700:0:0:0:0:64, 2606:4700:4700:0:0:0:0:6400, cloudflare-dns.com, *.cloudflare-dns.com, one.one.one.one]",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname seez.su not verified:\n    certificate: sha256/HdDBgtnj07/NrKNmLCbg5rxK78ZehdHZ/Uoutx4iHzY=\n    DN: CN=cloudflare-dns.com, O=\"Cloudflare, Inc.\", L=San Francisco, ST=California, C=US\n    subjectAltNames: [1.0.0.1, 1.1.1.1, 162.159.36.1, 162.159.46.1, 2606:4700:4700:0:0:0:0:1001, 2606:4700:4700:0:0:0:0:1111, 2606:4700:4700:0:0:0:0:64, 2606:4700:4700:0:0:0:0:6400, cloudflare-dns.com, *.cloudflare-dns.com, one.one.one.one]",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname seez.su not verified:\n    certificate: sha256/4pqQ+yl3lAtRvKdoCCUR8iDmA53I+cJ7orgBLiF08kQ=\n    DN: CN=cloudflare-dns.com, O=\"Cloudflare, Inc.\", L=San Francisco, ST=California, C=US\n    subjectAltNames: [1.0.0.1, 1.1.1.1, 162.159.36.1, 162.159.46.1, 2606:4700:4700:0:0:0:0:1001, 2606:4700:4700:0:0:0:0:1111, 2606:4700:4700:0:0:0:0:64, 2606:4700:4700:0:0:0:0:6400, cloudflare-dns.com, *.cloudflare-dns.com, one.one.one.one]",
                 "passed": false
             },
             "details": {

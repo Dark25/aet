@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/mad-mission",
+                                "title": "Mad Mission",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/mad-mission.jpg"
+                            },
+                            {
                                 "url": "/stream/restore-point",
                                 "title": "Restore Point",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/restore-point.jpg"
@@ -164,11 +169,6 @@
                                 "url": "/stream/oh-la-la-wer-ahnt-denn-sowas",
                                 "title": "Oh La La - Wer ahnt denn sowas",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/oh-la-la-wer-ahnt-denn-sowas.jpg"
-                            },
-                            {
-                                "url": "/stream/bite",
-                                "title": "Bite",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/bite.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -182,14 +182,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/stream/restore-point",
-                    "title": "Restore Point",
-                    "author": "Robert Hloz",
-                    "description": "Eine innovative Technologie sorgt im Jahr 2041 dafür, dass Menschen ins Leben zurückgeholt werden können, die durch Mord oder einen Unfall gestorben sind. Einzige Voraussetzung ist eine digitale Sicherungskopie, die nicht älter als 48 Stunden sein darf. Als der Entwickler des ,,Restore Point“-Programms ermordet wird und sein Backup unauffindbar bleibt, übernimmt die Polizistin Emma Trochinowska die Ermittlungen im mysteriösen Fall. Die Spur führt zu einer Terrorgruppe, die die ,,unnatürliche“ Wiederherstellungs-technologie mit allen Mitteln bekämpft. Die faszinierenden Idee entwickelte Regisseur Robert Hloz zu einem stil- und stimmungsvollen Film, der neben einer spannenden Handlung jede Menge Diskussionsstoff liefert.",
-                    "genre": "Sci-Fi Drama Krimi",
+                    "url": "/stream/mad-mission",
+                    "title": "Mad Mission",
+                    "author": "Eric Tsang",
+                    "description": "Sam ist ein gerissener Dieb und hat einen wertvollen Diamanten geraubt. Leider kann die Polizei nicht viel ausrichten und man bestellt aus Amerika einen Meisterdetektiv. Albert Au, wegen seiner Glatze auch Kodijack genannt übernimmt den Fall und ist garant für wilde Verfolgungsjagden, turbulente Action und alles was ein Eastern-Herz begehrt.",
+                    "genre": "Komödie Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://filmpalast.to/files/movies/450/restore-point.jpg",
+                    "thumbnail_url": "https://filmpalast.to/files/movies/450/mad-mission.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -197,7 +197,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/stream/restore-point",
+                        "url": "/stream/mad-mission",
                         "name": "Film",
                         "episode_number": 1.0
                     }

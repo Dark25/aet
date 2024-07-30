@@ -957,42 +957,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/250896?type=video&rendition=1080p&token=cYdzK1OfYAnN0E_ocolT1w&expires=1727482566&edge=sc-u7-01",
-                        "quality": "1080,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/250896?type=video&rendition=1080p&token=cYdzK1OfYAnN0E_ocolT1w&expires=1727482566&edge=sc-u7-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/250896?type=subtitle&rendition=2-ita&token=or6OP4KA7i3MN7llxl4i1g&expires=1727482566&edge=sc-u7-01",
-                                "lang": "Italian [CC]"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/250896?type=video&rendition=720p&token=bEM-Tjm3V1tPst27ldmNDg&expires=1727482566&edge=sc-u7-01",
-                        "quality": "720,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/250896?type=video&rendition=720p&token=bEM-Tjm3V1tPst27ldmNDg&expires=1727482566&edge=sc-u7-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/250896?type=subtitle&rendition=2-ita&token=or6OP4KA7i3MN7llxl4i1g&expires=1727482566&edge=sc-u7-01",
-                                "lang": "Italian [CC]"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/250896?type=video&rendition=480p&token=FWw6awkT9Yj45LiDRaLQvQ&expires=1727482566&edge=sc-u7-01",
-                        "quality": "480,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/250896?type=video&rendition=480p&token=FWw6awkT9Yj45LiDRaLQvQ&expires=1727482566&edge=sc-u7-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/250896?type=subtitle&rendition=2-ita&token=or6OP4KA7i3MN7llxl4i1g&expires=1727482566&edge=sc-u7-01",
-                                "lang": "Italian [CC]"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

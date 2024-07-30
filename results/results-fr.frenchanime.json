@@ -149,24 +149,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://wws306l.video-delivery.net/u5kj7rifadclsdgge6c6an2dip54osmnxml2j4yp5augcf6ovnjod5x464aq/gke7qs5yp8~z0sSb8RAOp?token=z3c4zxh0l91wv2xt3b7hwxjb&expiry=1722298536",
-                        "quality": "Dood",
-                        "videoUrl": "https://wws306l.video-delivery.net/u5kj7rifadclsdgge6c6an2dip54osmnxml2j4yp5augcf6ovnjod5x464aq/gke7qs5yp8~z0sSb8RAOp?token=z3c4zxh0l91wv2xt3b7hwxjb&expiry=1722298536",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "referer": "https://dood.li/d/a5kg5d052gcy"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "data:text/vtt;base64,V0VCVlRUCgo=",
-                                "lang": "data:text/vtt;base64,V0VCVlRUCgo="
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

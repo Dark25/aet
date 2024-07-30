@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9243-a-quiet-place-giorno-1",
+                                "title": "A Quiet Place - Giorno 1",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/1713d7f9-cd84-4703-8abd-5e83c7ac8ff2.webp"
+                            },
+                            {
                                 "url": "9379-sul-piu-bello-la-serie",
                                 "title": "Sul più bello - La serie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/2e0e1f53-189b-4cc7-aa3a-951cc81d5bc5.webp"
@@ -300,11 +305,6 @@
                                 "url": "8932-miss-night-and-day",
                                 "title": "Miss Night and Day",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/a082bd0b-a7aa-4c70-95ec-025d6aa8d3a8.webp"
-                            },
-                            {
-                                "url": "8883-incubi-e-sogni-di-joko-anwar",
-                                "title": "Incubi e sogni di Joko Anwar",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/a3a556f6-c475-431c-9511-ecad1ccd267f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9379-sul-piu-bello-la-serie",
-                    "description": "Proseguono le avventure di Marta e dei suoi amici. Salvatasi dal rigetto dell’operazione ai polmoni, Marta decide che vuole prendere in mano la propria vita. Accanto a lei però, non c’è più Gabriele, che non l’ha mai lasciata nei momenti più difficili della malattia ma che alla fine si è rivelato essere solo un buon amico e non l’uomo della sua vita. Anche per Jacopo e Federica è ora di crescere e prendersi delle responsabilità. Dopo la delusione con Dario, il dottore che aveva in cura Marta, Jacopo deciderà di aprirgli di nuovo il suo cuore, mentre Federica, che sente maturare dentro di sé il desiderio di fare la differenza per qualcuno, trova il grande amore e comincia a fare progetti per il futuro, ma il destino non sempre è concorde con i nostri piani...",
-                    "genre": "Dramma",
+                    "url": "9243-a-quiet-place-giorno-1",
+                    "description": "Mentre New York City è invasa da creature aliene che cacciano attraverso il suono, una donna di nome Sammy lotta per sopravvivere.",
+                    "genre": "Thriller, Horror, Fantascienza",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -944,21 +946,74 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9379?episode_id=72604&next_episode=1",
-                        "name": "Stagione 1 episodio 6 - La verità, nient'altro che la verità",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "9379?episode_id=72602&next_episode=1",
-                        "name": "Stagione 1 episodio 5 - Spiragli di luce",
-                        "episode_number": 5.0
+                        "url": "9243",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/251597?type=video&rendition=1080p&token=tQTb9h0v-u0Rxr9njLvY1A&expires=1727546795&b=1",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/251597?type=video&rendition=1080p&token=tQTb9h0v-u0Rxr9njLvY1A&expires=1727546795&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=2-eng&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=3-eng&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=4-fre&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "French (Canadian)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/251597?type=video&rendition=720p&token=k3rF4hjs79zZyT1PkkUN_g&expires=1727546795&b=1",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/251597?type=video&rendition=720p&token=k3rF4hjs79zZyT1PkkUN_g&expires=1727546795&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=2-eng&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=3-eng&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=4-fre&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "French (Canadian)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/251597?type=video&rendition=480p&token=sCoawpXVwBSCsfYt-H9dZA&expires=1727546795&b=1",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/251597?type=video&rendition=480p&token=sCoawpXVwBSCsfYt-H9dZA&expires=1727546795&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=2-eng&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=3-eng&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/251597?type=subtitle&rendition=4-fre&token=g-ON0ne2h7k0oi3YY7nTjg&expires=1727546795&b=1",
+                                "lang": "French (Canadian)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

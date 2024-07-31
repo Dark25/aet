@@ -416,8 +416,30 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vkvd184.mycdn.me/?expires=1722665139319&srcIp=172.183.162.34&pr=40&srcAg=GECKO&ms=185.226.52.189&type=5&sig=3sf2PRDw958&ct=0&urls=185.226.53.164&clientType=13&appId=512000384397&zs=43&id=6940524219094",
+                        "quality": "vk.com - 1080p",
+                        "videoUrl": "https://vkvd184.mycdn.me/?expires=1722665139319&srcIp=172.183.162.34&pr=40&srcAg=GECKO&ms=185.226.52.189&type=5&sig=3sf2PRDw958&ct=0&urls=185.226.53.164&clientType=13&appId=512000384397&zs=43&id=6940524219094",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06599/8vm2za2hy4ml_h/index-v1-a1.m3u8?t=jGUubmt3S94SAoCcjqqrm-MP45QRM3DzFVNx7Syrm50&s=1722405937&e=10800&f=32996804&srv=44&asn=8075&sp=4000",
+                        "quality": "Filemoon:720p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06599/8vm2za2hy4ml_h/index-v1-a1.m3u8?t=jGUubmt3S94SAoCcjqqrm-MP45QRM3DzFVNx7Syrm50&s=1722405937&e=10800&f=32996804&srv=44&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/clube-dos-vandalos/",
+                                "title": "Clube dos Vândalos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg"
+                            },
+                            {
                                 "url": "/filmes/guerra-sem-regras/",
                                 "title": "Guerra Sem Regras",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/m3291Tju4htO3p6P2TG5G8nrAx9.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/um-lugar-silencioso-dia-um/",
                                 "title": "Um Lugar Silencioso: Dia Um",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gyEnhITeHLky85XJxuTPqniPrzE.jpg"
-                            },
-                            {
-                                "url": "/series/la-brea/",
-                                "title": "La Brea",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,11 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/mulheres-de-azul/",
+                                "title": "Mulheres de Azul",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5toyrCYJK6TzGGcRe9AuJ9lOrJD.jpg"
                             },
                             {
                                 "url": "/series/brincando-com-fogo/",
@@ -280,11 +285,6 @@
                                 "url": "/series/esqueca-me-se-puder/",
                                 "title": "Esqueça-me se Puder",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2c4YMQHL36BTuaax1BMuwwwWyKm.jpg"
-                            },
-                            {
-                                "url": "/series/sierra-madre-passagem-proibida/",
-                                "title": "Sierra Madre: Passagem Proibida",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lq7VCIXe14Xcu9LHtjmvd21wV7s.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/guerra-sem-regras/",
-                    "title": "Guerra Sem Regras",
-                    "description": "Militares britânicos recrutam um pequeno grupo de soldados altamente qualificados para atacar as forças nazistas atrás das linhas inimigas durante a Segunda Guerra Mundial.\n\nTítulo Original: The Ministry of Ungentlemanly Warfare",
-                    "genre": "Ação, Comédia, Drama, Guerra",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/m3291Tju4htO3p6P2TG5G8nrAx9.jpg",
+                    "url": "/filmes/clube-dos-vandalos/",
+                    "title": "Clube dos Vândalos",
+                    "description": "Kathy, um membro obstinado dos Vândalos, casada com um motociclista selvagem e imprudente chamado Benny, conta a evolução dos Vândalos ao longo de uma década, começando como um clube local unido por bons momentos, motas a roncar e respeito pelo seu forte e firme líder, Johnny. À medida que a vida nos Vandals se torna mais perigosa e o clube ameaça tornar-se num gangue mais sinistro, Kathy, Benny e Johnny são forçados a fazer escolhas sobre a sua lealdade.\n\nTítulo Original: The Bikeriders",
+                    "genre": "Crime, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/guerra-sem-regras/",
+                        "url": "/filmes/clube-dos-vandalos/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

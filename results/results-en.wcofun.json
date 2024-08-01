@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/berserk-of-gluttony",
+                                "title": "Berserk of Gluttony",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933692.jpg"
+                            },
+                            {
                                 "url": "/anime/batman-caped-crusader",
                                 "title": "Batman: Caped Crusader",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933691.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/wistoria-wand-and-sword",
                                 "title": "Wistoria: Wand and Sword",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933677.jpg"
-                            },
-                            {
-                                "url": "/anime/fairy-tail-100-years-quest",
-                                "title": "Fairy Tail: 100 Years Quest",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933676.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/batman-caped-crusader",
-                    "title": "Batman: Caped Crusader",
-                    "description": "After a family tragedy, socialite Bruce Wayne transforms into The Batman, where his crusade for justice spawns unforeseen ramifications.",
-                    "genre": "Action, Adventure, Animation, Crime, Family, Fantasy, Sci-fi, Superhero, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933691.jpg",
+                    "url": "/anime/berserk-of-gluttony",
+                    "title": "Berserk of Gluttony",
+                    "description": "Fate Graphite lives miserably as a gatekeeper in a world where skills given at birth determine an individual’s entire life. Afflicted by the seemingly harmful skill Gluttony, which makes him perpetually hungry, he is abused by the holy knights—the supposed protectors of the populace—who view him as a dreg on society due to his skill. However, Fate’s destiny takes a dramatic turn after he kills an escaping injured thief. To his surprise, Gluttony activates, enhancing his stats and granting him new skills.",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933692.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/berserk-of-gluttony-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BCDmW_zy5XW8DvnHNsCuEoQYA-yHMAnp0VybJeEHNz5bKgy5Whg8j4k_rfeLRDSNMdqg5gUAWN5HtRzfgeYhw7wN-G8VptH7LKzTep_yvgyqqC5rgjS6U779-c6c6aYzB4zK1_f-DPEfPnk6jVVAjSJOe9NjKstPrB7StOyO7pz4NnoyW9HV4Vg4mV1lXM3LqWMr59ktLwpbt8s9eIE9kuPV2kUxXPaFswfkTsZO1YaigCJndZZ-AHTPW6j5pueNbIPKkri257GZZCX8zSDFvyz",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BCDmW_zy5XW8DvnHNsCuEoQYA-yHMAnp0VybJeEHNz5bKgy5Whg8j4k_rfeLRDSNMdqg5gUAWN5HtRzfgeYhw7wN-G8VptH7LKzTep_yvgyqqC5rgjS6U779-c6c6aYzB4zK1_f-DPEfPnk6jVVAjSJOe9NjKstPrB7StOyO7pz4NnoyW9HV4Vg4mV1lXM3LqWMr59ktLwpbt8s9eIE9kuPV2kUxXPaFswfkTsZO1YaigCJndZZ-AHTPW6j5pueNbIPKkri257GZZCX8zSDFvyz"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLgj-AnaD01Rv5lE0xoOTdCwudKnShuxXmliDO0_pWJ96DYORKuMgjDDg5rrQjmq5-KLiTogD4h1d8GzFdd-_NA4O_UTRxzyjI1MyCGvlv-QZXGa0JQGbCqAeM4XYDxreB4VdeS96p2mOkS5bpxtMasvwpCgKFEEKXs-t1hrrNwlNjcIVmqWbEDBw9GwtzIC2xfVEEPM5gjKazHr8O0FNt88KwWZc-R2ivhhEDJAt7-vvMa0H1roMAdgFWduGyzjIL0PjBsjQ5wFUuN9jLQWFY",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLgj-AnaD01Rv5lE0xoOTdCwudKnShuxXmliDO0_pWJ96DYORKuMgjDDg5rrQjmq5-KLiTogD4h1d8GzFdd-_NA4O_UTRxzyjI1MyCGvlv-QZXGa0JQGbCqAeM4XYDxreB4VdeS96p2mOkS5bpxtMasvwpCgKFEEKXs-t1hrrNwlNjcIVmqWbEDBw9GwtzIC2xfVEEPM5gjKazHr8O0FNt88KwWZc-R2ivhhEDJAt7-vvMa0H1roMAdgFWduGyzjIL0PjBsjQ5wFUuN9jLQWFY"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLZ4CqEb46W-zkIQFay9TgsEXq_7vSeMf1RYkFfBkubRRyl3zXsfi4ku-DwylGKxIQF10JLUonx1JH5GmmfJHqV6DIV-qFZOKvRzXVRWkdCT87SghFOkzNs0qFLBuyRKxwaFZJ2-uI4J8mpSmAxVg-TbULi3lr5DpFUBahALbJFzPR9icmZwN7U3vcj5jBHe2_9YECcleKlNi18Q9r4InL6TNF6bL98sxn0SYN_HH9xnXcJCYm27i3k4OsO_TdF5EHwaTZVc6sL-wyuF_u3bol",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLZ4CqEb46W-zkIQFay9TgsEXq_7vSeMf1RYkFfBkubRRyl3zXsfi4ku-DwylGKxIQF10JLUonx1JH5GmmfJHqV6DIV-qFZOKvRzXVRWkdCT87SghFOkzNs0qFLBuyRKxwaFZJ2-uI4J8mpSmAxVg-TbULi3lr5DpFUBahALbJFzPR9icmZwN7U3vcj5jBHe2_9YECcleKlNi18Q9r4InL6TNF6bL98sxn0SYN_HH9xnXcJCYm27i3k4OsO_TdF5EHwaTZVc6sL-wyuF_u3bol"
+                    }
+                ],
+                "passed": true
             }
         }
     }

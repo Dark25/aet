@@ -3,49 +3,18 @@
         "name": "AnimeWorld India (ALL)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/pokemon-advanced-battle/",
-                                "title": "Pokémon: Advanced Battle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/718.webp"
-                            },
-                            {
-                                "url": "/series/beyblade-burst-rise/",
-                                "title": "Beyblade Burst Rise",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2758.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-dp-battle-dimension/",
-                                "title": "Pokémon: DP Battle Dimension",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1083.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-dp-sinnoh-league-victors/",
-                                "title": "Pokémon: DP Sinnoh League Victors",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1085.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-advanced-challenge/",
-                                "title": "Pokémon: Advanced Challenge",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/717.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-dp-galactic-battles/",
-                                "title": "Pokémon: DP Galactic Battles",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1084.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/dr-stone/",
                                 "title": "Dr. Stone",
@@ -140,11 +109,6 @@
                                 "url": "/series/ultimate-spider-man/",
                                 "title": "Ultimate Spider-Man",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2779.webp"
-                            },
-                            {
-                                "url": "/series/spider-man/",
-                                "title": "Spider-Man",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2778.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -157,14 +121,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/miraculous-world-shanghai-the-legend-of-ladydragon/",
-                                "title": "Miraculous World: Shanghai – The Legend of Ladydragon",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7200.webp"
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
                             },
                             {
                                 "url": "/series/miraculous-world-new-york-united-heroez/",
                                 "title": "Miraculous World: New York, United HeroeZ",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7199.webp"
+                            },
+                            {
+                                "url": "/series/miraculous-world-shanghai-the-legend-of-ladydragon/",
+                                "title": "Miraculous World: Shanghai – The Legend of Ladydragon",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/7200.webp"
                             },
                             {
                                 "url": "/series/jurassic-world-camp-cretaceous/",
@@ -179,139 +148,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-advanced-battle/",
-                    "title": "Pokémon: Advanced Battle",
-                    "artist": "Studio Jack",
-                    "author": "Studio Jack",
-                    "description": "Ash earns his final two Badges and secures himself a spot in the Hoenn League Championships, while May comes dangerously close to not getting her final Ribbon—setting the stage for epic showdowns with both of her rivals in the Grand Festival. Ash meets two Trainers that become his own Hoenn rivals, facing off against both of them during the course of the tournament. Upon returning to Kanto and reuniting with old friends, Ash is recruited for a new challenge—the Battle Frontier!",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/no-longer-allowed-in-another-world/",
+                    "title": "No Longer Allowed in Another World",
+                    "artist": "AtelierPontdarc",
+                    "author": "AT-X",
+                    "description": "An adventure in another world with cute girls by your side and video game-like powers—sounds like an anime fan's dream, right? Not so for melancholic author Osamu Dazai, who would quite literally prefer to drop dead. Video games haven't even been invented yet when he gets yanked into another world in 1948. Really, all the fantastical adventure he keeps running into is just getting in the way of his poetic dream of finding the perfect place to die. But no matter how much he risks his hide, everything seems to keep turning out okay. Follow a miserable hero like no other in this cheerfully bleak isekai comedy!",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Isekai, Parody",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/wp-json/kiranime/v1/episode?id=1750",
-                        "name": "Season 4 - Episode 47",
-                        "date_upload": 1710123192000,
-                        "episode_number": 191.0
-                    },
-                    {
-                        "url": "/wp-json/kiranime/v1/episode?id=1749",
-                        "name": "Season 4 - Episode 46",
-                        "date_upload": 1710123191000,
-                        "episode_number": 190.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
-                        "quality": "[hindi] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
-                        "quality": "[english] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=3pkpdeh4tes69i6rlioae94ln5",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
-                        "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
-                        "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
-                        "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
-                        "quality": "[hindi] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
-                        "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=3pkpdeh4tes69i6rlioae94ln5",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
-                        "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=3pkpdeh4tes69i6rlioae94ln5",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
-                        "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=3pkpdeh4tes69i6rlioae94ln5",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
-                        "quality": "[english] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "PHPSESSID=3pkpdeh4tes69i6rlioae94ln5",
-                            "accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"en.....",
+                "passed": false
             }
         }
     },
@@ -319,8 +172,19 @@
         "name": "AnimeWorld India (BN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -386,7 +250,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=450m6uk8a3bgdd0l4pln6isu83",
                             "accept": "*/*"
                         }
                     },
@@ -396,7 +260,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=450m6uk8a3bgdd0l4pln6isu83",
                             "accept": "*/*"
                         }
                     },
@@ -406,7 +270,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=450m6uk8a3bgdd0l4pln6isu83",
                             "accept": "*/*"
                         }
                     },
@@ -416,7 +280,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=450m6uk8a3bgdd0l4pln6isu83",
                             "accept": "*/*"
                         }
                     },
@@ -426,7 +290,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
+                            "cookie": "PHPSESSID=450m6uk8a3bgdd0l4pln6isu83",
                             "accept": "*/*"
                         }
                     }
@@ -443,37 +307,107 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/pokemon-advanced-battle/",
-                                "title": "Pokémon: Advanced Battle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/718.webp"
+                                "url": "/series/naruto-shippuden/",
+                                "title": "Naruto: Shippuden",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12032.webp"
                             },
                             {
-                                "url": "/series/beyblade-burst-rise/",
-                                "title": "Beyblade Burst Rise",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2758.webp"
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
                             },
                             {
-                                "url": "/series/pokemon-dp-battle-dimension/",
-                                "title": "Pokémon: DP Battle Dimension",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1083.webp"
+                                "url": "/series/american-dragon-jake-long/",
+                                "title": "American Dragon: Jake Long",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/3412.webp"
                             },
                             {
-                                "url": "/series/pokemon-dp-sinnoh-league-victors/",
-                                "title": "Pokémon: DP Sinnoh League Victors",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1085.webp"
+                                "url": "/series/my-dress-up-darling/",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10279.webp"
                             },
                             {
-                                "url": "/series/pokemon-advanced-challenge/",
-                                "title": "Pokémon: Advanced Challenge",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/717.webp"
+                                "url": "/series/ninja-hattori-1981/",
+                                "title": "Ninja Hattori (1981)",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2775.webp"
                             },
                             {
-                                "url": "/series/pokemon-dp-galactic-battles/",
-                                "title": "Pokémon: DP Galactic Battles",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1084.webp"
+                                "url": "/series/dr-stone/",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13107.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball-z/",
+                                "title": "Dragon Ball Z",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2489.webp"
+                            },
+                            {
+                                "url": "/series/ben-10-omniverse/",
+                                "title": "Ben 10: Omniverse",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/474.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball/",
+                                "title": "Dragon Ball",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2488.webp"
+                            },
+                            {
+                                "url": "/series/ben-10/",
+                                "title": "Ben 10: Classic",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/331.webp"
+                            },
+                            {
+                                "url": "/series/ben-10-versus-the-universe-the-movie/",
+                                "title": "Ben 10 Versus the Universe: The Movie",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/7936.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-xyz/",
+                                "title": "Pokémon the Series: XYZ",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1214.webp"
+                            },
+                            {
+                                "url": "/series/ben-10-ultimate-alien/",
+                                "title": "Ben 10: Ultimate Alien",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/471.webp"
+                            },
+                            {
+                                "url": "/series/avatar-the-last-airbender/",
+                                "title": "Avatar: The Last Airbender",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2837.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-indigo-league/",
+                                "title": "Pokémon: Indigo League",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/487.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-advanced/",
+                                "title": "Pokémon: Advanced",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/715.webp"
+                            },
+                            {
+                                "url": "/series/slugterra/",
+                                "title": "Slugterra",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2769.webp"
+                            },
+                            {
+                                "url": "/series/star-wars-rebels/",
+                                "title": "Star Wars Rebels",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2854.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-diamond-and-pearl/",
+                                "title": "Pokémon: Diamond and Pearl",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1078.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-battle-frontier/",
+                                "title": "Pokémon: Battle Frontier",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/719.webp"
                             }
                         ],
-                        "hasNextPage": false
+                        "hasNextPage": true
                     }
                 ],
                 "passed": true
@@ -482,6 +416,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/dr-stone/",
                                 "title": "Dr. Stone",
@@ -576,11 +515,6 @@
                                 "url": "/series/ultimate-spider-man/",
                                 "title": "Ultimate Spider-Man",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2779.webp"
-                            },
-                            {
-                                "url": "/series/spider-man/",
-                                "title": "Spider-Man",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2778.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -592,6 +526,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/miraculous-world-new-york-united-heroez/",
                                 "title": "Miraculous World: New York, United HeroeZ",
@@ -615,14 +554,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-advanced-battle/",
-                    "title": "Pokémon: Advanced Battle",
-                    "artist": "Studio Jack",
-                    "author": "Studio Jack",
-                    "description": "Ash earns his final two Badges and secures himself a spot in the Hoenn League Championships, while May comes dangerously close to not getting her final Ribbon—setting the stage for epic showdowns with both of her rivals in the Grand Festival. Ash meets two Trainers that become his own Hoenn rivals, facing off against both of them during the course of the tournament. Upon returning to Kanto and reuniting with old friends, Ash is recruited for a new challenge—the Battle Frontier!",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/naruto-shippuden/",
+                    "title": "Naruto: Shippuden",
+                    "artist": "Pierrot",
+                    "author": "Aniplex",
+                    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world. Although Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.",
+                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -630,16 +569,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1750",
-                        "name": "Season 4 - Episode 47",
-                        "date_upload": 1710123192000,
-                        "episode_number": 191.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12964",
+                        "name": "Episode 110",
+                        "date_upload": 1718996528000,
+                        "episode_number": 110.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1749",
-                        "name": "Season 4 - Episode 46",
-                        "date_upload": 1710123191000,
-                        "episode_number": 190.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12963",
+                        "name": "Episode 109",
+                        "date_upload": 1718994851000,
+                        "episode_number": 109.0
                     }
                 ],
                 "passed": true
@@ -647,9 +586,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "quality": "[english] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -657,9 +596,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -667,9 +606,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -677,9 +616,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -687,9 +626,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "quality": "[english] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -709,32 +648,107 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/pokemon-advanced-battle/",
-                                "title": "Pokémon: Advanced Battle",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/718.webp"
+                                "url": "/series/naruto-shippuden/",
+                                "title": "Naruto: Shippuden",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12032.webp"
                             },
                             {
-                                "url": "/series/pokemon-dp-battle-dimension/",
-                                "title": "Pokémon: DP Battle Dimension",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1083.webp"
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
                             },
                             {
-                                "url": "/series/pokemon-dp-sinnoh-league-victors/",
-                                "title": "Pokémon: DP Sinnoh League Victors",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1085.webp"
+                                "url": "/series/shinchan/",
+                                "title": "Shinchan",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2746.webp"
                             },
                             {
-                                "url": "/series/pokemon-advanced-challenge/",
-                                "title": "Pokémon: Advanced Challenge",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/717.webp"
+                                "url": "/series/american-dragon-jake-long/",
+                                "title": "American Dragon: Jake Long",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/3412.webp"
                             },
                             {
-                                "url": "/series/pokemon-dp-galactic-battles/",
-                                "title": "Pokémon: DP Galactic Battles",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1084.webp"
+                                "url": "/series/ben-10/",
+                                "title": "Ben 10: Classic",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/331.webp"
+                            },
+                            {
+                                "url": "/series/ben-10-omniverse/",
+                                "title": "Ben 10: Omniverse",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/474.webp"
+                            },
+                            {
+                                "url": "/series/my-dress-up-darling/",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10279.webp"
+                            },
+                            {
+                                "url": "/series/ninja-hattori-1981/",
+                                "title": "Ninja Hattori (1981)",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2775.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball-z/",
+                                "title": "Dragon Ball Z",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2489.webp"
+                            },
+                            {
+                                "url": "/series/dr-stone/",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13107.webp"
+                            },
+                            {
+                                "url": "/series/doraemon/",
+                                "title": "Doraemon",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2749.webp"
+                            },
+                            {
+                                "url": "/series/kick-buttowski-suburban-daredevil/",
+                                "title": "Kick Buttowski: Suburban Daredevil",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2851.webp"
+                            },
+                            {
+                                "url": "/series/ben-10-versus-the-universe-the-movie/",
+                                "title": "Ben 10 Versus the Universe: The Movie",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/7936.webp"
+                            },
+                            {
+                                "url": "/series/my-hero-academia/",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/11485.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-xyz/",
+                                "title": "Pokémon the Series: XYZ",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1214.webp"
+                            },
+                            {
+                                "url": "/series/ben-10-ultimate-alien/",
+                                "title": "Ben 10: Ultimate Alien",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/471.webp"
+                            },
+                            {
+                                "url": "/series/avatar-the-last-airbender/",
+                                "title": "Avatar: The Last Airbender",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2837.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-indigo-league/",
+                                "title": "Pokémon: Indigo League",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/487.webp"
+                            },
+                            {
+                                "url": "/series/pokemon-advanced/",
+                                "title": "Pokémon: Advanced",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/715.webp"
+                            },
+                            {
+                                "url": "/series/slugterra/",
+                                "title": "Slugterra",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2769.webp"
                             }
                         ],
-                        "hasNextPage": false
+                        "hasNextPage": true
                     }
                 ],
                 "passed": true
@@ -743,6 +757,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/dr-stone/",
                                 "title": "Dr. Stone",
@@ -837,11 +856,6 @@
                                 "url": "/series/ultimate-spider-man/",
                                 "title": "Ultimate Spider-Man",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2779.webp"
-                            },
-                            {
-                                "url": "/series/spider-man/",
-                                "title": "Spider-Man",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2778.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -853,6 +867,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/miraculous-world-new-york-united-heroez/",
                                 "title": "Miraculous World: New York, United HeroeZ",
@@ -871,14 +890,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/pokemon-advanced-battle/",
-                    "title": "Pokémon: Advanced Battle",
-                    "artist": "Studio Jack",
-                    "author": "Studio Jack",
-                    "description": "Ash earns his final two Badges and secures himself a spot in the Hoenn League Championships, while May comes dangerously close to not getting her final Ribbon—setting the stage for epic showdowns with both of her rivals in the Grand Festival. Ash meets two Trainers that become his own Hoenn rivals, facing off against both of them during the course of the tournament. Upon returning to Kanto and reuniting with old friends, Ash is recruited for a new challenge—the Battle Frontier!",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Kids",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/naruto-shippuden/",
+                    "title": "Naruto: Shippuden",
+                    "artist": "Pierrot",
+                    "author": "Aniplex",
+                    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world. Although Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.",
+                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -886,16 +905,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1750",
-                        "name": "Season 4 - Episode 47",
-                        "date_upload": 1710123192000,
-                        "episode_number": 191.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12964",
+                        "name": "Episode 110",
+                        "date_upload": 1718996528000,
+                        "episode_number": 110.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=1749",
-                        "name": "Season 4 - Episode 46",
-                        "date_upload": 1710123191000,
-                        "episode_number": 190.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12963",
+                        "name": "Episode 109",
+                        "date_upload": 1718994851000,
+                        "episode_number": 109.0
                     }
                 ],
                 "passed": true
@@ -903,9 +922,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "quality": "[hindi] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RlczWjlnN1VnYmF2RGxrNTk4ZXNjY1cwYjZrUU9IWGxraFBTMDVPcFhKOGc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -913,9 +932,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2R0k0aFJ4QlFiR2ZWcHhMSTg2dWFseFRRcjNNVTVpYjQ0SVdzdFA0T3lNOVE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -923,9 +942,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RW5nVUR0Zmt3K2luc3lLWTVwNmRWQmk4ajdTWjNERncxYkFvL2hueGRYSmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -933,9 +952,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RzM4WGpDdmNHRGZoeXhWcEZkRTVoOXVTS2JQNHJTeWU0Zi9IVmtER0ZGd0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -943,9 +962,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "quality": "[hindi] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/anFLZzFNUkVsbkVaWG0zcEdpUlVrRlY0MWZEeTJ3alE0VGFUMk5qQkx2RVQ4Q2xidWp4QWZrTzEvRWMzVGtTRDZLaUNCNU1hRjNYSnoyUjJUQjRSM0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -961,13 +980,64 @@
         "name": "AnimeWorld India (JA)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/naruto-shippuden/",
+                                "title": "Naruto: Shippuden",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12032.webp"
+                            },
+                            {
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball/",
+                                "title": "Dragon Ball",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2488.webp"
+                            },
+                            {
+                                "url": "/series/my-dress-up-darling/",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10279.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball-z-kai/",
+                                "title": "Dragon Ball Z Kai",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10431.webp"
+                            },
+                            {
+                                "url": "/series/dr-stone/",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13107.webp"
+                            },
+                            {
+                                "url": "/series/black-clover-sword-of-the-wizard-king/",
+                                "title": "Black Clover: Sword of the Wizard King",
+                                "thumbnail_url": "https://anime-world.in/files/10633.jpg"
+                            },
+                            {
+                                "url": "/series/my-hero-academia/",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/11485.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/dr-stone/",
                                 "title": "Dr. Stone",
@@ -1062,11 +1132,6 @@
                                 "url": "/series/pokemon-the-movie-mewtwo-strikes-back-evolution/",
                                 "title": "Pokemon the Movie: Mewtwo Strikes Back – Evolution",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7929.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-zoroark-master-of-illusions/",
-                                "title": "Pokémon: Zoroark: Master of Illusions",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/7927.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -1078,6 +1143,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            }
                         ],
                         "hasNextPage": false
                     }
@@ -1086,14 +1156,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/dr-stone/",
-                    "title": "Dr. Stone",
-                    "artist": "TMS Entertainment",
-                    "author": "8PAN",
-                    "description": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone. Several millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified. However, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.",
-                    "genre": "Action, Adventure, Comedy, Sci-Fi, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/naruto-shippuden/",
+                    "title": "Naruto: Shippuden",
+                    "artist": "Pierrot",
+                    "author": "Aniplex",
+                    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world. Although Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.",
+                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -1101,16 +1171,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=13168",
-                        "name": "Episode 24 - Voices Over Infinite Distance",
-                        "date_upload": 1720520844000,
-                        "episode_number": 24.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12964",
+                        "name": "Episode 110",
+                        "date_upload": 1718996528000,
+                        "episode_number": 110.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=13132",
-                        "name": "Episode 23 - Wave of Science",
-                        "date_upload": 1719724375000,
-                        "episode_number": 23.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12963",
+                        "name": "Episode 109",
+                        "date_upload": 1718994851000,
+                        "episode_number": 109.0
                     }
                 ],
                 "passed": true
@@ -1118,9 +1188,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cHBUWG40d1lpdm5JTE95WjVNWnVxZndSMkZwRjRKTFkzdTk1dnovdVBBOXc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "quality": "[japanese] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cHBUWG40d1lpdm5JTE95WjVNWnVxZndSMkZwRjRKTFkzdTk1dnovdVBBOXc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1128,9 +1198,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWNPdFVlUnBnUSsrOVhzOGdkcVVGSGNlNjF0WWVxYXNybzJzKzcwZENzL0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "quality": "[japanese] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWNPdFVlUnBnUSsrOVhzOGdkcVVGSGNlNjF0WWVxYXNybzJzKzcwZENzL0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1138,9 +1208,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b1NOYUlwL3NPVmMzRXJncFVMWHRMMlF0TnRRTHhabndUM3lJS0QwZHdMYmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "quality": "[japanese] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b1NOYUlwL3NPVmMzRXJncFVMWHRMMlF0TnRRTHhabndUM3lJS0QwZHdMYmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1148,9 +1218,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b0J4MzlCbWtLbG9sSVpKU0hhcEg1LzA1cmpqelJmN2c4OHpycnpENU56Nmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "quality": "[japanese] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b0J4MzlCbWtLbG9sSVpKU0hhcEg1LzA1cmpqelJmN2c4OHpycnpENU56Nmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1158,9 +1228,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWdJMHlzb3FpVzh1M0tpR0dqdmFJNTFid25ZazJoYllSMlN5U2dIZzhlZUE9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "quality": "[japanese] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWdJMHlzb3FpVzh1M0tpR0dqdmFJNTFid25ZazJoYllSMlN5U2dIZzhlZUE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1176,8 +1246,34 @@
         "name": "AnimeWorld India (ML)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/naruto-shippuden/",
+                                "title": "Naruto: Shippuden",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12032.webp"
+                            },
+                            {
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball-z-kai/",
+                                "title": "Dragon Ball Z Kai",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10431.webp"
+                            },
+                            {
+                                "url": "/series/my-hero-academia/",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/11485.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -1226,12 +1322,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/naruto/",
-                    "title": "Naruto",
+                    "url": "/series/naruto-shippuden/",
+                    "title": "Naruto: Shippuden",
                     "artist": "Pierrot",
                     "author": "Aniplex",
-                    "description": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
-                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen, Super Power, Supernatural",
+                    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world. Although Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.",
+                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -1241,16 +1337,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=11184",
-                        "name": "Episode 220 - Departure",
-                        "date_upload": 1710122394000,
-                        "episode_number": 220.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12964",
+                        "name": "Episode 110",
+                        "date_upload": 1718996528000,
+                        "episode_number": 110.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=11186",
-                        "name": "Episode 219 - The Ultimate Weapon Reborn",
-                        "date_upload": 1710122393000,
-                        "episode_number": 219.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12963",
+                        "name": "Episode 109",
+                        "date_upload": 1718994851000,
+                        "episode_number": 109.0
                     }
                 ],
                 "passed": true
@@ -1258,9 +1354,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "quality": "[malayalam] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1268,9 +1364,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "quality": "[malayalam] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1278,9 +1374,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "quality": "[malayalam] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1288,9 +1384,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "quality": "[malayalam] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1298,9 +1394,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "quality": "[malayalam] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1378,13 +1474,84 @@
         "name": "AnimeWorld India (TA)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/naruto-shippuden/",
+                                "title": "Naruto: Shippuden",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12032.webp"
+                            },
+                            {
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
+                            },
+                            {
+                                "url": "/series/shinchan/",
+                                "title": "Shinchan",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2746.webp"
+                            },
+                            {
+                                "url": "/series/american-dragon-jake-long/",
+                                "title": "American Dragon: Jake Long",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/3412.webp"
+                            },
+                            {
+                                "url": "/series/my-dress-up-darling/",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10279.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball-z-kai/",
+                                "title": "Dragon Ball Z Kai",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10431.webp"
+                            },
+                            {
+                                "url": "/series/dr-stone/",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13107.webp"
+                            },
+                            {
+                                "url": "/series/ninja-hattori-1981/",
+                                "title": "Ninja Hattori (1981)",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2775.webp"
+                            },
+                            {
+                                "url": "/series/my-hero-academia/",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/11485.webp"
+                            },
+                            {
+                                "url": "/series/doraemon/",
+                                "title": "Doraemon",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2749.webp"
+                            },
+                            {
+                                "url": "/series/kick-buttowski-suburban-daredevil/",
+                                "title": "Kick Buttowski: Suburban Daredevil",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2851.webp"
+                            },
+                            {
+                                "url": "/series/star-wars-rebels/",
+                                "title": "Star Wars Rebels",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2854.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/dr-stone/",
                                 "title": "Dr. Stone",
@@ -1479,11 +1646,6 @@
                                 "url": "/series/the-adventures-of-tintin/",
                                 "title": "The Adventures of Tintin",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7205.webp"
-                            },
-                            {
-                                "url": "/series/doraemon/",
-                                "title": "Doraemon",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2749.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -1495,6 +1657,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            }
                         ],
                         "hasNextPage": false
                     }
@@ -1503,14 +1670,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/dr-stone/",
-                    "title": "Dr. Stone",
-                    "artist": "TMS Entertainment",
-                    "author": "8PAN",
-                    "description": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone. Several millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified. However, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.",
-                    "genre": "Action, Adventure, Comedy, Sci-Fi, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/naruto-shippuden/",
+                    "title": "Naruto: Shippuden",
+                    "artist": "Pierrot",
+                    "author": "Aniplex",
+                    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world. Although Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.",
+                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -1518,16 +1685,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=13168",
-                        "name": "Episode 24 - Voices Over Infinite Distance",
-                        "date_upload": 1720520844000,
-                        "episode_number": 24.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12964",
+                        "name": "Episode 110",
+                        "date_upload": 1718996528000,
+                        "episode_number": 110.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=13132",
-                        "name": "Episode 23 - Wave of Science",
-                        "date_upload": 1719724375000,
-                        "episode_number": 23.0
+                        "url": "/wp-json/kiranime/v1/episode?id=12963",
+                        "name": "Episode 109",
+                        "date_upload": 1718994851000,
+                        "episode_number": 109.0
                     }
                 ],
                 "passed": true
@@ -1535,9 +1702,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cHBUWG40d1lpdm5JTE95WjVNWnVxZndSMkZwRjRKTFkzdTk1dnovdVBBOXc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "quality": "[tamil] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cHBUWG40d1lpdm5JTE95WjVNWnVxZndSMkZwRjRKTFkzdTk1dnovdVBBOXc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2Mk51U1ZPZzZtbnhkRk1WQy9KTDJRc2xFVzlweW80YnpLYThvSlB2UXQrZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1545,9 +1712,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWNPdFVlUnBnUSsrOVhzOGdkcVVGSGNlNjF0WWVxYXNybzJzKzcwZENzL0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "quality": "[tamil] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWNPdFVlUnBnUSsrOVhzOGdkcVVGSGNlNjF0WWVxYXNybzJzKzcwZENzL0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2M3U4OERiQ2ZrOEw3RzlIWFgxUDNINkEzKyszSWdZeTJab21BY2JEVUs3Wmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1555,9 +1722,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b1NOYUlwL3NPVmMzRXJncFVMWHRMMlF0TnRRTHhabndUM3lJS0QwZHdMYmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "quality": "[tamil] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b1NOYUlwL3NPVmMzRXJncFVMWHRMMlF0TnRRTHhabndUM3lJS0QwZHdMYmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MzZMdjlrRXNxSWRaZkhsdTBhT3BIVkxuSENXdzEyWGduTUVpSUllKzdlZnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1565,9 +1732,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b0J4MzlCbWtLbG9sSVpKU0hhcEg1LzA1cmpqelJmN2c4OHpycnpENU56Nmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "quality": "[tamil] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b0J4MzlCbWtLbG9sSVpKU0hhcEg1LzA1cmpqelJmN2c4OHpycnpENU56Nmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MEpJQnFNbTZSZUVienR4OFFjT0RMVlBqbFhhQXpQMk1HMkM0NDNtNjB3ZVE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1575,9 +1742,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWdJMHlzb3FpVzh1M0tpR0dqdmFJNTFid25ZazJoYllSMlN5U2dIZzhlZUE9PQ==",
+                        "url": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "quality": "[tamil] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWdJMHlzb3FpVzh1M0tpR0dqdmFJNTFid25ZazJoYllSMlN5U2dIZzhlZUE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/Qzc2US9xYW5WV3I5M1c3UnZhejhENnJnc01FVVgxQWVMVGdVRnQ5THI2MC9vUklKWFkvZmF3UGk0UGpyWldaT250TnhOUUNxRmR4Y291ZHlYQTFnSnc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1593,13 +1760,79 @@
         "name": "AnimeWorld India (TE)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1221.webp"
+                            },
+                            {
+                                "url": "/series/shinchan/",
+                                "title": "Shinchan",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2746.webp"
+                            },
+                            {
+                                "url": "/series/american-dragon-jake-long/",
+                                "title": "American Dragon: Jake Long",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/3412.webp"
+                            },
+                            {
+                                "url": "/series/dragon-ball-z-kai/",
+                                "title": "Dragon Ball Z Kai",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10431.webp"
+                            },
+                            {
+                                "url": "/series/dr-stone/",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13107.webp"
+                            },
+                            {
+                                "url": "/series/ninja-hattori-1981/",
+                                "title": "Ninja Hattori (1981)",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2775.webp"
+                            },
+                            {
+                                "url": "/series/my-dress-up-darling/",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/10279.webp"
+                            },
+                            {
+                                "url": "/series/my-hero-academia/",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/11485.webp"
+                            },
+                            {
+                                "url": "/series/doraemon/",
+                                "title": "Doraemon",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2749.webp"
+                            },
+                            {
+                                "url": "/series/kick-buttowski-suburban-daredevil/",
+                                "title": "Kick Buttowski: Suburban Daredevil",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2851.webp"
+                            },
+                            {
+                                "url": "/series/star-wars-rebels/",
+                                "title": "Star Wars Rebels",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2854.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            },
                             {
                                 "url": "/series/dr-stone/",
                                 "title": "Dr. Stone",
@@ -1694,11 +1927,6 @@
                                 "url": "/series/shinchan/",
                                 "title": "Shinchan",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2746.webp"
-                            },
-                            {
-                                "url": "/series/the-incredible-hulk/",
-                                "title": "The Incredible Hulk",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3428.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -1710,6 +1938,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/no-longer-allowed-in-another-world/",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/13358.webp"
+                            }
                         ],
                         "hasNextPage": false
                     }
@@ -1718,14 +1951,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/dr-stone/",
-                    "title": "Dr. Stone",
-                    "artist": "TMS Entertainment",
-                    "author": "8PAN",
-                    "description": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone. Several millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified. However, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.",
-                    "genre": "Action, Adventure, Comedy, Sci-Fi, Shounen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/naruto/",
+                    "title": "Naruto",
+                    "artist": "Pierrot",
+                    "author": "Aniplex",
+                    "description": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+                    "genre": "Action, Adventure, Fantasy, Martial Arts, Shounen, Super Power, Supernatural",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -1733,16 +1966,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=13168",
-                        "name": "Episode 24 - Voices Over Infinite Distance",
-                        "date_upload": 1720520844000,
-                        "episode_number": 24.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11184",
+                        "name": "Episode 220 - Departure",
+                        "date_upload": 1710122394000,
+                        "episode_number": 220.0
                     },
                     {
-                        "url": "/wp-json/kiranime/v1/episode?id=13132",
-                        "name": "Episode 23 - Wave of Science",
-                        "date_upload": 1719724375000,
-                        "episode_number": 23.0
+                        "url": "/wp-json/kiranime/v1/episode?id=11186",
+                        "name": "Episode 219 - The Ultimate Weapon Reborn",
+                        "date_upload": 1710122393000,
+                        "episode_number": 219.0
                     }
                 ],
                 "passed": true
@@ -1750,9 +1983,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cHBUWG40d1lpdm5JTE95WjVNWnVxZndSMkZwRjRKTFkzdTk1dnovdVBBOXc9PQ==",
+                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
                         "quality": "[telugu] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cHBUWG40d1lpdm5JTE95WjVNWnVxZndSMkZwRjRKTFkzdTk1dnovdVBBOXc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1760,9 +1993,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWNPdFVlUnBnUSsrOVhzOGdkcVVGSGNlNjF0WWVxYXNybzJzKzcwZENzL0E9PQ==",
+                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
                         "quality": "[telugu] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWNPdFVlUnBnUSsrOVhzOGdkcVVGSGNlNjF0WWVxYXNybzJzKzcwZENzL0E9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1770,9 +2003,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b1NOYUlwL3NPVmMzRXJncFVMWHRMMlF0TnRRTHhabndUM3lJS0QwZHdMYmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
                         "quality": "[telugu] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b1NOYUlwL3NPVmMzRXJncFVMWHRMMlF0TnRRTHhabndUM3lJS0QwZHdMYmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1780,9 +2013,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b0J4MzlCbWtLbG9sSVpKU0hhcEg1LzA1cmpqelJmN2c4OHpycnpENU56Nmc9PQ==",
+                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
                         "quality": "[telugu] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14b0J4MzlCbWtLbG9sSVpKU0hhcEg1LzA1cmpqelJmN2c4OHpycnpENU56Nmc9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",
@@ -1790,9 +2023,9 @@
                         }
                     },
                     {
-                        "url": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWdJMHlzb3FpVzh1M0tpR0dqdmFJNTFid25ZazJoYllSMlN5U2dIZzhlZUE9PQ==",
+                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
                         "quality": "[telugu] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/TytPMHVhSWVQck5lWSsrTnFLRU5Cd1ljd0kwc29WakN5b1pQZDZGVE14cWdJMHlzb3FpVzh1M0tpR0dqdmFJNTFid25ZazJoYllSMlN5U2dIZzhlZUE9PQ==",
+                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "cookie": "",

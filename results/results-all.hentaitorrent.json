@@ -3,7 +3,7 @@
         "name": "Hentai Torrent (Torrent) (ALL)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
@@ -11,11 +11,11 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 504",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {

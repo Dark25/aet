@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/batman-caped-crusader",
+                                "title": "Batman: Caped Crusader",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933691.jpg"
+                            },
+                            {
                                 "url": "/anime/no-longer-allowed-in-another-world",
                                 "title": "No Longer Allowed in Another World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933690.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/fairy-tail-100-years-quest",
                                 "title": "Fairy Tail: 100 Years Quest",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933676.jpg"
-                            },
-                            {
-                                "url": "/anime/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me",
-                                "title": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933675.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/no-longer-allowed-in-another-world",
-                    "title": "No Longer Allowed in Another World",
-                    "description": "An adventure in another world with cute girls by your side and video game-like powers—sounds like an anime fan’s dream, right? Not so for melancholic author Osamu Dazai, who would quite literally prefer to drop dead. Video games haven’t even been invented yet when he gets yanked into another world in 1948. Really, all the fantastical adventure he keeps running into is just getting in the way of his poetic dream of finding the perfect place to die. But no matter how much he risks his hide, everything seems to keep turning out okay. Follow a miserable hero like no other in this cheerfully bleak isekai comedy!",
-                    "genre": "Adventure, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933690.jpg",
+                    "url": "/anime/batman-caped-crusader",
+                    "title": "Batman: Caped Crusader",
+                    "description": "After a family tragedy, socialite Bruce Wayne transforms into The Batman, where his crusade for justice spawns unforeseen ramifications.",
+                    "genre": "Action, Adventure, Animation, Crime, Family, Fantasy, Sci-fi, Superhero, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933691.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/no-longer-allowed-in-another-world-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dB1TzoDsW2G1wYoJxDOyxW-heFAf5IBRSqE2xtrNR83upX760IoiuI2CrbMn73nS5zwSGdtAPr-_RDSqALV1ZnQDSZ597p-OnKKFTojr5OhNr_ssttzo1Vtr5BmWjehDKwtpoBYR1WcWGV-LOGuy-u15Vk7xUvJT85nZUnIazWvQLPs278zwQWtIpIVnSJRzJn11Ow4wEKhk5H79QcUBz8Tucux4W1wa9k6becXoTfncnuRitazNjC8qPQbo7Qve4Qg-rZQjWeD95poTZPzCFO0",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dB1TzoDsW2G1wYoJxDOyxW-heFAf5IBRSqE2xtrNR83upX760IoiuI2CrbMn73nS5zwSGdtAPr-_RDSqALV1ZnQDSZ597p-OnKKFTojr5OhNr_ssttzo1Vtr5BmWjehDKwtpoBYR1WcWGV-LOGuy-u15Vk7xUvJT85nZUnIazWvQLPs278zwQWtIpIVnSJRzJn11Ow4wEKhk5H79QcUBz8Tucux4W1wa9k6becXoTfncnuRitazNjC8qPQbo7Qve4Qg-rZQjWeD95poTZPzCFO0"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dC3tlww0-27KRoFmVobSWlNe9gYZrKgZrP1kV8hekhr-PrM7A34UVZpNUgZio7LfJxjQrYmNMs0-pX3sWX-8dUAWWyRKcmVMyML_z1MsAJ5UW_zJQSjRPT0LivBDeujV8e0QxdKU2oMPlG_1HfMWGe3duGRvn8YEPQXzcYoqpd-YpXK1NqQAWn3k5QCqYHAd9LpcAsQX-iO9XKn-oaWhHxvnnCzpx_Qc6sKoGExrH4QeQG6zS1uSOnQssbXtkb8cgswCg-AqxOomvmLqu6ZxlpU",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dC3tlww0-27KRoFmVobSWlNe9gYZrKgZrP1kV8hekhr-PrM7A34UVZpNUgZio7LfJxjQrYmNMs0-pX3sWX-8dUAWWyRKcmVMyML_z1MsAJ5UW_zJQSjRPT0LivBDeujV8e0QxdKU2oMPlG_1HfMWGe3duGRvn8YEPQXzcYoqpd-YpXK1NqQAWn3k5QCqYHAd9LpcAsQX-iO9XKn-oaWhHxvnnCzpx_Qc6sKoGExrH4QeQG6zS1uSOnQssbXtkb8cgswCg-AqxOomvmLqu6ZxlpU"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dKP2tj_A0axsB4cUT719Efp8_CeSfVaDiGJyySHCvQ_oYepYVcDpyMceDr_izgcTRh_W8f3OnnVAefvfr1ffEqqx0aH7x9RHMQAvoegCZblqOmqPvUsfi2ahoH22iVpxW8tVLa2ZuWRxd7qrkh_0DQC6fI2Lxn3ai8vvSGXsCi9kw79zz0r9craVvKbvB-dq-iW_8HGN8odj780LDwvN7f4X3DWLmSPJzZ3dAwnB7V5_fUAIiPzEPinJY3j80LHuSCsmHVKFCcx4o85DJ-edGYU",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dKP2tj_A0axsB4cUT719Efp8_CeSfVaDiGJyySHCvQ_oYepYVcDpyMceDr_izgcTRh_W8f3OnnVAefvfr1ffEqqx0aH7x9RHMQAvoegCZblqOmqPvUsfi2ahoH22iVpxW8tVLa2ZuWRxd7qrkh_0DQC6fI2Lxn3ai8vvSGXsCi9kw79zz0r9craVvKbvB-dq-iW_8HGN8odj780LDwvN7f4X3DWLmSPJzZ3dAwnB7V5_fUAIiPzEPinJY3j80LHuSCsmHVKFCcx4o85DJ-edGYU"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

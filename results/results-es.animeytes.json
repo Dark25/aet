@@ -423,39 +423,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/tv/good-night-world/",
-                                "title": "Good Night World",
-                                "thumbnail_url": "https://i1.wp.com/animeyt.pro/wp-content/uploads/2023/10/AMNgyVtfiplV.jpg"
-                            },
-                            {
-                                "url": "/tv/dr-stone-new-world/",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://i3.wp.com/animeyt.pro/wp-content/uploads/2023/04/zOBTHUJjJlNf.jpg"
-                            },
-                            {
-                                "url": "/tv/world-dai-star/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://i0.wp.com/animeyt.pro/wp-content/uploads/2023/04/ZqktaAYkvZLw.jpg"
-                            },
-                            {
-                                "url": "/tv/shin-tennis-no-ouji-sama-u-17-world-cup/",
-                                "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
-                                "thumbnail_url": "https://i2.wp.com/animeyt.pro/wp-content/uploads/2022/07/WEUJTFLRNfXj.jpg"
-                            },
-                            {
-                                "url": "/tv/world-trigger-temporada-3/",
-                                "title": "World Trigger Temporada 3",
-                                "thumbnail_url": "https://i3.wp.com/animeyt.pro/wp-content/uploads/2021/10/610d7b4cc461f.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -487,9 +456,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06585/ikfc00p6y1ni_h/index-v1-a1.m3u8?t=sYSFFu4MgGDHE9efCFxvVguySOUhv0lSXjQUfurFK1I&s=1722471397&e=10800&f=32927508&srv=10&asn=8075&sp=4000",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06585/ikfc00p6y1ni_h/index-v1-a1.m3u8?t=2Wq4XIt9ix4lFaD8wY-7O5GZE_7OVNggVgsycpiyaeA&s=1722492414&e=10800&f=32927508&srv=10&asn=8075&sp=4000",
                         "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06585/ikfc00p6y1ni_h/index-v1-a1.m3u8?t=sYSFFu4MgGDHE9efCFxvVguySOUhv0lSXjQUfurFK1I&s=1722471397&e=10800&f=32927508&srv=10&asn=8075&sp=4000",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06585/ikfc00p6y1ni_h/index-v1-a1.m3u8?t=2Wq4XIt9ix4lFaD8wY-7O5GZE_7OVNggVgsycpiyaeA&s=1722492414&e=10800&f=32927508&srv=10&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -497,9 +466,9 @@
                         }
                     },
                     {
-                        "url": "https://cdn.burstcloud.co/a202407311HNv7p1Fums/OP-1113.AnimeYT.es.mp4",
+                        "url": "https://cdn.burstcloud.co/a2024073188yQUXc5LCD/OP-1113.AnimeYT.es.mp4",
                         "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a202407311HNv7p1Fums/OP-1113.AnimeYT.es.mp4",
+                        "videoUrl": "https://cdn.burstcloud.co/a2024073188yQUXc5LCD/OP-1113.AnimeYT.es.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.burstcloud.co"

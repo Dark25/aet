@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/25111/harold-y-su-crayon-magico",
+                                "title": "Harold y su crayón mágico",
+                                "thumbnail_url": "https://pelisimg.online/cover/harold-y-su-crayon-magico.jpg"
+                            },
+                            {
                                 "url": "/25109/niebla-sin-fronteras",
                                 "title": "Niebla sin fronteras",
                                 "thumbnail_url": "https://pelisimg.online/cover/niebla-sin-fronteras.jpg"
@@ -220,11 +225,6 @@
                                 "url": "/25059/amor-mentiras-y-sangre",
                                 "title": "Amor Mentiras y Sangre",
                                 "thumbnail_url": "https://pelisimg.online/cover/amor-mentiras-y-sangre.jpg"
-                            },
-                            {
-                                "url": "/25060/find-me-falling",
-                                "title": "Find Me Falling",
-                                "thumbnail_url": "https://pelisimg.online/cover/find-me-falling.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/25109/niebla-sin-fronteras",
-                    "title": "Niebla sin fronteras",
-                    "description": "Una detective de Yakarta investiga una misteriosa ola de asesinatos en la frontera entre Indonesia y Malasia... y termina enfrentándose a los fantasmas de su pasado.",
-                    "genre": "Suspenso, , Crimen, , Misterio, , Drama",
-                    "thumbnail_url": "https://pelisimg.online/cover/niebla-sin-fronteras.jpg",
+                    "url": "/25111/harold-y-su-crayon-magico",
+                    "title": "Harold y su crayón mágico",
+                    "description": "Un niño llamado Harold se embarca en una misión mágica con la ayuda de su crayón morado",
+                    "genre": "Aventura, , Familia, , Fantasía, , Comedia",
+                    "thumbnail_url": "https://pelisimg.online/cover/harold-y-su-crayon-magico.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/25109/niebla-sin-fronteras",
+                        "url": "/25111/harold-y-su-crayon-magico",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=r9KAvOl6bKSg9k&expires=1722692071&ip=FROsE0EnDS9X&token=KIi1eKFS8Q3-",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=r9KAvOl6bKSg9k&expires=1722692071&ip=FROsE0EnDS9X&token=KIi1eKFS8Q3-"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -825,9 +831,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hrj7brplp3g.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-NsTr6YNfLLBhgtjNIyb1R7jNhEU4F3YfBYjfzwAEi4&s=1722600389&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PntT3ZVmWnGA784gtx1oJEBRCq7Rlvp4m2KI6GFeUL4&s=1722622073&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:1010p",
-                        "videoUrl": "https://hrj7brplp3g.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-NsTr6YNfLLBhgtjNIyb1R7jNhEU4F3YfBYjfzwAEi4&s=1722600389&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PntT3ZVmWnGA784gtx1oJEBRCq7Rlvp4m2KI6GFeUL4&s=1722622073&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -836,9 +842,9 @@
                         }
                     },
                     {
-                        "url": "https://hrj7brplp3g.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-NsTr6YNfLLBhgtjNIyb1R7jNhEU4F3YfBYjfzwAEi4&s=1722600389&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PntT3ZVmWnGA784gtx1oJEBRCq7Rlvp4m2KI6GFeUL4&s=1722622073&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://hrj7brplp3g.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-NsTr6YNfLLBhgtjNIyb1R7jNhEU4F3YfBYjfzwAEi4&s=1722600389&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PntT3ZVmWnGA784gtx1oJEBRCq7Rlvp4m2KI6GFeUL4&s=1722622073&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -847,9 +853,9 @@
                         }
                     },
                     {
-                        "url": "https://hrj7brplp3g.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-NsTr6YNfLLBhgtjNIyb1R7jNhEU4F3YfBYjfzwAEi4&s=1722600389&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PntT3ZVmWnGA784gtx1oJEBRCq7Rlvp4m2KI6GFeUL4&s=1722622073&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://hrj7brplp3g.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-NsTr6YNfLLBhgtjNIyb1R7jNhEU4F3YfBYjfzwAEi4&s=1722600389&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04551/oenkdhei5yyf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PntT3ZVmWnGA784gtx1oJEBRCq7Rlvp4m2KI6GFeUL4&s=1722622073&e=129600&f=22755661&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -858,9 +864,9 @@
                         }
                     },
                     {
-                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-G49jBAZumKceP0P6I-iaCu8PqFKcIj0xK2taLCaoQA&s=1722600397&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=C-bSz5kxlIKY5TGGGjSGjYBIOgVrvDKACohWDTs3Nk8&s=1722622077&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "quality": "[ENG] StreamWish:1010p",
-                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=-G49jBAZumKceP0P6I-iaCu8PqFKcIj0xK2taLCaoQA&s=1722600397&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=C-bSz5kxlIKY5TGGGjSGjYBIOgVrvDKACohWDTs3Nk8&s=1722622077&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -869,9 +875,9 @@
                         }
                     },
                     {
-                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-G49jBAZumKceP0P6I-iaCu8PqFKcIj0xK2taLCaoQA&s=1722600397&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=C-bSz5kxlIKY5TGGGjSGjYBIOgVrvDKACohWDTs3Nk8&s=1722622077&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=-G49jBAZumKceP0P6I-iaCu8PqFKcIj0xK2taLCaoQA&s=1722600397&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=C-bSz5kxlIKY5TGGGjSGjYBIOgVrvDKACohWDTs3Nk8&s=1722622077&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -880,9 +886,9 @@
                         }
                     },
                     {
-                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-G49jBAZumKceP0P6I-iaCu8PqFKcIj0xK2taLCaoQA&s=1722600397&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=C-bSz5kxlIKY5TGGGjSGjYBIOgVrvDKACohWDTs3Nk8&s=1722622077&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=-G49jBAZumKceP0P6I-iaCu8PqFKcIj0xK2taLCaoQA&s=1722600397&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04551/srv0d2vh42j7_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=C-bSz5kxlIKY5TGGGjSGjYBIOgVrvDKACohWDTs3Nk8&s=1722622077&e=129600&f=22755702&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

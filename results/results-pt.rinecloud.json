@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/captain-tsubasa-2-junior-youth-hen-dublado/",
+                                "title": "Captain Tsubasa 2: Junior Youth-hen Dublado",
+                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/05/1715186223-3133-137279.jpg"
+                            },
+                            {
                                 "url": "/anime/giji-harem-dublado/",
                                 "title": "Giji Harem Dublado",
                                 "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/07/1721950280-4527-143547.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san/",
                                 "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
                                 "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/07/1720126786-7554-142258.jpg"
-                            },
-                            {
-                                "url": "/anime/koi-wa-futago-de-warikirenai/",
-                                "title": "Koi wa Futago de Warikirenai",
-                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/07/1720636732-6917-142250.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1722607686&ei=xnesZr3TFKW3kucP8r-J8Q8&ip=172.71.94.49&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1722578497&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgVURBJZH-QsLLB1Y_IXmrACEuFodMMqBzyZTC66FVsIkCIQDZDsPU7XJdde7F-RIvGU2hLpb6UdZr_5J519b4RJDZjg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRQIhAKCS92dv5-cfDKz62DZGw0QRdd6M9EAFY0dQIgmpMt98AiBkTAoSU1S9hGavPikzbHbZ3nrkbl09XQX1Yu66hCcJWw%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1722607686&ei=xnesZr3TFKW3kucP8r-J8Q8&ip=172.71.94.49&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1722578497&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgVURBJZH-QsLLB1Y_IXmrACEuFodMMqBzyZTC66FVsIkCIQDZDsPU7XJdde7F-RIvGU2hLpb6UdZr_5J519b4RJDZjg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRQIhAKCS92dv5-cfDKz62DZGw0QRdd6M9EAFY0dQIgmpMt98AiBkTAoSU1S9hGavPikzbHbZ3nrkbl09XQX1Yu66hCcJWw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1722607686&ei=xnesZr3TFKW3kucP8r-J8Q8&ip=172.71.94.49&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1722578497&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgYljBnDxb053hLjQEhs9pzgKfNFfirtNPkvxJFduHAVoCID2J52-HfKmU-1MlyCK3zTC0EpnlchNEaMuoP-GeON9N&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRAIgbYkXxjBNvedXhxCck2dHAR6i9kC3zwFJuFh2qkaDKzMCIFOOK8oCvi_RIYWuYt989PsVHa-GrT0SHEuBT3mgNbPg",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1722607686&ei=xnesZr3TFKW3kucP8r-J8Q8&ip=172.71.94.49&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1722578497&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgYljBnDxb053hLjQEhs9pzgKfNFfirtNPkvxJFduHAVoCID2J52-HfKmU-1MlyCK3zTC0EpnlchNEaMuoP-GeON9N&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRAIgbYkXxjBNvedXhxCck2dHAR6i9kC3zwFJuFh2qkaDKzMCIFOOK8oCvi_RIYWuYt989PsVHa-GrT0SHEuBT3mgNbPg",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

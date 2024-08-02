@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9442-cowboy-cartel",
+                                "title": "Cowboy Cartel",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/d0c1753d-1d9d-4aae-bf3b-325152b9f2a7.webp"
+                            },
+                            {
                                 "url": "9426-kabut-berduri-la-nebbia-sul-confine",
                                 "title": "Kabut Berduri - La nebbia sul confine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/b7552054-7876-4773-8a3a-cc04f25f6d0b.webp"
@@ -300,11 +305,6 @@
                                 "url": "7698-inside-out-2",
                                 "title": "Inside Out 2",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/76266f04-10f4-4cec-b6c5-8da2af790932.webp"
-                            },
-                            {
-                                "url": "9012-fancy-dance",
-                                "title": "Fancy Dance",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/5005a282-2bf8-458a-a911-19216cbbe269.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9426-kabut-berduri-la-nebbia-sul-confine",
-                    "description": "Una detective metropolitana indaga su una serie di cruenti omicidi lungo il confine tra Indonesia e Malaysia ed è così costretta ad affrontare fantasmi del passato.",
-                    "genre": "Dramma, Crime, Thriller, Mistero",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9442-cowboy-cartel",
+                    "description": "Un giovane agente dell'FBI scopre un'operazione di riciclaggio di denaro nell'ippica americana e rischia la vita per arrestare chi c'è dietro: il cartello più letale del Messico.",
+                    "genre": "Crime, Documentario",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,134 +946,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9426",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9442?episode_id=73456&next_episode=1",
+                        "name": "Stagione 1 episodio 4 - Fotofinish",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "9442?episode_id=73458&next_episode=1",
+                        "name": "Stagione 1 episodio 3 - Denaro pulito, gioco sporco",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/251840?type=video&rendition=1080p&token=LHeO5nZ_Aovg54xLn8aoIg&expires=1727741746&b=1",
-                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/251840?type=video&rendition=1080p&token=LHeO5nZ_Aovg54xLn8aoIg&expires=1727741746&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=3-ind&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Indonesian [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=4-ger&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "German"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=5-eng&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=6-eng&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=7-fre&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=8-forced-ita&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=9-ita&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=10-ukr&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Ukrainian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/251840?type=video&rendition=720p&token=RcTkwcY0ieBZOvFnvbCFFg&expires=1727741746&b=1",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/251840?type=video&rendition=720p&token=RcTkwcY0ieBZOvFnvbCFFg&expires=1727741746&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=3-ind&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Indonesian [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=4-ger&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "German"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=5-eng&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=6-eng&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=7-fre&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=8-forced-ita&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=9-ita&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=10-ukr&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Ukrainian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/251840?type=video&rendition=480p&token=_uCErvCEHKBscK-nqBRd-Q&expires=1727741746&b=1",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/251840?type=video&rendition=480p&token=_uCErvCEHKBscK-nqBRd-Q&expires=1727741746&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=3-ind&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Indonesian [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=4-ger&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "German"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=5-eng&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=6-eng&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=7-fre&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=8-forced-ita&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=9-ita&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/251840?type=subtitle&rendition=10-ukr&token=Qi_40NxocaPBs5W4S7Xh6A&expires=1727741746&b=1",
-                                "lang": "Ukrainian"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

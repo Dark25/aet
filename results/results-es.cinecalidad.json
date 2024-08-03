@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/batman-el-enmascarado/",
+                                "title": "Batman: El enmascarado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//erOlvUGY8PbxEYEyJPlvkS9tPBK.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/asesinato-para-principiantes/",
                                 "title": "Asesinato para principiantes",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//npwE7RnVecHMqzGN1LpQkxWFMGp.jpg"
@@ -75,11 +80,6 @@
                                 "url": "/ver-serie/hombre-cometa-oh-si/",
                                 "title": "Hombre Cometa: ¡Oh, sí!",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//rkGyMCHE2B9GzeZfri3TdLmTJ1X.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/betty-la-fea-la-historia-continua/",
-                                "title": "Betty la fea, la historia continúa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -129,13 +129,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/asesinato-para-principiantes/",
-                    "title": "Asesinato para principiantes",
-                    "artist": "Anna Maxwell Martin, Asha Banks, Carla Woodcock, Emma Myers, Gary Beadle",
-                    "author": "Poppy Cogan",
-                    "description": "Pip Fitz-Amobi, una mujer brillante, no está segura de si la colegiala Andie Bell fue asesinada por su amante Sal Singh hace cinco años. ¿Hasta dónde llegarán para proteger a Pip de saber la verdad si resulta que Sal Singh no es el asesino?",
-                    "genre": "Crimen, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//npwE7RnVecHMqzGN1LpQkxWFMGp.jpg",
+                    "url": "/ver-serie/batman-el-enmascarado/",
+                    "title": "Batman: El enmascarado",
+                    "artist": "Hamish Linklater",
+                    "author": "Bruce Timm",
+                    "description": "Bienvenidos a Ciudad Gótica, donde los delincuentes se mueven a sus anchas y los ciudadanos decentes viven con temor. Forjado en el fuego de la tragedia, el sofisticado multimillonario Bruce Wayne se transforma en Batman, un personaje a la vez más y menos que humano. Su solitaria cruzada contra el mal atrae aliados de la policía y la alcaldía, pero sus actos heroicos tienen ramificaciones letales.",
+                    "genre": "Acción y Aventura, Animación, Crimen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//erOlvUGY8PbxEYEyJPlvkS9tPBK.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -143,14 +143,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/asesinato-para-principiantes-1x2/",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/ver-el-episodio/batman-el-enmascarado-1x6/",
+                        "name": "T1 - E6: Cabalgata nocturna",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/ver-el-episodio/asesinato-para-principiantes-1x1/",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/batman-el-enmascarado-1x5/",
+                        "name": "T1 - E5: La fuerza de su mirada",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -158,21 +158,24 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/06631/6059eknegeef_h/index-v1-a1.m3u8?t=bnmReqq1nd9kMhuEAjCkDyoMdyUy4K2DwvQDOhhBwxo&s=1722644089&e=10800&f=33159617&srv=06&asn=8075&sp=4000",
+                        "url": "https://yrwo6l2a.cdn-jupiter.com/hls2/01/04556/21apeqo3lp3l_n/index-v1-a1.m3u8?t=VDTSf-unm5fWLj2kCBSdBDGSne8HWf5v1CTG9zK30QE&s=1722665250&e=129600&f=22784893&srv=cfpgua3b4ghf2jxe&i=0.4&sp=500&p1=cfpgua3b4ghf2jxe&p2=cfpgua3b4ghf2jxe&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://yrwo6l2a.cdn-jupiter.com/hls2/01/04556/21apeqo3lp3l_n/index-v1-a1.m3u8?t=VDTSf-unm5fWLj2kCBSdBDGSne8HWf5v1CTG9zK30QE&s=1722665250&e=129600&f=22784893&srv=cfpgua3b4ghf2jxe&i=0.4&sp=500&p1=cfpgua3b4ghf2jxe&p2=cfpgua3b4ghf2jxe&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishonly.site",
+                            "Referer": "https://wishonly.site/e/21apeqo3lp3l"
+                        }
+                    },
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06631/mjrzuopzfkp8_h/index-v1-a1.m3u8?t=7IPLxtbU0jAyN2aGDegBSF1XreMHou7Pf1uzk-mzXyI&s=1722665251&e=10800&f=33159988&srv=13&asn=8075&sp=4000",
                         "quality": "Filemoon:1080p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/06631/6059eknegeef_h/index-v1-a1.m3u8?t=bnmReqq1nd9kMhuEAjCkDyoMdyUy4K2DwvQDOhhBwxo&s=1722644089&e=10800&f=33159617&srv=06&asn=8075&sp=4000",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06631/mjrzuopzfkp8_h/index-v1-a1.m3u8?t=7IPLxtbU0jAyN2aGDegBSF1XreMHou7Pf1uzk-mzXyI&s=1722665251&e=10800&f=33159988&srv=13&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
                             "Referer": "https://filemoon.sx/"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-jsubhv3syezen0hx.voe-network.net/engine/hls2/01/11898/laxbgbel4nit_,n,.urlset/index-v1-a1.m3u8?t=UQjzyNm1SrDsyj6iHvI3sgxnDH3dYM6XPma5znoEYnc&s=1722644093&e=14400&f=59491171&node=delivery-node-jsubhv3syezen0hx.voe-network.net&i=172.200&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-jsubhv3syezen0hx.voe-network.net/engine/hls2/01/11898/laxbgbel4nit_,n,.urlset/index-v1-a1.m3u8?t=UQjzyNm1SrDsyj6iHvI3sgxnDH3dYM6XPma5znoEYnc&s=1722644093&e=14400&f=59491171&node=delivery-node-jsubhv3syezen0hx.voe-network.net&i=172.200&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
                         }
                     }
                 ],

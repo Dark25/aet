@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/scooby-doo-2-monstruos-sueltos-2004/",
+                                "title": "Scooby-Doo 2: Monstruos sueltos (2004)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Scooby-Doo-2-scaled.jpg"
+                            },
+                            {
                                 "url": "/peliculas/rebel-moon-parte-dos-corte-del-director-2024/",
                                 "title": "Rebel Moon Parte dos Corte del director (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Bad Boys: Hasta la muerte (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg"
-                            },
-                            {
-                                "url": "/peliculas/los-extranos-capitulo-1-2024/",
-                                "title": "Los Extraños Capítulo 1 (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/tnKmLDpSpJ3CfCav43z13fkeEnr.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/rebel-moon-parte-dos-corte-del-director-2024/",
-                    "title": "Rebel Moon Parte dos Corte del director (2024)",
-                    "artist": "Servidores Online: Voe",
-                    "author": "Elenco: Servidores Online: Voe",
-                    "description": "",
-                    "genre": "",
+                    "url": "/peliculas/scooby-doo-2-monstruos-sueltos-2004/",
+                    "title": "Scooby-Doo 2: Monstruos sueltos (2004)",
+                    "artist": "Alicia Silverstone",
+                    "author": "Andy Armstrong",
+                    "description": "La pandilla de Misterio a la Orden debe salvar a Coolsville de un ataque realizado por sus monstruos del pasado, que han sido revividos por un malvado enmascarado que intenta acabar con la pandilla.",
+                    "genre": "Aventura, Comedia, Fantasía, Misterio",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/rebel-min-203x300.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Scooby-Doo-2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/rebel-moon-parte-dos-corte-del-director-2024/",
+                        "url": "/peliculas/scooby-doo-2-monstruos-sueltos-2004/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,75 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hrj7brplp3g.pradoi.com/hls2/01/04107/2sr1v18788e3_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7GHKAxvVQkeCG94JRLL08tgzQ9I99M1wBvhV7vG0mWg&s=1722708336&e=129600&f=20538589&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://hrj7brplp3g.pradoi.com/hls2/01/04107/2sr1v18788e3_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7GHKAxvVQkeCG94JRLL08tgzQ9I99M1wBvhV7vG0mWg&s=1722708336&e=129600&f=20538589&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2sr1v18788e3"
+                        }
+                    },
+                    {
+                        "url": "https://hrj7brplp3g.pradoi.com/hls2/01/04107/2sr1v18788e3_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7GHKAxvVQkeCG94JRLL08tgzQ9I99M1wBvhV7vG0mWg&s=1722708336&e=129600&f=20538589&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://hrj7brplp3g.pradoi.com/hls2/01/04107/2sr1v18788e3_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7GHKAxvVQkeCG94JRLL08tgzQ9I99M1wBvhV7vG0mWg&s=1722708336&e=129600&f=20538589&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2sr1v18788e3"
+                        }
+                    },
+                    {
+                        "url": "https://5nrdhdrayadkaqp2.pradoi.com/hls2/01/04107/1d7e350u28oc_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2e1oZ3kIaJDseW46F4rUFYTEOryE2G8ZNd5CJHDeEYE&s=1722708342&e=129600&f=20538617&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://5nrdhdrayadkaqp2.pradoi.com/hls2/01/04107/1d7e350u28oc_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2e1oZ3kIaJDseW46F4rUFYTEOryE2G8ZNd5CJHDeEYE&s=1722708342&e=129600&f=20538617&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/1d7e350u28oc"
+                        }
+                    },
+                    {
+                        "url": "https://qpljyz39awcoenfd.pradoi.com/hls2/01/04107/7nu3ts1ofi13_,n,h,.urlset/index-f2-v1-a1.m3u8?t=FpDUvVSjkzE8XIs-SpVDk88Z_k2BWJAtFBYzFVpHJrk&s=1722708341&e=129600&f=20538605&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://qpljyz39awcoenfd.pradoi.com/hls2/01/04107/7nu3ts1ofi13_,n,h,.urlset/index-f2-v1-a1.m3u8?t=FpDUvVSjkzE8XIs-SpVDk88Z_k2BWJAtFBYzFVpHJrk&s=1722708341&e=129600&f=20538605&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/7nu3ts1ofi13"
+                        }
+                    },
+                    {
+                        "url": "https://5nrdhdrayadkaqp2.pradoi.com/hls2/01/04107/1d7e350u28oc_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2e1oZ3kIaJDseW46F4rUFYTEOryE2G8ZNd5CJHDeEYE&s=1722708342&e=129600&f=20538617&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://5nrdhdrayadkaqp2.pradoi.com/hls2/01/04107/1d7e350u28oc_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2e1oZ3kIaJDseW46F4rUFYTEOryE2G8ZNd5CJHDeEYE&s=1722708342&e=129600&f=20538617&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/1d7e350u28oc"
+                        }
+                    },
+                    {
+                        "url": "https://qpljyz39awcoenfd.pradoi.com/hls2/01/04107/7nu3ts1ofi13_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FpDUvVSjkzE8XIs-SpVDk88Z_k2BWJAtFBYzFVpHJrk&s=1722708341&e=129600&f=20538605&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://qpljyz39awcoenfd.pradoi.com/hls2/01/04107/7nu3ts1ofi13_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FpDUvVSjkzE8XIs-SpVDk88Z_k2BWJAtFBYzFVpHJrk&s=1722708341&e=129600&f=20538605&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/7nu3ts1ofi13"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

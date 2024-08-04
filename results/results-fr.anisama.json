@@ -485,7 +485,7 @@
             "details": {
                 "result": {
                     "url": "https://animesz.xyz/anime/one-piece-9",
-                    "title": "One Piece VOSTFR",
+                    "title": "One Piece VF et VOSTFR",
                     "artist": "Toei Animation",
                     "description": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
                     "genre": "Action , Aventure , Fantastique",
@@ -499,21 +499,30 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=1722759721654186",
+                        "name": "Episode 1114",
+                        "episode_number": 1114.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=126742",
                         "name": "Episode 1113",
                         "episode_number": 1113.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=126171",
-                        "name": "Episode 1112",
-                        "episode_number": 1112.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-3ry6sts5spvwdjqw.voe-network.net/engine/hls2/01/11908/avgvze13liyi_,n,.urlset/index-v1-a1.m3u8?t=Cu01w7Q86TtGf34f6TqFJpULCQsMyC-5DpFYv3L6tlM&s=1722773227&e=14400&f=59544609&node=delivery-node-3ry6sts5spvwdjqw.voe-network.net&i=20.75&sp=2500&asn=8075",
+                        "quality": "(VOSTFR) Voe:720p",
+                        "videoUrl": "https://delivery-node-3ry6sts5spvwdjqw.voe-network.net/engine/hls2/01/11908/avgvze13liyi_,n,.urlset/index-v1-a1.m3u8?t=Cu01w7Q86TtGf34f6TqFJpULCQsMyC-5DpFYv3L6tlM&s=1722773227&e=14400&f=59544609&node=delivery-node-3ry6sts5spvwdjqw.voe-network.net&i=20.75&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

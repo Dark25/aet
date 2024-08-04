@@ -67,6 +67,16 @@
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/One-Piece-Free-Stream-Online-Anime-Free-Motarjam.jpg"
                             },
                             {
+                                "url": "/anime/tsue-to-tsurugi-no-wistoria/",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tsue-to-Tsurugi-no-Wistoria-668a6479c5d8a.jpg"
+                            },
+                            {
+                                "url": "/anime/the-fable/",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-The-Fable-661196f42fe27.jpg"
+                            },
+                            {
                                 "url": "/anime/shoushimin-series/",
                                 "title": "Shoushimin Series",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shoushimin-Series-66899183ac15e.jpg"
@@ -170,16 +180,6 @@
                                 "url": "/anime/-oshi-no-ko-2nd-season/",
                                 "title": "\"Oshi no Ko\" 2nd Season",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail--Oshi-no-Ko-2nd-Season-6686586973bb1.jpg"
-                            },
-                            {
-                                "url": "/anime/wuliao-jiu-wanjie/",
-                                "title": "Wuliao Jiu Wanjie",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Wuliao-Jiu-Wanjie-6691391e8a22a.jpg"
-                            },
-                            {
-                                "url": "/anime/kimi-ni-todoke-3rd-season/",
-                                "title": "Kimi ni Todoke 3rd Season",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Kimi-ni-Todoke-3rd-Season-66abe68b0265b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -301,8 +301,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.4shared.com/web/embed/file/Mpxf14j6jq",
+                        "quality": "4shared HD",
+                        "videoUrl": "https://dc615.4shared.com/img/Mpxf14j6jq/3f54e89e/dlink__2Fdownload_2FMpxf14j6jq_3Fsbsr_3D61ee8afb7cb3eb6db2001c6bf0ac361eb20_26bip_3DMjAuNTUuMTUuMzA_26lgfp_3D66_26bip_3DMjAuNTUuMTUuMzA_26bip_3DMjAuNTUuMTUuMzA/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

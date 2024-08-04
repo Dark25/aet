@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-elusive-samurai",
+                                "title": "The Elusive Samurai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933693.jpg"
+                            },
+                            {
                                 "url": "/anime/berserk-of-gluttony",
                                 "title": "Berserk of Gluttony",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933692.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream",
                                 "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933678.jpg"
-                            },
-                            {
-                                "url": "/anime/wistoria-wand-and-sword",
-                                "title": "Wistoria: Wand and Sword",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933677.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/berserk-of-gluttony",
-                    "title": "Berserk of Gluttony",
-                    "description": "Fate Graphite lives miserably as a gatekeeper in a world where skills given at birth determine an individual’s entire life. Afflicted by the seemingly harmful skill Gluttony, which makes him perpetually hungry, he is abused by the holy knights—the supposed protectors of the populace—who view him as a dreg on society due to his skill. However, Fate’s destiny takes a dramatic turn after he kills an escaping injured thief. To his surprise, Gluttony activates, enhancing his stats and granting him new skills.",
-                    "genre": "Action, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933692.jpg",
+                    "url": "/anime/the-elusive-samurai",
+                    "title": "The Elusive Samurai",
+                    "description": "Eight-year-old Tokiyuki Houjou, the next successor of the Kamakura shogunate, is a young boy lacking talent in everything besides hide-and-seek. One day, his carefree life is abruptly turned upside down when Takauji Ashikaga brutally seizes power from the Kamakuras, ending their reign. Rescued by a self-proclaimed prophetic priest, Tokiyuki manages to escape with his life. Now he must evade those trying to kill him while recruiting comrades who can help him restore the Kamakura Shogunate to its former glory.",
+                    "genre": "Adventure, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933693.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/berserk-of-gluttony-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BCDmW_zy5XW8DvnHNsCuEoQYA-yHMAnp0VybJeEHNz5bKgy5Whg8j4k_rfeLRDSNMdqg5gUAWN5HtRzfgeYhw7wN-G8VptH7LKzTep_yvgyqqC5rgjS6U779-c6c6aYzB4ntVhBaF2GsBfju17XoHBpsp8jpYkDQUtClqz7OkitwO3bz4-_2AhlhztYfy0v_C2XG-bfKKt-Kf7sjvX9l4_IKOqqfvkFgQXnHt2IEJaSTbj55qhxngNGM8iqTHO61GJu85dITkVKqwZzzOe1Guph",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BCDmW_zy5XW8DvnHNsCuEoQYA-yHMAnp0VybJeEHNz5bKgy5Whg8j4k_rfeLRDSNMdqg5gUAWN5HtRzfgeYhw7wN-G8VptH7LKzTep_yvgyqqC5rgjS6U779-c6c6aYzB4ntVhBaF2GsBfju17XoHBpsp8jpYkDQUtClqz7OkitwO3bz4-_2AhlhztYfy0v_C2XG-bfKKt-Kf7sjvX9l4_IKOqqfvkFgQXnHt2IEJaSTbj55qhxngNGM8iqTHO61GJu85dITkVKqwZzzOe1Guph"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLgj-AnaD01Rv5lE0xoOTdCwudKnShuxXmliDO0_pWJ96DYORKuMgjDDg5rrQjmq5-KLiTogD4h1d8GzFdd-_NA4O_UTRxzyjI1MyCGvlv-QZXGa0JQGbCqAeM4XYDxreB4VdeS96p2mOkS5bpxtMa0Z_9q2fJWgg9YKZXmjRlfq2BQYtwiOx466X6MAS5gdgw5fmZqUR6RFz2wobpffie3AHFzJ1JZkjDnITr6Vn6PcuzTWW3fdgfxueWzDiQM_WO3RL5uY-bIcyjs4oidNxF",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLgj-AnaD01Rv5lE0xoOTdCwudKnShuxXmliDO0_pWJ96DYORKuMgjDDg5rrQjmq5-KLiTogD4h1d8GzFdd-_NA4O_UTRxzyjI1MyCGvlv-QZXGa0JQGbCqAeM4XYDxreB4VdeS96p2mOkS5bpxtMa0Z_9q2fJWgg9YKZXmjRlfq2BQYtwiOx466X6MAS5gdgw5fmZqUR6RFz2wobpffie3AHFzJ1JZkjDnITr6Vn6PcuzTWW3fdgfxueWzDiQM_WO3RL5uY-bIcyjs4oidNxF"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLZ4CqEb46W-zkIQFay9TgsEXq_7vSeMf1RYkFfBkubRRyl3zXsfi4ku-DwylGKxIQF10JLUonx1JH5GmmfJHqV6DIV-qFZOKvRzXVRWkdCT87SghFOkzNs0qFLBuyRKywPmVxjIhMKNECoYzteklS9YKp30Ug6FPeiWlJe9XYPzECjEFiMMTd5HDoDVeIbgDn7te1W36pDetI_ly8p6PuxZh8BCVwYh150AJRBo6ph_fDkUGwCyW0iGY7fZAHyAV-Qv6B0Ca5z88OLsq_cMk5",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hJtjbQDiK4vwmgSAAvNI09vLPviFniyLOyMkVL9OTyb0fIg50FbON3xA6hRTwCMft1-gJtbx8-xLbgFFs1zz0gpZgMvFk01ifwPc7yA7aE45R8rAeoYFFplX6kuEzw1BDLZ4CqEb46W-zkIQFay9TgsEXq_7vSeMf1RYkFfBkubRRyl3zXsfi4ku-DwylGKxIQF10JLUonx1JH5GmmfJHqV6DIV-qFZOKvRzXVRWkdCT87SghFOkzNs0qFLBuyRKywPmVxjIhMKNECoYzteklS9YKp30Ug6FPeiWlJe9XYPzECjEFiMMTd5HDoDVeIbgDn7te1W36pDetI_ly8p6PuxZh8BCVwYh150AJRBo6ph_fDkUGwCyW0iGY7fZAHyAV-Qv6B0Ca5z88OLsq_cMk5"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

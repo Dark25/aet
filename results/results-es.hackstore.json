@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/mulan-1998/",
+                                "title": "Mulán (1998)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2021/09/towmTJ0k29quKI9IDnOZKAAtQx.jpg"
+                            },
+                            {
+                                "url": "/peliculas/beowulf-2007/",
+                                "title": "Beowulf (2007)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2022/03/Beowulf-la-leyenda-2007-scaled.jpg"
+                            },
+                            {
                                 "url": "/peliculas/asesino-oculto-2001/",
                                 "title": "Asesino Oculto (2001)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Amor Mentiras y Sangre (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg"
-                            },
-                            {
-                                "url": "/peliculas/la-joven-y-el-mar-2024/",
-                                "title": "La joven y el mar (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg"
-                            },
-                            {
-                                "url": "/peliculas/grandes-espias-mision-italia-2024/",
-                                "title": "Grandes espías: Misión Italia (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/07/grandes-espias.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/asesino-oculto-2001/",
-                    "title": "Asesino Oculto (2001)",
-                    "artist": "Aaron Eckhart",
-                    "author": "Sean Penn",
-                    "description": "En un pequeño pueblo de Nevada, Jerry Black es un solitario detective de homicidios que está a punto de jubilarse. Resignándose a dejar el trabajo, lo único que en realidad da sentido a su vida, decide hacerse cargo de un último caso cuando se descubre en las montañas el cuerpo sin vida de una niña. Tras jurarle a una madre desconsolada que hallará al culpable, comienza una investigación en la que irá más allá de las evidencias y de su horario laboral, volcándose por completo.",
-                    "genre": "Crimen, Drama, Misterio, Suspenso",
+                    "url": "/peliculas/mulan-1998/",
+                    "title": "Mulán (1998)",
+                    "artist": "BD Wong",
+                    "author": "Barry Cook",
+                    "description": "Mulan, una joven china hija única de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejército imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emisario imperial lleva a cabo la orden de reclutar a los varones de todas las familias, Mulan se hará pasar por soldado y se someterá a un duro entrenamiento hasta hacerse merecedora de la estima y de la confianza del resto de su escuadrón.",
+                    "genre": "Animación, Aventura, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Asesino-Oculto-2001.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2021/09/towmTJ0k29quKI9IDnOZKAAtQx.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/asesino-oculto-2001/",
+                        "url": "/peliculas/mulan-1998/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,85 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/03326/6m6237qqtzf5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0Y21MohPQOqesnUEjuYJU9Df7dUymFtEjlhTOzw78UM&s=1722816948&e=129600&f=16634741&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/03326/6m6237qqtzf5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0Y21MohPQOqesnUEjuYJU9Df7dUymFtEjlhTOzw78UM&s=1722816948&e=129600&f=16634741&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/6m6237qqtzf5"
+                        }
+                    },
+                    {
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/03326/6m6237qqtzf5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=0Y21MohPQOqesnUEjuYJU9Df7dUymFtEjlhTOzw78UM&s=1722816948&e=129600&f=16634741&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/03326/6m6237qqtzf5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=0Y21MohPQOqesnUEjuYJU9Df7dUymFtEjlhTOzw78UM&s=1722816948&e=129600&f=16634741&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/6m6237qqtzf5"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-vtwxmv0f9kizsquy.voe-network.net/engine/hls2-c/01/10821/mfyl2cfhwbg5_,n,.urlset/index-v1-a1.m3u8?t=rLyhgE6LSommuRxFqQZd674WYJFlBlU-N-rR7VDxDPw&s=1722816973&e=14400&f=58407493&node=delivery-node-vmzeusejwz8f3oxq.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-vtwxmv0f9kizsquy.voe-network.net/engine/hls2-c/01/10821/mfyl2cfhwbg5_,n,.urlset/index-v1-a1.m3u8?t=rLyhgE6LSommuRxFqQZd674WYJFlBlU-N-rR7VDxDPw&s=1722816973&e=14400&f=58407493&node=delivery-node-vmzeusejwz8f3oxq.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=d8yY4bLYRjCk8g6&expires=1722886945&ip=FROsE0MnDS9X&token=gKLmuYZSRVVE",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=d8yY4bLYRjCk8g6&expires=1722886945&ip=FROsE0MnDS9X&token=gKLmuYZSRVVE"
+                    },
+                    {
+                        "url": "https://c2h4vrews.cdn-jupiter.com/hls2/01/01462/fn29gfr1y4w8_x/index-v1-a1.m3u8?t=JTamnAdbE92B7WHf1_2tngKlRezA7NufZPo_geM4TcA&s=1722816957&e=129600&f=7310655&srv=6z8pvl4yf39it&i=0.4&sp=500&p1=6z8pvl4yf39it&p2=6z8pvl4yf39it&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://c2h4vrews.cdn-jupiter.com/hls2/01/01462/fn29gfr1y4w8_x/index-v1-a1.m3u8?t=JTamnAdbE92B7WHf1_2tngKlRezA7NufZPo_geM4TcA&s=1722816957&e=129600&f=7310655&srv=6z8pvl4yf39it&i=0.4&sp=500&p1=6z8pvl4yf39it&p2=6z8pvl4yf39it&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/fn29gfr1y4w8"
+                        }
+                    },
+                    {
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/03326/swi9177aoejo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=A-5YiwCmIryN_nxavvEmggPNHA0t7qGOYiwBBgWsL9g&s=1722816951&e=129600&f=16634970&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/03326/swi9177aoejo_,n,h,.urlset/index-f2-v1-a1.m3u8?t=A-5YiwCmIryN_nxavvEmggPNHA0t7qGOYiwBBgWsL9g&s=1722816951&e=129600&f=16634970&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/swi9177aoejo"
+                        }
+                    },
+                    {
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/03326/swi9177aoejo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=A-5YiwCmIryN_nxavvEmggPNHA0t7qGOYiwBBgWsL9g&s=1722816951&e=129600&f=16634970&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/03326/swi9177aoejo_,n,h,.urlset/index-f1-v1-a1.m3u8?t=A-5YiwCmIryN_nxavvEmggPNHA0t7qGOYiwBBgWsL9g&s=1722816951&e=129600&f=16634970&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/swi9177aoejo"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/10821/i5mqgh3ymrhs_,n,.urlset/index-v1-a1.m3u8?t=G3F0ZO1N08b35o0vXQ9E5VEVn20nADJDU0ugh5AqUVc&s=1722816957&e=14400&f=58407500&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "quality": "[CAST] Voe:720p",
+                        "videoUrl": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/10821/i5mqgh3ymrhs_,n,.urlset/index-v1-a1.m3u8?t=G3F0ZO1N08b35o0vXQ9E5VEVn20nADJDU0ugh5AqUVc&s=1722816957&e=14400&f=58407500&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

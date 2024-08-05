@@ -715,6 +715,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/mayday-club/",
+                                "title": "Mayday Club",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mayday-club.jpg"
+                            },
+                            {
                                 "url": "/pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas/",
                                 "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas.jpg"
@@ -808,11 +813,6 @@
                                 "url": "/pelicula/3-days-left/",
                                 "title": "3 Days left",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/3-days-left.jpg"
-                            },
-                            {
-                                "url": "/pelicula/wonderland/",
-                                "title": "Wonderland",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/wonderland.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -982,8 +982,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas/",
-                    "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
+                    "url": "/pelicula/mayday-club/",
+                    "title": "Mayday Club",
                     "artist": "",
                     "description": "",
                     "genre": "Comedia",
@@ -996,7 +996,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas/",
+                        "url": "/pelicula/mayday-club/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -1004,8 +1004,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://12kbrnhtqb58.hgagecdn.com/hls2/01/02091/i7d2qsmtt6hs_n/index-v1-a1.m3u8?t=NwjMXmps-YOZqtDT0PA7sU22f4fBb1Zg-Y-miKEqAvo&s=1722817061&e=129600&f=10458723&srv=bqycOuNuR1y4&i=0.4&sp=500&p1=bqycOuNuR1y4&p2=bqycOuNuR1y4&asn=8075",
+                        "quality": "[SUB] StreamHideVid - 720p",
+                        "videoUrl": "https://12kbrnhtqb58.hgagecdn.com/hls2/01/02091/i7d2qsmtt6hs_n/index-v1-a1.m3u8?t=NwjMXmps-YOZqtDT0PA7sU22f4fBb1Zg-Y-miKEqAvo&s=1722817061&e=129600&f=10458723&srv=bqycOuNuR1y4&i=0.4&sp=500&p1=bqycOuNuR1y4&p2=bqycOuNuR1y4&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8woyPpqL1rT2k4&expires=1722887060&ip=FROsD0ISKxSHDN&token=nUiAqvwx1TVM",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=8woyPpqL1rT2k4&expires=1722887060&ip=FROsD0ISKxSHDN&token=nUiAqvwx1TVM"
+                    }
+                ],
+                "passed": true
             }
         }
     }

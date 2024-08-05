@@ -117,6 +117,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/xian-ni/",
+                                "title": "Xian Ni",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/09/Renegade-Immortal--214x300.webp"
+                            },
+                            {
+                                "url": "/series/jade-dynasty-2-sezon/",
+                                "title": "Jade Dynasty 2.Sezon",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/03/Jade-Dynasty-Season-2-Zhu-Xian-2-214x300.webp"
+                            },
+                            {
+                                "url": "/series/dragon-prince-yuan/",
+                                "title": "Dragon Prince Yuan",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/05/1717167192-5000-118772-214x300.jpg"
+                            },
+                            {
+                                "url": "/series/isekai-yururi-kikou/",
+                                "title": "Isekai Yururi Kikou",
+                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-211x300.jpg"
+                            },
+                            {
                                 "url": "/series/glorious-revenge-of-ye-feng/",
                                 "title": "Glorious Revenge of Ye Feng",
                                 "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2023/09/Glorious-Revenge-of-Ye-Feng-22-200x300.webp"
@@ -195,26 +215,6 @@
                                 "url": "/series/the-fable/",
                                 "title": "The Fable",
                                 "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/04/The-Fable-212x300.jpg"
-                            },
-                            {
-                                "url": "/series/atri-my-dear-moments/",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/07/Atri-My-Dear-Moments2-212x300.jpg"
-                            },
-                            {
-                                "url": "/series/nige-jouzu-no-wakagimi/",
-                                "title": "Nige Jouzu no Wakagimi",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/06/Nige-Jouzu-no-Wakagimi-210x300.jpg"
-                            },
-                            {
-                                "url": "/series/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka/",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/07/Naze-Boku-no-Sekai-wo-Daremo-Oboeteinai-no-ka-212x300.jpg"
-                            },
-                            {
-                                "url": "/series/tensui-no-sakuna-hime/",
-                                "title": "Tensui no Sakuna-hime",
-                                "thumbnail_url": "https://asyaanimeleri.com/wp-content/uploads/2024/06/Tensui-no-Sakuna-hime-210x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -313,8 +313,110 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=3&sig=s5Va0mG5i8c&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "quality": "vk.com - 720p",
+                        "videoUrl": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=3&sig=s5Va0mG5i8c&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=3&sig=s2wICSdt5A0&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=3&sig=s2wICSdt5A0&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398"
+                    },
+                    {
+                        "url": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=5&sig=q5CVn_eeS3I&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "quality": "vk.com - 1080p",
+                        "videoUrl": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=5&sig=q5CVn_eeS3I&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=2&sig=0ywQPA5JP5g&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "quality": "vk.com - 480p",
+                        "videoUrl": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=2&sig=0ywQPA5JP5g&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=1&sig=KKeM987shKU&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "quality": "vk.com - 360p",
+                        "videoUrl": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=1&sig=KKeM987shKU&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=0&sig=RXMNPjmwTts&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "quality": "vk.com - 240p",
+                        "videoUrl": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=0&sig=RXMNPjmwTts&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=4&sig=XzITtrl1Q1k&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "quality": "vk.com - 144p",
+                        "videoUrl": "https://vkvd80.mycdn.me/?expires=1723076237845&srcIp=20.109.39.28&pr=40&srcAg=GECKO&ms=45.136.22.170&type=4&sig=XzITtrl1Q1k&ct=0&urls=45.136.20.169&clientType=13&appId=512000384397&zs=43&id=6857262762586",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=4&sig=1ezRgyl3l1w&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=4&sig=1ezRgyl3l1w&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398"
+                    },
+                    {
+                        "url": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=0&sig=ohoVSi_2PzE&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=0&sig=ohoVSi_2PzE&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398"
+                    },
+                    {
+                        "url": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=1&sig=M671T0cGWsg&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=1&sig=M671T0cGWsg&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398"
+                    },
+                    {
+                        "url": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=2&sig=y2Mu7pHw-Qg&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=2&sig=y2Mu7pHw-Qg&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398"
+                    },
+                    {
+                        "url": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=5&sig=cs2elMFr6aE&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd454.mycdn.me/?expires=1722903439207&srcIp=20.109.39.28&pr=10&srcAg=GECKO&ms=45.136.20.71&type=5&sig=cs2elMFr6aE&ct=0&urls=185.226.53.34&clientType=0&zs=43&id=6713919867398"
+                    },
+                    {
+                        "url": "https:hlsplaylist.php?idhls=RlJSMjB2RlZKVEJKaTJpbFc4Q0hrOHJuSFRIOUhleHh0V3EySGtZTGM0c2lYaEVtWndtaXJZcFZ3aVZiaTVYSg==.m3u8&res=360",
+                        "quality": "GDRIVE 360p - Gdrive",
+                        "videoUrl": "https:hlsplaylist.php?idhls=RlJSMjB2RlZKVEJKaTJpbFc4Q0hrOHJuSFRIOUhleHh0V3EySGtZTGM0c2lYaEVtWndtaXJZcFZ3aVZiaTVYSg==.m3u8&res=360"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -423,39 +423,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/tv/good-night-world/",
-                                "title": "Good Night World",
-                                "thumbnail_url": "https://i1.wp.com/animeyt.pro/wp-content/uploads/2023/10/AMNgyVtfiplV.jpg"
-                            },
-                            {
-                                "url": "/tv/dr-stone-new-world/",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://i3.wp.com/animeyt.pro/wp-content/uploads/2023/04/zOBTHUJjJlNf.jpg"
-                            },
-                            {
-                                "url": "/tv/world-dai-star/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://i0.wp.com/animeyt.pro/wp-content/uploads/2023/04/ZqktaAYkvZLw.jpg"
-                            },
-                            {
-                                "url": "/tv/shin-tennis-no-ouji-sama-u-17-world-cup/",
-                                "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
-                                "thumbnail_url": "https://i2.wp.com/animeyt.pro/wp-content/uploads/2022/07/WEUJTFLRNfXj.jpg"
-                            },
-                            {
-                                "url": "/tv/world-trigger-temporada-3/",
-                                "title": "World Trigger Temporada 3",
-                                "thumbnail_url": "https://i3.wp.com/animeyt.pro/wp-content/uploads/2021/10/610d7b4cc461f.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -487,31 +456,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/02/06648/ix1spb6wxgyu_x/index-v1-a1.m3u8?t=1JbqpB4RkmFInJbRTfJ5USMFE59izKzx6XaV_ypzAv8&s=1722859639&e=10800&f=33241578&srv=28&asn=8075&sp=5500",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/02/06648/ix1spb6wxgyu_x/index-v1-a1.m3u8?t=R0jtA_Mikv5OtoqUuJlX5M3Rdoco2jWKQvkWoioIGb0&s=1722881277&e=10800&f=33241578&srv=28&asn=8075&sp=5500",
                         "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/02/06648/ix1spb6wxgyu_x/index-v1-a1.m3u8?t=1JbqpB4RkmFInJbRTfJ5USMFE59izKzx6XaV_ypzAv8&s=1722859639&e=10800&f=33241578&srv=28&asn=8075&sp=5500",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/02/06648/ix1spb6wxgyu_x/index-v1-a1.m3u8?t=R0jtA_Mikv5OtoqUuJlX5M3Rdoco2jWKQvkWoioIGb0&s=1722881277&e=10800&f=33241578&srv=28&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
                             "Referer": "https://filemoon.sx/"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a202408050DKjkmk1xbY/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202408050DKjkmk1xbY/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://cdn.burstcloud.co/a20240805Tvt80rj5ak0/OP-1114.720p.subes.AnimeYT.es.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20240805Tvt80rj5ak0/OP-1114.720p.subes.AnimeYT.es.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.burstcloud.co"
                         }
                     }
                 ],

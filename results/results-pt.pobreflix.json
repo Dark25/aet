@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/deadpool-wolverine/",
+                                "title": "Deadpool & Wolverine",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
+                            },
+                            {
                                 "url": "/filmes/planeta-dos-macacos-o-reinado/",
                                 "title": "Planeta dos Macacos: O Reinado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
@@ -20,11 +25,6 @@
                                 "url": "/filmes/clube-dos-vandalos/",
                                 "title": "Clube dos Vândalos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg"
-                            },
-                            {
-                                "url": "/filmes/deadpool-wolverine/",
-                                "title": "Deadpool & Wolverine",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
                             },
                             {
                                 "url": "/series/a-casa-do-dragao/",
@@ -135,6 +135,21 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/manual-de-assassinato-para-boas-garotas/",
+                                "title": "Manual de Assassinato para Boas Garotas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vVngL07lpZOqcA6k5RjQON2j8L2.jpg"
+                            },
+                            {
+                                "url": "/series/those-about-to-die/",
+                                "title": "Those About to Die",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+                            },
+                            {
+                                "url": "/series/batman-cruzado-encapuzado/",
+                                "title": "Batman: Cruzado Encapuzado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vyB0p30uzaYDpCrpoMUAApxdiow.jpg"
                             },
                             {
                                 "url": "/series/parasyte-the-maxim/",
@@ -270,21 +285,6 @@
                                 "url": "/series/o-jogo-que-mudou-a-historia/",
                                 "title": "O Jogo Que Mudou a História",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/xOAqvWlH1lDNfJYFIfEYQqC1gte.jpg"
-                            },
-                            {
-                                "url": "/series/o11ze/",
-                                "title": "O11ZE",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5SLwlAinusyXIr6sWYhuPpCDfq0.jpg"
-                            },
-                            {
-                                "url": "/series/love-with-flaws/",
-                                "title": "Love with Flaws",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rAlx5wWWRm9i6BeXQISepD1mfkY.jpg"
-                            },
-                            {
-                                "url": "/series/davi-um-cara-comum-da-bahia/",
-                                "title": "Davi: Um Cara Comum da Bahia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/d0X6XQZGNxck4nOOnYIejQ8fEiV.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/planeta-dos-macacos-o-reinado/",
-                    "title": "Planeta dos Macacos: O Reinado",
-                    "description": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos.\n\nTítulo Original: Kingdom of the Planet of the Apes",
-                    "genre": "Ação, Aventura, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg",
+                    "url": "/filmes/deadpool-wolverine/",
+                    "title": "Deadpool & Wolverine",
+                    "description": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficou para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante… relutante? Mais relutante? Ele deve convencer um Wolverine relutante em… Porra. As sinopses são tão estúpidas.\n\nTítulo Original: Deadpool & Wolverine",
+                    "genre": "Ação, Comédia, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/planeta-dos-macacos-o-reinado/",
+                        "url": "/filmes/deadpool-wolverine/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

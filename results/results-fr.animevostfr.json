@@ -3,6 +3,10 @@
         "name": "AnimeVostFr (FR)",
         "results": {
             "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
+            },
+            "latest": {
                 "result": [
                     {
                         "animes": [
@@ -171,10 +175,6 @@
                     }
                 ],
                 "passed": true
-            },
-            "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
             },
             "search": {
                 "result": [
@@ -347,30 +347,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life-vf/",
-                    "title": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life VF",
-                    "description": "\nBanaza a été convoqué dans un autre monde, dans le royaume de Kryrode. Alors que son destin était de postuler au titre de Héros, il se rend compte qu’il ne possède aucune capacité digne de ce nom. Il possède le même niveau qu’un citoyen ordinaire – il est par conséquent inutile et inapte à remplir la tâche de Héros. Ne pouvant plus revenir dans son monde d’origine suite à une erreur dans l’incantation de l’invocation, Banaza va devoir vivre dans le royaume de Kryrode.\nCependant, lorsqu’un jour il passe le niveau 2, il acquière toutes les capacités, compétences magiques et statistiques possibles et inimaginables, dépassant de loin la puissance d’un simple Héros. Malgré ce gain soudain de puissance, il choisit tout de même de vivre une vie tranquille, à son rythme. Il se marie avec Lys, qui appartient à la race des Démons, et profite de sa vie de jeune marié sous un nouveau nom : Flio.\n\nCependant, avec l’arrivée de certaines personnes, il se pourrait bien que les jours tranquilles de Flio soient sur le point de se terminer.\nBien que les journées de Banaza deviennent de plus en plus chaotiques, il va continuer de profiter de son style de vie décontractée.",
-                    "genre": "Action, Adventure, Comédie, Tranche de vie",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2024/05/lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life_12280.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life-vf-episode-1/",
-                        "name": "Épisode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "videos": {
-                "error": "java.io.IOException: java.lang.Exception: bruh",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

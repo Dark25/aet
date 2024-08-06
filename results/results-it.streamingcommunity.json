@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9460-the-influencer",
+                                "title": "The Influencer",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/e711ee4c-7e37-4d10-a356-555dfcd97e24.webp"
+                            },
+                            {
                                 "url": "9443-saving-bikini-bottom",
                                 "title": "Saving Bikini Bottom",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/1cb2218e-8563-40c8-9e03-4e975fae6b0d.webp"
@@ -300,11 +305,6 @@
                                 "url": "8992-tierra-de-mujeres-intrecci-di-vite",
                                 "title": "Tierra de mujeres - Intrecci di vite",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/6216bb49-d9d8-4b65-996d-649652ef4ecd.webp"
-                            },
-                            {
-                                "url": "8973-kaulitz-kaulitz",
-                                "title": "Kaulitz & Kaulitz",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/8f835e85-fc9e-4735-92be-07e0a175cf06.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9443-saving-bikini-bottom",
-                    "description": "Quando Bikini Bottom viene spazzata via dal fondo dell'oceano, la scoiattola scienziata Sandy Cheeks e il suo amico SpongeBob SquarePants vanno in Texas per salvare la loro città.",
-                    "genre": "Avventura, Commedia, Famiglia, Animazione",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9460-the-influencer",
+                    "description": "YouTube, TikTok, Instagram: 77 noti influencer sfoggiano le loro abilità per attirare attenzione in modo strategico in questo survival show dei social con un'alta posta in gioco.",
+                    "genre": "Reality, Korean drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9443",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9460?episode_id=73491&next_episode=1",
+                        "name": "Stagione 1 episodio 4 - Sguardo fisso",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "9460?episode_id=73492&next_episode=1",
+                        "name": "Stagione 1 episodio 3 - Strategia o fortuna",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true

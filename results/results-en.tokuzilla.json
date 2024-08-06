@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
+                                "title": "Ninja Sentai Kakuranger Super Video: The Hidden Scroll",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-super-video-the-hidden-scroll-thumb.png"
+                            },
+                            {
+                                "url": "/watch/king-ohger-vs-donbrothers-king-ohger-vs-kyoryuger.html",
+                                "title": "Ohsama Sentai King-Ohger VS Donbrothers",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2024/05/Thumb-ohsama-sentai-king-ohger-vs-donbrothers.jpg"
+                            },
+                            {
+                                "url": "/watch/ninja-sentai-kakuranger-act-three-middle-aged-struggles.html",
+                                "title": "Ninja Sentai Kakuranger: Act Three – Middle-Aged Struggles",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-act-three-middle-aged-struggles-thumb.png"
+                            },
+                            {
                                 "url": "/watch/kamen-rider-gotchard.html",
                                 "title": "Kamen Rider Gotchard",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
@@ -50,21 +65,6 @@
                                 "url": "/watch/ultraman-nexus.html",
                                 "title": "Ultraman Nexus",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ultraman-nexus-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-ghost.html",
-                                "title": "Kamen Rider Ghost",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-ghost-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-revice.html",
-                                "title": "Kamen Rider Revice",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-revice-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,14 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-gotchard.html",
-                    "title": "Kamen Rider Gotchard",
-                    "author": "Year 2023",
-                    "description": "Kamen Rider Gotchard is an upcoming Japanese Tokusatsu drama, the 34th entry of Toei Company’s Kamen Rider metaseries, and the fifth series to debut during the Reiwa period.",
-                    "genre": "Kamen Rider, Series",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png",
+                    "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
+                    "title": "Ninja Sentai Kakuranger Super Video: The Hidden Scroll",
+                    "author": "Year 1995",
+                    "description": "TV Magazine Special Release – Ninja Sentai Kakuranger Super Video: The Hidden Scroll is the Super Video of Ninja Sentai Kakuranger. The video has the five Kakurangers listing off the five keys of being a ninja as found in a hidden scroll locked in their secret headquarters.",
+                    "genre": "Movie, Super Sentai",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-super-video-the-hidden-scroll-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,20 +157,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=48#watch",
-                        "name": "Episode 48",
-                        "episode_number": 48.0
-                    },
-                    {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=47#watch",
-                        "name": "Episode 47",
-                        "episode_number": 47.0
+                        "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

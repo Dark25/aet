@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/eu-vi-o-brilho-da-tv/",
+                                "title": "Eu Vi o Brilho da TV",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg"
+                            },
+                            {
                                 "url": "/filmes/deadpool-wolverine/",
                                 "title": "Deadpool & Wolverine",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/meu-malvado-favorito-4/",
                                 "title": "Meu Malvado Favorito 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/65QQjZNrVfTiuGp3chxx8dkfHDG.jpg"
-                            },
-                            {
-                                "url": "/filmes/os-observadores/",
-                                "title": "Os Observadores",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,11 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/funk-doc-popular-proibido/",
+                                "title": "Funk.Doc: Popular & Proibido",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/a1XizO958bYhDeLX9N5xcqxXeNN.jpg"
                             },
                             {
                                 "url": "/series/manual-de-assassinato-para-boas-garotas/",
@@ -280,11 +285,6 @@
                                 "url": "/series/de-ferias-com-o-ex-diretoria/",
                                 "title": "De Férias com o Ex Diretoria",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcNV3krHhlCnQbvhIbANUs5Zgj0.jpg"
-                            },
-                            {
-                                "url": "/series/o-jogo-que-mudou-a-historia/",
-                                "title": "O Jogo Que Mudou a História",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xOAqvWlH1lDNfJYFIfEYQqC1gte.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/deadpool-wolverine/",
-                    "title": "Deadpool & Wolverine",
-                    "description": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficou para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante… relutante? Mais relutante? Ele deve convencer um Wolverine relutante em… Porra. As sinopses são tão estúpidas.\n\nTítulo Original: Deadpool & Wolverine",
-                    "genre": "Ação, Comédia, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg",
+                    "url": "/filmes/eu-vi-o-brilho-da-tv/",
+                    "title": "Eu Vi o Brilho da TV",
+                    "description": "O adolescente Owen, que está vivendo a sua vida normalmente, tentando sobreviver nos subúrbios quando um colega apresenta a ele um misterioso e intrigante programa de TV noturno sobrenatural. Os dois adolescente, vidrados nesse programa, começam a se distanciar e distorcer a realidade.\n\nTítulo Original: I Saw the TV Glow",
+                    "genre": "Drama, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/deadpool-wolverine/",
+                        "url": "/filmes/eu-vi-o-brilho-da-tv/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

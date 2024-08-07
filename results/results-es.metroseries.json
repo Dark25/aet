@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-doble/",
+                                "title": "La Doble",
+                                "description": "墨雨云间 | The Double Cuando la traición deja a su familia en la ruina, una mujer asume una identidad falsa y, con ayuda de sus aliados políticos, lucha por la justicia. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mtrXMZKONQjm0oTilqSt5Ex5QcE.jpg"
+                            },
+                            {
                                 "url": "/donde-esta-elisa/",
                                 "title": "¿Dónde está Elisa?",
                                 "description": "La desaparición de Elisa, una joven de 17 años, desata un misterio que revela secretos oscuros y afecta profundamente a su familia y amigos. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/f3Xk7HRbGysWM66BTahIZN663RT.jpg"
                             },
                             {
-                                "url": "/sunny/",
-                                "title": "Sunny",
-                                "description": "La vida de una mujer estadounidense que vive en Kioto, Japón, se ve alterada cuando su marido y su hijo desaparecen en un misterioso accidente de avión. Como consuelo, le entregan a Sunny, uno de los nuevos robots domésticos fabricados por la empresa de electrónica de su marido. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGyhajnjrKYU66t7zb22s5SIJvN.jpg"
-                            },
-                            {
-                                "url": "/tierra-tragame/",
-                                "title": "¡Tierra, trágame!",
+                                "url": "/el-ferrocarril-subterraneo/",
+                                "title": "El Ferrocarril Subterráneo",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9vxXxU0xMr1hvx33bcNFSUeWMTu.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/CrrTqw7LHafnbdH9UcK60aOZSm.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/carter/",
-                                "title": "Carter",
+                                "url": "/sintonia/",
+                                "title": "Sintonia",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/10/xMnL93IC07LPg8sqZppnSPxxSEq-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,58 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/donde-esta-elisa/",
-                    "title": "¿Dónde está Elisa?",
-                    "description": "La desaparición de Elisa, una joven de 17 años, desata un misterio que revela secretos oscuros y afecta profundamente a su familia y amigos.",
-                    "genre": "Action & Adventure, Crimen, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1QR6gDtbDItL2DzBnHglrh4Ip8W.jpg",
+                    "url": "/la-doble/",
+                    "title": "La Doble",
+                    "description": "墨雨云间 | The Double Cuando la traición deja a su familia en la ruina, una mujer asume una identidad falsa y, con ayuda de sus aliados políticos, lucha por la justicia.",
+                    "genre": "Comedia, Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mtrXMZKONQjm0oTilqSt5Ex5QcE.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/donde-esta-elisa-temporada-1-capitulo-89/",
-                        "name": "T01 - E89 - Episodio 89",
-                        "date_upload": 1278460800000,
-                        "episode_number": 89.0
-                    },
-                    {
-                        "url": "/episode/donde-esta-elisa-temporada-1-capitulo-88/",
-                        "name": "T01 - E88 - Episodio 88",
-                        "date_upload": 1278374400000,
-                        "episode_number": 88.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/22/00068/1ttdee05yaqd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=HubOKomj797q89i9au1rpsS7zyqUjYPaA_rm6eE9ekU&s=1722989718&e=43200&f=343701&i=0.3&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/22/00068/1ttdee05yaqd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=HubOKomj797q89i9au1rpsS7zyqUjYPaA_rm6eE9ekU&s=1722989718&e=43200&f=343701&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/22/00068/1ttdee05yaqd_,l,n,.urlset/index-f1-v1-a1.m3u8?t=HubOKomj797q89i9au1rpsS7zyqUjYPaA_rm6eE9ekU&s=1722989718&e=43200&f=343701&i=0.3&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/22/00068/1ttdee05yaqd_,l,n,.urlset/index-f1-v1-a1.m3u8?t=HubOKomj797q89i9au1rpsS7zyqUjYPaA_rm6eE9ekU&s=1722989718&e=43200&f=343701&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

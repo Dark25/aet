@@ -291,8 +291,74 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/11912/xxapwea63uuy_,n,.urlset/index-v1-a1.m3u8?t=s7LyXqS8PfkRopxM4HVGVTbjTtukYR-94wzFweQF3aw&s=1722989736&e=14400&f=59561311&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/11912/xxapwea63uuy_,n,.urlset/index-v1-a1.m3u8?t=s7LyXqS8PfkRopxM4HVGVTbjTtukYR-94wzFweQF3aw&s=1722989736&e=14400&f=59561311&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02095/cfvlyy7smczq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Oy6ENpCqQBRiky0gR7kJ0iOyhx0K5cqmaahLzlV4tWw&s=1722989734&e=129600&f=10475672&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "quality": "StreamHideVid - 872p",
+                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02095/cfvlyy7smczq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Oy6ENpCqQBRiky0gR7kJ0iOyhx0K5cqmaahLzlV4tWw&s=1722989734&e=129600&f=10475672&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04572/29j1d2d8l6my_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=xyzliUv-PsHEeouJo-XE4MGvs4jXkDtu8nTeEnIkc9A&s=1722989731&e=129600&f=22862427&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "StreamWish:872p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04572/29j1d2d8l6my_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=xyzliUv-PsHEeouJo-XE4MGvs4jXkDtu8nTeEnIkc9A&s=1722989731&e=129600&f=22862427&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/29j1d2d8l6my"
+                        }
+                    },
+                    {
+                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02095/cfvlyy7smczq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Oy6ENpCqQBRiky0gR7kJ0iOyhx0K5cqmaahLzlV4tWw&s=1722989734&e=129600&f=10475672&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "quality": "StreamHideVid - 720p",
+                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02095/cfvlyy7smczq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Oy6ENpCqQBRiky0gR7kJ0iOyhx0K5cqmaahLzlV4tWw&s=1722989734&e=129600&f=10475672&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04572/29j1d2d8l6my_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=xyzliUv-PsHEeouJo-XE4MGvs4jXkDtu8nTeEnIkc9A&s=1722989731&e=129600&f=22862427&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04572/29j1d2d8l6my_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=xyzliUv-PsHEeouJo-XE4MGvs4jXkDtu8nTeEnIkc9A&s=1722989731&e=129600&f=22862427&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/29j1d2d8l6my"
+                        }
+                    },
+                    {
+                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02095/cfvlyy7smczq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Oy6ENpCqQBRiky0gR7kJ0iOyhx0K5cqmaahLzlV4tWw&s=1722989734&e=129600&f=10475672&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "quality": "StreamHideVid - 480p",
+                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02095/cfvlyy7smczq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Oy6ENpCqQBRiky0gR7kJ0iOyhx0K5cqmaahLzlV4tWw&s=1722989734&e=129600&f=10475672&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04572/29j1d2d8l6my_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=xyzliUv-PsHEeouJo-XE4MGvs4jXkDtu8nTeEnIkc9A&s=1722989731&e=129600&f=22862427&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04572/29j1d2d8l6my_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=xyzliUv-PsHEeouJo-XE4MGvs4jXkDtu8nTeEnIkc9A&s=1722989731&e=129600&f=22862427&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/29j1d2d8l6my"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -303,6 +369,96 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/gru-4-mi-villano-favorito",
+                                "title": "Gru 4. Mi villano favorito (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg"
+                            },
+                            {
+                                "url": "/pelicula/querida-vida",
+                                "title": "Querida Vida (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg"
+                            },
+                            {
+                                "url": "/pelicula/morir-para-contar",
+                                "title": "Morir para contar (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/sn9PRjI1Q4F68Y7eamad5qwv99e.jpg"
+                            },
+                            {
+                                "url": "/pelicula/avenge-the-crows-the-legend-of-loca",
+                                "title": "Avenge the Crows: The Legend of Loca (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/eOPbmmUIImw8JmEbbmEIqA4Zkxv.jpg"
+                            },
+                            {
+                                "url": "/pelicula/roxanne-roxanne",
+                                "title": "Roxanne Roxanne (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xVNJe0xmGMbsuN5USr1J5gTLvct.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hipersomnia",
+                                "title": "Hipersomnia (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/A8zgO68TWhR6wdv84Z3RvBXxO54.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mi-querido-dictador",
+                                "title": "Mi querido dictador (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/pD9PeX5ru1P9FtYbLBCPB0S86mW.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dead-night",
+                                "title": "Dead Night (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg"
+                            },
+                            {
+                                "url": "/pelicula/10x10",
+                                "title": "10x10 (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ysyXA46FXVI38f11mNBoc5ZbYRj.jpg"
+                            },
+                            {
+                                "url": "/pelicula/poseido",
+                                "title": "Poseído (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/m08JPaYvs2RxXbgR6D7CXToOX3a.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-reverendo",
+                                "title": "El reverendo (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vwGXSZAUPguB53fbgm53aUg2Zus.jpg"
+                            },
+                            {
+                                "url": "/pelicula/burn-out",
+                                "title": "Burn Out (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kojrGQcMrVPSUxZkJDqDCUXOC6P.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-cenicienta-y-el-principe-secreto",
+                                "title": "La Cenicienta y el príncipe secreto (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dwOn22Gjlh7Tvzg03LJbpB1jPee.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-jinete",
+                                "title": "El jinete (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hBTcfh9LbaBg8Q7uL5DiDreW7qh.jpg"
+                            },
+                            {
+                                "url": "/pelicula/feliz-aniversario",
+                                "title": "Feliz aniversario (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kUAw9nAXCU3zk5T7KAh6182MqPI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/solo",
+                                "title": "Solo (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ii3AyMpyoYRo62UVX1mCgxFvTPD.jpg"
+                            },
+                            {
+                                "url": "/pelicula/danger-one",
+                                "title": "Danger One (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mG6MNa9fR6LIOaJhkJONflpGPvB.jpg"
+                            },
+                            {
+                                "url": "/pelicula/proud-mary",
+                                "title": "Proud Mary (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/nrVA9oBSKA9HmY93jdk7nIQjTPG.jpg"
+                            },
                             {
                                 "url": "/pelicula/napoleon",
                                 "title": "Napoleón (2023)",
@@ -332,96 +488,6 @@
                                 "url": "/pelicula/el-grito-2",
                                 "title": "El grito 2 (2006)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/qFVuOqY1CspyUNwWxCkNeGiRiK9.jpg"
-                            },
-                            {
-                                "url": "/pelicula/orange-county",
-                                "title": "Orange County (2002)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/lmLcncTWV78v91tKBmI5ytjKvOc.jpg"
-                            },
-                            {
-                                "url": "/pelicula/diario-de-un-rebelde",
-                                "title": "Diario de un rebelde (1995)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/68yBRXJNQT7vwFGRHqKcfy97LXq.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mewsette-en-paris",
-                                "title": "Mewsette en París (1962)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kSu1iF8idPcPobLFX7q7sFgZWUB.jpg"
-                            },
-                            {
-                                "url": "/pelicula/circo-de-los-horrores",
-                                "title": "Circo de los horrores (1960)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9sfshfTBXOFOAutfceewC6Rvgxq.jpg"
-                            },
-                            {
-                                "url": "/pelicula/muere-hart",
-                                "title": "Muere, Hart (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg"
-                            },
-                            {
-                                "url": "/pelicula/fuga-explosiva",
-                                "title": "Fuga explosiva (2012)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2n3FTpj2AmucfvgZ5tunZxZ2Jvf.jpg"
-                            },
-                            {
-                                "url": "/pelicula/remando-como-un-solo-hombre",
-                                "title": "Remando como un solo hombre (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2by4DHPmfaTqJ9YJZJK5tPxHpuk.jpg"
-                            },
-                            {
-                                "url": "/pelicula/pablo-diablo-la-pelicula",
-                                "title": "Pablo Diablo: La película (2011)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qb2bSBPJ6PQdUktZ96I2lVuQ38t.jpg"
-                            },
-                            {
-                                "url": "/pelicula/black-friday-2023",
-                                "title": "Black Friday (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/z4LWnCBeAl6ifC9MCL20P80rxv8.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mi-novio-es-un-ladron",
-                                "title": "Mi novio es un ladrón (2008)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aXObGMVl0GVARmWhdwYdrYryX4m.jpg"
-                            },
-                            {
-                                "url": "/pelicula/naturaleza-a-lo-bestia",
-                                "title": "Naturaleza a lo bestia (2008)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/acfo5Vjqh7lMsImvWvNnuhtjS02.jpg"
-                            },
-                            {
-                                "url": "/pelicula/leda-la-fantastica-aventura-de-yohko",
-                                "title": "LEDA: La fantástica aventura de Yohko (1985)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/26im4ds1KlbJlu0bWKR7Xduu7kp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/prom-night-llamadas-de-terror",
-                                "title": "Prom Night: Llamadas de terror (1980)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/w0watTKUV7nNVHwGcff4nwlE12i.jpg"
-                            },
-                            {
-                                "url": "/pelicula/okey-mister-pancho",
-                                "title": "Okey, Mister Pancho (1979)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2gUBf3glVRgqa6gHvbKbTn3fV5p.jpg"
-                            },
-                            {
-                                "url": "/pelicula/capri",
-                                "title": "Capri (1960)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2RPWCsERjfNdFzqX0VhZzM5rzng.jpg"
-                            },
-                            {
-                                "url": "/pelicula/boonie-bears-the-big-top-secret",
-                                "title": "Boonie Bears The Big Top Secret (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/l5KguXOwonbfFrrZDdcQgL2pZGn.jpg"
-                            },
-                            {
-                                "url": "/pelicula/hotel-bombay",
-                                "title": "Hotel Bombay (2019)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6xehGSPoQd4xpEqzUATzmQbZ5Q1.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-hora-de-la-venganza",
-                                "title": "La hora de la venganza (2017)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dtNKIQfScuQHclZ6YRPhRC1StBF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +747,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/napoleon",
-                    "title": "Napoleón (2023)",
-                    "description": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
-                    "genre": "Historia, Bélica, Romance, Drama",
+                    "url": "/pelicula/gru-4-mi-villano-favorito",
+                    "title": "Gru 4. Mi villano favorito (2024)",
+                    "description": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito'.",
+                    "genre": "Animación, Familia, Comedia, Acción",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +760,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/napoleon",
+                        "url": "/pelicula/gru-4-mi-villano-favorito",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,25 +770,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04585/vfvs22rxnkew_,n,h,.urlset/index-f2-v1-a1.m3u8?t=U--X5fKkphvj2UkgKgTOxpFa1wbeT0DHcqbxgvQbhiY&s=1722967697&e=129600&f=22926267&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04585/vfvs22rxnkew_,n,h,.urlset/index-f2-v1-a1.m3u8?t=U--X5fKkphvj2UkgKgTOxpFa1wbeT0DHcqbxgvQbhiY&s=1722967697&e=129600&f=22926267&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04593/taqmd9ukfixb_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=FghMGP0_fpQv8b4WWhensEYkgJEiQrsUclm_tGEWpPg&s=1722989739&e=129600&f=22966197&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "StreamWish:1032p",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04593/taqmd9ukfixb_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=FghMGP0_fpQv8b4WWhensEYkgJEiQrsUclm_tGEWpPg&s=1722989739&e=129600&f=22966197&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/vfvs22rxnkew"
+                            "Referer": "https://streamwish.to/e/taqmd9ukfixb"
                         }
                     },
                     {
-                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04585/vfvs22rxnkew_,n,h,.urlset/index-f1-v1-a1.m3u8?t=U--X5fKkphvj2UkgKgTOxpFa1wbeT0DHcqbxgvQbhiY&s=1722967697&e=129600&f=22926267&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04585/vfvs22rxnkew_,n,h,.urlset/index-f1-v1-a1.m3u8?t=U--X5fKkphvj2UkgKgTOxpFa1wbeT0DHcqbxgvQbhiY&s=1722967697&e=129600&f=22926267&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04593/taqmd9ukfixb_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=FghMGP0_fpQv8b4WWhensEYkgJEiQrsUclm_tGEWpPg&s=1722989739&e=129600&f=22966197&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04593/taqmd9ukfixb_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=FghMGP0_fpQv8b4WWhensEYkgJEiQrsUclm_tGEWpPg&s=1722989739&e=129600&f=22966197&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/vfvs22rxnkew"
+                            "Referer": "https://streamwish.to/e/taqmd9ukfixb"
+                        }
+                    },
+                    {
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04593/taqmd9ukfixb_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=FghMGP0_fpQv8b4WWhensEYkgJEiQrsUclm_tGEWpPg&s=1722989739&e=129600&f=22966197&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04593/taqmd9ukfixb_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=FghMGP0_fpQv8b4WWhensEYkgJEiQrsUclm_tGEWpPg&s=1722989739&e=129600&f=22966197&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/taqmd9ukfixb"
                         }
                     }
                 ],
@@ -737,6 +814,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/v-de-victor/",
+                                "title": "V de Víctor",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/v-de-victor.jpg"
+                            },
                             {
                                 "url": "/pelicula/mayday-club/",
                                 "title": "Mayday Club",
@@ -831,11 +913,6 @@
                                 "url": "/pelicula/hombres-duros/",
                                 "title": "Hombres Duros",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/hombres-duros.jpg"
-                            },
-                            {
-                                "url": "/pelicula/3-days-left/",
-                                "title": "3 Days left",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/3-days-left.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -844,169 +921,13 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/pelicula/before-the-world-set-on-fire/",
-                                "title": "Before the World Set on Fire",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/before-the-world-set-on-fire.jpg"
-                            },
-                            {
-                                "url": "/serie/jurassic-world-teoria-del-dinocaos",
-                                "title": "Jurassic World: Teoría del dinocaos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jurassic-world-teoria-del-dinocaos.jpg"
-                            },
-                            {
-                                "url": "/serie/love-after-world-domination",
-                                "title": "Love After World Domination",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-after-world-domination.jpg"
-                            },
-                            {
-                                "url": "/pelicula/one-piece-movie-10-strong-world/",
-                                "title": "One Piece Film: Strong World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/one-piece-movie-10-strong-world.jpg"
-                            },
-                            {
-                                "url": "/serie/jessicas-big-little-world",
-                                "title": "Jessica's Big Little World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jessicas-big-little-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/offworld/",
-                                "title": "Offworld",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/offworld.jpg"
-                            },
-                            {
-                                "url": "/serie/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/world-on-fire.jpg"
-                            },
-                            {
-                                "url": "/pelicula/jurassic-world-dominio/",
-                                "title": "Jurassic World Dominio",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jurassic-world-dominio.jpg"
-                            },
-                            {
-                                "url": "/pelicula/all-the-world-is-sleeping/",
-                                "title": "All the World Is Sleeping",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/all-the-world-is-sleeping.jpg"
-                            },
-                            {
-                                "url": "/pelicula/worlds-best/",
-                                "title": "World's Best",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/worlds-best.jpg"
-                            },
-                            {
-                                "url": "/pelicula/war-of-the-worlds-the-attack/",
-                                "title": "War of the Worlds: The Attack",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds-the-attack.jpg"
-                            },
-                            {
-                                "url": "/pelicula/war-of-the-worlds-annihilation/",
-                                "title": "War of the Worlds: Annihilation",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds-annihilation.jpg"
-                            },
-                            {
-                                "url": "/pelicula/small-world/",
-                                "title": "Small World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/small-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dinosaur-world/",
-                                "title": "Dinosaur World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dinosaur-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/were-all-going-to-the-worlds-fair/",
-                                "title": "We’re All Going to the World’s Fair",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/we-re-all-going-to-the-world-s-fair.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-wonderful-world-of-disney-magical-holiday-celebration/",
-                                "title": "The Wonderful World of Disney: Magical Holiday Celebration",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-wonderful-world-of-disney-magical-holiday-celebration.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ashita-sekai-ga-owaru-to-shitemo/",
-                                "title": "The Relative Worlds",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-relative-worlds.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ancestral-world/",
-                                "title": "Ancestral World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ancestral-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cagefighter/",
-                                "title": "Cagefighter: Worlds Collide",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cagefighter-worlds-collide.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-blazing-world/",
-                                "title": "The Blazing World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-blazing-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/justin-bieber-our-world/",
-                                "title": "Justin Bieber: Our World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justin-bieber-our-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-war-of-the-worlds-2021/",
-                                "title": "War of the Worlds",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds.jpg"
-                            },
-                            {
-                                "url": "/pelicula/edge-of-the-world/",
-                                "title": "Edge of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/edge-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/miraculous-world-shanghai-the-legend-of-ladydragon/",
-                                "title": "Miraculous World Shanghai, la leyenda de Ladydragon",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miraculous-world-shanghai-la-leyenda-de-ladydragon.jpg"
-                            },
-                            {
-                                "url": "/pelicula/justice-society-world-war-ii/",
-                                "title": "Justice Society: World War II",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justice-society-world-war-ii.jpg"
-                            },
-                            {
-                                "url": "/pelicula/shoplifters-of-the-world/",
-                                "title": "Shoplifters of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shoplifters-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/die-adern-der-welt/",
-                                "title": "Veins of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/veins-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/fireball-visitors-from-darker-worlds/",
-                                "title": "Fireball: Visitors From Darker Worlds",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/fireball-visitors-from-darker-worlds.jpg"
-                            },
-                            {
-                                "url": "/pelicula/olumlu-dunya/",
-                                "title": "Mortal World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mortal-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-feral-world/",
-                                "title": "A Feral World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-feral-world.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/mayday-club/",
-                    "title": "Mayday Club",
+                    "url": "/pelicula/v-de-victor/",
+                    "title": "V de Víctor",
                     "artist": "",
                     "description": "",
                     "genre": "Comedia",
@@ -1019,7 +940,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/mayday-club/",
+                        "url": "/pelicula/v-de-victor/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -1029,39 +950,39 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://uokbs3ftcvlt.hgagecdn.com/hls2/01/02091/i7d2qsmtt6hs_n/index-v1-a1.m3u8?t=eB7sSjiGep790DM2wVFH6QYjZVh6JhC9XmGYVu5qCHg&s=1722967706&e=129600&f=10458723&srv=bqycOuNuR1y4&i=0.4&sp=500&p1=bqycOuNuR1y4&p2=bqycOuNuR1y4&asn=8075",
-                        "quality": "[SUB] StreamHideVid - 720p",
-                        "videoUrl": "https://uokbs3ftcvlt.hgagecdn.com/hls2/01/02091/i7d2qsmtt6hs_n/index-v1-a1.m3u8?t=eB7sSjiGep790DM2wVFH6QYjZVh6JhC9XmGYVu5qCHg&s=1722967706&e=129600&f=10458723&srv=bqycOuNuR1y4&i=0.4&sp=500&p1=bqycOuNuR1y4&p2=bqycOuNuR1y4&asn=8075",
+                        "url": "https://tzoynoerzj90.hgagecdn.com/hls2/01/02104/c8b65ivgc2nm_n/index-v1-a1.m3u8?t=Y-h_OVo_eYE6s_dppv1XNepxjeSwLZYEDRD6J7BsVXY&s=1722989747&e=129600&f=10521367&srv=M3reaKPvU1bx&i=0.4&sp=500&p1=M3reaKPvU1bx&p2=M3reaKPvU1bx&asn=8075",
+                        "quality": "[CAST] StreamHideVid - 720p",
+                        "videoUrl": "https://tzoynoerzj90.hgagecdn.com/hls2/01/02104/c8b65ivgc2nm_n/index-v1-a1.m3u8?t=Y-h_OVo_eYE6s_dppv1XNepxjeSwLZYEDRD6J7BsVXY&s=1722989747&e=129600&f=10521367&srv=M3reaKPvU1bx&i=0.4&sp=500&p1=M3reaKPvU1bx&p2=M3reaKPvU1bx&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04565/rr64xluzsqmn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=136cM8YMvMW1TBUlFKDQe4Ed5xXtJtnmNda1L-NVVrU&s=1722967703&e=129600&f=22826287&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04565/rr64xluzsqmn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=136cM8YMvMW1TBUlFKDQe4Ed5xXtJtnmNda1L-NVVrU&s=1722967703&e=129600&f=22826287&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04587/6wcvgbjzh734_,n,h,.urlset/index-f2-v1-a1.m3u8?t=lY4V7pS_egtFLB7pOIk1UZWwFgXckm7FwnzLuzVWGfA&s=1722989745&e=129600&f=22935488&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04587/6wcvgbjzh734_,n,h,.urlset/index-f2-v1-a1.m3u8?t=lY4V7pS_egtFLB7pOIk1UZWwFgXckm7FwnzLuzVWGfA&s=1722989745&e=129600&f=22935488&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/rr64xluzsqmn"
+                            "Referer": "https://wishembed.pro/e/6wcvgbjzh734"
                         }
                     },
                     {
-                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04565/rr64xluzsqmn_,n,h,.urlset/index-f1-v1-a1.m3u8?t=136cM8YMvMW1TBUlFKDQe4Ed5xXtJtnmNda1L-NVVrU&s=1722967703&e=129600&f=22826287&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04565/rr64xluzsqmn_,n,h,.urlset/index-f1-v1-a1.m3u8?t=136cM8YMvMW1TBUlFKDQe4Ed5xXtJtnmNda1L-NVVrU&s=1722967703&e=129600&f=22826287&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04587/6wcvgbjzh734_,n,h,.urlset/index-f1-v1-a1.m3u8?t=lY4V7pS_egtFLB7pOIk1UZWwFgXckm7FwnzLuzVWGfA&s=1722989745&e=129600&f=22935488&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04587/6wcvgbjzh734_,n,h,.urlset/index-f1-v1-a1.m3u8?t=lY4V7pS_egtFLB7pOIk1UZWwFgXckm7FwnzLuzVWGfA&s=1722989745&e=129600&f=22935488&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/rr64xluzsqmn"
+                            "Referer": "https://wishembed.pro/e/6wcvgbjzh734"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=8woyPpqL1rT2k4&expires=1723037704&ip=G0WsDRSOKxSHDN&token=BJi0MEvGbYaL",
-                        "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8woyPpqL1rT2k4&expires=1723037704&ip=G0WsDRSOKxSHDN&token=BJi0MEvGbYaL"
+                        "url": "https://streamtape.com/get_video?id=O1brl21LlvtZ8Gz&expires=1723059746&ip=FROsF0EnDS9X&token=ZkE2uajW4JMB",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=O1brl21LlvtZ8Gz&expires=1723059746&ip=FROsF0EnDS9X&token=ZkE2uajW4JMB"
                     }
                 ],
                 "passed": true

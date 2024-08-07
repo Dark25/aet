@@ -7,19 +7,25 @@
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
-            },
-            "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
-            },
-            "episodes": {
                 "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
+            "details": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

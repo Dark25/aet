@@ -393,16 +393,119 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/sugar-dog-life-sub-espanol/",
+                    "title": "Sugar Dog Life",
+                    "description": "Una historia de amor entrelazada entre Sakuraba Isumi, un estudiante universitario bajito y con cara de bebé que es un gran cocinero, y Amasawa Kyosuke, un oficial de policía alto y sincero con un encanto natural y relajado. Isumi, de veinte años, es confundido con un menor y Amasawa casi lo detiene. Más tarde, Isumi se encuentra nuevamente con Amasawa en la tienda de conveniencia donde trabaja a tiempo parcial. A partir de entonces, cada vez que se encuentran, Amasawa le pide recomendaciones de bocadillos nocturnos. Preocupado por los hábitos alimenticios de Amasawa, Isumi ofrece: «¿Qué tal si voy a tu casa y te cocino?» Al visitar la casa de Amasawa, se vuelven más cercanos a través de comidas caseras.",
+                    "genre": "Romance, Yaoi / BL",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/xO2WMdZl7hdTtf15tKP8Gc3W8Kk.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/0134469/",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=5&sig=H3y5IQcFDI4&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "quality": "vk.com - 1080p",
+                        "videoUrl": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=5&sig=H3y5IQcFDI4&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=3&sig=6AG7sfsPsO8&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "quality": "vk.com - 720p",
+                        "videoUrl": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=3&sig=6AG7sfsPsO8&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://wboswjed1.cdn-jupiter.com/hls2/01/04587/au7fgbhje700_h/index-v1-a1.m3u8?t=ARtVzomD2P3JMX1avBqUMWaAKijZ7-uyGjlhxGDDI0w&s=1722989697&e=129600&f=22938384&srv=w55h4e89nvet&i=0.4&sp=500&p1=w55h4e89nvet&p2=w55h4e89nvet&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://wboswjed1.cdn-jupiter.com/hls2/01/04587/au7fgbhje700_h/index-v1-a1.m3u8?t=ARtVzomD2P3JMX1avBqUMWaAKijZ7-uyGjlhxGDDI0w&s=1722989697&e=129600&f=22938384&srv=w55h4e89nvet&i=0.4&sp=500&p1=w55h4e89nvet&p2=w55h4e89nvet&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishonly.site",
+                            "Referer": "https://wishonly.site/au7fgbhje700"
+                        }
+                    },
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06656/5sp06zhq16z9_h/index-v1-a1.m3u8?t=t_Qnkz82KpDCHQu3LVpwfrfsJCGPsmMZvnY3Ai96Fe8&s=1722989696&e=10800&f=33282802&srv=01&asn=8075&sp=4000",
+                        "quality": "Filemoon:720p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06656/5sp06zhq16z9_h/index-v1-a1.m3u8?t=t_Qnkz82KpDCHQu3LVpwfrfsJCGPsmMZvnY3Ai96Fe8&s=1722989696&e=10800&f=33282802&srv=01&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=2&sig=KGb9pygZGBM&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "quality": "vk.com - 480p",
+                        "videoUrl": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=2&sig=KGb9pygZGBM&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=1&sig=Lelq_ZgAql4&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "quality": "vk.com - 360p",
+                        "videoUrl": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=1&sig=Lelq_ZgAql4&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=0&sig=3Fpk6lf0aGc&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "quality": "vk.com - 240p",
+                        "videoUrl": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=0&sig=3Fpk6lf0aGc&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=4&sig=drZc7rMJxaY&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "quality": "vk.com - 144p",
+                        "videoUrl": "https://vk6-12.vkuser.net/?expires=1723248899039&srcIp=20.42.106.78&pr=40&srcAg=GECKO&ms=95.142.206.171&type=4&sig=drZc7rMJxaY&ct=0&urls=45.136.20.202%3B45.136.22.162&clientType=13&appId=512000384397&zs=43&id=6999966550680",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

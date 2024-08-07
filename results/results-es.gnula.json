@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/el-primado-de-polonia",
+                                "title": "El primado de Polonia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ngRO4EEzKtym5VA9fusHErldPc4.jpg"
+                            },
+                            {
+                                "url": "/movies/nightalk",
+                                "title": "Charla nocturna",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hdYEZqniLOTClOIRxc6QPd5GFkv.jpg"
+                            },
+                            {
+                                "url": "/movies/la-musa-de-bonnard",
+                                "title": "La Musa de Bonnard",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dKWYs1Bs6snqZsTzyZiK4kkOw5.jpg"
+                            },
+                            {
                                 "url": "/movies/mi-villano-favorito-4",
                                 "title": "Mi villano favorito 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg"
@@ -115,21 +130,6 @@
                                 "url": "/movies/shashvi-shashvi-maqvali",
                                 "title": "შაშვი შაშვი მაყვალი",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/qBXFB1pi6xFkaG5xmgL0ByqAQnU.jpg"
-                            },
-                            {
-                                "url": "/movies/la-leyenda-del-dragon",
-                                "title": "La Leyenda Del Dragón",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vNiI4kRU2k8ujgIErjrDcScHWN5.jpg"
-                            },
-                            {
-                                "url": "/movies/la-familia-beneton",
-                                "title": "La familia Benetón",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5VISxbDN4YSFZao3MAkElC4WE6O.jpg"
-                            },
-                            {
-                                "url": "/movies/the-king-tide",
-                                "title": "The King Tide",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6B7FnJu7nvjbH06Znf4aAdhvmjE.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/mi-villano-favorito-4",
-                    "title": "Mi villano favorito 4",
-                    "artist": "Steve Carell",
-                    "description": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga.",
-                    "genre": "Animación, Familia, Comedia, Acción",
+                    "url": "/movies/el-primado-de-polonia",
+                    "title": "El primado de Polonia",
+                    "artist": "Sławomir Grzymkowski",
+                    "description": "La historia del cardenal Stefan Wyszynski sienta las bases para el dramático ascenso del Papa Juan Pablo II y la caída del comunismo en Europa. ¿Quién es este hombre profético que luchó contra el mal y vio ascender a un hijo de Polonia?",
+                    "genre": "Historia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/ngRO4EEzKtym5VA9fusHErldPc4.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/mi-villano-favorito-4",
+                        "url": "/movies/el-primado-de-polonia",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,38 +429,74 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-9oyoxegwsjgr0cmw.voe-network.net/engine/hls2-c/01/11924/f9x0cwzpaef1_,n,.urlset/index-v1-a1.m3u8?t=AeDv3FgqDWnRRFgn-GmfFwasdLrvrYnrdLUr6z9_BgI&s=1722967609&e=14400&f=59620753&node=delivery-node-k9zecunih7fex16v.voe-network.net&i=172.200&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe:720p",
-                        "videoUrl": "https://delivery-node-9oyoxegwsjgr0cmw.voe-network.net/engine/hls2-c/01/11924/f9x0cwzpaef1_,n,.urlset/index-v1-a1.m3u8?t=AeDv3FgqDWnRRFgn-GmfFwasdLrvrYnrdLUr6z9_BgI&s=1722967609&e=14400&f=59620753&node=delivery-node-k9zecunih7fex16v.voe-network.net&i=172.200&sp=2500&asn=8075",
+                        "url": "https://delivery-node-etnh2hts8ppjned0.voe-network.net/engine/hls2/01/11878/xmrusbivd6dq_,n,.urlset/index-v1-a1.m3u8?t=fUcNsfRxiEo6QKE7R-lrtqaWq8vBmmEPip0jRKytiNw&s=1722989737&e=14400&f=59634441&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=13.83&sp=2500&asn=8075",
+                        "quality": "[SUB]Voe:720p",
+                        "videoUrl": "https://delivery-node-etnh2hts8ppjned0.voe-network.net/engine/hls2/01/11878/xmrusbivd6dq_,n,.urlset/index-v1-a1.m3u8?t=fUcNsfRxiEo6QKE7R-lrtqaWq8vBmmEPip0jRKytiNw&s=1722989737&e=14400&f=59634441&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=13.83&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06661/fnrtjcqrbu3m_h/index-v1-a1.m3u8?t=30Kr0olBoo80xxnMp5NzXF6VCqqqLSZpx8FcbArjluk&s=1722967604&e=10800&f=33307009&srv=11&asn=8075&sp=4000",
-                        "quality": "[LAT] Filemoon:1036p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06661/fnrtjcqrbu3m_h/index-v1-a1.m3u8?t=30Kr0olBoo80xxnMp5NzXF6VCqqqLSZpx8FcbArjluk&s=1722967604&e=10800&f=33307009&srv=11&asn=8075&sp=4000",
+                        "url": "https://delivery-node-mu6fsuds3zuz3fgi.voe-network.net/engine/hls2/01/11878/njop8p7ysx82_,n,.urlset/index-v1-a1.m3u8?t=zsDgPJ-85O_24hfw9q1hiZhzbYwE8c2_wjmd5deneNQ&s=1722989730&e=14400&f=59633868&node=delivery-node-mu6fsuds3zuz3fgi.voe-network.net&i=13.83&sp=2500&asn=8075",
+                        "quality": "[CAST]Voe:720p",
+                        "videoUrl": "https://delivery-node-mu6fsuds3zuz3fgi.voe-network.net/engine/hls2/01/11878/njop8p7ysx82_,n,.urlset/index-v1-a1.m3u8?t=zsDgPJ-85O_24hfw9q1hiZhzbYwE8c2_wjmd5deneNQ&s=1722989730&e=14400&f=59633868&node=delivery-node-mu6fsuds3zuz3fgi.voe-network.net&i=13.83&sp=2500&asn=8075",
                         "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
+                            "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04591/4vxvh7cqeca1_n/index-v1-a1.m3u8?t=FBMKxdWvKXBUzppT54jTH28t0JTh9NnkAE2ISYxOFlI&s=1722967606&e=129600&f=22958474&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04591/4vxvh7cqeca1_n/index-v1-a1.m3u8?t=FBMKxdWvKXBUzppT54jTH28t0JTh9NnkAE2ISYxOFlI&s=1722967606&e=129600&f=22958474&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04593/53u6rj620fmw_,n,h,.urlset/index-f2-v1-a1.m3u8?t=lCT4g2WBwGATx_JBBk_xXBehnbP5M9awqITAX--3Ti4&s=1722989738&e=129600&f=22966483&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04593/53u6rj620fmw_,n,h,.urlset/index-f2-v1-a1.m3u8?t=lCT4g2WBwGATx_JBBk_xXBehnbP5M9awqITAX--3Ti4&s=1722989738&e=129600&f=22966483&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/4vxvh7cqeca1"
+                            "Referer": "https://streamwish.to/e/53u6rj620fmw"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=3r1bXzqPzzu69V&expires=1723037605&ip=F0qQKRSRDS9XKxR&token=sIYL-FUHIM5q",
-                        "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=3r1bXzqPzzu69V&expires=1723037605&ip=F0qQKRSRDS9XKxR&token=sIYL-FUHIM5q"
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04593/073frbb775qw_,n,h,.urlset/index-f2-v1-a1.m3u8?t=w9sSqmIfMxPR928j7XPQ9hR3q33bechQMfIqn425TeQ&s=1722989728&e=129600&f=22966178&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04593/073frbb775qw_,n,h,.urlset/index-f2-v1-a1.m3u8?t=w9sSqmIfMxPR928j7XPQ9hR3q33bechQMfIqn425TeQ&s=1722989728&e=129600&f=22966178&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/073frbb775qw"
+                        }
+                    },
+                    {
+                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04593/53u6rj620fmw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=lCT4g2WBwGATx_JBBk_xXBehnbP5M9awqITAX--3Ti4&s=1722989738&e=129600&f=22966483&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04593/53u6rj620fmw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=lCT4g2WBwGATx_JBBk_xXBehnbP5M9awqITAX--3Ti4&s=1722989738&e=129600&f=22966483&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/53u6rj620fmw"
+                        }
+                    },
+                    {
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/04593/073frbb775qw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=w9sSqmIfMxPR928j7XPQ9hR3q33bechQMfIqn425TeQ&s=1722989728&e=129600&f=22966178&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/04593/073frbb775qw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=w9sSqmIfMxPR928j7XPQ9hR3q33bechQMfIqn425TeQ&s=1722989728&e=129600&f=22966178&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/073frbb775qw"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=zwj47qdkPgtYD4B&expires=1723059736&ip=F0AsFxOnDS9X&token=3sHXosRjb4Jr",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zwj47qdkPgtYD4B&expires=1723059736&ip=F0AsFxOnDS9X&token=3sHXosRjb4Jr"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ga9zGOeRPgfq13V&expires=1723059730&ip=F0AsFxOnDS9X&token=uNxYBhxYeysz",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ga9zGOeRPgfq13V&expires=1723059730&ip=F0AsFxOnDS9X&token=uNxYBhxYeysz"
                     }
                 ],
                 "passed": true

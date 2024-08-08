@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/delicos-nursery",
+                                "title": "Delico’s Nursery",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-delicos-nursery-cover.jpg"
+                            },
+                            {
                                 "url": "/media/ensemble-stars",
                                 "title": "Ensemble Stars!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ensemble-stars-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/kami-no-tou-ouji-no-kikan",
                                 "title": "Tower of God Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kami-no-tou-ouji-no-kikan-cover.jpg"
-                            },
-                            {
-                                "url": "/media/tsue-to-tsurugi-no-wistoria",
-                                "title": "Wistoria: Wand and Sword",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tsue-to-tsurugi-no-wistoria-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/ensemble-stars",
-                    "title": "Ensemble Stars!",
+                    "url": "/media/delicos-nursery",
+                    "title": "Delico’s Nursery",
                     "author": "",
-                    "description": "In »Ensemble Stars!«, der Anime-Adaption zum gleichnamigen Smartphone-Spiel, folgen wir der Idol-Gruppe Trickstar. Wie viele andere junge Männer besuchen die Mitglieder Trickstars die Yumenosaki Private Academy, eine Privatschule in einer Berglandschaft mit Blick auf den Ozean. Die Yumenosaki Private Academy hat sich auf die Ausbildung von Männer-Idol-Gruppen spezialisiert und hat in der Vergangenheit schon Generation um Generation junger talentierter Männer zu beliebten Idols für die Entertainment-Welt gemacht. Natürlich sind alle Schüler der Idol-Akademie männlich! Subaru Akehoshi, Hokuto Hidaka, Makoto Yuuki und Mao Isara, die allesamt das zweite Jahr der Schule besuchen, bilden Trickstar – eine Gruppe, die als »der neue aufgehende Stern der Academy« bezeichnet wird. Um ihrem Ruf gerecht zu werden, arbeiten die vier Jungen tagein, tagein sehr hart und trainieren unentwegt. Das »DreamFes« steht bevor, ein Live-Event, bei dem die verschiedenen Idol-Gruppen der Schule gegeneinander antreten, um sich zu messen und die eigene Popularität zu steigern. Doch aus der Vergangenheit weiß man, dass es beim »DreamFes« nicht unbedingt immer fair zugeht und die Ergebnisse häufig von der Schulleitung manipuliert werden. Nun wollen die Jungs von Trickstar es jedoch mit dem Schülerrat aufnehmen und das »DreamFes« reformieren ...! Quelle: aniSearch",
-                    "genre": "Ganbatte",
+                    "description": "Dali Delico stammt aus einem angesehenen Adelshaus und ist ein Elitemitglied des Blutpaktrats der Vampire. Doch seine nächste Mission lehnt Dali glatt ab! Während seine Gründe und eine mögliche Verbindung zu mysteriösen Morden deutlicher werden, besuchen ihn die Ratsmitglieder Gerhard, Dino und Henrique in der Hoffnung, ihn umzustimmen – und finden ihn, wie er ein kleines Kind betüddelt! Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ensemble-stars-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-delicos-nursery-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,21 +239,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/ensemble-stars#streams_episodes_1_23",
-                        "name": "Ep.24 Miracle",
-                        "episode_number": 24.0
-                    },
-                    {
-                        "url": "/media/ensemble-stars#streams_episodes_1_22",
-                        "name": "Ep.23 Effort",
-                        "episode_number": 23.0
+                        "url": "/media/delicos-nursery#streams_episodes_1_0",
+                        "name": "Ep.1 Willkommen im Kinderhort",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=KqqK11mkOpI0M24&expires=1723146039&ip=G0WsDRONKxSHDN&token=TMSjZZoyyWsX",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=KqqK11mkOpI0M24&expires=1723146039&ip=G0WsDRONKxSHDN&token=TMSjZZoyyWsX"
+                    },
+                    {
+                        "url": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/11935/ewl7rueu6aui_,n,.urlset/index-v1-a1.m3u8?t=XHQ2iS2flfyJ4C_5VlSV1BNTvBfcsfi2ibnyevOPZTk&s=1723076031&e=14400&f=59676574&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe:720p",
+                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/11935/ewl7rueu6aui_,n,.urlset/index-v1-a1.m3u8?t=XHQ2iS2flfyJ4C_5VlSV1BNTvBfcsfi2ibnyevOPZTk&s=1723076031&e=14400&f=59676574&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

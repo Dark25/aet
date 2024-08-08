@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/25143/el-vientre-del-mal",
+                                "title": "El vientre del mal",
+                                "thumbnail_url": "https://pelisimg.online/cover/el-vientre-del-mal.jpg"
+                            },
+                            {
+                                "url": "/25144/el-sucesor",
+                                "title": "El sucesor",
+                                "thumbnail_url": "https://pelisimg.online/cover/el-sucesor.jpg"
+                            },
+                            {
+                                "url": "/25142/borderlands-el-destino-del-universo-esta-en-juego",
+                                "title": "Borderlands: El destino del universo está en juego",
+                                "thumbnail_url": "https://pelisimg.online/cover/borderlands-el-destino-del-universo-esta-en-juego.jpg"
+                            },
+                            {
                                 "url": "/25138/la-bestia-914206",
                                 "title": "La Bestia",
                                 "thumbnail_url": "https://pelisimg.online/cover/la-bestia-914206.jpg"
@@ -210,21 +225,6 @@
                                 "url": "/25102/invasion-final",
                                 "title": "Invasion Final",
                                 "thumbnail_url": "https://pelisimg.online/cover/invasion-final.jpg"
-                            },
-                            {
-                                "url": "/25103/alien-invasion-757977",
-                                "title": "Alien Invasion",
-                                "thumbnail_url": "https://pelisimg.online/cover/alien-invasion-757977.jpg"
-                            },
-                            {
-                                "url": "/25101/500-dias-de-escobar-la-vertiginosa-caida-del-capo",
-                                "title": "500 Días de Escobar: la vertiginosa caída del capo",
-                                "thumbnail_url": "https://pelisimg.online/cover/500-dias-de-escobar-la-vertiginosa-caida-del-capo.jpg"
-                            },
-                            {
-                                "url": "/25099/las-cosas-sencillas",
-                                "title": "Las cosas sencillas",
-                                "thumbnail_url": "https://pelisimg.online/cover/las-cosas-sencillas.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/25138/la-bestia-914206",
-                    "title": "La Bestia",
-                    "description": "En un futuro cercano, donde la inteligencia artificial reina, las emociones se han convertido en una amenaza. Para librarse de ellas, la joven Gabrielle decide purificar su ADN en una máquina que la sumergirá en sus vidas pasadas. Allí se reencuentra con Louis, su gran amor. Pero está abrumada por el miedo y por la sensación de que la catástrofe se avecina. Un historia ambientada en tres períodos distintos: 1910, 2014 y 2044.",
-                    "genre": "Romance, , Ciencia ficción, , Drama",
-                    "thumbnail_url": "https://pelisimg.online/cover/la-bestia-914206.jpg",
+                    "url": "/25143/el-vientre-del-mal",
+                    "title": "El vientre del mal",
+                    "description": "Cuando una monja en un convento remoto afirma tener una concepción inmaculada, el Vaticano envía un equipo de sacerdotes a investigar, preocupados por una antigua profecía que afirma que una mujer dará a luz a dos gemelos: el Mesías y el Anticristo.",
+                    "genre": "Terror",
+                    "thumbnail_url": "https://pelisimg.online/cover/el-vientre-del-mal.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/25138/la-bestia-914206",
+                        "url": "/25143/el-vientre-del-mal",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -486,31 +486,77 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04593/u95kyvgpkiom_,n,h,.urlset/index-f2-v1-a1.m3u8?t=SdxEeaIIm-BAMS0FqDo3N5bpreSKyVToSuxwKmjVNyI&s=1723053976&e=129600&f=22969012&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04593/u95kyvgpkiom_,n,h,.urlset/index-f2-v1-a1.m3u8?t=SdxEeaIIm-BAMS0FqDo3N5bpreSKyVToSuxwKmjVNyI&s=1723053976&e=129600&f=22969012&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://delivery-node-s9awcstgcdc3ypey.voe-network.net/engine/hls2-c/01/11878/n3abdykscxko_,n,.urlset/index-v1-a1.m3u8?t=54Q8A3H5lmZ4LJjbxVJ-hka1bZLUMbpI9mHpTJ_BgVM&s=1723076142&e=14400&f=59681793&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe:708p",
+                        "videoUrl": "https://delivery-node-s9awcstgcdc3ypey.voe-network.net/engine/hls2-c/01/11878/n3abdykscxko_,n,.urlset/index-v1-a1.m3u8?t=54Q8A3H5lmZ4LJjbxVJ-hka1bZLUMbpI9mHpTJ_BgVM&s=1723076142&e=14400&f=59681793&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://e9ccawf5esyyffhp.pradoi.com/hls2/01/04598/okt68zgwu7x4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=n84xJYCfl7J9tyab6zjhPDkjsu3LItW8D1jmh9_DE4E&s=1723076139&e=129600&f=22994443&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "quality": "[LAT] StreamWish:712p",
+                        "videoUrl": "https://e9ccawf5esyyffhp.pradoi.com/hls2/01/04598/okt68zgwu7x4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=n84xJYCfl7J9tyab6zjhPDkjsu3LItW8D1jmh9_DE4E&s=1723076139&e=129600&f=22994443&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/u95kyvgpkiom"
+                            "Referer": "https://wishembed.pro/e/okt68zgwu7x4"
                         }
                     },
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04593/u95kyvgpkiom_,n,h,.urlset/index-f1-v1-a1.m3u8?t=SdxEeaIIm-BAMS0FqDo3N5bpreSKyVToSuxwKmjVNyI&s=1723053976&e=129600&f=22969012&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "url": "https://e9ccawf5esyyffhp.pradoi.com/hls2/01/04598/okt68zgwu7x4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=n84xJYCfl7J9tyab6zjhPDkjsu3LItW8D1jmh9_DE4E&s=1723076139&e=129600&f=22994443&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04593/u95kyvgpkiom_,n,h,.urlset/index-f1-v1-a1.m3u8?t=SdxEeaIIm-BAMS0FqDo3N5bpreSKyVToSuxwKmjVNyI&s=1723053976&e=129600&f=22969012&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "videoUrl": "https://e9ccawf5esyyffhp.pradoi.com/hls2/01/04598/okt68zgwu7x4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=n84xJYCfl7J9tyab6zjhPDkjsu3LItW8D1jmh9_DE4E&s=1723076139&e=129600&f=22994443&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/u95kyvgpkiom"
+                            "Referer": "https://wishembed.pro/e/okt68zgwu7x4"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=P8a2l3ddgwi0mKk&expires=1723123978&ip=F0qQKRWZD19XKxR&token=CkRlHvZCIRaU",
+                        "url": "https://streamtape.com/get_video?id=O4lBOVzaALTZ86A&expires=1723146141&ip=F0qQKRWZD19XKxR&token=WH_Y1qHfdpyR",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=P8a2l3ddgwi0mKk&expires=1723123978&ip=F0qQKRWZD19XKxR&token=CkRlHvZCIRaU"
+                        "videoUrl": "https://streamtape.com/get_video?id=O4lBOVzaALTZ86A&expires=1723146141&ip=F0qQKRWZD19XKxR&token=WH_Y1qHfdpyR"
+                    },
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04598/3nxy1udktg9a_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=ubTUD0zcGqXhTFx8BIBRjHTt2Ml302dlEtcPRLOpzhk&s=1723076144&e=129600&f=22994688&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "quality": "[SUB] StreamWish:942p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04598/3nxy1udktg9a_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=ubTUD0zcGqXhTFx8BIBRjHTt2Ml302dlEtcPRLOpzhk&s=1723076144&e=129600&f=22994688&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/3nxy1udktg9a"
+                        }
+                    },
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04598/3nxy1udktg9a_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=ubTUD0zcGqXhTFx8BIBRjHTt2Ml302dlEtcPRLOpzhk&s=1723076144&e=129600&f=22994688&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04598/3nxy1udktg9a_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=ubTUD0zcGqXhTFx8BIBRjHTt2Ml302dlEtcPRLOpzhk&s=1723076144&e=129600&f=22994688&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/3nxy1udktg9a"
+                        }
+                    },
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04598/3nxy1udktg9a_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=ubTUD0zcGqXhTFx8BIBRjHTt2Ml302dlEtcPRLOpzhk&s=1723076144&e=129600&f=22994688&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04598/3nxy1udktg9a_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=ubTUD0zcGqXhTFx8BIBRjHTt2Ml302dlEtcPRLOpzhk&s=1723076144&e=129600&f=22994688&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/3nxy1udktg9a"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=PyjgJ7mLYOHGob&expires=1723146145&ip=F0qQKRWZD19XKxR&token=rXvXZ-qLg32H",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=PyjgJ7mLYOHGob&expires=1723146145&ip=F0qQKRWZD19XKxR&token=rXvXZ-qLg32H"
                     }
                 ],
                 "passed": true
@@ -525,10 +571,10 @@
                     {
                         "animes": [
                             {
-                                "url": "/ver-pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas",
-                                "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
-                                "description": "Cuando de pronto sacan a Fondo de Bikini del océano, la ardilla científica Arenita Mejillas y su amigo Bob Esponja emprenden un viaje a Texas para salvar su hogar.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg"
+                                "url": "/ver-pelicula/borderlands-el-destino-del-universo-esta-en-juego",
+                                "title": "Borderlands: El destino del universo está en juego",
+                                "description": "Borderlands se desarrolla en el planeta Pandora. Atraídas por las aparentemente vastos yacimientos minerales, muchas naves colonizadores de la Dahl Corporation (una de las muchas diversas megacorporaciones que aparentemente controlan y gobiernan planetas enteros) viajan al planeta para construir asentamientos. Las operaciones de minería son llevadas a cabo por una cantidad enorme de convictos llevados al planeta por la propia corporación.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/raRTIEczUZRopWEOCGpqI94tlpA.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/niebla-sin-fronteras",
@@ -543,16 +589,22 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sildryP1raUQgULCVVZ2hRuZWZu.jpg"
                             },
                             {
+                                "url": "/ver-pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas",
+                                "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
+                                "description": "Cuando de pronto sacan a Fondo de Bikini del océano, la ardilla científica Arenita Mejillas y su amigo Bob Esponja emprenden un viaje a Texas para salvar su hogar.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/harold-y-su-crayon-magico",
                                 "title": "Harold y su crayón mágico",
                                 "description": "Un niño llamado Harold se embarca en una misión mágica con la ayuda de su crayón morado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/trampa-en-alta-mar",
-                                "title": "Trampa en alta mar",
-                                "description": "Tras un accidente mortal, un trío de amigos se encuentra varado en alta mar. La salvación aparece cuando los rescata el capitán de un barco pesquero. Pero su alivio se convierte en pesadilla cuando descubren que el refugio alberga un oscuro secreto.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tIbIgFQBYiXj6dRTGwy5rkeMMdc.jpg"
+                                "url": "/ver-pelicula/la-reina-de-la-montana-lhakpa-sherpa-y-la-cumbre-del-everest",
+                                "title": "La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest",
+                                "description": "De la directora nominada al Oscar® Lucy Walker, este documental capta la pasión y el heroísmo de la alpinista Lhakpa Sherpa en su décimo ascenso al monte Everest.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oYqucQ4kSA6WQ2V0hgylibc8u39.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/la-dinastia-gaa",
@@ -561,10 +613,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/gxZxaCN07rIZxiMlpXsPbWUJYIZ.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/la-reina-de-la-montana-lhakpa-sherpa-y-la-cumbre-del-everest",
-                                "title": "La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest",
-                                "description": "De la directora nominada al Oscar® Lucy Walker, este documental capta la pasión y el heroísmo de la alpinista Lhakpa Sherpa en su décimo ascenso al monte Everest.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oYqucQ4kSA6WQ2V0hgylibc8u39.jpg"
+                                "url": "/ver-pelicula/trampa-en-alta-mar",
+                                "title": "Trampa en alta mar",
+                                "description": "Tras un accidente mortal, un trío de amigos se encuentra varado en alta mar. La salvación aparece cuando los rescata el capitán de un barco pesquero. Pero su alivio se convierte en pesadilla cuando descubren que el refugio alberga un oscuro secreto.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tIbIgFQBYiXj6dRTGwy5rkeMMdc.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/no-negociable",
@@ -597,6 +649,12 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jXeeV5YrACBgc9CGvggdsA6PEmd.jpg"
                             },
                             {
+                                "url": "/ver-pelicula/perspectiva",
+                                "title": "Perspectiva",
+                                "description": "En un futuro cercano, la tecnología permite ver lo que sucederá en nuestras vidas creando una ilusión de futuro mediante el uso de nuestros recuerdos y procesos cognitivos. LookApp es una aplicación que funciona con una IA completamente nueva que promete mostrarte dónde estarás y así poder tomar las decisiones correctas en el presente. Aarón, aunque es consciente del potencial daño y del creciente número de víctimas adictas a la App, decide descargarla en contra de las advertencias debido a sus sospechas sobre una posible aventura de su novia con su mejor amigo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/e7jW5JDUsXQAgmCgNSvi0vnKqkI.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/lumina",
                                 "title": "Lumina",
                                 "description": "When the sudden appearance of lights from the sky causes his girlfriend to disappear, Alex and his friends embark on a quest to find her. Their journey soon leads them to a deep underground military base where they encounter government agents and an alien menace that threatens their lives.",
@@ -627,12 +685,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/perspectiva",
-                                "title": "Perspectiva",
-                                "description": "En un futuro cercano, la tecnología permite ver lo que sucederá en nuestras vidas creando una ilusión de futuro mediante el uso de nuestros recuerdos y procesos cognitivos. LookApp es una aplicación que funciona con una IA completamente nueva que promete mostrarte dónde estarás y así poder tomar las decisiones correctas en el presente. Aarón, aunque es consciente del potencial daño y del creciente número de víctimas adictas a la App, decide descargarla en contra de las advertencias debido a sus sospechas sobre una posible aventura de su novia con su mejor amigo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/e7jW5JDUsXQAgmCgNSvi0vnKqkI.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/the-passenger-957314",
                                 "title": "El pasajero",
                                 "description": "Un hombre se ve obligado a enfrentar sus miedos y confrontar su pasado turbulento. Debe encontrar una manera de sobrevivir cuando su compañero de trabajo se rompe y se lanza a una matanza violenta.",
@@ -661,12 +713,6 @@
                                 "title": "Wild Wild Punjab",
                                 "description": "Khanne ha tenido una ruptura. Está disgustado, pero sus amigos Arore, Jainu y Honey Paaji le animan a afrontar la situación de frente y seguir adelante. Juntos se embarcan en un viaje a través del Punjab para ayudar a Khanne a encontrar el final que desea.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fdaMSEGmDTEUDH5qq3jnrcF0pMi.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/desaparecidos-en-la-noche",
-                                "title": "Desaparecidos en la noche",
-                                "description": "Un padre que atraviesa un divorcio complicado emprende una misión muy peligrosa cuando sus hijos desaparecen de su aislada casa de campo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/uyEFqfRezkNrxh9Lg8fj8IcbkHx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -811,16 +857,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/j2kjmPRNSvtsLcml40HBWDge0sK.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
-                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
-                                "description": "Mientras acelera para ayudar en una batalla improvisada, Flash arde y atraviesa el tiempo, solo para encontrarse a sí mismo en medio de la Segunda Guerra Mundial. Es aquí donde Flash conoce a Wonder Woman y su equipo alto secreto, conocido como la Sociedad de la Justicia de América. En medio de las furiosas mareas de la guerra, el combate apasionante y la velocidad del valor, Flash debe luchar para volver a su propia línea de tiempo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/billie-eilish-the-worlds-a-little-blurry",
                                 "title": "Billie Eilish: The world's a little blurry",
                                 "description": "El premiado documentalista R.J. Cutler acompaña a Billie en sus giras, en el escenario y en casa con su familia durante la grabación del álbum que le cambió la vida.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "description": "Mientras acelera para ayudar en una batalla improvisada, Flash arde y atraviesa el tiempo, solo para encontrarse a sí mismo en medio de la Segunda Guerra Mundial. Es aquí donde Flash conoce a Wonder Woman y su equipo alto secreto, conocido como la Sociedad de la Justicia de América. En medio de las furiosas mareas de la guerra, el combate apasionante y la velocidad del valor, Flash debe luchar para volver a su propia línea de tiempo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -830,12 +876,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas",
-                    "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
-                    "artist": "Carolyn Lawrence",
-                    "description": "Cuando de pronto sacan a Fondo de Bikini del océano, la ardilla científica Arenita Mejillas y su amigo Bob Esponja emprenden un viaje a Texas para salvar su hogar.",
-                    "genre": "Animación, Comedia, Aventura, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg",
+                    "url": "/ver-pelicula/borderlands-el-destino-del-universo-esta-en-juego",
+                    "title": "Borderlands: El destino del universo está en juego",
+                    "artist": "Cate Blanchett",
+                    "description": "Borderlands se desarrolla en el planeta Pandora. Atraídas por las aparentemente vastos yacimientos minerales, muchas naves colonizadores de la Dahl Corporation (una de las muchas diversas megacorporaciones que aparentemente controlan y gobiernan planetas enteros) viajan al planeta para construir asentamientos. Las operaciones de minería son llevadas a cabo por una cantidad enorme de convictos llevados al planeta por la propia corporación.",
+                    "genre": "Acción, Ciencia ficción, Aventura",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/raRTIEczUZRopWEOCGpqI94tlpA.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -843,7 +889,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/al-rescate-de-fondo-de-bikini-la-pelicula-de-arenita-mejillas",
+                        "url": "/ver-pelicula/borderlands-el-destino-del-universo-esta-en-juego",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -853,86 +899,38 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11897/jqnhamrxjblw_,n,.urlset/index-v1-a1.m3u8?t=PkvYTtk1w3tpeKe9FcmOCkooKg5P_jh6PSZT_FV9WrE&s=1723053982&e=14400&f=59486057&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe:720p",
-                        "videoUrl": "https://delivery-node-k7fqr4dgvlsivwgj.voe-network.net/engine/hls2-c/01/11897/jqnhamrxjblw_,n,.urlset/index-v1-a1.m3u8?t=PkvYTtk1w3tpeKe9FcmOCkooKg5P_jh6PSZT_FV9WrE&s=1723053982&e=14400&f=59486057&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04555/y00i7a80kryo_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=iqubSybXW5FuUBLB2ZdhwirZVm0eYMvivX3xMcXvhrk&s=1723053980&e=129600&f=22778509&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[LAT] StreamWish:1080p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04555/y00i7a80kryo_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=iqubSybXW5FuUBLB2ZdhwirZVm0eYMvivX3xMcXvhrk&s=1723053980&e=129600&f=22778509&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/y00i7a80kryo"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04555/y00i7a80kryo_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=iqubSybXW5FuUBLB2ZdhwirZVm0eYMvivX3xMcXvhrk&s=1723053980&e=129600&f=22778509&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04555/y00i7a80kryo_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=iqubSybXW5FuUBLB2ZdhwirZVm0eYMvivX3xMcXvhrk&s=1723053980&e=129600&f=22778509&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/y00i7a80kryo"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04555/y00i7a80kryo_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=iqubSybXW5FuUBLB2ZdhwirZVm0eYMvivX3xMcXvhrk&s=1723053980&e=129600&f=22778509&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04555/y00i7a80kryo_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=iqubSybXW5FuUBLB2ZdhwirZVm0eYMvivX3xMcXvhrk&s=1723053980&e=129600&f=22778509&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/y00i7a80kryo"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-v1b8qtcgvsxmhtgr.voe-network.net/engine/hls2/01/11897/aqhm7pdmk4al_,n,.urlset/index-v1-a1.m3u8?t=BLgwdQ_jqIPZmow9nh9Kj_2X0JwDTYgnDwUVbxSseks&s=1723053988&e=14400&f=59486062&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/11935/uynlivlp65g4_,n,.urlset/index-v1-a1.m3u8?t=jhmdxOOt9_gTY4kI0ZRFx_Q7Kdw_e22QZluH4p8PmGg&s=1723076152&e=14400&f=59676939&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "[ENG]Voe:720p",
-                        "videoUrl": "https://delivery-node-v1b8qtcgvsxmhtgr.voe-network.net/engine/hls2/01/11897/aqhm7pdmk4al_,n,.urlset/index-v1-a1.m3u8?t=BLgwdQ_jqIPZmow9nh9Kj_2X0JwDTYgnDwUVbxSseks&s=1723053988&e=14400&f=59486062&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/11935/uynlivlp65g4_,n,.urlset/index-v1-a1.m3u8?t=jhmdxOOt9_gTY4kI0ZRFx_Q7Kdw_e22QZluH4p8PmGg&s=1723076152&e=14400&f=59676939&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://jturq6cd3wcv.pradoi.com/hls2/01/04555/g7ik1i4pf2nz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=hyIuZQJlKGXJnyHzNsk59PzhOpmtJfxpSkx6SI3JpN4&s=1723053985&e=129600&f=22778521&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "quality": "[ENG] StreamWish:1080p",
-                        "videoUrl": "https://jturq6cd3wcv.pradoi.com/hls2/01/04555/g7ik1i4pf2nz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=hyIuZQJlKGXJnyHzNsk59PzhOpmtJfxpSkx6SI3JpN4&s=1723053985&e=129600&f=22778521&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06666/6ormtzs30jr8_h/index-v1-a1.m3u8?t=CTBI2VngPlE7R6UYhzkt27m-IW3hv6yonvtsN7MefG4&s=1723076151&e=10800&f=33333661&srv=26&asn=8075&sp=4000",
+                        "quality": "[ENG] Filemoon:720p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06666/6ormtzs30jr8_h/index-v1-a1.m3u8?t=CTBI2VngPlE7R6UYhzkt27m-IW3hv6yonvtsN7MefG4&s=1723076151&e=10800&f=33333661&srv=26&asn=8075&sp=4000",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/g7ik1i4pf2nz"
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
                         }
                     },
                     {
-                        "url": "https://jturq6cd3wcv.pradoi.com/hls2/01/04555/g7ik1i4pf2nz_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=hyIuZQJlKGXJnyHzNsk59PzhOpmtJfxpSkx6SI3JpN4&s=1723053985&e=129600&f=22778521&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://jturq6cd3wcv.pradoi.com/hls2/01/04555/g7ik1i4pf2nz_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=hyIuZQJlKGXJnyHzNsk59PzhOpmtJfxpSkx6SI3JpN4&s=1723053985&e=129600&f=22778521&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/g7ik1i4pf2nz"
-                        }
-                    },
-                    {
-                        "url": "https://jturq6cd3wcv.pradoi.com/hls2/01/04555/g7ik1i4pf2nz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=hyIuZQJlKGXJnyHzNsk59PzhOpmtJfxpSkx6SI3JpN4&s=1723053985&e=129600&f=22778521&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "url": "https://54pkdcyxbsxbermn.pradoi.com/hls2/01/04597/e6g4fisv19yo_n/index-v1-a1.m3u8?t=7cqA2NpDj7aKBW-bAgsLL3-urikeUAqnn0MY_WCNAvY&s=1723076149&e=129600&f=22989508&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://jturq6cd3wcv.pradoi.com/hls2/01/04555/g7ik1i4pf2nz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=hyIuZQJlKGXJnyHzNsk59PzhOpmtJfxpSkx6SI3JpN4&s=1723053985&e=129600&f=22778521&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "videoUrl": "https://54pkdcyxbsxbermn.pradoi.com/hls2/01/04597/e6g4fisv19yo_n/index-v1-a1.m3u8?t=7cqA2NpDj7aKBW-bAgsLL3-urikeUAqnn0MY_WCNAvY&s=1723076149&e=129600&f=22989508&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/g7ik1i4pf2nz"
+                            "Referer": "https://streamwish.to/e/e6g4fisv19yo"
                         }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=q66xG0Zo6Lfzq44&expires=1723146155&ip=F0qQKRWZD19XKxR&token=FYMG7FPOpUBK",
+                        "quality": "[ENG] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=q66xG0Zo6Lfzq44&expires=1723146155&ip=F0qQKRWZD19XKxR&token=FYMG7FPOpUBK"
                     }
                 ],
                 "passed": true

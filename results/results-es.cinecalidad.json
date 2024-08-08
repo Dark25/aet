@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/ver-serie/tragones-y-mazmorras/",
-                                "title": "Tragones y mazmorras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//eHlatCGzEQaxzq6LnSxSENKHlnJ.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/los-bandidos-del-oro/",
                                 "title": "Los bandidos del oro",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//haQLxkyQAJsFNDUKc7VW26CAmkn.jpg"
@@ -80,6 +75,11 @@
                                 "url": "/ver-pelicula/inmaculada/",
                                 "title": "Inmaculada",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//qBNx7t73x1KyfNkNNiyou8qy88.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/grandes-espias-mision-italia/",
+                                "title": "Grandes espías: Misión Italia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//ghlwOez45gndnAp3aPMzg5kxMjp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -129,13 +129,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/tragones-y-mazmorras/",
-                    "title": "Tragones y mazmorras",
-                    "artist": "中博史, 千本木彩花, 泊明日菜, 熊谷健太郎",
+                    "url": "/ver-serie/los-bandidos-del-oro/",
+                    "title": "Los bandidos del oro",
+                    "artist": "Alessio Praticò, Giuseppe Lo Piccolo, Lorenzo de Moor, Marlon Joubert, Matilda Anna Ingrid Lutz",
                     "author": "",
-                    "description": "Mazmorras, tragones ¡y exquisitos guisos de monstruos! Nada se salva del apetito de estos aventureros cuando se adentran en un reino maldito para salvar a uno de los suyos.",
-                    "genre": "Acción y Aventura, Animación, Comedia, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//eHlatCGzEQaxzq6LnSxSENKHlnJ.jpg",
+                    "description": "En el siglo XIX, en un sur de Italia asolado por bandidos, Filomena deja atrás su vida acomodada pero triste para dirigir la arriesgada búsqueda de un tesoro.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//haQLxkyQAJsFNDUKc7VW26CAmkn.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -143,14 +143,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/tragones-y-mazmorras-1x8/",
-                        "name": "T1 - E8: Episodio 8: Frambuesas / Carne asada",
-                        "episode_number": 8.0
+                        "url": "/ver-el-episodio/los-bandidos-del-oro-1x6/",
+                        "name": "T1 - E6: El pozo",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/ver-el-episodio/tragones-y-mazmorras-1x7/",
-                        "name": "T1 - E7: Episodio 7: Kelpie / Papilla de cebada / Parásito asado con salsa",
-                        "episode_number": 7.0
+                        "url": "/ver-el-episodio/los-bandidos-del-oro-1x5/",
+                        "name": "T1 - E5: La novia, la asesina y la lunática",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -158,20 +158,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a1np9lzy.cdn-jupiter.com/hls2/01/03146/s3bfluw2nktv_n/index-v1-a1.m3u8?t=-fqHvieaW4TCjrRLR5Ixk7LxouM3nGu-qTXddHI_y0M&s=1723076128&e=129600&f=15731583&srv=yhx57ki7aa0b1&i=0.4&sp=500&p1=yhx57ki7aa0b1&p2=yhx57ki7aa0b1&asn=8075",
+                        "url": "https://qasplk2024ih.pradoi.com/hls2/01/03699/uy783im54dd9_n/index-v1-a1.m3u8?t=pJJAA6KKZSn6CTWoOoqmvU6ihK8XKnTVPT-EFgnCnCg&s=1723097208&e=129600&f=18499078&srv=whxxncach16tf&i=0.0&sp=500&p1=whxxncach16tf&p2=whxxncach16tf&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://a1np9lzy.cdn-jupiter.com/hls2/01/03146/s3bfluw2nktv_n/index-v1-a1.m3u8?t=-fqHvieaW4TCjrRLR5Ixk7LxouM3nGu-qTXddHI_y0M&s=1723076128&e=129600&f=15731583&srv=yhx57ki7aa0b1&i=0.4&sp=500&p1=yhx57ki7aa0b1&p2=yhx57ki7aa0b1&asn=8075",
+                        "videoUrl": "https://qasplk2024ih.pradoi.com/hls2/01/03699/uy783im54dd9_n/index-v1-a1.m3u8?t=pJJAA6KKZSn6CTWoOoqmvU6ihK8XKnTVPT-EFgnCnCg&s=1723097208&e=129600&f=18499078&srv=whxxncach16tf&i=0.0&sp=500&p1=whxxncach16tf&p2=whxxncach16tf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://cdnwish.com",
-                            "Referer": "https://cdnwish.com/e/s3bfluw2nktv"
+                            "Origin": "https://jodwish.com",
+                            "Referer": "https://jodwish.com/e/uy783im54dd9"
                         }
                     },
                     {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05589/gapqtfhymzpr_h/index-v1-a1.m3u8?t=DoKj0a9LBpN6QKA8gWJfsivfVWpDbdCzrC6KI4MXByQ&s=1723076130&e=10800&f=27948790&srv=29&asn=8075&sp=4000",
-                        "quality": "Filemoon:1080p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05589/gapqtfhymzpr_h/index-v1-a1.m3u8?t=DoKj0a9LBpN6QKA8gWJfsivfVWpDbdCzrC6KI4MXByQ&s=1723076130&e=10800&f=27948790&srv=29&asn=8075&sp=4000",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05984/l87fyuz5jncf_h/index-v1-a1.m3u8?t=a5JA8QIu_o4pU2WTjtdPdqZirPBJDvsDVQraZkNHVEM&s=1723097209&e=10800&f=29923426&srv=01&asn=8075&sp=4000",
+                        "quality": "Filemoon:802p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05984/l87fyuz5jncf_h/index-v1-a1.m3u8?t=a5JA8QIu_o4pU2WTjtdPdqZirPBJDvsDVQraZkNHVEM&s=1723097209&e=10800&f=29923426&srv=01&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -179,9 +179,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery-node-ljesirbcw2lwdzzg.voe-network.net/engine/hls2/01/10565/wztzbgms1soo_,n,.urlset/index-v1-a1.m3u8?t=_JDwnKU7Lec6xKDgLcdNhZgVQ7ZQaApGrWo5YbNpeHA&s=1723076133&e=14400&f=52826999&node=delivery-node-ljesirbcw2lwdzzg.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/11203/lxhfsw6owk58_,n,.urlset/index-v1-a1.m3u8?t=rh8EpCgeteWq6s1KfnLodrGH7AUCNAZyA04l4xDCagI&s=1723097210&e=14400&f=56019827&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=20.51&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-ljesirbcw2lwdzzg.voe-network.net/engine/hls2/01/10565/wztzbgms1soo_,n,.urlset/index-v1-a1.m3u8?t=_JDwnKU7Lec6xKDgLcdNhZgVQ7ZQaApGrWo5YbNpeHA&s=1723076133&e=14400&f=52826999&node=delivery-node-ljesirbcw2lwdzzg.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/11203/lxhfsw6owk58_,n,.urlset/index-v1-a1.m3u8?t=rh8EpCgeteWq6s1KfnLodrGH7AUCNAZyA04l4xDCagI&s=1723097210&e=14400&f=56019827&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=20.51&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

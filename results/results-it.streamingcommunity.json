@@ -954,24 +954,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/252650?type=video&rendition=1080p&token=aHHShW7uHWblBH5Oj-50PQ&expires=1728260167&b=1",
-                        "quality": "1080p",
-                        "videoUrl": "https://vixcloud.co/playlist/252650?type=video&rendition=1080p&token=aHHShW7uHWblBH5Oj-50PQ&expires=1728260167&b=1"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/252650?type=video&rendition=720p&token=5-5uicPELhD1k6P_XxxXFA&expires=1728260167&b=1",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/252650?type=video&rendition=720p&token=5-5uicPELhD1k6P_XxxXFA&expires=1728260167&b=1"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/252650?type=video&rendition=480p&token=A_hPSEqAn54iba-WcvMtKA&expires=1728260167&b=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/252650?type=video&rendition=480p&token=A_hPSEqAn54iba-WcvMtKA&expires=1728260167&b=1"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

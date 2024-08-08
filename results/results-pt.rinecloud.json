@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dublado/",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Dublado",
+                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/07/1721851847-5168-142258.jpg"
+                            },
+                            {
                                 "url": "/anime/yeosin-gangnim/",
                                 "title": "Yeosin Gangnim",
                                 "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/08/1723066428-6486-139699.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-dublado/",
                                 "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta Dublado",
                                 "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/07/1722221530-4766-143115.jpg"
-                            },
-                            {
-                                "url": "/anime/tsue-to-tsurugi-no-wistoria-dublado/",
-                                "title": "Tsue to Tsurugi no Wistoria Dublado",
-                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/07/1722217825-4375-144104.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1723126086&ei=xmC0ZsSvF6a3kucPlOzw8QI&ip=172.71.183.153&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1723096867&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRgIhAM68T7riND3sPu2GernPd5eL1Ww-6QVYVsVV-3LPm5uKAiEAg-mS8X9HC3Ifqo9j_u2552FV39VPdqrZ0Z6E1om45uU%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRQIgOmkfh_oZdKuxP0AYMu2YMNd4P6qhPfhoNh14JV3c_1kCIQCA4v7Eea2tfD_ceYewRC-jRFAII__mn-6NCqNdh9Vp8A%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1723126086&ei=xmC0ZsSvF6a3kucPlOzw8QI&ip=172.71.183.153&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289918013581&mt=1723096867&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRgIhAM68T7riND3sPu2GernPd5eL1Ww-6QVYVsVV-3LPm5uKAiEAg-mS8X9HC3Ifqo9j_u2552FV39VPdqrZ0Z6E1om45uU%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRQIgOmkfh_oZdKuxP0AYMu2YMNd4P6qhPfhoNh14JV3c_1kCIQCA4v7Eea2tfD_ceYewRC-jRFAII__mn-6NCqNdh9Vp8A%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1723126086&ei=xmC0ZsSvF6a3kucPlOzw8QI&ip=172.71.183.153&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1723096867&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgVTAt2WMMQCR6HiA1Qxa3pO-Pudh-Rw1_XrPhDXWBUzwCIQCueaH60RafqY7kFpwAtdh12CvU1AGfrMLKanUf-FYdOQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRgIhALxJW_pEuG1xCxp1DU4C_J2AJBLQcwxNy2TNNPZr-ZJZAiEA-pmjomCgt7NTqj5_hc4X7H27vfhiQZ1XhFVa7H4obeM%3D",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1723126086&ei=xmC0ZsSvF6a3kucPlOzw8QI&ip=172.71.183.153&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hne6nsz&ms=au&mv=m&mvi=3&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&dur=1443.584&lmt=1680289800321124&mt=1723096867&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgVTAt2WMMQCR6HiA1Qxa3pO-Pudh-Rw1_XrPhDXWBUzwCIQCueaH60RafqY7kFpwAtdh12CvU1AGfrMLKanUf-FYdOQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRgIhALxJW_pEuG1xCxp1DU4C_J2AJBLQcwxNy2TNNPZr-ZJZAiEA-pmjomCgt7NTqj5_hc4X7H27vfhiQZ1XhFVa7H4obeM%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

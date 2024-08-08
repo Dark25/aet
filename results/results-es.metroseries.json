@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/f3Xk7HRbGysWM66BTahIZN663RT.jpg"
                             },
                             {
-                                "url": "/el-caso-fourniret-monique-olivier-instrumento-del-mal/",
-                                "title": "El caso Fourniret: Monique Olivier, instrumento del mal",
+                                "url": "/2-moons-the-series/",
+                                "title": "2 Moons: The Series",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fhLwPsElgBf98R6gYFtJH1mWlHj.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/b6bbSGUM8KLD7lQHI5mEZOT7R8O.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/creeped-out-capitulos-completos-sub-espanol-hd-online/",
-                                "title": "Creeped Out",
+                                "url": "/she/",
+                                "title": "She",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/rvT0JdtGneu7vY6RoWjluwdsfD8-226x339.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/03/w7LgKmvUf6C67gMnQYWvQjgJdqm-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,48 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/la-doble-temporada-1-capitulo-32/",
+                        "name": "T01 - E32 - Episodio 32",
+                        "date_upload": 1718755200000,
+                        "episode_number": 32.0
+                    },
+                    {
+                        "url": "/episode/la-doble-temporada-1-capitulo-31/",
+                        "name": "T01 - E31 - Episodio 31",
+                        "date_upload": 1718668800000,
+                        "episode_number": 31.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00068/prba8rzhpw2n_,l,n,.urlset/index-f2-v1-a1.m3u8?t=d7cAGGEtGLUIgMW1MD33Oah-eWGW11iO3aZiKuCOYyE&s=1723097212&e=43200&f=343916&i=0.3&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00068/prba8rzhpw2n_,l,n,.urlset/index-f2-v1-a1.m3u8?t=d7cAGGEtGLUIgMW1MD33Oah-eWGW11iO3aZiKuCOYyE&s=1723097212&e=43200&f=343916&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00068/prba8rzhpw2n_,l,n,.urlset/index-f1-v1-a1.m3u8?t=d7cAGGEtGLUIgMW1MD33Oah-eWGW11iO3aZiKuCOYyE&s=1723097212&e=43200&f=343916&i=0.3&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00068/prba8rzhpw2n_,l,n,.urlset/index-f1-v1-a1.m3u8?t=d7cAGGEtGLUIgMW1MD33Oah-eWGW11iO3aZiKuCOYyE&s=1723097212&e=43200&f=343916&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

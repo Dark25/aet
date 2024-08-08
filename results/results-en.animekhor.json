@@ -296,56 +296,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/god-of-martial-arts-peerless-martial-god-episodes-425-to-426-subtitles-english-indonesian/",
-                        "name": "Episode 425 to 426",
-                        "date_upload": 1722556800000,
-                        "episode_number": 425.0
-                    },
-                    {
-                        "url": "/god-of-martial-arts-peerless-martial-god-episode-424-subtitles-english-indonesian/",
-                        "name": "Episode 424",
-                        "date_upload": 1722124800000,
-                        "episode_number": 424.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=3&sig=c72r_j7A1XQ&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408",
-                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:720p",
-                        "videoUrl": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=3&sig=c72r_j7A1XQ&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408"
-                    },
-                    {
-                        "url": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=4&sig=GLQBLVeEsXE&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408",
-                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:144p",
-                        "videoUrl": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=4&sig=GLQBLVeEsXE&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408"
-                    },
-                    {
-                        "url": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=0&sig=fK1xtHhnG88&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408",
-                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:240p",
-                        "videoUrl": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=0&sig=fK1xtHhnG88&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408"
-                    },
-                    {
-                        "url": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=1&sig=AYy0ZWLWp20&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408",
-                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:360p",
-                        "videoUrl": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=1&sig=AYy0ZWLWp20&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408"
-                    },
-                    {
-                        "url": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=2&sig=GkZCbw3meTc&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408",
-                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:480p",
-                        "videoUrl": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=2&sig=GkZCbw3meTc&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408"
-                    },
-                    {
-                        "url": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=5&sig=OWlJgl4ke7w&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408",
-                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:1080p",
-                        "videoUrl": "https://vd258.mycdn.me/?expires=1723183523876&srcIp=52.234.38.128&pr=10&srcAg=GECKO&ms=185.226.52.8&type=5&sig=OWlJgl4ke7w&ct=0&urls=45.136.21.37&clientType=0&zs=43&id=6667280845408"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

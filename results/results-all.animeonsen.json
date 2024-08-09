@@ -312,12 +312,71 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "E5QPb6ajWzZL5ZYz/video/6",
+                        "name": "Episode 6: Humanity's Strongest, Civit Gartland",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "E5QPb6ajWzZL5ZYz/video/5",
+                        "name": "Episode 5: The Chain Known as Trust",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/E5QPb6ajWzZL5ZYz/6/manifest.mpd",
+                        "quality": "Default (720p)",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/E5QPb6ajWzZL5ZYz/6/manifest.mpd",
+                        "headers": {
+                            "user-agent": "Aniyomi/app (mobile)",
+                            "referer": "https://animeonsen.xyz"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/en-US/6",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/ru-RU/6",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/pt-BR/6",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/it-IT/6",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/fr-FR/6",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/es-LA/6",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/es-ES/6",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/de-DE/6",
+                                "lang": "Deutsch"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/E5QPb6ajWzZL5ZYz/ar-ME/6",
+                                "lang": "العربية"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

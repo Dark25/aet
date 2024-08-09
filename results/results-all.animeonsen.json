@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "E5QPb6ajWzZL5ZYz",
+                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/E5QPb6ajWzZL5ZYz"
+                            },
+                            {
                                 "url": "leFi5YKvkIUcO0dt",
                                 "title": "Megami no Café Terrace 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leFi5YKvkIUcO0dt"
@@ -100,11 +105,6 @@
                                 "url": "jpPHlPsRSSGWHFwR",
                                 "title": "Mayonaka Punch",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/jpPHlPsRSSGWHFwR"
-                            },
-                            {
-                                "url": "CVchub0m900eo3xj",
-                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/CVchub0m900eo3xj"
                             }
                         ],
                         "hasNextPage": true
@@ -299,84 +299,25 @@
             },
             "details": {
                 "result": {
-                    "url": "leFi5YKvkIUcO0dt",
-                    "title": "Megami no Café Terrace 2nd Season",
-                    "author": "Tezuka Productions",
-                    "description": "Second season of Megami no Café Terrace.",
-                    "genre": "Adult Cast, Comedy, Ecchi, Harem, Romance, Shounen",
+                    "url": "E5QPb6ajWzZL5ZYz",
+                    "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+                    "author": "Seven Arcs",
+                    "description": "When loner Touka Mimori is summoned to another world alongside his classmates, he obtains the power to inflict status ailments, such as paralysis or poison, on his enemies. Unfortunately for him, skills of this nature are considered useless due to their low success rate, and Touka is thus assigned the title of E-rank hero. Things take a further turn for the worse when Vicius, the goddess who summoned the class, reveals that the lowest-ranked hero will be disposed of so that they do not hinder those with greater talent.\n\nBanished to a notoriously dangerous area, Touka comes face-to-face with death after being cornered by a minotaur-like creature. In a desperate attempt to survive, he uses his supposedly worthless skill—only to quickly realize that it works almost every time. Armed with the ability to render the monsters standing in his way completely helpless, Touka resolves to track down the goddess that tossed him aside and exact his revenge.\n\n[Written by MAL Rewrite]",
+                    "genre": "Action, Adventure, Fantasy, Isekai",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leFi5YKvkIUcO0dt",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/E5QPb6ajWzZL5ZYz",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "leFi5YKvkIUcO0dt/video/6",
-                        "name": "Episode 6: The End of a Scary Dream",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "leFi5YKvkIUcO0dt/video/5",
-                        "name": "Episode 5: A Hot Spring Trip for the Familia Party",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/leFi5YKvkIUcO0dt/6/manifest.mpd",
-                        "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/leFi5YKvkIUcO0dt/6/manifest.mpd",
-                        "headers": {
-                            "user-agent": "Aniyomi/app (mobile)",
-                            "referer": "https://animeonsen.xyz"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/en-US/6",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/ru-RU/6",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/pt-BR/6",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/it-IT/6",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/fr-FR/6",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/es-LA/6",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/es-ES/6",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/de-DE/6",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/leFi5YKvkIUcO0dt/ar-ME/6",
-                                "lang": "العربية"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             }
         }
     }

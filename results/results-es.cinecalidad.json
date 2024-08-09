@@ -1,8 +1,78 @@
 [
     {
-        "name": "Cinecalidad (ES)",
+        "name": "CineCalidad (ES)",
         "results": {
             "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/ver-serie/bridgerton/",
+                                "title": "Bridgerton",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//4Yo1Yxj9uXxTeXBJPDAIU2SRy7Z.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/horton-y-el-mundo-de-los-quien/",
+                                "title": "Horton y El Mundo de los Quién",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//wr89KibzF7vU7WkhPbv5Su8oxWB.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/tirador/",
+                                "title": "Tirador",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//1M300Yg1ccr0xGgTO4bpK9uKI7X.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/medicina-letal/",
+                                "title": "Medicina Letal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//bZzEf47CKpfh3PTkFVEOsb4lgtJ.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/fuimos-los-afortunados/",
+                                "title": "Fuimos los afortunados",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//warIzrnywMOf9DUVV8wvORfcmPv.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/una-noche-loca/",
+                                "title": "Una noche loca",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//33g7cePX7F2BvvxfjrTwSVCseol.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/el-mayor-juego-alguna-vez-jugado/",
+                                "title": "El mayor juego alguna vez jugado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nXwXVFwGjYx0GaQ1SabBFefLxzj.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/mi-villano-favorito-4/",
+                                "title": "Mi villano favorito 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/un-viernes-de-locos/",
+                                "title": "Un Viernes de Locos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//sJMcDqDkFxJHcntXcIMthpUCrs8.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/senales/",
+                                "title": "Señales",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//aFGitUgdg0A6LJYtv1nISTf8W8j.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/los-bandidos-del-oro/",
+                                "title": "Los bandidos del oro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//haQLxkyQAJsFNDUKc7VW26CAmkn.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/mulan/",
+                                "title": "Mulán",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//towmTJ0k29quKI9IDnOZKAAtQx.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
                 "result": [
                     {
                         "animes": [
@@ -129,13 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/bandidos/",
-                    "title": "Bandidos",
-                    "artist": "Adrián Ladrón, Alfonso Dosal, Andrea Chaparro, Ester Expósito, Juan Pablo Fuentes",
-                    "author": "",
-                    "description": "Una banda de astutos estafadores se aventura a encontrar un tesoro Maya nunca antes visto. ¿Su estrategia? Inexistente. ¿Su dinámica? Cuestionable. Por suerte, son muy ingeniosos.",
-                    "genre": "Acción y Aventura",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//uc3hkNY2bsmeE3omhcbZzoCe1vv.jpg",
+                    "url": "/ver-serie/bridgerton/",
+                    "artist": "Adjoa Andoh",
+                    "author": "Chris Van Dusen",
+                    "description": "Los ocho entrañables hermanos de la familia Bridgerton buscan el amor y la felicidad en la alta sociedad londinense.   ",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//4Yo1Yxj9uXxTeXBJPDAIU2SRy7Z.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -143,14 +212,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/bandidos-1x7/",
-                        "name": "T1 - E7: El tesoro",
-                        "episode_number": 7.0
+                        "url": "/ver-el-episodio/bridgerton-3x8/",
+                        "name": "T3 - E8 - A la luz",
+                        "episode_number": 24.0
                     },
                     {
-                        "url": "/ver-el-episodio/bandidos-1x6/",
-                        "name": "T1 - E6: El traidor",
-                        "episode_number": 6.0
+                        "url": "/ver-el-episodio/bridgerton-3x7/",
+                        "name": "T3 - E7 - De la mano",
+                        "episode_number": 23.0
                     }
                 ],
                 "passed": true
@@ -158,15 +227,52 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/03383/xk1kctvxw2zs_n/index-v1-a1.m3u8?t=KPrf9BnucpKwlpc5kImBzG3RjYGYASQP2-VRRM1nJMA&s=1723140447&e=129600&f=16918329&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/03383/xk1kctvxw2zs_n/index-v1-a1.m3u8?t=KPrf9BnucpKwlpc5kImBzG3RjYGYASQP2-VRRM1nJMA&s=1723140447&e=129600&f=16918329&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "url": "https://delivery-node-ktmegdtzjuhg1tfn.voe-network.net/engine/hls2/01/11574/xpe4yic9ldkt_,n,.urlset/index-v1-a1.m3u8?t=tkROzNGxaOTBA79ypPQ9oLfMPfgeskz7rnh8_hlmfHw&s=1723162508&e=14400&f=57874235&node=delivery-node-ktmegdtzjuhg1tfn.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-ktmegdtzjuhg1tfn.voe-network.net/engine/hls2/01/11574/xpe4yic9ldkt_,n,.urlset/index-v1-a1.m3u8?t=tkROzNGxaOTBA79ypPQ9oLfMPfgeskz7rnh8_hlmfHw&s=1723162508&e=14400&f=57874235&node=delivery-node-ktmegdtzjuhg1tfn.voe-network.net&i=20.161&sp=2500&asn=8075",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://jodwish.com",
-                            "Referer": "https://jodwish.com/e/xk1kctvxw2zs"
+                            "Accept": "*/*"
                         }
+                    },
+                    {
+                        "url": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=5&sig=pBQYTp5hrxs&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=5&sig=pBQYTp5hrxs&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080"
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06361/91bn3vs8dg3a_h/index-v1-a1.m3u8?t=ZXYDDNDOeJOJ3GxfMKhFFl-SbB9B6tcQV0xU-ppRxMg&s=1723162508&e=10800&f=31808926&srv=07&asn=8075&sp=4000",
+                        "quality": "Filemoon:960p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06361/91bn3vs8dg3a_h/index-v1-a1.m3u8?t=ZXYDDNDOeJOJ3GxfMKhFFl-SbB9B6tcQV0xU-ppRxMg&s=1723162508&e=10800&f=31808926&srv=07&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=3&sig=vfRXMHYAXbw&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=3&sig=vfRXMHYAXbw&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080"
+                    },
+                    {
+                        "url": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=2&sig=FtGceAzqKko&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=2&sig=FtGceAzqKko&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080"
+                    },
+                    {
+                        "url": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=1&sig=QLgCdIVOTOM&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=1&sig=QLgCdIVOTOM&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080"
+                    },
+                    {
+                        "url": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=0&sig=YT698BJQYUY&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=0&sig=YT698BJQYUY&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080"
+                    },
+                    {
+                        "url": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=4&sig=2TyUyRncXzo&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd216.mycdn.me/?expires=1723248906841&srcIp=20.161.61.208&pr=10&srcAg=GECKO&ms=45.136.22.24&type=4&sig=2TyUyRncXzo&ct=0&urls=45.136.21.71&clientType=0&zs=43&id=6865376316080"
                     }
                 ],
                 "passed": true

@@ -3,28 +3,269 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2dcfe7f36592d79382aa06cd33f3def6571a489fcea55a22bf9b303b9cc27b84.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5558",
+                                "title": "Shadowverse Flame: Arc-hen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a3c0ea54774d1c03f487c4a3d9aeb9ea58b431538b37b4cf13b52600825db28f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5612",
+                                "title": "Cardfight!! Vanguard: Divinez Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/8a50dc1eafe016c5d19c873c0ba4edfeb212d04e047fce6056d93cdade069d71.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5508",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/60e5a62ba08f42013e0d2da7c746bc4d9f8406eae9da581fe8fb30fd8a6f861e.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4756",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "artist": "entameSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a32370e9a22138263bcb8c01bbdcd312ec068881b73384b24ffd59d68489b7bd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5614",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/16254af8a90fdf1c2e6ef7f7b18e142df8dabe6a46d2d2c0cfcb2fff8a9631b5.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5611",
+                                "title": "Dungeon no Naka no Hito",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/55c6d3dbb3b1bf67690877f3436bfbe79256da7c34cb02b561679d1663d454d1.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5605",
+                                "title": "NieR:Automata Ver1.1a Part 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f56d94910588d1ed2f5c46b69fd7a9f137e64a8360732bb3e6f12aefc84d89b6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5631",
+                                "title": "Bye Bye, Earth",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/372de440f4c7f96d8dbe83647b21b6364849a551a2894973dbb3b47088253c9c.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5600",
+                                "title": "2.5-jigen no Ririsa",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/06ff95201decbcd60c2e2659b95491d4ede5debc76e2ec684cccdddea19cc4a2.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5587",
+                                "title": "Code Geass: Dakkan no Rozé",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4f38dcf811c8664a5e26ca1d151960061050e4f732b62c4608f43adeed16a597.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5643",
+                                "title": "True Beauty",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/033928a12ecb18fee1f81fba7a7c536030e71dc7fef2e6bb237563a1287c6d9b.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2dcfe7f36592d79382aa06cd33f3def6571a489fcea55a22bf9b303b9cc27b84.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5558",
+                                "title": "Shadowverse Flame: Arc-hen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a3c0ea54774d1c03f487c4a3d9aeb9ea58b431538b37b4cf13b52600825db28f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5612",
+                                "title": "Cardfight!! Vanguard: Divinez Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/8a50dc1eafe016c5d19c873c0ba4edfeb212d04e047fce6056d93cdade069d71.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5508",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/60e5a62ba08f42013e0d2da7c746bc4d9f8406eae9da581fe8fb30fd8a6f861e.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4756",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "artist": "entameSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a32370e9a22138263bcb8c01bbdcd312ec068881b73384b24ffd59d68489b7bd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5614",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/16254af8a90fdf1c2e6ef7f7b18e142df8dabe6a46d2d2c0cfcb2fff8a9631b5.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5611",
+                                "title": "Dungeon no Naka no Hito",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/55c6d3dbb3b1bf67690877f3436bfbe79256da7c34cb02b561679d1663d454d1.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5605",
+                                "title": "NieR:Automata Ver1.1a Part 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f56d94910588d1ed2f5c46b69fd7a9f137e64a8360732bb3e6f12aefc84d89b6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5631",
+                                "title": "Bye Bye, Earth",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/372de440f4c7f96d8dbe83647b21b6364849a551a2894973dbb3b47088253c9c.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5600",
+                                "title": "2.5-jigen no Ririsa",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/06ff95201decbcd60c2e2659b95491d4ede5debc76e2ec684cccdddea19cc4a2.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5587",
+                                "title": "Code Geass: Dakkan no Rozé",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4f38dcf811c8664a5e26ca1d151960061050e4f732b62c4608f43adeed16a597.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5643",
+                                "title": "True Beauty",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/033928a12ecb18fee1f81fba7a7c536030e71dc7fef2e6bb237563a1287c6d9b.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 504",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=119",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/5a3bd9bf6b59f52791ed7b7c05a300a1b9e9007a625d85124ccd7b2284cba8a0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2064",
+                                "title": "World Fool News (TV)",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/fa9d124c722e9299a10cb95a7f21a020c743aee11fffdfc70e359174a6e21fc9.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=1473",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/bba0a45b28c71d6d667373e8252fc7c7e081f0161a1d5de92c99f242528a1325.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2043",
+                                "title": "World Fool News (TV) Part II",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4175",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4200",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4524",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5229",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/e9a0985f593a33302d983d125b3fd44d1124c540176fcfad6296a0b819709319.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/?anime_id=5255",
+                    "title": "Pokemon (2023)",
+                    "author": "OLM",
+                    "description": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner. Prior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede. After a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\nSynonyms: Pokémon: Liko to Roy no Tabidachi, Pocket Monsters: Liko to Roy no Tabidachi, Pokémon: Terapagos no Kagayaki, Pocket Monsters: Terapagos no Kagayaki, Pokemon Horizons: Liko and Roy's Departure, Pokemon Horizons: Terapagos' Gleam",
+                    "genre": "Action, Adventure, Comedy, Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/953b72f3f33aab88eb5929aac777c1c47043110fd8bb29d8ec35cac7045d478d.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 504",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/play/361dfa28-ce2d-fb6a-9d6b-65b41fe0b84d/d4f787798e5126196b49b326629955093b3868f83c117d5c72eb59c02cb7b678",
+                        "name": "Episode 60",
+                        "date_upload": 1723260672000,
+                        "episode_number": 60.0
+                    },
+                    {
+                        "url": "/play/361dfa28-ce2d-fb6a-9d6b-65b41fe0b84d/02c202560679f607d804426a64ed319fa11b11a751eae89459a9145c5e53cecd",
+                        "name": "Episode 59",
+                        "date_upload": 1722051443000,
+                        "episode_number": 59.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/0dcef1db607684c93954c7c961e8db7ed91e09877444e1b2945ecc90d2a8ff4e?file=AnimePahe_Pokemon_2023_-_060_1080p_Some-Stuffs.mp4&token=9pYn_O-Dv2l0LGqfpFwrfw&expires=1723284307",
+                        "quality": "Some-Stuffs · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/0dcef1db607684c93954c7c961e8db7ed91e09877444e1b2945ecc90d2a8ff4e?file=AnimePahe_Pokemon_2023_-_060_1080p_Some-Stuffs.mp4&token=9pYn_O-Dv2l0LGqfpFwrfw&expires=1723284307"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/7995f37981046c97942ea0c76210f421a0a506222b43ab8e451588024ed5a3e0?file=AnimePahe_Pokemon_2023_-_060_720p_Some-Stuffs.mp4&token=VHw2Am1mMZQD_7neA1c1kQ&expires=1723284305",
+                        "quality": "Some-Stuffs · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/7995f37981046c97942ea0c76210f421a0a506222b43ab8e451588024ed5a3e0?file=AnimePahe_Pokemon_2023_-_060_720p_Some-Stuffs.mp4&token=VHw2Am1mMZQD_7neA1c1kQ&expires=1723284305"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/54114f547076de72aa56f75d8ae88f0ccad61c70acddb9526c87940fd5aa57ec?file=AnimePahe_Pokemon_2023_-_060_360p_Some-Stuffs.mp4&token=WUl62j811kmppjeBMDZjpQ&expires=1723284303",
+                        "quality": "Some-Stuffs · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/54114f547076de72aa56f75d8ae88f0ccad61c70acddb9526c87940fd5aa57ec?file=AnimePahe_Pokemon_2023_-_060_360p_Some-Stuffs.mp4&token=WUl62j811kmppjeBMDZjpQ&expires=1723284303"
+                    }
+                ],
+                "passed": true
             }
         }
     }

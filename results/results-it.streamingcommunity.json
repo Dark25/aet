@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9520-i-racconti-delle-tartarughe-ninja",
+                                "title": "I racconti delle Tartarughe Ninja",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/dfe137cb-10fc-422e-a19d-5d41cdd2d725.webp"
+                            },
+                            {
                                 "url": "9512-another-end",
                                 "title": "Another End",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c1e17fa7-18ee-4e39-bce8-f4fcf0c10afe.webp"
@@ -300,11 +305,6 @@
                                 "url": "9046-space-cadet",
                                 "title": "Space Cadet",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/835943d3-1243-452f-b8eb-0ccb43569db2.webp"
-                            },
-                            {
-                                "url": "9421-red-swan",
-                                "title": "Red Swan",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/34e1d809-18e0-421e-a824-ed9d9f7067b5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9521-infranto",
+                                "title": "Infranto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/d8afd5b8-6aa7-4ff8-beba-47c3440b5e99.webp"
+                            },
                             {
                                 "url": "9519-tremors-a-cold-day-in-hell",
                                 "title": "Tremors: A Cold Day in Hell",
@@ -610,11 +615,6 @@
                                 "url": "9445-i-grandi-magazzini",
                                 "title": "I grandi magazzini",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/10912116-5bc2-4bca-9139-c7d41a77b47f.webp"
-                            },
-                            {
-                                "url": "9444-vincitori-e-vinti",
-                                "title": "Vincitori e vinti",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/3af43497-1225-43fd-87dc-0a864cc88c70.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9512-another-end",
-                    "description": "In un futuro prossimo esiste la possibilità di salutare le persone che non ci sono più, cercando un modo per alleviare il dolore del distacco, un tempo in più per imparare a dirsi addio.  Cosa resta di tutto l’amore che i corpi si promettono quando il loro tempo finisce?",
-                    "genre": "Dramma, Fantascienza",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9520-i-racconti-delle-tartarughe-ninja",
+                    "description": "Nuove storie delle Tartarughe! Separate e in fuga, le Tartarughe Ninja vengono attaccate da Bishop e dai suoi Mechazoid... e devono salvare la città dai mutanti marini.",
+                    "genre": "Famiglia, Animazione",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,16 +946,67 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9512",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9520?episode_id=73854&next_episode=1",
+                        "name": "Stagione 1 episodio 6 - La notte dei Mechazoid",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "9520?episode_id=73853&next_episode=1",
+                        "name": "Stagione 1 episodio 5 - Bishop fa la sua mossa",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/253614?type=video&rendition=1080p&token=fC_4f3562X7pdqv2EdrTDw&expires=1728475639&edge=sc-u5-01",
+                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/253614?type=video&rendition=1080p&token=fC_4f3562X7pdqv2EdrTDw&expires=1728475639&edge=sc-u5-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=3-eng&token=b-mj21LK57gZe9H87IhsGg&expires=1728475639&edge=sc-u5-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=4-forced-ita&token=b-mj21LK57gZe9H87IhsGg&expires=1728475639&edge=sc-u5-01",
+                                "lang": "Italian [Forced]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/253614?type=video&rendition=720p&token=Wa333if11KAep3iE3iaxmw&expires=1728475639&edge=sc-u5-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/253614?type=video&rendition=720p&token=Wa333if11KAep3iE3iaxmw&expires=1728475639&edge=sc-u5-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=3-eng&token=b-mj21LK57gZe9H87IhsGg&expires=1728475639&edge=sc-u5-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=4-forced-ita&token=b-mj21LK57gZe9H87IhsGg&expires=1728475639&edge=sc-u5-01",
+                                "lang": "Italian [Forced]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/253614?type=video&rendition=480p&token=ciLj0ejVVHkL5rOrjOyS2w&expires=1728475639&edge=sc-u5-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/253614?type=video&rendition=480p&token=ciLj0ejVVHkL5rOrjOyS2w&expires=1728475639&edge=sc-u5-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=3-eng&token=b-mj21LK57gZe9H87IhsGg&expires=1728475639&edge=sc-u5-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=4-forced-ita&token=b-mj21LK57gZe9H87IhsGg&expires=1728475639&edge=sc-u5-01",
+                                "lang": "Italian [Forced]"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

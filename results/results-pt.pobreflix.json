@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/os-provocadores/",
+                                "title": "Os Provocadores",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg"
+                            },
+                            {
                                 "url": "/filmes/eu-vi-o-brilho-da-tv/",
                                 "title": "Eu Vi o Brilho da TV",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/um-tira-da-pesada-4-axel-foley/",
                                 "title": "Um Tira da Pesada 4: Axel Foley",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/i5kOCCqFl0m2UayMjAU8tdN7R2I.jpg"
-                            },
-                            {
-                                "url": "/filmes/meu-malvado-favorito-4/",
-                                "title": "Meu Malvado Favorito 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/65QQjZNrVfTiuGp3chxx8dkfHDG.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,11 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/ted-a-serie/",
+                                "title": "Ted – A Série",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg"
                             },
                             {
                                 "url": "/series/funk-doc-popular-proibido/",
@@ -280,11 +285,6 @@
                                 "url": "/series/historia-do-comunismo/",
                                 "title": "História do Comunismo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/eWfqKtpFOwfKkjBz8Psqsv9KYkM.jpg"
-                            },
-                            {
-                                "url": "/series/de-ferias-com-o-ex-diretoria/",
-                                "title": "De Férias com o Ex Diretoria",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcNV3krHhlCnQbvhIbANUs5Zgj0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/eu-vi-o-brilho-da-tv/",
-                    "title": "Eu Vi o Brilho da TV",
-                    "description": "O adolescente Owen, que está vivendo a sua vida normalmente, tentando sobreviver nos subúrbios quando um colega apresenta a ele um misterioso e intrigante programa de TV noturno sobrenatural. Os dois adolescente, vidrados nesse programa, começam a se distanciar e distorcer a realidade.\n\nTítulo Original: I Saw the TV Glow",
-                    "genre": "Drama, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg",
+                    "url": "/filmes/os-provocadores/",
+                    "title": "Os Provocadores",
+                    "description": "Rory e Cobby são parceiros improváveis: um pai desesperado e um ex-presidiário reunidos para um assalto. Quando tudo dá errado, eles se unem a um cúmplice incomum—a terapeuta de Rory—para fugir da polícia, de burocratas corruptos e de um chefe do crime vingativo.\n\nTítulo Original: The Instigators",
+                    "genre": "Ação, Comédia, Crime",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/eu-vi-o-brilho-da-tv/",
+                        "url": "/filmes/os-provocadores/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

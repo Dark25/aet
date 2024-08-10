@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kimagure-orange-road-castellano",
+                                "title": "Kimagure Orange Road Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kimagure-orange-road-castellano-1723238981.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/helluva-boss-latino",
                                 "title": "Helluva Boss Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/helluva-boss-latino-1722887436.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/roboticsnotes-redoblaje-latino",
                                 "title": "Robotics;Notes redoblaje Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/roboticsnotes-redoblaje-latino-1719022637.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/code-geass-dakkan-no-roze-latino",
-                                "title": "Code Geass: Rozé y la reconquista Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/code-geass-dakkan-no-roze-latino-1718975857.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,37 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/helluva-boss-latino",
-                    "title": "Helluva Boss Latino",
-                    "description": "En el infierno, el diablillo Blitzø dirige un negocio de asesinos que tiene como objetivo el mundo de los vivos, utilizando un libro de hechizos prestado por un príncipe del infierno.",
-                    "genre": "Comedia",
+                    "url": "/anime/kimagure-orange-road-castellano",
+                    "title": "Kimagure Orange Road Castellano",
+                    "description": "Kyosuke Kasuga pasaría por un adolescente corriente si no fuera porque ha heredado poderes especiales de la rama de su familia materna. Por culpa de un descuido de una de sus hermanas gemelas, se ve obligado a mudarse a una nueva ciudad donde conoce a una chica, Madoka Ayukawa, de quien se enamora a primera vista. Sin embargo, la chica dulce de aquel encuentro parece tener mal carácter y una reputación cuestionable entre sus compañeros de clase. ¿Quién será la verdadera Madoka? ¿Y cómo podrá acercarse Kyosuke a ella cuando Hikaru, la mejor amiga de Madoka, se encapriche también de él?",
+                    "genre": "Comedia, Drama, Escolares, Shonen, Romance",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/helluva-boss-latino-episodio-1",
-                        "name": "Helluva Boss Latino Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a1.mp4upload.com:183/d/x2x7qomnz3b4quuojkra6p2kkldprbpmfq6ltnwq6mwnryrsqqh4hiqsu3q7jsoqhavpovjx/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7qomnz3b4quuojkra6p2kkldprbpmfq6ltnwq6mwnryrsqqh4hiqsu3q7jsoqhavpovjx/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

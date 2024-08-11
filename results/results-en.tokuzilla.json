@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
                                 "title": "Ninja Sentai Kakuranger Super Video: The Hidden Scroll",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-super-video-the-hidden-scroll-thumb.png"
@@ -20,16 +30,6 @@
                                 "url": "/watch/ninja-sentai-kakuranger-act-three-middle-aged-struggles.html",
                                 "title": "Ninja Sentai Kakuranger: Act Three – Middle-Aged Struggles",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-act-three-middle-aged-struggles-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
                             },
                             {
                                 "url": "/watch/tokusou-sentai-dekaranger-20th-fireball-booster.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
-                    "title": "Ninja Sentai Kakuranger Super Video: The Hidden Scroll",
-                    "author": "Year 1995",
-                    "description": "TV Magazine Special Release – Ninja Sentai Kakuranger Super Video: The Hidden Scroll is the Super Video of Ninja Sentai Kakuranger. The video has the five Kakurangers listing off the five keys of being a ninja as found in a hidden scroll locked in their secret headquarters.",
-                    "genre": "Movie, Super Sentai",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-super-video-the-hidden-scroll-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=25#watch",
+                        "name": "Episode 25",
+                        "episode_number": 25.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=24#watch",
+                        "name": "Episode 24",
+                        "episode_number": 24.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

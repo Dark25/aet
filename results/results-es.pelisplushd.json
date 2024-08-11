@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/tales-of-the-teenage-mutant-ninja-turtles",
+                                "title": "Tales of the Teenage Mutant Ninja Turtles (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg"
+                            },
+                            {
                                 "url": "/serie/nadie-nos-va-a-extranar",
                                 "title": "Nadie nos va a extrañar (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/xir4SRNcXLRo4f5TdmY822jCINP.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/temptation-island-mexico",
                                 "title": "Temptation Island México (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uric31125cn4Eux20jDCHssi5ST.jpg"
-                            },
-                            {
-                                "url": "/serie/pedro-el-escamoso-mas-escamoso-que-nunca",
-                                "title": "Pedro el escamoso: más escamoso que nunca (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/p1Y8Llw3evdIdnnS3V4g2C921xg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/nadie-nos-va-a-extranar",
-                    "title": "Nadie nos va a extrañar (2024)",
-                    "description": "Son los años 90 y cinco pringados dirigen un negocio ilegal en su instituto: venden trabajos y deberes a sus compañeros. La ventaja es que nadie sospecha nunca de los empollones. El negocio les reporta dinero y popularidad, pero las hormonas y una muerte inesperada amenazan con estropearlo todo. Si el negocio se acaba, su futuro y su amistad corren peligro..",
-                    "genre": "Comedia, Drama",
+                    "url": "/serie/tales-of-the-teenage-mutant-ninja-turtles",
+                    "title": "Tales of the Teenage Mutant Ninja Turtles (2024)",
+                    "description": "Las Tortugas —Leo, Raph, Donnie y Mikey— se enfrentarán por primera vez en solitario. Enfrentados a nuevas amenazas y haciendo equipo con viejos aliados, las Tortugas descubrirán quiénes son realmente cuando no tienen a sus hermanos a su lado..",
+                    "genre": "Animación, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xir4SRNcXLRo4f5TdmY822jCINP.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,87 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/nadie-nos-va-a-extranar/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/tales-of-the-teenage-mutant-ninja-turtles/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/serie/nadie-nos-va-a-extranar/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/tales-of-the-teenage-mutant-ninja-turtles/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/11958/gprfjwxzyjqv_,n,.urlset/index-v1-a1.m3u8?t=SiqZo6OhspChmczC3bmSHlYHg2f3GYPH0NoI0tKqo8M&s=1723378099&e=14400&f=59793375&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=52.238&sp=2500&asn=8075",
-                        "quality": "Voe:1080p",
-                        "videoUrl": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/11958/gprfjwxzyjqv_,n,.urlset/index-v1-a1.m3u8?t=SiqZo6OhspChmczC3bmSHlYHg2f3GYPH0NoI0tKqo8M&s=1723378099&e=14400&f=59793375&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=52.238&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=MWuflDgJy5KfayAaNizd0zFoV79HaM1mgZsPHizqkfI&s=1723378095&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
-                        "quality": "StreamHideVid - 1080p",
-                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=MWuflDgJy5KfayAaNizd0zFoV79HaM1mgZsPHizqkfI&s=1723378095&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=heVGi3roAgfUq9Xk0Xxf1pSp1v_HzOgZFV1ZScPHPlY&s=1723378092&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=heVGi3roAgfUq9Xk0Xxf1pSp1v_HzOgZFV1ZScPHPlY&s=1723378092&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2yz8tr0kwio2"
-                        }
-                    },
-                    {
-                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=MWuflDgJy5KfayAaNizd0zFoV79HaM1mgZsPHizqkfI&s=1723378095&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
-                        "quality": "StreamHideVid - 720p",
-                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=MWuflDgJy5KfayAaNizd0zFoV79HaM1mgZsPHizqkfI&s=1723378095&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=heVGi3roAgfUq9Xk0Xxf1pSp1v_HzOgZFV1ZScPHPlY&s=1723378092&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=heVGi3roAgfUq9Xk0Xxf1pSp1v_HzOgZFV1ZScPHPlY&s=1723378092&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2yz8tr0kwio2"
-                        }
-                    },
-                    {
-                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=MWuflDgJy5KfayAaNizd0zFoV79HaM1mgZsPHizqkfI&s=1723378095&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
-                        "quality": "StreamHideVid - 480p",
-                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=MWuflDgJy5KfayAaNizd0zFoV79HaM1mgZsPHizqkfI&s=1723378095&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=heVGi3roAgfUq9Xk0Xxf1pSp1v_HzOgZFV1ZScPHPlY&s=1723378092&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=heVGi3roAgfUq9Xk0Xxf1pSp1v_HzOgZFV1ZScPHPlY&s=1723378092&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2yz8tr0kwio2"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     },
@@ -1072,9 +1006,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-4v7xw79skptjyuek.voe-network.net/engine/hls2-c/01/11958/8rycfheaxzyn_,n,.urlset/index-v1-a1.m3u8?t=PcZLjl7AJ4Py_NWw3KTJjnhCOzKDY2u6U7ac5IgMZ4A&s=1723378107&e=14400&f=59792897&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "url": "https://delivery-node-bfqeji2ehgnconak.voe-network.net/engine/hls2-c/01/11958/8rycfheaxzyn_,n,.urlset/index-v1-a1.m3u8?t=q5YA9RqN6YQdCt-lzhvBBix6J6nmlBP9CqqmDv2wezI&s=1723399769&e=14400&f=59792897&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.65&sp=2500&asn=8075",
                         "quality": "[CAST]Voe:804p",
-                        "videoUrl": "https://delivery-node-4v7xw79skptjyuek.voe-network.net/engine/hls2-c/01/11958/8rycfheaxzyn_,n,.urlset/index-v1-a1.m3u8?t=PcZLjl7AJ4Py_NWw3KTJjnhCOzKDY2u6U7ac5IgMZ4A&s=1723378107&e=14400&f=59792897&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-bfqeji2ehgnconak.voe-network.net/engine/hls2-c/01/11958/8rycfheaxzyn_,n,.urlset/index-v1-a1.m3u8?t=q5YA9RqN6YQdCt-lzhvBBix6J6nmlBP9CqqmDv2wezI&s=1723399769&e=14400&f=59792897&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.65&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

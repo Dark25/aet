@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9522-trap",
+                                "title": "Trap",
+                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/dfc9d87a-ce71-4c7a-ac1a-7d7339e69557.webp"
+                            },
+                            {
                                 "url": "9520-i-racconti-delle-tartarughe-ninja",
                                 "title": "I racconti delle Tartarughe Ninja",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/dfe137cb-10fc-422e-a19d-5d41cdd2d725.webp"
@@ -300,11 +305,6 @@
                                 "url": "9055-una-parte-di-me",
                                 "title": "Una parte di me",
                                 "thumbnail_url": "https://cdn.streamingcommunity.boston/images/c0e4ee32-036c-4d54-a8e5-15df3f9e6192.webp"
-                            },
-                            {
-                                "url": "9046-space-cadet",
-                                "title": "Space Cadet",
-                                "thumbnail_url": "https://cdn.streamingcommunity.boston/images/835943d3-1243-452f-b8eb-0ccb43569db2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9520-i-racconti-delle-tartarughe-ninja",
-                    "description": "Nuove storie delle Tartarughe! Separate e in fuga, le Tartarughe Ninja vengono attaccate da Bishop e dai suoi Mechazoid... e devono salvare la città dai mutanti marini.",
-                    "genre": "Famiglia, Animazione",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9522-trap",
+                    "description": "Un padre e la figlia adolescente assistono ad un concerto pop ma ben presto si rendono conto di essere al centro di un’oscura e sinistra vicenda.",
+                    "genre": "Crime, Thriller, Horror",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,14 +946,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9520?episode_id=73854&next_episode=1",
-                        "name": "Stagione 1 episodio 6 - La notte dei Mechazoid",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "9520?episode_id=73853&next_episode=1",
-                        "name": "Stagione 1 episodio 5 - Bishop fa la sua mossa",
-                        "episode_number": 5.0
+                        "url": "9522",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -961,49 +956,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vixcloud.co/playlist/253614?type=video&rendition=1080p&token=8PUNjeUZRRCfqZy-fUlDvw&expires=1728562062&edge=sc-u5-01",
-                        "quality": "1080,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/253614?type=video&rendition=1080p&token=8PUNjeUZRRCfqZy-fUlDvw&expires=1728562062&edge=sc-u5-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=3-eng&token=I9XvzgaPL9Jurq0r0cSCLw&expires=1728562062&edge=sc-u5-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=4-forced-ita&token=I9XvzgaPL9Jurq0r0cSCLw&expires=1728562062&edge=sc-u5-01",
-                                "lang": "Italian [Forced]"
-                            }
-                        ]
+                        "url": "https://vixcloud.co/playlist/253862?type=video&rendition=1080p&token=x41XpzgcRG3Mz9vwBbRe2g&expires=1728583633&b=1",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/253862?type=video&rendition=1080p&token=x41XpzgcRG3Mz9vwBbRe2g&expires=1728583633&b=1"
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/253614?type=video&rendition=720p&token=Yf4Xg7D4LINqZF7pGncGhw&expires=1728562062&edge=sc-u5-01",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/253614?type=video&rendition=720p&token=Yf4Xg7D4LINqZF7pGncGhw&expires=1728562062&edge=sc-u5-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=3-eng&token=I9XvzgaPL9Jurq0r0cSCLw&expires=1728562062&edge=sc-u5-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=4-forced-ita&token=I9XvzgaPL9Jurq0r0cSCLw&expires=1728562062&edge=sc-u5-01",
-                                "lang": "Italian [Forced]"
-                            }
-                        ]
+                        "url": "https://vixcloud.co/playlist/253862?type=video&rendition=720p&token=8fZlCVmtOpcjngCJgFjadQ&expires=1728583633&b=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/253862?type=video&rendition=720p&token=8fZlCVmtOpcjngCJgFjadQ&expires=1728583633&b=1"
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/253614?type=video&rendition=480p&token=6DBF8dZN3rVwfy7fTLwTvg&expires=1728562062&edge=sc-u5-01",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/253614?type=video&rendition=480p&token=6DBF8dZN3rVwfy7fTLwTvg&expires=1728562062&edge=sc-u5-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=3-eng&token=I9XvzgaPL9Jurq0r0cSCLw&expires=1728562062&edge=sc-u5-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/253614?type=subtitle&rendition=4-forced-ita&token=I9XvzgaPL9Jurq0r0cSCLw&expires=1728562062&edge=sc-u5-01",
-                                "lang": "Italian [Forced]"
-                            }
-                        ]
+                        "url": "https://vixcloud.co/playlist/253862?type=video&rendition=480p&token=ObU2uazZLszYqQCDq_AKAw&expires=1728583633&b=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/253862?type=video&rendition=480p&token=ObU2uazZLszYqQCDq_AKAw&expires=1728583633&b=1"
                     }
                 ],
                 "passed": true

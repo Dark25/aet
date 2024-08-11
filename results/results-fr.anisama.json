@@ -499,14 +499,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=127117",
+                        "name": "Episode 1115",
+                        "episode_number": 1115.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=1722759721654186",
                         "name": "Episode 1114",
                         "episode_number": 1114.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=126742",
-                        "name": "Episode 1113",
-                        "episode_number": 1113.0
                     }
                 ],
                 "passed": true
@@ -514,11 +514,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-lglttksvjqjetqih.voe-network.net/engine/hls2/01/11908/avgvze13liyi_,n,.urlset/index-v1-a1.m3u8?t=peSBpLgb2yfUxSXwTH41B78HBi4l7f6P2-oKkuvOy00&s=1723356482&e=14400&f=59544609&node=delivery-node-lglttksvjqjetqih.voe-network.net&i=52.159&sp=2500&asn=8075",
-                        "quality": "(VOSTFR) Voe:720p",
-                        "videoUrl": "https://delivery-node-lglttksvjqjetqih.voe-network.net/engine/hls2/01/11908/avgvze13liyi_,n,.urlset/index-v1-a1.m3u8?t=peSBpLgb2yfUxSXwTH41B78HBi4l7f6P2-oKkuvOy00&s=1723356482&e=14400&f=59544609&node=delivery-node-lglttksvjqjetqih.voe-network.net&i=52.159&sp=2500&asn=8075",
+                        "url": "https://videos2.sendvid.com/41/92/ww03xe0p.mp4?validfrom=1723370856&validto=1723385256&rate=250k&ip=20.102.210.216&hash=AkfvfMKP9NQRekqAD%2FiIPLRiyYA%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/41/92/ww03xe0p.mp4?validfrom=1723370856&validto=1723385256&rate=250k&ip=20.102.210.216&hash=AkfvfMKP9NQRekqAD%2FiIPLRiyYA%3D",
                         "headers": {
-                            "Accept": "*/*"
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://https://sendvid.com/embed/ww03xe0p",
+                            "Referer": "https://https://sendvid.com/embed/ww03xe0p/"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/41/92/ww03xe0p.mp4?validfrom=1723370856&validto=1723385256&rate=250k&ip=20.102.210.216&hash=AkfvfMKP9NQRekqAD%2FiIPLRiyYA%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/41/92/ww03xe0p.mp4?validfrom=1723370856&validto=1723385256&rate=250k&ip=20.102.210.216&hash=AkfvfMKP9NQRekqAD%2FiIPLRiyYA%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://https://sendvid.com/embed/ww03xe0p",
+                            "Referer": "https://https://sendvid.com/embed/ww03xe0p/"
                         }
                     }
                 ],

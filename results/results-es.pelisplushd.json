@@ -291,8 +291,74 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/11958/gprfjwxzyjqv_,n,.urlset/index-v1-a1.m3u8?t=GYNM2BDq9pDH8oGz_C6lR7wWSffuilWlUlHQ2xNHhPA&s=1723335494&e=14400&f=59793375&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "quality": "Voe:1080p",
+                        "videoUrl": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/11958/gprfjwxzyjqv_,n,.urlset/index-v1-a1.m3u8?t=GYNM2BDq9pDH8oGz_C6lR7wWSffuilWlUlHQ2xNHhPA&s=1723335494&e=14400&f=59793375&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=CZJEPb5tl9mPa9UAbmXTQDXvCvDxW5DXhyWABze-eOk&s=1723335470&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "quality": "StreamHideVid - 1080p",
+                        "videoUrl": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=CZJEPb5tl9mPa9UAbmXTQDXvCvDxW5DXhyWABze-eOk&s=1723335470&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=JgLxUGnGhqMVZIWay2-Suxg-LLZ1htrmjMYJfs8Yx28&s=1723335467&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=JgLxUGnGhqMVZIWay2-Suxg-LLZ1htrmjMYJfs8Yx28&s=1723335467&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2yz8tr0kwio2"
+                        }
+                    },
+                    {
+                        "url": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=CZJEPb5tl9mPa9UAbmXTQDXvCvDxW5DXhyWABze-eOk&s=1723335470&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "quality": "StreamHideVid - 720p",
+                        "videoUrl": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=CZJEPb5tl9mPa9UAbmXTQDXvCvDxW5DXhyWABze-eOk&s=1723335470&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JgLxUGnGhqMVZIWay2-Suxg-LLZ1htrmjMYJfs8Yx28&s=1723335467&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JgLxUGnGhqMVZIWay2-Suxg-LLZ1htrmjMYJfs8Yx28&s=1723335467&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2yz8tr0kwio2"
+                        }
+                    },
+                    {
+                        "url": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=CZJEPb5tl9mPa9UAbmXTQDXvCvDxW5DXhyWABze-eOk&s=1723335470&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "quality": "StreamHideVid - 480p",
+                        "videoUrl": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02142/38dfwgu8e6rt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=CZJEPb5tl9mPa9UAbmXTQDXvCvDxW5DXhyWABze-eOk&s=1723335470&e=129600&f=10711540&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=JgLxUGnGhqMVZIWay2-Suxg-LLZ1htrmjMYJfs8Yx28&s=1723335467&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04620/2yz8tr0kwio2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=JgLxUGnGhqMVZIWay2-Suxg-LLZ1htrmjMYJfs8Yx28&s=1723335467&e=129600&f=23103061&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2yz8tr0kwio2"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -303,6 +369,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/batman-la-pelicula",
+                                "title": "Batman: La película (1966)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-ultimo-nino-de-la-tierra",
+                                "title": "El Último Niño de la Tierra (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kdk29Zi7FEGqbUqt0uyM2pMGGxS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-fondo",
+                                "title": "A Fondo (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uNOJ1JrzkLnOCNQRlmxzc1m8ApB.jpg"
+                            },
+                            {
+                                "url": "/pelicula/copycat",
+                                "title": "Copycat (1995)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vnM8YqLK7HVOq0LtTAl5iJaEi9m.jpg"
+                            },
                             {
                                 "url": "/pelicula/misiones-cruzadas",
                                 "title": "Misiones cruzadas (2024)",
@@ -402,26 +488,6 @@
                                 "url": "/pelicula/a-sons-promise",
                                 "title": "A Son's Promise (1994)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/ypO8WAhCeTBn32LR0FDqPg7A7Uf.jpg"
-                            },
-                            {
-                                "url": "/pelicula/fletch-revive",
-                                "title": "Fletch revive (1989)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/sOPLoiuxpzNLyCmaMsFvpvxTcS8.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bat-21",
-                                "title": "Bat 21 (1988)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yIeFT2RqJdXMRIhGLs05xtzBkt9.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-tipo-solitario",
-                                "title": "Un tipo solitario (1984)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fS627TlMPivtwf5IFkYCKHddUZK.jpg"
-                            },
-                            {
-                                "url": "/pelicula/french-connection-ii",
-                                "title": "French Connection II (1975)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fCIoE08S7lYJPNmjpQnvOhQfKjR.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +747,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/misiones-cruzadas",
-                    "title": "Misiones cruzadas (2024)",
-                    "description": "En esta prueba de fuego matrimonial, un agente que ahora es amo de casa acaba envuelto en una arriesgada misión con su esposa inspectora... que ignora el pasado del marido.",
-                    "genre": "Acción, Comedia, Aventura",
+                    "url": "/pelicula/batman-la-pelicula",
+                    "title": "Batman: La película (1966)",
+                    "description": "Adaptación a la gran pantalla del popular cómic de Bob Kane, que ese mismo año y con los mismos protagonistas conocía una exitosa versión en formato de serie de televisión que duraría dos años en la pequeña pantalla. Batman y Robin se enfrentan a un grupo de criminales entre los que se encuentran sus eternos rivales Joker y El Pingüino, quienes se han apoderado de un sofisticado artilugio para dominar el mundo.",
+                    "genre": "Acción, Comedia, Crimen",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +760,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/misiones-cruzadas",
+                        "url": "/pelicula/batman-la-pelicula",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,36 +770,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04617/i8s6dkku3hge_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Z_GCk-M6LT1plZJb7_big2a2lxwVxrhfrrA2mPV8V50&s=1723313301&e=129600&f=23086659&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04617/7mbhxw7qy0c5_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=LmWPBQ_p3qozsytbsbnxTxvc4aNXHW3oEr7Tkcgf_7M&s=1723335496&e=129600&f=23089796&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04617/i8s6dkku3hge_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Z_GCk-M6LT1plZJb7_big2a2lxwVxrhfrrA2mPV8V50&s=1723313301&e=129600&f=23086659&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04617/7mbhxw7qy0c5_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=LmWPBQ_p3qozsytbsbnxTxvc4aNXHW3oEr7Tkcgf_7M&s=1723335496&e=129600&f=23089796&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/i8s6dkku3hge"
+                            "Referer": "https://streamwish.to/e/7mbhxw7qy0c5"
                         }
                     },
                     {
-                        "url": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04617/i8s6dkku3hge_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Z_GCk-M6LT1plZJb7_big2a2lxwVxrhfrrA2mPV8V50&s=1723313301&e=129600&f=23086659&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04617/7mbhxw7qy0c5_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=LmWPBQ_p3qozsytbsbnxTxvc4aNXHW3oEr7Tkcgf_7M&s=1723335496&e=129600&f=23089796&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04617/i8s6dkku3hge_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Z_GCk-M6LT1plZJb7_big2a2lxwVxrhfrrA2mPV8V50&s=1723313301&e=129600&f=23086659&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04617/7mbhxw7qy0c5_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=LmWPBQ_p3qozsytbsbnxTxvc4aNXHW3oEr7Tkcgf_7M&s=1723335496&e=129600&f=23089796&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/i8s6dkku3hge"
+                            "Referer": "https://streamwish.to/e/7mbhxw7qy0c5"
                         }
                     },
                     {
-                        "url": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04617/i8s6dkku3hge_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Z_GCk-M6LT1plZJb7_big2a2lxwVxrhfrrA2mPV8V50&s=1723313301&e=129600&f=23086659&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04617/7mbhxw7qy0c5_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=LmWPBQ_p3qozsytbsbnxTxvc4aNXHW3oEr7Tkcgf_7M&s=1723335496&e=129600&f=23089796&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04617/i8s6dkku3hge_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Z_GCk-M6LT1plZJb7_big2a2lxwVxrhfrrA2mPV8V50&s=1723313301&e=129600&f=23086659&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04617/7mbhxw7qy0c5_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=LmWPBQ_p3qozsytbsbnxTxvc4aNXHW3oEr7Tkcgf_7M&s=1723335496&e=129600&f=23089796&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/i8s6dkku3hge"
+                            "Referer": "https://streamwish.to/e/7mbhxw7qy0c5"
                         }
                     }
                 ],
@@ -749,104 +815,104 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/paradox-effect/",
-                                "title": "Paradox Effect",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/paradox-effect.jpg"
+                                "url": "/pelicula/misiones-cruzadas/",
+                                "title": "Misiones Cruzadas",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/misiones-cruzadas.jpg"
                             },
                             {
-                                "url": "/pelicula/janet-planet/",
-                                "title": "Janet Planet",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/janet-planet.jpg"
+                                "url": "/pelicula/incitadores/",
+                                "title": "Incitadores",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/incitadores.jpg"
                             },
                             {
-                                "url": "/pelicula/treasure/",
-                                "title": "Treasure",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/treasure.jpg"
+                                "url": "/pelicula/la-belleza-y-el-enigma-vuelven/",
+                                "title": "La belleza y el enigma vuelven",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-belleza-y-el-enigma-vuelven.jpg"
                             },
                             {
-                                "url": "/pelicula/una-maniobra-arriesgada/",
-                                "title": "Una maniobra arriesgada",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/una-maniobra-arriesgada.jpg"
+                                "url": "/pelicula/el-rostro-de-la-venganza/",
+                                "title": "El Rostro de la venganza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-rostro-de-la-venganza.jpg"
                             },
                             {
-                                "url": "/pelicula/starve-acre/",
-                                "title": "Starve Acre",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/starve-acre.jpg"
+                                "url": "/pelicula/la-trampa-1032823/",
+                                "title": "La trampa",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-trampa-1032823.jpg"
                             },
                             {
-                                "url": "/pelicula/los-justos/",
-                                "title": "Los justos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-justos.jpg"
+                                "url": "/pelicula/before-dawn/",
+                                "title": "Before Dawn",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/before-dawn.jpg"
                             },
                             {
-                                "url": "/pelicula/una-pelicula-barata/",
-                                "title": "Una película barata",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/una-pelicula-barata.jpg"
+                                "url": "/pelicula/lowlifes/",
+                                "title": "Lowlifes",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lowlifes.jpg"
                             },
                             {
-                                "url": "/pelicula/the-ghost-writer/",
-                                "title": "Rezar despues de leer",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-ghost-writer.jpg"
+                                "url": "/pelicula/romper-el-circulo/",
+                                "title": "Romper el círculo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/romper-el-circulo.jpg"
                             },
                             {
-                                "url": "/pelicula/quien-mato-a-mi-hijo/",
-                                "title": "¿Quién Mató a Mi Hijo?",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/quien-mato-a-mi-hijo.jpg"
+                                "url": "/pelicula/customs-frontline/",
+                                "title": "Customs Frontline",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/customs-frontline.jpg"
                             },
                             {
-                                "url": "/pelicula/el-abuelo-y-kid/",
-                                "title": "El Abuelo y Kid",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-abuelo-y-kid.jpg"
+                                "url": "/pelicula/shark-warning/",
+                                "title": "Shark Warning",
+                                "thumbnail_url": "https://www.pelisplushd.ph"
                             },
                             {
-                                "url": "/pelicula/la-patinadora/",
-                                "title": "La Patinadora",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-patinadora.jpg"
+                                "url": "/pelicula/le-larbin/",
+                                "title": "Le Larbin",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/le-larbin.jpg"
                             },
                             {
-                                "url": "/pelicula/sin-limites-los-casos-del-departamento-q/",
-                                "title": "Sin límites: Los casos del departamento Q",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sin-limites-los-casos-del-departamento-q.jpg"
+                                "url": "/pelicula/el-candidato-honesto/",
+                                "title": "El Candidato Honesto",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-candidato-honesto.jpg"
                             },
                             {
-                                "url": "/pelicula/el-vientre-del-mal/",
-                                "title": "El vientre del mal",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-vientre-del-mal.jpg"
+                                "url": "/pelicula/widow-clicquot/",
+                                "title": "Widow Clicquot",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/widow-clicquot.jpg"
                             },
                             {
-                                "url": "/pelicula/el-sucesor/",
-                                "title": "El sucesor",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-sucesor.jpg"
+                                "url": "/pelicula/crumb-catcher/",
+                                "title": "Crumb Catcher",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/crumb-catcher.jpg"
                             },
                             {
-                                "url": "/pelicula/borderlands-el-destino-del-universo-esta-en-juego/",
-                                "title": "Borderlands: El destino del universo está en juego",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/borderlands-el-destino-del-universo-esta-en-juego.jpg"
+                                "url": "/pelicula/oddity/",
+                                "title": "Oddity",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/oddity.jpg"
                             },
                             {
-                                "url": "/pelicula/la-reina-de-la-montana-lhakpa-sherpa-y-la-cumbre-del-everest/",
-                                "title": "La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-reina-de-la-montana-lhakpa-sherpa-y-la-cumbre-del-everest.jpg"
+                                "url": "/pelicula/largo-winch-le-prix-de-largent/",
+                                "title": "Largo Winch : Le prix de l’argent",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/largo-winch-le-prix-de-largent.jpg"
                             },
                             {
-                                "url": "/pelicula/la-bestia-914206/",
-                                "title": "La Bestia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-bestia-914206.jpg"
+                                "url": "/pelicula/disciples-in-the-moonlight/",
+                                "title": "Disciples in the Moonlight",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/disciples-in-the-moonlight.jpg"
                             },
                             {
-                                "url": "/pelicula/mon-laferte-te-amo/",
-                                "title": "Mon Laferte, te amo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mon-laferte-te-amo.jpg"
+                                "url": "/pelicula/the-beast-within/",
+                                "title": "The Beast Within",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-beast-within.jpg"
                             },
                             {
-                                "url": "/pelicula/una-noche-con-el-demonio/",
-                                "title": "Una Noche con el Demonio",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/una-noche-con-el-demonio.jpg"
+                                "url": "/pelicula/el-tiempo-perdido/",
+                                "title": "El tiempo perdido",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-tiempo-perdido.jpg"
                             },
                             {
-                                "url": "/pelicula/el-primado-de-polonia/",
-                                "title": "El primado de Polonia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-primado-de-polonia.jpg"
+                                "url": "/pelicula/farang/",
+                                "title": "La Venganza del Dragón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/farang.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1016,11 +1082,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/paradox-effect/",
-                    "title": "Paradox Effect",
+                    "url": "/pelicula/misiones-cruzadas/",
+                    "title": "Misiones Cruzadas",
                     "artist": "",
                     "description": "",
-                    "genre": "Suspenso",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -1030,7 +1096,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/paradox-effect/",
+                        "url": "/pelicula/misiones-cruzadas/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -1040,74 +1106,12 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-q57xpxulb1fqm6i0.voe-network.net/engine/hls2/01/11901/mnyujgp3380v_,n,.urlset/index-v1-a1.m3u8?t=c7u_n1qQtVqvyGINxPdEqGGvcWHmnDa-Aj5H8EldpwI&s=1723313312&e=14400&f=59753873&node=delivery-node-q57xpxulb1fqm6i0.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[LAT]Voe:720p",
-                        "videoUrl": "https://delivery-node-q57xpxulb1fqm6i0.voe-network.net/engine/hls2/01/11901/mnyujgp3380v_,n,.urlset/index-v1-a1.m3u8?t=c7u_n1qQtVqvyGINxPdEqGGvcWHmnDa-Aj5H8EldpwI&s=1723313312&e=14400&f=59753873&node=delivery-node-q57xpxulb1fqm6i0.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-4v7xw79skptjyuek.voe-network.net/engine/hls2-c/01/11958/8rycfheaxzyn_,n,.urlset/index-v1-a1.m3u8?t=uc1OjR40hNO4jJlRtKpIEo5ZA9CrRsP_NOFQ1Fri5cI&s=1723335502&e=14400&f=59792897&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "quality": "[CAST]Voe:804p",
+                        "videoUrl": "https://delivery-node-4v7xw79skptjyuek.voe-network.net/engine/hls2-c/01/11958/8rycfheaxzyn_,n,.urlset/index-v1-a1.m3u8?t=uc1OjR40hNO4jJlRtKpIEo5ZA9CrRsP_NOFQ1Fri5cI&s=1723335502&e=14400&f=59792897&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=20.161&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04611/hou9qnu4u42k_,n,h,.urlset/index-f2-v1-a1.m3u8?t=vElhWGR7-Ulum2Z_fEG4QpLm9YjUqtx13cF34IujHdQ&s=1723313305&e=129600&f=23057623&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04611/hou9qnu4u42k_,n,h,.urlset/index-f2-v1-a1.m3u8?t=vElhWGR7-Ulum2Z_fEG4QpLm9YjUqtx13cF34IujHdQ&s=1723313305&e=129600&f=23057623&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/hou9qnu4u42k"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04611/hou9qnu4u42k_,n,h,.urlset/index-f1-v1-a1.m3u8?t=vElhWGR7-Ulum2Z_fEG4QpLm9YjUqtx13cF34IujHdQ&s=1723313305&e=129600&f=23057623&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04611/hou9qnu4u42k_,n,h,.urlset/index-f1-v1-a1.m3u8?t=vElhWGR7-Ulum2Z_fEG4QpLm9YjUqtx13cF34IujHdQ&s=1723313305&e=129600&f=23057623&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/hou9qnu4u42k"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=YpVDg41ZJBsvxG4&expires=1723383306&ip=F0qQKRWZD19XKxR&token=espbuJvQr1mE",
-                        "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YpVDg41ZJBsvxG4&expires=1723383306&ip=F0qQKRWZD19XKxR&token=espbuJvQr1mE"
-                    },
-                    {
-                        "url": "https://delivery-node-kcizyzlqzayatke6.voe-network.net/engine/hls2-c/01/11901/hu4w1dy7hpbd_,n,.urlset/index-v1-a1.m3u8?t=Zy1DYLwWn3W13Qzt4sLHbHDG38_S5ZY3JtaH0-HrFko&s=1723313326&e=14400&f=59754291&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[SUB]Voe:720p",
-                        "videoUrl": "https://delivery-node-kcizyzlqzayatke6.voe-network.net/engine/hls2-c/01/11901/hu4w1dy7hpbd_,n,.urlset/index-v1-a1.m3u8?t=Zy1DYLwWn3W13Qzt4sLHbHDG38_S5ZY3JtaH0-HrFko&s=1723313326&e=14400&f=59754291&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04611/ckintp9xx7i4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=J0RD6UlS9vYBD7brEWUYpYZQY1BEi7bLpOcf9pZj0Ow&s=1723313314&e=129600&f=23057927&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
-                        "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04611/ckintp9xx7i4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=J0RD6UlS9vYBD7brEWUYpYZQY1BEi7bLpOcf9pZj0Ow&s=1723313314&e=129600&f=23057927&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/ckintp9xx7i4"
-                        }
-                    },
-                    {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04611/ckintp9xx7i4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=J0RD6UlS9vYBD7brEWUYpYZQY1BEi7bLpOcf9pZj0Ow&s=1723313314&e=129600&f=23057927&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
-                        "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04611/ckintp9xx7i4_,n,h,.urlset/index-f1-v1-a1.m3u8?t=J0RD6UlS9vYBD7brEWUYpYZQY1BEi7bLpOcf9pZj0Ow&s=1723313314&e=129600&f=23057927&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/ckintp9xx7i4"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=ydKMKolPO1C1lVG&expires=1723383315&ip=F0qQKRWZD19XKxR&token=9nlfsB9a2xJW",
-                        "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ydKMKolPO1C1lVG&expires=1723383315&ip=F0qQKRWZD19XKxR&token=9nlfsB9a2xJW"
                     }
                 ],
                 "passed": true

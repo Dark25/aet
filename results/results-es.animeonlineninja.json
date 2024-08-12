@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/tsue-to-tsurugi-no-wistoria-cap-3/",
+                                "title": "Tsue to Tsurugi no Wistoria Cap 3",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/07/tsue-to-tsurugi-no-wistoria-cap-3-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/vtuber-nanda-ga-haishin-kiri-wasuretara-densetsu-ni-natteta-cap-3/",
+                                "title": "VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta Cap 3",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/07/g02QJaqiH0WIdfHHp6qZ5MmJ9U3-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-cap-7/",
                                 "title": "Kimetsu no Yaiba Hashira Geiko-hen Cap 7",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/06/1rw2hmzC7yJwtDfXuP9MIYQvJWQ-300x170.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/episodio/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-cap-1/",
                                 "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Cap 1",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2023/10/mwH7L5e5pfCDRkATCftHa4aO5WX-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/roboticsnotes-cap-16/",
-                                "title": "Robotics;Notes Cap 16",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2020/11/aCRaGfWQCIpCJMLNgNIvnI9CKcp-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/roboticsnotes-cap-15/",
-                                "title": "Robotics;Notes Cap 15",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2020/11/xmZ2oUQhJiVhzuxIZP9hQhe150w-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -509,22 +509,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=zP4MBPP1zlcYl1G&expires=1723491759&ip=FROsD0ISKxSHDN&token=Q6BGSFsq3hA_",
-                        "quality": "SUB StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=zP4MBPP1zlcYl1G&expires=1723491759&ip=FROsD0ISKxSHDN&token=Q6BGSFsq3hA_"
-                    },
-                    {
-                        "url": "https://s-delivery34.mxcontent.net/v2/840wjwmof664j46.mp4?s=Qls1nBPiqTAKM2X0eaP5yA&e=1723443359&_t=1723425072",
-                        "quality": "MixDrop(SUB)",
-                        "videoUrl": "https://s-delivery34.mxcontent.net/v2/840wjwmof664j46.mp4?s=Qls1nBPiqTAKM2X0eaP5yA&e=1723443359&_t=1723425072",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: Brotli stream decoding failed",
+                "passed": false
             }
         }
     }

@@ -342,8 +342,33 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04610/bcd6n4wgqk2m_x/index-v1-a1.m3u8?t=eoqdxQ5-Hv_Txh2ev4iPyvIQ4PiwGJK0kuO9FdFEaDU&s=1723421692&e=129600&f=23050675&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://q7kd0e1sv2wb.pradoi.com/hls2/01/04610/bcd6n4wgqk2m_x/index-v1-a1.m3u8?t=eoqdxQ5-Hv_Txh2ev4iPyvIQ4PiwGJK0kuO9FdFEaDU&s=1723421692&e=129600&f=23050675&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/bcd6n4wgqk2m?caption_1=https://sub.asianbxkiun.pro&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery25.mxcontent.net/v2/q171k1qzs1ldnl.mp4?s=gFYxJ9UTE0RIb0bdo1wCnQ&e=1723443299&_t=1723425255",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery25.mxcontent.net/v2/q171k1qzs1ldnl.mp4?s=gFYxJ9UTE0RIb0bdo1wCnQ&e=1723443299&_t=1723425255",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=dRmreQvgMpUkqk4&expires=1723491698&ip=GxOsEHWnDS9X&token=i0jhpm2-JEWR",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=dRmreQvgMpUkqk4&expires=1723491698&ip=GxOsEHWnDS9X&token=i0jhpm2-JEWR"
+                    }
+                ],
+                "passed": true
             }
         }
     }

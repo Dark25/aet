@@ -509,8 +509,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: Brotli stream decoding failed",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=zP4MBPP1zlcYl1G&expires=1723534524&ip=FROsD0ETKxSHDN&token=5UL47YjZjegQ",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zP4MBPP1zlcYl1G&expires=1723534524&ip=FROsD0ETKxSHDN&token=5UL47YjZjegQ"
+                    },
+                    {
+                        "url": "https://s-delivery34.mxcontent.net/v2/840wjwmof664j46.mp4?s=cga7pYk0kXTgvBMrDiV9dw&e=1723486124&_t=1723471333",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery34.mxcontent.net/v2/840wjwmof664j46.mp4?s=cga7pYk0kXTgvBMrDiV9dw&e=1723486124&_t=1723471333",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

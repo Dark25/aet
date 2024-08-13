@@ -317,6 +317,36 @@
                     {
                         "animes": [
                             {
+                                "url": "9545-tartarughe-ninja-ii-il-segreto-di-ooze",
+                                "title": "Tartarughe Ninja II - Il segreto di Ooze",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/32b19c7b-b1db-4a52-b351-90774643212c.webp"
+                            },
+                            {
+                                "url": "9544-tartarughe-ninja-alla-riscossa",
+                                "title": "Tartarughe Ninja alla riscossa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/baef950c-82fd-4261-8519-b87143d01bfc.webp"
+                            },
+                            {
+                                "url": "9543-tartarughe-ninja-iii",
+                                "title": "Tartarughe Ninja III",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/37b03865-9958-4e0b-9a73-709e80aa3d38.webp"
+                            },
+                            {
+                                "url": "9542-il-destino-delle-tartarughe-ninja-il-film",
+                                "title": "Il destino delle Tartarughe Ninja - Il film",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b6ba0d35-9849-41c4-bf33-406a7807f66c.webp"
+                            },
+                            {
+                                "url": "9541-il-destino-delle-tartarughe-ninja",
+                                "title": "Il destino delle Tartarughe Ninja",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3742fd93-b8e3-427b-8b63-053e33674e26.webp"
+                            },
+                            {
+                                "url": "9540-hot-wheels-a-tutto-gas",
+                                "title": "Hot Wheels, a tutto gas!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/feb19993-819e-4f57-83c2-d201db1247df.webp"
+                            },
+                            {
                                 "url": "9539-quack-pack-la-banda-dei-paperi",
                                 "title": "Quack Pack - La banda dei paperi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e1403c39-07f2-4035-8aef-8f3815bbaecf.webp"
@@ -585,36 +615,6 @@
                                 "url": "9469-nella-mente-di-un-killer-aaron-hernandez",
                                 "title": "Nella mente di un killer: Aaron Hernandez",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3e90fa8e-f0db-4a20-95d7-943689c45225.webp"
-                            },
-                            {
-                                "url": "9468-we-are-the-brooklyn-saints",
-                                "title": "We Are: The Brooklyn Saints",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d932707f-686e-42c2-a97b-7b3c8d3a98cf.webp"
-                            },
-                            {
-                                "url": "9467-all-or-nothing",
-                                "title": "All or Nothing",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/379970cb-9eb1-41fb-b051-bdf66228a13d.webp"
-                            },
-                            {
-                                "url": "9466-coach-prime",
-                                "title": "Coach Prime",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cd096a37-c40a-4d86-b323-c83ae86604e6.webp"
-                            },
-                            {
-                                "url": "9465-mi-sdoppio-in-quattro",
-                                "title": "Mi sdoppio in quattro",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7b182c52-30c5-4ec1-996f-2b3c7256828c.webp"
-                            },
-                            {
-                                "url": "9464-blu-profondo",
-                                "title": "Blu profondo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0421a3de-871f-4337-9cf2-f3da2480b624.webp"
-                            },
-                            {
-                                "url": "9463-fred-claus-un-fratello-sotto-lalbero",
-                                "title": "Fred Claus - Un fratello sotto l'albero",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/37b812fc-18e8-4b08-9208-2d56822d7d7a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,19 +954,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/253862?type=video&rendition=480p&token=DTghAAfhfbBZnI1MiYiU8g&expires=1728713226&b=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/253862?type=video&rendition=480p&token=DTghAAfhfbBZnI1MiYiU8g&expires=1728713226&b=1"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/253862?type=video&rendition=720p&token=quRZm7UgGNWCog6m-p_tCw&expires=1728713226&b=1",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/253862?type=video&rendition=720p&token=quRZm7UgGNWCog6m-p_tCw&expires=1728713226&b=1"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

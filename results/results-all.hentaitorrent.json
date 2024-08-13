@@ -11,12 +11,8 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "",
-                    "thumbnail_url": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketException: Connection reset",
+                "passed": false
             },
             "episodes": {
                 "error": "java.lang.Exception: No Torrent Found!",

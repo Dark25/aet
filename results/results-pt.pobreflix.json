@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
+                                "title": "Borderlands: O Destino do Universo Está em Jogo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg"
+                            },
+                            {
                                 "url": "/filmes/os-provocadores/",
                                 "title": "Os Provocadores",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/descendentes-a-ascensao-de-copas/",
                                 "title": "Descendentes: A Ascensão de Copas",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/hfSYnl7Fu2QmO73rapXh1Ff5B2l.jpg"
-                            },
-                            {
-                                "url": "/filmes/um-tira-da-pesada-4-axel-foley/",
-                                "title": "Um Tira da Pesada 4: Axel Foley",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/i5kOCCqFl0m2UayMjAU8tdN7R2I.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,21 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/o-pais-de-tanabata/",
+                                "title": "O País de Tanabata",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kHU9S4Bx77w02H2jjrma9YVqo5b.jpg"
+                            },
+                            {
+                                "url": "/series/no-olho-da-tempestade/",
+                                "title": "No Olho da Tempestade",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ivmNixhlBKXG8BukpVIMkhjAgbo.jpg"
+                            },
+                            {
+                                "url": "/series/a-batalha-dos-chefs-raiz/",
+                                "title": "A Batalha dos Chefs Raiz",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xzSLJB0FWBKevAr7UtO4Fw2KVoE.jpg"
                             },
                             {
                                 "url": "/series/ted-a-serie/",
@@ -270,21 +285,6 @@
                                 "url": "/series/entre-tierras/",
                                 "title": "Entre tierras",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/9CoArNRTXUxiaGvR8CUX59jRB6k.jpg"
-                            },
-                            {
-                                "url": "/series/supacell/",
-                                "title": "Supacell",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iZsQBIobC1oKSBEX0XoWF598j7F.jpg"
-                            },
-                            {
-                                "url": "/series/gangues-da-galicia/",
-                                "title": "Gangues da Galícia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7CRPtNIylSfnRsqZn35cmMbvLA2.jpg"
-                            },
-                            {
-                                "url": "/series/historia-do-comunismo/",
-                                "title": "História do Comunismo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/eWfqKtpFOwfKkjBz8Psqsv9KYkM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/os-provocadores/",
-                    "title": "Os Provocadores",
-                    "description": "Rory e Cobby são parceiros improváveis: um pai desesperado e um ex-presidiário reunidos para um assalto. Quando tudo dá errado, eles se unem a um cúmplice incomum—a terapeuta de Rory—para fugir da polícia, de burocratas corruptos e de um chefe do crime vingativo.\n\nTítulo Original: The Instigators",
-                    "genre": "Ação, Comédia, Crime",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg",
+                    "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
+                    "title": "Borderlands: O Destino do Universo Está em Jogo",
+                    "description": "Uma infame caçadora de recompensas retorna ao lugar onde cresceu, o caótico planeta Pandora, e forma uma aliança inesperada com uma equipe de desajustados para encontrar a filha desaparecida…\n\nTítulo Original: Borderlands",
+                    "genre": "Ação, Aventura, Comédia, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/os-provocadores/",
+                        "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

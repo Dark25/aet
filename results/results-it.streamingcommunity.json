@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9437-alien-romulus",
+                                "title": "Alien: Romulus",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cfcfc6bb-170d-4279-bf70-6318665e9ba9.webp"
+                            },
+                            {
                                 "url": "9522-trap",
                                 "title": "Trap",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/dfc9d87a-ce71-4c7a-ac1a-7d7339e69557.webp"
@@ -300,11 +305,6 @@
                                 "url": "9111-melissa-etheridge-non-sono-sconfitta",
                                 "title": "Melissa Etheridge: non sono sconfitta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d6463cd0-4244-4759-a2e8-b4e96af8fe89.webp"
-                            },
-                            {
-                                "url": "9100-sunny",
-                                "title": "Sunny",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/88a78cb7-b6aa-44fd-850a-894ccc5e06a5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9522-trap",
-                    "description": "Un padre e la figlia adolescente assistono ad un concerto pop ma ben presto si rendono conto di essere al centro di un’oscura e sinistra vicenda.",
-                    "genre": "Crime, Thriller, Horror",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9437-alien-romulus",
+                    "description": "Un gruppo di giovani in un mondo lontano si trova a confrontarsi con la forma di vita più terrificante dell'universo.",
+                    "genre": "Thriller, Horror, Fantascienza",
                     "initialized": true
                 },
                 "passed": true
@@ -946,7 +944,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9522",
+                        "url": "9437",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

@@ -197,14 +197,14 @@
                                 "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOWZhYjJhMTAtMzM1Ny00OWUyLThlZGItMWY1NWNiMjYwN2M2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
                             },
                             {
-                                "url": "/american-pie-presents-beta-house-2007-hindi-dubbed-Watch-online-full-movie/",
-                                "title": "American Pie Presents: Beta House (2007) Hindi Dubbed",
-                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMmM4NWY0M2YtZDdhYy00ZmRlLTliMGYtYThmNjQ3NWEyOGU0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY959_.jpg"
-                            },
-                            {
                                 "url": "/ek-tha-tiger-2012-Watch-online-full-movie/",
                                 "title": "Ek Tha Tiger (2012)",
                                 "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYjc1NzI1NmItYWYyNi00NzVmLWE1M2YtNzQ3MjhkYjhiNGIxXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_QL50_.jpg"
+                            },
+                            {
+                                "url": "/american-pie-presents-beta-house-2007-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "American Pie Presents: Beta House (2007) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMmM4NWY0M2YtZDdhYy00ZmRlLTliMGYtYThmNjQ3NWEyOGU0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY959_.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -443,20 +443,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://requto.ydc1wes.me/hls2/01/00006/gf7nbhags3ph_l/index-v1-a1.m3u8?t=JzxS4snuuid7xy1iY7q9qD7rQjS7sRMjOxbKRZLIYDc&s=1723572430&e=21600&f=33424&i=0.0&sp=0",
-                        "quality": "[Server 1] -  Minoplres - 360p",
-                        "videoUrl": "https://requto.ydc1wes.me/hls2/01/00006/gf7nbhags3ph_l/index-v1-a1.m3u8?t=JzxS4snuuid7xy1iY7q9qD7rQjS7sRMjOxbKRZLIYDc&s=1723572430&e=21600&f=33424&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://minoplres.xyz",
-                            "Referer": "https://minoplres.xyz/embed-gf7nbhags3ph.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,16 +7,16 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/cult-killer/",
-                                "title": "Cult Killer",
-                                "description": "Una investigadora privada se ve obligado a formar una peligrosa alianza con un asesino. Intentarán ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/qxJ3X1RB3CnNZuVFC4uMOWJPDMk7T.webp"
-                            },
-                            {
                                 "url": "/pelicula/ride-on/",
                                 "title": "Ride On",
                                 "description": "Lao Luo (Jackie Chan) está muy apegado a su amado caballo. Cuando parece que le pueden quitar el eq...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Y3QOb1CcHyA2svuKSRjlGh.webp"
+                            },
+                            {
+                                "url": "/pelicula/cult-killer/",
+                                "title": "Cult Killer",
+                                "description": "Una investigadora privada se ve obligado a formar una peligrosa alianza con un asesino. Intentarán ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/qxJ3X1RB3CnNZuVFC4uMOWJPDMk7T.webp"
                             },
                             {
                                 "url": "/pelicula/spy-x-family-codigo-blanco/",
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/cult-killer/",
-                    "title": "Cult Killer",
-                    "description": "Una investigadora privada se ve obligado a formar una peligrosa alianza con un asesino. Intentarán descubrir el origen criminal de un pueblo tranquilo y limpiar el nombre de su mentor, quien está implicado en los crímenes.",
-                    "genre": "Crimen, Suspense, Terror",
+                    "url": "/pelicula/ride-on/",
+                    "title": "Ride On",
+                    "description": "Lao Luo (Jackie Chan) está muy apegado a su amado caballo. Cuando parece que le pueden quitar el equino, se embarca en un viaje por carretera con su hija Xiaobao (Liu Haocun) y su novio para resolver la crisis.",
+                    "genre": "Acción, Aventura, Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/cult-killer/",
+                        "url": "/pelicula/ride-on/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -544,15 +544,15 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {

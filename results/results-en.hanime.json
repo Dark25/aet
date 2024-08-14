@@ -133,21 +133,21 @@
                                 "initialized": true
                             },
                             {
-                                "url": "/videos/hentai/ijirare-fukushuu-saimin-1",
-                                "title": "Ijirare: Fukushuu Saimin",
-                                "author": "Bunnywalker",
-                                "description": "Everything and everyone is just a toy to her. Playthings for her to use or destroy. This sad lonely fat kid is no different than an ant on the sidewalk to her... and after she found him sniffing panties in the restroom, she is never going to let him hear the end of it.\r\n\r\nOr so she thought...",
-                                "genre": "anal, big boobs, blow job, boob job, censored, creampie, dark skin, facial, fantasy, glasses, harem, hd, mind control, orgy, plot, public sex, school girl, virgin, x-ray",
-                                "thumbnail_url": "https://git-covers.pages.dev/images/ijirare-fukushuu-saimin-1-cv1.png",
-                                "initialized": true
-                            },
-                            {
                                 "url": "/videos/hentai/garden-takamine-ke-no-nirinka-1",
                                 "title": "Garden: Takamine-ke no Nirinka",
                                 "author": "Pink Pineapple",
                                 "description": "With their Mom away on a business trip, the sisters make their move...",
                                 "genre": "big boobs, blow job, boob job, censored, creampie, hd, incest, masturbation, plot, school girl, x-ray",
                                 "thumbnail_url": "https://akidoo.top/images/covers/garden-takamine-ke-no-nirinka-1-cv1.png",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/videos/hentai/ijirare-fukushuu-saimin-1",
+                                "title": "Ijirare: Fukushuu Saimin",
+                                "author": "Bunnywalker",
+                                "description": "Everything and everyone is just a toy to her. Playthings for her to use or destroy. This sad lonely fat kid is no different than an ant on the sidewalk to her... and after she found him sniffing panties in the restroom, she is never going to let him hear the end of it.\r\n\r\nOr so she thought...",
+                                "genre": "anal, big boobs, blow job, boob job, censored, creampie, dark skin, facial, fantasy, glasses, harem, hd, mind control, orgy, plot, public sex, school girl, virgin, x-ray",
+                                "thumbnail_url": "https://git-covers.pages.dev/images/ijirare-fukushuu-saimin-1-cv1.png",
                                 "initialized": true
                             },
                             {
@@ -792,12 +792,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hanime.tv/api/v8/video?id=2604",
+                        "name": "Episode 2",
+                        "date_upload": 1593650604000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "https://hanime.tv/api/v8/video?id=2583",
+                        "name": "Episode 1",
+                        "date_upload": 1591285383000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/9rwAcpt1qjh9w0v0y5r6ghd0y7Zht23ffrtb1gt4vnqtsk3rkx7w1.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/9rwAcpt1qjh9w0v0y5r6ghd0y7Zht23ffrtb1gt4vnqtsk3rkx7w1.m3u8"
+                    },
+                    {
+                        "url": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/jfzk8r07Adgg14A0hgklj2bjm1Zzmx2klmvcpm56fAzpp0cdhfm5q.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/jfzk8r07Adgg14A0hgklj2bjm1Zzmx2klmvcpm56fAzpp0cdhfm5q.m3u8"
+                    },
+                    {
+                        "url": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/stgA7yjsn62l7ng85007xtcvcAZ4120trh0n70qxAAkycvt86jjf7.m3u8",
+                        "quality": "360p",
+                        "videoUrl": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/stgA7yjsn62l7ng85007xtcvcAZ4120trh0n70qxAAkycvt86jjf7.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

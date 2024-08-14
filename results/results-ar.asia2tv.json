@@ -167,12 +167,12 @@
                                 "title": "عائلة استثنائية The Atypical Family"
                             },
                             {
-                                "url": "/",
-                                "title": "كلام على المكشوف"
-                            },
-                            {
                                 "url": "/بداية-الشباب/",
                                 "title": "بداية الشباب Begins Youth"
+                            },
+                            {
+                                "url": "/",
+                                "title": "كلام على المكشوف"
                             }
                         ],
                         "hasNextPage": true
@@ -290,12 +290,31 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/فخامتك-الحلقة-02/",
+                        "name": "02 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=RkD0V1w8VOsdQeY&expires=1723685513&ip=G0WsD0cRKxSHDN&token=w2bJu34_hyLs",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=RkD0V1w8VOsdQeY&expires=1723685513&ip=G0WsD0cRKxSHDN&token=w2bJu34_hyLs"
+                    },
+                    {
+                        "url": "https://m30.uqload.ws/3rfkszjxtvw2q4drdk67vnxybrdsgdzdc73hcahan4fmyvi2fp36zg3zw7zq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m30.uqload.ws/3rfkszjxtvw2q4drdk67vnxybrdsgdzdc73hcahan4fmyvi2fp36zg3zw7zq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

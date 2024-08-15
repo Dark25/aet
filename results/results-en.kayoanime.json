@@ -170,7 +170,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
                 "passed": false
             },
             "videos": {

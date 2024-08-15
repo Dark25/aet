@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/dna-lover?id=66be2d19c0064b5eb01ede04",
+                                "title": "DNA Lover (El ADN dice que te amo)",
+                                "description": "Então Jin, uma pesquisadora genética que adora DNA, decide terminar seu relacionamento com um namorado playboy e sai em busca de um parceiro geneticamente compatível para um relacionamento feliz. Qual dos dois homens que So Jin conhece, o obstetra-ginecologista Yeon Woo e o bombeiro Kang Hoon, será o par perfeito para ela? Uma história cativante entrelaçada com a genética! Esta história retrata as lutas, o amor e a vida cotidiana de jovens amigos.",
+                                "genre": "Drama, Comedia, Romance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/n9b5gIn7yJBUAtsTevpCUj0HASt.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/perfect-family?id=66bd032cc0064b5eb01edd9e",
                                 "title": "Perfect Family (Familia perfecta)",
                                 "description": "Choi Jin Hyeok vivía una vida de ensueño con su esposa Ha Eun Ju y su querida hija Sun Hui, hasta que un día todo cambió. Sun Hui llegó a casa cubierta de sangre, convencida de haber matado a su amigo. Poco después, un misterioso incendio arrasa la casa de la amiga, desatando una ola de sospechas tanto en su hogar como en la escuela. La situación se complica aún más cuando otro niño desaparece sin dejar rastro. En medio de este caos, la familia y los amigos, que antes parecían unidos, empiezan a desconfiar unos de otros. ¿Se revelará algún día la verdad detrás de esta aparente \"familia perfecta\"?",
@@ -456,13 +463,6 @@
                                 "description": "Kojima Toru es estudiante de medicina, pero está aburrido de su vida que siempre parece la misma. Un día conoce a una arquitecta, Asano Shifumi, y es invitado a su despacho. Pasa un rato agradable con ella. Toman café y escuchan música. En ese momento, ve una foto en blanco y negro de la Torre de Tokio en la pared de su despacho. Le pregunta si le gusta la Torre de Tokio y ella le responde que no porque le parece solitaria. A Kojima Toru le encanta el tiempo que pasa con ella. Un par de días después, vuelve a visitarla y le dice que quiere saber más de ella.",
                                 "genre": "Drama, Romance, Misterio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/serendipitys-embrace?id=669e67d97a783c7ca908300b",
-                                "title": "Serendipity's Embrace (El abrazo de la serendipia)",
-                                "description": "Después de 10 años en los EE. UU., Hoo Young regresa a Corea y conoce a su primer amor, Hong Joo, en un café por casualidad. Del mismo modo, la ventana por la que Peter Pan voló resultó ser la habitación de Wendy. Del mismo modo, el príncipe encontró los zapatos de cristal de Cenicienta.",
-                                "genre": "Drama, Comedia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/oOitjGRuMycmgMK7QdaHgt82fyF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -621,17 +621,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/you-are-my-secret?id=66b235536375998a38bb171a",
-                    "title": "You Are My Secret (Eres Mi Secreto)",
-                    "artist": "张佳宁",
-                    "author": "Viki",
-                    "description": "La directora del vestíbulo Tu Xiao Ning, que trabaja en la primera planta de la torre Huayuan, se encuentra en un periodo de prueba. Ji Yu Heng, un joven de talento que trabaja en la planta 17, es una estrella ascendente en el negocio. Ambos comparten el deseo de casarse lo antes posible, y aquí es donde se cruzan.\n\nA los ojos de Xiao Ning, Yu Heng supera las expectativas como pareja. A los ojos de Yu Heng, Xiao Ning iluminó una vez su vida y casarse con ella es su única opción firme. Cuando se arman de valor para establecer su relación, Yu Heng se convierte en el superior de Xiao Ning. Estos amigos de la infancia, por un giro del destino, se encuentran en una relación dual, son colegas y recién casados. Explorando el significado del matrimonio y la vida.",
-                    "genre": "Drama, Romance",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZYCmnkgeacIMmVeVsradTDbQZ1.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -653,7 +644,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             }
         }

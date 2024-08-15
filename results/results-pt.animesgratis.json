@@ -3,28 +3,438 @@
         "name": "Bakashi (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 504",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wD55C85rLI568fxlQUhlTADdwo3.jpg"
+                            },
+                            {
+                                "url": "/animes/black-clover/",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xoqmJpO3jGxEldDCItXuGj2MVTV.jpg"
+                            },
+                            {
+                                "url": "/animes/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg"
+                            },
+                            {
+                                "url": "/animes/naruto-shippuden/",
+                                "title": "Naruto Shippuden",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nRJmByfK9XdtOY73VArcN8KpKVs.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodio/mom-im-sorry-episodio-14/",
+                                "title": "Mom, I’m Sorry – Episódio 14",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/bYUv1834MojGAHiFwEyV7uOLsr7.jpg"
+                            },
+                            {
+                                "url": "/episodio/giji-harem-episodio-7/",
+                                "title": "Giji Harem – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/zharVLmHalhWZ9MBftQv46APe6h.jpg"
+                            },
+                            {
+                                "url": "/episodio/yozakura-san-chi-no-daisakusen-episodio-19/",
+                                "title": "Yozakura-san Chi no Daisakusen – Episódio 19",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/wIpB53aM0FIbwpOy6QvCQoT83E7.jpg"
+                            },
+                            {
+                                "url": "/episodio/tasogare-out-focus-episodio-7/",
+                                "title": "Tasogare Out Focus – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/AlVZMfOAfCRwpiYAzqj6CDMByt2.jpg"
+                            },
+                            {
+                                "url": "/episodio/gimai-seikatsu-episodio-7/",
+                                "title": "Gimai Seikatsu – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/y5wEkflt677fi9h3WyOgeRHlvoo.jpg"
+                            },
+                            {
+                                "url": "/episodio/isekai-suicide-squad-dublado-episodio-10/",
+                                "title": "Isekai Suicide Squad Dublado – Episódio 10",
+                                "thumbnail_url": "https://images.cdn.prd.api.discomax.com/2024/07/30/0cfbc4a6-2582-3328-a062-9633e55bcab7.jpeg"
+                            },
+                            {
+                                "url": "/episodio/isekai-suicide-squad-episodio-10/",
+                                "title": "Isekai Suicide Squad – Episódio 10",
+                                "thumbnail_url": "https://images.cdn.prd.api.discomax.com/2024/07/30/0cfbc4a6-2582-3328-a062-9633e55bcab7.jpeg"
+                            },
+                            {
+                                "url": "/episodio/no-love-zone-episodio-2/",
+                                "title": "No Love Zone – Episódio 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/7ZerJD8SgLkPsN5EthzOgPYTkg0.jpg"
+                            },
+                            {
+                                "url": "/episodio/no-love-zone-episodio-1/",
+                                "title": "No Love Zone – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/y8MzbYE9lnZVQAEyKhj92bCuLWY.jpg"
+                            },
+                            {
+                                "url": "/episodio/tsue-to-tsurugi-no-wistoria-dublado-episodio-3/",
+                                "title": "Tsue to Tsurugi no Wistoria Dublado – Episódio 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/7t1iPH7vjBBKTTpNKZi4hBDBEps.jpg"
+                            },
+                            {
+                                "url": "/episodio/delicos-nursery-episodio-2/",
+                                "title": "Delico’s Nursery – Episódio 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/39O5xF4YzoREtEfEESvuMdlBoJj.jpg"
+                            },
+                            {
+                                "url": "/episodio/yeosin-gangnim-episodio-2/",
+                                "title": "Yeosin Gangnim – Episódio 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/4Pv71DUW4ZBuqLQvvQU7Czbt9LB.jpg"
+                            },
+                            {
+                                "url": "/episodio/oshi-no-ko-2-episodio-7/",
+                                "title": "Oshi no Ko 2 – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/3GeLafCFmckgFNo43Erm4ViNunc.jpg"
+                            },
+                            {
+                                "url": "/episodio/sengoku-youko-2-episodio-5/",
+                                "title": "Sengoku Youko 2 – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/pbNB76AXJhjewISfsMNrHXaFen.jpg"
+                            },
+                            {
+                                "url": "/episodio/koi-wa-futago-de-warikirenai-episodio-6/",
+                                "title": "Koi wa Futago de Warikirenai – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/k4MaSmqRkkFdbWG1PJTjYWbVyI4.jpg"
+                            },
+                            {
+                                "url": "/episodio/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episodio-7/",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/zWbF7eK5JFVJzEU7EKNkzoV78N1.jpg"
+                            },
+                            {
+                                "url": "/episodio/shikanoko-nokonoko-koshitantan-episodio-7/",
+                                "title": "Shikanoko Nokonoko Koshitantan – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/mzvWxEl1UOkmFSnpmYHb5hKOlOk.jpg"
+                            },
+                            {
+                                "url": "/episodio/shikanoko-nokonoko-koshitantan-dublado-episodio-7/",
+                                "title": "Shikanoko Nokonoko Koshitantan Dublado – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/2cpaZyApaf7zh6UR2PM8xFRzhdD.jpg"
+                            },
+                            {
+                                "url": "/episodio/maougun-saikyou-no-majutsushi-wa-ningen-datta-episodio-8/",
+                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta – Episódio 8",
+                                "thumbnail_url": "https://imgsrv.crunchyroll.com/catalog/crunchyroll/df311e604b2558d66b4263d8980f627f.jpg"
+                            },
+                            {
+                                "url": "/episodio/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-dublado-episodio-3/",
+                                "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta Dublado – Episódio 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/g02QJaqiH0WIdfHHp6qZ5MmJ9U3.jpg"
+                            },
+                            {
+                                "url": "/episodio/tasuuketsu-episodio-5/",
+                                "title": "Tasuuketsu – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/gKnQLWyNsH3mbbBFYy5oCo5T42s.jpg"
+                            },
+                            {
+                                "url": "/episodio/isekai-shikkaku-episodio-6/",
+                                "title": "Isekai Shikkaku – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/iFIndEQv3BNCYUMBy2bgn0XuCth.jpg"
+                            },
+                            {
+                                "url": "/episodio/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episodio-6/",
+                                "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita. – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/al8GzDkTMMfEnF7179NxXZRDxkj.jpg"
+                            },
+                            {
+                                "url": "/episodio/ookami-to-koushinryou-merchant-meets-the-wise-wolf-episodio-19/",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf – Episódio 19",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/qvfTgJmEeicIpAyWRnHm3dIfoyC.jpg"
+                            },
+                            {
+                                "url": "/episodio/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-episodio-6/",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru. – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/3NVCqwkoklOSdARXKaM0DPHQO73.jpg"
+                            },
+                            {
+                                "url": "/episodio/shy-2-episodio-6/",
+                                "title": "Shy 2 – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/PnJFZ4n9CXer6NNf6JAsTrwA2Q.jpg"
+                            },
+                            {
+                                "url": "/episodio/mayonaka-punch-episodio-6/",
+                                "title": "Mayonaka Punch – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/kzLOSV7PoCUVi6tQVVWZ8V9u0T9.jpg"
+                            },
+                            {
+                                "url": "/episodio/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episodio-7/",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/sKOyORpIrYjEgc0FoOGoseR6cLq.jpg"
+                            },
+                            {
+                                "url": "/episodio/na-nare-hana-nare-episodio-6/",
+                                "title": "Na Nare Hana Nare – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/fYxwIbzT38JxH7mN67xtlfAXGdR.jpg"
+                            },
+                            {
+                                "url": "/episodio/kinnikuman-kanpeki-chоujin-shiso-hen-episodio-5/",
+                                "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/rw18TAXVmgilbe5VmGiknvrRb7F.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filmes/boku-no-hero-academia-the-movie-3-world-heroes-mission/",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes’ Mission",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pDwIKKjLHTiJHtw5t5kpPm69Ode.jpg"
+                            },
+                            {
+                                "url": "/filmes/accel-world-infinite-burst/",
+                                "title": "Accel World: Infinite Burst",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/89kWzMrYw3kRoehZEHO4SpUlcgl.jpg"
+                            },
+                            {
+                                "url": "/animes/good-night-world-dublado/",
+                                "title": "Good Night World Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dBpjwSSIW5qTnLUNCd1Bx6WJ8RA.jpg"
+                            },
+                            {
+                                "url": "/animes/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/s2XAv44lepXrZNWJ4vnIJf3dW5l.jpg"
+                            },
+                            {
+                                "url": "/animes/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/yXwqvG4IN8hzTXQsCD8b8tZ1Ihc.jpg"
+                            },
+                            {
+                                "url": "/animes/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg"
+                            },
+                            {
+                                "url": "/animes/sword-art-online-alicization-war-of-underworld-2/",
+                                "title": "Sword Art Online: Alicization – War of Underworld 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aaa62CnA8wJLkGu0KHhg8TKxSPq.jpg"
+                            },
+                            {
+                                "url": "/animes/sword-art-online-alicization-war-of-underworld/",
+                                "title": "Sword Art Online: Alicization – War of Underworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hcYRMCTwIe3aOveEBSPwB2QCIAy.jpg"
+                            },
+                            {
+                                "url": "/animes/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3mhFxFzTF0faJwPM0937qTxYHeU.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dublado/",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ujJvFR6Mr4gY0Ll4n3hgvYkAfyu.jpg"
+                            },
+                            {
+                                "url": "/animes/egumi-legacy/",
+                                "title": "Egumi Legacy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6r7vA4WMBYwqqKo1ny7Teh1bYNO.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-shikkaku/",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uZ6nYtopsO4UaSVeN18KaGvC4Rh.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu/",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lGORUOFTLb9Yp1ILGQmTY6GJCq1.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-sekai-wa-fukanzen-sugiru-dublado/",
+                                "title": "Kono Sekai wa Fukanzen Sugiru Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/am7dab5D46Pee5KH951qQrpXJy7.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-sekai-wa-fukanzen-sugiru/",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/52aRuZQhYApZxJAmMQncJykWbLB.jpg"
+                            },
+                            {
+                                "url": "/animes/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka/",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/tImCHysmXvx6M2Z4oUju1GQrsFL.jpg"
+                            },
+                            {
+                                "url": "/animes/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-2/",
+                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5Rr5mjyGufwXiffYoIDeXeTgeQy.jpg"
+                            },
+                            {
+                                "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dublado/",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-2/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qggVkuuobxQ9unoSbPS8A21VrEB.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/animes/shuumatsu-train-doko-e-iku/",
+                                "title": "Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/jS0XEpSCBgWWpiiX6LjmrNt805K.jpg"
+                            },
+                            {
+                                "url": "/animes/tensei-kizoku-kantei-skill-de-nariagaru/",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pMLitK7uCKoF25dNn5Xai0RuFra.jpg"
+                            },
+                            {
+                                "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
+                            },
+                            {
+                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-3/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mu4F6a4ImUT5xqYlc0IcwHaALKE.jpg"
+                            },
+                            {
+                                "url": "/animes/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga/",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xN8IudZwwL6nNNQKAOCASBKtoA9.jpg"
+                            },
+                            {
+                                "url": "/animes/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-dublado/",
+                                "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eW7WipQUnl4zFEqGyoZxDvhgMYK.jpg"
+                            },
+                            {
+                                "url": "/animes/maou-evelogia-ni-mi-wo-sasage-yo/",
+                                "title": "Maou Evelogia ni Mi wo Sasage yo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6Juf2mClD4JpfLVU2YDjLKzFd9E.jpg"
+                            },
+                            {
+                                "url": "/animes/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito/",
+                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gZ1BLVWgpAASudNZymVqaaVOT4d.jpg"
+                            },
+                            {
+                                "url": "/animes/kaminaki-sekai-no-kamisama-katsudou/",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uTb2twGxJuJN0qdcz3yQQfIHOrN.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-shoukan-wa-nidome-desu/",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/sAI7DYEuM9mdtZWJiK7YFQcCn0b.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
+                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                    "description": "\nTítulo original: 鬼滅の刃",
+                    "genre": "Ação, Fantasia, Histórico, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wD55C85rLI568fxlQUhlTADdwo3.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 504",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-8/",
+                        "name": "Episódio 8 (Final)",
+                        "date_upload": 1719705600000,
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-7/",
+                        "name": "Episódio 7",
+                        "date_upload": 1719100800000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3febd3ec5d54a7/797000/797471/797471_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3febd3ec5d54a7/797000/797471/797471_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3febd3ec5d54a7/797000/797471/797471_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=VItdhmkEA0-E86JsMwUXrw&ts=1723753574&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://vod-jt3-ca-central-4.q9x.in/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=VItdhmkEA0-E86JsMwUXrw&ts=1723753574&ht=video/mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://bakashi.tv"
+                        }
+                    },
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=Wsxjdzas62wiZm4fplY79V6qKP8UMUqPJtH4R_MBZh0&s=1723745290&e=10800&f=32112014&srv=23&asn=8075&sp=5500",
+                        "quality": "Filemoon - 1080p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06422/vkejc3mir44f_x/index-v1-a1.m3u8?t=Wsxjdzas62wiZm4fplY79V6qKP8UMUqPJtH4R_MBZh0&s=1723745290&e=10800&f=32112014&srv=23&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa0f8bfb2b891/797000/797471/797471.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa0f8bfb2b891/797000/797471/797471.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa0f8bfb2b891/797000/797471/797471.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce94b1afd024/797000/797471/797471_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce94b1afd024/797000/797471/797471_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ce94b1afd024/797000/797471/797471_360p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery27.mxcontent.net/v2/rwee4xeqblk83k.mp4?s=6z-Q2qxZOQSej3qiC0Zn4g&e=1723766889&_t=1723750810",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery27.mxcontent.net/v2/rwee4xeqblk83k.mp4?s=6z-Q2qxZOQSej3qiC0Zn4g&e=1723766889&_t=1723750810",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

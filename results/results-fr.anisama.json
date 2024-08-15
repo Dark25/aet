@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kengan-ashura-season-2-part-2-1750",
+                                "title": "Kengan Ashura Saison 2 Parti 2",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1086/144400.webp"
+                            },
+                            {
                                 "url": "/anime/delicos-nursery-1749",
                                 "title": "Delico's Nursery",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1635/138391.webp"
@@ -310,11 +315,6 @@
                                 "url": "/anime/centaurs-life-1721",
                                 "title": "Centaur no Nayami",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/2/86767.webp"
-                            },
-                            {
-                                "url": "/anime/na-nare-hana-nare-1720",
-                                "title": "Nanare Hananare",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1430/143526.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -484,7 +484,7 @@
             },
             "details": {
                 "result": {
-                    "url": "https://animesz.xyz/anime/one-piece-9",
+                    "url": "https://v1.animesz.xyz/anime/one-piece-9",
                     "title": "One Piece VF et VOSTFR",
                     "artist": "Toei Animation",
                     "description": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
@@ -512,43 +512,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1723716519&validto=1723730919&rate=250k&ip=20.172.7.6&hash=59RenOIaSJN%2BEGAqCJtYInniLDk%3D",
-                        "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/19/8c/8czavhmf.mp4?validfrom=1723716519&validto=1723730919&rate=250k&ip=20.172.7.6&hash=59RenOIaSJN%2BEGAqCJtYInniLDk%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/8czavhmf",
-                            "Referer": "https://https://sendvid.com/embed/8czavhmf/"
-                        }
-                    },
-                    {
-                        "url": "https://ggpjq6gmqddb.hgagecdn.com/hls2/01/02016/e6t1d97w9okg_h/index-v1-a1.m3u8?t=WbwPYF4t5vZB_abLS5Gb6KYFiU4OnM0b3d_DM4Otnxc&s=1723723718&e=129600&f=10732174&srv=nIb6EHVEwAgB&i=0.4&sp=500&p1=nIb6EHVEwAgB&p2=nIb6EHVEwAgB&asn=8075",
-                        "quality": "(VOSTFR) StreamHideVid - 720p",
-                        "videoUrl": "https://ggpjq6gmqddb.hgagecdn.com/hls2/01/02016/e6t1d97w9okg_h/index-v1-a1.m3u8?t=WbwPYF4t5vZB_abLS5Gb6KYFiU4OnM0b3d_DM4Otnxc&s=1723723718&e=129600&f=10732174&srv=nIb6EHVEwAgB&i=0.4&sp=500&p1=nIb6EHVEwAgB&p2=nIb6EHVEwAgB&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/6e5b4bc9eac02532ee47b5f474f58eb7/5596284.mp4",
-                        "quality": "(VOSTFR) Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/6e5b4bc9eac02532ee47b5f474f58eb7/5596284.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5596284"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/11750/jdzz3rbpytli_,n,.urlset/index-v1-a1.m3u8?t=UXayd3I3QGyVnX8d-jCuJUSL1186J4hLwaORfQeXVZk&s=1723723720&e=14400&f=59842873&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "quality": "(VOSTFR) Voe:720p",
-                        "videoUrl": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/11750/jdzz3rbpytli_,n,.urlset/index-v1-a1.m3u8?t=UXayd3I3QGyVnX8d-jCuJUSL1186J4hLwaORfQeXVZk&s=1723723720&e=14400&f=59842873&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.fr.anisama.AniSama.HtmlResponseDTO', but it was missing at path: $",
+                "passed": false
             }
         }
     }

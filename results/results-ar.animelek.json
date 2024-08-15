@@ -3,27 +3,305 @@
         "name": "AnimeLek (AR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/one-piece-slider-animelek.jpg"
+                            },
+                            {
+                                "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san/",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-online.jpg"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-7th-season/",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/boku-no-hero-academia-7th-season-online-motarjam.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-shitara-slime-datta-ken-3rd-season/",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/tensei-shitara-slime-datta-ken-3rd-season-motarjam-online.jpg\n"
+                            },
+                            {
+                                "url": "/anime/-oshi-no-ko-2nd-season/",
+                                "title": "\"Oshi no Ko\" 2nd Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/oshi-no-ko-2nd-season-online.jpg"
+                            },
+                            {
+                                "url": "/anime/kingdom-5th-season/",
+                                "title": "Kingdom 5th Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/Kingdom 5th Season.jpg"
+                            },
+                            {
+                                "url": "/anime/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd/",
+                                "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/Shin no Nakama ja.jpg"
+                            },
+                            {
+                                "url": "/anime/bucchigiri/",
+                                "title": "Bucchigiri?!",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/bucchigiri poster.png"
+                            },
+                            {
+                                "url": "/anime/monsters-ippyaku-sanjou-hiryuu-jigoku/",
+                                "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
+                                "thumbnail_url": "https://animelek.pro/uploads/sliders/Monsters Ippyaku Sanjou Hiryuu Jigoku poster.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/delico-s-nursery/",
+                                "title": "Delico's Nursery",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Delico-s-Nursery-66b3b1b78d3c9.jpg"
+                            },
+                            {
+                                "url": "/anime/yeosin-gangnim/",
+                                "title": "Yeosin Gangnim",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Yeosin-Gangnim-66b3b6667906a.jpg"
+                            },
+                            {
+                                "url": "/anime/koi-wa-futago-de-warikirenai/",
+                                "title": "Koi wa Futago de Warikirenai",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Koi-wa-Futago-de-Warikirenai-668ea8cb99387.jpg"
+                            },
+                            {
+                                "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san/",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tokidoki-Bosotto-Russia-go-de-Dereru-Tonari-no-Alya-san-66858d9e2be73.jpg"
+                            },
+                            {
+                                "url": "/anime/sengoku-youko-senma-konton-hen/",
+                                "title": "Sengoku Youko: Senma Konton-hen",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Sengoku-Youko-Senma-Konton-hen-66858d92e26d4.jpg"
+                            },
+                            {
+                                "url": "/anime/maougun-saikyou-no-majutsushi-wa-ningen-datta/",
+                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Maougun-Saikyou-no-Majutsushi-wa-Ningen-datta-667c24ed9559f.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-shikkaku/",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Isekai-Shikkaku-668d5bf0db6a2.jpg"
+                            },
+                            {
+                                "url": "/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/",
+                                "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Katsute-Mahou-Shoujo-to-Aku-wa-Tekitai-shiteita--668d75ba30e94.jpg"
+                            },
+                            {
+                                "url": "/anime/ookami-to-koushinryou-merchant-meets-the-wise-wolf/",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Ookami-to-Koushinryou-Merchant-Meets-the-Wise-Wolf-660b02d3d856d.jpg"
+                            },
+                            {
+                                "url": "/anime/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru/",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shinmai-Ossan-Boukensha-Saikyou-Party-ni-Shinu-hodo-Kitaerarete-Muteki-ni-Naru--6682edca8ca19.jpg"
+                            },
+                            {
+                                "url": "/anime/shy-2nd-season/",
+                                "title": "Shy 2nd Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shy-2nd-Season-6682e33db5e16.jpg"
+                            },
+                            {
+                                "url": "/anime/mayonaka-punch/",
+                                "title": "Mayonaka Punch",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Mayonaka-Punch-668c116dea29d.jpg"
+                            },
+                            {
+                                "url": "/anime/yozakura-san-chi-no-daisakusen/",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Yozakura-san-Chi-no-Daisakusen-6612f68b5bed2.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/One-Piece-Free-Stream-Online-Anime-Free-Motarjam.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu/",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu-668ae30d2e377.jpg"
+                            },
+                            {
+                                "url": "/anime/na-nare-hana-nare/",
+                                "title": "Na Nare Hana Nare",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Na-Nare-Hana-Nare-668acdf486cf5.jpg"
+                            },
+                            {
+                                "url": "/anime/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta/",
+                                "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-VTuber-Nandaga-Haishin-Kiri-Wasuretara-Densetsu-ni-Natteta-668abb33d2ddc.jpg"
+                            },
+                            {
+                                "url": "/anime/kami-no-tou-ouji-no-kikan/",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Kami-no-Tou-Ouji-no-Kikan-668aa87315a77.jpg"
+                            },
+                            {
+                                "url": "/anime/fairy-tail-100-nen-quest/",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Fairy-Tail-100-nen-Quest-668ab1d371d0a.jpg"
+                            },
+                            {
+                                "url": "/anime/tsue-to-tsurugi-no-wistoria/",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tsue-to-Tsurugi-no-Wistoria-668a6479c5d8a.jpg"
+                            },
+                            {
+                                "url": "/anime/dungeon-no-naka-no-hito/",
+                                "title": "Dungeon no Naka no Hito",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Dungeon-no-Naka-no-Hito-6689179eaf3a0.jpg"
+                            },
+                            {
+                                "url": "/anime/shoushimin-series/",
+                                "title": "Shoushimin Series",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shoushimin-Series-66899183ac15e.jpg"
+                            },
+                            {
+                                "url": "/anime/make-heroine-ga-oosugiru/",
+                                "title": "Make Heroine ga Oosugiru!",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Make-Heroine-ga-Oosugiru--6692b98a8bd8b.jpg"
+                            },
+                            {
+                                "url": "/anime/atri-my-dear-moments/",
+                                "title": "Atri: My Dear Moments",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Atri-My-Dear-Moments-6692b029ea69c.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Dr-Stone-New-World-Part-2-652867f74af57.jpg"
+                            },
+                            {
+                                "url": "/anime/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Good-Night-World-6527d14c2d47e.jpg"
+                            },
+                            {
+                                "url": "/anime/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-World-Dai-Star-6432ddcd71619.jpg"
+                            },
+                            {
+                                "url": "/anime/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Dr-Stone-New-World-642f00b20e187.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-quartet-movie-another-world/",
+                                "title": "Isekai Quartet Movie: Another World",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Isekai-Quartet-Movie-Another-World-6412d8acd9014.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece-film-strong-world/",
+                                "title": "One Piece Film: Strong World",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-One-Piece-Film-Strong-World-62ccc7a95abdb.jpg"
+                            },
+                            {
+                                "url": "/anime/shin-tennis-no-ouji-sama-u-17-world-cup/",
+                                "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Shin-Tennis-no-Ouji-sama-U-17-World-Cup-62c601419b4c7.jpg"
+                            },
+                            {
+                                "url": "/anime/world-trigger-3rd-season/",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-World-Trigger-3rd-Season-6161fed37f7ed.jpg"
+                            },
+                            {
+                                "url": "/anime/world-trigger-2nd-season/",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-World-Trigger-2nd-Season-5ffa1eb7a80af.jpg"
+                            },
+                            {
+                                "url": "/anime/sword-art-online-alicization-war-of-underworld/",
+                                "title": "Sword Art Online: Alicization - War of Underworld",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Sword-Art-Online-Alicization-War-of-Underworld-5f0e90c57d6b7.jpg"
+                            },
+                            {
+                                "url": "/anime/sword-art-online-alicization-war-of-underworld-2nd-season/",
+                                "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Sword-Art-Online-Alicization-War-of-Underworld-2nd-Season-5f0e09c20e23a.jpg"
+                            },
+                            {
+                                "url": "/anime/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-World-Trigger-5f0aad249cd3b.jpg"
+                            },
+                            {
+                                "url": "/anime/sd-gundam-world-sangoku-souketsuden/",
+                                "title": "SD Gundam World: Sangoku Souketsuden",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-SD-Gundam-World-Sangoku-Souketsuden-5f0a249bac82c.jpg"
+                            },
+                            {
+                                "url": "/anime/hello-world/",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Hello-World-5f099a6a0ab6e.jpg"
+                            },
+                            {
+                                "url": "/anime/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/poster-Another-World-5f07331c5fdf8.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/one-piece/",
+                    "title": "One Piece",
+                    "description": "ون بيس , العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.\n\nالنوع TV\nبداية العرض 1999\nحالة الأنمي يعرض الان\nعدد الحلقات غير معروف\nالموسم خريف 1999\nمدة الحلقة 24 دقيقة\nالعرض التشويقي\nصفحة الأنمي على موقع MAL\n",
+                    "genre": "أكشن, خارق للعادة, دراما, فنتازيا, شونين, مغامرات, كوميدي",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animelek.pro/uploads/posters/poster-One-Piece-5f09e7d4e41e3.jpg ",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/one-piece-1115-الحلقة/",
+                        "name": "الحلقة 1115",
+                        "episode_number": 1115.0
+                    },
+                    {
+                        "url": "/episode/one-piece-الحلقة-1114/",
+                        "name": "الحلقة 1114",
+                        "episode_number": 1114.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

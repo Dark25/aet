@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/marimar/",
+                                "title": "Marimar",
+                                "description": "Una joven que fue criada por sus abuelos, encuentra a un joven rico que la utiliza y que más adelante descubre el amor por ella. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg"
+                            },
+                            {
                                 "url": "/mexicanicos-10-anos/",
                                 "title": "Mexicánicos 10 Años",
                                 "description": "El famoso restaurador y mecánico Martín Vaca enfrenta el desafío de crear vehículos originales y sorprendentes en su taller de Guadalajara, México. Si tiene ruedas y motor, ningún vehículo tiene demasiado talento para Martín y su equipo. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/erOlvUGY8PbxEYEyJPlvkS9tPBK.jpg"
                             },
                             {
-                                "url": "/que-asi-sea/",
-                                "title": "Que así sea",
-                                "description": "สาธุ Tras endeudarse hasta las cejas, tres emprendedores usan un templo budista para poner en marcha una arriesgada estafa y saldar cuentas antes de que sea demasiado tarde. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7xPvKJkcXGTuPod4KU4h96K9TNu.jpg"
-                            },
-                            {
-                                "url": "/fiasco/",
-                                "title": "Fiasco",
+                                "url": "/timon-y-pumba/",
+                                "title": "Timón y Pumba",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fWMCScVRF1YJ0ofNl3CqZy9Z2hM.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/x3NphHtKIMnlT7hcEenCbEChTHf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/sense8/",
-                                "title": "Sense8",
+                                "url": "/como-sobrevivir-soltero/",
+                                "title": "Cómo Sobrevivir Soltero",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/kmyvlQ9QKzgdZY31rXaUlgCnzrB-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/AekaNXu9c28e7Ujku95ml7rAhxz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,80 +156,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/mexicanicos-10-anos/",
-                    "title": "Mexicánicos 10 Años",
-                    "description": "El famoso restaurador y mecánico Martín Vaca enfrenta el desafío de crear vehículos originales y sorprendentes en su taller de Guadalajara, México. Si tiene ruedas y motor, ningún vehículo tiene demasiado talento para Martín y su equipo.",
+                    "url": "/marimar/",
+                    "description": "",
                     "genre": "",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/g4n0e1lIz3nwI0oIUQkq7vnbuaB.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/mexicanicos-10-anos-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - Episodio 4",
-                        "date_upload": 1719878400000,
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/episode/mexicanicos-10-anos-temporada-1-capitulo-3/",
-                        "name": "T01 - E03 - Episodio 3",
-                        "date_upload": 1719878400000,
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s39.fastream.to/hls2/13/00068/ztn11wbo6b5w_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-HLeQAdTnrj6F3HF_I0yAQ0GeBi5e6iz4qk5LYHm_Lc&s=1723680934&e=43200&f=344065&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/13/00068/ztn11wbo6b5w_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-HLeQAdTnrj6F3HF_I0yAQ0GeBi5e6iz4qk5LYHm_Lc&s=1723680934&e=43200&f=344065&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/13/00068/ztn11wbo6b5w_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-HLeQAdTnrj6F3HF_I0yAQ0GeBi5e6iz4qk5LYHm_Lc&s=1723680934&e=43200&f=344065&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/13/00068/ztn11wbo6b5w_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-HLeQAdTnrj6F3HF_I0yAQ0GeBi5e6iz4qk5LYHm_Lc&s=1723680934&e=43200&f=344065&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/04/00068/q5lp80j2t51l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=b8pnCv_R3Gy9MwQPbZSobGuJc8bmIMU0nAufxc9ReIk&s=1723680936&e=43200&f=343991&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/04/00068/q5lp80j2t51l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=b8pnCv_R3Gy9MwQPbZSobGuJc8bmIMU0nAufxc9ReIk&s=1723680936&e=43200&f=343991&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/04/00068/q5lp80j2t51l_,l,n,.urlset/index-f1-v1-a1.m3u8?t=b8pnCv_R3Gy9MwQPbZSobGuJc8bmIMU0nAufxc9ReIk&s=1723680936&e=43200&f=343991&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/04/00068/q5lp80j2t51l_,l,n,.urlset/index-f1-v1-a1.m3u8?t=b8pnCv_R3Gy9MwQPbZSobGuJc8bmIMU0nAufxc9ReIk&s=1723680936&e=43200&f=343991&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

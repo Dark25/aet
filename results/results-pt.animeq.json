@@ -53,13 +53,18 @@
                             },
                             {
                                 "url": "/168038/",
-                                "title": "Fairy Tail: 100 Years Quest Episódio 06",
+                                "title": "Fairy Tail: 100-nen Quest Episódio 06",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Fairy-Tail-100-Years-Quest-Episodio-06-AnimeQ.jpg"
                             },
                             {
                                 "url": "/168016/",
                                 "title": "One Piece Episódio 1115",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/One-Piece-1115-AnimeQ-1.jpg"
+                            },
+                            {
+                                "url": "/168159/",
+                                "title": "Delico’s Nursery Episódio 02",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Delicos-Nursery-Episodios.jpg"
                             },
                             {
                                 "url": "/168156/",
@@ -155,11 +160,6 @@
                                 "url": "/168087/",
                                 "title": "Mayonaka Punch Episódio 06",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Mayonaka-Punch-Episodios.jpg"
-                            },
-                            {
-                                "url": "/168085/",
-                                "title": "Tsue to Tsurugi no Wistoria Dublado Episódio 03",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tsue-to-Tsurugi-no-Wistoria-Dublado-Episodios.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -266,14 +266,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://animeflix.blog/Animes/Letra-O/One%20Piece/One%20Piece%20%E2%80%93%20Epis%C3%B3dio%201116%20-%20pr%C3%A9via.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "https://animeflix.blog/Animes/Letra-O/One%20Piece/One%20Piece%20%E2%80%93%20Epis%C3%B3dio%201116%20-%20pr%C3%A9via.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

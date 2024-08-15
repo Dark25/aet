@@ -13,6 +13,30 @@
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Y3QOb1CcHyA2svuKSRjlGh.webp"
                             },
                             {
+                                "url": "/pelicula/twisters-tornados/",
+                                "title": "Twisters (Tornados)",
+                                "description": "Kate Carter, una ex cazadora de tormentas perseguida por un devastador encuentro con un tornado, es ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Nhz4yEqEA8FNbhiO7tyjOz1VoOQTiQrV.webp"
+                            },
+                            {
+                                "url": "/pelicula/trap-la-trampa/",
+                                "title": "Trap (La trampa)",
+                                "description": "Un padre y su hija adolescente asisten a un concierto de música pop, donde se dan cuenta de que est...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/nR7T49MnNYbhvSozTTbSdsiH6UGSoIBCqylly.webp"
+                            },
+                            {
+                                "url": "/pelicula/borderlands/",
+                                "title": "Borderlands",
+                                "description": "Borderlands se desarrolla en el planeta Pandora. Atraídas por las aparentemente vastos yacimientos ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/9lzC6KTLNxjTEu8tBPiObVgNWNE7kM5kXvMU6vwKTFto0.webp"
+                            },
+                            {
+                                "url": "/pelicula/sangre-en-los-labios-zike/",
+                                "title": "Sangre en los labios",
+                                "description": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una comp...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/e8n9Sd7uiSkh2DFUiRn0qmyH80iql4ep3rpLvm6.webp"
+                            },
+                            {
                                 "url": "/pelicula/cult-killer/",
                                 "title": "Cult Killer",
                                 "description": "Una investigadora privada se ve obligado a formar una peligrosa alianza con un asesino. Intentarán ...",
@@ -65,12 +89,6 @@
                                 "title": "The Mouse Trap",
                                 "description": "Es el 21 cumpleaños de Alex, pero está atrapada en la sala de máquinas recreativas en un turno de...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EYtrFHUadsBdjnDh89y3oZbgw.webp"
-                            },
-                            {
-                                "url": "/pelicula/sangre-en-los-labios-zike/",
-                                "title": "Sangre en los labios",
-                                "description": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una comp...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/e8n9Sd7uiSkh2DFUiRn0qmyH80iql4ep3rpLvm6.webp"
                             },
                             {
                                 "url": "/pelicula/還錢/",
@@ -227,24 +245,6 @@
                                 "title": "Los de la culpa",
                                 "description": "Cuando Tato Devia, Ricardo Quevedo, Tavo Bernate, Iván Marín, Henry Delgado y Santiago Rendón exp...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/BlYpoGFqE6e90NfLOQ5voFln7Bubtq8UCXaQuG6YCbYs.webp"
-                            },
-                            {
-                                "url": "/pelicula/presa/",
-                                "title": "Presa",
-                                "description": "Una joven pareja se ve obligada a abandonar su puesto de misioneros cristianos en el desierto del Ka...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/IExmBk4Yb0H1A0mhwprLIRgnX4z64J2CdpPFAJtBA1t.webp"
-                            },
-                            {
-                                "url": "/pelicula/starve-acre/",
-                                "title": "Starve Acre",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Qo76abU0Qx2ELwmNQV2pj0NlSsReEx3kM1hM21DJ.webp"
-                            },
-                            {
-                                "url": "/pelicula/stranger-in-the-woods/",
-                                "title": "Stranger in the Woods",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/NpGZBpIIHgo3NUk7lQ0JJmAMQiXiy4Ycju2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -544,23 +544,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             }
         }

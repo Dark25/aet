@@ -621,8 +621,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/doramas-online/you-are-my-secret?id=66b235536375998a38bb171a",
+                    "title": "You Are My Secret (Eres Mi Secreto)",
+                    "artist": "张佳宁",
+                    "author": "Viki",
+                    "description": "La directora del vestíbulo Tu Xiao Ning, que trabaja en la primera planta de la torre Huayuan, se encuentra en un periodo de prueba. Ji Yu Heng, un joven de talento que trabaja en la planta 17, es una estrella ascendente en el negocio. Ambos comparten el deseo de casarse lo antes posible, y aquí es donde se cruzan.\n\nA los ojos de Xiao Ning, Yu Heng supera las expectativas como pareja. A los ojos de Yu Heng, Xiao Ning iluminó una vez su vida y casarse con ella es su única opción firme. Cuando se arman de valor para establecer su relación, Yu Heng se convierte en el superior de Xiao Ning. Estos amigos de la infancia, por un giro del destino, se encuentran en una relación dual, son colegas y recién casados. Explorando el significado del matrimonio y la vida.",
+                    "genre": "Drama, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lZYCmnkgeacIMmVeVsradTDbQZ1.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -644,7 +653,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "9576-don-matteo",
+                                "title": "Don Matteo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/19b33366-babe-4b40-947f-f9f79372dbca.webp"
+                            },
+                            {
+                                "url": "9574-sissi-il-destino-di-unimperatrice",
+                                "title": "Sissi - Il destino di un'imperatrice",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/074e61ba-f0c5-4705-8996-c2b580b58cbe.webp"
+                            },
+                            {
+                                "url": "9573-sissi-la-giovane-imperatrice",
+                                "title": "Sissi - La giovane imperatrice",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b24de172-a2f4-4411-8e38-59f3047f8ee6.webp"
+                            },
+                            {
+                                "url": "9572-la-principessa-sissi",
+                                "title": "La principessa Sissi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/37368766-ace9-4dcb-a83b-cd778c8d89a3.webp"
+                            },
+                            {
                                 "url": "9571-the-raid-redenzione",
                                 "title": "The Raid - Redenzione",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/facefeb9-5b09-4414-9761-e10852713a06.webp"
@@ -595,26 +615,6 @@
                                 "url": "9505-quarto-potere",
                                 "title": "Quarto potere",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1ddc0f10-1c99-4f47-9834-34b8dadfbcef.webp"
-                            },
-                            {
-                                "url": "9504-criminal-spagna",
-                                "title": "Criminal: Spagna",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/26ad9671-3e5d-4dfb-b2f9-d711f86c1117.webp"
-                            },
-                            {
-                                "url": "9503-la-prima-cosa-bella",
-                                "title": "La prima cosa bella",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ca97f8ad-efad-4094-bd2c-77d475a7d9b3.webp"
-                            },
-                            {
-                                "url": "9502-se-mi-vuoi-bene",
-                                "title": "Se mi vuoi bene",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/edb7b386-d454-4aaa-a504-9656920c3647.webp"
-                            },
-                            {
-                                "url": "9501-la-leggenda-di-un-amore-cinderella",
-                                "title": "La leggenda di un amore - Cinderella",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/712b32d2-841e-4759-8977-50c7da6c87d0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,8 +954,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/255082?type=video&rendition=480p&token=YvkR0s021kyvMMfVM10uHw&edge=sc-u1-01",
+                        "quality": "480,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/255082?type=video&rendition=480p&token=YvkR0s021kyvMMfVM10uHw&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/255082?type=subtitle&rendition=2-ita&token=rKXnIF8ItOypiPYHpibmgQ&edge=sc-u1-01",
+                                "lang": "Italian [CC]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/255082?type=video&rendition=720p&token=Y43I7Vk0D_kYQDhGlAwtGg&edge=sc-u1-01",
+                        "quality": "720,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/255082?type=video&rendition=720p&token=Y43I7Vk0D_kYQDhGlAwtGg&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/255082?type=subtitle&rendition=2-ita&token=rKXnIF8ItOypiPYHpibmgQ&edge=sc-u1-01",
+                                "lang": "Italian [CC]"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

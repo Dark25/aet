@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "9578-la-costa-del-crimine",
+                                "title": "La costa del crimine",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/29f2f2c1-213d-49dc-92c0-dd1478c4f562.webp"
+                            },
+                            {
+                                "url": "9577-the-union",
+                                "title": "The Union",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ba7e48bc-026b-4f61-9c87-0474aced8167.webp"
+                            },
+                            {
                                 "url": "9570-sei-fratelli",
                                 "title": "Sei fratelli",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4ccff16e-67c5-409c-8b57-5f3ab001675c.webp"
@@ -295,16 +305,6 @@
                                 "url": "9113-sausage-party-cibopolis",
                                 "title": "Sausage Party: Cibopolis",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9220185e-b193-415f-9bfb-34d3c798fdeb.webp"
-                            },
-                            {
-                                "url": "9112-svaniti-nella-notte",
-                                "title": "Svaniti nella notte",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/60b25a1c-ff11-4e80-a3b7-0f0b81213210.webp"
-                            },
-                            {
-                                "url": "8586-descendants-lascesa-di-red",
-                                "title": "Descendants: L’Ascesa di Red",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a2bbe66d-4379-4fd6-8147-566201486203.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9581-detective-mclean",
+                                "title": "Detective McLean",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/95d5f2a3-0446-4866-9320-516a22363a47.webp"
+                            },
+                            {
+                                "url": "9580-esterno-notte",
+                                "title": "Esterno notte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/15aafb1b-ee3a-4a14-8a13-24aa7fd98438.webp"
+                            },
+                            {
+                                "url": "9579-epic-movie",
+                                "title": "Epic Movie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/896621ac-55b4-40cf-b3df-d559962ce518.webp"
+                            },
                             {
                                 "url": "9576-don-matteo",
                                 "title": "Don Matteo",
@@ -600,21 +615,6 @@
                                 "url": "9509-i-gladiatori-della-strada",
                                 "title": "I gladiatori della strada",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0026ee0a-99f8-4407-b7c3-294406fbdedd.webp"
-                            },
-                            {
-                                "url": "9508-the-wandering-earth-linizio",
-                                "title": "The Wandering Earth - L'inizio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b6c89a2b-c027-402c-80a5-0b94b00bdab4.webp"
-                            },
-                            {
-                                "url": "9507-insomnia",
-                                "title": "Insomnia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9587b7d3-41e0-40c5-872f-ee60b1f4055f.webp"
-                            },
-                            {
-                                "url": "9505-quarto-potere",
-                                "title": "Quarto potere",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1ddc0f10-1c99-4f47-9834-34b8dadfbcef.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9570-sei-fratelli",
-                    "description": "Marco, Guido, Leo, Luisa, Gaelle e Mattia hanno madri diverse, non sono tutti figli biologici dello stesso padre ma hanno un’unica vera figura paterna di riferimento: Manfredi Alicante. Quando quest’ultimo viene a mancare, si ritrovano per la prima volta tutti insieme nella casa paterna a Bordeaux, vivendo l’illusione di poter diventare una famiglia unita. Ma ormai ognuno di loro porta con sé una storia, un’identità e tornare indietro non sarà facile.",
-                    "genre": "Commedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9578-la-costa-del-crimine",
+                    "description": "Ambientata negli anni ’80 sulla Costa del Sol, è la storia dei Lord, una famiglia di ex gangster di South London che vuole reinventarsi e riconquistare la gloria di un tempo.",
+                    "genre": "Dramma, Crime",
+                    "status": 5,
+                    "status_name": "CANCELLED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,8 +946,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9570",
-                        "name": "Film",
+                        "url": "9578?episode_id=74649&next_episode=1",
+                        "name": "Stagione 1 episodio 2 - La costa del crimine",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "9578?episode_id=74647&next_episode=1",
+                        "name": "Stagione 1 episodio 1 - La costa del crimine",
                         "episode_number": 1.0
                     }
                 ],
@@ -956,24 +961,32 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vixcloud.co/playlist/255082?type=video&rendition=480p&token=YvkR0s021kyvMMfVM10uHw&edge=sc-u1-01",
-                        "quality": "480,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/255082?type=video&rendition=480p&token=YvkR0s021kyvMMfVM10uHw&edge=sc-u1-01",
+                        "url": "https://vixcloud.co/playlist/255639?type=video&rendition=480p&token=uuSk_GYz4fPKtTsiAY7mvg&edge=sc-u1-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/255639?type=video&rendition=480p&token=uuSk_GYz4fPKtTsiAY7mvg&edge=sc-u1-01",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/255082?type=subtitle&rendition=2-ita&token=rKXnIF8ItOypiPYHpibmgQ&edge=sc-u1-01",
-                                "lang": "Italian [CC]"
+                                "url": "https://vixcloud.co/playlist/255639?type=subtitle&rendition=3-eng&token=kECR3vI4KEOXKAwF-NIAPQ&edge=sc-u1-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/255639?type=subtitle&rendition=4-ita&token=kECR3vI4KEOXKAwF-NIAPQ&edge=sc-u1-01",
+                                "lang": "Italian"
                             }
                         ]
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/255082?type=video&rendition=720p&token=Y43I7Vk0D_kYQDhGlAwtGg&edge=sc-u1-01",
-                        "quality": "720,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/255082?type=video&rendition=720p&token=Y43I7Vk0D_kYQDhGlAwtGg&edge=sc-u1-01",
+                        "url": "https://vixcloud.co/playlist/255639?type=video&rendition=720p&token=CBqCS9F8H0eVVom0q3BTGA&edge=sc-u1-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/255639?type=video&rendition=720p&token=CBqCS9F8H0eVVom0q3BTGA&edge=sc-u1-01",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/255082?type=subtitle&rendition=2-ita&token=rKXnIF8ItOypiPYHpibmgQ&edge=sc-u1-01",
-                                "lang": "Italian [CC]"
+                                "url": "https://vixcloud.co/playlist/255639?type=subtitle&rendition=3-eng&token=kECR3vI4KEOXKAwF-NIAPQ&edge=sc-u1-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/255639?type=subtitle&rendition=4-ita&token=kECR3vI4KEOXKAwF-NIAPQ&edge=sc-u1-01",
+                                "lang": "Italian"
                             }
                         ]
                     }

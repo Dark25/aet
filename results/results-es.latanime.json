@@ -343,26 +343,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a1.mp4upload.com:183/d/x2x3hzumz3b4quuoiorbmnshiizyq6xcbacwbeftelfru2vcva2f2s3titorqnzyb5cq56ks/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3hzumz3b4quuoiorbmnshiizyq6xcbacwbeftelfru2vcva2f2s3titorqnzyb5cq56ks/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m50.uqload.ws/3rfkk6y2tvw2q4drdk7pvnved5apuewxt2skl356ippdniqyljkuztxb5a5q/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m50.uqload.ws/3rfkk6y2tvw2q4drdk7pvnved5apuewxt2skl356ippdniqyljkuztxb5a5q/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/a-liga/",
+                                "title": "A Liga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg"
+                            },
+                            {
                                 "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
                                 "title": "Borderlands: O Destino do Universo Está em Jogo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/to-de-graca-o-filme/",
                                 "title": "Tô de Graça: O Filme",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/tDeYq4V4T7WQ1YFU6KuLGxO0iDh.jpg"
-                            },
-                            {
-                                "url": "/filmes/descendentes-a-ascensao-de-copas/",
-                                "title": "Descendentes: A Ascensão de Copas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hfSYnl7Fu2QmO73rapXh1Ff5B2l.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,21 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/o-dia-do-sequestro/",
+                                "title": "O Dia do Sequestro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/giEShy1A3ZUN5LqkRSVd9otHHuH.jpg"
+                            },
+                            {
+                                "url": "/series/a-noite-chegou/",
+                                "title": "A Noite Chegou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j9w6P6G7pgPjARnVJNbUjTC5NSQ.jpg"
+                            },
+                            {
+                                "url": "/series/the-jetty/",
+                                "title": "The Jetty",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg"
                             },
                             {
                                 "url": "/series/os-golpistas-de-toquio/",
@@ -270,21 +285,6 @@
                                 "url": "/series/a-mulher-no-lago/",
                                 "title": "A Mulher no Lago",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/a4uoG1kYoMCf8rqPak0hDmcljPC.jpg"
-                            },
-                            {
-                                "url": "/series/o-assassinato-de-yara-gambirasio/",
-                                "title": "O Assassinato de Yara Gambirasio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ctFYydd0gbkeP6KG2sp8ohxUqXz.jpg"
-                            },
-                            {
-                                "url": "/series/eu/",
-                                "title": "Eu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zYE9357q2thkuiRAsMA60H0eKiB.jpg"
-                            },
-                            {
-                                "url": "/series/festa-da-salsicha-comilandia/",
-                                "title": "Festa da Salsicha: Comilândia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/u8NwlaCFd3oNJxNjqvMwRj4LiBZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
-                    "title": "Borderlands: O Destino do Universo Está em Jogo",
-                    "description": "Uma infame caçadora de recompensas retorna ao lugar onde cresceu, o caótico planeta Pandora, e forma uma aliança inesperada com uma equipe de desajustados para encontrar a filha desaparecida…\n\nTítulo Original: Borderlands",
-                    "genre": "Ação, Aventura, Comédia, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg",
+                    "url": "/filmes/a-liga/",
+                    "title": "A Liga",
+                    "description": "Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.\n\nTítulo Original: The Union",
+                    "genre": "Ação, Comédia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
+                        "url": "/filmes/a-liga/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

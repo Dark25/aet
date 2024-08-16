@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/rick-y-morty-el-anime",
+                                "title": "Rick y Morty: El anime (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg"
+                            },
+                            {
+                                "url": "/serie/mono-malo",
+                                "title": "Mono malo (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1O9U18Qk11DQ57GBEQw79JC2kTh.jpg"
+                            },
+                            {
                                 "url": "/serie/el-pais-de-tanabata",
                                 "title": "El país de Tanabata (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/eiQl6KyrOzaBWNN0YcZVZN3tqsK.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/gigolo-por-cuenta-propia",
                                 "title": "Gigoló por cuenta propia (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7Gp0x1Jbj1hAZQI90aflpdlJho7.jpg"
-                            },
-                            {
-                                "url": "/serie/el-senor-de-la-casa",
-                                "title": "El señor de la casa (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hf3SfWsGnUzEblMXIEk44xP3jHf.jpg"
-                            },
-                            {
-                                "url": "/serie/kite-man-hell-yeah",
-                                "title": "Kite Man: Hell Yeah! (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/rkGyMCHE2B9GzeZfri3TdLmTJ1X.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/el-pais-de-tanabata",
-                    "title": "El país de Tanabata (2024)",
-                    "description": "Yoji Minamimaru, conocido como Nanmaru, es un universitario con la extraña habilidad de agujerear cualquier cosa. Un día, Yoji descubre que el profesor de Historia y Etnología ha desaparecido. Junto a sus compañeros de clase, decide buscar al profesor..",
-                    "genre": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "url": "/serie/rick-y-morty-el-anime",
+                    "title": "Rick y Morty: El anime (2024)",
+                    "description": "La vida sigue para la familia Smith. Rick se relaja en un pseudomundo entre multiversos, Summer ayuda a Beth Espacial y Morty se enamora..",
+                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eiQl6KyrOzaBWNN0YcZVZN3tqsK.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,82 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/el-pais-de-tanabata/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/serie/el-pais-de-tanabata/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/rick-y-morty-el-anime/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-sxpqquujbarsxxtf.voe-network.net/engine/hls2-c/01/12009/tk79ihuysi2l_,n,.urlset/index-v1-a1.m3u8?t=BWh_O_FQWULkKcQPKU_0gZdm7ts5N8iRtkayJ-HkacY&s=1723831616&e=14400&f=60046013&node=delivery-node-lx3y0goydwciiimz.voe-network.net&i=20.190&sp=2500&asn=8075",
+                        "quality": "Voe:1080p",
+                        "videoUrl": "https://delivery-node-sxpqquujbarsxxtf.voe-network.net/engine/hls2-c/01/12009/tk79ihuysi2l_,n,.urlset/index-v1-a1.m3u8?t=BWh_O_FQWULkKcQPKU_0gZdm7ts5N8iRtkayJ-HkacY&s=1723831616&e=14400&f=60046013&node=delivery-node-lx3y0goydwciiimz.voe-network.net&i=20.190&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02173/fs0ryt15j55v_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=7vmv8LVTj-jXWmFZqTSpJe9PXBrQaWYw5kJnLP9RZLc&s=1723831614&e=129600&f=10865038&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
+                        "quality": "StreamHideVid - 1080p",
+                        "videoUrl": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02173/fs0ryt15j55v_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=7vmv8LVTj-jXWmFZqTSpJe9PXBrQaWYw5kJnLP9RZLc&s=1723831614&e=129600&f=10865038&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://lvvb9d6p7p.pradoi.com/hls2/01/04688/8yw50sfv1xsj_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Yg9ZAmnb1-j4TCU-dGE0DW86GtzFYSZf06n6dsl7zz8&s=1723831609&e=129600&f=23440555&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://lvvb9d6p7p.pradoi.com/hls2/01/04688/8yw50sfv1xsj_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Yg9ZAmnb1-j4TCU-dGE0DW86GtzFYSZf06n6dsl7zz8&s=1723831609&e=129600&f=23440555&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/8yw50sfv1xsj"
+                        }
+                    },
+                    {
+                        "url": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02173/fs0ryt15j55v_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=7vmv8LVTj-jXWmFZqTSpJe9PXBrQaWYw5kJnLP9RZLc&s=1723831614&e=129600&f=10865038&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
+                        "quality": "StreamHideVid - 720p",
+                        "videoUrl": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02173/fs0ryt15j55v_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=7vmv8LVTj-jXWmFZqTSpJe9PXBrQaWYw5kJnLP9RZLc&s=1723831614&e=129600&f=10865038&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://lvvb9d6p7p.pradoi.com/hls2/01/04688/8yw50sfv1xsj_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Yg9ZAmnb1-j4TCU-dGE0DW86GtzFYSZf06n6dsl7zz8&s=1723831609&e=129600&f=23440555&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://lvvb9d6p7p.pradoi.com/hls2/01/04688/8yw50sfv1xsj_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Yg9ZAmnb1-j4TCU-dGE0DW86GtzFYSZf06n6dsl7zz8&s=1723831609&e=129600&f=23440555&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/8yw50sfv1xsj"
+                        }
+                    },
+                    {
+                        "url": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02173/fs0ryt15j55v_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=7vmv8LVTj-jXWmFZqTSpJe9PXBrQaWYw5kJnLP9RZLc&s=1723831614&e=129600&f=10865038&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
+                        "quality": "StreamHideVid - 480p",
+                        "videoUrl": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02173/fs0ryt15j55v_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=7vmv8LVTj-jXWmFZqTSpJe9PXBrQaWYw5kJnLP9RZLc&s=1723831614&e=129600&f=10865038&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://lvvb9d6p7p.pradoi.com/hls2/01/04688/8yw50sfv1xsj_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Yg9ZAmnb1-j4TCU-dGE0DW86GtzFYSZf06n6dsl7zz8&s=1723831609&e=129600&f=23440555&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://lvvb9d6p7p.pradoi.com/hls2/01/04688/8yw50sfv1xsj_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Yg9ZAmnb1-j4TCU-dGE0DW86GtzFYSZf06n6dsl7zz8&s=1723831609&e=129600&f=23440555&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/8yw50sfv1xsj"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -303,6 +364,71 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/la-otra-cara-de-la-luna",
+                                "title": "La otra cara de la Luna (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/tWDZF3PuigBvYisM83ZPuWM4v89.jpg"
+                            },
+                            {
+                                "url": "/pelicula/en-el-nombre-del-rey-2",
+                                "title": "En el nombre del rey 2 (2011)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hmMCmEI6X37w3Xt528bj0HMVyjp.jpg"
+                            },
+                            {
+                                "url": "/pelicula/togo-2022",
+                                "title": "Togo (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg"
+                            },
+                            {
+                                "url": "/pelicula/en-el-nombre-del-rey",
+                                "title": "En el nombre del rey (2007)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/A7cyYbKkXClWb5oFB3lHa5E80xU.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ready-player-one",
+                                "title": "Ready Player One (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg"
+                            },
+                            {
+                                "url": "/pelicula/summer-camp",
+                                "title": "Summer Camp (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qVwZaHB1IHpjst5EGaW0Ck3gVsV.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-beatles-eight-days-a-week-the-touring-years",
+                                "title": "The Beatles: Eight Days a Week - The Touring Years (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg"
+                            },
+                            {
+                                "url": "/pelicula/1974-la-posesion-de-altair",
+                                "title": "1974: la posesión de Altair (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hFuRzagV4CNwB8ixSK7N6XUgnDC.jpg"
+                            },
+                            {
+                                "url": "/pelicula/modern-life-is-rubbish",
+                                "title": "Modern Life Is Rubbish (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/iyrfnxxynxyeaVrsdTvbX38fFaa.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ballerina",
+                                "title": "Ballerina (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oHqHeJRE7NSK7qHeV48phbuDTe6.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-miserables-2012",
+                                "title": "Los miserables (2012)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uhHLWMB5jRH8kC2tLQD4lu2kRfJ.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mi-cena-con-herve",
+                                "title": "Mi cena con Hervé (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wMF2EKeu0GCt3xW92ZQ8ld9MVzS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/holmes-watson",
+                                "title": "Holmes & Watson (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/61JOUNb35q6NRYoX4wgnrO3E3EH.jpg"
+                            },
                             {
                                 "url": "/pelicula/exhuma",
                                 "title": "Exhuma (2024)",
@@ -357,71 +483,6 @@
                                 "url": "/pelicula/sufre-mamon",
                                 "title": "¡Sufre, mamón! (1987)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/wxjMwT6SZffF6mxVjhQvhkYKixK.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-desafio-del-bufalo-blanco",
-                                "title": "El desafío del búfalo blanco (1977)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uP7UlkOkqlAwUplwJfdAehYDP1l.jpg"
-                            },
-                            {
-                                "url": "/pelicula/salo-o-los-120-dias-de-sodoma",
-                                "title": "Saló, o los 120 días de Sodoma (1976)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mmWkv7RQIBpCNlc6BFFbVvvFpiy.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-silencios",
-                                "title": "Los silencios (2019)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/4TP4XmM0w3lUnzn65lM4jkNS1li.jpg"
-                            },
-                            {
-                                "url": "/pelicula/shopkins-wild",
-                                "title": "Shopkins: Wild (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xBFONzKumCg2Iufoh2EhJXBFvAp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-reino",
-                                "title": "El reino (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hPYRQYycflQbUcb6H0XRGwZkGLz.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mas-alla-de-la-locura",
-                                "title": "Mas allá de la locura (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/m86hEuK7E9xtXdTI0mZtUofPXgg.jpg"
-                            },
-                            {
-                                "url": "/pelicula/malambo-el-hombre-bueno",
-                                "title": "Malambo, el hombre bueno (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/rzTJ7bJdulXtzpJ0RXC9Me5KDWX.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-habitante",
-                                "title": "El habitante (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-nacion-del-rey",
-                                "title": "La Nación Del Rey (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/Tgv0kLi8obD2bfiGyErp4BJMeH.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mas-veloz-que-la-muerte",
-                                "title": "Más veloz que la muerte (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/lzR2GneOf4FiIqhB74pmqMNfuMr.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-abuelo-y-kid",
-                                "title": "El abuelo y Kid (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/etE1CtyVneDf9kDTJvtWG0Iol90.jpg"
-                            },
-                            {
-                                "url": "/pelicula/batman-la-pelicula",
-                                "title": "Batman: La película (1966)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-ultimo-nino-de-la-tierra",
-                                "title": "El Último Niño de la Tierra (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kdk29Zi7FEGqbUqt0uyM2pMGGxS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -680,64 +741,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/exhuma",
-                    "title": "Exhuma (2024)",
-                    "description": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
-                    "genre": "Misterio, Terror, Suspense",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/exhuma",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04669/m2b557m5caw6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=GjBQwAuSPaSZ0DN2Ps78Uexcu4-tjiCX5hLa7mdhOyo&s=1723810157&e=129600&f=23347770&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
-                        "quality": "StreamWish:1020p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04669/m2b557m5caw6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=GjBQwAuSPaSZ0DN2Ps78Uexcu4-tjiCX5hLa7mdhOyo&s=1723810157&e=129600&f=23347770&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/m2b557m5caw6"
-                        }
-                    },
-                    {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04669/m2b557m5caw6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=GjBQwAuSPaSZ0DN2Ps78Uexcu4-tjiCX5hLa7mdhOyo&s=1723810157&e=129600&f=23347770&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04669/m2b557m5caw6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=GjBQwAuSPaSZ0DN2Ps78Uexcu4-tjiCX5hLa7mdhOyo&s=1723810157&e=129600&f=23347770&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/m2b557m5caw6"
-                        }
-                    },
-                    {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04669/m2b557m5caw6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=GjBQwAuSPaSZ0DN2Ps78Uexcu4-tjiCX5hLa7mdhOyo&s=1723810157&e=129600&f=23347770&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04669/m2b557m5caw6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=GjBQwAuSPaSZ0DN2Ps78Uexcu4-tjiCX5hLa7mdhOyo&s=1723810157&e=129600&f=23347770&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/m2b557m5caw6"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1040,9 +1053,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=79n0mG52Rw6hgFM52gH218MlE0YJVoAXMtODZcBx3-0&s=1723810161&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=ZO2pHuxWYM0F8WnsO5t266AroWJNvv0avubZJW4BPC0&s=1723831627&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "quality": "[CAST] StreamWish:1080p",
-                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=79n0mG52Rw6hgFM52gH218MlE0YJVoAXMtODZcBx3-0&s=1723810161&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=ZO2pHuxWYM0F8WnsO5t266AroWJNvv0avubZJW4BPC0&s=1723831627&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1051,9 +1064,9 @@
                         }
                     },
                     {
-                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=79n0mG52Rw6hgFM52gH218MlE0YJVoAXMtODZcBx3-0&s=1723810161&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=ZO2pHuxWYM0F8WnsO5t266AroWJNvv0avubZJW4BPC0&s=1723831627&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=79n0mG52Rw6hgFM52gH218MlE0YJVoAXMtODZcBx3-0&s=1723810161&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=ZO2pHuxWYM0F8WnsO5t266AroWJNvv0avubZJW4BPC0&s=1723831627&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1062,9 +1075,9 @@
                         }
                     },
                     {
-                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=79n0mG52Rw6hgFM52gH218MlE0YJVoAXMtODZcBx3-0&s=1723810161&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=ZO2pHuxWYM0F8WnsO5t266AroWJNvv0avubZJW4BPC0&s=1723831627&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=79n0mG52Rw6hgFM52gH218MlE0YJVoAXMtODZcBx3-0&s=1723810161&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04680/h813euomkwk3_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=ZO2pHuxWYM0F8WnsO5t266AroWJNvv0avubZJW4BPC0&s=1723831627&e=129600&f=23402118&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1073,9 +1086,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=1p2BzGVXv9Fb83&expires=1723880163&ip=F0qQKRWZD19XKxR&token=XVkTlEj2i6mG",
+                        "url": "https://streamtape.com/get_video?id=1p2BzGVXv9Fb83&expires=1723901629&ip=FROsD0cRKxSHDN&token=3n2gNuerAjHW",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1p2BzGVXv9Fb83&expires=1723880163&ip=F0qQKRWZD19XKxR&token=XVkTlEj2i6mG"
+                        "videoUrl": "https://streamtape.com/get_video?id=1p2BzGVXv9Fb83&expires=1723901629&ip=FROsD0cRKxSHDN&token=3n2gNuerAjHW"
                     }
                 ],
                 "passed": true

@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/grendizer-u-الحلقة-7/",
+                                "title": "Grendizer U",
+                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Grendizer-U-323x470.jpg"
+                            },
+                            {
+                                "url": "/episode/boku-no-hero-academia-7th-season-الحلقة-13/",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/04/Boku-no-Hero-Academia-7th-Season-323x470.jpg"
+                            },
+                            {
                                 "url": "/episode/dungeon-no-naka-no-hito-الحلقة-6/",
                                 "title": "Dungeon no Naka no Hito",
                                 "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Dungeon-no-Naka-no-Hito-323x470.jpg"
@@ -395,16 +405,6 @@
                                 "url": "/episode/tensei-shitara-slime-datta-ken-3rd-season-الحلقة-17-5/",
                                 "title": "Tensei shitara Slime Datta Ken 3rd Season",
                                 "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/03/Tensei-shitara-Slime-Datta-Ken-3rd-Season-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-الحلقة-6/",
-                                "title": "Ore wa Subete wo Parry suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
-                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/06/Ore-wa-Subete-wo-Parry-suru-Gyaku-Kanchigai-no-Sekai-Saikyou-wa-Boukensha-ni-Naritai-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/kono-sekai-wa-fukanzen-sugiru-الحلقة-6/",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Kono-Sekai-wa-Fukanzen-Sugiru-323x470.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -531,8 +531,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/digimon-adventure-الحلقة-67-والأخيرة/",
+                        "name": "الحلقة 67",
+                        "episode_number": 67.0
+                    },
+                    {
+                        "url": "/episode/digimon-adventure-الحلقة-66/",
+                        "name": "الحلقة 66",
+                        "episode_number": 66.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

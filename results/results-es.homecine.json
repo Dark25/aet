@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/alien-romulus/",
+                                "title": "Alien: Romulus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg"
+                            },
+                            {
                                 "url": "/jackpot/",
                                 "title": "Jackpot!",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6vVXMy9WqZQXYBHuNueAm4qc0jh.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/road-wars-max-fury/",
                                 "title": "Road Wars: Max Fury",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/5UfZeMmpw0SKAK13VPUpTtN7xRb.jpg"
-                            },
-                            {
-                                "url": "/un-lugar-tranquilo-dia-uno/",
-                                "title": "Un lugar tranquilo: Día uno",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jGOi939xU8BDRfAAhN6eiTSf3H8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,15 +424,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/jackpot/",
-                    "title": "Jackpot!",
-                    "artist": "Awkwafina",
-                    "author": "Paul Feig",
-                    "description": "Jackpot: Lotería Mortal En un futuro próximo, se ha creado el sorteo de la Gran Lotería. El truco es matar al ganador antes del anochecer y reclamar legalmente el bote multimillonario. Cuando Katie Kim se hace con el boleto ganador por error, se une a regañadientes al agente novato de protección de la lotería Noel Cassidy, que deberá mantenerla con vida a cambio de una parte del premio.",
-                    "genre": "Acción, Comedia",
+                    "url": "/alien-romulus/",
+                    "title": "Alien: Romulus",
+                    "artist": "Cailee Spaeny",
+                    "author": "Fede Alvarez",
+                    "description": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
+                    "genre": "Ciencia ficción, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6vVXMy9WqZQXYBHuNueAm4qc0jh.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -440,7 +440,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/jackpot/",
+                        "url": "/alien-romulus/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -450,9 +450,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/13/00068/b6a98i24j4wt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=dW9178KwJRZqJocixhIRPXThM0c5J8_t9_g_VBe6YCo&s=1723874757&e=43200&f=344910&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/13/00068/b6a98i24j4wt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=dW9178KwJRZqJocixhIRPXThM0c5J8_t9_g_VBe6YCo&s=1723874757&e=43200&f=344910&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -461,9 +461,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/13/00068/b6a98i24j4wt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dW9178KwJRZqJocixhIRPXThM0c5J8_t9_g_VBe6YCo&s=1723874757&e=43200&f=344910&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/13/00068/b6a98i24j4wt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dW9178KwJRZqJocixhIRPXThM0c5J8_t9_g_VBe6YCo&s=1723874757&e=43200&f=344910&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -472,64 +472,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/6wdevf5cnkvu_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=BnpH2jO5DPEVxThyZyX44hvsKOPMplth5JcduUILtBc&s=1723853699&e=43200&f=344841&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/8c4xbkh8x3aq_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=LDT83OxplPi9D_haeu8FoN8rBUoyjidvBXfgJlyzfig&s=1723853698&e=43200&f=344840&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/13/00068/b6a98i24j4wt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=dW9178KwJRZqJocixhIRPXThM0c5J8_t9_g_VBe6YCo&s=1723874757&e=43200&f=344910&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/13/00068/b6a98i24j4wt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=dW9178KwJRZqJocixhIRPXThM0c5J8_t9_g_VBe6YCo&s=1723874757&e=43200&f=344910&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

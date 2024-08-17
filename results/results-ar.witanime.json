@@ -531,19 +531,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/digimon-adventure-الحلقة-67-والأخيرة/",
-                        "name": "الحلقة 67",
-                        "episode_number": 67.0
-                    },
-                    {
-                        "url": "/episode/digimon-adventure-الحلقة-66/",
-                        "name": "الحلقة 66",
-                        "episode_number": 66.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

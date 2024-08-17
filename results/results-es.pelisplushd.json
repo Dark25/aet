@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/santiago-de-los-mares",
+                                "title": "Santiago de los mares (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tXXb3nSXSNGHb630KqtePZoswAT.jpg"
+                            },
+                            {
                                 "url": "/serie/rick-y-morty-el-anime",
                                 "title": "Rick y Morty: El anime (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/betty-la-fea-la-historia-continua",
                                 "title": "Betty la fea, la historia continúa (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg"
-                            },
-                            {
-                                "url": "/serie/gigolo-por-cuenta-propia",
-                                "title": "Gigoló por cuenta propia (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7Gp0x1Jbj1hAZQI90aflpdlJho7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/rick-y-morty-el-anime",
-                    "title": "Rick y Morty: El anime (2024)",
-                    "description": "La vida sigue para la familia Smith. Rick se relaja en un pseudomundo entre multiversos, Summer ayuda a Beth Espacial y Morty se enamora..",
-                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/santiago-de-los-mares",
+                    "title": "Santiago de los mares (2020)",
+                    "description": "Las aventuras de Santiago Montes, un espadachín pirata de 8 años valiente y generoso, en el maravilloso territorio del Caribe..",
+                    "genre": "Action & Adventure, Kids",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tXXb3nSXSNGHb630KqtePZoswAT.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/rick-y-morty-el-anime/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/santiago-de-los-mares/temporada/1/capitulo/20",
+                        "name": "T1 - E20: Episodio 20",
+                        "episode_number": 20.0
+                    },
+                    {
+                        "url": "/serie/santiago-de-los-mares/temporada/1/capitulo/19",
+                        "name": "T1 - E19: Episodio 19",
+                        "episode_number": 19.0
                     }
                 ],
                 "passed": true
@@ -288,68 +293,68 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-unvmoyay2i0b8cnh.voe-network.net/engine/hls2/01/12011/xvtxfxiojadg_,n,.urlset/index-v1-a1.m3u8?t=MuWHqSc6b7Gs7VKN3maa2GXhJhtYcOdsVYRyyTBJ9bQ&s=1723896424&e=14400&f=60058899&node=delivery-node-unvmoyay2i0b8cnh.voe-network.net&i=172.176&sp=2500&asn=8075",
+                        "url": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/12012/csf29ckjpdji_,n,.urlset/index-v1-a1.m3u8?t=tVbQeNy9F_Lz10jnBn8qjkEn_aCHAQ_BRpw4q_1wwlY&s=1723918004&e=14400&f=60060239&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-unvmoyay2i0b8cnh.voe-network.net/engine/hls2/01/12011/xvtxfxiojadg_,n,.urlset/index-v1-a1.m3u8?t=MuWHqSc6b7Gs7VKN3maa2GXhJhtYcOdsVYRyyTBJ9bQ&s=1723896424&e=14400&f=60058899&node=delivery-node-unvmoyay2i0b8cnh.voe-network.net&i=172.176&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/12012/csf29ckjpdji_,n,.urlset/index-v1-a1.m3u8?t=tVbQeNy9F_Lz10jnBn8qjkEn_aCHAQ_BRpw4q_1wwlY&s=1723918004&e=14400&f=60060239&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02175/j982ucz8eznd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=cmSP9v-oDt5a68JxIm69AZlr2Fq7hV5a28YFtuW9zLE&s=1723896415&e=129600&f=10877543&srv=YY5v8ds225sFI&i=0.4&sp=500&p1=YY5v8ds225sFI&p2=YY5v8ds225sFI&asn=8075",
+                        "url": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02175/on11ty1y4h42_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=qYhB2fsfl8YgAryWC8l43BgzOjGUy_Apf8Go4HTJSe0&s=1723917995&e=129600&f=10879042&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
                         "quality": "StreamHideVid - 1080p",
-                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02175/j982ucz8eznd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=cmSP9v-oDt5a68JxIm69AZlr2Fq7hV5a28YFtuW9zLE&s=1723896415&e=129600&f=10877543&srv=YY5v8ds225sFI&i=0.4&sp=500&p1=YY5v8ds225sFI&p2=YY5v8ds225sFI&asn=8075",
+                        "videoUrl": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02175/on11ty1y4h42_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=qYhB2fsfl8YgAryWC8l43BgzOjGUy_Apf8Go4HTJSe0&s=1723917995&e=129600&f=10879042&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04692/548e2f5ld9y0_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Rf4AXGU6NGyUD7Ya1uGUhsFgFApI3BgG3y89FK1KOG8&s=1723896413&e=129600&f=23462896&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "url": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04693/4uhmwg25t4j2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=xYVuxZf9KY1hb5ZHQld7ockVeZBe7SpUsXcyNsoZrEY&s=1723917988&e=129600&f=23465560&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04692/548e2f5ld9y0_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Rf4AXGU6NGyUD7Ya1uGUhsFgFApI3BgG3y89FK1KOG8&s=1723896413&e=129600&f=23462896&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "videoUrl": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04693/4uhmwg25t4j2_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=xYVuxZf9KY1hb5ZHQld7ockVeZBe7SpUsXcyNsoZrEY&s=1723917988&e=129600&f=23465560&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/548e2f5ld9y0"
+                            "Referer": "https://streamwish.to/e/4uhmwg25t4j2"
                         }
                     },
                     {
-                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02175/j982ucz8eznd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=cmSP9v-oDt5a68JxIm69AZlr2Fq7hV5a28YFtuW9zLE&s=1723896415&e=129600&f=10877543&srv=YY5v8ds225sFI&i=0.4&sp=500&p1=YY5v8ds225sFI&p2=YY5v8ds225sFI&asn=8075",
+                        "url": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02175/on11ty1y4h42_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=qYhB2fsfl8YgAryWC8l43BgzOjGUy_Apf8Go4HTJSe0&s=1723917995&e=129600&f=10879042&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
                         "quality": "StreamHideVid - 720p",
-                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02175/j982ucz8eznd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=cmSP9v-oDt5a68JxIm69AZlr2Fq7hV5a28YFtuW9zLE&s=1723896415&e=129600&f=10877543&srv=YY5v8ds225sFI&i=0.4&sp=500&p1=YY5v8ds225sFI&p2=YY5v8ds225sFI&asn=8075",
+                        "videoUrl": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02175/on11ty1y4h42_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=qYhB2fsfl8YgAryWC8l43BgzOjGUy_Apf8Go4HTJSe0&s=1723917995&e=129600&f=10879042&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04692/548e2f5ld9y0_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Rf4AXGU6NGyUD7Ya1uGUhsFgFApI3BgG3y89FK1KOG8&s=1723896413&e=129600&f=23462896&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "url": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04693/4uhmwg25t4j2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=xYVuxZf9KY1hb5ZHQld7ockVeZBe7SpUsXcyNsoZrEY&s=1723917988&e=129600&f=23465560&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04692/548e2f5ld9y0_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Rf4AXGU6NGyUD7Ya1uGUhsFgFApI3BgG3y89FK1KOG8&s=1723896413&e=129600&f=23462896&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "videoUrl": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04693/4uhmwg25t4j2_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=xYVuxZf9KY1hb5ZHQld7ockVeZBe7SpUsXcyNsoZrEY&s=1723917988&e=129600&f=23465560&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/548e2f5ld9y0"
+                            "Referer": "https://streamwish.to/e/4uhmwg25t4j2"
                         }
                     },
                     {
-                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02175/j982ucz8eznd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=cmSP9v-oDt5a68JxIm69AZlr2Fq7hV5a28YFtuW9zLE&s=1723896415&e=129600&f=10877543&srv=YY5v8ds225sFI&i=0.4&sp=500&p1=YY5v8ds225sFI&p2=YY5v8ds225sFI&asn=8075",
+                        "url": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02175/on11ty1y4h42_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=qYhB2fsfl8YgAryWC8l43BgzOjGUy_Apf8Go4HTJSe0&s=1723917995&e=129600&f=10879042&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
                         "quality": "StreamHideVid - 480p",
-                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02175/j982ucz8eznd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=cmSP9v-oDt5a68JxIm69AZlr2Fq7hV5a28YFtuW9zLE&s=1723896415&e=129600&f=10877543&srv=YY5v8ds225sFI&i=0.4&sp=500&p1=YY5v8ds225sFI&p2=YY5v8ds225sFI&asn=8075",
+                        "videoUrl": "https://dd2stliwt0bc.aghe-cdn.com/hls2/01/02175/on11ty1y4h42_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=qYhB2fsfl8YgAryWC8l43BgzOjGUy_Apf8Go4HTJSe0&s=1723917995&e=129600&f=10879042&srv=suolYbl4ngPYv&i=0.4&sp=500&p1=suolYbl4ngPYv&p2=suolYbl4ngPYv&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04692/548e2f5ld9y0_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Rf4AXGU6NGyUD7Ya1uGUhsFgFApI3BgG3y89FK1KOG8&s=1723896413&e=129600&f=23462896&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "url": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04693/4uhmwg25t4j2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=xYVuxZf9KY1hb5ZHQld7ockVeZBe7SpUsXcyNsoZrEY&s=1723917988&e=129600&f=23465560&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04692/548e2f5ld9y0_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Rf4AXGU6NGyUD7Ya1uGUhsFgFApI3BgG3y89FK1KOG8&s=1723896413&e=129600&f=23462896&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
+                        "videoUrl": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04693/4uhmwg25t4j2_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=xYVuxZf9KY1hb5ZHQld7ockVeZBe7SpUsXcyNsoZrEY&s=1723917988&e=129600&f=23465560&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/548e2f5ld9y0"
+                            "Referer": "https://streamwish.to/e/4uhmwg25t4j2"
                         }
                     }
                 ],
@@ -1067,9 +1072,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://6i0f2riqeyuq4.cdn-jupiter.com/hls2/01/04688/8poacamckwcx_h/index-v1-a1.m3u8?t=ZIn7K709xaqK9kZiO1cws0i7z3J60ywPsWKC4K_YXZY&s=1723896427&e=129600&f=23441817&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
+                        "url": "https://plzxvt62.cdn-jupiter.com/hls2/01/04688/8poacamckwcx_h/index-v1-a1.m3u8?t=N6yCFIY97fEXS4AxCv4DI08ofqYCOiLj0KG9wTYVZkg&s=1723918010&e=129600&f=23441817&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://6i0f2riqeyuq4.cdn-jupiter.com/hls2/01/04688/8poacamckwcx_h/index-v1-a1.m3u8?t=ZIn7K709xaqK9kZiO1cws0i7z3J60ywPsWKC4K_YXZY&s=1723896427&e=129600&f=23441817&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
+                        "videoUrl": "https://plzxvt62.cdn-jupiter.com/hls2/01/04688/8poacamckwcx_h/index-v1-a1.m3u8?t=N6yCFIY97fEXS4AxCv4DI08ofqYCOiLj0KG9wTYVZkg&s=1723918010&e=129600&f=23441817&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

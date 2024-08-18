@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/요자쿠라 일가의 대작전",
+                                "title": "요자쿠라 일가의 대작전",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2404/10f238fc0ac3934f5cd2c41029fad8a4_1712492291_6547.jpg"
+                            },
+                            {
+                                "url": "/c/천수의 사쿠나히메",
+                                "title": "천수의 사쿠나히메",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2407/2e2db0c5c9ca924c51b56dca381354aa_1720129457_1717.jpg"
+                            },
+                            {
                                 "url": "/c/원더풀 프리큐어!",
                                 "title": "원더풀 프리큐어!",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2402/dc320190a488c927b4ab05446981033e_1707019760_931.jpg"
@@ -252,16 +262,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg"
                             },
                             {
-                                "url": "/c/천수의 사쿠나히메",
-                                "title": "천수의 사쿠나히메",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2407/2e2db0c5c9ca924c51b56dca381354aa_1720129457_1717.jpg"
-                            },
-                            {
-                                "url": "/c/요자쿠라 일가의 대작전",
-                                "title": "요자쿠라 일가의 대작전",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2404/10f238fc0ac3934f5cd2c41029fad8a4_1712492291_6547.jpg"
-                            },
-                            {
                                 "url": "/c/내 아내는 감정이 없다",
                                 "title": "내 아내는 감정이 없다",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/thumb-b85877055a7e4f99181c03d95bf3b247_1719825446_3452_165x220.jpg"
@@ -413,47 +413,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/c/원더풀 프리큐어!",
-                    "title": "원더풀 프리큐어!",
-                    "description": "원제: わんだふるぷりきゅあ!\n원작: 토도 이즈미\n감독: 사토 마사노리\n각본: 나리타 요시미\n캐릭터 디자인: 우치다 요코\n음악: 후카자와 에리카\n장르: 동물, 마법소녀, 변신\n방영일: 2024.02.04 08:30 (일)\n등급: 전체\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2402/dc320190a488c927b4ab05446981033e_1707019760_931.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/e/원더풀 프리큐어! 29화",
-                        "name": "원더풀 프리큐어! 29화",
-                        "date_upload": 1723939200000,
-                        "episode_number": 29.0
-                    },
-                    {
-                        "url": "/e/원더풀 프리큐어! 28화",
-                        "name": "원더풀 프리큐어! 28화",
-                        "date_upload": 1723334400000,
-                        "episode_number": 28.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdndania.com/m3/YjhRR0pLTzZrVkFGSC9YSXcwaTlMeHJvTTNyL0tDTFdnSTRBOWZWVDJLUVE4VXdVNkRTMWl0azdXZ2VIbFVEeFpMdE1kVGNrTW9HVnZ4UnRmbkRmaGw0dGgzSHczUXp2ZXFRcG9NNXdmRjRHd0ZKeTF3MVVyMVRIZEdKMlpQdTc4MTB3VWJ6UXNpU1J6RjhHcHlxUlhBSmRCS2x6NThqUjl6cWRUTjBoUkZ6Z2Z3L1crVWFFL0hrbTJNcTZyYnVHSUVBWnVUd0hBbDN4ekV6NktycGVVdUxkZTBsdnowNXdyR2FuMHNXT0tKVTNBLzBDajRkVjM2VHVwTFlUQmxwOTFaRGExN2pNOGVvRUVGaFJ3N0VEd0tWQklrbE9kQ1BkUFVJRG9tWm9lZzF6bUlpU2xUTzFRQzVkT3VSdnk3dmU%3D",
-                        "quality": "1080p",
-                        "videoUrl": "https://cdndania.com/m3/YjhRR0pLTzZrVkFGSC9YSXcwaTlMeHJvTTNyL0tDTFdnSTRBOWZWVDJLUVE4VXdVNkRTMWl0azdXZ2VIbFVEeFpMdE1kVGNrTW9HVnZ4UnRmbkRmaGw0dGgzSHczUXp2ZXFRcG9NNXdmRjRHd0ZKeTF3MVVyMVRIZEdKMlpQdTc4MTB3VWJ6UXNpU1J6RjhHcHlxUlhBSmRCS2x6NThqUjl6cWRUTjBoUkZ6Z2Z3L1crVWFFL0hrbTJNcTZyYnVHSUVBWnVUd0hBbDN4ekV6NktycGVVdUxkZTBsdnowNXdyR2FuMHNXT0tKVTNBLzBDajRkVjM2VHVwTFlUQmxwOTFaRGExN2pNOGVvRUVGaFJ3N0VEd0tWQklrbE9kQ1BkUFVJRG9tWm9lZzF6bUlpU2xUTzFRQzVkT3VSdnk3dmU%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://cdndania.com",
-                            "Referer": "https://cdndania.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalStateException: Failed to generate form",
+                "passed": false
             }
         }
     }

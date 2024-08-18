@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "9437-alien-romulus",
-                                "title": "Alien: Romulus",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cfcfc6bb-170d-4279-bf70-6318665e9ba9.webp"
-                            },
-                            {
                                 "url": "9598-love-next-door",
                                 "title": "Love Next Door",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0bd25b31-c3ac-49c6-b297-711c5fa38c03.webp"
@@ -305,6 +300,11 @@
                                 "url": "9053-exploding-kittens",
                                 "title": "Exploding Kittens",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6e1f0509-d89f-41b0-95b5-f4077b88803f.webp"
+                            },
+                            {
+                                "url": "9115-divorzio-in-nero-di-tyler-perry",
+                                "title": "Divorzio in nero di Tyler Perry",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/121c578a-ec8d-4d89-a555-ba3d0774b5bb.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9608-torchwood",
+                                "title": "Torchwood",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d96651ef-4f99-4a54-b0b3-d1e45ee618d8.webp"
+                            },
                             {
                                 "url": "9607-farang",
                                 "title": "Farang",
@@ -610,11 +615,6 @@
                                 "url": "9541-il-destino-delle-tartarughe-ninja",
                                 "title": "Il destino delle Tartarughe Ninja",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3742fd93-b8e3-427b-8b63-053e33674e26.webp"
-                            },
-                            {
-                                "url": "9540-hot-wheels-a-tutto-gas",
-                                "title": "Hot Wheels, a tutto gas!",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/feb19993-819e-4f57-83c2-d201db1247df.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9437-alien-romulus",
-                    "description": "Un gruppo di giovani in un mondo lontano si trova a confrontarsi con la forma di vita più terrificante dell'universo.",
-                    "genre": "Thriller, Horror, Fantascienza",
+                    "url": "9598-love-next-door",
+                    "description": "Nel tentativo di voltare pagina una donna fa ritorno in Corea, dove ritrova un amico d'infanzia con cui condivide un passato complicato.",
+                    "genre": "Dramma, Commedia, Korean drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -944,16 +946,87 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9437",
-                        "name": "Film",
+                        "url": "9598?episode_id=75075&next_episode=1",
+                        "name": "Stagione 1 episodio 1 - Il ritorno",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/256201?type=video&rendition=480p&token=MN-lmENm5RCOs7sXIysgeg&edge=sc-u4-01",
+                        "quality": "480,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/256201?type=video&rendition=480p&token=MN-lmENm5RCOs7sXIysgeg&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=2-kor&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "Korean [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=3-ger&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=4-eng&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=5-eng&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=6-fre&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=7-ita&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=8-ukr&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/256201?type=video&rendition=720p&token=Xw1KwvOxo8Et0AuZ7f23Ng&edge=sc-u4-01",
+                        "quality": "720,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/256201?type=video&rendition=720p&token=Xw1KwvOxo8Et0AuZ7f23Ng&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=2-kor&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "Korean [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=3-ger&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=4-eng&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=5-eng&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=6-fre&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=7-ita&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/256201?type=subtitle&rendition=8-ukr&token=F_ym42BIn2-vyHXIUivvXQ&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/super-escuela-de-heroes/",
+                                "title": "Súper Escuela de Héroes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dXtT1o8bLUflTSh1e0XvDSzCFs4.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/liga-de-la-justicia-crisis-en-tierras-infinitas-parte-3/",
                                 "title": "Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//jXeeV5YrACBgc9CGvggdsA6PEmd.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/juicio-al-diablo/",
                                 "title": "Juicio al diablo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//yQvDNNzv7AIl4ZgnT8h53uMms76.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-asesino-del-nudo/",
-                                "title": "El Asesino del Nudo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//kF5V79FIdiQsiG8rUGemblQ4AnN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/liga-de-la-justicia-crisis-en-tierras-infinitas-parte-3/",
-                    "artist": "Aldis Hodge",
-                    "description": "Universos paralelos se desmoronan cuando el Antimonitor ataca. La Liga de la Justicia y héroes de otras épocas unen fuerzas para detener la destrucción inminente, dispuestos a sacrificarse por el triunfo.   ",
-                    "genre": "Acción, Animación, Ciencia ficción",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//jXeeV5YrACBgc9CGvggdsA6PEmd.jpg",
+                    "url": "/ver-pelicula/super-escuela-de-heroes/",
+                    "artist": "Amy Brown",
+                    "description": "En un mundo donde los superhéroes son comúnmente aceptados, los hijos de éstos se educan en Sky High, una prestigiosa Escuela que desafía las leyes de gravedad. El joven Will, hijo del famoso Comandante Stronghold y la veloz Josie Jetstream, acaba de iniciar las clases y se encuentra con un terrible problema: no tiene superpoderes.   ",
+                    "genre": "Aventura, Comedia, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//dXtT1o8bLUflTSh1e0XvDSzCFs4.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,7 +211,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/liga-de-la-justicia-crisis-en-tierras-infinitas-parte-3/",
+                        "url": "/ver-pelicula/super-escuela-de-heroes/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -221,17 +221,22 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-heprrbs8crmxxbmy.voe-network.net/engine/hls2-c/01/11760/wkiqwehiul0v_,n,.urlset/index-v1-a1.m3u8?t=Ie9G_dgj99VT9NmKxLOFGeaf92WBT1cM0GM5Q_CS_tQ&s=1723940173&e=14400&f=58804037&node=delivery-node-f08jtimzq9nooa01.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "url": "https://delivery-node-hed8bmrmydbllaqt.voe-network.net/engine/hls2-c/01/11766/zilgwebrshxi_,n,.urlset/index-v1-a1.m3u8?t=N140ud_GV-QC5X2Y6Q_AnL1VZh5aGT7kLSqx7sWNWno&s=1723961162&e=14400&f=58833740&node=delivery-node-tw6ml5qidnnni2ll.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-heprrbs8crmxxbmy.voe-network.net/engine/hls2-c/01/11760/wkiqwehiul0v_,n,.urlset/index-v1-a1.m3u8?t=Ie9G_dgj99VT9NmKxLOFGeaf92WBT1cM0GM5Q_CS_tQ&s=1723940173&e=14400&f=58804037&node=delivery-node-f08jtimzq9nooa01.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-hed8bmrmydbllaqt.voe-network.net/engine/hls2-c/01/11766/zilgwebrshxi_,n,.urlset/index-v1-a1.m3u8?t=N140ud_GV-QC5X2Y6Q_AnL1VZh5aGT7kLSqx7sWNWno&s=1723961162&e=14400&f=58833740&node=delivery-node-tw6ml5qidnnni2ll.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06517/71p3frro7z5p_h/index-v1-a1.m3u8?t=8gNXY8dEOuuf1NzAiNpeuWTzuq3Ks87MRJIN1r5urpo&s=1723940170&e=10800&f=32585779&srv=23&asn=8075&sp=4000",
-                        "quality": "Filemoon:1080p",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06517/71p3frro7z5p_h/index-v1-a1.m3u8?t=8gNXY8dEOuuf1NzAiNpeuWTzuq3Ks87MRJIN1r5urpo&s=1723940170&e=10800&f=32585779&srv=23&asn=8075&sp=4000",
+                        "url": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=5&sig=kTOyAIQL8ZY&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=5&sig=kTOyAIQL8ZY&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552"
+                    },
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06521/d6cdiiihbcdk_h/index-v1-a1.m3u8?t=0JKBoO93jhTWmvWCN78Mh0F-uaZnc8BvWJULjUuLFoM&s=1723961159&e=10800&f=32607692&srv=53&asn=8075&sp=4000",
+                        "quality": "Filemoon:800p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06521/d6cdiiihbcdk_h/index-v1-a1.m3u8?t=0JKBoO93jhTWmvWCN78Mh0F-uaZnc8BvWJULjUuLFoM&s=1723961159&e=10800&f=32607692&srv=53&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -239,15 +244,40 @@
                         }
                     },
                     {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04393/4caysye5uatu_n/index-v1-a1.m3u8?t=zosot2OQe8SODzED7ZhPi0hASWXa1Gzc4fxYEqMj0RQ&s=1723940172&e=129600&f=21969905&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=8075",
+                        "url": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=3&sig=FwIUx-haBnQ&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=3&sig=FwIUx-haBnQ&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552"
+                    },
+                    {
+                        "url": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04399/jjharnly57nx_n/index-v1-a1.m3u8?t=MC1hs-G3Nf_QOVnhKDKmTfEuXAnryqOYRDUJFaStE-0&s=1723961160&e=129600&f=21997864&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04393/4caysye5uatu_n/index-v1-a1.m3u8?t=zosot2OQe8SODzED7ZhPi0hASWXa1Gzc4fxYEqMj0RQ&s=1723940172&e=129600&f=21969905&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=8075",
+                        "videoUrl": "https://fe7ure9wtvrz6.pradoi.com/hls2/01/04399/jjharnly57nx_n/index-v1-a1.m3u8?t=MC1hs-G3Nf_QOVnhKDKmTfEuXAnryqOYRDUJFaStE-0&s=1723961160&e=129600&f=21997864&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://strwish.com",
-                            "Referer": "https://strwish.com/e/4caysye5uatu"
+                            "Referer": "https://strwish.com/e/jjharnly57nx"
                         }
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=2&sig=P_hspy58ZE4&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=2&sig=P_hspy58ZE4&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=1&sig=aAAegoQMkUQ&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=1&sig=aAAegoQMkUQ&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=0&sig=vCJCEJlZw-8&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=0&sig=vCJCEJlZw-8&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552"
+                    },
+                    {
+                        "url": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=4&sig=MSW8bVmjb_o&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1724047558498&srcIp=172.183.58.170&pr=10&srcAg=GECKO&ms=95.142.206.137&type=4&sig=MSW8bVmjb_o&ct=0&urls=45.136.21.13%3B45.136.22.43&clientType=0&zs=43&id=7006534437552"
                     }
                 ],
                 "passed": true

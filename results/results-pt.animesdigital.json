@@ -233,12 +233,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/a/122393/",
+                        "url": "/?p=122393",
                         "name": "Episódio 07",
                         "episode_number": 7.0
                     },
                     {
-                        "url": "/video/a/121948/",
+                        "url": "/?p=121948",
                         "name": "Episódio 06",
                         "episode_number": 6.0
                     }
@@ -246,26 +246,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8wNy90c3VlLXRvLXQtbm8tdy5odG1s/6/bg.mp4",
-                        "quality": "Animes Digital",
-                        "videoUrl": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8wNy90c3VlLXRvLXQtbm8tdy5odG1s/6/bg.mp4",
-                        "headers": {
-                            "referer": "https://sabornutritivo.com/salada-de-repolho-assado/"
-                        }
-                    },
-                    {
-                        "url": "https://api.anivideo.fun/videohls.php?d=https://cdn-01.cdn-will-wallpaper-4k.online/stream/t/tsue-to-tsurugi-no-wistoria/07.mp4/index.m3u8",
-                        "quality": "480p",
-                        "videoUrl": "https://api.anivideo.fun/videohls.php?d=https://cdn-01.cdn-will-wallpaper-4k.online/stream/t/tsue-to-tsurugi-no-wistoria/07.mp4/index.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

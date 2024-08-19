@@ -343,19 +343,35 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Request timed out after 30000ms\n  name='Error\n  stack='Error: Request timed out after 30000ms\n    at ClientRequest.rejectOnTimeout (/tmp/playwright-java-12510595040005545928/package/lib/server/fetch.js:344:18)\n    at Object.onceWrapper (node:events:631:28)\n    at ClientRequest.emit (node:events:517:28)\n    at TLSSocket.emitRequestTimeout (node:_http_client:847:9)\n    at Object.onceWrapper (node:events:631:28)\n    at TLSSocket.emit (node:events:529:35)\n    at Socket._onTimeout (node:net:598:8)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)\n}\nCall log:\n- → GET https://filmpalast.to/search/title/world/1\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8\n-   accept-encoding: gzip, deflate, br\n-   host: filmpalast.to\n-   accept-language: en-US,en;q=0.5\n-   upgrade-insecure-requests: 1\n-   sec-fetch-dest: document\n-   sec-fetch-mode: navigate\n-   sec-fetch-site: none\n-   sec-fetch-user: ?1\n-   connection: keep-alive\n",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/stream/john-wick",
+                    "title": "John Wick",
+                    "author": "Chad Stahelski David Leitch",
+                    "description": "John Wick (Keanu Reeves) genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau (Bridget Moynahan) einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov (Alfie Allen), der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov (Michael Nyqvist), für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus (Willem Dafoe) an seinen Fersen hängen...",
+                    "genre": "Thriller Action",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://filmpalast.to/files/movies/450/john-wick.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/stream/john-wick",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

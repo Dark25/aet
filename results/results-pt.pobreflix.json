@@ -3,27 +3,478 @@
         "name": "Pobreflix (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filmes/a-liga/",
+                                "title": "A Liga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg"
+                            },
+                            {
+                                "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
+                                "title": "Borderlands: O Destino do Universo Está em Jogo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg"
+                            },
+                            {
+                                "url": "/filmes/os-provocadores/",
+                                "title": "Os Provocadores",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg"
+                            },
+                            {
+                                "url": "/filmes/eu-vi-o-brilho-da-tv/",
+                                "title": "Eu Vi o Brilho da TV",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg"
+                            },
+                            {
+                                "url": "/filmes/deadpool-wolverine/",
+                                "title": "Deadpool & Wolverine",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
+                            },
+                            {
+                                "url": "/filmes/planeta-dos-macacos-o-reinado/",
+                                "title": "Planeta dos Macacos: O Reinado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
+                            },
+                            {
+                                "url": "/filmes/assassino-por-acaso/",
+                                "title": "Assassino por Acaso",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3aYbKPczQrae0N142XHYXbWbT5.jpg"
+                            },
+                            {
+                                "url": "/filmes/clube-dos-vandalos/",
+                                "title": "Clube dos Vândalos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg"
+                            },
+                            {
+                                "url": "/series/a-casa-do-dragao/",
+                                "title": "A Casa do Dragão",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
+                            },
+                            {
+                                "url": "/series/cobra-kai/",
+                                "title": "Cobra Kai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            },
+                            {
+                                "url": "/filmes/twisters/",
+                                "title": "Twisters",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg"
+                            },
+                            {
+                                "url": "/filmes/to-de-graca-o-filme/",
+                                "title": "Tô de Graça: O Filme",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tDeYq4V4T7WQ1YFU6KuLGxO0iDh.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/a-casa-do-dragao/",
+                                "title": "A Casa do Dragão",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
+                            },
+                            {
+                                "url": "/series/cobra-kai/",
+                                "title": "Cobra Kai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            },
+                            {
+                                "url": "/series/la-brea/",
+                                "title": "La Brea",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg"
+                            },
+                            {
+                                "url": "/series/the-boys/",
+                                "title": "The Boys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+                            },
+                            {
+                                "url": "/series/bridgerton/",
+                                "title": "Bridgerton",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bP1LSYUxYTjtDHMV9cC20ighQfN.jpg"
+                            },
+                            {
+                                "url": "/series/knuckles/",
+                                "title": "Knuckles",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fZJSBHJKNR7Xz3CiEsAawd7bbDh.jpg"
+                            },
+                            {
+                                "url": "/series/x-men-97/",
+                                "title": "X-Men ’97",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg"
+                            },
+                            {
+                                "url": "/series/fallout/",
+                                "title": "Fallout",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg"
+                            },
+                            {
+                                "url": "/series/xogum-a-gloriosa-saga-do-japao/",
+                                "title": "Xógum: A Gloriosa Saga do Japão",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gaOb9hyCDUcbZiTYcHy7mIFmNo.jpg"
+                            },
+                            {
+                                "url": "/series/ninja-kamui/",
+                                "title": "Ninja Kamui",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3dl7QFrpvtu9My4L6K7KtUMP8p1.jpg"
+                            },
+                            {
+                                "url": "/series/halo/",
+                                "title": "Halo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
+                            },
+                            {
+                                "url": "/series/the-walking-dead-the-ones-who-live/",
+                                "title": "The Walking Dead: The Ones Who Live",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/star-wars-aventuras-dos-jovens-jedi/",
+                                "title": "Star Wars: Aventuras dos Jovens Jedi",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nNTvClgnd3FfQ45IVQkk4HLHuBN.jpg"
+                            },
+                            {
+                                "url": "/series/rick-and-morty-the-anime/",
+                                "title": "Rick and Morty: The Anime",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7D8imzmWsua7Plk5TRDX6q8M97u.jpg"
+                            },
+                            {
+                                "url": "/series/esquadrao-suicida-isekai/",
+                                "title": "Esquadrão Suicida: Isekai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg"
+                            },
+                            {
+                                "url": "/series/o-dia-do-sequestro/",
+                                "title": "O Dia do Sequestro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/giEShy1A3ZUN5LqkRSVd9otHHuH.jpg"
+                            },
+                            {
+                                "url": "/series/a-noite-chegou/",
+                                "title": "A Noite Chegou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j9w6P6G7pgPjARnVJNbUjTC5NSQ.jpg"
+                            },
+                            {
+                                "url": "/series/the-jetty/",
+                                "title": "The Jetty",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg"
+                            },
+                            {
+                                "url": "/series/os-golpistas-de-toquio/",
+                                "title": "Os Golpistas de Tóquio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wjHt1RVKEMnvMPTvSFcD8IIcsYL.jpg"
+                            },
+                            {
+                                "url": "/series/bail-jumpers/",
+                                "title": "Bail Jumpers",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tzHJQgyxuJqvrZw5dhNm1nhcTk0.jpg"
+                            },
+                            {
+                                "url": "/series/24-em-24-o-ultimo-chef-de-pe/",
+                                "title": "24 em 24: O Último Chef de Pé",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fDzXYck2NmFFnV9TpRrMfCbt6KL.jpg"
+                            },
+                            {
+                                "url": "/series/hora-da-justica/",
+                                "title": "Hora da Justiça",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lpgDxU6uJkkwTkV1aTaG8QDGmgP.jpg"
+                            },
+                            {
+                                "url": "/series/expedition-from-hell-the-lost-tapes/",
+                                "title": "Expedition from Hell: The Lost Tapes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6evmqI2Zphsgvkq3KHCuXrfN3Jn.jpg"
+                            },
+                            {
+                                "url": "/series/take-my-tumor/",
+                                "title": "Take My Tumor",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ohiqb1xEbbE7On7l9iJfASyiD8V.jpg"
+                            },
+                            {
+                                "url": "/series/muquiranas-brasil/",
+                                "title": "Muquiranas Brasil",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8PbzR9zZLFxSMm9V9Dc8Y6PLSnZ.jpg"
+                            },
+                            {
+                                "url": "/series/o-ultimo-dia/",
+                                "title": "O Ultimo Dia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/i7oja1aZdQvqUd5yEE2Lj51pMnl.jpg"
+                            },
+                            {
+                                "url": "/series/o-amor-volta-para-casa/",
+                                "title": "O Amor Volta para Casa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4p2MVh0bSaweWwaBV9aFG4t7hww.jpg"
+                            },
+                            {
+                                "url": "/series/bahar/",
+                                "title": "Bahar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/u28XMjRU7i0xdqlplNE080uD4Gj.jpg"
+                            },
+                            {
+                                "url": "/series/o-pais-de-tanabata/",
+                                "title": "O País de Tanabata",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kHU9S4Bx77w02H2jjrma9YVqo5b.jpg"
+                            },
+                            {
+                                "url": "/series/no-olho-da-tempestade/",
+                                "title": "No Olho da Tempestade",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ivmNixhlBKXG8BukpVIMkhjAgbo.jpg"
+                            },
+                            {
+                                "url": "/series/a-batalha-dos-chefs-raiz/",
+                                "title": "A Batalha dos Chefs Raiz",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xzSLJB0FWBKevAr7UtO4Fw2KVoE.jpg"
+                            },
+                            {
+                                "url": "/series/ted-a-serie/",
+                                "title": "Ted – A Série",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg"
+                            },
+                            {
+                                "url": "/series/funk-doc-popular-proibido/",
+                                "title": "Funk.Doc: Popular & Proibido",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/a1XizO958bYhDeLX9N5xcqxXeNN.jpg"
+                            },
+                            {
+                                "url": "/series/manual-de-assassinato-para-boas-garotas/",
+                                "title": "Manual de Assassinato para Boas Garotas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vVngL07lpZOqcA6k5RjQON2j8L2.jpg"
+                            },
+                            {
+                                "url": "/series/those-about-to-die/",
+                                "title": "Those About to Die",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+                            },
+                            {
+                                "url": "/series/batman-cruzado-encapuzado/",
+                                "title": "Batman: Cruzado Encapuzado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vyB0p30uzaYDpCrpoMUAApxdiow.jpg"
+                            },
+                            {
+                                "url": "/series/parasyte-the-maxim/",
+                                "title": "Parasyte -the maxim-",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg"
+                            },
+                            {
+                                "url": "/series/mulheres-de-azul/",
+                                "title": "Mulheres de Azul",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5toyrCYJK6TzGGcRe9AuJ9lOrJD.jpg"
+                            },
+                            {
+                                "url": "/series/brincando-com-fogo/",
+                                "title": "Brincando com Fogo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gC6SA2KMP9FPSqZGYMqlW1775wO.jpg"
+                            },
+                            {
+                                "url": "/series/do-dia-para-a-noite/",
+                                "title": "Do Dia Para a Noite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tJ1LrNsP0krcV94RPQ2LUXStgl1.jpg"
+                            },
+                            {
+                                "url": "/series/mudando-de-campo/",
+                                "title": "Mudando de Campo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/x2evAcdEMGgscGGQtRI32RKpc1A.jpg"
+                            },
+                            {
+                                "url": "/series/chefe-da-casa/",
+                                "title": "Chefe da Casa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dgKQUPdhoEDusLLq1nZmK74xLrV.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/jurassic-world-teoria-do-caos/",
+                                "title": "Jurassic World: Teoria do Caos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
+                            },
+                            {
+                                "url": "/series/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world/",
+                                "title": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pMLitK7uCKoF25dNn5Xai0RuFra.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KONOSUBA -God’s blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/series/train-to-the-end-of-the-world/",
+                                "title": "Train to the End of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/jS0XEpSCBgWWpiiX6LjmrNt805K.jpg"
+                            },
+                            {
+                                "url": "/series/chillin-in-another-world-with-level-2-super-cheat-powers/",
+                                "title": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
+                            },
+                            {
+                                "url": "/series/a-world-of-calm/",
+                                "title": "A World of Calm",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mAHwKoRDxL0ZeNdTIBBrzbVYcaA.jpg"
+                            },
+                            {
+                                "url": "/series/war-of-the-worlds-a-arte-da-guerra/",
+                                "title": "War of the Worlds: A Arte da Guerra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4bdceFOgmtHk41BrkDMeC8TH7ma.jpg"
+                            },
+                            {
+                                "url": "/series/westworld/",
+                                "title": "Westworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-dominio/",
+                                "title": "Jurassic World: Domínio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg"
+                            },
+                            {
+                                "url": "/series/star-trek-strange-new-worlds/",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
+                            },
+                            {
+                                "url": "/filmes/lego-jurassic-world-a-exposicao-secreta/",
+                                "title": "Lego Jurassic World: A Exposição Secreta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6rFSUpslOYqYcevRm3ZAGkr3RMz.jpg"
+                            },
+                            {
+                                "url": "/filmes/miraculous-world-xangai-a-lenda-de-lady-dragon/",
+                                "title": "Miraculous World – Xangai, a Lenda de Lady Dragon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg"
+                            },
+                            {
+                                "url": "/filmes/edge-of-the-world/",
+                                "title": "Edge of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kwe29qj6sZzjIfQYHiwuHjqtBnb.jpg"
+                            },
+                            {
+                                "url": "/series/brave-new-world/",
+                                "title": "Brave New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vPl7hAY0vt0OPhIflRb5IXrssBv.jpg"
+                            },
+                            {
+                                "url": "/filmes/anjos-da-noite-underworld/",
+                                "title": "Anjos da Noite – Underworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg"
+                            },
+                            {
+                                "url": "/series/the-end-of-the-fing-world/",
+                                "title": "The End of the F***ing World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hiuGpPWQ4ouINeNcypR4Nv8YLeG.jpg"
+                            },
+                            {
+                                "url": "/filmes/lego-jurassic-world-a-fuga-do-indominus-rex/",
+                                "title": "Lego Jurassic World: A Fuga do Indominus Rex",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gRgJFyxaNp2VEWSTGy5miqNxxs4.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire/",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3Fr9SXZD69LeD1CFeSM2p9HFr82.jpg"
+                            },
+                            {
+                                "url": "/filmes/the-thinning-new-world-order/",
+                                "title": "The Thinning: New World Order",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uQtYfyldOV3mPzclKr0K90FTS0n.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-reino-ameacado/",
+                                "title": "Jurassic World: Reino Ameaçado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/fQ7xKS1GyN9ELx5gbO9fSlZcNx4.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-o-mundo-dos-dinossauros/",
+                                "title": "Jurassic World: O Mundo dos Dinossauros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rDChbF4m9qPChlTXkg9rq0ZmTl9.jpg"
+                            },
+                            {
+                                "url": "/filmes/between-worlds/",
+                                "title": "Between Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/wfxqobg0Do8OwIO6IUM7LWHF1mV.jpg"
+                            },
+                            {
+                                "url": "/series/tres-espias-demais/",
+                                "title": "Três Espiãs Demais!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg"
+                            },
+                            {
+                                "url": "/filmes/a-noite-que-mudou-o-pop/",
+                                "title": "A Noite que Mudou o Pop",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg"
+                            },
+                            {
+                                "url": "/series/american-horror-story/",
+                                "title": "American Horror Story",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iiNVqkss1luGtwx6LU7ziWiot5c.jpg"
+                            },
+                            {
+                                "url": "/series/minha-vida-nada-ortodoxa/",
+                                "title": "Minha Vida Nada Ortodoxa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/90CBAKBatkWjvOEBAXgWTRc2fSB.jpg"
+                            },
+                            {
+                                "url": "/filmes/adao-negro/",
+                                "title": "Adão Negro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg"
+                            },
+                            {
+                                "url": "/series/o-senhor-dos-aneis-os-aneis-de-poder/",
+                                "title": "O Senhor dos Anéis: Os Anéis de Poder",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z9a3b7DePtdo2E8NzyPwoGHGsYk.jpg"
+                            },
+                            {
+                                "url": "/series/fogo-ardente/",
+                                "title": "Fogo Ardente",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c8z3JtI7hYAir7dxg0wpEv4s9nL.jpg"
+                            },
+                            {
+                                "url": "/filmes/de-ferias-da-familia/",
+                                "title": "De Férias da Família",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/filmes/a-liga/",
+                    "title": "A Liga",
+                    "description": "Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.\n\nTítulo Original: The Union",
+                    "genre": "Ação, Comédia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/filmes/a-liga/",
+                        "name": "Filme",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

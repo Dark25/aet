@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/alien-romulus/",
+                                "title": "Alien: Romulus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg"
+                            },
+                            {
                                 "url": "/filmes/a-liga/",
                                 "title": "A Liga",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/twisters/",
                                 "title": "Twisters",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg"
-                            },
-                            {
-                                "url": "/filmes/to-de-graca-o-filme/",
-                                "title": "Tô de Graça: O Filme",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tDeYq4V4T7WQ1YFU6KuLGxO0iDh.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,21 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/dr4g0n/",
+                                "title": "dr4g0n",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ikt7ZQhKKM9qkEpc6FTjjqhYbK9.jpg"
+                            },
+                            {
+                                "url": "/series/maxima/",
+                                "title": "Máxima",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fBG4YjMZk4wRpYOtr3uSlBM5dx0.jpg"
+                            },
+                            {
+                                "url": "/series/sister-boniface-mysteries/",
+                                "title": "Sister Boniface Mysteries",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kSIPIFoIUCUOMwoAs9kiuwCz1Ju.jpg"
                             },
                             {
                                 "url": "/series/star-wars-aventuras-dos-jovens-jedi/",
@@ -270,21 +285,6 @@
                                 "url": "/series/brincando-com-fogo/",
                                 "title": "Brincando com Fogo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gC6SA2KMP9FPSqZGYMqlW1775wO.jpg"
-                            },
-                            {
-                                "url": "/series/do-dia-para-a-noite/",
-                                "title": "Do Dia Para a Noite",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tJ1LrNsP0krcV94RPQ2LUXStgl1.jpg"
-                            },
-                            {
-                                "url": "/series/mudando-de-campo/",
-                                "title": "Mudando de Campo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/x2evAcdEMGgscGGQtRI32RKpc1A.jpg"
-                            },
-                            {
-                                "url": "/series/chefe-da-casa/",
-                                "title": "Chefe da Casa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dgKQUPdhoEDusLLq1nZmK74xLrV.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/a-liga/",
-                    "title": "A Liga",
-                    "description": "Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.\n\nTítulo Original: The Union",
-                    "genre": "Ação, Comédia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg",
+                    "url": "/filmes/alien-romulus/",
+                    "title": "Alien: Romulus",
+                    "description": "Enquanto vasculham as profundezas de uma estação espacial abandonada, um grupo de jovens colonizadores espaciais se depara com a forma de vida mais aterrorizante do universo.\n\nTítulo Original: Alien: Romulus",
+                    "genre": "Ficção científica, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/a-liga/",
+                        "url": "/filmes/alien-romulus/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

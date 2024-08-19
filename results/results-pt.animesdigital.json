@@ -37,6 +37,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/video/a/122443/",
+                                "title": "Mayonaka Punch",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/Mayonaka-PunchEp.jpg"
+                            },
+                            {
                                 "url": "/video/a/122425/",
                                 "title": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/Kinnikuman-Kanpeki-Chоujin-Shiso-hen-categoria.jpg"
@@ -110,11 +115,6 @@
                                 "url": "/video/a/122346/",
                                 "title": "Elf-san wa Yaserarenai.",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/assistir-elf-san-wa-yaserarenai-todos-os-episodios-online-animes-online.jpg"
-                            },
-                            {
-                                "url": "/video/a/122343/",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/assistir-naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-todos-os-episodios-online-animes-online.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,21 +233,39 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/?p=122393",
+                        "url": "/video/a/122422/",
                         "name": "Episódio 07",
                         "episode_number": 7.0
                     },
                     {
-                        "url": "/?p=121948",
-                        "name": "Episódio 06",
-                        "episode_number": 6.0
+                        "url": "/video/a/121587/",
+                        "name": "Episódio 05",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8wNy90b3dlci1vZi1nLXMtMi5odG1s/5/bg.mp4",
+                        "quality": "Animes Digital",
+                        "videoUrl": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8wNy90b3dlci1vZi1nLXMtMi5odG1s/5/bg.mp4",
+                        "headers": {
+                            "referer": "https://sabornutritivo.com/camarao-em-crosta-de-curry-com-macarrao-de-coco/"
+                        }
+                    },
+                    {
+                        "url": "https://api.anivideo.fun/videohls.php?d=https://cdn-01.cdn-will-wallpaper-4k.online/stream/t/tower-of-god-season-2/07.mp4/index.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://api.anivideo.fun/videohls.php?d=https://cdn-01.cdn-will-wallpaper-4k.online/stream/t/tower-of-god-season-2/07.mp4/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

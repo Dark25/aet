@@ -343,7 +343,7 @@
                 "passed": true
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Request timed out after 30000ms\n  name='Error\n  stack='Error: Request timed out after 30000ms\n    at ClientRequest.rejectOnTimeout (/tmp/playwright-java-12510595040005545928/package/lib/server/fetch.js:344:18)\n    at Object.onceWrapper (node:events:631:28)\n    at ClientRequest.emit (node:events:517:28)\n    at TLSSocket.emitRequestTimeout (node:_http_client:847:9)\n    at Object.onceWrapper (node:events:631:28)\n    at TLSSocket.emit (node:events:529:35)\n    at Socket._onTimeout (node:net:598:8)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)\n}\nCall log:\n- → GET https://filmpalast.to/search/title/world/1\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8\n-   accept-encoding: gzip, deflate, br\n-   host: filmpalast.to\n-   accept-language: en-US,en;q=0.5\n-   upgrade-insecure-requests: 1\n-   sec-fetch-dest: document\n-   sec-fetch-mode: navigate\n-   sec-fetch-site: none\n-   sec-fetch-user: ?1\n-   connection: keep-alive\n",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {

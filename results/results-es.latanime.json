@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-fable-latino",
+                                "title": "The Fable Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/the-fable-latino-1724176317.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/rick-and-morty-el-anime-latino",
                                 "title": "Rick and Morty: El Anime Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/rick-and-morty-el-anime-latino-1723793743.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/boruto-naruto-next-generations-castellano",
                                 "title": "Boruto: Naruto Next Generations Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/boruto-naruto-next-generations-castellano-1719337219.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/roboticsnotes-redoblaje-latino",
-                                "title": "Robotics;Notes redoblaje Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/roboticsnotes-redoblaje-latino-1719022637.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,45 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rick-and-morty-el-anime-latino",
-                    "title": "Rick and Morty: El Anime Latino",
-                    "description": "La vida de la familia Smith es prácticamente la misma de siempre. Rick está en un pseudomundo, Summer ayuda a Beth del espacio y Morty está enamorado. Y todos son un anime.",
-                    "genre": "Aventura, Ciencia Ficción",
+                    "url": "/anime/the-fable-latino",
+                    "title": "The Fable Latino",
+                    "description": "Fable, un asesino que trabaja en el crimen organizado, ha sido elevado a la categoría legendaria de asesino despiadado capaz de asesinar a cualquier hombre en seis segundos. Seis años después de su debut, su jefe teme que Fable haya empezado a llamar demasiado la atención de las autoridades judiciales, y le ordena esconderse en Osaka durante un año. Acompañado por su chófer, que asume la identidad de su hermana, Fable está sujeto a una condición especial: debe actuar como un civil y no asesinar a nadie, no sea que él y su compañero pierdan la vida. Sin embargo, las aparentemente merecidas vacaciones pronto dan un giro sombrío. Takeshi Ebihara, el segundo al mando de la mafia de Osaka que protege oficialmente al asesino, ve la presencia de Fable como una amenaza y quiere eliminarlo. Vigilado constantemente por la yakuza y puesto con regularidad en situaciones de vida o muerte, Fable no tiene más remedio que burlar los planes de Takeshi si quiere seguir con vida. Traducción realizada con la versión gratuita del traductor DeepL.com",
+                    "genre": "Comedia, Drama, Seinen, Suspenso",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/rick-and-morty-el-anime-latino-episodio-1",
-                        "name": "Rick and Morty: El Anime Latino Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a1.mp4upload.com:183/d/x2x3hzumz3b4quuoiorbmnshiizyq6xcbacwbeftelfuj7ul5vet5465q5a2vosqtrqn73ls/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3hzumz3b4quuoiorbmnshiizyq6xcbacwbeftelfuj7ul5vet5465q5a2vosqtrqn73ls/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m50.uqload.ws/3rfkk6y2tvw2q4drdk7pvnved5apuewxt2skl356ippdn7emomibcxhelgua/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m50.uqload.ws/3rfkk6y2tvw2q4drdk7pvnved5apuewxt2skl356ippdn7emomibcxhelgua/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

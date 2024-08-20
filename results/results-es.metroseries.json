@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/helgoland-513/",
+                                "title": "Helgoland 513",
+                                "description": "Una pequeña comunidad de supervivientes de un apocalipsis que ha arrasado el resto del mundo y lo ha sumido en el caos se refugia en la única isla costera de Alemania. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cqofi9UHVG520IM4hXeZIXRsZYk.jpg"
+                            },
+                            {
                                 "url": "/bestia/",
                                 "title": "Bestia",
                                 "description": "Beist Serie de TV (2023). 8 episodios. Elias (Max Campbell) y David (Martin Tønder) son dos talentos del fútbol de 16 años y mejores amigos, que comparten el sueño de tener una carrera profesional en el fútbol. Les quedan seis días para su gran final de la categoría juvenil. Elias es jugador en etapa juvenil, […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/fsNOV3q05lEoAO3pj60TsNgQfT.jpg"
                             },
                             {
-                                "url": "/disney-junior-ariel/",
-                                "title": "Disney Junior Ariel",
-                                "description": "Ariel: Los cuentos de la Sirenita Sigue a Ariel, de 8 años, mientras ella y sus amigos se embarcan en aventuras submarinas llenas de diversión y acción a lo largo de su reino de cuento de hadas inspirado en el Caribe y más allá. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iHVg0rEr4tmgwVjfrZ0y8mPK3ON.jpg"
-                            },
-                            {
-                                "url": "/los-prisioneros/",
-                                "title": "Los Prisioneros",
+                                "url": "/serrines-madera-de-actor/",
+                                "title": "Serrines, madera de actor",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8v6pVofHLPD1YC3k2hzpZ6sq6sn.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/43hwLNmerP3DqPrpVNCzZ4S693w.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/los-asesinatos-del-tetris/",
-                                "title": "Los asesinatos del tetris",
+                                "url": "/el-recluso/",
+                                "title": "El Recluso",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zKunIR7sykBjKfLSpvv9V1VwlFP.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oiAw05flrcENS0LOHxm6cutILoO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,80 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/bestia/",
-                    "title": "Bestia",
-                    "description": "Beist Serie de TV (2023). 8 episodios. Elias (Max Campbell) y David (Martin Tønder) son dos talentos del fútbol de 16 años y mejores amigos, que comparten el sueño de tener una carrera profesional en el fútbol. Les quedan seis días para su gran final de la categoría juvenil. Elias es jugador en etapa juvenil, pero tiene al alcance de su mano lograr su primer contrato profesional con su club, el Rosenborg. Para ello tendrá que poner a prueba sus valores y su lealtad hacia su amigo y compañero David, que también aspira a convertirse en profesional.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yqvTGxz1ntJv7nftHSARgzLTK5a.jpg",
+                    "url": "/helgoland-513/",
+                    "title": "Helgoland 513",
+                    "description": "Una pequeña comunidad de supervivientes de un apocalipsis que ha arrasado el resto del mundo y lo ha sumido en el caos se refugia en la única isla costera de Alemania.",
+                    "genre": "Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cqofi9UHVG520IM4hXeZIXRsZYk.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/bestia-temporada-1-capitulo-8/",
-                        "name": "T01 - E08 - La fiesta",
-                        "date_upload": 1681948800000,
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/bestia-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - La final",
-                        "date_upload": 1681948800000,
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00068/ha6p2en1s2mb_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=RtcfUlpTppznmG4GZ1tdi1TmQr_rpy8VLVdhEgset4w&s=1724155660&e=43200&f=342649&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

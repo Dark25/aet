@@ -421,8 +421,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06332/1csp3nf58yxp_n/index-v1-a1.m3u8?t=pCHJJE0yg1mKHP7TN-0RWw405iWqOfLpZQhE-Mx1I60&s=1724112938&e=10800&f=31660796&srv=30&asn=8075&sp=4000",
+                        "quality": "Filemoon:480p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06332/1csp3nf58yxp_n/index-v1-a1.m3u8?t=pCHJJE0yg1mKHP7TN-0RWw405iWqOfLpZQhE-Mx1I60&s=1724112938&e=10800&f=31660796&srv=30&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

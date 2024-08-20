@@ -217,6 +217,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/play/fairy-tail-100-years-quest.8MC61/V1lZMP",
+                                "title": "Fairy Tail: 100 Years Quest",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/8MC61.jpg"
+                            },
+                            {
+                                "url": "/play/spice-and-wolf-merchant.TUe5z/F-N8uZ",
+                                "title": "Spice and Wolf: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/TUe5z.jpg"
+                            },
+                            {
+                                "url": "/play/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru.H0--d/AZfvpD",
+                                "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/H0--d.jpg"
+                            },
+                            {
+                                "url": "/play/shy-2.lJuqJ/xw1e93",
+                                "title": "SHY 2",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/lJuqJ.jpg"
+                            },
+                            {
+                                "url": "/play/mayonaka-punch.kyduR/F3UghX",
+                                "title": "Mayonaka Punch",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/kyduR.jpg"
+                            },
+                            {
                                 "url": "/play/tutor-hitman-reborn-ita.jVHdG/5EvsFJ",
                                 "title": "Tutor Hitman Reborn! (ITA)",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/UL4hy.png"
@@ -390,31 +415,6 @@
                                 "url": "/play/a-will-eternal.ePXL6/g2gulm",
                                 "title": "A Will Eternal",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/ePXL6.png"
-                            },
-                            {
-                                "url": "/play/code-geass-dakkan-no-roze.QLeLK/RfsPKT",
-                                "title": "Code Geass: Dakkan no Rozé",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/QLeLK.png"
-                            },
-                            {
-                                "url": "/play/dead-dead-demons-dededede-destruction.p5Njr/GMbmGM",
-                                "title": "Dead Dead Demons Dededede Destruction",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/p5Njr.png"
-                            },
-                            {
-                                "url": "/play/senpai-is-an-otokonoko.EAYqG/oN9FW-",
-                                "title": "Senpai Is an Otokonoko",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/EAYqG.jpg"
-                            },
-                            {
-                                "url": "/play/the-cafe-terrace-and-its-goddesses-2.vn8uq/tX9SGl",
-                                "title": "The Café Terrace and Its Goddesses 2",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/vn8uq.jpg"
-                            },
-                            {
-                                "url": "/play/giji-harem.51OeS/RbUc34",
-                                "title": "Pseudo Harem",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/51OeS.jpg?00"
                             }
                         ],
                         "hasNextPage": true
@@ -662,8 +662,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Q1QvwmvKVLF0YDW&expires=1724182977&ip=FROsD0ESKxSHDN&token=rYF6C3XgFPL8",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Q1QvwmvKVLF0YDW&expires=1724182977&ip=FROsD0ESKxSHDN&token=rYF6C3XgFPL8"
+                    },
+                    {
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06729/l23xuoiujq4d_x/index-v1-a1.m3u8?t=vekHE1RMjJ3h5nBwCeFSAxCeo6rN9ba8c9FA8b2O_rQ&s=1724112976&e=10800&f=33647464&srv=30&asn=8075&sp=5500",
+                        "quality": "FileMoon - 720p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06729/l23xuoiujq4d_x/index-v1-a1.m3u8?t=vekHE1RMjJ3h5nBwCeFSAxCeo6rN9ba8c9FA8b2O_rQ&s=1724112976&e=10800&f=33647464&srv=30&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

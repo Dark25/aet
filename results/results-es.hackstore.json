@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/la-otra-cara-de-la-luna-2024/",
+                                "title": "La otra cara de la Luna (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/La-otra-cara-de-la-Luna-2024-scaled.jpg"
+                            },
+                            {
                                 "url": "/peliculas/exhuma-la-tumba-del-diablo-2024/",
                                 "title": "Exhuma: La Tumba Del Diablo (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Mi villano favorito 4 (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg"
-                            },
-                            {
-                                "url": "/peliculas/el-mayor-juego-alguna-vez-jugado-2005/",
-                                "title": "El mayor juego alguna vez jugado (2005)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/nXwXVFwGjYx0GaQ1SabBFefLxzj.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/exhuma-la-tumba-del-diablo-2024/",
-                    "title": "Exhuma: La Tumba Del Diablo (2024)",
-                    "artist": "김고은",
-                    "author": "Kim Jung-woo",
-                    "description": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
-                    "genre": "Misterio, Suspenso, Terror",
+                    "url": "/peliculas/la-otra-cara-de-la-luna-2024/",
+                    "title": "La otra cara de la Luna (2024)",
+                    "artist": "Anna Garcia",
+                    "author": "Amber Harley",
+                    "description": "Las chispas vuelan en todas direcciones cuando la experta en marketing Kelly Jones, contratada para arreglar la imagen pública de la NASA, causa estragos en la ya difícil tarea del director de lanzamiento del Apolo 11, Cole Davis, de llevar un hombre a la luna. Cuando la Casa Blanca considera que la misión es demasiado importante para fallar, se le ordena a Jones que organice un alunizaje falso como respaldo, y la cuenta regresiva realmente comienza.",
+                    "genre": "Comedia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/La-otra-cara-de-la-Luna-2024.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/exhuma-la-tumba-del-diablo-2024/",
+                        "url": "/peliculas/la-otra-cara-de-la-luna-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,38 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://r7spjivm14.cdn-jupiter.com/hls2/01/04703/0abnj491zjmw_n/index-v1-a1.m3u8?t=Rq1FWndwYU7Ix1lCnIf31jLHupuIQjAcZogOr1869Pg&s=1724133995&e=129600&f=23518195&srv=ae6kcgg3i921&i=0.4&sp=500&p1=ae6kcgg3i921&p2=ae6kcgg3i921&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://r7spjivm14.cdn-jupiter.com/hls2/01/04703/0abnj491zjmw_n/index-v1-a1.m3u8?t=Rq1FWndwYU7Ix1lCnIf31jLHupuIQjAcZogOr1869Pg&s=1724133995&e=129600&f=23518195&srv=ae6kcgg3i921&i=0.4&sp=500&p1=ae6kcgg3i921&p2=ae6kcgg3i921&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishonly.site",
+                            "Referer": "https://wishonly.site/e/0abnj491zjmw"
+                        }
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06731/y64jydph59gk_h/index-v1-a1.m3u8?t=iC68VtMaZXjYYMda2yaP7Ds5IyYxmcbWvUgEUxnRr1k&s=1724133996&e=10800&f=33659911&srv=28&asn=8075&sp=4000",
+                        "quality": "[LAT] Filemoon:802p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06731/y64jydph59gk_h/index-v1-a1.m3u8?t=iC68VtMaZXjYYMda2yaP7Ds5IyYxmcbWvUgEUxnRr1k&s=1724133996&e=10800&f=33659911&srv=28&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-sdonmfjtzuw6mtxd.voe-network.net/engine/hls2-c/01/12020/xlcngd0ezi3v_,n,.urlset/index-v1-a1.m3u8?t=rZYGz7DXI_QIoem0fakVg_BdfKpIa2jydF0YaNnZ5U4&s=1724133999&e=14400&f=60103979&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-sdonmfjtzuw6mtxd.voe-network.net/engine/hls2-c/01/12020/xlcngd0ezi3v_,n,.urlset/index-v1-a1.m3u8?t=rZYGz7DXI_QIoem0fakVg_BdfKpIa2jydF0YaNnZ5U4&s=1724133999&e=14400&f=60103979&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,27 +3,27 @@
         "name": "Neko-Sama (FR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: animecat.net: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
+                "error": "java.net.UnknownHostException: animecat.net",
                 "passed": false
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
+                "error": "java.net.UnknownHostException: animecat.net",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: animecat.net",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.UnknownHostException: animecat.net",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: animecat.net",
                 "passed": false
             }
         }

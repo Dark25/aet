@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/fugitivas-en-busca-de-la-libertad/",
+                                "title": "Fugitivas - En Busca de la Libertad",
+                                "description": "La historia de cuatro mujeres que logran escapar de la prisión y se refugian en un bar buscando iniciar una nueva vida. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oqHWSZmoCgz7JPsbNXihASGnfLW.jpg"
+                            },
+                            {
+                                "url": "/martes-de-terror-extremo/",
+                                "title": "Martes de terror extremo",
+                                "description": "อังคารคลุมโปง: เอ็กซ์ตรีม Esta serie, inspirada en el programa de radio tailandés de terror ‘Angkhan Khlumpong’, presenta ocho historias basadas en experiencias reales que comparten los oyentes. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ork3ozZ6rvx24K8VmqCuSpyzkQk.jpg"
+                            },
+                            {
                                 "url": "/helgoland-513/",
                                 "title": "Helgoland 513",
                                 "description": "Una pequeña comunidad de supervivientes de un apocalipsis que ha arrasado el resto del mundo y lo ha sumido en el caos se refugia en la única isla costera de Alemania. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/4uGjITOG6rHQYb3pAC4tsgIUEtl.jpg"
                             },
                             {
-                                "url": "/misterios-de-la-historia-militar/",
-                                "title": "Misterios de la historia militar",
-                                "description": "The Proof Is Out There: Military Mysteries Armas secretas, batallas perdidas, tácticas encubiertas, estrategias... Los veteranos de combate Rudy Reyes y Ronnie Adkins desvelan los misterios que esconden imágenes, sonidos y documentos extraños y controvertidos de la historia moderna de la guerra. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlwilnmKbetksRLQ2bOToVC9ay2.jpg"
-                            },
-                            {
-                                "url": "/after-the-flood/",
-                                "title": "After the Flood",
-                                "description": "Joanna encuentra a un hombre sin identificar muerto en el ascensor de un aparcamiento subterráneo tras una devastadora inundación, la policía supone que quedó atrapado al subir las aguas, pero ella está obsesionada con descubrir qué le ocurrió. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fsNOV3q05lEoAO3pj60TsNgQfT.jpg"
-                            },
-                            {
-                                "url": "/serrines-madera-de-actor/",
-                                "title": "Serrines, madera de actor",
+                                "url": "/el-informante/",
+                                "title": "El informante",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/43hwLNmerP3DqPrpVNCzZ4S693w.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6MXrbOnL012Dtoy2re8mFPRq74k.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/el-recluso/",
-                                "title": "El Recluso",
+                                "url": "/un-planeta-extrano/",
+                                "title": "Un planeta extraño",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oiAw05flrcENS0LOHxm6cutILoO.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eb9KtnA0ED1gGI8Rmiw4fLGEeOl.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,58 @@
             },
             "details": {
                 "result": {
-                    "url": "/helgoland-513/",
-                    "title": "Helgoland 513",
-                    "description": "Una pequeña comunidad de supervivientes de un apocalipsis que ha arrasado el resto del mundo y lo ha sumido en el caos se refugia en la única isla costera de Alemania.",
-                    "genre": "Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cqofi9UHVG520IM4hXeZIXRsZYk.jpg",
+                    "url": "/fugitivas-en-busca-de-la-libertad/",
+                    "title": "Fugitivas - En Busca de la Libertad",
+                    "description": "La historia de cuatro mujeres que logran escapar de la prisión y se refugian en un bar buscando iniciar una nueva vida.",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy, Soap",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oqHWSZmoCgz7JPsbNXihASGnfLW.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/fugitivas-en-busca-de-la-libertad-temporada-1-capitulo-36/",
+                        "name": "T01 - E36 - Episodio 36",
+                        "date_upload": 1724025600000,
+                        "episode_number": 36.0
+                    },
+                    {
+                        "url": "/episode/fugitivas-en-busca-de-la-libertad-temporada-1-capitulo-35/",
+                        "name": "T01 - E35 - Episodio 35",
+                        "date_upload": 1723766400000,
+                        "episode_number": 35.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/18/00069/21e5zh3ugfp4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=RyYdkkInheKmCT0A-RZakCF61ze04oJw6FV94V8vU6E&s=1724202180&e=43200&f=345161&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/18/00069/21e5zh3ugfp4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=RyYdkkInheKmCT0A-RZakCF61ze04oJw6FV94V8vU6E&s=1724202180&e=43200&f=345161&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/18/00069/21e5zh3ugfp4_,l,n,.urlset/index-f1-v1-a1.m3u8?t=RyYdkkInheKmCT0A-RZakCF61ze04oJw6FV94V8vU6E&s=1724202180&e=43200&f=345161&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/18/00069/21e5zh3ugfp4_,l,n,.urlset/index-f1-v1-a1.m3u8?t=RyYdkkInheKmCT0A-RZakCF61ze04oJw6FV94V8vU6E&s=1724202180&e=43200&f=345161&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/el-juego-del-miedo-6/",
+                                "title": "El juego del miedo 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6wfT5Cq3iH09GOwejL4zhYmByF2.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/tornados/",
                                 "title": "Tornados",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//50xgtaDR0xJkLSVghdTGUeMoPHP.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/divorcio-en-negro-de-tyler-perry/",
                                 "title": "Divorcio en negro, de Tyler Perry",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//2Xkdb7J3juzcLe8IrOheNkDgklZ.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/desaparecidos-en-la-noche/",
-                                "title": "Desaparecidos en la noche",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//uyEFqfRezkNrxh9Lg8fj8IcbkHx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/tornados/",
-                    "artist": "Aila Grey",
-                    "description": "Kate Carter, una ex cazadora de tormentas perseguida por un devastador encuentro con un tornado durante, es llamada por su amigo Javi de regreso a las llanuras abiertas para probar un nuevo e innovador sistema de seguimiento. Allí, se cruza con la encantadora e imprudente superestrella de las redes sociales Tyler Owens y su estridente equipo. A medida que la temporada de tormentas se intensifica, se desatarán fenómenos aterradores nunca antes vistos, y Kate, Tyler y sus equipos competidores se encuentran de lleno en el camino de múltiples sistemas de tormentas que convergen sobre el centro de Oklahoma en la lucha de sus vidas.   ",
-                    "genre": "Acción, Aventura, Drama, Suspenso",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
+                    "url": "/ver-pelicula/el-juego-del-miedo-6/",
+                    "artist": "Angus Macfadyen",
+                    "description": "El Agente Especial Strahm está muerto, y el Detective Hoffman es el sucesor de Jigsaw y su juego macabro. Sin embargo, cuando la Brigada de Investigación Criminal comienza a estrechar el cerco a Hoffman, lo forzarán a poner en marcha el juego complejo de Jigsaw, y por fin a entenderlo por completo… Sexta entrega de la sangrienta saga Saw.   ",
+                    "genre": "Suspenso, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//6wfT5Cq3iH09GOwejL4zhYmByF2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,7 +211,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/tornados/",
+                        "url": "/ver-pelicula/el-juego-del-miedo-6/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -221,22 +221,32 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/12027/4kw6axjighvm_,n,.urlset/index-v1-a1.m3u8?t=vA3Cq0PY6Irpt8Q7XQByAe_1fXaGXs9NE80ppS5aR2s&s=1724288642&e=14400&f=60135471&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-ktmegdtzjuhg1tfn.voe-network.net/engine/hls2/01/12040/x9qbofqakjff_,n,.urlset/index-v1-a1.m3u8?t=xmtnx66tVAUsqg_wCC6FQp1C3aytC5bO3srBHu31JAw&s=1724307608&e=14400&f=60203262&node=delivery-node-ktmegdtzjuhg1tfn.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/12027/4kw6axjighvm_,n,.urlset/index-v1-a1.m3u8?t=vA3Cq0PY6Irpt8Q7XQByAe_1fXaGXs9NE80ppS5aR2s&s=1724288642&e=14400&f=60135471&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-ktmegdtzjuhg1tfn.voe-network.net/engine/hls2/01/12040/x9qbofqakjff_,n,.urlset/index-v1-a1.m3u8?t=xmtnx66tVAUsqg_wCC6FQp1C3aytC5bO3srBHu31JAw&s=1724307608&e=14400&f=60203262&node=delivery-node-ktmegdtzjuhg1tfn.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://rrvswpnvn.cdn-jupiter.com/hls2/01/04709/hlacxzaqqevq_n/index-v1-a1.m3u8?t=aVb0sQ6-Ja5heJESPIAZdnnlyyx9uaD_6TV64jykS_M&s=1724288639&e=129600&f=23546845&srv=FRdn5eAUPJ&i=0.4&sp=500&p1=FRdn5eAUPJ&p2=FRdn5eAUPJ&asn=8075",
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06749/uk1kqn9rpz0w_h/index-v1-a1.m3u8?t=sf3RSPxvjhSyD2lkvp4AhDpnXxXky_zxcL1VdI80jXQ&s=1724307605&e=10800&f=33749243&srv=12&asn=8075&sp=4000",
+                        "quality": "Filemoon:1080p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06749/uk1kqn9rpz0w_h/index-v1-a1.m3u8?t=sf3RSPxvjhSyD2lkvp4AhDpnXxXky_zxcL1VdI80jXQ&s=1724307605&e=10800&f=33749243&srv=12&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://yvgdwtamlx.cdn-jupiter.com/hls2/01/04725/szlj7w96crmm_n/index-v1-a1.m3u8?t=CrObo43xRUu9KiU630EWHIMHXI2KD4e7k167PxLLPYc&s=1724307603&e=129600&f=23627581&srv=d96jvs07ph5l&i=0.4&sp=500&p1=d96jvs07ph5l&p2=d96jvs07ph5l&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://rrvswpnvn.cdn-jupiter.com/hls2/01/04709/hlacxzaqqevq_n/index-v1-a1.m3u8?t=aVb0sQ6-Ja5heJESPIAZdnnlyyx9uaD_6TV64jykS_M&s=1724288639&e=129600&f=23546845&srv=FRdn5eAUPJ&i=0.4&sp=500&p1=FRdn5eAUPJ&p2=FRdn5eAUPJ&asn=8075",
+                        "videoUrl": "https://yvgdwtamlx.cdn-jupiter.com/hls2/01/04725/szlj7w96crmm_n/index-v1-a1.m3u8?t=CrObo43xRUu9KiU630EWHIMHXI2KD4e7k167PxLLPYc&s=1724307603&e=129600&f=23627581&srv=d96jvs07ph5l&i=0.4&sp=500&p1=d96jvs07ph5l&p2=d96jvs07ph5l&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishonly.site",
-                            "Referer": "https://wishonly.site/e/hlacxzaqqevq"
+                            "Referer": "https://wishonly.site/e/szlj7w96crmm"
                         }
                     }
                 ],

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/true-beauty",
+                                "title": "True Beauty",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg"
+                            },
+                            {
+                                "url": "/anime/delicos-nursery",
+                                "title": "Delico's Nursery",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933712.jpg"
+                            },
+                            {
                                 "url": "/anime/level-1-demon-lord-and-one-room-hero",
                                 "title": "Level 1 Demon Lord and One Room Hero",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933711.jpg"
@@ -32,8 +42,8 @@
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933695.jpg"
                             },
                             {
-                                "url": "/anime/delicos-nursery",
-                                "title": "Delico's Nursery",
+                                "url": "/anime/delicos-nursery-english-subbed",
+                                "title": "Delico's Nursery English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933694.jpg"
                             },
                             {
@@ -75,16 +85,6 @@
                                 "url": "/anime/primos",
                                 "title": "Primos",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933686.jpg"
-                            },
-                            {
-                                "url": "/anime/dr-panda",
-                                "title": "Dr. Panda",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933685.jpg"
-                            },
-                            {
-                                "url": "/anime/bye-bye-earth-english-dubbed",
-                                "title": "Bye Bye, Earth English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933684.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/level-1-demon-lord-and-one-room-hero",
-                    "title": "Level 1 Demon Lord and One Room Hero",
-                    "description": "After the climactic battle to decide the fate of humanity, the hero Max, alongside his party, emerges victorious against the formidable Demon Lord. As he draws his last breath, the defeated Maou vows to return more powerful than ever to take his revenge.",
-                    "genre": "Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933711.jpg",
+                    "url": "/anime/true-beauty",
+                    "title": "True Beauty",
+                    "description": "Tired of being looked down upon for her unattractive appearance, middle schooler Lim Jugyeong turns to the transformative powers of makeup. First, she experiments with BB cream, lip tint, and eyeliner; then she begins using mascara, double eyelid glue, and colored contacts. Before she knows it, Jugyeong goes from being a girl who is bullied for her ugliness to being praised as a high-class beauty. Constantly surrounded by those who adore her goddess-like appearance, Jugyeong can now live a more than comfortable life at school—she simply has to keep her bare face a secret.",
+                    "genre": "Comedy, Drama, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/level-1-demon-lord-and-one-room-hero-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jIVENCcjzB2WEmWIrqqp-29avNMiyeomJdeRwyZVJsGeIJgoa9pcEMdRuP0xwHqeJkJG68bTtLTUJDVeBdzZlbe9Tq0R33wPBlPEg0NvltCLdCuzCFLCMQyP4yyBY77FFOVsvNZdP1fvSzx0zeO64lkrt7YrWLtpqkviDI_IAOl4lztEQkTfJfEi8keJDoYI9N7VfOeXi4-bgIJluv1MW3Dxu1K911-xPd-uzoUYzB2kevGHNX6OyZ_2Jl-5enKg3Gw3ygvuUNpCIvLKHKUDs5kaEasiKOkHnmq1MzgcXnPr4vA3dr6MCZYCaOEf3e5ePBnGfIsqjhyUt6HBvDqWxbHcuR8wDogC_QuePWZPQxW7U3aESIxlZb9mYTmaVsYkITOxaqW6BjiXx_-PtqR5xlBDHcJPTvplmeigJMAtDq2Vs_4tKua1jTlchz_0g747stVny-07rR-ZCDDzBDe0y1",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jIVENCcjzB2WEmWIrqqp-29avNMiyeomJdeRwyZVJsGeIJgoa9pcEMdRuP0xwHqeJkJG68bTtLTUJDVeBdzZlbe9Tq0R33wPBlPEg0NvltCLdCuzCFLCMQyP4yyBY77FFOVsvNZdP1fvSzx0zeO64lkrt7YrWLtpqkviDI_IAOl4lztEQkTfJfEi8keJDoYI9N7VfOeXi4-bgIJluv1MW3Dxu1K911-xPd-uzoUYzB2kevGHNX6OyZ_2Jl-5enKg3Gw3ygvuUNpCIvLKHKUDs5kaEasiKOkHnmq1MzgcXnPr4vA3dr6MCZYCaOEf3e5ePBnGfIsqjhyUt6HBvDqWxbHcuR8wDogC_QuePWZPQxW7U3aESIxlZb9mYTmaVsYkITOxaqW6BjiXx_-PtqR5xlBDHcJPTvplmeigJMAtDq2Vs_4tKua1jTlchz_0g747stVny-07rR-ZCDDzBDe0y1"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jIVENCcjzB2WEmWIrqqp-29avNMiyeomJdeRwyZVJsGeIJgoa9pcEMdRuP0xwHqeJkJG68bTtLTUJDVeBdzZlbe9Tq0R33wPBlPEg0NvltCLdCuzCFLCMQyP4yyBY77FFOVsvNZdP1fvSzx0zeO64lkrt7YrWLtpqkviDI_IAOl4lztEQkTfJfEi8keJDoYI-kzWjReIiquS5TUAcY_kB69qY9_oAXSgBxB19ypeENBU0TaB4E5j_DEX7ENWCE-z5LVvst434HD2WJsOnmM0m7vqqoNF-kJVTGUe8Sr0-KSxDHKpp9Cx8b13vviqVv9aLb03JPq5kZPtmBViBwcdr4G6aet8Mm3SACPlKFiDNsrdGWh1rJzmbilS9D6Lpq5i98s4CpTivvUtBJR5JU8AVB6DSXovh-eREpZOy035T3z3Hhgs40ueupWWMwcPbyKajU4qnXDPX1_7TWj8RjRxzr",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jIVENCcjzB2WEmWIrqqp-29avNMiyeomJdeRwyZVJsGeIJgoa9pcEMdRuP0xwHqeJkJG68bTtLTUJDVeBdzZlbe9Tq0R33wPBlPEg0NvltCLdCuzCFLCMQyP4yyBY77FFOVsvNZdP1fvSzx0zeO64lkrt7YrWLtpqkviDI_IAOl4lztEQkTfJfEi8keJDoYI-kzWjReIiquS5TUAcY_kB69qY9_oAXSgBxB19ypeENBU0TaB4E5j_DEX7ENWCE-z5LVvst434HD2WJsOnmM0m7vqqoNF-kJVTGUe8Sr0-KSxDHKpp9Cx8b13vviqVv9aLb03JPq5kZPtmBViBwcdr4G6aet8Mm3SACPlKFiDNsrdGWh1rJzmbilS9D6Lpq5i98s4CpTivvUtBJR5JU8AVB6DSXovh-eREpZOy035T3z3Hhgs40ueupWWMwcPbyKajU4qnXDPX1_7TWj8RjRxzr"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jIVENCcjzB2WEmWIrqqp-29avNMiyeomJdeRwyZVJsGeIJgoa9pcEMdRuP0xwHqeJkJG68bTtLTUJDVeBdzZlbe9Tq0R33wPBlPEg0NvltCLdCuzCFLCMQyP4yyBY77FFOVsvNZdP1fvSzx0zeO64lkrt7YrWLtpqkviDI_IAOl4lztEQkTfJfEi8keJDoYI-6DVuTXqgrpL1ZoBFnuaO5TXEi3ox-03NzDZOi_txbSXy5w7yVZEXHuPAvPMArNj4ypC7_-M0LB8acm0_aFVf7eoO4z40vbGGw3JCnqf-5jLLM31iljStqiTYPTqLLqdxXimI10uXThIQDsbhuS4Sy25c72Vkk1jOwCPR8nlSwoB_0fQ0qkkofPs_j_ZvZKITAbPuIrdq_rkBxZy4mQO52-tUJwMkxs9sJOT9dEhV3fXbh7814rmbiGKR85oaWuZGgucesjWOYMThRtGQZyahS",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jIVENCcjzB2WEmWIrqqp-29avNMiyeomJdeRwyZVJsGeIJgoa9pcEMdRuP0xwHqeJkJG68bTtLTUJDVeBdzZlbe9Tq0R33wPBlPEg0NvltCLdCuzCFLCMQyP4yyBY77FFOVsvNZdP1fvSzx0zeO64lkrt7YrWLtpqkviDI_IAOl4lztEQkTfJfEi8keJDoYI-6DVuTXqgrpL1ZoBFnuaO5TXEi3ox-03NzDZOi_txbSXy5w7yVZEXHuPAvPMArNj4ypC7_-M0LB8acm0_aFVf7eoO4z40vbGGw3JCnqf-5jLLM31iljStqiTYPTqLLqdxXimI10uXThIQDsbhuS4Sy25c72Vkk1jOwCPR8nlSwoB_0fQ0qkkofPs_j_ZvZKITAbPuIrdq_rkBxZy4mQO52-tUJwMkxs9sJOT9dEhV3fXbh7814rmbiGKR85oaWuZGgucesjWOYMThRtGQZyahS"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

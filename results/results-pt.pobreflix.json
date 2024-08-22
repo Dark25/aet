@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/deadpool-wolverine/",
+                                "title": "Deadpool & Wolverine",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg"
+                            },
+                            {
+                                "url": "/filmes/jolies-filles/",
+                                "title": "Jolies filles",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tyiclx8VegzLUpiLFXSIh1lt710.jpg"
+                            },
+                            {
                                 "url": "/filmes/alien-romulus/",
                                 "title": "Alien: Romulus",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg"
@@ -32,11 +42,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg"
                             },
                             {
-                                "url": "/filmes/deadpool-wolverine/",
-                                "title": "Deadpool & Wolverine",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
-                            },
-                            {
                                 "url": "/filmes/planeta-dos-macacos-o-reinado/",
                                 "title": "Planeta dos Macacos: O Reinado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/cobra-kai/",
                                 "title": "Cobra Kai",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
-                            },
-                            {
-                                "url": "/filmes/twisters/",
-                                "title": "Twisters",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,16 @@
                                 "url": "/series/the-walking-dead-the-ones-who-live/",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+                            },
+                            {
+                                "url": "/series/terca-do-terror/",
+                                "title": "Terça do Terror",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4rrRbG56DK2daha5xiYZhQ1XBS4.jpg"
+                            },
+                            {
+                                "url": "/series/casamento-as-cegas-reino-unido/",
+                                "title": "Casamento às Cegas: Reino Unido",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1EPL2e0fon7P1GK1HlPXdeNMOY9.jpg"
                             },
                             {
                                 "url": "/series/breathe-pelas-sombras/",
@@ -275,16 +285,6 @@
                                 "url": "/series/batman-cruzado-encapuzado/",
                                 "title": "Batman: Cruzado Encapuzado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/vyB0p30uzaYDpCrpoMUAApxdiow.jpg"
-                            },
-                            {
-                                "url": "/series/parasyte-the-maxim/",
-                                "title": "Parasyte -the maxim-",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg"
-                            },
-                            {
-                                "url": "/series/mulheres-de-azul/",
-                                "title": "Mulheres de Azul",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5toyrCYJK6TzGGcRe9AuJ9lOrJD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/alien-romulus/",
-                    "title": "Alien: Romulus",
-                    "description": "Enquanto vasculham as profundezas de uma estação espacial abandonada, um grupo de jovens colonizadores espaciais se depara com a forma de vida mais aterrorizante do universo.\n\nTítulo Original: Alien: Romulus",
-                    "genre": "Ficção científica, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg",
+                    "url": "/filmes/deadpool-wolverine/",
+                    "title": "Deadpool & Wolverine",
+                    "description": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficou para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante… relutante? Mais relutante? Ele deve convencer um Wolverine relutante em… Porra. As sinopses são tão estúpidas.\n\nTítulo Original: Deadpool & Wolverine",
+                    "genre": "Ação, Comédia, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/alien-romulus/",
+                        "url": "/filmes/deadpool-wolverine/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

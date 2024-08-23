@@ -333,12 +333,66 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/la-mision-de-la-familia-yozakura-latino-episodio-1",
+                        "name": "La Misión de la Familia Yozakura Latino Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=CO_Bjuu3Fmk&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=CO_Bjuu3Fmk&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637"
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxzawemz3b4quuolgragjcgleqfphtmvvwdmfcadqq6srbhsrqh3ropck5etofdubfj3fah/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzawemz3b4quuolgragjcgleqfphtmvvwdmfcadqq6srbhsrqh3ropck5etofdubfj3fah/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m20.uqload.ws/3rfk2c25tvw2q4drdk47vjvib7434suoaojesn7lkg6qz6l3bl6cxgiae7jq/v.mp4",
+                        "quality": "uqload -  Uqload",
+                        "videoUrl": "https://m20.uqload.ws/3rfk2c25tvw2q4drdk47vjvib7434suoaojesn7lkg6qz6l3bl6cxgiae7jq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=IP4wwaCFrMc&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637",
+                        "quality": "ok -  Okru:720p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=IP4wwaCFrMc&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=Gz7vGHluikE&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637",
+                        "quality": "ok -  Okru:480p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=Gz7vGHluikE&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=VIcgTVPKgN8&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637",
+                        "quality": "ok -  Okru:360p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=VIcgTVPKgN8&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=f8bB4d1wrq0&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637",
+                        "quality": "ok -  Okru:240p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=f8bB4d1wrq0&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=MByOxsqz-Mg&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637",
+                        "quality": "ok -  Okru:144p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1724502455630&srcIp=52.234.27.7&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=MByOxsqz-Mg&ct=0&urls=45.136.20.54%3B185.226.53.16&clientType=0&zs=43&id=7267065006637"
+                    }
+                ],
+                "passed": true
             }
         }
     }

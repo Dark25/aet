@@ -1,0 +1,27 @@
+[
+    {
+        "name": "EnNovelas (ES)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: tv.ennovelas.net: Name or service not known",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "passed": false
+            }
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "UHD Movies (EN)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "title": "Movie",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "java.lang.Exception: Only Zip Pack Available",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]

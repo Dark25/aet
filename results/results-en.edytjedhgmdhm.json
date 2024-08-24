@@ -1,0 +1,34 @@
+[
+    {
+        "name": "edytjedhgmdhm (EN)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "quality": "Video",
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

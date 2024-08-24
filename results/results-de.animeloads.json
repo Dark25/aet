@@ -239,6 +239,11 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/media/rick-and-morty-the-anime#streams_episodes_1_1",
+                        "name": "Ep.2 Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
                         "url": "/media/rick-and-morty-the-anime#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
@@ -247,22 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=7dK0Lp1bgWIAd7o&expires=1724507100&ip=FROsFxWnDS9X&token=sHElSU65vBzm",
-                        "quality": "Streamtape Deutsch Dub",
-                        "videoUrl": "https://streamtape.com/get_video?id=7dK0Lp1bgWIAd7o&expires=1724507100&ip=FROsFxWnDS9X&token=sHElSU65vBzm"
-                    },
-                    {
-                        "url": "https://delivery-node-wdoyqyymoso4uzzu.voe-network.net/engine/hls2-c/01/12010/r9yfh5ahhydl_,n,.urlset/index-v1-a1.m3u8?t=COjCTuUTQyMuHJQ-bPdKP_Dz1yjVyUBJVY9RI1fo2r0&s=1724437093&e=14400&f=60052903&node=delivery-node-p3qosxlihxv3qtq0.voe-network.net&i=20.81&sp=2500&asn=8075",
-                        "quality": "(Deutsch Dub) Voe:720p",
-                        "videoUrl": "https://delivery-node-wdoyqyymoso4uzzu.voe-network.net/engine/hls2-c/01/12010/r9yfh5ahhydl_,n,.urlset/index-v1-a1.m3u8?t=COjCTuUTQyMuHJQ-bPdKP_Dz1yjVyUBJVY9RI1fo2r0&s=1724437093&e=14400&f=60052903&node=delivery-node-p3qosxlihxv3qtq0.voe-network.net&i=20.81&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

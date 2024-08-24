@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/mision-hostil/",
+                                "title": "Misión hostil",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/syKwepJwzvoYhPLBfUy4YYSrstr.jpg"
+                            },
+                            {
                                 "url": "/the-get-rich-quick-scheme/",
                                 "title": "The Get Rich Quick Scheme",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/h8Wlv1IdxaOJDSe0WUhIeyoeC41.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/the-queen-la-reina/",
                                 "title": "The Queen (La Reina)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/e2nS4Yl8ggUlAV2qpnLRYL4Hatb.jpg"
-                            },
-                            {
-                                "url": "/liga-de-la-justicia-crisis-en-tierras-infinitas-parte-3/",
-                                "title": "Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jXeeV5YrACBgc9CGvggdsA6PEmd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,13 +424,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-get-rich-quick-scheme/",
-                    "title": "The Get Rich Quick Scheme",
-                    "description": "Tres estudiantes de secundaria hacen una apuesta con su director de que pueden hacer un negocio de un millón de dólares en 90 días. A lo largo de esta experiencia, aprenden el valor de la amistad y los peligros de la codicia, y cómo puede convertir a algunas de las personas más inocentes en personas desalmadas, tal vez incluso en ellas mismas.",
-                    "genre": "Comedia, Familia",
+                    "url": "/mision-hostil/",
+                    "title": "Misión hostil",
+                    "artist": "Liam Hemsworth",
+                    "description": "Land of Bad Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+                    "genre": "Acción, Bélica, Suspense",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/h8Wlv1IdxaOJDSe0WUhIeyoeC41.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -438,7 +439,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-get-rich-quick-scheme/",
+                        "url": "/mision-hostil/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -448,9 +449,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s40.fastream.to/hls2/12/00068/3jbveulvzxqk_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Mlvbk4c1GS4d-61rkmGUKwYMtYi75_4X-IAKjF9gDJU&s=1724437159&e=43200&f=344609&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/22/00069/lufv5vs2ctdj_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=H1mSJwtgb604K2ASOrTrr0jUdoAdakNoNuYk9EEu6QY&s=1724461342&e=43200&f=345275&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/3jbveulvzxqk_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Mlvbk4c1GS4d-61rkmGUKwYMtYi75_4X-IAKjF9gDJU&s=1724437159&e=43200&f=344609&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/22/00069/lufv5vs2ctdj_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=H1mSJwtgb604K2ASOrTrr0jUdoAdakNoNuYk9EEu6QY&s=1724461342&e=43200&f=345275&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -459,9 +460,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/12/00068/3jbveulvzxqk_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Mlvbk4c1GS4d-61rkmGUKwYMtYi75_4X-IAKjF9gDJU&s=1724437159&e=43200&f=344609&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/22/00069/lufv5vs2ctdj_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=H1mSJwtgb604K2ASOrTrr0jUdoAdakNoNuYk9EEu6QY&s=1724461342&e=43200&f=345275&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/3jbveulvzxqk_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Mlvbk4c1GS4d-61rkmGUKwYMtYi75_4X-IAKjF9gDJU&s=1724437159&e=43200&f=344609&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/22/00069/lufv5vs2ctdj_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=H1mSJwtgb604K2ASOrTrr0jUdoAdakNoNuYk9EEu6QY&s=1724461342&e=43200&f=345275&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -470,9 +471,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/12/00068/3jbveulvzxqk_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Mlvbk4c1GS4d-61rkmGUKwYMtYi75_4X-IAKjF9gDJU&s=1724437159&e=43200&f=344609&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/22/00069/lufv5vs2ctdj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=H1mSJwtgb604K2ASOrTrr0jUdoAdakNoNuYk9EEu6QY&s=1724461342&e=43200&f=345275&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/12/00068/3jbveulvzxqk_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Mlvbk4c1GS4d-61rkmGUKwYMtYi75_4X-IAKjF9gDJU&s=1724437159&e=43200&f=344609&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/22/00069/lufv5vs2ctdj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=H1mSJwtgb604K2ASOrTrr0jUdoAdakNoNuYk9EEu6QY&s=1724461342&e=43200&f=345275&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -481,20 +482,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/09/00068/xehbulupjkx3_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=f73MBgL9MCGDIInES4b0UU6j19XDwGpM0NK7b4sU2xo&s=1724437158&e=43200&f=344610&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00068/xehbulupjkx3_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=f73MBgL9MCGDIInES4b0UU6j19XDwGpM0NK7b4sU2xo&s=1724437158&e=43200&f=344610&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/09/00068/xehbulupjkx3_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=f73MBgL9MCGDIInES4b0UU6j19XDwGpM0NK7b4sU2xo&s=1724437158&e=43200&f=344610&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/23/00069/jfrqb446vnfq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=120IHgyyNRUHXFM2GachXPOh81aj2U0H6cEDAuQyPPM&s=1724461342&e=43200&f=345276&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00068/xehbulupjkx3_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=f73MBgL9MCGDIInES4b0UU6j19XDwGpM0NK7b4sU2xo&s=1724437158&e=43200&f=344610&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/23/00069/jfrqb446vnfq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=120IHgyyNRUHXFM2GachXPOh81aj2U0H6cEDAuQyPPM&s=1724461342&e=43200&f=345276&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -503,9 +493,31 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/09/00068/xehbulupjkx3_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=f73MBgL9MCGDIInES4b0UU6j19XDwGpM0NK7b4sU2xo&s=1724437158&e=43200&f=344610&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/12/00069/xfa3oz636bcx_,l,n,.urlset/index-f2-v1-a1.m3u8?t=guH5MppgOyV6TcJqsFo5YJAXkShqVEO1lXOriizrk_U&s=1724461342&e=43200&f=345274&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00069/xfa3oz636bcx_,l,n,.urlset/index-f2-v1-a1.m3u8?t=guH5MppgOyV6TcJqsFo5YJAXkShqVEO1lXOriizrk_U&s=1724461342&e=43200&f=345274&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/23/00069/jfrqb446vnfq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=120IHgyyNRUHXFM2GachXPOh81aj2U0H6cEDAuQyPPM&s=1724461342&e=43200&f=345276&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00068/xehbulupjkx3_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=f73MBgL9MCGDIInES4b0UU6j19XDwGpM0NK7b4sU2xo&s=1724437158&e=43200&f=344610&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/23/00069/jfrqb446vnfq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=120IHgyyNRUHXFM2GachXPOh81aj2U0H6cEDAuQyPPM&s=1724461342&e=43200&f=345276&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00069/xfa3oz636bcx_,l,n,.urlset/index-f1-v1-a1.m3u8?t=guH5MppgOyV6TcJqsFo5YJAXkShqVEO1lXOriizrk_U&s=1724461342&e=43200&f=345274&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00069/xfa3oz636bcx_,l,n,.urlset/index-f1-v1-a1.m3u8?t=guH5MppgOyV6TcJqsFo5YJAXkShqVEO1lXOriizrk_U&s=1724461342&e=43200&f=345274&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/victim/",
+                                "title": "Victim",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vrniyoyI8dSx78AMD90xPXCHz0q.jpg"
+                            },
+                            {
+                                "url": "/un-heroe-anonimo/",
+                                "title": "Un héroe anónimo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/80ARSA2k0sTgbRF9Z4oIj6gfdeh.jpg"
+                            },
+                            {
+                                "url": "/un-rey-supermono/",
+                                "title": "Un rey supermono",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8AxTDGanfsZkGCCjHTiY6Gw0VYD.jpg"
+                            },
+                            {
+                                "url": "/chica-por-un-dia/",
+                                "title": "Chica por un día",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q0mIiY6wXdqyfVpZE7uj6vuJNOx.jpg"
+                            },
+                            {
+                                "url": "/monolith/",
+                                "title": "Monolith",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fpwaLAefIF53QuHmw6gAFgDigwy.jpg"
+                            },
+                            {
                                 "url": "/un-golpe-a-la-inversa/",
                                 "title": "Un golpe a la inversa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6ke8pycPTpO8aFqIos2r3HkbDmC.jpg"
@@ -180,31 +205,6 @@
                                 "url": "/hombres-duros/",
                                 "title": "Hombres duros",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/bbGBUoFyhNerVKICgV2lsNW3jyq.jpg"
-                            },
-                            {
-                                "url": "/melodia-asesina/",
-                                "title": "Melodía asesina",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cQfqn5qEg7buIIQE91AKQEWcADY.jpg"
-                            },
-                            {
-                                "url": "/mayday-club/",
-                                "title": "Mayday Club",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xcBLeUoRr52MiP6Rm0AS5HaTPDl.jpg"
-                            },
-                            {
-                                "url": "/malditas/",
-                                "title": "Malditas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oxNqvKAFQNQbRPqLsP7zfdXLXYK.jpg"
-                            },
-                            {
-                                "url": "/maharaj/",
-                                "title": "Maharaj",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lsuUGtUzrzEnlIUjVRSqFNUMZEz.jpg"
-                            },
-                            {
-                                "url": "/lumina/",
-                                "title": "Lumina",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tySni5LziDoPSgicjAc3FRFiKfe.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,14 +424,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/un-golpe-a-la-inversa/",
-                    "title": "Un golpe a la inversa",
-                    "artist": "Cecilia Choi",
-                    "description": "Robo a la inversa | 還錢 Una traición lleva a un grupo de ladrones profesionales a emprender una difícil misión: devolver el dinero que robaron en el atraco a un banco.",
-                    "genre": "Acción, Comedia",
+                    "url": "/victim/",
+                    "title": "Victim",
+                    "description": "El amor de una madre por su hijo se ve puesto a prueba por su comportamiento cada vez más alarmante.",
+                    "genre": "Suspense",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ke8pycPTpO8aFqIos2r3HkbDmC.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vrniyoyI8dSx78AMD90xPXCHz0q.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -439,7 +438,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/un-golpe-a-la-inversa/",
+                        "url": "/victim/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -449,9 +448,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/25/00068/clpepiqni5a0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=7CgrNMi7EI4R5snrPaLzAZYJkA39OXrte63zQlP0XkA&s=1724548117&e=43200&f=344620&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:1080p",
+                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/25/00068/clpepiqni5a0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=7CgrNMi7EI4R5snrPaLzAZYJkA39OXrte63zQlP0XkA&s=1724548117&e=43200&f=344620&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -460,9 +470,20 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/25/00068/clpepiqni5a0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=7CgrNMi7EI4R5snrPaLzAZYJkA39OXrte63zQlP0XkA&s=1724548117&e=43200&f=344620&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/24/00068/awqibaz1a274_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=GakrdYDfCW75MilypGSEYK1YlSBunhfpbDrJ-JSCuUI&s=1724566770&e=43200&f=344623&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/24/00068/awqibaz1a274_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=GakrdYDfCW75MilypGSEYK1YlSBunhfpbDrJ-JSCuUI&s=1724566770&e=43200&f=344623&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/25/00068/clpepiqni5a0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=7CgrNMi7EI4R5snrPaLzAZYJkA39OXrte63zQlP0XkA&s=1724548117&e=43200&f=344620&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -471,9 +492,31 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/25/00068/clpepiqni5a0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=7CgrNMi7EI4R5snrPaLzAZYJkA39OXrte63zQlP0XkA&s=1724548117&e=43200&f=344620&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/24/00068/awqibaz1a274_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=GakrdYDfCW75MilypGSEYK1YlSBunhfpbDrJ-JSCuUI&s=1724566770&e=43200&f=344623&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/24/00068/awqibaz1a274_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=GakrdYDfCW75MilypGSEYK1YlSBunhfpbDrJ-JSCuUI&s=1724566770&e=43200&f=344623&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/25/00068/clpepiqni5a0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=7CgrNMi7EI4R5snrPaLzAZYJkA39OXrte63zQlP0XkA&s=1724548117&e=43200&f=344620&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/21/00068/8rl04ggyzx3d_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=oLR8k-a-yPEcfewSslbcwmXVqdlzXUA0xyPmdWlbUqs&s=1724566770&e=43200&f=344622&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/24/00068/awqibaz1a274_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=GakrdYDfCW75MilypGSEYK1YlSBunhfpbDrJ-JSCuUI&s=1724566770&e=43200&f=344623&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/24/00068/awqibaz1a274_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=GakrdYDfCW75MilypGSEYK1YlSBunhfpbDrJ-JSCuUI&s=1724566770&e=43200&f=344623&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

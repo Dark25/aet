@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ripcrabby/one-piec-all-season-movie-ovas-1080p-dual-audio",
+                                "title": "One Piece 1080p English Subbed",
+                                "thumbnail_url": "https://ripcrabbyanime.com/ripcrabbyanime.com.img/one-piec-all-season-movie-ovas-1080p-dual-audio.jpg"
+                            },
+                            {
                                 "url": "/ripcrabby/exploration-hero-season-1-1080p-dual-audio",
                                 "title": "A Nobody's Way Up to an Exploration Hero English Subbed Episode 09",
                                 "thumbnail_url": "https://ripcrabbyanime.com/ripcrabbyanime.com.img/exploration-hero-season-1-1080p-dual-audio.jpg"
@@ -75,11 +80,6 @@
                                 "url": "/ripcrabby/alya-russian-1080p-eng-sub",
                                 "title": "Alya Sometimes Hides Her Feelings in Russian Dual Audio",
                                 "thumbnail_url": "https://ripcrabbyanime.com/ripcrabbyanime.com.img/alya-russian-1080p-eng-sub.jpg"
-                            },
-                            {
-                                "url": "/ripcrabby/one-piec-all-season-movie-ovas-1080p-dual-audio",
-                                "title": "One Piece 1080p English Subbed",
-                                "thumbnail_url": "https://ripcrabbyanime.com/ripcrabbyanime.com.img/one-piec-all-season-movie-ovas-1080p-dual-audio.jpg"
                             },
                             {
                                 "url": "/ripcrabby/girl-and-the-evil-lieutenant-1080p-eng-sub",
@@ -249,10 +249,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/ripcrabby/exploration-hero-season-1-1080p-dual-audio",
-                    "author": "Gekkou",
-                    "description": "\n\nMeet Kaito Takagi, your typical high schooler with a low profile. He spends his days exploring dungeons in Japan, hunting slimes for some extra cash. On the side, he quietly admires his childhood friend, the popular girl in class. One day, a rare golden slime shows up, and after Kaito defeats it, he finds a super valuable item—a card that can summon mythical beings! He decides to use it and summons a stunning warrior maiden. Now, Kaito has a chance to rise above his ordinary explorer life. Get ready for a modern fantasy story filled with battles! (Source: MAL News)\nType: TV\nEpisodes: Unknown\nStatus: Currently Airing\nAired: Jul 6, 2024 to ?\nPremiered: Summer 2024\nBroadcast: Saturdays at 22:00 (JST)\nProducers: Toei Video, Hobby Japan, Tokyo MX, CyberAgent, On-Lead, BS NTV, Pia, Bushiroad Move, Starry Cube, FUTURE LEAP\nLicensors: None found\nStudios: Gekkou\nSource: Light novel\nGenres:\nDuration: 23 min. per ep.\nRating: PG-13 - Teens 13 or older",
-                    "genre": "Action, Adventure, Fantasy",
+                    "url": "/ripcrabby/one-piec-all-season-movie-ovas-1080p-dual-audio",
+                    "author": "Toei Animation",
+                    "description": "\n\nGol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]\nType: TV\nEpisodes: One Piece (All Season + Movies + Film Red + OVAs) 1080p Dual Audio\nStatus: Currently Airing\nAired: Oct 20, 1999 to ?\nPremiered: Fall 1999\nBroadcast: Sundays at 09:30 (JST)\nProducers: Fuji TV, TAP, Shueisha\nLicensors: Funimation, 4Kids Entertainment\nStudios: Toei Animation\nSource: Manga\nGenres:\nDuration: 24 min. per ep\nRating: PG-13 - Teens 13 or older",
+                    "genre": "Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -264,8 +264,19 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=",
+                        "quality": "Video",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": "NID=516=oFtSDOkkowK0UPIsIDMPzzbSi8DXTkXeUP522nHPRYULANe_iNmhRWMTBdcDuzfaK8-ZrGrZgwOon37uGVaLWc0Ch3awCYeOUJBuYCgMSgiSajr2Axq1r1L-yClbYm_whibAY_eQeryIDU-e_aCVoFU59rp9fLLHYDpKc4KbwbU"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

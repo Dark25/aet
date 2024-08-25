@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Pobreflix (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filmes/deadpool-wolverine/",
+                                "title": "Deadpool & Wolverine",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg"
+                            },
+                            {
+                                "url": "/filmes/jolies-filles/",
+                                "title": "Jolies filles",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tyiclx8VegzLUpiLFXSIh1lt710.jpg"
+                            },
+                            {
+                                "url": "/filmes/alien-romulus/",
+                                "title": "Alien: Romulus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg"
+                            },
+                            {
+                                "url": "/filmes/a-liga/",
+                                "title": "A Liga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg"
+                            },
+                            {
+                                "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
+                                "title": "Borderlands: O Destino do Universo Está em Jogo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg"
+                            },
+                            {
+                                "url": "/filmes/os-provocadores/",
+                                "title": "Os Provocadores",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg"
+                            },
+                            {
+                                "url": "/filmes/eu-vi-o-brilho-da-tv/",
+                                "title": "Eu Vi o Brilho da TV",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg"
+                            },
+                            {
+                                "url": "/filmes/planeta-dos-macacos-o-reinado/",
+                                "title": "Planeta dos Macacos: O Reinado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
+                            },
+                            {
+                                "url": "/filmes/assassino-por-acaso/",
+                                "title": "Assassino por Acaso",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3aYbKPczQrae0N142XHYXbWbT5.jpg"
+                            },
+                            {
+                                "url": "/filmes/clube-dos-vandalos/",
+                                "title": "Clube dos Vândalos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg"
+                            },
+                            {
+                                "url": "/series/a-casa-do-dragao/",
+                                "title": "A Casa do Dragão",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
+                            },
+                            {
+                                "url": "/series/cobra-kai/",
+                                "title": "Cobra Kai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]

@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9769-nessun-guadagno-niente-amore",
+                                "title": "Nessun guadagno niente amore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/86fb6b57-f341-4727-884a-0304dba0882a.webp"
+                            },
+                            {
                                 "url": "9768-coincidenze-damore",
                                 "title": "Coincidenze d'amore",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6782fcd4-f035-454e-a3be-ab01c5d1f791.webp"
@@ -610,11 +615,6 @@
                                 "url": "9709-trauma",
                                 "title": "Trauma",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/60bcbd3a-9cbe-4986-abbe-b7630023de8b.webp"
-                            },
-                            {
-                                "url": "9708-funny-games",
-                                "title": "Funny Games",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cd4cec30-cbec-4d41-9c38-afeacf7c812c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

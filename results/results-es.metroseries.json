@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/angry-birds-mystery-island/",
+                                "title": "Angry Birds Mystery Island",
+                                "description": "Angry Birds - La Isla Misteriosa: Una Aventura De Polluelos A diario, la pandilla trama un plan para salir de la isla, pero lo frustran giros inesperados. Se enfrentan al clima extremo, a difíciles aventuras y a nuevas criaturas y resuelven un misterio tras otro. La isla pone constantemente a prueba a Mia, Buddy, Rosie […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hCAtDMQx8cwwQZK7H7HGZhPu2GO.jpg"
+                            },
+                            {
                                 "url": "/heeramandi/",
                                 "title": "Heeramandi",
                                 "description": "हीरामंडी: द डायमंड बाज़ार Mallikajaan reina sobre las cortesanas, pero la aparición de una nueva contrincante amenaza su soberanía mientras se desata una rebelión en la India británica. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/mU6fJPXm3jD4vpShx4k64AyPr7W.jpg"
                             },
                             {
-                                "url": "/cacao/",
-                                "title": "Cacao",
-                                "description": "Cacau es una apasionante saga de secretos familiares, amores clandestinos y sacrificios, todo endulzado por el irresistible sabor del chocolate y la magia de las plantaciones de cacao. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nNCFBKZ68fmr008moWSzLdu2mUP.jpg"
-                            },
-                            {
-                                "url": "/rebelde-2022/",
-                                "title": "Rebelde 2022",
+                                "url": "/black-out/",
+                                "title": "Black-out",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2022/07/jRlI5euugVZR6a1Ptt0nSWeiWH-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/u7Rjhwiaj3WuMSf4uDDguRraksA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/amor-dividido/",
-                                "title": "Amor Dividido",
+                                "url": "/hope-on-the-street/",
+                                "title": "HOPE ON THE STREET",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9fmYGE1sUzEg69UH7qTIbWcSO9c.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tuEgLvnYyKFQYpAQhNuVZN3Fciu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,80 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/heeramandi/",
-                    "title": "Heeramandi",
-                    "description": "हीरामंडी: द डायमंड बाज़ार Mallikajaan reina sobre las cortesanas, pero la aparición de una nueva contrincante amenaza su soberanía mientras se desata una rebelión en la India británica.",
-                    "genre": "Drama, War & Politics",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/w2xTt5iSJNJaiDDhWsVE3ilBRBL.jpg",
+                    "url": "/angry-birds-mystery-island/",
+                    "title": "Angry Birds Mystery Island",
+                    "description": "Angry Birds - La Isla Misteriosa: Una Aventura De Polluelos A diario, la pandilla trama un plan para salir de la isla, pero lo frustran giros inesperados. Se enfrentan al clima extremo, a difíciles aventuras y a nuevas criaturas y resuelven un misterio tras otro. La isla pone constantemente a prueba a Mia, Buddy, Rosie y Betocino. Solo superando estas pruebas y adentrándose en el corazón de la oscuridad, nuestros héroes podrán encontrar un camino a casa.",
+                    "genre": "Action & Adventure, Animación, Comedia, Familia, Kids, Misterio, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hCAtDMQx8cwwQZK7H7HGZhPu2GO.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/heeramandi-temporada-1-capitulo-8/",
-                        "name": "T01 - E08 - Heeramandi: El canto del cisne",
-                        "date_upload": 1714521600000,
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/heeramandi-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - Cortesanas: El sacrificio de la libertad",
-                        "date_upload": 1714521600000,
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s39.fastream.to/hls2/05/00069/ymstertc694x_,l,n,.urlset/index-f2-v1-a1.m3u8?t=uL86tDDkEHg12Ng3gH3ZlA1iqLl9XDyzLCnsKQpjDgg&s=1724634227&e=43200&f=345258&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/05/00069/ymstertc694x_,l,n,.urlset/index-f2-v1-a1.m3u8?t=uL86tDDkEHg12Ng3gH3ZlA1iqLl9XDyzLCnsKQpjDgg&s=1724634227&e=43200&f=345258&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/05/00069/ymstertc694x_,l,n,.urlset/index-f1-v1-a1.m3u8?t=uL86tDDkEHg12Ng3gH3ZlA1iqLl9XDyzLCnsKQpjDgg&s=1724634227&e=43200&f=345258&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/05/00069/ymstertc694x_,l,n,.urlset/index-f1-v1-a1.m3u8?t=uL86tDDkEHg12Ng3gH3ZlA1iqLl9XDyzLCnsKQpjDgg&s=1724634227&e=43200&f=345258&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00069/z3dbnqx8tf8t_,l,n,.urlset/index-f2-v1-a1.m3u8?t=NdSwDkvDkeB8GNXxOtsSeSn0UGdqlP5hGfSrI2k1UgQ&s=1724634229&e=43200&f=345259&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00069/z3dbnqx8tf8t_,l,n,.urlset/index-f2-v1-a1.m3u8?t=NdSwDkvDkeB8GNXxOtsSeSn0UGdqlP5hGfSrI2k1UgQ&s=1724634229&e=43200&f=345259&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00069/z3dbnqx8tf8t_,l,n,.urlset/index-f1-v1-a1.m3u8?t=NdSwDkvDkeB8GNXxOtsSeSn0UGdqlP5hGfSrI2k1UgQ&s=1724634229&e=43200&f=345259&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00069/z3dbnqx8tf8t_,l,n,.urlset/index-f1-v1-a1.m3u8?t=NdSwDkvDkeB8GNXxOtsSeSn0UGdqlP5hGfSrI2k1UgQ&s=1724634229&e=43200&f=345259&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

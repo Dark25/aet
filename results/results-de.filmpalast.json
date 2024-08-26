@@ -162,9 +162,9 @@
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/jurassic-world.jpg"
                             },
                             {
-                                "url": "/stream/edge-of-tomorrow",
-                                "title": "Edge of Tomorrow",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/edge-of-tomorrow.jpg"
+                                "url": "/stream/sisu",
+                                "title": "Sisu",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sisu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -176,6 +176,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/stream/die-wiege-des-bosen",
+                                "title": "Die Wiege des Bösen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-wiege-des-bosen.jpg"
+                            },
+                            {
+                                "url": "/stream/someone-like-you-2024",
+                                "title": "Someone Like You (2024)",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/someone-like-you-2024.jpg"
+                            },
                             {
                                 "url": "/stream/blink-twice",
                                 "title": "Blink Twice",
@@ -325,16 +335,6 @@
                                 "url": "/stream/monolith-die-alien-verschworung",
                                 "title": "Monolith - Die Alien-Verschwörung",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/monolith-die-alien-verschworung.jpg"
-                            },
-                            {
-                                "url": "/stream/willkommen-im-nirgendwo-wir-sind-die-neuen",
-                                "title": "Willkommen im Nirgendwo - Wir sind die Neuen",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/willkommen-im-nirgendwo-wir-sind-die-neuen.jpg"
-                            },
-                            {
-                                "url": "/stream/popular-theory-die-freundschaftsformel",
-                                "title": "Popular Theory - Die Freundschaftsformel",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/popular-theory-die-freundschaftsformel.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,15 +347,31 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/stream/john-wick",
+                    "title": "John Wick",
+                    "author": "Chad Stahelski David Leitch",
+                    "description": "John Wick (Keanu Reeves) genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau (Bridget Moynahan) einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov (Alfie Allen), der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov (Michael Nyqvist), für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus (Willem Dafoe) an seinen Fersen hängen...",
+                    "genre": "Thriller Action",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://filmpalast.to/files/movies/450/john-wick.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/stream/john-wick",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/mU6fJPXm3jD4vpShx4k64AyPr7W.jpg"
                             },
                             {
-                                "url": "/black-out/",
-                                "title": "Black-out",
+                                "url": "/playing-for-keeps/",
+                                "title": "Playing for Keeps",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/u7Rjhwiaj3WuMSf4uDDguRraksA.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/QblhosMYBXxQrQyZ9XCkuuVJgf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/hope-on-the-street/",
-                                "title": "HOPE ON THE STREET",
+                                "url": "/sammy-y-raj-viajeros-del-tiempo/",
+                                "title": "Sammy y Raj: Viajeros del tiempo",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tuEgLvnYyKFQYpAQhNuVZN3Fciu.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tosFEfqsDvZmN8GvXXGOwHF5SUR.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,92 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/angry-birds-mystery-island-temporada-1-capitulo-16/",
+                        "name": "T01 - E16 - Episodio 16",
+                        "date_upload": 1724112000000,
+                        "episode_number": 16.0
+                    },
+                    {
+                        "url": "/episode/angry-birds-mystery-island-temporada-1-capitulo-15/",
+                        "name": "T01 - E15 - Episodio 15",
+                        "date_upload": 1724112000000,
+                        "episode_number": 15.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/07/00069/01mkiaq38tp3_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=F8DK67CkMtNt-qxX2pxKPCqaOJEWB4j8z3jS1QXe8WU&s=1724675287&e=43200&f=345464&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/07/00069/01mkiaq38tp3_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=F8DK67CkMtNt-qxX2pxKPCqaOJEWB4j8z3jS1QXe8WU&s=1724675287&e=43200&f=345464&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/07/00069/01mkiaq38tp3_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=F8DK67CkMtNt-qxX2pxKPCqaOJEWB4j8z3jS1QXe8WU&s=1724675287&e=43200&f=345464&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/07/00069/01mkiaq38tp3_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=F8DK67CkMtNt-qxX2pxKPCqaOJEWB4j8z3jS1QXe8WU&s=1724675287&e=43200&f=345464&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/07/00069/01mkiaq38tp3_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=F8DK67CkMtNt-qxX2pxKPCqaOJEWB4j8z3jS1QXe8WU&s=1724675287&e=43200&f=345464&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/07/00069/01mkiaq38tp3_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=F8DK67CkMtNt-qxX2pxKPCqaOJEWB4j8z3jS1QXe8WU&s=1724675287&e=43200&f=345464&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/20/00069/jrwxio4ns434_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=EYBrTGLSFJQZE7vpUgjIKtBr0zdXcFThrKHVsLzp0_k&s=1724675289&e=43200&f=345479&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/20/00069/jrwxio4ns434_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=EYBrTGLSFJQZE7vpUgjIKtBr0zdXcFThrKHVsLzp0_k&s=1724675289&e=43200&f=345479&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/20/00069/jrwxio4ns434_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=EYBrTGLSFJQZE7vpUgjIKtBr0zdXcFThrKHVsLzp0_k&s=1724675289&e=43200&f=345479&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/20/00069/jrwxio4ns434_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=EYBrTGLSFJQZE7vpUgjIKtBr0zdXcFThrKHVsLzp0_k&s=1724675289&e=43200&f=345479&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/20/00069/jrwxio4ns434_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=EYBrTGLSFJQZE7vpUgjIKtBr0zdXcFThrKHVsLzp0_k&s=1724675289&e=43200&f=345479&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/20/00069/jrwxio4ns434_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=EYBrTGLSFJQZE7vpUgjIKtBr0zdXcFThrKHVsLzp0_k&s=1724675289&e=43200&f=345479&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

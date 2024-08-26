@@ -7,26 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/ver-pelicula/un-hombre-lobo-americano-en-londres/",
-                                "title": "Un Hombre Lobo Americano En Londres",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//k4inabU76A8SOCfRg5A1nhjV72.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/un-lobo-adolescente/",
-                                "title": "Un Lobo Adolescente",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//5cKky9Cu3JZ2KTqOUgjRFH6F6tj.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-transportador-3/",
-                                "title": "El Transportador 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//A6jWpnsmiFJR9idlCOUCeP3m03I.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-duro-2/",
-                                "title": "El duro",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//kSq6Y51TcGqFqYaRRKKijNtHeJX.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/martes-de-terror-extremo/",
                                 "title": "Martes de terror extremo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//jIXIgNFwecGhdfk0axFGgWxfR9Q.jpg"
@@ -65,6 +45,26 @@
                                 "url": "/ver-pelicula/vi-el-brillo-del-televisor/",
                                 "title": "Vi el brillo del televisor",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//3AvLBac3KejQ1cO0d183t4rALua.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/intensamente-2/",
+                                "title": "IntensaMente 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//aQnbNiadeGzGSjWLaXyeNxpAUIx.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/exhuma-la-tumba-del-diablo/",
+                                "title": "Exhuma: La Tumba Del Diablo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/super-escuela-de-heroes/",
+                                "title": "Súper Escuela de Héroes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dXtT1o8bLUflTSh1e0XvDSzCFs4.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/liga-de-la-justicia-crisis-en-tierras-infinitas-parte-3/",
+                                "title": "Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//jXeeV5YrACBgc9CGvggdsA6PEmd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -162,11 +162,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/ver-pelicula/cool-world-mundo-cool/",
-                                "title": "Cool World: Mundo Cool",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//4patVfgobt8auhZAquYJhjEmpQO.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/jurassic-world-teoria-del-dinocaos/",
                                 "title": "Jurassic World: Teoría del dinocaos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
@@ -204,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/un-hombre-lobo-americano-en-londres/",
-                    "artist": "Alan Ford",
-                    "description": "David Kessler y Jack son dos jóvenes estadounidenses que, con sus mochilas a cuestas, han decidido pasar tres meses recorriendo Europa. En Inglaterra, en una zona rural desolada, la gente les da unos consejos escalofriantes: «no os apartéis del camino y no os acerquéis a los páramos», «cuidado con la luna». Cuando los jóvenes emprenden la marcha en la oscuridad, oyen un aullido terrorífico procedente de los páramos, pero no saben que los persigue una bestia legendaria sedienta de sangre, cuyas víctimas se convierten en muertos vivientes que deben vagar por la Tierra eternamente; en cambio, quienes escapan con vida tienen reservado un destino diferente…   ",
-                    "genre": "Comedia, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//k4inabU76A8SOCfRg5A1nhjV72.jpg",
+                    "url": "/ver-serie/martes-de-terror-extremo/",
+                    "artist": "",
+                    "author": "อู๋ ชยันต์ เล้ายอดตระกูล",
+                    "description": "Inspirada en el programa de radio de terror tailandés «Angkhan Khlumpong», esta serie presenta ocho historias basadas en relatos de los radioescuchas.   ",
+                    "genre": "Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//jIXIgNFwecGhdfk0axFGgWxfR9Q.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -216,9 +212,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/un-hombre-lobo-americano-en-londres/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/martes-de-terror-extremo-1x8/",
+                        "name": "T1 - E8 - Maldición viral",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/martes-de-terror-extremo-1x7/",
+                        "name": "T1 - E7 - Querida abuelita",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -226,17 +227,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-64tlwpiri7j9v8lx.voe-network.net/engine/hls2-c/01/12062/tygw5l8pmphu_,n,.urlset/index-v1-a1.m3u8?t=woQ48Keg1EoAChQFtpYIxis6MaDtez0JfetedIuXbkc&s=1724609848&e=14400&f=60313313&node=delivery-node-8s8wso5f4w7ft6sg.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "url": "https://delivery-node-dzl7jwlwicyzy5zm.voe-network.net/engine/hls2/01/12057/rskoobc0hrmh_,n,.urlset/index-v1-a1.m3u8?t=KX0VbK7ZIllHBqhf6qkMQNuy4SQMxmTmeRdk0FtItUw&s=1724634228&e=14400&f=60291042&node=delivery-node-dzl7jwlwicyzy5zm.voe-network.net&i=40.76&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-64tlwpiri7j9v8lx.voe-network.net/engine/hls2-c/01/12062/tygw5l8pmphu_,n,.urlset/index-v1-a1.m3u8?t=woQ48Keg1EoAChQFtpYIxis6MaDtez0JfetedIuXbkc&s=1724609848&e=14400&f=60313313&node=delivery-node-8s8wso5f4w7ft6sg.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-dzl7jwlwicyzy5zm.voe-network.net/engine/hls2/01/12057/rskoobc0hrmh_,n,.urlset/index-v1-a1.m3u8?t=KX0VbK7ZIllHBqhf6qkMQNuy4SQMxmTmeRdk0FtItUw&s=1724634228&e=14400&f=60291042&node=delivery-node-dzl7jwlwicyzy5zm.voe-network.net&i=40.76&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06766/n2piya1bl6ff_h/index-v1-a1.m3u8?t=_XY_vhdzYeYLPi4lIPeyLl2tX5ZHIpvpa4xn11tS5aQ&s=1724609847&e=10800&f=33833653&srv=46&asn=8075&sp=4000",
-                        "quality": "Filemoon:1036p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06766/n2piya1bl6ff_h/index-v1-a1.m3u8?t=_XY_vhdzYeYLPi4lIPeyLl2tX5ZHIpvpa4xn11tS5aQ&s=1724609847&e=10800&f=33833653&srv=46&asn=8075&sp=4000",
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06762/ef6rr6iway4t_h/index-v1-a1.m3u8?t=-q-kNfd9SDGN3vDzfXKl1Tnh0-a2stWCF41n7mDg95U&s=1724634225&e=10800&f=33811914&srv=37&asn=8075&sp=4000",
+                        "quality": "Filemoon:1080p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06762/ef6rr6iway4t_h/index-v1-a1.m3u8?t=-q-kNfd9SDGN3vDzfXKl1Tnh0-a2stWCF41n7mDg95U&s=1724634225&e=10800&f=33811914&srv=37&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -244,14 +245,14 @@
                         }
                     },
                     {
-                        "url": "https://tvrm5rqcvd.cdn-jupiter.com/hls2/01/04756/89jiil6t2gs8_n/index-v1-a1.m3u8?t=jAMjFAbSe1ajyQ4NmhSLeHuTeriokVadit3Og9M4Jfo&s=1724609846&e=129600&f=23783160&srv=g8vb4eevehoy&i=0.4&sp=500&p1=g8vb4eevehoy&p2=g8vb4eevehoy&asn=8075",
+                        "url": "https://m8lb9i2jsuhyh.cdn-jupiter.com/hls2/01/04750/r3z19o8o7bof_n/index-v1-a1.m3u8?t=qn_SL_zUHMRI6evi64xgeIYvGLeSR98Io6RrqKAzPOg&s=1724634225&e=129600&f=23752782&srv=sy1qkh389kzm&i=0.4&sp=500&p1=sy1qkh389kzm&p2=sy1qkh389kzm&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://tvrm5rqcvd.cdn-jupiter.com/hls2/01/04756/89jiil6t2gs8_n/index-v1-a1.m3u8?t=jAMjFAbSe1ajyQ4NmhSLeHuTeriokVadit3Og9M4Jfo&s=1724609846&e=129600&f=23783160&srv=g8vb4eevehoy&i=0.4&sp=500&p1=g8vb4eevehoy&p2=g8vb4eevehoy&asn=8075",
+                        "videoUrl": "https://m8lb9i2jsuhyh.cdn-jupiter.com/hls2/01/04750/r3z19o8o7bof_n/index-v1-a1.m3u8?t=qn_SL_zUHMRI6evi64xgeIYvGLeSR98Io6RrqKAzPOg&s=1724634225&e=129600&f=23752782&srv=sy1qkh389kzm&i=0.4&sp=500&p1=sy1qkh389kzm&p2=sy1qkh389kzm&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/89jiil6t2gs8"
+                            "Origin": "https://wishonly.site",
+                            "Referer": "https://wishonly.site/e/r3z19o8o7bof"
                         }
                     }
                 ],

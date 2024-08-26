@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9438-maxxxine",
+                                "title": "MaXXXine",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/73cef5a2-9dc8-498b-8701-1a2a4dc79d0c.webp"
+                            },
+                            {
                                 "url": "9703-se-un-albero-cade-in-una-foresta",
                                 "title": "Se un albero cade in una foresta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e8f73179-429b-4764-8709-6ff228561717.webp"
@@ -300,11 +305,6 @@
                                 "url": "9208-cobra-kai-vi-i-segreti-del-dojo",
                                 "title": "Cobra Kai VI: I segreti del dojo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/fbb9cec9-c10c-4ed2-8959-2514aa4893d1.webp"
-                            },
-                            {
-                                "url": "9207-my-spy-la-citta-eterna",
-                                "title": "My Spy - La città eterna",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cb507169-970c-4a94-baf7-1687e6f5a7a2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9764-dumb-money-non-chiamateli-sprovveduti",
+                                "title": "Dumb Money - Non chiamateli Sprovveduti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/234a9995-48ae-4267-ad85-6d3b7962fb19.webp"
+                            },
                             {
                                 "url": "9763-yannick-la-rivincita-dello-spettatore",
                                 "title": "Yannick - La rivincita dello spettatore",
@@ -610,11 +615,6 @@
                                 "url": "9704-sirene",
                                 "title": "Sirene",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/666c6223-bb6c-48b1-bab4-b243d00d0dae.webp"
-                            },
-                            {
-                                "url": "9700-rodeo",
-                                "title": "Rodeo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7355d477-acfd-4a4b-bfa8-dd29ccad4d49.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9703-se-un-albero-cade-in-una-foresta",
-                    "description": "Durante un'estate tranquilla una donna misteriosa arriva in una casa vacanze, provocando eventi che sconvolgeranno la vita del proprietario e di chi gli sta vicino.",
-                    "genre": "Dramma, Mistero, Korean drama",
+                    "url": "9438-maxxxine",
+                    "description": "Nella Hollywood degli anni '80, la star del cinema per adulti e aspirante attrice Maxine Minx ottiene finalmente la sua grande occasione. Ma mentre un misterioso assassino insegue le star di Hollywood, una scia di sangue minaccia di rivelare il suo sinistro passato.",
+                    "genre": "Crime, Mistero, Horror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,100 +946,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9703?episode_id=75648&next_episode=1",
-                        "name": "Stagione 1 episodio 8 - Suppongo che avremo molto di cui parlare",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "9703?episode_id=75649&next_episode=1",
-                        "name": "Stagione 1 episodio 7 - Andrò fino in fondo con lei, signore",
-                        "episode_number": 7.0
+                        "url": "9438",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/257243?type=video&rendition=480p&token=BsNmq7XcmnCk8KK3m2ZfBQ&edge=sc-u5-01",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/257243?type=video&rendition=480p&token=BsNmq7XcmnCk8KK3m2ZfBQ&edge=sc-u5-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=3-kor&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Korean [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=4-ger&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "German"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=5-eng&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=6-eng&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=7-fre&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=8-forced-ita&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=9-ita&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=10-ukr&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Ukrainian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/257243?type=video&rendition=720p&token=MhbCLFA_-gEaa0m5EN4l0Q&edge=sc-u5-01",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/257243?type=video&rendition=720p&token=MhbCLFA_-gEaa0m5EN4l0Q&edge=sc-u5-01",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=3-kor&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Korean [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=4-ger&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "German"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=5-eng&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "English [CC]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=6-eng&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=7-fre&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=8-forced-ita&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=9-ita&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Italian"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/257243?type=subtitle&rendition=10-ukr&token=Oil2ceXZMc0f1L-MrPklFw&edge=sc-u5-01",
-                                "lang": "Ukrainian"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

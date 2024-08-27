@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/حب-ومصالح/",
+                                "title": "حب ومصالح No Gain No Love"
+                            },
+                            {
                                 "url": "/سندريلا-الثانية-صباحاَ/",
                                 "title": "سندريلا الثانية صباحاَ Cinderella at 2 AM"
                             },
@@ -135,16 +139,16 @@
                                 "title": "حبيبتي العسكرية My Military Valentine"
                             },
                             {
+                                "url": "/تسلسل-هرمي/",
+                                "title": "تسلسل هرمي Hierarchy"
+                            },
+                            {
                                 "url": "/قبلة-المطر/",
                                 "title": "قبلة المطر Kissed By The Rain"
                             },
                             {
                                 "url": "/ليلة-الأحد،-على-الأقل…/",
                                 "title": "ليلة الأحد، على الأقل Nichiyo no Yoru Gurai wa"
-                            },
-                            {
-                                "url": "/تسلسل-هرمي/",
-                                "title": "تسلسل هرمي Hierarchy"
                             },
                             {
                                 "url": "/اللاعب-2-سيد-المحتالين/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/إتصال/",
                                 "title": "إتصال Connection"
-                            },
-                            {
-                                "url": "/الغيرة-المتجسدة/",
-                                "title": "الغيرة المتجسدة Jealousy Incarnate"
                             }
                         ],
                         "hasNextPage": true
@@ -280,22 +280,41 @@
             },
             "details": {
                 "result": {
-                    "url": "/سندريلا-الثانية-صباحاَ/",
-                    "title": "سندريلا الثانية صباحاَ Cinderella at 2 AM",
-                    "description": "تدور أحداث الدراما حول قصة “ها يون سيو”، وهي فتاة عازبة تعمل في منصب قائدة فريق في شركة كبيرة. تتمتع ها يون سيو بجاذبية وشخصية لطيفة وتحظى بالاحترام في الشركة. في صغرها، قامت ها يون سيو بأخذ شقيقها الأصغر والفرار من المنزل بسبب العنف الذي كانت تتعرض له. وبمرور الوقت، نضجت ها يو Shin-Hyun-Been : في دور Ha Yun Seo Moon-Sang-Min : في دور Seo Ju Won Yoon-Park : في دور Seo Si Won Park-So-Jin : في دور Lee Mi Jin Kim-Tae-Jung : في دور Ha Ji Suk Hong-Bi-Ra : في دور Support Role",
-                    "genre": "كوريا الجنوبية, رومانسي, كوميدي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/coupang-play-drama-cinderella-at-2-am-teaser-poster-240802-01-1413x2024-1.jpg",
+                    "url": "/حب-ومصالح/",
+                    "title": "حب ومصالح No Gain No Love",
+                    "description": "تدور القصة حول امرأة تدعى “سون ها يونغ” التي تخشى فقدان أموالها وتخطط للدخول في زواج مزيف لتجنب ذلك. تطلب من شاب يدعى “كيم جي ووك” أن يتظاهر بأنه خطيبها في حفل زفافها. يعمل “كيم جي ووك” بدوام جزئي كأمين صندوق ويهتم بالمحتاجين ويحاول مساعدتهم. يوافق “كيم جي ووك Shin-Min-Ah : في دور Son Ha Young Kim-Young-Dae : في دور Kim Ji Wook Lee-Sang-Yi : في دور Bok Gyu Hyun Jeon-Hye-Won : في دور Kim Yi Rin Lee-Yoo-Jin : في دور Yeo Ha Joon Han-Ji-Hyun : في دور Nam Ja Yeon",
+                    "genre": "كوريا الجنوبية, درامي, رومانسي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/high.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/حب-ومصالح-الحلقة-01/",
+                        "name": "01 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=eVbPrRRBRXCjGk&expires=1724831581&ip=F0qQKRWZD19XKxR&token=mcdOmOCBOMpk",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=eVbPrRRBRXCjGk&expires=1724831581&ip=F0qQKRWZD19XKxR&token=mcdOmOCBOMpk"
+                    },
+                    {
+                        "url": "https://en9.uqload.ws/3rfk4qvptrw2q4drdk2pvpxxlonm56mqks2a55s4l7vdmecfc666brzdztoa/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://en9.uqload.ws/3rfk4qvptrw2q4drdk2pvpxxlonm56mqks2a55s4l7vdmecfc666brzdztoa/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

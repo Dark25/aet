@@ -3,23 +3,29 @@
         "name": "EnNovelas (ES)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: tv.ennovelas.net: Name or service not known",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: tv.ennovelas.net",
-                "passed": false
+                "result": {
+                    "artist": "",
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: tv.ennovelas.net",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9779-untold-i-segnali-segreti-del-football",
+                                "title": "Untold: i segnali segreti del football",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f7b826ba-1e3e-4c47-9ebd-8bfd5fde7534.webp"
+                            },
+                            {
                                 "url": "9438-maxxxine",
                                 "title": "MaXXXine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/73cef5a2-9dc8-498b-8701-1a2a4dc79d0c.webp"
@@ -300,11 +305,6 @@
                                 "url": "9212-those-about-to-die",
                                 "title": "Those About to Die",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/dee5235e-68ac-42f7-b975-8abf3c8caf33.webp"
-                            },
-                            {
-                                "url": "9208-cobra-kai-vi-i-segreti-del-dojo",
-                                "title": "Cobra Kai VI: I segreti del dojo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/fbb9cec9-c10c-4ed2-8959-2514aa4893d1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9438-maxxxine",
-                    "description": "Nella Hollywood degli anni '80, la star del cinema per adulti e aspirante attrice Maxine Minx ottiene finalmente la sua grande occasione. Ma mentre un misterioso assassino insegue le star di Hollywood, una scia di sangue minaccia di rivelare il suo sinistro passato.",
-                    "genre": "Crime, Mistero, Horror",
+                    "url": "9779-untold-i-segnali-segreti-del-football",
+                    "description": "In questo documentario sportivo, Connor Stalions affronta per la prima volta le accuse relative allo scandalo del furto di segnali in codice nel football di Michigan.",
+                    "genre": "Documentario",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9438",
+                        "url": "9779",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,8 +954,79 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/257816?type=video&rendition=480p&token=bpB4f4CQvgIxTHD_Tp01ow&edge=sc-u8-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/257816?type=video&rendition=480p&token=bpB4f4CQvgIxTHD_Tp01ow&edge=sc-u8-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=3-eng&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=4-ger&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=5-gre&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=6-fre&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=7-forced-ita&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=8-ita&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=9-ukr&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/257816?type=video&rendition=720p&token=ebbxeABY0kofjoaKxArvXw&edge=sc-u8-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/257816?type=video&rendition=720p&token=ebbxeABY0kofjoaKxArvXw&edge=sc-u8-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=3-eng&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=4-ger&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=5-gre&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=6-fre&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=7-forced-ita&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=8-ita&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/257816?type=subtitle&rendition=9-ukr&token=oD0pMZh3hnjNUWTgIFyRZA&edge=sc-u8-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

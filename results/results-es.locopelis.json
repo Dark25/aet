@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzklni66jf3di5ooq/eckdu0ef3z~iMDTIQVI4A?token=faa3a98f24ktc5woxwz3px7v&expiry=1724720663860",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzklni66jf3di5ooq/eckdu0ef3z~iMDTIQVI4A?token=faa3a98f24ktc5woxwz3px7v&expiry=1724720663860",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

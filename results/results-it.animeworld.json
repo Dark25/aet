@@ -662,8 +662,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Q1QvwmvKVLF0YDW&expires=1724895236&ip=F0qQKRWZD19XKxR&token=Nn3o0UNYv-eR",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Q1QvwmvKVLF0YDW&expires=1724895236&ip=F0qQKRWZD19XKxR&token=Nn3o0UNYv-eR"
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06729/l23xuoiujq4d_x/index-v1-a1.m3u8?t=EVYoIRZNbNxUhaMMEuzm00wzGqKcayAaKzpv25VRc_w&s=1724825234&e=10800&f=33647464&srv=30&asn=8075&sp=5500",
+                        "quality": "FileMoon - 720p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06729/l23xuoiujq4d_x/index-v1-a1.m3u8?t=EVYoIRZNbNxUhaMMEuzm00wzGqKcayAaKzpv25VRc_w&s=1724825234&e=10800&f=33647464&srv=30&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

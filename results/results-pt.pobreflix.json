@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/o-corvo/",
+                                "title": "O Corvo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg"
+                            },
+                            {
                                 "url": "/series/cidade-de-deus-a-luta-nao-para/",
                                 "title": "Cidade de Deus: A Luta Não Para",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/clube-dos-vandalos/",
                                 "title": "Clube dos Vândalos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg"
-                            },
-                            {
-                                "url": "/series/a-casa-do-dragao/",
-                                "title": "A Casa do Dragão",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/cidade-de-deus-a-luta-nao-para/",
-                    "title": "Cidade de Deus: A Luta Não Para",
-                    "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.\n\nTítulo Original: Cidade de Deus: A Luta Não Para\nTemporadas: 1\nEpisódios: 6",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+                    "url": "/filmes/o-corvo/",
+                    "title": "O Corvo",
+                    "description": "As almas gêmeas Eric Draven e Shelly Webster são brutalmente assassinadas quando os demônios de seu passado sombrio os alcançam. Atravessando os mundos dos vivos e dos mortos, Draven retorna em busca de vingança sangrenta contra os assassinos.\n\nTítulo Original: The Crow",
+                    "genre": "Ação, Fantasia, Terror, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,16 +466,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/cidade-de-deus-a-luta-nao-para-1x6/",
-                        "name": "Temporada 1 x 6 - Episódio 6",
-                        "date_upload": 1727481600000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodes/cidade-de-deus-a-luta-nao-para-1x5/",
-                        "name": "Temporada 1 x 5 - Episódio 5",
-                        "date_upload": 1726876800000,
-                        "episode_number": 5.0
+                        "url": "/filmes/o-corvo/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

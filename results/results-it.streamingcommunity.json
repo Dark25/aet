@@ -317,6 +317,31 @@
                     {
                         "animes": [
                             {
+                                "url": "9797-holy-motors",
+                                "title": "Holy Motors",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/062ec962-aecb-49b8-bc99-99a49b97ed6c.webp"
+                            },
+                            {
+                                "url": "9794-brooklyns-finest",
+                                "title": "Brooklyn's Finest",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2993b0bd-5ebd-4450-b462-8cd32146695b.webp"
+                            },
+                            {
+                                "url": "9793-non-sposate-le-mie-figlie",
+                                "title": "Non sposate le mie figlie!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f8d009af-9f8e-4e02-9fc3-ae88d5afe4bd.webp"
+                            },
+                            {
+                                "url": "9792-caos",
+                                "title": "Caos",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/af55563a-c505-410f-a774-8cf3a6a9630d.webp"
+                            },
+                            {
+                                "url": "9791-the-deep-dark-discesa-nellabisso",
+                                "title": "The deep dark - Discesa nell'abisso",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2eb16063-1aaf-4808-ad60-4e359bf927b7.webp"
+                            },
+                            {
                                 "url": "9790-gaga-chromatica-ball",
                                 "title": "Gaga Chromatica Ball",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/32ad5511-8e0a-4fd6-9a66-2af4818d1250.webp"
@@ -590,31 +615,6 @@
                                 "url": "9728-lovestruck-in-the-city",
                                 "title": "Lovestruck in the City",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e65b654c-17ad-4ec1-b3cb-4627c998d0eb.webp"
-                            },
-                            {
-                                "url": "9727-under-the-skin",
-                                "title": "Under the Skin",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2e42b05a-c03e-463a-ba2e-410a1fe704bd.webp"
-                            },
-                            {
-                                "url": "9726-un-bacio",
-                                "title": "Un bacio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1422e199-afd3-4fb8-a3a9-3d288a02f6f4.webp"
-                            },
-                            {
-                                "url": "9725-sindrome-cinese",
-                                "title": "Sindrome cinese",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ff59f6f0-b5cf-4adc-945c-abee425e1fb4.webp"
-                            },
-                            {
-                                "url": "9724-lultimo-boy-scout-missione-sopravvivere",
-                                "title": "L'ultimo boy scout - Missione: sopravvivere",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/760b76f1-7b90-4dc4-8b09-26dbe7f2f8e0.webp"
-                            },
-                            {
-                                "url": "9723-il-socio",
-                                "title": "Il socio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/19a46cd4-7a3f-4ed6-96a7-174c269ff777.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,39 +954,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/258015?type=video&rendition=480p&token=lIgA901eq8bOtj1zByLtCA&expires=1730030886&b=1",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/258015?type=video&rendition=480p&token=lIgA901eq8bOtj1zByLtCA&expires=1730030886&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/258015?type=subtitle&rendition=3-forced-ita&token=bWBFySgvKlIqdKN5ifhl6g&expires=1730030886&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/258015?type=subtitle&rendition=4-ita&token=bWBFySgvKlIqdKN5ifhl6g&expires=1730030886&b=1",
-                                "lang": "Italian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/258015?type=video&rendition=720p&token=Ho1JkIuEh1hogwU8sO__TA&expires=1730030886&b=1",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/258015?type=video&rendition=720p&token=Ho1JkIuEh1hogwU8sO__TA&expires=1730030886&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/258015?type=subtitle&rendition=3-forced-ita&token=bWBFySgvKlIqdKN5ifhl6g&expires=1730030886&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/258015?type=subtitle&rendition=4-ita&token=bWBFySgvKlIqdKN5ifhl6g&expires=1730030886&b=1",
-                                "lang": "Italian"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

@@ -3,27 +3,27 @@
         "name": "AniPlay (IT)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLException: Unsupported or unrecognized SSL message",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLException: Unsupported or unrecognized SSL message",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLException: Unsupported or unrecognized SSL message",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLException: Unsupported or unrecognized SSL message",
+                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLException: Unsupported or unrecognized SSL message",
+                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLException: Unsupported or unrecognized SSL message",
+                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
                 "passed": false
             }
         }

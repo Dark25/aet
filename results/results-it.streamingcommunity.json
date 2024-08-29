@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9803-i-dannati",
+                                "title": "I dannati",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/eafa54fa-5708-4c58-a14b-92df0773e018.webp"
+                            },
+                            {
                                 "url": "9784-lesorcismo-ultimo-atto",
                                 "title": "L'esorcismo - Ultimo atto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/699048f8-371a-4f25-b3e0-7437b043a152.webp"
@@ -40,6 +45,11 @@
                                 "url": "9438-maxxxine",
                                 "title": "MaXXXine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/73cef5a2-9dc8-498b-8701-1a2a4dc79d0c.webp"
+                            },
+                            {
+                                "url": "9802-una-storia-nera",
+                                "title": "Una storia nera",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bd969662-be59-4828-8927-4fbccea66e8f.webp"
                             },
                             {
                                 "url": "9703-se-un-albero-cade-in-una-foresta",
@@ -295,16 +305,6 @@
                                 "url": "5384-deadpool-and-wolverine",
                                 "title": "Deadpool & Wolverine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/267cb5a3-5a43-4ad4-a77a-616f5404168a.webp"
-                            },
-                            {
-                                "url": "9285-time-bandits",
-                                "title": "Time Bandits",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/53161729-8c6e-4334-845a-cf0ea49c79c4.webp"
-                            },
-                            {
-                                "url": "9267-nato-con-la-camicia",
-                                "title": "Nato con la camicia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c1454def-a51a-4bf5-912e-c326a254022e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9805-immaturi-il-viaggio",
+                                "title": "Immaturi - Il viaggio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4c144607-57a4-402e-84be-2c93fb1326f7.webp"
+                            },
+                            {
+                                "url": "9804-voglia-di-vincere",
+                                "title": "Voglia di vincere",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/fc8c1d93-c1d4-471b-b74f-75fd72647347.webp"
+                            },
                             {
                                 "url": "9801-lalba-dei-morti-viventi",
                                 "title": "L'alba dei morti viventi",
@@ -605,16 +615,6 @@
                                 "url": "9734-genie",
                                 "title": "Genie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e4b51e9a-186a-4fea-864b-3cc4f254da35.webp"
-                            },
-                            {
-                                "url": "9733-fuoco-mortale",
-                                "title": "Fuoco mortale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6ce05d83-30e4-4188-8bdd-85cc6013672d.webp"
-                            },
-                            {
-                                "url": "9732-jinnys-kitchen",
-                                "title": "Jinny's Kitchen",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/46983c5b-7274-4dbf-8d40-f55106af7e9b.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9784-lesorcismo-ultimo-atto",
-                    "description": "Anthony Miller (Russell Crowe) è un attore ormai alla deriva, tormentato dai demoni del suo passato. Quando finalmente ottiene un ruolo da protagonista in un film horror sugli esorcismi, Anthony sembra riprendere contatto con la realtà, ricucendo persino il rapporto complesso con sua figlia adolescente. Durante le riprese, però, inquietanti fenomeni iniziano a susseguirsi sul set del film, trascinando Anthony in un baratro di follia. Scena dopo scena, il comportamento dell’uomo si fa sempre più sinistro, rendendolo una pericolosa minaccia persino per sua figlia.",
-                    "genre": "Thriller, Horror",
+                    "url": "9803-i-dannati",
+                    "description": "Inverno 1862. Nel pieno della guerra di Secessione, l'esercito degli Stati Uniti invia ad ovest una compagnia di volontari con il compito di perlustrare e presidiare le terre inesplorate. La missione travolge un pugno di uomini in armi, svelando loro il senso ultimo del proprio viaggio verso la frontiera",
+                    "genre": "Dramma, Guerra, Storia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9784",
+                        "url": "9803",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,8 +954,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/258060?type=video&rendition=480p&token=TwPODPtgv-plY4fQndhLfw&edge=sc-u2-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/258060?type=video&rendition=480p&token=TwPODPtgv-plY4fQndhLfw&edge=sc-u2-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/258060?type=subtitle&rendition=3-ita&token=OOGzqb8gbTeoj5hnckevng&edge=sc-u2-01",
+                                "lang": "Italian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/258060?type=video&rendition=720p&token=Fyb9L2dL04hUoR78Ksr2CA&edge=sc-u2-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/258060?type=video&rendition=720p&token=Fyb9L2dL04hUoR78Ksr2CA&edge=sc-u2-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/258060?type=subtitle&rendition=3-ita&token=OOGzqb8gbTeoj5hnckevng&edge=sc-u2-01",
+                                "lang": "Italian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

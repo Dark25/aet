@@ -374,59 +374,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
-                        "quality": "[bengali] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
-                        "quality": "[bengali] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
-                        "quality": "[bengali] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
-                        "quality": "[bengali] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
-                        "quality": "[bengali] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -528,14 +477,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/331.webp"
                             },
                             {
-                                "url": "/series/kaiju-no-8/",
-                                "title": "Kaiju No. 8",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
-                            },
-                            {
                                 "url": "/series/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/12588.webp"
+                            },
+                            {
+                                "url": "/series/kaiju-no-8/",
+                                "title": "Kaiju No. 8",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -725,59 +674,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
-                        "quality": "[english] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
-                        "quality": "[english] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
-                        "quality": "[english] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
-                        "quality": "[english] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
-                        "quality": "[english] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1071,59 +969,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
-                        "quality": "[hindi] MyStream: 1080p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
-                        "quality": "[hindi] MyStream: 240p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
-                        "quality": "[hindi] MyStream: 360p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
-                        "quality": "[hindi] MyStream: 480p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
-                        "quality": "[hindi] MyStream: 720p",
-                        "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1180,14 +1027,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2488.webp"
                             },
                             {
-                                "url": "/series/kaiju-no-8/",
-                                "title": "Kaiju No. 8",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
-                            },
-                            {
                                 "url": "/series/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/12588.webp"
+                            },
+                            {
+                                "url": "/series/kaiju-no-8/",
+                                "title": "Kaiju No. 8",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
                             },
                             {
                                 "url": "/series/haikyu/",
@@ -1407,19 +1254,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://beta.awstream.net/m3u8/a733fa9b25f33689e2adbe72199f0e62/master.txt?s=1&cache=1",
-                        "quality": "[japanese] MyStream: Video",
-                        "videoUrl": "https://beta.awstream.net/m3u8/a733fa9b25f33689e2adbe72199f0e62/master.txt?s=1&cache=1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1699,14 +1535,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2488.webp"
                             },
                             {
-                                "url": "/series/kaiju-no-8/",
-                                "title": "Kaiju No. 8",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
-                            },
-                            {
                                 "url": "/series/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/12588.webp"
+                            },
+                            {
+                                "url": "/series/kaiju-no-8/",
+                                "title": "Kaiju No. 8",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
                             },
                             {
                                 "url": "/series/ninja-hattori-1981/",
@@ -1719,14 +1555,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/13567.webp"
                             },
                             {
-                                "url": "/series/gods-game-we-play/",
-                                "title": "Gods’ Game We Play",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/12488.webp"
-                            },
-                            {
                                 "url": "/series/doraemon-2005/",
                                 "title": "Doraemon (2005)",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2750.webp"
+                            },
+                            {
+                                "url": "/series/gods-game-we-play/",
+                                "title": "Gods’ Game We Play",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12488.webp"
                             },
                             {
                                 "url": "/series/my-dress-up-darling/",
@@ -1901,19 +1737,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://beta.awstream.net/m3u8/a733fa9b25f33689e2adbe72199f0e62/master.txt?s=1&cache=1",
-                        "quality": "[tamil] MyStream: Video",
-                        "videoUrl": "https://beta.awstream.net/m3u8/a733fa9b25f33689e2adbe72199f0e62/master.txt?s=1&cache=1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "cookie": "",
-                            "accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -1985,14 +1810,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2488.webp"
                             },
                             {
-                                "url": "/series/kaiju-no-8/",
-                                "title": "Kaiju No. 8",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
-                            },
-                            {
                                 "url": "/series/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/12588.webp"
+                            },
+                            {
+                                "url": "/series/kaiju-no-8/",
+                                "title": "Kaiju No. 8",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/12483.webp"
                             },
                             {
                                 "url": "/series/ninja-hattori-1981/",

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/that-dirty-black-bag",
+                                "title": "That Dirty Black Bag (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg"
+                            },
+                            {
+                                "url": "/serie/terminator-zero",
+                                "title": "Terminator Zero (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zEPdAqxCdvHuOAVwbr8tWCQK6A0.jpg"
+                            },
+                            {
                                 "url": "/serie/no-hay-amor-desinteresado",
                                 "title": "No hay amor desinteresado (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6i9fwFLSUiPai2dqbXjG95K3ZG4.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/fuimos-los-afortunados",
                                 "title": "Fuimos los afortunados (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/warIzrnywMOf9DUVV8wvORfcmPv.jpg"
-                            },
-                            {
-                                "url": "/serie/las-azules",
-                                "title": "Las azules (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yZyfKzPxKNVW4WV2xXjm3uBx00I.jpg"
-                            },
-                            {
-                                "url": "/serie/batman-el-cruzado-enmascarado",
-                                "title": "Batman: El cruzado enmascarado (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/18H6Ehndv8zL3d9Rf1L56AWr3Hx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/no-hay-amor-desinteresado",
-                    "title": "No hay amor desinteresado (2024)",
-                    "description": "Una mujer se embarca en un viaje de autodescubrimiento y crecimiento personal, navegando por las complejidades de la vida y las relaciones mientras persigue sus sueños..",
-                    "genre": "Comedia, Drama",
+                    "url": "/serie/that-dirty-black-bag",
+                    "title": "That Dirty Black Bag (2022)",
+                    "description": "Una serie cruda, épica y romántica de spaghetti western sobre el lado oscuro del salvaje Oeste. La historia sigue el enfrentamiento de ocho días entre Arthur McCoy (Cooper), un sheriff incorruptible con un pasado turbulento, y Red Bill (Booth), un infame y solitario cazarrecompensas conocido por decapitar a sus víctimas y meter sus cabezas en una bolsa negra sucia, porque, como él dice, 'las cabezas pesan menos que los cuerpos'..",
+                    "genre": "Drama, Western",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6i9fwFLSUiPai2dqbXjG95K3ZG4.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,87 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/no-hay-amor-desinteresado/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/that-dirty-black-bag/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Capítulo 8 : El Gran Duelo",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/no-hay-amor-desinteresado/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/that-dirty-black-bag/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Capítulo 7 : El Plan",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-blifdtcquwr165mv.voe-network.net/engine/hls2-c/01/12098/bwno5d4hlzdk_,n,.urlset/index-v1-a1.m3u8?t=2qc7FJt5-B0PAQhOV872qqTSFj_eF16dYw0wpAsFsNg&s=1724976974&e=14400&f=60493176&node=delivery-node-2gleqxg08naupyvz.voe-network.net&i=13.86&sp=2500&asn=8075",
-                        "quality": "Voe:960p",
-                        "videoUrl": "https://delivery-node-blifdtcquwr165mv.voe-network.net/engine/hls2-c/01/12098/bwno5d4hlzdk_,n,.urlset/index-v1-a1.m3u8?t=2qc7FJt5-B0PAQhOV872qqTSFj_eF16dYw0wpAsFsNg&s=1724976974&e=14400&f=60493176&node=delivery-node-2gleqxg08naupyvz.voe-network.net&i=13.86&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://hi3thh5oxxww.aghe-cdn.com/hls2/01/02221/b001upluebeb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=SCnWW9C9gVP3LXXDsFi-JJZ7fn5CjYh7ugU0jDRRjoY&s=1724976972&e=129600&f=11109372&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=8075",
-                        "quality": "StreamHideVid - 960p",
-                        "videoUrl": "https://hi3thh5oxxww.aghe-cdn.com/hls2/01/02221/b001upluebeb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=SCnWW9C9gVP3LXXDsFi-JJZ7fn5CjYh7ugU0jDRRjoY&s=1724976972&e=129600&f=11109372&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04798/52gayvx0yf0x_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lk7RzQCcAksWGL_ggvWo8KnpGCJPM87rKBOdWMSSVM8&s=1724976969&e=129600&f=23992757&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "StreamWish:960p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04798/52gayvx0yf0x_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lk7RzQCcAksWGL_ggvWo8KnpGCJPM87rKBOdWMSSVM8&s=1724976969&e=129600&f=23992757&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/52gayvx0yf0x"
-                        }
-                    },
-                    {
-                        "url": "https://hi3thh5oxxww.aghe-cdn.com/hls2/01/02221/b001upluebeb_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SCnWW9C9gVP3LXXDsFi-JJZ7fn5CjYh7ugU0jDRRjoY&s=1724976972&e=129600&f=11109372&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=8075",
-                        "quality": "StreamHideVid - 720p",
-                        "videoUrl": "https://hi3thh5oxxww.aghe-cdn.com/hls2/01/02221/b001upluebeb_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SCnWW9C9gVP3LXXDsFi-JJZ7fn5CjYh7ugU0jDRRjoY&s=1724976972&e=129600&f=11109372&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04798/52gayvx0yf0x_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lk7RzQCcAksWGL_ggvWo8KnpGCJPM87rKBOdWMSSVM8&s=1724976969&e=129600&f=23992757&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04798/52gayvx0yf0x_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lk7RzQCcAksWGL_ggvWo8KnpGCJPM87rKBOdWMSSVM8&s=1724976969&e=129600&f=23992757&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/52gayvx0yf0x"
-                        }
-                    },
-                    {
-                        "url": "https://hi3thh5oxxww.aghe-cdn.com/hls2/01/02221/b001upluebeb_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=SCnWW9C9gVP3LXXDsFi-JJZ7fn5CjYh7ugU0jDRRjoY&s=1724976972&e=129600&f=11109372&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=8075",
-                        "quality": "StreamHideVid - 480p",
-                        "videoUrl": "https://hi3thh5oxxww.aghe-cdn.com/hls2/01/02221/b001upluebeb_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=SCnWW9C9gVP3LXXDsFi-JJZ7fn5CjYh7ugU0jDRRjoY&s=1724976972&e=129600&f=11109372&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04798/52gayvx0yf0x_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lk7RzQCcAksWGL_ggvWo8KnpGCJPM87rKBOdWMSSVM8&s=1724976969&e=129600&f=23992757&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04798/52gayvx0yf0x_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lk7RzQCcAksWGL_ggvWo8KnpGCJPM87rKBOdWMSSVM8&s=1724976969&e=129600&f=23992757&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/52gayvx0yf0x"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -770,9 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Ws3TM1POAKFdjK8GBPvLohBBayYrA9f6Zdi11yS-9cI&s=1724976979&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=1KXy6pCZmktCHpvyjoyVuy3g7XPLQgi5urzUp9GA3mY&s=1724998009&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Ws3TM1POAKFdjK8GBPvLohBBayYrA9f6Zdi11yS-9cI&s=1724976979&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=1KXy6pCZmktCHpvyjoyVuy3g7XPLQgi5urzUp9GA3mY&s=1724998009&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -781,9 +715,9 @@
                         }
                     },
                     {
-                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Ws3TM1POAKFdjK8GBPvLohBBayYrA9f6Zdi11yS-9cI&s=1724976979&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=1KXy6pCZmktCHpvyjoyVuy3g7XPLQgi5urzUp9GA3mY&s=1724998009&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Ws3TM1POAKFdjK8GBPvLohBBayYrA9f6Zdi11yS-9cI&s=1724976979&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=1KXy6pCZmktCHpvyjoyVuy3g7XPLQgi5urzUp9GA3mY&s=1724998009&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -792,9 +726,9 @@
                         }
                     },
                     {
-                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Ws3TM1POAKFdjK8GBPvLohBBayYrA9f6Zdi11yS-9cI&s=1724976979&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=1KXy6pCZmktCHpvyjoyVuy3g7XPLQgi5urzUp9GA3mY&s=1724998009&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Ws3TM1POAKFdjK8GBPvLohBBayYrA9f6Zdi11yS-9cI&s=1724976979&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04795/etjvvxwqslb7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=1KXy6pCZmktCHpvyjoyVuy3g7XPLQgi5urzUp9GA3mY&s=1724998009&e=129600&f=23978520&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

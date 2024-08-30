@@ -7,12 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/peliculas/presa-2024/",
-                                "title": "Presa (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/uMILqn3ArGkfDSteAlqsL2WiINT.jpg"
-                            },
-                            {
                                 "url": "/peliculas/barbie-rapunzel-2002/",
                                 "title": "Barbie: Rapunzel (2002)",
                                 "description": "",
@@ -113,6 +107,12 @@
                                 "title": "La otra cara de la Luna (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/La-otra-cara-de-la-Luna-2024-scaled.jpg"
+                            },
+                            {
+                                "url": "/peliculas/exhuma-la-tumba-del-diablo-2024/",
+                                "title": "Exhuma: La Tumba Del Diablo (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/presa-2024/",
-                    "title": "Presa (2024)",
-                    "artist": "Ryan Phillippe",
-                    "author": "Mukunda Michael Dewil",
-                    "description": "Una joven pareja se ve obligada a abandonar su puesto de misioneros cristianos en el desierto del Kalahari tras ser amenazados de muerte por una banda de militantes extremistas. Tras estrellarse su avión, deben luchar contra hombres y animales por sus vidas.",
-                    "genre": "Acción, Suspenso",
+                    "url": "/peliculas/barbie-rapunzel-2002/",
+                    "title": "Barbie: Rapunzel (2002)",
+                    "artist": "Anjelica Huston",
+                    "author": "Owen Hurley",
+                    "description": "Hace mucho, mucho tiempo, en una época de magia y dragones, vivía una niña llamada Rapunzel que tenía el cabello más bonito y radiante que jamás nadie en el mundo hubiera visto antes…",
+                    "genre": "Animación, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/7bqisMuYCUsZIm77T5RJ6qEpyeD-1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/presa-2024/",
+                        "url": "/peliculas/barbie-rapunzel-2002/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,20 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://j5m9wakcpz.cdn-jupiter.com/hls2/01/04772/qhnh18fgfkbn_n/index-v1-a2.m3u8?t=v50vF6Oh9N_hxBzohoFQ4dREHOQ4nE6lBKcinMdbtxc&s=1724954791&e=129600&f=23863833&srv=uvsyulgjoz8v&i=0.4&sp=500&p1=uvsyulgjoz8v&p2=uvsyulgjoz8v&asn=8075",
-                        "quality": "[LAT] StreamWish:712p",
-                        "videoUrl": "https://j5m9wakcpz.cdn-jupiter.com/hls2/01/04772/qhnh18fgfkbn_n/index-v1-a2.m3u8?t=v50vF6Oh9N_hxBzohoFQ4dREHOQ4nE6lBKcinMdbtxc&s=1724954791&e=129600&f=23863833&srv=uvsyulgjoz8v&i=0.4&sp=500&p1=uvsyulgjoz8v&p2=uvsyulgjoz8v&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/qhnh18fgfkbn"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-vmfklnbah4qtd6o2.voe-network.net/engine/hls2-c/01/12078/icmdvgvr2pxf_,n,.urlset/index-v1-a1.m3u8?t=GwGElj8ZdBxIb2mRhz-CJ03iLpLWEYtk_LENkF_cx9I&s=1724954793&e=14400&f=60393661&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=172.190&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:708p",
-                        "videoUrl": "https://delivery-node-vmfklnbah4qtd6o2.voe-network.net/engine/hls2-c/01/12078/icmdvgvr2pxf_,n,.urlset/index-v1-a1.m3u8?t=GwGElj8ZdBxIb2mRhz-CJ03iLpLWEYtk_LENkF_cx9I&s=1724954793&e=14400&f=60393661&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "url": "https://delivery-node-blifdtcquwr165mv.voe-network.net/engine/hls2-c/01/12094/pszygsamcbkk_,n,.urlset/index-v1-a1.m3u8?t=wavUkFiHu80YV6hgiTmPcEjbpW0JbJN90XkEiaDf98Y&s=1724976993&e=14400&f=60473046&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-blifdtcquwr165mv.voe-network.net/engine/hls2-c/01/12094/pszygsamcbkk_,n,.urlset/index-v1-a1.m3u8?t=wavUkFiHu80YV6hgiTmPcEjbpW0JbJN90XkEiaDf98Y&s=1724976993&e=14400&f=60473046&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=52.234&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

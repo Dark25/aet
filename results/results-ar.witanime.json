@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-الحلقة-9/",
+                                "title": "Ore wa Subete wo Parry suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/06/Ore-wa-Subete-wo-Parry-suru-Gyaku-Kanchigai-no-Sekai-Saikyou-wa-Boukensha-ni-Naritai-323x470.jpg"
+                            },
+                            {
+                                "url": "/episode/grendizer-u-الحلقة-9/",
+                                "title": "Grendizer U",
+                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Grendizer-U-323x470.jpg"
+                            },
+                            {
+                                "url": "/episode/kono-sekai-wa-fukanzen-sugiru-الحلقة-9/",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Kono-Sekai-wa-Fukanzen-Sugiru-323x470.jpg"
+                            },
+                            {
                                 "url": "/episode/nierautomata-ver1-1a-part-2-الحلقة-8/",
                                 "title": "NieR:Automata Ver1.1a Part 2",
                                 "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/NieR-Automata-Ver1.1a-Part-2-323x470.jpg"
@@ -390,21 +405,6 @@
                                 "url": "/episode/the-fable-الحلقة-20/",
                                 "title": "The Fable",
                                 "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/04/The-Fable-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/make-heroine-ga-oosugiru-الحلقة-7/",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Make-Heroine-ga-Oosugiru-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/atri-my-dear-moments-الحلقة-7/",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Atri-My-Dear-Moments-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/nige-jouzu-no-wakagimi-الحلقة-8/",
-                                "title": "Nige Jouzu no Wakagimi",
-                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Nige-Jouzu-no-Wakagimi-323x470.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -531,19 +531,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/digimon-adventure-الحلقة-67-والأخيرة/",
-                        "name": "الحلقة 67",
-                        "episode_number": 67.0
-                    },
-                    {
-                        "url": "/episode/digimon-adventure-الحلقة-66/",
-                        "name": "الحلقة 66",
-                        "episode_number": 66.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

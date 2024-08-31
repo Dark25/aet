@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/respira/",
+                                "title": "Respira",
+                                "description": "Breathless Un apasionado equipo médico se entrega a salvar vidas en un hospital público desbordado, en el que las tensiones —y el amor— aceleran las pulsaciones. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/agMDJ2ivB4idDv5Fvzuh4DI7pHs.jpg"
+                            },
+                            {
                                 "url": "/la-hora-de-tufo-y-pringue/",
                                 "title": "La hora de Tufo y Pringue",
                                 "description": "Las aventuras de Pesti y Polvi | The Stinky & Dirty Show Las aventuras de dos amigos inseparables que se convierten en unos héroes poco convencionales: estos son Tufo el camión de la basura y Pringue, la retroexcavadora. Son un dúo dinámico y gracioso, aprenden de sus errores y que preguntarse «¿y si?» puede servir […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/w2xTt5iSJNJaiDDhWsVE3ilBRBL.jpg"
                             },
                             {
-                                "url": "/nadie-en-el-bosque/",
-                                "title": "Nadie en el bosque",
-                                "description": "아무도 없는 숲속에서 Un verano, una misteriosa mujer llega a una casa turística, desencadenando una serie de acontecimientos que trastocan la vida del propietario de la vivienda y de su entorno. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9l2VYEDHXwZRzUmBtOjQIXgDvUh.jpg"
-                            },
-                            {
-                                "url": "/jerarquia/",
-                                "title": "Jerarquía",
+                                "url": "/residue/",
+                                "title": "Residue",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4jVemTkvEqERhe6EIIVymkZh72f.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3wGU9pJbzZdygZizEGOl9TwAP8w.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/alem-do-tempo/",
-                                "title": "Além do Tempo",
+                                "url": "/mi-matrimonio-feliz/",
+                                "title": "Mi matrimonio feliz",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,135 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/la-hora-de-tufo-y-pringue/",
-                    "title": "La hora de Tufo y Pringue",
-                    "description": "Las aventuras de Pesti y Polvi | The Stinky & Dirty Show Las aventuras de dos amigos inseparables que se convierten en unos héroes poco convencionales: estos son Tufo el camión de la basura y Pringue, la retroexcavadora. Son un dúo dinámico y gracioso, aprenden de sus errores y que preguntarse «¿y si?» puede servir para encontrar una soluciónl. Basado en los libros de Jim y Kate McMullan. Escrito y desarrollado por Guy Toubes.",
-                    "genre": "Animación, Comedia, Kids",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nepw7xPqA6oiwhyh5YfhU5byLzL.jpg",
+                    "url": "/respira/",
+                    "title": "Respira",
+                    "description": "Breathless Un apasionado equipo médico se entrega a salvar vidas en un hospital público desbordado, en el que las tensiones —y el amor— aceleran las pulsaciones.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/agMDJ2ivB4idDv5Fvzuh4DI7pHs.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/la-hora-de-tufo-y-pringue-temporada-4-capitulo-5/",
-                        "name": "T04 - E05 - Episodio 5",
-                        "date_upload": 1553126400000,
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/episode/la-hora-de-tufo-y-pringue-temporada-4-capitulo-4/",
-                        "name": "T04 - E04 - Episodio 4",
-                        "date_upload": 1553126400000,
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/25/00069/j8po8jghspav_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=yJppcogyfzdycjIFt_px9xQ2-t4EvMSkQpPkjzNU6Dk&s=1725106005&e=43200&f=345783&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/25/00069/j8po8jghspav_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=yJppcogyfzdycjIFt_px9xQ2-t4EvMSkQpPkjzNU6Dk&s=1725106005&e=43200&f=345783&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/25/00069/j8po8jghspav_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yJppcogyfzdycjIFt_px9xQ2-t4EvMSkQpPkjzNU6Dk&s=1725106005&e=43200&f=345783&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/25/00069/j8po8jghspav_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yJppcogyfzdycjIFt_px9xQ2-t4EvMSkQpPkjzNU6Dk&s=1725106005&e=43200&f=345783&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/25/00069/j8po8jghspav_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=yJppcogyfzdycjIFt_px9xQ2-t4EvMSkQpPkjzNU6Dk&s=1725106005&e=43200&f=345783&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/25/00069/j8po8jghspav_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=yJppcogyfzdycjIFt_px9xQ2-t4EvMSkQpPkjzNU6Dk&s=1725106005&e=43200&f=345783&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/05/00069/26nfhvwtj6nb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=9mv_nOu-j2CMFHek-lhEWCdWW097zDPmnjCBT7chSbg&s=1725106009&e=43200&f=345813&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/05/00069/26nfhvwtj6nb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=9mv_nOu-j2CMFHek-lhEWCdWW097zDPmnjCBT7chSbg&s=1725106009&e=43200&f=345813&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/15/00069/eqfdqqgwjmp7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=VE8GkA4BT074jLsMD6cLWCVI8RoQcsNf01staIMtTZc&s=1725106007&e=43200&f=346021&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/15/00069/eqfdqqgwjmp7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=VE8GkA4BT074jLsMD6cLWCVI8RoQcsNf01staIMtTZc&s=1725106007&e=43200&f=346021&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/05/00069/26nfhvwtj6nb_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=9mv_nOu-j2CMFHek-lhEWCdWW097zDPmnjCBT7chSbg&s=1725106009&e=43200&f=345813&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/05/00069/26nfhvwtj6nb_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=9mv_nOu-j2CMFHek-lhEWCdWW097zDPmnjCBT7chSbg&s=1725106009&e=43200&f=345813&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/15/00069/eqfdqqgwjmp7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=VE8GkA4BT074jLsMD6cLWCVI8RoQcsNf01staIMtTZc&s=1725106007&e=43200&f=346021&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/15/00069/eqfdqqgwjmp7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=VE8GkA4BT074jLsMD6cLWCVI8RoQcsNf01staIMtTZc&s=1725106007&e=43200&f=346021&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/05/00069/26nfhvwtj6nb_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=9mv_nOu-j2CMFHek-lhEWCdWW097zDPmnjCBT7chSbg&s=1725106009&e=43200&f=345813&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/05/00069/26nfhvwtj6nb_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=9mv_nOu-j2CMFHek-lhEWCdWW097zDPmnjCBT7chSbg&s=1725106009&e=43200&f=345813&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/15/00069/eqfdqqgwjmp7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=VE8GkA4BT074jLsMD6cLWCVI8RoQcsNf01staIMtTZc&s=1725106007&e=43200&f=346021&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/15/00069/eqfdqqgwjmp7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=VE8GkA4BT074jLsMD6cLWCVI8RoQcsNf01staIMtTZc&s=1725106007&e=43200&f=346021&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

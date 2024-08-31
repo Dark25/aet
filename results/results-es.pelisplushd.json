@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/prohibido-enamorarse",
+                                "title": "Prohibido enamorarse (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/okk66jRIYOPyCk30XNCh3nDkcFY.jpg"
+                            },
+                            {
+                                "url": "/serie/kaos",
+                                "title": "KAOS (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg"
+                            },
+                            {
                                 "url": "/serie/that-dirty-black-bag",
                                 "title": "That Dirty Black Bag (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/tales-of-the-teenage-mutant-ninja-turtles",
                                 "title": "Tales of the Teenage Mutant Ninja Turtles (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg"
-                            },
-                            {
-                                "url": "/serie/nadie-nos-va-a-extranar",
-                                "title": "Nadie nos va a extrañar (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xir4SRNcXLRo4f5TdmY822jCINP.jpg"
-                            },
-                            {
-                                "url": "/serie/fuimos-los-afortunados",
-                                "title": "Fuimos los afortunados (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/warIzrnywMOf9DUVV8wvORfcmPv.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/that-dirty-black-bag",
-                    "title": "That Dirty Black Bag (2022)",
-                    "description": "Una serie cruda, épica y romántica de spaghetti western sobre el lado oscuro del salvaje Oeste. La historia sigue el enfrentamiento de ocho días entre Arthur McCoy (Cooper), un sheriff incorruptible con un pasado turbulento, y Red Bill (Booth), un infame y solitario cazarrecompensas conocido por decapitar a sus víctimas y meter sus cabezas en una bolsa negra sucia, porque, como él dice, 'las cabezas pesan menos que los cuerpos'..",
-                    "genre": "Drama, Western",
+                    "url": "/serie/prohibido-enamorarse",
+                    "title": "Prohibido enamorarse (2024)",
+                    "description": "Cuando un instituto de élite pone la estricta norma de «Prohibido enamorarse», so pena de expulsión, una estudiante se rebela y ayuda a sus compañeros a cambio de dinero..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/okk66jRIYOPyCk30XNCh3nDkcFY.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,13 +278,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/that-dirty-black-bag/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Capítulo 8 : El Gran Duelo",
+                        "url": "/serie/prohibido-enamorarse/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Mi vida, mis normas.",
                         "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/that-dirty-black-bag/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Capítulo 7 : El Plan",
+                        "url": "/serie/prohibido-enamorarse/temporada/1/capitulo/7",
+                        "name": "T1 - E7: ¿Es delito enamorarse?",
                         "episode_number": 7.0
                     }
                 ],
@@ -293,49 +293,68 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-c63zxatvakypfujm.voe-network.net/engine/hls2-c/01/12095/3hm4ze6kly9s_,n,.urlset/index-v1-a1.m3u8?t=Abci1TfZh4K0XAtGUN9deu8BAnt1ZsdOHHEMKFdqUWs&s=1725063382&e=14400&f=60476713&node=delivery-node-mmt50nevzjlwhxk9.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-c63zxatvakypfujm.voe-network.net/engine/hls2-c/01/12095/3hm4ze6kly9s_,n,.urlset/index-v1-a1.m3u8?t=Abci1TfZh4K0XAtGUN9deu8BAnt1ZsdOHHEMKFdqUWs&s=1725063382&e=14400&f=60476713&node=delivery-node-mmt50nevzjlwhxk9.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2/01/12110/ubcsn3gpxruj_,n,.urlset/index-v1-a1.m3u8?t=46Z96aZkrR0qg8wFxvPIQwkaHkIY3oVxDsRj8j32qTQ&s=1725084392&e=14400&f=60551739&node=delivery-node-k36lq9mwfsnekmyd.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:960p",
+                        "videoUrl": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2/01/12110/ubcsn3gpxruj_,n,.urlset/index-v1-a1.m3u8?t=46Z96aZkrR0qg8wFxvPIQwkaHkIY3oVxDsRj8j32qTQ&s=1725084392&e=14400&f=60551739&node=delivery-node-k36lq9mwfsnekmyd.voe-network.net&i=20.109&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02220/2x7124nqn6b1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=TDbdYUNYMMyuK5TjMgdZKKJ9_z-NEu7CYXTOUiiL0eU&s=1725063380&e=129600&f=11102352&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "url": "https://hgc0uswxhnn8.aghe-cdn.com/hls2/01/02227/40komhwr3axq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=6oJ6SHDA5yyUIkZFaF-k92N8OvT14JO3ZueNagBb1qI&s=1725084389&e=129600&f=11139618&srv=ggN5os4Zk1th9&i=0.4&sp=500&p1=ggN5os4Zk1th9&p2=ggN5os4Zk1th9&asn=8075",
+                        "quality": "StreamHideVid - 960p",
+                        "videoUrl": "https://hgc0uswxhnn8.aghe-cdn.com/hls2/01/02227/40komhwr3axq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=6oJ6SHDA5yyUIkZFaF-k92N8OvT14JO3ZueNagBb1qI&s=1725084389&e=129600&f=11139618&srv=ggN5os4Zk1th9&i=0.4&sp=500&p1=ggN5os4Zk1th9&p2=ggN5os4Zk1th9&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04809/2iobtr8plc8v_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=w0hf0QeeqJXMtGDwo5d9yE-AN9_T8p1RgM7zNMCZNjs&s=1725084386&e=129600&f=24047069&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "quality": "StreamWish:960p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04809/2iobtr8plc8v_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=w0hf0QeeqJXMtGDwo5d9yE-AN9_T8p1RgM7zNMCZNjs&s=1725084386&e=129600&f=24047069&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/2iobtr8plc8v"
+                        }
+                    },
+                    {
+                        "url": "https://hgc0uswxhnn8.aghe-cdn.com/hls2/01/02227/40komhwr3axq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6oJ6SHDA5yyUIkZFaF-k92N8OvT14JO3ZueNagBb1qI&s=1725084389&e=129600&f=11139618&srv=ggN5os4Zk1th9&i=0.4&sp=500&p1=ggN5os4Zk1th9&p2=ggN5os4Zk1th9&asn=8075",
                         "quality": "StreamHideVid - 720p",
-                        "videoUrl": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02220/2x7124nqn6b1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=TDbdYUNYMMyuK5TjMgdZKKJ9_z-NEu7CYXTOUiiL0eU&s=1725063380&e=129600&f=11102352&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "videoUrl": "https://hgc0uswxhnn8.aghe-cdn.com/hls2/01/02227/40komhwr3axq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6oJ6SHDA5yyUIkZFaF-k92N8OvT14JO3ZueNagBb1qI&s=1725084389&e=129600&f=11139618&srv=ggN5os4Zk1th9&i=0.4&sp=500&p1=ggN5os4Zk1th9&p2=ggN5os4Zk1th9&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04796/n59onna99wql_,l,n,.urlset/index-f2-v1-a1.m3u8?t=vVb6Jh0Ri7UNoB1LQYtkNnNY2d06BDhiuS53ackIzA0&s=1725063378&e=129600&f=23980428&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04809/2iobtr8plc8v_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=w0hf0QeeqJXMtGDwo5d9yE-AN9_T8p1RgM7zNMCZNjs&s=1725084386&e=129600&f=24047069&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04796/n59onna99wql_,l,n,.urlset/index-f2-v1-a1.m3u8?t=vVb6Jh0Ri7UNoB1LQYtkNnNY2d06BDhiuS53ackIzA0&s=1725063378&e=129600&f=23980428&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04809/2iobtr8plc8v_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=w0hf0QeeqJXMtGDwo5d9yE-AN9_T8p1RgM7zNMCZNjs&s=1725084386&e=129600&f=24047069&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/n59onna99wql"
+                            "Referer": "https://streamwish.to/e/2iobtr8plc8v"
                         }
                     },
                     {
-                        "url": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02220/2x7124nqn6b1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TDbdYUNYMMyuK5TjMgdZKKJ9_z-NEu7CYXTOUiiL0eU&s=1725063380&e=129600&f=11102352&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "url": "https://hgc0uswxhnn8.aghe-cdn.com/hls2/01/02227/40komhwr3axq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=6oJ6SHDA5yyUIkZFaF-k92N8OvT14JO3ZueNagBb1qI&s=1725084389&e=129600&f=11139618&srv=ggN5os4Zk1th9&i=0.4&sp=500&p1=ggN5os4Zk1th9&p2=ggN5os4Zk1th9&asn=8075",
                         "quality": "StreamHideVid - 480p",
-                        "videoUrl": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/02220/2x7124nqn6b1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TDbdYUNYMMyuK5TjMgdZKKJ9_z-NEu7CYXTOUiiL0eU&s=1725063380&e=129600&f=11102352&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "videoUrl": "https://hgc0uswxhnn8.aghe-cdn.com/hls2/01/02227/40komhwr3axq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=6oJ6SHDA5yyUIkZFaF-k92N8OvT14JO3ZueNagBb1qI&s=1725084389&e=129600&f=11139618&srv=ggN5os4Zk1th9&i=0.4&sp=500&p1=ggN5os4Zk1th9&p2=ggN5os4Zk1th9&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/04796/n59onna99wql_,l,n,.urlset/index-f1-v1-a1.m3u8?t=vVb6Jh0Ri7UNoB1LQYtkNnNY2d06BDhiuS53ackIzA0&s=1725063378&e=129600&f=23980428&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04809/2iobtr8plc8v_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=w0hf0QeeqJXMtGDwo5d9yE-AN9_T8p1RgM7zNMCZNjs&s=1725084386&e=129600&f=24047069&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/04796/n59onna99wql_,l,n,.urlset/index-f1-v1-a1.m3u8?t=vVb6Jh0Ri7UNoB1LQYtkNnNY2d06BDhiuS53ackIzA0&s=1725063378&e=129600&f=23980428&srv=fvynu5an54z0eb&i=0.0&sp=500&p1=fvynu5an54z0eb&p2=fvynu5an54z0eb&asn=8075",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04809/2iobtr8plc8v_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=w0hf0QeeqJXMtGDwo5d9yE-AN9_T8p1RgM7zNMCZNjs&s=1725084386&e=129600&f=24047069&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/n59onna99wql"
+                            "Referer": "https://streamwish.to/e/2iobtr8plc8v"
                         }
                     }
                 ],
@@ -350,6 +369,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/la-lucha-de-un-guerrero",
+                                "title": "La Lucha de un guerrero (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bvU8hIFMQe1OELPjEoydCITjHTN.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-hombre-sin-miedo",
+                                "title": "El Hombre Sin Miedo (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ygwWqsEAlH3CDbpcqksSXSRhQtn.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bodysnatch",
+                                "title": "Bodysnatch (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/IGzCSXgIRvr1xsjzCagCSkXfYg.jpg"
+                            },
                             {
                                 "url": "/pelicula/millennium-3-la-reina-en-el-palacio-de-las-corrientes-de-aire",
                                 "title": "Millennium 3: La reina en el palacio de las corrientes de aire (2009)",
@@ -454,21 +488,6 @@
                                 "url": "/pelicula/sailor-moon-cosmos-la-pelicula-parte-2",
                                 "title": "Sailor Moon Cosmos: La Película - Parte 2 (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/1b7FemRIf8cYHwRFzIAcKpdBpdc.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sailor-moon-cosmos:-la-película---parte-1",
-                                "title": "Sailor Moon Cosmos: La Película - Parte 1 (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uBEIVq31JEuw2mrdupPxUNGbY5e.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-cazador-de-bufalos",
-                                "title": "El cazador de búfalos (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg"
-                            },
-                            {
-                                "url": "/pelicula/las-chicas-de-niza",
-                                "title": "Las chicas de Niza (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/AkxCTNZZmcirQ1kYP2dKFx04nV5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -728,10 +747,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/millennium-3-la-reina-en-el-palacio-de-las-corrientes-de-aire",
-                    "title": "Millennium 3: La reina en el palacio de las corrientes de aire (2009)",
-                    "description": "En este desenlace de la saga Millennium la tensión se dispara. Tras el agónico final de La chica que soñaba con una cerilla y un bidón de gasolina, puede que Lisbeth Salander haya sobrevivido a ser enterrada viva pero sus problemas están lejos de haber acabado. Está acusada de triple asesinato y fuerzas poderosas intentan silenciarla de una vez por todas. Mientras, Michael Blomkvist escarba en su oscuro pasado y pronto encuentra sus huellas.",
-                    "genre": "Acción, Suspense, Crimen, Misterio",
+                    "url": "/pelicula/la-lucha-de-un-guerrero",
+                    "title": "La Lucha de un guerrero (2022)",
+                    "description": "",
+                    "genre": "Acción, Aventura, Suspense",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -741,7 +760,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/millennium-3-la-reina-en-el-palacio-de-las-corrientes-de-aire",
+                        "url": "/pelicula/la-lucha-de-un-guerrero",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -751,36 +770,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04802/3bg2k8ofl8ty_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zF3c7ggDG5KYBbRRoaHUkrf-LepQb20mCBlNvRcCl5I&s=1725063385&e=129600&f=24010452&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04802/3bg2k8ofl8ty_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zF3c7ggDG5KYBbRRoaHUkrf-LepQb20mCBlNvRcCl5I&s=1725063385&e=129600&f=24010452&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3bg2k8ofl8ty"
-                        }
-                    },
-                    {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04802/3bg2k8ofl8ty_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zF3c7ggDG5KYBbRRoaHUkrf-LepQb20mCBlNvRcCl5I&s=1725063385&e=129600&f=24010452&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04807/0k95anqsvh05_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Rusclb54e6Yh0kOOea7n31d5KlEE5sWFaYhpe41c6jQ&s=1725084394&e=129600&f=24038515&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04802/3bg2k8ofl8ty_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zF3c7ggDG5KYBbRRoaHUkrf-LepQb20mCBlNvRcCl5I&s=1725063385&e=129600&f=24010452&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04807/0k95anqsvh05_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Rusclb54e6Yh0kOOea7n31d5KlEE5sWFaYhpe41c6jQ&s=1725084394&e=129600&f=24038515&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3bg2k8ofl8ty"
+                            "Referer": "https://streamwish.to/e/0k95anqsvh05"
                         }
                     },
                     {
-                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/04802/3bg2k8ofl8ty_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zF3c7ggDG5KYBbRRoaHUkrf-LepQb20mCBlNvRcCl5I&s=1725063385&e=129600&f=24010452&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04807/0k95anqsvh05_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Rusclb54e6Yh0kOOea7n31d5KlEE5sWFaYhpe41c6jQ&s=1725084394&e=129600&f=24038515&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/04802/3bg2k8ofl8ty_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zF3c7ggDG5KYBbRRoaHUkrf-LepQb20mCBlNvRcCl5I&s=1725063385&e=129600&f=24010452&srv=bjg7pyty5fruapll&i=0.0&sp=500&p1=bjg7pyty5fruapll&p2=bjg7pyty5fruapll&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04807/0k95anqsvh05_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Rusclb54e6Yh0kOOea7n31d5KlEE5sWFaYhpe41c6jQ&s=1725084394&e=129600&f=24038515&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/3bg2k8ofl8ty"
+                            "Referer": "https://streamwish.to/e/0k95anqsvh05"
                         }
                     }
                 ],

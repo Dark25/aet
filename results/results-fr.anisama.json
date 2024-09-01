@@ -327,6 +327,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece-9",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/6/73245.webp"
+                            },
+                            {
+                                "url": "/anime/atri-my-dear-moments-1731",
+                                "title": "Atri: My Dear Moments",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1825/143408.webp"
+                            },
+                            {
                                 "url": "/anime/elusive-samurai-1713",
                                 "title": "Nige Jouzu no Wakagimi",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1386/140401.webp"
@@ -465,16 +475,6 @@
                                 "url": "/anime/sengoku-youko-senma-konton-hen-1736",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1948/143550.webp"
-                            },
-                            {
-                                "url": "/anime/love-is-indivisible-by-twins-1729",
-                                "title": "Koi wa Futago de Warikirenai",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1315/142250.webp"
-                            },
-                            {
-                                "url": "/anime/alya-sometimes-hides-her-feelings-in-russian-1698",
-                                "title": "Roshidere",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1825/142258.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -499,14 +499,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=127857",
+                        "name": "Episode 1117",
+                        "episode_number": 1117.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=127516",
                         "name": "Episode 1116",
                         "episode_number": 1116.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=127117",
-                        "name": "Episode 1115",
-                        "episode_number": 1115.0
                     }
                 ],
                 "passed": true

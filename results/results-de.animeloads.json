@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/beyblade-x",
+                                "title": "Beyblade X",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-beyblade-x-cover.jpg"
+                            },
+                            {
                                 "url": "/media/oshiri-tantei-2021",
                                 "title": "Oshiri Tantei (2021)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-oshiri-tantei-2021-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/kimi-to-boku-no-saigo-no-senjou-arui-wa-sekai-ga-hajimaru-seisen-season-ii",
                                 "title": "Our Last Crusade or the Rise of a New World: Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ezgif-6-de621f442f.jpg"
-                            },
-                            {
-                                "url": "/media/isekai-shikkaku",
-                                "title": "No Longer Allowed in Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-shikkaku-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/oshiri-tantei-2021",
-                    "title": "Oshiri Tantei (2021)",
+                    "url": "/media/beyblade-x",
+                    "title": "Beyblade X",
                     "author": "",
                     "description": "Quelle: aniSearch",
-                    "genre": "",
+                    "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-oshiri-tantei-2021-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-beyblade-x-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,35 +239,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/oshiri-tantei-2021#streams_episodes_1_7",
-                        "name": "Ep.8 Episode 8",
-                        "episode_number": 8.0
+                        "url": "/media/beyblade-x#streams_episodes_1_9",
+                        "name": "Ep.10 Episode 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/media/oshiri-tantei-2021#streams_episodes_1_6",
-                        "name": "Ep.7 Episode 7",
-                        "episode_number": 7.0
+                        "url": "/media/beyblade-x#streams_episodes_1_8",
+                        "name": "Ep.09 Episode 09",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=V8BDbzp8zBiKLDV&expires=1725240775&ip=F0AsF0WnDS9X&token=AioFAUiJPSFL",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=V8BDbzp8zBiKLDV&expires=1725240775&ip=F0AsF0WnDS9X&token=AioFAUiJPSFL"
-                    },
-                    {
-                        "url": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/12061/x97oykoh11b1_,n,.urlset/index-v1-a1.m3u8?t=Jvh_-Da7vCfpvX53OtJEuoMUJmApsRRYLGqPYEOpfYM&s=1725170767&e=14400&f=60306694&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=13.91&sp=2500&asn=8075",
-                        "quality": "(Deutsch Sub) Voe:720p",
-                        "videoUrl": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/12061/x97oykoh11b1_,n,.urlset/index-v1-a1.m3u8?t=Jvh_-Da7vCfpvX53OtJEuoMUJmApsRRYLGqPYEOpfYM&s=1725170767&e=14400&f=60306694&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=13.91&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

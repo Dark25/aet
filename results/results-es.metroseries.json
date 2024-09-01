@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/w2xTt5iSJNJaiDDhWsVE3ilBRBL.jpg"
                             },
                             {
-                                "url": "/residue/",
-                                "title": "Residue",
+                                "url": "/dom/",
+                                "title": "DOM",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3wGU9pJbzZdygZizEGOl9TwAP8w.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/mi-matrimonio-feliz/",
-                                "title": "Mi matrimonio feliz",
+                                "url": "/clark/",
+                                "title": "Clark",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2ysvG4hRZpmxoDXfZKr53Izmmtw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,103 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/respira-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Gota fría",
+                        "date_upload": 1724976000000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/respira-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Tierra quemada",
+                        "date_upload": 1724976000000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/03/00069/adgo44b0k0cn_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=E0jsLKLB4Cc3jHfpGTBad5RHbzJI7riZWBAtJBxs604&s=1725149922&e=43200&f=346290&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/03/00069/adgo44b0k0cn_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=E0jsLKLB4Cc3jHfpGTBad5RHbzJI7riZWBAtJBxs604&s=1725149922&e=43200&f=346290&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/03/00069/adgo44b0k0cn_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=E0jsLKLB4Cc3jHfpGTBad5RHbzJI7riZWBAtJBxs604&s=1725149922&e=43200&f=346290&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/03/00069/adgo44b0k0cn_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=E0jsLKLB4Cc3jHfpGTBad5RHbzJI7riZWBAtJBxs604&s=1725149922&e=43200&f=346290&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/03/00069/adgo44b0k0cn_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=E0jsLKLB4Cc3jHfpGTBad5RHbzJI7riZWBAtJBxs604&s=1725149922&e=43200&f=346290&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/03/00069/adgo44b0k0cn_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=E0jsLKLB4Cc3jHfpGTBad5RHbzJI7riZWBAtJBxs604&s=1725149922&e=43200&f=346290&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00069/de837sy7pacd_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=hsLw-w_1qoCR54bmBQkBITyEf4-isgHVirK6EDJBzhI&s=1725149920&e=43200&f=346289&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

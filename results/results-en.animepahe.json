@@ -167,20 +167,105 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=119",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/5a3bd9bf6b59f52791ed7b7c05a300a1b9e9007a625d85124ccd7b2284cba8a0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2064",
+                                "title": "World Fool News (TV)",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/fa9d124c722e9299a10cb95a7f21a020c743aee11fffdfc70e359174a6e21fc9.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=1473",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/bba0a45b28c71d6d667373e8252fc7c7e081f0161a1d5de92c99f242528a1325.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2043",
+                                "title": "World Fool News (TV) Part II",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4175",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4200",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4524",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5229",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://i.animepahe.ru/posters/e9a0985f593a33302d983d125b3fd44d1124c540176fcfad6296a0b819709319.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/anime/?anime_id=5636",
+                    "title": "Yami Shibai 13",
+                    "author": "ILCA",
+                    "description": "Thirteenth season of Yami Shibai.\n\nSynonyms: Yamishibai: Japanese Ghost Stories Thirteenth Season, Yamishibai: Japanese Ghost Stories 13",
+                    "genre": "Avant Garde, Horror, Supernatural",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/fcbb4aefe01a55348da8c23e1555dad8ac26739b421ab43c1032defc92e896a3.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/play/7f7b317c-b0f6-f343-a034-a20de43c0fba/756e4f2381f1bb77ba681eec1e6f6094e55c63ba48575324a330062c6b477011",
+                        "name": "Episode 8",
+                        "date_upload": 1725220086000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/play/7f7b317c-b0f6-f343-a034-a20de43c0fba/e12fc552cb4e78a1bcbf5efeb0d489832a3c15bdc382ae6d722cb2a6d5157512",
+                        "name": "Episode 7",
+                        "date_upload": 1724615285000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/37d6c362de2bfe7eeb05e890d20322f12beab5d112c3d7b6db4398fd8fd256b8?file=AnimePahe_Yami_Shibai_13_-_08_1080p_SubsPlease.mp4&token=SqALClg6k8vKVBv2UnwpCg&expires=1725293173",
+                        "quality": "SubsPlease · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/37d6c362de2bfe7eeb05e890d20322f12beab5d112c3d7b6db4398fd8fd256b8?file=AnimePahe_Yami_Shibai_13_-_08_1080p_SubsPlease.mp4&token=SqALClg6k8vKVBv2UnwpCg&expires=1725293173"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/7d5da9d1c10db6fd42df4a61124905bf04cf26dd4cb36dac25136723d0bcf71b?file=AnimePahe_Yami_Shibai_13_-_08_720p_SubsPlease.mp4&token=1EbMDyBmf-HvgbTwfryjvg&expires=1725293171",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/7d5da9d1c10db6fd42df4a61124905bf04cf26dd4cb36dac25136723d0bcf71b?file=AnimePahe_Yami_Shibai_13_-_08_720p_SubsPlease.mp4&token=1EbMDyBmf-HvgbTwfryjvg&expires=1725293171"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/15fa634d22cf0e3c248eb6b9251a92a4f7d4af69a5bb6c552c4fefc9c3860242?file=AnimePahe_Yami_Shibai_13_-_08_360p_SubsPlease.mp4&token=eGh-4I1AwA2mS1LdjcK-Dw&expires=1725293170",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/15fa634d22cf0e3c248eb6b9251a92a4f7d4af69a5bb6c552c4fefc9c3860242?file=AnimePahe_Yami_Shibai_13_-_08_360p_SubsPlease.mp4&token=eGh-4I1AwA2mS1LdjcK-Dw&expires=1725293170"
+                    }
+                ],
+                "passed": true
             }
         }
     }

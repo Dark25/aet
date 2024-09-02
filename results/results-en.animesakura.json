@@ -3,23 +3,23 @@
         "name": "Anime Sakura (EN)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: animesakura.co: Temporary failure in name resolution",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: animesakura.co",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: animesakura.co",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: animesakura.co",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: animesakura.co",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "videos": {

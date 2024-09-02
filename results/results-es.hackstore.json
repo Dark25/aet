@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/la-trampa-2024/",
+                                "title": "La trampa (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/oY9SRUcRqdrjyINFoGewobSP7FB.jpg"
+                            },
+                            {
+                                "url": "/peliculas/the-killer-2024/",
+                                "title": "The Killer (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/6PCnxKZZIVRanWb710pNpYVkCSw.jpg"
+                            },
+                            {
                                 "url": "/peliculas/barbie-rapunzel-2002/",
                                 "title": "Barbie: Rapunzel (2002)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Jackpot: ¡Lotería mortal! (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/6vVXMy9WqZQXYBHuNueAm4qc0jh.jpg"
-                            },
-                            {
-                                "url": "/peliculas/la-otra-cara-de-la-luna-2024/",
-                                "title": "La otra cara de la Luna (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/La-otra-cara-de-la-Luna-2024-scaled.jpg"
-                            },
-                            {
-                                "url": "/peliculas/exhuma-la-tumba-del-diablo-2024/",
-                                "title": "Exhuma: La Tumba Del Diablo (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/barbie-rapunzel-2002/",
-                    "title": "Barbie: Rapunzel (2002)",
-                    "artist": "Anjelica Huston",
-                    "author": "Owen Hurley",
-                    "description": "Hace mucho, mucho tiempo, en una época de magia y dragones, vivía una niña llamada Rapunzel que tenía el cabello más bonito y radiante que jamás nadie en el mundo hubiera visto antes…",
-                    "genre": "Animación, Familia",
+                    "url": "/peliculas/la-trampa-2024/",
+                    "title": "La trampa (2024)",
+                    "artist": "Alison Pill",
+                    "author": "M. Night Shyamalan",
+                    "description": "Un padre y su hija adolescente asisten a un concierto de pop, pero pronto se dan cuenta que se utiliza como trampa para atrapar a un asesino en serie.",
+                    "genre": "Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/7bqisMuYCUsZIm77T5RJ6qEpyeD-1.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/oY9SRUcRqdrjyINFoGewobSP7FB.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/barbie-rapunzel-2002/",
+                        "url": "/peliculas/la-trampa-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-onszbvx7rkdpm7au.voe-network.net/engine/hls2-c/01/12113/pfnzuactt0yz_,n,.urlset/index-v1-a1.m3u8?t=m1LREP_vmnQh3f6ejPp9yix421VpHdYDaMN74RPsPRQ&s=1725236205&e=14400&f=60569857&node=delivery-node-ynug3prrg0f4gget.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-onszbvx7rkdpm7au.voe-network.net/engine/hls2-c/01/12113/pfnzuactt0yz_,n,.urlset/index-v1-a1.m3u8?t=m1LREP_vmnQh3f6ejPp9yix421VpHdYDaMN74RPsPRQ&s=1725236205&e=14400&f=60569857&node=delivery-node-ynug3prrg0f4gget.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

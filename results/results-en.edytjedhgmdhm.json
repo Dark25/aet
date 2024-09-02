@@ -3,28 +3,83 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/misc/",
+                                "title": "misc/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Complete%20Series%20+%20Extras/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Episode%2050%20BD%201080P%20%5B426E2A8B%5D.mkv",
+                        "name": "[Zichz Scrubbed] Avataro Sentai DonBrothers Episode 50 BD 1080P",
+                        "date_upload": -1,
+                        "episode_number": 50.0,
+                        "scanlator": "1.18 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Complete%20Series%20+%20Extras/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Episode%2049%20BD%201080P%20%5B73E783FD%5D.mkv",
+                        "name": "[Zichz Scrubbed] Avataro Sentai DonBrothers Episode 49 BD 1080P",
+                        "date_upload": -1,
+                        "episode_number": 49.0,
+                        "scanlator": "1.19 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Complete%20Series%20+%20Extras/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Episode%2050%20BD%201080P%20%5B426E2A8B%5D.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Complete%20Series%20+%20Extras/%5BZichz%20Scrubbed%5D%20Avataro%20Sentai%20DonBrothers%20Episode%2050%20BD%201080P%20%5B426E2A8B%5D.mkv"
                     }
                 ],
                 "passed": true

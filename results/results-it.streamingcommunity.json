@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9824-touch",
+                                "title": "Touch",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a975a4d6-7f7b-451d-ac72-64463666acdd.webp"
+                            },
+                            {
                                 "url": "9823-crown-vic",
                                 "title": "Crown Vic",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9955d29c-515a-45cb-b3e6-3c36914096e8.webp"
@@ -610,11 +615,6 @@
                                 "url": "9751-wonder-white-bird",
                                 "title": "Wonder: White Bird",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6d85370e-c5cb-4a44-a357-1a1bbcc3269b.webp"
-                            },
-                            {
-                                "url": "9750-runner",
-                                "title": "Runner",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d9ca4e21-a815-4019-ad01-5144ed25b249.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,19 +952,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/258466?type=video&rendition=480p&token=ISKIVCLm4ptgDK81Whr1cg&expires=1730462878&b=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/258466?type=video&rendition=480p&token=ISKIVCLm4ptgDK81Whr1cg&expires=1730462878&b=1"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/258466?type=video&rendition=720p&token=uccyRa0CDJzWTzwe4YOONg&expires=1730462878&b=1",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/258466?type=video&rendition=720p&token=uccyRa0CDJzWTzwe4YOONg&expires=1730462878&b=1"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

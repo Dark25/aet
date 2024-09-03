@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/kaos/",
+                                "title": "KAOS",
+                                "description": "Mientras en el Monte Olimpo reina la discordia y el todopoderoso Zeus sucumbe a la paranoia, tres mortales están destinados a cambiar el futuro de la humanidad. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg"
+                            },
+                            {
                                 "url": "/influenced/",
                                 "title": "Influenced",
                                 "description": "Influencers: Los Creadores de Tendencias Probarán las tendencias más candentes, compartirán sus mejores trucos y hablarán de sus celebridades favoritas. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/zEPdAqxCdvHuOAVwbr8tWCQK6A0.jpg"
                             },
                             {
-                                "url": "/accidente/",
-                                "title": "Accidente",
-                                "description": "Las consecuencias de una fiesta de cumpleaños que acaba en tragedia sacuden a una unida comunidad y destrozan familias, amistades y corazones. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/r20sAdxSkpLdpB4ubO9CnrVqDEw.jpg"
-                            },
-                            {
-                                "url": "/ice-age-las-desventuras-de-scrat/",
-                                "title": "Ice Age: Las Desventuras de Scrat",
+                                "url": "/expertos-del-crimen/",
+                                "title": "Expertos del crimen",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/27x3WlLsF2PQO0jEiw8t50TZfnQ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yvH0PFKdEAW660bW5xHiqb6lCDJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/z-the-beginning-of-everything/",
-                                "title": "Z: The Beginning of Everything",
+                                "url": "/the-rook/",
+                                "title": "The Rook",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/11/ntvr0Qn7D87k6hU1UJwxT7sU8gr-226x339.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/wwAy8PF5fx1ttY5T4pltL2vxNgs-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,69 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/influenced/",
-                    "title": "Influenced",
-                    "description": "Influencers: Los Creadores de Tendencias Probarán las tendencias más candentes, compartirán sus mejores trucos y hablarán de sus celebridades favoritas.",
-                    "genre": "",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sLHsPKu8mgugqu579sYAXc4tlKY.jpg",
+                    "url": "/kaos/",
+                    "title": "KAOS",
+                    "description": "Mientras en el Monte Olimpo reina la discordia y el todopoderoso Zeus sucumbe a la paranoia, tres mortales están destinados a cambiar el futuro de la humanidad.",
+                    "genre": "Comedia, Drama, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/influenced-temporada-1-capitulo-10/",
-                        "name": "T01 - E10 - Episodio 10",
-                        "date_upload": 1722470400000,
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/episode/influenced-temporada-1-capitulo-9/",
-                        "name": "T01 - E09 - Episodio 9",
-                        "date_upload": 1722470400000,
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/03/00069/enn10j5zxhhd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=z1boeNXUHI6c6werjeutyIwhfVegp34tBnStOeKP9OU&s=1725322525&e=43200&f=346006&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/03/00069/enn10j5zxhhd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=z1boeNXUHI6c6werjeutyIwhfVegp34tBnStOeKP9OU&s=1725322525&e=43200&f=346006&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/03/00069/enn10j5zxhhd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=z1boeNXUHI6c6werjeutyIwhfVegp34tBnStOeKP9OU&s=1725322525&e=43200&f=346006&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/03/00069/enn10j5zxhhd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=z1boeNXUHI6c6werjeutyIwhfVegp34tBnStOeKP9OU&s=1725322525&e=43200&f=346006&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/03/00069/enn10j5zxhhd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=z1boeNXUHI6c6werjeutyIwhfVegp34tBnStOeKP9OU&s=1725322525&e=43200&f=346006&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/03/00069/enn10j5zxhhd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=z1boeNXUHI6c6werjeutyIwhfVegp34tBnStOeKP9OU&s=1725322525&e=43200&f=346006&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

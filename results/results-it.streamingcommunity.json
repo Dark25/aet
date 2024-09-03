@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9833-untold-la-storia-di-hope-solo",
+                                "title": "Untold: La storia di Hope Solo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d1e314d1-46a7-41ea-bf11-86d7655f77b6.webp"
+                            },
+                            {
                                 "url": "9457-the-crow-il-corvo",
                                 "title": "The Crow - Il corvo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ed4adfa1-02dc-4fae-844b-ba100d80eafa.webp"
@@ -300,11 +305,6 @@
                                 "url": "9428-mountain-queen-la-scalata-di-lhakpa-sherpa",
                                 "title": "Mountain Queen: la scalata di Lhakpa Sherpa",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1af55a56-4f1e-49b3-8a42-94befed5e88c.webp"
-                            },
-                            {
-                                "url": "9313-no-negociable",
-                                "title": "No negociable",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3c1d01e4-2cee-4980-adcb-d0e803f41aff.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9457-the-crow-il-corvo",
-                    "description": "Le anime gemelle Eric Draven e Shelly Webster vengono brutalmente assassinate quando i demoni del suo oscuro passato li raggiungono. Avendo la possibilità di salvare il suo vero amore sacrificando se stesso, Eric si mette in viaggio per vendicarsi spietatamente dei loro assassini, attraversando i mondi dei vivi e dei morti per rimediare alle cose sbagliate.",
-                    "genre": "Azione, Horror, Fantasy",
+                    "url": "9833-untold-la-storia-di-hope-solo",
+                    "description": "La campionessa dei Mondiali Hope Solo parla della sua turbolenta ascesa alla vetta del calcio femminile tra scandali pubblici e tensioni con le ex compagne di squadra.",
+                    "genre": "Documentario",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -944,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9457",
+                        "url": "9833",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -952,8 +954,79 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/258713?type=video&rendition=480p&token=MO-WyxTJetOqQlMevcqhpQ&edge=sc-u4-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/258713?type=video&rendition=480p&token=MO-WyxTJetOqQlMevcqhpQ&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=3-eng&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=4-ger&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=5-gre&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=6-fre&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=7-forced-ita&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=8-ita&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=9-ukr&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/258713?type=video&rendition=720p&token=RZp-sFzuFUu57Rjj24sH1w&edge=sc-u4-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/258713?type=video&rendition=720p&token=RZp-sFzuFUu57Rjj24sH1w&edge=sc-u4-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=3-eng&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=4-ger&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=5-gre&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=6-fre&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=7-forced-ita&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=8-ita&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/258713?type=subtitle&rendition=9-ukr&token=Hv1h5phsBW17BofH_lINJQ&edge=sc-u4-01",
+                                "lang": "Ukrainian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

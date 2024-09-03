@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/orgullo-y-prejuicio-2005/",
+                                "title": "Orgullo y Prejuicio (2005)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/oixzLjpyaLagLa8UREts1NiHr6F.jpg"
+                            },
+                            {
+                                "url": "/peliculas/flubber-1997/",
+                                "title": "Flubber (1997)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/Flubber.jpg"
+                            },
+                            {
+                                "url": "/peliculas/barbie-y-las-12-princesas-bailarinas-2006/",
+                                "title": "Barbie y las 12 princesas bailarinas (2006)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/areWNqaBEcY9Sx2iO9XCV2RvUaD.jpg"
+                            },
+                            {
                                 "url": "/peliculas/en-busca-de-la-felicidad-2006/",
                                 "title": "En Busca de la Felicidad (2006)",
                                 "description": "",
@@ -95,24 +113,6 @@
                                 "title": "Inexpertos (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Inexpertos-scaled.jpg"
-                            },
-                            {
-                                "url": "/peliculas/una-boda-y-otros-desastres-2024/",
-                                "title": "Una Boda y Otros Desastres (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/zBUVnahhmgnj9j6igjFD1xqafG2.jpg"
-                            },
-                            {
-                                "url": "/peliculas/pinocho-1940/",
-                                "title": "Pinocho (1940)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/rAvkf65BzINaz8eAUhopfec3AMc.jpg"
-                            },
-                            {
-                                "url": "/peliculas/sailor-moon-cosmos-la-pelicula-parte-2-2023/",
-                                "title": "Sailor Moon Cosmos: La Película – Parte 2 (2023)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Sailor-Moon-Cosmos-La-Pelicula-Parte-2-2023.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/en-busca-de-la-felicidad-2006/",
-                    "title": "En Busca de la Felicidad (2006)",
-                    "artist": "Brian Howe",
-                    "author": "Carol DePasquale",
-                    "description": "Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas. Tanto es así que acaban echándolo, junto a su hijo de cinco años, de su departamento en San Francisco y no tienen ningún lugar al que ir. Cuando Gardner consigue hacer unas prácticas en una prestigiosa correduría de bolsa, los dos protagonistas tendrán que afrontar muchas adversidades parar hacer realidad su sueño de una vida mejor. Basada en hechos reales.",
-                    "genre": "Drama",
+                    "url": "/peliculas/orgullo-y-prejuicio-2005/",
+                    "title": "Orgullo y Prejuicio (2005)",
+                    "artist": "Brenda Blethyn",
+                    "author": "Guy Heeley",
+                    "description": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+                    "genre": "Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/qF6JFr6IdfNep0x6yw3i7S8avAb.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/en-busca-de-la-felicidad-2006/",
+                        "url": "/peliculas/orgullo-y-prejuicio-2005/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/12135/wumvqoyaeyqo_,n,.urlset/index-v1-a1.m3u8?t=ErIZqH9z1G54NHPlN4HUr6fKEda3491SsOJuJJruYgM&s=1725386781&e=14400&f=60676947&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/12135/wumvqoyaeyqo_,n,.urlset/index-v1-a1.m3u8?t=ErIZqH9z1G54NHPlN4HUr6fKEda3491SsOJuJJruYgM&s=1725386781&e=14400&f=60676947&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

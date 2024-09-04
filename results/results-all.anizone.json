@@ -348,75 +348,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/1080/playlist.m3u8",
-                        "quality": "ZeroBuild (BD) - 1080p",
-                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/1080/playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizone.to",
-                            "Referer": "https://anizone.to/"
-                        }
-                    },
-                    {
-                        "url": "https://seiryuu.vid-cdn.xyz/aa6aa213-560e-45e4-847f-afc08c91dc42/video/1080/playlist.m3u8",
-                        "quality": "ZeroBuild (BD) - 1080p",
-                        "videoUrl": "https://seiryuu.vid-cdn.xyz/aa6aa213-560e-45e4-847f-afc08c91dc42/video/1080/playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizone.to",
-                            "Referer": "https://anizone.to/"
-                        }
-                    },
-                    {
-                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/720/playlist.m3u8",
-                        "quality": "ZeroBuild (BD) - 720p",
-                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/720/playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizone.to",
-                            "Referer": "https://anizone.to/"
-                        }
-                    },
-                    {
-                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/360/playlist.m3u8",
-                        "quality": "ZeroBuild (BD) - 360p",
-                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/360/playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizone.to",
-                            "Referer": "https://anizone.to/"
-                        }
-                    },
-                    {
-                        "url": "https://seiryuu.vid-cdn.xyz/aa6aa213-560e-45e4-847f-afc08c91dc42/video/720/playlist.m3u8",
-                        "quality": "ZeroBuild (BD) - 720p",
-                        "videoUrl": "https://seiryuu.vid-cdn.xyz/aa6aa213-560e-45e4-847f-afc08c91dc42/video/720/playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizone.to",
-                            "Referer": "https://anizone.to/"
-                        }
-                    },
-                    {
-                        "url": "https://seiryuu.vid-cdn.xyz/aa6aa213-560e-45e4-847f-afc08c91dc42/video/360/playlist.m3u8",
-                        "quality": "ZeroBuild (BD) - 360p",
-                        "videoUrl": "https://seiryuu.vid-cdn.xyz/aa6aa213-560e-45e4-847f-afc08c91dc42/video/360/playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizone.to",
-                            "Referer": "https://anizone.to/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

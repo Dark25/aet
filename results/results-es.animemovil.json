@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/murai-no-koi",
+                                "title": "Murai no Koi",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4273.webp"
+                            },
+                            {
                                 "url": "/rick-and-morty-the-anime",
                                 "title": "Rick and Morty: The Anime",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Egumi Legacy",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4254.webp"
-                            },
-                            {
-                                "url": "/isekai-shikkaku",
-                                "title": "Isekai Shikkaku",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4253.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/rick-and-morty-the-anime",
-                    "title": "Rick and Morty: The Anime",
-                    "description": "La vida de la familia Smith es prácticamente la misma de siempre. Rick está en un pseudomundo, Summer ayuda a Beth del espacio y Morty está enamorado. Y todos son un anime.",
-                    "genre": "Ciencia Ficción, Aventuras",
+                    "url": "/murai-no-koi",
+                    "title": "Murai no Koi",
+                    "description": "Murai ama a su maestra Tanaka. Se ve igual que el personaje favorito de ella tras cortarse el pelo.",
+                    "genre": "Escolares, Romance, Comedia",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4272.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4273.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/rick-and-morty-the-anime-4",
-                        "name": "Episodio 4",
+                        "url": "/ver/murai-no-koi-1",
+                        "name": "Episodio 1",
                         "episode_number": 0.0
-                    },
-                    {
-                        "url": "/ver/rick-and-morty-the-anime-2",
-                        "name": "Episodio 2",
-                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -293,34 +288,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/12104/4wgreilptzja_,n,.urlset/index-v1-a1.m3u8?t=a20xnmQPqXW0Nx6VVRvg7hImaPXJLlGzPpn9kSvPn-k&s=1725451687&e=14400&f=60535722&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=52.157&sp=2500&asn=8075",
+                        "url": "https://delivery-node-34ppf4n1zgx9ubgc.voe-network.net/engine/hls2/01/12143/vhpbzn7asdk3_,n,.urlset/index-v1-a1.m3u8?t=Ikq4Mg60wUFbS05YbclC4YENq1Xo0_XEGzopQJX-C4o&s=1725473164&e=14400&f=60729185&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:1080p",
-                        "videoUrl": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/12104/4wgreilptzja_,n,.urlset/index-v1-a1.m3u8?t=a20xnmQPqXW0Nx6VVRvg7hImaPXJLlGzPpn9kSvPn-k&s=1725451687&e=14400&f=60535722&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=52.157&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-34ppf4n1zgx9ubgc.voe-network.net/engine/hls2/01/12143/vhpbzn7asdk3_,n,.urlset/index-v1-a1.m3u8?t=Ikq4Mg60wUFbS05YbclC4YENq1Xo0_XEGzopQJX-C4o&s=1725473164&e=14400&f=60729185&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxtr4upz3b4quuokgrbkzkocftjkeqenvng5ie6c6fnbvcw5wasu35iprf4slwibiqeg4rz/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkxxmpmpz3b4quuonsrbojsnkx3w5okjs4lbrbixwheiobhlmy74oszuj2uheceqeqlsm4fe/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxtr4upz3b4quuokgrbkzkocftjkeqenvng5ie6c6fnbvcw5wasu35iprf4slwibiqeg4rz/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxxmpmpz3b4quuonsrbojsnkx3w5okjs4lbrbixwheiobhlmy74oszuj2uheceqeqlsm4fe/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://en1.uqload.ws/3rfk4iugtrw2q4drdk3pvl7xap2ghubbsyulvuo5mzyt5rbd5jmh266py4ja/v.mp4",
+                        "url": "https://en1.uqload.ws/3rfk4t7atrw2q4drdkypvknqd2ri3fq2z737ltrevzao26g3bkdjhtrrglla/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://en1.uqload.ws/3rfk4iugtrw2q4drdk3pvl7xap2ghubbsyulvuo5mzyt5rbd5jmh266py4ja/v.mp4",
+                        "videoUrl": "https://en1.uqload.ws/3rfk4t7atrw2q4drdkypvknqd2ri3fq2z737ltrevzao26g3bkdjhtrrglla/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=MqAvKo9VWVcGdY&expires=1725521683&ip=G0WsD0MQKxSHDN&token=eLGsClgOyup5",
+                        "url": "https://streamtape.com/get_video?id=wkzxAWLzXqfoDe&expires=1725543150&ip=F0qQKRWZD19XKxR&token=mfkdu5kKghyG",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MqAvKo9VWVcGdY&expires=1725521683&ip=G0WsD0MQKxSHDN&token=eLGsClgOyup5"
+                        "videoUrl": "https://streamtape.com/get_video?id=wkzxAWLzXqfoDe&expires=1725543150&ip=F0qQKRWZD19XKxR&token=mfkdu5kKghyG"
                     }
                 ],
                 "passed": true

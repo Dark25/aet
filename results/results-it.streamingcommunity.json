@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9842-lego-pixar-bricktoons",
+                                "title": "LEGO Pixar: BrickToons",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/952f80dd-cac3-4766-9cd2-219d47e1040f.webp"
+                            },
+                            {
                                 "url": "9795-beetlejuice-beetlejuice",
                                 "title": "Beetlejuice Beetlejuice",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d7dadd14-6dc9-419b-b2ba-15dd30de32d9.webp"
@@ -300,11 +305,6 @@
                                 "url": "9243-a-quiet-place-giorno-1",
                                 "title": "A Quiet Place - Giorno 1",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1713d7f9-cd84-4703-8abd-5e83c7ac8ff2.webp"
-                            },
-                            {
-                                "url": "9379-sul-piu-bello-la-serie",
-                                "title": "Sul più bello - La serie",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2e0e1f53-189b-4cc7-aa3a-951cc81d5bc5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "9795-beetlejuice-beetlejuice",
-                    "description": "Beetlejuice è tornato! Dopo un'inaspettata tragedia familiare, tre generazioni della famiglia Deetz tornano a casa a Winter River. Ancora perseguitata da Beetlejuice, la vita di Lydia viene sconvolta quando la figlia adolescente e ribelle, Astrid, scopre il misterioso modellino della città in soffitta e il portale per l'Aldilà viene accidentalmente aperto. Con i problemi che stanno nascendo in entrambi i regni, è solo questione di tempo prima che qualcuno pronunci tre volte il nome di Beetlejuice e il demone dispettoso torni nuovamente per scatenare il suo caos.",
-                    "genre": "Horror, Fantasy, Commedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "9842-lego-pixar-bricktoons",
+                    "description": "LEGO rivisita i personaggi di alcuni film Pixar preferiti in cinque diverse avventure.",
+                    "genre": "Commedia, Famiglia, Animazione",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,16 +946,52 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9795",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "9842?episode_id=76350&next_episode=1",
+                        "name": "Stagione 1 episodio 5 - Cantare con il cuore",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "9842?episode_id=76348&next_episode=1",
+                        "name": "Stagione 1 episodio 4 - La gita",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/259005?type=video&rendition=480p&token=yyf4hDB7j-8U7jTA0uqMEg&edge=sc-u1-01",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/259005?type=video&rendition=480p&token=yyf4hDB7j-8U7jTA0uqMEg&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=3-eng&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=4-forced-ita&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "lang": "Italian [Forced]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/259005?type=video&rendition=720p&token=hbm_W_imf4mi5DstfEf1Lw&edge=sc-u1-01",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/259005?type=video&rendition=720p&token=hbm_W_imf4mi5DstfEf1Lw&edge=sc-u1-01",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=3-eng&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=4-forced-ita&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "lang": "Italian [Forced]"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

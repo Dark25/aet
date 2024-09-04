@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-afp0y7g5dthuxm2g.voe-network.net/engine/hls2/01/12141/v9uaal3qndwv_,n,.urlset/index-v1-a1.m3u8?t=oblmCdKfRuS5ltFK7YfvATFzsbzvD1DuO7p7mdqT2Xs&s=1725430007&e=14400&f=60706620&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=20.49&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-afp0y7g5dthuxm2g.voe-network.net/engine/hls2/01/12141/v9uaal3qndwv_,n,.urlset/index-v1-a1.m3u8?t=oblmCdKfRuS5ltFK7YfvATFzsbzvD1DuO7p7mdqT2Xs&s=1725430007&e=14400&f=60706620&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=20.49&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

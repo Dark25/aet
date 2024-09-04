@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/spy-x-family-codigo-blanco-2023/",
+                                "title": "SPY x FAMILY CÓDIGO: Blanco (2023)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg"
+                            },
+                            {
                                 "url": "/peliculas/ases-calientes-2006/",
                                 "title": "Ases Calientes (2006)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Harold y su crayón mágico (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Harold-y-su-crayon-magico-scaled.jpg"
-                            },
-                            {
-                                "url": "/peliculas/tipos-de-gentileza-2024/",
-                                "title": "Tipos de gentileza (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/ases-calientes-2006/",
-                    "title": "Ases Calientes (2006)",
-                    "artist": "Alicia Keys",
-                    "author": "Alexa Alden",
-                    "description": "Cuando un actor convertido en soplón de Las Vegas llamado Buddy Israel decide pasar las pruebas del estado y testificar contra la mafia, parece que a mucha gente le gustaría asegurarse de que ya no respira.",
-                    "genre": "Acción, Comedia, Crimen, Suspenso",
+                    "url": "/peliculas/spy-x-family-codigo-blanco-2023/",
+                    "title": "SPY x FAMILY CÓDIGO: Blanco (2023)",
+                    "artist": "中村倫也",
+                    "author": "久保雄介",
+                    "description": "Él es un espía. Ella es una asesina. Juntos, Loid y Yor ocultan sus dobles vidas mientras fingen ser la familia perfecta. Sin embargo, su hija adoptiva, Anya, que es telépata, conoce los emocionantes secretos de ambos sin que lo sospechen. Bajo la excusa de llevar a su familia a una escapada invernal, los intentos de Loid por avanzar en su misión en curso, Operation Strix, se complican cuando Anya se involucra por error, desencadenando acontecimientos ¡que amenazan la paz mundial!",
+                    "genre": "Acción, Animación, Aventura, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/abvcgclu5jHFo9YM8mHuV1EtrXk-210x300.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/ases-calientes-2006/",
+                        "url": "/peliculas/spy-x-family-codigo-blanco-2023/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-afp0y7g5dthuxm2g.voe-network.net/engine/hls2/01/12141/v9uaal3qndwv_,n,.urlset/index-v1-a1.m3u8?t=oblmCdKfRuS5ltFK7YfvATFzsbzvD1DuO7p7mdqT2Xs&s=1725430007&e=14400&f=60706620&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=20.49&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-afp0y7g5dthuxm2g.voe-network.net/engine/hls2/01/12141/v9uaal3qndwv_,n,.urlset/index-v1-a1.m3u8?t=oblmCdKfRuS5ltFK7YfvATFzsbzvD1DuO7p7mdqT2Xs&s=1725430007&e=14400&f=60706620&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=20.49&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

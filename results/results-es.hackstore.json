@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/ases-calientes-2006/",
+                                "title": "Ases Calientes (2006)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/abvcgclu5jHFo9YM8mHuV1EtrXk.jpg"
+                            },
+                            {
+                                "url": "/peliculas/american-pie-4-el-reencuentro-2012/",
+                                "title": "American Pie 4: El Reencuentro (2012)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/prurn3HioMykwlFMZdfvJ88iPlM.jpg"
+                            },
+                            {
                                 "url": "/peliculas/orgullo-y-prejuicio-2005/",
                                 "title": "Orgullo y Prejuicio (2005)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Tipos de gentileza (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg"
-                            },
-                            {
-                                "url": "/peliculas/slam-dunk-la-pelicula-2022/",
-                                "title": "Slam Dunk: La Película (2022)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/pWVJqFFeKBH3bp9szlNJpoHQFxt.jpg"
-                            },
-                            {
-                                "url": "/peliculas/inexpertos-2024/",
-                                "title": "Inexpertos (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/Inexpertos-scaled.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/orgullo-y-prejuicio-2005/",
-                    "title": "Orgullo y Prejuicio (2005)",
-                    "artist": "Brenda Blethyn",
-                    "author": "Guy Heeley",
-                    "description": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-                    "genre": "Drama, Romance",
+                    "url": "/peliculas/ases-calientes-2006/",
+                    "title": "Ases Calientes (2006)",
+                    "artist": "Alicia Keys",
+                    "author": "Alexa Alden",
+                    "description": "Cuando un actor convertido en soplón de Las Vegas llamado Buddy Israel decide pasar las pruebas del estado y testificar contra la mafia, parece que a mucha gente le gustaría asegurarse de que ya no respira.",
+                    "genre": "Acción, Comedia, Crimen, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/abvcgclu5jHFo9YM8mHuV1EtrXk-210x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/orgullo-y-prejuicio-2005/",
+                        "url": "/peliculas/ases-calientes-2006/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/12135/wumvqoyaeyqo_,n,.urlset/index-v1-a1.m3u8?t=ErIZqH9z1G54NHPlN4HUr6fKEda3491SsOJuJJruYgM&s=1725386781&e=14400&f=60676947&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=172.190&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/12135/wumvqoyaeyqo_,n,.urlset/index-v1-a1.m3u8?t=ErIZqH9z1G54NHPlN4HUr6fKEda3491SsOJuJJruYgM&s=1725386781&e=14400&f=60676947&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=172.190&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

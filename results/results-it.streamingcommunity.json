@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9844-the-perfect-couple",
+                                "title": "The Perfect Couple",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0aeb7173-a384-46f1-9a64-e91fbd1bc07f.webp"
+                            },
+                            {
                                 "url": "9842-lego-pixar-bricktoons",
                                 "title": "LEGO Pixar: BrickToons",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/952f80dd-cac3-4766-9cd2-219d47e1040f.webp"
@@ -300,11 +305,6 @@
                                 "url": "9403-horizon-an-american-saga-capitolo-1",
                                 "title": "Horizon: An American Saga - Capitolo 1",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/064ddf79-1d71-4004-9529-688babe41677.webp"
-                            },
-                            {
-                                "url": "9243-a-quiet-place-giorno-1",
-                                "title": "A Quiet Place - Giorno 1",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1713d7f9-cd84-4703-8abd-5e83c7ac8ff2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "9845-apollo-13-una-storia-di-sopravvivenza",
+                                "title": "Apollo 13: una storia di sopravvivenza",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f6e82e9d-6d23-4547-b497-df82454d2925.webp"
+                            },
                             {
                                 "url": "9843-make-it-or-break-it",
                                 "title": "Make It or Break It",
@@ -610,11 +615,6 @@
                                 "url": "9767-la-ragazza-del-metro",
                                 "title": "La ragazza del metrò",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9e77fe2b-b4f8-410e-8798-ed7d17f03cc0.webp"
-                            },
-                            {
-                                "url": "9766-rendel-ii-il-cerchio-della-vendetta",
-                                "title": "Rendel II - Il cerchio della vendetta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/585be129-5d13-4e0d-a324-3856114c4b7c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "9842-lego-pixar-bricktoons",
-                    "description": "LEGO rivisita i personaggi di alcuni film Pixar preferiti in cinque diverse avventure.",
-                    "genre": "Commedia, Famiglia, Animazione",
+                    "url": "9844-the-perfect-couple",
+                    "description": "",
+                    "genre": "Dramma, Crime, Mistero",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -946,14 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "9842?episode_id=76350&next_episode=1",
-                        "name": "Stagione 1 episodio 5 - Cantare con il cuore",
-                        "episode_number": 5.0
+                        "url": "9844?episode_id=76403&next_episode=1",
+                        "name": "Stagione 1 episodio 6 - Episode 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "9842?episode_id=76348&next_episode=1",
-                        "name": "Stagione 1 episodio 4 - La gita",
-                        "episode_number": 4.0
+                        "url": "9844?episode_id=76404&next_episode=1",
+                        "name": "Stagione 1 episodio 5 - Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -961,32 +961,72 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vixcloud.co/playlist/259005?type=video&rendition=480p&token=yyf4hDB7j-8U7jTA0uqMEg&edge=sc-u1-01",
+                        "url": "https://vixcloud.co/playlist/259147?type=video&rendition=480p&token=x28ffr74W7JCdduQ88EdFw&edge=sc-u3-01",
                         "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/259005?type=video&rendition=480p&token=yyf4hDB7j-8U7jTA0uqMEg&edge=sc-u1-01",
+                        "videoUrl": "https://vixcloud.co/playlist/259147?type=video&rendition=480p&token=x28ffr74W7JCdduQ88EdFw&edge=sc-u3-01",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=3-eng&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=3-eng&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
                                 "lang": "English [CC]"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=4-forced-ita&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=4-ger&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=5-gre&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=6-fre&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=7-forced-ita&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
                                 "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=8-ita&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=9-ukr&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "Ukrainian"
                             }
                         ]
                     },
                     {
-                        "url": "https://vixcloud.co/playlist/259005?type=video&rendition=720p&token=hbm_W_imf4mi5DstfEf1Lw&edge=sc-u1-01",
+                        "url": "https://vixcloud.co/playlist/259147?type=video&rendition=720p&token=Z6Y8xpEOIug5NIZeDAc5MA&edge=sc-u3-01",
                         "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/259005?type=video&rendition=720p&token=hbm_W_imf4mi5DstfEf1Lw&edge=sc-u1-01",
+                        "videoUrl": "https://vixcloud.co/playlist/259147?type=video&rendition=720p&token=Z6Y8xpEOIug5NIZeDAc5MA&edge=sc-u3-01",
                         "subtitleTracks": [
                             {
-                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=3-eng&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=3-eng&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
                                 "lang": "English [CC]"
                             },
                             {
-                                "url": "https://vixcloud.co/playlist/259005?type=subtitle&rendition=4-forced-ita&token=YKrniyqkY0VXLdr55edIHQ&edge=sc-u1-01",
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=4-ger&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=5-gre&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "Greek"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=6-fre&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=7-forced-ita&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
                                 "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=8-ita&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/259147?type=subtitle&rendition=9-ukr&token=h3w6MlXAg7vr_JGGBNTYSA&edge=sc-u3-01",
+                                "lang": "Ukrainian"
                             }
                         ]
                     }

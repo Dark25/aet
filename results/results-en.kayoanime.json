@@ -168,7 +168,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

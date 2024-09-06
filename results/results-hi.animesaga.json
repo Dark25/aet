@@ -3,27 +3,27 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.animesaga.in not verified:\n    certificate: sha256/kT0OA6sblx24tETS2QX8cJFVE1M2VhsX/pZeaIxIln0=\n    DN: CN=dan.com\n    subjectAltNames: [www.dan.com, dan.com]",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.animesaga.in not verified:\n    certificate: sha256/kT0OA6sblx24tETS2QX8cJFVE1M2VhsX/pZeaIxIln0=\n    DN: CN=dan.com\n    subjectAltNames: [www.dan.com, dan.com]",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.animesaga.in not verified:\n    certificate: sha256/kT0OA6sblx24tETS2QX8cJFVE1M2VhsX/pZeaIxIln0=\n    DN: CN=dan.com\n    subjectAltNames: [www.dan.com, dan.com]",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.animesaga.in not verified:\n    certificate: sha256/kT0OA6sblx24tETS2QX8cJFVE1M2VhsX/pZeaIxIln0=\n    DN: CN=dan.com\n    subjectAltNames: [www.dan.com, dan.com]",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.animesaga.in not verified:\n    certificate: sha256/kT0OA6sblx24tETS2QX8cJFVE1M2VhsX/pZeaIxIln0=\n    DN: CN=dan.com\n    subjectAltNames: [www.dan.com, dan.com]",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname www.animesaga.in not verified:\n    certificate: sha256/kT0OA6sblx24tETS2QX8cJFVE1M2VhsX/pZeaIxIln0=\n    DN: CN=dan.com\n    subjectAltNames: [www.dan.com, dan.com]",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             }
         }

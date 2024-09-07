@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/exhuma-sub-espanol",
+                                "title": "Exhuma",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/exhuma-1725676278.webp?v=1.5"
+                            },
+                            {
+                                "url": "/dorama/exhuma-la-tumba-del-diablo-latino-sub-espanol",
+                                "title": "Exhuma: La Tumba del Diablo Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/exhuma-la-tumba-del-diablo-latino-1725676173.webp?v=1.5"
+                            },
+                            {
+                                "url": "/dorama/master-of-the-house-sub-espanol",
+                                "title": "Master of the House",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/master-of-the-house-1725673588.webp?v=1.5"
+                            },
+                            {
+                                "url": "/dorama/el-senor-de-la-casa-latino-sub-espanol",
+                                "title": "El Señor De La Casa Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/el-senor-de-la-casa-latino-1725672289.webp?v=1.5"
+                            },
+                            {
                                 "url": "/dorama/chastity-high-sub-espanol",
                                 "title": "Chastity High",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/chastity-high-1725664635.webp?v=1.5"
@@ -135,26 +155,6 @@
                                 "url": "/dorama/gank-your-heart-sub-espanol",
                                 "title": "Gank Your Heart",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/gank-your-heart-1723067627.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/i-know-i-love-you-sub-espanol",
-                                "title": "I Know I Love You",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/i-know-i-love-you-1722819517.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/unchained-love-sub-espanol",
-                                "title": "Unchained Love",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/unchained-love-1722808294.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/love-is-panacea-sub-espanol",
-                                "title": "Love Is Panacea",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-is-panacea-1722558307.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/tokyo-swindlers-sub-espanol",
-                                "title": "Tokyo Swindlers",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/tokyo-swindlers-1722551077.webp?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -404,24 +404,76 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/chastity-high-sub-espanol",
-                    "title": "Chastity High",
-                    "description": "Cuando un instituto de élite pone la estricta norma de \"prohibido enamorarse\", so pena de expulsión, una estudiante se rebela y ayuda a sus compañeros a cambio de dinero.",
-                    "genre": "Romance, Drama, J-Drama",
+                    "url": "/dorama/exhuma-sub-espanol",
+                    "title": "Exhuma",
+                    "description": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
+                    "genre": "Thriller, Misterio, Sobrenatural, Horror, K-Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/chastity-high-1725664635.webp?v=1.5",
+                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/exhuma-1725676278.webp?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/exhuma-episodio-1",
+                        "name": "Capítulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06853/idmhq8u6zjiq_x/index-v1.m3u8?t=u8jsb7qwQYfa5H0tUKaNUSaauMZ_l412WPQ3mUWgFHQ&s=1725689166&e=10800&f=34266184&srv=26&asn=8075&sp=5500",
+                        "quality": "Filemoon:1020p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06853/idmhq8u6zjiq_x/index-v1.m3u8?t=u8jsb7qwQYfa5H0tUKaNUSaauMZ_l412WPQ3mUWgFHQ&s=1725689166&e=10800&f=34266184&srv=26&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-1z25ezc9gumgsvao.voe-network.net/engine/hls2-c/01/12161/kp5ujke3txe5_,n,.urlset/index-v1-a1.m3u8?t=wd3b7RrSTN9eHAkSEcLQ2zKZmWwzAO10cjbupBq7fWM&s=1725689172&e=14400&f=60805247&node=delivery-node-uacpizsol9ofqmpr.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-1z25ezc9gumgsvao.voe-network.net/engine/hls2-c/01/12161/kp5ujke3txe5_,n,.urlset/index-v1-a1.m3u8?t=wd3b7RrSTN9eHAkSEcLQ2zKZmWwzAO10cjbupBq7fWM&s=1725689172&e=14400&f=60805247&node=delivery-node-uacpizsol9ofqmpr.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a1np9lzy.cdn-jupiter.com/hls2/01/04862/jfhyahmi1xon_n/index-v1-a1.m3u8?t=agV5MOVqA8HSvrwRUTvikKgJeXZZZtgOSA5j-7c3bDI&s=1725689167&e=129600&f=24311843&srv=GlqaLV1HlTsSL&i=0.4&sp=500&p1=GlqaLV1HlTsSL&p2=GlqaLV1HlTsSL&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://a1np9lzy.cdn-jupiter.com/hls2/01/04862/jfhyahmi1xon_n/index-v1-a1.m3u8?t=agV5MOVqA8HSvrwRUTvikKgJeXZZZtgOSA5j-7c3bDI&s=1725689167&e=129600&f=24311843&srv=GlqaLV1HlTsSL&i=0.4&sp=500&p1=GlqaLV1HlTsSL&p2=GlqaLV1HlTsSL&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/jfhyahmi1xon"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery49.mxcontent.net/v2/8l961pd0bl73dx.mp4?s=aZudFq5mG9EERbzbZIilRg&e=1725710770&_t=1725696255",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery49.mxcontent.net/v2/8l961pd0bl73dx.mp4?s=aZudFq5mG9EERbzbZIilRg&e=1725710770&_t=1725696255",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://m80.uqload.ws/3rfkk66ftrw2q4drdky7v5ngdhy3fdg522aiwuy4nn3ydlp7ntxmgcdrofuq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m80.uqload.ws/3rfkk66ftrw2q4drdky7v5ngdhy3fdg522aiwuy4nn3ydlp7ntxmgcdrofuq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

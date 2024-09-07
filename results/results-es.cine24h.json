@@ -806,7 +806,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

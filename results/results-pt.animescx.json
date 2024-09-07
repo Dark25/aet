@@ -162,11 +162,6 @@
                                 "thumbnail_url": "https://animescx.com.br/cdn-cx/img/Cinderella-at-2AM-A-Cinderela-moderna-Assistir-Online-Legendado-Dublado-Baixar-Download-Google-Drive-Mega-Torrent.jpg"
                             },
                             {
-                                "url": "/doramas/connection/",
-                                "title": "Connection",
-                                "thumbnail_url": "https://animescx.com.br/cdn-cx/img/Connection-Conexoes-Traicoeiras-Dorama-Drama-Coreano-FullHD-Assistir-Online-Legendado-Dublado-Legendado-Mega-MediaFire-Google-Docs-Google-Drive.jpg"
-                            },
-                            {
                                 "url": "/doramas/dare-to-love-me/",
                                 "title": "Dare to Love Me",
                                 "thumbnail_url": "https://animescx.com.br/cdn-cx/img/Dare-to-Love-Me-Te-Desafio-a-Me-Amar-Drama-Dorama-Dublado-Assitir-Online-Download-Baixar-Completo-Todos-os-Episodios-Google-Drive-FullHD.jpg"
@@ -195,6 +190,11 @@
                                 "url": "/doramas/flex-x-cop/",
                                 "title": "Flex X Cop",
                                 "thumbnail_url": "https://animescx.com.br/cdn-cx/img/Flex-X-Cop-Doramas-Drama-Legendado-Download-Mega-MediaFire-Google-Drive-Torrent-2023-2024.jpg"
+                            },
+                            {
+                                "url": "/doramas/gaus-electronics/",
+                                "title": "Gaus Electronics",
+                                "thumbnail_url": "https://animescx.com.br/cdn-cx/img/Gaus-Electronics-Todos-os-Episodios-Dublado-Legendado-PT-BR-Online-HD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -253,8 +253,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://download1479.mediafire.com/ibi7zncydgkgC9SH_BzWwi74o1Yxtfz-5yRRsP7TLkA042KDCmqwVs2A2i_khT7e2XntyOrsfvC2qWVqlNugAOEy9WEW5E-ycfhEOVInTJ-YF0e3lFN4Qre_hUnNDaQnwq22-iqpBD27RMp8kg3nWerRqXGLkgJ0j-KaYCSbsAeP5UE/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
+                        "quality": "Mediafire - FULL HD",
+                        "videoUrl": "https://download1479.mediafire.com/ibi7zncydgkgC9SH_BzWwi74o1Yxtfz-5yRRsP7TLkA042KDCmqwVs2A2i_khT7e2XntyOrsfvC2qWVqlNugAOEy9WEW5E-ycfhEOVInTJ-YF0e3lFN4Qre_hUnNDaQnwq22-iqpBD27RMp8kg3nWerRqXGLkgJ0j-KaYCSbsAeP5UE/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO",
+                        "quality": "GDrive - FULL HD",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

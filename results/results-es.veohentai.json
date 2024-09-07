@@ -430,8 +430,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://r2.1hanime.com/my-mother-the-animation.mp4",
+                        "quality": "VeoHentai:MP4",
+                        "videoUrl": "https://r2.1hanime.com/my-mother-the-animation.mp4",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cdn.htstreaming.com/spanish/My%20mother%20the%20animation%201%20espanol.srt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

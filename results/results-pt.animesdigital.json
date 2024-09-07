@@ -37,6 +37,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/video/a/122913/",
+                                "title": "Shadowverse Flame: Arc-hen",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/04/assistir-shadowverse-flame-arc-hen-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/122912/",
+                                "title": "Shadowverse Flame: Arc-hen",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/04/assistir-shadowverse-flame-arc-hen-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/122910/",
+                                "title": "Boku no Hero Academia 7",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/05/assistir-boku-no-hero-academia-7-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
                                 "url": "/video/a/122909/",
                                 "title": "Dungeon no Naka no Hito",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/assistir-dungeon-no-naka-no-hito-todos-os-episodios-online-animes-online.jpg"
@@ -100,21 +115,6 @@
                                 "url": "/video/a/122893/",
                                 "title": "Ramen Aka Neko",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/Ramen-AkanekoEp.jpg"
-                            },
-                            {
-                                "url": "/video/a/122892/",
-                                "title": "Tasogare Outfocus",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/Tasogare-OutfocusEp.jpg"
-                            },
-                            {
-                                "url": "/video/a/122891/",
-                                "title": "Gimai Seikatsu",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/Gimai-SeikatsuEp.jpg"
-                            },
-                            {
-                                "url": "/video/a/122887/",
-                                "title": "Delico’s Nursery",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/08/assistir-delicos-nursery-todos-os-episodios-online-animes-online.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -234,7 +234,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/a/122821/",
+                        "url": "/?p=122821",
                         "name": "Episódio 15",
                         "episode_number": 15.0
                     },
@@ -247,26 +247,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8wNS9ib2t1LW5vLWgtNy1zZWFzb24uaHRtbA==/13/bg.mp4",
-                        "quality": "Animes Digital",
-                        "videoUrl": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8wNS9ib2t1LW5vLWgtNy1zZWFzb24uaHRtbA==/13/bg.mp4",
-                        "headers": {
-                            "referer": "https://sabornutritivo.com/recheio-de-pao-com-salsicha-macas-e-salvia/"
-                        }
-                    },
-                    {
-                        "url": "https://api.anivideo.fun/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/b/boku-no-hero-academia-7th-season/15.mp4/index.m3u8",
-                        "quality": "480p",
-                        "videoUrl": "https://api.anivideo.fun/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/b/boku-no-hero-academia-7th-season/15.mp4/index.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animesdigital.org"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

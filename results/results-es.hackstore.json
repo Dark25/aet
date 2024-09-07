@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-jsubhv3syezen0hx.voe-network.net/engine/hls2-c/01/12159/2yirta3apbfy_,n,.urlset/index-v1-a1.m3u8?t=Zf8AWI-BlnBwagQ49IVcLjDV8JSgz8Uzof6zXtbzamA&s=1725732326&e=14400&f=60796353&node=delivery-node-i2srjqfsvhiwctrz.voe-network.net&i=52.159&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-jsubhv3syezen0hx.voe-network.net/engine/hls2-c/01/12159/2yirta3apbfy_,n,.urlset/index-v1-a1.m3u8?t=Zf8AWI-BlnBwagQ49IVcLjDV8JSgz8Uzof6zXtbzamA&s=1725732326&e=14400&f=60796353&node=delivery-node-i2srjqfsvhiwctrz.voe-network.net&i=52.159&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

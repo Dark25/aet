@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/disco-ibiza-locomia-2024/",
+                                "title": "Disco, Ibiza, Locomía (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/beLbZExOZ64LzbqJbbbjhlqbezi.jpg"
+                            },
+                            {
+                                "url": "/peliculas/rebel-ridge-2024/",
+                                "title": "Rebel Ridge (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg"
+                            },
+                            {
                                 "url": "/peliculas/johnny-y-june-pasion-y-locura-2005/",
                                 "title": "Johnny y June: Pasión y locura (2005)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Papá Por Siempre (1993)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/vC9ufyEuCbvojVvl9i6FXN3n06e-scaled.jpg"
-                            },
-                            {
-                                "url": "/peliculas/el-jorobado-de-notre-dame-1996/",
-                                "title": "El jorobado de Notre Dame (1996)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/El-jorobado-de-Notre-Dame-scaled.jpg"
-                            },
-                            {
-                                "url": "/peliculas/el-dia-que-la-tierra-se-detuvo-2008/",
-                                "title": "El Día que la Tierra se Detuvo (2008)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/El-Dia-que-la-Tierra-se-Detuvo-scaled.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/johnny-y-june-pasion-y-locura-2005/",
-                    "title": "Johnny y June: Pasión y locura (2005)",
-                    "artist": "Dallas Roberts",
-                    "author": "James Mangold",
-                    "description": "Biopic del gran cantante de música country Johnny Cash y su mujer y compañera June Carter. La historia comienza en Arkansas, en la época de la Gran Depresión. John R. Cash, hijo de un aparcero, no tardará en realizar salvajes giras con los pioneros del rock and roll: Elvis Presley, Carl Perkins, Roy Orbison, Jerry Lee Lewis y Waylon Jennings, giras que culminan con su inolvidable concierto de 1968 en la Prisión de Folsom. Cash se convirtió en el artista más popular del momento, llegando a vender más discos que The Beatles.",
-                    "genre": "Drama, Música, Romance",
+                    "url": "/peliculas/disco-ibiza-locomia-2024/",
+                    "title": "Disco, Ibiza, Locomía (2024)",
+                    "artist": "Albert Baró",
+                    "author": "Kike Maíllo",
+                    "description": "Estamos en la España de mediados de los 80. Un grupo de amigos capitaneados por Xavi Font (Jaime Lorente), acaban de llegar a Ibiza persiguiendo su sueño de dedicarse a la moda. Allí les descubre el productor José Luís Gil (Alberto Ammann), un magnate de la industria musical que busca nuevos talentos para lanzar un grupo. Sin tener ni idea de cantar, el grupo inicia una carrera que les lleva de vivir como hippies en Ibiza, a llenar estadios en Latinoamérica y revolucionar de paso las discotecas de medio mundo. Crearon un nuevo estilo, fueron perseguidos por fans y ganaron millones… Aunque para ello tuvieron que sacrificar su libertad.",
+                    "genre": "Drama, Música",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/Johnny-y-June.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/johnny-y-june-pasion-y-locura-2005/",
+                        "url": "/peliculas/disco-ibiza-locomia-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-8kdsssyupy6hhinm.voe-network.net/engine/hls2-c/01/12159/2yirta3apbfy_,n,.urlset/index-v1-a1.m3u8?t=u7SOugKXQs7JnKmS8V1mb7Jt-zHWeSyfN30ZTVMNuK4&s=1725668144&e=14400&f=60796353&node=delivery-node-3exjmjcu02yez3zb.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-8kdsssyupy6hhinm.voe-network.net/engine/hls2-c/01/12159/2yirta3apbfy_,n,.urlset/index-v1-a1.m3u8?t=u7SOugKXQs7JnKmS8V1mb7Jt-zHWeSyfN30ZTVMNuK4&s=1725668144&e=14400&f=60796353&node=delivery-node-3exjmjcu02yez3zb.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

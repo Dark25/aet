@@ -3,8 +3,314 @@
         "name": "Cine24h (ES)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/harry-potter-y-la-piedra-filosofal/",
+                                "title": "🇲🇽 Harry Potter y La Piedra Filosofal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7xXJ15VEf7G9GdAuV1dO769yC73.jpg"
+                            },
+                            {
+                                "url": "/movie/12-horas-para-sobrevivir-el-inicio/",
+                                "title": "🇲🇽 12 Horas Para Sobrevivir El Inicio (La Purga)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8qev1papxnzWVrXxZvEUqI8Z3n5.jpg"
+                            },
+                            {
+                                "url": "/serie/the-good-doctor/",
+                                "title": "The Good Doctor",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kR2TNv6EqDZS8WWo7NeXM2tx402.jpg"
+                            },
+                            {
+                                "url": "/movie/el-amor-no-cuesta-nada/",
+                                "title": "🇲🇽 El amor no cuesta nada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/88zspc72LIkfiuMnGpHnsWCuqEH.jpg"
+                            },
+                            {
+                                "url": "/movie/el-diablo-viste-a-la-moda/",
+                                "title": "🇲🇽 El Diablo Viste a La Moda",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/u6QBDGUCOEMRekna95ip2MxplbQ.jpg"
+                            },
+                            {
+                                "url": "/serie/the-walking-dead/",
+                                "title": "The Walking Dead",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4Uflsbcx5TzdCWiUiIeu0kPFzuH.jpg"
+                            },
+                            {
+                                "url": "/serie/juego-de-tronos/",
+                                "title": "Juego de Tronos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4KHspQhxzwKV52g1y8fNcqgtro1.jpg"
+                            },
+                            {
+                                "url": "/movie/moana/",
+                                "title": "🇲🇽 Moana",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4JeejGugONWpJkbnvL12hVoYEDa.jpg"
+                            },
+                            {
+                                "url": "/movie/doctor-strange-en-el-multiverso-de-la-locura/",
+                                "title": "🇲🇽 Doctor Strange en el multiverso de la locura",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/aB6uuWZkpHoePcARzjCgra2TbD3.jpg"
+                            },
+                            {
+                                "url": "/movie/avengers-endgame/",
+                                "title": "🇲🇽 Avengers: Endgame",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+                            },
+                            {
+                                "url": "/serie/diarios-de-vampiros/",
+                                "title": "Diarios de Vampiros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/itWtSnqjui7rnnXt1UwB8MgXtMx.jpg"
+                            },
+                            {
+                                "url": "/movie/cronicas-de-la-tribu-fantasmal/",
+                                "title": "🇺🇸 Crónicas de La Tribu Fantasmal (Chronicles of the Ghostly Tribe)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/oOqJwkOVfWoRd3kqWhvBweYuGF6.jpg"
+                            },
+                            {
+                                "url": "/movie/el-insoportable-peso-de-un-talento-descomunal/",
+                                "title": "🇲🇽 El insoportable peso de un talento descomunal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bmxCAO0tz79xn40swJAEIJPRnC1.jpg"
+                            },
+                            {
+                                "url": "/serie/riverdale/",
+                                "title": "Riverdale",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/o6qT33idpxWV51FsIjAyGDyp5Ou.jpg"
+                            },
+                            {
+                                "url": "/movie/los-colegas-del-barrio/",
+                                "title": "🇲🇽 Los colegas del barrio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/HZQBF7JDd2e9p4rPSbSHuWHaCC.jpg"
+                            },
+                            {
+                                "url": "/movie/avengers-infinity-war/",
+                                "title": "🇲🇽 Avengers: Infinity War",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+                            },
+                            {
+                                "url": "/movie/juego-de-honor/",
+                                "title": "🇲🇽 Juego de Honor",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg"
+                            },
+                            {
+                                "url": "/movie/lo-que-ellas-quieren/",
+                                "title": "🇲🇽 Lo Que Ellas Quieren (What Women Want)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/n5NOxrcgeiCxvEn47FG9bvlHNsV.jpg"
+                            },
+                            {
+                                "url": "/movie/la-sirenita-1/",
+                                "title": "🇲🇽 La Sirenita 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/plcZXvI310FkbwIptvd6rqk63LP.jpg"
+                            },
+                            {
+                                "url": "/movie/la-princesita/",
+                                "title": "🇲🇽 La Princesita",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kaeV850QBlOiarhiKmmHr31Xu66.jpg"
+                            },
+                            {
+                                "url": "/serie/the-big-bang-theory/",
+                                "title": "The Big Bang Theory",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg"
+                            },
+                            {
+                                "url": "/movie/capitana-marvel/",
+                                "title": "🇲🇽 Capitana Marvel",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"
+                            },
+                            {
+                                "url": "/serie/elite/",
+                                "title": "Élite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vUhQavDAbdHa6gKSeozskk8XVGt.jpg"
+                            },
+                            {
+                                "url": "/serie/siren/",
+                                "title": "Siren",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/k906XXqqFMT93v2WMkIOtUcEAlV.jpg"
+                            },
+                            {
+                                "url": "/serie/dragon-ball-super/",
+                                "title": "Dragon Ball Super",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8xc6QcxN8ZOCW4lo4IpVNm3VqKt.jpg"
+                            },
+                            {
+                                "url": "/serie/scream-queens/",
+                                "title": "Scream Queens",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/meEpahKIpBhW2TFGhiw0FiIXCaL.jpg"
+                            },
+                            {
+                                "url": "/movie/una-historia-del-bronx/",
+                                "title": "🇲🇽 Una historia del Bronx",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/q3OLCwxpzGE8SL1acjBamuUcWiA.jpg"
+                            },
+                            {
+                                "url": "/movie/nunca-mas/",
+                                "title": "🇲🇽 Nunca Más",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4glaIcIRw0IVmQKWYVK6CIo0zaU.jpg"
+                            },
+                            {
+                                "url": "/movie/pantera-negra-2/",
+                                "title": "🇲🇽 Pantera Negra 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jGKK7QYXjen3nDlwjF0BuFyBlZN.jpg"
+                            },
+                            {
+                                "url": "/movie/yo-antes-de-ti/",
+                                "title": "🇲🇽 Yo antes de ti (Me Before You)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg"
+                            },
+                            {
+                                "url": "/serie/la-casa-de-papel/",
+                                "title": "La Casa de Papel",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dQtiDcc8N1joORj3E6oWC8vZVCb.jpg"
+                            },
+                            {
+                                "url": "/movie/un-sueno-posible/",
+                                "title": "🇲🇽 Un Sueño Posible (The Blind Side)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg"
+                            },
+                            {
+                                "url": "/movie/el-sustituto/",
+                                "title": "🇲🇽 El Sustituto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jlhe2SKWqW3F7BEQl3sOkgXLtkW.jpg"
+                            },
+                            {
+                                "url": "/movie/el-conjuro-1/",
+                                "title": "🇲🇽 El Conjuro 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/inBZ5Lm0tUNSgMGZZ7f9vfHNKI2.jpg"
+                            },
+                            {
+                                "url": "/movie/toy-story-4/",
+                                "title": "🇲🇽 Toy Story 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/rquBnnY9E2a3dh98iX42e1BL3yJ.jpg"
+                            },
+                            {
+                                "url": "/movie/como-entrenar-a-tu-dragon-3/",
+                                "title": "🇲🇽 Cómo entrenar a tu dragón 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+                            },
+                            {
+                                "url": "/movie/las-vacaciones-de-mi-vida/",
+                                "title": "🇺🇸 Las Vacaciones de mi Vida (Last Holiday)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9hnSFHD0I49Lyqy4nImrGq8ZVUW.jpg"
+                            },
+                            {
+                                "url": "/movie/it-2/",
+                                "title": "🇲🇽 It 2 (Eso) 2019",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8UJfDAJSk5i1swGMTiykbOXdd6C.jpg"
+                            },
+                            {
+                                "url": "/serie/the-flash/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+                            },
+                            {
+                                "url": "/movie/joker/",
+                                "title": "🇲🇽 Joker (Guasón)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/UVDWwC7Mpbis9U9WPqbRHmxSG1.jpg"
+                            },
+                            {
+                                "url": "/serie/anatomia-de-grey/",
+                                "title": "Anatomía de Grey",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wdODHUULPwk3vmHWYG0L3CieGvk.jpg"
+                            },
+                            {
+                                "url": "/serie/dr-house/",
+                                "title": "Dr. House",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gJay5Y0XpuKTW5e4OACzewxJaXt.jpg"
+                            },
+                            {
+                                "url": "/movie/el-conjuro-3/",
+                                "title": "🇲🇽 El Conjuro 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lkjOx3VOSi9PBll6UY6OUyQFZYe.jpg"
+                            },
+                            {
+                                "url": "/movie/guardianes-de-la-galaxia-especial-felices-fiestas/",
+                                "title": "🇲🇽 Guardianes de la Galaxia: especial felices fiestas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+                            },
+                            {
+                                "url": "/serie/sex-education/",
+                                "title": "Sex Education",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4Bph0hhnDH6dpc0SZIV522bLm4P.jpg"
+                            },
+                            {
+                                "url": "/movie/venom-1/",
+                                "title": "🇲🇽 Venom 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"
+                            },
+                            {
+                                "url": "/movie/sonic-1/",
+                                "title": "🇲🇽 Sonic 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eKTvmApQkxKmgBby223P61m9QYS.jpg"
+                            },
+                            {
+                                "url": "/movie/una-noche-en-el-roxbury/",
+                                "title": "🇲🇽 Una Noche En El Roxbury",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg"
+                            },
+                            {
+                                "url": "/serie/spartacus/",
+                                "title": "Spartacus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg"
+                            },
+                            {
+                                "url": "/movie/5-de-mayo-la-batalla/",
+                                "title": "🇲🇽 5 de Mayo La Batalla (Cinco)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7MAtraeiaKnTrbtzUBbc9SHkdct.jpg"
+                            },
+                            {
+                                "url": "/serie/stranger-things/",
+                                "title": "Stranger Things",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/iyl4jUlmBZphjz0ygbWhIPUmS4p.jpg"
+                            },
+                            {
+                                "url": "/serie/lucifer/",
+                                "title": "Lucifer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wmOuYyqVaczBLXxQNFSaRfAUgPz.jpg"
+                            },
+                            {
+                                "url": "/movie/y-donde-estan-las-rubias/",
+                                "title": "🇲🇽 ¿Y dónde están las rubias?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hT4PEPFW3dQG7N5LZe5b2qYHCU0.jpg"
+                            },
+                            {
+                                "url": "/movie/spider-man-sin-camino-a-casa/",
+                                "title": "🇲🇽 Spider-Man Sin camino a casa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xu3FSZCx7SME47o3YqZpf2UBh5g.jpg"
+                            },
+                            {
+                                "url": "/movie/ni-en-tus-suenos/",
+                                "title": "🇲🇽 Ni En Tus Sueños",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wTy3rtmbgJkClR492q6FBbtdeMb.jpg"
+                            },
+                            {
+                                "url": "/movie/historias-cruzadas/",
+                                "title": "🇲🇽 Historias Cruzadas (The Help)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg"
+                            },
+                            {
+                                "url": "/movie/wifi-ralph/",
+                                "title": "🇲🇽 Wifi Ralph",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qEnH5meR381iMpmCumAIMswcQw2.jpg"
+                            },
+                            {
+                                "url": "/movie/shang-chi-y-la-leyenda-de-los-diez-anillos-2/",
+                                "title": "🇲🇽 Shang-Chi y la leyenda de los Diez Anillos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
+                            },
+                            {
+                                "url": "/movie/evitando-el-amor/",
+                                "title": "🇲🇽 Evitando El Amor (Stuck in Love) Un invierno en la playa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/6vG0eCHT2e4uH035g1s6JTouU6R.jpg"
+                            },
+                            {
+                                "url": "/movie/camino-hacia-el-terror-2/",
+                                "title": "🇲🇽 Camino Hacia el Terror 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/n5Re2ywnpqwAXTin8W5j3lqSwc7.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -478,12 +784,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/intensamente-2-sub/",
-                    "description": "IntensaMente 2 (2024) Del revés 2 (Inside Out 2) Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos…) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento. Secuela de ‘Inside Out’.",
-                    "genre": "Animación, Aventura, Comedia, Familia",
+                    "url": "/movie/harry-potter-y-la-piedra-filosofal/",
+                    "description": "Harry Potter and the Philosopher’s Stone, Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran. El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee.",
+                    "genre": "Aventura, Familia, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wUi2yyoDHddQfrurW6t9fD7olbH.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7xXJ15VEf7G9GdAuV1dO769yC73.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -491,16 +797,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/intensamente-2-sub/",
+                        "url": "/movie/harry-potter-y-la-piedra-filosofal/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0,
-                        "scanlator": "2024"
+                        "scanlator": "2001"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketException: Network is unreachable",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/rebel-ridge/",
+                                "title": "Rebel Ridge",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg"
+                            },
+                            {
                                 "url": "/borderlands/",
                                 "title": "Borderlands",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/ride-2024/",
                                 "title": "Ride (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg"
-                            },
-                            {
-                                "url": "/reverse-the-curse/",
-                                "title": "Reverse the Curse",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ZLa3asN2XbjdRcw9eOYPcIzjFz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,15 +424,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/borderlands/",
-                    "title": "Borderlands",
-                    "artist": "Cate Blanchett",
-                    "author": "Eli Roth",
-                    "description": "Lilith, una infame cazatesoros con un misterioso pasado, regresa a su planeta natal de Pandora para encontrar a la hija desaparecida del poderoso Atlas. Para ello forma una alianza inesperada con un heterogéneo equipo de inadaptados: Roland, un antiguo mercenario de élite ahora desesperado por la redención; Tiny Tina, una demolicionista salvaje preadolescente; Krieg, el musculoso protector de Tina; la científica Tannis; y Claptrap, un robot muy peculiar. Estos extraños héroes deberán luchar contra monstruos alienígenas y peligrosos bandidos para buscar y proteger a la niña desaparecida, que puede tener la clave de un poder inimaginable.",
-                    "genre": "Acción, Aventura, Ciencia ficción, Comedia, Suspense",
+                    "url": "/rebel-ridge/",
+                    "title": "Rebel Ridge",
+                    "artist": "Aaron Pierre",
+                    "author": "Jeremy Saulnier",
+                    "description": "Un exmarine se enfrenta a la corrupción en una pequeña ciudad cuando la policía local le confisca, de forma injusta, la bolsa de dinero que necesita para la fianza de su primo.",
+                    "genre": "Acción, Crimen, Suspense",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -440,7 +440,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/borderlands/",
+                        "url": "/rebel-ridge/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -450,9 +450,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s36.fastream.to/hls2/20/00069/ee5y4d15xt7d_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Dm98VDu3gdFLsvTu3oAdWzfWfecbORzcB_AGtRybq6U&s=1725754625&e=43200&f=347244&srv=s39&i=0.3&sp=0&p1=s39&p2=s39",
+                        "url": "https://s40.fastream.to/hls2/07/00069/gabc5e3mfs4i_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XQBYOHJhjEWJCtyCHw42EmQ4kYGwiBXgk0Qukm4bWC4&s=1725775554&e=43200&f=347926&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00069/gabc5e3mfs4i_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XQBYOHJhjEWJCtyCHw42EmQ4kYGwiBXgk0Qukm4bWC4&s=1725775554&e=43200&f=347926&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00069/gabc5e3mfs4i_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XQBYOHJhjEWJCtyCHw42EmQ4kYGwiBXgk0Qukm4bWC4&s=1725775554&e=43200&f=347926&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/20/00069/ee5y4d15xt7d_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Dm98VDu3gdFLsvTu3oAdWzfWfecbORzcB_AGtRybq6U&s=1725754625&e=43200&f=347244&srv=s39&i=0.3&sp=0&p1=s39&p2=s39",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00069/gabc5e3mfs4i_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XQBYOHJhjEWJCtyCHw42EmQ4kYGwiBXgk0Qukm4bWC4&s=1725775554&e=43200&f=347926&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -461,9 +472,9 @@
                         }
                     },
                     {
-                        "url": "https://s36.fastream.to/hls2/20/00069/ee5y4d15xt7d_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Dm98VDu3gdFLsvTu3oAdWzfWfecbORzcB_AGtRybq6U&s=1725754625&e=43200&f=347244&srv=s39&i=0.3&sp=0&p1=s39&p2=s39",
+                        "url": "https://s40.fastream.to/hls2/07/00069/gabc5e3mfs4i_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XQBYOHJhjEWJCtyCHw42EmQ4kYGwiBXgk0Qukm4bWC4&s=1725775554&e=43200&f=347926&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/20/00069/ee5y4d15xt7d_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Dm98VDu3gdFLsvTu3oAdWzfWfecbORzcB_AGtRybq6U&s=1725754625&e=43200&f=347244&srv=s39&i=0.3&sp=0&p1=s39&p2=s39",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00069/gabc5e3mfs4i_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XQBYOHJhjEWJCtyCHw42EmQ4kYGwiBXgk0Qukm4bWC4&s=1725775554&e=43200&f=347926&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -472,9 +483,53 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/18/00069/639fzw39ssrg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=a1e-NoVMfZnU5EWEfSgKHnY5dKXSE3e7c87uiYZh8hU&s=1725754625&e=43200&f=347245&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/18/00069/639fzw39ssrg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=a1e-NoVMfZnU5EWEfSgKHnY5dKXSE3e7c87uiYZh8hU&s=1725754625&e=43200&f=347245&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -483,9 +538,31 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/18/00069/639fzw39ssrg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=a1e-NoVMfZnU5EWEfSgKHnY5dKXSE3e7c87uiYZh8hU&s=1725754625&e=43200&f=347245&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/18/00069/639fzw39ssrg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=a1e-NoVMfZnU5EWEfSgKHnY5dKXSE3e7c87uiYZh8hU&s=1725754625&e=43200&f=347245&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/24/00069/u5wu0rjbyiw9_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=zF5cWvqq0MxYBJ9-zJl_4RdXwn-izK4Vz25iinxc6uE&s=1725775554&e=43200&f=347927&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00069/6dlz26zaa7vs_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=rkDI0ZDlm9CvINEG4_vgUGkkvqgoISoemZttGUeZTvw&s=1725775554&e=43200&f=347925&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

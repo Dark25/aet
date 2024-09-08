@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/blancanieves-y-el-cazador-2012/",
+                                "title": "Blancanieves y el cazador (2012)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/aXDkg5obS59srKM2IefPIZMGF4b.jpg"
+                            },
+                            {
                                 "url": "/peliculas/disco-ibiza-locomia-2024/",
                                 "title": "Disco, Ibiza, Locomía (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Lo que queda del día (1993)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/qUdGRYs88oQVDzqby47u5j7eyAw.jpg"
-                            },
-                            {
-                                "url": "/peliculas/papa-por-siempre-1993/",
-                                "title": "Papá Por Siempre (1993)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/08/vC9ufyEuCbvojVvl9i6FXN3n06e-scaled.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/disco-ibiza-locomia-2024/",
-                    "title": "Disco, Ibiza, Locomía (2024)",
-                    "artist": "Albert Baró",
-                    "author": "Kike Maíllo",
-                    "description": "Estamos en la España de mediados de los 80. Un grupo de amigos capitaneados por Xavi Font (Jaime Lorente), acaban de llegar a Ibiza persiguiendo su sueño de dedicarse a la moda. Allí les descubre el productor José Luís Gil (Alberto Ammann), un magnate de la industria musical que busca nuevos talentos para lanzar un grupo. Sin tener ni idea de cantar, el grupo inicia una carrera que les lleva de vivir como hippies en Ibiza, a llenar estadios en Latinoamérica y revolucionar de paso las discotecas de medio mundo. Crearon un nuevo estilo, fueron perseguidos por fans y ganaron millones… Aunque para ello tuvieron que sacrificar su libertad.",
-                    "genre": "Drama, Música",
+                    "url": "/peliculas/blancanieves-y-el-cazador-2012/",
+                    "title": "Blancanieves y el cazador (2012)",
+                    "artist": "Kristen Stewart",
+                    "author": "Rupert Sanders",
+                    "description": "Blancanieves es la única mujer que supera en belleza a la malvada reina Ravenna, y esta última hará todo lo posible por seguir siendo la más bella del reino. Pero no puede imaginar que la muchacha escapó de sus garras y que ahora amenaza su dominio con la ayuda de Eric el Cazador.",
+                    "genre": "Aventura, Drama, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/aXDkg5obS59srKM2IefPIZMGF4b-210x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/disco-ibiza-locomia-2024/",
+                        "url": "/peliculas/blancanieves-y-el-cazador-2012/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-1qpzvgmmdsx0ikva.voe-network.net/engine/hls2-c/01/12159/2yirta3apbfy_,n,.urlset/index-v1-a1.m3u8?t=qWGn9gno5iXQVJLS8myebnJxXMQJLGjJYLuT2EHj1Vw&s=1725754635&e=14400&f=60796353&node=delivery-node-wkgtlrbhjc1mxcjt.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-1qpzvgmmdsx0ikva.voe-network.net/engine/hls2-c/01/12159/2yirta3apbfy_,n,.urlset/index-v1-a1.m3u8?t=qWGn9gno5iXQVJLS8myebnJxXMQJLGjJYLuT2EHj1Vw&s=1725754635&e=14400&f=60796353&node=delivery-node-wkgtlrbhjc1mxcjt.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -304,6 +304,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/en-la-mente-de-un-perro",
+                                "title": "En la mente de un perro (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/62Rn8MiKf40vbTFeRqxyi8r5EWq.jpg"
+                            },
+                            {
                                 "url": "/pelicula/inocencia-robada",
                                 "title": "Inocencia robada (1999)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/65Dj96xO2wDwg7t2mB6MAMJmDIN.jpg"
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/bleach-hell-verse",
                                 "title": "Bleach: Hell Verse (2010)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bleach-fade-to-black-i-call-your-name",
-                                "title": "Bleach: Fade to Black - I Call Your Name (2008)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/14VhFcofaLd1tKJ6831jf8i3mLO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +681,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/inocencia-robada",
-                    "title": "Inocencia robada (1999)",
-                    "description": "Para celebrar el fin de sus estudios secundarios, Alice (Claire Danes) y Darlene, su mejor amiga, (Kate Beckinsale), deciden hacer un exótico viaje. A sus padres les han dicho que se van a Hawaii, pero, en realidad, se van a Bangkok. Bajo el mágico y dorado sol de Tailandia, las dos amigas se divierten a lo grande. Pero tan idílica situación se complica cuando conocen a Nick (Daniel Lapaine), un guapo y seductor chico australiano del que se encaprichan las dos. Cuando Nick le pide a Darlene que pase la noche con él, la extrovertida Alice se siente celosa y resentida contra su amiga. (FILMAFFINITY)",
-                    "genre": "",
+                    "url": "/pelicula/en-la-mente-de-un-perro",
+                    "title": "En la mente de un perro (2024)",
+                    "description": "Adéntrate en el fascinante mundo de los perros de la mano de este documental, que revela datos científicos y percepciones emocionales sobre el mejor amigo del hombre.",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +694,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/inocencia-robada",
+                        "url": "/pelicula/en-la-mente-de-un-perro",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,15 +704,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04862/w89rf6m02twn_l/index-v1-a1.m3u8?t=HU_He8fkS20TzRBsJbLl_Gzqr90QQi2vor8X6pGBIF4&s=1725754638&e=129600&f=24311370&srv=80i1ojlwfbic1&i=0.0&sp=500&p1=80i1ojlwfbic1&p2=80i1ojlwfbic1&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://yg4nzmarji8pp.pradoi.com/hls2/01/04862/w89rf6m02twn_l/index-v1-a1.m3u8?t=HU_He8fkS20TzRBsJbLl_Gzqr90QQi2vor8X6pGBIF4&s=1725754638&e=129600&f=24311370&srv=80i1ojlwfbic1&i=0.0&sp=500&p1=80i1ojlwfbic1&p2=80i1ojlwfbic1&asn=8075",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06855/wpehadt4dhqx_x/index-v1.m3u8?t=iL-KmFJAQOFtBuzRIhWEYUxwxGZkXKL2itjyT0AkvGQ&s=1725775563&e=10800&f=34277150&srv=28&asn=8075&sp=5500&fr=wpehadt4dhqx",
+                        "quality": "Filemoon:1080p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06855/wpehadt4dhqx_x/index-v1.m3u8?t=iL-KmFJAQOFtBuzRIhWEYUxwxGZkXKL2itjyT0AkvGQ&s=1725775563&e=10800&f=34277150&srv=28&asn=8075&sp=5500&fr=wpehadt4dhqx",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/w89rf6m02twn"
-                        }
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06855/lang/spa/wpehadt4dhqx_spa/index.m3u8?t=iL-KmFJAQOFtBuzRIhWEYUxwxGZkXKL2itjyT0AkvGQ&s=1725775563&e=10800&f=34277150&srv=28&asn=8075&sp=5500&fr=wpehadt4dhqx",
+                                "lang": "Español"
+                            }
+                        ]
                     }
                 ],
                 "passed": true
@@ -998,7 +1003,7 @@
                     "title": "Animalia en Australia",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Comedia, Aventura",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -1018,26 +1023,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://yg586kzo.cloudatacdn.com/u5kjzcf5dhf3sdgge4eucpigijxzvhcjyygoabk5cyyqcokfo3slm7dqvwja/e20bwwcr40~oFiVlURMjr?token=jq60df4d5pc03on6uq7pcypw&expiry=1725754641625",
-                        "quality": "[LAT]Doodstream  mirror",
-                        "videoUrl": "https://yg586kzo.cloudatacdn.com/u5kjzcf5dhf3sdgge4eucpigijxzvhcjyygoabk5cyyqcokfo3slm7dqvwja/e20bwwcr40~oFiVlURMjr?token=jq60df4d5pc03on6uq7pcypw&expiry=1725754641625",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-2ftzmAVAI37DTZAHIuh6m6qr1WG-wqAKfdxOLEEBiU&s=1725754648&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://13nt2qnqm72d.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DDIT-nBdA4Q168GxjfW14kFGSk95KHNqmhhnr2d8bHw&s=1725775572&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[CAST] StreamHideVid - 720p",
-                        "videoUrl": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-2ftzmAVAI37DTZAHIuh6m6qr1WG-wqAKfdxOLEEBiU&s=1725754648&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "videoUrl": "https://13nt2qnqm72d.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DDIT-nBdA4Q168GxjfW14kFGSk95KHNqmhhnr2d8bHw&s=1725775572&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bAmRvGlMfJWWav543bNqOWTBXaZFQvm7-Rq7q7jDs7M&s=1725754646&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f2-v1-a1.m3u8?t=l2_wBSeYIqxXda4F9-0NegL1N-dyuQagUIWP5KYu5ug&s=1725775570&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bAmRvGlMfJWWav543bNqOWTBXaZFQvm7-Rq7q7jDs7M&s=1725754646&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f2-v1-a1.m3u8?t=l2_wBSeYIqxXda4F9-0NegL1N-dyuQagUIWP5KYu5ug&s=1725775570&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1046,17 +1042,17 @@
                         }
                     },
                     {
-                        "url": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kACcbXXpuCJStgYCs7EeWnQZ_Lk-S0A2ayKXONn37KI&s=1725754644&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "url": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3atT6qD_jwxTyMh6jD_Cdibq5p8fiCujmeCe7q0SJKw&s=1725775568&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
                         "quality": "[SUB] StreamHideVid - 720p",
-                        "videoUrl": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kACcbXXpuCJStgYCs7EeWnQZ_Lk-S0A2ayKXONn37KI&s=1725754644&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "videoUrl": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3atT6qD_jwxTyMh6jD_Cdibq5p8fiCujmeCe7q0SJKw&s=1725775568&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CYwiE3mYoAvEkGuhipe9MRazr_IhLEeXf528r9CSwpQ&s=1725754642&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "url": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f2-v1-a1.m3u8?t=nsHbqP148zMUlB2F5f6CyQHGBzAvpM2WAuRoOZnpkAI&s=1725775566&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CYwiE3mYoAvEkGuhipe9MRazr_IhLEeXf528r9CSwpQ&s=1725754642&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "videoUrl": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f2-v1-a1.m3u8?t=nsHbqP148zMUlB2F5f6CyQHGBzAvpM2WAuRoOZnpkAI&s=1725775566&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1065,17 +1061,17 @@
                         }
                     },
                     {
-                        "url": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-2ftzmAVAI37DTZAHIuh6m6qr1WG-wqAKfdxOLEEBiU&s=1725754648&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://13nt2qnqm72d.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f1-v1-a1.m3u8?t=DDIT-nBdA4Q168GxjfW14kFGSk95KHNqmhhnr2d8bHw&s=1725775572&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[CAST] StreamHideVid - 480p",
-                        "videoUrl": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-2ftzmAVAI37DTZAHIuh6m6qr1WG-wqAKfdxOLEEBiU&s=1725754648&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "videoUrl": "https://13nt2qnqm72d.aghe-cdn.com/hls2/01/02256/8eo7v4cmjkem_,l,n,.urlset/index-f1-v1-a1.m3u8?t=DDIT-nBdA4Q168GxjfW14kFGSk95KHNqmhhnr2d8bHw&s=1725775572&e=129600&f=11284385&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f1-v1-a1.m3u8?t=bAmRvGlMfJWWav543bNqOWTBXaZFQvm7-Rq7q7jDs7M&s=1725754646&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f1-v1-a1.m3u8?t=l2_wBSeYIqxXda4F9-0NegL1N-dyuQagUIWP5KYu5ug&s=1725775570&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f1-v1-a1.m3u8?t=bAmRvGlMfJWWav543bNqOWTBXaZFQvm7-Rq7q7jDs7M&s=1725754646&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
+                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04865/w0nl14fsqvom_,l,n,.urlset/index-f1-v1-a1.m3u8?t=l2_wBSeYIqxXda4F9-0NegL1N-dyuQagUIWP5KYu5ug&s=1725775570&e=129600&f=24328847&srv=8ulqhwjgxdzbe&i=0.0&sp=500&p1=8ulqhwjgxdzbe&p2=8ulqhwjgxdzbe&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1084,40 +1080,22 @@
                         }
                     },
                     {
-                        "url": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kACcbXXpuCJStgYCs7EeWnQZ_Lk-S0A2ayKXONn37KI&s=1725754644&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "url": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=3atT6qD_jwxTyMh6jD_Cdibq5p8fiCujmeCe7q0SJKw&s=1725775568&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
                         "quality": "[SUB] StreamHideVid - 480p",
-                        "videoUrl": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kACcbXXpuCJStgYCs7EeWnQZ_Lk-S0A2ayKXONn37KI&s=1725754644&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
+                        "videoUrl": "https://mkz8cqibrwia.aghe-cdn.com/hls2/01/02256/hp3wgxuqmwpv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=3atT6qD_jwxTyMh6jD_Cdibq5p8fiCujmeCe7q0SJKw&s=1725775568&e=129600&f=11284435&srv=Kspbj916YoMn&i=0.4&sp=500&p1=Kspbj916YoMn&p2=Kspbj916YoMn&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CYwiE3mYoAvEkGuhipe9MRazr_IhLEeXf528r9CSwpQ&s=1725754642&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "url": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f1-v1-a1.m3u8?t=nsHbqP148zMUlB2F5f6CyQHGBzAvpM2WAuRoOZnpkAI&s=1725775566&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CYwiE3mYoAvEkGuhipe9MRazr_IhLEeXf528r9CSwpQ&s=1725754642&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "videoUrl": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04865/yulbg1290uou_,l,n,.urlset/index-f1-v1-a1.m3u8?t=nsHbqP148zMUlB2F5f6CyQHGBzAvpM2WAuRoOZnpkAI&s=1725775566&e=129600&f=24328933&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
                             "Referer": "https://wishembed.pro/e/yulbg1290uou"
-                        }
-                    },
-                    {
-                        "url": "https://ok148lo.cloudatacdn.com/u5kjyoavddf3sdgge65ueni2docjmaepcqpdqy663kcyclju2fe5kbtcimsa/49crhbq5rv~DPfvQDvAln?token=7t8ditwb974xauzpw28awee3&expiry=1725754647901",
-                        "quality": "[CAST]Doodstream  mirror",
-                        "videoUrl": "https://ok148lo.cloudatacdn.com/u5kjyoavddf3sdgge65ueni2docjmaepcqpdqy663kcyclju2fe5kbtcimsa/49crhbq5rv~DPfvQDvAln?token=7t8ditwb974xauzpw28awee3&expiry=1725754647901",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.to/"
-                        }
-                    },
-                    {
-                        "url": "https://ol651oon.cloudatacdn.com/u5kjuoqvddf3sdgge65eemaykbrztztw4vu6fzo2og3jffqbkirr7av7odla/kwm7v2nirj~13snjrjM4X?token=2tpcdg69idvtkr6c5wxhh7nq&expiry=1725754643951",
-                        "quality": "[SUB]Doodstream  mirror",
-                        "videoUrl": "https://ol651oon.cloudatacdn.com/u5kjuoqvddf3sdgge65eemaykbrztztw4vu6fzo2og3jffqbkirr7av7odla/kwm7v2nirj~13snjrjM4X?token=2tpcdg69idvtkr6c5wxhh7nq&expiry=1725754643951",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.to/"
                         }
                     }
                 ],

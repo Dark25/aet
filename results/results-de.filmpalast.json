@@ -177,6 +177,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/spy-x-family-code-white",
+                                "title": "Spy x Family Code: White",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/spy-x-family-code-white.jpg"
+                            },
+                            {
+                                "url": "/stream/was-ist-schon-normal",
+                                "title": "Was ist schon normal",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/was-ist-schon-normal.jpg"
+                            },
+                            {
+                                "url": "/stream/fierce-people-jede-familie-hat-ihre-geheimnisse",
+                                "title": "Fierce People - Jede Familie hat ihre Geheimnisse",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fierce-people-jede-familie-hat-ihre-geheimnisse.jpg"
+                            },
+                            {
+                                "url": "/stream/der-rote-berg",
+                                "title": "Der rote Berg",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-rote-berg.jpg"
+                            },
+                            {
                                 "url": "/stream/resident-alien-s03e08",
                                 "title": "Resident Alien S03E08",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/resident-alien-s03e08.jpg"
@@ -315,26 +335,6 @@
                                 "url": "/stream/black-friday-for-future",
                                 "title": "Black Friday for Future",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/black-friday-for-future.jpg"
-                            },
-                            {
-                                "url": "/stream/resident-alien-s03e07",
-                                "title": "Resident Alien S03E07",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/resident-alien-s03e07.jpg"
-                            },
-                            {
-                                "url": "/stream/harold-und-die-zauberkreide",
-                                "title": "Harold und die Zauberkreide",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/harold-und-die-zauberkreide.jpg"
-                            },
-                            {
-                                "url": "/stream/the-deliverance",
-                                "title": "The Deliverance",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-deliverance.jpg"
-                            },
-                            {
-                                "url": "/stream/may-december",
-                                "title": "May December",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/may-december.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,31 +347,15 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/stream/john-wick",
-                    "title": "John Wick",
-                    "author": "Chad Stahelski David Leitch",
-                    "description": "John Wick (Keanu Reeves) genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau (Bridget Moynahan) einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov (Alfie Allen), der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov (Michael Nyqvist), für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus (Willem Dafoe) an seinen Fersen hängen...",
-                    "genre": "Thriller Action",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://filmpalast.to/files/movies/450/john-wick.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/stream/john-wick",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

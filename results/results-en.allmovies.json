@@ -3,32 +3,20 @@
         "name": "AllMoviesForYou (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",

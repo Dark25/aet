@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/las-cosas-que-no-nos-dijimos/",
+                                "title": "Las cosas que no nos dijimos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//pxw83qQI1R9PY5I2imkctuWfrQu.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/la-bella-durmiente/",
+                                "title": "La bella durmiente",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//d7aeSm6RgJySwelL5tdu1TCclZh.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/el-angel-malvado/",
                                 "title": "El ángel malvado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//eTYOprmopNMSu2pql9P58XHxi1Q.jpg"
@@ -55,16 +65,6 @@
                                 "url": "/ver-serie/la-pareja-perfecta/",
                                 "title": "La pareja perfecta",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//db1m278xWKSzcMiU2JBszRKNILy.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/spy-x-family-codigo-blanco/",
-                                "title": "SPY x FAMILY CÓDIGO: Blanco",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/johnny-y-june-pasion-y-locura/",
-                                "title": "Johnny y June: Pasión y locura",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//f0S9xgm3GMWxLGkFnbuLylIFrmw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -198,12 +198,31 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/ver-serie/las-cosas-que-no-nos-dijimos/",
+                    "artist": "Àlex Brendemühl",
+                    "author": "Marc Levy",
+                    "description": "",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//pxw83qQI1R9PY5I2imkctuWfrQu.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver-el-episodio/las-cosas-que-no-nos-dijimos-1x9/",
+                        "name": "T1 - E9 - Episodio 9",
+                        "episode_number": 9.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/las-cosas-que-no-nos-dijimos-1x8/",
+                        "name": "T1 - E8 - Episodio 8",
+                        "episode_number": 8.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

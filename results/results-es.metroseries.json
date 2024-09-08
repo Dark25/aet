@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/PFwqLDF2n5q62kDW37qP59ZHCv.jpg"
                             },
                             {
-                                "url": "/totems/",
-                                "title": "Totems",
+                                "url": "/how-to-be-a-carioca/",
+                                "title": "How To Be a Carioca",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rfNr4bwXgoqQhwdmzPcl1OWq4NS.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cZ5fJh22mC1X2ENvVQ0094gs5VU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kGMSCcTbYldm2hr7U8aqr8MQQ3S.jpg"
                             },
                             {
-                                "url": "/cuentos-asombrosos/",
-                                "title": "Cuentos asombrosos",
+                                "url": "/the-walking-dead-daryl-dixon/",
+                                "title": "The Walking Dead: Daryl Dixon",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/03/ccLzNV1b2myRG60XPcDv7HY0lTN-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,59 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/jamas-de-los-jamases-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Marburgo es para los enamorados",
+                        "date_upload": 1723680000000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/jamas-de-los-jamases-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Anita y Steve",
+                        "date_upload": 1723680000000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/20/00069/csbelbauimz0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KVklw8DsKlmbSeI-lSk3rmQdoSE8yXqVJDPuGy5jXW8&s=1725797202&e=43200&f=346126&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:640p",
+                        "videoUrl": "https://s39.fastream.to/hls2/20/00069/csbelbauimz0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KVklw8DsKlmbSeI-lSk3rmQdoSE8yXqVJDPuGy5jXW8&s=1725797202&e=43200&f=346126&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/20/00069/csbelbauimz0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KVklw8DsKlmbSeI-lSk3rmQdoSE8yXqVJDPuGy5jXW8&s=1725797202&e=43200&f=346126&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/20/00069/csbelbauimz0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KVklw8DsKlmbSeI-lSk3rmQdoSE8yXqVJDPuGy5jXW8&s=1725797202&e=43200&f=346126&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/20/00069/csbelbauimz0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KVklw8DsKlmbSeI-lSk3rmQdoSE8yXqVJDPuGy5jXW8&s=1725797202&e=43200&f=346126&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/20/00069/csbelbauimz0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KVklw8DsKlmbSeI-lSk3rmQdoSE8yXqVJDPuGy5jXW8&s=1725797202&e=43200&f=346126&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

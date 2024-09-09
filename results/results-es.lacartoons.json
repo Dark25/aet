@@ -136,8 +136,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=2&sig=VcUjRX1t7K8&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=2&sig=VcUjRX1t7K8&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961"
+                    },
+                    {
+                        "url": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=1&sig=4BojAVjnd68&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=1&sig=4BojAVjnd68&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961"
+                    },
+                    {
+                        "url": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=0&sig=cLO4E4prpRM&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=0&sig=cLO4E4prpRM&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961"
+                    },
+                    {
+                        "url": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=4&sig=99kl9AMQGLQ&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd416.mycdn.me/?expires=1725927422683&srcIp=172.183.132.20&pr=10&srcAg=GECKO&ms=45.136.20.53&type=4&sig=99kl9AMQGLQ&ct=0&urls=185.226.53.45&clientType=0&zs=43&id=596288997961"
+                    }
+                ],
+                "passed": true
             }
         }
     }

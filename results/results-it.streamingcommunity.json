@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9795-beetlejuice-beetlejuice",
+                                "title": "Beetlejuice Beetlejuice",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d7dadd14-6dc9-419b-b2ba-15dd30de32d9.webp"
+                            },
+                            {
                                 "url": "4986-selling-sunset",
                                 "title": "Selling Sunset",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/372c1f1b-43a3-4dd0-b44e-72dc74e2fe8b.webp"
@@ -300,11 +305,6 @@
                                 "url": "8192-civil-war",
                                 "title": "Civil War",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/060b1cf7-8b01-473d-afad-5fe93325caa3.webp"
-                            },
-                            {
-                                "url": "7431-rebel-moon-parte-2-la-sfregiatrice",
-                                "title": "Rebel Moon - Parte 2: La Sfregiatrice",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bcb5ca43-7bea-4c58-90af-ae635e252598.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,27 @@
             },
             "details": {
                 "result": {
-                    "url": "4986-selling-sunset",
-                    "description": "I prestigiosi agenti del Gruppo Oppenheim vendono dimore lussuose ad acquirenti facoltosi di Los Angeles. I rapporti sono tutto ed è così che spesso nascono i drammi.",
-                    "genre": "Reality",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9795-beetlejuice-beetlejuice",
+                    "description": "Beetlejuice è tornato! Dopo un'inaspettata tragedia familiare, tre generazioni della famiglia Deetz tornano a casa a Winter River. Ancora perseguitata da Beetlejuice, la vita di Lydia viene sconvolta quando la figlia adolescente e ribelle, Astrid, scopre il misterioso modellino della città in soffitta e il portale per l'Aldilà viene accidentalmente aperto. Con i problemi che stanno nascendo in entrambi i regni, è solo questione di tempo prima che qualcuno pronunci tre volte il nome di Beetlejuice e il demone dispettoso torni nuovamente per scatenare il suo caos.",
+                    "genre": "Horror, Fantasy, Commedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "9795",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

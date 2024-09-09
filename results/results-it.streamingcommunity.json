@@ -954,31 +954,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/259938?type=video&rendition=480p&token=VziOmLvf4YjInLcUXkE6Iw&expires=1731067744&b=1",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/259938?type=video&rendition=480p&token=VziOmLvf4YjInLcUXkE6Iw&expires=1731067744&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/259938?type=subtitle&rendition=3-eng&token=BP2J8DKg0ud-tlssfCqA3Q&expires=1731067744&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/259938?type=video&rendition=720p&token=edDqddV8E3TSu_xSZiRYSA&expires=1731067744&b=1",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/259938?type=video&rendition=720p&token=edDqddV8E3TSu_xSZiRYSA&expires=1731067744&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/259938?type=subtitle&rendition=3-eng&token=BP2J8DKg0ud-tlssfCqA3Q&expires=1731067744&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

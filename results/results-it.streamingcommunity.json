@@ -12,6 +12,16 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d7dadd14-6dc9-419b-b2ba-15dd30de32d9.webp"
                             },
                             {
+                                "url": "9293-hercai-amore-e-vendetta",
+                                "title": "Hercai - Amore e vendetta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/371925c8-3a8b-4a40-a7c5-ed68e87b12f4.webp"
+                            },
+                            {
+                                "url": "5494-bruno-barbieri-4-hotel",
+                                "title": "Bruno Barbieri - 4 hotel",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/dc3b85a3-b520-41d0-9ed4-13e6b3645c65.webp"
+                            },
+                            {
                                 "url": "4986-selling-sunset",
                                 "title": "Selling Sunset",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/372c1f1b-43a3-4dd0-b44e-72dc74e2fe8b.webp"
@@ -157,6 +167,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/96ca0406-6364-4040-bb40-d4dae1727d98.webp"
                             },
                             {
+                                "url": "4571-hit-monkey",
+                                "title": "Hit-Monkey",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2fae2959-19c8-40a2-b793-e6d4a2d6b232.webp"
+                            },
+                            {
                                 "url": "8586-descendants-lascesa-di-red",
                                 "title": "Descendants: L’Ascesa di Red",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a2bbe66d-4379-4fd6-8147-566201486203.webp"
@@ -290,21 +305,6 @@
                                 "url": "8322-garfield-una-missione-gustosa",
                                 "title": "Garfield - Una missione gustosa",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ea4bef5d-5a66-4d5c-acdd-7f455f61c88e.webp"
-                            },
-                            {
-                                "url": "8321-the-fall-guy",
-                                "title": "The Fall Guy",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c72296e3-95d7-4870-b56e-36fa63881c28.webp"
-                            },
-                            {
-                                "url": "7696-challengers",
-                                "title": "Challengers",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/538ec93f-f8e6-4eb9-9894-8b0fa505c4a6.webp"
-                            },
-                            {
-                                "url": "8192-civil-war",
-                                "title": "Civil War",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/060b1cf7-8b01-473d-afad-5fe93325caa3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -349,7 +349,7 @@
                             {
                                 "url": "9845-apollo-13-una-storia-di-sopravvivenza",
                                 "title": "Apollo 13: una storia di sopravvivenza",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bd7fe4f3-f073-42b1-81bc-46927bd8b8a0.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a29d5d96-6ccd-447a-9fed-a48909308e7a.webp"
                             },
                             {
                                 "url": "9844-the-perfect-couple",
@@ -954,8 +954,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/259938?type=video&rendition=480p&token=VziOmLvf4YjInLcUXkE6Iw&expires=1731067744&b=1",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/259938?type=video&rendition=480p&token=VziOmLvf4YjInLcUXkE6Iw&expires=1731067744&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/259938?type=subtitle&rendition=3-eng&token=BP2J8DKg0ud-tlssfCqA3Q&expires=1731067744&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/259938?type=video&rendition=720p&token=edDqddV8E3TSu_xSZiRYSA&expires=1731067744&b=1",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/259938?type=video&rendition=720p&token=edDqddV8E3TSu_xSZiRYSA&expires=1731067744&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/259938?type=subtitle&rendition=3-eng&token=BP2J8DKg0ud-tlssfCqA3Q&expires=1731067744&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

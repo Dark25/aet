@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9861-hana-e-i-libri-del-destino",
+                                "title": "Hana e i libri del destino",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f7f8042f-91b7-4683-a2cc-90704cfea627.webp"
+                            },
+                            {
                                 "url": "9852-someone-like-you",
                                 "title": "Someone Like You",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f03b53de-7b4a-4a28-914a-a11025931d7f.webp"
@@ -610,11 +615,6 @@
                                 "url": "9693-deep-fear-squali-negli-abissi",
                                 "title": "Deep Fear - Squali negli abissi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/23b55c00-bc53-4d8a-bacc-15a3e1b57e42.webp"
-                            },
-                            {
-                                "url": "9691-la-vita-segreta-degli-oranghi",
-                                "title": "La vita segreta degli oranghi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ea751ba6-ae1b-4d77-bc71-ecdc74cc7b75.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,31 +954,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/259938?type=video&rendition=480p&token=jc-_8U8EChULfX2CxrgIRQ&expires=1731154121&b=1",
-                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/259938?type=video&rendition=480p&token=jc-_8U8EChULfX2CxrgIRQ&expires=1731154121&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/259938?type=subtitle&rendition=3-eng&token=WcIuysEkKjlks4ZFXSpP_g&expires=1731154121&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/259938?type=video&rendition=720p&token=QRmG1pd_QtqLuLzf7pGx2A&expires=1731154121&b=1",
-                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/259938?type=video&rendition=720p&token=QRmG1pd_QtqLuLzf7pGx2A&expires=1731154121&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/259938?type=subtitle&rendition=3-eng&token=WcIuysEkKjlks4ZFXSpP_g&expires=1731154121&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

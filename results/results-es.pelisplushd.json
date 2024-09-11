@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/como-cazar-a-un-monstruo",
+                                "title": "Cómo cazar a un monstruo (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2WyfJKQaXYrxhE6Pte9SceDPoWv.jpg"
+                            },
+                            {
                                 "url": "/serie/me-winnie-the-pooh",
                                 "title": "Me & Winnie The Pooh (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/cLLZj7wqhh4FaZVANR6ERStS9uZ.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/zombies-la-serie-re-animada",
                                 "title": "Zombies: La serie re-animada (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/15Orizq7Sh7MJrzZSlBkD3lhgqY.jpg"
-                            },
-                            {
-                                "url": "/serie/el-amor-vuelve-a-casa",
-                                "title": "El amor vuelve a casa (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/b5P7eSCNCddqygzfpqAaRWEbCly.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/me-winnie-the-pooh",
-                    "title": "Me & Winnie The Pooh (2023)",
-                    "description": ".",
-                    "genre": "Animación, Kids",
+                    "url": "/serie/como-cazar-a-un-monstruo",
+                    "title": "Cómo cazar a un monstruo (2024)",
+                    "description": "Lluís Gros, condenado a 23 años de prisión por abusos sexuales, pide al youtuber y cineasta Carles Tamayo un documental de su vida para limpiar su imagen tras su condena. Carles accede pensando que Gros pedirá perdón, pero al ver que no es su intención y que sigue en libertad, trata de averiguar por qué sigue impune. Tras meses de seguimiento y una exhaustiva investigación, Carles descubre muchos otros crímenes de Gros que lo motivan a luchar para que se haga justicia. Es la historia de cómo el ego de un criminal acaba siendo su perdición y de la lucha de Carles Tamayo en busca de justicia..",
+                    "genre": "Crimen, Documental, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cLLZj7wqhh4FaZVANR6ERStS9uZ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2WyfJKQaXYrxhE6Pte9SceDPoWv.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/me-winnie-the-pooh/temporada/1/capitulo/21",
-                        "name": "T1 - E21: Episodio 21",
-                        "episode_number": 21.0
+                        "url": "/serie/como-cazar-a-un-monstruo/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Una gran evasión",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/serie/me-winnie-the-pooh/temporada/1/capitulo/20",
-                        "name": "T1 - E20: Episodio 20",
-                        "episode_number": 20.0
+                        "url": "/serie/como-cazar-a-un-monstruo/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Mala educación",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -293,44 +293,68 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/12166/atlaceqcedxq_,n,.urlset/index-v1-a1.m3u8?t=fXZa5ujnO8EIj9NN9jA44udscnqVuOxQl24tAqkYpJE&s=1726013743&e=14400&f=60834448&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "url": "https://delivery-node-64by4o3ydkva40vc.voe-network.net/engine/hls2/01/12186/dwt3pffkahuj_,n,.urlset/index-v1-a1.m3u8?t=N79imMbNDD68wBreqv7YfWA4bAmoHMv4WZVgnKk2Ghc&s=1726034783&e=14400&f=60930924&node=delivery-node-64by4o3ydkva40vc.voe-network.net&i=20.172&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/12166/atlaceqcedxq_,n,.urlset/index-v1-a1.m3u8?t=fXZa5ujnO8EIj9NN9jA44udscnqVuOxQl24tAqkYpJE&s=1726013743&e=14400&f=60834448&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-64by4o3ydkva40vc.voe-network.net/engine/hls2/01/12186/dwt3pffkahuj_,n,.urlset/index-v1-a1.m3u8?t=N79imMbNDD68wBreqv7YfWA4bAmoHMv4WZVgnKk2Ghc&s=1726034783&e=14400&f=60930924&node=delivery-node-64by4o3ydkva40vc.voe-network.net&i=20.172&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/04868/twirj0hyxd1r_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=25PfEAc6HRPolOiju6U5vjPWwfNjMKYRqu_kwT9Qoqs&s=1726013738&e=129600&f=24341236&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "url": "https://jdou5wo6ffta.aghe-cdn.com/hls2/01/02268/5awt24hf43xg_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=vRa9qn92vvcB13mb8jjSWsetw0B-mlc9qqGLtMw-iHY&s=1726034779&e=129600&f=11344248&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
+                        "quality": "StreamHideVid - 1080p",
+                        "videoUrl": "https://jdou5wo6ffta.aghe-cdn.com/hls2/01/02268/5awt24hf43xg_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=vRa9qn92vvcB13mb8jjSWsetw0B-mlc9qqGLtMw-iHY&s=1726034779&e=129600&f=11344248&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04887/wiomrdiywquz_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=4yBS-NPO8rs97SaXfu5LwpJxrRNfKmJuiMsdBjLEm8A&s=1726034776&e=129600&f=24439384&srv=f3es0q436c&i=0.0&sp=500&p1=f3es0q436c&p2=f3es0q436c&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/04868/twirj0hyxd1r_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=25PfEAc6HRPolOiju6U5vjPWwfNjMKYRqu_kwT9Qoqs&s=1726013738&e=129600&f=24341236&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04887/wiomrdiywquz_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=4yBS-NPO8rs97SaXfu5LwpJxrRNfKmJuiMsdBjLEm8A&s=1726034776&e=129600&f=24439384&srv=f3es0q436c&i=0.0&sp=500&p1=f3es0q436c&p2=f3es0q436c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/twirj0hyxd1r"
+                            "Referer": "https://streamwish.to/e/wiomrdiywquz"
                         }
                     },
                     {
-                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/04868/twirj0hyxd1r_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=25PfEAc6HRPolOiju6U5vjPWwfNjMKYRqu_kwT9Qoqs&s=1726013738&e=129600&f=24341236&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "url": "https://jdou5wo6ffta.aghe-cdn.com/hls2/01/02268/5awt24hf43xg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=vRa9qn92vvcB13mb8jjSWsetw0B-mlc9qqGLtMw-iHY&s=1726034779&e=129600&f=11344248&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
+                        "quality": "StreamHideVid - 720p",
+                        "videoUrl": "https://jdou5wo6ffta.aghe-cdn.com/hls2/01/02268/5awt24hf43xg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=vRa9qn92vvcB13mb8jjSWsetw0B-mlc9qqGLtMw-iHY&s=1726034779&e=129600&f=11344248&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04887/wiomrdiywquz_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=4yBS-NPO8rs97SaXfu5LwpJxrRNfKmJuiMsdBjLEm8A&s=1726034776&e=129600&f=24439384&srv=f3es0q436c&i=0.0&sp=500&p1=f3es0q436c&p2=f3es0q436c&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/04868/twirj0hyxd1r_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=25PfEAc6HRPolOiju6U5vjPWwfNjMKYRqu_kwT9Qoqs&s=1726013738&e=129600&f=24341236&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04887/wiomrdiywquz_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=4yBS-NPO8rs97SaXfu5LwpJxrRNfKmJuiMsdBjLEm8A&s=1726034776&e=129600&f=24439384&srv=f3es0q436c&i=0.0&sp=500&p1=f3es0q436c&p2=f3es0q436c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/twirj0hyxd1r"
+                            "Referer": "https://streamwish.to/e/wiomrdiywquz"
                         }
                     },
                     {
-                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/04868/twirj0hyxd1r_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=25PfEAc6HRPolOiju6U5vjPWwfNjMKYRqu_kwT9Qoqs&s=1726013738&e=129600&f=24341236&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "url": "https://jdou5wo6ffta.aghe-cdn.com/hls2/01/02268/5awt24hf43xg_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=vRa9qn92vvcB13mb8jjSWsetw0B-mlc9qqGLtMw-iHY&s=1726034779&e=129600&f=11344248&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
+                        "quality": "StreamHideVid - 480p",
+                        "videoUrl": "https://jdou5wo6ffta.aghe-cdn.com/hls2/01/02268/5awt24hf43xg_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=vRa9qn92vvcB13mb8jjSWsetw0B-mlc9qqGLtMw-iHY&s=1726034779&e=129600&f=11344248&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/04887/wiomrdiywquz_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=4yBS-NPO8rs97SaXfu5LwpJxrRNfKmJuiMsdBjLEm8A&s=1726034776&e=129600&f=24439384&srv=f3es0q436c&i=0.0&sp=500&p1=f3es0q436c&p2=f3es0q436c&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/04868/twirj0hyxd1r_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=25PfEAc6HRPolOiju6U5vjPWwfNjMKYRqu_kwT9Qoqs&s=1726013738&e=129600&f=24341236&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=8075",
+                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/04887/wiomrdiywquz_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=4yBS-NPO8rs97SaXfu5LwpJxrRNfKmJuiMsdBjLEm8A&s=1726034776&e=129600&f=24439384&srv=f3es0q436c&i=0.0&sp=500&p1=f3es0q436c&p2=f3es0q436c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/twirj0hyxd1r"
+                            "Referer": "https://streamwish.to/e/wiomrdiywquz"
                         }
                     }
                 ],
@@ -1048,17 +1072,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Fn9wUKVsA0RXCxcvAbnBMl0zYjOJDnThU20BZvkQcXk&s=1726013933&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zkjouLI8zxofY4vmtvkvzco4tH-2hMx6N5JCILKTvc8&s=1726034934&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[CAST] StreamHideVid - 1036p",
-                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Fn9wUKVsA0RXCxcvAbnBMl0zYjOJDnThU20BZvkQcXk&s=1726013933&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zkjouLI8zxofY4vmtvkvzco4tH-2hMx6N5JCILKTvc8&s=1726034934&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=QbLNjF8jXEWGHmI-QfDNQuuTLN82ajCOZM-wQmmpCRk&s=1726013931&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "url": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zRmPQBhELCv-4ox4jQC-v0xMFdpUbJHWhzhWm887U20&s=1726034932&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "quality": "[CAST] StreamWish:1036p",
-                        "videoUrl": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=QbLNjF8jXEWGHmI-QfDNQuuTLN82ajCOZM-wQmmpCRk&s=1726013931&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "videoUrl": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=zRmPQBhELCv-4ox4jQC-v0xMFdpUbJHWhzhWm887U20&s=1726034932&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1067,17 +1091,17 @@
                         }
                     },
                     {
-                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Fn9wUKVsA0RXCxcvAbnBMl0zYjOJDnThU20BZvkQcXk&s=1726013933&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zkjouLI8zxofY4vmtvkvzco4tH-2hMx6N5JCILKTvc8&s=1726034934&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[CAST] StreamHideVid - 720p",
-                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Fn9wUKVsA0RXCxcvAbnBMl0zYjOJDnThU20BZvkQcXk&s=1726013933&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zkjouLI8zxofY4vmtvkvzco4tH-2hMx6N5JCILKTvc8&s=1726034934&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=QbLNjF8jXEWGHmI-QfDNQuuTLN82ajCOZM-wQmmpCRk&s=1726013931&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "url": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zRmPQBhELCv-4ox4jQC-v0xMFdpUbJHWhzhWm887U20&s=1726034932&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=QbLNjF8jXEWGHmI-QfDNQuuTLN82ajCOZM-wQmmpCRk&s=1726013931&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "videoUrl": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zRmPQBhELCv-4ox4jQC-v0xMFdpUbJHWhzhWm887U20&s=1726034932&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -1086,17 +1110,17 @@
                         }
                     },
                     {
-                        "url": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Fn9wUKVsA0RXCxcvAbnBMl0zYjOJDnThU20BZvkQcXk&s=1726013933&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zkjouLI8zxofY4vmtvkvzco4tH-2hMx6N5JCILKTvc8&s=1726034934&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[CAST] StreamHideVid - 480p",
-                        "videoUrl": "https://m5qqjwpatpzb.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Fn9wUKVsA0RXCxcvAbnBMl0zYjOJDnThU20BZvkQcXk&s=1726013933&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02267/7mvd9nk41s9w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zkjouLI8zxofY4vmtvkvzco4tH-2hMx6N5JCILKTvc8&s=1726034934&e=129600&f=11335375&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=QbLNjF8jXEWGHmI-QfDNQuuTLN82ajCOZM-wQmmpCRk&s=1726013931&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "url": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zRmPQBhELCv-4ox4jQC-v0xMFdpUbJHWhzhWm887U20&s=1726034932&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=QbLNjF8jXEWGHmI-QfDNQuuTLN82ajCOZM-wQmmpCRk&s=1726013931&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
+                        "videoUrl": "https://mx9skjnui4es.pradoi.com/hls2/01/04884/tz9embzi8edn_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zRmPQBhELCv-4ox4jQC-v0xMFdpUbJHWhzhWm887U20&s=1726034932&e=129600&f=24422667&srv=v0cyrqos2tv9&i=0.0&sp=500&p1=v0cyrqos2tv9&p2=v0cyrqos2tv9&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

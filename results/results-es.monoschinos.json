@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/eiyuu-kyoushitsu-specials-sub-espanol",
+                                "title": "Eiyuu Kyoushitsu Specials",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/eiyuu-kyoushitsu-specials-1726027142.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/yami-shibai-13-sub-espanol",
                                 "title": "Yami Shibai 13",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/yami-shibai-13-1725486573.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-sub-espanol",
                                 "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-1720373875.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/na-nare-hana-nare-sub-espanol",
-                                "title": "Na Nare Hana Nare",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/na-nare-hana-nare-1720370544.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -484,13 +484,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/yami-shibai-13-sub-espanol",
-                    "title": "Yami Shibai 13",
-                    "description": "Decimotercera temporada de Yami Shibai.",
-                    "genre": "Horror, Sobrenatural",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/yami-shibai-13-1725486573.jpg?v=1.5",
+                    "url": "/anime/eiyuu-kyoushitsu-specials-sub-espanol",
+                    "title": "Eiyuu Kyoushitsu Specials",
+                    "description": "Especiales incluidos en el lanzamiento BD/DVD de Eiyuu Kyoushitsu.",
+                    "genre": "Ecchi, Escolares, Fantasía, Harem",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/eiyuu-kyoushitsu-specials-1726027142.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -498,14 +498,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/yami-shibai-13-episodio-9",
-                        "name": "Capítulo 9",
-                        "episode_number": 9.0
+                        "url": "/ver/eiyuu-kyoushitsu-specials-episodio-3",
+                        "name": "Capítulo 3",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/ver/yami-shibai-13-episodio-8",
-                        "name": "Capítulo 8",
-                        "episode_number": 8.0
+                        "url": "/ver/eiyuu-kyoushitsu-specials-episodio-2",
+                        "name": "Capítulo 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -513,36 +513,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06861/wcvpmwv59flb_h/index-v1.m3u8?t=iK2EjFQ4EgT5Nwi2JRaOCnL8Vvi7_vv-xY5gZJLEjlo&s=1726013748&e=10800&f=34306145&srv=27&asn=8075&sp=4000",
-                        "quality": "Filemoon:720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/06861/wcvpmwv59flb_h/index-v1.m3u8?t=iK2EjFQ4EgT5Nwi2JRaOCnL8Vvi7_vv-xY5gZJLEjlo&s=1726013748&e=10800&f=34306145&srv=27&asn=8075&sp=4000",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxv6vepz3b4quuon2raymyuk6k7slcmflqvj77ev246vnjawajoluxjsbs6rf6sdbuaqj5x/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxv6vepz3b4quuon2raymyuk6k7slcmflqvj77ev246vnjawajoluxjsbs6rf6sdbuaqj5x/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxts7upz3b4quuoncrbqzyykrvvu5g547lqp4bcrbicy43fcgzlxzonirqca4abhjirpt3f/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxts7upz3b4quuoncrbqzyykrvvu5g547lqp4bcrbicy43fcgzlxzonirqca4abhjirpt3f/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://delivery-node-rexesqooo91w0spw.voe-network.net/engine/hls2/01/12172/danpcqatvl6n_,n,.urlset/index-v1-a1.m3u8?t=SHZo8OtEPDwEsrTSZ5jEEH0-hhn1gUBbXqg22dWC4nc&s=1726013755&e=14400&f=60861895&node=delivery-node-rexesqooo91w0spw.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "url": "https://delivery-node-shkasxtt2y7ccdhk.voe-network.net/engine/hls2-c/01/12186/fts5dnlkpsjl_,n,.urlset/index-v1-a1.m3u8?t=VCIZE20EF2tJVYNmGIVtoQx4ORS2JZrh6-lY-4_YbCA&s=1726034781&e=14400&f=60931956&node=delivery-node-wtatahculkalrcev.voe-network.net&i=20.172&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-rexesqooo91w0spw.voe-network.net/engine/hls2/01/12172/danpcqatvl6n_,n,.urlset/index-v1-a1.m3u8?t=SHZo8OtEPDwEsrTSZ5jEEH0-hhn1gUBbXqg22dWC4nc&s=1726013755&e=14400&f=60861895&node=delivery-node-rexesqooo91w0spw.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-shkasxtt2y7ccdhk.voe-network.net/engine/hls2-c/01/12186/fts5dnlkpsjl_,n,.urlset/index-v1-a1.m3u8?t=VCIZE20EF2tJVYNmGIVtoQx4ORS2JZrh6-lY-4_YbCA&s=1726034781&e=14400&f=60931956&node=delivery-node-wtatahculkalrcev.voe-network.net&i=20.172&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://m160.uqload.ws/3rfkzgjmtrw2q4drdkz7vmvfakwpsvt4oi4q2eqolcrgbowqwpgfc2xpr7ca/v.mp4",
+                        "url": "https://m160.uqload.ws/3rfkzcyztrw2q4drdkz7vp5olb2zw4tajduroazaymvfbub54kzwhzrjczia/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m160.uqload.ws/3rfkzgjmtrw2q4drdkz7vmvfakwpsvt4oi4q2eqolcrgbowqwpgfc2xpr7ca/v.mp4",
+                        "videoUrl": "https://m160.uqload.ws/3rfkzcyztrw2q4drdkz7vp5olb2zw4tajduroazaymvfbub54kzwhzrjczia/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
                         }

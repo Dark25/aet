@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/peter-pan/",
+                                "title": "Peter Pan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//tDvGRWSdqT31ADijJf9OhbTbQ77.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/reyes-de-la-calle/",
+                                "title": "Reyes de la calle",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/mi-gran-amigo-joe/",
                                 "title": "Mi gran amigo Joe",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//vDs9k8XiktRayxEhtUc3QGOQxYv.jpg"
@@ -55,16 +65,6 @@
                                 "url": "/ver-pelicula/orgullo-y-prejuicio/",
                                 "title": "Orgullo y Prejuicio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//oixzLjpyaLagLa8UREts1NiHr6F.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/caballos-lentos/",
-                                "title": "Caballos lentos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//jnbQWjyWxcCf6DaGQXC5AACHCYv.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/la-pareja-perfecta/",
-                                "title": "La pareja perfecta",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//db1m278xWKSzcMiU2JBszRKNILy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/mi-gran-amigo-joe/",
-                    "artist": "Bethany Bassler",
-                    "description": "En las montañas de África Central, unos cazadores furtivos atacan a un grupo de gorilas y, a pesar de la llegada de un grupo de preservacionistas para luchar contra ellos, no pueden evitar que un gorila y la madre de otro mueran. En la reyerta un enorme gorila ataca al jefe de los cazadores y le arranca dos dedos. Años más tarde, el gran gorila ha crecido y es protegido por Jill, una ecologista. Se ha convertido en una leyenda, pero cuando los furtivos descubren que es real intentarán cazarlo.   ",
-                    "genre": "Acción, Aventura, Familia, Fantasía",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//vDs9k8XiktRayxEhtUc3QGOQxYv.jpg",
+                    "url": "/ver-pelicula/peter-pan/",
+                    "artist": "Bill Thompson",
+                    "description": "Dejando atrás la seguridad de su casa, Wendy, Michael y John siguen a Peter Pan a un mundo mágico donde la infancia dura para siempre. Pero en Nunca Jamas, los niños deben hacer frente al capitán Garfio y frustrar sus planes de deshacerse de Peter Pan para siempre.   ",
+                    "genre": "Animación, Aventura, Familia, Fantasía",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,7 +211,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/mi-gran-amigo-joe/",
+                        "url": "/ver-pelicula/peter-pan/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -221,17 +221,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-pwqpm4flj52bwg9h.voe-network.net/engine/hls2-c/01/12178/38yspybccqqb_,n,.urlset/index-v1-a1.m3u8?t=DTjzYHH34JttgEL4KSQGX_cB5svRkYB904k9gtPhYGY&s=1725991552&e=14400&f=60893484&node=delivery-node-ubce3tf3nupwma8l.voe-network.net&i=172.210&sp=2500&asn=8075",
+                        "url": "https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/12147/hujn04kxvgfc_,n,.urlset/index-v1-a1.m3u8?t=4RAI9qY0CegvihnW8eVn5jPayIWb_WD-FvLkbggzU24&s=1726013729&e=14400&f=60738898&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-pwqpm4flj52bwg9h.voe-network.net/engine/hls2-c/01/12178/38yspybccqqb_,n,.urlset/index-v1-a1.m3u8?t=DTjzYHH34JttgEL4KSQGX_cB5svRkYB904k9gtPhYGY&s=1725991552&e=14400&f=60893484&node=delivery-node-ubce3tf3nupwma8l.voe-network.net&i=172.210&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/12147/hujn04kxvgfc_,n,.urlset/index-v1-a1.m3u8?t=4RAI9qY0CegvihnW8eVn5jPayIWb_WD-FvLkbggzU24&s=1726013729&e=14400&f=60738898&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/05/06866/gfea1k49b4wx_h/index-v1.m3u8?t=T4Gkwr0czJXxZhsips24XWwCHIMhtL6mkpTm9gcoE-s&s=1725991551&e=10800&f=34331215&srv=53&asn=8075&sp=4000",
-                        "quality": "Filemoon:1036p",
-                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/05/06866/gfea1k49b4wx_h/index-v1.m3u8?t=T4Gkwr0czJXxZhsips24XWwCHIMhtL6mkpTm9gcoE-s&s=1725991551&e=10800&f=34331215&srv=53&asn=8075&sp=4000",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06839/rbk355rbeb2w_h/index-v1.m3u8?t=LHNTU1wq3f4nIG_zofg694fyZx7ugtoag12XHtEJfkM&s=1726013729&e=10800&f=34197399&srv=53&asn=8075&sp=4000",
+                        "quality": "Filemoon:1080p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06839/rbk355rbeb2w_h/index-v1.m3u8?t=LHNTU1wq3f4nIG_zofg694fyZx7ugtoag12XHtEJfkM&s=1726013729&e=10800&f=34197399&srv=53&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -239,14 +239,14 @@
                         }
                     },
                     {
-                        "url": "https://p26ndpk7hk99.cdn-jupiter.com/hls2/01/04881/7vg0vnlrdva2_n/index-v1-a1.m3u8?t=bDVPMXgVO4GMmjNz6GNBWxzNz4yoO6RoTPhIERfR60E&s=1725991549&e=129600&f=24405067&srv=ognn8zwtqoa5&i=0.4&sp=500&p1=ognn8zwtqoa5&p2=ognn8zwtqoa5&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://p26ndpk7hk99.cdn-jupiter.com/hls2/01/04881/7vg0vnlrdva2_n/index-v1-a1.m3u8?t=bDVPMXgVO4GMmjNz6GNBWxzNz4yoO6RoTPhIERfR60E&s=1725991549&e=129600&f=24405067&srv=ognn8zwtqoa5&i=0.4&sp=500&p1=ognn8zwtqoa5&p2=ognn8zwtqoa5&asn=8075",
+                        "url": "https://he8jxnu8ubwv.cdn-jupiter.com/hls2/01/04847/17d71vvvgu48_n/index-v1-a1.m3u8?t=mdiASs2OZQ1Kje5j1Wui4SoADFCxOtXLQQajiyHm0cg&s=1726013727&e=129600&f=24239227&srv=w55h4e89nvet&i=0.4&sp=500&p1=w55h4e89nvet&p2=w55h4e89nvet&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://he8jxnu8ubwv.cdn-jupiter.com/hls2/01/04847/17d71vvvgu48_n/index-v1-a1.m3u8?t=mdiASs2OZQ1Kje5j1Wui4SoADFCxOtXLQQajiyHm0cg&s=1726013727&e=129600&f=24239227&srv=w55h4e89nvet&i=0.4&sp=500&p1=w55h4e89nvet&p2=w55h4e89nvet&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/7vg0vnlrdva2"
+                            "Referer": "https://playerwish.com/e/17d71vvvgu48"
                         }
                     }
                 ],

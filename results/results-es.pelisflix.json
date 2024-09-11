@@ -7,12 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/wanted-man/",
-                                "title": "Wanted Man",
-                                "description": "Sigue a un oficial de policía que debe recuperar a un testigo y escoltarla después de que un tirot...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/FogaE3IYRu5cxuo5LY.webp"
-                            },
-                            {
                                 "url": "/pelicula/the-king-tide/",
                                 "title": "The King Tide",
                                 "description": "",
@@ -23,6 +17,18 @@
                                 "title": "As Neves",
                                 "description": "As Neves es un pueblo gallego de montaña donde todos se conocen. La noche de carnaval un grupo de a...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/MYaa763Ndlzrln0qLh7GUUtgbSlYZhSB5SB2OvGSG6.webp"
+                            },
+                            {
+                                "url": "/pelicula/wanted-man/",
+                                "title": "Wanted Man",
+                                "description": "Sigue a un oficial de policía que debe recuperar a un testigo y escoltarla después de que un tirot...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/FogaE3IYRu5cxuo5LY.webp"
+                            },
+                            {
+                                "url": "/pelicula/beetlejuice-beetlejuice/",
+                                "title": "Beetlejuice Beetlejuice",
+                                "description": "Después de una tragedia familiar inesperada, tres generaciones de la familia Deetz regresan a su ho...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/VTcnqTac4uIgtai66k3.webp"
                             },
                             {
                                 "url": "/pelicula/bring-him-to-me-zbng/",
@@ -239,12 +245,6 @@
                                 "title": "Siéntete sexi",
                                 "description": "Atrapada en una carrera sin salida y en una serie de citas terribles, la vida de Maddalena, de trein...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/axTOQEOvT5LKqVT3.webp"
-                            },
-                            {
-                                "url": "/pelicula/eileen/",
-                                "title": "Eileen",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5PNfnt6sjVup7Rct7gt1iiEMkux.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/wanted-man/",
-                    "title": "Wanted Man",
-                    "description": "Sigue a un oficial de policía que debe recuperar a un testigo y escoltarla después de que un tiroteo de un cartel deja varios agentes de la DEA muertos, pero luego debe decidir en quién confiar cuando descubren que el ataque fue ejecutado por fuerzas estadounidenses.",
-                    "genre": "Acción, Suspense",
+                    "url": "/pelicula/the-king-tide/",
+                    "title": "The King Tide",
+                    "description": "",
+                    "genre": "Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/wanted-man/",
+                        "url": "/pelicula/the-king-tide/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -544,7 +544,7 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {

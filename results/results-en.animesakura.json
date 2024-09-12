@@ -3,26 +3,23 @@
         "name": "Anime Sakura (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.ConnectException: Failed to connect to mkvseries.com/103.152.79.131:443",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.ConnectException: Failed to connect to mkvseries.com/103.152.79.131:443",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.ConnectException: Failed to connect to mkvseries.com/103.152.79.131:443",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "\n\n",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.ConnectException: Failed to connect to mkvseries.com/103.152.79.131:443",
+                "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.ConnectException: Failed to connect to mkvseries.com/103.152.79.131:443",
                 "passed": false
             },
             "videos": {

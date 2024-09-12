@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8563-me-contro-te-il-film-operazione-spie",
+                                "title": "Me contro Te: Il film - Operazione spie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0f4f5287-a846-4587-82b5-cb63bd8b7226.webp"
+                            },
+                            {
                                 "url": "3242-the-circle-usa",
                                 "title": "The Circle: USA",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/90532649-419f-4c07-8876-aecfb11ce36d.webp"
@@ -182,6 +187,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2fae2959-19c8-40a2-b793-e6d4a2d6b232.webp"
                             },
                             {
+                                "url": "4968-primo-appuntamento",
+                                "title": "Primo appuntamento",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3c6594b9-bdb2-45b0-8300-f0354bdc33d7.webp"
+                            },
+                            {
                                 "url": "8586-descendants-lascesa-di-red",
                                 "title": "Descendants: L’Ascesa di Red",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a2bbe66d-4379-4fd6-8147-566201486203.webp"
@@ -295,16 +305,6 @@
                                 "url": "6297-evil",
                                 "title": "Evil",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a5f2bdad-16a0-4d84-9278-4e9ba8fda30a.webp"
-                            },
-                            {
-                                "url": "7691-if-gli-amici-immaginari",
-                                "title": "IF - Gli amici immaginari",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e25d7d1a-0a41-4052-aec9-879303e00000.webp"
-                            },
-                            {
-                                "url": "9054-hit-man-killer-per-caso",
-                                "title": "Hit Man - Killer per caso",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c2fd8c68-c491-46b9-8198-28bc2d2776c2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -360,11 +360,6 @@
                                 "url": "9847-the-well",
                                 "title": "The Well",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4c5e0911-c02d-451b-a80a-f00b2c48db85.webp"
-                            },
-                            {
-                                "url": "9846-immaculate-la-prescelta",
-                                "title": "Immaculate - La prescelta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/526d7855-92ec-45f8-801b-265bf3aa426b.webp"
                             },
                             {
                                 "url": "9845-apollo-13-una-storia-di-sopravvivenza",
@@ -615,6 +610,11 @@
                                 "url": "9701-falla-girare-2-offline",
                                 "title": "Falla girare 2 - Offline",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d13d2f0e-0a53-4a7e-9374-e204183054d2.webp"
+                            },
+                            {
+                                "url": "9695-il-gusto-delle-cose",
+                                "title": "Il gusto delle cose",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/537420db-4042-4552-845a-fbe64394b8af.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,25 @@
             },
             "details": {
                 "result": {
-                    "url": "3242-the-circle-usa",
-                    "description": "Realtà e strategia si fondono in questo esperimento sociale online in cui i concorrenti flirtano, fanno amicizia e cambiano identità per un montepremi di 100.000 dollari.",
-                    "genre": "Reality",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "8563-me-contro-te-il-film-operazione-spie",
+                    "description": "Sofì e Luì sono ricercati dalla polizia per via dei loro poteri magici da fata e scienziato! Dovranno scappare e fermare chi si nasconde dietro tutto questo!",
+                    "genre": "Avventura, Commedia, Famiglia",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "8563",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

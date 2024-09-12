@@ -137,6 +137,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20377/the-sadness.html",
+                                "title": "The Sadness",
+                                "description": "Una pareja joven es llevada al límite de la cordura mientras trata de reunirse en medio del caos de un brote pandémico. Las calles se convierten en violencia y depravación, a medida que los infectados se ven empujados a realizar las cosas más crueles y horribles que te puedas imaginar. Asesinato...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20377.webp"
+                            },
+                            {
+                                "url": "/pelicula/20376/correr-para-vivir.html",
+                                "title": "Correr para vivir",
+                                "description": "Dos hermanos Tarahumaras en eterna competencia y con un talento único para correr se ven distanciados por azares del destino. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20376.webp"
+                            },
+                            {
+                                "url": "/pelicula/20375/as-neves.html",
+                                "title": "As Neves",
+                                "description": "As Neves es un pueblo gallego de montaña donde todos se conocen. La noche de carnaval un grupo de adolescentes celebran una fiesta y se drogan con setas por primera vez. Al día siguiente despiertan con un temporal de nieve y la noticia de que Paula, una de las chicas de la fiesta, ha desaparecido....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20375.webp"
+                            },
+                            {
+                                "url": "/pelicula/20374/stakeout.html",
+                                "title": "Stakeout",
+                                "description": "Un joven investigador privado de Los Ángeles marca la línea entre el peligro y la angustia mientras intenta ayudar a una mujer a cometer un fraude para obtener el dinero que necesita para ayudar a su madre enferma. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20374.webp"
+                            },
+                            {
+                                "url": "/pelicula/20373/scorpion.html",
+                                "title": "Scorpion",
+                                "description": "Timur Saliev es un agente de las fuerzas especiales de Uzbekistán que lleva a cabo una operación para acabar con un grupo terrorista, pero acaba descubriendo que su hermano, al que creía muerto, forma parte del grupo....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20373.webp"
+                            },
+                            {
                                 "url": "/pelicula/20372/infierno-en-la-torre.html",
                                 "title": "Infierno en la torre",
                                 "description": "Seol Kyeong-gu interpreta a un bombero que arriesga su vida para acabar con el fuego de un rascacielos y salvar a las ciento de personas atrapadas y que luchan por sus vidas en la víspera de Navidad del año 2011. Kim Sang-Kyeong es el jefe de mantenimiento del edificio en llamas situado en el cent...",
@@ -225,36 +255,6 @@
                                 "title": "Bitelchús Bitelchús",
                                 "description": "Tras una inesperada tragedia familiar, tres generaciones de la familia Deetz regresan a Winter River. La vida de Lydia, todavía atormentada por Bitelchús, da un vuelco cuando su rebelde hija adolescente, Astrid, descubre la misteriosa maqueta de la ciudad en el desván y el portal al Más Allá se...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20358.webp"
-                            },
-                            {
-                                "url": "/pelicula/20357/la-espera.html",
-                                "title": "La espera",
-                                "description": "Eladio (Víctor Clavijo), guarda de una finca, acepta el soborno de un cazador. Semanas después su vida entera colapsa. Lo que parecía un vuelco favorable del destino se convertirá en un macabro descenso a los infiernos en el que Eladio verá puesta a prueba su cordura....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20357.webp"
-                            },
-                            {
-                                "url": "/pelicula/20356/camino-del-crimen.html",
-                                "title": "Camino del crimen",
-                                "description": "Uno de los últimos conductores de grúa decentes de la ciudad arriesga todo lo que tiene en una aventura desesperada por convertirse en el rey de la carretera y poder así dar de comer a su familia....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20356.webp"
-                            },
-                            {
-                                "url": "/pelicula/20355/llegaron-de-noche.html",
-                                "title": "Llegaron de noche",
-                                "description": "Narra la historia real de Lucía, la única testigo en la matanza de los jesuitas en El Salvador. La madrugada del 16 de noviembre de 1989, en plena guerra civil salvadoreña, seis sacerdotes jesuitas, profesores universitarios, y dos empleadas fueron asesinados en la Universidad Centroamericana Jos...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20355.webp"
-                            },
-                            {
-                                "url": "/pelicula/20354/la-liberacion.html",
-                                "title": "La liberación",
-                                "description": "Una familia que vive en una casa en Indiana descubre sucesos extraños y demoníacos que los convencen a ellos y a la comunidad de que la casa es un portal al infierno. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20354.webp"
-                            },
-                            {
-                                "url": "/pelicula/20353/las-hermanas-fantasticas.html",
-                                "title": "Las hermanas fantást",
-                                "description": "Jesi y Angela, dos hermanas que no se conocen, reciben la noticia de la muerte de su padre, a quien habían visto muy poco. Tras descubrir que habían heredado un departamento en Puerto Madero, las hermanas, que sufren carencias materiales y afectivas, deberán navegar la incertidumbre y forjar su v...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20353.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzklni66i5d2h5ooq/1cfdjnsveu~aLkbWMO8GX?token=faa3a98f24ktc5woxwz3px7v&expiry=1726121227696",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzklni66i5d2h5ooq/1cfdjnsveu~aLkbWMO8GX?token=faa3a98f24ktc5woxwz3px7v&expiry=1726121227696",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/hellboy-e-o-homem-torto/",
+                                "title": "Hellboy e o Homem Torto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mbZBaaPF7szgYfCPhyild6R0lXM.jpg"
+                            },
+                            {
                                 "url": "/series/cidade-de-deus-a-luta-nao-para/",
                                 "title": "Cidade de Deus: A Luta Não Para",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/planeta-dos-macacos-o-reinado/",
                                 "title": "Planeta dos Macacos: O Reinado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
-                            },
-                            {
-                                "url": "/filmes/assassino-por-acaso/",
-                                "title": "Assassino por Acaso",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3aYbKPczQrae0N142XHYXbWbT5.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/cidade-de-deus-a-luta-nao-para/",
-                    "title": "Cidade de Deus: A Luta Não Para",
-                    "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.\n\nTítulo Original: Cidade de Deus: A Luta Não Para\nTemporadas: 2\nEpisódios: 6",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+                    "url": "/filmes/hellboy-e-o-homem-torto/",
+                    "title": "Hellboy e o Homem Torto",
+                    "description": "Hellboy se une a um agente novato da B.P.D.P. na década de 1950 e são enviados para os Apalaches. Lá, descobrem uma remota e assombrada comunidade, dominada por bruxas e liderada pelo sinistro demônio local, conhecido como O Homem Torto. À medida que exploram os mistérios sombrios deste lugar isolado, Hellboy confronta segredos enterrados de seu próprio passado, levando-o a uma batalha épica contra forças malignas que ameaçam desencadear o caos sobre o mundo.\n\nTítulo Original: Hellboy: The Crooked Man",
+                    "genre": "Ação, Aventura, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/mbZBaaPF7szgYfCPhyild6R0lXM.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,16 +466,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/cidade-de-deus-a-luta-nao-para-1x6/",
-                        "name": "Temporada 1 x 6 - Episódio 6",
-                        "date_upload": 1727481600000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodes/cidade-de-deus-a-luta-nao-para-1x5/",
-                        "name": "Temporada 1 x 5 - Episódio 5",
-                        "date_upload": 1726876800000,
-                        "episode_number": 5.0
+                        "url": "/filmes/hellboy-e-o-homem-torto/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

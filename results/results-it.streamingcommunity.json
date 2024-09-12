@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "9868-into-the-fire-la-figlia-scomparsa",
+                                "title": "Into The Fire: la figlia scomparsa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cf22484e-0514-484e-8b24-1c29dcfc4310.webp"
+                            },
+                            {
+                                "url": "9867-billionaire-island",
+                                "title": "Billionaire Island",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/29ee20e9-55ea-429b-88fc-5dbb9b00a66b.webp"
+                            },
+                            {
+                                "url": "9866-angel-di-maria-abbattere-il-muro",
+                                "title": "Ángel Di María: abbattere il muro",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7a96deb9-1264-4835-a10e-2ee3401dc58d.webp"
+                            },
+                            {
+                                "url": "9865-bandida-la-numero-uno",
+                                "title": "Bandida - La numero uno",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e280f247-fdbf-406e-bc63-99061840c3d6.webp"
+                            },
+                            {
                                 "url": "9864-cia-un-uomo-nel-mirino",
                                 "title": "CIA - Un uomo nel mirino",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/02486d35-9bfb-4743-9bb9-8d0563c2faa0.webp"
@@ -595,26 +615,6 @@
                                 "url": "9710-panda",
                                 "title": "Panda",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f7e0ad95-ad3b-4854-94d3-d7a61c1302be.webp"
-                            },
-                            {
-                                "url": "9704-sirene",
-                                "title": "Sirene",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/666c6223-bb6c-48b1-bab4-b243d00d0dae.webp"
-                            },
-                            {
-                                "url": "9703-se-un-albero-cade-in-una-foresta",
-                                "title": "Se un albero cade in una foresta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e8f73179-429b-4764-8709-6ff228561717.webp"
-                            },
-                            {
-                                "url": "9701-falla-girare-2-offline",
-                                "title": "Falla girare 2 - Offline",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d13d2f0e-0a53-4a7e-9374-e204183054d2.webp"
-                            },
-                            {
-                                "url": "9695-il-gusto-delle-cose",
-                                "title": "Il gusto delle cose",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/537420db-4042-4552-845a-fbe64394b8af.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

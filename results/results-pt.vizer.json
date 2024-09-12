@@ -598,31 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery48.mxcontent.net/v2/r6v6zojnh3nnw1.mp4?s=2fYCTY2J3Ge84uErCEVAsg&e=1726164569&_t=1726144168",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery48.mxcontent.net/v2/r6v6zojnh3nnw1.mp4?s=2fYCTY2J3Ge84uErCEVAsg&e=1726164569&_t=1726144168",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxcontent.net/v2/vk1k8v41sjd3r.mp4?s=sjPdpxPrDmZcBwhsZ7au2Q&e=1726164569&_t=1726144302",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxcontent.net/v2/vk1k8v41sjd3r.mp4?s=sjPdpxPrDmZcBwhsZ7au2Q&e=1726164569&_t=1726144302",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

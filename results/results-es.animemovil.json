@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/given-movie-2-hiiragi-mix",
+                                "title": "Given Movie 2: Hiiragi Mix",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4276.webp"
+                            },
+                            {
                                 "url": "/kankin-kuiki-level-x",
                                 "title": "Kankin Kuiki Level X",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "The Girl Downstairs Japonés",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4257.webp"
-                            },
-                            {
-                                "url": "/koi-wa-futago-de-warikirenai",
-                                "title": "Koi wa Futago de Warikirenai",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4256.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,61 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/kankin-kuiki-level-x",
-                    "title": "Kankin Kuiki Level X",
-                    "description": "¡Ryoka se despierta con una ráfaga de mensajes de texto de su madre! Asustada y apurada, mamá está claramente preocupada por la seguridad de Ryoka, pero no está muy interesada en que su hija sepa por qué. ¡Su razonamiento es que nada podría describir adecuadamente lo que está sucediendo! ¡El mundo podría estar acabándose! ¡Y podría haber una nueva y enorme forma de vida en el tejado de su edificio de apartamentos!",
-                    "genre": "Misterio, Horror",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4275.webp",
+                    "url": "/given-movie-2-hiiragi-mix",
+                    "title": "Given Movie 2: Hiiragi Mix",
+                    "description": "Secuela de la película dada.",
+                    "genre": "Drama, Música, Yaoi",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4276.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/kankin-kuiki-level-x-1",
-                        "name": "Episodio 1",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/12191/o0ccdhv2pmpy_,n,.urlset/index-v1-a1.m3u8?t=vSoyKG_LoIxy9pVHRYnb80jB1QSfXNQQD5is8p_iEZw&s=1726142834&e=14400&f=60957034&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/12191/o0ccdhv2pmpy_,n,.urlset/index-v1-a1.m3u8?t=vSoyKG_LoIxy9pVHRYnb80jB1QSfXNQQD5is8p_iEZw&s=1726142834&e=14400&f=60957034&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://a1.mp4upload.com:183/d/x2xt45upz3b4quuoncrbszswjkozaxf4wtx4vpuocd5pzvx5kjlfgungdsp2ycjsxfnu6qpy/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xt45upz3b4quuoncrbszswjkozaxf4wtx4vpuocd5pzvx5kjlfgungdsp2ycjsxfnu6qpy/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m70.uqload.ws/3rfkrdattrw2q4drdkwpv7veb4jab7qo3caypysb6qoonj7dvuyz6tarrbaq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m70.uqload.ws/3rfkrdattrw2q4drdkwpv7veb4jab7qo3caypysb6qoonj7dvuyz6tarrbaq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=g0m70e0GmVUq82b&expires=1726212831&ip=F0qQKRWZD19XKxR&token=AHbeskF9N8QS",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=g0m70e0GmVUq82b&expires=1726212831&ip=F0qQKRWZD19XKxR&token=AHbeskF9N8QS"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

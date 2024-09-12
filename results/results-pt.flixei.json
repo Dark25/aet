@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/a-grande-fuga/online/gratis",
+                                "title": "A Grande Fuga",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40802.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/batalha-aerea/online/gratis",
+                                "title": "Batalha Aérea",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40801.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/pretty-guardian-sailor-moon-cosmos-o-filme-parte-1/online/gratis",
                                 "title": "Pretty Guardian Sailor Moon Cosmos: O Filme – Parte 1",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40800.jpg"
@@ -270,16 +280,6 @@
                                 "url": "/assistir/filme/manobra-arriscada/online/gratis",
                                 "title": "Manobra Arriscada",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40774.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/meu-sangue-ferve-por-voce/online/gratis",
-                                "title": "Meu Sangue Ferve por Você",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40773.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/borderlands-o-destino-do-universo-esta-em-jogo/online/gratis",
-                                "title": "Borderlands: O Destino do Universo Está em Jogo",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40772.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1811,31 +1811,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxcontent.net/v2/j9nzq1meie6eo.mp4?s=j1ng0nu1ivFBRlS9fYUT2A&e=1726164506&_t=1726152063",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxcontent.net/v2/j9nzq1meie6eo.mp4?s=j1ng0nu1ivFBRlS9fYUT2A&e=1726164506&_t=1726152063",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxcontent.net/v2/6qv9p0m0tee1oe.mp4?s=-whdJQUc8AxqzYgmmHUYHg&e=1726164507&_t=1726151765",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxcontent.net/v2/6qv9p0m0tee1oe.mp4?s=-whdJQUc8AxqzYgmmHUYHg&e=1726164507&_t=1726151765",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

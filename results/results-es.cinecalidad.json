@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/ver-serie/el-primer-amor/",
-                                "title": "El primer amor",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//ragdKCqaxEAY88Z3iPfRgM6MTZ2.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/orgullo-y-prejuicio/",
                                 "title": "Orgullo y Prejuicio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//oixzLjpyaLagLa8UREts1NiHr6F.jpg"
@@ -65,6 +60,11 @@
                                 "url": "/ver-pelicula/la-bella-durmiente/",
                                 "title": "La bella durmiente",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//d7aeSm6RgJySwelL5tdu1TCclZh.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/el-angel-malvado/",
+                                "title": "El ángel malvado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//eTYOprmopNMSu2pql9P58XHxi1Q.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/el-primer-amor/",
-                    "artist": "中尾明慶",
-                    "author": "",
-                    "description": "Jóvenes, libres y locos de amor. Cuando eran adolescentes, el mundo era suyo; de adultos, sus vidas están apagadas, como si les faltara algo.   ",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//ragdKCqaxEAY88Z3iPfRgM6MTZ2.jpg",
+                    "url": "/ver-pelicula/orgullo-y-prejuicio/",
+                    "artist": "Brenda Blethyn",
+                    "description": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.   ",
+                    "genre": "Drama, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//oixzLjpyaLagLa8UREts1NiHr6F.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,21 +211,54 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/el-primer-amor-1x9/",
-                        "name": "T1 - E9 - Episodio 9",
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/ver-el-episodio/el-primer-amor-1x8/",
-                        "name": "T1 - E8 - Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/ver-pelicula/orgullo-y-prejuicio/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-onszbvx7rkdpm7au.voe-network.net/engine/hls2-c/01/12142/mskibwztwrtq_,n,.urlset/index-v1-a1.m3u8?t=7f-6bctQ-9lbMfsAFVNH3RZGkHvpj5BvFfQmVbwUXgU&s=1726250828&e=14400&f=60714612&node=delivery-node-cglm4j5ztiyc9g2z.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-onszbvx7rkdpm7au.voe-network.net/engine/hls2-c/01/12142/mskibwztwrtq_,n,.urlset/index-v1-a1.m3u8?t=7f-6bctQ-9lbMfsAFVNH3RZGkHvpj5BvFfQmVbwUXgU&s=1726250828&e=14400&f=60714612&node=delivery-node-cglm4j5ztiyc9g2z.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://i5ed7sorln2d.cdn-jupiter.com/hls2/01/04841/mr16t1nrxkbz_n/index-v1-a1.m3u8?t=m0lyiWQnDQ_8rtzPJdb4vjobUZXmndqeUjqr-v93Kqo&s=1726250825&e=129600&f=24208689&srv=pzgiyrx2kqkq&i=0.4&sp=500&p1=pzgiyrx2kqkq&p2=pzgiyrx2kqkq&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://i5ed7sorln2d.cdn-jupiter.com/hls2/01/04841/mr16t1nrxkbz_n/index-v1-a1.m3u8?t=m0lyiWQnDQ_8rtzPJdb4vjobUZXmndqeUjqr-v93Kqo&s=1726250825&e=129600&f=24208689&srv=pzgiyrx2kqkq&i=0.4&sp=500&p1=pzgiyrx2kqkq&p2=pzgiyrx2kqkq&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/mr16t1nrxkbz"
+                        }
+                    },
+                    {
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06835/9yklfb8scy5c_h/index-v1.m3u8?t=2U72jCnBMN7V7R3q81eKFhHP7yMa3H1HK1C8AquI2QQ&s=1726250827&e=10800&f=34178621&srv=22&asn=8075&sp=4000",
+                        "quality": "Filemoon:720p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/06835/9yklfb8scy5c_h/index-v1.m3u8?t=2U72jCnBMN7V7R3q81eKFhHP7yMa3H1HK1C8AquI2QQ&s=1726250827&e=10800&f=34178621&srv=22&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://s2.goodstream.uno/096cf8ce5bb7300d?download_token=d48927b8130e056979bd4e3eeb4b434d8ee63e41720ee5e3307a188524f102c9",
+                        "quality": "GoodStream: ",
+                        "videoUrl": "https://s2.goodstream.uno/096cf8ce5bb7300d?download_token=d48927b8130e056979bd4e3eeb4b434d8ee63e41720ee5e3307a188524f102c9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

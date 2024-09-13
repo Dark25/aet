@@ -15,11 +15,8 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             },
             "episodes": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",

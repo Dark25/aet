@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/duenos-de-la-noche",
+                                "title": "Dueños De La Noche",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1cVWyFowwC5X04JpmuKVOy0bfIt.jpg"
+                            },
+                            {
+                                "url": "/movies/el-cuervo-957452",
+                                "title": "El Cuervo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/X9iFHeIYgfqoZImvdidx8b9v4R.jpg"
+                            },
+                            {
+                                "url": "/movies/subservience",
+                                "title": "Subservience",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg"
+                            },
+                            {
                                 "url": "/movies/hellboy-el-hombre-torcido",
                                 "title": "Hellboy: El Hombre Torcido",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mDbqfIdEoGouMJJ5wrrFrn3si6C.jpg"
@@ -115,21 +130,6 @@
                                 "url": "/movies/zip",
                                 "title": "신체모음.zip",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uYeAoIZ7HlGcYOikpDDuwqImiIb.jpg"
-                            },
-                            {
-                                "url": "/movies/casi-el-paraiso",
-                                "title": "Casi el Paraíso",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/drlxsgeit5v7Tb1IDh6Mvk15bGQ.jpg"
-                            },
-                            {
-                                "url": "/movies/i-heart-robots",
-                                "title": "I Heart Robots",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/knd85FajslJuehXKldfQzlsdEMo.jpg"
-                            },
-                            {
-                                "url": "/movies/la-prisonniere-de-bordeaux",
-                                "title": "La prisonnière de Bordeaux",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/OZuE6uEkq7zzAV6UkFNXzntGLD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -327,14 +327,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
-                                "url": "/movies/the-world-to-come",
-                                "title": "The World to Come",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/hellboy-el-hombre-torcido",
-                    "title": "Hellboy: El Hombre Torcido",
-                    "artist": "Jack Kesy",
-                    "description": "Hellboy y un agente novato de la BPRD quedan varados en la zona rural de los Apalaches en la década de 1950. Allí, descubren una pequeña comunidad embrujada por brujas, lideradas por un demonio local con una conexión inquietante con el pasado de Hellboy: el Hombre Torcido.",
-                    "genre": "Terror, Acción, Aventura",
+                    "url": "/movies/duenos-de-la-noche",
+                    "title": "Dueños De La Noche",
+                    "artist": "Joaquin Phoenix",
+                    "description": "El gerente de un club nocturno de la ciudad de Nueva York intenta salvar a su hermano y a su padre de los sicarios de la mafia rusa.",
+                    "genre": "Drama, Crimen, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/mDbqfIdEoGouMJJ5wrrFrn3si6C.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/1cVWyFowwC5X04JpmuKVOy0bfIt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/hellboy-el-hombre-torcido",
+                        "url": "/movies/duenos-de-la-noche",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,17 +429,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-793xf1ndxfenojiu.voe-network.net/engine/hls2-c/01/12189/wfjm41jya4d7_,n,.urlset/index-v1-a1.m3u8?t=kp5b5KoazHN69E-0cj18P6610Iz2QOvGSdurY7LC4a0&s=1726250773&e=14400&f=60946604&node=delivery-node-nfqz3bu1ar88sxrw.voe-network.net&i=20.109&sp=2500&asn=8075",
-                        "quality": "[SUB]Voe:720p",
-                        "videoUrl": "https://delivery-node-793xf1ndxfenojiu.voe-network.net/engine/hls2-c/01/12189/wfjm41jya4d7_,n,.urlset/index-v1-a1.m3u8?t=kp5b5KoazHN69E-0cj18P6610Iz2QOvGSdurY7LC4a0&s=1726250773&e=14400&f=60946604&node=delivery-node-nfqz3bu1ar88sxrw.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "url": "https://delivery-node-5scphn10nmokfrsv.voe-network.net/engine/hls2-c/01/10312/towesqqknv4h_,l,.urlset/index-v1-a1.m3u8?t=vcCq5gklBo2lNhSlKjwsL1L1LpNmE07v6iODfrnqFHE&s=1726272914&e=14400&f=61026919&node=delivery-node-ubce3tf3nupwma8l.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[CAST]Voe:240p",
+                        "videoUrl": "https://delivery-node-5scphn10nmokfrsv.voe-network.net/engine/hls2-c/01/10312/towesqqknv4h_,l,.urlset/index-v1-a1.m3u8?t=vcCq5gklBo2lNhSlKjwsL1L1LpNmE07v6iODfrnqFHE&s=1726272914&e=14400&f=61026919&node=delivery-node-ubce3tf3nupwma8l.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06876/7x17s80t1717_x/index-v1.m3u8?t=otaHdL-B_tYGfBWafmdwYjy_4CbEYGt4t2GlPvxebw8&s=1726250772&e=10800&f=34382818&srv=38&asn=8075&sp=5500",
-                        "quality": "[SUB] Filemoon:720p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06876/7x17s80t1717_x/index-v1.m3u8?t=otaHdL-B_tYGfBWafmdwYjy_4CbEYGt4t2GlPvxebw8&s=1726250772&e=10800&f=34382818&srv=38&asn=8075&sp=5500",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/03/05710/jx5u8ypugz7s_h/index-v1.m3u8?t=cuyp_qct3jrQ7eIdF5p1L4nX9aSk6PiUZYqlxdARKwM&s=1726272916&e=10800&f=34445808&srv=53&asn=8075&sp=4000",
+                        "quality": "[CAST] Filemoon:240p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/03/05710/jx5u8ypugz7s_h/index-v1.m3u8?t=cuyp_qct3jrQ7eIdF5p1L4nX9aSk6PiUZYqlxdARKwM&s=1726272916&e=10800&f=34445808&srv=53&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -447,20 +447,15 @@
                         }
                     },
                     {
-                        "url": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04889/gx0l7s3d614g_n/index-v1-a1.m3u8?t=NFJV2QjTLWpx-OBnRCGw5yW9K83NSF5FU2K3FVKm9WU&s=1726250774&e=129600&f=24450989&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04889/gx0l7s3d614g_n/index-v1-a1.m3u8?t=NFJV2QjTLWpx-OBnRCGw5yW9K83NSF5FU2K3FVKm9WU&s=1726250774&e=129600&f=24450989&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/02472/go9ym6xjeo2i_n/index-v1-a1.m3u8?t=oyKOpH-F3wYdeEDtJBhJJxsVDdHPfTqeL687dMqXbEM&s=1726272915&e=129600&f=24523940&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
+                        "quality": "[CAST] StreamWish:240p",
+                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/02472/go9ym6xjeo2i_n/index-v1-a1.m3u8?t=oyKOpH-F3wYdeEDtJBhJJxsVDdHPfTqeL687dMqXbEM&s=1726272915&e=129600&f=24523940&srv=mnnx3x8e5xk&i=0.0&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/irfi65gn76tn"
+                            "Referer": "https://streamwish.to/e/wnfif0ks84bp"
                         }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kogJw0l7WdCOde7&expires=1726320771&ip=FROsD0AAKxSHDN&token=b6t0SY9vfGcp",
-                        "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kogJw0l7WdCOde7&expires=1726320771&ip=FROsD0AAKxSHDN&token=b6t0SY9vfGcp"
                     }
                 ],
                 "passed": true

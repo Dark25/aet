@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-isla-del-salmon-y-la-discordia",
+                                "title": "La isla del salmón y la discordia (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vZXSWqFklMIncnGCZVuyul9yNgF.jpg"
+                            },
+                            {
+                                "url": "/serie/amor-en-la-puerta-de-al-lado",
+                                "title": "Amor en la puerta de al lado (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/b84utD8XBPsOodnNruqawiv7KmB.jpg"
+                            },
+                            {
+                                "url": "/serie/angel-di-maria-romper-la-pared",
+                                "title": "Ángel Di María: Romper la pared (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2khl08Y9ZCsapnRQsfNJzwurmxk.jpg"
+                            },
+                            {
+                                "url": "/serie/entre-las-llamas-la-hija-perdida",
+                                "title": "Entre las llamas: La hija perdida (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mMs6mEHPPtrTQ4mjc6hBHl6bApJ.jpg"
+                            },
+                            {
                                 "url": "/serie/la-pareja-de-al-lado",
                                 "title": "La pareja de al lado (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6Oh6qG4kvl1PrJ0rLeAioyhWZG2.jpg"
@@ -105,26 +125,6 @@
                                 "url": "/serie/la-jefatura-de-gia-gun",
                                 "title": "La jefatura de Gia-Gun (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2BfikSc2odB2n8xX69dBvfoBazY.jpg"
-                            },
-                            {
-                                "url": "/serie/accidente",
-                                "title": "Accidente (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/r20sAdxSkpLdpB4ubO9CnrVqDEw.jpg"
-                            },
-                            {
-                                "url": "/serie/el-rey-de-los-machos",
-                                "title": "El rey de los machos (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9DMllDYBXhDWsLGHpPIczNBuynk.jpg"
-                            },
-                            {
-                                "url": "/serie/la-voz-ausente",
-                                "title": "La voz ausente (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ok4Nuvd0Sl11uxQoDQ3FbsUW0tM.jpg"
-                            },
-                            {
-                                "url": "/serie/selenkay",
-                                "title": "Selenkay (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2oCXH9pDFfU7bpyxyusCjYIgeGO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-pareja-de-al-lado",
-                    "title": "La pareja de al lado (2023)",
-                    "description": "Evie y Pete se mudan a un barrio exclusivo y se encuentran nerviosos y ansiosos. Se hacen amigos de la pareja de al lado, Danny y su Becka. Danny comparte una noche apasionada con Evie, su bella pero problemática vecina..",
-                    "genre": "Crimen, Drama",
+                    "url": "/serie/la-isla-del-salmon-y-la-discordia",
+                    "title": "La isla del salmón y la discordia (2024)",
+                    "description": "La implacable propietaria de una empresa noruega dedicada al salmón planea adquirir como sea la compañía rival local y convertirse en la mayor productora del mundo..",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6Oh6qG4kvl1PrJ0rLeAioyhWZG2.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vZXSWqFklMIncnGCZVuyul9yNgF.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-pareja-de-al-lado/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/la-isla-del-salmon-y-la-discordia/temporada/1/capitulo/6",
+                        "name": "T1 - E6: La reina del Solitario",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/serie/la-pareja-de-al-lado/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/la-isla-del-salmon-y-la-discordia/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Feliz Halloween",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -293,68 +293,68 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/12194/4wl1dxx6w8ha_,n,.urlset/index-v1-a1.m3u8?t=PRVd9YH_OoFsN3WR6qAmoIf2oJEvHHXKcgZtvBRgZAI&s=1726272958&e=14400&f=60972912&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=40.67&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/12194/4wl1dxx6w8ha_,n,.urlset/index-v1-a1.m3u8?t=PRVd9YH_OoFsN3WR6qAmoIf2oJEvHHXKcgZtvBRgZAI&s=1726272958&e=14400&f=60972912&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=40.67&sp=2500&asn=8075",
+                        "url": "https://delivery-node-6thw7b00uppejdtq.voe-network.net/engine/hls2/01/12206/endgnqujlwxw_,n,.urlset/index-v1-a1.m3u8?t=0mm8SQcGqSWLiT3EVLmlMSX0a9ZSONo_dN8Kgaa5IHI&s=1726293974&e=14400&f=61032190&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=20.171&sp=2500&asn=8075",
+                        "quality": "Voe:1080p",
+                        "videoUrl": "https://delivery-node-6thw7b00uppejdtq.voe-network.net/engine/hls2/01/12206/endgnqujlwxw_,n,.urlset/index-v1-a1.m3u8?t=0mm8SQcGqSWLiT3EVLmlMSX0a9ZSONo_dN8Kgaa5IHI&s=1726293974&e=14400&f=61032190&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=20.171&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02272/5p3761t9xwcy_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=WdQEEYco5yoCNafHY4UVYbcfScyvVWIbEdiNbyQeoWY&s=1726272956&e=129600&f=11364560&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "url": "https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02279/i21tdnwp4ctm_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XNG8qb93QGR_NMBA45VW4VggFczprMDYgKpg3EE9Pp4&s=1726293971&e=129600&f=11395257&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
                         "quality": "StreamHideVid - 1080p",
-                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02272/5p3761t9xwcy_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=WdQEEYco5yoCNafHY4UVYbcfScyvVWIbEdiNbyQeoWY&s=1726272956&e=129600&f=11364560&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "videoUrl": "https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02279/i21tdnwp4ctm_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XNG8qb93QGR_NMBA45VW4VggFczprMDYgKpg3EE9Pp4&s=1726293971&e=129600&f=11395257&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04894/bkade4vu5y7g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=TuBtyGXNTwn7SKrAvTjU8ju8DKwnPd4i2gb83zvNlb4&s=1726272953&e=129600&f=24474851&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "url": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/wngywey3tksg_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=B6jy4W08O_res8VY1Y9iB2B-kMhMNz-8fVFQ5IfTBfs&s=1726293968&e=129600&f=24531393&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04894/bkade4vu5y7g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=TuBtyGXNTwn7SKrAvTjU8ju8DKwnPd4i2gb83zvNlb4&s=1726272953&e=129600&f=24474851&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "videoUrl": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/wngywey3tksg_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=B6jy4W08O_res8VY1Y9iB2B-kMhMNz-8fVFQ5IfTBfs&s=1726293968&e=129600&f=24531393&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bkade4vu5y7g"
+                            "Referer": "https://streamwish.to/e/wngywey3tksg"
                         }
                     },
                     {
-                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02272/5p3761t9xwcy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WdQEEYco5yoCNafHY4UVYbcfScyvVWIbEdiNbyQeoWY&s=1726272956&e=129600&f=11364560&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "url": "https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02279/i21tdnwp4ctm_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XNG8qb93QGR_NMBA45VW4VggFczprMDYgKpg3EE9Pp4&s=1726293971&e=129600&f=11395257&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
                         "quality": "StreamHideVid - 720p",
-                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02272/5p3761t9xwcy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WdQEEYco5yoCNafHY4UVYbcfScyvVWIbEdiNbyQeoWY&s=1726272956&e=129600&f=11364560&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "videoUrl": "https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02279/i21tdnwp4ctm_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XNG8qb93QGR_NMBA45VW4VggFczprMDYgKpg3EE9Pp4&s=1726293971&e=129600&f=11395257&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04894/bkade4vu5y7g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=TuBtyGXNTwn7SKrAvTjU8ju8DKwnPd4i2gb83zvNlb4&s=1726272953&e=129600&f=24474851&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "url": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/wngywey3tksg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=B6jy4W08O_res8VY1Y9iB2B-kMhMNz-8fVFQ5IfTBfs&s=1726293968&e=129600&f=24531393&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04894/bkade4vu5y7g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=TuBtyGXNTwn7SKrAvTjU8ju8DKwnPd4i2gb83zvNlb4&s=1726272953&e=129600&f=24474851&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "videoUrl": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/wngywey3tksg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=B6jy4W08O_res8VY1Y9iB2B-kMhMNz-8fVFQ5IfTBfs&s=1726293968&e=129600&f=24531393&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bkade4vu5y7g"
+                            "Referer": "https://streamwish.to/e/wngywey3tksg"
                         }
                     },
                     {
-                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02272/5p3761t9xwcy_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=WdQEEYco5yoCNafHY4UVYbcfScyvVWIbEdiNbyQeoWY&s=1726272956&e=129600&f=11364560&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "url": "https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02279/i21tdnwp4ctm_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XNG8qb93QGR_NMBA45VW4VggFczprMDYgKpg3EE9Pp4&s=1726293971&e=129600&f=11395257&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
                         "quality": "StreamHideVid - 480p",
-                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02272/5p3761t9xwcy_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=WdQEEYco5yoCNafHY4UVYbcfScyvVWIbEdiNbyQeoWY&s=1726272956&e=129600&f=11364560&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "videoUrl": "https://j3rmodimy1oj.aghe-cdn.com/hls2/01/02279/i21tdnwp4ctm_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XNG8qb93QGR_NMBA45VW4VggFczprMDYgKpg3EE9Pp4&s=1726293971&e=129600&f=11395257&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04894/bkade4vu5y7g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=TuBtyGXNTwn7SKrAvTjU8ju8DKwnPd4i2gb83zvNlb4&s=1726272953&e=129600&f=24474851&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "url": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/wngywey3tksg_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=B6jy4W08O_res8VY1Y9iB2B-kMhMNz-8fVFQ5IfTBfs&s=1726293968&e=129600&f=24531393&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04894/bkade4vu5y7g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=TuBtyGXNTwn7SKrAvTjU8ju8DKwnPd4i2gb83zvNlb4&s=1726272953&e=129600&f=24474851&srv=jgy4rdrj5btf&i=0.0&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=8075",
+                        "videoUrl": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/wngywey3tksg_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=B6jy4W08O_res8VY1Y9iB2B-kMhMNz-8fVFQ5IfTBfs&s=1726293968&e=129600&f=24531393&srv=g8l2qa51m5x1f&i=0.0&sp=500&p1=g8l2qa51m5x1f&p2=g8l2qa51m5x1f&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bkade4vu5y7g"
+                            "Referer": "https://streamwish.to/e/wngywey3tksg"
                         }
                     }
                 ],
@@ -369,6 +369,71 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/boudica-la-reina-de-la-guerra",
+                                "title": "Boudica: La Reina de la Guerra (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/lvrifbvSDeS1RWRHK58Id6UxFbH.jpg"
+                            },
+                            {
+                                "url": "/pelicula/kinds-of-kindness",
+                                "title": "Kinds of Kindness (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg"
+                            },
+                            {
+                                "url": "/pelicula/destino-oculto",
+                                "title": "Destino oculto (2011)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2ALDdje4SLdZCEWTIxWpAqMEFZX.jpg"
+                            },
+                            {
+                                "url": "/pelicula/an-education",
+                                "title": "An Education (2009)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gLIvvUdlocGjm8XVLxhWHAKWrRq.jpg"
+                            },
+                            {
+                                "url": "/pelicula/vidas-al-limite",
+                                "title": "Vidas al límite (2005)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dpcsofNzzSWkdzAl4pMZ9ktX6IU.jpg"
+                            },
+                            {
+                                "url": "/pelicula/soy-espia",
+                                "title": "Soy espía (2002)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aNjDdE30Q99GLRSdKdDMaXQqIeW.jpg"
+                            },
+                            {
+                                "url": "/pelicula/wet-hot-american-summer",
+                                "title": "Wet Hot American Summer (2001)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dVdHnfcLZFSscEUZqCzctwOVjC0.jpg"
+                            },
+                            {
+                                "url": "/pelicula/fallen",
+                                "title": "Fallen (1998)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/a1XpImrbzKGJvoYJB8NeZJ4ZDhu.jpg"
+                            },
+                            {
+                                "url": "/pelicula/horizonte-final",
+                                "title": "Horizonte Final (1997)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/p0TgEBfbOgWP6xZgSt2T7Ee78vx.jpg"
+                            },
+                            {
+                                "url": "/pelicula/volar-por-los-aires",
+                                "title": "Volar por los aires (1994)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/f9PlTSciH3sO4xlCOedyRns4ra.jpg"
+                            },
+                            {
+                                "url": "/pelicula/movida-del-76",
+                                "title": "Movida del 76 (1993)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6haIQ1XgVMMjWkRtI5NhT34s86t.jpg"
+                            },
+                            {
+                                "url": "/pelicula/american-graffiti",
+                                "title": "American Graffiti (1973)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9rvox1lGhLtUj0djMtr44CuxYE1.jpg"
+                            },
+                            {
+                                "url": "/pelicula/macbeth-un-hombre-frente-al-rey",
+                                "title": "Macbeth: un hombre frente al rey (1971)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5raZTuisY6zzOjMPtvYmpKGgrh4.jpg"
+                            },
                             {
                                 "url": "/pelicula/boxeador",
                                 "title": "Boxeador (2024)",
@@ -423,71 +488,6 @@
                                 "url": "/pelicula/rust-creek",
                                 "title": "Rust Creek (2019)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mole-de-olla-receta-original",
-                                "title": "Mole de olla, receta original (2019)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/eqqqkNlibXxXIhbDbEG97H3kZC5.jpg"
-                            },
-                            {
-                                "url": "/pelicula/grupo-de-asalto",
-                                "title": "Grupo de asalto (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/4hk97lGEZcgeQwNhMdByCEV1hIV.jpg"
-                            },
-                            {
-                                "url": "/pelicula/leprechaun-returns",
-                                "title": "Leprechaun Returns (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5KxuyIQX0XibWl0Nrx26lfxTRNF.jpg"
-                            },
-                            {
-                                "url": "/pelicula/disco-ibiza-locomia",
-                                "title": "Disco, Ibiza, Locomía (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/beLbZExOZ64LzbqJbbbjhlqbezi.jpg"
-                            },
-                            {
-                                "url": "/pelicula/demasiado-tarde-para-regresar",
-                                "title": "Demasiado tarde para regresar (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/iTnzIWJ9BxZL2vnmSaXfAWhH8p3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/rebel-ridge",
-                                "title": "Rebel Ridge (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg"
-                            },
-                            {
-                                "url": "/pelicula/coherence",
-                                "title": "Coherence (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/spawn",
-                                "title": "Spawn (1997)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/tfvH5YKXtMiBgkj0FNozQj4TQyp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-diario-de-ana-frank",
-                                "title": "El diario de Ana Frank (1959)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wI0OUUK5M3DlN0sW4Hh3iSqnOSk.jpg"
-                            },
-                            {
-                                "url": "/pelicula/en-la-mente-de-un-perro",
-                                "title": "En la mente de un perro (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/62Rn8MiKf40vbTFeRqxyi8r5EWq.jpg"
-                            },
-                            {
-                                "url": "/pelicula/inocencia-robada",
-                                "title": "Inocencia robada (1999)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/65Dj96xO2wDwg7t2mB6MAMJmDIN.jpg"
-                            },
-                            {
-                                "url": "/pelicula/asesinos-de-elite",
-                                "title": "Asesinos de élite (2011)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/a3Ep5s2af2Fy8hlWCH3lbLGZdAH.jpg"
-                            },
-                            {
-                                "url": "/pelicula/adios-pequena-adios",
-                                "title": "Adiós pequeña, adiós (2007)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cKtxIvG9YR0u0hmRl2ewqJyTaaZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -747,10 +747,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/boxeador",
-                    "title": "Boxeador (2024)",
-                    "description": "Una joven promesa del boxeo huye de la Polonia comunista de la mano de su esposa para cumplir su sueño de convertirse en el mejor boxeador de la historia.",
-                    "genre": "Drama",
+                    "url": "/pelicula/boudica-la-reina-de-la-guerra",
+                    "title": "Boudica: La Reina de la Guerra (2023)",
+                    "description": "La guerrera celta del mismo nombre que gobierna al pueblo iceni junto a su marido Prasutagus. El rey muere a manos de los soldados romanos, dejando el reino de Boudica sin un heredero varón y los romanos se apoderan de sus tierras y propiedades. Inspirada en los acontecimientos del año 60 d.C., Boudica sigue a la guerrera celta del mismo nombre que gobierna al pueblo iceni junto a su marido Prasutagus. Cuando muere a manos de los soldados romanos, el reino de Boudica se queda sin un heredero varón y los romanos se apoderan de sus tierras y propiedades. Llevada al borde de la locura y decidida a vengar la muerte de su marido, Boudica reúne a las distintas tribus de la región y libra una guerra épica contra el poderoso imperio romano.",
+                    "genre": "Acción, Bélica",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -760,7 +760,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/boxeador",
+                        "url": "/pelicula/boudica-la-reina-de-la-guerra",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -770,47 +770,39 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://xannpdjy0oyz.hgagecdn.com/hls2/01/02278/bdpbfa4n6r1g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ETAmv_sgwH3-Wvo_Mil-lf9dFD9SGEnJdZyNAe0pvXI&s=1726272960&e=129600&f=11392909&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=8075",
-                        "quality": "StreamHideVid - 1080p",
-                        "videoUrl": "https://xannpdjy0oyz.hgagecdn.com/hls2/01/02278/bdpbfa4n6r1g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ETAmv_sgwH3-Wvo_Mil-lf9dFD9SGEnJdZyNAe0pvXI&s=1726272960&e=129600&f=11392909&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r7spjivm14.cdn-jupiter.com/hls2/01/04905/53ogr6f867lg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Xw4CNWdMJXxemYG39f5VHYzl0cwtT10mXeCi2YDtu9E&s=1726272963&e=129600&f=24526433&srv=5a2k9a13jwzg9&i=0.4&sp=500&p1=5a2k9a13jwzg9&p2=5a2k9a13jwzg9&asn=8075",
+                        "url": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/eyr7cziun2g3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=5C7t6tl1CelFSYUTTxxyoSoSrd5L5teYIKGvvwysLhE&s=1726293979&e=129600&f=24531278&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://r7spjivm14.cdn-jupiter.com/hls2/01/04905/53ogr6f867lg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Xw4CNWdMJXxemYG39f5VHYzl0cwtT10mXeCi2YDtu9E&s=1726272963&e=129600&f=24526433&srv=5a2k9a13jwzg9&i=0.4&sp=500&p1=5a2k9a13jwzg9&p2=5a2k9a13jwzg9&asn=8075",
+                        "videoUrl": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/eyr7cziun2g3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=5C7t6tl1CelFSYUTTxxyoSoSrd5L5teYIKGvvwysLhE&s=1726293979&e=129600&f=24531278&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/53ogr6f867lg"
+                            "Referer": "https://streamwish.to/e/eyr7cziun2g3"
                         }
                     },
                     {
-                        "url": "https://xannpdjy0oyz.hgagecdn.com/hls2/01/02278/bdpbfa4n6r1g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ETAmv_sgwH3-Wvo_Mil-lf9dFD9SGEnJdZyNAe0pvXI&s=1726272960&e=129600&f=11392909&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=8075",
+                        "url": "https://webluq1fylhe5.hgagecdn.com/hls2/01/02279/c0gh8w7rkpp0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6fbNN6wz1e7-_h9K0KWsc59QrS44xP1lHgaABUdOL-Y&s=1726293976&e=129600&f=11395138&srv=cutra8JDUV80&i=0.4&sp=500&p1=cutra8JDUV80&p2=cutra8JDUV80&asn=8075",
                         "quality": "StreamHideVid - 720p",
-                        "videoUrl": "https://xannpdjy0oyz.hgagecdn.com/hls2/01/02278/bdpbfa4n6r1g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ETAmv_sgwH3-Wvo_Mil-lf9dFD9SGEnJdZyNAe0pvXI&s=1726272960&e=129600&f=11392909&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=8075",
+                        "videoUrl": "https://webluq1fylhe5.hgagecdn.com/hls2/01/02279/c0gh8w7rkpp0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6fbNN6wz1e7-_h9K0KWsc59QrS44xP1lHgaABUdOL-Y&s=1726293976&e=129600&f=11395138&srv=cutra8JDUV80&i=0.4&sp=500&p1=cutra8JDUV80&p2=cutra8JDUV80&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://r7spjivm14.cdn-jupiter.com/hls2/01/04905/53ogr6f867lg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Xw4CNWdMJXxemYG39f5VHYzl0cwtT10mXeCi2YDtu9E&s=1726272963&e=129600&f=24526433&srv=5a2k9a13jwzg9&i=0.4&sp=500&p1=5a2k9a13jwzg9&p2=5a2k9a13jwzg9&asn=8075",
+                        "url": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/eyr7cziun2g3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=5C7t6tl1CelFSYUTTxxyoSoSrd5L5teYIKGvvwysLhE&s=1726293979&e=129600&f=24531278&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://r7spjivm14.cdn-jupiter.com/hls2/01/04905/53ogr6f867lg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Xw4CNWdMJXxemYG39f5VHYzl0cwtT10mXeCi2YDtu9E&s=1726272963&e=129600&f=24526433&srv=5a2k9a13jwzg9&i=0.4&sp=500&p1=5a2k9a13jwzg9&p2=5a2k9a13jwzg9&asn=8075",
+                        "videoUrl": "https://euf5gy66awg8.pradoi.com/hls2/01/04906/eyr7cziun2g3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=5C7t6tl1CelFSYUTTxxyoSoSrd5L5teYIKGvvwysLhE&s=1726293979&e=129600&f=24531278&srv=3nvtw3l3ngz1d&i=0.0&sp=500&p1=3nvtw3l3ngz1d&p2=3nvtw3l3ngz1d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/53ogr6f867lg"
+                            "Referer": "https://streamwish.to/e/eyr7cziun2g3"
                         }
                     },
                     {
-                        "url": "https://xannpdjy0oyz.hgagecdn.com/hls2/01/02278/bdpbfa4n6r1g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ETAmv_sgwH3-Wvo_Mil-lf9dFD9SGEnJdZyNAe0pvXI&s=1726272960&e=129600&f=11392909&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=8075",
+                        "url": "https://webluq1fylhe5.hgagecdn.com/hls2/01/02279/c0gh8w7rkpp0_,l,n,.urlset/index-f1-v1-a1.m3u8?t=6fbNN6wz1e7-_h9K0KWsc59QrS44xP1lHgaABUdOL-Y&s=1726293976&e=129600&f=11395138&srv=cutra8JDUV80&i=0.4&sp=500&p1=cutra8JDUV80&p2=cutra8JDUV80&asn=8075",
                         "quality": "StreamHideVid - 480p",
-                        "videoUrl": "https://xannpdjy0oyz.hgagecdn.com/hls2/01/02278/bdpbfa4n6r1g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ETAmv_sgwH3-Wvo_Mil-lf9dFD9SGEnJdZyNAe0pvXI&s=1726272960&e=129600&f=11392909&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=8075",
+                        "videoUrl": "https://webluq1fylhe5.hgagecdn.com/hls2/01/02279/c0gh8w7rkpp0_,l,n,.urlset/index-f1-v1-a1.m3u8?t=6fbNN6wz1e7-_h9K0KWsc59QrS44xP1lHgaABUdOL-Y&s=1726293976&e=129600&f=11395138&srv=cutra8JDUV80&i=0.4&sp=500&p1=cutra8JDUV80&p2=cutra8JDUV80&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

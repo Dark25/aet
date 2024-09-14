@@ -527,34 +527,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/seasons/the-lord-of-the-rings-the-rings-of-power-season-2-210593/",
-                    "title": "The Lord of the Rings: The Rings of Power سيد الخواتم: خواتم القوة",
-                    "author": "United States",
-                    "description": "تدور أحداث المسلسل خلال العصر الثاني في اﻷرض الوسطى، قبل أحداث (الهوبيت) و(سيد الخواتم) باﻵف السنين، حيث يجب على اﻷبطال مواجهة شر جديد في اﻷرض الوسطى.",
-                    "genre": "مسلسلات اجنبية, خيالي علمي, دراما, مغامرات",
-                    "thumbnail_url": "https://m.cimaleek.to/wp-content/uploads/2024/08/yNcPTNvcWbWifW0XvQtbrThA0nt.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/the-lord-of-the-rings-the-rings-of-power-2x5-131631//watch/",
-                        "name": "الموسم 2 الحلقة 5",
-                        "episode_number": 2.05
-                    },
-                    {
-                        "url": "/episodes/the-lord-of-the-rings-the-rings-of-power-2x4-772387//watch/",
-                        "name": "الموسم 2 الحلقة 4",
-                        "episode_number": 2.04
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             }
         }

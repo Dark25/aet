@@ -327,6 +327,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fairy-tail-100-nen-quest-1715",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1087/144083.webp"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-7th-season-1649",
+                                "title": "My Hero Academia Saison 7",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1529/140306.webp"
+                            },
+                            {
+                                "url": "/anime/one-piece-9",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/6/73245.webp"
+                            },
+                            {
                                 "url": "/anime/karasu-wa-aruji-wo-erabanai-1676",
                                 "title": "Yatagarasu",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1630/141499.webp"
@@ -385,11 +400,6 @@
                                 "url": "/anime/quality-assurance-in-another-world-1709",
                                 "title": "Kono Sekai wa Fukanzen Sugiru",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1187/141847.webp"
-                            },
-                            {
-                                "url": "/anime/boku-no-hero-academia-7th-season-1649",
-                                "title": "My Hero Academia Saison 7",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1529/140306.webp"
                             },
                             {
                                 "url": "/anime/dungeon-no-naka-no-hito-1708",
@@ -465,16 +475,6 @@
                                 "url": "/anime/twilight-out-of-focus-1700",
                                 "title": "Tasogare Out Focus",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1185/143359.webp"
-                            },
-                            {
-                                "url": "/anime/days-with-my-stepsister-1699",
-                                "title": "Gimai Seikatsu",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1420/143707.webp"
-                            },
-                            {
-                                "url": "/anime/delicos-nursery-1749",
-                                "title": "Delico's Nursery",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1635/138391.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -499,14 +499,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=128113",
+                        "name": "Episode 1119",
+                        "episode_number": 1119.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=127937",
                         "name": "Episode 1118",
                         "episode_number": 1118.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=127857",
-                        "name": "Episode 1117",
-                        "episode_number": 1117.0
                     }
                 ],
                 "passed": true

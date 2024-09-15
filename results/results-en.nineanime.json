@@ -3,32 +3,27 @@
         "name": "Aniwave (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: aniwave.to: No address associated with hostname",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: aniwave.to",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: aniwave.to",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.UnknownHostException: aniwave.to",
+                "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: ID not found",
+                "error": "java.net.UnknownHostException: aniwave.to",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.UnknownHostException: aniwave.to",
                 "passed": false
             }
         }

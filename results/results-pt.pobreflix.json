@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/nao-fale-o-mal/",
+                                "title": "Não Fale o Mal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tjj473rnrNzPwWgLFNF0gsPXmU.jpg"
+                            },
+                            {
                                 "url": "/filmes/hellboy-e-o-homem-torto/",
                                 "title": "Hellboy e o Homem Torto",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/mbZBaaPF7szgYfCPhyild6R0lXM.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/eu-vi-o-brilho-da-tv/",
                                 "title": "Eu Vi o Brilho da TV",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/1iIKv687Ve0WKHDJ86haUVcPEZL.jpg"
-                            },
-                            {
-                                "url": "/filmes/planeta-dos-macacos-o-reinado/",
-                                "title": "Planeta dos Macacos: O Reinado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/hellboy-e-o-homem-torto/",
-                    "title": "Hellboy e o Homem Torto",
-                    "description": "Hellboy se une a um agente novato da B.P.D.P. na década de 1950 e são enviados para os Apalaches. Lá, descobrem uma remota e assombrada comunidade, dominada por bruxas e liderada pelo sinistro demônio local, conhecido como O Homem Torto. À medida que exploram os mistérios sombrios deste lugar isolado, Hellboy confronta segredos enterrados de seu próprio passado, levando-o a uma batalha épica contra forças malignas que ameaçam desencadear o caos sobre o mundo.\n\nTítulo Original: Hellboy: The Crooked Man",
-                    "genre": "Ação, Aventura, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/mbZBaaPF7szgYfCPhyild6R0lXM.jpg",
+                    "url": "/filmes/nao-fale-o-mal/",
+                    "title": "Não Fale o Mal",
+                    "description": "Quando uma família americana é convidada a passar o fim de semana na idílica casa de campo de uma charmosa família britânica, com quem fizeram amizade nas férias, o que começa como um feriado dos sonhos logo se transforma em um assustador e paralisante pesadelo psicológico.\n\nTítulo Original: Speak No Evil",
+                    "genre": "Terror, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/tjj473rnrNzPwWgLFNF0gsPXmU.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/hellboy-e-o-homem-torto/",
+                        "url": "/filmes/nao-fale-o-mal/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

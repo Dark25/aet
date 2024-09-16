@@ -217,6 +217,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/play/tutor-hitman-reborn-ita.O0EQm/4diGAj",
+                                "title": "Tutor Hitman Reborn! (ITA)",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/UL4hy.png"
+                            },
+                            {
+                                "url": "/play/yami-shibai-13.RQjC0/QQFQ0J",
+                                "title": "Yami Shibai 13",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/RQjC0.png"
+                            },
+                            {
                                 "url": "/play/a-journey-through-another-world-raising-kids-while-adventuring.dOLbl/GoEOlh",
                                 "title": "A Journey Through Another World: Raising Kids While Adventuring",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/dOLbl.jpg"
@@ -405,16 +415,6 @@
                                 "url": "/play/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells.xcrPe/FvCY1-",
                                 "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/xcrPe.png"
-                            },
-                            {
-                                "url": "/play/rail-romanesque-2.55t6yA/fs4ubU",
-                                "title": "Rail Romanesque 2",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/55t6yA.jpg"
-                            },
-                            {
-                                "url": "/play/the-cafe-terrace-and-its-goddesses-2.vn8uq/fX20y8",
-                                "title": "The Café Terrace and Its Goddesses 2",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/vn8uq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -662,24 +662,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=qD8lKBwjpGCzxMp&expires=1726493673&ip=F0qQKRWADS9XKxR&token=0nu2U3vC84ek",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=qD8lKBwjpGCzxMp&expires=1726493673&ip=F0qQKRWADS9XKxR&token=0nu2U3vC84ek"
-                    },
-                    {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06896/zj0etwt15rub_x/index-v1.m3u8?t=yu_XJQZWu05jCYs6n87BqXb5ia8UGH9lqFc3wSfo4vU&s=1726423672&e=10800&f=34481491&srv=36&asn=8075&sp=5500",
-                        "quality": "FileMoon - 720p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06896/zj0etwt15rub_x/index-v1.m3u8?t=yu_XJQZWu05jCYs6n87BqXb5ia8UGH9lqFc3wSfo4vU&s=1726423672&e=10800&f=34481491&srv=36&asn=8075&sp=5500",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

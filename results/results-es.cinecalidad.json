@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/este-cuerpo-no-es-mio/",
+                                "title": "Este cuerpo no es mío",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/el-bazar-de-las-sorpresas/",
+                                "title": "El bazar de las sorpresas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//ylExFY65lH1WIg7KQrTa8Zqz6nc.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/barbie-y-el-castillo-de-diamantes/",
+                                "title": "Barbie y el castillo de diamantes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//o3nwrE8OjpOufeu42JbHcW8l4zO.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/emily-en-paris/",
                                 "title": "Emily en París",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//sOaaIWWRXbI1wQpedwrKFqxGBFP.jpg"
@@ -50,21 +65,6 @@
                                 "url": "/ver-serie/fallout/",
                                 "title": "Fallout",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//uNctKf62RRL8RKPTrdyFrcttwT2.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/lego-pixar-animaventuras/",
-                                "title": "LEGO Pixar: Animaventuras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//1GuDv1ZnFuVK9kRcgWuWsz45UEl.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/peter-pan/",
-                                "title": "Peter Pan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//tDvGRWSdqT31ADijJf9OhbTbQ77.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/reyes-de-la-calle/",
-                                "title": "Reyes de la calle",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/emily-en-paris/",
-                    "artist": "Ashley Park",
-                    "author": "Darren Star",
-                    "description": "Emily, una estadounidense de veintitantos años del Medio Oeste, se muda a París para una oportunidad de trabajo inesperada, encargada de llevar el punto de vista estadounidense a una venerable empresa de marketing francesa. Las culturas chocan mientras se adapta a los desafíos de la vida en una ciudad extranjera, al tiempo que hace malabarismos con su carrera, sus nuevas amistades y su vida amorosa.   ",
-                    "genre": "Comedia, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//sOaaIWWRXbI1wQpedwrKFqxGBFP.jpg",
+                    "url": "/ver-pelicula/este-cuerpo-no-es-mio/",
+                    "artist": "Adam Sandler",
+                    "description": "Una joven adolescente, muy popular y atractiva pero mala, se despierta un día dentro del cuerpo de un hombre. Mientras intenta descubrir qué ha pasado y cómo volver a su estado anterior, se da cuenta entonces de lo cruel y maligna que ha sido con los demás hasta ese momento.   ",
+                    "genre": "Comedia, Fantasía",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,14 +211,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/emily-en-paris-4x10/",
-                        "name": "T4 - E10 - Episodio 10",
-                        "episode_number": 20.0
-                    },
-                    {
-                        "url": "/ver-el-episodio/emily-en-paris-4x9/",
-                        "name": "T4 - E9 - Episodio 9",
-                        "episode_number": 19.0
+                        "url": "/ver-pelicula/este-cuerpo-no-es-mio/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -227,40 +221,39 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-s5fznqahflhzybme.voe-network.net/engine/hls2-c/01/12209/kza9vrlulgso_,n,.urlset/index-v1-a1.m3u8?t=SqdL6mriZ5dyceGLU-CbfdJEgESBozi9iIgGy_fEda8&s=1726423633&e=14400&f=61047135&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-qb9nhliz6o6vxe3u.voe-network.net/engine/hls2-c/01/12214/jca9qysaegxn_,n,.urlset/index-v1-a1.m3u8?t=LUUMPRAgo_cj1Qa-kWTA5duN32TrOBDnrX1l-C3A5GM&s=1726445842&e=14400&f=61073815&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=74.249&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-s5fznqahflhzybme.voe-network.net/engine/hls2-c/01/12209/kza9vrlulgso_,n,.urlset/index-v1-a1.m3u8?t=SqdL6mriZ5dyceGLU-CbfdJEgESBozi9iIgGy_fEda8&s=1726423633&e=14400&f=61047135&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-qb9nhliz6o6vxe3u.voe-network.net/engine/hls2-c/01/12214/jca9qysaegxn_,n,.urlset/index-v1-a1.m3u8?t=LUUMPRAgo_cj1Qa-kWTA5duN32TrOBDnrX1l-C3A5GM&s=1726445842&e=14400&f=61073815&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=74.249&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06893/n0ed7kf8r1jt_h/index-v1.m3u8?t=P2pLyK6b2CJFF5d_jRvvmIkthBDZzE5pkyB6Y6sHh0M&s=1726423632&e=10800&f=34465017&srv=33&asn=8075&sp=4000",
-                        "quality": "Filemoon:1080p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06893/n0ed7kf8r1jt_h/index-v1.m3u8?t=P2pLyK6b2CJFF5d_jRvvmIkthBDZzE5pkyB6Y6sHh0M&s=1726423632&e=10800&f=34465017&srv=33&asn=8075&sp=4000",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    },
-                    {
-                        "url": "https://apq5wfuf.cdn-jupiter.com/hls2/01/04909/37otcxh1r3y9_n/index-v1-a1.m3u8?t=qK_Zavv1EsCrRL2e_X0_v4nZCy2PjCfdncgX2KIbKTQ&s=1726423630&e=129600&f=24545786&srv=58w9twdqed1w&i=0.4&sp=500&p1=58w9twdqed1w&p2=58w9twdqed1w&asn=8075",
+                        "url": "https://gkllewwci2jz.cdn-jupiter.com/hls2/01/04916/pvgm87jehhlo_n/index-v1-a2.m3u8?t=xUXlWQVtYMJzKVA4nReT-Gp0GoIdg3pMktshY_fv1Mc&s=1726445838&e=129600&f=24580188&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://apq5wfuf.cdn-jupiter.com/hls2/01/04909/37otcxh1r3y9_n/index-v1-a1.m3u8?t=qK_Zavv1EsCrRL2e_X0_v4nZCy2PjCfdncgX2KIbKTQ&s=1726423630&e=129600&f=24545786&srv=58w9twdqed1w&i=0.4&sp=500&p1=58w9twdqed1w&p2=58w9twdqed1w&asn=8075",
+                        "videoUrl": "https://gkllewwci2jz.cdn-jupiter.com/hls2/01/04916/pvgm87jehhlo_n/index-v1-a2.m3u8?t=xUXlWQVtYMJzKVA4nReT-Gp0GoIdg3pMktshY_fv1Mc&s=1726445838&e=129600&f=24580188&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/37otcxh1r3y9"
+                            "Referer": "https://playerwish.com/e/pvgm87jehhlo"
                         }
                     },
                     {
-                        "url": "https://s2.goodstream.uno/0bb372c463dc0192?download_token=3524f84ca4b40a346e7552f83d5df294d1275af1911a13d2c3946bfc5d65f078",
+                        "url": "https://s2.goodstream.uno/9bb1377a7e6814dc?download_token=ba83940e476d8e5d26436ccbbbc110cd45b4817cd2299d92be8f68fb62ce56c5",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s2.goodstream.uno/0bb372c463dc0192?download_token=3524f84ca4b40a346e7552f83d5df294d1275af1911a13d2c3946bfc5d65f078",
+                        "videoUrl": "https://s2.goodstream.uno/9bb1377a7e6814dc?download_token=ba83940e476d8e5d26436ccbbbc110cd45b4817cd2299d92be8f68fb62ce56c5",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    },
+                    {
+                        "url": "https://ee317r.cloudatacdn.com/u5kj6nr3n3clsdgge5fowmqylhnb6acano7hhpset4o7av7vmeampki7xu6q/pamlanjuvh~iwPOrD03Ox?token=ek4rqb1x0nov5lxwuzsaz00v&expiry=1726445840051",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://ee317r.cloudatacdn.com/u5kj6nr3n3clsdgge5fowmqylhnb6acano7hhpset4o7av7vmeampki7xu6q/pamlanjuvh~iwPOrD03Ox?token=ek4rqb1x0nov5lxwuzsaz00v&expiry=1726445840051",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.to/"
                         }
                     }
                 ],

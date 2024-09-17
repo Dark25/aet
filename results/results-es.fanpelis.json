@@ -3,7 +3,7 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: browser@c23598b16b931abc697db406cf496c58",
                 "passed": false
             },
             "search": {

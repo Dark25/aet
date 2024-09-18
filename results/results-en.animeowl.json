@@ -3,11 +3,11 @@
         "name": "AnimeOwl (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
                 "passed": false
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {

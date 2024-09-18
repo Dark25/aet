@@ -7,16 +7,22 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/ama-gloria/",
+                                "title": "Àma Gloria",
+                                "description": "Cléo, de seis años, quiere a su niñera Gloria más que nada en el mundo. Cuando Gloria tiene que ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/hkroqos9Fp1fs0ZxnXw7s3TW2H.webp"
+                            },
+                            {
                                 "url": "/pelicula/los-feos/",
                                 "title": "Los feos",
                                 "description": "En una sociedad futurista, una adolescente a la espera de una operación estética obligatoria se pr...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/sIizV20cIFYCo91q0IpAGrgo4hXUO6M7FUwqMntlTh.webp"
                             },
                             {
-                                "url": "/pelicula/ama-gloria/",
-                                "title": "Àma Gloria",
-                                "description": "Cléo, de seis años, quiere a su niñera Gloria más que nada en el mundo. Cuando Gloria tiene que ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/hkroqos9Fp1fs0ZxnXw7s3TW2H.webp"
+                                "url": "/pelicula/diabolica/",
+                                "title": "Diabólica",
+                                "description": "La familia de Curtis es seleccionada para probar un nuevo dispositivo para el hogar: un asistente di...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/jPxPsUobgFI67o7aTUCNwSkH.webp"
                             },
                             {
                                 "url": "/pelicula/jugando-con-fuego/",
@@ -239,12 +245,6 @@
                                 "title": "El asesino de mi hija",
                                 "description": "Tras luchar durante décadas para llevar al asesino de su hija ante la justicia en Francia y Alemani...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/UvvL9orgf6c2Ro2sgsJTKiKgjG2J1HAL2Vn1aE7fA.webp"
-                            },
-                            {
-                                "url": "/pelicula/a-fondo/",
-                                "title": "A fondo",
-                                "description": "Un soldado expulsado de forma disciplinaria recurre a su padre ausente para que lo ayude a cumplir s...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/VLH7C7OyYQYmSfK1Ujykgh8ST.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/los-feos/",
-                    "title": "Los feos",
-                    "description": "En una sociedad futurista, una adolescente a la espera de una operación estética obligatoria se propone encontrar a su amiga desaparecida.",
-                    "genre": "Aventura, C. Ficción, Drama",
+                    "url": "/pelicula/ama-gloria/",
+                    "title": "Àma Gloria",
+                    "description": "Cléo, de seis años, quiere a su niñera Gloria más que nada en el mundo. Cuando Gloria tiene que volver a Cabo Verde a cuidar de sus propios niños, ambas deben sacar el máximo partido de su último verano juntas.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/los-feos/",
+                        "url": "/pelicula/ama-gloria/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -560,7 +560,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

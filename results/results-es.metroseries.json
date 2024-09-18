@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/como-cazar-a-un-monstruo/",
+                                "title": "Cómo cazar a un monstruo",
+                                "description": "Lluís Gros, condenado a 23 años de prisión por abusos sexuales, pide al youtuber y cineasta Carles Tamayo un documental de su vida para limpiar su imagen tras su condena. Carles accede pensando que Gros pedirá perdón, pero al ver que no es su intención y que sigue en libertad, trata de averiguar por qué […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2WyfJKQaXYrxhE6Pte9SceDPoWv.jpg"
+                            },
+                            {
                                 "url": "/o11ce/",
                                 "title": "O11CE",
                                 "description": "La serie gira en torno a Gabo, un adolescente amante del fútbol que, al recibir una beca del prestigioso Instituto Académico Deportivo (IAD) de Buenos Aires, verá cumplido su sueño de jugar en Los Halcones Dorados, el reconocido equipo amateur del colegio, y también su anhelo de convertirse en futbolista profesional. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/5LrinAZErFMTM08Zd2zI537bRZq.jpg"
                             },
                             {
-                                "url": "/the-middle-2/",
-                                "title": "The Middle",
-                                "description": "La de Frankie Heck es una familia de libro: tiene un hijo adolescente que se pasa el día en su cuarto y cuando se pasea lo hace sin camiseta ni pantalones; una hija que es un desastre en casi todo lo que intenta; y otro chico, el pequeño, que repite las últimas palabras en susurros […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/QdCyzFDoa6sUs6zqjvIdTHZ8Go.jpg"
-                            },
-                            {
-                                "url": "/beso-travieso-amor-en-tokyo/",
-                                "title": "Beso Travieso: Amor en Tokyo",
+                                "url": "/steeltown-murders/",
+                                "title": "Steeltown Murders",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/berlizeu5IcIAm5H5NDfOIcnXr8.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rKxOd9Fi5XMm0N7TUV9qqYLx6nR.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
                             },
                             {
-                                "url": "/ventino-el-precio-de-la-gloria/",
-                                "title": "Ventino, el precio de la gloria",
+                                "url": "/aranyak/",
+                                "title": "Aranyak",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2aJEMpreJJ7jK21NuM16q2c6c22.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sxlX5ABaHLxkjwKks1Sxmj1Cu41.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,69 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/o11ce/",
-                    "title": "O11CE",
-                    "description": "La serie gira en torno a Gabo, un adolescente amante del fútbol que, al recibir una beca del prestigioso Instituto Académico Deportivo (IAD) de Buenos Aires, verá cumplido su sueño de jugar en Los Halcones Dorados, el reconocido equipo amateur del colegio, y también su anhelo de convertirse en futbolista profesional.",
-                    "genre": "Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zbVwpFNma4RV7HkIVT3aOUmGUJf.jpg",
+                    "url": "/como-cazar-a-un-monstruo/",
+                    "title": "Cómo cazar a un monstruo",
+                    "description": "Lluís Gros, condenado a 23 años de prisión por abusos sexuales, pide al youtuber y cineasta Carles Tamayo un documental de su vida para limpiar su imagen tras su condena. Carles accede pensando que Gros pedirá perdón, pero al ver que no es su intención y que sigue en libertad, trata de averiguar por qué sigue impune. Tras meses de seguimiento y una exhaustiva investigación, Carles descubre muchos otros crímenes de Gros que lo motivan a luchar para que se haga justicia. Es la historia de cómo el ego de un criminal acaba siendo su perdición y de la lucha de Carles Tamayo en busca de justicia.",
+                    "genre": "Crimen, Documental, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2WyfJKQaXYrxhE6Pte9SceDPoWv.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/o11ce-temporada-2-capitulo-40/",
-                        "name": "T02 - E40 - Episodio 40",
-                        "date_upload": 1542326400000,
-                        "episode_number": 40.0
-                    },
-                    {
-                        "url": "/episode/o11ce-temporada-2-capitulo-39/",
-                        "name": "T02 - E39 - Episodio 39",
-                        "date_upload": 1542240000000,
-                        "episode_number": 39.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s39.fastream.to/hls2/17/00069/exrcudbdk0fb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=PCEuqLAQkGnVVkkKbxwIVxYOKm2wIbCLnol_-RY2Lt8&s=1726661267&e=43200&f=347182&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/17/00069/exrcudbdk0fb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=PCEuqLAQkGnVVkkKbxwIVxYOKm2wIbCLnol_-RY2Lt8&s=1726661267&e=43200&f=347182&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/17/00069/exrcudbdk0fb_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=PCEuqLAQkGnVVkkKbxwIVxYOKm2wIbCLnol_-RY2Lt8&s=1726661267&e=43200&f=347182&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/17/00069/exrcudbdk0fb_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=PCEuqLAQkGnVVkkKbxwIVxYOKm2wIbCLnol_-RY2Lt8&s=1726661267&e=43200&f=347182&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/17/00069/exrcudbdk0fb_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=PCEuqLAQkGnVVkkKbxwIVxYOKm2wIbCLnol_-RY2Lt8&s=1726661267&e=43200&f=347182&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/17/00069/exrcudbdk0fb_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=PCEuqLAQkGnVVkkKbxwIVxYOKm2wIbCLnol_-RY2Lt8&s=1726661267&e=43200&f=347182&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

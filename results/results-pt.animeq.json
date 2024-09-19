@@ -3,7 +3,7 @@
         "name": "AnimeQ (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
@@ -52,7 +52,7 @@
                             },
                             {
                                 "url": "/171138/",
-                                "title": "Shikanoko Nokonoko Koshitantan Episódio 12",
+                                "title": "Shikanoko Nokonoko Koshitantan Episódio 12 – Final",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shikanoko-Nokonoko-Koshitantan-Episodios.jpg"
                             },
                             {
@@ -62,7 +62,7 @@
                             },
                             {
                                 "url": "/171133/",
-                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Episódio 12",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Episódio 12 – Final",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tokidoki-Bosotto-Russia-go-de-Dereru-Tonari-no-Alya-san-Episodios.jpg"
                             },
                             {
@@ -83,7 +83,7 @@
                             {
                                 "url": "/171125/",
                                 "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf Episódio 24",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ookami-to-Koushinryou-Merchant-Meets-the-Wise-Wolf-Episodios.jpg.webp"
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ookami-to-Koushinryou-Merchant-Meets-the-Wise-Wolf-Episodios.jpg"
                             },
                             {
                                 "url": "/171122/",
@@ -132,8 +132,74 @@
                 "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/170104/",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup –  Todos os Episodios",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/142549/",
+                                "title": "The World of the Married",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dorama-The-World-of-the-Married-Completo.jpg"
+                            },
+                            {
+                                "url": "/123374/",
+                                "title": "Dr. Stone: New World Part 2 Dublado",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/98979/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/87563/",
+                                "title": "Dr. Stone: New World Dublado",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr.-Stone-New-World-Dublado.jpg"
+                            },
+                            {
+                                "url": "/86837/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Dai-Star-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/86664/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Terceira-temporada-de-Dr.-Stone-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/66230/",
+                                "title": "World Trigger 3",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-3a-Temporada.jpg"
+                            },
+                            {
+                                "url": "/52418/",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World_Witches_Hasshin_Shimasu_promo_poster.jpg"
+                            },
+                            {
+                                "url": "/51536/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg"
+                            },
+                            {
+                                "url": "/51363/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Hetalia-World-Stars.jpg"
+                            },
+                            {
+                                "url": "/47644/",
+                                "title": "World Trigger 2",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-2.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {

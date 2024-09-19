@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/5LrinAZErFMTM08Zd2zI537bRZq.jpg"
                             },
                             {
-                                "url": "/steeltown-murders/",
-                                "title": "Steeltown Murders",
+                                "url": "/dave/",
+                                "title": "Dave",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rKxOd9Fi5XMm0N7TUV9qqYLx6nR.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/03/aV8n5PeD53Hoqyv6V4nlc3rvNjT-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
                             },
                             {
-                                "url": "/aranyak/",
-                                "title": "Aranyak",
+                                "url": "/the-secrets-she-keeps/",
+                                "title": "The Secrets She Keeps",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sxlX5ABaHLxkjwKks1Sxmj1Cu41.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3IqfC1nJJTfOBhKv23qreRwMifG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,48 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/como-cazar-a-un-monstruo-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Una gran evasión",
+                        "date_upload": 1725580800000,
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episode/como-cazar-a-un-monstruo-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Mala educación",
+                        "date_upload": 1725580800000,
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/14/00069/2g7svpolyun7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=u35U8omftVjcqyXpCbk1HfvI05vQkL644IGJqjdON5I&s=1726704990&e=43200&f=348457&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/14/00069/2g7svpolyun7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=u35U8omftVjcqyXpCbk1HfvI05vQkL644IGJqjdON5I&s=1726704990&e=43200&f=348457&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/14/00069/2g7svpolyun7_,l,n,.urlset/index-f1-v1-a1.m3u8?t=u35U8omftVjcqyXpCbk1HfvI05vQkL644IGJqjdON5I&s=1726704990&e=43200&f=348457&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/14/00069/2g7svpolyun7_,l,n,.urlset/index-f1-v1-a1.m3u8?t=u35U8omftVjcqyXpCbk1HfvI05vQkL644IGJqjdON5I&s=1726704990&e=43200&f=348457&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

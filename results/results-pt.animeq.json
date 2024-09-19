@@ -3,39 +3,8 @@
         "name": "AnimeQ (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/39025/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://i.imgur.com/mBtOHxm.jpeg"
-                            },
-                            {
-                                "url": "/137468/",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://i.imgur.com/p296t6y.jpeg"
-                            },
-                            {
-                                "url": "/148363/",
-                                "title": "Ninja Kamui",
-                                "thumbnail_url": "https://i.imgur.com/beHrSuh.jpeg"
-                            },
-                            {
-                                "url": "/137512/",
-                                "title": "Mashle 2",
-                                "thumbnail_url": "https://i.imgur.com/fHRoCZp.jpeg"
-                            },
-                            {
-                                "url": "/42480/",
-                                "title": "Naruto Shippuden",
-                                "thumbnail_url": "https://i.imgur.com/OUdeKsV.jpeg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -60,6 +29,26 @@
                                 "url": "/170387/",
                                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Episódio 01",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/ReZero-kara-Hajimeru-Isekai-Seikatsu-3-Episodio-01-jpg.webp"
+                            },
+                            {
+                                "url": "/171149/",
+                                "title": "Yeosin Gangnim Episódio 07",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Yeosin-Gangnim-Episodios.jpg"
+                            },
+                            {
+                                "url": "/171146/",
+                                "title": "Murai no Koi Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Murai-no-Koi-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/171143/",
+                                "title": "Oshi no Ko 2 Episódio 11",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Oshi-no-Ko-2-Episodios.jpg"
+                            },
+                            {
+                                "url": "/171141/",
+                                "title": "Sengoku Youko Senma Konton-hen Episodio 10",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Sengoku-Youko-Senma-Konton-hen-AnimeQ-1.jpg"
                             },
                             {
                                 "url": "/171138/",
@@ -94,7 +83,7 @@
                             {
                                 "url": "/171125/",
                                 "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf Episódio 24",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ookami-to-Koushinryou-Merchant-Meets-the-Wise-Wolf-Episodios.jpg"
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ookami-to-Koushinryou-Merchant-Meets-the-Wise-Wolf-Episodios.jpg.webp"
                             },
                             {
                                 "url": "/171122/",
@@ -135,21 +124,6 @@
                                 "url": "/171101/",
                                 "title": "Tsue to Tsurugi no Wistoria Episódio 10",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tsue-to-Tsurugi-no-Wistoria-Episodios.jpg"
-                            },
-                            {
-                                "url": "/171098/",
-                                "title": "The Fable Episódio 23",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/The-Fable-Episodios.jpg"
-                            },
-                            {
-                                "url": "/171094/",
-                                "title": "Tower of God 2 Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tower-of-God-2-Episodio-10-jpg.webp"
-                            },
-                            {
-                                "url": "/171095/",
-                                "title": "Shoushimin Series Episódio 10",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shoushimin-Series-Episodios.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -158,84 +132,20 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/170104/",
-                                "title": "Shin Tennis no Oujisama: U-17 World Cup –  Todos os Episodios",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/142549/",
-                                "title": "The World of the Married",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dorama-The-World-of-the-Married-Completo.jpg"
-                            },
-                            {
-                                "url": "/123374/",
-                                "title": "Dr. Stone: New World Part 2 Dublado",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/98979/",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/87563/",
-                                "title": "Dr. Stone: New World Dublado",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr.-Stone-New-World-Dublado.jpg"
-                            },
-                            {
-                                "url": "/86837/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Dai-Star-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/86664/",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Terceira-temporada-de-Dr.-Stone-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/66230/",
-                                "title": "World Trigger 3",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-3a-Temporada.jpg"
-                            },
-                            {
-                                "url": "/52418/",
-                                "title": "World Witches Hasshin Shimasu!",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World_Witches_Hasshin_Shimasu_promo_poster.jpg"
-                            },
-                            {
-                                "url": "/51536/",
-                                "title": "SD Gundam World Heroes",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg"
-                            },
-                            {
-                                "url": "/51363/",
-                                "title": "Hetalia World Stars",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Hetalia-World-Stars.jpg"
-                            },
-                            {
-                                "url": "/47644/",
-                                "title": "World Trigger 2",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-2.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/39025/",
-                    "title": "One Piece",
-                    "artist": "Toei Animation",
-                    "author": "Eiichiro Oda",
-                    "description": "Quando Gol D. Roger, o rei dos piratas, declara que seu tesouro escondido, o 'One Piece', será de quem conseguir achá-lo, começa a era dos piratas. Vários bandos e novos piratas perigosos surgem e organizações se formam. Em meio a toda essa confusão, está Luffy, o pequeno garoto de 17 anos que deseja ser o novo rei dos piratas.Vinte e dois anos depois da execução de Roger, o interesse em One Piece diminuiu exponencialmente. Muitos desistiram da idéia de obtê-lo por achar isso impossível e outros questionam a veracidade de sua existência.Entretanto, os piratas ainda representam uma grande ameaça para a vida dos cidadãos de diversas partes do globo e a Marinha se tornou o efetivo dispositivo de supressão ao fenômeno. Mas essa lacônica mudança não demove o espírito aventureiro dos Piratas do Chapéu de Palha, que viajam através da Grande Rota (onde o fervor da Grande Era dos Piratas ainda é forte), em busca do tesouro de Roger. Embora os Chapéus de Palha freqüentemente encontrem-se em apuros com outros piratas, eles ainda estão sofrendo com a perseguição do Governo Mundial e da Marinha, e atualmente todos os membros tem cabeça a prêmio!",
+                    "url": "/164217/",
+                    "title": "Fairy Tail: 100 Years Quest",
+                    "artist": "J.C.Staff",
+                    "author": "Hiro Mashina",
+                    "description": "A Busca dos 100 Anos e uma missão tão desafiadora e perigosa que permaneceu incompleta por mais de um século. Embora inúmeros magos tenham tentado atingir esse objetivo cansativo, seus resultados terminaram em uma derrota esmagadora ou pior. Mesmo assim, Natsu Dragneel e seus amigos Lucy Heartfilia, Gray Fullbuster, Erza Scarlet e Wendy Marvell, junto com os ex-Happy e Charlés embarcam ambiciosamente na missão. Determinados a cumprir sua missão aparentemente intransponível, Natsu e seus amigos começam sua traiçoeira busca pelos Deuses Dragões. No entanto, ao encontrar uma nova guilda sombria chamada Diabolos, junto com o mais novo recruta da Fairy Tail revelando suas verdadeiras cores, Natsu e sua equipe descobrirão que a Missão dos 100 Anos não é o único desafio que enfrentam.",
                     "genre": "animes, assistir online, baixar animes, completo, download, episodios HD, animeq",
-                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/assisitr-one-piece.jpg.webp",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/Fairy-Tail-100-nen-Quest-Todos-os-Episodios.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -243,14 +153,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/171090/",
-                        "name": "1119",
-                        "episode_number": 1119.0
+                        "url": "/171103/",
+                        "name": "11",
+                        "episode_number": 11.0
                     },
                     {
-                        "url": "/170489/",
-                        "name": "1118",
-                        "episode_number": 1118.0
+                        "url": "/170494/",
+                        "name": "10",
+                        "episode_number": 10.0
                     }
                 ],
                 "passed": true

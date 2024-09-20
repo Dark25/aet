@@ -3,26 +3,205 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/mamahaha/",
+                                "title": "Mamahaha",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/mamahaha-1-cv1-185x272.png"
+                            },
+                            {
+                                "url": "/animes/the-fable-dublado/",
+                                "title": "The Fable (Dublado)",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/the-fable-new-key-visual-v0-IoiXfchLpMUnJUJfnapDrSfehdzv139kG_V5o5Y_NbU-185x262.webp"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/no-love-zone/",
+                                "title": "No Love Zone",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/zdRw9qFgAtEt1sFqU9ML90jOKmt-185x262.jpg"
+                            },
+                            {
+                                "url": "/animes/yeosin-gangnim/",
+                                "title": "Yeosin Gangnim",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/9gpc8kIhNEG7r0VTkyI9aVBxdO3-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/delicos-nursery/",
+                                "title": "Delico’s Nursery",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/gtJ7jnoRE0a7SUvqB8vakdqKZuN-185x261.jpg"
+                            },
+                            {
+                                "url": "/animes/succubus-connect/",
+                                "title": "Succubus Connect!",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/succubus-connect-2-cv1-185x272.png"
+                            },
+                            {
+                                "url": "/animes/yoasobi-gurashi/",
+                                "title": "Yoasobi Gurashi!",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/Yoasobi-Gurashi-Sin-Censura-Sub-Espanol-1-185x261.jpg"
+                            },
+                            {
+                                "url": "/animes/himawari-wa-yoru-ni-saku/",
+                                "title": "Himawari wa Yoru ni Saku",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/himawari-wa-yoru-ni-saku-hentai-online-185x261.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/the-fable-dublado-episodio-1/",
+                                "title": "The Fable (Dublado) Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/1-15-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/tower-of-god-season-2-dublado-episodio-5/",
+                                "title": "Tower of God Season 2 (Dublado) Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/5-40-300x149.png"
+                            },
+                            {
+                                "url": "/episodios/tower-of-god-season-2-dublado-episodio-4/",
+                                "title": "Tower of God Season 2 (Dublado) Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/4-23-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/tower-of-god-season-2-dublado-episodio-3/",
+                                "title": "Tower of God Season 2 (Dublado) Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/3-11-300x151.png"
+                            },
+                            {
+                                "url": "/episodios/tsue-to-tsurugi-no-wistoria-dublado-episodio-4/",
+                                "title": "Tsue to Tsurugi no Wistoria (Dublado) Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/4-22-300x151.png"
+                            },
+                            {
+                                "url": "/episodios/tsue-to-tsurugi-no-wistoria-dublado-episodio-3/",
+                                "title": "Tsue to Tsurugi no Wistoria (Dublado) Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/3-12-300x149.png"
+                            },
+                            {
+                                "url": "/episodios/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dublado-episodio-9/",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu (Dublado) Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/9-10-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-dublado-episodio-5/",
+                                "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta (Dublado) Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/5-39-300x151.png"
+                            },
+                            {
+                                "url": "/episodios/oshi-no-ko-2-episodio-9/",
+                                "title": "Oshi no Ko 2 Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/9-9-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/delicos-nursery-episodio-4/",
+                                "title": "Delico’s Nursery Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/4-21-300x151.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/10/xoRwMPvORrZKqAvWKA0wm7vR250-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
+                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/mamahaha/",
+                    "title": "Mamahaha",
+                    "genre": "+18, Anal, Boob Job, Boquete, Creampie, Facial, Harém, Milf, Orgia, Peitos Grandes, Sem Censura",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/08/mamahaha-1-cv1-185x272.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
-                        "name": "Filme",
+                        "url": "/episodios/mamahaha-episodio-2/",
+                        "name": "Temporada 1 x Episódio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episodios/mamahaha-episodio-1/",
+                        "name": "Temporada 1 x Episódio 1",
                         "episode_number": 1.0
                     }
                 ],

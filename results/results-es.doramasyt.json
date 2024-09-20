@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/the-one-and-only-sub-espanol",
+                                "title": "The One and Only",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-one-and-only-1726850180.webp?v=1.5"
+                            },
+                            {
                                 "url": "/dorama/oh-my-boss-sub-espanol",
                                 "title": "Oh My Boss",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/oh-my-boss-1726833454.webp?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/dorama/la-sonrisa-se-ha-ido-de-tus-ojos-latino-sub-espanol",
                                 "title": "La Sonrisa Se Ha Ido De Tus Ojos Latino",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/la-sonrisa-se-ha-ido-de-tus-ojos-latino-1725806936.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/frankly-speaking-sub-espanol",
-                                "title": "Frankly Speaking",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/frankly-speaking-1725781598.webp?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -166,6 +166,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/dorama/the-one-and-only-sub-espanol",
+                                "title": "The One and Only",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-one-and-only-1726850180.webp?v=1.5"
+                            },
                             {
                                 "url": "/dorama/oh-my-boss-sub-espanol",
                                 "title": "Oh My Boss",
@@ -310,11 +315,6 @@
                                 "url": "/dorama/link-eat-love-die-sub-espanol",
                                 "title": "Link: Eat, Love, Die",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/link-eat-love-die-1694034920.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/you-are-desire-sub-espanol",
-                                "title": "You Are Desire",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/you-are-desire-1693704190.webp?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -404,24 +404,92 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/oh-my-boss-sub-espanol",
-                    "title": "Oh My Boss",
-                    "description": "Noomnim finalmente consigue un trabajo sólido cuando decide pasar una noche divertida con su amiga para celebrar. En el bar, conoce a un apuesto extraño y pasa una hermosa noche con él. Sin embargo, ¡ese extraño resultó ser su nuevo jefe! Por suerte para ella, el apuesto director ejecutivo no parece recordarla. ¿O él? Cuando él nombra a Noomnim, su asistente personal, ella se pregunta si él está interesado en ella o simplemente es tan coqueto con todos.",
-                    "genre": "Romance, Comedia, Drama, Thai-Drama, Negocios",
+                    "url": "/dorama/the-one-and-only-sub-espanol",
+                    "title": "The One and Only",
+                    "description": "Pyo In Sook es una mujer obstinada y nunca escucha a otras personas, ella siempre ha sentido que no pertenece a este mundo. Pyo In Sook escucha a un médico que no le queda mucho tiempo de vida y que no sabe cómo expresar sus sentimientos hacia ella. Pyo In Sook luego se encuentra con el teniente de policía Jo Shi Young y se involucran en un caso de asesinato.",
+                    "genre": "Romance, Drama, Misterio, Melodrama, K-Drama",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/oh-my-boss-1726833454.webp?v=1.5",
+                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-one-and-only-1726850180.webp?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/the-one-and-only-episodio-16",
+                        "name": "Capítulo 16",
+                        "episode_number": 16.0
+                    },
+                    {
+                        "url": "/ver/the-one-and-only-episodio-15",
+                        "name": "Capítulo 15",
+                        "episode_number": 15.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06930/lq6t09u53af4_x/index-v1.m3u8?t=mHqgT3URyewy6axQA57fCzb4TlxdvqoN4ljlomQBV84&s=1726855555&e=10800&f=34652237&srv=09&asn=8075&sp=5500",
+                        "quality": "Filemoon:1080p",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06930/lq6t09u53af4_x/index-v1.m3u8?t=mHqgT3URyewy6axQA57fCzb4TlxdvqoN4ljlomQBV84&s=1726855555&e=10800&f=34652237&srv=09&asn=8075&sp=5500",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-zji69qs3i0nwfz5s.voe-network.net/engine/hls2/01/12255/d44oc865l919_,n,.urlset/index-v1-a1.m3u8?t=Yu4EtnO5By0R7mDeWtJ-0U8k9zr9fCvESn3QjfYKoJY&s=1726855560&e=14400&f=61275496&node=delivery-node-zji69qs3i0nwfz5s.voe-network.net&i=40.76&sp=2500&asn=8075",
+                        "quality": "Voe:1080p",
+                        "videoUrl": "https://delivery-node-zji69qs3i0nwfz5s.voe-network.net/engine/hls2/01/12255/d44oc865l919_,n,.urlset/index-v1-a1.m3u8?t=Yu4EtnO5By0R7mDeWtJ-0U8k9zr9fCvESn3QjfYKoJY&s=1726855560&e=14400&f=61275496&node=delivery-node-zji69qs3i0nwfz5s.voe-network.net&i=40.76&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://ojwnnfazedbz.cdn-jupiter.com/hls2/01/04954/tueslcfyuc49_o/index-v1-a1.m3u8?t=cqnR-BX3MitfTelaQ9CSnazrUzTnwtb9jZL4TWSjsX8&s=1726855557&e=129600&f=24774580&srv=gZIpe0ZfERoe&i=0.4&sp=500&p1=gZIpe0ZfERoe&p2=gZIpe0ZfERoe&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://ojwnnfazedbz.cdn-jupiter.com/hls2/01/04954/tueslcfyuc49_o/index-v1-a1.m3u8?t=cqnR-BX3MitfTelaQ9CSnazrUzTnwtb9jZL4TWSjsX8&s=1726855557&e=129600&f=24774580&srv=gZIpe0ZfERoe&i=0.4&sp=500&p1=gZIpe0ZfERoe&p2=gZIpe0ZfERoe&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/tueslcfyuc49"
+                        }
+                    },
+                    {
+                        "url": "https://ss10.silkanu.cc/data/4/66edb4f9e2236/hls480/66edb4f9e2236480.m3u8",
+                        "quality": " - Streamsilk: 480p",
+                        "videoUrl": "https://ss10.silkanu.cc/data/4/66edb4f9e2236/hls480/66edb4f9e2236480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamsilk.com",
+                            "Referer": "https://streamsilk.com/p/66edb4f9e2236"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery33.mxcontent.net/v2/1nde7mposqol44.mp4?s=KF5qVB26z4OldqO3B5xTYQ&e=1726877159&_t=1726863219",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery33.mxcontent.net/v2/1nde7mposqol44.mp4?s=KF5qVB26z4OldqO3B5xTYQ&e=1726877159&_t=1726863219",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://en2.uqload.ws/3rfk44nt4nw2q4drdku7vjpxbiicefiswf63avyev7pvl3oq6ycs73ogikaq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://en2.uqload.ws/3rfk44nt4nw2q4drdku7vjpxbiicefiswf63avyev7pvl3oq6ycs73ogikaq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

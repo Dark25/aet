@@ -3,23 +3,23 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {

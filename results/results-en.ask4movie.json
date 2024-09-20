@@ -3,23 +3,23 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname ask4movie.li not verified:\n    certificate: sha256/8KSDztorAFOoFtA3iuWlEpAoJy3Atpg4bno+erX+s+g=\n    DN: CN=defaultcontent.com\n    subjectAltNames: [defaultcontent.com]",
                 "passed": false
             },
             "videos": {

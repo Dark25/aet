@@ -3,27 +3,27 @@
         "name": "LuciferDonghua (EN)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname luciferdonghua.in not verified:\n    certificate: sha256/mjduAFC4Rwit51DJx0SdMy/Byb6vCacCF2z6afSLMcM=\n    DN: CN=with.vlfiredist.shop\n    subjectAltNames: [with.vlfiredist.shop]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname luciferdonghua.in not verified:\n    certificate: sha256/mjduAFC4Rwit51DJx0SdMy/Byb6vCacCF2z6afSLMcM=\n    DN: CN=with.vlfiredist.shop\n    subjectAltNames: [with.vlfiredist.shop]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname luciferdonghua.in not verified:\n    certificate: sha256/mjduAFC4Rwit51DJx0SdMy/Byb6vCacCF2z6afSLMcM=\n    DN: CN=with.vlfiredist.shop\n    subjectAltNames: [with.vlfiredist.shop]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname luciferdonghua.in not verified:\n    certificate: sha256/mjduAFC4Rwit51DJx0SdMy/Byb6vCacCF2z6afSLMcM=\n    DN: CN=with.vlfiredist.shop\n    subjectAltNames: [with.vlfiredist.shop]",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname luciferdonghua.in not verified:\n    certificate: sha256/mjduAFC4Rwit51DJx0SdMy/Byb6vCacCF2z6afSLMcM=\n    DN: CN=with.vlfiredist.shop\n    subjectAltNames: [with.vlfiredist.shop]",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname luciferdonghua.in not verified:\n    certificate: sha256/mjduAFC4Rwit51DJx0SdMy/Byb6vCacCF2z6afSLMcM=\n    DN: CN=with.vlfiredist.shop\n    subjectAltNames: [with.vlfiredist.shop]",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

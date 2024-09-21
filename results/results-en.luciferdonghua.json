@@ -7,23 +7,94 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/perfect-world-movie-wanmei-shijie-juchang-ban/",
+                                "title": "Perfect World Movie [Wanmei Shijie: Juchang Ban]",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/09/perfect-world-movie-wanmei-shijie-juchang-ban-768x1235.webp"
+                            },
+                            {
+                                "url": "/anime/otherworldly-evil-monarch-2024/",
+                                "title": "Otherworldly Evil Monarch (2024)",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/01/otherworldly-evil-monarch-2024-chinese-anime-lucifer-donghua-768x1275.webp"
+                            },
+                            {
+                                "url": "/anime/leveling-up-in-a-fantasy-world/",
+                                "title": "Leveling up in a Fantasy World",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/10/leveling-up-in-a-fantasy-world-lucifer-donghua-768x1152.webp"
+                            },
+                            {
+                                "url": "/anime/a-world-worth-protecting/",
+                                "title": "A World Worth Protecting",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/08/a-world-worth-protecting-lucifer-donghua.webp"
+                            },
+                            {
+                                "url": "/anime/ten-thousand-worlds-season-2/",
+                                "title": "Ten Thousand Worlds Season 2",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/08/ten-thousand-worlds-season-2-lucifer-donghua-768x1078.webp"
+                            },
+                            {
+                                "url": "/anime/my-journey-in-an-alternate-world/",
+                                "title": "My Journey In An Alternate World",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/01/my-journey-in-an-alternate-world-LUCIFER-DONGHUA.webp"
+                            },
+                            {
+                                "url": "/anime/perfect-world-wanmei-shijie/",
+                                "title": "Perfect World [Wanmei Shijie]",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/perfect-world-wanmei-shijie-lucifer-donghua-1-1.webp"
+                            },
+                            {
+                                "url": "/anime/ten-thousand-worlds/",
+                                "title": "Ten Thousand Worlds",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/ten-thousand-worlds-LUCIFER-DONGHUA-768x1077.webp"
+                            },
+                            {
+                                "url": "/anime/endless-heaven-realm-2024/",
+                                "title": "Endless Heaven Realm (2024)",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/08/endless-heaven-realm-2024-768x1024.webp"
+                            },
+                            {
+                                "url": "/anime/sword-of-coming-jian-lai-2024/",
+                                "title": "Sword of Coming (Jian Lai) [2024]",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/08/sword-of-coming-jian-lai-2024-lucifer-donghua-1.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/perfect-world-movie-part-3-lucifer-donghua/",
+                        "name": "Episode PT - 03 [END]",
+                        "date_upload": 1726272000000,
+                        "episode_number": 0.0,
+                        "scanlator": "Sub"
+                    },
+                    {
+                        "url": "/perfect-world-movie-part-2-lucifer-donghua/",
+                        "name": "Episode PT - 02",
+                        "date_upload": 1726272000000,
+                        "episode_number": 0.0,
+                        "scanlator": "Sub"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.SocketException: Connection reset",
                 "passed": false
             }
         }

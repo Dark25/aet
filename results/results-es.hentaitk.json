@@ -444,8 +444,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ss12.silkanu.cc/data/B/66ebbc2197ffb/hls1080/66ebbc2197ffb1080.m3u8",
+                        "quality": " - Streamsilk: 1080p",
+                        "videoUrl": "https://ss12.silkanu.cc/data/B/66ebbc2197ffb/hls1080/66ebbc2197ffb1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamsilk.com",
+                            "Referer": "https://streamsilk.com/p/66ebbc2197ffb"
+                        }
+                    },
+                    {
+                        "url": "https://ss12.silkanu.cc/data/B/66ebbc2197ffb/hls720/66ebbc2197ffb720.m3u8",
+                        "quality": " - Streamsilk: 720p",
+                        "videoUrl": "https://ss12.silkanu.cc/data/B/66ebbc2197ffb/hls720/66ebbc2197ffb720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamsilk.com",
+                            "Referer": "https://streamsilk.com/p/66ebbc2197ffb"
+                        }
+                    },
+                    {
+                        "url": "https://ss12.silkanu.cc/data/B/66ebbc2197ffb/hls480/66ebbc2197ffb480.m3u8",
+                        "quality": " - Streamsilk: 480p",
+                        "videoUrl": "https://ss12.silkanu.cc/data/B/66ebbc2197ffb/hls480/66ebbc2197ffb480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamsilk.com",
+                            "Referer": "https://streamsilk.com/p/66ebbc2197ffb"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

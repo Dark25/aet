@@ -42,6 +42,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/why-does-nobody-remember-me-in-this-world",
+                                "title": "Why Does Nobody Remember Me in This World?: Saison 1 Episode 11",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/uspqQPEa5fMrgJ4PT2dYjVI9aEO.jpg"
+                            },
+                            {
+                                "url": "/serie/50-nuances-de-gras",
+                                "title": "Shin Elf-San Wa Yaserarenai – 50 nuances de gras: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/uPrb1CZGoSwEXSGfPAe3QdhuRGc-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/sakuna-of-rice-and-ruin",
+                                "title": "Tensui No Sakuna-Hime – Sakuna: Of Rice and Ruin: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/vdSRcuPyfJbipV5FKHWJteAABM4-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools",
+                                "title": "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/ailE2u234lDXdFQu2W6ViJxFWGf-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/quality-assurance-in-another-world",
+                                "title": "Kono Sekai Wa Fukanzen Sugiru – Quality Assurance in Another World: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/hJYaorJ98ewMWz88cMdHWEK0yBw-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/my-hero-academia",
+                                "title": "Boku No Hero Academia – My Hero Academia: Saison 7 Episode 18",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/A8YFRm8sxLE2E07CmICTa83jQS7-1-300x170.jpg"
+                            },
+                            {
                                 "url": "/serie/2-5-dimensional-seduction",
                                 "title": "2.5 Dimensional Seduction: Saison 1 Episode 12",
                                 "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/qDC9E078FSmNSn2CTpGYXVGH5Sh.jpg"
@@ -160,36 +190,6 @@
                                 "url": "/serie/mayonaka-punch",
                                 "title": "MAYONAKA PUNCH: Saison 1 Episode 11",
                                 "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/ervL0HnRuQuUWcKgBXWPnY6Pgwn-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
-                                "title": "Shinmai Ossan Boukensha – The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible: Saison 1 Episode 11",
-                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/vJIobcNPaUmfv1lp4G3Mw1T5qsI-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/shy",
-                                "title": "SHY: Saison 2 Episode 11",
-                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/07/SHY-Saison-2-300x170.png"
-                            },
-                            {
-                                "url": "/serie/spice-and-wolf-merchant-meets-the-wise-wolf",
-                                "title": "Ookami To Koushinryou – Spice and Wolf: MERCHANT MEETS THE WISE WOLF: Saison 1 Episode 24",
-                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/zhARG7co4Ow3vDGtLR9ejSsMQyr-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/goldorak-u",
-                                "title": "Grendizer – Goldorak U: Saison 1 Episode 4",
-                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/rQN41qNFgfLQsG5B2GRlKX4FQlf-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/why-does-nobody-remember-me-in-this-world",
-                                "title": "Naze Boku No Sekai Wo Daremo Oboeteinai No Ka – Why Does Nobody Remember Me in This World?: Saison 1 Episode 10",
-                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/sLQd3dPoSjlvTU9GoiUjVfPyvqA-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/makeine-too-many-losing-heroines",
-                                "title": "Make Heroine Ga Ooisugiru – Makeine: Too Many Losing Heroines!: Saison 1 Episode 10",
-                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/RVpCq8GJMbH16OsR0bRfSVyY5N-1-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -362,7 +362,7 @@
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {

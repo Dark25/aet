@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/cuckoo",
+                                "title": "Cuckoo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qaNfJX6MT6kyRDfbH62Deazl0sD.jpg"
+                            },
+                            {
+                                "url": "/movies/la-sustancia",
+                                "title": "La Sustancia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg"
+                            },
+                            {
                                 "url": "/movies/hellboy-el-hombre-torcido",
                                 "title": "Hellboy: The Crooked Man",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mDbqfIdEoGouMJJ5wrrFrn3si6C.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/movies/no-porque-me-enamoro",
                                 "title": "No, porque me enamoro",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jLtRk6uMs5WjNFLjZFJI3cZ92tw.jpg"
-                            },
-                            {
-                                "url": "/movies/el-resort-del-amor",
-                                "title": "El resort del amor",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/w1UhyZ0ca6Jcz5zqkkot2Lqdvvc.jpg"
-                            },
-                            {
-                                "url": "/movies/muralla",
-                                "title": "Muralla",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xdv6AyhcY8SpU8Fnv0wFEUPjz5r.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/adios-mundo",
-                                "title": "Adios Mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
-                            },
-                            {
                                 "url": "/movies/dune-world",
                                 "title": "Dune World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
+                            },
+                            {
+                                "url": "/movies/adios-mundo",
+                                "title": "Adios Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -387,14 +387,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/j2kjmPRNSvtsLcml40HBWDge0sK.jpg"
                             },
                             {
-                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
-                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
-                            },
-                            {
                                 "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
                                 "title": "Billie Eilish: The world's a little blurry",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            },
+                            {
+                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/hellboy-el-hombre-torcido",
-                    "title": "Hellboy: The Crooked Man",
-                    "artist": "Jack Kesy",
-                    "description": "Hellboy y un agente novato de la BPRD quedan varados en la zona rural de los Apalaches en la década de 1950. Allí, descubren una pequeña comunidad embrujada por brujas, lideradas por un demonio local con una conexión inquietante con el pasado de Hellboy: el Hombre Torcido.",
-                    "genre": "Terror, Acción, Aventura",
+                    "url": "/movies/cuckoo",
+                    "title": "Cuckoo",
+                    "artist": "Hunter Schafer",
+                    "description": "Después de verse obligada a mudarse a los Alpes alemanes con su padre y su nueva familia, Gretchen, una joven de 17 años,  descubre que su nueva ciudad no es lo que parece, ya que está plagada de ruidos extraños y visiones aterradoras de una mujer que la persigue.",
+                    "genre": "Terror, Misterio, Ciencia ficción",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/mDbqfIdEoGouMJJ5wrrFrn3si6C.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/qaNfJX6MT6kyRDfbH62Deazl0sD.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/hellboy-el-hombre-torcido",
+                        "url": "/movies/cuckoo",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,17 +429,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-ofkiqpdl5pbiqnlx.voe-network.net/engine/hls2-c/01/12254/902dcrizcgic_,n,.urlset/index-v1-a1.m3u8?t=DK39h6tG3hPo915Yt7pJkVzK6mLEnqkLz5a0TFDtAe4&s=1726941980&e=14400&f=61273573&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "url": "https://delivery-node-bvomovz8fazqzzcu.voe-network.net/engine/hls2-c/01/12239/hjtrthpfqimm_,n,.urlset/index-v1-a1.m3u8?t=Gu9vj6HPLOi40xEWuIWazkYhnpTWgv0nFy9ZoMzdw88&s=1726964300&e=14400&f=61196581&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=20.171&sp=2500&asn=8075",
                         "quality": "[LAT]Voe:720p",
-                        "videoUrl": "https://delivery-node-ofkiqpdl5pbiqnlx.voe-network.net/engine/hls2-c/01/12254/902dcrizcgic_,n,.urlset/index-v1-a1.m3u8?t=DK39h6tG3hPo915Yt7pJkVzK6mLEnqkLz5a0TFDtAe4&s=1726941980&e=14400&f=61273573&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-bvomovz8fazqzzcu.voe-network.net/engine/hls2-c/01/12239/hjtrthpfqimm_,n,.urlset/index-v1-a1.m3u8?t=Gu9vj6HPLOi40xEWuIWazkYhnpTWgv0nFy9ZoMzdw88&s=1726964300&e=14400&f=61196581&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=20.171&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06930/x85upl0iyyd5_h/index-v1.m3u8?t=H19jfEc4FaqpXvYqpX8MdSs1YlYA-4Epe42vDl2W-Yg&s=1726941977&e=10800&f=34650727&srv=41&asn=8075&sp=4000",
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06917/vql8l6ykag34_h/index-v1.m3u8?t=RCaK-LS4jcWRc3T8hWxL3iK82IlUdhA0ak9kvWn-2WY&s=1726964295&e=10800&f=34585431&srv=51&asn=8075&sp=4000",
                         "quality": "[LAT] Filemoon:720p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06930/x85upl0iyyd5_h/index-v1.m3u8?t=H19jfEc4FaqpXvYqpX8MdSs1YlYA-4Epe42vDl2W-Yg&s=1726941977&e=10800&f=34650727&srv=41&asn=8075&sp=4000",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/06917/vql8l6ykag34_h/index-v1.m3u8?t=RCaK-LS4jcWRc3T8hWxL3iK82IlUdhA0ak9kvWn-2WY&s=1726964295&e=10800&f=34585431&srv=51&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -447,33 +447,33 @@
                         }
                     },
                     {
-                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04954/mjrgt0j3xf86_n/index-v1-a1.m3u8?t=RgoqWhMqpQ2ezRdtHsbm6PftScWqFJ45pk-STp5Q53I&s=1726941979&e=129600&f=24772761&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04937/l9zy5rivrcvq_n/index-v1-a1.m3u8?t=ivPWMqNwsiLrt4Bic-vCzKnXtkuqy0b_7rO2VKr64Nk&s=1726964299&e=129600&f=24686323&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04954/mjrgt0j3xf86_n/index-v1-a1.m3u8?t=RgoqWhMqpQ2ezRdtHsbm6PftScWqFJ45pk-STp5Q53I&s=1726941979&e=129600&f=24772761&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "videoUrl": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04937/l9zy5rivrcvq_n/index-v1-a1.m3u8?t=ivPWMqNwsiLrt4Bic-vCzKnXtkuqy0b_7rO2VKr64Nk&s=1726964299&e=129600&f=24686323&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/mjrgt0j3xf86"
+                            "Referer": "https://streamwish.to/e/l9zy5rivrcvq"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=mqevjqqvQvtbxbj&expires=1727011977&ip=FROsE0WnDS9X&token=KeSgZ6nvL-By",
+                        "url": "https://streamtape.com/get_video?id=G2mzLP948PF1paO&expires=1727034296&ip=FROsD0ESKxSHDN&token=bI_Jdd2lV2n_",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=mqevjqqvQvtbxbj&expires=1727011977&ip=FROsE0WnDS9X&token=KeSgZ6nvL-By"
+                        "videoUrl": "https://streamtape.com/get_video?id=G2mzLP948PF1paO&expires=1727034296&ip=FROsD0ESKxSHDN&token=bI_Jdd2lV2n_"
                     },
                     {
-                        "url": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/12189/wfjm41jya4d7_,n,.urlset/index-v1-a1.m3u8?t=9jakzPLoLn4RLv6Zmp7CwSIYj4Lt7uYzP9sGByqX25M&s=1726941989&e=14400&f=60946604&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "url": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/12048/8rmkxkhddlzs_,n,.urlset/index-v1-a1.m3u8?t=Gc7r2Cg8SbYWVQilJjXS_J7UdGCrSA2yI7wcCf_yB04&s=1726964308&e=14400&f=60242356&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=20.171&sp=2500&asn=8075",
                         "quality": "[SUB]Voe:720p",
-                        "videoUrl": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/12189/wfjm41jya4d7_,n,.urlset/index-v1-a1.m3u8?t=9jakzPLoLn4RLv6Zmp7CwSIYj4Lt7uYzP9sGByqX25M&s=1726941989&e=14400&f=60946604&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/12048/8rmkxkhddlzs_,n,.urlset/index-v1-a1.m3u8?t=Gc7r2Cg8SbYWVQilJjXS_J7UdGCrSA2yI7wcCf_yB04&s=1726964308&e=14400&f=60242356&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=20.171&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/05/06876/7x17s80t1717_x/index-v1.m3u8?t=uFq2-uEbRPWxK-IAbiM7rFDD42dR_1GVC-LStCb7THc&s=1726941989&e=10800&f=34382818&srv=53&asn=8075&sp=5500",
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/02/06754/rdff3nl4hla3_h/index-v1.m3u8?t=FnocS8inC0dUwzv84qj0SogOVnyX1S5mVjKqd6Y5TYw&s=1726964307&e=10800&f=33770215&srv=29&asn=8075&sp=4000",
                         "quality": "[SUB] Filemoon:720p",
-                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/05/06876/7x17s80t1717_x/index-v1.m3u8?t=uFq2-uEbRPWxK-IAbiM7rFDD42dR_1GVC-LStCb7THc&s=1726941989&e=10800&f=34382818&srv=53&asn=8075&sp=5500",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/02/06754/rdff3nl4hla3_h/index-v1.m3u8?t=FnocS8inC0dUwzv84qj0SogOVnyX1S5mVjKqd6Y5TYw&s=1726964307&e=10800&f=33770215&srv=29&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -481,20 +481,15 @@
                         }
                     },
                     {
-                        "url": "https://18jij6rntf.pradoi.com/hls2/01/04889/gx0l7s3d614g_n/index-v1-a1.m3u8?t=BDhtSvKfAWLWoFYoMYlt9wHRJq4S8x4x3nWdg6KW4YA&s=1726941988&e=129600&f=24450989&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://ye0r0rrinu.pradoi.com/hls2/01/04740/vnhlss0zfyh7_n/index-v1-a1.m3u8?t=Ghj8KdlrSdYKIlSUjmYkk3lKftT2VKsBfgvfa3frFPY&s=1726964306&e=129600&f=23701902&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://18jij6rntf.pradoi.com/hls2/01/04889/gx0l7s3d614g_n/index-v1-a1.m3u8?t=BDhtSvKfAWLWoFYoMYlt9wHRJq4S8x4x3nWdg6KW4YA&s=1726941988&e=129600&f=24450989&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "videoUrl": "https://ye0r0rrinu.pradoi.com/hls2/01/04740/vnhlss0zfyh7_n/index-v1-a1.m3u8?t=Ghj8KdlrSdYKIlSUjmYkk3lKftT2VKsBfgvfa3frFPY&s=1726964306&e=129600&f=23701902&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/irfi65gn76tn"
+                            "Referer": "https://streamwish.to/e/vnhlss0zfyh7"
                         }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kogJw0l7WdCOde7&expires=1727011987&ip=FROsE0WnDS9X&token=dWWcl0oiI86w",
-                        "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kogJw0l7WdCOde7&expires=1727011987&ip=FROsE0WnDS9X&token=dWWcl0oiI86w"
                     }
                 ],
                 "passed": true

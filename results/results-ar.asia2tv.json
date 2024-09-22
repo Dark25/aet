@@ -290,12 +290,35 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/قاضية-من-الجحيم-الحلقة-02/",
+                        "name": "02 : الحلقة"
+                    },
+                    {
+                        "url": "/قاضية-من-الجحيم-الحلقة-01/",
+                        "name": "01 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=gwGjOJkda4iq6PB&expires=1727034236&ip=FROsE0EnDS9X&token=AecUuQpnCDyw",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=gwGjOJkda4iq6PB&expires=1727034236&ip=FROsE0EnDS9X&token=AecUuQpnCDyw"
+                    },
+                    {
+                        "url": "https://m60.uqload.ws/3rfktc5g4nw2q4drdku7vmvgas6mqsjvxlqamfxrwawejqfzudrzzjpvfjva/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m60.uqload.ws/3rfktc5g4nw2q4drdku7vmvgas6mqsjvxlqamfxrwawejqfzudrzzjpvfjva/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

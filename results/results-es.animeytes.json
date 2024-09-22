@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/tv/one-piece/",
+                                "title": "One Piece: Arco de Egghead",
+                                "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2021/04/15g8jf1hfg1hs1aa.jpg"
+                            },
+                            {
+                                "url": "/tv/karasu-wa-aruji-wo-erabanai/",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "thumbnail_url": "https://i2.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/03/n580gj42590g45j-e1713656959356.jpg"
+                            },
+                            {
                                 "url": "/tv/make-heroine-ga-oosugiru/",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/07/tfv7g7fhef8gjge.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/tv/megami-no-cafe-terrace-temporada-2/",
                                 "title": "Megami no Café Terrace Temporada 2",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/07/5t6YvEWgLTP8ypR1.jpg"
-                            },
-                            {
-                                "url": "/tv/giji-harem/",
-                                "title": "Giji Harem",
-                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/07/xd654fv68bhg89j.jpg"
-                            },
-                            {
-                                "url": "/tv/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai/",
-                                "title": "Ore wa Subete wo «Parry» suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
-                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/07/MlE6tA5lVzVzAzQ9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -367,7 +367,7 @@
                     "url": "/tv/one-piece/",
                     "title": "One Piece: Arco de Egghead",
                     "artist": "Toei Animation",
-                    "description": "\n\nAlternative name(s): One Piece, Sinónimos: OP, Japonés: ONE PIECE\nEstado: En emisión\nEstudio: Toei Animation\nEstreno: Oct 20, 1999\nDuración: 24 min.\nTemporada: Otoño 1999\nTipo: 4K\nCensura: Normal\nAutor: AnimeYT\nPublicado: abril 1, 2024\nActualizado: septiembre 15, 2024\n",
+                    "description": "\n\nAlternative name(s): One Piece, Sinónimos: OP, Japonés: ONE PIECE\nEstado: En emisión\nEstudio: Toei Animation\nEstreno: Oct 20, 1999\nDuración: 24 min.\nTemporada: Otoño 1999\nTipo: TV\nCensura: Normal\nAutor: AnimeYT\nPublicado: abril 1, 2024\nActualizado: septiembre 21, 2024\n",
                     "genre": "Acción, Aventura, Comedia, Drama, Fantasía, Shounen, Superpoderes",
                     "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2021/04/15g8jf1hfg1hs1aa.jpg",
                     "initialized": true
@@ -390,8 +390,72 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_1080&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 1080p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_1080&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=22ApLXYOjPXS0Bxbj5iO6Q&resolution=720&autoplay=true&mute=false&uk=4401347238831&fid=879778633238610&slid="
+                        }
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06938/iskfhzpb1ivm_h/index-v1.m3u8?t=d1tT2a0FRnRFeJ8PUxZhj3AXiE6rJAApUd4kzSZOww0&s=1726985165&e=10800&f=34696001&srv=51&asn=8075&sp=4000",
+                        "quality": "Filemoon - 720p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/06938/iskfhzpb1ivm_h/index-v1.m3u8?t=d1tT2a0FRnRFeJ8PUxZhj3AXiE6rJAApUd4kzSZOww0&s=1726985165&e=10800&f=34696001&srv=51&asn=8075&sp=4000",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://filemoon.sx",
+                            "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_720&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 720p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_720&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=22ApLXYOjPXS0Bxbj5iO6Q&resolution=720&autoplay=true&mute=false&uk=4401347238831&fid=879778633238610&slid="
+                        }
+                    },
+                    {
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_480&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 480p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_480&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=22ApLXYOjPXS0Bxbj5iO6Q&resolution=720&autoplay=true&mute=false&uk=4401347238831&fid=879778633238610&slid="
+                        }
+                    },
+                    {
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_360&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 360p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4401347238831&shareid=34028345936&type=M3U8_AUTO_360&fid=879778633238610&sign=482f50bd032aa2576c6a5c5c71201ebde2dec3b1&timestamp=1726985170&jsToken=8F11F602116BB16362B08BB7034D1627CB2354F6FE565B5ECCCCBA7FB01C3F043D412B8DA1A5338CBA4C8B3E0A6936FE13F4140CFE3733D5DB3082908118441F3676D278E8FB012B2C552F87DD45214E8409952059CAE261D59FCABDED44246A&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=22ApLXYOjPXS0Bxbj5iO6Q&resolution=720&autoplay=true&mute=false&uk=4401347238831&fid=879778633238610&slid="
+                        }
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a202409216i7e1CVH5F6/OP-1120.AnimeYT.es.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a202409216i7e1CVH5F6/OP-1120.AnimeYT.es.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

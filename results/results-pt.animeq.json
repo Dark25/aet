@@ -31,6 +31,16 @@
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/ReZero-kara-Hajimeru-Isekai-Seikatsu-3-Episodio-01-jpg.webp"
                             },
                             {
+                                "url": "/171316/",
+                                "title": "Yozakura-san Chi no Daisakusen Episódio 24",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Yozakura-san-Chi-no-Daisakusen-Episodios.jpg.webp"
+                            },
+                            {
+                                "url": "/171314/",
+                                "title": "Make Heroine ga Oosugiru! Episódio 11",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Make-Heroine-ga-Oosugiru-Episodios.jpg"
+                            },
+                            {
                                 "url": "/171221/",
                                 "title": "Nige Jouzu no Wakagimi Episódio 11",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Nige-Jouzu-no-Wakagimi-Episodios.jpg"
@@ -38,7 +48,7 @@
                             {
                                 "url": "/171219/",
                                 "title": "The Fable Episódio 24",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/The-Fable-Episodios.jpg"
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/The-Fable-Episodios.jpg.webp"
                             },
                             {
                                 "url": "/171217/",
@@ -83,7 +93,7 @@
                             {
                                 "url": "/171193/",
                                 "title": "Tensei shitara Slime Datta Ken 3 Episódio 23",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-shitara-Slime-Datta-Ken-3rd-Season.jpg"
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-shitara-Slime-Datta-Ken-3rd-Season.jpg.webp"
                             },
                             {
                                 "url": "/171191/",
@@ -109,16 +119,6 @@
                                 "url": "/171181/",
                                 "title": "Senpai wa Otokonoko Episódio 11",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Senpai-wa-Otokonoko-Episodios.jpg"
-                            },
-                            {
-                                "url": "/171179/",
-                                "title": "Gimai Seikatsu Episódio 12 – Final",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Gimai-Seikatsu-Episodio.jpg"
-                            },
-                            {
-                                "url": "/171169/",
-                                "title": "Megami no Café Terrace 2 Episódio 12",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Megami-no-Cafe-Terrace-2-Episodios.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -225,8 +225,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>AnimesOnline</title>\n\t<meta name=",
+                        "quality": "Blogger - Unknown",
+                        "videoUrl": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>AnimesOnline</title>\n\t<meta name=",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeq.blog",
+                            "Origin": "https://animeq.blog"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,27 +3,27 @@
         "name": "Multimovies (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: multimovies.art: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: multimovies.art",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: multimovies.art",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: multimovies.art",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: multimovies.art",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: multimovies.art",
                 "passed": false
             }
         }

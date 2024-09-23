@@ -212,14 +212,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://static.trn.su/2147405270.mp4?md5=TCQ2c92wR_15d4EprgtFHw&time=1727104269",
+                        "url": "https://static.trn.su/2147405270.mp4?md5=rJgp3CqKmVZ88j2GNGDr3A&time=1727125810",
                         "quality": "SD (480p)",
-                        "videoUrl": "https://static.trn.su/2147405270.mp4?md5=TCQ2c92wR_15d4EprgtFHw&time=1727104269"
+                        "videoUrl": "https://static.trn.su/2147405270.mp4?md5=rJgp3CqKmVZ88j2GNGDr3A&time=1727125810"
                     },
                     {
-                        "url": "https://vn5614.tigerlips.org/720/2147405270.mp4?md5=OWd-Cb7lEva73VMSBhpa_Q&time=1727104269",
+                        "url": "https://vn5614.tigerlips.org/720/2147405270.mp4?md5=PUayoBsyxzVFMTtOzDxtDA&time=1727125810",
                         "quality": "HD (720р)",
-                        "videoUrl": "https://vn5614.tigerlips.org/720/2147405270.mp4?md5=OWd-Cb7lEva73VMSBhpa_Q&time=1727104269"
+                        "videoUrl": "https://vn5614.tigerlips.org/720/2147405270.mp4?md5=PUayoBsyxzVFMTtOzDxtDA&time=1727125810"
                     }
                 ],
                 "passed": true
@@ -437,19 +437,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://static.trn.su/2147405270.mp4?md5=LfmxOuW81IDflZ3DhspHKQ&time=1727104271",
-                        "quality": "SD (480p)",
-                        "videoUrl": "https://static.trn.su/2147405270.mp4?md5=LfmxOuW81IDflZ3DhspHKQ&time=1727104271"
-                    },
-                    {
-                        "url": "https://vn5614.tigerlips.org/720/2147405270.mp4?md5=sl2gSYlioCMTbJclV8NKaA&time=1727104271",
-                        "quality": "HD (720р)",
-                        "videoUrl": "https://vn5614.tigerlips.org/720/2147405270.mp4?md5=sl2gSYlioCMTbJclV8NKaA&time=1727104271"
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='write EPROTO 00B89DAB8B7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n\n  name='Error\n  stack='Error: write EPROTO 00B89DAB8B7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)\n}\nCall log:\n- → GET https://std.trn.su/2147405270.mp4?md5=3SSkiNdOp8zDQzH4tiW1bw&time=1727125818&ip=185.113.8.219\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5\n-   accept-encoding: gzip, deflate, br\n-   host: std.trn.su\n-   accept-language: en-US,en;q=0.5\n-   referer: https://v2.vost.pw/\n-   sec-fetch-dest: video\n-   sec-fetch-mode: no-cors\n-   sec-fetch-site: cross-site\n-   range: bytes=0-\n-   connection: keep-alive\n",
+                "passed": false
             }
         }
     }

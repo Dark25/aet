@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/mi-amor-sin-tiempo/",
+                                "title": "Mi Amor Sin Tiempo",
+                                "description": "Tres mujeres de la misma familia mantienen relaciones estables, pero el amor verdadero aparece en sus vidas y las hace desafiar todas las normas de la sociedad. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hcHHqRklKIFMry3R3cTpq6qSUlT.jpg"
+                            },
+                            {
                                 "url": "/margarita-que-tu-cuento-valga-la-pena/",
                                 "title": "Margarita: Que tu cuento valga la pena",
                                 "description": "Margarita cuenta la historia de una adolescente huérfana con una vida de película, con muchas dudas y casi ninguna certeza sobre su historia, que yendo detrás de su deseo, llegará a un lugar muy mágico en el que podrá vivir y cumplir sus sueños, sin saber que esa casa fue el lugar donde ella nació […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/2WyfJKQaXYrxhE6Pte9SceDPoWv.jpg"
                             },
                             {
-                                "url": "/o11ce/",
-                                "title": "O11CE",
-                                "description": "La serie gira en torno a Gabo, un adolescente amante del fútbol que, al recibir una beca del prestigioso Instituto Académico Deportivo (IAD) de Buenos Aires, verá cumplido su sueño de jugar en Los Halcones Dorados, el reconocido equipo amateur del colegio, y también su anhelo de convertirse en futbolista profesional. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zbVwpFNma4RV7HkIVT3aOUmGUJf.jpg"
-                            },
-                            {
-                                "url": "/el-tigre-veron/",
-                                "title": "El Tigre Verón",
+                                "url": "/search-party/",
+                                "title": "Search Party",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lzKsTPZzzNfUsTKXzRVobhs4C5N.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ldHjc3Hx29NKK0bfgaYZkIwQWN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
                             },
                             {
-                                "url": "/american-odyssey-capitulos-completos-espanol-hd-online/",
-                                "title": "American Odyssey",
+                                "url": "/la-chica-del-vaticano-la-desaparicion-de-emanuela-orlandi/",
+                                "title": "La Chica Del Vaticano: La Desaparición De Emanuela Orlandi",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/h1a29pvtC0vxunesD7NBetognM0-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ytWjMPudblp3fPM6Jyas5Z4H8jK.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,102 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/margarita-que-tu-cuento-valga-la-pena/",
-                    "title": "Margarita: Que tu cuento valga la pena",
-                    "description": "Margarita cuenta la historia de una adolescente huérfana con una vida de película, con muchas dudas y casi ninguna certeza sobre su historia, que yendo detrás de su deseo, llegará a un lugar muy mágico en el que podrá vivir y cumplir sus sueños, sin saber que esa casa fue el lugar donde ella nació y que la pérfida Delfina usurpó para construir su imperio.",
-                    "genre": "Comedia, Drama, Familia, Soap",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/w8vJqlRfNeGIrDS4bCteWD2ApkY.jpg",
+                    "url": "/mi-amor-sin-tiempo/",
+                    "title": "Mi Amor Sin Tiempo",
+                    "description": "Tres mujeres de la misma familia mantienen relaciones estables, pero el amor verdadero aparece en sus vidas y las hace desafiar todas las normas de la sociedad.",
+                    "genre": "Drama, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hcHHqRklKIFMry3R3cTpq6qSUlT.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/margarita-que-tu-cuento-valga-la-pena-temporada-1-capitulo-15/",
-                        "name": "T01 - E15 - Episodio 15",
-                        "date_upload": 1726444800000,
-                        "episode_number": 15.0
-                    },
-                    {
-                        "url": "/episode/margarita-que-tu-cuento-valga-la-pena-temporada-1-capitulo-14/",
-                        "name": "T01 - E14 - Episodio 14",
-                        "date_upload": 1726444800000,
-                        "episode_number": 14.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/17/00069/l9qvu9nhe9li_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=o-tcWJpabbELlCOv_IqoRwpNmI3OwhNXfclyagSwdlM&s=1727093262&e=43200&f=348994&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/17/00069/l9qvu9nhe9li_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=o-tcWJpabbELlCOv_IqoRwpNmI3OwhNXfclyagSwdlM&s=1727093262&e=43200&f=348994&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/17/00069/l9qvu9nhe9li_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=o-tcWJpabbELlCOv_IqoRwpNmI3OwhNXfclyagSwdlM&s=1727093262&e=43200&f=348994&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/17/00069/l9qvu9nhe9li_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=o-tcWJpabbELlCOv_IqoRwpNmI3OwhNXfclyagSwdlM&s=1727093262&e=43200&f=348994&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/17/00069/l9qvu9nhe9li_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=o-tcWJpabbELlCOv_IqoRwpNmI3OwhNXfclyagSwdlM&s=1727093262&e=43200&f=348994&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/17/00069/l9qvu9nhe9li_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=o-tcWJpabbELlCOv_IqoRwpNmI3OwhNXfclyagSwdlM&s=1727093262&e=43200&f=348994&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/20/00069/z7r4u7mqq1k4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IPIRYLZ7ZQfe4mNFgqeJsr0ZqEcLcRM9ZCA0oaTLG4g&s=1727093264&e=43200&f=348995&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/20/00069/z7r4u7mqq1k4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IPIRYLZ7ZQfe4mNFgqeJsr0ZqEcLcRM9ZCA0oaTLG4g&s=1727093264&e=43200&f=348995&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/20/00069/z7r4u7mqq1k4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=IPIRYLZ7ZQfe4mNFgqeJsr0ZqEcLcRM9ZCA0oaTLG4g&s=1727093264&e=43200&f=348995&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/20/00069/z7r4u7mqq1k4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=IPIRYLZ7ZQfe4mNFgqeJsr0ZqEcLcRM9ZCA0oaTLG4g&s=1727093264&e=43200&f=348995&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/20/00069/z7r4u7mqq1k4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IPIRYLZ7ZQfe4mNFgqeJsr0ZqEcLcRM9ZCA0oaTLG4g&s=1727093264&e=43200&f=348995&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/20/00069/z7r4u7mqq1k4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IPIRYLZ7ZQfe4mNFgqeJsr0ZqEcLcRM9ZCA0oaTLG4g&s=1727093264&e=43200&f=348995&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

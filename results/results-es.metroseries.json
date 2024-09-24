@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/fzOioO8es7ShIbPlEqq7r9cxeHO.jpg"
                             },
                             {
-                                "url": "/el-caballero-negro/",
-                                "title": "El caballero negro",
+                                "url": "/el-fantasma-de-canterville/",
+                                "title": "El fantasma de Canterville",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qp2IE4GDj69hXBOCX4A68bLKfHM.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rdMwSPoZrjcS4Cn9rmjgj5dks10.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
                             },
                             {
-                                "url": "/el-verano-en-que-me-enamore/",
-                                "title": "El verano en que me enamoré",
+                                "url": "/clark/",
+                                "title": "Clark",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dalsmJZErwS1oqDJoSi85sxdxMX.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2ysvG4hRZpmxoDXfZKr53Izmmtw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,92 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/los-gemelos-reforman-dos-veces-edicion-celebrity-temporada-2-capitulo-4/",
+                        "name": "T02 - E04 - La sorpresa de Rainn Wilson",
+                        "date_upload": 1609718400000,
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/los-gemelos-reforman-dos-veces-edicion-celebrity-temporada-2-capitulo-3/",
+                        "name": "T02 - E03 - El bombazo de Justin Hartley",
+                        "date_upload": 1609113600000,
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/18/00069/51lkb4qtpqd2_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=70RDNBJe6fdTf94t4F8XAuzYtsLYfjb9k_u3kzrj01U&s=1727158023&e=43200&f=348840&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/18/00069/51lkb4qtpqd2_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=70RDNBJe6fdTf94t4F8XAuzYtsLYfjb9k_u3kzrj01U&s=1727158023&e=43200&f=348840&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/18/00069/51lkb4qtpqd2_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=70RDNBJe6fdTf94t4F8XAuzYtsLYfjb9k_u3kzrj01U&s=1727158023&e=43200&f=348840&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/18/00069/51lkb4qtpqd2_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=70RDNBJe6fdTf94t4F8XAuzYtsLYfjb9k_u3kzrj01U&s=1727158023&e=43200&f=348840&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/18/00069/51lkb4qtpqd2_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=70RDNBJe6fdTf94t4F8XAuzYtsLYfjb9k_u3kzrj01U&s=1727158023&e=43200&f=348840&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/18/00069/51lkb4qtpqd2_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=70RDNBJe6fdTf94t4F8XAuzYtsLYfjb9k_u3kzrj01U&s=1727158023&e=43200&f=348840&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/14/00069/y9pymdp4mrn5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=cmJ_cuYFR5xWeu1VjquZ-549FdFI4MQCQ8azEDkIhVQ&s=1727158025&e=43200&f=348864&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/14/00069/y9pymdp4mrn5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=cmJ_cuYFR5xWeu1VjquZ-549FdFI4MQCQ8azEDkIhVQ&s=1727158025&e=43200&f=348864&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/14/00069/y9pymdp4mrn5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=cmJ_cuYFR5xWeu1VjquZ-549FdFI4MQCQ8azEDkIhVQ&s=1727158025&e=43200&f=348864&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/14/00069/y9pymdp4mrn5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=cmJ_cuYFR5xWeu1VjquZ-549FdFI4MQCQ8azEDkIhVQ&s=1727158025&e=43200&f=348864&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/14/00069/y9pymdp4mrn5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=cmJ_cuYFR5xWeu1VjquZ-549FdFI4MQCQ8azEDkIhVQ&s=1727158025&e=43200&f=348864&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/14/00069/y9pymdp4mrn5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=cmJ_cuYFR5xWeu1VjquZ-549FdFI4MQCQ8azEDkIhVQ&s=1727158025&e=43200&f=348864&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

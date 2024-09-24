@@ -509,31 +509,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ty1053vs.cloudatacdn.com/u5kjzc47nxh3sdgge5lhcpsodz2ocgk7adrtrgzmwnclhbwnywk4mofhu4ga/0hnfsg10p9~FdKE4cdNAC?token=50curcgfpvz1pm4t2llh2bnq&expiry=1727158001165",
-                        "quality": "SUBDoodstream  mirror",
-                        "videoUrl": "https://ty1053vs.cloudatacdn.com/u5kjzc47nxh3sdgge5lhcpsodz2ocgk7adrtrgzmwnclhbwnywk4mofhu4ga/0hnfsg10p9~FdKE4cdNAC?token=50curcgfpvz1pm4t2llh2bnq&expiry=1727158001165",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.li/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=rK4aPqLomACb1lg&expires=1727227989&ip=GHEsDRqAKxSHDN&token=wyIlkwsSuiPK",
-                        "quality": "SUB StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=rK4aPqLomACb1lg&expires=1727227989&ip=GHEsDRqAKxSHDN&token=wyIlkwsSuiPK"
-                    },
-                    {
-                        "url": "https://s-delivery33.mxcontent.net/v2/840k3jr6t64l3qq.mp4?s=LabewSFkQUT1NgJ54Wybfw&e=1727179589&_t=1727158716",
-                        "quality": "MixDrop(SUB)",
-                        "videoUrl": "https://s-delivery33.mxcontent.net/v2/840k3jr6t64l3qq.mp4?s=LabewSFkQUT1NgJ54Wybfw&e=1727179589&_t=1727158716",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

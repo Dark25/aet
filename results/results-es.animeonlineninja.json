@@ -509,8 +509,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=rK4aPqLomACb1lg&expires=1727271158&ip=F0qQKRWZD19XKxR&token=nuvY3MnUOnOq",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=rK4aPqLomACb1lg&expires=1727271158&ip=F0qQKRWZD19XKxR&token=nuvY3MnUOnOq"
+                    },
+                    {
+                        "url": "https://s-delivery33.mxcontent.net/v2/840k3jr6t64l3qq.mp4?s=5IvCWlTS8dPBgmUbMNbr9Q&e=1727222757&_t=1727210985",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery33.mxcontent.net/v2/840k3jr6t64l3qq.mp4?s=5IvCWlTS8dPBgmUbMNbr9Q&e=1727222757&_t=1727210985",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -223,134 +223,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/online/brilliant-minds",
-                                "title": "Brilliant Minds",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22861.webp"
-                            },
-                            {
-                                "url": "/serie/online/a-casa-de-moda",
-                                "title": "A Casa de Moda",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22856.webp"
-                            },
-                            {
-                                "url": "/serie/online/pinguim",
-                                "title": "Pinguim",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22855.webp"
-                            },
-                            {
-                                "url": "/serie/online/crepusculo-dos-deuses-hd",
-                                "title": "Crepúsculo dos Deuses",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22854.webp"
-                            },
-                            {
-                                "url": "/serie/online/agatha-desde-sempre",
-                                "title": "Agatha Desde Sempre",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22853.webp"
-                            },
-                            {
-                                "url": "/serie/online/american-sports-story",
-                                "title": "American Sports Story",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22851.webp"
-                            },
-                            {
-                                "url": "/serie/online/en-fin",
-                                "title": "En fin",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22850.webp"
-                            },
-                            {
-                                "url": "/serie/online/ilha-de-peixe-grande",
-                                "title": "Ilha de Peixe Grande",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22849.webp"
-                            },
-                            {
-                                "url": "/serie/online/como-morrer-sozinha",
-                                "title": "Como Morrer Sozinha",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22847.webp"
-                            },
-                            {
-                                "url": "/serie/online/mary-george",
-                                "title": "Mary & George",
-                                "status": 2,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22845.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-casal-perfeito",
-                                "title": "O Casal Perfeito",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22843.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-professor-gratis",
-                                "title": "O Professor",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22841.webp"
-                            },
-                            {
-                                "url": "/serie/online/breathless",
-                                "title": "Breathless",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22835.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-exterminador-do-futuro-zero",
-                                "title": "O Exterminador do Futuro Zero",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22834.webp"
-                            },
-                            {
-                                "url": "/serie/online/kaos",
-                                "title": "KAOS",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22833.webp"
-                            },
-                            {
-                                "url": "/serie/online/city-of-god-the-fight-rages-on",
-                                "title": "City of God: The Fight Rages On",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22832.webp"
-                            },
-                            {
-                                "url": "/serie/online/rick-and-morty-the-anime",
-                                "title": "Rick and Morty: The Anime",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22828.webp"
-                            },
-                            {
-                                "url": "/serie/online/homem-pipa-ja-",
-                                "title": "Homem-Pipa: Já É!",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22827.webp"
-                            },
-                            {
-                                "url": "/serie/online/bad-monkey-de-carl-hiaasen",
-                                "title": "Bad Monkey, de Carl Hiaasen",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22825.webp"
-                            },
-                            {
-                                "url": "/serie/online/batman-cruzado-encapuzado",
-                                "title": "Batman: Cruzado Encapuzado",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22819.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -577,25 +451,14 @@
                     "url": "/serie/online/sobrenatural",
                     "title": "Sobrenatural",
                     "description": "Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.\n\nAno: 2005\nDuração: 45\nNota: 8.3/10",
-                    "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4598.jpg",
+                    "thumbnail_url": "https://novizer.com/content/series/posterPt/342/4598.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "95335",
-                        "name": "15º Temporada: Ep 20 - Carry On",
-                        "episode_number": 20.0
-                    },
-                    {
-                        "url": "95236",
-                        "name": "15º Temporada: Ep 19 - Inherit the Earth",
-                        "episode_number": 19.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

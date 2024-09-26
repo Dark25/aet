@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1727402875&ei=-6L1Zr3yCZm2kucP8I6HmQk&ip=172.71.183.104&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hneknek&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1727373657&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAJkpInzhzfXHQ5lrycXe35jU_Hl4TqMg3tvebepFjdftAiEA4jRcAQVQoHh7rXdx9H1BkKtYFgCPkJouDtkUwyJlK4Q%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ABPmVW0wRQIhAO6DsPuhDdUz0XlIurQxc_haQ0dhjY06X9Jzkk806SyoAiBj1M6pA4Xgz5Oo4aL9Qbc3nw4g2jU1H72HnhoSEMJooQ%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1727402875&ei=-6L1Zr3yCZm2kucP8I6HmQk&ip=172.71.183.104&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hneknek&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1727373657&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAJkpInzhzfXHQ5lrycXe35jU_Hl4TqMg3tvebepFjdftAiEA4jRcAQVQoHh7rXdx9H1BkKtYFgCPkJouDtkUwyJlK4Q%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ABPmVW0wRQIhAO6DsPuhDdUz0XlIurQxc_haQ0dhjY06X9Jzkk806SyoAiBj1M6pA4Xgz5Oo4aL9Qbc3nw4g2jU1H72HnhoSEMJooQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1727402875&ei=-6L1Zr3yCZm2kucP8I6HmQk&ip=172.71.183.104&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hneknek&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1727373657&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMYr-qUDXzWPPgUEcwiwDOQSsKwPY_hW2SzxeS_DQ82GAiEAjNoGQAJCAjAyvb3nzq_nQ3X4jB01CpdhzhfYfW8mqdU%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ABPmVW0wRAIgXXdFyh46OKgD4yzVJ9KIGnCt-h4sUQL4xV4QdEsBpyICIFD2qBfjqisazCgEjISbotGp-P720MqA5aREU0360lfH",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1727402875&ei=-6L1Zr3yCZm2kucP8I6HmQk&ip=172.71.183.104&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Rb&mm=31&mn=sn-5hneknek&ms=au&mv=m&mvi=5&pl=24&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1727373657&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMYr-qUDXzWPPgUEcwiwDOQSsKwPY_hW2SzxeS_DQ82GAiEAjNoGQAJCAjAyvb3nzq_nQ3X4jB01CpdhzhfYfW8mqdU%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ABPmVW0wRAIgXXdFyh46OKgD4yzVJ9KIGnCt-h4sUQL4xV4QdEsBpyICIFD2qBfjqisazCgEjISbotGp-P720MqA5aREU0360lfH",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/el-hombre-celoso-2024/",
+                                "title": "El hombre celoso (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/zHrNdRdB1RahDWD8JfuH0mf0la3.jpg"
+                            },
+                            {
+                                "url": "/peliculas/corrupcion-en-bangkok-entre-el-cielo-y-el-infierno-2024/",
+                                "title": "Corrupción en Bangkok: Entre el cielo y el infierno (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg"
+                            },
+                            {
                                 "url": "/peliculas/xoxo-la-fiesta-interminable-2016/",
                                 "title": "XOXO: La fiesta interminable (2016)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Parpadea dos veces (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg"
-                            },
-                            {
-                                "url": "/peliculas/exorcismo-2024/",
-                                "title": "Exorcismo (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/imZhdkfRxvHrzxRejRqodI9sJbr.jpg"
-                            },
-                            {
-                                "url": "/peliculas/agente-cinturon-negro-2024/",
-                                "title": "Agente cinturón negro (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/inEhHhxWx9uPb4jFtstDy3Gpu0o.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/xoxo-la-fiesta-interminable-2016/",
-                    "title": "XOXO: La fiesta interminable (2016)",
-                    "artist": "Brianne Howey",
-                    "author": "Christopher Louie",
-                    "description": "Las vidas de un joven DJ, su fiel compañero, una romántica sin remedio, un amargado y una pareja en problemas se encontrarán en un festival de música electrónica.",
-                    "genre": "Drama, Música",
+                    "url": "/peliculas/el-hombre-celoso-2024/",
+                    "title": "El hombre celoso (2024)",
+                    "artist": "Servidores Online: Voe",
+                    "author": "Elenco: Servidores Online: Voe",
+                    "description": "Sigue a dos hermanos gemelos que se encuentran en un peligroso triángulo amoroso en una apartada isla griega. La investigación se le da a “The Jealousy Man”, un detective herido.",
+                    "genre": "Crimen, Drama, Romance, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/bEdQkG6DezcDmqmsempynVpWz0X-202x300.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/zHrNdRdB1RahDWD8JfuH0mf0la3.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/xoxo-la-fiesta-interminable-2016/",
+                        "url": "/peliculas/el-hombre-celoso-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-wi114x2bre4yltgi.voe-network.net/engine/hls2/01/12282/m1i6pl1rqdjy_,n,.urlset/index-v1-a1.m3u8?t=TDWSGfM0ccNbHT8ybd7P8mvG8oHukSn5jmM-3JQY55I&s=1727374006&e=14400&f=61412423&node=delivery-node-wi114x2bre4yltgi.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[CAST] Voe:720p",
-                        "videoUrl": "https://delivery-node-wi114x2bre4yltgi.voe-network.net/engine/hls2/01/12282/m1i6pl1rqdjy_,n,.urlset/index-v1-a1.m3u8?t=TDWSGfM0ccNbHT8ybd7P8mvG8oHukSn5jmM-3JQY55I&s=1727374006&e=14400&f=61412423&node=delivery-node-wi114x2bre4yltgi.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

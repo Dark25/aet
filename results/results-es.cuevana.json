@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/26295/megalopolis",
+                                "title": "Megalopolis",
+                                "thumbnail_url": "https://pelisimg.online/cover/megalopolis.jpg"
+                            },
+                            {
+                                "url": "/26294/piratas-una-loca-aventura",
+                                "title": "¡Piratas! Una loca aventura",
+                                "thumbnail_url": "https://pelisimg.online/cover/piratas-una-loca-aventura.jpg"
+                            },
+                            {
                                 "url": "/5650/strangers",
                                 "title": "Strangers",
                                 "thumbnail_url": "https://pelisimg.online/cover/strangers.jpg"
@@ -215,16 +225,6 @@
                                 "url": "/26248/exorcismo-en-el-septimo-dia",
                                 "title": "Exorcismo en el séptimo día",
                                 "thumbnail_url": "https://pelisimg.online/cover/exorcismo-en-el-septimo-dia.jpg"
-                            },
-                            {
-                                "url": "/26249/la-ultima-carta-de-amor",
-                                "title": "La última carta de Amor",
-                                "thumbnail_url": "https://pelisimg.online/cover/la-ultima-carta-de-amor.jpg"
-                            },
-                            {
-                                "url": "/26250/vuelo-nocturno",
-                                "title": "Vuelo nocturno",
-                                "thumbnail_url": "https://pelisimg.online/cover/vuelo-nocturno.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/5650/strangers",
-                    "title": "Strangers",
-                    "description": "Un profesor de Londres protegido intenta descubrir la causa de la misteriosa muerte de su esposa en Hong Kong, viajando allí después de descubrir que murió en un accidente automovilístico en las carreteras de montaña de Tai Po.",
-                    "genre": "",
-                    "thumbnail_url": "https://pelisimg.online/cover/strangers.jpg",
+                    "url": "/26295/megalopolis",
+                    "title": "Megalopolis",
+                    "description": "El artista César Catilina busca llevar la ciudad de Nueva Roma a un futuro utópico e idealista. Pero la socialité Julia Cicero, la hija del alcalde Franklyn Cicero, cuyo amor por César ha dividido sus lealtades, es obligándola a descubrir lo que realmente cree que merece la humanidad.",
+                    "genre": "Drama, , Ciencia ficción",
+                    "thumbnail_url": "https://pelisimg.online/cover/megalopolis.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/5650/strangers",
+                        "url": "/26295/megalopolis",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04993/qr8009c7ibm8_n/index-v1-a1.m3u8?t=1SWjuTxVxAubBRIxWzA6L8z3-QP5_szxy8KsEtzaU_4&s=1727396274&e=129600&f=24968071&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/04993/qr8009c7ibm8_n/index-v1-a1.m3u8?t=1SWjuTxVxAubBRIxWzA6L8z3-QP5_szxy8KsEtzaU_4&s=1727396274&e=129600&f=24968071&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/qr8009c7ibm8"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8vDy3XlxOZCoLAr&expires=1727466276&ip=FROsD0AAKxSHDN&token=YhS0xDK2OurD",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=8vDy3XlxOZCoLAr&expires=1727466276&ip=FROsD0AAKxSHDN&token=YhS0xDK2OurD"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -501,6 +518,12 @@
                                 "title": "Rozwodnicy",
                                 "description": "Dos ex cónyuges intentan validar la nulidad de su matrimonio más de 20 años después, pero la Iglesia no es tan fácil de convencer.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5aLm0igQgnBKikgn685U3n8658T.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/megalopolis",
+                                "title": "Megalopolis",
+                                "description": "El artista César Catilina busca llevar la ciudad de Nueva Roma a un futuro utópico e idealista. Pero la socialité Julia Cicero, la hija del alcalde Franklyn Cicero, cuyo amor por César ha dividido sus lealtades, es obligándola a descubrir lo que realmente cree que merece la humanidad.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pJzNFh39mKtxFqQoROMZIg2JSsb.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/once-upon-a-time-in-amityville",
@@ -539,16 +562,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/am1FjwwViUoXRvCOdE7gKzvts1t.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/the-critic",
-                                "title": "The Critic",
-                                "description": "Jimmy Erskine is the most feared theatre critic of the age. He lives as flamboyantly as he writes and takes pleasure in savagely taking down any actor who fails to meet his standards. When the owner of the Daily Chronicle dies, and his son takes over, Jimmy quickly finds himself at odds with his new boss and his position under threat. In an attempt to preserve the power and influence he holds so sacred, Jimmy strikes a Faustian pact with a struggling actress, entangling them and the boss in a thrilling but deadly web of desire, blackmail, and betrayal.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/my-old-ass",
                                 "title": "My Old Ass",
                                 "description": "An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self. But when Elliott’s \"old ass\" starts handing out warnings about what her younger self should and shouldn't do, Elliott realizes she has to rethink everything about family, love, and what's becoming a transformative summer.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7zwM82MEilz58jgLZJTHcF4aY8S.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/the-critic",
+                                "title": "The Critic",
+                                "description": "Jimmy Erskine is the most feared theatre critic of the age. He lives as flamboyantly as he writes and takes pleasure in savagely taking down any actor who fails to meet his standards. When the owner of the Daily Chronicle dies, and his son takes over, Jimmy quickly finds himself at odds with his new boss and his position under threat. In an attempt to preserve the power and influence he holds so sacred, Jimmy strikes a Faustian pact with a struggling actress, entangling them and the boss in a thrilling but deadly web of desire, blackmail, and betrayal.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/robot-salvaje",
@@ -567,6 +590,12 @@
                                 "title": "Justicia Artificial",
                                 "description": "El gobierno español anuncia un referéndum para aprobar un sistema de Inteligencia Artificial en la Administración de Justicia que promete automatizar y despolitizar la justicia sustituyendo, en la práctica, a los jueces y juezas en todos los tribunales del país. Carmen Costa, una reconocida jueza, es invitada a trabajar en el desarrollo del proyecto, pero la repentina desaparición de Alicia Kóvack, creadora del sistema, provoca una gran desconfianza en ella, hasta el punto de entender que está descubriendo la punta del iceberg de una conspiración que pretende controlar, desde la justicia, a todo un país.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bBYw7lfX6NAo92eFEhrtUkfls5R.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/bad-genius-934866",
+                                "title": "Bad Genius",
+                                "description": "A highly-gifted student sees an opportunity to escape her roots by helping wealthy classmates cheat on key exams, but at great risk to her future.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/h5hONXZ4hPgniv1DXMB1IZohhpO.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/casi-el-paraiso",
@@ -591,12 +620,6 @@
                                 "title": "Lee",
                                 "description": "La historia de la fotógrafa Elizabeth 'Lee' Miller, una modelo que se convirtió en una aclamada corresponsal de guerra de la revista Vogue durante la Segunda Guerra Mundial.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jjiDPj1QySS7KGwgPqxGuJAoki6.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/bad-genius-934866",
-                                "title": "Bad Genius",
-                                "description": "A highly-gifted student sees an opportunity to escape her roots by helping wealthy classmates cheat on key exams, but at great risk to her future.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/h5hONXZ4hPgniv1DXMB1IZohhpO.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/no-hables-con-extranos",
@@ -633,12 +656,6 @@
                                 "title": "La Sustancia",
                                 "description": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-winter-witch",
-                                "title": "La Bruja de Hielo",
-                                "description": "A instancias de su jefe Ronnie, la periodista Ingrid Hoffman regresa a su hogar ancestral después de que se encuentren varios niños asesinados en un bosque cercano. Con el pueblo sospechando que la infame Bruja del Invierno está detrás de los asesinatos, junto con su hija Eleanor y la abuela Omi, de la que está separada, Ingrid debe descubrir la verdad y detener la maldición de Frau Perchta de una vez por todas.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/esmu39G0XWcbKdaakPjmTfRbHIv.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -711,16 +728,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/the-world-to-come",
-                                "title": "The World to Come",
-                                "description": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "description": "Enid y Rebecca, dos rebeldes adolescentes amigas desde hace años, no saben cómo pasar el rato ahora que ya han acabado los estudios de secundaria. Pese a sus tímidos esfuerzos por encontrar trabajo, a menudo acaban deambulando por las calles, escrutando el comportamiento de la gente que les rodea. Atraídas por los personajes excéntricos, suelen mirar los anuncios personales del periódico local. Enid llama al autor del anuncio más lamentable, un hombre solitario de cuarenta años, coleccionista de discos, y le invita a una cita a ciegas. Ambas acudirán al restaurante convenido para espiarle y saber cómo es su vida...",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/the-world-to-come",
+                                "title": "The World to Come",
+                                "description": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/ver-serie/the-prince-of-tennis-ii-u-17-world-cup",
@@ -753,16 +770,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sHMeoaJaPbGIBYxvcydTvzBNgKU.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/007-el-mundo-no-basta",
-                                "title": "007: El mundo no basta",
-                                "description": "Tras la muerte del magnate británico del petróleo Sir Robert King en un atentado en el cuartel general del MI6, su hija Elektra hereda sus fabulosos yacimientos petrolíferos del mar Caspio. El agente 007, que se siente culpable de la muerte de King, se convierte en el guardaespaldas de Elektra. Su astronómica fortuna atrae no sólo la atención de la prensa internacional, sino también la del asesino, un hombre con una bala alojada en el cerebro que le impide sentir dolor físico y cuya única obsesión es la venganza.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/guerra-de-los-mundos",
                                 "title": "Guerra de los Mundos",
                                 "description": "Cuando los astrónomos detectan una transmisión desde otra galaxia, es una prueba definitiva de la existencia de vida extraterrestre inteligente. La población mundial espera un futuro contacto con la respiración contenida. Sin embargo, no tendrán que esperar mucho. En cuestión de días, la humanidad queda prácticamente aniquilada en un ataque devastador; los supervivientes se encontrarán un mundo misteriosamente desierto. Mientras los extraterrestres cazan y matan a los que quedan vivos, los supervivientes se preguntan quiénes son estos atacantes y por qué están empeñados en nuestra destrucción.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/007-el-mundo-no-basta",
+                                "title": "007: El mundo no basta",
+                                "description": "Tras la muerte del magnate británico del petróleo Sir Robert King en un atentado en el cuartel general del MI6, su hija Elektra hereda sus fabulosos yacimientos petrolíferos del mar Caspio. El agente 007, que se siente culpable de la muerte de King, se convierte en el guardaespaldas de Elektra. Su astronómica fortuna atrae no sólo la atención de la prensa internacional, sino también la del asesino, un hombre con una bala alojada en el cerebro que le impide sentir dolor físico y cuya única obsesión es la venganza.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/el-portal-del-mas-alla",
@@ -783,16 +800,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/j2kjmPRNSvtsLcml40HBWDge0sK.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
-                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
-                                "description": "Mientras acelera para ayudar en una batalla improvisada, Flash arde y atraviesa el tiempo, solo para encontrarse a sí mismo en medio de la Segunda Guerra Mundial. Es aquí donde Flash conoce a Wonder Woman y su equipo alto secreto, conocido como la Sociedad de la Justicia de América. En medio de las furiosas mareas de la guerra, el combate apasionante y la velocidad del valor, Flash debe luchar para volver a su propia línea de tiempo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/billie-eilish-the-worlds-a-little-blurry",
                                 "title": "Billie Eilish: The world's a little blurry",
                                 "description": "El premiado documentalista R.J. Cutler acompaña a Billie en sus giras, en el escenario y en casa con su familia durante la grabación del álbum que le cambió la vida.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "description": "Mientras acelera para ayudar en una batalla improvisada, Flash arde y atraviesa el tiempo, solo para encontrarse a sí mismo en medio de la Segunda Guerra Mundial. Es aquí donde Flash conoce a Wonder Woman y su equipo alto secreto, conocido como la Sociedad de la Justicia de América. En medio de las furiosas mareas de la guerra, el combate apasionante y la velocidad del valor, Flash debe luchar para volver a su propia línea de tiempo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -825,17 +842,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-3exjmjcu02yez3zb.voe-network.net/engine/hls2-c/01/12290/fuv01wzoecmq_,n,.urlset/index-v1-a1.m3u8?t=EQLEpwOheIELAosl4k_9yRUo6F7CtQY4O5yoQwiqvtw&s=1727374016&e=14400&f=61450419&node=delivery-node-gtupx7xebmvs8fa1.voe-network.net&i=40.71&sp=2500&asn=8075",
+                        "url": "https://delivery-node-see8ajsheoivqg16.voe-network.net/engine/hls2-c/01/12290/fuv01wzoecmq_,n,.urlset/index-v1-a1.m3u8?t=I66G9A9WBtFW22_WoYsII3dYtN3EZQT8f7kcy1dCOgk&s=1727396291&e=14400&f=61450419&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=20.109&sp=2500&asn=8075",
                         "quality": "[LAT]Voe:1080p",
-                        "videoUrl": "https://delivery-node-3exjmjcu02yez3zb.voe-network.net/engine/hls2-c/01/12290/fuv01wzoecmq_,n,.urlset/index-v1-a1.m3u8?t=EQLEpwOheIELAosl4k_9yRUo6F7CtQY4O5yoQwiqvtw&s=1727374016&e=14400&f=61450419&node=delivery-node-gtupx7xebmvs8fa1.voe-network.net&i=40.71&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-see8ajsheoivqg16.voe-network.net/engine/hls2-c/01/12290/fuv01wzoecmq_,n,.urlset/index-v1-a1.m3u8?t=I66G9A9WBtFW22_WoYsII3dYtN3EZQT8f7kcy1dCOgk&s=1727396291&e=14400&f=61450419&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=20.109&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=8o8Ele6arQ6NFmXDEwt5U1cCLohmhNpV9YaWnZKZ80M&s=1727374013&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JFddshw3bESK7yrbjQULcpOojRUtvZD6Hvh8794WbfY&s=1727396289&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:1080p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=8o8Ele6arQ6NFmXDEwt5U1cCLohmhNpV9YaWnZKZ80M&s=1727374013&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JFddshw3bESK7yrbjQULcpOojRUtvZD6Hvh8794WbfY&s=1727396289&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -844,9 +861,9 @@
                         }
                     },
                     {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8o8Ele6arQ6NFmXDEwt5U1cCLohmhNpV9YaWnZKZ80M&s=1727374013&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=JFddshw3bESK7yrbjQULcpOojRUtvZD6Hvh8794WbfY&s=1727396289&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8o8Ele6arQ6NFmXDEwt5U1cCLohmhNpV9YaWnZKZ80M&s=1727374013&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=JFddshw3bESK7yrbjQULcpOojRUtvZD6Hvh8794WbfY&s=1727396289&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -855,9 +872,9 @@
                         }
                     },
                     {
-                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8o8Ele6arQ6NFmXDEwt5U1cCLohmhNpV9YaWnZKZ80M&s=1727374013&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JFddshw3bESK7yrbjQULcpOojRUtvZD6Hvh8794WbfY&s=1727396289&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8o8Ele6arQ6NFmXDEwt5U1cCLohmhNpV9YaWnZKZ80M&s=1727374013&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/04987/huhrfykq1a3p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JFddshw3bESK7yrbjQULcpOojRUtvZD6Hvh8794WbfY&s=1727396289&e=129600&f=24935175&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -866,17 +883,17 @@
                         }
                     },
                     {
-                        "url": "https://delivery-node-5ytyoi3qo2ns2kik.voe-network.net/engine/hls2/01/12290/yrzbx004tzfz_,n,.urlset/index-v1-a1.m3u8?t=6r7v7xObAcmwx-NZFfDqzNc6qkoGCFPZQvrCz2XCpHA&s=1727374051&e=14400&f=61450413&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=40.71&sp=2500&asn=8075",
+                        "url": "https://delivery-node-5ytyoi3qo2ns2kik.voe-network.net/engine/hls2/01/12290/yrzbx004tzfz_,n,.urlset/index-v1-a1.m3u8?t=SA7ZFVuI-fqIpW-tLY6M_QEM2Dioqhj_c1SG47HUX5A&s=1727396327&e=14400&f=61450413&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=20.109&sp=2500&asn=8075",
                         "quality": "[ENG]Voe:1080p",
-                        "videoUrl": "https://delivery-node-5ytyoi3qo2ns2kik.voe-network.net/engine/hls2/01/12290/yrzbx004tzfz_,n,.urlset/index-v1-a1.m3u8?t=6r7v7xObAcmwx-NZFfDqzNc6qkoGCFPZQvrCz2XCpHA&s=1727374051&e=14400&f=61450413&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=40.71&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-5ytyoi3qo2ns2kik.voe-network.net/engine/hls2/01/12290/yrzbx004tzfz_,n,.urlset/index-v1-a1.m3u8?t=SA7ZFVuI-fqIpW-tLY6M_QEM2Dioqhj_c1SG47HUX5A&s=1727396327&e=14400&f=61450413&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=20.109&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=FpSU-sv_gLpN3igIUzw8Yfeqzb4jGfSs0Mj49RO9FKQ&s=1727374049&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IMoD6M3lXznDvcmwhax1Y0CAf_I4YJ-JaFZat-NeibA&s=1727396324&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "quality": "[ENG] StreamWish:1080p",
-                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=FpSU-sv_gLpN3igIUzw8Yfeqzb4jGfSs0Mj49RO9FKQ&s=1727374049&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IMoD6M3lXznDvcmwhax1Y0CAf_I4YJ-JaFZat-NeibA&s=1727396324&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -885,9 +902,9 @@
                         }
                     },
                     {
-                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=FpSU-sv_gLpN3igIUzw8Yfeqzb4jGfSs0Mj49RO9FKQ&s=1727374049&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=IMoD6M3lXznDvcmwhax1Y0CAf_I4YJ-JaFZat-NeibA&s=1727396324&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=FpSU-sv_gLpN3igIUzw8Yfeqzb4jGfSs0Mj49RO9FKQ&s=1727374049&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=IMoD6M3lXznDvcmwhax1Y0CAf_I4YJ-JaFZat-NeibA&s=1727396324&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -896,9 +913,9 @@
                         }
                     },
                     {
-                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=FpSU-sv_gLpN3igIUzw8Yfeqzb4jGfSs0Mj49RO9FKQ&s=1727374049&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IMoD6M3lXznDvcmwhax1Y0CAf_I4YJ-JaFZat-NeibA&s=1727396324&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=FpSU-sv_gLpN3igIUzw8Yfeqzb4jGfSs0Mj49RO9FKQ&s=1727374049&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04987/6qure08v991p_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IMoD6M3lXznDvcmwhax1Y0CAf_I4YJ-JaFZat-NeibA&s=1727396324&e=129600&f=24935182&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

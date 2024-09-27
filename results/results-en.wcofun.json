@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/everybody-still-hates-chris",
+                                "title": "Everybody Still Hates Chris",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg"
+                            },
+                            {
+                                "url": "/anime/tea-town-teddy-bears",
+                                "title": "Tea Town Teddy Bears",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933730.jpg"
+                            },
+                            {
+                                "url": "/anime/hitoribocchi-no-isekai-kouryaku",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933729.jpg"
+                            },
+                            {
                                 "url": "/anime/the-longhouse-tales",
                                 "title": "The Longhouse Tales",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/true-beauty",
                                 "title": "True Beauty",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg"
-                            },
-                            {
-                                "url": "/anime/delicos-nursery",
-                                "title": "Delico's Nursery",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933712.jpg"
-                            },
-                            {
-                                "url": "/anime/level-1-demon-lord-and-one-room-hero",
-                                "title": "Level 1 Demon Lord and One Room Hero",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933711.jpg"
-                            },
-                            {
-                                "url": "/anime/rick-and-morty-the-anime-english-subbed",
-                                "title": "Rick and Morty: The Anime English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933710.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,39 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-longhouse-tales",
-                    "title": "The Longhouse Tales",
-                    "description": "A young coyote, Dwight, falls from the sky into a quirky animal community. Comic adventures and magical transformations ensue, based on Aboriginal Canadian folklore.",
-                    "genre": "Animation, Comedy, Family, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg",
+                    "url": "/anime/everybody-still-hates-chris",
+                    "title": "Everybody Still Hates Chris",
+                    "description": "Animated sequel series which follows Everybody Hates Chris (2005), focusing on Chris Rock’s life as a kid in 1980’s Brooklyn, New York.",
+                    "genre": "Animation, Comedy, Drama, Music, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-longhouse-tales-episode-26-picture-perfect",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    },
-                    {
-                        "url": "/the-longhouse-tales-episode-25-keepers-of-the-light",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtFiZEqGdc7PppYYXc7UzTqvBIojYT8uHNgeVA9-KI6X2rojD8NYv4k1llwovlLeWK_BZz7zKTqTt1BuSnJrhH8zptRZDtCXPHsUIRPQX-0JvBjiTyN5WtwZT4JrieTfRs_FLjVL33VXZ-BUy-TU8piXH6_f9F3-7Pjpwsfyupi6Zd2bXkxnlma9n_Wj71jMbCOSQHcVIv-Il485ct-f2ZNCpP8tyO_1IVUZb-JWmYN9UqT73-Vf9zsCI9RZWalzQkGmmdqkgCsOupU6L2wJMwtjP7G1Z_7x_ZkKAF4VGlMniG5s1Thvp6PRZJm5nMtXGA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtFiZEqGdc7PppYYXc7UzTqvBIojYT8uHNgeVA9-KI6X2rojD8NYv4k1llwovlLeWK_BZz7zKTqTt1BuSnJrhH8zptRZDtCXPHsUIRPQX-0JvBjiTyN5WtwZT4JrieTfRs_FLjVL33VXZ-BUy-TU8piXH6_f9F3-7Pjpwsfyupi6Zd2bXkxnlma9n_Wj71jMbCOSQHcVIv-Il485ct-f2ZNCpP8tyO_1IVUZb-JWmYN9UqT73-Vf9zsCI9RZWalzQkGmmdqkgCsOupU6L2wJMwtjP7G1Z_7x_ZkKAF4VGlMniG5s1Thvp6PRZJm5nMtXGA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

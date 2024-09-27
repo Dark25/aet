@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/diabolica/",
+                                "title": "Diabólica",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oRODSMQ2L25M0Xjvt1g8pwd8yea.jpg"
+                            },
+                            {
                                 "url": "/filmes/transformers-o-inicio/",
                                 "title": "Transformers: O Início",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/5OZVZkV3cCfOGr7X0Ycft6hF5f0.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/borderlands-o-destino-do-universo-esta-em-jogo/",
                                 "title": "Borderlands: O Destino do Universo Está em Jogo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/xqPSxMaJ36etkUif4VggAX9tLu0.jpg"
-                            },
-                            {
-                                "url": "/filmes/os-provocadores/",
-                                "title": "Os Provocadores",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/transformers-o-inicio/",
-                    "title": "Transformers: O Início",
-                    "description": "Descrito como uma “história de origem” ambientada no planeta Cybertron, o filme será centrado na relação entre Optimus Prime e Megatron passando de irmãos de armas a arqui inimigos, e nas fundações das facções que eles liderarão e entrarão em conflito como Autobots e Decepticons.\n\nTítulo Original: Transformers One",
-                    "genre": "Animação, Aventura, Família, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/5OZVZkV3cCfOGr7X0Ycft6hF5f0.jpg",
+                    "url": "/filmes/diabolica/",
+                    "title": "Diabólica",
+                    "description": "Curtis e sua família são selecionados para testar um novo dispositivo doméstico revolucionário: Um assistente familiar digital chamado AIA. Levando a casa inteligente para o próximo nível, uma vez que a unidade e todos os seus sensores e câmeras estejam instalados em sua casa, o AIA parece capaz de fazer tudo. Ela aprende os comportamentos da família e começa a antecipar suas necessidades. E ela pode garantir que nada – nem ninguém – atrapalhe sua família.\n\nTítulo Original: Afraid",
+                    "genre": "Ficção científica, Terror, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/oRODSMQ2L25M0Xjvt1g8pwd8yea.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/transformers-o-inicio/",
+                        "url": "/filmes/diabolica/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

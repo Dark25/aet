@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/everybody-still-hates-chris-episode-2-everybody-still-hates-block-parties",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
+                    },
+                    {
+                        "url": "/everybody-still-hates-chris-episode-1-everybody-still-hates-the-ged",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S3ndNDRWYjgQwgHgmqQm0HCBQIwoqYR8x0R2qz9G3udkhLIZb3ChgSULiKd2MwMndux7mHdXIIMnKtkW-eWRwUs5h-An6lnIHTSa7FvGFjo6IVi6ufP4JBPhVfVERYoyppPz1j_ZZAhMedbtgX4MRuUqDHPT_onttLINHI6uFHXZSiJ2pkAb1ucTmDNoSdUDkScFLuuv2iWIdZXncfGW4-UGAO6VVfqxc3v5yr6ZDSOyTfD5dh3EJReUoa0__g_RnHTLbIWEdd1WLPR1fAQE-ls",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S3ndNDRWYjgQwgHgmqQm0HCBQIwoqYR8x0R2qz9G3udkhLIZb3ChgSULiKd2MwMndux7mHdXIIMnKtkW-eWRwUs5h-An6lnIHTSa7FvGFjo6IVi6ufP4JBPhVfVERYoyppPz1j_ZZAhMedbtgX4MRuUqDHPT_onttLINHI6uFHXZSiJ2pkAb1ucTmDNoSdUDkScFLuuv2iWIdZXncfGW4-UGAO6VVfqxc3v5yr6ZDSOyTfD5dh3EJReUoa0__g_RnHTLbIWEdd1WLPR1fAQE-ls"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S7Ac2lYVn_v-AA-Mo1o7EudZfZaoiIkPM9PPcI8MUAL3yxoPWCEql8aAgPQnpGpkpUVNT2l9tdyD9Fe5gNpe54dUw_oUo5w93BkdzXUGmxeoO8jVZ2KJ3Ewoxd2NxITaG_Hv-mY-NfwBYeZisDZnqdLCYDq57cFtnKAP6HNUc8_hAGy1hjiTNm9wFqheBRRgntkqFOg6UAtAzqR8esoQWi0W5gpeb2M06eg4bQpbqxsQQlfBPIk-Y2vUiS89hZfLnONpMSxbh7Jwl-ODtXjupBM",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S7Ac2lYVn_v-AA-Mo1o7EudZfZaoiIkPM9PPcI8MUAL3yxoPWCEql8aAgPQnpGpkpUVNT2l9tdyD9Fe5gNpe54dUw_oUo5w93BkdzXUGmxeoO8jVZ2KJ3Ewoxd2NxITaG_Hv-mY-NfwBYeZisDZnqdLCYDq57cFtnKAP6HNUc8_hAGy1hjiTNm9wFqheBRRgntkqFOg6UAtAzqR8esoQWi0W5gpeb2M06eg4bQpbqxsQQlfBPIk-Y2vUiS89hZfLnONpMSxbh7Jwl-ODtXjupBM"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S_V8m53whZSnHOzaEKn4lCUJrnZVU62i7Lv79M_tf7HxyIV-vC2zOKRZkp_P1IrhZvgH_4sMdG9lYxKrTKZqL1f0Fln4ZfNJefARwjLAshizEenjaGClxGftab-soNB0Fyne9xEvnE9DW66K6P15uZxRrvUDF_Xie64f5HJqHwYaTBFOTAafZBpKYE05otWlmghnmnCuqgfhrggQv-SpaExkBvialUazMweMviG-5fwKeKyM4qpSsRCb3pcbQ3FPdU_c52QvDfA4zZBxlwdPF3k",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S_V8m53whZSnHOzaEKn4lCUJrnZVU62i7Lv79M_tf7HxyIV-vC2zOKRZkp_P1IrhZvgH_4sMdG9lYxKrTKZqL1f0Fln4ZfNJefARwjLAshizEenjaGClxGftab-soNB0Fyne9xEvnE9DW66K6P15uZxRrvUDF_Xie64f5HJqHwYaTBFOTAafZBpKYE05otWlmghnmnCuqgfhrggQv-SpaExkBvialUazMweMviG-5fwKeKyM4qpSsRCb3pcbQ3FPdU_c52QvDfA4zZBxlwdPF3k"
+                    }
+                ],
+                "passed": true
             }
         }
     }

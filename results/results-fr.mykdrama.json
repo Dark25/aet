@@ -3,27 +3,27 @@
         "name": "MyKdrama (FR)",
         "results": {
             "popular": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/23.22.122.205:443",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/23.22.122.205:443",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/23.22.122.205:443",
+                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
                 "passed": false
             },
             "details": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/23.22.122.205:443",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/23.22.122.205:443",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/23.22.122.205:443",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

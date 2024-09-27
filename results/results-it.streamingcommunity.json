@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9796-it-ends-with-us-siamo-noi-a-dire-basta",
+                                "title": "It Ends with Us - Siamo Noi a dire basta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b1d77c9d-feae-4f8c-a0ab-7a10091bb992.webp"
+                            },
+                            {
                                 "url": "7246-la-creatura-di-gyeongseong",
                                 "title": "La creatura di Gyeongseong",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/306cf13d-eb80-4279-a8fb-7ad396e1a253.webp"
@@ -300,11 +305,6 @@
                                 "url": "7430-un-piedipiatti-a-beverly-hills-axel-f",
                                 "title": "Un piedipiatti a Beverly Hills - Axel F",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/01a31fc3-d42a-4660-8502-057ec23a203d.webp"
-                            },
-                            {
-                                "url": "9003-a-family-affair",
-                                "title": "A Family Affair",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9834e596-460d-49a2-940c-6372143535d0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,27 @@
             },
             "details": {
                 "result": {
-                    "url": "7246-la-creatura-di-gyeongseong",
-                    "description": "Nella cupa e triste primavera del 1945 due giovani cercano di salvarsi mentre affrontano alcuni mostri nati dall'avidità degli esseri umani.",
-                    "genre": "Sci-Fi & Fantasy, Mistero, Action & Adventure, Korean drama",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9796-it-ends-with-us-siamo-noi-a-dire-basta",
+                    "description": "L’appassionante storia di Lily Bloom, una donna che ha superato un'infanzia traumatica e intraprende una nuova vita a Boston per inseguire il sogno di una vita: aprire una propria attività. L'incontro casuale con l'affascinante neurochirurgo Ryle Kincaid fa nascere un legame intenso, ma mentre i due si innamorano profondamente, Lily inizia a vedere in Ryle lati che le ricordano il rapporto con i suoi genitori. Quando il primo amore di Lily, Atlas Corrigan, rientra improvvisamente nella sua vita, la relazione con Ryle viene stravolta e Lily capisce che deve imparare a contare sulle proprie forze per fare una scelta molto difficile per il suo futuro.",
+                    "genre": "Dramma, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "9796",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

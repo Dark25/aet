@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/berserk-latino",
+                                "title": "Berserk Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/berserk-latino-1727479709.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/spice-and-wolf-2024-s1-latino",
                                 "title": "Spice and Wolf (2024) S1 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/spice-and-wolf-2024-s1-latino-1727209997.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/kids-on-the-slope-latino",
                                 "title": "Kids on the Slope Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/kids-on-the-slope-latino-1721350567.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kono-sekai-wa-fukanzen-sugiru-latino",
-                                "title": "Kono Sekai wa Fukanzen Sugiru Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kono-sekai-wa-fukanzen-sugiru-latino-1720210235.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/spice-and-wolf-2024-s1-latino",
-                    "title": "Spice and Wolf (2024) S1 Latino",
-                    "description": "Lawrence, un comerciante ambulante, encuentra a una chica desnuda con orejas y cola de lobo dormida en su carro. Ella es Holo, una diosa de la cosecha con una bestia indómita acechando en su interior. Armado con su astucia callejera y sus instintos animales, un simple vendedor ambulante y una deidad olvidada viajan por el campo mientras cosechan las riquezas de la felicidad y exponen la bancarrota que habita en el corazón humano.",
-                    "genre": "Aventura, Drama, Fantasía, Romance",
+                    "url": "/anime/berserk-latino",
+                    "title": "Berserk Latino",
+                    "description": "La historia sigue la vida de Guts desde sus orígenes y juventud, pasando por su fatídico encuentro con Griffith, su amigo más cercano y posterior enemigo mortal, hasta el evento cataclísmico conocido como \"El Eclipse\". Así comienza su viaje de redención y venganza como el temido \"Espadachín Negro\". Este caótico relato es conocido como \"La Edad de Oro\".",
+                    "genre": "Acción, Aventura, Drama, Fantasía, Horror",
                     "initialized": true
                 },
                 "passed": true
@@ -335,14 +335,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/spice-and-wolf-2024-s1-latino-episodio-13",
-                        "name": "Spice and Wolf (2024) S1 Latino Capitulo 13",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/ver/spice-and-wolf-2024-s1-latino-episodio-12",
-                        "name": "Spice and Wolf (2024) S1 Latino Capitulo 12",
-                        "episode_number": 12.0
+                        "url": "/ver/berserk-latino-episodio-1",
+                        "name": "Berserk Latino Capitulo 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -350,31 +345,40 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/12282/4b3jtwnwyoiu_,n,.urlset/index-v1-a1.m3u8?t=ZDa3PcB0yYM08-ojEXfIdXmWKOnak5ceX_e2pjjq8D0&s=1727460442&e=14400&f=61414906&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "quality": " - Voe: 1080p",
-                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/12282/4b3jtwnwyoiu_,n,.urlset/index-v1-a1.m3u8?t=ZDa3PcB0yYM08-ojEXfIdXmWKOnak5ceX_e2pjjq8D0&s=1727460442&e=14400&f=61414906&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://voe.sx",
-                            "Referer": "https://voe.sx/e/4b3jtwnwyoiu"
-                        }
-                    },
-                    {
-                        "url": "https://www3.mp4upload.com:183/d/r2x3p5moz3b4quuom6rbijshjl7tw7albs4vwiarlnga2uolfnddhwzjjcgpuenandhy4zsa/video.mp4",
+                        "url": "https://www2.mp4upload.com:183/d/xcxz6g4oz3b4quuomcreqmktkoq6ej5argov2mejqynf5o7rt7tgcasukwl5nufa26lda5ip/video.mp4",
                         "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2x3p5moz3b4quuom6rbijshjl7tw7albs4vwiarlnga2uolfnddhwzjjcgpuenandhy4zsa/video.mp4",
+                        "videoUrl": "https://www2.mp4upload.com:183/d/xcxz6g4oz3b4quuomcreqmktkoq6ej5argov2mejqynf5o7rt7tgcasukwl5nufa26lda5ip/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://m130.uqload.ws/3rfk2nei4nw2q4drdkv7v4pzkkzyjva6jlyglei4xbwkwf7jokzwe27mcgsq/v.mp4",
+                        "url": "https://d312ow.cloudatacdn.com/u5kj7ja7rpclsdgge7eoumcpdu32dze5vt73pmlrihdy25m3cnnjvdooei4q/7eef9x6rwd~QxwXinDjbN?token=rb7th6h5o6ujgcjdji89syn9&expiry=1727482601979",
+                        "quality": "nullDoodstream  mirror",
+                        "videoUrl": "https://d312ow.cloudatacdn.com/u5kj7ja7rpclsdgge7eoumcpdu32dze5vt73pmlrihdy25m3cnnjvdooei4q/7eef9x6rwd~QxwXinDjbN?token=rb7th6h5o6ujgcjdji89syn9&expiry=1727482601979",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.li/"
+                        }
+                    },
+                    {
+                        "url": "https://m60.uqload.ws/3rfkqgpg4nw2q4drdks7v77yly5c6ac5sbzflnoyfzwt43we6fkze2spniya/v.mp4",
                         "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m130.uqload.ws/3rfk2nei4nw2q4drdkv7v4pzkkzyjva6jlyglei4xbwkwf7jokzwe27mcgsq/v.mp4",
+                        "videoUrl": "https://m60.uqload.ws/3rfkqgpg4nw2q4drdks7v77yly5c6ac5sbzflnoyfzwt43we6fkze2spniya/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-q57xpxulb1fqm6i0.voe-network.net/engine/hls2/01/12306/ggmodj7diz0n_,n,.urlset/master.m3u8?t=hCxQhpn8VDJ67FOjx8kERzww8jK5bFKVyhtH4r_hwBE&s=1727482645&e=14400&f=61531193&node=delivery-node-q57xpxulb1fqm6i0.voe-network.net&i=74.235&sp=2500&asn=8075",
+                        "quality": " - Voe: Video",
+                        "videoUrl": "https://delivery-node-q57xpxulb1fqm6i0.voe-network.net/engine/hls2/01/12306/ggmodj7diz0n_,n,.urlset/master.m3u8?t=hCxQhpn8VDJ67FOjx8kERzww8jK5bFKVyhtH4r_hwBE&s=1727482645&e=14400&f=61531193&node=delivery-node-q57xpxulb1fqm6i0.voe-network.net&i=74.235&sp=2500&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://voe.sx",
+                            "Referer": "https://voe.sx/e/ggmodj7diz0n"
                         }
                     }
                 ],

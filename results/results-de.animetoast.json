@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dungeon-no-naka-no-hito-ger-sub/",
+                                "title": "Dungeon no Naka no Hito Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/06/v71274-370x208.jpg"
+                            },
+                            {
                                 "url": "/the-fable-ger-sub/",
                                 "title": "The Fable Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/03/v65001-370x208.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/vcop-370x208.jpg"
-                            },
-                            {
-                                "url": "/karasu-wa-aruji-wo-erabanai-ger-sub/",
-                                "title": "Karasu wa Aruji wo Erabanai Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/03/v70360-370x208.jpg"
                             },
                             {
                                 "url": "/tensei-shitara-slime-datta-ken-3rd-season-ger-dub/",
@@ -394,13 +394,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-fable-ger-sub/",
-                    "title": "The Fable Ger Sub",
-                    "description": "Wenn man der berüchtigte Wunderkiller ist, der nur als »Fable« bekannt ist, fallen einem viele Dinge leicht. Ein normaler Mensch zu sein, gehört jedoch nicht dazu. Die Nachricht, dass er für eine Weile niemanden mehr töten darf, könnte der schwierigste Job sein, den Fable je angenommen hat …",
-                    "genre": "Action, Comedy, Drama, Seinen, Violence",
+                    "url": "/dungeon-no-naka-no-hito-ger-sub/",
+                    "title": "Dungeon no Naka no Hito Ger Sub",
+                    "description": "Clay wurde von ihrem Vater zu einem Mitglied der Diebesgilde ausgebildet. Seit dieser vor drei Jahren verschwunden ist, nutzt sie ihre Fähigkeiten, um in einem Dungeon voller Kobolde, Minotauren und allerlei anderer gefährlicher Kreaturen nach ihm zu suchen.",
+                    "genre": "Adventure, Comedy, Fantasy, Mystery",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/03/65001.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/06/71274.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -408,41 +408,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-fable-ger-sub/?link=24",
-                        "name": "Ep. 25",
-                        "episode_number": 25.0
+                        "url": "/dungeon-no-naka-no-hito-ger-sub/?link=11",
+                        "name": "Ep. 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/the-fable-ger-sub/?link=23",
-                        "name": "Ep. 24",
-                        "episode_number": 24.0
+                        "url": "/dungeon-no-naka-no-hito-ger-sub/?link=10",
+                        "name": "Ep. 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsx5sfeoz3b4quuomcre4ncfcm7ll27x6q3ecxjuxara25i67xjtuglczltexncja2myssu3/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx5sfeoz3b4quuomcre4ncfcm7ll27x6q3ecxjuxara25i67xjtuglczltexncja2myssu3/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/02/06977/hbjneyg9exd5_x/index-v1.m3u8?t=P06XsR_bMvBqGovg29N9B9V_ZXWtCTGePBrkzBwr2ZI&s=1727546753&e=10800&f=34885802&srv=25&asn=8075&sp=5500",
-                        "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/02/06977/hbjneyg9exd5_x/index-v1.m3u8?t=P06XsR_bMvBqGovg29N9B9V_ZXWtCTGePBrkzBwr2ZI&s=1727546753&e=10800&f=34885802&srv=25&asn=8075&sp=5500",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

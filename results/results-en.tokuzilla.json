@@ -73,20 +73,141 @@
                 "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/watch/ninjascope-magic-world-of-ninjas.html",
+                                "title": "Ninjascope: Magic World of Ninjas",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninjascope-magic-world-of-ninjas-thumb.png"
+                            },
+                            {
+                                "url": "/watch/super-sentai-world.html",
+                                "title": "Super Sentai World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-grease.html",
+                                "title": "Build NEW WORLD: Kamen Rider Grease",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
+                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-world-j-zo.html",
+                                "title": "Kamen Rider World ( J & ZO )",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
+                                "title": "Kamen Rider Black RX – Run All Over The World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/ohsama-sentai-king-ohger-final-three-episodes.html",
+                                "title": "Ohsama Sentai King-Ohger Final Three Episodes",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-three-episodes-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-geats-jyamato-awaking.html",
+                                "title": "Kamen Rider Geats: Jyamato Awaking",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-jyamato-awaking-thumb.png"
+                            },
+                            {
+                                "url": "/watch/daitetsujin-17-movie-2.html",
+                                "title": "Daitetsujin 17 Movie 2",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/daitetsujin-17-movie-2-thumb.png"
+                            },
+                            {
+                                "url": "/watch/daitetsujin-17-movie-1.html",
+                                "title": "Daitetsujin 17 Movie 1",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/daitetsujin-17-movie-1-thumb.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/watch/three-dark-sisters-presents-kamen-rider-gotchard-unfinished-plan.html",
+                    "title": "Three Dark Sisters Presents: Kamen Rider Gotchard Unfinished Plan",
+                    "author": "Year 2023",
+                    "description": "Three Dark Sisters Presents: Kamen Rider Gotchard Unfinished Plan is a TTFC -exclusive audiodrama featuring the Three Dark Sisters with fourth-wall breaking jokes and gags, serving as supplementary material to the Kamen Rider Gotchard TV series.",
+                    "genre": "Kamen Rider, Series",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/three-dark-sisters-presents-kamen-rider-gotchard-unfinished-plan-thumb.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/three-dark-sisters-presents-kamen-rider-gotchard-unfinished-plan.html?ep=12#watch",
+                        "name": "Episode 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/watch/three-dark-sisters-presents-kamen-rider-gotchard-unfinished-plan.html?ep=11#watch",
+                        "name": "Episode 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://stor50-eu.nextcdn.stream/964e109cf75aff95b4a760be3c2d863d/2024-09-24/1080.m3u8?token=43e954c097792defb913e27b285b28eb&client=d41d8cd98f00b204e9800998ecf8427e&expires=1727597887&type=edge&asn=8075&node=ZBpcM_W0PZ9VPIFu4t3ydKcXdK2R5mBYWE3nYxjABmrSEIFKBau1VmhAegFco2NvKib9WZ4QA_lAHm9fPfPZF8DAOjGGl4tdXE7BFsO5FJT0t5kaxMqtC-pQIifU6esxC6_-wBF9Si92POV2m80S-Q",
+                        "quality": "Chillx - 1080p",
+                        "videoUrl": "https://stor50-eu.nextcdn.stream/964e109cf75aff95b4a760be3c2d863d/2024-09-24/1080.m3u8?token=43e954c097792defb913e27b285b28eb&client=d41d8cd98f00b204e9800998ecf8427e&expires=1727597887&type=edge&asn=8075&node=ZBpcM_W0PZ9VPIFu4t3ydKcXdK2R5mBYWE3nYxjABmrSEIFKBau1VmhAegFco2NvKib9WZ4QA_lAHm9fPfPZF8DAOjGGl4tdXE7BFsO5FJT0t5kaxMqtC-pQIifU6esxC6_-wBF9Si92POV2m80S-Q",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://boosterx.stream",
+                            "Referer": "https://boosterx.stream/v/4jNuWSZga0bH/"
+                        }
+                    },
+                    {
+                        "url": "https://stor50-eu.nextcdn.stream/964e109cf75aff95b4a760be3c2d863d/2024-09-24/720.m3u8?token=43e954c097792defb913e27b285b28eb&client=d41d8cd98f00b204e9800998ecf8427e&expires=1727597887&type=edge&asn=8075&node=ZBpcM_W0PZ9VPIFu4t3ydKcXdK2R5mBYWE3nYxjABmrSEIFKBau1VmhAegFco2NvKib9WZ4QA_lAHm9fPfPZF8DAOjGGl4tdXE7BFsO5FJT0t5kaxMqtC-pQIifU6esxC6_-wBF9Si92POV2m80S-Q",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://stor50-eu.nextcdn.stream/964e109cf75aff95b4a760be3c2d863d/2024-09-24/720.m3u8?token=43e954c097792defb913e27b285b28eb&client=d41d8cd98f00b204e9800998ecf8427e&expires=1727597887&type=edge&asn=8075&node=ZBpcM_W0PZ9VPIFu4t3ydKcXdK2R5mBYWE3nYxjABmrSEIFKBau1VmhAegFco2NvKib9WZ4QA_lAHm9fPfPZF8DAOjGGl4tdXE7BFsO5FJT0t5kaxMqtC-pQIifU6esxC6_-wBF9Si92POV2m80S-Q",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://boosterx.stream",
+                            "Referer": "https://boosterx.stream/v/4jNuWSZga0bH/"
+                        }
+                    },
+                    {
+                        "url": "https://stor50-eu.nextcdn.stream/964e109cf75aff95b4a760be3c2d863d/2024-09-24/360.m3u8?token=43e954c097792defb913e27b285b28eb&client=d41d8cd98f00b204e9800998ecf8427e&expires=1727597887&type=edge&asn=8075&node=ZBpcM_W0PZ9VPIFu4t3ydKcXdK2R5mBYWE3nYxjABmrSEIFKBau1VmhAegFco2NvKib9WZ4QA_lAHm9fPfPZF8DAOjGGl4tdXE7BFsO5FJT0t5kaxMqtC-pQIifU6esxC6_-wBF9Si92POV2m80S-Q",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://stor50-eu.nextcdn.stream/964e109cf75aff95b4a760be3c2d863d/2024-09-24/360.m3u8?token=43e954c097792defb913e27b285b28eb&client=d41d8cd98f00b204e9800998ecf8427e&expires=1727597887&type=edge&asn=8075&node=ZBpcM_W0PZ9VPIFu4t3ydKcXdK2R5mBYWE3nYxjABmrSEIFKBau1VmhAegFco2NvKib9WZ4QA_lAHm9fPfPZF8DAOjGGl4tdXE7BFsO5FJT0t5kaxMqtC-pQIifU6esxC6_-wBF9Si92POV2m80S-Q",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://boosterx.stream",
+                            "Referer": "https://boosterx.stream/v/4jNuWSZga0bH/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

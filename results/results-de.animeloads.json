@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/girls-band-cry",
+                                "title": "Girls Band Cry",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-girls-band-cry-cover.jpg"
+                            },
+                            {
                                 "url": "/media/maou-sama-retry-r",
                                 "title": "Demon Lord, Retry! R",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-maou-sama-retry-r-cover.jpeg"
@@ -100,11 +105,6 @@
                                 "url": "/media/atri-my-dear-moments",
                                 "title": "Atri: My Dear Moments",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-atri-my-dear-moments-cover.jpg"
-                            },
-                            {
-                                "url": "/media/bye-bye-earth",
-                                "title": "Bye Bye, Earth",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-bye-bye-earth-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/maou-sama-retry-r",
-                    "title": "Demon Lord, Retry! R",
+                    "url": "/media/girls-band-cry",
+                    "title": "Girls Band Cry",
                     "author": "",
-                    "description": "In der Nacht, in der sein Lieblingsspiel eingestellt wird, erwacht Akira Oono in der Gestalt seiner Online-Figur: Dämonenfürst Hakuto Kunai. Quelle: aniSearch",
-                    "genre": "Abenteuer",
+                    "description": "Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-maou-sama-retry-r-cover.jpeg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-girls-band-cry-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,9 +239,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/maou-sama-retry-r#streams_episodes_1_0",
-                        "name": "Ep.1 ReTry",
-                        "episode_number": 1.0
+                        "url": "/media/girls-band-cry#streams_episodes_1_12",
+                        "name": "Ep.13 Episode 13",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/media/girls-band-cry#streams_episodes_1_11",
+                        "name": "Ep.12 Episode 12",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -249,14 +254,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=wl29ylMqbeUJzP4&expires=1727639044&ip=FROsF0EnDS9X&token=6hVPPdhcknnT",
+                        "url": "https://streamtape.com/get_video?id=92Gwp7xA3kIDBv&expires=1727659909&ip=F0qQKRWZD19XKxR&token=nRm9ka1Vo0WJ",
                         "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=wl29ylMqbeUJzP4&expires=1727639044&ip=FROsF0EnDS9X&token=6hVPPdhcknnT"
+                        "videoUrl": "https://streamtape.com/get_video?id=92Gwp7xA3kIDBv&expires=1727659909&ip=F0qQKRWZD19XKxR&token=nRm9ka1Vo0WJ"
                     },
                     {
-                        "url": "https://delivery-node-413ogkcpdgenkxt7.voe-network.net/engine/hls2-c/01/12311/lcxhxuwum4dl_,n,.urlset/index-v1-a1.m3u8?t=1bNrSXU9lT-TlmjqKMaw2Ze1UElzyng0YO86zwqNBP4&s=1727569037&e=14400&f=61557856&node=delivery-node-fkw5luwi91fa2hmi.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "url": "https://delivery-node-tw6ml5qidnnni2ll.voe-network.net/engine/hls2/01/12315/cxfqorooy8kg_,n,.urlset/index-v1-a1.m3u8?t=kHx_LQa--TxkoDWx9O1TI1JRwhkBBpa0HZAWHV-XU1U&s=1727589903&e=14400&f=61575312&node=delivery-node-tw6ml5qidnnni2ll.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "(Deutsch Sub) Voe:720p",
-                        "videoUrl": "https://delivery-node-413ogkcpdgenkxt7.voe-network.net/engine/hls2-c/01/12311/lcxhxuwum4dl_,n,.urlset/index-v1-a1.m3u8?t=1bNrSXU9lT-TlmjqKMaw2Ze1UElzyng0YO86zwqNBP4&s=1727569037&e=14400&f=61557856&node=delivery-node-fkw5luwi91fa2hmi.voe-network.net&i=20.97&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-tw6ml5qidnnni2ll.voe-network.net/engine/hls2/01/12315/cxfqorooy8kg_,n,.urlset/index-v1-a1.m3u8?t=kHx_LQa--TxkoDWx9O1TI1JRwhkBBpa0HZAWHV-XU1U&s=1727589903&e=14400&f=61575312&node=delivery-node-tw6ml5qidnnni2ll.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

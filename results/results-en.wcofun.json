@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/nageki-no-bourei-wa-intai-shitai",
+                                "title": "Nageki no Bourei wa Intai shitai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933735.jpg"
+                            },
+                            {
+                                "url": "/anime/uzumaki-spiral-into-horror",
+                                "title": "Uzumaki: Spiral into Horror",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933734.jpg"
+                            },
+                            {
+                                "url": "/anime/uzumaki",
+                                "title": "Uzumaki",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933733.jpg"
+                            },
+                            {
                                 "url": "/anime/maou-sama-retry-r",
                                 "title": "Maou-sama, Retry! R",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933732.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/murai-no-koi",
                                 "title": "Murai no Koi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933720.jpg"
-                            },
-                            {
-                                "url": "/anime/i-parry-everything",
-                                "title": "I Parry Everything",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933716.jpg"
-                            },
-                            {
-                                "url": "/anime/terminator-zero",
-                                "title": "Terminator Zero",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933715.jpg"
-                            },
-                            {
-                                "url": "/anime/terminator-zero-english-subbed",
-                                "title": "Terminator Zero English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933714.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/maou-sama-retry-r",
-                    "title": "Maou-sama, Retry! R",
-                    "description": "The Demon Lord continues his adventure in this revamped series! After encountering the mysterious entity in the lowest level of the Bastille Dungeon, he sets out for Hellion Territory, where Grand Devils vie for domination of the realm. With the addition of a new advisor—the (seemingly) hopeless optimist Akane—the Demon Lord’s army grows even more colorful, and their hijinks even wackier.",
+                    "url": "/anime/nageki-no-bourei-wa-intai-shitai",
+                    "title": "Nageki no Bourei wa Intai shitai",
+                    "description": "The golden age has dawned for treasure hunters, who raid treasure vaults all over the world in search of glory, despite the dangers. Immeasurable wealth, fame, and power await those who prevail.",
                     "genre": "Action, Adventure, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933732.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933735.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/maou-sama-retry-r-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV1DoH66prnv9MjfTiURlpFTXIAhKcyqsoEEgjs8-V9sZNYB5oN1EYkr9xG78fj1b_qrI-OvP3JLtLb6F1pU540TvtaGX_jMv7CDUpPQnq_eeL88kZDXUQLMVYWTgVHxS1a1sBgWuPDZoBcJ31ZLqSncmgn7JCmCQcr-907TG-jYE5B36vylXpCJ-Z1HjezMmyCf-mGR8bkG9mzW_owjRjImteSYJ0WDu33rTFhJoIdIpcsd50adVhKxV-UeBdyhXMP7EJJmIlCfUjszqBjRBSxMmpz63ap9_xcQEH5S_tb22eIUJ2gvS-zAxnr2TQbt6OUc5yV6Z2GBIZ6BeuNbhfohwlVhtjCn36kZTdluNAB8sfQYfYmVP_zK3G1yzqXJIA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV1DoH66prnv9MjfTiURlpFTXIAhKcyqsoEEgjs8-V9sZNYB5oN1EYkr9xG78fj1b_qrI-OvP3JLtLb6F1pU540TvtaGX_jMv7CDUpPQnq_eeL88kZDXUQLMVYWTgVHxS1a1sBgWuPDZoBcJ31ZLqSncmgn7JCmCQcr-907TG-jYE5B36vylXpCJ-Z1HjezMmyCf-mGR8bkG9mzW_owjRjImteSYJ0WDu33rTFhJoIdIpcsd50adVhKxV-UeBdyhXMP7EJJmIlCfUjszqBjRBSxMmpz63ap9_xcQEH5S_tb22eIUJ2gvS-zAxnr2TQbt6OUc5yV6Z2GBIZ6BeuNbhfohwlVhtjCn36kZTdluNAB8sfQYfYmVP_zK3G1yzqXJIA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV1DoH66prnv9MjfTiURlpFTXIAhKcyqsoEEgjs8-V9sZNYB5oN1EYkr9xG78fj1b_qrI-OvP3JLtLb6F1pU540TvtaGX_jMv7CDUpPQnq_eQlx0RWjaxxlbKapTu9qZiZVItGBynlKePoWleNtsH9ILK7pGsytLC5u1Sbm0J4fP0IrhO2qiJLq7lslviY0YSd2WyGl59M9beNNdsjYmtFfpCycHd72IlcHt7MoQM_fRYSUJhahub4poJISs4EN9WnTX-6pmHDkLR0-7s23DQtFu1t7MJnkuxw2Oi3WVSIQFQgVavLC42U0HGHGYc2R9Q_rWqFBlIRwaaHethIi1vARRIxGrFlr8TnevZUhh_gHh02A0UtbXFk0eDMaxK8NpQA",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV1DoH66prnv9MjfTiURlpFTXIAhKcyqsoEEgjs8-V9sZNYB5oN1EYkr9xG78fj1b_qrI-OvP3JLtLb6F1pU540TvtaGX_jMv7CDUpPQnq_eQlx0RWjaxxlbKapTu9qZiZVItGBynlKePoWleNtsH9ILK7pGsytLC5u1Sbm0J4fP0IrhO2qiJLq7lslviY0YSd2WyGl59M9beNNdsjYmtFfpCycHd72IlcHt7MoQM_fRYSUJhahub4poJISs4EN9WnTX-6pmHDkLR0-7s23DQtFu1t7MJnkuxw2Oi3WVSIQFQgVavLC42U0HGHGYc2R9Q_rWqFBlIRwaaHethIi1vARRIxGrFlr8TnevZUhh_gHh02A0UtbXFk0eDMaxK8NpQA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV1DoH66prnv9MjfTiURlpFTXIAhKcyqsoEEgjs8-V9sZNYB5oN1EYkr9xG78fj1b_qrI-OvP3JLtLb6F1pU540TvtaGX_jMv7CDUpPQnq_eT8yXssuXehdjg8zc0BeYDr0WZNbkMwa6cpNiIR7DNxXuBN3cCCvMC3XnNQuRLX5dAIxMXYYZZzLjbKyW5QxEtL0q4ywrJlwXDoU5oQIpL5GljSkuNfH3epeWBpDl8ETlsxGRJ4E-T7sXHbvLE8kQCHanUuPAxhaebunqAsbUWw2k5SUpxOEl0ZnC6xYpQPkV-oBB0-XPQTo3D_Y-gjPVkWaNI7tusRG_stHVRKJ8NA2oHr6INa25fvJzWtTZcJpOA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV1DoH66prnv9MjfTiURlpFTXIAhKcyqsoEEgjs8-V9sZNYB5oN1EYkr9xG78fj1b_qrI-OvP3JLtLb6F1pU540TvtaGX_jMv7CDUpPQnq_eT8yXssuXehdjg8zc0BeYDr0WZNbkMwa6cpNiIR7DNxXuBN3cCCvMC3XnNQuRLX5dAIxMXYYZZzLjbKyW5QxEtL0q4ywrJlwXDoU5oQIpL5GljSkuNfH3epeWBpDl8ETlsxGRJ4E-T7sXHbvLE8kQCHanUuPAxhaebunqAsbUWw2k5SUpxOEl0ZnC6xYpQPkV-oBB0-XPQTo3D_Y-gjPVkWaNI7tusRG_stHVRKJ8NA2oHr6INa25fvJzWtTZcJpOA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

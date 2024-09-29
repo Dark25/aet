@@ -3,11 +3,11 @@
         "name": "Anime Sakura (EN)",
         "results": {
             "popular": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected quotation mark '\"', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html>\n    <he.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected quotation mark '\"', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html>\n    <he.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {

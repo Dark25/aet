@@ -1,6 +1,6 @@
 ## Extension status
 
-### 99/238(42%) are working
+### 101/238(42%) are working
 
 | Extension             |   Status   | Log                                                                                                                                   |
 | :-------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------------------------ |
@@ -29,7 +29,7 @@
 | ar.animerco           |  ❌<br>3/5  | [results-ar.animerco.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.animerco.json)                     |
 | ar.arabanime          |  ❌<br>0/6  | [results-ar.arabanime.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.arabanime.json)                   |
 | ar.arabseed           |  ❌<br>4/5  | [results-ar.arabseed.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.arabseed.json)                     |
-| ar.asia2tv            |     ✅      | [results-ar.asia2tv.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.asia2tv.json)                       |
+| ar.asia2tv            |  ❌<br>4/5  | [results-ar.asia2tv.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.asia2tv.json)                       |
 | ar.cimaleek           |  ❌<br>4/6  | [results-ar.cimaleek.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.cimaleek.json)                     |
 | ar.egydead            |  ❌<br>1/6  | [results-ar.egydead.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.egydead.json)                       |
 | ar.faselhd            |  ❌<br>5/6  | [results-ar.faselhd.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-ar.faselhd.json)                       |
@@ -56,7 +56,7 @@
 | de.serienstream       |  ❌<br>4/6  | [results-de.serienstream.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-de.serienstream.json)             |
 | de.streamcloud        |  ❌<br>4/5  | [results-de.streamcloud.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-de.streamcloud.json)               |
 | en.allanime           |     ✅      | [results-en.allanime.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-en.allanime.json)                     |
-| en.allanimechi        |  ❌<br>3/6  | [results-en.allanimechi.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-en.allanimechi.json)               |
+| en.allanimechi        |  ❌<br>5/6  | [results-en.allanimechi.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-en.allanimechi.json)               |
 | en.allmovies          |  ❌<br>2/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-en.allmovies.json)                   |
 | en.anilist            |  ❌<br>5/6  | [results-en.anilist.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-en.anilist.json)                       |
 | en.animeflix          |  ❌<br>0/6  | [results-en.animeflix.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-en.animeflix.json)                   |
@@ -147,8 +147,8 @@
 | es.lacartoons         |     ✅      | [results-es.lacartoons.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.lacartoons.json)                 |
 | es.latanime           |     ✅      | [results-es.latanime.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.latanime.json)                     |
 | es.legionanime        |  ❌<br>5/6  | [results-es.legionanime.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.legionanime.json)               |
-| es.locopelis          |  ❌<br>5/6  | [results-es.locopelis.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.locopelis.json)                   |
-| es.metroseries        |  ❌<br>3/5  | [results-es.metroseries.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.metroseries.json)               |
+| es.locopelis          |     ✅      | [results-es.locopelis.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.locopelis.json)                   |
+| es.metroseries        |     ✅      | [results-es.metroseries.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.metroseries.json)               |
 | es.mhdflix            |     ✅      | [results-es.mhdflix.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.mhdflix.json)                       |
 | es.monoschinos        |     ✅      | [results-es.monoschinos.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.monoschinos.json)               |
 | es.mundodonghua       |     ✅      | [results-es.mundodonghua.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-es.mundodonghua.json)             |
@@ -181,7 +181,7 @@
 | id.kuronime           |  ❌<br>5/6  | [results-id.kuronime.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.kuronime.json)                     |
 | id.minioppai          |  ❌<br>0/6  | [results-id.minioppai.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.minioppai.json)                   |
 | id.neonime            |  ❌<br>0/6  | [results-id.neonime.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.neonime.json)                       |
-| id.nimegami           |  ❌<br>4/6  | [results-id.nimegami.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.nimegami.json)                     |
+| id.nimegami           |     ✅      | [results-id.nimegami.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.nimegami.json)                     |
 | id.oploverz           |  ❌<br>0/6  | [results-id.oploverz.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.oploverz.json)                     |
 | id.otakudesu          |     ✅      | [results-id.otakudesu.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.otakudesu.json)                   |
 | id.samehadaku         |  ❌<br>5/6  | [results-id.samehadaku.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-id.samehadaku.json)                 |
@@ -200,7 +200,7 @@
 | pt.anidong            |     ✅      | [results-pt.anidong.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.anidong.json)                       |
 | pt.animefire          |  ❌<br>0/6  | [results-pt.animefire.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animefire.json)                   |
 | pt.animeplayer        |     ✅      | [results-pt.animeplayer.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animeplayer.json)               |
-| pt.animeq             |  ❌<br>4/6  | [results-pt.animeq.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animeq.json)                         |
+| pt.animeq             |  ❌<br>5/6  | [results-pt.animeq.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animeq.json)                         |
 | pt.animescx           |     ✅      | [results-pt.animescx.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animescx.json)                     |
 | pt.animesdigital      |     ✅      | [results-pt.animesdigital.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animesdigital.json)           |
 | pt.animesfoxbr        |  ❌<br>1/6  | [results-pt.animesfoxbr.json](https://raw.githubusercontent.com/Dark25/aet/results/results/results-pt.animesfoxbr.json)               |

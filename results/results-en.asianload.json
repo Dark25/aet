@@ -62,7 +62,7 @@
                                 "thumbnail_url": "https://asianimg.pro/cover/andante-of-love-1721025562.png"
                             },
                             {
-                                "url": "/videos/no-gain-no-love-2024-episode-10",
+                                "url": "/videos/no-gain-no-love-2024-episode-11",
                                 "title": "No Gain, No Love (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/because-i-want-no-loss-1722845920.png"
                             },
@@ -332,12 +332,37 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/gyeongseong-creature-season-2-2024-episode-7",
+                        "name": "SUB Episode: 7",
+                        "date_upload": 1727403033000,
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/videos/gyeongseong-creature-season-2-2024-episode-6",
+                        "name": "SUB Episode: 6",
+                        "date_upload": 1727403032000,
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04998/oaotxhfcn931_n/index-v1-a1.m3u8?t=1eu16cFbCUhQTV--F95atezaSNZEe_epyTSbmuJrcpM&s=1727719504&e=129600&f=24990997&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04998/oaotxhfcn931_n/index-v1-a1.m3u8?t=1eu16cFbCUhQTV--F95atezaSNZEe_epyTSbmuJrcpM&s=1727719504&e=129600&f=24990997&srv=xhisossxof6ziadr&i=0.0&sp=500&p1=xhisossxof6ziadr&p2=xhisossxof6ziadr&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/oaotxhfcn931?caption_1=https://sub.asianbxkiun.pro&sub_1=English"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

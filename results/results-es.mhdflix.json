@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/deber-cumplido/",
+                                "title": "Deber cumplido",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg"
+                            },
+                            {
                                 "url": "/movies/bed-of-nails/",
                                 "title": "Bed of Nails",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/2C7HVd0QCz4ffDj0lbVLZZQWx5L.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/movies/los-feos/",
                                 "title": "Los feos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg"
-                            },
-                            {
-                                "url": "/movies/poder-sin-limites/",
-                                "title": "Poder sin límites",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,12 +224,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/bed-of-nails/",
-                    "title": "Bed of Nails",
-                    "author": "Kenny Vathauer",
-                    "description": "",
-                    "genre": "Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2C7HVd0QCz4ffDj0lbVLZZQWx5L.jpg",
+                    "url": "/movies/deber-cumplido/",
+                    "title": "Deber cumplido",
+                    "artist": "Allison King",
+                    "author": "Jason Hall",
+                    "description": "Tres soldados estadounidenses regresan de Irak tratando de reintegrarse con sus familias, y adaptándose a la vida civil mientras luchan por olvidar sus duros recuerdos de la guerra.",
+                    "genre": "Amazon Prime Video, Bélica, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -237,7 +238,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/bed-of-nails/",
+                        "url": "/movies/deber-cumplido/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -247,28 +248,78 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://jturq6cd3wcv.pradoi.com/hls2/01/04979/oerka4brbpdo_n/index-v1-a1.m3u8?t=VBUiAqHUm1Aw_3Gnapw0jBOwHqmG5XNiElajuj1Otnc&s=1727698073&e=129600&f=24897701&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
-                        "quality": "[SUB] - StreamWish - 720p",
-                        "videoUrl": "https://jturq6cd3wcv.pradoi.com/hls2/01/04979/oerka4brbpdo_n/index-v1-a1.m3u8?t=VBUiAqHUm1Aw_3Gnapw0jBOwHqmG5XNiElajuj1Otnc&s=1727698073&e=129600&f=24897701&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/02474/d2m34mjof4ob_,n,h,.urlset/index-f2-v1-a1.m3u8?t=_1ZsSDQuC-TMYiSw50SVRJCysjGhHBD1aBpEHah_aSY&s=1727719600&e=129600&f=15301428&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "[LAT] - StreamWish - 720p",
+                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/02474/d2m34mjof4ob_,n,h,.urlset/index-f2-v1-a1.m3u8?t=_1ZsSDQuC-TMYiSw50SVRJCysjGhHBD1aBpEHah_aSY&s=1727719600&e=129600&f=15301428&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/gfm8alcsn9da"
+                            "Referer": "https://streamwish.to/e/rp8b4d8jffyy"
                         }
                     },
                     {
-                        "url": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/12280/iocnk3vumrev_,n,.urlset/index-v1-a1.m3u8?t=QGbI8tX96H2KPl5NKK1pV8njs4TGk0uxZK1hbkEzlJI&s=1727698071&e=14400&f=61402610&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=20.161&sp=2500&asn=8075",
-                        "quality": "[SUB] - Voe:720p",
-                        "videoUrl": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/12280/iocnk3vumrev_,n,.urlset/index-v1-a1.m3u8?t=QGbI8tX96H2KPl5NKK1pV8njs4TGk0uxZK1hbkEzlJI&s=1727698071&e=14400&f=61402610&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=20.161&sp=2500&asn=8075",
+                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/02474/d2m34mjof4ob_,n,h,.urlset/index-f1-v1-a1.m3u8?t=_1ZsSDQuC-TMYiSw50SVRJCysjGhHBD1aBpEHah_aSY&s=1727719600&e=129600&f=15301428&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "[LAT] - StreamWish - 480p",
+                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/02474/d2m34mjof4ob_,n,h,.urlset/index-f1-v1-a1.m3u8?t=_1ZsSDQuC-TMYiSw50SVRJCysjGhHBD1aBpEHah_aSY&s=1727719600&e=129600&f=15301428&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/rp8b4d8jffyy"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-ljesirbcw2lwdzzg.voe-network.net/engine/hls2/01/08697/xwxiaz99m9jo_,n,.urlset/index-v1-a1.m3u8?t=Iq9g4cjfbNckRvKlBMqzo0ez8iFGuyxP0RI4494lShc&s=1727719599&e=14400&f=43488936&node=delivery-node-ljesirbcw2lwdzzg.voe-network.net&i=20.49&sp=2500&asn=8075",
+                        "quality": "[LAT] - Voe:720p",
+                        "videoUrl": "https://delivery-node-ljesirbcw2lwdzzg.voe-network.net/engine/hls2/01/08697/xwxiaz99m9jo_,n,.urlset/index-v1-a1.m3u8?t=Iq9g4cjfbNckRvKlBMqzo0ez8iFGuyxP0RI4494lShc&s=1727719599&e=14400&f=43488936&node=delivery-node-ljesirbcw2lwdzzg.voe-network.net&i=20.49&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Lqx130waZpUadX&expires=1727768069&ip=FROsD0ISKxSHDN&token=QyZOBA-l03Oq",
-                        "quality": "[SUB] - StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Lqx130waZpUadX&expires=1727768069&ip=FROsD0ISKxSHDN&token=QyZOBA-l03Oq"
+                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/03747/ayh8jbt7iear_,n,h,.urlset/index-f2-v1-a1.m3u8?t=kxUzyCfUkOW1GwlVzgHZDQ1oVRMvSZ8T-oSZ_o1uDSM&s=1727719604&e=129600&f=18735498&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[CAST] - StreamWish - 720p",
+                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/03747/ayh8jbt7iear_,n,h,.urlset/index-f2-v1-a1.m3u8?t=kxUzyCfUkOW1GwlVzgHZDQ1oVRMvSZ8T-oSZ_o1uDSM&s=1727719604&e=129600&f=18735498&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ayh8jbt7iear"
+                        }
+                    },
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/03747/okdu5yabs3qd_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7LKl5Klb1twmu9lspqYn5UkXiHEk6VR7nLp_iatE1Mo&s=1727719606&e=129600&f=18735526&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[SUB] - StreamWish - 720p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/03747/okdu5yabs3qd_,n,h,.urlset/index-f2-v1-a1.m3u8?t=7LKl5Klb1twmu9lspqYn5UkXiHEk6VR7nLp_iatE1Mo&s=1727719606&e=129600&f=18735526&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/okdu5yabs3qd"
+                        }
+                    },
+                    {
+                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/03747/ayh8jbt7iear_,n,h,.urlset/index-f1-v1-a1.m3u8?t=kxUzyCfUkOW1GwlVzgHZDQ1oVRMvSZ8T-oSZ_o1uDSM&s=1727719604&e=129600&f=18735498&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[CAST] - StreamWish - 480p",
+                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/03747/ayh8jbt7iear_,n,h,.urlset/index-f1-v1-a1.m3u8?t=kxUzyCfUkOW1GwlVzgHZDQ1oVRMvSZ8T-oSZ_o1uDSM&s=1727719604&e=129600&f=18735498&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ayh8jbt7iear"
+                        }
+                    },
+                    {
+                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/03747/okdu5yabs3qd_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7LKl5Klb1twmu9lspqYn5UkXiHEk6VR7nLp_iatE1Mo&s=1727719606&e=129600&f=18735526&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[SUB] - StreamWish - 480p",
+                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/03747/okdu5yabs3qd_,n,h,.urlset/index-f1-v1-a1.m3u8?t=7LKl5Klb1twmu9lspqYn5UkXiHEk6VR7nLp_iatE1Mo&s=1727719606&e=129600&f=18735526&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/okdu5yabs3qd"
+                        }
                     }
                 ],
                 "passed": true

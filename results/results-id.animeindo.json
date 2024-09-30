@@ -3,11 +3,11 @@
         "name": "AnimeIndo (ID)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
                 "passed": false
             },
             "search": {
@@ -15,15 +15,15 @@
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
                 "passed": false
             }
         }

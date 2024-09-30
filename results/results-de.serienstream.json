@@ -147,14 +147,14 @@
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/the-bear-stream-cover-lax7Q6phrjuFhSV6rm4ZOBlclPpadl5b_200x300.jpg"
                             },
                             {
-                                "url": "/serie/stream/the-boys",
-                                "title": "The Boys",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/the-boys-stream-cover-THcZG0MLf5QX1uipAv4yf5XvZiltrmvG_200x300.jpg"
-                            },
-                            {
                                 "url": "/serie/stream/only-murders-in-the-building",
                                 "title": "Only Murders in the Building",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/only-murders-in-the-building-stream-cover-TX3wb4N0yaVexmkaanXKeUMAAd1xfDjN_200x300.jpg"
+                            },
+                            {
+                                "url": "/serie/stream/the-boys",
+                                "title": "The Boys",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/the-boys-stream-cover-THcZG0MLf5QX1uipAv4yf5XvZiltrmvG_200x300.jpg"
                             },
                             {
                                 "url": "/serie/stream/atemlos",
@@ -364,6 +364,11 @@
             },
             "episodes": {
                 "result": [
+                    {
+                        "url": "/serie/stream/the-penguin/staffel-1/episode-2",
+                        "name": "Staffel 1 Folge 2 : ",
+                        "episode_number": 2.0
+                    },
                     {
                         "url": "/serie/stream/the-penguin/staffel-1/episode-1",
                         "name": "Staffel 1 Folge 1 : After Hours",

@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/nageki-no-bourei-wa-intai-shitai-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWltChx1i-OzR78_LXss2sICyGESao2BJH2sTlN3gyu3Zr08TU5x3wYpQTT1jCpwkopt3aJVoCEES0qKWIw41ettvljbdfdnR6KCAIeni-XsJZfRNtzHwvrBepRfUQp0PEilPz5uwn9aNe4ix09ia7Fok3WoLy1CgvLnvqQQ_8ADz04Io-Lj_HyrD-uyJxnueQ87fbO89Den40eTfSlMKV23sFvkqLQ9Y7vUl87L-YXN-1BNIdkPUVyvQvnZDmSKcTNcqKBwV8ecFUwLq3AXAFQVT4POpkNxutc61BN4t7BEl8",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWltChx1i-OzR78_LXss2sICyGESao2BJH2sTlN3gyu3Zr08TU5x3wYpQTT1jCpwkopt3aJVoCEES0qKWIw41ettvljbdfdnR6KCAIeni-XsJZfRNtzHwvrBepRfUQp0PEilPz5uwn9aNe4ix09ia7Fok3WoLy1CgvLnvqQQ_8ADz04Io-Lj_HyrD-uyJxnueQ87fbO89Den40eTfSlMKV23sFvkqLQ9Y7vUl87L-YXN-1BNIdkPUVyvQvnZDmSKcTNcqKBwV8ecFUwLq3AXAFQVT4POpkNxutc61BN4t7BEl8"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWl8ovoFHO10BLlgSwHKBPdo8EZUONs6_EHi8DmDiL8G4sMaz6zKJqUP1_SEXpb9bIFJ0PUpke0FWzt6OnG1C00Og3jP68P0ECJi1CN9bhTghUQfCwyWYlt0SsmndC4_FIyTHTSYsAhQdSIhmCh7Ros5_hfqTbDiH5fcHlm9gvdMZAPQ2Mk99ZEHxjlcZo1GDYKw3GIjNyZoksELnXHhaW72bK_KrNmxn_zzWfVQ5C_lprCzOmejzf8H9tWLALeJlcVxS8QT7GiM1a7CqWwP1eUpfg-PdUCx8o8Ckfzlz6daNo",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWl8ovoFHO10BLlgSwHKBPdo8EZUONs6_EHi8DmDiL8G4sMaz6zKJqUP1_SEXpb9bIFJ0PUpke0FWzt6OnG1C00Og3jP68P0ECJi1CN9bhTghUQfCwyWYlt0SsmndC4_FIyTHTSYsAhQdSIhmCh7Ros5_hfqTbDiH5fcHlm9gvdMZAPQ2Mk99ZEHxjlcZo1GDYKw3GIjNyZoksELnXHhaW72bK_KrNmxn_zzWfVQ5C_lprCzOmejzf8H9tWLALeJlcVxS8QT7GiM1a7CqWwP1eUpfg-PdUCx8o8Ckfzlz6daNo"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWlUaqeYKVdlAbDX70BGISQZ6eshKuR00T7Te4qqmC4M2EIDhMHKRouc3YZ0Dk7-qCnujgSb6SI0vyMZSuuU_bXPkRBqBZhSwrbuBTll6kF5OeryErbv6OzWP9CbO8gjfPwAWet0ghgRwWqC3WOr1xF2zhrSXPrYn0UiLcYXl0TlSVcKN88Hw7gsEnHnYVS2BCeb5fbSpivrqhX7g2llld1BMKeXQWkda1qY59c1EV4uzMvIRJV2z4d9nq-ukTLYcEky-7693abHGlxjvpxXO9n1Q",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWlUaqeYKVdlAbDX70BGISQZ6eshKuR00T7Te4qqmC4M2EIDhMHKRouc3YZ0Dk7-qCnujgSb6SI0vyMZSuuU_bXPkRBqBZhSwrbuBTll6kF5OeryErbv6OzWP9CbO8gjfPwAWet0ghgRwWqC3WOr1xF2zhrSXPrYn0UiLcYXl0TlSVcKN88Hw7gsEnHnYVS2BCeb5fbSpivrqhX7g2llld1BMKeXQWkda1qY59c1EV4uzMvIRJV2z4d9nq-ukTLYcEky-7693abHGlxjvpxXO9n1Q"
+                    }
+                ],
+                "passed": true
             }
         }
     }

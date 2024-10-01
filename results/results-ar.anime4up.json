@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dragon-ball-daima/",
+                                "title": "Dragon Ball Daima",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.01_13h53m14s_005_-215x300.png"
+                            },
+                            {
+                                "url": "/anime/rekishi-ni-nokoru-akujo-ni-naru-zo/",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.01_13h42m37s_003_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru/",
                                 "title": "Saikyou no Shienshoku ",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/09/Ashampoo_Snap_2024.09.30_15h11m55s_001_-215x300.png"
@@ -235,16 +245,6 @@
                                 "url": "/anime/shikanoko-nokonoko-koshitantan/",
                                 "title": "Shikanoko Nokonoko Koshitantan",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/07/shikanoko_nokonoko_koshitantan_12594-215x300.webp"
-                            },
-                            {
-                                "url": "/anime/monogatari-series-off-monster-season/",
-                                "title": "Monogatari Series: Off & Monster Season",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/07/Ashampoo_Snap_2024.07.06_16h49m40s_007_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/madougushi-dahliya-wa-utsumukanai/",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/07/Ashampoo_Snap_2024.07.06_15h46m49s_006_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -359,48 +359,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru/",
-                    "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 23 دقيقة\nالموسم: خريف 2024\nالمصدر: رواية\n\nقصة انمي Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru حول “نويل” والذي يتوق لأن يكون باحثًا مثل جده البطولي، يقتل الوحوش التي تخرج من الهاويات ويستكشف الأراضي البعيدة. لسوء الحظ، اتضح أنه ليس سوى متحدث، تخصص لا يمتلك أي مهارات قتالية على الإطلاق. لكن بدون تردد، ينطلق “نويل” لتأسيس أقوى عشيرة في جميع أنحاء الأرض، مستخدمًا مهاراته الكلامية الفضية لتوحيد القتلة والأبطال تحت قيادته.",
-                    "genre": "أكشن, مغامرات, فنتازيا, TV, يعرض الان, خريف 2024",
+                    "url": "/anime/dragon-ball-daima/",
+                    "title": "Dragon Ball Daima",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nقصة انمي Dragon Ball Daima تدور بعد تدمير جيش الشريط الأحمر بالسابق من قبل سون غوكو. الأفراد الذين يواصلون مسيرة الشريط الأحمر قد ابتكروا أندرويد مطلق القوة باسم غاما 1 وغاما 2. هذان الأندرويد يطلقان على أنفسهما ”الأبطال الخارقين“. بدأوا بمهاجمة بيكولو وغوهان ... ما هو هدف جيش الشريط الأحمر الجديد؟ في مواجهة الخطر القريب حان وقت النهوض أيها البطل الخارق!",
+                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, فنون قتالية, قوى خارقة, شونين, TV, يعرض الان, خريف 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/09/Ashampoo_Snap_2024.09.30_15h11m55s_001_.png",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.01_13h53m14s_005_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m80.uqload.ws/3rfknw6p4nw2q4drdktpvp52lm76py2zpuauqvds5bnkea2523ek26nkgzaa/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m80.uqload.ws/3rfknw6p4nw2q4drdktpvp52lm76py2zpuauqvds5bnkea2523ek26nkgzaa/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxx4puoz3b4quuomgra6ksyclgkchxohc6kmglqnn3mvnlpuh5jx7mkrdm53jrybpeppt3i/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxx4puoz3b4quuomgra6ksyclgkchxohc6kmglqnn3mvnlpuh5jx7mkrdm53jrybpeppt3i/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

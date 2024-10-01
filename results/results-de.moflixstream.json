@@ -3,23 +3,398 @@
         "name": "Moflix-Stream (DE)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/api/v1/titles/22?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die Verurteilten (Remastered)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/78Pb6FMLMfpm1jUOKTniwREYgAN.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/21?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Pate",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/p2BMC2J8WIPp7w3rpn6mIxT0f8a.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Schindlers Liste",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6lzgetyAEL6rKzeac7r9X7lRVkA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/23?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Pate - Teil II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/cPCgXKNBn3bATMLes1uYRTCjTpY.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/460070?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Chihiros Reise ins Zauberland",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wWNLsGvKqhi6cNWul0uvhqbQ4kl.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/90284?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Lil Peep – Everybody’s Everything (German Subbed)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/mFYXIZxXaHBUfCEokGM2g1LWZDs.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24601?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/aVvTPzo27HmYP9zmSTvLUq5a6zo.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/6055?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die letzten Glühwürmchen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6LJC2SiqGnAUex0jDp1DbmYx8MT.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/40?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das Leben ist schön",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ule20QbkvWHv2T2UkC0qr9M5IxR.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/39?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die sieben Samurai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zhPyobDDr7qT4kQXXDokNINnh9E.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/38?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Cinema Paradiso",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pVJAStFPfdLD25DEhv410PZumOM.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/36?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "GoodFellas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9HJ5o6PYEa03UwnJhQ2thO8CFPW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/35?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Herr der Ringe - Die Rückkehr des Königs",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/uFjlP9U9UOZAzGB25HUtmlEpXbc.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/34?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Forrest Gump",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zUWRCzac72YuO9k5kEWSe0aGbs7.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/33?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Zwei glorreiche Halunken",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yFfRQOFHGhJ5DKheExHyIPbpLyF.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/32?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Pulp Fiction",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hOg9USqmQmglmr5kGvpyg1XkhqN.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/31?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The Green Mile",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/frsZNikjMbp1gfidAl3zm1PAMHk.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/30?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The Dark Knight",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/z1DfRQf2CgnROyhVZ6ch8FbWt71.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/29?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Parasite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hoqe3leVhHBgboB6G1bv1kB8K4p.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/28?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Your Name. Gestern, heute und für immer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/42FMmVrhsWUa1k1zLxcDzNHWxGp.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/27?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die zwölf Geschworenen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/iwTxk2SWQBxCR3tnDnLOqxHn01u.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/25?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Dilwale Dulhania Le Jayenge - Wer zuerst kommt, kriegt die Braut",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2CAL2433ZeIihfX1Hb2139CX0pW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/98368?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Attack on Titan - Movie Teil 3: Gebrüll des Erwachens",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lJ9HfT2paZIyXMFDRupIB2EA5QD.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/90121?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das Fenster zum Hof",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4YCbSEZM1WcXpaP6tbqrIwLxMCN.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/35193?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das Imperium schlägt zurück",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pXxECymkR8EsMXawiGEUcUZ9SLZ.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24736?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Whiplash",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2P5mPHCEC8On64OoPcDwg447EYh.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/16837?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Herr der Ringe - Die Gefährten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/k6lw7hhaMDzJ170bfZfBbnipxcW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/16821?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der Herr der Ringe - Die zwei Türme",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/tgBCeAjPwXeUaf8LsRL0LzBIcdR.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12770?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Interstellar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hHdhfkkzt0Mwec33Ux177Z7CO8w.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/8972?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Inception",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/t5WUY5ZSxwVIVExaMZmmIj88BKA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/4408?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das wandelnde Schloss",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/tXB5bdKfLI3XGrmJqaEh0kTKmH6.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/2189?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Fight Club",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rUPKPWBpr2ZbDXXZpT0qgYqTlG9.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/1995?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Dune: Part Two",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/59j9zZW8WannTtjkupTakGVkzM1.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/1691?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Spider-Man: A New Universe",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vOpV6HrtAkNQxCWAgtU4NmQ1KPe.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/1493?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Sieben",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/79tFIrbMweqs52PxForIRJRFCIW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/292?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Es war einmal in Amerika (Extended)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/i8CnUTpKZzELvJEdrVLxGXZo9Ox.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/97222?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Once Upon a Studio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hr8ZtwdbtjBquxlTCrczr685K5T.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/96635?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "TAYLOR SWIFT | THE ERAS TOUR (EXTENDED VERSION)",
+                                "thumbnail_url": "storage/title-posters/f8b68738-286e-4abf-b0bf-d72324edd7ec.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/85105?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der große Diktator",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/v4V885dMlbOmqzxu6Wv8fhYXVOf.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/73078?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Oldboy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/w7jTIU9a6Zqp0n1TsTF1lZPlZ1Z.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/62565?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Spiel mir das Lied vom Tod (Remastered)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/BwLUQDesx6GW6FtUrQGUPQtzcg.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24685?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Ziemlich beste Freunde",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2VhCnmycro2ySRHYtaqTWrdSjBt.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/16413?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Der König der Löwen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2yiOlsfujLV3uiMd0VbbT8QBHFX.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/8295?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Das Schweigen der Lämmer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yyW5OFz5r8S81R2Afj9ILiEa70w.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/7073?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "American History X",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/6049?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Apocalypse Now (Final Cut)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/4470?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Prinzessin Mononoke",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vFRKcH8zDqEx4nUnm0cs5lh5wwj.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/2640?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Avengers: Endgame",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/mrh5A3uIE9wDDzPSiBe70YSHvrK.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/1992?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Oppenheimer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ePxV40QYOSZgrpBEZOmDtlQRR6g.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/1115?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Zurück in die Zukunft (Remastered)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ayoiQozcSUtM64nFgXpyjaixvge.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/api/v1/titles/994?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "World Invasion: Battle Los Angeles",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/79ngvBFC1P2hj52qAz2MpU86PX8.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/3571?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "World Trade Center",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hEFM9Gd2wfjYBRrTB9xSM16C6Is.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12951?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "World War Z (Extended Version)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8FSoyuxvUT2HiomWjWA3qIBjQ6Q.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/239311?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "World Invasion: Alien Attack",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zcS9XuTuYqXCdYeyZjb8LUPavTp.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/7157?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "A World Beyond",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/5LoUlpif9jueoHWGTfj96s2bY3r.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/7923?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Jurassic World - Das gefallene Königreich",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gIbpCh7nMvLOMxBmkWC6MeQgVr1.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12851?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Jurassic World - Ein neues Zeitalter (Extended Version)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lYfWPFEIXdtDuTh5jKfkxptN0eF.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/15206?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The World's End",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/uzEpPdjNrFxTWnwHTDCA7bJ7fl8.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/16180?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Jurassic World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fryDtXgd6Cf4oqNlNPHas0GWDNM.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/39249?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The World's Most Dangerous Show",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eRfmw4aYhVd4x8GGxfbbuRubZ2s.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/71970?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rzHHnlcK85YJ7wSNSNFnw1V4nB2.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/82919?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Miraculous World: Paris, Geschichten von Shadybug und Claw Noir",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/oT4GL2MCCNqeTOmIWiA3OyceJtR.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/2429068?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Miraculous World : London",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/g4ShHhp0WOnVlpaOo3A8pKQlj3r.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/48569?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Leave the World Behind",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/l2bqoY9rgPAgugPkOTowIPIv61j.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/72927?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Battlefield: Fall of The World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zjXcsX3ASORpBWcfsEbkNUshfcD.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/1950846?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Boy Kills World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/25JskXmchcYwj3jHRmcPm738MpB.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/32994?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/9169?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "When You Finish Saving the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/24738?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Attack On Titan II: End of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nQT9Peo6i4OAsLYVt67vWj71zb5.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/70831?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "The Loneliest Boy in the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/A6McNUszcZnRkSa8ZhwlKoLchrT.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/api/v1/titles/22?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                    "title": "Die Verurteilten (Remastered)",
+                    "description": "Das Shawshank Gefängnis in den 30ern: der wegen Mordes an seiner Frau verurteilte Andy Dufresne kommt als Neuling lebenslänglich hinter Gittern. Zurückhaltend wie er ist, ist er ständig das Ziel sexueller Angriffe, doch als er als Banker durchblicken läßt, daß er finanziell für den Direktor und die Wärter eine Menge tun kann, ist für seine Sicherheit gesorgt. Langsam aber sicher freundet er sich mit dem Langzeitinsassen Red an, baut die Gefängnisbibliothek auf und rückt nie von seiner Überzeugung ab, unschuldig zu sein. Viele Jahre vergehen, bis etwas geschieht, was sogar Reds Leben für immer verändern wird...",
+                    "genre": "Drama, Krimi",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/78Pb6FMLMfpm1jUOKTniwREYgAN.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/api/v1/titles/22?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.Exception: No videos!",
                 "passed": false
             }
         }

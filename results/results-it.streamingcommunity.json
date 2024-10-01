@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7955-matrimonio-a-prima-vista-italia",
+                                "title": "Matrimonio a Prima Vista Italia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/52a75814-0760-4727-9de9-46d75af92353.webp"
+                            },
+                            {
+                                "url": "4299-chucky",
+                                "title": "Chucky",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5458f69f-0e5e-4587-83f1-61631a85da2d.webp"
+                            },
+                            {
                                 "url": "9796-it-ends-with-us-siamo-noi-a-dire-basta",
                                 "title": "It Ends with Us - Siamo Noi a dire basta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b1d77c9d-feae-4f8c-a0ab-7a10091bb992.webp"
@@ -295,16 +305,6 @@
                                 "url": "8586-descendants-lascesa-di-red",
                                 "title": "Descendants: L’Ascesa di Red",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a2bbe66d-4379-4fd6-8147-566201486203.webp"
-                            },
-                            {
-                                "url": "4703-vikings-valhalla",
-                                "title": "Vikings: Valhalla",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1ea7f80e-31f8-4c87-982b-eaee8f2f5217.webp"
-                            },
-                            {
-                                "url": "9424-come-uccidono-le-brave-ragazze",
-                                "title": "Come uccidono le brave ragazze",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4f4d2c47-32b3-40e1-a67a-f1b202e5f2ad.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10045-english-teacher",
+                                "title": "English Teacher",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a8d5238a-f540-4a76-81e5-8b9583973e65.webp"
+                            },
+                            {
+                                "url": "10044-dirottamento-1971",
+                                "title": "Dirottamento 1971",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2a0caec4-0049-4943-a82e-c4c72c87910b.webp"
+                            },
                             {
                                 "url": "10042-the-freak-family",
                                 "title": "The Freak Family",
@@ -605,16 +615,6 @@
                                 "url": "9947-il-segreto-di-liberato",
                                 "title": "Il segreto di Liberato",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/29d118c7-de04-465d-a3d1-3c4882ef9da5.webp"
-                            },
-                            {
-                                "url": "9946-leatherface-il-massacro-ha-inizio",
-                                "title": "Leatherface - Il massacro ha inizio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/26dc89bf-8723-4b78-b6bf-a68b23c86a4c.webp"
-                            },
-                            {
-                                "url": "9945-dangerous-waters",
-                                "title": "Dangerous Waters",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4827f5f7-e277-4f6b-ad84-e4d71689db16.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,27 +934,19 @@
             },
             "details": {
                 "result": {
-                    "url": "9796-it-ends-with-us-siamo-noi-a-dire-basta",
-                    "description": "L’appassionante storia di Lily Bloom, una donna che ha superato un'infanzia traumatica e intraprende una nuova vita a Boston per inseguire il sogno di una vita: aprire una propria attività. L'incontro casuale con l'affascinante neurochirurgo Ryle Kincaid fa nascere un legame intenso, ma mentre i due si innamorano profondamente, Lily inizia a vedere in Ryle lati che le ricordano il rapporto con i suoi genitori. Quando il primo amore di Lily, Atlas Corrigan, rientra improvvisamente nella sua vita, la relazione con Ryle viene stravolta e Lily capisce che deve imparare a contare sulle proprie forze per fare una scelta molto difficile per il suo futuro.",
-                    "genre": "Dramma, Romance",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7955-matrimonio-a-prima-vista-italia",
+                    "description": "Single in cerca dell'amore arrivano all'altare senza aver mai conosciuto il proprio partner. Dopo sei mesi, la coppia deve decidere se restare insieme o chiedere il divorzio.",
+                    "genre": "Reality",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "9796",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
                 "passed": false
             }
         }

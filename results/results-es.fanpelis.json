@@ -3,7 +3,7 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: java.lang.NullPointerException: Cannot invoke \"com.microsoft.playwright.impl.ChannelOwner.disposeChannelOwner(boolean)\" because the return value of \"java.util.Iterator.next()\" is null",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {

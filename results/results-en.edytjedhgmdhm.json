@@ -3,113 +3,28 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/ahaf%27s%20shared%20workspace/",
-                                "title": "ahaf's shared workspace/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/asiandrama/",
-                                "title": "asiandrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/db%27s%20shared%20workspace/",
-                                "title": "db's shared workspace/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/devplan%27s%20shared%20workspace/",
-                                "title": "devplan's shared workspace/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/dg%27s%20shared%20workspace/",
-                                "title": "dg's shared workspace/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/fed%27s%20shared%20workspace/",
-                                "title": "fed's shared workspace/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/gr%27s%20shared%20workspace/",
-                                "title": "gr's shared workspace/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/kdrama/",
-                                "title": "kdrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/misc/",
-                                "title": "misc/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/movies/",
-                                "title": "movies/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/",
-                                "title": "tvs/",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/ahaf%27s%20shared%20workspace/",
-                    "title": "ahaf's shared workspace/",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asiandrama/%5BNOP%5D%20GTO/%5BNOP%5D%20GTO%20Taiwan%20%5BMini-Series%5D%20%5B1-4%20Complete%5D%20%5B1080p%5D/%5BNOP%5D%20GTO%20Taiwan%20-%2004%20%5B1080p%5D.mkv",
-                        "name": "GTO Taiwan - 04",
-                        "date_upload": -1,
-                        "episode_number": 4.0,
-                        "scanlator": "555.66 MB • /GTO Taiwan"
-                    },
-                    {
-                        "url": "/asiandrama/%5BNOP%5D%20GTO/%5BNOP%5D%20GTO%20Taiwan%20%5BMini-Series%5D%20%5B1-4%20Complete%5D%20%5B1080p%5D/%5BNOP%5D%20GTO%20Taiwan%20-%2003%20%5B1080p%5D.mkv",
-                        "name": "GTO Taiwan - 03",
-                        "date_upload": -1,
-                        "episode_number": 3.0,
-                        "scanlator": "554.81 MB • /GTO Taiwan"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BNOP%5D%20GTO/%5BNOP%5D%20GTO%20Taiwan%20%5BMini-Series%5D%20%5B1-4%20Complete%5D%20%5B1080p%5D/%5BNOP%5D%20GTO%20Taiwan%20-%2004%20%5B1080p%5D.mkv",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BNOP%5D%20GTO/%5BNOP%5D%20GTO%20Taiwan%20%5BMini-Series%5D%20%5B1-4%20Complete%5D%20%5B1080p%5D/%5BNOP%5D%20GTO%20Taiwan%20-%2004%20%5B1080p%5D.mkv"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
                     }
                 ],
                 "passed": true

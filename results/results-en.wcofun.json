@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/disney-juniors-ariel",
+                                "title": "Disney Junior's Ariel",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933738.jpg"
+                            },
+                            {
+                                "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933737.jpg"
+                            },
+                            {
                                 "url": "/anime/the-simpsons-season-36",
                                 "title": "The Simpsons Season 36",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933736.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/twilight-of-the-gods",
                                 "title": "Twilight of the Gods",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933723.jpg"
-                            },
-                            {
-                                "url": "/anime/kindergarten-the-musical",
-                                "title": "Kindergarten: The Musical",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933722.jpg"
-                            },
-                            {
-                                "url": "/anime/jellyfish-cant-swim-in-the-night",
-                                "title": "Jellyfish Can't Swim in the Night",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933721.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-simpsons-season-36",
-                    "title": "The Simpsons Season 36",
-                    "description": "The thirty-sixth season of the American animated television series The Simpsons premiered on Fox on September 29, 2024.[1] This is the second of two seasons ordered by Fox. It is produced by Gracie Films and 20th Television Animation. The primary showrunner for the season is Matt Selman.",
-                    "genre": "Comedy, Satire, Sitcom, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933736.jpg",
+                    "url": "/anime/disney-juniors-ariel",
+                    "title": "Disney Junior's Ariel",
+                    "description": "The series centers on Ariel and her fun-filled, action-packed mermaid adventures with her friends in the mystical underwater country of Atlantica, which takes its cue from the Caribbean.",
+                    "genre": "Action, Adventure, Animation, Comedy, Family, Fantasy, Musical, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933738.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-simpsons-season-36-episode-1-barts-birthday",
-                        "name": "Season 36 - Episode 1",
-                        "episode_number": 3601.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZClh2nEnnEjI2JqziKpnVD-51HqfPhIEbFqeCSq3BErTyGSbC83i7XYv-Z8SEYFnF_rdVYejG3Lj1GjiYMQ10vYrlAaeY0KP3mVOo8Aj4CnJd70zhxsyFWhBiiX3ziFJKWlmrQZR0swK9eRB8vNBk7l60ZqksCDR7sjwGAOMBjUFJtVyYA-ZMGO2tCPVpzJP_moYM_b_ubxusRk5FQbsnKVkErAzl8SD8DEgl3ODrgi0Hgw5kRxb4l1eOGPEOjPtJG-GRfLGKZoMuSkeZKnT57FtfLLBlQMXOg0b6oof04UY",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZClh2nEnnEjI2JqziKpnVD-51HqfPhIEbFqeCSq3BErTyGSbC83i7XYv-Z8SEYFnF_rdVYejG3Lj1GjiYMQ10vYrlAaeY0KP3mVOo8Aj4CnJd70zhxsyFWhBiiX3ziFJKWlmrQZR0swK9eRB8vNBk7l60ZqksCDR7sjwGAOMBjUFJtVyYA-ZMGO2tCPVpzJP_moYM_b_ubxusRk5FQbsnKVkErAzl8SD8DEgl3ODrgi0Hgw5kRxb4l1eOGPEOjPtJG-GRfLGKZoMuSkeZKnT57FtfLLBlQMXOg0b6oof04UY"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZHq4tUrUj7NxKkATe8Z1i_40-BtHwVZPOfoNgogQWd4APeYu6_iqEuDmK796-yvex7JjfeKcbtW7UOnbhQjU2f-kuoW9e3CYjdjLHucj8zoVlj-PFmD3L5_Wz0Zzx6KtwYDByBTjUqTMt3cRj5k69iIrHGagSu87PwjS5iTycv2a33kBrnDadp90ma-QoOiIF3KZ5HynZ5nm8MeY7lEAjIdjBHQAheXPP8Gy6Nd66Kw-XBySadtwbpDk4qUMVDK9pbBbyEU43h3xbK25OCKmR8izY-cSpQBTiGUFr6ySc38e",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZHq4tUrUj7NxKkATe8Z1i_40-BtHwVZPOfoNgogQWd4APeYu6_iqEuDmK796-yvex7JjfeKcbtW7UOnbhQjU2f-kuoW9e3CYjdjLHucj8zoVlj-PFmD3L5_Wz0Zzx6KtwYDByBTjUqTMt3cRj5k69iIrHGagSu87PwjS5iTycv2a33kBrnDadp90ma-QoOiIF3KZ5HynZ5nm8MeY7lEAjIdjBHQAheXPP8Gy6Nd66Kw-XBySadtwbpDk4qUMVDK9pbBbyEU43h3xbK25OCKmR8izY-cSpQBTiGUFr6ySc38e"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZPuByY3qGX_euXVuwiM3mGNrB1V0juMT7cxGAjJotkqUrOMNXJoywx3ctMTo__up4_no9erqYPzrQ0vTuf8czHimQvaLIg9inD2tmf7I8LzL2tm8CKEXjCGhzZamt-uRCFmmxcxFq6NuFmnmbTZ46-DTYM8UrPnwRxTZytS-Eqs4b0WNy8hVz8jFH96iNrdImdTjKL16FHVqo6WozrvXRLhZAeBxKm2auDf8dsUFmedmmxbX99U3iwnsI5Ayfmj8ug4n3NASWxPg2Y_PoQRXIL4",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZPuByY3qGX_euXVuwiM3mGNrB1V0juMT7cxGAjJotkqUrOMNXJoywx3ctMTo__up4_no9erqYPzrQ0vTuf8czHimQvaLIg9inD2tmf7I8LzL2tm8CKEXjCGhzZamt-uRCFmmxcxFq6NuFmnmbTZ46-DTYM8UrPnwRxTZytS-Eqs4b0WNy8hVz8jFH96iNrdImdTjKL16FHVqo6WozrvXRLhZAeBxKm2auDf8dsUFmedmmxbX99U3iwnsI5Ayfmj8ug4n3NASWxPg2Y_PoQRXIL4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

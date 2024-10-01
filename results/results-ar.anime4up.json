@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/amagami-san-chi-no-enmusubi/",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/tying-the-knot-with-an-amagami-sister-anime-key-visual-v0-vwmomcq6hi6d1-215x300.webp"
+                            },
+                            {
                                 "url": "/anime/dragon-ball-daima/",
                                 "title": "Dragon Ball Daima",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.01_13h53m14s_005_-215x300.png"
@@ -240,11 +245,6 @@
                                 "url": "/anime/tsue-to-tsurugi-no-wistoria/",
                                 "title": "Tsue to Tsurugi no Wistoria",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/07/MV5BYmJhMGQ4MGQtYmJmYi00MGIyLWI0NzAtNDc0N2ZiZmJmNDJlXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_FMjpg_UX1000_-215x300.jpg"
-                            },
-                            {
-                                "url": "/anime/shikanoko-nokonoko-koshitantan/",
-                                "title": "Shikanoko Nokonoko Koshitantan",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/07/shikanoko_nokonoko_koshitantan_12594-215x300.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -359,24 +359,48 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dragon-ball-daima/",
-                    "title": "Dragon Ball Daima",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nقصة انمي Dragon Ball Daima تدور بعد تدمير جيش الشريط الأحمر بالسابق من قبل سون غوكو. الأفراد الذين يواصلون مسيرة الشريط الأحمر قد ابتكروا أندرويد مطلق القوة باسم غاما 1 وغاما 2. هذان الأندرويد يطلقان على أنفسهما ”الأبطال الخارقين“. بدأوا بمهاجمة بيكولو وغوهان ... ما هو هدف جيش الشريط الأحمر الجديد؟ في مواجهة الخطر القريب حان وقت النهوض أيها البطل الخارق!",
-                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, فنون قتالية, قوى خارقة, شونين, TV, يعرض الان, خريف 2024",
+                    "url": "/anime/amagami-san-chi-no-enmusubi/",
+                    "title": "Amagami-san Chi no Enmusubi",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: 24\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nأوريو كاميهاتي كانت بدايته الحياتية صعبة لكنه يخطط لنسيان كل ذلك من خلال تحقيق حلمه الالتحاق بكلية الطب ولكن عندما يصل إلى بيته الجديد وهو ضريح تتلاشى أحلامه بالحصول على مكان هادئ للدراسة فلن يعيش فقط مع الأخوات الثلاث الجميلات والنشيطات أماغامي بل يعلم أنه يجب عليه الزواج من إحداهن وتولي المعبد!",
+                    "genre": "رومانسي, كوميدي, شونين, حريم, TV, يعرض الان, خريف 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.01_13h53m14s_005_.png",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/tying-the-knot-with-an-amagami-sister-anime-key-visual-v0-vwmomcq6hi6d1-715x1024.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/amagami-san-chi-no-enmusubi-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m80.uqload.ws/3rfk5d6h4nw2q4drdktpvn5mlm363de6mlx7ivhq2rqtou4mzlwnzoxvxwra/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m80.uqload.ws/3rfk5d6h4nw2q4drdktpvn5mlm363de6mlx7ivhq2rqtou4mzlwnzoxvxwra/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxzsmmoz3b4quuomkre4kclira6kdk2mn7bbsil4hmmev7tjh33xwfdwsrfc6lc6utlpskw/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxzsmmoz3b4quuomkre4kclira6kdk2mn7bbsil4hmmev7tjh33xwfdwsrfc6lc6utlpskw/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

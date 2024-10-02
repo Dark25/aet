@@ -3,7 +3,7 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find parent object request@2e8ee07e996a39290a637d4de0911222 to create route@3436190b17c23526c9c379bda3ab58ae",
                 "passed": false
             },
             "search": {

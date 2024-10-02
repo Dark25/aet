@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9165-joker-folie-a-deux",
+                                "title": "Joker: Folie à Deux",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/30412d41-7b20-4b45-ac88-81bb62589b3e.webp"
+                            },
+                            {
                                 "url": "4299-chucky",
                                 "title": "Chucky",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5458f69f-0e5e-4587-83f1-61631a85da2d.webp"
@@ -300,11 +305,6 @@
                                 "url": "9113-sausage-party-cibopolis",
                                 "title": "Sausage Party: Cibopolis",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9220185e-b193-415f-9bfb-34d3c798fdeb.webp"
-                            },
-                            {
-                                "url": "8586-descendants-lascesa-di-red",
-                                "title": "Descendants: L’Ascesa di Red",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a2bbe66d-4379-4fd6-8147-566201486203.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10047-colombiana",
+                                "title": "Colombiana",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/16a72b7f-98f8-436f-8a99-ae2f775d7583.webp"
+                            },
+                            {
+                                "url": "10046-never-let-go-a-un-passo-dal-male",
+                                "title": "Never Let Go - A un passo dal male",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ad653810-f9ff-46f6-8bd0-534297c6cbe0.webp"
+                            },
                             {
                                 "url": "10045-english-teacher",
                                 "title": "English Teacher",
@@ -605,16 +615,6 @@
                                 "url": "9949-midnight-diner-tokyo-stories",
                                 "title": "Midnight Diner: Tokyo Stories",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6c232c70-8787-407f-9b29-710ff4e6e08c.webp"
-                            },
-                            {
-                                "url": "9948-speak-no-evil-non-parlare-con-gli-sconosciuti",
-                                "title": "Speak No Evil - Non parlare con gli sconosciuti",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a3155ef3-73d2-4ba1-931c-5e6b079af0de.webp"
-                            },
-                            {
-                                "url": "9947-il-segreto-di-liberato",
-                                "title": "Il segreto di Liberato",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/29d118c7-de04-465d-a3d1-3c4882ef9da5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,25 @@
             },
             "details": {
                 "result": {
-                    "url": "4299-chucky",
-                    "description": "Dopo che una bambola Chucky vintage si presenta in una vendita di un sobborgo suburbano, un’idilliaca città americana viene gettata nel caos mentre una serie di orribili omicidi iniziano a rivelare le ipocrisie e i segreti della città. Nel frattempo, l’arrivo di nemici e alleati del passato di Chucky minaccia di rivelare la verità dietro le uccisioni, così come le origini non raccontate della bambola demoniaca come un bambino apparentemente normale che in qualche modo è diventato questo famigerato mostro.",
-                    "genre": "Crime, Sci-Fi & Fantasy",
-                    "status": 5,
-                    "status_name": "CANCELLED",
+                    "url": "9165-joker-folie-a-deux",
+                    "description": "Arthur Fleck e Harley si incontrano ad Arkham Asylum e pianificano la fuga: alla fine li vedremo insieme per le strade di Gotham City, dove ballano e dove li vediamo anche aggirarsi in costume da Joker e Harley Quinn.",
+                    "genre": "Dramma, Crime, Thriller",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "9165",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

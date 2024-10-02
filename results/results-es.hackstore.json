@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/barbie-y-la-magia-del-pegaso-2005/",
+                                "title": "Barbie y la magia del pegaso (2005)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/2s05XyBmImXVtW36NHSr6j1W4FJ.jpg"
+                            },
+                            {
+                                "url": "/peliculas/y-la-banda-siguio-tocando-1993/",
+                                "title": "Y la Banda Siguió Tocando (1993)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/Y-la-Banda-Siguio-Tocando.jpg"
+                            },
+                            {
                                 "url": "/peliculas/no-hables-con-extranos-2024/",
                                 "title": "No hables con extraños (2024)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "La Espada en La Piedra (1963)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/hMAVsdyj0O13AJF4HK15WxaFsBm.jpg"
-                            },
-                            {
-                                "url": "/peliculas/borderlands-el-destino-del-universo-esta-en-juego-2024/",
-                                "title": "Borderlands: El destino del universo está en juego (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg"
-                            },
-                            {
-                                "url": "/peliculas/una-noche-fuera-de-serie-2010/",
-                                "title": "Una Noche Fuera de Serie (2010)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/09/7ZrVMG9sYCfXuNnQzreFDOwIwkT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/no-hables-con-extranos-2024/",
-                    "title": "No hables con extraños (2024)",
-                    "artist": "Aisling Franciosi",
-                    "author": "Caroline Bowker",
-                    "description": "Cuando una familia estadounidense es invitada a pasar el fin de semana en la idílica finca de una familia británica con la que hicieron amistad durante las vacaciones, lo que comienza como unas vacaciones de ensueño pronto se convierte en una pesadilla psicológica.",
-                    "genre": "Suspenso, Terror",
+                    "url": "/peliculas/barbie-y-la-magia-del-pegaso-2005/",
+                    "title": "Barbie y la magia del pegaso (2005)",
+                    "artist": "Andrea Libman",
+                    "author": "Greg Richardson",
+                    "description": "Barbie aprende a volar en su primer cuento de hadas y princesas con argumento original. La princesa Annika (Barbie) emprende una fabulosa aventura al trabar amistad con Brietta, un espléndido caballo alado que la lleva al hermosísimo Reino de las Nubes. Annika tiene solo 3 días para romper el conjuro de Wenlock, un brujo malvado que ha convertido en piedra a su familia. En su empeño por derrotar a Wenlok, Annika conoce a nuevos amigos y juntos viajan a bosques prohibidos, patinan en cavernas heladas y vuelan sobre las nubes intentando construir una varita mágica de luz.",
+                    "genre": "Animación, Familia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/2s05XyBmImXVtW36NHSr6j1W4FJ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/no-hables-con-extranos-2024/",
+                        "url": "/peliculas/barbie-y-la-magia-del-pegaso-2005/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-gqa8jjpvqiz8ayil.voe-network.net/engine/hls2-c/01/12334/4cnwqd61kfcl_,n,.urlset/index-v1-a1.m3u8?t=e33BIn3BStC1HCKSZB2LoWZigkvTAcKRpzB-lDKvqKA&s=1727806038&e=14400&f=61673058&node=delivery-node-9n7xachkzhb0jc9x.voe-network.net&i=40.76&sp=2500&asn=8075",
-                        "quality": "[CAST] Voe:720p",
-                        "videoUrl": "https://delivery-node-gqa8jjpvqiz8ayil.voe-network.net/engine/hls2-c/01/12334/4cnwqd61kfcl_,n,.urlset/index-v1-a1.m3u8?t=e33BIn3BStC1HCKSZB2LoWZigkvTAcKRpzB-lDKvqKA&s=1727806038&e=14400&f=61673058&node=delivery-node-9n7xachkzhb0jc9x.voe-network.net&i=40.76&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

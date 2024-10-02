@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kankin-kuiki-level-x",
+                                "title": "Kankin Kuiki Level X",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933741.jpg"
+                            },
+                            {
                                 "url": "/anime/rekishi-ni-nokoru-akujo-ni-naru-zo",
                                 "title": "Rekishi ni Nokoru Akujo ni Naru zo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933740.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/tales-of-the-teenage-mutant-ninja-turtles",
                                 "title": "Tales of the Teenage Mutant Ninja Turtles",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933726.jpg"
-                            },
-                            {
-                                "url": "/anime/jv-the-extraordinary-adventures-of-jules-verne",
-                                "title": "JV: The Extraordinary Adventures of Jules Verne",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933725.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rekishi-ni-nokoru-akujo-ni-naru-zo",
-                    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-                    "description": "Alicia is the eldest daughter of the noble Williams family—a bloodline that excels in dark magic. Her jet-black hair and golden eyes command a powerful presence, but her most unique features are, without a doubt, her sharp tongue and malevolent nature. By all means, she is a villainess, but also a fictional character from an otome game!",
-                    "genre": "Comedy, Fantasy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933740.jpg",
+                    "url": "/anime/kankin-kuiki-level-x",
+                    "title": "Kankin Kuiki Level X",
+                    "description": "Ryoka is awakened by flurry of text messages from her mother! Panicked and rushed, Mom is clearly concerned for Ryoka’s safety, but she is not too keen on letting her daughter know why. Her reasoning being that nothing could really properly describe what is happening!",
+                    "genre": "Horror, Mystery, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933741.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kankin-kuiki-level-x-episode-4-english-subbed",
+                        "name": "Season 1 - Episode 4",
+                        "episode_number": 104.0
+                    },
+                    {
+                        "url": "/kankin-kuiki-level-x-episode-3-english-subbed",
+                        "name": "Season 1 - Episode 3",
+                        "episode_number": 103.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXoM8OInjI97bmS3VUIGnDvD1tEAnswU2LlZija8qQi447sgoXSMx_byeCTwrrU97LnSNDrcrBBreOaPDNcEj3x3f7LPEFCjfrmo_uOtQrmJROkqha0PaVwE90_Opl1QXk-qNZaseH-7doDH2rWUOyfVO7uUCnSO2DwavLYkaUwQV1hsVC7SsfEFL2Toe5P5mVcjW2cCiElOnKocGrWjy_T8ox4xDRxKvSAPlc7TlXOjkEV3fuAsbo6rE9THJffRcniO4T0C4QgeC7mr7-GsCaBI",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXoM8OInjI97bmS3VUIGnDvD1tEAnswU2LlZija8qQi447sgoXSMx_byeCTwrrU97LnSNDrcrBBreOaPDNcEj3x3f7LPEFCjfrmo_uOtQrmJROkqha0PaVwE90_Opl1QXk-qNZaseH-7doDH2rWUOyfVO7uUCnSO2DwavLYkaUwQV1hsVC7SsfEFL2Toe5P5mVcjW2cCiElOnKocGrWjy_T8ox4xDRxKvSAPlc7TlXOjkEV3fuAsbo6rE9THJffRcniO4T0C4QgeC7mr7-GsCaBI"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXicibIEcNl2sOJg0NoEtLFy_xapfndZp5OUrm1BbEjXYiJJIYCer6Jq1VGIHUMvdDRnvii4SKShkrrYQ-BZkQCh3ehUUvNAHxVCC89O158Vy8MCT011Ad_V2HyW5PYuCCzCdEVMx68U0TD2wRDCxJiW1Aj43IuYcQcTtJYOljQZmY-ytP0hoMpJSA13YSL0QwAOvlPNCY-_-fzrbJYTA0H1Lzg3ypazjsZc5gEKo-3ki7EJw8t1djgMb6OR2MkF5cciNvOAkyvEj8sFmPAKKF3s",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXicibIEcNl2sOJg0NoEtLFy_xapfndZp5OUrm1BbEjXYiJJIYCer6Jq1VGIHUMvdDRnvii4SKShkrrYQ-BZkQCh3ehUUvNAHxVCC89O158Vy8MCT011Ad_V2HyW5PYuCCzCdEVMx68U0TD2wRDCxJiW1Aj43IuYcQcTtJYOljQZmY-ytP0hoMpJSA13YSL0QwAOvlPNCY-_-fzrbJYTA0H1Lzg3ypazjsZc5gEKo-3ki7EJw8t1djgMb6OR2MkF5cciNvOAkyvEj8sFmPAKKF3s"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXqeNu_op96roDL690j6v7v1VBA2Kp1G4Qp_lF0-YN0sBibfbL2-lI-4dt8yYoiy-pDu3oyZjSFyR1EGM-o811XDcsDWtiqX5Rxa36k86romZKcId0MJ_ysruW9o5sPTzC3bv50FZJrVWypbn8RzC54BV7TmmcH3LqYBYt8nmGXTQlZUQ_s_tc8MWZCzPTu0EzZhutns3Qo73nhTCCi6I7UdAeQdIcCoerQWdgE165mkrYQ14wB53wq6WWANVDhexH4lD5EKbMBvzQJSWVlq7pAI",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXqeNu_op96roDL690j6v7v1VBA2Kp1G4Qp_lF0-YN0sBibfbL2-lI-4dt8yYoiy-pDu3oyZjSFyR1EGM-o811XDcsDWtiqX5Rxa36k86romZKcId0MJ_ysruW9o5sPTzC3bv50FZJrVWypbn8RzC54BV7TmmcH3LqYBYt8nmGXTQlZUQ_s_tc8MWZCzPTu0EzZhutns3Qo73nhTCCi6I7UdAeQdIcCoerQWdgE165mkrYQ14wB53wq6WWANVDhexH4lD5EKbMBvzQJSWVlq7pAI"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,28 +3,113 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/ahaf%27s%20shared%20workspace/",
+                                "title": "ahaf's shared workspace/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/db%27s%20shared%20workspace/",
+                                "title": "db's shared workspace/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/devplan%27s%20shared%20workspace/",
+                                "title": "devplan's shared workspace/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/dg%27s%20shared%20workspace/",
+                                "title": "dg's shared workspace/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/fed%27s%20shared%20workspace/",
+                                "title": "fed's shared workspace/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/gr%27s%20shared%20workspace/",
+                                "title": "gr's shared workspace/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/misc/",
+                                "title": "misc/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/ahaf%27s%20shared%20workspace/",
+                    "title": "ahaf's shared workspace/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/%5BRainie%5D%20Orange%20Days%20%28BD%201080p%20x264%20AAC%29/%5BRainie%5D%20Orange%20Days%20-%209%20%28BD%201080p%20x264%20AAC%29%20%5B89EC714A%5D.mkv",
+                        "name": "Orange Days - 9",
+                        "date_upload": -1,
+                        "episode_number": 11.0,
+                        "scanlator": "2.22 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/%5BRainie%5D%20Orange%20Days%20%28BD%201080p%20x264%20AAC%29/%5BRainie%5D%20Orange%20Days%20-%208%20%28BD%201080p%20x264%20AAC%29%20%5BC469B291%5D.mkv",
+                        "name": "Orange Days - 8",
+                        "date_upload": -1,
+                        "episode_number": 10.0,
+                        "scanlator": "2.78 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BRainie%5D%20Orange%20Days%20%28BD%201080p%20x264%20AAC%29/%5BRainie%5D%20Orange%20Days%20-%209%20%28BD%201080p%20x264%20AAC%29%20%5B89EC714A%5D.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BRainie%5D%20Orange%20Days%20%28BD%201080p%20x264%20AAC%29/%5BRainie%5D%20Orange%20Days%20-%209%20%28BD%201080p%20x264%20AAC%29%20%5B89EC714A%5D.mkv"
                     }
                 ],
                 "passed": true

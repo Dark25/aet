@@ -7,6 +7,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mecha-ude-tv",
+                                "title": "Mecha-ude (TV)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933751.jpg"
+                            },
+                            {
+                                "url": "/anime/dandadan",
+                                "title": "Dandadan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933750.jpg"
+                            },
+                            {
+                                "url": "/anime/dandadan-english-subbed",
+                                "title": "Dandadan English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933749.jpg"
+                            },
+                            {
+                                "url": "/anime/ao-no-hako",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933748.jpg"
+                            },
+                            {
+                                "url": "/anime/kekkon-suru-tte-hontou-desu-ka",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933747.jpg"
+                            },
+                            {
+                                "url": "/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933746.jpg"
+                            },
+                            {
+                                "url": "/anime/kinoko-inu",
+                                "title": "Kinoko Inu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933745.jpg"
+                            },
+                            {
+                                "url": "/anime/negaposi-angler",
+                                "title": "NegaPosi Angler",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933744.jpg"
+                            },
+                            {
                                 "url": "/anime/goukon-ni-ittara-onna-ga-inakatta-hanashi",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933743.jpg"
@@ -45,46 +85,6 @@
                                 "url": "/anime/the-simpsons-season-36",
                                 "title": "The Simpsons Season 36",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933736.jpg"
-                            },
-                            {
-                                "url": "/anime/nageki-no-bourei-wa-intai-shitai",
-                                "title": "Nageki no Bourei wa Intai shitai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933735.jpg"
-                            },
-                            {
-                                "url": "/anime/uzumaki-spiral-into-horror",
-                                "title": "Uzumaki: Spiral into Horror",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933734.jpg"
-                            },
-                            {
-                                "url": "/anime/uzumaki",
-                                "title": "Uzumaki",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933733.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-sama-retry-r",
-                                "title": "Maou-sama, Retry! R",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933732.jpg"
-                            },
-                            {
-                                "url": "/anime/everybody-still-hates-chris",
-                                "title": "Everybody Still Hates Chris",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg"
-                            },
-                            {
-                                "url": "/anime/tea-town-teddy-bears",
-                                "title": "Tea Town Teddy Bears",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933730.jpg"
-                            },
-                            {
-                                "url": "/anime/hitoribocchi-no-isekai-kouryaku",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933729.jpg"
-                            },
-                            {
-                                "url": "/anime/the-longhouse-tales",
-                                "title": "The Longhouse Tales",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/goukon-ni-ittara-onna-ga-inakatta-hanashi",
-                    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                    "description": "College student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they’re greeted by three dazzlingly handsome men?!",
-                    "genre": "Comedy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933743.jpg",
+                    "url": "/anime/mecha-ude-tv",
+                    "title": "Mecha-ude (TV)",
+                    "description": "Long ago, alien lifeforms came to Earth, fusing with people on the planet. Due to their appearance, they were dubbed “Mecha-ude,” as when fused, they bore a striking resemblance to mechanized limbs.",
+                    "genre": "Action, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933751.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWoPcpS6_DhdoNlibAo3MUiq4R_ZRys_mGH2498H98l-ykVuZtSeiB2YzonkJLU5eTALjF930DAtQjnu92Ptgo0hsCcmraiaRL2debe9NZsda5dPb59pNmgnp9mFu_Rh1pcKmKu-Z2TMQcstAhGeeismDloKQ81iY3cSmMXaHEprRq5SU5fkJAMH_impni6hIl20FawrQf922_kVIDQYNgYTvZud4ANycrmUjL5zcTvEd4ht1ci0gufaJybwn_k8lc5ofEKyXI34t4bPr7iF2g0FHPB93qR9IMGlc_goF00FbtMmYm-x15tWbsRSc6HD7nMeu0T5GLcIi2d4Hqca9CJynB5GnkvmVZAY1camCbIZwonraXJoWMqg0YiOpFrG_RstS6WrV7kyraCGVqsR7OJ5EGep2qqCKgYCj5KjZHEwJAyV2rnVKbio5S1Cbpnrr0",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWoPcpS6_DhdoNlibAo3MUiq4R_ZRys_mGH2498H98l-ykVuZtSeiB2YzonkJLU5eTALjF930DAtQjnu92Ptgo0hsCcmraiaRL2debe9NZsda5dPb59pNmgnp9mFu_Rh1pcKmKu-Z2TMQcstAhGeeismDloKQ81iY3cSmMXaHEprRq5SU5fkJAMH_impni6hIl20FawrQf922_kVIDQYNgYTvZud4ANycrmUjL5zcTvEd4ht1ci0gufaJybwn_k8lc5ofEKyXI34t4bPr7iF2g0FHPB93qR9IMGlc_goF00FbtMmYm-x15tWbsRSc6HD7nMeu0T5GLcIi2d4Hqca9CJynB5GnkvmVZAY1camCbIZwonraXJoWMqg0YiOpFrG_RstS6WrV7kyraCGVqsR7OJ5EGep2qqCKgYCj5KjZHEwJAyV2rnVKbio5S1Cbpnrr0"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWoPcpS6_DhdoNlibAo3MUiq4R_ZRys_mGH2498H98l-ykVuZtSeiB2YzonkJLU5eTALjF930DAtQjnu92Ptgo0hsCcmraiaRL2debe9NZsda5dPb59pNmgnp9mFu_Rh1pcKmKu-Z2TMQcstAhGeeismDloKQ81iY3cSmMXaHEpremIgZ4tz_YOwN1eXaPKIQZCXhj0rtmR3N9Xt79FZOaoCXHRGj4ZoSR72cef49bMIyEncFFJcuf188a_nfSNpMUelJztewBYPpCs9G-dNIndnOZ5zPU5KGTBNVt8f8sTyj2R1dUnF68tgxS0rw1GGHGfZdT6mU_Pl_FSCss5c1Ev9FrqniPFT8uHm6MwZi-3btFeBQzwLSgAu6_yJFerqFM5CQMA9RB-MlRdBpbPOpZhScs3459PZ2w32A2xn_U0lfQIq-g0IZ8sxEn9IFVN0IThTf9KUxzAG6PqSupxFj1d",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWoPcpS6_DhdoNlibAo3MUiq4R_ZRys_mGH2498H98l-ykVuZtSeiB2YzonkJLU5eTALjF930DAtQjnu92Ptgo0hsCcmraiaRL2debe9NZsda5dPb59pNmgnp9mFu_Rh1pcKmKu-Z2TMQcstAhGeeismDloKQ81iY3cSmMXaHEpremIgZ4tz_YOwN1eXaPKIQZCXhj0rtmR3N9Xt79FZOaoCXHRGj4ZoSR72cef49bMIyEncFFJcuf188a_nfSNpMUelJztewBYPpCs9G-dNIndnOZ5zPU5KGTBNVt8f8sTyj2R1dUnF68tgxS0rw1GGHGfZdT6mU_Pl_FSCss5c1Ev9FrqniPFT8uHm6MwZi-3btFeBQzwLSgAu6_yJFerqFM5CQMA9RB-MlRdBpbPOpZhScs3459PZ2w32A2xn_U0lfQIq-g0IZ8sxEn9IFVN0IThTf9KUxzAG6PqSupxFj1d"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWoPcpS6_DhdoNlibAo3MUiq4R_ZRys_mGH2498H98l-ykVuZtSeiB2YzonkJLU5eTALjF930DAtQjnu92Ptgo0hsCcmraiaRL2debe9NZsda5dPb59pNmgnp9mFu_Rh1pcKmKu-Z2TMQcstAhGeeismDloKQ81iY3cSmMXaHEpreIp9E3SED3vREQpGxBj93uOpmv82jekVoQkDirlVJiuQ9PLkgcjKeCAoTq8eU-h50He4YPQR89hQOtMg1IWtE4CraM_L3-xbclgxQl5YnCab2_U_gfVVMJcuuERG99OqUDoS6x6GsPAvd8GmAJzn2UBCHZHmFSiOv9RrGeEWu6mpyh-tBWHz_LMCQkyChIyfxCYjP3PGu-XCsBni7j-J9W1pYnIbj7CvTbWHM4TbyCrWXfW42ozw7ucCJD8Jg4Sb96TU1fhLxIJgag9D-JO2tg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWoPcpS6_DhdoNlibAo3MUiq4R_ZRys_mGH2498H98l-ykVuZtSeiB2YzonkJLU5eTALjF930DAtQjnu92Ptgo0hsCcmraiaRL2debe9NZsda5dPb59pNmgnp9mFu_Rh1pcKmKu-Z2TMQcstAhGeeismDloKQ81iY3cSmMXaHEpreIp9E3SED3vREQpGxBj93uOpmv82jekVoQkDirlVJiuQ9PLkgcjKeCAoTq8eU-h50He4YPQR89hQOtMg1IWtE4CraM_L3-xbclgxQl5YnCab2_U_gfVVMJcuuERG99OqUDoS6x6GsPAvd8GmAJzn2UBCHZHmFSiOv9RrGeEWu6mpyh-tBWHz_LMCQkyChIyfxCYjP3PGu-XCsBni7j-J9W1pYnIbj7CvTbWHM4TbyCrWXfW42ozw7ucCJD8Jg4Sb96TU1fhLxIJgag9D-JO2tg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

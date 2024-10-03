@@ -7,8 +7,139 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "2012529261",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "/assets/images/sh/covers/14252.png"
+                            },
+                            {
+                                "url": "1059695070",
+                                "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai (Uncensored)",
+                                "thumbnail_url": "/assets/images/sh/covers/14251.png"
+                            },
+                            {
+                                "url": "4004031327",
+                                "title": "Mecha-ude (TV)",
+                                "thumbnail_url": "/assets/images/sh/covers/14250.png"
+                            },
+                            {
+                                "url": "3639029163",
+                                "title": "Uji ni wa Monogatari ga Aru",
+                                "thumbnail_url": "/assets/images/sh/covers/14249.png"
+                            },
+                            {
+                                "url": "3879849953",
+                                "title": "Ryokunohara Labyrinth: Sparkling Phantom",
+                                "thumbnail_url": "/assets/images/sh/covers/14248.png"
+                            },
+                            {
+                                "url": "3466257571",
+                                "title": "Dandadan",
+                                "thumbnail_url": "/assets/images/sh/covers/14247.png"
+                            },
+                            {
+                                "url": "3031013818",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "/assets/images/sh/covers/14246.png"
+                            },
+                            {
+                                "url": "3583740688",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "/assets/images/sh/covers/14245.png"
+                            },
+                            {
+                                "url": "1801195291",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "/assets/images/sh/covers/14189.png"
+                            },
+                            {
+                                "url": "1082859951",
+                                "title": "NegaPosi Angler",
+                                "thumbnail_url": "/assets/images/sh/covers/14244.png"
+                            },
+                            {
+                                "url": "2961845895",
+                                "title": "Kinoko Inu",
+                                "thumbnail_url": "/assets/images/sh/covers/14243.png"
+                            },
+                            {
+                                "url": "1126956255",
+                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+                                "thumbnail_url": "/assets/images/sh/covers/14242.png"
+                            },
+                            {
+                                "url": "3847631287",
+                                "title": "Yu☆Gi☆Oh!: Go Rush!!",
+                                "thumbnail_url": "/assets/images/sh/covers/11217.jpg"
+                            },
+                            {
+                                "url": "4037695163",
+                                "title": "Tottoi",
+                                "thumbnail_url": "/assets/images/sh/covers/14240.png"
+                            },
+                            {
+                                "url": "1027091381",
+                                "title": "Planetes Picture Drama",
+                                "thumbnail_url": "/assets/images/sh/covers/14239.png"
+                            },
+                            {
+                                "url": "2483060974",
+                                "title": "Love Position: Halley Densetsu",
+                                "thumbnail_url": "/assets/images/sh/covers/14238.png"
+                            },
+                            {
+                                "url": "2021385608",
+                                "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
+                                "thumbnail_url": "/assets/images/sh/covers/14237.png"
+                            },
+                            {
+                                "url": "2861376407",
+                                "title": "Izumo",
+                                "thumbnail_url": "/assets/images/sh/covers/14236.png"
+                            },
+                            {
+                                "url": "3329897281",
+                                "title": "Battle Royal High School",
+                                "thumbnail_url": "/assets/images/sh/covers/14235.png"
+                            },
+                            {
+                                "url": "1384531345",
+                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                                "thumbnail_url": "/assets/images/sh/covers/14234.png"
+                            },
+                            {
+                                "url": "4232645376",
+                                "title": "Handsome Girl",
+                                "thumbnail_url": "/assets/images/sh/covers/14233.png"
+                            },
+                            {
+                                "url": "1916985087",
+                                "title": "Kennosuke-sama",
+                                "thumbnail_url": "/assets/images/sh/covers/14232.png"
+                            },
+                            {
+                                "url": "1405123941",
+                                "title": "Kamierabi 2nd Season",
+                                "thumbnail_url": "/assets/images/sh/covers/14231.png"
+                            },
+                            {
+                                "url": "1161850236",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+                                "thumbnail_url": "/assets/images/sh/covers/14230.png"
+                            },
+                            {
+                                "url": "1830958789",
+                                "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+                                "thumbnail_url": "/assets/images/sh/covers/13701.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
@@ -16,19 +147,30 @@
             },
             "details": {
                 "result": {
-                    "description": "",
-                    "genre": "",
-                    "thumbnail_url": "",
+                    "url": "2012529261",
+                    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                    "description": "Long ago, a human managed to defeat the oldest, most powerful dragon of them all. This dragon was so strong that even the gods feared it, but it accepted its end all alone. Then, suddenly, the dragon woke up in a new life as a guy named Dolan, living in a faraway village. Living as a regular person now, Dolan works hard in the fields and hunts for food. Even though life in the village is simple, it's also cozy and makes him happy in ways he never felt as a dragon. But one day, while exploring a swamp, Dolan meets Celina, a creature who's part human and part snake called a lamia. She's looking for a partner but admits she's not great at getting humans to like her because she's part snake. Despite their differences, Dolan and Cerina start to become friends. However, they face lots of challenges from outside forces. Join them on a magical adventure as a once-mighty dragon begins a new life in a quiet corner of the world!",
+                    "genre": "Action, Adventure, Fantasy, Reincarnation",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "/assets/images/sh/covers/14252.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "3830197442",
+                        "name": "Episode 1",
+                        "date_upload": 1727977563000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <br />\n<b>Fatal error</b>:  Un.....",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

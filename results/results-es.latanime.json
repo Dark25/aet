@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dandadan-castellano",
+                                "title": "Dandadan Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/dandadan-castellano-1727972501.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/dandadan-latino",
+                                "title": "Dandadan Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/dandadan-latino-1727972190.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/uzumaki-castellano",
                                 "title": "Uzumaki Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/uzumaki-castellano-1727589976.jpg?v=1.5"
@@ -145,16 +155,6 @@
                                 "url": "/anime/el-gran-rey-demonio-latino",
                                 "title": "El Gran Rey Demonio Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/el-gran-rey-demonio-latino-1721782276.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/shy-s2-latino",
-                                "title": "Shy S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/shy-s2-latino-1721678776.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/sugar-sugar-rune-latino",
-                                "title": "Sugar Sugar Rune Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/sugar-sugar-rune-latino-1721519937.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/uzumaki-castellano",
-                    "title": "Uzumaki Castellano",
-                    "description": "En la ciudad de Kurouzu-cho, Kirie Goshima vive una vida bastante normal con su familia. Un día, mientras camina hacia la estación de tren para encontrarse con su novio, Shuuichi Saito, ve a su padre mirando fijamente una concha de caracol en un callejón. Sin pensarlo dos veces, le menciona el incidente a Shuuichi, quien dice que su padre ha estado actuando de manera extraña últimamente. Shuuichi revela su creciente deseo de irse de la ciudad con Kirie, diciendo que la ciudad está infectada con espirales.",
-                    "genre": "Drama, Horror, Psicológico, Seinen, Suspenso",
+                    "url": "/anime/dandadan-castellano",
+                    "title": "Dandadan Castellano",
+                    "description": "Oculto, un friki que cree en los ovnis, y Ayase, su compañera criada por una abuela médium, vivirán una historia que les hará cuestionarse todo lo que han creído hasta el momento.",
+                    "genre": "Acción, Comedia, Shonen",
                     "initialized": true
                 },
                 "passed": true
@@ -335,8 +335,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/uzumaki-castellano-episodio-1",
-                        "name": "Uzumaki Castellano Capitulo 1",
+                        "url": "/ver/dandadan-castellano-episodio-1",
+                        "name": "Dandadan Castellano Capitulo 1",
                         "episode_number": 1.0
                     }
                 ],
@@ -345,31 +345,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www2.mp4upload.com:183/d/xcxzql4oz3b4quuomcrbqikyjpoqsvrk7csg7cjplhwq2uhg3y2spmoigqx6va5v4yc4f6ky/video.mp4",
+                        "url": "https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2/01/12354/cdtcj2pbwynl_,o,.urlset/index-v1-a1.m3u8?t=upFw8Gc_3ju4UjzrMI7zGRHwkJvDsAh2rM9Q5wNrRC4&s=1727978846&e=14400&f=61771567&node=delivery-node-iurolyzyhfcxnbpg.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": " - Voe: 1080p",
+                        "videoUrl": "https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2/01/12354/cdtcj2pbwynl_,o,.urlset/index-v1-a1.m3u8?t=upFw8Gc_3ju4UjzrMI7zGRHwkJvDsAh2rM9Q5wNrRC4&s=1727978846&e=14400&f=61771567&node=delivery-node-iurolyzyhfcxnbpg.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://voe.sx",
+                            "Referer": "https://voe.sx/e/cdtcj2pbwynl"
+                        }
+                    },
+                    {
+                        "url": "https://www3.mp4upload.com:183/d/r2x66v4oz3b4quuomoreez22cub36fm5rg7tpn3xeueuqkirhv5yszlan5cirtmekknkwhao/video.mp4",
                         "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www2.mp4upload.com:183/d/xcxzql4oz3b4quuomcrbqikyjpoqsvrk7csg7cjplhwq2uhg3y2spmoigqx6va5v4yc4f6ky/video.mp4",
+                        "videoUrl": "https://www3.mp4upload.com:183/d/r2x66v4oz3b4quuomoreez22cub36fm5rg7tpn3xeueuqkirhv5yszlan5cirtmekknkwhao/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://m140.uqload.ws/3rfkvwg24nw2q4drdks7vmfydnoh7shpec4k5ss46ncpnr3n4fjess4mpdiq/v.mp4",
+                        "url": "https://m140.uqload.ws/3rfkujzx4nw2q4drdkt7vlfglc2qpg7d3bfpfq572v2o4n3bjqxqv5ieqzxq/v.mp4",
                         "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m140.uqload.ws/3rfkvwg24nw2q4drdks7vmfydnoh7shpec4k5ss46ncpnr3n4fjess4mpdiq/v.mp4",
+                        "videoUrl": "https://m140.uqload.ws/3rfkujzx4nw2q4drdkt7vlfglc2qpg7d3bfpfq572v2o4n3bjqxqv5ieqzxq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-kjhkd2xtdr8ud0rt.voe-network.net/engine/hls2/01/12315/4ctwaoywywbp_,n,.urlset/index-v1-a1.m3u8?t=2rjxD-X2ePF80BJ19G2R9BqMt31uV3eaEYZ-SCB6G3w&s=1727957306&e=14400&f=61578124&node=delivery-node-kjhkd2xtdr8ud0rt.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "quality": " - Voe: 720p",
-                        "videoUrl": "https://delivery-node-kjhkd2xtdr8ud0rt.voe-network.net/engine/hls2/01/12315/4ctwaoywywbp_,n,.urlset/index-v1-a1.m3u8?t=2rjxD-X2ePF80BJ19G2R9BqMt31uV3eaEYZ-SCB6G3w&s=1727957306&e=14400&f=61578124&node=delivery-node-kjhkd2xtdr8ud0rt.voe-network.net&i=20.172&sp=2500&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://voe.sx",
-                            "Referer": "https://voe.sx/e/4ctwaoywywbp"
                         }
                     }
                 ],

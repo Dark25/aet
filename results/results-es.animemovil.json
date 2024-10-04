@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4298.webp"
+                            },
+                            {
                                 "url": "/ao-no-hako",
                                 "title": "Ao no Hako",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Uzumaki",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4279.webp"
-                            },
-                            {
-                                "url": "/maou-sama-retry-r",
-                                "title": "Maou-sama, Retry! R",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4278.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,24 +264,72 @@
             },
             "details": {
                 "result": {
-                    "url": "/ao-no-hako",
-                    "title": "Ao no Hako",
-                    "description": "Taiki Inomata, un estudiante de tercer año de secundaria, asiste a la Academia Eimei, una escuela integrada con un importante programa deportivo. Taiki se unió al equipo de bádminton de la escuela secundaria y trata de asistir a la práctica abierta lo antes posible. Pero por muy temprano que llegue, siempre llega segundo al gimnasio. La persona que está un paso por delante de él es Chinatsu Kano, un estudiante de primer año de secundaria y el enamorado de Taiki. Chinatsu es la estrella en ascenso del equipo de baloncesto y la brecha entre ella y Taiki no podría ser mayor. Aunque Taiki es un buen jugador de bádminton, su popularidad no se acerca a la de Chinatsu, lo que hace aún menos probable que sus sentimientos sean correspondidos. Sin embargo, en un extraño giro del destino, ¡termina viviendo en la casa de Taiki! Queriendo convertirse en un rival digno para Chinatsu, Taiki persigue el mismo sueño que la persona que le gusta: participar en los Nacionales. Taiki comienza a entrenar más duro que nunca, todo con el fin de construir una relación sólida con su nuevo compañero de casa.",
-                    "genre": "Escolares, Romance, Deportes, Shounen",
+                    "url": "/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+                    "description": "Segunda Temporada de Rurouni Kenshin: Meiji Kenkaku Romantan (2023).",
+                    "genre": "Acción, Shounen, Historico, Samurai",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4297.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4298.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-qqwqzwrjm1uwlim6.voe-network.net/engine/hls2/01/12354/j7fup5oo8yuf_,n,.urlset/index-v1-a1.m3u8?t=tWL-KcKvcdhUNLqN_02xi1CtGWIre10ebQc2OvgSBKY&s=1728001020&e=14400&f=61776854&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-qqwqzwrjm1uwlim6.voe-network.net/engine/hls2/01/12354/j7fup5oo8yuf_,n,.urlset/index-v1-a1.m3u8?t=tWL-KcKvcdhUNLqN_02xi1CtGWIre10ebQc2OvgSBKY&s=1728001020&e=14400&f=61776854&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://www2.mp4upload.com:183/d/xcx4mvmoz3b4quuomorbgiyrk6nw7dpbjza5zuqlka673ruj6rnsusqzmlxspcohdtdayc6w/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www2.mp4upload.com:183/d/xcx4mvmoz3b4quuomorbgiyrk6nw7dpbjza5zuqlka673ruj6rnsusqzmlxspcohdtdayc6w/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m130.uqload.ws/3rfk2ezw4nw2q4drdkt7vifnauwtumxnes3w7hrr2kdxxpd4beqwbc37e6ua/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m130.uqload.ws/3rfk2ezw4nw2q4drdkt7vifnauwtumxnes3w7hrr2kdxxpd4beqwbc37e6ua/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=qZ6GL06pY6UYey&expires=1728071008&ip=F0qQKRWADS9XKxR&token=doRPDAfuyqSU",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=qZ6GL06pY6UYey&expires=1728071008&ip=F0qQKRWADS9XKxR&token=doRPDAfuyqSU"
+                    },
+                    {
+                        "url": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4y53ijryki6cgamzmx7vbh7y6pseofsyyzodskwkmiw2ufaz5y3sfmgja,.urlset/master.m3u8?v=603829337",
+                        "quality": " - Re: Video",
+                        "videoUrl": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4y53ijryki6cgamzmx7vbh7y6pseofsyyzodskwkmiw2ufaz5y3sfmgja,.urlset/master.m3u8?v=603829337",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://re.ironhentai.com",
+                            "Referer": "https://re.ironhentai.com/vt.php?id=5d9903k1wp0e"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

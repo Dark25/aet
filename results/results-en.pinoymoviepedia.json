@@ -344,8 +344,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://xo606co.cloudatacdn.com/u5kjuqxst7h3sdgge7hw2jyfieov5iyzunz7lvjdsljgnsdhchnb3awfqhsq/isqkxrcd5o~bj2YSJzDFC?token=ch2aai25245gasgcx84r832j&expiry=1728000924089",
+                        "quality": "DOODDoodstream 720p",
+                        "videoUrl": "https://xo606co.cloudatacdn.com/u5kjuqxst7h3sdgge7hw2jyfieov5iyzunz7lvjdsljgnsdhchnb3awfqhsq/isqkxrcd5o~bj2YSJzDFC?token=ch2aai25245gasgcx84r832j&expiry=1728000924089",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.pm/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,27 +3,370 @@
         "name": "JetAnime (FR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/lattaque-des-titans-shingeki-no-kyojin-hd/",
+                                "title": "L’Attaque des Titans (Shingeki no Kyojin)",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2018/09/8qR8Pc8u7uOFu98wZRYiU7L7CC3-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/bleach-hd2/",
+                                "title": "BLEACH Sennen Kessen hen",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/10/guyS28A4IxwoMXIq3Xj9AszMefP-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/overlord/",
+                                "title": "Overlord",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2018/09/54CjW9rMEJT7bSa45joPtF3qxTE-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/demon-slayer-kimetsu-no-yaiba/",
+                                "title": "Demon Slayer : Kimetsu no Yaiba",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2019/04/xDvsHZ0e3zO1uWuVy4KEYttPIMF-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/boruto-naruto-next-generations/",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2018/09/pOfQhs0DQzuMnmqAyiDqzyoGnXz-90x135.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/negative-positive-angler",
+                                "title": "Negative Positive Angler: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/hjYpOZDBcDY7g9Eg3LgCavuVfVm-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/dan-da-dan",
+                                "title": "DAN DA DAN: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/bmVsa3oLgAd26YNJOPjJ4QgWY08-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/danmachi-la-legende-des-familias",
+                                "title": "DanMachi – La légende des Familias: Saison 5 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/themes/dooplay.2.4.1/assets/img/no/dt_backdrop.png"
+                            },
+                            {
+                                "url": "/serie/kamierabi-god-app",
+                                "title": "KamiErabi GOD.app: Saison 2 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/i0Y6gikx3e63JB7sJwH58aPWcZw-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/true-beauty",
+                                "title": "True Beauty: Saison 1 Episode 9",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/cmph9p4k1f8csjr5XiIXhlGVNPn-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/acro-trip",
+                                "title": "Acro Trip: Saison 1 Episode 2",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/u6D1M4m4IkCmy6Aj5SIVeNfi5d5-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/acro-trip",
+                                "title": "Acro Trip: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/y145Laom44UgPKP8CYEK4mxTipZ-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/le-puissant-dragon-vegan",
+                                "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming – Le Puissant Dragon Vegan: Saison 2 Episode 2",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/mkmGTah6R2uO9idbunfxn3bhJkh-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/le-puissant-dragon-vegan",
+                                "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming – Le Puissant Dragon Vegan: Saison 2 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/7RZGCuQZ8EPgepLIFr0K4QVVG3N-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/ill-become-a-villainess-that-will-go-down-in-history",
+                                "title": "Rekishi Ni Nokoru Akujo Ni Naru Zo – I’ll Become a Villainess That Will Go Down in History: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/bna5j9cg1R2AkSjxBFL40ZI9Sx3-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/tying-the-knot-with-an-amagami-sister",
+                                "title": "Amagami-San Chi No Enmusubi – Tying the Knot with an Amagami Sister: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/10/fixT2K0lolqqg7VtLtjoUsCu62m-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/rezero-kara-hajimeru-isekai-seikatsu",
+                                "title": "Re:Zero Kara Hajimeru Isekai Seikatsu : Saison 3 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/08/ReZero-Kara-Hajimeru-Isekai-Seikatsu.avif"
+                            },
+                            {
+                                "url": "/serie/uzumaki",
+                                "title": "Uzumaki: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/hcaHxeAVPqc8IJvIpBGVImkvEyH-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/the-most-notorious-talker-runs-the-worlds-greatest-clan",
+                                "title": "The Most Notorious « Talker » Runs the World’s Greatest Clan: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/5wMDV6LH57UoBrqSVdRyigfRewH-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/let-this-grieving-soul-retire",
+                                "title": "Nageki No Bourei Wa Intai Shitai – Let This Grieving Soul Retire!: Saison 1 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/8EzvGjKhD9Ir2WwlTtELb4OnVCs-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/run-for-money-the-great-mission",
+                                "title": "Tousouchuu – Run For Money : The Great Mission: Saison 1 Episode 74",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/02/tousouchuu-great-mission_1680085284-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world",
+                                "title": "Tensei Kizoku, Kantei Skill De Nariagaru – As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World: Saison 2 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/9o5KlRFYgzcNJs4oYcTFqsbNw7c-2-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/mission-yozakura-family",
+                                "title": "Yozakura-San Chi No Daisakusen – Mission: Yozakura Family: Saison 1 Episode 23",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/a3D0Z5dGdoGZmpxhGgGzcl5Pfso-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/tower-of-god",
+                                "title": "Kami No Tou – Tower of God: Saison 2 Episode 13",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/Kami-No-Tou-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/fairy-tail-100-years-quest-en-route-pour-la-quete-de-100-ans",
+                                "title": "Fairy Tail 100 Years Quest : En route pour la quête de 100 ans: Saison 1 Episode 13",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/8nDeDnYnZcuMKB5W8EcyXd0rnKp-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/one-piece",
+                                "title": "One Piece: Saison 21 Episode Special 15",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/05/une-one-piece-expo-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/wistoria-wand-and-sword",
+                                "title": "Tsue To Tsurugi No Wistoria – Wistoria: Wand and Sword: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/2fxclTqjg9gf2Bn4NxtpQGo6wsk-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/demon-lord-retry",
+                                "title": "Maou-Sama, Retry! R – Demon Lord, Retry!: Saison 2 Episode 1",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/n0HJzvAI9Lu4bDecsdjQot2nyZe-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/dungeon-people",
+                                "title": "Dungeon People: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/qfja2CoZGyOYsb4KJxUZMIAExfE-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/quality-assurance-in-another-world",
+                                "title": "Kono Sekai Wa Fukanzen Sugiru – Quality Assurance in Another World: Saison 1 Episode 13",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/1L0GyfOmvXZ8aaEDi9QirUDJriw-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/makeine-too-many-losing-heroines",
+                                "title": "Make Heroine Ga Ooisugiru – Makeine: Too Many Losing Heroines!: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/50Y82nT7NahnYA9iAewXitQPgJU-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/monogatari-series-off-monster-season",
+                                "title": "Monogatari Series – Off & Monster Season: Saison 1 Episode 11",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/07/Monogatari-Series-–-Off-Monster-Season-300x170.webp"
+                            },
+                            {
+                                "url": "/serie/why-does-nobody-remember-me-in-this-world",
+                                "title": "Naze Boku No Sekai Wo Daremo Oboeteinai No Ka – Why Does Nobody Remember Me in This World?: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/5Hjv3VxuYx9Dq4IF3cprYfWpANY-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/the-elusive-samurai",
+                                "title": "Nige Jouzu No Wakagimi – The Elusive Samurai: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/mV0AQzHD8USQXFc1SQkJj9976lY-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/atri-my-dear-moments",
+                                "title": "ATRI -My Dear Moments-: Saison 1 Episode 12",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/i0OjAoES5IHPg0L9VAt0vYQMJJb-1-300x170.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/the-most-notorious-talker-runs-the-worlds-greatest-clan/",
+                                "title": "The Most Notorious « Talker » Runs the World’s Greatest Clan",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/pD8eTtoHFnne29NUXs9Ls4evJU2-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/loner-life-in-another-world/",
+                                "title": "Hitoribocchi No Isekai Kouryaku – Loner Life in Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/09/luou4eQgwh5TdghrH3KuoSdFgqp.jpg"
+                            },
+                            {
+                                "url": "/serie/a-journey-through-another-world-raising-kids-while-adventuring/",
+                                "title": "Isekai Yururi Kikou – A Journey Through Another World Raising Kids While Adventuring",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/08/32faS0d5neXtiMXFR0xiJPWOtn2-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/quality-assurance-in-another-world/",
+                                "title": "Kono Sekai Wa Fukanzen Sugiru – Quality Assurance in Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/07/toNVPhr8BpCbJ4LUGdiOGJpcy80-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/chillin-in-another-world-with-level-2-super-cheat-powers/",
+                                "title": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/04/bJYw5ocrHSTlVUqHSHjVwyQAwcO-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world/",
+                                "title": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/04/iaSLIRACDiwjIrltU46FOM7e9HY-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/train-to-the-end-of-the-world/",
+                                "title": "Train to the End of the World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/04/9eyKUHjD3roRqyypM8FbsUV5iKT-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me/",
+                                "title": "Sokushi Cheat Ga Saikyou Sugite – My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2024/01/vOIdsYCy3Kd6KeyKRM3IyXOzH3c-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/stella-of-the-theater-world-dai-star/",
+                                "title": "Stella of the Theater: World Dai Star",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/04/kFDYua7rreN7jAECwaOeX2ADvzZ-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/in-another-world-with-my-smartphone/",
+                                "title": "In Another World With My Smartphone",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/04/xlXdtc8QfwALtJW1o4UwRLt31Qy-150x150.jpg"
+                            },
+                            {
+                                "url": "/films/isekai-quarlet-another-world-le-film/",
+                                "title": "Isekai Quarlet, Another World, Le Film !",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/02/93G6bPDyOH6TfGGzF87rHyJ8jOu-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/campfire-cooking-in-another-world-with-my-absurd-skill/",
+                                "title": "Tondemo Skill De Isekai Hourou Meshi – Campfire Cooking in Another World with My Absurd Skill",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/01/6IZkTbgZEkzeVPKqfe644mSxbfF-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/handyman-saitou-in-another-world/",
+                                "title": "Handyman Saitou In Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/01/xgrzW23N85tX4alKwuVBrsu0Ppl-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/the-reincarnation-of-the-strongest-exorcist-in-another-world/",
+                                "title": "Saikyou Onmyouji No Isekai Tenseiki – The Reincarnation of the Strongest Exorcist in Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/01/cXAiq8fSJwODplal63HiYiANhzk-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/farming-life-in-another-world/",
+                                "title": "Isekai Nonbiri Nouka – Farming Life in Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/01/8DAPhdbfrVSLV6KeY3D78Tj8vSt-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/the-iceblade-sorcerer-shall-rule-the-world/",
+                                "title": "The Iceblade Sorcerer Shall Rule the World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/01/aiJd0oGkBhf98uEH3F3yC7O48vr.jpg"
+                            },
+                            {
+                                "url": "/serie/ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world/",
+                                "title": "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2023/01/3d8C2DEEBe70SIVZZWw1Q08oPvN-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/the-prince-of-tennis-ii-u-17-world-cup/",
+                                "title": "The Prince of Tennis II: U-17 World Cup",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/07/z0KcVP3U7t3Zu4fsIyFeGWHruiw-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/parallel-world-pharmacy/",
+                                "title": "Isekai Yakkyoku – Parallel World Pharmacy",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/07/hgfhgg-150x150.png"
+                            },
+                            {
+                                "url": "/serie/love-after-world-domination/",
+                                "title": "Koi wa Sekai Seifuku no Ato de – Love After World Domination",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/04/8FEplbf1ue1OHnhb0ZELW2BwVTY-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/skeleton-knight-in-another-world/",
+                                "title": "Gaikotsu Kishi-sama – Skeleton Knight in Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/04/kztE76NfhDw1LFVyOHVp2a48czQ-150x150.jpg"
+                            },
+                            {
+                                "url": "/films/my-hero-academia-world-heroes-mission-hd2/",
+                                "title": "My Hero Academia: World Heroes’ Mission",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2022/02/yjdOpEtlzlAnw4Kw0NGw25VrbIb-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat/",
+                                "title": "The World’s Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/10/gcUSD2DFIuzyzG5vMaPWlM2AiBN-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/restaurant-to-another-world/",
+                                "title": "Restaurant to Another World",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/10/qKegT0fLduWVvarxb4EVlS0a1b5-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/the-world-ends-with-you-the-animation/",
+                                "title": "The World Ends with You the Animation",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/04/apHvxqMVuxIGDOL9lLOyA9q2a3z-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/world-witches-hasshin-shimasu/",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/01/lEmQMjAo9AFDbfyOTjtDzmSqgVx-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2021/01/idK0Qpul2SzEPYdNZt3juPDiRlk-150x150.jpg"
+                            },
+                            {
+                                "url": "/serie/sword-art-online-alicization-war-of-underworld/",
+                                "title": "Sword Art Online: Alicization War of Underworld",
+                                "thumbnail_url": "https://ww2.jetanimes.com/wp-content/uploads/2019/10/j4TwQDz2MYd6rFJ0CgRFZNOmTjx-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

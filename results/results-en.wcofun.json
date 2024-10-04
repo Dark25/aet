@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/trillion-game-english-subbed",
+                                "title": "Trillion Game English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933753.jpg"
+                            },
+                            {
+                                "url": "/anime/sayounara-ryuusei-konnichiwa-jinsei",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933752.jpg"
+                            },
+                            {
                                 "url": "/anime/mecha-ude-tv",
                                 "title": "Mecha-ude (TV)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933751.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/disney-juniors-ariel",
                                 "title": "Disney Junior's Ariel",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933738.jpg"
-                            },
-                            {
-                                "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
-                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933737.jpg"
-                            },
-                            {
-                                "url": "/anime/the-simpsons-season-36",
-                                "title": "The Simpsons Season 36",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933736.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mecha-ude-tv",
-                    "title": "Mecha-ude (TV)",
-                    "description": "Long ago, alien lifeforms came to Earth, fusing with people on the planet. Due to their appearance, they were dubbed “Mecha-ude,” as when fused, they bore a striking resemblance to mechanized limbs.",
-                    "genre": "Action, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933751.jpg",
+                    "url": "/anime/trillion-game-english-subbed",
+                    "title": "Trillion Game English Subbed",
+                    "description": "Meet Haru Tennouji, a charismatic communicator beloved by all, regardless of age or gender. He may come across as easygoing, but beneath that façade lies an unwavering ambition for success. When offered a prestigious position at the nation’s largest IT company, “Dragon Bank,” he does the unexpected—turning it down in favor of embarking on an entrepreneurial journey alongside his friend, Manabu Taira. Their audacious objective: to amass a staggering 1 trillion dollars.",
+                    "genre": "Drama, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933753.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/trillion-game-episode-2-english-subbed",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
+                    },
+                    {
+                        "url": "/trillion-game-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXQ8fj2XybPDhRoaJQH8OsWJk32NnlWVq739BEZM3ivTKw3sVsefex9aM-nDRbADA1qF3_wr49cIuJtJDnyAyVJ6PTmfDb1avJvC7g27cO4ID_JRDg1i7qsjCw7dT6wIbg5UiYTdx3VUPIJvsLFHFogDg8Wem_85sbHgLyqsl7WCs0zGTry46PvyW4CC4cCo9mofZzUHXpWn0VHCcQ93_CEeA5w1bsiXK2CZbJQVYXF6O7NvtGoypJaMhETLiRbQT6S8peAQLrw7HqrS6BV8ODKSkDBx4-7MqxesHAZtFWcB5rJnTOXc3l8zboiBDghwWGBg031APISJ9KPxzUzMI08uM0Wwk5T5xcspnTZDn0RfG2Ht5wW95zwGGAah4qYN6Q",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXQ8fj2XybPDhRoaJQH8OsWJk32NnlWVq739BEZM3ivTKw3sVsefex9aM-nDRbADA1qF3_wr49cIuJtJDnyAyVJ6PTmfDb1avJvC7g27cO4ID_JRDg1i7qsjCw7dT6wIbg5UiYTdx3VUPIJvsLFHFogDg8Wem_85sbHgLyqsl7WCs0zGTry46PvyW4CC4cCo9mofZzUHXpWn0VHCcQ93_CEeA5w1bsiXK2CZbJQVYXF6O7NvtGoypJaMhETLiRbQT6S8peAQLrw7HqrS6BV8ODKSkDBx4-7MqxesHAZtFWcB5rJnTOXc3l8zboiBDghwWGBg031APISJ9KPxzUzMI08uM0Wwk5T5xcspnTZDn0RfG2Ht5wW95zwGGAah4qYN6Q"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXQ8fj2XybPDhRoaJQH8OsWJk32NnlWVq739BEZM3ivTKw3sVsefex9aM-nDRbADA1qF3_wr49cIuJtJDnyAyVJ6PTmfDb1avJvC7g27cO4II46SK7jl-H1qxm3WaUcGpOseNtGJVE9ta8tyZKuPy2XlvuHKsYWv7dyL2qwaSBQb0n9T3ozfejHyEJX_ChILD8ed0iuVmO1IVGqlsJIk76JF_JeEiQL5VEHfmIY59JOtUh2nbHhgP-RmmcNXwLCImuOrvjnjD8rTmNtsQ7YygH1pOCqNsHMl6n7vBsrHdHiXx25Ph9j1kHeJLbXQj9vWadWkmA8xwoaeDcUoOHGG2pEJmrTbSRfGDsV1Rz_iLFWzTTi9dSSjlfMWWFmTD-swZw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXQ8fj2XybPDhRoaJQH8OsWJk32NnlWVq739BEZM3ivTKw3sVsefex9aM-nDRbADA1qF3_wr49cIuJtJDnyAyVJ6PTmfDb1avJvC7g27cO4II46SK7jl-H1qxm3WaUcGpOseNtGJVE9ta8tyZKuPy2XlvuHKsYWv7dyL2qwaSBQb0n9T3ozfejHyEJX_ChILD8ed0iuVmO1IVGqlsJIk76JF_JeEiQL5VEHfmIY59JOtUh2nbHhgP-RmmcNXwLCImuOrvjnjD8rTmNtsQ7YygH1pOCqNsHMl6n7vBsrHdHiXx25Ph9j1kHeJLbXQj9vWadWkmA8xwoaeDcUoOHGG2pEJmrTbSRfGDsV1Rz_iLFWzTTi9dSSjlfMWWFmTD-swZw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXQ8fj2XybPDhRoaJQH8OsWJk32NnlWVq739BEZM3ivTKw3sVsefex9aM-nDRbADA1qF3_wr49cIuJtJDnyAyVJ6PTmfDb1avJvC7g27cO4IPusLRA-QuMWF5aau6XeiaC4kuSlMeUqPMVNGxP2Sgil4M7xgOXX5AlW8qEq-ATwrQnExll4wYyzBvnWWa4soLourVFOTAR8izKw-6gLbEnWlhxlUH6JgWfPTkxU5tm7JtmKG-FmbTMJ-sUumTOBvrTz4dYbn6EHDxZd33IV9KK9NRjPphCaYrQjJhIPVlJlNuqHFW5MLupPRQPBavCgaxXRynVor_nmbtVNENdKozdzbD2_1sziA0gf2chjHVZT4OAGXW86JCeuH98BthXow8U",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXQ8fj2XybPDhRoaJQH8OsWJk32NnlWVq739BEZM3ivTKw3sVsefex9aM-nDRbADA1qF3_wr49cIuJtJDnyAyVJ6PTmfDb1avJvC7g27cO4IPusLRA-QuMWF5aau6XeiaC4kuSlMeUqPMVNGxP2Sgil4M7xgOXX5AlW8qEq-ATwrQnExll4wYyzBvnWWa4soLourVFOTAR8izKw-6gLbEnWlhxlUH6JgWfPTkxU5tm7JtmKG-FmbTMJ-sUumTOBvrTz4dYbn6EHDxZd33IV9KK9NRjPphCaYrQjJhIPVlJlNuqHFW5MLupPRQPBavCgaxXRynVor_nmbtVNENdKozdzbD2_1sziA0gf2chjHVZT4OAGXW86JCeuH98BthXow8U"
+                    }
+                ],
+                "passed": true
             }
         }
     }

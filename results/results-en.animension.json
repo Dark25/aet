@@ -176,8 +176,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ixx272l.cloudatacdn.com/u5kj6ctethclsdgge55oslsol5zdpyl3kuqkuxmdwkvydgg7d34rhq2cqkaq/9ndqhmewuc~2QVC1LQR1X?token=yenxjwuluc6sm55egokxcwl7&expiry=1728021941555",
+                        "quality": "nullDoodstream  mirror",
+                        "videoUrl": "https://ixx272l.cloudatacdn.com/u5kj6ctethclsdgge55oslsol5zdpyl3kuqkuxmdwkvydgg7d34rhq2cqkaq/9ndqhmewuc~2QVC1LQR1X?token=yenxjwuluc6sm55egokxcwl7&expiry=1728021941555",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.wf/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

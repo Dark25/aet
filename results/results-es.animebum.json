@@ -199,12 +199,59 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/dandadan-capitulo-1-audio-castellano",
+                        "name": "Dandadan Audio Castellano Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://n2o3lct4gpv9.tnmr.org/hls2/04/00528/7sdf8jmr310k_h/index-v1-a1.m3u8?t=MKD-XT0-AIHYXK2OJlng20p69vWgULfxIpcW6CIQDyc&s=1728022024&e=43200&f=2641825&i=0.3&sp=0",
+                        "quality": "StreamHideVid - 1080p",
+                        "videoUrl": "https://n2o3lct4gpv9.tnmr.org/hls2/04/00528/7sdf8jmr310k_h/index-v1-a1.m3u8?t=MKD-XT0-AIHYXK2OJlng20p69vWgULfxIpcW6CIQDyc&s=1728022024&e=43200&f=2641825&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://luluvdo.com",
+                            "Referer": "https://luluvdo.com/e/7sdf8jmr310k"
+                        }
+                    },
+                    {
+                        "url": "https://zkiaa1g08m.guardstorage.net/hls_3/P63lcN9nX_sYM5D-nCsZEUf1yfTSftCE3Yyff6n1qOne_UyJml4eVd6RY6cXbkC-8_wfPT_Z9bFzhtME4_NqoNY64W8RrDJDd5zQNk3sPGGpbltZTTFr6lYYIYkp-xoWRsnPYRxeRj0hBqnO0NXVV0bQi18uK4njDAAlokAXgbQpRT9HNWEIfQLE6Z3gZuA5DNVIwtIbKGWFjce7AJ3JmA/index-f3-v1-a1.m3u8?sig=NPNNBUXGEr0thYlM2njs8Q&expires=1728031034",
+                        "quality": "VidGuard:1080p",
+                        "videoUrl": "https://zkiaa1g08m.guardstorage.net/hls_3/P63lcN9nX_sYM5D-nCsZEUf1yfTSftCE3Yyff6n1qOne_UyJml4eVd6RY6cXbkC-8_wfPT_Z9bFzhtME4_NqoNY64W8RrDJDd5zQNk3sPGGpbltZTTFr6lYYIYkp-xoWRsnPYRxeRj0hBqnO0NXVV0bQi18uK4njDAAlokAXgbQpRT9HNWEIfQLE6Z3gZuA5DNVIwtIbKGWFjce7AJ3JmA/index-f3-v1-a1.m3u8?sig=NPNNBUXGEr0thYlM2njs8Q&expires=1728031034",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://zkiaa1g08m.guardstorage.net/hls_3/P63lcN9nX_sYM5D-nCsZEUf1yfTSftCE3Yyff6n1qOne_UyJml4eVd6RY6cXbkC-8_wfPT_Z9bFzhtME4_NqoNY64W8RrDJDd5zQNk3sPGGpbltZTTFr6lYYIYkp-xoWRsnPYRxeRj0hBqnO0NXVV0bQi18uK4njDAAlokAXgbQpRT9HNWEIfQLE6Z3gZuA5DNVIwtIbKGWFjce7AJ3JmA/index-f2-v1-a1.m3u8?sig=NPNNBUXGEr0thYlM2njs8Q&expires=1728031034",
+                        "quality": "VidGuard:720p",
+                        "videoUrl": "https://zkiaa1g08m.guardstorage.net/hls_3/P63lcN9nX_sYM5D-nCsZEUf1yfTSftCE3Yyff6n1qOne_UyJml4eVd6RY6cXbkC-8_wfPT_Z9bFzhtME4_NqoNY64W8RrDJDd5zQNk3sPGGpbltZTTFr6lYYIYkp-xoWRsnPYRxeRj0hBqnO0NXVV0bQi18uK4njDAAlokAXgbQpRT9HNWEIfQLE6Z3gZuA5DNVIwtIbKGWFjce7AJ3JmA/index-f2-v1-a1.m3u8?sig=NPNNBUXGEr0thYlM2njs8Q&expires=1728031034",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=ykkVEhufM4yszWWIQO9pVAg7lZ%2BQ2TjJ1m2G3xOjPQ%2FNSDlSjegjKYGz%2BoswI40cf19G21mpZlHukC%2BLIF3hoiUoXx%2FKUvM8%2FV6xQWRKTsKQZiW%2BiCKtLnc0OOn609kNTTiDFedpNycEAn1j%2F%2FqX%2FSOe5psRW1uiX4hoXj8P3l%2Fw%3D%3D&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=ykkVEhufM4yszWWIQO9pVAg7lZ%2BQ2TjJ1m2G3xOjPQ%2FNSDlSjegjKYGz%2BoswI40cf19G21mpZlHukC%2BLIF3hoiUoXx%2FKUvM8%2FV6xQWRKTsKQZiW%2BiCKtLnc0OOn609kNTTiDFedpNycEAn1j%2F%2FqX%2FSOe5psRW1uiX4hoXj8P3l%2Fw%3D%3D&ref=&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://zkiaa1g08m.guardstorage.net/hls_3/P63lcN9nX_sYM5D-nCsZEUf1yfTSftCE3Yyff6n1qOne_UyJml4eVd6RY6cXbkC-8_wfPT_Z9bFzhtME4_NqoNY64W8RrDJDd5zQNk3sPGGpbltZTTFr6lYYIYkp-xoWRsnPYRxeRj0hBqnO0NXVV0bQi18uK4njDAAlokAXgbQpRT9HNWEIfQLE6Z3gZuA5DNVIwtIbKGWFjce7AJ3JmA/index-f1-v1-a1.m3u8?sig=NPNNBUXGEr0thYlM2njs8Q&expires=1728031034",
+                        "quality": "VidGuard:360p",
+                        "videoUrl": "https://zkiaa1g08m.guardstorage.net/hls_3/P63lcN9nX_sYM5D-nCsZEUf1yfTSftCE3Yyff6n1qOne_UyJml4eVd6RY6cXbkC-8_wfPT_Z9bFzhtME4_NqoNY64W8RrDJDd5zQNk3sPGGpbltZTTFr6lYYIYkp-xoWRsnPYRxeRj0hBqnO0NXVV0bQi18uK4njDAAlokAXgbQpRT9HNWEIfQLE6Z3gZuA5DNVIwtIbKGWFjce7AJ3JmA/index-f1-v1-a1.m3u8?sig=NPNNBUXGEr0thYlM2njs8Q&expires=1728031034",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

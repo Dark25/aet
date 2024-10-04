@@ -3,12 +3,134 @@
         "name": "BestDubbedAnime (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/One-Piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://i.imgur.com/DlCLYf5.jpg"
+                            },
+                            {
+                                "url": "/Bleach",
+                                "title": "Bleach",
+                                "thumbnail_url": "https://i.imgur.com/8m1YRzg.png"
+                            },
+                            {
+                                "url": "/The-Eminence-in-Shadow",
+                                "title": "The Eminence in Shadow",
+                                "thumbnail_url": "https://i.imgur.com/MZZBT7j.jpg"
+                            },
+                            {
+                                "url": "/That-Time-I-Got-Reincarnated-as-a-Slime",
+                                "title": "That Time I Got Reincarnated as a Slime",
+                                "thumbnail_url": "https://i.imgur.com/19Iu7fo.jpg"
+                            },
+                            {
+                                "url": "/Sorcery-Fight-2nd-Season",
+                                "title": "Sorcery Fight 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/RxLW9kGl.jpg"
+                            },
+                            {
+                                "url": "/The-Dangers-in-My-Heart",
+                                "title": "The Dangers in My Heart",
+                                "thumbnail_url": "https://i.imgur.com/HBzYbVQl.jpg"
+                            },
+                            {
+                                "url": "/The-Eminence-in-Shadow-2nd-Season",
+                                "title": "The Eminence in Shadow 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/uJpOzIsl.png"
+                            },
+                            {
+                                "url": "/Dr-Stone",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://i.imgur.com/RAnT04O.jpg"
+                            },
+                            {
+                                "url": "/In-Another-World-With-My-Smartphone-2nd-Season",
+                                "title": "In Another World With My Smartphone 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/1OzPwL4.jpg"
+                            },
+                            {
+                                "url": "/Classroom-of-the-Elite-2nd-Season",
+                                "title": "Classroom of the Elite 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/S4jyxlK.png?1"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/My-Hero-Academia-7",
+                                "title": "My Hero Academia 7",
+                                "thumbnail_url": "https://i.imgur.com/5BL9c7U.jpeg"
+                            },
+                            {
+                                "url": "/Monster",
+                                "title": "Monster",
+                                "thumbnail_url": "https://i.imgur.com/70B4aYZ.jpeg"
+                            },
+                            {
+                                "url": "/The-Dangers-in-My-Heart",
+                                "title": "The Dangers in My Heart",
+                                "thumbnail_url": "https://i.imgur.com/HBzYbVQl.jpg"
+                            },
+                            {
+                                "url": "/The-Eminence-in-Shadow-2nd-Season",
+                                "title": "The Eminence in Shadow 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/uJpOzIsl.png"
+                            },
+                            {
+                                "url": "/The-Kingdoms-of-Ruin",
+                                "title": "The Kingdoms of Ruin",
+                                "thumbnail_url": "https://i.imgur.com/j9jlqefl.jpg"
+                            },
+                            {
+                                "url": "/Management-of-a-Novice-Alchemist",
+                                "title": "Management of a Novice Alchemist",
+                                "thumbnail_url": "https://i.imgur.com/9kqmpHil.jpg"
+                            },
+                            {
+                                "url": "/Shangri-La-Frontier",
+                                "title": "Shangri-La Frontier",
+                                "thumbnail_url": "https://i.imgur.com/9NnffhYl.jpg"
+                            },
+                            {
+                                "url": "/Shangri-La",
+                                "title": "Shangri-La",
+                                "thumbnail_url": "https://i.imgur.com/u1N7J4vl.jpg"
+                            },
+                            {
+                                "url": "/Sorcery-Fight-2nd-Season",
+                                "title": "Sorcery Fight 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/RxLW9kGl.jpg"
+                            },
+                            {
+                                "url": "/Goblin-Slayer-2nd-Season",
+                                "title": "Goblin Slayer 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/hunfjVal.png"
+                            },
+                            {
+                                "url": "/Shy",
+                                "title": "Shy",
+                                "thumbnail_url": "https://i.imgur.com/hHU3EK1l.jpg"
+                            },
+                            {
+                                "url": "/World-Trigger-2nd-Season",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://i.imgur.com/WwmQ65Wl.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -81,20 +203,27 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": {
+                    "url": "/One-Piece",
+                    "description": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.",
+                    "genre": "Action, Adventure, Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/Accel-World-dub/24",
-                        "name": "Episode 24 \"Reincarnation\"",
-                        "episode_number": 24.0
+                        "url": "/One-Piece/1024",
+                        "name": "Episode 1024",
+                        "episode_number": 1024.0
                     },
                     {
-                        "url": "/Accel-World-dub/23",
-                        "name": "Episode 23 \"Consolidation\"",
-                        "episode_number": 23.0
+                        "url": "/One-Piece/1023",
+                        "name": "Episode 1023",
+                        "episode_number": 1023.0
                     }
                 ],
                 "passed": true
@@ -102,14 +231,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09",
-                        "quality": "720p # 4 (BDA-BU)",
-                        "videoUrl": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09"
+                        "url": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1728324297&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyODMyNDI5N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=HFq0kMJgdf4IETo-qd3XSePskZ6RVs6DfZmegDpHrV7LcycFEYNVEo3phvyBTz8EWWdLC1RdA72pD2tHYg7-OuudXKWI7T9DouWGtaMjcfk3aY5mrweogTgprWnry7vn4SIZl7n4w1y6xA6oGQjHASyL6ck6TzKpC3f65QnTP60WhX2pp%7Em3yRoX6EsEBP2kdvTsQ%7EzMwQ2joOGkzdWRh2pCfT0dd8kMySZAEsjbA3Ve0NRdWcMtJnYyvnPS38fWmgBIfDAIKV0lcb2JiKLvEooso7WcVN6Rt7pwfvZN-N%7E92uENsN%7E3zRH%7E0Z7TvN0h6K1ePMegZb6143HwU0xKgw__&Key-Pair-Id=K3RPWS32NSSJCE",
+                        "quality": "720p # 1 (BDA-HF)",
+                        "videoUrl": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1728324297&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyODMyNDI5N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=HFq0kMJgdf4IETo-qd3XSePskZ6RVs6DfZmegDpHrV7LcycFEYNVEo3phvyBTz8EWWdLC1RdA72pD2tHYg7-OuudXKWI7T9DouWGtaMjcfk3aY5mrweogTgprWnry7vn4SIZl7n4w1y6xA6oGQjHASyL6ck6TzKpC3f65QnTP60WhX2pp%7Em3yRoX6EsEBP2kdvTsQ%7EzMwQ2joOGkzdWRh2pCfT0dd8kMySZAEsjbA3Ve0NRdWcMtJnYyvnPS38fWmgBIfDAIKV0lcb2JiKLvEooso7WcVN6Rt7pwfvZN-N%7E92uENsN%7E3zRH%7E0Z7TvN0h6K1ePMegZb6143HwU0xKgw__&Key-Pair-Id=K3RPWS32NSSJCE"
                     },
                     {
-                        "url": "https://pstar-internal-api.fiftythree.com/presentations/jPlNzxAea7B/filestack/qKmgmjMDRqC26Fm4HIhx_8ca6ee4a7626815fb1beaafaf66f0dd2.mp4",
-                        "quality": "720p # 2 (BDA-PA)",
-                        "videoUrl": "https://pstar-internal-api.fiftythree.com/presentations/jPlNzxAea7B/filestack/qKmgmjMDRqC26Fm4HIhx_8ca6ee4a7626815fb1beaafaf66f0dd2.mp4"
+                        "url": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09",
+                        "quality": "720p # 2 (BDA-BU)",
+                        "videoUrl": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09"
                     }
                 ],
                 "passed": true

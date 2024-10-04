@@ -11,7 +11,7 @@
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
                 "passed": false
             },
             "details": {
@@ -19,15 +19,15 @@
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=TsElM0yUc1vqa2c%2FW%2BYURg%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=17k3qZHRhvNcO9b9%2BnsCvQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=TsElM0yUc1vqa2c%2FW%2BYURg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=17k3qZHRhvNcO9b9%2BnsCvQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

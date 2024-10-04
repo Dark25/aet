@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "I1F0mNSOCo8lO292",
+                                "title": "2.5-jigen no Ririsa",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
+                            },
+                            {
                                 "url": "fpQDdQ2kEffWWNvl",
                                 "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/fpQDdQ2kEffWWNvl"
@@ -100,11 +105,6 @@
                                 "url": "EQYWatIybecPmI6S",
                                 "title": "Tsue to Tsurugi no Wistoria",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S"
-                            },
-                            {
-                                "url": "I1F0mNSOCo8lO292",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
                             }
                         ],
                         "hasNextPage": true
@@ -314,14 +314,14 @@
             },
             "details": {
                 "result": {
-                    "url": "fpQDdQ2kEffWWNvl",
-                    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+                    "url": "I1F0mNSOCo8lO292",
+                    "title": "2.5-jigen no Ririsa",
                     "author": "J.C.Staff",
-                    "description": "Fifth season of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.",
-                    "genre": "Action, Adventure, Fantasy",
+                    "description": "After a disastrous romantic confession, Masamune Okumura finds solace in the fictional world of anime and manga. Now a second-year high school student and the president of the Manga Research Club, Masamune spends a peaceful existence watching the adventures of the angel Liliel, his favorite character.\n\nIn the beginning of the academic year, Masamune’s life is turned upside down when he meets first-year student Ririsa Amano, a passionate cosplay practitioner. Despite Masamune's initial reluctance, the determined young woman manages to convince him to become her personal photographer for the production of a collection dedicated to their common favorite character: Liliel.\n\nAs Masamune enthusiastically discovers the world of cosplay and photo editing, he is unexpectedly reunited with his childhood friend Mikari Tachibana, who has become a model in the hope of impressing her beloved upperclassman. Realizing that modeling is not enough to intrigue the hopeless otaku, Mikari decides to join the club and become a cosplayer herself, all to finally have a chance at winning Masamune's heart. However, Masamune's love for fictional characters may not be capable of extending to those who impersonate them.\n\n[Written by MAL Rewrite]",
+                    "genre": "Comedy, Ecchi, Harem, Otaku Culture, School, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/fpQDdQ2kEffWWNvl",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292",
                     "initialized": true
                 },
                 "passed": true
@@ -329,9 +329,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "fpQDdQ2kEffWWNvl/video/1",
-                        "name": "Episode 1: Syr",
-                        "episode_number": 1.0
+                        "url": "I1F0mNSOCo8lO292/video/14",
+                        "name": "Episode 14: Together with You",
+                        "episode_number": 14.0
+                    },
+                    {
+                        "url": "I1F0mNSOCo8lO292/video/13",
+                        "name": "Episode 13: Can We Be Friends?",
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
@@ -339,25 +344,33 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/fpQDdQ2kEffWWNvl/1/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/I1F0mNSOCo8lO292/14/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/fpQDdQ2kEffWWNvl/1/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/I1F0mNSOCo8lO292/14/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/fpQDdQ2kEffWWNvl/en-US/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/I1F0mNSOCo8lO292/en-US/14",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/fpQDdQ2kEffWWNvl/ru-RU/1",
-                                "lang": "Русский"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/I1F0mNSOCo8lO292/pt-BR/14",
+                                "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/fpQDdQ2kEffWWNvl/fr-FR/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/I1F0mNSOCo8lO292/fr-FR/14",
                                 "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/I1F0mNSOCo8lO292/es-LA/14",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/I1F0mNSOCo8lO292/de-DE/14",
+                                "lang": "Deutsch"
                             }
                         ]
                     }

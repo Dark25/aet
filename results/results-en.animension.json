@@ -7,139 +7,8 @@
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "1705844403",
-                                "title": "Ninjala",
-                                "thumbnail_url": "/assets/images/sh/covers/785.png"
-                            },
-                            {
-                                "url": "1782956412",
-                                "title": "Rick and Morty: The Anime",
-                                "thumbnail_url": "/assets/images/sh/covers/14031.png"
-                            },
-                            {
-                                "url": "2236772658",
-                                "title": "The Animatrix",
-                                "thumbnail_url": "/assets/images/sh/covers/9186.jpg"
-                            },
-                            {
-                                "url": "2626372450",
-                                "title": "Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!",
-                                "thumbnail_url": "/assets/images/sh/covers/14255.png"
-                            },
-                            {
-                                "url": "3057911839",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                                "thumbnail_url": "/assets/images/sh/covers/14254.png"
-                            },
-                            {
-                                "url": "1805892538",
-                                "title": "Trillion Game",
-                                "thumbnail_url": "/assets/images/sh/covers/14253.png"
-                            },
-                            {
-                                "url": "1326686581",
-                                "title": "Chiikawa",
-                                "thumbnail_url": "/assets/images/sh/covers/11252.jpg"
-                            },
-                            {
-                                "url": "2012529261",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "/assets/images/sh/covers/14252.png"
-                            },
-                            {
-                                "url": "1059695070",
-                                "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai (Uncensored)",
-                                "thumbnail_url": "/assets/images/sh/covers/14251.png"
-                            },
-                            {
-                                "url": "4004031327",
-                                "title": "Mecha-ude (TV)",
-                                "thumbnail_url": "/assets/images/sh/covers/14250.png"
-                            },
-                            {
-                                "url": "3639029163",
-                                "title": "Uji ni wa Monogatari ga Aru",
-                                "thumbnail_url": "/assets/images/sh/covers/14249.png"
-                            },
-                            {
-                                "url": "3879849953",
-                                "title": "Ryokunohara Labyrinth: Sparkling Phantom",
-                                "thumbnail_url": "/assets/images/sh/covers/14248.png"
-                            },
-                            {
-                                "url": "3466257571",
-                                "title": "Dandadan",
-                                "thumbnail_url": "/assets/images/sh/covers/14247.png"
-                            },
-                            {
-                                "url": "3031013818",
-                                "title": "Ao no Hako",
-                                "thumbnail_url": "/assets/images/sh/covers/14246.png"
-                            },
-                            {
-                                "url": "3583740688",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "thumbnail_url": "/assets/images/sh/covers/14245.png"
-                            },
-                            {
-                                "url": "1801195291",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "thumbnail_url": "/assets/images/sh/covers/14189.png"
-                            },
-                            {
-                                "url": "1082859951",
-                                "title": "NegaPosi Angler",
-                                "thumbnail_url": "/assets/images/sh/covers/14244.png"
-                            },
-                            {
-                                "url": "2961845895",
-                                "title": "Kinoko Inu",
-                                "thumbnail_url": "/assets/images/sh/covers/14243.png"
-                            },
-                            {
-                                "url": "1126956255",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                                "thumbnail_url": "/assets/images/sh/covers/14242.png"
-                            },
-                            {
-                                "url": "3847631287",
-                                "title": "Yu☆Gi☆Oh!: Go Rush!!",
-                                "thumbnail_url": "/assets/images/sh/covers/11217.jpg"
-                            },
-                            {
-                                "url": "4037695163",
-                                "title": "Tottoi",
-                                "thumbnail_url": "/assets/images/sh/covers/14240.png"
-                            },
-                            {
-                                "url": "1027091381",
-                                "title": "Planetes Picture Drama",
-                                "thumbnail_url": "/assets/images/sh/covers/14239.png"
-                            },
-                            {
-                                "url": "2483060974",
-                                "title": "Love Position: Halley Densetsu",
-                                "thumbnail_url": "/assets/images/sh/covers/14238.png"
-                            },
-                            {
-                                "url": "2021385608",
-                                "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
-                                "thumbnail_url": "/assets/images/sh/covers/14237.png"
-                            },
-                            {
-                                "url": "2861376407",
-                                "title": "Izumo",
-                                "thumbnail_url": "/assets/images/sh/covers/14236.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
+                "passed": false
             },
             "search": {
                 "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
@@ -147,36 +16,19 @@
             },
             "details": {
                 "result": {
-                    "url": "1705844403",
-                    "title": "Ninjala",
-                    "description": "The year is 20XX. The ninja, who once forged the history of Japan, were scattered across the country during the Meiji Restoration. As these ninja mingled with the other clans, their bloodline thinned, and they gradually faded from sight. The descendants of these ninja clans, seeking to preserve their heritage, formed the WNA (World Ninja Association) in the hope of carrying on their legacy. And so it was that the WNA succeeded in developing Ninja-Gum, an art which could summon forth the strength of the Shinobi. And yet creating the most powerful Ninja-Gum requires the strongest of ninja DNA. So it was that the Ninjala Tournament was held, that the mightiest of all ninjas could be found...",
+                    "description": "",
                     "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "/assets/images/sh/covers/785.png",
+                    "thumbnail_url": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "1264860695",
-                        "name": "Episode 137",
-                        "date_upload": 1728022143000,
-                        "episode_number": 137.0
-                    },
-                    {
-                        "url": "1987431783",
-                        "name": "Episode 136",
-                        "date_upload": 1728024969000,
-                        "episode_number": 136.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <br />\n<b>Fatal error</b>:  Un.....",
                 "passed": false
             }
         }

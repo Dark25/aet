@@ -11,6 +11,16 @@
                     {
                         "animes": [
                             {
+                                "url": "1705844403",
+                                "title": "Ninjala",
+                                "thumbnail_url": "/assets/images/sh/covers/785.png"
+                            },
+                            {
+                                "url": "1782956412",
+                                "title": "Rick and Morty: The Anime",
+                                "thumbnail_url": "/assets/images/sh/covers/14031.png"
+                            },
+                            {
                                 "url": "2236772658",
                                 "title": "The Animatrix",
                                 "thumbnail_url": "/assets/images/sh/covers/9186.jpg"
@@ -124,16 +134,6 @@
                                 "url": "2861376407",
                                 "title": "Izumo",
                                 "thumbnail_url": "/assets/images/sh/covers/14236.png"
-                            },
-                            {
-                                "url": "3329897281",
-                                "title": "Battle Royal High School",
-                                "thumbnail_url": "/assets/images/sh/covers/14235.png"
-                            },
-                            {
-                                "url": "1384531345",
-                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                                "thumbnail_url": "/assets/images/sh/covers/14234.png"
                             }
                         ],
                         "hasNextPage": true
@@ -147,13 +147,13 @@
             },
             "details": {
                 "result": {
-                    "url": "2236772658",
-                    "title": "The Animatrix",
-                    "description": "<span>The Animatrix is a collection of several animated short films, detailing the backstory of the \"Matrix\" universe, and the original war between man and machines which led to the creation of the Matrix.</span>",
-                    "genre": "Action, Drama, Sci-Fi",
+                    "url": "1705844403",
+                    "title": "Ninjala",
+                    "description": "The year is 20XX. The ninja, who once forged the history of Japan, were scattered across the country during the Meiji Restoration. As these ninja mingled with the other clans, their bloodline thinned, and they gradually faded from sight. The descendants of these ninja clans, seeking to preserve their heritage, formed the WNA (World Ninja Association) in the hope of carrying on their legacy. And so it was that the WNA succeeded in developing Ninja-Gum, an art which could summon forth the strength of the Shinobi. And yet creating the most powerful Ninja-Gum requires the strongest of ninja DNA. So it was that the Ninjala Tournament was held, that the mightiest of all ninjas could be found...",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "/assets/images/sh/covers/9186.jpg",
+                    "thumbnail_url": "/assets/images/sh/covers/785.png",
                     "initialized": true
                 },
                 "passed": true
@@ -161,33 +161,23 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "3208952752",
-                        "name": "Episode 9",
-                        "date_upload": 1727985963000,
-                        "episode_number": 9.0
+                        "url": "1264860695",
+                        "name": "Episode 137",
+                        "date_upload": 1728022143000,
+                        "episode_number": 137.0
                     },
                     {
-                        "url": "1438273550",
-                        "name": "Episode 8",
-                        "date_upload": 1727985963000,
-                        "episode_number": 8.0
+                        "url": "1987431783",
+                        "name": "Episode 136",
+                        "date_upload": 1728024969000,
+                        "episode_number": 136.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ixx272l.cloudatacdn.com/u5kj6ctethclsdgge55oslsol5zdpyl3kuqkuxmdwkvydgg7d34rhq2cqkaq/9ndqhmewuc~2QVC1LQR1X?token=yenxjwuluc6sm55egokxcwl7&expiry=1728021941555",
-                        "quality": "nullDoodstream  mirror",
-                        "videoUrl": "https://ixx272l.cloudatacdn.com/u5kj6ctethclsdgge55oslsol5zdpyl3kuqkuxmdwkvydgg7d34rhq2cqkaq/9ndqhmewuc~2QVC1LQR1X?token=yenxjwuluc6sm55egokxcwl7&expiry=1728021941555",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.wf/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

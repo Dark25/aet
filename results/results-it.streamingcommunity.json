@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9165-joker-folie-a-deux",
+                                "title": "Joker: Folie à Deux",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/30412d41-7b20-4b45-ac88-81bb62589b3e.webp"
+                            },
+                            {
                                 "url": "5770-from",
                                 "title": "From",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c6353411-1468-4456-a507-fe82812148ff.webp"
@@ -300,11 +305,6 @@
                                 "url": "9104-il-caso-yara-oltre-ogni-ragionevole-dubbio",
                                 "title": "Il caso Yara: oltre ogni ragionevole dubbio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/96ca0406-6364-4040-bb40-d4dae1727d98.webp"
-                            },
-                            {
-                                "url": "4968-primo-appuntamento",
-                                "title": "Primo appuntamento",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3c6594b9-bdb2-45b0-8300-f0354bdc33d7.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10067-el-diario",
+                                "title": "El diario",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3f0898b5-c23c-4e02-843e-9c92e1e9da89.webp"
+                            },
+                            {
+                                "url": "10066-tmz-presents-the-downfall-of-diddy",
+                                "title": "TMZ Presents: The Downfall of Diddy",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/030256e7-ca00-465d-8be5-d2ba865bbb8f.webp"
+                            },
+                            {
+                                "url": "10065-its-whats-inside",
+                                "title": "It's What's Inside",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/85194b8b-e56e-4da8-8709-2f5db3379c86.webp"
+                            },
                             {
                                 "url": "10064-shell-of-fear",
                                 "title": "Shell of Fear",
@@ -600,21 +615,6 @@
                                 "url": "9970-tuesday",
                                 "title": "Tuesday",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/8f1a1897-11a3-4c0d-917c-4c6ed484fa01.webp"
-                            },
-                            {
-                                "url": "9969-il-divorzio",
-                                "title": "Il divorzio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/94cecc9b-1eae-4acc-8b32-5a434d538c9a.webp"
-                            },
-                            {
-                                "url": "9968-los-reyes-de-oriente",
-                                "title": "Los reyes de oriente",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6a09964a-9ef1-42be-a001-6f99f37553f3.webp"
-                            },
-                            {
-                                "url": "9967-jailbreak-lamore-in-fuga",
-                                "title": "Jailbreak: L'amore in fuga",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a9fe40d3-2278-4641-b94f-a0b7055fbe0d.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,25 @@
             },
             "details": {
                 "result": {
-                    "url": "5770-from",
-                    "description": "In una città da incubo nel centro dell’America che intrappola tutti coloro che entrano, i residenti riluttanti combattono per rimanere in vita e cercano una via d’uscita. Ma sono afflitti dalle minacce della foresta circostante, comprese le terrificanti creature notturne.",
-                    "genre": "Dramma, Sci-Fi & Fantasy, Mistero",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9165-joker-folie-a-deux",
+                    "description": "Arthur Fleck e Harley si incontrano ad Arkham Asylum e pianificano la fuga: alla fine li vedremo insieme per le strade di Gotham City, dove ballano e dove li vediamo anche aggirarsi in costume da Joker e Harley Quinn.",
+                    "genre": "Dramma, Crime, Thriller",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "9165",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

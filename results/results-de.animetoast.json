@@ -416,28 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkxswvuoz3b4quuomoregpsucx4ssj5e6annf6cajx52uokcr257v724oq4ovapqwsnh3lln/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxswvuoz3b4quuomoregpsucx4ssj5e6annf6cajx52uokcr257v724oq4ovapqwsnh3lln/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/03/07007/gzi10zwhlkm7_x/index-v1-a1.m3u8?t=xzI7m4P3OJAL0w009QFiVhJLAGMAxWNUo4dczwhQEik&s=1728022010&e=10800&f=35036915&srv=52&asn=8075&sp=5500",
-                        "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/03/07007/gzi10zwhlkm7_x/index-v1-a1.m3u8?t=xzI7m4P3OJAL0w009QFiVhJLAGMAxWNUo4dczwhQEik&s=1728022010&e=10800&f=35036915&srv=52&asn=8075&sp=5500",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://filemoon.sx",
-                            "Referer": "https://filemoon.sx/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

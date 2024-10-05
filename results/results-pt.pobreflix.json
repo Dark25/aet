@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/o-poco-2/",
+                                "title": "O Poço 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg"
+                            },
+                            {
                                 "url": "/filmes/lobos-2/",
                                 "title": "Lobos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/5LvefZZsapIsOIckLZHbYlwCAkm.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/alien-romulus/",
                                 "title": "Alien: Romulus",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg"
-                            },
-                            {
-                                "url": "/filmes/a-liga/",
-                                "title": "A Liga",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4fBEhn0mYOOUIWyrMQTYYlMKJ1f.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/lobos-2/",
-                    "title": "Lobos",
-                    "description": "Dois solucionadores rivais se cruzam quando ambos são chamados para encobrir o erro de uma importante figura pública de Nova York. Durante uma noite conturbada, eles terão que deixar de lado suas diferenças e egos para concluir o serviço.\n\nTítulo Original: Wolfs",
-                    "genre": "Ação, Comédia, Crime, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/5LvefZZsapIsOIckLZHbYlwCAkm.jpg",
+                    "url": "/filmes/o-poco-2/",
+                    "title": "O Poço 2",
+                    "description": "Após um líder misterioso impor sua própria lei em um sistema brutal de celas verticais, uma mulher luta contra um método bizarro de distribuição de comida.\n\nTítulo Original: El hoyo 2",
+                    "genre": "Drama, Ficção científica, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/lobos-2/",
+                        "url": "/filmes/o-poco-2/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

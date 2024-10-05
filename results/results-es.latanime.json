@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/oye-tonbo-s2-latino",
+                                "title": "¡Oye, Tonbo! S2 Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/oye-tonbo-s2-latino-1728082936.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/el-asombroso-circo-digital-latino",
+                                "title": "El Asombroso Circo Digital Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/el-asombroso-circo-digital-latino-1728082335.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/dandadan-castellano",
                                 "title": "Dandadan Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/dandadan-castellano-1727972501.jpg?v=1.5"
@@ -145,16 +155,6 @@
                                 "url": "/anime/megami-no-cafe-terrace-s2-latino",
                                 "title": "Megami no Café Terrace S2 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/megami-no-cafe-terrace-s2-latino-1721944814.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/pseudo-harem-latino",
-                                "title": "Pseudo Harem Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/pseudo-harem-latino-1721938879.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/el-gran-rey-demonio-latino",
-                                "title": "El Gran Rey Demonio Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/el-gran-rey-demonio-latino-1721782276.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,45 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dandadan-castellano",
-                    "title": "Dandadan Castellano",
-                    "description": "Oculto, un friki que cree en los ovnis, y Ayase, su compañera criada por una abuela médium, vivirán una historia que les hará cuestionarse todo lo que han creído hasta el momento.",
-                    "genre": "Acción, Comedia, Shonen",
+                    "url": "/anime/oye-tonbo-s2-latino",
+                    "title": "¡Oye, Tonbo! S2 Latino",
+                    "description": "La vida de Tonbo cambia por completo al dejar su amada isla. Después de mudarse a Kumamoto para ingresar a la preparatoria, decide jugar golf con un grupo de jóvenes en un extenso campo de práctica. Gracias a su estilo libre de Tokara, logra destacar. Sin embargo, enfrenta un desafío formidable contra Hinoki Otoha, una golfista con gran habilidad y un año mayor a ella. Al presenciar su potencial, Hajime la impulsa a participar en el Campeonato Femenino de Kyushu. Con el golf como su aliado, Tonbo enfrenta nuevos retos. ¿Podrá competir con rivales tan fuertes como su amiga Tsubura o la talentosa Hinoki?",
+                    "genre": "Deportes, Drama",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/dandadan-castellano-episodio-1",
-                        "name": "Dandadan Castellano Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www3.mp4upload.com:183/d/r2x66v4oz3b4quuomoreez22cub36fm5rg7tpn3xeueuqkjkstw6okjjdh5qgk3f5v7ngclw/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2x66v4oz3b4quuomoreez22cub36fm5rg7tpn3xeueuqkjkstw6okjjdh5qgk3f5v7ngclw/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m140.uqload.ws/3rfkujzx4nw2q4drdkt7vlfglc2qpg7d3bfpfq572v2o4n3bo6daozeelppq/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m140.uqload.ws/3rfkujzx4nw2q4drdkt7vlfglc2qpg7d3bfpfq572v2o4n3bo6daozeelppq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

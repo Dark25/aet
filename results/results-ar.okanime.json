@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/touhai-ura-rate-mahjong-touhai-roku/",
+                                "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Touhai-Ura-Rate-Mahjong-Touhai-Roku-67003f2937d58.jpg"
+                            },
+                            {
                                 "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran/",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Rurouni-Kenshin-Meiji-Kenkaku-Romantan-Kyoto-Douran-66feee6edc995.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/anime/hitoribocchi-no-isekai-kouryaku/",
                                 "title": "Hitoribocchi no Isekai Kouryaku",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Hitoribocchi-no-Isekai-Kouryaku-66f6e931a728f.jpg"
-                            },
-                            {
-                                "url": "/anime/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki/",
-                                "title": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Mondaiji-tachi-ga-Isekai-kara-Kuru-Sou-desu-yo-Onsen-Manyuuki-66ea54b08e003.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -116,6 +116,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi/",
+                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Mahoutsukai-ni-Narenakatta-Onnanoko-no-Hanashi-67003f21d2643.jpg"
+                            },
                             {
                                 "url": "/anime/the-idolm-ster-shiny-colors-2nd-season/",
                                 "title": "The iDOLM@STER Shiny Colors 2nd Season",
@@ -310,11 +315,6 @@
                                 "url": "/anime/detective-conan/",
                                 "title": "Detective Conan",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Detective-Conan-5f08ee93df2fb.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-hero-academia-7th-season/",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Boku-no-Hero-Academia-7th-Season-6637d904ad4ed.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -409,58 +409,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran/",
-                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                    "description": "الموسم الثاني من الأنمي.\n\nسنة بداية العرض: 2024\nالنوع: TV\nمدة الحلقة: دقيقة 24\nالموسم: خريف 2024\nعدد الحلقات: غير محدد / 1\nحالة الأنمي: يعرض الان",
-                    "genre": "أكشن",
+                    "url": "/anime/touhai-ura-rate-mahjong-touhai-roku/",
+                    "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+                    "description": "قليلون يعلمون أن أحد أبرع وأشد لاعبي الماهجونغ في المدينة هو طالب في المدرسة الثانوية كي مراهق قليل الكلام لكن حدة ملاحظته إرادته الصلبة وخبرته العميقة في اللعبة مما أكسبه لقب كاي الجليد في العالم السفلي بسبب استراتيجيته القاسية وأسلوب لعبه الأنيق كما تنتشر شائعات بأنه يحتفظ بفتاة في منزله.\n\nسنة بداية العرض: 2024\nالنوع: TV\nمدة الحلقة: دقيقة 24\nالموسم: خريف 2024\nعدد الحلقات: غير محدد / 0\nحالة الأنمي: يعرض الان",
+                    "genre": "دراما, اثارة",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Rurouni-Kenshin-Meiji-Kenkaku-Romantan-Kyoto-Douran-66feee6edc995.jpg",
+                    "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Touhai-Ura-Rate-Mahjong-Touhai-Roku-67003f2937d58.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-1-الحلقة/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a2.mp4upload.com:183/d/xwxxivuoz3b4quuomorbqzk2kdnfz3dc2e5tdp5wwfk23qbhckrv77y34wwbulbr2wvrz4zg/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxxivuoz3b4quuomorbqzk2kdnfz3dc2e5tdp5wwfk23qbhckrv77y34wwbulbr2wvrz4zg/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkxqqvuoz3b4quuomora6z2hddlzosy45xqm56gxae7ylcd72raa77t5pu6psbrzbse3f4nt/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxqqvuoz3b4quuomora6z2hddlzosy45xqm56gxae7ylcd72raa77t5pu6psbrzbse3f4nt/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxw4vuoz3b4quuomora4mkhjno3zimjieycpfs3js7i2uoh74fjycuhneahjaetlptr7mgk/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxw4vuoz3b4quuomora4mkhjno3zimjieycpfs3js7i2uoh74fjycuhneahjaetlptr7mgk/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

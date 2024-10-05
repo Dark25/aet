@@ -3,7 +3,7 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: frame@ae43a891596c96dbfdca23c3f075e709",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call close: page@fa48188466365d268b46ecf7f717face",
                 "passed": false
             },
             "search": {

@@ -7,139 +7,8 @@
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "3801414435",
-                                "title": "Hyakushou Kizoku 2nd Season",
-                                "thumbnail_url": "/assets/images/sh/covers/14295.png"
-                            },
-                            {
-                                "url": "3309903164",
-                                "title": "Ice",
-                                "thumbnail_url": "/assets/images/sh/covers/14294.png"
-                            },
-                            {
-                                "url": "3563547081",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
-                                "thumbnail_url": "/assets/images/sh/covers/14293.png"
-                            },
-                            {
-                                "url": "4124056303",
-                                "title": "Katasumi no Uroko",
-                                "thumbnail_url": "/assets/images/sh/covers/14292.png"
-                            },
-                            {
-                                "url": "1108534605",
-                                "title": "Tonari no 801-chan R",
-                                "thumbnail_url": "/assets/images/sh/covers/14290.png"
-                            },
-                            {
-                                "url": "1898783074",
-                                "title": "Sango no Umi to Ouji",
-                                "thumbnail_url": "/assets/images/sh/covers/14288.png"
-                            },
-                            {
-                                "url": "2783464890",
-                                "title": "Scoopers",
-                                "thumbnail_url": "/assets/images/sh/covers/14287.png"
-                            },
-                            {
-                                "url": "2312318497",
-                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
-                                "thumbnail_url": "/assets/images/sh/covers/14286.png"
-                            },
-                            {
-                                "url": "2475751530",
-                                "title": "The Collected Animations of ICAF (2001-2006)",
-                                "thumbnail_url": "/assets/images/sh/covers/14284.png"
-                            },
-                            {
-                                "url": "3258052710",
-                                "title": "X Densha de Ikou",
-                                "thumbnail_url": "/assets/images/sh/covers/14285.png"
-                            },
-                            {
-                                "url": "3365789317",
-                                "title": "Yamakoshi Mura no Mari to Sanbiki no Koinu",
-                                "thumbnail_url": "/assets/images/sh/covers/14283.png"
-                            },
-                            {
-                                "url": "1628045313",
-                                "title": "Ramen Chai-nyan",
-                                "thumbnail_url": "/assets/images/sh/covers/14282.png"
-                            },
-                            {
-                                "url": "1361177679",
-                                "title": "Cosmic Fantasy: Ginga Mehyou no Wana",
-                                "thumbnail_url": "/assets/images/sh/covers/14281.png"
-                            },
-                            {
-                                "url": "3045260094",
-                                "title": "Netrun-mon the Movie",
-                                "thumbnail_url": "/assets/images/sh/covers/14280.png"
-                            },
-                            {
-                                "url": "2688813676",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II",
-                                "thumbnail_url": "/assets/images/sh/covers/14278.png"
-                            },
-                            {
-                                "url": "3346735089",
-                                "title": "Delpower X Bakuhatsu Miracle Genki!",
-                                "thumbnail_url": "/assets/images/sh/covers/14279.png"
-                            },
-                            {
-                                "url": "3398241278",
-                                "title": "Makaryuudo Demon Hunter",
-                                "thumbnail_url": "/assets/images/sh/covers/14277.png"
-                            },
-                            {
-                                "url": "1292227853",
-                                "title": "Katte ni Shirokuma",
-                                "thumbnail_url": "/assets/images/sh/covers/14276.png"
-                            },
-                            {
-                                "url": "1799251303",
-                                "title": "Dokushin Apartment Dokudami-sou",
-                                "thumbnail_url": "/assets/images/sh/covers/14275.png"
-                            },
-                            {
-                                "url": "1789848015",
-                                "title": "Blame! Prologue",
-                                "thumbnail_url": "/assets/images/sh/covers/14274.png"
-                            },
-                            {
-                                "url": "2410040828",
-                                "title": "Kabushikigaisha Magi-Lumi&egrave;re",
-                                "thumbnail_url": "/assets/images/sh/covers/14273.png"
-                            },
-                            {
-                                "url": "4136481981",
-                                "title": "Bean Bandit",
-                                "thumbnail_url": "/assets/images/sh/covers/14272.png"
-                            },
-                            {
-                                "url": "2138462700",
-                                "title": "Aoki Honoo",
-                                "thumbnail_url": "/assets/images/sh/covers/14271.png"
-                            },
-                            {
-                                "url": "2749684789",
-                                "title": "Haru no Ashioto The Movie: Ourin Dakkan",
-                                "thumbnail_url": "/assets/images/sh/covers/14270.png"
-                            },
-                            {
-                                "url": "1674810751",
-                                "title": "Milky Passion: Dougenzaka - Ai no Shiro",
-                                "thumbnail_url": "/assets/images/sh/covers/14269.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
+                "passed": false
             },
             "search": {
                 "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
@@ -147,30 +16,19 @@
             },
             "details": {
                 "result": {
-                    "url": "3801414435",
-                    "title": "Hyakushou Kizoku 2nd Season",
-                    "description": "Second season of Hyakushou Kizoku.",
-                    "genre": "Comedy, Shoujo",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "/assets/images/sh/covers/14295.png",
+                    "description": "",
+                    "genre": "",
+                    "thumbnail_url": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "2980033540",
-                        "name": "Episode 1",
-                        "date_upload": 1728072903000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <br />\n<b>Fatal error</b>:  Un.....",
                 "passed": false
             }
         }

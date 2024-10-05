@@ -3,7 +3,7 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: tracing@28e139bec1c24fbf33491e39c4695d57",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n    at ProgressController.run (/tmp/playwright-java-16967612692968722621/package/lib/server/progress.js:87:26)\n    at Frame.goto (/tmp/playwright-java-16967612692968722621/package/lib/server/frames.js:517:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16967612692968722621/package/lib/server/dispatchers/frameDispatcher.js:81:119)\n    at FrameDispatcher._handleCommand (/tmp/playwright-java-16967612692968722621/package/lib/server/dispatchers/dispatcher.js:94:40)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16967612692968722621/package/lib/server/dispatchers/dispatcher.js:362:39)\n}\nCall log:\n- navigating to \"https://fanpelis.la/movies-hd/page/1/\", waiting until \"load\"\n",
                 "passed": false
             },
             "search": {

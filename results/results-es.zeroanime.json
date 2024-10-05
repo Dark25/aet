@@ -3,23 +3,23 @@
         "name": "zeroanime (ES)",
         "results": {
             "popular": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz: Name or service not known",
                 "passed": false
             },
             "search": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             },
             "details": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             }
         }

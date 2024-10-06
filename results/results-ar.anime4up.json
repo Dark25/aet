@@ -376,12 +376,36 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/ranma1-2-2024-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m70.uqload.ws/3rfk37bf4nw2q4drdkqpvpvzlh7dtgn3ilifa64fx2vlfr25wqhe7b4oa2ea/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m70.uqload.ws/3rfk37bf4nw2q4drdkqpvpvzlh7dtgn3ilifa64fx2vlfr25wqhe7b4oa2ea/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsxzu7uoz3b4quuopwregncglhydsp4cvdzijohlhnkse6f6ufkcstvrhyb3si2avptlu65w/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxzu7uoz3b4quuopwregncglhydsp4cvdzijohlhnkse6f6ufkcstvrhyb3si2avptlu65w/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

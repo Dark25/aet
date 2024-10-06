@@ -52,6 +52,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/49463",
+                                "title": "Kimi wa Meido-sama",
+                                "thumbnail_url": "https://goyabu.to/wp-content/uploads/2024/09/Kimi-wa-Meido-sama-Todos-os-Episodios-Online-Goyabu.jpg"
+                            },
+                            {
+                                "url": "/49462",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "thumbnail_url": "https://goyabu.to/wp-content/uploads/2024/09/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki-Todos-os-Episodios-Online-Goyabu.jpg"
+                            },
+                            {
                                 "url": "/49461",
                                 "title": "Ranma ½ (2024) Dublado",
                                 "thumbnail_url": "https://goyabu.to/wp-content/uploads/2024/09/Ranma-2024-Todos-os-Episodios-Online-Goyabu.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/49443",
                                 "title": "Ao no Hako",
                                 "thumbnail_url": "https://goyabu.to/wp-content/uploads/2024/10/Ao-no-Hako-Todos-os-Episodios-Online-Goyabu.jpg"
-                            },
-                            {
-                                "url": "/49442",
-                                "title": "Boku no Hero Academia 7",
-                                "thumbnail_url": "https://goyabu.to/wp-content/uploads/2024/05/Boku-no-Hero-Academia-7-Todos-os-Episodios-Online-Goyabu.jpg"
-                            },
-                            {
-                                "url": "/49441",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
-                                "thumbnail_url": "https://goyabu.to/wp-content/uploads/2024/09/Mahoutsukai-ni-Narenakatta-Onnanoko-no-Hanashi-Todos-os-Episodios-Online-Goyabu.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -229,8 +229,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr3---sn-5uaeznes.googlevideo.com/videoplayback?expire=1728202768&ei=kNcBZ6mwGKqvxtYPjInR4A4&ip=20.161.78.34&id=60663ee29f1db755&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Ft&mm=31&mn=sn-5uaeznes&ms=au&mv=m&mvi=3&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1462.276&lmt=1728151979476086&mt=1728173600&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhANZAGbG8CliYOay2iG6Zj1VgzKkbj4W_VNtgg6Y_04TbAiB1WiXPzweURG6Ed71HKzbEBSIWwrG4wdTZiK3ASqp8OQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ACJ0pHgwRQIgPEdo99vLImUGoSgNEpZ34wmEMJpY2OqwHQLdMnYGZ-oCIQDXCR0vFhxwDlmO24gi70aastL_p2e7zhKrLNiW3hmT5w%3D%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr3---sn-5uaeznes.googlevideo.com/videoplayback?expire=1728202768&ei=kNcBZ6mwGKqvxtYPjInR4A4&ip=20.161.78.34&id=60663ee29f1db755&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Ft&mm=31&mn=sn-5uaeznes&ms=au&mv=m&mvi=3&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1462.276&lmt=1728151979476086&mt=1728173600&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhANZAGbG8CliYOay2iG6Zj1VgzKkbj4W_VNtgg6Y_04TbAiB1WiXPzweURG6Ed71HKzbEBSIWwrG4wdTZiK3ASqp8OQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ACJ0pHgwRQIgPEdo99vLImUGoSgNEpZ34wmEMJpY2OqwHQLdMnYGZ-oCIQDXCR0vFhxwDlmO24gi70aastL_p2e7zhKrLNiW3hmT5w%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://goyabu.to/",
+                            "Origin": "https://goyabu.to/"
+                        }
+                    },
+                    {
+                        "url": "https://rr3---sn-5uaeznes.googlevideo.com/videoplayback?expire=1728202768&ei=kNcBZ6mwGKqvxtYPjInR4A4&ip=20.161.78.34&id=60663ee29f1db755&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Ft&mm=31&mn=sn-5uaeznes&ms=au&mv=m&mvi=3&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1462.276&lmt=1728152096548046&mt=1728173600&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhALDIweOsNFQuIYB6jMoKN91l1RIKQeoYu9RDMmYvdngzAiEArt6pHFIDfRz8ZByEu7xC_Nq605PdF5_F5aB92jnS2pQ%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ACJ0pHgwRQIgaru4McluChxLzKgILajtTrBZlgxQuVJtuIS1aBcOqi0CIQCn2Wm0soYPgCnIpOg_5S7KHbBIdOQcQ9f2_YyzaD7deQ%3D%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr3---sn-5uaeznes.googlevideo.com/videoplayback?expire=1728202768&ei=kNcBZ6mwGKqvxtYPjInR4A4&ip=20.161.78.34&id=60663ee29f1db755&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=Ft&mm=31&mn=sn-5uaeznes&ms=au&mv=m&mvi=3&pl=16&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1462.276&lmt=1728152096548046&mt=1728173600&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhALDIweOsNFQuIYB6jMoKN91l1RIKQeoYu9RDMmYvdngzAiEArt6pHFIDfRz8ZByEu7xC_Nq605PdF5_F5aB92jnS2pQ%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ACJ0pHgwRQIgaru4McluChxLzKgILajtTrBZlgxQuVJtuIS1aBcOqi0CIQCn2Wm0soYPgCnIpOg_5S7KHbBIdOQcQ9f2_YyzaD7deQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://goyabu.to/",
+                            "Origin": "https://goyabu.to/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

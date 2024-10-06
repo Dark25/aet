@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/la-leyenda-de-vox-machina/",
+                                "title": "La leyenda de Vox Machina",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//j1wOSnBfbNwIISD7dFz9Qv5lPZj.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/the-adventures-of-huck-finn/",
+                                "title": "The Adventures of Huck Finn",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//zTI7eEh6vf4BqDawKKLn4aHvZYz.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/instintos-asesinos/",
                                 "title": "Instintos asesinos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//wIDulcEDrbW5tLaAHIUqODaTGG6.jpg"
@@ -15,11 +25,6 @@
                                 "url": "/ver-pelicula/y-la-banda-siguio-tocando/",
                                 "title": "Y la Banda Siguió Tocando",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//5rQOx5I3Pq1IyFxx4irGuMH1XAA.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-adventures-of-huck-finn/",
-                                "title": "The Adventures of Huck Finn",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//zTI7eEh6vf4BqDawKKLn4aHvZYz.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/no-hables-con-extranos/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/corrupcion-en-bangkok-entre-el-cielo-y-el-infierno/",
                                 "title": "Corrupción en Bangkok: Entre el cielo y el infierno",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/nadie-quiere-esto/",
-                                "title": "Nadie quiere esto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nBTHgPc49OGwSf3GiYdQ9sileSn.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/instintos-asesinos/",
-                    "artist": "Alexander Blaise",
-                    "description": "Alice y Celine viven un estilo de vida tradicional con esposos exitosos e hijos de la misma edad. La perfecta armonía de sus vidas se rompe repentinamente después de un trágico accidente. La culpa, la sospecha y la paranoia se combinan para deshacer su vínculo fraternal.   ",
-                    "genre": "Drama, Suspenso",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//wIDulcEDrbW5tLaAHIUqODaTGG6.jpg",
+                    "url": "/ver-serie/la-leyenda-de-vox-machina/",
+                    "artist": "Ashley Johnson",
+                    "author": "Chris Prynoski",
+                    "description": "Son unos revoltosos inadaptados sociales que se vuelven mercenarios a sueldo. A Vox Machina le interesa más el dinero fácil y la cerveza barata que proteger la corona. Sin embargo, cuando el mal amenaza al reino, este escandaloso grupo se da cuenta de que solo ellos pueden restaurar la justicia. Lo que comenzó como otro día de trabajo es ahora la historia detrás de los nuevos héroes de Exandria.   ",
+                    "genre": "Animación, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//j1wOSnBfbNwIISD7dFz9Qv5lPZj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,9 +212,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/instintos-asesinos/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/la-leyenda-de-vox-machina-3x3/",
+                        "name": "T3 - E3 - Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/la-leyenda-de-vox-machina-3x2/",
+                        "name": "T3 - E2 - Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -221,22 +227,30 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-vsn62bgpnezmxx9n.voe-network.net/engine/hls2-c/01/12338/2k4sc97piqoq_,n,.urlset/index-v1-a1.m3u8?t=spwnV8gtEqiY1SntJQERdg7FtPG37yT9730gDhbtZNQ&s=1728173895&e=14400&f=61694817&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=40.65&sp=2500&asn=8075",
+                        "url": "https://delivery-node-fkw5luwi91fa2hmi.voe-network.net/engine/hls2/01/12368/2vdn7tn1bxy2_,n,.urlset/index-v1-a1.m3u8?t=wlK2r882LSvlUA56L5gFFY5bhuEATRs6S2vFy7YxAlE&s=1728194783&e=14400&f=61842548&node=delivery-node-fkw5luwi91fa2hmi.voe-network.net&i=20.49&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-vsn62bgpnezmxx9n.voe-network.net/engine/hls2-c/01/12338/2k4sc97piqoq_,n,.urlset/index-v1-a1.m3u8?t=spwnV8gtEqiY1SntJQERdg7FtPG37yT9730gDhbtZNQ&s=1728173895&e=14400&f=61694817&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=40.65&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-fkw5luwi91fa2hmi.voe-network.net/engine/hls2/01/12368/2vdn7tn1bxy2_,n,.urlset/index-v1-a1.m3u8?t=wlK2r882LSvlUA56L5gFFY5bhuEATRs6S2vFy7YxAlE&s=1728194783&e=14400&f=61842548&node=delivery-node-fkw5luwi91fa2hmi.voe-network.net&i=20.49&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://poo1xkur32.cdn-jupiter.com/hls2/01/05038/2wuwyipi0lsk_n/index-v1-a1.m3u8?t=zGlu3O1C71l_kAewRHhGTwctEgTgDIhhE-XuQD8_-po&s=1728173896&e=129600&f=25193862&srv=nl0clz0vw31g&i=0.4&sp=500&p1=nl0clz0vw31g&p2=nl0clz0vw31g&asn=8075",
+                        "url": "https://m3x3w3m3yy.cdn-jupiter.com/hls2/01/05063/9ihzjiw1suvd_n/index-v1-a1.m3u8?t=ArS-fzWDkbJQUlXZEATkHIMuCDA_H5Nq88nVY7fJ4t0&s=1728194780&e=129600&f=25319354&srv=r2665bh0dckt&i=0.4&sp=500&p1=r2665bh0dckt&p2=r2665bh0dckt&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://poo1xkur32.cdn-jupiter.com/hls2/01/05038/2wuwyipi0lsk_n/index-v1-a1.m3u8?t=zGlu3O1C71l_kAewRHhGTwctEgTgDIhhE-XuQD8_-po&s=1728173896&e=129600&f=25193862&srv=nl0clz0vw31g&i=0.4&sp=500&p1=nl0clz0vw31g&p2=nl0clz0vw31g&asn=8075",
+                        "videoUrl": "https://m3x3w3m3yy.cdn-jupiter.com/hls2/01/05063/9ihzjiw1suvd_n/index-v1-a1.m3u8?t=ArS-fzWDkbJQUlXZEATkHIMuCDA_H5Nq88nVY7fJ4t0&s=1728194780&e=129600&f=25319354&srv=r2665bh0dckt&i=0.4&sp=500&p1=r2665bh0dckt&p2=r2665bh0dckt&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/2wuwyipi0lsk"
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/9ihzjiw1suvd"
+                        }
+                    },
+                    {
+                        "url": "https://s2.goodstream.uno/b2242c70698a8873?download_token=cb7e4cddd59d657e74f0405d2c0ed72d018238e6eeffc879c9b832cb6d1a1e49",
+                        "quality": "GoodStream: ",
+                        "videoUrl": "https://s2.goodstream.uno/b2242c70698a8873?download_token=cb7e4cddd59d657e74f0405d2c0ed72d018238e6eeffc879c9b832cb6d1a1e49",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
                         }
                     }
                 ],

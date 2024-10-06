@@ -3,15 +3,15 @@
         "name": "AniPlay (IT)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: api.aniplay.co: Temporary failure in name resolution",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: api.aniplay.co",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: api.aniplay.co",
+                "error": "java.net.ConnectException: Failed to connect to api.aniplay.co/72.52.178.23:443",
                 "passed": false
             },
             "details": {

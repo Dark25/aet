@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/vcop-370x208.jpg"
+                            },
+                            {
                                 "url": "/chi-chikyuu-no-undou-ni-tsuite-ger-sub/",
                                 "title": "Chi.: Chikyuu no Undou ni Tsuite Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/10/v56753-370x208.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-ger-sub/",
                                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/10/v61498-370x208.jpg"
-                            },
-                            {
-                                "url": "/acro-trip-ger-sub/",
-                                "title": "Acro Trip Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/09/v59677-370x208.jpg"
                             },
                             {
                                 "url": "/ranma-½-2024-ger-dub/",
@@ -394,13 +394,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/chi-chikyuu-no-undou-ni-tsuite-ger-sub/",
-                    "title": "Chi.: Chikyuu no Undou ni Tsuite Ger Sub",
-                    "description": "Polen im 15. Jahrhundert: Eine Zeit, in der ketzerische Ideen dazu führten, dass diejenigen, die eine solche Denkweise hatten, für ihren Glauben auf dem Scheiterhaufen verbrannt wurden. Rafal, ein Wunderkind, soll an der Universität Theologie studieren, das wichtigste Fach der damaligen Zeit. Eines Tages begegnet er jedoch einem geheimnisvollen Mann und beginnt, inmitten ketzerischer Gedanken, eine mögliche „Wahrheit“ zu entdecken!",
-                    "genre": "Adventure, Drama, Historical, Psychological, Seinen, Splatter, Violence",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/10/56753.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -408,20 +408,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/chi-chikyuu-no-undou-ni-tsuite-ger-sub/?link=1",
-                        "name": "Ep. 2",
-                        "episode_number": 2.0
+                        "url": "/16455-2/?link=180",
+                        "name": "Ep. 181",
+                        "episode_number": 181.0
                     },
                     {
-                        "url": "/chi-chikyuu-no-undou-ni-tsuite-ger-sub/?link=0",
-                        "name": "Ep. 1",
-                        "episode_number": 1.0
+                        "url": "/16455-2/?link=179",
+                        "name": "Ep. 180",
+                        "episode_number": 180.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

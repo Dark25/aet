@@ -37,29 +37,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/uSn7OxD4UbyP0j0E9ocoUKyWbFD.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=66f5d2e69c27ceabb2093e80",
-                                "title": "Damaged",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=66f874110911f86bccefd52b",
-                                "title": "Der wilde Roboter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mvdL1CHowtBb2rXeUyKUvazFVzm.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=66f873bf0911f86bccefd4f3",
-                                "title": "Never Let Go - Lass niemals los",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3Cmt9EWxSjL3siaiH6V6QpCZxo9.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=66dea0b4b66f8d08f50ed24e",
                                 "title": "The Crow",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/ia3BD1WfcOgf46yOGTS5JVbbsTy.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=66f5cfbf9c27ceabb2093c4e",
-                                "title": "Eternal - Echos aus der Tiefe",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300"
+                                "url": "/data/watch/?_id=66f5d2e69c27ceabb2093e80",
+                                "title": "Damaged",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=66ccf26d361b378fc2c64a99",
@@ -67,14 +52,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/865DntZzOdX6rLMd405R0nFkLmL.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=66f874110911f86bccefd52b",
+                                "title": "Der wilde Roboter",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mvdL1CHowtBb2rXeUyKUvazFVzm.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=66ed68859cdf155326dd59fc",
                                 "title": "Hanas Game",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300"
                             },
                             {
-                                "url": "/data/watch/?_id=66f5cffd9c27ceabb2093c6d",
-                                "title": "Transformers One *ENGLISH*",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nWpQKw9Qr3Nt8Lo5dwXZe5FInXH.jpg"
+                                "url": "/data/watch/?_id=66f873bf0911f86bccefd4f3",
+                                "title": "Never Let Go - Lass niemals los",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3Cmt9EWxSjL3siaiH6V6QpCZxo9.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=66dab0726e2d259c258c918c",
@@ -87,9 +77,24 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/nk15OpDdPgRFgA3I536FCAbSG74.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=66f5cfbf9c27ceabb2093c4e",
+                                "title": "Eternal - Echos aus der Tiefe",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300"
+                            },
+                            {
                                 "url": "/data/watch/?_id=66e644daf9fb8a34426d4986",
                                 "title": "The Killers Game *ENGLISH*",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/c7erC9ucLeLfCnluy1dzyUhinRQ.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=66f5cffd9c27ceabb2093c6d",
+                                "title": "Transformers One *ENGLISH*",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nWpQKw9Qr3Nt8Lo5dwXZe5FInXH.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=66f481597c38dd1f13f5a103",
+                                "title": "Malum - Böses Blut",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ioFFhKhCd1L7pkpnXedY0PH1ls4.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=66f00ad4c249a171ad0fa359",
@@ -100,11 +105,6 @@
                                 "url": "/data/watch/?_id=66f05129c249a171ad0fcda0",
                                 "title": "Whisper of the Witch",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/x9RyluJaH5QW2Sik6AzFHapp8cX.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=66f481597c38dd1f13f5a103",
-                                "title": "Malum - Böses Blut",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ioFFhKhCd1L7pkpnXedY0PH1ls4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -113,112 +113,20 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=66a393834491161ae2c90621",
-                    "title": "Deadpool & Wolverine",
-                    "description": "Seit Jahren träumt Deadpool (Ryan Reynolds) davon, ein Avenger zu werden – und nun bietet ihm der zwielichtige TVA-Agent Mr. Paradox (Matthew Macfadyen) an, in die heilige Zeitlinie zu wechseln, um dort Teil des MCU zu sein. Doch dafür muss der vorlaute Söldner ein großes Opfer bringen: Seine Welt wird ausgelöscht. Weil Deadpool dies nicht zulassen will, schickt Mr. Paradox ihn und eine von Deadpool rekrutierte, abgehalfterte Variante von Wolverine (Hugh Jackman) in die Leere – die große Müllhalde aller Universen. Dort hat die finstere Cassandra Nova (Emma Corrin) ein Schreckens-Regime errichtet. Deadpool ist klar: Will er seine Welt, all seine Freunde und seine große Liebe Vanessa (Morena Baccarin) retten, muss er an ihr vorbei und auch Mr. Paradox aufhalten. Doch dazu muss er erst einmal den verbitterten Wolverine überzeugen, ihm zu helfen.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=66a393834491161ae2c90621",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=8VxkzmVRmdUov00&expires=1728264817&ip=FROsEHMnDS9X&token=BxMhl8rVmKPM",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8VxkzmVRmdUov00&expires=1728264817&ip=FROsEHMnDS9X&token=BxMhl8rVmKPM"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WGd2WDv2VDhbJ73&expires=1728264815&ip=FROsEHMnDS9X&token=6hBApVLMvydu",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WGd2WDv2VDhbJ73&expires=1728264815&ip=FROsEHMnDS9X&token=6hBApVLMvydu"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=yPvya61BvOS19qy&expires=1728264814&ip=FROsEHMnDS9X&token=zpM7-bZyYaGn",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=yPvya61BvOS19qy&expires=1728264814&ip=FROsEHMnDS9X&token=zpM7-bZyYaGn"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=94zK0Dx7vQSaXed&expires=1728264813&ip=FROsEHMnDS9X&token=M8IsCo5OezTI",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=94zK0Dx7vQSaXed&expires=1728264813&ip=FROsEHMnDS9X&token=M8IsCo5OezTI"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=wrPxVbXk8etJyKg&expires=1728264811&ip=FROsEHMnDS9X&token=F4JF5gfaw17k",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=wrPxVbXk8etJyKg&expires=1728264811&ip=FROsEHMnDS9X&token=F4JF5gfaw17k"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=xm4964ddyDSkpAP&expires=1728264810&ip=FROsEHMnDS9X&token=A2Ni7mMjn2KE",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xm4964ddyDSkpAP&expires=1728264810&ip=FROsEHMnDS9X&token=A2Ni7mMjn2KE"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=ZqBm2DgQgwIqae2&expires=1728264806&ip=FROsEHMnDS9X&token=O8C_EJcchPGh",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZqBm2DgQgwIqae2&expires=1728264806&ip=FROsEHMnDS9X&token=O8C_EJcchPGh"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=qx2Y6bekK8hzQVr&expires=1728264801&ip=FROsEHMnDS9X&token=PVFn9b225AGi",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=qx2Y6bekK8hzQVr&expires=1728264801&ip=FROsEHMnDS9X&token=PVFn9b225AGi"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=XJwKrWL0maID86A&expires=1728264800&ip=FROsEHMnDS9X&token=d0bGYDNhjEmE",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XJwKrWL0maID86A&expires=1728264800&ip=FROsEHMnDS9X&token=d0bGYDNhjEmE"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=gQy47AbeK9hqbpX&expires=1728264794&ip=FROsEHMnDS9X&token=KZNtaJIe3IK2",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=gQy47AbeK9hqbpX&expires=1728264794&ip=FROsEHMnDS9X&token=KZNtaJIe3IK2"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=j2DaQGqA4gFLza&expires=1728264792&ip=FROsEHMnDS9X&token=5oEg7_iJQLoD",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=j2DaQGqA4gFLza&expires=1728264792&ip=FROsEHMnDS9X&token=5oEg7_iJQLoD"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=bpMlBm2xG1TQj1&expires=1728264789&ip=FROsEHMnDS9X&token=ND4BvtN2WMjW",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=bpMlBm2xG1TQj1&expires=1728264789&ip=FROsEHMnDS9X&token=ND4BvtN2WMjW"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=drrlzwrrp8HkdOy&expires=1728264787&ip=FROsEHMnDS9X&token=xr_XosdWg6lR",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=drrlzwrrp8HkdOy&expires=1728264787&ip=FROsEHMnDS9X&token=xr_XosdWg6lR"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=GvdkLWp2Ayt163V&expires=1728264786&ip=FROsEHMnDS9X&token=5k2-l0damcKj",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=GvdkLWp2Ayt163V&expires=1728264786&ip=FROsEHMnDS9X&token=5k2-l0damcKj"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Xxy4pWgkD2iD4Kg&expires=1728264783&ip=FROsEHMnDS9X&token=brWOtbSIEsPi",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Xxy4pWgkD2iD4Kg&expires=1728264783&ip=FROsEHMnDS9X&token=brWOtbSIEsPi"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Zbdp6r8JD3u7XV&expires=1728264745&ip=FROsEHMnDS9X&token=U77vl_YntrUH",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Zbdp6r8JD3u7XV&expires=1728264745&ip=FROsEHMnDS9X&token=U77vl_YntrUH"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             }
         }
     }

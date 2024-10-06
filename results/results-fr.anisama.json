@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ranma-½-2024-1784",
+                                "title": "Ranma ½ (2024)",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1155/144299.webp"
+                            },
+                            {
+                                "url": "/anime/kimi-wa-meido-sama-1783",
+                                "title": "Kimi wa Meido-sama.",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1909/144684.webp"
+                            },
+                            {
                                 "url": "/anime/ao-no-exorcist-yuki-no-hate-hen-1782",
                                 "title": "Ao no Exorcist: Yuki no Hate-hen",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1617/144043.webp"
@@ -305,16 +315,6 @@
                                 "url": "/anime/maou-sama-retry-r-1755",
                                 "title": "Demon Lord, Retry! Saison 2",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1667/145393.webp"
-                            },
-                            {
-                                "url": "/anime/hitoribocchi-no-isekai-kouryaku-1754",
-                                "title": "Loner Life in Another World",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1714/145320.webp"
-                            },
-                            {
-                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-1753",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu Saison 2",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1444/108005.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -499,14 +499,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=128456",
+                        "name": "Episode 1121",
+                        "episode_number": 1121.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=128220",
                         "name": "Episode 1120",
                         "episode_number": 1120.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=128113",
-                        "name": "Episode 1119",
-                        "episode_number": 1119.0
                     }
                 ],
                 "passed": true
@@ -514,13 +514,21 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://videos2.sendvid.com/ca/d3/xds4jzki.mp4?validfrom=1728187587&validto=1728201987&rate=250k&ip=20.97.191.182&hash=skQfVL6YXdlzARf7Ybdp8UtaCpk%3D",
+                        "url": "https://videos2.sendvid.com/5c/86/e9q1cakb.mp4?validfrom=1728209222&validto=1728223622&rate=250k&ip=172.183.51.115&hash=k0a37O2cT0mNkGU30NOqyukb0Hg%3D",
                         "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/ca/d3/xds4jzki.mp4?validfrom=1728187587&validto=1728201987&rate=250k&ip=20.97.191.182&hash=skQfVL6YXdlzARf7Ybdp8UtaCpk%3D",
+                        "videoUrl": "https://videos2.sendvid.com/5c/86/e9q1cakb.mp4?validfrom=1728209222&validto=1728223622&rate=250k&ip=172.183.51.115&hash=k0a37O2cT0mNkGU30NOqyukb0Hg%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/xds4jzki",
-                            "Referer": "https://https://sendvid.com/embed/xds4jzki/"
+                            "Origin": "https://https://sendvid.com/embed/e9q1cakb",
+                            "Referer": "https://https://sendvid.com/embed/e9q1cakb/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/3381f4c3c1b6272c58114eb228ce0b64/5659148.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/3381f4c3c1b6272c58114eb228ce0b64/5659148.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5659148"
                         }
                     }
                 ],

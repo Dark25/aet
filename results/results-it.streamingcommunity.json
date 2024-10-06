@@ -267,6 +267,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6694792b-37d5-4c0b-8d41-f0d2b2834169.webp"
                             },
                             {
+                                "url": "9423-batman-caped-crusader",
+                                "title": "Batman: Caped Crusader",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/fc351836-7266-4625-a1e1-65444315786a.webp"
+                            },
+                            {
                                 "url": "1369-futurama",
                                 "title": "Futurama",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0e324ce3-27cd-4659-81dc-46773bd66201.webp"
@@ -299,12 +304,7 @@
                             {
                                 "url": "5384-deadpool-and-wolverine",
                                 "title": "Deadpool & Wolverine",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/267cb5a3-5a43-4ad4-a77a-616f5404168a.webp"
-                            },
-                            {
-                                "url": "9050-fly-me-to-the-moon-le-due-facce-della-luna",
-                                "title": "Fly Me to the Moon - Le due facce della luna",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/86325c2a-2df7-4685-bfb4-2e72dbed9af2.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f02f8680-0168-424e-9491-e25a1ec61ba6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,36 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10086-les-miserables",
+                                "title": "Les Misérables",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e156ed38-b137-442f-8029-ac584cdb44ac.webp"
+                            },
+                            {
+                                "url": "10085-toto-peppino-e-la-malafemmina",
+                                "title": "Totò, Peppino e la... malafemmina",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/22056d29-5d1c-4726-a19d-b36737ac0faf.webp"
+                            },
+                            {
+                                "url": "10083-tototruffa-62",
+                                "title": "Totòtruffa '62",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bef65b1c-5745-411d-a25b-7e1e387d6f18.webp"
+                            },
+                            {
+                                "url": "10082-toto-peppino-e-i-fuorilegge",
+                                "title": "Totò, Peppino e i fuorilegge",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9f4e47d6-0e2b-425d-b2ea-370438663206.webp"
+                            },
+                            {
+                                "url": "10078-midway",
+                                "title": "Midway",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/978461cc-c2d3-4b97-80b0-c73b5206d064.webp"
+                            },
+                            {
+                                "url": "10077-giovanni-falcone",
+                                "title": "Giovanni Falcone",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d022fc25-b12a-43b9-ab8c-73aa038a3af4.webp"
+                            },
                             {
                                 "url": "10073-amore-piccante",
                                 "title": "Amore Piccante",
@@ -585,36 +615,6 @@
                                 "url": "9991-magic-academy",
                                 "title": "Magic Academy",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7957974c-cc0f-4685-89a9-882adcc46639.webp"
-                            },
-                            {
-                                "url": "9990-killer-heat",
-                                "title": "Killer Heat",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/92fd245f-1847-48ba-ab70-150ac23a951b.webp"
-                            },
-                            {
-                                "url": "9989-la-vittima-invisibile-il-caso-eliza-samudio",
-                                "title": "La vittima invisibile: il caso Eliza Samudio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/84486e9d-2b02-4853-b7f3-c549ba26e1f5.webp"
-                            },
-                            {
-                                "url": "9988-un-vero-gentiluomo",
-                                "title": "Un vero gentiluomo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/24cfc7ea-eb77-42eb-a684-89f8f50d650b.webp"
-                            },
-                            {
-                                "url": "9987-nobody-wants-this",
-                                "title": "Nobody Wants This",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e731b528-83c7-42c4-a466-ce86032ec71e.webp"
-                            },
-                            {
-                                "url": "9986-svalvolati-on-the-road",
-                                "title": "Svalvolati on the road",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2b80ab18-f631-44a1-983e-da23e8cba70c.webp"
-                            },
-                            {
-                                "url": "9982-io-sono-tu",
-                                "title": "Io sono tu",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1a63cdac-8eb5-4d61-879f-059b5b721360.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,8 +954,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/263541?type=video&rendition=480p&token=0z6DzDAu8B1Qf0bLatGQDA&expires=1733422000&b=1",
+                        "quality": "480,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/263541?type=video&rendition=480p&token=0z6DzDAu8B1Qf0bLatGQDA&expires=1733422000&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/263541?type=subtitle&rendition=2-eng&token=T-1sgFfLa1GwRDP8gYVf9g&expires=1733422000&b=1",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/263541?type=subtitle&rendition=3-eng&token=T-1sgFfLa1GwRDP8gYVf9g&expires=1733422000&b=1",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/263541?type=subtitle&rendition=4-ita&token=T-1sgFfLa1GwRDP8gYVf9g&expires=1733422000&b=1",
+                                "lang": "Italian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/263541?type=video&rendition=720p&token=gQGOhQXRyIyF2s1Q1h7j2Q&expires=1733422000&b=1",
+                        "quality": "720,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/263541?type=video&rendition=720p&token=gQGOhQXRyIyF2s1Q1h7j2Q&expires=1733422000&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/263541?type=subtitle&rendition=2-eng&token=T-1sgFfLa1GwRDP8gYVf9g&expires=1733422000&b=1",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/263541?type=subtitle&rendition=3-eng&token=T-1sgFfLa1GwRDP8gYVf9g&expires=1733422000&b=1",
+                                "lang": "English [CC]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/263541?type=subtitle&rendition=4-ita&token=T-1sgFfLa1GwRDP8gYVf9g&expires=1733422000&b=1",
+                                "lang": "Italian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

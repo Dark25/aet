@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/puniru-wa-kawaii-slime",
+                                "title": "Puniru wa Kawaii Slime",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933762.jpg"
+                            },
+                            {
+                                "url": "/anime/tsuma-shougakusei-ni-naru",
+                                "title": "Tsuma, Shougakusei ni Naru.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933761.jpg"
+                            },
+                            {
                                 "url": "/anime/kimi-wa-meido-sama",
                                 "title": "Kimi wa Meido-sama.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933760.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/kekkon-suru-tte-hontou-desu-ka",
                                 "title": "Kekkon suru tte, Hontou desu ka",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933747.jpg"
-                            },
-                            {
-                                "url": "/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933746.jpg"
-                            },
-                            {
-                                "url": "/anime/kinoko-inu",
-                                "title": "Kinoko Inu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933745.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kimi-wa-meido-sama",
-                    "title": "Kimi wa Meido-sama.",
-                    "description": "Hitoyoshi Yokoya is a high school student who currently lives alone. One day, an unfamiliar girl knocks on his door and offers to be his maid. She reveals that she is a former assassin, which makes Hitoyoshi nervous. But when her skills save him from being run over by a truck, Hitoyoshi ultimately decides to take her in.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933760.jpg",
+                    "url": "/anime/puniru-wa-kawaii-slime",
+                    "title": "Puniru wa Kawaii Slime",
+                    "description": "This is the story of Puniru the slime and Kotarou, a middle school student, until they cease being friends…",
+                    "genre": "Comedy, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933762.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/kimi-wa-meido-sama-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWPOVVI13fjIaIgfrSwtmWAU4wTaFZupeunE2yz95BkgQFl9-SBCc4tp2nQeuk-ZV35jjD5i4jA8aNbBFdBN34IvoaB5LZYQQmm4s_nnfwQEZfX3YIFM5QVna8QwXcihWJVvAXmAhCE9fkGQxMxvvZ6VmnzI7ahxeDDVrrZ8OH0T_Rj840x666dbaoLXQxbxZyP1RkVCdKyKj8fDsy1O4A8iiClrAYZv1_02aUTU-EpRx9-UsP_35ECZ3uyjefw7Xd8NC2C6dWa3SR0-HrN22lL0N_-Yb5rU9Ok8mwgU42lehbPcALfOnQxCbZXShfbfYtNsvX0PUXQ0El1p9v3jVErHf_i41OkANLyUj735zTx8QRKb8EkjMBi06XRJKeiylI",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWPOVVI13fjIaIgfrSwtmWAU4wTaFZupeunE2yz95BkgQFl9-SBCc4tp2nQeuk-ZV35jjD5i4jA8aNbBFdBN34IvoaB5LZYQQmm4s_nnfwQEZfX3YIFM5QVna8QwXcihWJVvAXmAhCE9fkGQxMxvvZ6VmnzI7ahxeDDVrrZ8OH0T_Rj840x666dbaoLXQxbxZyP1RkVCdKyKj8fDsy1O4A8iiClrAYZv1_02aUTU-EpRx9-UsP_35ECZ3uyjefw7Xd8NC2C6dWa3SR0-HrN22lL0N_-Yb5rU9Ok8mwgU42lehbPcALfOnQxCbZXShfbfYtNsvX0PUXQ0El1p9v3jVErHf_i41OkANLyUj735zTx8QRKb8EkjMBi06XRJKeiylI"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWPOVVI13fjIaIgfrSwtmWAU4wTaFZupeunE2yz95BkgQFl9-SBCc4tp2nQeuk-ZV35jjD5i4jA8aNbBFdBN34IvoaB5LZYQQmm4s_nnfwQEYY0raD6QCnxux00lQwJhusdN7psGCMIrMshTuzx92vNWeIK2D8jtPovFqvDCEztvqoKYuJPaiiC_qWHazDUiwQDEA34HaAUhCkgCaHYcWGQZARj5JzWOt83154GIwSXoHs0drWq1YO7bI1Y4bcec3rSYM4oeHrpujqon-0U2sv92F_kVU0v9EjS19P_yzm0oASFlxvxvjXsVzZn2q09aaObY_r0iABzgfcu6iYSEenpF4onjnVwGUhR1W6eHVEQUTfaSOUo-k5G4TeTXFz0mLc",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWPOVVI13fjIaIgfrSwtmWAU4wTaFZupeunE2yz95BkgQFl9-SBCc4tp2nQeuk-ZV35jjD5i4jA8aNbBFdBN34IvoaB5LZYQQmm4s_nnfwQEYY0raD6QCnxux00lQwJhusdN7psGCMIrMshTuzx92vNWeIK2D8jtPovFqvDCEztvqoKYuJPaiiC_qWHazDUiwQDEA34HaAUhCkgCaHYcWGQZARj5JzWOt83154GIwSXoHs0drWq1YO7bI1Y4bcec3rSYM4oeHrpujqon-0U2sv92F_kVU0v9EjS19P_yzm0oASFlxvxvjXsVzZn2q09aaObY_r0iABzgfcu6iYSEenpF4onjnVwGUhR1W6eHVEQUTfaSOUo-k5G4TeTXFz0mLc"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWPOVVI13fjIaIgfrSwtmWAU4wTaFZupeunE2yz95BkgQFl9-SBCc4tp2nQeuk-ZV35jjD5i4jA8aNbBFdBN34IvoaB5LZYQQmm4s_nnfwQEerrVGL4NG2VTEhDp275dpLSUaf8Gk_AppMTVPoGEdZGchVsprR-hAVb42-ebnKMrQivVpcuAjtaCk3uDfYc1KpycVBEjbjpsRYmtBSLyKhMqmKGKcQzaWr1h3NJBmaeey2oWDJRP8KppHM46F7_wq0d3V6hvsEBKazDfPRlgBL5lQEUURuCp0XHiRjKkzRdKMpXmfliO32vZG86wCTLbdYFLt1r370siHsVG6nJlpPLrQwzqxiwi4bsfOmV1EusVEaSOspCSQSqdoeqo_3umjs",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWPOVVI13fjIaIgfrSwtmWAU4wTaFZupeunE2yz95BkgQFl9-SBCc4tp2nQeuk-ZV35jjD5i4jA8aNbBFdBN34IvoaB5LZYQQmm4s_nnfwQEerrVGL4NG2VTEhDp275dpLSUaf8Gk_AppMTVPoGEdZGchVsprR-hAVb42-ebnKMrQivVpcuAjtaCk3uDfYc1KpycVBEjbjpsRYmtBSLyKhMqmKGKcQzaWr1h3NJBmaeey2oWDJRP8KppHM46F7_wq0d3V6hvsEBKazDfPRlgBL5lQEUURuCp0XHiRjKkzRdKMpXmfliO32vZG86wCTLbdYFLt1r370siHsVG6nJlpPLrQwzqxiwi4bsfOmV1EusVEaSOspCSQSqdoeqo_3umjs"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

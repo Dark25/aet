@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/haigakura-english-subbed",
+                                "title": "Haigakura English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933766.jpg"
+                            },
+                            {
+                                "url": "/anime/raise-wa-tanin-ga-ii",
+                                "title": "Raise wa Tanin ga Ii",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933765.jpg"
+                            },
+                            {
+                                "url": "/anime/marblegen",
+                                "title": "Marblegen",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933764.jpg"
+                            },
+                            {
+                                "url": "/anime/hoshifuru-oukoku-no-nina",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933763.jpg"
+                            },
+                            {
                                 "url": "/anime/puniru-wa-kawaii-slime",
                                 "title": "Puniru wa Kawaii Slime",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933762.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/mecha-ude-tv",
                                 "title": "Mecha-ude (TV)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933751.jpg"
-                            },
-                            {
-                                "url": "/anime/dandadan",
-                                "title": "Dandadan",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933750.jpg"
-                            },
-                            {
-                                "url": "/anime/dandadan-english-subbed",
-                                "title": "Dandadan English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933749.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-hako",
-                                "title": "Ao no Hako",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933748.jpg"
-                            },
-                            {
-                                "url": "/anime/kekkon-suru-tte-hontou-desu-ka",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933747.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/puniru-wa-kawaii-slime",
-                    "title": "Puniru wa Kawaii Slime",
-                    "description": "This is the story of Puniru the slime and Kotarou, a middle school student, until they cease being friends…",
-                    "genre": "Comedy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933762.jpg",
+                    "url": "/anime/haigakura-english-subbed",
+                    "title": "Haigakura English Subbed",
+                    "description": "The story takes place in another world where there are gods. This world lays above the sky and below the ocean. Four evil gods used to support this world by acting as pillars, but they ran away including all the other minor gods that lived in this world. Thus, people called Kashikan’s appeared. Their job is to capture the gods that fled and return stability to the country. The main character Ichiyou is a Kashikan who unwillingly took up the job to regain his foster father’s freedom. His foster father, a tiger, was captured to act as a replacement of the four gods who ran away. Ichiyou’s main objective is to recapture the evil gods and take back the peaceful life that he used to live.",
+                    "genre": "Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933766.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/puniru-wa-kawaii-slime-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH597iiKoc7Th4-YfdRZpkSWJW5SC-pOHL2_iFW5FXcKq6Ve7rTvnsAWuWPj8xWpDdmAJZsHzxaBhxE2zBqlU8gRhjifsmuuxawjFQHW03WiMt1Rh2S5uzJXUplKJdAfPRs4swAaViHYAJ8sbTutTIUoen50BakBMsp6CM5faKdGfA4SleEdfFmAYEuPxMv9ZKPGNyrC5fKXo8sPC7vRkRGUwojTH7CNZH6LtZkK2KE03_Z6WAqDOf63AWTJQoKAEcOJZq9pMj1TfuImX17R8nnVRk",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH597iiKoc7Th4-YfdRZpkSWJW5SC-pOHL2_iFW5FXcKq6Ve7rTvnsAWuWPj8xWpDdmAJZsHzxaBhxE2zBqlU8gRhjifsmuuxawjFQHW03WiMt1Rh2S5uzJXUplKJdAfPRs4swAaViHYAJ8sbTutTIUoen50BakBMsp6CM5faKdGfA4SleEdfFmAYEuPxMv9ZKPGNyrC5fKXo8sPC7vRkRGUwojTH7CNZH6LtZkK2KE03_Z6WAqDOf63AWTJQoKAEcOJZq9pMj1TfuImX17R8nnVRk"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH5909Gb_2yxweCG6Fd4lO-wgxqFkpfV_cqz-YHcW3JX4DS8OjemD-TgseEKT67zWJUJn2s1VdgnWZiuYTvD-LwejvizlebcqN0w-CETkjLsRe38pXlkD1Xrx7kKyK9ZYq2lPzcQkT4XJDB4xe_if-jaBCa780LIWzA_iN5-r9Hu2lz7mOoduNl9HjhFfB5rQG9XN8Ct2o13V2ccniX86RLExNS7CGU7DGRN7i3ZDB3DPC0CIJ_PUaiJj-6xojYHv11wm1MooLOjaBPFrXm6wvH_1Q",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH5909Gb_2yxweCG6Fd4lO-wgxqFkpfV_cqz-YHcW3JX4DS8OjemD-TgseEKT67zWJUJn2s1VdgnWZiuYTvD-LwejvizlebcqN0w-CETkjLsRe38pXlkD1Xrx7kKyK9ZYq2lPzcQkT4XJDB4xe_if-jaBCa780LIWzA_iN5-r9Hu2lz7mOoduNl9HjhFfB5rQG9XN8Ct2o13V2ccniX86RLExNS7CGU7DGRN7i3ZDB3DPC0CIJ_PUaiJj-6xojYHv11wm1MooLOjaBPFrXm6wvH_1Q"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH59-7sUrFSLiqpjNOoZkFN3XQcIe-K_3dncqNvANYvKJlj6sumZdLDVqYEtBY_WTQNY-eVOUDF5UwijPC0xiUfKm-q2k0ElEB7GN2Leyy6ounn-q4OV_IO2q4KIXh7yq-N6d5LV8-vytigULbIST5wpp5LmQJaPcLhbDu3C3E8jfUC3vtX07bgtwCcCb37UOKwnBvU26KyCMrBP83g4BQ-q2b8Jer_BqMusE8j_FDiqcMqxqmt9hIIZQWoswIec7bpUSNwA4sexW8qbmabBCHco1o",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH59-7sUrFSLiqpjNOoZkFN3XQcIe-K_3dncqNvANYvKJlj6sumZdLDVqYEtBY_WTQNY-eVOUDF5UwijPC0xiUfKm-q2k0ElEB7GN2Leyy6ounn-q4OV_IO2q4KIXh7yq-N6d5LV8-vytigULbIST5wpp5LmQJaPcLhbDu3C3E8jfUC3vtX07bgtwCcCb37UOKwnBvU26KyCMrBP83g4BQ-q2b8Jer_BqMusE8j_FDiqcMqxqmt9hIIZQWoswIec7bpUSNwA4sexW8qbmabBCHco1o"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

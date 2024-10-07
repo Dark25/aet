@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/coringa-delirio-a-dois/",
+                                "title": "Coringa: Delírio a Dois",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/i3KJRDKzWwy1QyEiHNE5brbghjb.jpg"
+                            },
+                            {
                                 "url": "/filmes/o-poco-2/",
                                 "title": "O Poço 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/jolies-filles/",
                                 "title": "Jolies filles",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/tyiclx8VegzLUpiLFXSIh1lt710.jpg"
-                            },
-                            {
-                                "url": "/filmes/alien-romulus/",
-                                "title": "Alien: Romulus",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/r21zxwbJI3VlwrxN4nGDN0VUQI8.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/o-poco-2/",
-                    "title": "O Poço 2",
-                    "description": "Após um líder misterioso impor sua própria lei em um sistema brutal de celas verticais, uma mulher luta contra um método bizarro de distribuição de comida.\n\nTítulo Original: El hoyo 2",
-                    "genre": "Drama, Ficção científica, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg",
+                    "url": "/filmes/coringa-delirio-a-dois/",
+                    "title": "Coringa: Delírio a Dois",
+                    "description": "O comediante fracassado Arthur Fleck conhece o amor de sua vida, Harleen Quinzel, enquanto está encarcerado no Arkham State Hospital. Os dois embarcam em uma desventura romântica condenada.\n\nTítulo Original: Joker: Folie à Deux",
+                    "genre": "Crime, Drama, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/i3KJRDKzWwy1QyEiHNE5brbghjb.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/o-poco-2/",
+                        "url": "/filmes/coringa-delirio-a-dois/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

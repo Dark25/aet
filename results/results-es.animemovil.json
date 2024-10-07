@@ -7,6 +7,48 @@
                     {
                         "animes": [
                             {
+                                "url": "/joker-folie-a-deux",
+                                "title": "Joker: Folie à Deux (2024)",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4320.webp"
+                            },
+                            {
+                                "url": "/seirei-gensouki-2",
+                                "title": "Seirei Gensouki 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4319.webp"
+                            },
+                            {
+                                "url": "/natsume-yuujinchou-shichi",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4318.webp"
+                            },
+                            {
+                                "url": "/raise-wa-tanin-ga-ii",
+                                "title": "Raise wa Tanin ga Ii",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4317.webp"
+                            },
+                            {
+                                "url": "/haigakura",
+                                "title": "Haigakura",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4316.webp"
+                            },
+                            {
+                                "url": "/hoshifuru-oukoku-no-nina",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4315.webp"
+                            },
+                            {
+                                "url": "/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4314.webp"
+                            },
+                            {
                                 "url": "/mf-ghost-2nd-season",
                                 "title": "MF Ghost 2nd Season",
                                 "status": 1,
@@ -83,48 +125,6 @@
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4301.webp"
-                            },
-                            {
-                                "url": "/the-i-dolmster-shiny-colors-2nd-season",
-                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4300.webp"
-                            },
-                            {
-                                "url": "/sword-art-online-alternative-gun-gale-online-ii",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4299.webp"
-                            },
-                            {
-                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4298.webp"
-                            },
-                            {
-                                "url": "/ao-no-hako",
-                                "title": "Ao no Hako",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4297.webp"
-                            },
-                            {
-                                "url": "/trillion-game",
-                                "title": "Trillion Game",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4296.webp"
-                            },
-                            {
-                                "url": "/sayounara-ryuusei-konnichiwa-jinsei",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4295.webp"
-                            },
-                            {
-                                "url": "/mecha-ude-tv",
-                                "title": "Mecha-ude (TV)",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4294.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,72 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/mf-ghost-2nd-season",
-                    "title": "MF Ghost 2nd Season",
-                    "description": "Segunda temporada de MF Ghost.",
-                    "genre": "Seinen",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4313.webp",
+                    "url": "/joker-folie-a-deux",
+                    "title": "Joker: Folie à Deux (2024)",
+                    "description": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él. Secuela de 'Joker'",
+                    "genre": "Romance, Drama, Psicológico, Música, Crimen",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4320.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/mf-ghost-2nd-season-1",
-                        "name": "Episodio 1",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/12377/2w7dvk81idca_,n,.urlset/index-v1-a1.m3u8?t=mJe_Thn8Ix0UTjwCnx75Fqyv03RhDBEtEMUzkDJRTig&s=1728302895&e=14400&f=61891172&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=52.225&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/12377/2w7dvk81idca_,n,.urlset/index-v1-a1.m3u8?t=mJe_Thn8Ix0UTjwCnx75Fqyv03RhDBEtEMUzkDJRTig&s=1728302895&e=14400&f=61891172&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=52.225&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://www13.mp4upload.com:183/d/q2x7hdujz3b4quuopwrbkykolnu2ori7ywqoe5z64z4wpg6ib5v3iqoybkid376hm5f5fh2i/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www13.mp4upload.com:183/d/q2x7hdujz3b4quuopwrbkykolnu2ori7ywqoe5z64z4wpg6ib5v3iqoybkid376hm5f5fh2i/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m90.uqload.ws/3rfk3uy44nw2q4drdkqpvjhwdczl5rw3clibhckxh4ju6b2a3afnjw56uz5a/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m90.uqload.ws/3rfk3uy44nw2q4drdkqpvjhwdczl5rw3clibhckxh4ju6b2a3afnjw56uz5a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=De1k7O98VmS3ag&expires=1728372881&ip=G0WsDRSOKxSHDN&token=Q0Kcoaa_3LR4",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=De1k7O98VmS3ag&expires=1728372881&ip=G0WsDRSOKxSHDN&token=Q0Kcoaa_3LR4"
-                    },
-                    {
-                        "url": "https://apu.animemovil2.com/embed2/?id=https://str12.vtube.network/hls/,x5s4zs3rjryki6cgamzmxm7qgvhujxmovf455dne3t5xhmxga4sds5yrt7ta,.urlset/master.m3u8?v=284310490",
-                        "quality": " - Re: Video",
-                        "videoUrl": "https://apu.animemovil2.com/embed2/?id=https://str12.vtube.network/hls/,x5s4zs3rjryki6cgamzmxm7qgvhujxmovf455dne3t5xhmxga4sds5yrt7ta,.urlset/master.m3u8?v=284310490",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://re.ironhentai.com",
-                            "Referer": "https://re.ironhentai.com/vt.php?id=x53ccue7qj8t"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

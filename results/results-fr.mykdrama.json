@@ -3,27 +3,27 @@
         "name": "MyKdrama (FR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: mykdrama.co: Temporary failure in name resolution",
+                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: mykdrama.co",
+                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: mykdrama.co",
+                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: mykdrama.co",
+                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: mykdrama.co",
+                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: mykdrama.co",
+                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
                 "passed": false
             }
         }

@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/puniru-wa-kawaii-slime-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH597iiKoc7Th4-YfdRZpkSWJW5SC-pOHL2_iFW5FXcKq6Ve7rTvnsAWuWPj8xWpDdmAJZsHzxaBhxE2zBqlU8gRhjifsmuuxawjFQHW03WiMt1Rh2S5uzJXUplKJdAfPRs4r9haEPK2v3UCUDEqNT7ZbNJqxoySJB_4-hXzRKVAQQY5NaWxJ7Q0s-J7HqhbuL_1wekdFTN2FFrYW1dSPLS9VOFO6nOgu5okxWWwW3SNyGzFyCQ50I1qvUX4JPUT8xLqu3Uw2V3U7WlekVL2-Fxgug",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH597iiKoc7Th4-YfdRZpkSWJW5SC-pOHL2_iFW5FXcKq6Ve7rTvnsAWuWPj8xWpDdmAJZsHzxaBhxE2zBqlU8gRhjifsmuuxawjFQHW03WiMt1Rh2S5uzJXUplKJdAfPRs4r9haEPK2v3UCUDEqNT7ZbNJqxoySJB_4-hXzRKVAQQY5NaWxJ7Q0s-J7HqhbuL_1wekdFTN2FFrYW1dSPLS9VOFO6nOgu5okxWWwW3SNyGzFyCQ50I1qvUX4JPUT8xLqu3Uw2V3U7WlekVL2-Fxgug"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH5909Gb_2yxweCG6Fd4lO-wgxqFkpfV_cqz-YHcW3JX4DS8OjemD-TgseEKT67zWJUJn2s1VdgnWZiuYTvD-LwejvizlebcqN0w-CETkjLsRe38pXlkD1Xrx7kKyK9ZYq2lDwp9kg0GDa3xOdAoLSbf3EvshHwiiUgw43j5Za8QjQzz1y_9LUNfscVPDSvry-A9bYLS3ie4V5IGsWxsFuTjMSxFy-K_FaXGt_TZW4d7jotyCVaEXq1XXSb72t525PtoS2FeQl5dzoR728osLbC75c",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH5909Gb_2yxweCG6Fd4lO-wgxqFkpfV_cqz-YHcW3JX4DS8OjemD-TgseEKT67zWJUJn2s1VdgnWZiuYTvD-LwejvizlebcqN0w-CETkjLsRe38pXlkD1Xrx7kKyK9ZYq2lDwp9kg0GDa3xOdAoLSbf3EvshHwiiUgw43j5Za8QjQzz1y_9LUNfscVPDSvry-A9bYLS3ie4V5IGsWxsFuTjMSxFy-K_FaXGt_TZW4d7jotyCVaEXq1XXSb72t525PtoS2FeQl5dzoR728osLbC75c"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH59-7sUrFSLiqpjNOoZkFN3XQcIe-K_3dncqNvANYvKJlj6sumZdLDVqYEtBY_WTQNY-eVOUDF5UwijPC0xiUfKm-q2k0ElEB7GN2Leyy6ounn-q4OV_IO2q4KIXh7yq-N6ZVZYf55Gk9LtLigFkbL1iAef5hs3jcbDx0-EEUW860vFfv49GVeGvZ-vmioMZDhkhoVuyiJOxAI9EVu3tvptqiK8F-qe8ffBsYirajrwjcxwuzHEKS6grKg-Oh8Z2EsJxxCDyPJq3Mwx1BRuOIWzGs",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVH0_iEcD5Fl-iAZRvftpbHprpLSTNFTlZlU9htOGpA0tpl5bzZK6OyYl3ZJ0VjfOiOWcBEbZ63gE76rSRWkkw0p4KAG63sorrHo-nmTIH59-7sUrFSLiqpjNOoZkFN3XQcIe-K_3dncqNvANYvKJlj6sumZdLDVqYEtBY_WTQNY-eVOUDF5UwijPC0xiUfKm-q2k0ElEB7GN2Leyy6ounn-q4OV_IO2q4KIXh7yq-N6ZVZYf55Gk9LtLigFkbL1iAef5hs3jcbDx0-EEUW860vFfv49GVeGvZ-vmioMZDhkhoVuyiJOxAI9EVu3tvptqiK8F-qe8ffBsYirajrwjcxwuzHEKS6grKg-Oh8Z2EsJxxCDyPJq3Mwx1BRuOIWzGs"
+                    }
+                ],
+                "passed": true
             }
         }
     }

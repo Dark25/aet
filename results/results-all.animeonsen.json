@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "60HvKUfEKQUnwgg8",
+                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/60HvKUfEKQUnwgg8"
+                            },
+                            {
                                 "url": "NyECsm2kL7WczZTQ",
                                 "title": "Uzumaki",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ"
@@ -100,11 +105,6 @@
                                 "url": "DInWTy3jJRVuXMJT",
                                 "title": "Dandadan",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/DInWTy3jJRVuXMJT"
-                            },
-                            {
-                                "url": "wCXwaP6wMEUmdNkz",
-                                "title": "Mecha-ude (TV)",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/wCXwaP6wMEUmdNkz"
                             }
                         ],
                         "hasNextPage": true
@@ -314,14 +314,14 @@
             },
             "details": {
                 "result": {
-                    "url": "NyECsm2kL7WczZTQ",
-                    "title": "Uzumaki",
-                    "author": "Akatsuki, Fugaku",
-                    "description": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals.\n\nBut his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness.\n\n[Written by MAL Rewrite]",
-                    "genre": "Avant Garde, Drama, Horror, Psychological, Seinen, Supernatural, Suspense",
+                    "url": "60HvKUfEKQUnwgg8",
+                    "title": "Chi.: Chikyuu no Undou ni Tsuite",
+                    "author": "Madhouse",
+                    "description": "15th century Poland—a time when heretical ideas led those who possessed such a mindset to be burned at the stake for their beliefs. Rafał, a child prodigy, is expected to major in theology at university, the most important subject at the time. However, one day he meets a mysterious man, and begins researching a potential \"truth\" amid heretical ideas!\n\n(Source: MAL News)",
+                    "genre": "Drama, Historical, Seinen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/60HvKUfEKQUnwgg8",
                     "initialized": true
                 },
                 "passed": true
@@ -329,13 +329,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "NyECsm2kL7WczZTQ/video/2",
-                        "name": "Episode 2: Episode 2",
+                        "url": "60HvKUfEKQUnwgg8/video/2",
+                        "name": "Episode 2: And Now... I'm Going to Move the Earth",
                         "episode_number": 2.0
                     },
                     {
-                        "url": "NyECsm2kL7WczZTQ/video/1",
-                        "name": "Episode 1: Episode 1",
+                        "url": "60HvKUfEKQUnwgg8/video/1",
+                        "name": "Episode 1: Heliocentrism. How About That?",
                         "episode_number": 1.0
                     }
                 ],
@@ -344,25 +344,137 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/NyECsm2kL7WczZTQ/2/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/60HvKUfEKQUnwgg8/2/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/NyECsm2kL7WczZTQ/2/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/60HvKUfEKQUnwgg8/2/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/NyECsm2kL7WczZTQ/en-US/2",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/en-US/2",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/NyECsm2kL7WczZTQ/pt-BR/2",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/zh-CN/2",
+                                "lang": "中文 (Simplified)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/vi-VN/2",
+                                "lang": "Vietnamese"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/uk-UA/2",
+                                "lang": "Ukrainian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/tr-TR/2",
+                                "lang": "Türkçe"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/tl-PH/2",
+                                "lang": "Tagalog"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/th-TH/2",
+                                "lang": "ไทย"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/sv-SE/2",
+                                "lang": "Swedish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/ro-RO/2",
+                                "lang": "Romanian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/pt-PT/2",
+                                "lang": "Português"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/pt-BR/2",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/NyECsm2kL7WczZTQ/es-LA/2",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/pl-PL/2",
+                                "lang": "Polish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/nl-NL/2",
+                                "lang": "Nederlands"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/nb-NO/2",
+                                "lang": "Norwegian (Bokmål)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/ms-MY/2",
+                                "lang": "Malay"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/ko-KR/2",
+                                "lang": "한국어"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/ja-JP/2",
+                                "lang": "日本語"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/it-IT/2",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/id-ID/2",
+                                "lang": "Indonesian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/hu-HU/2",
+                                "lang": "Hungarian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/hr-HR/2",
+                                "lang": "Croatian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/he-HE/2",
+                                "lang": "עברית"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/fr-FR/2",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/fi-FI/2",
+                                "lang": "Finnish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/es-LA/2",
                                 "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/es-ES/2",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/el-GR/2",
+                                "lang": "ελληνικά"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/de-DE/2",
+                                "lang": "Deutsch"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/da-DK/2",
+                                "lang": "Danish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/cs-CZ/2",
+                                "lang": "Czech"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/60HvKUfEKQUnwgg8/ar-ME/2",
+                                "lang": "العربية"
                             }
                         ]
                     }

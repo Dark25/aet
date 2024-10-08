@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/hada/",
+                                "title": "Hada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cJXaIkZS25CgS6EKaqYgKGsxMaA.jpg"
+                            },
+                            {
+                                "url": "/ctrl/",
+                                "title": "CTRL",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/eCaaJkJqRA6unsVe5hvtgJq301H.jpg"
+                            },
+                            {
+                                "url": "/los-iniciados-el-diario-de-las-sombras/",
+                                "title": "Los iniciados: El diario de las sombras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6340ZG3qHfS7q8ES5rwf4AQ0U1w.jpg"
+                            },
+                            {
+                                "url": "/vincent-debe-morir/",
+                                "title": "Vincent debe morir",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9EA4Q9Dl8U3upqTYZn3sZUHcoWo.jpg"
+                            },
+                            {
+                                "url": "/el-diario/",
+                                "title": "El diario",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/plqa8Eyd4r3aWH5xk7vMPC3IUvr.jpg"
+                            },
+                            {
+                                "url": "/oscuridad-total/",
+                                "title": "Oscuridad total",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lt3Adgt3msKnZNPSLZe1UVtTrYr.jpg"
+                            },
+                            {
                                 "url": "/joker-folie-a-deux/",
                                 "title": "Joker: Folie à Deux",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg"
@@ -175,36 +205,6 @@
                                 "url": "/un-golpe-a-la-inversa/",
                                 "title": "Un golpe a la inversa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6ke8pycPTpO8aFqIos2r3HkbDmC.jpg"
-                            },
-                            {
-                                "url": "/un-asunto-familiar/",
-                                "title": "Un asunto familiar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yCwx4wq3LjrBYewMdW6krgiEfhM.jpg"
-                            },
-                            {
-                                "url": "/ufo-sweden-cazadores-de-ovnis/",
-                                "title": "UFO Sweden: Cazadores de ovnis",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fCJHCEjaLZYb4UZbokRn2hp3y0Z.jpg"
-                            },
-                            {
-                                "url": "/el-ultimo-aliento/",
-                                "title": "El último aliento",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fyKkecH1we96Ko6N0gMbuhwVlGL.jpg"
-                            },
-                            {
-                                "url": "/the-settler/",
-                                "title": "The Settler",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185null"
-                            },
-                            {
-                                "url": "/the-mouse-trap/",
-                                "title": "The Mouse Trap",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg"
-                            },
-                            {
-                                "url": "/the-inheritance/",
-                                "title": "The Inheritance",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3qQok7BPKVcM0DA9Zu5OeMzzmk6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,15 +424,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/joker-folie-a-deux/",
-                    "title": "Joker: Folie à Deux",
-                    "artist": "Brendan Gleeson",
-                    "author": "Todd Phillips",
-                    "description": "Guasón 2: Folie à Deux Secuela de «Joker (2019), de nuevo con Phoenix como Arthur Fleck, y que muestra su relación con el personaje de Harley Quinn, interpretado por Lady Gaga.",
-                    "genre": "Crimen, Drama, Suspense",
+                    "url": "/hada/",
+                    "title": "Hada",
+                    "description": "«Hada se ha suicidado». Con esta frase de WhatsApp, algunos de sus antiguos amigos del colegio reciben la dura noticia. Hada se centra en el suicidio de la jugadora de baloncesto adolescente Hada.",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cJXaIkZS25CgS6EKaqYgKGsxMaA.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -440,7 +438,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/joker-folie-a-deux/",
+                        "url": "/hada/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -450,9 +448,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/22/00070/d6lrzuchlheu_n/index-v1-a1.m3u8?t=iKZcW7gcuAWSio_bnvXFPt_jwPKfX0vpo4oW8E5EE-M&s=1728324394&e=43200&v=479984&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/22/00070/d6lrzuchlheu_n/index-v1-a1.m3u8?t=iKZcW7gcuAWSio_bnvXFPt_jwPKfX0vpo4oW8E5EE-M&s=1728324394&e=43200&v=479984&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/gqid91e538rm_n/index-v1-a1.m3u8?t=UBIHeHjU8Bf2aZJEjyRKt8xEJJXqKl-59oHH_3OtW5Y&s=1728346623&e=43200&v=64911&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/gqid91e538rm_n/index-v1-a1.m3u8?t=UBIHeHjU8Bf2aZJEjyRKt8xEJJXqKl-59oHH_3OtW5Y&s=1728346623&e=43200&v=64911&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -461,9 +459,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/22/00070/d6lrzuchlheu_l/index-v1-a1.m3u8?t=iKZcW7gcuAWSio_bnvXFPt_jwPKfX0vpo4oW8E5EE-M&s=1728324394&e=43200&v=479984&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/22/00070/d6lrzuchlheu_l/index-v1-a1.m3u8?t=iKZcW7gcuAWSio_bnvXFPt_jwPKfX0vpo4oW8E5EE-M&s=1728324394&e=43200&v=479984&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/gqid91e538rm_l/index-v1-a1.m3u8?t=UBIHeHjU8Bf2aZJEjyRKt8xEJJXqKl-59oHH_3OtW5Y&s=1728346623&e=43200&v=64911&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/gqid91e538rm_l/index-v1-a1.m3u8?t=UBIHeHjU8Bf2aZJEjyRKt8xEJJXqKl-59oHH_3OtW5Y&s=1728346623&e=43200&v=64911&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

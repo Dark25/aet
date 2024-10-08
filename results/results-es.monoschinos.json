@@ -496,12 +496,63 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/seirei-gensouki-2-episodio-1",
+                        "name": "Capítulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dulisv62.cdn-jupiter.com/hls2/01/05077/bwqtqnibx684_h/index-v1-a1.m3u8?t=2s6Mla4m5MxUe9Y2PzYrEzHcBiN8G-aPIt0qh6Nob-Q&s=1728346611&e=129600&f=25387492&srv=eB7jHj2Czt&i=0.4&sp=500&p1=eB7jHj2Czt&p2=eB7jHj2Czt&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://dulisv62.cdn-jupiter.com/hls2/01/05077/bwqtqnibx684_h/index-v1-a1.m3u8?t=2s6Mla4m5MxUe9Y2PzYrEzHcBiN8G-aPIt0qh6Nob-Q&s=1728346611&e=129600&f=25387492&srv=eB7jHj2Czt&i=0.4&sp=500&p1=eB7jHj2Czt&p2=eB7jHj2Czt&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/bwqtqnibx684"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-wtdipcnkeuaoqfia.voe-network.net/engine/hls2-c/01/12386/sdj2qeg4jyg2_,n,.urlset/index-v1-a1.m3u8?t=yG1EfMsxkRRJIFiTnkWcqD1OZW8ngltBazz077u0ARg&s=1728346615&e=14400&f=61931184&node=delivery-node-rexesqooo91w0spw.voe-network.net&i=52.159&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-wtdipcnkeuaoqfia.voe-network.net/engine/hls2-c/01/12386/sdj2qeg4jyg2_,n,.urlset/index-v1-a1.m3u8?t=yG1EfMsxkRRJIFiTnkWcqD1OZW8ngltBazz077u0ARg&s=1728346615&e=14400&f=61931184&node=delivery-node-rexesqooo91w0spw.voe-network.net&i=52.159&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://www6.mp4upload.com:183/d/sgx53bejz3b4quuop2resoqzjg6ngwmgiqzd7zzlu74ry3mnqfbazirag2adpyux6w2anyjo/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www6.mp4upload.com:183/d/sgx53bejz3b4quuop2resoqzjg6ngwmgiqzd7zzlu74ry3mnqfbazirag2adpyux6w2anyjo/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery48.mxcontent.net/v2/dkxx30elueq88m.mp4?s=brG7B3pBnGhoa8C1ZxOIGQ&e=1728368208&_t=1728349332",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery48.mxcontent.net/v2/dkxx30elueq88m.mp4?s=brG7B3pBnGhoa8C1ZxOIGQ&e=1728368208&_t=1728349332",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://m90.uqload.ws/3rfk26qu4nw2q4drdkq7v55pb52waiafmqvv35alir5flq4hnsovfgc25yha/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m90.uqload.ws/3rfk26qu4nw2q4drdkq7v55pb52waiafmqvv35alir5flq4hnsovfgc25yha/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/seirei-gensouki-2",
+                                "title": "Seirei Gensouki: Spirit Chronicles - Staffel 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seirei-gensouki-2-cover.jpg"
+                            },
+                            {
                                 "url": "/media/natsume-yuujinchou-shichi",
                                 "title": "Natsume’s Book of Friends: Staffel 7",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-natsume-yuujinchou-shichi-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/mahou-tsukai-ni-narenakatta-onnanoko-no-hanashi",
                                 "title": "The Stories of Girls Who Couldn’t Be Magicians",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mahou-tsukai-ni-narenakatta-onnanoko-no-hanashi-cover.jpg"
-                            },
-                            {
-                                "url": "/media/the-idolmster-shiny-colors-2nd-season",
-                                "title": "The iDOLM@STER Shiny Colors: Staffel 2",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-the-idolmaster-shiny-colors-2nd-season-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/natsume-yuujinchou-shichi",
-                    "title": "Natsume’s Book of Friends: Staffel 7",
+                    "url": "/media/seirei-gensouki-2",
+                    "title": "Seirei Gensouki: Spirit Chronicles - Staffel 2",
                     "author": "",
-                    "description": "Die siebte Staffel von Natsume’s Book of Friends. Quelle: aniSearch",
-                    "genre": "Alltagsdrama",
+                    "description": "Die zweite Staffel von Seirei Gensouki. Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-natsume-yuujinchou-shichi-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seirei-gensouki-2-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,30 +239,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/natsume-yuujinchou-shichi#streams_episodes_1_0",
-                        "name": "Ep.1 Episode 1",
+                        "url": "/media/seirei-gensouki-2#streams_episodes_1_0",
+                        "name": "Ep.1 Ich bin dir in dieser Welt begegnet.",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=V7qZg3Mq97tOab&expires=1728394349&ip=F0qQKRWQDI9XKxR&token=xtD7FB1hn97A",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=V7qZg3Mq97tOab&expires=1728394349&ip=F0qQKRWQDI9XKxR&token=xtD7FB1hn97A"
-                    },
-                    {
-                        "url": "https://delivery-node-73l7iixyatq3w8eu.voe-network.net/engine/hls2-c/01/12385/ncb97i1gkvm4_,n,.urlset/index-v1-a1.m3u8?t=0lqBF_iylkYEo6OnjgeX_znl-36hKyyroLq5r-lFnWU&s=1728324342&e=14400&f=61929892&node=delivery-node-onszbvx7rkdpm7au.voe-network.net&i=172.171&sp=2500&asn=8075",
-                        "quality": "(Deutsch Sub) Voe:720p",
-                        "videoUrl": "https://delivery-node-73l7iixyatq3w8eu.voe-network.net/engine/hls2-c/01/12385/ncb97i1gkvm4_,n,.urlset/index-v1-a1.m3u8?t=0lqBF_iylkYEo6OnjgeX_znl-36hKyyroLq5r-lFnWU&s=1728324342&e=14400&f=61929892&node=delivery-node-onszbvx7rkdpm7au.voe-network.net&i=172.171&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

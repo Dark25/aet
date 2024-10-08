@@ -3,28 +3,83 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/misc/",
+                                "title": "misc/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/Beethoven%20Virus%20%282008%29%20Complete%201080p%20NF%20WEB-DL%20DDP2.0%20x264-HoneyG/Beethoven.Virus.E18.2008.1080p.NF.WEB-DL.DDP2.0.x264-HoneyG.mkv",
+                        "name": "Beethoven.Virus.E18.2008.1080p.NF.WEB-DL.DDP2.0.x264-HoneyG",
+                        "date_upload": -1,
+                        "episode_number": 18.0,
+                        "scanlator": "3.66 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/Beethoven%20Virus%20%282008%29%20Complete%201080p%20NF%20WEB-DL%20DDP2.0%20x264-HoneyG/Beethoven.Virus.E17.2008.1080p.NF.WEB-DL.DDP2.0.x264-HoneyG.mkv",
+                        "name": "Beethoven.Virus.E17.2008.1080p.NF.WEB-DL.DDP2.0.x264-HoneyG",
+                        "date_upload": -1,
+                        "episode_number": 17.0,
+                        "scanlator": "3.04 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/Beethoven%20Virus%20%282008%29%20Complete%201080p%20NF%20WEB-DL%20DDP2.0%20x264-HoneyG/Beethoven.Virus.E18.2008.1080p.NF.WEB-DL.DDP2.0.x264-HoneyG.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/Beethoven%20Virus%20%282008%29%20Complete%201080p%20NF%20WEB-DL%20DDP2.0%20x264-HoneyG/Beethoven.Virus.E18.2008.1080p.NF.WEB-DL.DDP2.0.x264-HoneyG.mkv"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/aguanta-la-respiracion/",
+                                "title": "Aguanta la respiración",
+                                "description": "Década de 1930, Oklahoma. En medio de terribles tormentas de polvo cada vez más horribles, una jov...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ERpm9kHIrBrh7zMKBZK4c0T8uOsS3GQxn6JnghVxJcFG.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-exorcismo-de-eastfield/",
                                 "title": "El exorcismo de Eastfield",
                                 "description": "Lara es una mujer atormentada, dividida entre la ciencia y la fe. Empujada por su marido a buscar tr...",
@@ -23,12 +29,6 @@
                                 "title": "La Casa de Los Susurros",
                                 "description": "Una chef abre su primer restaurante. Allí se enfrentará al caos en la cocina, a un inversionista d...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/MHoqJgO9E8kvx0tpdqeO8URFptYSp2t2z.webp"
-                            },
-                            {
-                                "url": "/pelicula/aguanta-la-respiracion/",
-                                "title": "Aguanta la respiración",
-                                "description": "Década de 1930, Oklahoma. En medio de terribles tormentas de polvo cada vez más horribles, una jov...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ERpm9kHIrBrh7zMKBZK4c0T8uOsS3GQxn6JnghVxJcFG.webp"
                             },
                             {
                                 "url": "/pelicula/the-little-mermaid/",
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-exorcismo-de-eastfield/",
-                    "title": "El exorcismo de Eastfield",
-                    "description": "Lara es una mujer atormentada, dividida entre la ciencia y la fe. Empujada por su marido a buscar tratamiento de una congregación de fanáticos, una exorcista despiadada intentará salvar su alma sometiendo a una mujer inocente al infierno.",
-                    "genre": "Terror",
+                    "url": "/pelicula/aguanta-la-respiracion/",
+                    "title": "Aguanta la respiración",
+                    "description": "Década de 1930, Oklahoma. En medio de terribles tormentas de polvo cada vez más horribles, una joven madre atormentada por el pasado se convence de que una presencia misteriosa amenaza a su familia y toma medidas extraordinarias para protegerles.",
+                    "genre": "Drama, Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-exorcismo-de-eastfield/",
+                        "url": "/pelicula/aguanta-la-respiracion/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -552,15 +552,15 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

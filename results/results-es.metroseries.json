@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/eY5sKOXjkjtgYcfdhuaAGcAyw5b.jpg"
                             },
                             {
-                                "url": "/buffy-cazavampiros/",
-                                "title": "Buffy, cazavampiros",
+                                "url": "/fright-krewe/",
+                                "title": "Fright Krewe",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sISqpC2ywqE6qNVWKUOTWUsYmjA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
                             },
                             {
-                                "url": "/corazon-indomable-capitulos-completos-latino-hd-online/",
-                                "title": "corazón indomable",
+                                "url": "/bad-guys/",
+                                "title": "Bad Guys",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/5C1KyqNELQgScR5Sav4YS7h2t1V-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3ZGMe0Wms4j9JBAzW5JPYxiM8Up.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,48 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/ayla-y-los-mirror-temporada-1-capitulo-10/",
+                        "name": "T01 - E10 - Episodio 10",
+                        "date_upload": 1728000000000,
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/episode/ayla-y-los-mirror-temporada-1-capitulo-9/",
+                        "name": "T01 - E09 - Episodio 9",
+                        "date_upload": 1728000000000,
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00070/auvtntqp1weq_n/index-v1-a1.m3u8?t=l_2gigTwp1FIPd9jqivN08FGJwWAuuaNCDW27ZoUwoQ&s=1728389260&e=43200&v=304488&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/auvtntqp1weq_n/index-v1-a1.m3u8?t=l_2gigTwp1FIPd9jqivN08FGJwWAuuaNCDW27ZoUwoQ&s=1728389260&e=43200&v=304488&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00070/auvtntqp1weq_l/index-v1-a1.m3u8?t=l_2gigTwp1FIPd9jqivN08FGJwWAuuaNCDW27ZoUwoQ&s=1728389260&e=43200&v=304488&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/auvtntqp1weq_l/index-v1-a1.m3u8?t=l_2gigTwp1FIPd9jqivN08FGJwWAuuaNCDW27ZoUwoQ&s=1728389260&e=43200&v=304488&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

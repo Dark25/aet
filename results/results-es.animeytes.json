@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/tv/hoshifuru-oukoku-no-nina/",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/mh95hj4509hj45h94h.jpg"
+                            },
+                            {
                                 "url": "/tv/houkago-shounen-hanako-kun/",
                                 "title": "Houkago Shounen Hanako-kun",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2023/09/BQZQZrXGIprO.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/tv/kamonohashi-ron-no-kindan-suiri-temporada-2/",
                                 "title": "Kamonohashi Ron no Kindan Suiri Temporada 2",
                                 "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/IphUH2J9IGXV4uqdKO.jpg"
-                            },
-                            {
-                                "url": "/tv/hoshifuru-oukoku-no-nina/",
-                                "title": "Hoshifuru Oukoku no Nina",
-                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/mh95hj4509hj45h94h.jpg"
                             },
                             {
                                 "url": "/tv/oshi-no-ko-temporada-2/",
@@ -390,18 +390,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn.burstcloud.co/a20241007amyE1eA45Pr/OP-1121.720p.AnimeYT.es.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20241007amyE1eA45Pr/OP-1121.720p.AnimeYT.es.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.burstcloud.co"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

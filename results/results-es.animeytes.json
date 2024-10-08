@@ -167,6 +167,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/tv/amagami-san-chi-no-enmusubi/",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://i1.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/09/hj0hj4659h0456h.jpg"
+                            },
+                            {
+                                "url": "/tv/rekishi-ni-nokoru-akujo-ni-naru-zo/",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://i2.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/09/hnj489q5h45j548h.jpg"
+                            },
+                            {
+                                "url": "/tv/youkai-gakkou-no-sensei-hajimemashita/",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/yeDL3zfEjHTETTm7jc.jpg"
+                            },
+                            {
+                                "url": "/tv/ookami-to-koushinryou-merchant-meets-the-wise-wolf/",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://i2.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/03/dlIAGGLiPqkzKoerQwdcCHQIoR.jpg"
+                            },
+                            {
                                 "url": "/tv/hoshifuru-oukoku-no-nina/",
                                 "title": "Hoshifuru Oukoku no Nina",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/mh95hj4509hj45h94h.jpg"
@@ -215,6 +235,11 @@
                                 "url": "/tv/nanatsu-no-taizai-mokushiroku-no-yonkishi-temporada-2/",
                                 "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Temporada 2",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/RTUpnJ5vRXHGJfv7Ne.jpg"
+                            },
+                            {
+                                "url": "/tv/el-rey-demonio-es-un-empleado-de-medio-tiempo-temporada-2-latino/",
+                                "title": "¡El Rey Demonio es empleado de medio tiempo! T2 Latino",
+                                "thumbnail_url": "https://i2.wp.com/ww1.animeyt.pro/wp-content/uploads/2022/08/fsd456f654sf56adf.jpg"
                             },
                             {
                                 "url": "/tv/ao-no-hako/",
@@ -290,31 +315,6 @@
                                 "url": "/tv/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki/",
                                 "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/hnj4845jnh45890h245-e1728157181905.jpg"
-                            },
-                            {
-                                "url": "/tv/ranma-½-2024·/",
-                                "title": "Ranma ½ (2024)·",
-                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/08/564h4526u65uj65j.jpg"
-                            },
-                            {
-                                "url": "/tv/ao-no-exorcist-yuki-no-hate-hen/",
-                                "title": "Ao no Exorcist: Yuki no Hate-hen",
-                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/1728149058-5542-144043.jpg"
-                            },
-                            {
-                                "url": "/tv/atri-my-dear-moments/",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://i1.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/07/gh983ghj0qj43h-e1720916591425.jpg"
-                            },
-                            {
-                                "url": "/tv/chi-chikyuu-no-undou-ni-tsuite/",
-                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
-                                "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/645j56jk67k876k.jpg"
-                            },
-                            {
-                                "url": "/tv/blue-lock-vs-u-20-japan/",
-                                "title": "Blue Lock vs. U-20 Japan",
-                                "thumbnail_url": "https://i1.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/nhoiu45hnm45iohnj45h.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -390,8 +390,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn.burstcloud.co/a20241008qNLc378CIjW/OP-1121.720p.AnimeYT.es.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a20241008qNLc378CIjW/OP-1121.720p.AnimeYT.es.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

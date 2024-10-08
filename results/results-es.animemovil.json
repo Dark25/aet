@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/youkai-gakkou-no-sensei-hajimemashita",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4322.webp"
+                            },
+                            {
+                                "url": "/love-live-superstar-3rd-season",
+                                "title": "Love Live! Superstar!! 3rd Season",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4321.webp"
+                            },
+                            {
                                 "url": "/joker-folie-a-deux",
                                 "title": "Joker: Folie à Deux (2024)",
                                 "status": 2,
@@ -113,18 +125,6 @@
                                 "title": "Kabushikigaisha Magi-Lumière",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4303.webp"
-                            },
-                            {
-                                "url": "/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4302.webp"
-                            },
-                            {
-                                "url": "/goukon-ni-ittara-onna-ga-inakatta-hanashi",
-                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4301.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,24 +264,72 @@
             },
             "details": {
                 "result": {
-                    "url": "/joker-folie-a-deux",
-                    "title": "Joker: Folie à Deux (2024)",
-                    "description": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él. Secuela de 'Joker'",
-                    "genre": "Romance, Drama, Psicológico, Música, Crimen",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4320.webp",
+                    "url": "/youkai-gakkou-no-sensei-hajimemashita",
+                    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                    "description": "El profesor novato Haruaki Abe es un cobarde, demasiado cobarde. Ya es bastante difícil para él manejar a los estudiantes humanos sin sollozar, ¡y ahora va a enseñar en una escuela llena de monstruos! Es un aula de horrores para Haruaki, ya que sus traviesos alumnos usan todos los medios a su disposición para gastarle bromas. ¿Podrá este pobre maestro controlar a su grupo de espectros, o está esta clase destinada al fracaso?",
+                    "genre": "Comedia, Shounen, Fantasía",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4322.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/youkai-gakkou-no-sensei-hajimemashita-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/12394/ttsxurfo0ukq_,n,.urlset/index-v1-a1.m3u8?t=nR6uhCgI14sAxpL7_noBdm_VkbKw_f-Lo85KfmrmHpw&s=1728410810&e=14400&f=61975687&node=delivery-node-bvomovz8fazqzzcu.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/12394/ttsxurfo0ukq_,n,.urlset/index-v1-a1.m3u8?t=nR6uhCgI14sAxpL7_noBdm_VkbKw_f-Lo85KfmrmHpw&s=1728410810&e=14400&f=61975687&node=delivery-node-bvomovz8fazqzzcu.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://www6.mp4upload.com:183/d/sgx35gujz3b4quuop2reqokkix6mg5tn2exd3mkkv2dpgf46wparyo5elgyqbczhp2pupoxr/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www6.mp4upload.com:183/d/sgx35gujz3b4quuop2reqokkix6mg5tn2exd3mkkv2dpgf46wparyo5elgyqbczhp2pupoxr/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m130.uqload.ws/3rfk3xyj4nw2q4drdkq7vlvcdkp5gy3plxj4jecopnrjya27cqkvtu4ami7q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m130.uqload.ws/3rfk3xyj4nw2q4drdkq7vlvcdkp5gy3plxj4jecopnrjya27cqkvtu4ami7q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=oLLQQpKkvYSJ2D8&expires=1728480797&ip=F0qQKRWZD19XKxR&token=u42A_mTwAQNj",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=oLLQQpKkvYSJ2D8&expires=1728480797&ip=F0qQKRWZD19XKxR&token=u42A_mTwAQNj"
+                    },
+                    {
+                        "url": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4vu34jryki6cgamz4x7fdh7zsi6ymmlhvs2ccpdwxlynrjpggnvrr6vja,.urlset/master.m3u8?v=741789904",
+                        "quality": " - Re: Video",
+                        "videoUrl": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4vu34jryki6cgamz4x7fdh7zsi6ymmlhvs2ccpdwxlynrjpggnvrr6vja,.urlset/master.m3u8?v=741789904",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://re.ironhentai.com",
+                            "Referer": "https://re.ironhentai.com/vt.php?id=7f9h06cl0b1x"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

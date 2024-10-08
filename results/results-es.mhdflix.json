@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/el-rey-del-barrio/",
+                                "title": "El rey del barrio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6QG3MG4HkOrJPJFtIlwL6NLhVOS.jpg"
+                            },
+                            {
                                 "url": "/movies/el-hoyo-2/",
                                 "title": "El hoyo 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/3awoWMKDfTROjGB2vivky1TCSRd.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/movies/azrael/",
                                 "title": "Azrael",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg"
-                            },
-                            {
-                                "url": "/movies/guardianes-de-la-noche-rumbo-a-la-aldea-de-los-herreros/",
-                                "title": "Guardianes de la noche: Rumbo a la aldea de los herreros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rzAShiFrU6tSSr9gLD5AxKKwtOo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,13 +224,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/el-hoyo-2/",
-                    "title": "El hoyo 2",
-                    "artist": "Callum Keith Rennie",
-                    "author": "Galder Gaztelu-Urrutia",
-                    "description": "Cuando un líder misterioso impone sus leyes en un brutal sistema vertical de celdas, una recién llegada decide desafiar su dudoso método de distribución de comida.",
-                    "genre": "Ciencia ficción, Drama, Suspense",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/3awoWMKDfTROjGB2vivky1TCSRd.jpg",
+                    "url": "/movies/el-rey-del-barrio/",
+                    "title": "El rey del barrio",
+                    "artist": "Action Bronson",
+                    "author": "Eddie Griffith",
+                    "description": "Scott ha sido un caso de desarrollo arrestado desde que su padre bombero murió cuando él tenía siete años. Ahora ha alcanzado la mitad de sus 20 años y ha logrado poco, persiguiendo el sueño de convertirse en un artista del tatuaje que parece estar fuera de su alcance. Mientras su ambiciosa hermana menor se va a la universidad, Scott todavía vive con su agotada madre enfermera de emergencias y pasa sus días fumando hierba, saliendo con los chicos, Oscar, Igor y Richie, y en secreto con su amigo de la infancia Kelsey. Pero cuando su madre comienza a salir con un bombero ruidoso llamado Ray, desencadena una serie de eventos que obligarán a Scott a lidiar con su dolor y dar sus primeros pasos tentativos para avanzar en la vida.",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/6QG3MG4HkOrJPJFtIlwL6NLhVOS.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -238,7 +238,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/el-hoyo-2/",
+                        "url": "/movies/el-rey-del-barrio/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -248,25 +248,63 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cy1pr8bvqdte.hgagecdn.com/hls2/01/02352/0z5y5wx6bxrd_h/index-v1-a1.m3u8?t=9JvFFoLv-sF66OUSaNrECVdL_rmk5P2rhAb_8IzYJB8&s=1728389274&e=129600&f=11764236&srv=c3r7vx1sxRdf&i=0.4&sp=500&p1=c3r7vx1sxRdf&p2=c3r7vx1sxRdf&asn=8075",
-                        "quality": "[VOSE] - VidHide: 1080p ",
-                        "videoUrl": "https://cy1pr8bvqdte.hgagecdn.com/hls2/01/02352/0z5y5wx6bxrd_h/index-v1-a1.m3u8?t=9JvFFoLv-sF66OUSaNrECVdL_rmk5P2rhAb_8IzYJB8&s=1728389274&e=129600&f=11764236&srv=c3r7vx1sxRdf&i=0.4&sp=500&p1=c3r7vx1sxRdf&p2=c3r7vx1sxRdf&asn=8075",
+                        "url": "https://82psw98llfa.pradoi.com/hls2/01/04095/dzp5zecv281y_n/index-v1-a1.m3u8?t=DPVfw3W4VUcGbTa7MRzfPMfDiPwhAdnMS4yVv8uerb0&s=1728410810&e=129600&f=20476963&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
+                        "quality": "[LAT] - StreamWish - 480p",
+                        "videoUrl": "https://82psw98llfa.pradoi.com/hls2/01/04095/dzp5zecv281y_n/index-v1-a1.m3u8?t=DPVfw3W4VUcGbTa7MRzfPMfDiPwhAdnMS4yVv8uerb0&s=1728410810&e=129600&f=20476963&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/0z5y5wx6bxrd"
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/dzp5zecv281y"
                         }
                     },
                     {
-                        "url": "https://13nt2qnqm72d.aghe-cdn.com/hls2/01/02352/sq41v41abd57_h/index-v1-a1.m3u8?t=AKQ-XCNKm7rZNCjNy2iQhjqRP6pg2GAFzXAakQ5Izlg&s=1728389275&e=129600&f=11764240&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=8075",
-                        "quality": "[CAST] - VidHide: 1080p ",
-                        "videoUrl": "https://13nt2qnqm72d.aghe-cdn.com/hls2/01/02352/sq41v41abd57_h/index-v1-a1.m3u8?t=AKQ-XCNKm7rZNCjNy2iQhjqRP6pg2GAFzXAakQ5Izlg&s=1728389275&e=129600&f=11764240&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=8075",
+                        "url": "https://wss3nad7ls5u.hgagecdn.com/hls2/01/01846/xd0ncrozsh56_l/index-v1-a1.m3u8?t=Zh38U2p_WfCiQF-ZzULqkZckOIulzig_g48bMWRIg9s&s=1728410805&e=129600&f=9230116&srv=OML7LRnXUexu&i=0.4&sp=500&p1=OML7LRnXUexu&p2=OML7LRnXUexu&asn=8075",
+                        "quality": "[LAT] - VidHide: 480p ",
+                        "videoUrl": "https://wss3nad7ls5u.hgagecdn.com/hls2/01/01846/xd0ncrozsh56_l/index-v1-a1.m3u8?t=Zh38U2p_WfCiQF-ZzULqkZckOIulzig_g48bMWRIg9s&s=1728410805&e=129600&f=9230116&srv=OML7LRnXUexu&i=0.4&sp=500&p1=OML7LRnXUexu&p2=OML7LRnXUexu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/sq41v41abd57"
+                            "Origin": "https://vidhidepro.com",
+                            "Referer": "https://vidhidepro.com/v/xd0ncrozsh56"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/08562/dz0tazxylizg_,n,.urlset/index-v1-a1.m3u8?t=Gp7RrHV4li1UZCPbX1Zuc_IZ8LwDchVz0pEy9QGmUwk&s=1728410808&e=14400&f=42811445&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT] - Voe:480p",
+                        "videoUrl": "https://delivery-node-0f49rzor22huapc5.voe-network.net/engine/hls2/01/08562/dz0tazxylizg_,n,.urlset/index-v1-a1.m3u8?t=Gp7RrHV4li1UZCPbX1Zuc_IZ8LwDchVz0pEy9QGmUwk&s=1728410808&e=14400&f=42811445&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04095/njdyw9hwpltv_n/index-v1-a1.m3u8?t=ap_mQQVFDrU5NcuwtCQs-fzZq63LGqAa4V2PAHPVMtQ&s=1728410815&e=129600&f=20476887&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8075",
+                        "quality": "[CAST] - StreamWish - 240p",
+                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04095/njdyw9hwpltv_n/index-v1-a1.m3u8?t=ap_mQQVFDrU5NcuwtCQs-fzZq63LGqAa4V2PAHPVMtQ&s=1728410815&e=129600&f=20476887&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/njdyw9hwpltv"
+                        }
+                    },
+                    {
+                        "url": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/01846/i5o9z8heel4t_l/index-v1-a1.m3u8?t=K6ASbx35GetytoGYKQoUZ_AmBI1SqQLf5i1ZpUFtX30&s=1728410811&e=129600&f=9230086&srv=bJ3SwMPmWe4AE&i=0.4&sp=500&p1=bJ3SwMPmWe4AE&p2=bJ3SwMPmWe4AE&asn=8075",
+                        "quality": "[CAST] - VidHide: 240p ",
+                        "videoUrl": "https://r4eeg9mngv6q.aghe-cdn.com/hls2/01/01846/i5o9z8heel4t_l/index-v1-a1.m3u8?t=K6ASbx35GetytoGYKQoUZ_AmBI1SqQLf5i1ZpUFtX30&s=1728410811&e=129600&f=9230086&srv=bJ3SwMPmWe4AE&i=0.4&sp=500&p1=bJ3SwMPmWe4AE&p2=bJ3SwMPmWe4AE&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhidepro.com",
+                            "Referer": "https://vidhidepro.com/v/i5o9z8heel4t"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/11521/7v1egg20uzqx_,l,.urlset/index-v1-a1.m3u8?t=qrPZeSqG1TNTMHNVwm9kvFhwy7hCBSG_tqTQEZhVEWM&s=1728410813&e=14400&f=57605853&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[CAST] - Voe:240p",
+                        "videoUrl": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/11521/7v1egg20uzqx_,l,.urlset/index-v1-a1.m3u8?t=qrPZeSqG1TNTMHNVwm9kvFhwy7hCBSG_tqTQEZhVEWM&s=1728410813&e=14400&f=57605853&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
                         }
                     }
                 ],

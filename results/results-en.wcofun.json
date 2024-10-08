@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hamidashi-creative",
+                                "title": "Hamidashi Creative",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933771.jpg"
+                            },
+                            {
+                                "url": "/anime/neko-ni-tensei-shita-ojisan",
+                                "title": "Neko ni Tensei shita Ojisan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933770.jpg"
+                            },
+                            {
+                                "url": "/anime/youkai-gakkou-no-sensei-hajimemashita",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933769.jpg"
+                            },
+                            {
+                                "url": "/anime/bad-dinosaurs",
+                                "title": "Bad Dinosaurs",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933768.jpg"
+                            },
+                            {
                                 "url": "/anime/nina-the-starry-bride",
                                 "title": "Nina the Starry Bride",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933767.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/chi-chikyuu-no-undou-ni-tsuite",
                                 "title": "Chi.: Chikyuu no Undou ni Tsuite",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933756.jpg"
-                            },
-                            {
-                                "url": "/anime/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933755.jpg"
-                            },
-                            {
-                                "url": "/anime/kabushikigaisha-magi-lumiere",
-                                "title": "Kabushikigaisha Magi-Lumière",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933754.jpg"
-                            },
-                            {
-                                "url": "/anime/trillion-game-english-subbed",
-                                "title": "Trillion Game English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933753.jpg"
-                            },
-                            {
-                                "url": "/anime/sayounara-ryuusei-konnichiwa-jinsei",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933752.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/nina-the-starry-bride",
-                    "title": "Nina the Starry Bride",
-                    "description": "Nina had a rough start to life, stealing to survive—and eventually being sold into slavery by her own brother. But to her surprise, her captor, Prince Azure, ordained that she would live the life of a princess…specifically, that of the recently deceased princess-priestess, Alisha. But despite her changing fortune, Nina won’t give up her old life without a fight…and Azure might just be the one to finally match her wits. But how much can she trust Azure? And can she stop the feelings budding in her heart, knowing she must eventually marry another…?",
-                    "genre": "Fantasy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933767.jpg",
+                    "url": "/anime/hamidashi-creative",
+                    "title": "Hamidashi Creative",
+                    "description": "It’s the end of June, and the summer seems to be locked in place. Tomohiro Izumi, recognized by himself and those around him as an introvert, is spending another quiet day in his little corner of his classroom… or so he thought.",
+                    "genre": "Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933771.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/nina-the-starry-bride-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h9mvafCuWR4rlaNT3ELiv3u2qGvICoUVVokeWmYdFiPe4zmkTfwzRvECaFadYE5bSmlpXfCaX0RxFXJ48BoHjD6YgaM6dd8j6Lw6PPZbXdmWYFcyx0DNyH-FfF4Zm8PSxaAd3jjwaTWILjxKcP9si7pk-K6q1nn1Pun1M-jaNbO6I0qtzI8sh6t2K7BaN40IR8TfIumdlo-pUJViwb3BCYAnD8PUcmBKkGiTO6d4Ln-DAaFt-UHZRv2K7YTH7xiEcsLPuYsCk9c75H1h1LHQdlNOtIlbSCXSwOa7zjqcxtXN0z6-J1cyoz6G1lyI6WT9FPLOkfaucAmVB8vMQOcMC32ArElk7xmyfl2jAkXwOEsvUbW3qbx8wEDH7qTfeq8ToLL2Hc-qDsHXX6HnlCGRk7OCVr1Ixo-s6ja2vbtfsVgA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h9mvafCuWR4rlaNT3ELiv3u2qGvICoUVVokeWmYdFiPe4zmkTfwzRvECaFadYE5bSmlpXfCaX0RxFXJ48BoHjD6YgaM6dd8j6Lw6PPZbXdmWYFcyx0DNyH-FfF4Zm8PSxaAd3jjwaTWILjxKcP9si7pk-K6q1nn1Pun1M-jaNbO6I0qtzI8sh6t2K7BaN40IR8TfIumdlo-pUJViwb3BCYAnD8PUcmBKkGiTO6d4Ln-DAaFt-UHZRv2K7YTH7xiEcsLPuYsCk9c75H1h1LHQdlNOtIlbSCXSwOa7zjqcxtXN0z6-J1cyoz6G1lyI6WT9FPLOkfaucAmVB8vMQOcMC32ArElk7xmyfl2jAkXwOEsvUbW3qbx8wEDH7qTfeq8ToLL2Hc-qDsHXX6HnlCGRk7OCVr1Ixo-s6ja2vbtfsVgA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h9mvafCuWR4rlaNT3ELiv3u2qGvICoUVVokeWmYdFiPe4zmkTfwzRvECaFadYE5bSmlpXfCaX0RxFXJ48BoHjD6YgaM6dd8j6Lw6PPZbXdmWYFcyx0DNyH-FfF4Zm8PSxaAd3jjwaTWILjxKcP9si7wYGJNpOu4GrOVo7o-yqAvc4erTcPQL_zvb79k1kySgdE6c5bKYCAMuyflqjnGgntz3A21wPi3xtaUDW5m8reBkQNqu_v1PRATOrLN2_ymCVfM4poHas-_9MUqt20jrBCloM0JAUGx-nhunpT1M6FtUQOeL14-JpBtD_PFIrgOjTqG_rIbZtwx1kacfI97o1yepygMUB3QUREWBqw38aYcCvfuJ1fvVFJDju3frWa3ANitnS9h4aIZqw7QkEJD0TehXlvvq6BUVJKzvw69Z11BQ",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h9mvafCuWR4rlaNT3ELiv3u2qGvICoUVVokeWmYdFiPe4zmkTfwzRvECaFadYE5bSmlpXfCaX0RxFXJ48BoHjD6YgaM6dd8j6Lw6PPZbXdmWYFcyx0DNyH-FfF4Zm8PSxaAd3jjwaTWILjxKcP9si7wYGJNpOu4GrOVo7o-yqAvc4erTcPQL_zvb79k1kySgdE6c5bKYCAMuyflqjnGgntz3A21wPi3xtaUDW5m8reBkQNqu_v1PRATOrLN2_ymCVfM4poHas-_9MUqt20jrBCloM0JAUGx-nhunpT1M6FtUQOeL14-JpBtD_PFIrgOjTqG_rIbZtwx1kacfI97o1yepygMUB3QUREWBqw38aYcCvfuJ1fvVFJDju3frWa3ANitnS9h4aIZqw7QkEJD0TehXlvvq6BUVJKzvw69Z11BQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h9mvafCuWR4rlaNT3ELiv3u2qGvICoUVVokeWmYdFiPe4zmkTfwzRvECaFadYE5bSmlpXfCaX0RxFXJ48BoHjD6YgaM6dd8j6Lw6PPZbXdmWYFcyx0DNyH-FfF4Zm8PSxaAd3jjwaTWILjxKcP9si7jv82Cu2ys9VwIakOlYnajVA7AVUqoj41-6u-jevu2S8q6hgQVAl_A_QQJZmtMB8tCjS2-neid2VwiRDYZTmc-wK1PFUgbVHwLZlaKiWC_EwM1YZf54RONcGHqpEdZJeQLFXyy7M8RS2mPTo5TESqS8GblmsbMhwq1wSUTUtQIkNjjLOwm5sXdvQvGHdfycZbIhEHhkQW_DlXzWUQiVyBE6U2yorfbW1TwxEkl1FDxL4Ylua0KatQ56slRXmNFuMuxmiecUnjhTZ2e3TXkt2_RA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h9mvafCuWR4rlaNT3ELiv3u2qGvICoUVVokeWmYdFiPe4zmkTfwzRvECaFadYE5bSmlpXfCaX0RxFXJ48BoHjD6YgaM6dd8j6Lw6PPZbXdmWYFcyx0DNyH-FfF4Zm8PSxaAd3jjwaTWILjxKcP9si7jv82Cu2ys9VwIakOlYnajVA7AVUqoj41-6u-jevu2S8q6hgQVAl_A_QQJZmtMB8tCjS2-neid2VwiRDYZTmc-wK1PFUgbVHwLZlaKiWC_EwM1YZf54RONcGHqpEdZJeQLFXyy7M8RS2mPTo5TESqS8GblmsbMhwq1wSUTUtQIkNjjLOwm5sXdvQvGHdfycZbIhEHhkQW_DlXzWUQiVyBE6U2yorfbW1TwxEkl1FDxL4Ylua0KatQ56slRXmNFuMuxmiecUnjhTZ2e3TXkt2_RA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

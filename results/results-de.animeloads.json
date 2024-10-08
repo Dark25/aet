@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/houkago-shounen-hanako-kun-2024",
+                                "title": "Mein Schulgeist Hanako: After School (2024)",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-houkago-shounen-hanako-kun-2024-cover.jpg"
+                            },
+                            {
                                 "url": "/media/seirei-gensouki-2",
                                 "title": "Seirei Gensouki: Spirit Chronicles - Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seirei-gensouki-2-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/ooi-tonbo-dai-2-ki",
                                 "title": "Tonbo! Cour 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ooi-tonbo-dai-2-ki-cover.png"
-                            },
-                            {
-                                "url": "/media/mahou-tsukai-ni-narenakatta-onnanoko-no-hanashi",
-                                "title": "The Stories of Girls Who Couldn’t Be Magicians",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mahou-tsukai-ni-narenakatta-onnanoko-no-hanashi-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/seirei-gensouki-2",
-                    "title": "Seirei Gensouki: Spirit Chronicles - Staffel 2",
+                    "url": "/media/houkago-shounen-hanako-kun-2024",
+                    "title": "Mein Schulgeist Hanako: After School (2024)",
                     "author": "",
-                    "description": "Die zweite Staffel von Seirei Gensouki. Quelle: aniSearch",
-                    "genre": "",
+                    "description": "Die zweite Staffel von Mein Schulgeist Hanako: After School. Quelle: aniSearch",
+                    "genre": "Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seirei-gensouki-2-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200/houkago-shounen-hanako-kun-2024-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,16 +239,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/seirei-gensouki-2#streams_episodes_1_0",
-                        "name": "Ep.1 Ich bin dir in dieser Welt begegnet.",
+                        "url": "/media/houkago-shounen-hanako-kun-2024#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=8XK3g3ggLzUoKyW&expires=1728437553&ip=GxOsEHcnDS9X&token=dvNbWQeGlws7",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=8XK3g3ggLzUoKyW&expires=1728437553&ip=GxOsEHcnDS9X&token=dvNbWQeGlws7"
+                    },
+                    {
+                        "url": "https://delivery-node-vsn62bgpnezmxx9n.voe-network.net/engine/hls2/01/12390/7szfy590tchc_,n,.urlset/index-v1-a1.m3u8?t=VifzUEYGb8gvl54K19GXn--P9sjfwc7ZxRBUiZxWbAQ&s=1728367548&e=14400&f=61954203&node=delivery-node-vsn62bgpnezmxx9n.voe-network.net&i=40.79&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe:720p",
+                        "videoUrl": "https://delivery-node-vsn62bgpnezmxx9n.voe-network.net/engine/hls2/01/12390/7szfy590tchc_,n,.urlset/index-v1-a1.m3u8?t=VifzUEYGb8gvl54K19GXn--P9sjfwc7ZxRBUiZxWbAQ&s=1728367548&e=14400&f=61954203&node=delivery-node-vsn62bgpnezmxx9n.voe-network.net&i=40.79&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/p-king-duckling",
+                                "title": "P. King Duckling",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933773.jpg"
+                            },
+                            {
+                                "url": "/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
+                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933772.jpg"
+                            },
+                            {
                                 "url": "/anime/hamidashi-creative",
                                 "title": "Hamidashi Creative",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933771.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/ranma-½-2024",
                                 "title": "Ranma ½ (2024)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933758.jpg"
-                            },
-                            {
-                                "url": "/anime/ranma-½-2024-english-subbed",
-                                "title": "Ranma ½ (2024) English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933757.jpg"
-                            },
-                            {
-                                "url": "/anime/chi-chikyuu-no-undou-ni-tsuite",
-                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933756.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hamidashi-creative",
-                    "title": "Hamidashi Creative",
-                    "description": "It’s the end of June, and the summer seems to be locked in place. Tomohiro Izumi, recognized by himself and those around him as an introvert, is spending another quiet day in his little corner of his classroom… or so he thought.",
-                    "genre": "Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933771.jpg",
+                    "url": "/anime/p-king-duckling",
+                    "title": "P. King Duckling",
+                    "description": "P. King Duckling is an animated comedy series that follows the adventures of a friendly but slightly hapless duck P. King and his two best friends, Wombat and Chumpkins, as they find hilarious and creative ways to overcome challenges.",
+                    "genre": "Adventure, Comedy, Splatter, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933773.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/p-king-duckling-episode-52-a-tale-of-two-ducklings",
+                        "name": "Season 1 - Episode 52",
+                        "episode_number": 152.0
+                    },
+                    {
+                        "url": "/p-king-duckling-episode-51-a-city-under-the-sea",
+                        "name": "Season 1 - Episode 51",
+                        "episode_number": 151.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpIQhkOha1I39dzI1fKvJsm40aBOc68sGWmwiSiby_iUjAFZ85MIBlwuLmCrVxcxzfehBYnhZulcBs20qYQFO_UHxaQWEekg0DVPnka-_ruVzMEx4lu1g3IfmnpDOeihP14vbbjPwZh9ZcX1uPfNBl50U82dbuj-KuZHgzyan4vk4BzY8Ak7kvZST_-e4O7lDmpjPcC4yHWgVAdwUAwqnUAS04tRJvPLVUFvePxCsP6DxCINb0ID-dapZzVA9ZNTCSn80a3PNnAjzXEGCoZ6KkX3PL74SWmDS2jp8n-HyWzPADRbWD0XERi1SplorKzRlyt5zAqfu19A-7UnFNWdEvo5wWkRpNvPUy_Nlv3e0sl0",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpIQhkOha1I39dzI1fKvJsm40aBOc68sGWmwiSiby_iUjAFZ85MIBlwuLmCrVxcxzfehBYnhZulcBs20qYQFO_UHxaQWEekg0DVPnka-_ruVzMEx4lu1g3IfmnpDOeihP14vbbjPwZh9ZcX1uPfNBl50U82dbuj-KuZHgzyan4vk4BzY8Ak7kvZST_-e4O7lDmpjPcC4yHWgVAdwUAwqnUAS04tRJvPLVUFvePxCsP6DxCINb0ID-dapZzVA9ZNTCSn80a3PNnAjzXEGCoZ6KkX3PL74SWmDS2jp8n-HyWzPADRbWD0XERi1SplorKzRlyt5zAqfu19A-7UnFNWdEvo5wWkRpNvPUy_Nlv3e0sl0"
+                    }
+                ],
+                "passed": true
             }
         }
     }

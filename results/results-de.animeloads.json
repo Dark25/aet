@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/yarinaoshi-reijou-wa-ryuutei-heika-o-kouryakuchuu",
+                                "title": "The Do-Over Damsel Conquers the Dragon Emperor",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-yarinaoshi-reijou-wa-ryuutei-heika-o-kouryakuchuu-cover.jpg"
+                            },
+                            {
                                 "url": "/media/youkai-gakkou-no-sensei-hajimemashita",
                                 "title": "A Terrified Teacher at Ghoul School!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-youkai-gakkou-no-sensei-hajimemashita-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/ranma-12-2024",
                                 "title": "Ranma 1/2 (2024)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ranma-12-2024.jpg"
-                            },
-                            {
-                                "url": "/media/bleach-sennen-kessen-hen-soukoku-tan",
-                                "title": "Bleach: Sennen Kessen-hen - Soukoku Tan",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-bleach-sennen-kessen-hen-soukoku-tan-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/youkai-gakkou-no-sensei-hajimemashita",
-                    "title": "A Terrified Teacher at Ghoul School!",
+                    "url": "/media/yarinaoshi-reijou-wa-ryuutei-heika-o-kouryakuchuu",
+                    "title": "The Do-Over Damsel Conquers the Dragon Emperor",
                     "author": "",
-                    "description": "Haruaki Abe ist ein schüchterner Feigling mit einem langen Stammbaum voller mächtiger Youkai-Bändiger, der vor schwierigen Situationen gerne einmal davonläuft – und er hat gerade erst seine Karriere als Lehrer gestartet. Leider war ihm aber nicht bewusst, dass die Hyakki Academy, bei der er nun seine Stelle antritt, ein Ort voller übernatürlicher Wesen ist. Trotz seiner vererbten Fähigkeiten ist es ja schon schwer genug für ihn, mit menschlichen Schülern zurechtzukommen, ohne dabei zu wimmern – und jetzt soll er auch noch an einer Schule voller Youkai unterrichten?! Es ist ein Klassenzimmer des Schreckens für Haruaki, denn seine schelmischen Schüler versuchen mit allen Mitteln, seinen Unterricht zu stören und ihm Streiche zu spielen! Wird es dem armen Lehrer gelingen, seine Gruppe von Monstern unter Kontrolle zu bringen, oder ist diese Klasse zum Scheitern verurteilt? Quelle: aniSearch",
-                    "genre": "Komödie",
+                    "description": "Die 16-jährige Jill Cervel ist magisch begabt und hat jahrelang für den Krieg trainiert, um ihrem Verlobten, den Kronprinzen Gerald de Kleitos, bei seinen Vorhaben zu unterstützen und das Land zu befrieden. Doch eines Tages erfährt sie von seinem dunklen Geheimnis, und um sie zum Schweigen zu bringen, verurteilt ihr Geliebter sie zum Tode. Allerdings wird sie kurz vor der Vollstreckung des Urteils plötzlich in der Zeit zurückversetzt und ist nun wieder ein zehn Jahre altes Mädchen. Noch dazu befindet sie sich gerade genau der Party, bei der ihre Verlobung beschlossen wurde. Um keine bloße Spielfigur mehr zu sein und ihr Schicksal dieses Mal selbst in die Hand zu nehmen, ergreift sie die Chance und macht dem Mann, der hinter ihr steht, sofort einen Heiratsantrag. Leider hat sie bei dieser Kurzschlussreaktion nicht bedacht, dass gerade niemand anderes als ihr ehemals größter Feind, der 19-jährige Drachenkaiser Hadis Theos Rave, hinter ihr war – und dieser hat wider Erwarten freudig angenommen. Jetzt bleibt ihr nichts anderes übrig, als den ihm vorbestimmten Weg des Wahnsinns, bei dem er zum Tyrannen wurde und das gesamte Land mit Blut befleckt hat, zu verhindern. Denn glücklicherweise entpuppt er sich momentan noch als gütiger, wenn auch etwas unglücklicher Herrscher ... Quelle: aniSearch",
+                    "genre": "Romanze",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-youkai-gakkou-no-sensei-hajimemashita-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-yarinaoshi-reijou-wa-ryuutei-heika-o-kouryakuchuu-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,16 +239,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/youkai-gakkou-no-sensei-hajimemashita#streams_episodes_1_0",
-                        "name": "Ep.1 Episode 1",
+                        "url": "/media/yarinaoshi-reijou-wa-ryuutei-heika-o-kouryakuchuu#streams_episodes_1_0",
+                        "name": "Ep.1 Beim Versuch, dem Verderben zu entkommen, hielt ich um die Hand meines…",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='socket hang up\n  name='Error\n  stack='Error: socket hang up\n    at connResetException (node:internal/errors:720:14)\n    at TLSSocket.socketOnEnd (node:_http_client:525:23)\n    at TLSSocket.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n}\nCall log:\n- → POST https://www.anime-loads.org/.well-known/ddos-guard/mark/\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: */*\n-   accept-encoding: gzip, deflate, br\n-   host: www.anime-loads.org\n-   accept-language: en-US,en;q=0.5\n-   content-type: text/plain;charset=UTF-8\n-   content-length: 63173\n-   referer: https://www.anime-loads.org/leave/IT8tYQrmnQF2ehqoVEFWMmwzoxrCJcFeXdfB00bSHOjtpu4jRRYRzx3z2i4YtPlXBLB1iOyWqF83B00bSKqHAIWXfiJXJKlzjLlM9CSZZB00bSyydF9Jnl1udLIAxq2vXjdL9yB87BGUSsseYzGC3i.N5HRetugqzXccgYMyC.CNx3GX.gFEYQchljdsXELB00bSCa0k07ez0dt1RCbwmxvNNdvGd3WIv211XecL.7SmJFMfSMciWPrm8wOqvbMPniZyMOJBVqNYBOznMaV83uyDZaxWHto2QFTnuooJja81zdrwXhcYpPwr7HZZqzdsCbEARdh.95E.71YdAcZOmva6stVd9M20wiAZ7Y8y2iNOD3nx9q35SKlnh16xqLJtrUN9it1zD9mzsObv\n-   origin: https://www.anime-loads.org\n-   sec-fetch-dest: empty\n-   sec-fetch-mode: cors\n-   sec-fetch-site: same-origin\n-   connection: keep-alive\n-   cookie: __ddg8_=mknjSgdeOtoYWUuw; __ddg9_=20.97.191.245; __ddg10_=1728475634; __ddgid_=dB91yi18fK1L5CNS; __ddgmark_=96M5tsd87CSYUNWv; __ddg2_=sOVhGH3RUtKCcqfv\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=yABqPyX63wT1pjB&expires=1728567143&ip=F0qQKRSRDS9XKxR&token=nfPd6sSMqyMY",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=yABqPyX63wT1pjB&expires=1728567143&ip=F0qQKRSRDS9XKxR&token=nfPd6sSMqyMY"
+                    },
+                    {
+                        "url": "https://delivery-node-l2hccd82qmdry6ry.voe-network.net/engine/hls2-c/01/12404/qvdrbqov3m3h_,n,.urlset/index-v1-a1.m3u8?t=o6GLpf_h2TUhRMx5gU_wiWxVp7-XzB3w4rQdvnFb5_Y&s=1728497136&e=14400&f=62020461&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=172.200&sp=2500&asn=8075",
+                        "quality": "(Deutsch Sub) Voe:720p",
+                        "videoUrl": "https://delivery-node-l2hccd82qmdry6ry.voe-network.net/engine/hls2-c/01/12404/qvdrbqov3m3h_,n,.urlset/index-v1-a1.m3u8?t=o6GLpf_h2TUhRMx5gU_wiWxVp7-XzB3w4rQdvnFb5_Y&s=1728497136&e=14400&f=62020461&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=172.200&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

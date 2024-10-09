@@ -3,27 +3,32 @@
         "name": "Animension (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": {
+                    "description": "",
+                    "genre": "",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <br />\n<b>Fatal error</b>:  Un.....",
                 "passed": false
             }
         }

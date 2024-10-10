@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "1190-outer-banks",
+                                "title": "Outer Banks",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/474beaee-b0b4-43a0-a422-79ea2c9bd7db.webp"
+                            },
+                            {
                                 "url": "10066-tmz-presents-the-downfall-of-diddy",
                                 "title": "TMZ Presents: The Downfall of Diddy",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/030256e7-ca00-465d-8be5-d2ba865bbb8f.webp"
@@ -300,11 +305,6 @@
                                 "url": "9301-the-decameron",
                                 "title": "The Decameron",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/754f2a17-3a28-41bc-8a0d-68a7e15eb787.webp"
-                            },
-                            {
-                                "url": "9241-twisters",
-                                "title": "Twisters",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/438d2596-9706-47c6-8dda-99e5735924e4.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10130-citadel-diana",
+                                "title": "Citadel: Diana",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/187aee0d-3e49-4fe1-b115-dc211e10d9ed.webp"
+                            },
+                            {
+                                "url": "10129-i-soprano-la-vera-storia",
+                                "title": "I Soprano - La vera storia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/522fa859-fe33-49ec-8f04-4bd19fc412cc.webp"
+                            },
                             {
                                 "url": "10128-maquina-il-pugile",
                                 "title": "Máquina - Il pugile",
@@ -605,16 +615,6 @@
                                 "url": "10045-english-teacher",
                                 "title": "English Teacher",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a8d5238a-f540-4a76-81e5-8b9583973e65.webp"
-                            },
-                            {
-                                "url": "10044-dirottamento-1971",
-                                "title": "Dirottamento 1971",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2a0caec4-0049-4943-a82e-c4c72c87910b.webp"
-                            },
-                            {
-                                "url": "10042-the-freak-family",
-                                "title": "The Freak Family",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0bad7c55-0ad9-439c-a277-982d4eb2ef87.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,27 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "10066-tmz-presents-the-downfall-of-diddy",
-                    "description": "Una serie di cause legali e accuse hanno messo il leggendario magnate del rap P. Diddy con le spalle al muro. TMZ ha la preoccupante storia interna da parte di persone che erano presenti.",
-                    "genre": "Crime, Documentario",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "1190-outer-banks",
+                    "description": "Un affiatato gruppo di adolescenti scopre un segreto sepolto da tempo e scatena una serie di eventi fuori della legalità in un'avventura che non dimenticheranno.",
+                    "genre": "Dramma, Mistero, Action & Adventure",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "10066",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
                 "passed": false
             }
         }

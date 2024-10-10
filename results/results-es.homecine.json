@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/los-hermanos-menendez/",
+                                "title": "Los hermanos Menendez",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5OoOJOKLi0NOfuuWjte1CSpRgBn.jpg"
+                            },
+                            {
                                 "url": "/hada/",
                                 "title": "Hada",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/cJXaIkZS25CgS6EKaqYgKGsxMaA.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/monolith/",
                                 "title": "Monolith",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/fpwaLAefIF53QuHmw6gAFgDigwy.jpg"
-                            },
-                            {
-                                "url": "/un-golpe-a-la-inversa/",
-                                "title": "Un golpe a la inversa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6ke8pycPTpO8aFqIos2r3HkbDmC.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,13 +424,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/hada/",
-                    "title": "Hada",
-                    "description": "«Hada se ha suicidado». Con esta frase de WhatsApp, algunos de sus antiguos amigos del colegio reciben la dura noticia. Hada se centra en el suicidio de la jugadora de baloncesto adolescente Hada.",
-                    "genre": "Drama",
+                    "url": "/los-hermanos-menendez/",
+                    "title": "Los hermanos Menendez",
+                    "description": "The Menendez Brothers Lyle y Erik Menendez, condenados a cadena perpetua por asesinar a sus padres, hablan en este documental sobre el espeluznante crimen y los juicios que le siguieron.",
+                    "genre": "Crimen, Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cJXaIkZS25CgS6EKaqYgKGsxMaA.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5OoOJOKLi0NOfuuWjte1CSpRgBn.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -438,7 +438,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/hada/",
+                        "url": "/los-hermanos-menendez/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -448,9 +448,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/24/00070/gqid91e538rm_n/index-v1-a1.m3u8?t=b1MP_9sxtbSjR19UcoXrIoTlnzk7e8eqtJF2ITqx1vk&s=1728497209&e=43200&v=434420&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/24/00070/gqid91e538rm_n/index-v1-a1.m3u8?t=b1MP_9sxtbSjR19UcoXrIoTlnzk7e8eqtJF2ITqx1vk&s=1728497209&e=43200&v=434420&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/j14ydq5xt2aw_n/index-v1-a1.m3u8?t=mdVPgq3wIs83rc4rWi3LBg4n0a3mVm_rKPDjFO4rtAI&s=1728519427&e=43200&v=65472&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/j14ydq5xt2aw_n/index-v1-a1.m3u8?t=mdVPgq3wIs83rc4rWi3LBg4n0a3mVm_rKPDjFO4rtAI&s=1728519427&e=43200&v=65472&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -459,9 +459,53 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/24/00070/gqid91e538rm_l/index-v1-a1.m3u8?t=b1MP_9sxtbSjR19UcoXrIoTlnzk7e8eqtJF2ITqx1vk&s=1728497209&e=43200&v=434420&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/j14ydq5xt2aw_l/index-v1-a1.m3u8?t=mdVPgq3wIs83rc4rWi3LBg4n0a3mVm_rKPDjFO4rtAI&s=1728519427&e=43200&v=65472&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/j14ydq5xt2aw_l/index-v1-a1.m3u8?t=mdVPgq3wIs83rc4rWi3LBg4n0a3mVm_rKPDjFO4rtAI&s=1728519427&e=43200&v=65472&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00070/3k4mb2ied4na_n/index-v1-a1.m3u8?t=FTAgpns-tRUwhJ65hQrHGyQh4CsjYwBOyX9ixlFX4kY&s=1728519427&e=43200&v=65476&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/3k4mb2ied4na_n/index-v1-a1.m3u8?t=FTAgpns-tRUwhJ65hQrHGyQh4CsjYwBOyX9ixlFX4kY&s=1728519427&e=43200&v=65476&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00070/ojsbfy4v0y82_n/index-v1-a1.m3u8?t=vHDMZvCFTztXy9act6wlhs5pvCRrOsxwy1VI6dqVzLo&s=1728519427&e=43200&v=65468&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/ojsbfy4v0y82_n/index-v1-a1.m3u8?t=vHDMZvCFTztXy9act6wlhs5pvCRrOsxwy1VI6dqVzLo&s=1728519427&e=43200&v=65468&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00070/3k4mb2ied4na_l/index-v1-a1.m3u8?t=FTAgpns-tRUwhJ65hQrHGyQh4CsjYwBOyX9ixlFX4kY&s=1728519427&e=43200&v=65476&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/3k4mb2ied4na_l/index-v1-a1.m3u8?t=FTAgpns-tRUwhJ65hQrHGyQh4CsjYwBOyX9ixlFX4kY&s=1728519427&e=43200&v=65476&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00070/ojsbfy4v0y82_l/index-v1-a1.m3u8?t=vHDMZvCFTztXy9act6wlhs5pvCRrOsxwy1VI6dqVzLo&s=1728519427&e=43200&v=65468&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/24/00070/gqid91e538rm_l/index-v1-a1.m3u8?t=b1MP_9sxtbSjR19UcoXrIoTlnzk7e8eqtJF2ITqx1vk&s=1728497209&e=43200&v=434420&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/ojsbfy4v0y82_l/index-v1-a1.m3u8?t=vHDMZvCFTztXy9act6wlhs5pvCRrOsxwy1VI6dqVzLo&s=1728519427&e=43200&v=65468&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

@@ -137,6 +137,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20463/padre-no-hay-mas-que-uno-4-campanas-de-boda.html",
+                                "title": "Padre no hay más que",
+                                "description": "¿Qué efecto tendría en unos padres que el mismo día que su hija mayor cumple 18 años su novio le proponga matrimonio y ella acepte de inmediato? ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20463.webp"
+                            },
+                            {
+                                "url": "/pelicula/20462/padre-no-hay-mas-que-uno.html",
+                                "title": "Padre no hay más que",
+                                "description": "Javier es lo que se ha bautizado como un marido-cuñado. Ese que sin ocuparse en absoluto de lo que supone el cuidado de la casa y de los niños, sabe perfectamente qué es lo que hay que hacer, y que continuamente regala a su mujer frases del tipo: es que no te organizas, o no te pongas nerviosa, y...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20462.webp"
+                            },
+                            {
                                 "url": "/pelicula/20461/salvajes.html",
                                 "title": "Salvajes",
                                 "description": "Sonia y Arturo viven en una casa de apariencia segura, pero demasiado grande y silenciosa. Una noche 3 hombres armados asaltan la propiedad del matrimonio. Luego de someterlos violentamente y de encerrarlos en un baño, los delincuentes emprenden su retirada, pero Arturo logra escapar y atrapar al m...",
@@ -243,18 +255,6 @@
                                 "title": "Aguanta la respiraci�",
                                 "description": "Década de 1930, Oklahoma. En medio de terribles tormentas de polvo cada vez más horribles, una joven madre atormentada por el pasado se convence de que una presencia misteriosa amenaza a su familia y toma medidas extraordinarias para protegerles. ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20444.webp"
-                            },
-                            {
-                                "url": "/pelicula/20443/el-misterio-de-salems-lot.html",
-                                "title": "El misterio de Salem&",
-                                "description": "El escritor Ben Mears regresa a Jerusalem's Lot, la casa de su infancia, en busca de inspiración para su próximo libro. Allí descubre que su ciudad natal está siendo presa de un vampiro sediento de sangre. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20443.webp"
-                            },
-                            {
-                                "url": "/pelicula/20442/la-casa-de-los-despojos.html",
-                                "title": "La casa de los despoj",
-                                "description": "Una chef abre su primer restaurante. Allí se enfrentará al caos en la cocina, a un inversionista dudoso y a las dudas sobre sí misma. Aunque la presión aumenta gracias al anterior dueño del local que amenaza con sabotearla....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20442.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoia2cvy5hpvda/jco9wqjns2~7I80LAUO0j?token=faa3a98f24ktc5woxwz3px7v&expiry=1728669988268",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoia2cvy5hpvda/jco9wqjns2~7I80LAUO0j?token=faa3a98f24ktc5woxwz3px7v&expiry=1728669988268",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

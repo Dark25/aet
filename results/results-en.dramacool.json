@@ -7,9 +7,29 @@
                     {
                         "animes": [
                             {
+                                "url": "/drama-detail/hellbound-season-2",
+                                "title": "Hellbound Season 2 (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/hellbound-season-2-1728633166.png"
+                            },
+                            {
+                                "url": "/drama-detail/quiet-sales",
+                                "title": "A Virtuous Business (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/quiet-sales-1728630681.png"
+                            },
+                            {
+                                "url": "/drama-detail/jeong-nyeon",
+                                "title": "Jeongnyeon: The Star Is Born (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/jeong-nyeon-1728630057.png"
+                            },
+                            {
+                                "url": "/drama-detail/doubt-2024",
+                                "title": "Doubt (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/doubt-2024-1728628807.png"
+                            },
+                            {
                                 "url": "/drama-detail/good-or-bad-dong-jae",
                                 "title": "Dong Jae, the Good or the Bastard (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/good-or-bad-dong-jae-1728614930.png"
+                                "thumbnail_url": "https://asianimg.pro/cover/good-or-bad-dong-jae-1728629594.png"
                             },
                             {
                                 "url": "/drama-detail/yeongseong-creature-season-2",
@@ -165,26 +185,6 @@
                                 "url": "/drama-detail/player-season-2",
                                 "title": "The Player 2: Master of Swindlers (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/player-season-2-1714979633.png"
-                            },
-                            {
-                                "url": "/drama-detail/-connection",
-                                "title": "Connection (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/-connection-1715657184.png"
-                            },
-                            {
-                                "url": "/drama-detail/treat-me-carefully",
-                                "title": "Dare to Love Me (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/treat-me-carefully-1714978367.png"
-                            },
-                            {
-                                "url": "/drama-detail/the-fool-at-the-end-of-the-world",
-                                "title": "Goodbye Earth (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/the-fool-at-the-end-of-the-world-1713863791.png"
-                            },
-                            {
-                                "url": "/drama-detail/although-i-am-not-a-hero",
-                                "title": "The Atypical Family (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/although-i-am-not-a-hero-1713508022.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,7 +224,7 @@
                             {
                                 "url": "/dong-jae-the-good-or-the-bastard-2024-episode-2.html",
                                 "title": "Dong Jae, the Good or the Bastard (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/good-or-bad-dong-jae-1728614930.png"
+                                "thumbnail_url": "https://asianimg.pro/cover/good-or-bad-dong-jae-1728629594.png"
                             },
                             {
                                 "url": "/scandal-2024-episode-69.html",
@@ -494,48 +494,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/drama-detail/good-or-bad-dong-jae",
-                    "title": "Dong Jae, the Good or the Bastard (2024)",
-                    "author": "TVING",
-                    "description": "Seo Dong Jae is a prosecutor and works in the Cheongju District Prosecutors’ Office. He is ambitious and places a priority on his success as a prosecutor. Nevertheless, he is not completely cold hearted as a person. Due to the label given to him as a corrupt prosecutor, his future as a prosecutor is not bright at all. While mired in trouble over a redevelopment case, he takes on a high school student murder case. He begins to walk a fine line between his intuition as a prosecutor and instinct as an opportunist.\n(Source: AsianWiki)",
-                    "genre": "Corruption, Crime, Drama, Investigation, Law, Miniseries, Murder, Mystery, Web Series",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://asianimg.pro/cover/good-or-bad-dong-jae-1728614930.png",
+                    "url": "/drama-detail/hellbound-season-2",
+                    "title": "Hellbound Season 2 (2024)",
+                    "author": "Netflix",
+                    "description": "In a chaotic world exacerbated by the continuous hellbound decrees, lawyer Min Hye Jin of Sodo, The New Truth Society, and the Arrowheads get entangled anew amidst the sudden resurrections of The New Truth’s Chairman Jung Jin Su and Park Jung Ja.\n(Source: Netflix)\nAdapted from the webtoon \"Hellbound\" (지옥) written by Yeon Sang Ho (연상호) and illustrated by Choi Kyu Seok (최규석).",
+                    "genre": "Drama, Fantasy, Horror, Investigation, Miniseries, Monster, Mystery, Religion, Supernatural, Thriller, Web Series, Webtoon",
+                    "thumbnail_url": "https://asianimg.pro/cover/hellbound-season-2-1728633166.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/dong-jae-the-good-or-the-bastard-2024-episode-2.html",
-                        "name": "RAW: Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/dong-jae-the-good-or-the-bastard-2024-episode-1.html",
-                        "name": "RAW: Episode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/05100/bq7oc6uikoi7_n/index-v1-a1.m3u8?t=1ACTuzByUtIV0xP5tE37v1CbZCCngOMGM5hTE25alxY&s=1728626724&e=129600&f=25501708&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "quality": "StreamWish - 720p",
-                        "videoUrl": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/05100/bq7oc6uikoi7_n/index-v1-a1.m3u8?t=1ACTuzByUtIV0xP5tE37v1CbZCCngOMGM5hTE25alxY&s=1728626724&e=129600&f=25501708&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/bq7oc6uikoi7?caption_1=https://sub.asianbxkiun.pro&sub_1=English"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

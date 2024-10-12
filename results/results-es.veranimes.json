@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/maou-2099",
+                                "title": "Maou 2099",
+                                "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/maou-2099.webp"
+                            },
+                            {
                                 "url": "/anime/dragon-ball-daima",
                                 "title": "Dragon Ball Daima",
                                 "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/dragon-ball-daima.webp"
@@ -104,11 +109,6 @@
                                 "url": "/anime/the-idolmster-shiny-colors-2nd-season",
                                 "title": "The iDOLM@STER Shiny Colors 2nd Season",
                                 "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/the-idolmster-shiny-colors-2nd-season.webp"
-                            },
-                            {
-                                "url": "/anime/sword-art-online-alternative-gun-gale-online-ii",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II",
-                                "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/sword-art-online-alternative-gun-gale-online-ii.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -228,13 +228,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dragon-ball-daima",
-                    "title": "Dragon Ball Daima",
-                    "description": "Debido a una conspiración, Goku y sus amigos se vuelven pequeños. ¿Qué clase de aventura les espera a Goku, al Supremo Kai y a los nuevos personajes Glorio y Panzy en este mundo desconocido, el \"Reino de los Demonios\"?",
-                    "genre": "Acción, Artes Marciales, Aventuras, Comedia, Fantasía, Shounen, Superpoderes",
+                    "url": "/anime/maou-2099",
+                    "title": "Maou 2099",
+                    "artist": "Aniplex",
+                    "author": "J.C.Staff",
+                    "description": "La metrópolis ciberpunk de Shinjuku, una enorme ciudad-estado adornada con carteles de neón, altísimos rascacielos y la última tecnología punta. Es aquí, en el año 2099 de la Era Fundida, donde el legendario Señor de los Demonios Veltol tiene su segunda venida cinco siglos después. Pero este paisaje no se parece en nada al que conquistó hace tantos años, ya que la fusión de magia e ingeniería ha elevado la civilización a cotas deslumbrantes y sin precedentes. Puede que Veltol haya quedado reducido a una nota histórica a pie de página, pero no te equivoques… ¡este valiente nuevo mundo será suyo!",
+                    "genre": "Acción, Ciencia Ficción, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/dragon-ball-daima.webp?t=1",
+                    "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/maou-2099.webp?t=1",
                     "initialized": true
                 },
                 "passed": true
@@ -242,7 +244,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/dragon-ball-daima-1",
+                        "url": "/ver/maou-2099-1",
                         "name": "Episodio 1",
                         "episode_number": 1.0
                     }
@@ -252,36 +254,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-clhgmyals7krrwkn.voe-network.net/engine/hls2-c/01/12427/ghnmhodizhnx_,n,.urlset/index-v1-a1.m3u8?t=x226xdyorQBwdcU4UtoPdxDZQyfkXKMicwIHhB8OKY4&s=1728734866&e=14400&f=62137954&node=delivery-node-nksttoprulmvfvys.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "url": "https://delivery-node-kymck1ruekr8ciu3.voe-network.net/engine/hls2-c/01/12437/hhmmadsptxnf_,n,.urlset/index-v1-a1.m3u8?t=YYgUZoR3857c8-QIjBBQvpxBBMtPs2RnJW6atpN2FAI&s=1728756386&e=14400&f=62189912&node=delivery-node-kcizyzlqzayatke6.voe-network.net&i=40.76&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-clhgmyals7krrwkn.voe-network.net/engine/hls2-c/01/12427/ghnmhodizhnx_,n,.urlset/index-v1-a1.m3u8?t=x226xdyorQBwdcU4UtoPdxDZQyfkXKMicwIHhB8OKY4&s=1728734866&e=14400&f=62137954&node=delivery-node-nksttoprulmvfvys.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-kymck1ruekr8ciu3.voe-network.net/engine/hls2-c/01/12437/hhmmadsptxnf_,n,.urlset/index-v1-a1.m3u8?t=YYgUZoR3857c8-QIjBBQvpxBBMtPs2RnJW6atpN2FAI&s=1728756386&e=14400&f=62189912&node=delivery-node-kcizyzlqzayatke6.voe-network.net&i=40.76&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://sfjf2b79nx.guardstorage.net/hls_3/nhMjF8leCoRlO-3uJpU_7bQmy_PxgD97pKq0C0wos_btMkzJHqbzf0ZnKs8_xEM7v_hLmMMhqXUxSJkZvWtrXFabx2EyS7-PN_aFYb3YtgqDwK5BJour_Q8y2yDoa2cJtXSZRVBIOwHjDHfCBT_L3bTMQZX5Mi960JkVKFnBGm-H6mT0O2WXxsCE7w-xD4zMctjBOnjHyKnMBUgWLEghiQ/index-f2-v1-a1.m3u8?sig=IF6Yia3tOl8WXi5G9xRO4A&expires=1728743866",
+                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/jbTu25r4k3rnbuOdLdJcZVGvLKRjLR91EJoqwVVs97_nF1dCH_8ztb4NEW_g_IeZVuvMsPeiOSNVXWEtgo7kf3S2PpFMX-IeqRrL90-RWwma4vAwBMLuFA-oO-NigvS47TtsTMsuGfLkM98MDelBt3_uQ7szR3_QzLQWaCaL-UttPCv3LGsJ6BjF2BgEBaJp7mxwkbmJZmqgM95QBNXrGg/index-v1-a1.m3u8?sig=tMe8qkZLibvacxh2BZtUAQ&expires=1728765384",
                         "quality": "VidGuard:720p",
-                        "videoUrl": "https://sfjf2b79nx.guardstorage.net/hls_3/nhMjF8leCoRlO-3uJpU_7bQmy_PxgD97pKq0C0wos_btMkzJHqbzf0ZnKs8_xEM7v_hLmMMhqXUxSJkZvWtrXFabx2EyS7-PN_aFYb3YtgqDwK5BJour_Q8y2yDoa2cJtXSZRVBIOwHjDHfCBT_L3bTMQZX5Mi960JkVKFnBGm-H6mT0O2WXxsCE7w-xD4zMctjBOnjHyKnMBUgWLEghiQ/index-f2-v1-a1.m3u8?sig=IF6Yia3tOl8WXi5G9xRO4A&expires=1728743866",
+                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/jbTu25r4k3rnbuOdLdJcZVGvLKRjLR91EJoqwVVs97_nF1dCH_8ztb4NEW_g_IeZVuvMsPeiOSNVXWEtgo7kf3S2PpFMX-IeqRrL90-RWwma4vAwBMLuFA-oO-NigvS47TtsTMsuGfLkM98MDelBt3_uQ7szR3_QzLQWaCaL-UttPCv3LGsJ6BjF2BgEBaJp7mxwkbmJZmqgM95QBNXrGg/index-v1-a1.m3u8?sig=tMe8qkZLibvacxh2BZtUAQ&expires=1728765384",
                         "headers": {
                             "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://sfjf2b79nx.guardstorage.net/hls_3/nhMjF8leCoRlO-3uJpU_7bQmy_PxgD97pKq0C0wos_btMkzJHqbzf0ZnKs8_xEM7v_hLmMMhqXUxSJkZvWtrXFabx2EyS7-PN_aFYb3YtgqDwK5BJour_Q8y2yDoa2cJtXSZRVBIOwHjDHfCBT_L3bTMQZX5Mi960JkVKFnBGm-H6mT0O2WXxsCE7w-xD4zMctjBOnjHyKnMBUgWLEghiQ/index-f1-v1-a1.m3u8?sig=IF6Yia3tOl8WXi5G9xRO4A&expires=1728743866",
-                        "quality": "VidGuard:360p",
-                        "videoUrl": "https://sfjf2b79nx.guardstorage.net/hls_3/nhMjF8leCoRlO-3uJpU_7bQmy_PxgD97pKq0C0wos_btMkzJHqbzf0ZnKs8_xEM7v_hLmMMhqXUxSJkZvWtrXFabx2EyS7-PN_aFYb3YtgqDwK5BJour_Q8y2yDoa2cJtXSZRVBIOwHjDHfCBT_L3bTMQZX5Mi960JkVKFnBGm-H6mT0O2WXxsCE7w-xD4zMctjBOnjHyKnMBUgWLEghiQ/index-f1-v1-a1.m3u8?sig=IF6Yia3tOl8WXi5G9xRO4A&expires=1728743866",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20241012yJ82UkrBMP3/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20241012yJ82UkrBMP3/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.yourupload.com/"
                         }
                     }
                 ],

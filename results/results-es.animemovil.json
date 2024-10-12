@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/maou-2099",
+                                "title": "Maou 2099",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4326.webp"
+                            },
+                            {
                                 "url": "/dragon-ball-daima",
                                 "title": "Dragon Ball Daima",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4307.webp"
-                            },
-                            {
-                                "url": "/ao-no-exorcist-yuki-no-hate-hen",
-                                "title": "Ao no Exorcist: Yuki no Hate-hen",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4306.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/dragon-ball-daima",
-                    "title": "Dragon Ball Daima",
-                    "description": "Nuevo anime basado en la famosa licencia Dragon Ball's. Como resultado de una conspiración Goku y algunos de sus aliados están volviendo al tamaño de sus hijos. Luego comienza una búsqueda para resolver este problema.",
-                    "genre": "Acción, Comedia, Shounen, Fantasía, Aventuras",
+                    "url": "/maou-2099",
+                    "title": "Maou 2099",
+                    "description": "Año 2099, Shinjuku. La deslumbrante prosperidad de esta enorme ciudad-estado oculta una oscuridad sórdida justo debajo de su superficie. Es aquí, en esta megalópolis que representa el pináculo del desarrollo humano, donde el legendario Señor Demonio Veltol hace su segunda venida. ¡Para gobernar este valiente nuevo mundo, tendrá que tomar el control del futuro para sí mismo!",
+                    "genre": "Acción, Fantasía, Ciencia Ficción",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4325.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4326.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,7 +278,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/dragon-ball-daima-1",
+                        "url": "/ver/maou-2099-1",
                         "name": "Episodio 1",
                         "episode_number": 0.0
                     }
@@ -288,44 +288,44 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-dxpdxatbb5gs9ftl.voe-network.net/engine/hls2/01/12430/dhdaf19mwuvs_,n,.urlset/index-v1-a1.m3u8?t=bxRvV1MyD1EJd6LgrCf4H0VT-cSptHtUTOuMu8zWtOo&s=1728734888&e=14400&f=62152051&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "url": "https://delivery-node-qigucieqm2i763zc.voe-network.net/engine/hls2/01/12437/o83iqy0jfpk3_,n,.urlset/index-v1-a1.m3u8?t=_mP9HYME3HnOSgFLlH911GGtUBFboGiNP3ZOmuLqeaA&s=1728756437&e=14400&f=62190388&node=delivery-node-qigucieqm2i763zc.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-dxpdxatbb5gs9ftl.voe-network.net/engine/hls2/01/12430/dhdaf19mwuvs_,n,.urlset/index-v1-a1.m3u8?t=bxRvV1MyD1EJd6LgrCf4H0VT-cSptHtUTOuMu8zWtOo&s=1728734888&e=14400&f=62152051&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-qigucieqm2i763zc.voe-network.net/engine/hls2/01/12437/o83iqy0jfpk3_,n,.urlset/index-v1-a1.m3u8?t=_mP9HYME3HnOSgFLlH911GGtUBFboGiNP3ZOmuLqeaA&s=1728756437&e=14400&f=62190388&node=delivery-node-qigucieqm2i763zc.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxzbn4jz3b4quuopcrbczsvdffmvunlhpre5jcu2kva7t5kdykv2iuj56tyuio2z4mhfoim/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx57t4jz3b4quuopgre4nkgkau54rh5idh6qwyxzliup7qyedx4s5nyfh7ujdm6hyrlqdl6/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzbn4jz3b4quuopcrbczsvdffmvunlhpre5jcu2kva7t5kdykv2iuj56tyuio2z4mhfoim/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx57t4jz3b4quuopgre4nkgkau54rh5idh6qwyxzliup7qyedx4s5nyfh7ujdm6hyrlqdl6/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://m70.uqload.ws/3rfkr2lb4nw2q4drdkr7vjvdbckfqa6fv5obwxtrxv5vhgd5tt6kmd4kkx5q/v.mp4",
+                        "url": "https://m90.uqload.ws/3rfky6s54nw2q4drdkopvnnpdqi7gw2756phd64ps5mman6a3j7injx2mx2q/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m70.uqload.ws/3rfkr2lb4nw2q4drdkr7vjvdbckfqa6fv5obwxtrxv5vhgd5tt6kmd4kkx5q/v.mp4",
+                        "videoUrl": "https://m90.uqload.ws/3rfky6s54nw2q4drdkopvnnpdqi7gw2756phd64ps5mman6a3j7injx2mx2q/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=JbrlmQvYW2uj8JO&expires=1728804874&ip=G0WsDRONKxSHDN&token=zcFmWUpFYI40",
+                        "url": "https://streamtape.com/get_video?id=oG20QYW9jZIxXB&expires=1728826424&ip=F0qQKRWZD19XKxR&token=biJ6b0LCqoOy",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=JbrlmQvYW2uj8JO&expires=1728804874&ip=G0WsDRONKxSHDN&token=zcFmWUpFYI40"
+                        "videoUrl": "https://streamtape.com/get_video?id=oG20QYW9jZIxXB&expires=1728826424&ip=F0qQKRWZD19XKxR&token=biJ6b0LCqoOy"
                     },
                     {
-                        "url": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4uimxjryki6cgam6mx7p4psnb3udytszwcy7l67ggpftwdsvbmcjw7hea,.urlset/master.m3u8?v=1003673013",
+                        "url": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4u44vjryki6cgam6mx45xowcf3gc25lj4mvvdlpv7hpabhssvkymaxdjq,.urlset/master.m3u8?v=1190554173",
                         "quality": " - Re: Video",
-                        "videoUrl": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4uimxjryki6cgam6mx7p4psnb3udytszwcy7l67ggpftwdsvbmcjw7hea,.urlset/master.m3u8?v=1003673013",
+                        "videoUrl": "https://apu.animemovil2.com/embed2/?id=https://str13.vtube.network/hls/,x5s4u44vjryki6cgam6mx45xowcf3gc25lj4mvvdlpv7hpabhssvkymaxdjq,.urlset/master.m3u8?v=1190554173",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://re.ironhentai.com",
-                            "Referer": "https://re.ironhentai.com/vt.php?id=69zkj4agz22z"
+                            "Referer": "https://re.ironhentai.com/vt.php?id=8rsvct0twd3k"
                         }
                     }
                 ],

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/patoaventuras-la-pelicula-el-tesoro-de-la-lampara-perdida/",
+                                "title": "Patoaventuras la película: El tesoro de la lámpara perdida",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//hFNTOhLw6sTkkgbLdPf9hyJOWGX.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/los-caballeros-las-prefieren-rubias/",
                                 "title": "Los caballeros las prefieren rubias",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//vO6aAcPxQp6i6a2Zeh4zDvZrqiM.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/el-misterio-de-salems-lot/",
                                 "title": "El misterio de Salem’s Lot",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-hoyo-2/",
-                                "title": "El hoyo 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//3awoWMKDfTROjGB2vivky1TCSRd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/los-caballeros-las-prefieren-rubias/",
-                    "artist": "Adolph Faylauer",
-                    "description": "Lorelei y Dorothy son dos cantantes que hacen un crucero desde los Estados Unidos a París. Una rubia y otra morena, con su belleza y encanto seducirán a todo el pasaje. Lorelei tiene el objetivo de casarse con un millonario, pero hay un inconveniente: tiene un novio cuyo padre contrató un detective para descubrir su juego.   ",
-                    "genre": "Comedia, Romance",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//vO6aAcPxQp6i6a2Zeh4zDvZrqiM.jpg",
+                    "url": "/ver-pelicula/patoaventuras-la-pelicula-el-tesoro-de-la-lampara-perdida/",
+                    "artist": "Alan Young",
+                    "description": "Rico McPato lleva a Hugo, Paco y Luis a Egipto para encontrar una pirámide y una lámpara mágica.   ",
+                    "genre": "Animación, Aventura, Comedia, Familia, Fantasía",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//hFNTOhLw6sTkkgbLdPf9hyJOWGX.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,7 +211,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/los-caballeros-las-prefieren-rubias/",
+                        "url": "/ver-pelicula/patoaventuras-la-pelicula-el-tesoro-de-la-lampara-perdida/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -221,39 +221,30 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-6thw7b00uppejdtq.voe-network.net/engine/hls2/01/12404/u8lw9xbnihsp_,n,.urlset/index-v1-a1.m3u8?t=OgUV_h5lRPe6H3s5EyYFLFoIkHllyw-40VwIfTYnkmA&s=1728734812&e=14400&f=62022643&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=74.249&sp=2500&asn=8075",
+                        "url": "https://delivery-node-jorohulcwyo7z2hq.voe-network.net/engine/hls2-c/01/12404/i3zfwf4s0fm0_,n,.urlset/index-v1-a1.m3u8?t=1Hj0q8M3BmYzMjCVbujqfhlx0oh3-prjzcD-Z4jb4aU&s=1728756345&e=14400&f=62022902&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=20.75&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-6thw7b00uppejdtq.voe-network.net/engine/hls2/01/12404/u8lw9xbnihsp_,n,.urlset/index-v1-a1.m3u8?t=OgUV_h5lRPe6H3s5EyYFLFoIkHllyw-40VwIfTYnkmA&s=1728734812&e=14400&f=62022643&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=74.249&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-jorohulcwyo7z2hq.voe-network.net/engine/hls2-c/01/12404/i3zfwf4s0fm0_,n,.urlset/index-v1-a1.m3u8?t=1Hj0q8M3BmYzMjCVbujqfhlx0oh3-prjzcD-Z4jb4aU&s=1728756345&e=14400&f=62022902&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=20.75&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://401qnf6va7.cdn-jupiter.com/hls2/01/05088/6k1blh1bwsve_n/index-v1-a2.m3u8?t=7t03k3io41Q8WXh6x0-JM_WO50a_h_9w4hLWYi7tk-k&s=1728734811&e=129600&f=25444461&srv=d96jvs07ph5l&i=0.4&sp=500&p1=d96jvs07ph5l&p2=d96jvs07ph5l&asn=8075",
+                        "url": "https://ssmalxtwk.cdn-jupiter.com/hls2/01/05088/f2y8675g8lvo_n/index-v1-a2.m3u8?t=vIuFCAXc1P6CMmjmcvpBjyPRGcx-UMXvvvvZWTdplpc&s=1728756341&e=129600&f=25444750&srv=b2a52u9wjcr9&i=0.4&sp=500&p1=b2a52u9wjcr9&p2=b2a52u9wjcr9&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://401qnf6va7.cdn-jupiter.com/hls2/01/05088/6k1blh1bwsve_n/index-v1-a2.m3u8?t=7t03k3io41Q8WXh6x0-JM_WO50a_h_9w4hLWYi7tk-k&s=1728734811&e=129600&f=25444461&srv=d96jvs07ph5l&i=0.4&sp=500&p1=d96jvs07ph5l&p2=d96jvs07ph5l&asn=8075",
+                        "videoUrl": "https://ssmalxtwk.cdn-jupiter.com/hls2/01/05088/f2y8675g8lvo_n/index-v1-a2.m3u8?t=vIuFCAXc1P6CMmjmcvpBjyPRGcx-UMXvvvvZWTdplpc&s=1728756341&e=129600&f=25444750&srv=b2a52u9wjcr9&i=0.4&sp=500&p1=b2a52u9wjcr9&p2=b2a52u9wjcr9&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/6k1blh1bwsve"
+                            "Referer": "https://hlswish.com/e/f2y8675g8lvo"
                         }
                     },
                     {
-                        "url": "https://s2.goodstream.uno/c2b6cce9bd1d7636?download_token=451edf4ce58eafc3fb7151eb3a7de00aa900538a55b5bd817f7bfcca7dc7a40a",
+                        "url": "https://s2.goodstream.uno/170cb5e3d7019dae?download_token=d3e1fa76c51f73cda94465fb9a7083cab603b3aead8844be93387fa939534248",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s2.goodstream.uno/c2b6cce9bd1d7636?download_token=451edf4ce58eafc3fb7151eb3a7de00aa900538a55b5bd817f7bfcca7dc7a40a",
+                        "videoUrl": "https://s2.goodstream.uno/170cb5e3d7019dae?download_token=d3e1fa76c51f73cda94465fb9a7083cab603b3aead8844be93387fa939534248",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
-                        }
-                    },
-                    {
-                        "url": "https://dd315o.cloudatacdn.com/u5kj6t3zs7clsdgge4yoqiativzz7yrqog2pnkshwilvq5kotqxwyebxhz2a/ewjdm0ai1g~pLN5VuGwr2?token=lj33p9a2wnpqzx370qaa6gfd&expiry=1728734811349",
-                        "quality": "DoodStreamDoodstream  mirror",
-                        "videoUrl": "https://dd315o.cloudatacdn.com/u5kj6t3zs7clsdgge4yoqiativzz7yrqog2pnkshwilvq5kotqxwyebxhz2a/ewjdm0ai1g~pLN5VuGwr2?token=lj33p9a2wnpqzx370qaa6gfd&expiry=1728734811349",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.to/"
                         }
                     }
                 ],

@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/yeosin-gangnim-dublado/",
+                                "title": "Yeosin Gangnim Dublado",
+                                "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/09/1726702173-5482-139699.jpg"
+                            },
+                            {
+                                "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dublado/",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Dublado",
+                                "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/07/1721851847-5168-142258.jpg"
+                            },
+                            {
                                 "url": "/anime/dandadan-dublado/",
                                 "title": "Dandadan Dublado",
                                 "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/10/1727990851-5288-143719.jpg"
@@ -155,16 +165,6 @@
                                 "url": "/anime/shi-cao-lao-long-bei-guan-yi-e-long-zhi-ming-2/",
                                 "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2",
                                 "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/10/1727903571-4897-145413.jpg"
-                            },
-                            {
-                                "url": "/anime/yeosin-gangnim/",
-                                "title": "Yeosin Gangnim",
-                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/08/1723066428-6486-139699.jpg"
-                            },
-                            {
-                                "url": "/anime/acro-trip/",
-                                "title": "Acro Trip",
-                                "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/10/1727903732-7675-145153.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1728742093&ei=TRIKZ9zBIpT7j-8Pua6R6A4&ip=172.71.194.198&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728713293,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1728712849&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgIYvKGlDIVBQhmX4XZeoGyIa9rxI3_miPizMNWpiGJE0CIBlbD8bt_o6pQudoUgjGuxol1Wa5aL1PXwQSq5AMZWgy&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAPmADpXx26fowDK5HNoEieMEOxLfs5K0Q1CAXn0muI_-AiBnxuPL4ggqFyc2hy8GkxRqz8EmqcmjyQyR0-P0_Nczeg%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1728742093&ei=TRIKZ9zBIpT7j-8Pua6R6A4&ip=172.71.194.198&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728713293,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1728712849&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgIYvKGlDIVBQhmX4XZeoGyIa9rxI3_miPizMNWpiGJE0CIBlbD8bt_o6pQudoUgjGuxol1Wa5aL1PXwQSq5AMZWgy&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAPmADpXx26fowDK5HNoEieMEOxLfs5K0Q1CAXn0muI_-AiBnxuPL4ggqFyc2hy8GkxRqz8EmqcmjyQyR0-P0_Nczeg%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1728742093&ei=TRIKZ9zBIpT7j-8Pua6R6A4&ip=172.71.194.198&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728713293,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1728712849&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgJqPBA85ZqdbIGtBenUGFN-aFPiVgxyyAAyYD8mbAtGkCIG1pBY8SqiaQ8M7aC0LhW9IT6qaBw-0Cw0JI29H0L2ut&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRAIgOxT1M3Sk-e6_w8hNweR85KcICOgtX7i1PBQE-6oWQRcCIGsdg3sH_W0Ek3fgLccTlzjqjRbh6e5W16XzSTlQ3wir",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1728742093&ei=TRIKZ9zBIpT7j-8Pua6R6A4&ip=172.71.194.198&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728713293,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1728712849&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgJqPBA85ZqdbIGtBenUGFN-aFPiVgxyyAAyYD8mbAtGkCIG1pBY8SqiaQ8M7aC0LhW9IT6qaBw-0Cw0JI29H0L2ut&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRAIgOxT1M3Sk-e6_w8hNweR85KcICOgtX7i1PBQE-6oWQRcCIGsdg3sH_W0Ek3fgLccTlzjqjRbh6e5W16XzSTlQ3wir",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

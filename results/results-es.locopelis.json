@@ -137,6 +137,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20466/duelo-de-hermanos-la-historia-de-adidas-y-puma.html",
+                                "title": "Duelo de hermanos: la",
+                                "description": "En los años 20 los hermanos Adolf y Rudolf Dassler empiezan a manufacturar zapatillas de deporte. Adolf es un artesano con mucho talento mientras que Rudolf es la mente más económica. Después de la Segunda Guerra Mundial, la relación entre los hermanos se deteriorará hasta tal punto de convert...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20466.webp"
+                            },
+                            {
+                                "url": "/pelicula/20465/padre-no-hay-mas-que-uno-2-la-llegada-de-la-suegra.html",
+                                "title": "Padre no hay más que",
+                                "description": "Con el triunfo de la asistente virtual Conchi, Javier (Santiago Segura) se ha convertido en líder del chat de madres y todo marcha sobre ruedas. Parece tenerlo todo bajo control, pero la noticia inesperada de la llegada de un nuevo bebé lo pone todo patas arriba. Y para rematar, llegará la suegra...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20465.webp"
+                            },
+                            {
+                                "url": "/pelicula/20464/la-forja.html",
+                                "title": "La Forja",
+                                "description": "Isaiah Wright aún tiene que madurar. Tras graduarse en el instituto sin ningún plan para el futuro, Isaiah recibe un empujón para empezar a tomar mejores decisiones en la vida. El plan de Dios para él es mucho mayor de lo que jamás hubiera imaginado....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20464.webp"
+                            },
+                            {
                                 "url": "/pelicula/20463/padre-no-hay-mas-que-uno-4-campanas-de-boda.html",
                                 "title": "Padre no hay más que",
                                 "description": "¿Qué efecto tendría en unos padres que el mismo día que su hija mayor cumple 18 años su novio le proponga matrimonio y ella acepte de inmediato? ...",
@@ -237,24 +255,6 @@
                                 "title": "Culpa cero",
                                 "description": "La vida de Berta Muller, una exitosa escritora de autoayuda, se ve sacudida cuando, en el pico máximo de su carrera, es expuesta mediáticamente por la trascendencia de un plagio. Lejos de asumir su responsabilidad, ella negará las acusaciones e intentará justificarse ridículamente, aunque esto ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20447.webp"
-                            },
-                            {
-                                "url": "/pelicula/20446/los-tipos-malos-truco-o-atraco.html",
-                                "title": "Los tipos malos: ¿Tr",
-                                "description": "La noche de Halloween de robos y crímenes de los Bad Guys se convierte en una noche de terror cuando se topan con un peligroso enemigo de tipo sobrenatural que les da a probar de su propia medicina....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20446.webp"
-                            },
-                            {
-                                "url": "/pelicula/20445/aguanta-la-respiracion.html",
-                                "title": "Aguanta la respiraci�",
-                                "description": "Década de 1930, Oklahoma. En medio de terribles tormentas de polvo cada vez más horribles, una joven madre atormentada por el pasado se convence de que una presencia misteriosa amenaza a su familia y toma medidas extraordinarias para protegerles. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20445.webp"
-                            },
-                            {
-                                "url": "/pelicula/20444/aguanta-la-respiracion.html",
-                                "title": "Aguanta la respiraci�",
-                                "description": "Década de 1930, Oklahoma. En medio de terribles tormentas de polvo cada vez más horribles, una joven madre atormentada por el pasado se convence de que una presencia misteriosa amenaza a su familia y toma medidas extraordinarias para protegerles. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20444.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoia2cvy5hpvda/jco9wqjns2~7I80LAUO0j?token=faa3a98f24ktc5woxwz3px7v&expiry=1728669988268",
-                        "quality": "DoodStreamDoodstream  mirror",
-                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoia2cvy5hpvda/jco9wqjns2~7I80LAUO0j?token=faa3a98f24ktc5woxwz3px7v&expiry=1728669988268",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

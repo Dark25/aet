@@ -215,8 +215,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player14').setup({\r\n\t\t\t\t\ttitle: ",
+                        "quality": "720p",
+                        "videoUrl": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player14').setup({\r\n\t\t\t\t\ttitle: "
+                    },
+                    {
+                        "url": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player17').setup({\r\n\t\t\t\t\ttitle: ",
+                        "quality": "1080p",
+                        "videoUrl": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player17').setup({\r\n\t\t\t\t\ttitle: "
+                    }
+                ],
+                "passed": true
             }
         }
     }

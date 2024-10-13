@@ -67,6 +67,11 @@
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1926/140799.webp"
                             },
                             {
+                                "url": "/anime/bleach-thousand-year-blood-war-458",
+                                "title": "Bleach: Sennen Kessen-hen",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1908/135431.webp"
+                            },
+                            {
                                 "url": "/anime/baki-hanma-2nd-season-767",
                                 "title": "Hanma Baki: Son of Ogre 2nd Season",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1800/135847.webp"
@@ -75,11 +80,6 @@
                                 "url": "/anime/black-clover-25",
                                 "title": "Black Clover",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/2/88336.webp"
-                            },
-                            {
-                                "url": "/anime/bleach-thousand-year-blood-war-458",
-                                "title": "Bleach: Sennen Kessen-hen",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1908/135431.webp"
                             },
                             {
                                 "url": "/anime/hunter-x-hunter-669",
@@ -166,6 +166,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-1804",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+                                "thumbnail_url": "https://cdn.ani-zone.net/image/1978/144794.webp"
+                            },
                             {
                                 "url": "/anime/maou-2099-1803",
                                 "title": "Maou 2099",
@@ -310,11 +315,6 @@
                                 "url": "/anime/mecha-ude-tv-1775",
                                 "title": "Mecha-Ude: Mechanical Arms",
                                 "thumbnail_url": "https://cdn.ani-zone.net/image/1734/145667.webp"
-                            },
-                            {
-                                "url": "/anime/trillion-game-1774",
-                                "title": "Trillion Game",
-                                "thumbnail_url": "https://cdn.ani-zone.net/image/1597/145178.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -499,14 +499,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ajax/episode/servers?episodeId=1728815906333095",
+                        "name": "Episode 1122",
+                        "episode_number": 1122.0
+                    },
+                    {
                         "url": "/ajax/episode/servers?episodeId=128456",
                         "name": "Episode 1121",
                         "episode_number": 1121.0
-                    },
-                    {
-                        "url": "/ajax/episode/servers?episodeId=128220",
-                        "name": "Episode 1120",
-                        "episode_number": 1120.0
                     }
                 ],
                 "passed": true
@@ -514,13 +514,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://videos2.sendvid.com/5c/86/e9q1cakb.mp4?validfrom=1728792395&validto=1728806795&rate=250k&ip=20.102.210.220&hash=aXIQWRR5jOg9bLS1GpCEPLv5Ur0%3D",
+                        "url": "https://videos2.sendvid.com/56/5c/ncvioe4j.mp4?validfrom=1728814020&validto=1728828420&rate=250k&ip=20.55.223.239&hash=oJHWHsU3t9v98qp6rSxv7%2BI1Vlk%3D",
                         "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/5c/86/e9q1cakb.mp4?validfrom=1728792395&validto=1728806795&rate=250k&ip=20.102.210.220&hash=aXIQWRR5jOg9bLS1GpCEPLv5Ur0%3D",
+                        "videoUrl": "https://videos2.sendvid.com/56/5c/ncvioe4j.mp4?validfrom=1728814020&validto=1728828420&rate=250k&ip=20.55.223.239&hash=oJHWHsU3t9v98qp6rSxv7%2BI1Vlk%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/e9q1cakb",
-                            "Referer": "https://https://sendvid.com/embed/e9q1cakb/"
+                            "Origin": "https://https://sendvid.com/embed/ncvioe4j",
+                            "Referer": "https://https://sendvid.com/embed/ncvioe4j/"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/56/5c/ncvioe4j.mp4?validfrom=1728814020&validto=1728828420&rate=250k&ip=20.55.223.239&hash=oJHWHsU3t9v98qp6rSxv7%2BI1Vlk%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/56/5c/ncvioe4j.mp4?validfrom=1728814020&validto=1728828420&rate=250k&ip=20.55.223.239&hash=oJHWHsU3t9v98qp6rSxv7%2BI1Vlk%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://https://sendvid.com/embed/ncvioe4j",
+                            "Referer": "https://https://sendvid.com/embed/ncvioe4j/"
                         }
                     }
                 ],

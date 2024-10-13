@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/tv/one-piece/",
+                                "title": "One Piece: Arco de Egghead",
+                                "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2021/04/15g8jf1hfg1hs1aa.jpg"
+                            },
+                            {
                                 "url": "/tv/bleach-sennen-kessen-hen-soukoku-tan/",
                                 "title": "Bleach: Sennen Kessen-hen – Soukoku-tan",
                                 "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/hj5484j52845hj045h5.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/tv/kekkon-suru-tte-hontou-desu-ka/",
                                 "title": "Kekkon suru tte, Hontou desu ka",
                                 "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/09/ghgu745hg987hgw495gh.jpg"
-                            },
-                            {
-                                "url": "/tv/negaposi-angler/",
-                                "title": "NegaPosi Angler",
-                                "thumbnail_url": "https://i0.wp.com/ww1.animeyt.pro/wp-content/uploads/2024/10/jh5h0j5490hj549wj5h.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -367,7 +367,7 @@
                     "url": "/tv/one-piece/",
                     "title": "One Piece: Arco de Egghead",
                     "artist": "Toei Animation",
-                    "description": "\n\nAlternative name(s): One Piece, Sinónimos: OP, Japonés: ONE PIECE\nEstado: En emisión\nEstudio: Toei Animation\nEstreno: Oct 20, 1999\nDuración: 24 min.\nTemporada: Otoño 1999\nTipo: 4K\nCensura: Normal\nAutor: AnimeYT\nPublicado: abril 1, 2024\nActualizado: octubre 6, 2024\n",
+                    "description": "\n\nAlternative name(s): One Piece, Sinónimos: OP, Japonés: ONE PIECE\nEstado: En emisión\nEstudio: Toei Animation\nEstreno: Oct 20, 1999\nDuración: 24 min.\nTemporada: Otoño 1999\nTipo: TV\nCensura: Normal\nAutor: AnimeYT\nPublicado: abril 1, 2024\nActualizado: octubre 12, 2024\n",
                     "genre": "Acción, Aventura, Comedia, Drama, Fantasía, Shounen, Superpoderes",
                     "thumbnail_url": "https://i3.wp.com/ww1.animeyt.pro/wp-content/uploads/2021/04/15g8jf1hfg1hs1aa.jpg",
                     "initialized": true
@@ -377,31 +377,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/anime/one-piece-capitulo-1122/",
+                        "name": "Episode 1122",
+                        "episode_number": 1122.0
+                    },
+                    {
                         "url": "/anime/one-piece-capitulo-1121/",
                         "name": "Episode 1121",
                         "episode_number": 1121.0
-                    },
-                    {
-                        "url": "/anime/one-piece-capitulo-1120/",
-                        "name": "Episode 1120",
-                        "episode_number": 1120.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn.burstcloud.co/a20241012bAW5GllCIiG/OP-1121.720p.AnimeYT.es.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20241012bAW5GllCIiG/OP-1121.720p.AnimeYT.es.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.burstcloud.co"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

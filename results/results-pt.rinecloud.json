@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2023/04/one.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-2099/",
+                                "title": "Maou 2099",
+                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/10/1728780573-6076-144605.jpg"
+                            },
+                            {
                                 "url": "/anime/ranma-½-2024-dublado/",
                                 "title": "Ranma ½ (2024) Dublado",
                                 "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/10/1728236572-3051-144299.jpg"
@@ -155,16 +165,6 @@
                                 "url": "/anime/bleach-sennen-kessen-hen-soukoku-tan/",
                                 "title": "Bleach: Sennen Kessen-hen – Soukoku-tan",
                                 "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/10/144074l.jpg"
-                            },
-                            {
-                                "url": "/anime/nierautomata-ver1-1a-part-2-dublado/",
-                                "title": "NieR:Automata Ver1.1a Part 2 Dublado",
-                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/07/1722040093-9378-143539.jpg"
-                            },
-                            {
-                                "url": "/anime/ji-yao-lu-qicheng-pian/",
-                                "title": "Ji Yao Lu: Qicheng Pian",
-                                "thumbnail_url": "https://i2.wp.com/rine.cloud/wp-content/uploads/2024/10/1728721114-1516-145701.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1728828490&ei=ymMLZ_yMLJuty_sPhdaioQw&ip=172.70.42.208&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728799690,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=u&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1728798598&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgFrAtUWf2gTD51xbKDRMl7oNQo6vuEsAVar_bVXp51I4CIFHhOiO3Gy2LAlQv_rg0etlaG-u9u_pMiOsWci5U7s7b&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAOuNFFED1aW-2YO8wr4Fxi7Jz7FqNLHJEl7_vW-aIjmjAiAZ97o9PIO-2Cx7BPhXasrmYR7BN1sp5lWkQpDKbtODrA%3D%3D",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1728828490&ei=ymMLZ_yMLJuty_sPhdaioQw&ip=172.70.42.208&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728799690,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=u&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1728798598&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgFrAtUWf2gTD51xbKDRMl7oNQo6vuEsAVar_bVXp51I4CIFHhOiO3Gy2LAlQv_rg0etlaG-u9u_pMiOsWci5U7s7b&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAOuNFFED1aW-2YO8wr4Fxi7Jz7FqNLHJEl7_vW-aIjmjAiAZ97o9PIO-2Cx7BPhXasrmYR7BN1sp5lWkQpDKbtODrA%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1728828490&ei=ymMLZ_yMLJuty_sPhdaioQw&ip=172.70.42.208&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728799690,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=u&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1728798598&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMj1jENavhv1F3b--95epV--Y4YE35jZsenP37jQC0mwAiEAjNp2hgqQDJhaUsXNQi9AbJ_n8JMnGqLvdOgpmD5FSsA%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIgblSaUgjyWg6FwwtpVmK7ZpCunr54zndJ9k4a-ka7FewCIQDrDlFD3epvZ4Fz9adWQmH1Z7dglznFQcHdJC02DA1oNQ%3D%3D",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1728828490&ei=ymMLZ_yMLJuty_sPhdaioQw&ip=172.70.42.208&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1728799690,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=u&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1728798598&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMj1jENavhv1F3b--95epV--Y4YE35jZsenP37jQC0mwAiEAjNp2hgqQDJhaUsXNQi9AbJ_n8JMnGqLvdOgpmD5FSsA%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIgblSaUgjyWg6FwwtpVmK7ZpCunr54zndJ9k4a-ka7FewCIQDrDlFD3epvZ4Fz9adWQmH1Z7dglznFQcHdJC02DA1oNQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

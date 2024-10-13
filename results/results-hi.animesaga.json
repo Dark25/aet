@@ -3,27 +3,27 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: www.animesaga.in: Temporary failure in name resolution",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.net.ConnectException: Failed to connect to www.animesaga.in/72.52.178.23:443",
                 "passed": false
             }
         }

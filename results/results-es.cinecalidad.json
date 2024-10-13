@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/unveiled-surviving-la-luz-del-mundo/",
+                                "title": "Unveiled: Surviving La Luz del Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//9Qo9pwV7nvKmn9RzjX28xu3Rrkx.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/patoaventuras-la-pelicula-el-tesoro-de-la-lampara-perdida/",
                                 "title": "Patoaventuras la película: El tesoro de la lámpara perdida",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//hFNTOhLw6sTkkgbLdPf9hyJOWGX.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/310-mision-peligrosa/",
                                 "title": "3:10 Misión peligrosa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//etmnvALqhRmG8oa061VUODSUiwK.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-misterio-de-salems-lot/",
-                                "title": "El misterio de Salem’s Lot",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/patoaventuras-la-pelicula-el-tesoro-de-la-lampara-perdida/",
-                    "artist": "Alan Young",
-                    "description": "Rico McPato lleva a Hugo, Paco y Luis a Egipto para encontrar una pirámide y una lámpara mágica.   ",
-                    "genre": "Animación, Aventura, Comedia, Familia, Fantasía",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//hFNTOhLw6sTkkgbLdPf9hyJOWGX.jpg",
+                    "url": "/ver-serie/unveiled-surviving-la-luz-del-mundo/",
+                    "artist": "",
+                    "author": "",
+                    "description": "",
+                    "genre": "Crimen, Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//9Qo9pwV7nvKmn9RzjX28xu3Rrkx.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,44 +212,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/patoaventuras-la-pelicula-el-tesoro-de-la-lampara-perdida/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/unveiled-surviving-la-luz-del-mundo-1x3/",
+                        "name": "T1 - E3 - Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/unveiled-surviving-la-luz-del-mundo-1x2/",
+                        "name": "T1 - E2 - Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-0facfooyeb9ypoby.voe-network.net/engine/hls2-c/01/12404/i3zfwf4s0fm0_,n,.urlset/index-v1-a1.m3u8?t=oSsZAE7rF0W4Ozfw_T3FbPVpph_Yv0H-l_TqLd92LmA&s=1728821202&e=14400&f=62022902&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=13.83&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-0facfooyeb9ypoby.voe-network.net/engine/hls2-c/01/12404/i3zfwf4s0fm0_,n,.urlset/index-v1-a1.m3u8?t=oSsZAE7rF0W4Ozfw_T3FbPVpph_Yv0H-l_TqLd92LmA&s=1728821202&e=14400&f=62022902&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=13.83&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://ssmalxtwk.cdn-jupiter.com/hls2/01/05088/f2y8675g8lvo_n/index-v1-a2.m3u8?t=6jYdBnq2PPS563NiF-njYltf4BvDiSlIVzxHEIxJjUI&s=1728821203&e=129600&f=25444750&srv=b2a52u9wjcr9&i=0.4&sp=500&p1=b2a52u9wjcr9&p2=b2a52u9wjcr9&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://ssmalxtwk.cdn-jupiter.com/hls2/01/05088/f2y8675g8lvo_n/index-v1-a2.m3u8?t=6jYdBnq2PPS563NiF-njYltf4BvDiSlIVzxHEIxJjUI&s=1728821203&e=129600&f=25444750&srv=b2a52u9wjcr9&i=0.4&sp=500&p1=b2a52u9wjcr9&p2=b2a52u9wjcr9&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/f2y8675g8lvo"
-                        }
-                    },
-                    {
-                        "url": "https://s2.goodstream.uno/170cb5e3d7019dae?download_token=6bdf88f34aff7c563fa81178f53837d41167f0872e3ae45de006b9a248d29917",
-                        "quality": "GoodStream: ",
-                        "videoUrl": "https://s2.goodstream.uno/170cb5e3d7019dae?download_token=6bdf88f34aff7c563fa81178f53837d41167f0872e3ae45de006b9a248d29917",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

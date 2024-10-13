@@ -15,15 +15,15 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
+                "error": "java.net.UnknownHostException: aniplay.co: Temporary failure in name resolution",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
+                "error": "java.net.UnknownHostException: aniplay.co",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to aniplay.co/72.52.178.23:443",
+                "error": "java.net.UnknownHostException: aniplay.co",
                 "passed": false
             }
         }

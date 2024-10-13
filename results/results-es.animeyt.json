@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/maou-2099",
+                                "title": "Maou 2099",
+                                "thumbnail_url": "https://animeyt.to/uploads/animePicture/670afc2a0a166.jpg"
+                            },
+                            {
                                 "url": "/anime/dragon-ball-daima",
                                 "title": "Dragon Ball Daima",
                                 "thumbnail_url": "https://animeyt.to/uploads/animePicture/6709b37f05902.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/mecha-ude-tv",
                                 "title": "Mecha-ude (TV)",
                                 "thumbnail_url": "https://animeyt.to/uploads/animePicture/67087744afac7.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-hako",
-                                "title": "Ao no Hako",
-                                "thumbnail_url": "https://animeyt.to/uploads/animePicture/67086c58ba2ae.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -452,9 +452,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_n/index-v1-a1.m3u8?t=gfpPKYq1AOLn43KVlimE0TDZ56l-5lVvbA44xvK6fhY&s=1728756362&e=43200&v=976550&i=0.3&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_n/index-v1-a1.m3u8?t=gfpPKYq1AOLn43KVlimE0TDZ56l-5lVvbA44xvK6fhY&s=1728756362&e=43200&v=976550&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_h/index-v1-a1.m3u8?t=4aQobA74-DtvJ5a6RH3KCZeCsyYS5kDwOE-j_lLgd2A&s=1728778716&e=43200&v=1188358&i=0.3&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_h/index-v1-a1.m3u8?t=4aQobA74-DtvJ5a6RH3KCZeCsyYS5kDwOE-j_lLgd2A&s=1728778716&e=43200&v=1188358&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -463,9 +463,20 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_l/index-v1-a1.m3u8?t=gfpPKYq1AOLn43KVlimE0TDZ56l-5lVvbA44xvK6fhY&s=1728756362&e=43200&v=976550&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_n/index-v1-a1.m3u8?t=4aQobA74-DtvJ5a6RH3KCZeCsyYS5kDwOE-j_lLgd2A&s=1728778716&e=43200&v=1188358&i=0.3&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_n/index-v1-a1.m3u8?t=4aQobA74-DtvJ5a6RH3KCZeCsyYS5kDwOE-j_lLgd2A&s=1728778716&e=43200&v=1188358&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_l/index-v1-a1.m3u8?t=4aQobA74-DtvJ5a6RH3KCZeCsyYS5kDwOE-j_lLgd2A&s=1728778716&e=43200&v=1188358&i=0.3&sp=0",
                         "quality": "Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_l/index-v1-a1.m3u8?t=gfpPKYq1AOLn43KVlimE0TDZ56l-5lVvbA44xvK6fhY&s=1728756362&e=43200&v=976550&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00070/n9okt9uj9jwt_l/index-v1-a1.m3u8?t=4aQobA74-DtvJ5a6RH3KCZeCsyYS5kDwOE-j_lLgd2A&s=1728778716&e=43200&v=1188358&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

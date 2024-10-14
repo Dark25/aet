@@ -7,8 +7,139 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "3121833479",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "/assets/images/sh/covers/14325.png"
+                            },
+                            {
+                                "url": "3583633343",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "thumbnail_url": "/assets/images/sh/covers/14324.png"
+                            },
+                            {
+                                "url": "1190586279",
+                                "title": "Haigakura",
+                                "thumbnail_url": "/assets/images/sh/covers/14323.png"
+                            },
+                            {
+                                "url": "3372505151",
+                                "title": "Saikyou no Shienshoku &quot;Wajutsushi&quot; de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "/assets/images/sh/covers/14207.png"
+                            },
+                            {
+                                "url": "2902876168",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "/assets/images/sh/covers/14416.png"
+                            },
+                            {
+                                "url": "1131840498",
+                                "title": "Raise wa Tanin ga Ii",
+                                "thumbnail_url": "/assets/images/sh/covers/14322.png"
+                            },
+                            {
+                                "url": "3995973813",
+                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+                                "thumbnail_url": "/assets/images/sh/covers/14321.png"
+                            },
+                            {
+                                "url": "3087360955",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "/assets/images/sh/covers/14320.png"
+                            },
+                            {
+                                "url": "3055645267",
+                                "title": "Bananya: Around the World",
+                                "thumbnail_url": "/assets/images/sh/covers/14415.png"
+                            },
+                            {
+                                "url": "2360872848",
+                                "title": "Sangsil-ui Jib",
+                                "thumbnail_url": "/assets/images/sh/covers/14414.png"
+                            },
+                            {
+                                "url": "3613222922",
+                                "title": "Watashi no Touchika",
+                                "thumbnail_url": "/assets/images/sh/covers/14413.png"
+                            },
+                            {
+                                "url": "4048980015",
+                                "title": "Bai Niao Gu",
+                                "thumbnail_url": "/assets/images/sh/covers/14412.png"
+                            },
+                            {
+                                "url": "2107109647",
+                                "title": "Ano Chi",
+                                "thumbnail_url": "/assets/images/sh/covers/14411.png"
+                            },
+                            {
+                                "url": "3205889481",
+                                "title": "Scripta Volant",
+                                "thumbnail_url": "/assets/images/sh/covers/14410.png"
+                            },
+                            {
+                                "url": "1553504094",
+                                "title": "I Wanna Be Your Friend",
+                                "thumbnail_url": "/assets/images/sh/covers/14409.png"
+                            },
+                            {
+                                "url": "2917783307",
+                                "title": "Pupa (Movie)",
+                                "thumbnail_url": "/assets/images/sh/covers/14408.png"
+                            },
+                            {
+                                "url": "3340983203",
+                                "title": "Shoujo Nosferatu",
+                                "thumbnail_url": "/assets/images/sh/covers/14407.png"
+                            },
+                            {
+                                "url": "3404600596",
+                                "title": "Tsukiyo &amp; Opal",
+                                "thumbnail_url": "/assets/images/sh/covers/14406.png"
+                            },
+                            {
+                                "url": "3480892819",
+                                "title": "I Think You&#039;re a Little Confused",
+                                "thumbnail_url": "/assets/images/sh/covers/14405.png"
+                            },
+                            {
+                                "url": "1583101944",
+                                "title": "Yubi wo Nusunda Onna",
+                                "thumbnail_url": "/assets/images/sh/covers/14404.png"
+                            },
+                            {
+                                "url": "3420094346",
+                                "title": "High School Mystery: Gakuen Nanafushigi",
+                                "thumbnail_url": "/assets/images/sh/covers/11227.png"
+                            },
+                            {
+                                "url": "3678194944",
+                                "title": "Wanpaku Tanteidan",
+                                "thumbnail_url": "/assets/images/sh/covers/13536.png"
+                            },
+                            {
+                                "url": "1142010657",
+                                "title": "Koha Ginjiro",
+                                "thumbnail_url": "/assets/images/sh/covers/14119.png"
+                            },
+                            {
+                                "url": "3363967587",
+                                "title": "Googuri Googuri",
+                                "thumbnail_url": "/assets/images/sh/covers/14403.png"
+                            },
+                            {
+                                "url": "1537645882",
+                                "title": "Love Live! Superstar!! 3rd Season",
+                                "thumbnail_url": "/assets/images/sh/covers/14313.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
@@ -16,19 +147,36 @@
             },
             "details": {
                 "result": {
-                    "description": "",
-                    "genre": "",
-                    "thumbnail_url": "",
+                    "url": "3121833479",
+                    "title": "Seirei Gensouki 2",
+                    "description": "Second season of Seirei Gensouki.",
+                    "genre": "Action, Adventure, Drama, Fantasy, Harem, Isekai, Reincarnation, Romance",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "/assets/images/sh/covers/14325.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "3423970348",
+                        "name": "Episode 2",
+                        "date_upload": 1728925742000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "3534996303",
+                        "name": "Episode 1",
+                        "date_upload": 1728324064000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <br />\n<b>Fatal error</b>:  Un.....",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9239-millers-girl",
+                                "title": "Miller's Girl",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/da76d39c-541e-4824-b72b-508391ea4e96.webp"
+                            },
+                            {
                                 "url": "1190-outer-banks",
                                 "title": "Outer Banks",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/474beaee-b0b4-43a0-a422-79ea2c9bd7db.webp"
@@ -300,11 +305,6 @@
                                 "url": "9243-a-quiet-place-giorno-1",
                                 "title": "A Quiet Place - Giorno 1",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1713d7f9-cd84-4703-8abd-5e83c7ac8ff2.webp"
-                            },
-                            {
-                                "url": "5669-the-bear",
-                                "title": "The Bear",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/00a47ff3-04ef-4562-b1fc-e61f65555f0b.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10183-volare",
+                                "title": "Volare",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/901a2667-942d-4477-8670-64bb660cd128.webp"
+                            },
+                            {
+                                "url": "10182-creature-grandi-e-piccole-un-veterinario-di-provincia",
+                                "title": "Creature grandi e piccole - Un veterinario di provincia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7491edce-31f4-4541-81f3-ea6dfa226114.webp"
+                            },
+                            {
+                                "url": "10181-luomo-che-venne-dalla-terra",
+                                "title": "L'uomo che venne dalla Terra",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9d4001cf-6061-4616-babf-69f2ea236259.webp"
+                            },
                             {
                                 "url": "10179-prima-ti-sposo-poi-ti-rovino",
                                 "title": "Prima ti sposo poi ti rovino",
@@ -600,21 +615,6 @@
                                 "url": "10107-vincere-insieme",
                                 "title": "Vincere insieme",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/525c82b9-bee9-4326-92b7-4cdc52476042.webp"
-                            },
-                            {
-                                "url": "10105-control",
-                                "title": "Control",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/fec40e39-2b8d-4186-8382-be33b9863b34.webp"
-                            },
-                            {
-                                "url": "10104-baby-birba-un-giorno-in-liberta",
-                                "title": "Baby Birba - Un giorno in libertà",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1d207d76-b049-4e2b-a7d1-72e27d3c75ab.webp"
-                            },
-                            {
-                                "url": "10103-stigmate",
-                                "title": "Stigmate",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/04281e30-21eb-4b19-afbd-77cfa9fb2e8f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,27 @@
             },
             "details": {
                 "result": {
-                    "url": "1190-outer-banks",
-                    "description": "Un affiatato gruppo di adolescenti scopre un segreto sepolto da tempo e scatena una serie di eventi fuori della legalità in un'avventura che non dimenticheranno.",
-                    "genre": "Dramma, Mistero, Action & Adventure",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9239-millers-girl",
+                    "description": "Cairo (Jenna Ortega), una giovane studentessa con uno spiccato talento per la scrittura, viene notata dal suo insegnante (Martin Freeman) che le assegna un progetto che coinvolgerà entrambi in un intreccio sempre più complesso. Mentre i confini si confondono e le loro vite si intrecciano, il professore e la sua protetta devono fare i conti con i loro lati più oscuri, cercando di proteggere se stessi e tutto quello che hanno di più caro.",
+                    "genre": "Dramma, Thriller, Commedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "9239",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

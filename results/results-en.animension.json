@@ -7,139 +7,8 @@
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "3269573810",
-                                "title": "Digimon Adventure 02: Diablomon no Gyakushuu",
-                                "thumbnail_url": "/assets/images/sh/covers/14428.png"
-                            },
-                            {
-                                "url": "1492113097",
-                                "title": "Blink in the Desert",
-                                "thumbnail_url": "/assets/images/sh/covers/14424.png"
-                            },
-                            {
-                                "url": "2029513998",
-                                "title": "Ningyo no Uta",
-                                "thumbnail_url": "/assets/images/sh/covers/14422.png"
-                            },
-                            {
-                                "url": "3352948618",
-                                "title": "Artiswitch Collection/2021",
-                                "thumbnail_url": "/assets/images/sh/covers/14423.png"
-                            },
-                            {
-                                "url": "3305275075",
-                                "title": "Artiswitch Collection/Ruru",
-                                "thumbnail_url": "/assets/images/sh/covers/14421.png"
-                            },
-                            {
-                                "url": "1620510887",
-                                "title": "A Brightening Life",
-                                "thumbnail_url": "/assets/images/sh/covers/14420.png"
-                            },
-                            {
-                                "url": "3257559537",
-                                "title": "Artiswitch Picture Drama",
-                                "thumbnail_url": "/assets/images/sh/covers/14419.png"
-                            },
-                            {
-                                "url": "1950080819",
-                                "title": "Zdravstvuite!",
-                                "thumbnail_url": "/assets/images/sh/covers/14418.png"
-                            },
-                            {
-                                "url": "2299642416",
-                                "title": "Tousouchuu: Great Mission",
-                                "thumbnail_url": "/assets/images/sh/covers/12422.jpg"
-                            },
-                            {
-                                "url": "3128120638",
-                                "title": "Hashire Melos (Movie)",
-                                "thumbnail_url": "/assets/images/sh/covers/14417.png"
-                            },
-                            {
-                                "url": "3573525938",
-                                "title": "Neko ni Tensei shita Ojisan",
-                                "thumbnail_url": "/assets/images/sh/covers/14331.png"
-                            },
-                            {
-                                "url": "4101654196",
-                                "title": "Houkago Shounen Hanako-kun Part 2",
-                                "thumbnail_url": "/assets/images/sh/covers/14326.png"
-                            },
-                            {
-                                "url": "3121833479",
-                                "title": "Seirei Gensouki 2",
-                                "thumbnail_url": "/assets/images/sh/covers/14325.png"
-                            },
-                            {
-                                "url": "3583633343",
-                                "title": "Natsume Yuujinchou Shichi",
-                                "thumbnail_url": "/assets/images/sh/covers/14324.png"
-                            },
-                            {
-                                "url": "1190586279",
-                                "title": "Haigakura",
-                                "thumbnail_url": "/assets/images/sh/covers/14323.png"
-                            },
-                            {
-                                "url": "3372505151",
-                                "title": "Saikyou no Shienshoku &quot;Wajutsushi&quot; de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                                "thumbnail_url": "/assets/images/sh/covers/14207.png"
-                            },
-                            {
-                                "url": "2902876168",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-                                "thumbnail_url": "/assets/images/sh/covers/14416.png"
-                            },
-                            {
-                                "url": "1131840498",
-                                "title": "Raise wa Tanin ga Ii",
-                                "thumbnail_url": "/assets/images/sh/covers/14322.png"
-                            },
-                            {
-                                "url": "3995973813",
-                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-                                "thumbnail_url": "/assets/images/sh/covers/14321.png"
-                            },
-                            {
-                                "url": "3087360955",
-                                "title": "Hoshifuru Oukoku no Nina",
-                                "thumbnail_url": "/assets/images/sh/covers/14320.png"
-                            },
-                            {
-                                "url": "3055645267",
-                                "title": "Bananya: Around the World",
-                                "thumbnail_url": "/assets/images/sh/covers/14415.png"
-                            },
-                            {
-                                "url": "2360872848",
-                                "title": "Sangsil-ui Jib",
-                                "thumbnail_url": "/assets/images/sh/covers/14414.png"
-                            },
-                            {
-                                "url": "3613222922",
-                                "title": "Watashi no Touchika",
-                                "thumbnail_url": "/assets/images/sh/covers/14413.png"
-                            },
-                            {
-                                "url": "4048980015",
-                                "title": "Bai Niao Gu",
-                                "thumbnail_url": "/assets/images/sh/covers/14412.png"
-                            },
-                            {
-                                "url": "2107109647",
-                                "title": "Ano Chi",
-                                "thumbnail_url": "/assets/images/sh/covers/14411.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
+                "passed": false
             },
             "search": {
                 "error": "java.lang.IllegalArgumentException: Element class kotlinx.serialization.json.JsonObject is not a JsonArray",
@@ -147,30 +16,19 @@
             },
             "details": {
                 "result": {
-                    "url": "3269573810",
-                    "title": "Digimon Adventure 02: Diablomon no Gyakushuu",
-                    "description": "After the events of 02, everything is finally getting back to normal. That is, until a strangely familiar icon starts showing up on computer systems around the Japan. And not just computer systems... TVs, mobile phones, video games; anything with a screen with online capabilities. And this icon seems to be looking for somone... Yagami Taichi, and Ishida Yamato, who defeated it several years before. Yes, it turns out that this jellyfish digimon is in fact Diablomon, the Virus-type Digimon that was defeated in the second movie. But this time, he's learned to make himself physical, and is sending thousands of copies of himself into the real world. Koushiro and Ken devise a plan to rid the world of the virus once and for all, but it'll take the help of all the Destined, past and present. Once again, it's a race against time to put a stop to Diablomon's plot... but even that is cloaked in shadow. Will the revival of Omegamon be enough to stop Diablomon a second time, or will the millions of copies prove enough of a power boost to shrug off the \"Digimon Champion of Justice\"? Of course, he hasn't seen the new breed of Chosen, nor the new techniques. It's a fight to the finish, with the destruction of Tokyo resting on the line.",
-                    "genre": "Adventure, Comedy, Drama, Kids, Sci-Fi",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "/assets/images/sh/covers/14428.png",
+                    "description": "",
+                    "genre": "",
+                    "thumbnail_url": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "2101939725",
-                        "name": "Episode 1",
-                        "date_upload": 1728979143000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <br />\n<b>Fatal error</b>:  Un.....",
                 "passed": false
             }
         }

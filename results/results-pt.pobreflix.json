@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/citadel-diana/",
+                                "title": "Citadel: Diana",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
+                            },
+                            {
                                 "url": "/filmes/a-forja-o-poder-da-transformacao/",
                                 "title": "A Forja – O Poder da Transformação",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/o-corvo/",
                                 "title": "O Corvo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg"
-                            },
-                            {
-                                "url": "/filmes/deadpool-wolverine/",
-                                "title": "Deadpool & Wolverine",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/citadel-diana/",
+                                "title": "Citadel: Diana",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
+                            },
                             {
                                 "url": "/series/cidade-de-deus-a-luta-nao-para/",
                                 "title": "Cidade de Deus: A Luta Não Para",
@@ -132,9 +137,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gaOb9hyCDUcbZiTYcHy7mIFmNo.jpg"
                             },
                             {
-                                "url": "/series/ninja-kamui/",
-                                "title": "Ninja Kamui",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3dl7QFrpvtu9My4L6K7KtUMP8p1.jpg"
+                                "url": "/series/citadel-diana/",
+                                "title": "Citadel: Diana",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
+                            },
+                            {
+                                "url": "/series/batalha-bilionaria-o-caso-google-earth/",
+                                "title": "Batalha Bilionária: O Caso Google Earth",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wuvs7Qk0V5h2LqXzoQE5JLC6BZO.jpg"
                             },
                             {
                                 "url": "/series/tomb-raider-a-lenda-de-lara-croft/",
@@ -275,16 +285,6 @@
                                 "url": "/series/sister-boniface-mysteries/",
                                 "title": "Sister Boniface Mysteries",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/kSIPIFoIUCUOMwoAs9kiuwCz1Ju.jpg"
-                            },
-                            {
-                                "url": "/series/star-wars-aventuras-dos-jovens-jedi/",
-                                "title": "Star Wars: Aventuras dos Jovens Jedi",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nNTvClgnd3FfQ45IVQkk4HLHuBN.jpg"
-                            },
-                            {
-                                "url": "/series/rick-and-morty-the-anime/",
-                                "title": "Rick and Morty: The Anime",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7D8imzmWsua7Plk5TRDX6q8M97u.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/a-forja-o-poder-da-transformacao/",
-                    "title": "A Forja – O Poder da Transformação",
-                    "description": "Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.\n\nTítulo Original: The Forge",
-                    "genre": "Drama, Família",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg",
+                    "url": "/series/citadel-diana/",
+                    "title": "Citadel: Diana",
+                    "description": "Milão, 2030: Diana Cavalieri é uma agente dupla do grupo secreto Citadel, infiltrada na Mantícora, a agência rival que destruiu a Citadel há oito anos. Presa no fronte inimigo, Diana tem a chance de deixar a agência para sempre, mas precisa decidir se confia em um aliado surpreendente: o herdeiro da Mantícora Itália, Edo Zani.\n\nTítulo Original: Citadel: Diana\nTemporadas: 1\nEpisódios: 6",
+                    "genre": "Action & Adventure, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,9 +466,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/a-forja-o-poder-da-transformacao/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodes/citadel-diana-1x6/",
+                        "name": "Temporada 1 x 6 - Júpiter",
+                        "date_upload": 1728518400000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episodes/citadel-diana-1x5/",
+                        "name": "Temporada 1 x 5 - Ataque",
+                        "date_upload": 1728518400000,
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true

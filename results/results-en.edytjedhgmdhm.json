@@ -3,88 +3,28 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/asiandrama/",
-                                "title": "asiandrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/kdrama/",
-                                "title": "kdrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/misc/",
-                                "title": "misc/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/movies/",
-                                "title": "movies/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/README/",
-                                "title": "README/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/",
-                                "title": "tvs/",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/asiandrama/",
-                    "title": "asiandrama/",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asiandrama/A.Date.With.the.Future.2023%20S01.1080p.VIKI.WEB-DL%20AAC%20x264%20-%20ANDY/A.Date.With.the.Future.2023.S01E36.1080p%20VIKI.WEB-DL%20AAC%20x264%20-%20ANDY.mp4",
-                        "name": "A.Date.With.the.Future.2023.S01E36.1080p VIKI.WEB-DL AAC x264 - ANDY",
-                        "date_upload": -1,
-                        "episode_number": 36.0,
-                        "scanlator": "846.51 MB • /"
-                    },
-                    {
-                        "url": "/asiandrama/A.Date.With.the.Future.2023%20S01.1080p.VIKI.WEB-DL%20AAC%20x264%20-%20ANDY/A.Date.With.the.Future.2023.S01E35.1080p%20VIKI.WEB-DL%20AAC%20x264%20-%20ANDY.mp4",
-                        "name": "A.Date.With.the.Future.2023.S01E35.1080p VIKI.WEB-DL AAC x264 - ANDY",
-                        "date_upload": -1,
-                        "episode_number": 35.0,
-                        "scanlator": "929.69 MB • /"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/A.Date.With.the.Future.2023%20S01.1080p.VIKI.WEB-DL%20AAC%20x264%20-%20ANDY/A.Date.With.the.Future.2023.S01E36.1080p%20VIKI.WEB-DL%20AAC%20x264%20-%20ANDY.mp4",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/A.Date.With.the.Future.2023%20S01.1080p.VIKI.WEB-DL%20AAC%20x264%20-%20ANDY/A.Date.With.the.Future.2023.S01E36.1080p%20VIKI.WEB-DL%20AAC%20x264%20-%20ANDY.mp4"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
                     }
                 ],
                 "passed": true

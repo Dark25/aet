@@ -3,27 +3,27 @@
         "name": "AnimeVostFr (FR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: animevostfr.tv: Name or service not known",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: animevostfr.tv",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: animevostfr.tv",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: animevostfr.tv",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: animevostfr.tv",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: animevostfr.tv",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             }
         }

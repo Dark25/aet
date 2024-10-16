@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/blood-for-dust/",
+                                "title": "Blood for Dust",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tRlyd5ArRx93tb3adpItt0ukmBb.jpg"
+                            },
+                            {
+                                "url": "/movies/big-boys-dont-cry/",
+                                "title": "Big Boys Don’t Cry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wQ3kWmfE4DqfxnYqexebuIiVAb3.jpg"
+                            },
+                            {
+                                "url": "/movies/weekend-in-taipei/",
+                                "title": "Weekend in Taipei",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg"
+                            },
+                            {
+                                "url": "/movies/terrifier-3/",
+                                "title": "Terrifier 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5eECVdOWwbsUARVxLA7ENyBYx3H.jpg"
+                            },
+                            {
+                                "url": "/movies/buying-time/",
+                                "title": "Buying Time",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cr9Oz8UHhaI29zppwSPW4GJDInq.jpg"
+                            },
+                            {
+                                "url": "/movies/fatal-fury-2-la-nueva-batalla/",
+                                "title": "Fatal Fury 2: La nueva batalla",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuL7S7km0MShxUIb4nztjuVrNzM.jpg"
+                            },
+                            {
                                 "url": "/movies/megalopolis/",
                                 "title": "Megalópolis",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/6jW627n4kOQnAZCa24bbOd1S0CF.jpg"
@@ -75,36 +105,6 @@
                                 "url": "/movies/oscuridad-total/",
                                 "title": "Oscuridad total",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/lt3Adgt3msKnZNPSLZe1UVtTrYr.jpg"
-                            },
-                            {
-                                "url": "/movies/superman-batman-apocalipsis/",
-                                "title": "Superman/Batman: Apocalipsis",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jOFiLDC1fcRHDq5WSgt2zKAjTfh.jpg"
-                            },
-                            {
-                                "url": "/movies/superman-vs-la-elite/",
-                                "title": "Superman vs. La Élite",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8uAe1Zb8kMQOaRnCmXaoaAyGwNN.jpg"
-                            },
-                            {
-                                "url": "/movies/lady-bird/",
-                                "title": "Lady Bird",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kfst6DxzGXbdibQPawxQSSuDh09.jpg"
-                            },
-                            {
-                                "url": "/movies/el-rey-del-barrio/",
-                                "title": "El rey del barrio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6QG3MG4HkOrJPJFtIlwL6NLhVOS.jpg"
-                            },
-                            {
-                                "url": "/movies/el-hoyo-2/",
-                                "title": "El hoyo 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3awoWMKDfTROjGB2vivky1TCSRd.jpg"
-                            },
-                            {
-                                "url": "/movies/project-silence/",
-                                "title": "Project Silence",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7eYasyaCvfJRHdnYl24jqPhf9y0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,13 +224,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/megalopolis/",
-                    "title": "Megalópolis",
-                    "artist": "Adam Driver",
-                    "author": "Akshay Bhatia",
-                    "description": "Una fábula épica romana ambientada en una América moderna imaginada. La ciudad de Nueva Roma debe cambiar, lo que provoca un conflicto entre César Catilina, un genio artista que busca saltar hacia un futuro utópico e idealista, y su opositor, el alcalde Franklyn Cicero, que sigue comprometido con un statu quo regresivo, perpetuando la codicia, los intereses particulares y la guerra partidista. Dividida entre ellos está la socialité Julia Cicero, la hija del alcalde, cuyo amor por César ha dividido su lealtad, obligándola a descubrir lo que realmente cree que la humanidad merece.",
-                    "genre": "Ciencia ficción, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/6jW627n4kOQnAZCa24bbOd1S0CF.jpg",
+                    "url": "/movies/blood-for-dust/",
+                    "title": "Blood for Dust",
+                    "artist": "Algin Mendez",
+                    "author": "Jeff Weiss",
+                    "description": "",
+                    "genre": "Acción, Crimen, Suspense",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/tRlyd5ArRx93tb3adpItt0ukmBb.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -238,7 +238,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/megalopolis/",
+                        "url": "/movies/blood-for-dust/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -248,52 +248,50 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://in1rhjc5cqhz.pradoi.com/hls2/01/05007/l2dibfylphfn_n/index-v1-a1.m3u8?t=WjiC_fJXZmF-dyUo5h-mdMlU1_qRFgUn6NbH-4z7IJA&s=1729015591&e=129600&f=25036178&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "[LAT] - StreamWish - 720p",
-                        "videoUrl": "https://in1rhjc5cqhz.pradoi.com/hls2/01/05007/l2dibfylphfn_n/index-v1-a1.m3u8?t=WjiC_fJXZmF-dyUo5h-mdMlU1_qRFgUn6NbH-4z7IJA&s=1729015591&e=129600&f=25036178&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/7jll1rkhersl"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-bblg4zqntferbrxf.voe-network.net/engine/hls2-c/01/12310/3jnc9dr3puqc_,n,.urlset/index-v1-a1.m3u8?t=LDf5XDT9EClFNAsKbmNL6cBHdVwAa75sMzkk_buI_gM&s=1729015589&e=14400&f=61554263&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "quality": "[LAT] - Voe:720p",
-                        "videoUrl": "https://delivery-node-bblg4zqntferbrxf.voe-network.net/engine/hls2-c/01/12310/3jnc9dr3puqc_,n,.urlset/index-v1-a1.m3u8?t=LDf5XDT9EClFNAsKbmNL6cBHdVwAa75sMzkk_buI_gM&s=1729015589&e=14400&f=61554263&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=W9rjQAKeP2tbzAj&expires=1729085586&ip=G0WsDRONKxSHDN&token=N23RXY7CoGsL",
-                        "quality": "[LAT] - StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=W9rjQAKeP2tbzAj&expires=1729085586&ip=G0WsDRONKxSHDN&token=N23RXY7CoGsL"
-                    },
-                    {
-                        "url": "https://cukooifnwbux.pradoi.com/hls2/01/04993/qr8009c7ibm8_n/index-v1-a1.m3u8?t=gE_zsot8jJAIAiJr0fuP4wLuF65iSt1l65IWWF59PKQ&s=1729015598&e=129600&f=24968071&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/05139/71778ib65t7o_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ipHDufkPHjzrWaq5Qvfrw5qyAB73W3Ry18VP8DxOJFg&s=1729037834&e=129600&f=25697767&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=8075",
                         "quality": "[SUB] - StreamWish - 720p",
-                        "videoUrl": "https://cukooifnwbux.pradoi.com/hls2/01/04993/qr8009c7ibm8_n/index-v1-a1.m3u8?t=gE_zsot8jJAIAiJr0fuP4wLuF65iSt1l65IWWF59PKQ&s=1729015598&e=129600&f=24968071&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/05139/71778ib65t7o_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ipHDufkPHjzrWaq5Qvfrw5qyAB73W3Ry18VP8DxOJFg&s=1729037834&e=129600&f=25697767&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/qr8009c7ibm8"
+                            "Referer": "https://streamwish.to/e/71778ib65t7o"
                         }
                     },
                     {
-                        "url": "https://delivery-node-1cehjsfyuymyerpp.voe-network.net/engine/hls2/01/12295/dxyehcsxnzam_,n,.urlset/index-v1-a1.m3u8?t=4vMSmXE16WaGVb7__c87ne1cwPN1wVk2vdv2bOGWS-k&s=1729015596&e=14400&f=61928890&node=delivery-node-1cehjsfyuymyerpp.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "url": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/05139/71778ib65t7o_,l,n,.urlset/index-f1-v1-a1.m3u8?t=ipHDufkPHjzrWaq5Qvfrw5qyAB73W3Ry18VP8DxOJFg&s=1729037834&e=129600&f=25697767&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=8075",
+                        "quality": "[SUB] - StreamWish - 480p",
+                        "videoUrl": "https://zvlxl7gx8yinf.pradoi.com/hls2/01/05139/71778ib65t7o_,l,n,.urlset/index-f1-v1-a1.m3u8?t=ipHDufkPHjzrWaq5Qvfrw5qyAB73W3Ry18VP8DxOJFg&s=1729037834&e=129600&f=25697767&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/71778ib65t7o"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-3ry6sts5spvwdjqw.voe-network.net/engine/hls2-c/01/12441/g5hc3nifcqt1_,n,.urlset/index-v1-a1.m3u8?t=jmBT6vwiMBzLM6KHxl8oYPA07eEHsBcERttqJCkP3Vo&s=1729037832&e=14400&f=62336121&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=52.225&sp=2500&asn=8075",
                         "quality": "[SUB] - Voe:720p",
-                        "videoUrl": "https://delivery-node-1cehjsfyuymyerpp.voe-network.net/engine/hls2/01/12295/dxyehcsxnzam_,n,.urlset/index-v1-a1.m3u8?t=4vMSmXE16WaGVb7__c87ne1cwPN1wVk2vdv2bOGWS-k&s=1729015596&e=14400&f=61928890&node=delivery-node-1cehjsfyuymyerpp.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-3ry6sts5spvwdjqw.voe-network.net/engine/hls2-c/01/12441/g5hc3nifcqt1_,n,.urlset/index-v1-a1.m3u8?t=jmBT6vwiMBzLM6KHxl8oYPA07eEHsBcERttqJCkP3Vo&s=1729037832&e=14400&f=62336121&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=52.225&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=YG2ORAdJW6cvW2d&expires=1729085593&ip=G0WsDRONKxSHDN&token=MewxaNDbgIUZ",
+                        "url": "https://bSTU47poYptHZAY.hgagecdn.com/hls2/01/02403/het1fa1oamdy_,l,n,.urlset/master.m3u8?t=D9lg5gLtVPCkq7bIlrCeCLR6ItqmYrs2ssAedXlBK7s&s=1729037822&e=129600&f=12017366&srv=JhH7vextFg8R&i=0.4&sp=500&p1=JhH7vextFg8R&p2=JhH7vextFg8R&asn=8075",
+                        "quality": "[SUB] - VidHide: Video ",
+                        "videoUrl": "https://bSTU47poYptHZAY.hgagecdn.com/hls2/01/02403/het1fa1oamdy_,l,n,.urlset/master.m3u8?t=D9lg5gLtVPCkq7bIlrCeCLR6ItqmYrs2ssAedXlBK7s&s=1729037822&e=129600&f=12017366&srv=JhH7vextFg8R&i=0.4&sp=500&p1=JhH7vextFg8R&p2=JhH7vextFg8R&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhidepro.com",
+                            "Referer": "https://vidhidepro.com/v/9vlu6y5bjo6s"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Xr9AldXvyvhDlaW&expires=1729107828&ip=G0WsDRSOKxSHDN&token=jB6bHvri1NqN",
                         "quality": "[SUB] - StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YG2ORAdJW6cvW2d&expires=1729085593&ip=G0WsDRONKxSHDN&token=MewxaNDbgIUZ"
+                        "videoUrl": "https://streamtape.com/get_video?id=Xr9AldXvyvhDlaW&expires=1729107828&ip=G0WsDRSOKxSHDN&token=jB6bHvri1NqN"
                     }
                 ],
                 "passed": true

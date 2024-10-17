@@ -3,49 +3,8 @@
         "name": "Megaflix (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/filme/assistir-divertida-mente-2-dublado-online/",
-                                "title": "Divertida Mente 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg"
-                            },
-                            {
-                                "url": "/filme/twisters-2024-assistir-online/",
-                                "title": "Twisters",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
-                            },
-                            {
-                                "url": "/filme/maxxxine-2024-assistir-online/",
-                                "title": "MaXXXine",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dmi277uSdCavkSLTVNBUMlyDYy0.jpg"
-                            },
-                            {
-                                "url": "/filme/planeta-dos-macacos-o-reinado-2024-assistir-online/",
-                                "title": "Planeta dos Macacos: O Reinado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg"
-                            },
-                            {
-                                "url": "/filme/deadpool-wolverine-2024-assistir-online/",
-                                "title": "Deadpool & Wolverine",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg"
-                            },
-                            {
-                                "url": "/filme/bad-boys-ate-o-fim-2024-assistir-online/",
-                                "title": "Bad Boys: Até o Fim",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ak6VZDHms5T4p0eFISk336kqjR6.jpg"
-                            },
-                            {
-                                "url": "/filme/assistir-os-observadores-dublado-online/",
-                                "title": "Os Observadores",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -349,11 +308,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filme/assistir-divertida-mente-2-dublado-online/",
-                    "title": "Divertida Mente 2",
-                    "description": "Assistir Divertida Mente 2 Online Grátis \"Divertida Mente 2\", da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.",
-                    "genre": "Animação, Aventura, Comédia, Família",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg",
+                    "url": "/serie/pedaco-de-mim-2024-assistir-online/",
+                    "title": "Pedaço de Mim",
+                    "description": "Assistir Pedaço de Mim Online Grátis Um fenômeno raro faz com que uma mulher fique grávida de gêmeos de dois pais diferentes. Agora, ela luta para esconder segredos e manter a família unida.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/Aq4KxyW69Vw0EK7lmNFI2jlb6Mm.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -361,9 +320,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filme/assistir-divertida-mente-2-dublado-online/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodio/pedaco-de-mim-1x17/",
+                        "name": "Pedaço de Mim 1x17",
+                        "episode_number": 17.0
+                    },
+                    {
+                        "url": "/episodio/pedaco-de-mim-1x16/",
+                        "name": "Pedaço de Mim 1x16",
+                        "episode_number": 16.0
                     }
                 ],
                 "passed": true

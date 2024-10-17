@@ -435,23 +435,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/CKqJxil_vrITRgaNhktCjmPnXtJuIg6oDK_Txvmfh48eJxFPc",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/4BqW54UNyIERZk9EJORPqeUCPc29aAzFGUI31_HegEQeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/4BqW54UNyIERZk9EJORPqeUCPc29aAzFGUI31_HegEQeJxFPc"
+                    },
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/E2b5gCP2TeEi3i0rF7f-5FGWur-m75ZAPlzBTAc1vOseJxFPc",
                         "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/CKqJxil_vrITRgaNhktCjmPnXtJuIg6oDK_Txvmfh48eJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/E2b5gCP2TeEi3i0rF7f-5FGWur-m75ZAPlzBTAc1vOseJxFPc"
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a20241017e5PdoU0gOQd/kimetsu 26.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a20241017e5PdoU0gOQd/kimetsu 26.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
                     },
                     {
                         "url": "https://srv4.fireload.com/01aa34c5e6aa11c7/kimetsu_26.mp4?download_token=8d6b1df2857c6ec460f06305b2576906b1e08ae3f7601ec78ce5f2e24f3de0a5&fl=true",
                         "quality": "FireLoad",
                         "videoUrl": "https://srv4.fireload.com/01aa34c5e6aa11c7/kimetsu_26.mp4?download_token=8d6b1df2857c6ec460f06305b2576906b1e08ae3f7601ec78ce5f2e24f3de0a5&fl=true"
-                    },
-                    {
-                        "url": "https://cdn.burstcloud.co/a20241016OISS7Wk4lcG/kimetsu 26.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20241016OISS7Wk4lcG/kimetsu 26.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.burstcloud.co"
-                        }
                     }
                 ],
                 "passed": true

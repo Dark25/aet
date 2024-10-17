@@ -748,11 +748,24 @@
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hanime.tv/api/v8/video?id=2604",
+                        "name": "Episode 2",
+                        "date_upload": 1593650604000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "https://hanime.tv/api/v8/video?id=2583",
+                        "name": "Episode 1",
+                        "date_upload": 1591285383000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
                 "passed": false
             }
         }

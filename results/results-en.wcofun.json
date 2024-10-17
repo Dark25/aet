@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/family-guy-season-23",
+                                "title": "Family Guy Season 23",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933780.jpg"
+                            },
+                            {
                                 "url": "/anime/ark-the-animated-series",
                                 "title": "Ark: The Animated Series",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933779.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/raise-wa-tanin-ga-ii",
                                 "title": "Raise wa Tanin ga Ii",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933765.jpg"
-                            },
-                            {
-                                "url": "/anime/marblegen",
-                                "title": "Marblegen",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933764.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ark-the-animated-series",
-                    "title": "Ark: The Animated Series",
-                    "description": "Follow Survivor and protagonist Helena Walker after her initial awakening on The Island.",
-                    "genre": "Action, Adventure, Animation, Drama, Fantasy, Sci-fi, Science Fantasy, Thriller, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933779.jpg",
+                    "url": "/anime/family-guy-season-23",
+                    "title": "Family Guy Season 23",
+                    "description": "Family Guy Season 23 contains two holiday specials. One is the Family Guy: Halloween Special titled “Peter, Peter, Pumpkin Cheater,” and the other features Christmas titled “Gift of the White Guy.” This season celebrates the show’s 25th anniversary, continuing it with the usual combination of comedy, satire, and chaotic adventures.",
+                    "genre": "Animated, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933780.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/family-guy-season-23-episode-1-peter-peter-pumpkin-cheater",
+                        "name": "Season 23 - Episode 1",
+                        "episode_number": 2301.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPm4h-FY2n-wMoeroRESr473Ki71PESVsDOcBgZqKmeTd4gHpIrAjYcKNgRbqePplEPau1RxACp7cbqiq49cg-8GXzsr0fPDdmEmp2D47XWrs1IKX0VEyt9V6kzkyaEZpJzuf9AeYva8j29bQlLobBSLfApJqynOrbXiCd8EOFptRHirkeU_6ojMVbCIaieZZlO5a9J9Ujhs-jGSgPi-4603xq34OhBYVo5nqEt393TyGacnUXQdYWFx0bVj3oajZssmkjOBFogEIsDugPSJk2uUJOif6VeRFNnmsLeog4knmDk3tJ4YltGulMo2w8r79PtsV9rtMrI1urD4dPHty1oYQPR0GMkCJlvvkB6_rdZ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPm4h-FY2n-wMoeroRESr473Ki71PESVsDOcBgZqKmeTd4gHpIrAjYcKNgRbqePplEPau1RxACp7cbqiq49cg-8GXzsr0fPDdmEmp2D47XWrs1IKX0VEyt9V6kzkyaEZpJzuf9AeYva8j29bQlLobBSLfApJqynOrbXiCd8EOFptRHirkeU_6ojMVbCIaieZZlO5a9J9Ujhs-jGSgPi-4603xq34OhBYVo5nqEt393TyGacnUXQdYWFx0bVj3oajZssmkjOBFogEIsDugPSJk2uUJOif6VeRFNnmsLeog4knmDk3tJ4YltGulMo2w8r79PtsV9rtMrI1urD4dPHty1oYQPR0GMkCJlvvkB6_rdZ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPm4h-FY2n-wMoeroRESr473Ki71PESVsDOcBgZqKmeTd4gHpIrAjYcKNgRbqePplEPau1RxACp7cbqiq49cg8feBuCYaJ95ekckACjw7eipTdt9Wpj5FUi-cBRpFROf2FinWOXCZEZMmHrTRVPQ3anSN2nYH45bb_RtIWpdFzQn9Y-Y65RCBwNBn-VMN-nLJgqKI-n7vgwaGWyxxaqqTBFdoZo-RMOITYZL6k-1awdpZ3fyaTyf32CC6DeX3oFCJLnZoyfOcdzPwHNmkskk306ONE2DiVLyeaDhhE35ug45JS1GS1Uds6dK9YH1DxneaWkZsse_cdSGBZaGDsA3v9c9i7_DOHvmEXX_Fj0wrds",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPm4h-FY2n-wMoeroRESr473Ki71PESVsDOcBgZqKmeTd4gHpIrAjYcKNgRbqePplEPau1RxACp7cbqiq49cg8feBuCYaJ95ekckACjw7eipTdt9Wpj5FUi-cBRpFROf2FinWOXCZEZMmHrTRVPQ3anSN2nYH45bb_RtIWpdFzQn9Y-Y65RCBwNBn-VMN-nLJgqKI-n7vgwaGWyxxaqqTBFdoZo-RMOITYZL6k-1awdpZ3fyaTyf32CC6DeX3oFCJLnZoyfOcdzPwHNmkskk306ONE2DiVLyeaDhhE35ug45JS1GS1Uds6dK9YH1DxneaWkZsse_cdSGBZaGDsA3v9c9i7_DOHvmEXX_Fj0wrds"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPm4h-FY2n-wMoeroRESr473Ki71PESVsDOcBgZqKmeTd4gHpIrAjYcKNgRbqePplEPau1RxACp7cbqiq49cg_BDQ_q6YxQHvNiQKH-iHsyTZu0x3B-71OIwxf2FKOTDYhqrY_YDXYBLCbWl-4AQZY4gAN-owrnrX3LtTCLqIFZu3_KX6FiJuQYVty4NhkZZuwQF4G9rhL3TIQ1kc0Jt7uPpl2BQEm9OABUNcDaON4rUnCSNs_ynOE4C4wIkZnMutu34JOiGacnqyNu0xH-mv1O9J_Kg4rqBSFQNXt2k8kT54UjiWSH353_GMwDqzKZJe9KXfgrANekjzcJyJU5xMcPjTE3rQKuIZJjq2uBuA01",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPm4h-FY2n-wMoeroRESr473Ki71PESVsDOcBgZqKmeTd4gHpIrAjYcKNgRbqePplEPau1RxACp7cbqiq49cg_BDQ_q6YxQHvNiQKH-iHsyTZu0x3B-71OIwxf2FKOTDYhqrY_YDXYBLCbWl-4AQZY4gAN-owrnrX3LtTCLqIFZu3_KX6FiJuQYVty4NhkZZuwQF4G9rhL3TIQ1kc0Jt7uPpl2BQEm9OABUNcDaON4rUnCSNs_ynOE4C4wIkZnMutu34JOiGacnqyNu0xH-mv1O9J_Kg4rqBSFQNXt2k8kT54UjiWSH353_GMwDqzKZJe9KXfgrANekjzcJyJU5xMcPjTE3rQKuIZJjq2uBuA01"
+                    }
+                ],
+                "passed": true
             }
         }
     }

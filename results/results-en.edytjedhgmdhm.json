@@ -3,65 +3,20 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/asiandrama/",
-                                "title": "asiandrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/kdrama/",
-                                "title": "kdrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/misc/",
-                                "title": "misc/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/movies/",
-                                "title": "movies/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/README/",
-                                "title": "README/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/",
-                                "title": "tvs/",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/asiandrama/",
-                    "title": "asiandrama/",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

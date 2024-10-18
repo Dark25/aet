@@ -37,6 +37,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/2-5-jigen-no-ririsa-dublado-episodio-16/",
+                                "title": "2.5-jigen no Ririsa Dublado – Episódio 16",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/8MjgoSUScpEwCn9WWfake7ZKcaB.jpg"
+                            },
+                            {
+                                "url": "/episodio/2-5-jigen-no-ririsa-episodio-16/",
+                                "title": "2.5-jigen no Ririsa – Episódio 16",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/xbzFLrRi4LPuQg415hgYF7hIsZX.jpg"
+                            },
+                            {
                                 "url": "/episodio/another-journey-to-the-west-episodio-4/",
                                 "title": "Another Journey to the West – Episódio 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/fWwYwMcXDxsqWTCAuDFXSK6A9uk.jpg"
@@ -175,16 +185,6 @@
                                 "url": "/episodio/rekishi-ni-nokoru-akujo-ni-naru-zo-episodio-3/",
                                 "title": "Rekishi ni Nokoru Akujo ni Naru zo – Episódio 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/yeZwQrPmRCYoT0MUYsSESfuaH6S.jpg"
-                            },
-                            {
-                                "url": "/episodio/youkai-gakkou-no-sensei-hajimemashita-episodio-2/",
-                                "title": "Youkai Gakkou no Sensei Hajimemashita! – Episódio 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/69pZMhVgG8eSnDmI6wLJMX46UxN.jpg"
-                            },
-                            {
-                                "url": "/episodio/love-live-superstar-3-episodio-2/",
-                                "title": "Love Live! Superstar!! 3 – Episódio 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/8u3qna7fJySDzkEmbirFSu6pSBO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -381,8 +381,50 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb65baf4aceb/797000/797471/797471_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb65baf4aceb/797000/797471/797471_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/ebc0f1fe5b45bcf56b7e5ffb776a3feb65baf4aceb/797000/797471/797471_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://cdn.bakashi.tv/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=kvkCNQ5qr0pSd9r8PEbqeQ&ts=1729285661&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://cdn.bakashi.tv/FRVMABEaXlRVXwQO/fd676a1da61f7ed0c6a28be84221c2c7855ff3981ec20742b48004a051506919?token=kvkCNQ5qr0pSd9r8PEbqeQ&ts=1729285661&ht=video/mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://bakashi.tv"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa021050778c5/797000/797471/797471.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa021050778c5/797000/797471/797471.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/e8735a83b271c1abb3a8b9ad1d232fa021050778c5/797000/797471/797471.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ceeb73ba948d/797000/797471/797471_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ceeb73ba948d/797000/797471/797471_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/11/7ebc85441eee58f06a482f7e823ae3ceeb73ba948d/797000/797471/797471_360p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://a-delivery23.mxcontent.net/v2/rwee4xeqblk83k.mp4?s=KXKH8L7AqAdC2ap4tVxWmg&e=1729296463&_t=1729275252",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery23.mxcontent.net/v2/rwee4xeqblk83k.mp4?s=KXKH8L7AqAdC2ap4tVxWmg&e=1729296463&_t=1729275252",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

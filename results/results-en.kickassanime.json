@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/wu-chengen-ji-yao-lu-622d",
+                                "title": "Ji Yao Lu: Qicheng Pian",
+                                "thumbnail_url": "https://kaas.to/image/poster/wu-chengen-ji-yao-lu-e332-hq.webp"
+                            },
+                            {
                                 "url": "/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-9e91",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "thumbnail_url": "https://kaas.to/image/poster/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-7872-hq.webp"
@@ -310,11 +315,6 @@
                                 "url": "/arifureta-from-commonplace-to-worlds-strongest-season-3-1d8f",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
                                 "thumbnail_url": "https://kaas.to/image/poster/arifureta-from-commonplace-to-worlds-strongest-season-3-28bc-hq.webp"
-                            },
-                            {
-                                "url": "/ron-kamonohashis-forbidden-deductions-season-2-a75e",
-                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-                                "thumbnail_url": "https://kaas.to/image/poster/ron-kamonohashis-forbidden-deductions-season-2-25bc-hq.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -526,12 +526,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'e' instead at path: $\nJSON input: error code: 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/attack-on-titan-fa99/ep-25-9c6cda",
+                        "name": "Ep. 25 - The Wall - Raid on Stohess District (3)",
+                        "episode_number": 25.0,
+                        "scanlator": "Japanese"
+                    },
+                    {
+                        "url": "/attack-on-titan-fa99/ep-24-209bea",
+                        "name": "Ep. 24 - Mercy - Raid on Stohess District (2)",
+                        "episode_number": 24.0,
+                        "scanlator": "Japanese"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/master.m3u8",
+                        "quality": "VidStreaming - Video",
+                        "videoUrl": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/master.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://st1.snapmosaic.com/664e0459b97399e0e146390a/664e045b489aae39f4ea0300.vtt",
+                                "lang": "English (eng)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/girl-in-the-basement-2021-1628795716",
+                                "title": "La chica en el Sótano",
+                                "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2021/07/girl-in-the-basement-12853-poster-240x360.jpg"
+                            },
+                            {
                                 "url": "/pelicula/robot-salvaje-2024-1727791356",
                                 "title": "Robot salvaje",
                                 "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/10/sDoXpaKZmrzCSJH63zZvQQ9A7VK-240x332.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/pelicula/los-horrores-de-caddo-lake-2024-1728660550",
                                 "title": "Los Horrores de Caddo Lake",
                                 "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/10/wQSLDy6H3Wyhf7Z7TNM87y4giez-240x360.jpg"
-                            },
-                            {
-                                "url": "/pelicula/noche-sangrienta-2023-1728659211",
-                                "title": "Noche sangrienta",
-                                "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/10/6yc0Yn3VhWFXspIXs6gUKMjAi94-240x360.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -219,13 +219,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/robot-salvaje-2024-1727791356",
-                    "title": "Robot salvaje",
-                    "artist": "Alessandro Beghi",
-                    "author": "Chris Sanders",
-                    "description": "Un robot - ROZZUM unidad 7134, \"Roz\" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano. Disfruta de esta película completa, también conocida por los títulos: The Wild Robot.",
-                    "genre": "Animación, Ciencia ficción, Familia",
-                    "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2024/10/sDoXpaKZmrzCSJH63zZvQQ9A7VK-240x332.jpg",
+                    "url": "/pelicula/girl-in-the-basement-2021-1628795716",
+                    "title": "La chica en el Sótano",
+                    "artist": "Braxton Bjerken",
+                    "author": "Elisabeth Röhm",
+                    "description": "Sara es una adolescente que está deseando cumplir 18 años para alejarse de su padre controlador Don. Pero antes de que pudiera apagar las velas, Don la aprisiona en el sótano de su casa. Disfruta de esta película completa, también conocida por los títulos: Girl in the Basement. La chica del sótano.",
+                    "genre": "Crimen, Suspenso",
+                    "thumbnail_url": "https://www1.pelisforte.se/wp-content/uploads/2021/07/girl-in-the-basement-12853-poster-240x360.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,7 +233,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/robot-salvaje-2024-1727791356",
+                        "url": "/pelicula/girl-in-the-basement-2021-1628795716",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -243,47 +243,69 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/05138/xmhpa7flwd2b_,l,n,.urlset/index-f2-v1-a1.m3u8?t=HljkKkN960JYPHa_3c4F8cs7vZJG_ogQA-nBuL4Fa-U&s=1729188384&e=129600&f=25691877&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://m5qilv3g2l.pradoi.com/hls2/01/05140/nccvki7shu93_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=pgDoPyQRuzgHI4SXJd2EcHb4ECfXVzMxHG5W0WvqB7w&s=1729210587&e=129600&f=25703573&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=8075",
+                        "quality": "[LAT]StreamWish:1080p",
+                        "videoUrl": "https://m5qilv3g2l.pradoi.com/hls2/01/05140/nccvki7shu93_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=pgDoPyQRuzgHI4SXJd2EcHb4ECfXVzMxHG5W0WvqB7w&s=1729210587&e=129600&f=25703573&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/nccvki7shu93"
+                        }
+                    },
+                    {
+                        "url": "https://m5qilv3g2l.pradoi.com/hls2/01/05140/nccvki7shu93_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=pgDoPyQRuzgHI4SXJd2EcHb4ECfXVzMxHG5W0WvqB7w&s=1729210587&e=129600&f=25703573&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=8075",
                         "quality": "[LAT]StreamWish:720p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/05138/xmhpa7flwd2b_,l,n,.urlset/index-f2-v1-a1.m3u8?t=HljkKkN960JYPHa_3c4F8cs7vZJG_ogQA-nBuL4Fa-U&s=1729188384&e=129600&f=25691877&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "videoUrl": "https://m5qilv3g2l.pradoi.com/hls2/01/05140/nccvki7shu93_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=pgDoPyQRuzgHI4SXJd2EcHb4ECfXVzMxHG5W0WvqB7w&s=1729210587&e=129600&f=25703573&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/xmhpa7flwd2b"
+                            "Referer": "https://strwish.xyz/e/nccvki7shu93"
                         }
                     },
                     {
-                        "url": "https://rfognbc0mhhj.pradoi.com/hls2/01/05138/xmhpa7flwd2b_,l,n,.urlset/index-f1-v1-a1.m3u8?t=HljkKkN960JYPHa_3c4F8cs7vZJG_ogQA-nBuL4Fa-U&s=1729188384&e=129600&f=25691877&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://m5qilv3g2l.pradoi.com/hls2/01/05140/nccvki7shu93_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=pgDoPyQRuzgHI4SXJd2EcHb4ECfXVzMxHG5W0WvqB7w&s=1729210587&e=129600&f=25703573&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=8075",
                         "quality": "[LAT]StreamWish:480p",
-                        "videoUrl": "https://rfognbc0mhhj.pradoi.com/hls2/01/05138/xmhpa7flwd2b_,l,n,.urlset/index-f1-v1-a1.m3u8?t=HljkKkN960JYPHa_3c4F8cs7vZJG_ogQA-nBuL4Fa-U&s=1729188384&e=129600&f=25691877&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "videoUrl": "https://m5qilv3g2l.pradoi.com/hls2/01/05140/nccvki7shu93_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=pgDoPyQRuzgHI4SXJd2EcHb4ECfXVzMxHG5W0WvqB7w&s=1729210587&e=129600&f=25703573&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/xmhpa7flwd2b"
+                            "Referer": "https://strwish.xyz/e/nccvki7shu93"
                         }
                     },
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/05138/6tuis1193odl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fXF3j7WNfp51XJHYoOks0aShV5W7wP4lfwKg_m1b8vg&s=1729188388&e=129600&f=25692075&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
+                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/05140/4bmji7ay961g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=jhZoKggyoiO97JLSlKBWmP9rjBHirMXMs4B0PzZWLx4&s=1729210592&e=129600&f=25703621&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "quality": "[SUB]StreamWish:1080p",
+                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/05140/4bmji7ay961g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=jhZoKggyoiO97JLSlKBWmP9rjBHirMXMs4B0PzZWLx4&s=1729210592&e=129600&f=25703621&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://strwish.xyz",
+                            "Referer": "https://strwish.xyz/e/4bmji7ay961g"
+                        }
+                    },
+                    {
+                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/05140/4bmji7ay961g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=jhZoKggyoiO97JLSlKBWmP9rjBHirMXMs4B0PzZWLx4&s=1729210592&e=129600&f=25703621&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "quality": "[SUB]StreamWish:720p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/05138/6tuis1193odl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fXF3j7WNfp51XJHYoOks0aShV5W7wP4lfwKg_m1b8vg&s=1729188388&e=129600&f=25692075&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
+                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/05140/4bmji7ay961g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=jhZoKggyoiO97JLSlKBWmP9rjBHirMXMs4B0PzZWLx4&s=1729210592&e=129600&f=25703621&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/6tuis1193odl"
+                            "Referer": "https://strwish.xyz/e/4bmji7ay961g"
                         }
                     },
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/05138/6tuis1193odl_,l,n,.urlset/index-f1-v1-a1.m3u8?t=fXF3j7WNfp51XJHYoOks0aShV5W7wP4lfwKg_m1b8vg&s=1729188388&e=129600&f=25692075&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
+                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/05140/4bmji7ay961g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=jhZoKggyoiO97JLSlKBWmP9rjBHirMXMs4B0PzZWLx4&s=1729210592&e=129600&f=25703621&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "quality": "[SUB]StreamWish:480p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/05138/6tuis1193odl_,l,n,.urlset/index-f1-v1-a1.m3u8?t=fXF3j7WNfp51XJHYoOks0aShV5W7wP4lfwKg_m1b8vg&s=1729188388&e=129600&f=25692075&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
+                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/05140/4bmji7ay961g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=jhZoKggyoiO97JLSlKBWmP9rjBHirMXMs4B0PzZWLx4&s=1729210592&e=129600&f=25703621&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://strwish.xyz",
-                            "Referer": "https://strwish.xyz/e/6tuis1193odl"
+                            "Referer": "https://strwish.xyz/e/4bmji7ay961g"
                         }
                     }
                 ],

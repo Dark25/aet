@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/sin-identidad/",
+                                "title": "Sin identidad",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg"
+                            },
+                            {
+                                "url": "/movies/desaparicion-en-la-calle-7/",
+                                "title": "Desaparición en la calle 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/viAr08wTmCV40WUVFNuhOPSSFZK.jpg"
+                            },
+                            {
+                                "url": "/movies/invasion-insurreccion/",
+                                "title": "Invasión, insurrección",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg"
+                            },
+                            {
+                                "url": "/movies/magassagok-es-melysegek/",
+                                "title": "Magasságok és mélységek",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hGAcAr4IjxayTy4LqDi1QStYQZH.jpg"
+                            },
+                            {
+                                "url": "/movies/tom/",
+                                "title": "Tom",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ncrbAcWf0jwWngZJNkYPCQr67yE.jpg"
+                            },
+                            {
                                 "url": "/movies/bob-esponja-campamento-del-terror/",
                                 "title": "Bob Esponja: Campamento del Terror",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/wFlNPlxnw4B5VVXFMiILSXKsC95.jpg"
@@ -80,31 +105,6 @@
                                 "url": "/movies/500-dias-juntos/",
                                 "title": "(500) Días juntos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/xziurNdvxWZkgonZ5ZaGRB9YdLt.jpg"
-                            },
-                            {
-                                "url": "/movies/linterna-verde-primer-vuelo/",
-                                "title": "Linterna Verde: Primer vuelo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pEreGSA55Jjky2RBZsj3vgGM96U.jpg"
-                            },
-                            {
-                                "url": "/movies/cut-off/",
-                                "title": "Cut Off",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/thr9HGH7fHuSjGl9hfNXy3jvzzk.jpg"
-                            },
-                            {
-                                "url": "/movies/una-pelicula-de-policias/",
-                                "title": "Una película de policías",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cGqZ8RX1fj0YTbB963g8EACNs7z.jpg"
-                            },
-                            {
-                                "url": "/movies/wynonna-earp-vengeance/",
-                                "title": "Wynonna Earp: Vengeance",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xobQ2MsXEoKcs3OdWNvY4vdFeVy.jpg"
-                            },
-                            {
-                                "url": "/movies/perdido/",
-                                "title": "Perdido",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6CuLb9onJi4FaLpaF5zJ8i9ADQF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,13 +224,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/bob-esponja-campamento-del-terror/",
-                    "title": "Bob Esponja: Campamento del Terror",
-                    "artist": "Alexander Ward",
-                    "author": "Dave Cunningham",
-                    "description": "Mientras están en Kamp Koral para una reunión, Bob Esponja y la pandilla son acechados por una figura misteriosa que acecha en las sombras mientras los campistas comienzan a desaparecer uno por uno.",
-                    "genre": "Animación, Comedia, Familia, Película de TV, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/wFlNPlxnw4B5VVXFMiILSXKsC95.jpg",
+                    "url": "/movies/sin-identidad/",
+                    "title": "Sin identidad",
+                    "artist": "Adnan Maral",
+                    "author": "Jaume Collet-Serra",
+                    "description": "El Dr. Martin Harris (Liam Neeson) tiene un accidente de coche en Berlín. Al despertar descubre que, de repente, su mujer (January Jones) no le reconoce y que otro hombre (Aidan Quinn) ha adquirido su identidad. Las autoridades le ignoran porque no le creen y unos asesinos le persiguen. Martin se encuentra solo y cansado y se ve obligado a huir. Sin nadie a quien acudir, en un país desconocido, Martin le pide ayuda a una reticente desconocida (Diana Kruger) al sumergirse en un terrible misterio que le hará dudar de su cordura y de su identidad. ¿Hasta dónde estará dispuesto a llegar para descubrir la verdad?.",
+                    "genre": "Acción, Misterio, Suspense",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -238,7 +238,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/bob-esponja-campamento-del-terror/",
+                        "url": "/movies/sin-identidad/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -248,14 +248,52 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://0cxlaapdbebt.hgagecdn.com/hls2/01/02399/zsf44wq3clz0_h/index-v1-a1.m3u8?t=cLRNSdcQgBFUeglIcmd1BARjXgBpRIFo_hCVk5olPh0&s=1729188377&e=129600&f=11998242&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=8075",
-                        "quality": "[LAT] - VidHide: 1080p ",
-                        "videoUrl": "https://0cxlaapdbebt.hgagecdn.com/hls2/01/02399/zsf44wq3clz0_h/index-v1-a1.m3u8?t=cLRNSdcQgBFUeglIcmd1BARjXgBpRIFo_hCVk5olPh0&s=1729188377&e=129600&f=11998242&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=8075",
+                        "url": "https://r63hfpdmodtc.pradoi.com/hls2/01/03843/oup5nlr6618r_n/index-v1-a1.m3u8?t=WOEAoI90ej2ZJMa9cJkdarKXHWdwKqItAFW5Sx3kZys&s=1729210603&e=129600&f=19215787&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8075",
+                        "quality": "[LAT] - StreamWish - 240p",
+                        "videoUrl": "https://r63hfpdmodtc.pradoi.com/hls2/01/03843/oup5nlr6618r_n/index-v1-a1.m3u8?t=WOEAoI90ej2ZJMa9cJkdarKXHWdwKqItAFW5Sx3kZys&s=1729210603&e=129600&f=19215787&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/zsf44wq3clz0"
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/oup5nlr6618r"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/08671/gaib7ocevy7i_,n,.urlset/index-v1-a1.m3u8?t=nqk1bwQmBUWr7czokbVgy38YrBlA91QO7fNyyp737nQ&s=1729210602&e=14400&f=43355236&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "quality": "[LAT] - Voe:240p",
+                        "videoUrl": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/08671/gaib7ocevy7i_,n,.urlset/index-v1-a1.m3u8?t=nqk1bwQmBUWr7czokbVgy38YrBlA91QO7fNyyp737nQ&s=1729210602&e=14400&f=43355236&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://kjm2uxhl6gjm.pradoi.com/hls2/01/03843/73gw2gjetxkp_,n,h,.urlset/index-f2-v1-a1.m3u8?t=dr06vCwiQlS2IOdYhkRDL7-aKAlhQbci205fDGAjDRc&s=1729210607&e=129600&f=19215864&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[CAST] - StreamWish - 720p",
+                        "videoUrl": "https://kjm2uxhl6gjm.pradoi.com/hls2/01/03843/73gw2gjetxkp_,n,h,.urlset/index-f2-v1-a1.m3u8?t=dr06vCwiQlS2IOdYhkRDL7-aKAlhQbci205fDGAjDRc&s=1729210607&e=129600&f=19215864&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/73gw2gjetxkp"
+                        }
+                    },
+                    {
+                        "url": "https://kjm2uxhl6gjm.pradoi.com/hls2/01/03843/73gw2gjetxkp_,n,h,.urlset/index-f1-v1-a1.m3u8?t=dr06vCwiQlS2IOdYhkRDL7-aKAlhQbci205fDGAjDRc&s=1729210607&e=129600&f=19215864&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "quality": "[CAST] - StreamWish - 480p",
+                        "videoUrl": "https://kjm2uxhl6gjm.pradoi.com/hls2/01/03843/73gw2gjetxkp_,n,h,.urlset/index-f1-v1-a1.m3u8?t=dr06vCwiQlS2IOdYhkRDL7-aKAlhQbci205fDGAjDRc&s=1729210607&e=129600&f=19215864&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/73gw2gjetxkp"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-vewzuz1vtxxtj5jw.voe-network.net/engine/hls2-c/01/11343/td5p19ux1ble_,n,.urlset/index-v1-a1.m3u8?t=Ky6C0rH0r4ft0N2jU_cK6XcrYuebb37lqcYNjdtZFT8&s=1729210605&e=14400&f=56717042&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "quality": "[CAST] - Voe:720p",
+                        "videoUrl": "https://delivery-node-vewzuz1vtxxtj5jw.voe-network.net/engine/hls2-c/01/11343/td5p19ux1ble_,n,.urlset/index-v1-a1.m3u8?t=Ky6C0rH0r4ft0N2jU_cK6XcrYuebb37lqcYNjdtZFT8&s=1729210605&e=14400&f=56717042&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
                         }
                     }
                 ],

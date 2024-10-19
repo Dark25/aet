@@ -113,112 +113,20 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=67005b2e6e29451d7179ccc1",
-                    "title": "Joker 2 - Folie À Deux",
-                    "description": "Nach der eskalierten Gewaltspirale mit ihm im Zentrum ist Arthur Fleck alias Joker (Joaquin Phoenix) im Arkham State Hospital, einer psychiatrischen Anstalt für die schlimmsten Verbrecher von Gotham City, gelandet. Dort sitzt er nun seine Zeit ab, bis der Prozess gegen ihn vor Gericht eröffnet wird. Seine Anwältin (Catherine Keener) bemüht sich darum, ihren Fall rund um die vermeintlich gespaltene Persönlichkeit ihres Mandanten aufzubauen, um ihn für unzurechnungsfähig erklären zu lassen. In der Zwischenzeit bekommt Arthur wegen guter Führung die Möglichkeit, in Arkham an einem Musikprogramm teilzunehmen, wo er die rebellische Lee (Lady Gaga) kennen und lieben lernt. Während sich die beiden gemeinsam in musikalische Fantasien flüchten, motiviert sie ihn, seine Joker-Persona wieder voll und ganz nach außen zu kehren – mit verheerenden Folgen...",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=67005b2e6e29451d7179ccc1",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=QP0Q0lAAGRi0m01&expires=1729387961&ip=FROsE0MnDS9X&token=wdjLFB8WvnEi",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=QP0Q0lAAGRi0m01&expires=1729387961&ip=FROsE0MnDS9X&token=wdjLFB8WvnEi"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=GMR6odr8yqH1bPp&expires=1729387961&ip=FROsE0MnDS9X&token=-blXyOztRBJa",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=GMR6odr8yqH1bPp&expires=1729387961&ip=FROsE0MnDS9X&token=-blXyOztRBJa"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=D9oA8dZyPdtkyZg&expires=1729387961&ip=FROsE0MnDS9X&token=i75BgT2BJdkg",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=D9oA8dZyPdtkyZg&expires=1729387961&ip=FROsE0MnDS9X&token=i75BgT2BJdkg"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=jOwvq0ObbvizXpG&expires=1729387961&ip=FROsE0MnDS9X&token=MMWxl8mu6JUU",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jOwvq0ObbvizXpG&expires=1729387961&ip=FROsE0MnDS9X&token=MMWxl8mu6JUU"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=o92xY3KGyoFJ8Pl&expires=1729387961&ip=FROsE0MnDS9X&token=s9fbRzAW69c3",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=o92xY3KGyoFJ8Pl&expires=1729387961&ip=FROsE0MnDS9X&token=s9fbRzAW69c3"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=vLPrg3rRgZU41eD&expires=1729387961&ip=FROsE0MnDS9X&token=R2vNxZIlFh6j",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vLPrg3rRgZU41eD&expires=1729387961&ip=FROsE0MnDS9X&token=R2vNxZIlFh6j"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=2Dm3g3xByXIZd3d&expires=1729387960&ip=FROsE0MnDS9X&token=6Uxpp7w69eI0",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=2Dm3g3xByXIZd3d&expires=1729387960&ip=FROsE0MnDS9X&token=6Uxpp7w69eI0"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=xbKZrXqvGOckBgm&expires=1729387958&ip=FROsE0MnDS9X&token=vHR-vjhbK9oZ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xbKZrXqvGOckBgm&expires=1729387958&ip=FROsE0MnDS9X&token=vHR-vjhbK9oZ"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=xbKZrXqvGOckBgm&expires=1729387958&ip=FROsE0MnDS9X&token=vHR-vjhbK9oZ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xbKZrXqvGOckBgm&expires=1729387958&ip=FROsE0MnDS9X&token=vHR-vjhbK9oZ"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=YLV2WrlB4xcvvqA&expires=1729387958&ip=FROsE0MnDS9X&token=PfxojnTn2_00",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YLV2WrlB4xcvvqA&expires=1729387958&ip=FROsE0MnDS9X&token=PfxojnTn2_00"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=LLPdbygad6IR04j&expires=1729387955&ip=FROsE0MnDS9X&token=ena15vzK22rv",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LLPdbygad6IR04j&expires=1729387955&ip=FROsE0MnDS9X&token=ena15vzK22rv"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=A09GOwxZPLuDvq&expires=1729387951&ip=FROsE0MnDS9X&token=2xSIRsJ74Thw",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=A09GOwxZPLuDvq&expires=1729387951&ip=FROsE0MnDS9X&token=2xSIRsJ74Thw"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=mYX66kQgQ4SBkQ&expires=1729387951&ip=FROsE0MnDS9X&token=za1xFq-uDW-v",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=mYX66kQgQ4SBkQ&expires=1729387951&ip=FROsE0MnDS9X&token=za1xFq-uDW-v"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=or7W23QwbbI3OR&expires=1729387922&ip=FROsE0MnDS9X&token=EuDNvNlVaMRl",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=or7W23QwbbI3OR&expires=1729387922&ip=FROsE0MnDS9X&token=EuDNvNlVaMRl"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=6KKDoGM8MqueBA&expires=1729387922&ip=FROsE0MnDS9X&token=WxqkmDSOTmhf",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6KKDoGM8MqueBA&expires=1729387922&ip=FROsE0MnDS9X&token=WxqkmDSOTmhf"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=84l3e8Gd7pu2r2&expires=1729387921&ip=FROsE0MnDS9X&token=zmObV8YkDKjN",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=84l3e8Gd7pu2r2&expires=1729387921&ip=FROsE0MnDS9X&token=zmObV8YkDKjN"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

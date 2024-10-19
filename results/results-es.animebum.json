@@ -209,8 +209,33 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://h5m4wcqov02r.tnmr.org/hls2/03/00540/p3p4efws764t_h/index-v1-a1.m3u8?t=hvi7SOew0ABUEqu1oUvndcS4gf_gamEhup2GsXuJtU8&s=1729361141&e=43200&f=2702803&i=0.3&sp=0",
+                        "quality": "StreamHideVid - 1080p",
+                        "videoUrl": "https://h5m4wcqov02r.tnmr.org/hls2/03/00540/p3p4efws764t_h/index-v1-a1.m3u8?t=hvi7SOew0ABUEqu1oUvndcS4gf_gamEhup2GsXuJtU8&s=1729361141&e=43200&f=2702803&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://luluvdo.com",
+                            "Referer": "https://luluvdo.com/e/p3p4efws764t"
+                        }
+                    },
+                    {
+                        "url": "https://b76rg533gp.guardstorage.net/hls_3/KCFcuPsxUmYgEhKKxzIQ-mDIqYwPoqOrjjxmuhOtyiBf9GXK1ptFjvE-CJlZtIu3bwL7zqfVFhSnNI81ZowVywOWEPdYQR3gJC-HeFEvSNg9TjrSTGtiunmpTdKpYqnm0N5fkRvtTRxyOKY25m_eZuI7ApzfHEgYJuUvLU8sHy6zqLAEBWInPtBEimzLYZwCAw8qtGXt9cwbaMP4FcOTRg/index-v1-a1.m3u8?sig=QSmte2jknoEs7n0cCTna6Q&expires=1729370144",
+                        "quality": "VidGuard:1080p",
+                        "videoUrl": "https://b76rg533gp.guardstorage.net/hls_3/KCFcuPsxUmYgEhKKxzIQ-mDIqYwPoqOrjjxmuhOtyiBf9GXK1ptFjvE-CJlZtIu3bwL7zqfVFhSnNI81ZowVywOWEPdYQR3gJC-HeFEvSNg9TjrSTGtiunmpTdKpYqnm0N5fkRvtTRxyOKY25m_eZuI7ApzfHEgYJuUvLU8sHy6zqLAEBWInPtBEimzLYZwCAw8qtGXt9cwbaMP4FcOTRg/index-v1-a1.m3u8?sig=QSmte2jknoEs7n0cCTna6Q&expires=1729370144",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://redirect.gdrivecdn.work/drive/index.php?id=75A7DLgG3C3e5Qf6kgt0%2FQqE20C42xiFnLPA0xXj%2FAGfqBsL%2FTOMTwge2ugjGG%2FzjyEi26tUSOTCvTMhwnwiIgtp%2B4WsLWeVdQzeOtJs8x5CgZiSf%2FmzPTAjFvEzm7JSmqPfAYddzec2zekOzIi25zjGXOcqTbUexHodB90PeF5g%3D%3D&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://redirect.gdrivecdn.work/drive/index.php?id=75A7DLgG3C3e5Qf6kgt0%2FQqE20C42xiFnLPA0xXj%2FAGfqBsL%2FTOMTwge2ugjGG%2FzjyEi26tUSOTCvTMhwnwiIgtp%2B4WsLWeVdQzeOtJs8x5CgZiSf%2FmzPTAjFvEzm7JSmqPfAYddzec2zekOzIi25zjGXOcqTbUexHodB90PeF5g%3D%3D&ref=&sandbox=&t=&res=360"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/el-tesoro-de-cascadia/",
+                                "title": "El Tesoro De Cascadia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3IjQPJnEQ3CVJa8233I6MMGWGVP.jpg"
+                            },
+                            {
+                                "url": "/movies/alas-blancas/",
+                                "title": "Alas blancas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eYFDJtDCSPJr1w3JnzeXeOmvBNc.jpg"
+                            },
+                            {
+                                "url": "/movies/no-way-out/",
+                                "title": "No Way Out",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/445lHS7TRbyoHcm80pArYny1e1l.jpg"
+                            },
+                            {
+                                "url": "/movies/abracadaver/",
+                                "title": "Abracadaver",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/b0B1lXZcMvHUxYw9mxr0e5abBGG.jpg"
+                            },
+                            {
+                                "url": "/movies/una-aventura-en-marruecos/",
+                                "title": "Una aventura en Marruecos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pN9Vw5A3Eu868XqidnKcTdUW1Kq.jpg"
+                            },
+                            {
                                 "url": "/movies/my-hero-academia-youre-next/",
                                 "title": "My Hero Academia: You're Next",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/tyenhgr4OuwcvdgbNg5avhHG00n.jpg"
@@ -80,31 +105,6 @@
                                 "url": "/movies/megalopolis/",
                                 "title": "Megalópolis",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/6jW627n4kOQnAZCa24bbOd1S0CF.jpg"
-                            },
-                            {
-                                "url": "/movies/batman-vs-las-tortugas-ninja/",
-                                "title": "Batman vs. las Tortugas Ninja",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wgBBB3Auky610UPhWdb0hBnwQzM.jpg"
-                            },
-                            {
-                                "url": "/movies/tmnt-tortugas-ninja-jovenes-mutantes/",
-                                "title": "TMNT: Tortugas Ninja Jóvenes Mutantes",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5OaT71h9LCdzDInAVoAT2DlmQ0Y.jpg"
-                            },
-                            {
-                                "url": "/movies/las-ventajas-de-ser-un-marginado/",
-                                "title": "Las ventajas de ser un marginado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vjWqQAe4cYdzDuqO4U0kiN7qO4r.jpg"
-                            },
-                            {
-                                "url": "/movies/heroes-de-central-park/",
-                                "title": "Héroes de Central Park",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kli0m5RLz5m4MdeuNNS2VyUpWrT.jpg"
-                            },
-                            {
-                                "url": "/movies/la-bandera/",
-                                "title": "La bandera",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lq4d4Mimhao3HANVqwDfoK7wOZU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,13 +224,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/my-hero-academia-youre-next/",
-                    "title": "My Hero Academia: You're Next",
-                    "artist": "Daiki Yamashita",
-                    "author": "Shinnosuke Ito",
-                    "description": "En una sociedad en la que héroes y villanos luchan continuamente en nombre de la paz y el caos, Deku, un estudiante de U.A. High School que aspira a ser el mejor héroe posible, se enfrenta al villano que imita al héroe al que admira desde hace tiempo. ¿Podrán Deku y el resto de la clase 1-A del instituto U.A. proteger el mundo acabando con Dark Might, el hombre que pretende ser el nuevo Símbolo de la Paz?",
-                    "genre": "Acción, Animación, Aventura, Ciencia ficción",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/tyenhgr4OuwcvdgbNg5avhHG00n.jpg",
+                    "url": "/movies/el-tesoro-de-cascadia/",
+                    "title": "El Tesoro De Cascadia",
+                    "artist": "Anne Selcoe",
+                    "author": "James Temple",
+                    "description": "Creyendo que es la clave para mantener unida a su familia, una granjera adolescente se embarca en una búsqueda para encontrar un tesoro perdido hace mucho tiempo, sin darse cuenta de que su aliado más cercano en el proyecto está aliado con su principal némesis.",
+                    "genre": "Acción, Aventura, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/3IjQPJnEQ3CVJa8233I6MMGWGVP.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -238,7 +238,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/my-hero-academia-youre-next/",
+                        "url": "/movies/el-tesoro-de-cascadia/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -246,8 +246,61 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://z41g7h654h2kz.pradoi.com/hls2/01/04738/d9kiutokqd57_n/index-v1-a1.m3u8?t=nuGbm7vkFWm1JkXR58_ywlTxkF7VmquRwP_u0N8IkSs&s=1729297013&e=129600&f=24713324&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "quality": "[LAT] - StreamWish - 720p",
+                        "videoUrl": "https://z41g7h654h2kz.pradoi.com/hls2/01/04738/d9kiutokqd57_n/index-v1-a1.m3u8?t=nuGbm7vkFWm1JkXR58_ywlTxkF7VmquRwP_u0N8IkSs&s=1729297013&e=129600&f=24713324&srv=vpusxz6e9t3q&i=0.0&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/jsjgjk540hsp"
+                        }
+                    },
+                    {
+                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02299/rt01cefe4xjr_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Z_CZOzwQzYv6PmTesMouWPNm1M1x3zXyhLS9Nrhzavg&s=1729297006&e=129600&f=11498699&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "quality": "[LAT] - VidHide: 1080p ",
+                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02299/rt01cefe4xjr_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Z_CZOzwQzYv6PmTesMouWPNm1M1x3zXyhLS9Nrhzavg&s=1729297006&e=129600&f=11498699&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhidepro.com",
+                            "Referer": "https://vidhidepro.com/v/rt01cefe4xjr"
+                        }
+                    },
+                    {
+                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02299/rt01cefe4xjr_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Z_CZOzwQzYv6PmTesMouWPNm1M1x3zXyhLS9Nrhzavg&s=1729297006&e=129600&f=11498699&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "quality": "[LAT] - VidHide: 720p ",
+                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02299/rt01cefe4xjr_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Z_CZOzwQzYv6PmTesMouWPNm1M1x3zXyhLS9Nrhzavg&s=1729297006&e=129600&f=11498699&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhidepro.com",
+                            "Referer": "https://vidhidepro.com/v/rt01cefe4xjr"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/08492/dctlidaxymf9_,n,.urlset/index-v1-a1.m3u8?t=7KJfQ--XE41D4--GRhb1gFTZx3dH_S_MsenhMEjzfPk&s=1729297010&e=14400&f=42462162&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=52.157&sp=2500&asn=8075",
+                        "quality": "[LAT] - Voe:720p",
+                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/08492/dctlidaxymf9_,n,.urlset/index-v1-a1.m3u8?t=7KJfQ--XE41D4--GRhb1gFTZx3dH_S_MsenhMEjzfPk&s=1729297010&e=14400&f=42462162&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=52.157&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02299/rt01cefe4xjr_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Z_CZOzwQzYv6PmTesMouWPNm1M1x3zXyhLS9Nrhzavg&s=1729297006&e=129600&f=11498699&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "quality": "[LAT] - VidHide: 480p ",
+                        "videoUrl": "https://ue3vhghuoymj.aghe-cdn.com/hls2/01/02299/rt01cefe4xjr_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Z_CZOzwQzYv6PmTesMouWPNm1M1x3zXyhLS9Nrhzavg&s=1729297006&e=129600&f=11498699&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhidepro.com",
+                            "Referer": "https://vidhidepro.com/v/rt01cefe4xjr"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

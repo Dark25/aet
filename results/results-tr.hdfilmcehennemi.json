@@ -3,15 +3,15 @@
         "name": "HDFilmCehennemi (TR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 410",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 410",
                 "passed": false
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'result' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi.HDFilmCehennemi.SearchResponse', but it was missing at path: $",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 410",
                 "passed": false
             },
             "details": {

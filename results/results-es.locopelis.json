@@ -137,6 +137,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20495/touch-snerting.html",
+                                "title": "Touch (Snerting)",
+                                "description": "Durante varias décadas y en diferentes continentes, un hombre se embarca en un viaje emocional para encontrar a su primer amor desaparecido hace 50 años, antes de que se le acabe el tiempo....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20495.webp"
+                            },
+                            {
+                                "url": "/pelicula/20494/no-le-digas-a-mama-que-la-ninera-ha-muerto.html",
+                                "title": "No Le Digas A Mamá Q",
+                                "description": "Tanya ve cancelados sus planes de verano cuando su madre se marcha a un retiro de última hora y la anciana niñera que llega a su puerta fallece inesperadamente....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20494.webp"
+                            },
+                            {
+                                "url": "/pelicula/20493/el-pequeno-tom.html",
+                                "title": "El Pequeño Tom",
+                                "description": "Tom tiene 11 años y vive en una caravana con Joss, su joven madre. A Joss le gusta ir de fiesta y marcharse los fines de semana con los amigos, dejando a Tom solo. Tom tiene que arreglárselas solo. Para comer, va a robar a los huertos vecinos... Pero como teme ser sorprendido y enviado a la DDASS,...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20493.webp"
+                            },
+                            {
+                                "url": "/pelicula/20492/abracadaver.html",
+                                "title": "Abracadaver",
+                                "description": "Para salvar la vida de su padre, tres hermanos expertos en magia, escapismo y estafa deben robar una momia de valor incalculable de una vieja hacienda durante la fiesta de la Noche de los Muertos. El éxito significa fortuna y paz; el fracaso acarrea graves consecuencias....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20492.webp"
+                            },
+                            {
                                 "url": "/pelicula/20491/las-contrabandistas-de-guncheon.html",
                                 "title": "Las contrabandistas d",
                                 "description": "Una película policíaca de acción ambientada en los años 70 en un pequeño y tranquilo pueblo junto al mar, donde dos mujeres se ven inesperadamente atrapadas en una trama de contrabando de alto riesgo. ...",
@@ -231,30 +255,6 @@
                                 "title": "Pandemonium",
                                 "description": "Nathan se considera a sí mismo un hombre normal. Un buen día despierta en una montaña helada, sin recordar cómo ha llegado hasta allí. Conforme prosiga en su inquietante e imaginativo descenso a los infiernos, conocerá a personas que le obligarán a replantearse la percepción que tiene de sí...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20475.webp"
-                            },
-                            {
-                                "url": "/pelicula/20474/el-despertar-de-un-heroe.html",
-                                "title": "El Despertar de un H�",
-                                "description": "La película cuenta la historia de Jigong antes de convertirse en Buda. En la aldea de Yongning, al pie de la montaña Chicheng, para curar a su madre enferma durante mucho tiempo, Li Xiuyuan quiere convertirse en un héroe. A pesar de sus buenas intenciones, las cosas se ponen feas y provocan un al...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20474.webp"
-                            },
-                            {
-                                "url": "/pelicula/20473/implacable.html",
-                                "title": "Implacable",
-                                "description": "Un entrenador de secundaria, cuya hija adolescente fue asesinada, se toma la justicia por su mano al perseguir a los hombres que secuestran a uno de sus alumnos dentro de su red de tráfico de personas....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20473.webp"
-                            },
-                            {
-                                "url": "/pelicula/20472/los-horrores-de-caddo-lake.html",
-                                "title": "Los horrores de Caddo",
-                                "description": "Cuando una niña de ocho años desaparece misteriosamente en Caddo Lake, una serie de muertes y desapariciones del pasado empiezan a mezclarse, alterando para siempre la historia de una familia rota. Producida por M. Night Shyamalan....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20472.webp"
-                            },
-                            {
-                                "url": "/pelicula/20471/amber-alert.html",
-                                "title": "Amber Alert",
-                                "description": "Cuando la pasajera Jaq (Hayden Panettiere) y el conductor Shane (Tyler James Williams) reciben una alerta de secuestro de una niña en sus teléfonos móviles, pronto se dan cuenta de que están detrás de un coche que coincide con la descripción del vehículo del secuestrador. Jaq y Shane deciden ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20471.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpvoxl255x2a/ncsw3gjep2~WqMdiE1Vkc?token=faa3a98f24ktc5woxwz3px7v&expiry=1729361143368",
-                        "quality": "DoodStreamDoodstream  mirror",
-                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpvoxl255x2a/ncsw3gjep2~WqMdiE1Vkc?token=faa3a98f24ktc5woxwz3px7v&expiry=1729361143368",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

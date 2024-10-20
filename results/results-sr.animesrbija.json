@@ -1,8 +1,12 @@
 [
     {
-        "name": "HDS (FR)",
+        "name": "Anime Srbija (SR)",
         "results": {
             "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mayo-chiki/",
+                                "title": "Mayo Chiki!",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.21_12h59m53s_002_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/ao-no-miburo/",
                                 "title": "Ao no Miburo",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx169258-kj8qoomfAKsB-215x300.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/shi-cao-lao-long-bei-guan-yi-e-long-zhi-ming-2nd-season/",
                                 "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.02_20h41m39s_006_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/shin-tennis-no-oujisama-u-17-world-cup-semifinal/",
-                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.02_19h42m23s_004_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -364,48 +364,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ao-no-miburo/",
-                    "title": "Ao no Miburo",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nتدور أحداث القصة في عام 1863، حيث تغرب شمس الشوغونية، وتقف اليابان على أعتاب تغيير هائل، وتغرق شوارع العاصمة الوطنية في الدماء، حيث مهدت الاضطرابات السياسية والتوترات المتزايدة بين الرونين المتجولين عديمي السيادة والساموراي الحكوميين الطريق لأحد أكثر الأوقات اضطرابًا في تاريخ اليابان، واليتيم الشاب نيو ليس غريبًا على الحقائق القاسية في العالم، ومع ذلك لا يسعه إلا التمسك بشغفه المتقد بالعدالة ورغبته في تغيير العالم للأفضل",
-                    "genre": "أكشن, تاريخي, ساموراي, شونين, TV, يعرض الان, خريف 2024",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx169258-kj8qoomfAKsB.jpg",
+                    "url": "/anime/mayo-chiki/",
+                    "title": "Mayo Chiki!",
+                    "description": "النوع: TV\nبداية العرض: 2011\nحالة الأنمي: مكتمل\nعدد الحلقات: 13\nمدة الحلقة: 24 دقيقة\nالموسم: صيف 2011\nالمصدر: رواية\n\nقصة انمي Mayo Chiki! تدور حول شخصية (كونوي سوبارو) 17 عاما يعمل كبير خدم لدى عائلة (سوزوتسكي)و بالتحديد كبير خدم لأبنه الأسرة (سوزوتسكي كانادا)في المدرسة،وبالأخير أصبحت زميلة ل (ساكاماتشي كينجيرو)،بسبب حادثة ساكاماتشي،ساكاماتشي اكتشف سر سوبارو بأنها في الحقيقة فتاة و اذا اكتشفوا الاشخاص انها فتاة ستطرد من منصبها ك كبيرة خدم و من هنا تبدا الاحداث..",
+                    "genre": "كوميدي, رومانسي, إيتشي, حريم, مدرسي, TV, مكتمل, صيف 2011",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.21_12h59m53s_002_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/ao-no-miburo-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m170.uqload.ws/3rfk4am34jw2q4drdkp7v4htbh42zh3awvhmdxni6eb7whz2mwjcqbawy7zq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m170.uqload.ws/3rfk4am34jw2q4drdkp7v4htbh42zh3awvhmdxni6eb7whz2mwjcqbawy7zq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkx5yh4jz3b4quuoowreepirckioaunjtw6basbklbw3oz7f4e4x4hb7ucaolkks24g5pwoy/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx5yh4jz3b4quuoowreepirckioaunjtw6basbklbw3oz7f4e4x4hb7ucaolkks24g5pwoy/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

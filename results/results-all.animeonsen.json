@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "Me75uyTdwaQxvur9",
+                                "title": "Blue Lock: Episode Nagi",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Me75uyTdwaQxvur9"
+                            },
+                            {
+                                "url": "Rd95I8RpQfVMzDcK",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Rd95I8RpQfVMzDcK"
+                            },
+                            {
                                 "url": "IbAhbaQgxEX9BgJV",
                                 "title": "MF Ghost 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV"
@@ -95,16 +105,6 @@
                                 "url": "0edNjmSOcX1plSET",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0edNjmSOcX1plSET"
-                            },
-                            {
-                                "url": "I1F0mNSOCo8lO292",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
-                            },
-                            {
-                                "url": "qFuAbF5FXAbLuiA9",
-                                "title": "Wu Chengen Ji Yao Lu: Qicheng Pian",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qFuAbF5FXAbLuiA9"
                             }
                         ],
                         "hasNextPage": true
@@ -319,14 +319,14 @@
             },
             "details": {
                 "result": {
-                    "url": "IbAhbaQgxEX9BgJV",
-                    "title": "MF Ghost 2nd Season",
-                    "author": "Felix Film",
-                    "description": "Second season of MF Ghost.",
-                    "genre": "Racing, Seinen",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV",
+                    "url": "Me75uyTdwaQxvur9",
+                    "title": "Blue Lock: Episode Nagi",
+                    "author": "8bit",
+                    "description": "A spin-off of Blue Lock focusing on Seishirou Nagi.",
+                    "genre": "Shounen, Sports, Team Sports",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Me75uyTdwaQxvur9",
                     "initialized": true
                 },
                 "passed": true
@@ -334,14 +334,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "IbAhbaQgxEX9BgJV/video/3",
-                        "name": "Episode 3: The Relay Straight Yin-Yang",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "IbAhbaQgxEX9BgJV/video/2",
-                        "name": "Episode 2: The 4x4 Attack",
-                        "episode_number": 2.0
+                        "url": "Me75uyTdwaQxvur9/video/1",
+                        "name": "Episode 1: Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -349,41 +344,49 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/IbAhbaQgxEX9BgJV/3/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/Me75uyTdwaQxvur9/1/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/IbAhbaQgxEX9BgJV/3/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/Me75uyTdwaQxvur9/1/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/en-US/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/en-US/1",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/ru-RU/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/ru-RU/1",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/pt-BR/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/pt-PT/1",
+                                "lang": "Português"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/pt-BR/1",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/it-IT/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/it-IT/1",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/fr-FR/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/fr-FR/1",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/de-DE/3",
-                                "lang": "Deutsch"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/es-LA/1",
+                                "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/ar-ME/3",
-                                "lang": "العربية"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/es-ES/1",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/Me75uyTdwaQxvur9/de-DE/1",
+                                "lang": "Deutsch"
                             }
                         ]
                     }

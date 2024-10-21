@@ -197,6 +197,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/69d7830b-0558-4aca-ab87-6e94cc1a9399.webp"
                             },
                             {
+                                "url": "5846-tell-me-lies",
+                                "title": "Tell Me Lies",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/73af216a-ca67-4dc9-9434-b0d099fa4335.webp"
+                            },
+                            {
                                 "url": "4835-slow-horses",
                                 "title": "Slow Horses",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5cad3061-0b50-4c78-a783-26f5474b932b.webp"
@@ -300,11 +305,6 @@
                                 "url": "9495-arthur-the-king-insieme-a-ogni-costo",
                                 "title": "Arthur The King: Insieme a ogni costo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2a71827d-98b2-4f72-8356-0b833de8357d.webp"
-                            },
-                            {
-                                "url": "101-the-umbrella-academy",
-                                "title": "The Umbrella Academy",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4addea7b-3fb1-48df-85cb-326a58c6914f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10251-quel-pomeriggio-di-un-giorno-da-cani",
+                                "title": "Quel pomeriggio di un giorno da cani",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3dfbc26f-5f07-484e-a393-ac705b195871.webp"
+                            },
                             {
                                 "url": "10250-preacher",
                                 "title": "Preacher",
@@ -610,11 +615,6 @@
                                 "url": "10150-due-vite-parallele",
                                 "title": "Due vite parallele",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b115d86e-2a55-48a9-a15c-c66c3e993779.webp"
-                            },
-                            {
-                                "url": "10149-lonely-planet",
-                                "title": "Lonely Planet",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/15f9fd2b-325f-478d-b5fb-fa6ea5decbfd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n    at ProgressController.run (/tmp/playwright-java-6734230559649690505/package/lib/server/progress.js:87:26)\n    at Frame.goto (/tmp/playwright-java-6734230559649690505/package/lib/server/frames.js:517:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-6734230559649690505/package/lib/server/dispatchers/frameDispatcher.js:81:119)\n    at FrameDispatcher._handleCommand (/tmp/playwright-java-6734230559649690505/package/lib/server/dispatchers/dispatcher.js:94:40)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-6734230559649690505/package/lib/server/dispatchers/dispatcher.js:362:39)\n}\nCall log:\n- navigating to \"https://streamingcommunity.computer/titles/8582-jurassic-world-teoria-del-caos/stagione-2\", waiting until \"load\"\n",
                 "passed": false
             },
             "videos": {

@@ -3,11 +3,11 @@
         "name": "AnimeFlix (EN)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: animeflix.mobi: Name or service not known",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: animeflix.mobi",
+                "error": "java.net.UnknownHostException: animeflix.mobi: Name or service not known",
                 "passed": false
             },
             "search": {

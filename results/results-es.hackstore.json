@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/horizonte-una-leyenda-americana-capitulo-1-2024/",
+                                "title": "Horizonte: Una Leyenda Americana – Capítulo 1 (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/kuczW9drno5YGtBBoaaQkgFYAdi.jpg"
+                            },
+                            {
                                 "url": "/peliculas/los-imperdonables-1992/",
                                 "title": "Los imperdonables (1992)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Contaminados por el miedo (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/uE8sz63PFf3exD9WvmW26lONVqA.jpg"
-                            },
-                            {
-                                "url": "/peliculas/el-ultimo-conjuro-2023/",
-                                "title": "El último conjuro (2023)",
-                                "description": "",
-                                "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/El-ultimo-conjuro-scaled.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/los-imperdonables-1992/",
-                    "title": "Los imperdonables (1992)",
-                    "artist": "Anna Thomson",
-                    "author": "Bill Bannerman",
-                    "description": "William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.",
-                    "genre": "Occidental",
+                    "url": "/peliculas/horizonte-una-leyenda-americana-capitulo-1-2024/",
+                    "title": "Horizonte: Una Leyenda Americana – Capítulo 1 (2024)",
+                    "artist": "Kevin Costner",
+                    "author": "Robert Legato",
+                    "description": "Western que ahonda en los orígenes de la historia de los Estados Unidos de América. Una crónica multifacética que relata la expansión y el asentamiento a lo largo del oeste americano durante los años previos y posteriores a la Guerra Civil que dividió a este país y tuvo lugar entre 1861 y 1865.",
+                    "genre": "Drama, Occidental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/Los-imperdonables.jpg",
+                    "thumbnail_url": "https://www.hackstore.fo/wp-content/uploads/2024/10/kuczW9drno5YGtBBoaaQkgFYAdi.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/los-imperdonables-1992/",
+                        "url": "/peliculas/horizonte-una-leyenda-americana-capitulo-1-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-ntkoesa8nfcqya9q.voe-network.net/engine/hls2-c/01/12522/mnuryuteficv_,n,.urlset/index-v1-a1.m3u8?t=ff9ema2gEuwLAZKP7XRVPtqY3f4_p6di2wiflaz4QA4&s=1729556243&e=14400&f=62611248&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=13.91&sp=2500&asn=8075",
-                        "quality": "[CAST] Voe:720p",
-                        "videoUrl": "https://delivery-node-ntkoesa8nfcqya9q.voe-network.net/engine/hls2-c/01/12522/mnuryuteficv_,n,.urlset/index-v1-a1.m3u8?t=ff9ema2gEuwLAZKP7XRVPtqY3f4_p6di2wiflaz4QA4&s=1729556243&e=14400&f=62611248&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=13.91&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -376,12 +376,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/mayo-chiki-الحلقة-13-والاخيرة/",
+                        "name": "الحلقة 13",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/episode/mayo-chiki-الحلقة-12/",
+                        "name": "الحلقة 12",
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xzop4jz3b4quuoo2regjywiaqq5e4zoz326kphk4d6mkt6dvogrdfpwbhbopywzotlvkse/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xzop4jz3b4quuoo2regjywiaqq5e4zoz326kphk4d6mkt6dvogrdfpwbhbopywzotlvkse/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m100.uqload.ws/3rfkpmhu4jw2q4drdkm7v5hzazstduzlkzp2pac24rbgcapd2p2nfilhwwyq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m100.uqload.ws/3rfkpmhu4jw2q4drdkm7v5hzazstduzlkzp2pac24rbgcapd2p2nfilhwwyq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

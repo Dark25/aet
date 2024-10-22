@@ -247,35 +247,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=RkL1Qwrj77tdoWV&expires=1729603967&ip=FROsExcnDS9X&token=lgGKNCoBWTz4",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=RkL1Qwrj77tdoWV&expires=1729603967&ip=FROsExcnDS9X&token=lgGKNCoBWTz4"
-                    },
-                    {
-                        "url": "https://delivery-node-bawxfpciu2c9lioz.voe-network.net/engine/hls2-c/01/12508/kb3ggxzm2efk_,n,.urlset/index-v1-a1.m3u8?t=Dgrqum7y13G7kcY5106CnKwAR9rgPP0RvTWh3KIlVeA&s=1729533956&e=14400&f=62544415&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.49&sp=2500&asn=8075",
-                        "quality": "(Deutsch Sub) Voe:720p",
-                        "videoUrl": "https://delivery-node-bawxfpciu2c9lioz.voe-network.net/engine/hls2-c/01/12508/kb3ggxzm2efk_,n,.urlset/index-v1-a1.m3u8?t=Dgrqum7y13G7kcY5106CnKwAR9rgPP0RvTWh3KIlVeA&s=1729533956&e=14400&f=62544415&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.49&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=ywa3zg2XRZs1z21&expires=1729603949&ip=FROsExcnDS9X&token=vah8KdY6YOa-",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=ywa3zg2XRZs1z21&expires=1729603949&ip=FROsExcnDS9X&token=vah8KdY6YOa-"
-                    },
-                    {
-                        "url": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/12507/l5pagrryuad6_,n,.urlset/index-v1-a1.m3u8?t=R7SXbAYgtpypvh7dJ4wVWzp773K7DoW2Uqo9SiYkDcE&s=1729533942&e=14400&f=62538985&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.49&sp=2500&asn=8075",
-                        "quality": "(Deutsch Sub) Voe:720p",
-                        "videoUrl": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/12507/l5pagrryuad6_,n,.urlset/index-v1-a1.m3u8?t=R7SXbAYgtpypvh7dJ4wVWzp773K7DoW2Uqo9SiYkDcE&s=1729533942&e=14400&f=62538985&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.49&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/sorria-2/",
+                                "title": "Sorria 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dQ3irvpgixv34eQNn6RWal8B4Cx.jpg"
+                            },
+                            {
                                 "url": "/series/citadel-diana/",
                                 "title": "Citadel: Diana",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/o-senhor-dos-aneis-os-aneis-de-poder/",
                                 "title": "O Senhor dos Anéis: Os Anéis de Poder",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg"
-                            },
-                            {
-                                "url": "/filmes/o-corvo/",
-                                "title": "O Corvo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,16 @@
                                 "url": "/series/xogum-a-gloriosa-saga-do-japao/",
                                 "title": "Xógum: A Gloriosa Saga do Japão",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gaOb9hyCDUcbZiTYcHy7mIFmNo.jpg"
+                            },
+                            {
+                                "url": "/series/mobile-suit-gundam-requiem-for-vengeance/",
+                                "title": "Mobile Suit Gundam: Requiem for Vengeance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/y3OBTgamWSyvUyzciL20yNkMMaC.jpg"
+                            },
+                            {
+                                "url": "/series/possessions/",
+                                "title": "Possessions",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fJP3yPvPqhXpGNLalnA7TpVsdoP.jpg"
                             },
                             {
                                 "url": "/series/citadel-diana/",
@@ -275,16 +285,6 @@
                                 "url": "/series/dr4g0n/",
                                 "title": "dr4g0n",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ikt7ZQhKKM9qkEpc6FTjjqhYbK9.jpg"
-                            },
-                            {
-                                "url": "/series/maxima/",
-                                "title": "Máxima",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fBG4YjMZk4wRpYOtr3uSlBM5dx0.jpg"
-                            },
-                            {
-                                "url": "/series/sister-boniface-mysteries/",
-                                "title": "Sister Boniface Mysteries",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kSIPIFoIUCUOMwoAs9kiuwCz1Ju.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/citadel-diana/",
-                    "title": "Citadel: Diana",
-                    "description": "Milão, 2030: Diana Cavalieri é uma agente dupla do grupo secreto Citadel, infiltrada na Mantícora, a agência rival que destruiu a Citadel há oito anos. Presa no fronte inimigo, Diana tem a chance de deixar a agência para sempre, mas precisa decidir se confia em um aliado surpreendente: o herdeiro da Mantícora Itália, Edo Zani.\n\nTítulo Original: Citadel: Diana\nTemporadas: 1\nEpisódios: 6",
-                    "genre": "Action & Adventure, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg",
+                    "url": "/filmes/sorria-2/",
+                    "title": "Sorria 2",
+                    "description": "A sequência vai girar em torno de Quinn Parsons (vivida por Naomi Scott, de Aladdin), uma cantora miserável em turnê que está tentando se recuperar do seu vício em drogas. Ela se tornará alvo da entidade do primeiro filme após seu traficante lhe passar a maldição.\n\nTítulo Original: Smile 2",
+                    "genre": "Mistério, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/dQ3irvpgixv34eQNn6RWal8B4Cx.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,23 +466,28 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/citadel-diana-1x6/",
-                        "name": "Temporada 1 x 6 - Júpiter",
-                        "date_upload": 1728518400000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodes/citadel-diana-1x5/",
-                        "name": "Temporada 1 x 5 - Ataque",
-                        "date_upload": 1728518400000,
-                        "episode_number": 5.0
+                        "url": "/filmes/sorria-2/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://brbeast.com/hls/QkNIT3o3Z0MwNGR3WnpJMFE4dzhvNHB5YXlPdG1PY2FrN2xsM3FBbDZmdzd3ZmNFV2FjQjBHeHlYN0U2cjFtcWxTRXRyUU9JTFJuYW15NkJPSjNVNGZyaCtBbEFBRE1Oc0FVakhtK0t3Q292OVF3Mk94OHpEWVMrRThCbjdpeDZLeVV4amRBYlYrWHR2bWd6RWw4bkdWUkI0SmhWd3dRUktjZkN4aS9MYTg0RFhtOW1rRFRPQ3hDS1lsblZwMXdVRURQZkFnVVFwdU82RWNSUERobjBUMDV5d0lHZHVZYVRXc1hXU016WHl0ZFQ0aE01T2M5M3I1ZldxdlVVR1BWajJ5SWY3QTJ2NG81SjlETmV2QllPL2NGbjdiR01OMVdFcEw4RjRTOGJja3lhNEFFVldyWjJQNmtYSzdLN2IxUmE%3D",
+                        "quality": "[Dublado] BrBeast - 720p",
+                        "videoUrl": "https://brbeast.com/hls/QkNIT3o3Z0MwNGR3WnpJMFE4dzhvNHB5YXlPdG1PY2FrN2xsM3FBbDZmdzd3ZmNFV2FjQjBHeHlYN0U2cjFtcWxTRXRyUU9JTFJuYW15NkJPSjNVNGZyaCtBbEFBRE1Oc0FVakhtK0t3Q292OVF3Mk94OHpEWVMrRThCbjdpeDZLeVV4amRBYlYrWHR2bWd6RWw4bkdWUkI0SmhWd3dRUktjZkN4aS9MYTg0RFhtOW1rRFRPQ3hDS1lsblZwMXdVRURQZkFnVVFwdU82RWNSUERobjBUMDV5d0lHZHVZYVRXc1hXU016WHl0ZFQ0aE01T2M5M3I1ZldxdlVVR1BWajJ5SWY3QTJ2NG81SjlETmV2QllPL2NGbjdiR01OMVdFcEw4RjRTOGJja3lhNEFFVldyWjJQNmtYSzdLN2IxUmE%3D",
+                        "headers": {
+                            "Referer": "https://brbeast.com",
+                            "Origin": "https://brbeast.com",
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,15 +3,15 @@
         "name": "MiniOppai (ID)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {

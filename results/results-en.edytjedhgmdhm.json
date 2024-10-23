@@ -3,28 +3,83 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/README/",
+                                "title": "README/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/2.Good.2.Be.True.2022.S01.TFC.WEB-DL.AAC.x264-RSG/2.Good.2.Be.True.2022.S01.E130.TFC.WEB-DL.AAC.x264-RSG.mkv",
+                        "name": "2.Good.2.Be.True.2022.S01.E130.TFC.WEB-DL.AAC.x264-RSG",
+                        "date_upload": -1,
+                        "episode_number": 130.0,
+                        "scanlator": "634.56 MB • /"
+                    },
+                    {
+                        "url": "/asiandrama/2.Good.2.Be.True.2022.S01.TFC.WEB-DL.AAC.x264-RSG/2.Good.2.Be.True.2022.S01.E129.TFC.WEB-DL.AAC.x264-RSG.mkv",
+                        "name": "2.Good.2.Be.True.2022.S01.E129.TFC.WEB-DL.AAC.x264-RSG",
+                        "date_upload": -1,
+                        "episode_number": 129.0,
+                        "scanlator": "457.66 MB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/2.Good.2.Be.True.2022.S01.TFC.WEB-DL.AAC.x264-RSG/2.Good.2.Be.True.2022.S01.E130.TFC.WEB-DL.AAC.x264-RSG.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/2.Good.2.Be.True.2022.S01.TFC.WEB-DL.AAC.x264-RSG/2.Good.2.Be.True.2022.S01.E130.TFC.WEB-DL.AAC.x264-RSG.mkv"
                     }
                 ],
                 "passed": true

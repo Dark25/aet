@@ -1,0 +1,31 @@
+[
+    {
+        "name": "NeoNime (ID)",
+        "results": {
+            "popular": {
+                "error": "java.net.ConnectException: Failed to connect to neonime.ink/72.52.178.23:443",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.ConnectException: Failed to connect to neonime.ink/72.52.178.23:443",
+                "passed": false
+            },
+            "search": {
+                "error": "java.io.IOException: Failed to connect to neonime.ink/72.52.178.23:443",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.ConnectException: Failed to connect to neonime.ink/72.52.178.23:443",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.ConnectException: Failed to connect to neonime.ink/72.52.178.23:443",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.ConnectException: Failed to connect to neonime.ink/72.52.178.23:443",
+                "passed": false
+            }
+        }
+    }
+]

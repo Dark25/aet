@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/sub-espanol/",
+                                "title": "Omae no Tsumi wo Jihaku Shiro",
+                                "thumbnail_url": "https://image.tmdb.org/movie/1198337"
+                            },
+                            {
                                 "url": "/love-in-the-big-city-sub-espanol/",
                                 "title": "Love In The Big City",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/qMUHXU5UeqAwGjc9LgHlmMzix6l.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/bite-me-if-you-love-me-sub-espanol/",
                                 "title": "Bite Me If You Love Me",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/o9yKZ8D0pl6rgH9brAt4JVLbclO.jpg"
-                            },
-                            {
-                                "url": "/el-monstruo-de-la-vieja-seul-2-07-07-temporada-completa/",
-                                "title": "El Monstruo de la Vieja Seúl 2 (07/07) Temporada Completa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/lmjFEQrqwzVUhPZtYPhn4K8fYw0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,14 +264,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/love-in-the-big-city-sub-espanol/",
-                    "title": "Love In The Big City",
-                    "artist": "Nam Yoon-Su",
-                    "description": "Un drama que retrata alegremente el amor y la separación entre la generación joven de espíritu libre.",
-                    "genre": "Comedia, Romance, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qMUHXU5UeqAwGjc9LgHlmMzix6l.jpg",
+                    "url": "/sub-espanol/",
+                    "title": "Omae no Tsumi wo Jihaku Shiro",
+                    "artist": "Kento Nakajima",
+                    "description": "Omae no Tsumi wo Jihaku Shiro, se sentrá en Uda Koji quienproviene de una familia profundamente arraigada en la política. Su padre, Uda Seijiro, es un poderoso asambleísta y tiene un carácter autoritario. Uda Koji trabaja como secretario de su padre. Un día, la nieta de Uda Seijiro es secuestrada y el secuestrador exige que Uda Seijiro organice una conferencia de prensa antes de las 5 pm del día siguiente y confiese su crime, pero él se niega. Uda Koji confronta a su padre, quien no le dice de qué se trata el crimen, y lucha por descubrir la verdad para salvar a su sobrina.",
+                    "genre": "Misterio",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/movie/1198337",
                     "initialized": true
                 },
                 "passed": true
@@ -279,8 +279,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/paste/1135673/",
-                        "name": "Episodio 1",
+                        "url": "/paste/3935676/",
+                        "name": "Sub. EspañolJ-Movie",
                         "episode_number": 1.0
                     }
                 ],
@@ -289,135 +289,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=5&sig=Mx-CmHysj-w&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "quality": "Vk:1080p",
-                        "videoUrl": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=5&sig=Mx-CmHysj-w&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=3&sig=wRXoaEIBn_w&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "quality": "Vk:720p",
-                        "videoUrl": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=3&sig=wRXoaEIBn_w&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=2&sig=fxVEntobvdI&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "quality": "Vk:480p",
-                        "videoUrl": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=2&sig=fxVEntobvdI&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=1&sig=313GG9bf534&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "quality": "Vk:360p",
-                        "videoUrl": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=1&sig=313GG9bf534&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=0&sig=JoIkW30CB1I&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "quality": "Vk:240p",
-                        "videoUrl": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=0&sig=JoIkW30CB1I&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=4&sig=oc_1h7-u4Bg&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "quality": "Vk:144p",
-                        "videoUrl": "https://vkvd400.okcdn.ru/?expires=1729965957360&srcIp=172.200.199.246&pr=40&srcAg=GECKO&ms=45.136.20.157&type=4&sig=oc_1h7-u4Bg&ct=0&urls=45.136.22.154&clientType=13&appId=512000384397&zs=43&id=7392778717848",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vk.com",
-                            "Referer": "https://vk.com/"
-                        }
-                    },
-                    {
-                        "url": "https://btksddnizp.cdn-jupiter.com/hls2/01/05195/jk1i46wjzcbc_h/index-v1-a1.m3u8?t=FEBKF3XKqvXJgg8nvZrS6w_19nJ6YyFxSwahx8CIAgU&s=1729706758&e=129600&f=25978949&srv=d96jvs07ph5l&i=0.4&sp=500&p1=d96jvs07ph5l&p2=d96jvs07ph5l&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://btksddnizp.cdn-jupiter.com/hls2/01/05195/jk1i46wjzcbc_h/index-v1-a1.m3u8?t=FEBKF3XKqvXJgg8nvZrS6w_19nJ6YyFxSwahx8CIAgU&s=1729706758&e=129600&f=25978949&srv=d96jvs07ph5l&i=0.4&sp=500&p1=d96jvs07ph5l&p2=d96jvs07ph5l&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/jk1i46wjzcbc"
-                        }
-                    },
-                    {
-                        "url": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=5&sig=-Djl0vQDD_M&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154",
+                        "url": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=5&sig=RbPbkTZrdjo&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008",
                         "quality": "Okru:1080p",
-                        "videoUrl": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=5&sig=-Djl0vQDD_M&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154"
+                        "videoUrl": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=5&sig=RbPbkTZrdjo&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008"
                     },
                     {
-                        "url": "https://f4x1ttiug9.guardstorage.net/hls_3/IhGVIzhGynZSbMMIWZtDOjZu0n3pK3giZTmXF1bylUlNu9kvczqO5KQGENoYNX9FVvW62oUHB2oxK9zHICeE52hcluRgeKahykaJRtxPg6fFIchiW6_ryPfBoQquGKhX6fkIZXTOsC0Mx8HzgVTE4CiBNdmgIvdUq7TGj3uNmHaxp-RfszofDzBmMZl-GUnGBDL95qqL4lP8CCeVV0NWUg/index-f3-v1-a1.m3u8?sig=IJYLZhfOZtn-SquIz4CzBw&expires=1729715759",
-                        "quality": "VidGuard:1080p",
-                        "videoUrl": "https://f4x1ttiug9.guardstorage.net/hls_3/IhGVIzhGynZSbMMIWZtDOjZu0n3pK3giZTmXF1bylUlNu9kvczqO5KQGENoYNX9FVvW62oUHB2oxK9zHICeE52hcluRgeKahykaJRtxPg6fFIchiW6_ryPfBoQquGKhX6fkIZXTOsC0Mx8HzgVTE4CiBNdmgIvdUq7TGj3uNmHaxp-RfszofDzBmMZl-GUnGBDL95qqL4lP8CCeVV0NWUg/index-f3-v1-a1.m3u8?sig=IJYLZhfOZtn-SquIz4CzBw&expires=1729715759",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=3&sig=YCn2w1CI8to&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154",
+                        "url": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=3&sig=DoUGT162x0k&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008",
                         "quality": "Okru:720p",
-                        "videoUrl": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=3&sig=YCn2w1CI8to&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154"
+                        "videoUrl": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=3&sig=DoUGT162x0k&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008"
                     },
                     {
-                        "url": "https://f4x1ttiug9.guardstorage.net/hls_3/IhGVIzhGynZSbMMIWZtDOjZu0n3pK3giZTmXF1bylUlNu9kvczqO5KQGENoYNX9FVvW62oUHB2oxK9zHICeE52hcluRgeKahykaJRtxPg6fFIchiW6_ryPfBoQquGKhX6fkIZXTOsC0Mx8HzgVTE4CiBNdmgIvdUq7TGj3uNmHaxp-RfszofDzBmMZl-GUnGBDL95qqL4lP8CCeVV0NWUg/index-f2-v1-a1.m3u8?sig=IJYLZhfOZtn-SquIz4CzBw&expires=1729715759",
-                        "quality": "VidGuard:720p",
-                        "videoUrl": "https://f4x1ttiug9.guardstorage.net/hls_3/IhGVIzhGynZSbMMIWZtDOjZu0n3pK3giZTmXF1bylUlNu9kvczqO5KQGENoYNX9FVvW62oUHB2oxK9zHICeE52hcluRgeKahykaJRtxPg6fFIchiW6_ryPfBoQquGKhX6fkIZXTOsC0Mx8HzgVTE4CiBNdmgIvdUq7TGj3uNmHaxp-RfszofDzBmMZl-GUnGBDL95qqL4lP8CCeVV0NWUg/index-f2-v1-a1.m3u8?sig=IJYLZhfOZtn-SquIz4CzBw&expires=1729715759",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=2&sig=e5J3udahv2o&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154",
+                        "url": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=2&sig=D5V34eMqeyg&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008",
                         "quality": "Okru:480p",
-                        "videoUrl": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=2&sig=e5J3udahv2o&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154"
+                        "videoUrl": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=2&sig=D5V34eMqeyg&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008"
                     },
                     {
-                        "url": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=1&sig=GSRIIoBg-Gc&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154",
+                        "url": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=1&sig=GIHPZIuL-rk&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008",
                         "quality": "Okru:360p",
-                        "videoUrl": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=1&sig=GSRIIoBg-Gc&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154"
+                        "videoUrl": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=1&sig=GIHPZIuL-rk&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008"
                     },
                     {
-                        "url": "https://f4x1ttiug9.guardstorage.net/hls_3/IhGVIzhGynZSbMMIWZtDOjZu0n3pK3giZTmXF1bylUlNu9kvczqO5KQGENoYNX9FVvW62oUHB2oxK9zHICeE52hcluRgeKahykaJRtxPg6fFIchiW6_ryPfBoQquGKhX6fkIZXTOsC0Mx8HzgVTE4CiBNdmgIvdUq7TGj3uNmHaxp-RfszofDzBmMZl-GUnGBDL95qqL4lP8CCeVV0NWUg/index-f1-v1-a1.m3u8?sig=IJYLZhfOZtn-SquIz4CzBw&expires=1729715759",
-                        "quality": "VidGuard:360p",
-                        "videoUrl": "https://f4x1ttiug9.guardstorage.net/hls_3/IhGVIzhGynZSbMMIWZtDOjZu0n3pK3giZTmXF1bylUlNu9kvczqO5KQGENoYNX9FVvW62oUHB2oxK9zHICeE52hcluRgeKahykaJRtxPg6fFIchiW6_ryPfBoQquGKhX6fkIZXTOsC0Mx8HzgVTE4CiBNdmgIvdUq7TGj3uNmHaxp-RfszofDzBmMZl-GUnGBDL95qqL4lP8CCeVV0NWUg/index-f1-v1-a1.m3u8?sig=IJYLZhfOZtn-SquIz4CzBw&expires=1729715759",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=0&sig=bpRipJe_vyY&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154",
+                        "url": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=0&sig=bgXLyV5aRgY&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008",
                         "quality": "Okru:240p",
-                        "videoUrl": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=0&sig=bpRipJe_vyY&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154"
+                        "videoUrl": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=0&sig=bgXLyV5aRgY&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008"
                     },
                     {
-                        "url": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=4&sig=bCzz7wA8f1s&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154",
+                        "url": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=4&sig=ggeKC6kenJg&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008",
                         "quality": "Okru:144p",
-                        "videoUrl": "https://vd403.okcdn.ru/?expires=1729793156624&srcIp=172.200.199.246&pr=10&srcAg=GECKO&ms=45.136.20.32&type=4&sig=bCzz7wA8f1s&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=7100545305154"
+                        "videoUrl": "https://vd520.okcdn.ru/?expires=1729815394685&srcIp=172.183.154.190&pr=10&srcAg=GECKO&ms=185.226.55.30&type=4&sig=ggeKC6kenJg&ct=0&urls=45.136.20.26&clientType=0&zs=43&id=7025261415008"
                     }
                 ],
                 "passed": true

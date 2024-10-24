@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "9901-venom-the-last-dance",
+                                "title": "Venom: The Last Dance",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1b2b82f3-ccc0-4679-b92e-101688b4ecc9.webp"
+                            },
+                            {
                                 "url": "8582-jurassic-world-teoria-del-caos",
                                 "title": "Jurassic World: Teoria del caos",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/8d3337d3-9784-431d-b991-25009820db1e.webp"
@@ -300,11 +305,6 @@
                                 "url": "9522-trap",
                                 "title": "Trap",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/dfc9d87a-ce71-4c7a-ac1a-7d7339e69557.webp"
-                            },
-                            {
-                                "url": "9512-another-end",
-                                "title": "Another End",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c1e17fa7-18ee-4e39-bce8-f4fcf0c10afe.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10273-babes",
+                                "title": "Babes",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ae451cd4-59e6-4635-9f10-6586fefc10c4.webp"
+                            },
+                            {
+                                "url": "10272-rimozione-forzata-las-vegas",
+                                "title": "Rimozione forzata: Las Vegas",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4a7356ef-ebcc-43cb-8a27-325564442c9a.webp"
+                            },
                             {
                                 "url": "10271-smile-2",
                                 "title": "Smile 2",
@@ -605,16 +615,6 @@
                                 "url": "10176-americani",
                                 "title": "Americani",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/99d1a9ff-fdac-4965-8b81-f0813b895eb0.webp"
-                            },
-                            {
-                                "url": "10175-scanners",
-                                "title": "Scanners",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3d1381e3-291c-4380-aaa8-33c686c3aab3.webp"
-                            },
-                            {
-                                "url": "10174-mia-e-il-leone-bianco",
-                                "title": "Mia e il leone bianco",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/8cf48c7d-b001-4c13-bece-1c4cdac2c1e4.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,25 @@
             },
             "details": {
                 "result": {
-                    "url": "8582-jurassic-world-teoria-del-caos",
-                    "description": "Il gruppo del Campo Cretaceo si riunisce per risolvere un mistero quando scopre un complotto globale che mette in pericolo i dinosauri... e loro stessi.",
-                    "genre": "Sci-Fi & Fantasy, Action & Adventure, Famiglia, Animazione, Kids",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "9901-venom-the-last-dance",
+                    "description": "In Venom: The Last Dance, Tom Hardy torna a interpretare Venom, uno dei più celebri e complessi personaggi della Marvel. Nel film conclusivo della trilogia, Eddie e Venom sono in fuga. Mentre il cerchio si stringe attorno a loro, i due protagonisti sono costretti a prendere una decisione sconvolgente che farà calare il sipario sul loro “ultimo ballo”.",
+                    "genre": "Azione, Fantascienza, Avventura",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "9901",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

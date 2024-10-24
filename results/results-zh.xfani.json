@@ -3,7 +3,7 @@
         "name": "稀饭动漫 (ZH)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Connection reset by peer",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "latest": {

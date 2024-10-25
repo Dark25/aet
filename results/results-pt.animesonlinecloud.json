@@ -11,6 +11,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/dragon-ball-daima-episodio-03",
+                                "title": "Dragon Ball DAIMA Episódio 03",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2X0r11TBs1b9tkeKA94sqYTLjfp.jpg"
+                            },
+                            {
+                                "url": "/episodio/danmachi-5-episodio-04",
+                                "title": "DanMachi 5 Episodio 04",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hxqZ2HfQyuDNm74nSTCPU8D12C9.jpg"
+                            },
+                            {
                                 "url": "/episodio/dandadan-episodio-04",
                                 "title": "Dandadan Episódio 04",
                                 "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/10/eTbwdeKsf7MV3Lj73F1VRQHfx80-300x170.webp"
@@ -119,16 +129,6 @@
                                 "url": "/episodio/amagami-san-chi-no-enmusubi-episodio-04",
                                 "title": "Amagami-san Chi no Enmusubi Episódio 04",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/rWsVdKauv99X3CevDLCIgS71GiT.jpg"
-                            },
-                            {
-                                "url": "/episodio/youkai-gakkou-no-sensei-hajimemashita-episodio-03",
-                                "title": "Youkai Gakkou no Sensei Hajimemashita! Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eAaBRYsKKbTHtCPDyfFD1UlHf7A.jpg"
-                            },
-                            {
-                                "url": "/episodio/rekishi-ni-nokoru-akujo-ni-naru-zo-episodio-04",
-                                "title": "Rekishi ni Nokoru Akujo ni Naru zo Episódio 04",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/u74UjSS69QikgtQ0GCeYXzGr7rq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -183,11 +183,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dandadan",
-                    "title": "Dandadan –",
-                    "description": "Depois de ser rejeitada agressivamente, Momo Ayase fica de mau humor ao tropeçar em um garoto que está sendo intimidado. Ela o salva com sua gentileza impulsiva. O garoto, obcecado por alienígenas, tenta conversar com Ayase sobre seus interesses extraterrestres, acreditando que eles compartilham essas ideias. Ayase rejeita suas afirmações, dizendo que acredita em fantasmas, o que gera uma discussão sobre qual deles é real.\n",
-                    "genre": "Ação e Aventura, Animação, Comédia, Sci-Fi & Fantasia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/uqwIHOmYeXEuZ8BqrKulvLAn4Io.jpg",
+                    "url": "/anime/dragon-ball-daima",
+                    "title": "Dragon Ball Daima –",
+                    "description": "Goku e Vegeta e outros Guerreiros Z são inesperadamente transformados em crianças. Logo eles descobrem que o responsável é um inimigo misterioso que tem ligação com o mago Babidi. Agora terão que descobrir sua identidade para voltarem aos seus corpos de origem. ドラゴンボールDAIMA, Dragon Ball DAIMA, Dragon Ball Daima\n",
+                    "genre": "Ação e Aventura",
+                    "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/03/mcMnRw8Ejvb3KQiKuoAsXvNeKaS-212x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -195,14 +195,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodio/dandadan-episodio-04",
-                        "name": "Temporada 1 x 4 - Episódio 04 - Vamos descer a lenha na Vovó Turbo",
-                        "episode_number": 4.0
+                        "url": "/episodio/dragon-ball-daima-episodio-03",
+                        "name": "Temporada 1 x 3 - Episódio 03 - Daima",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/episodio/dandadan-episodio-03",
-                        "name": "Temporada 1 x 3 - Episódio 03",
-                        "episode_number": 3.0
+                        "url": "/episodio/dragon-ball-daima-episodio-02",
+                        "name": "Temporada 1 x 2 - Episódio 02 - Glorio",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -210,9 +210,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://animeflix.blog/Animes/Letra-D/Dandadan/04.mp4",
+                        "url": "https://animeflix.blog/Animes/Letra-D/Dragon%20Ball%20Daima/03.mp4",
                         "quality": "1080p",
-                        "videoUrl": "https://animeflix.blog/Animes/Letra-D/Dandadan/04.mp4",
+                        "videoUrl": "https://animeflix.blog/Animes/Letra-D/Dragon%20Ball%20Daima/03.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://animesonline.cloud/",
@@ -222,15 +222,30 @@
                         }
                     },
                     {
-                        "url": "https://animeflix.blog/Animes/Letra-D/Dandadan/Dub/04.mp4",
-                        "quality": "DUBLADO",
-                        "videoUrl": "https://animeflix.blog/Animes/Letra-D/Dandadan/Dub/04.mp4",
+                        "url": "sources: [{file: jw.file,type: 'video/mp4'\n}",
+                        "quality": "Blogger - Unknown",
+                        "videoUrl": "sources: [{file: jw.file,type: 'video/mp4'\n}",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animesonline.cloud/",
-                            "Accept": "*/*",
-                            "Host": "animeflix.blog",
-                            "Origin": "https://animesonline.cloud"
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    },
+                    {
+                        "url": "logo: {file: jw.logo,hide: true,link: jw.link,margin: '15',position: jw.lposi\n",
+                        "quality": "Blogger - Unknown",
+                        "videoUrl": "logo: {file: jw.logo,hide: true,link: jw.link,margin: '15',position: jw.lposi\n",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    },
+                    {
+                        "url": "<!DOCTYPE html><html lang=",
+                        "quality": "Blogger - Unknown",
+                        "videoUrl": "<!DOCTYPE html><html lang=",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesonline.cloud/"
                         }
                     }
                 ],

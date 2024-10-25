@@ -3,64 +3,8 @@
         "name": "Animes Online Cloud (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-hashira-geiko-hen",
-                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/04/Kimetsu-no-Yaiba-Hashira-Geiko-hen-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/x-men-97",
-                                "title": "X-Men ’97 – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/03/gU4ezBtf2K9t4AsYjbSsYd8Gzga-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/dragon-ball-daima",
-                                "title": "Dragon Ball Daima – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/03/mcMnRw8Ejvb3KQiKuoAsXvNeKaS-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/solo-leveling",
-                                "title": "Solo Leveling – Todos os Episodios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/01/zn7hOslLYG1U2m06jGJJln8Ry7t-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/2-5-jigen-no-ririsa",
-                                "title": "2.5-jigen no Ririsa Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/07/mScRmknR5OTOxaRdbzNxnJkG4Zo-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2",
-                                "title": "Jujutsu Kaisen 2 – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2023/12/coMNNwjHY4BZTqMIsklanMf2Wp7-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/tsue-to-tsurugi-no-wistoria",
-                                "title": "Tsue to Tsurugi no Wistoria -Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/07/5zfCyzblaQ1Cq654rNjEHYTmgMZ-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/naruto-shippuden",
-                                "title": "Naruto Shippuden",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2023/12/nRJmByfK9XdtOY73VArcN8KpKVs-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-                                "title": "Ore wa Subete wo “Parry” suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai – Todos os Episodios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/07/r21KUjSKMYImlgDLWdEO9gUCKVK-90x135.jpg"
-                            },
-                            {
-                                "url": "/anime/suicide-squad-isekai",
-                                "title": "Suicide Squad Isekai – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/06/Ave324jOdsVrCIDakGj0hhCgkd3-90x135.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -69,7 +13,47 @@
                             {
                                 "url": "/episodio/dandadan-episodio-04",
                                 "title": "Dandadan Episódio 04",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg"
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/10/eTbwdeKsf7MV3Lj73F1VRQHfx80-300x170.webp"
+                            },
+                            {
+                                "url": "/episodio/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episodio-04",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan – Kyoto Douran Episódio 04",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/10/tRazXrgRJB00tw9DUdW9F2BAX7H-300x170.webp"
+                            },
+                            {
+                                "url": "/episodio/kekkon-suru-tte-hontou-desu-ka-episodio-04",
+                                "title": "Kekkon suru tte, Hontou desu ka Episódio 04",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2WZJkvmOkBLaRvb6xp33ONn0rGo.jpg"
+                            },
+                            {
+                                "url": "/episodio/kinoko-inu-episodio-04",
+                                "title": "Kinoko Inu Episódio 04",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/10/4QttSTN9ALTEBae42YmM1l484wK-300x170.webp"
+                            },
+                            {
+                                "url": "/episodio/negaposi-angler-episodio-04",
+                                "title": "NegaPosi Angler Episódio 04",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ugR810zMTiwdl5eRT8qBy4Dr78J.jpg"
+                            },
+                            {
+                                "url": "/episodio/ao-no-hako-episodio-05",
+                                "title": "Ao no Hako Episódio 05",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eY38RuI5FdUI3821ij1TPvHO5yG.jpg"
+                            },
+                            {
+                                "url": "/episodio/mecha-ude-episodio-04",
+                                "title": "Mecha-ude Episódio 04",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/jkmXGPb83FoHw8XYGjmfB2JQyFP.jpg"
+                            },
+                            {
+                                "url": "/episodio/trillion-game-episodio-05",
+                                "title": "Trillion Game Episódio 05",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fFe3FZHVXsGwWPlrbk00ZPFlIFa.jpg"
+                            },
+                            {
+                                "url": "/episodio/sayounara-ryuusei-konnichiwa-jinsei-episodio-04",
+                                "title": "Sayounara Ryuusei Konnichiwa Jinsei Episódio 04",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/5NGCT2GJzESGEpNfdRfMwAvTgsB.jpg"
                             },
                             {
                                 "url": "/episodio/yuru-camp-3-episodio-especial-03",
@@ -145,46 +129,6 @@
                                 "url": "/episodio/rekishi-ni-nokoru-akujo-ni-naru-zo-episodio-04",
                                 "title": "Rekishi ni Nokoru Akujo ni Naru zo Episódio 04",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/u74UjSS69QikgtQ0GCeYXzGr7rq.jpg"
-                            },
-                            {
-                                "url": "/episodio/love-live-superstar-3-episodio-03",
-                                "title": "Love Live! Superstar!! 3 Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/aqq3Bi4Wy9Hsb6JHEnz3lGgrYL6.jpg"
-                            },
-                            {
-                                "url": "/episodio/seirei-gensouki-2-episodio-03",
-                                "title": "Seirei Gensouki 2 Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fr6UF1Coel3fk7H93XZCKS9OP7I.jpg"
-                            },
-                            {
-                                "url": "/episodio/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episodio-04",
-                                "title": "Saikyou no Shienshoku “Wajutsushi” de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru Episódio 04",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/10/43HWZJ7tXSsaZZDZofAS1KZJJZW-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/raise-wa-tanin-ga-ii-episodio-03",
-                                "title": "Raise wa Tanin ga Ii Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/upx8ZmcTnF6VAxDd67Z3RMACw93.jpg"
-                            },
-                            {
-                                "url": "/episodio/haigakura-episodio-03",
-                                "title": "Haigakura Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hOr6pYrV4iirw4W2Z9fpV8VDgi9.jpg"
-                            },
-                            {
-                                "url": "/episodio/natsume-yuujinchou-shichi-7-episodio-03",
-                                "title": "Natsume Yuujinchou Shichi 7 Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vZzSmJsROuhf1N6ugTes9HTbQZE.jpg"
-                            },
-                            {
-                                "url": "/episodio/kamonohashi-ron-no-kindan-suiri-2-episodio-03",
-                                "title": "Kamonohashi Ron no Kindan Suiri 2 Episódio 03",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/geswNM0KuJOdx2p8NiiGZmbzJjv.jpg"
-                            },
-                            {
-                                "url": "/episodio/arifureta-shokugyou-de-sekai-saikyou-3-episodio-02",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 3 Episódio 02",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/k0odd8CI6QyvzQ8ZUsq7YgEua4L.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -239,11 +183,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kimetsu-no-yaiba-hashira-geiko-hen",
-                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen –",
-                    "description": "Os Hashira, os espadachins de maior classificação e membros do Demon Slayer: O Treinamento dos Hashira começou para enfrentar a próxima batalha contra Muzan Kibutsuji. Cada um com seus próprios pensamentos e esperanças guardados em seus corações, uma nova história para Tanjiro e os Hashira começa.\n",
-                    "genre": "Ação, Aventura, Fantasia, Mistério, Terror",
-                    "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/04/Kimetsu-no-Yaiba-Hashira-Geiko-hen.jpg",
+                    "url": "/anime/dandadan",
+                    "title": "Dandadan –",
+                    "description": "Depois de ser rejeitada agressivamente, Momo Ayase fica de mau humor ao tropeçar em um garoto que está sendo intimidado. Ela o salva com sua gentileza impulsiva. O garoto, obcecado por alienígenas, tenta conversar com Ayase sobre seus interesses extraterrestres, acreditando que eles compartilham essas ideias. Ayase rejeita suas afirmações, dizendo que acredita em fantasmas, o que gera uma discussão sobre qual deles é real.\n",
+                    "genre": "Ação e Aventura, Animação, Comédia, Sci-Fi & Fantasia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/uqwIHOmYeXEuZ8BqrKulvLAn4Io.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -251,14 +195,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-08",
-                        "name": "Temporada 1 x 8 - Episódio 08 - Final",
-                        "episode_number": 8.0
+                        "url": "/episodio/dandadan-episodio-04",
+                        "name": "Temporada 1 x 4 - Episódio 04 - Vamos descer a lenha na Vovó Turbo",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/episodio/kimetsu-no-yaiba-hashira-geiko-hen-episodio-07",
-                        "name": "Temporada 1 x 7 - Episódio 07",
-                        "episode_number": 7.0
+                        "url": "/episodio/dandadan-episodio-03",
+                        "name": "Temporada 1 x 3 - Episódio 03",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -266,18 +210,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://rr2---sn-o097znz7.googlevideo.com/videoplayback?expire=1729822053&ei=5YwaZ5nYA-_bsfIP26yTyQQ&ip=52.234.36.13&id=0c3a783d5126ca7c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729793253,&mh=xr&mm=31&mn=sn-o097znz7&ms=au&mv=m&mvi=2&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=2428.110&lmt=1719781374942204&mt=1729792886&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAOzIt_Th3q4WukQJ1xTdpuitGMFWJ4bj3F_Gb39cZfUFAiEAggrQyitnsRJoq25rGygKAG3I4h-TSvf6MJ5daDPVt7A%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAJac35DvVc-uCd_FcfhXj8TfEtHTTTuuFniolaEnws1KAiArzbiGGjtmH1_mRCpbIEGmHJ6CNp_ckREDDv8VOA_OfQ%3D%3D",
-                        "quality": "Blogger - 720p",
-                        "videoUrl": "https://rr2---sn-o097znz7.googlevideo.com/videoplayback?expire=1729822053&ei=5YwaZ5nYA-_bsfIP26yTyQQ&ip=52.234.36.13&id=0c3a783d5126ca7c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729793253,&mh=xr&mm=31&mn=sn-o097znz7&ms=au&mv=m&mvi=2&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=2428.110&lmt=1719781374942204&mt=1729792886&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAOzIt_Th3q4WukQJ1xTdpuitGMFWJ4bj3F_Gb39cZfUFAiEAggrQyitnsRJoq25rGygKAG3I4h-TSvf6MJ5daDPVt7A%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAJac35DvVc-uCd_FcfhXj8TfEtHTTTuuFniolaEnws1KAiArzbiGGjtmH1_mRCpbIEGmHJ6CNp_ckREDDv8VOA_OfQ%3D%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animesonline.cloud/"
-                        }
-                    },
-                    {
-                        "url": "https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba%3A%20Hashira%20Geiko-hen/ep-08.mp4",
+                        "url": "https://animeflix.blog/Animes/Letra-D/Dandadan/04.mp4",
                         "quality": "1080p",
-                        "videoUrl": "https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba%3A%20Hashira%20Geiko-hen/ep-08.mp4",
+                        "videoUrl": "https://animeflix.blog/Animes/Letra-D/Dandadan/04.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://animesonline.cloud/",
@@ -287,18 +222,9 @@
                         }
                     },
                     {
-                        "url": "https://rr2---sn-o097znz7.googlevideo.com/videoplayback?expire=1729822053&ei=5YwaZ5nYA-_bsfIP26yTyQQ&ip=52.234.36.13&id=0c3a783d5126ca7c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729793253,&mh=xr&mm=31&mn=sn-o097znz7&ms=au&mv=m&mvi=2&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=2428.110&lmt=1719783873771215&mt=1729792886&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgA0G69hrRYikzznWwQYFxN8mQc84br9r_O05Mp5MOO5MCIQDxgRqmsWW-jdWLLLwVxkCmQ6PjGCa68GOcqCLpjwsebQ%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRAIgIR5dzTBnQS_Cb2hAhhbvjWWY7bT067DE1KaNEk2L0j8CIEGjdOtPUELMYa1NUvQTJ3LSyNTyv1zMbftUCKtmMZTG",
-                        "quality": "Blogger - 360p",
-                        "videoUrl": "https://rr2---sn-o097znz7.googlevideo.com/videoplayback?expire=1729822053&ei=5YwaZ5nYA-_bsfIP26yTyQQ&ip=52.234.36.13&id=0c3a783d5126ca7c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729793253,&mh=xr&mm=31&mn=sn-o097znz7&ms=au&mv=m&mvi=2&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=2428.110&lmt=1719783873771215&mt=1729792886&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgA0G69hrRYikzznWwQYFxN8mQc84br9r_O05Mp5MOO5MCIQDxgRqmsWW-jdWLLLwVxkCmQ6PjGCa68GOcqCLpjwsebQ%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRAIgIR5dzTBnQS_Cb2hAhhbvjWWY7bT067DE1KaNEk2L0j8CIEGjdOtPUELMYa1NUvQTJ3LSyNTyv1zMbftUCKtmMZTG",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animesonline.cloud/"
-                        }
-                    },
-                    {
-                        "url": "https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Hashira%20Geiko-hen/Dub/08.mp4",
-                        "quality": "Dublado",
-                        "videoUrl": "https://animeflix.blog/Animes/Letra-K/Kimetsu%20no%20Yaiba:%20Hashira%20Geiko-hen/Dub/08.mp4",
+                        "url": "https://animeflix.blog/Animes/Letra-D/Dandadan/Dub/04.mp4",
+                        "quality": "DUBLADO",
+                        "videoUrl": "https://animeflix.blog/Animes/Letra-D/Dandadan/Dub/04.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://animesonline.cloud/",

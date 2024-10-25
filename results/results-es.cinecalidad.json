@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/terapia-sin-filtro/",
+                                "title": "Terapia sin filtro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//1paLVdoniAR45emRMlOTGnZG0F7.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/horizonte-una-leyenda-americana-capitulo-1/",
+                                "title": "Horizonte: Una Leyenda Americana – Capítulo 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//kuczW9drno5YGtBBoaaQkgFYAdi.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/departamento-7a/",
+                                "title": "Departamento 7A",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/sing-ven-y-canta-thriller/",
                                 "title": "Sing: ¡Ven y canta! – Thriller",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//i77OInTKcrnRlAozFOaB6D5mk15.jpg"
@@ -50,21 +65,6 @@
                                 "url": "/ver-pelicula/alien-romulus/",
                                 "title": "Alien: Romulus",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//8PYqGSd8MOm5ce8io4qNSAiSExW.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/ahi-afuera/",
-                                "title": "Ahí afuera",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//gNtVxOAmBD42TBwFfN52fDa56XZ.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/el-monstruo-de-la-vieja-seul/",
-                                "title": "El monstruo de la vieja Seúl",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//z5ZF5FHNErAle3Kq8kv8eQCC3aR.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/citadel-diana/",
-                                "title": "Citadel: Diana",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/sing-ven-y-canta-thriller/",
-                    "artist": "Eric Hayes",
-                    "description": "Buster Moon sueña con un espectáculo al ritmo de «Thriller», de Michael Jackson, en este cortometraje animado con los personajes de las películas de «Sing: ¡Ven y canta!».   ",
-                    "genre": "Animación, Comedia, Familia, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+                    "url": "/ver-serie/terapia-sin-filtro/",
+                    "artist": "Christa Miller",
+                    "author": "Bill Lawrence",
+                    "description": "Jimmy está sufriendo por la pérdida de su esposa mientras es papá, amigo y terapeuta. Él decide intentar un nuevo método con todos los que se pongan en su camino: sinceridad extrema y sin filtro.   ",
+                    "genre": "Comedia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//1paLVdoniAR45emRMlOTGnZG0F7.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,8 +212,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/sing-ven-y-canta-thriller/",
-                        "name": "PELÍCULA",
+                        "url": "/ver-el-episodio/terapia-sin-filtro-2x1/",
+                        "name": "T2 - E1 - Jimmydeces",
                         "episode_number": 1.0
                     }
                 ],
@@ -221,36 +222,58 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-blifdtcquwr165mv.voe-network.net/engine/hls2-c/01/12534/48yifgmw41ib_,n,.urlset/index-v1-a1.m3u8?t=T9l8XmcvjtKWdOa33UPCSTvPv83Z77i4MbKHwc04ewc&s=1729793227&e=14400&f=62702040&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "url": "https://delivery-node-zpbpgwnslqqivqwb.voe-network.net/engine/hls2/01/12548/mspno0hxyjkt_,n,.urlset/index-v1-a1.m3u8?t=6pviCNu6uW288YprFeXwub100Dtox0-rkR02eGltJZ8&s=1729815473&e=14400&f=62743217&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=52.234&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-blifdtcquwr165mv.voe-network.net/engine/hls2-c/01/12534/48yifgmw41ib_,n,.urlset/index-v1-a1.m3u8?t=T9l8XmcvjtKWdOa33UPCSTvPv83Z77i4MbKHwc04ewc&s=1729793227&e=14400&f=62702040&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-zpbpgwnslqqivqwb.voe-network.net/engine/hls2/01/12548/mspno0hxyjkt_,n,.urlset/index-v1-a1.m3u8?t=6pviCNu6uW288YprFeXwub100Dtox0-rkR02eGltJZ8&s=1729815473&e=14400&f=62743217&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=52.234&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://s0mlxzpt0qgc8.pradoi.com/hls2/01/05194/soyaqv60e2b4_n/index-v1-a2.m3u8?t=DVwz9_of1HoV_OkUwIYavwS7EwXT9aD-NowNg96ZpiI&s=1729793225&e=129600&f=26002027&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://s0mlxzpt0qgc8.pradoi.com/hls2/01/05194/soyaqv60e2b4_n/index-v1-a2.m3u8?t=DVwz9_of1HoV_OkUwIYavwS7EwXT9aD-NowNg96ZpiI&s=1729793225&e=129600&f=26002027&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=8075",
+                        "url": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=TZ52EmWBnwYL9udcyPQ_R6qWJ9D9MK0Fw6KqLI7_dwM&s=1729815471&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=TZ52EmWBnwYL9udcyPQ_R6qWJ9D9MK0Fw6KqLI7_dwM&s=1729815471&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/8c125pqjqv4b"
+                            "Referer": "https://hlswish.com/e/halu7awgd0mv"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=0dedKvYzBJT0Qb&expires=1729863227&ip=FROsD0AAKxSHDN&token=1z6fyfpse03q",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0dedKvYzBJT0Qb&expires=1729863227&ip=FROsD0AAKxSHDN&token=1z6fyfpse03q"
+                        "url": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=TZ52EmWBnwYL9udcyPQ_R6qWJ9D9MK0Fw6KqLI7_dwM&s=1729815471&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=TZ52EmWBnwYL9udcyPQ_R6qWJ9D9MK0Fw6KqLI7_dwM&s=1729815471&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/halu7awgd0mv"
+                        }
                     },
                     {
-                        "url": "https://s1.goodstream.one/vtt/01/00006/j2frczc8ayq0_sli.vtt",
+                        "url": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=TZ52EmWBnwYL9udcyPQ_R6qWJ9D9MK0Fw6KqLI7_dwM&s=1729815471&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=TZ52EmWBnwYL9udcyPQ_R6qWJ9D9MK0Fw6KqLI7_dwM&s=1729815471&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/halu7awgd0mv"
+                        }
+                    },
+                    {
+                        "url": "https://s1.goodstream.one/vtt/01/00006/ma8doaahus6n_sli.vtt",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/01/00006/j2frczc8ayq0_sli.vtt",
+                        "videoUrl": "https://s1.goodstream.one/vtt/01/00006/ma8doaahus6n_sli.vtt",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
                         }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6jZ8ZgPmwgI9D63&expires=1729885470&ip=G0WsDRONKxSHDN&token=cOrOFOFLCpmY",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6jZ8ZgPmwgI9D63&expires=1729885470&ip=G0WsDRONKxSHDN&token=cOrOFOFLCpmY"
                     }
                 ],
                 "passed": true

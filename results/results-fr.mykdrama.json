@@ -3,27 +3,27 @@
         "name": "MyKdrama (FR)",
         "results": {
             "popular": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "search": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "details": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to mykdrama.co/72.52.178.23:443",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             }
         }

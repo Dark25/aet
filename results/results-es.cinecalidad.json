@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/gundam-requiem-para-una-venganza/",
+                                "title": "Gundam: Réquiem para una venganza",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//5kbBwMMrdeQuIKqtQ3zdeHYdZPG.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/terapia-sin-filtro/",
                                 "title": "Terapia sin filtro",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//1paLVdoniAR45emRMlOTGnZG0F7.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/blue-lock-episodio-nagi/",
                                 "title": "Blue Lock: Episodio Nagi",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//tT7wk65X4czBIxDjoPRMNw5JhKD.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/alien-romulus/",
-                                "title": "Alien: Romulus",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//8PYqGSd8MOm5ce8io4qNSAiSExW.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-serie/gundam-requiem-para-una-venganza/",
+                                "title": "Gundam: Réquiem para una venganza",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//5kbBwMMrdeQuIKqtQ3zdeHYdZPG.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/horizonte-una-leyenda-americana-capitulo-1/",
+                                "title": "Horizonte: Una Leyenda Americana – Capítulo 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//kuczW9drno5YGtBBoaaQkgFYAdi.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/departamento-7a/",
+                                "title": "Departamento 7A",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg"
+                            },
                             {
                                 "url": "/ver-pelicula/sing-ven-y-canta-thriller/",
                                 "title": "Sing: ¡Ven y canta! – Thriller",
@@ -135,21 +150,6 @@
                                 "url": "/ver-pelicula/una-aventura-en-marruecos/",
                                 "title": "Una aventura en Marruecos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//pN9Vw5A3Eu868XqidnKcTdUW1Kq.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/los-horrores-de-caddo-lake/",
-                                "title": "Los Horrores de Caddo Lake",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//zzd94Pfdn80GW9bYq4nLIy7dT8o.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/invasion-insurreccion/",
-                                "title": "Invasión, insurrección",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//u7BbfoOND2qtKUslMbPhgHVuVFK.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-cuervo/",
-                                "title": "El Cuervo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//X9iFHeIYgfqoZImvdidx8b9v4R.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/terapia-sin-filtro/",
-                    "artist": "Christa Miller",
-                    "author": "Bill Lawrence",
-                    "description": "Jimmy está sufriendo por la pérdida de su esposa mientras es papá, amigo y terapeuta. Él decide intentar un nuevo método con todos los que se pongan en su camino: sinceridad extrema y sin filtro.   ",
-                    "genre": "Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//1paLVdoniAR45emRMlOTGnZG0F7.jpg",
+                    "url": "/ver-serie/gundam-requiem-para-una-venganza/",
+                    "artist": "Andrew Woolner",
+                    "author": "",
+                    "description": "Es el año 0079 del Siglo Universal. La Guerra de Un Año lleva once meses, y la capitana Solari, en un Zaku II, se enfrenta a la nueva arma de la Federación: el mobile suit Gundam.   ",
+                    "genre": "Animación, Sci-Fi & Fantasy, War & Politics",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//5kbBwMMrdeQuIKqtQ3zdeHYdZPG.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,9 +212,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/terapia-sin-filtro-2x1/",
-                        "name": "T2 - E1 - Jimmydeces",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/gundam-requiem-para-una-venganza-1x6/",
+                        "name": "T1 - E6 - Camino al olvido",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/gundam-requiem-para-una-venganza-1x5/",
+                        "name": "T1 - E5 - El río",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -222,58 +227,66 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-zpbpgwnslqqivqwb.voe-network.net/engine/hls2/01/12548/mspno0hxyjkt_,n,.urlset/index-v1-a1.m3u8?t=plLXd2AFF_i3R-5kW-g5NN3csCZ25nQzwhZ0ttlprAM&s=1729879652&e=14400&f=62743217&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "url": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/12550/tgaogiads0rn_,n,l,.urlset/index-f1-v1-a1.m3u8?t=Pj2UVvIG7wQEcmmCoXnQpzxVyXCvVWzPvo5x2N8sNoU&s=1729901886&e=14400&f=62753146&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-zpbpgwnslqqivqwb.voe-network.net/engine/hls2/01/12548/mspno0hxyjkt_,n,.urlset/index-v1-a1.m3u8?t=plLXd2AFF_i3R-5kW-g5NN3csCZ25nQzwhZ0ttlprAM&s=1729879652&e=14400&f=62743217&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/12550/tgaogiads0rn_,n,l,.urlset/index-f1-v1-a1.m3u8?t=Pj2UVvIG7wQEcmmCoXnQpzxVyXCvVWzPvo5x2N8sNoU&s=1729901886&e=14400&f=62753146&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Prk-E_gzXheD2aLngryi9Pa3B-3mjD0ayLiP-fpcHuc&s=1729879651&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "url": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/12550/tgaogiads0rn_,n,l,.urlset/index-f2-v1-a1.m3u8?t=Pj2UVvIG7wQEcmmCoXnQpzxVyXCvVWzPvo5x2N8sNoU&s=1729901886&e=14400&f=62753146&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-xvqr9e6whjeva65n.voe-network.net/engine/hls2/01/12550/tgaogiads0rn_,n,l,.urlset/index-f2-v1-a1.m3u8?t=Pj2UVvIG7wQEcmmCoXnQpzxVyXCvVWzPvo5x2N8sNoU&s=1729901886&e=14400&f=62753146&node=delivery-node-xvqr9e6whjeva65n.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://fq97k6f9wh.cdn-jupiter.com/hls2/01/05213/fwm12zqymarq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=yBAiAKq5Qed2K1yGMEoRXsoHMm2X7jAyYjcYO78VLlo&s=1729901888&e=129600&f=26069985&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Prk-E_gzXheD2aLngryi9Pa3B-3mjD0ayLiP-fpcHuc&s=1729879651&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "videoUrl": "https://fq97k6f9wh.cdn-jupiter.com/hls2/01/05213/fwm12zqymarq_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=yBAiAKq5Qed2K1yGMEoRXsoHMm2X7jAyYjcYO78VLlo&s=1729901888&e=129600&f=26069985&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/halu7awgd0mv"
+                            "Referer": "https://hlswish.com/e/fwm12zqymarq"
                         }
                     },
                     {
-                        "url": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Prk-E_gzXheD2aLngryi9Pa3B-3mjD0ayLiP-fpcHuc&s=1729879651&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "url": "https://fq97k6f9wh.cdn-jupiter.com/hls2/01/05213/fwm12zqymarq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yBAiAKq5Qed2K1yGMEoRXsoHMm2X7jAyYjcYO78VLlo&s=1729901888&e=129600&f=26069985&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Prk-E_gzXheD2aLngryi9Pa3B-3mjD0ayLiP-fpcHuc&s=1729879651&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "videoUrl": "https://fq97k6f9wh.cdn-jupiter.com/hls2/01/05213/fwm12zqymarq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yBAiAKq5Qed2K1yGMEoRXsoHMm2X7jAyYjcYO78VLlo&s=1729901888&e=129600&f=26069985&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/halu7awgd0mv"
+                            "Referer": "https://hlswish.com/e/fwm12zqymarq"
                         }
                     },
                     {
-                        "url": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Prk-E_gzXheD2aLngryi9Pa3B-3mjD0ayLiP-fpcHuc&s=1729879651&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "url": "https://fq97k6f9wh.cdn-jupiter.com/hls2/01/05213/fwm12zqymarq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=yBAiAKq5Qed2K1yGMEoRXsoHMm2X7jAyYjcYO78VLlo&s=1729901888&e=129600&f=26069985&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://or6vwhgdzsnp.cdn-jupiter.com/hls2/01/05211/halu7awgd0mv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Prk-E_gzXheD2aLngryi9Pa3B-3mjD0ayLiP-fpcHuc&s=1729879651&e=129600&f=26055228&srv=l1nd4g7cpi5g&i=0.4&sp=500&p1=l1nd4g7cpi5g&p2=l1nd4g7cpi5g&asn=8075",
+                        "videoUrl": "https://fq97k6f9wh.cdn-jupiter.com/hls2/01/05213/fwm12zqymarq_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=yBAiAKq5Qed2K1yGMEoRXsoHMm2X7jAyYjcYO78VLlo&s=1729901888&e=129600&f=26069985&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/halu7awgd0mv"
+                            "Referer": "https://hlswish.com/e/fwm12zqymarq"
                         }
                     },
                     {
-                        "url": "https://s1.goodstream.one/vtt/01/00006/ma8doaahus6n_sli.vtt",
+                        "url": "https://s1.goodstream.one/vtt/02/00006/salxu1qft736_sli.vtt",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/01/00006/ma8doaahus6n_sli.vtt",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00006/salxu1qft736_sli.vtt",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=6jZ8ZgPmwgI9D63&expires=1729949648&ip=G0WsDROZKxSHDN&token=5Gro002APpoa",
+                        "url": "https://streamtape.com/get_video?id=GK0RoKOJLrU1KO2&expires=1729971885&ip=F0qQKRWZD19XKxR&token=pMQUfO0KK7rT",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6jZ8ZgPmwgI9D63&expires=1729949648&ip=G0WsDROZKxSHDN&token=5Gro002APpoa"
+                        "videoUrl": "https://streamtape.com/get_video?id=GK0RoKOJLrU1KO2&expires=1729971885&ip=F0qQKRWZD19XKxR&token=pMQUfO0KK7rT"
                     }
                 ],
                 "passed": true

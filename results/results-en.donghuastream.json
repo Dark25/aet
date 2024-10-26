@@ -3,27 +3,27 @@
         "name": "DonghuaStream (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketException: Connection reset",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

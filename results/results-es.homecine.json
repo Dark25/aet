@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/transformers-one/",
+                                "title": "Transformers One",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1jzVCZxBmgvpGILuEU8icfX77Io.jpg"
+                            },
+                            {
                                 "url": "/hellboy-the-crooked-man/",
                                 "title": "Hellboy: The Crooked Man",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/victim/",
                                 "title": "Victim",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/vrniyoyI8dSx78AMD90xPXCHz0q.jpg"
-                            },
-                            {
-                                "url": "/un-heroe-anonimo/",
-                                "title": "Un héroe anónimo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/80ARSA2k0sTgbRF9Z4oIj6gfdeh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,14 +424,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/hellboy-the-crooked-man/",
-                    "title": "Hellboy: The Crooked Man",
-                    "artist": "Jack Kesy",
-                    "description": "Hellboy. El Hombre Retorcido Sigue a Hellboy y a un agente novato de BPRD mientras quedan varados en la zona rural de los Apalaches de la década de 1950. Descubren una pequeña comunidad embrujada por brujas, dirigida por el Hombre Torcido.",
-                    "genre": "Acción, Fantasía, Terror",
+                    "url": "/transformers-one/",
+                    "title": "Transformers One",
+                    "artist": "Brian Tyree Henry",
+                    "description": "La historia jamás contada del origen de Optimus Prime y Megatron y de cómo pasaron de ser hermanos de armas que cambiaron el destino de Cybertron para siempre, a convertirse en enemigos acérrimos.",
+                    "genre": "Acción, Animación, Aventura, Ciencia ficción, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -439,7 +439,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/hellboy-the-crooked-man/",
+                        "url": "/transformers-one/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -449,9 +449,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/y3nwv3f249km_n/index-v1-a1.m3u8?t=T-D4RhUlG0VZvHclwyFYZKjpfD3bnDmPlX3CMc9Yjfo&s=1729901796&e=43200&v=8614319&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/modd6c6d9drj_n/index-v1-a1.m3u8?t=ZTLAhVPVoqP9NkaqbPKzVfGckYik0qOHXFBatkrV7UI&s=1729922771&e=43200&v=8804149&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/y3nwv3f249km_n/index-v1-a1.m3u8?t=T-D4RhUlG0VZvHclwyFYZKjpfD3bnDmPlX3CMc9Yjfo&s=1729901796&e=43200&v=8614319&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/modd6c6d9drj_n/index-v1-a1.m3u8?t=ZTLAhVPVoqP9NkaqbPKzVfGckYik0qOHXFBatkrV7UI&s=1729922771&e=43200&v=8804149&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -460,9 +460,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/y3nwv3f249km_l/index-v1-a1.m3u8?t=T-D4RhUlG0VZvHclwyFYZKjpfD3bnDmPlX3CMc9Yjfo&s=1729901796&e=43200&v=8614319&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/modd6c6d9drj_l/index-v1-a1.m3u8?t=ZTLAhVPVoqP9NkaqbPKzVfGckYik0qOHXFBatkrV7UI&s=1729922771&e=43200&v=8804149&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/y3nwv3f249km_l/index-v1-a1.m3u8?t=T-D4RhUlG0VZvHclwyFYZKjpfD3bnDmPlX3CMc9Yjfo&s=1729901796&e=43200&v=8614319&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/modd6c6d9drj_l/index-v1-a1.m3u8?t=ZTLAhVPVoqP9NkaqbPKzVfGckYik0qOHXFBatkrV7UI&s=1729922771&e=43200&v=8804149&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -471,9 +471,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/r2b2maqe4qy3_n/index-v1-a1.m3u8?t=cA9KP0sd2W9RURrl--zMcGfCQ1d2Lt9jUCrp5qjNp88&s=1729901796&e=43200&v=8614323&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/ll22srgxr82q_n/index-v1-a1.m3u8?t=KJf6_NfoF2t8JeDrjgGcBFTHhvT2l8jjRE6Xik5lTsU&s=1729922771&e=43200&v=8804152&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/r2b2maqe4qy3_n/index-v1-a1.m3u8?t=cA9KP0sd2W9RURrl--zMcGfCQ1d2Lt9jUCrp5qjNp88&s=1729901796&e=43200&v=8614323&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/ll22srgxr82q_n/index-v1-a1.m3u8?t=KJf6_NfoF2t8JeDrjgGcBFTHhvT2l8jjRE6Xik5lTsU&s=1729922771&e=43200&v=8804152&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -482,9 +482,31 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/r2b2maqe4qy3_l/index-v1-a1.m3u8?t=cA9KP0sd2W9RURrl--zMcGfCQ1d2Lt9jUCrp5qjNp88&s=1729901796&e=43200&v=8614323&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/mvdx1arqv626_n/index-v1-a1.m3u8?t=FOQVMFC5JgUOv87Dx0QZjFW0d-m4hc7BtPY9ogo5Um8&s=1729922771&e=43200&v=8804157&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/mvdx1arqv626_n/index-v1-a1.m3u8?t=FOQVMFC5JgUOv87Dx0QZjFW0d-m4hc7BtPY9ogo5Um8&s=1729922771&e=43200&v=8804157&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00070/ll22srgxr82q_l/index-v1-a1.m3u8?t=KJf6_NfoF2t8JeDrjgGcBFTHhvT2l8jjRE6Xik5lTsU&s=1729922771&e=43200&v=8804152&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/r2b2maqe4qy3_l/index-v1-a1.m3u8?t=cA9KP0sd2W9RURrl--zMcGfCQ1d2Lt9jUCrp5qjNp88&s=1729901796&e=43200&v=8614323&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/ll22srgxr82q_l/index-v1-a1.m3u8?t=KJf6_NfoF2t8JeDrjgGcBFTHhvT2l8jjRE6Xik5lTsU&s=1729922771&e=43200&v=8804152&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00070/mvdx1arqv626_l/index-v1-a1.m3u8?t=FOQVMFC5JgUOv87Dx0QZjFW0d-m4hc7BtPY9ogo5Um8&s=1729922771&e=43200&v=8804157&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/mvdx1arqv626_l/index-v1-a1.m3u8?t=FOQVMFC5JgUOv87Dx0QZjFW0d-m4hc7BtPY9ogo5Um8&s=1729922771&e=43200&v=8804157&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

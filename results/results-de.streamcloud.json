@@ -3,23 +3,23 @@
         "name": "StreamCloud (DE)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: streamcloud.movie: Temporary failure in name resolution",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "java.lang.IllegalStateException: No videos!",
                 "passed": false
             }
         }

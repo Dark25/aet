@@ -3,83 +3,28 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/asiandrama/",
-                                "title": "asiandrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/kdrama/",
-                                "title": "kdrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/movies/",
-                                "title": "movies/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/README/",
-                                "title": "README/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/",
-                                "title": "tvs/",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/asiandrama/",
-                    "title": "asiandrama/",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asiandrama/19th.Floor.S01.2024.1080p.LINETV.WEB-DL.AAC.H.264-ANDY/19th.Floor.2024.S01E30.1080p.LINETV.WEB-DL.AAC.H.264-ANDY.mp4",
-                        "name": "19th.Floor.2024.S01E30.1080p.LINETV.WEB-DL.AAC.H.264-ANDY",
-                        "date_upload": -1,
-                        "episode_number": 30.0,
-                        "scanlator": "2.07 GB • /"
-                    },
-                    {
-                        "url": "/asiandrama/19th.Floor.S01.2024.1080p.LINETV.WEB-DL.AAC.H.264-ANDY/19th.Floor.2024.S01E29.1080p.LINETV.WEB-DL.AAC.H.264-ANDY.mp4",
-                        "name": "19th.Floor.2024.S01E29.1080p.LINETV.WEB-DL.AAC.H.264-ANDY",
-                        "date_upload": -1,
-                        "episode_number": 29.0,
-                        "scanlator": "2.36 GB • /"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/19th.Floor.S01.2024.1080p.LINETV.WEB-DL.AAC.H.264-ANDY/19th.Floor.2024.S01E30.1080p.LINETV.WEB-DL.AAC.H.264-ANDY.mp4",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/19th.Floor.S01.2024.1080p.LINETV.WEB-DL.AAC.H.264-ANDY/19th.Floor.2024.S01E30.1080p.LINETV.WEB-DL.AAC.H.264-ANDY.mp4"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
                     }
                 ],
                 "passed": true

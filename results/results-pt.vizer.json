@@ -91,16 +91,16 @@
                                 "thumbnail_url": "https://novizer.com/content/series/posterPt/342/4991.webp"
                             },
                             {
-                                "url": "/serie/online/fear-the-walking-dead",
-                                "title": "Fear the Walking Dead",
-                                "status": 2,
-                                "thumbnail_url": "https://novizer.com/content/series/posterPt/342/3736.webp"
-                            },
-                            {
                                 "url": "/serie/online/flash",
                                 "title": "Flash",
                                 "status": 2,
                                 "thumbnail_url": "https://novizer.com/content/series/posterPt/342/5811.webp"
+                            },
+                            {
+                                "url": "/serie/online/fear-the-walking-dead",
+                                "title": "Fear the Walking Dead",
+                                "status": 2,
+                                "thumbnail_url": "https://novizer.com/content/series/posterPt/342/3736.webp"
                             },
                             {
                                 "url": "/serie/online/la-casa-de-papel",
@@ -598,8 +598,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery50.mxcontent.net/v2/r6x0xeoksvq6q91.mp4?s=qaUsyX9fKozzmaQ3fO-NMA&e=1730096510&_t=1730077843",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery50.mxcontent.net/v2/r6x0xeoksvq6q91.mp4?s=qaUsyX9fKozzmaQ3fO-NMA&e=1730096510&_t=1730077843",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+                        }
+                    },
+                    {
+                        "url": "https://basseqwevewcewcewecwcw.xyz/hls/am1vMlNuazJacjh4YzdGcTlNTWVFTERlblN5bXJBaXNzbmxvQTNUbG5kT0lTdHlTdjg1d3VxaWc0YTJiblozUVZXV1d1QnJYRWtKZmtrcDdLRFFySS8yWng5d2pFVUhNVkZKeENHTjhLZFpPRVJtY0R0SUg4NFlaQVJGSnMwaUdYUkFYYmI5cytuV3N4QWFjakMwMFNhVXQvRVFTSVZVc2NTOXYzcGtzcFpsRnBGSkNPa0xwRzBlSkJZTmZqTHB1SGU5ekJNYzk0eVRvdUpKcFN4QnhaWkxqT2E5azFFSlFlMmRuTDJUTDJVelMrUTdMZWlCbHVrVmp5a3hWTE9JWThNOVlhZzRyaXNoMEVxYmVVZndLUmlGMDkyMVI2VUMyRXVPeXlaeElSNmM9",
+                        "quality": "WarezCDN(DUB) - 720p",
+                        "videoUrl": "https://basseqwevewcewcewecwcw.xyz/hls/am1vMlNuazJacjh4YzdGcTlNTWVFTERlblN5bXJBaXNzbmxvQTNUbG5kT0lTdHlTdjg1d3VxaWc0YTJiblozUVZXV1d1QnJYRWtKZmtrcDdLRFFySS8yWng5d2pFVUhNVkZKeENHTjhLZFpPRVJtY0R0SUg4NFlaQVJGSnMwaUdYUkFYYmI5cytuV3N4QWFjakMwMFNhVXQvRVFTSVZVc2NTOXYzcGtzcFpsRnBGSkNPa0xwRzBlSkJZTmZqTHB1SGU5ekJNYzk0eVRvdUpKcFN4QnhaWkxqT2E5azFFSlFlMmRuTDJUTDJVelMrUTdMZWlCbHVrVmp5a3hWTE9JWThNOVlhZzRyaXNoMEVxYmVVZndLUmlGMDkyMVI2VUMyRXVPeXlaeElSNmM9",
+                        "headers": {
+                            "Referer": "https://basseqwevewcewcewecwcw.xyz",
+                            "Origin": "https://basseqwevewcewcewecwcw.xyz",
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

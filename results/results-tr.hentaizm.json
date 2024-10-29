@@ -1,0 +1,64 @@
+[
+    {
+        "name": "HentaiZM (TR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/hentai-detay/01",
+                                "title": "Aile Sırları",
+                                "thumbnail_url": "https://www.hentaizm.cam/resimler/afis/01.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/hentai-detay/01",
+                                "title": "Shuumatsu Hospital",
+                                "thumbnail_url": "https://www.hentaizm.cam/resimler/afis/01.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/hentai-detay/01",
+                                "title": "Futabu! Mix: Futanari World",
+                                "thumbnail_url": "https://www.hentaizm.cam/resimler/afis/01.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            }
+        }
+    }
+]

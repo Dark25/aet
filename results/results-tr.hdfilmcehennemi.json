@@ -1,17 +1,17 @@
 [
     {
-        "name": "Animes Online Cloud (PT-BR)",
+        "name": "HDFilmCehennemi (TR)",
         "results": {
             "popular": {
                 "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
@@ -21,8 +21,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
-                        "name": "Filme",
+                        "name": "Movie",
                         "episode_number": 1.0
                     }
                 ],

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Anizm (TR)",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "search": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
+                "passed": false
+            },
+            "details": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "videos": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            }
+        }
+    }
+]

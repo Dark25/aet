@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/nosso-lar-2-os-mensageiros/",
+                                "title": "Nosso Lar 2: Os Mensageiros",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/XQbEdJksHZmUjACCdr2lcS98wniXrEOflPJooTGWJ.webp"
+                            },
+                            {
+                                "url": "/pelicula/doble-fortaleza/",
+                                "title": "Doble fortaleza",
+                                "description": "Dos hermanas gemelas albergan profundos secretos y un decidido inspector de policía trata de descub...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ofN8vtYyTEpkYolH.webp"
+                            },
+                            {
+                                "url": "/pelicula/presa/",
+                                "title": "Presa",
+                                "description": "Una joven pareja se ve obligada a abandonar su puesto de misioneros cristianos en el desierto del Ka...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/IExmBk4Yb0H1A0mhwprLIRgnX4z64J2CdpPFAJtBA1t.webp"
+                            },
+                            {
+                                "url": "/pelicula/which-brings-me-to-you/",
+                                "title": "Which Brings Me to You",
+                                "description": "Jane y Will, dos adultos jóvenes, dedican tiempo a conocerse durante un período de 24 horas y desa...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/yvFxUcoNvnsQqltxOzTdq.webp"
+                            },
+                            {
                                 "url": "/pelicula/last-straw/",
                                 "title": "Last Straw",
                                 "description": "",
@@ -23,12 +47,6 @@
                                 "title": "Don't Move",
                                 "description": "Una mujer destrozada topa en un bosque apartado con un asesino que le inyecta una droga paralizante....",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Xm9TZ31Q0wJINekXJDwspKPonYOk.webp"
-                            },
-                            {
-                                "url": "/pelicula/doble-fortaleza/",
-                                "title": "Doble fortaleza",
-                                "description": "Dos hermanas gemelas albergan profundos secretos y un decidido inspector de policía trata de descub...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ofN8vtYyTEpkYolH.webp"
                             },
                             {
                                 "url": "/pelicula/ufc-308-topuria-vs-holloway/",
@@ -227,24 +245,6 @@
                                 "title": "The Artic Convoy",
                                 "description": "En 1941, la Alemania nazi de Hitler invade la Unión Soviética y la guerra se complica enormemente....",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/vWQeg9E7D5tWPuKGbA51bPlK.webp"
-                            },
-                            {
-                                "url": "/pelicula/una-storia-nera/",
-                                "title": "Una storia nera",
-                                "description": "Vito y Carla llevan unos años separados. Se querían mucho, antes de que los celos y la violencia d...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/7L3OTxN5LEAzpe4cB6LFZSGTTiNCSrjQ2cvM.webp"
-                            },
-                            {
-                                "url": "/pelicula/visions/",
-                                "title": "Visions",
-                                "description": "Estelle, una experimentada piloto de línea aérea, lleva una vida perfecta entre vuelos de larga di...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/2pUXZjSyIQEnuRxf54wdbJQS1qoyAkqszbfpkYOSF.webp"
-                            },
-                            {
-                                "url": "/pelicula/transformers-one/",
-                                "title": "Transformers One",
-                                "description": "La historia jamás contada del origen de Optimus Prime y Megatron y de cómo pasaron de ser hermanos...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/IId6jGdud8CFrf9zvSaf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/last-straw/",
-                    "title": "Last Straw",
+                    "url": "/pelicula/nosso-lar-2-os-mensageiros/",
+                    "title": "Nosso Lar 2: Os Mensageiros",
                     "description": "",
-                    "genre": "Drama, Suspense, Terror",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/last-straw/",
+                        "url": "/pelicula/nosso-lar-2-os-mensageiros/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -552,15 +552,15 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

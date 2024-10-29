@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/american-dad-season-21",
+                                "title": "American Dad! Season 21",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933788.jpg"
+                            },
+                            {
                                 "url": "/anime/demon-lord-2099",
                                 "title": "Demon Lord 2099",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933787.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/p-king-duckling",
                                 "title": "P. King Duckling",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933773.jpg"
-                            },
-                            {
-                                "url": "/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
-                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933772.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/demon-lord-2099",
-                    "title": "Demon Lord 2099",
-                    "description": "The cyberpunk metropolis Shinjuku—a massive city-state bedecked with neon signs, towering skyscrapers, and the latest cutting-edge technology. It is here, in year 2099 of the Fused Era, where the legendary Demon Lord Veltol has his second coming five centuries in the making. But this landscape is nothing like the one he conquered all those years ago, for the fusion of magic and engineering has elevated civilization to dazzling, unprecedented heights. Veltol may have been reduced to a historical footnote, but make no mistake…this brave new world will be his for the taking!",
-                    "genre": "Action, Fantasy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933787.jpg",
+                    "url": "/anime/american-dad-season-21",
+                    "title": "American Dad! Season 21",
+                    "description": "Season 21th of American Dad.",
+                    "genre": "Animated sitcom, Animation, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933788.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/demon-lord-2099-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgTqUO5gkaVFOcwaw7g6XybmqVDB1wp9nEJjrWmtJkRwa3zMWrxfWbg0gwweR8S7ImnmlJB7f7tbJ0AuXp5xgeWKBPC4HBLTITjKq3DxC7YXiORTzDqJWMfksm6oJURP9Hln1nsZHn_r14XAmEm7HhD0TcrLmZPWhSjf_JeSx-4f_z_XV5iQd39opO9Nxw6aQpuwRDj99IYf8ZxmyopehDWhJ4pH56UIW5CmOb5a4i9RfY2DTLH4dwNEVBJetc7MuOU_vuCGqVDgvsPZN8AJh1K",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgTqUO5gkaVFOcwaw7g6XybmqVDB1wp9nEJjrWmtJkRwa3zMWrxfWbg0gwweR8S7ImnmlJB7f7tbJ0AuXp5xgeWKBPC4HBLTITjKq3DxC7YXiORTzDqJWMfksm6oJURP9Hln1nsZHn_r14XAmEm7HhD0TcrLmZPWhSjf_JeSx-4f_z_XV5iQd39opO9Nxw6aQpuwRDj99IYf8ZxmyopehDWhJ4pH56UIW5CmOb5a4i9RfY2DTLH4dwNEVBJetc7MuOU_vuCGqVDgvsPZN8AJh1K"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLiKkxyYac-RFHDp8tGrPxwtNbPYxnRjp7VuqJpBDFoQg-Idy8pPb9ooyZfMyf7u6M5Rib43qK_czP-U5SJ3_b3q8cGHpGuVF1m_75jXRyhriwEw8wqS2d-5Sv97AvED0tP6aLEER0yleepT-7_V9bu5QONIw9oQbkzabcSAO2fi2murQqHiB6NKgx6AGTYj-SFAeUaNMJlHN9PvQ5s8aLet1nGg5_epxpLHp1GLu_ZPhp8Z0FRWk6G-_e7Um0dS1qQgIrkn0bsZ6ZqXesZNsJa6",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLiKkxyYac-RFHDp8tGrPxwtNbPYxnRjp7VuqJpBDFoQg-Idy8pPb9ooyZfMyf7u6M5Rib43qK_czP-U5SJ3_b3q8cGHpGuVF1m_75jXRyhriwEw8wqS2d-5Sv97AvED0tP6aLEER0yleepT-7_V9bu5QONIw9oQbkzabcSAO2fi2murQqHiB6NKgx6AGTYj-SFAeUaNMJlHN9PvQ5s8aLet1nGg5_epxpLHp1GLu_ZPhp8Z0FRWk6G-_e7Um0dS1qQgIrkn0bsZ6ZqXesZNsJa6"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgBNAcWqROv406xQwsz5G5KdUpMAnWlUEx36Zl-iDWYKrvspX7tUyAN5vTNBFbQHG1hM2stpZg2CSqdFMlXmr8JBTXYX66I_6R5GlNzIWgu6jG8g6JUlRkCkJNNseisIJvR_lXgNIl3-g4NfwSyOJJkEWcKomiITYyrq8JuDU8d_Izf2zNTgJrwaaIYGXUmRI6MGLOqyEJMdSee2z6Ja64OSQwQCUADU1RRBuEvCJvNyzzVavWPiupHyw0iqKyCTowcGduPQfcLtbscV6KpOlX3",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgBNAcWqROv406xQwsz5G5KdUpMAnWlUEx36Zl-iDWYKrvspX7tUyAN5vTNBFbQHG1hM2stpZg2CSqdFMlXmr8JBTXYX66I_6R5GlNzIWgu6jG8g6JUlRkCkJNNseisIJvR_lXgNIl3-g4NfwSyOJJkEWcKomiITYyrq8JuDU8d_Izf2zNTgJrwaaIYGXUmRI6MGLOqyEJMdSee2z6Ja64OSQwQCUADU1RRBuEvCJvNyzzVavWPiupHyw0iqKyCTowcGduPQfcLtbscV6KpOlX3"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

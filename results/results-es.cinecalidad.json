@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
+                                "title": "Thelma: Una abuela en acción",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//rUcuageYgv9SsJoWuc0seRWG6JC.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/mi-amigo-el-pinguino/",
+                                "title": "Mi Amigo El Pingüino",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//fSXfiHmKHvWleDwsuuYeLfg8qga.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/daddio/",
+                                "title": "Daddio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dyrCsHUhOfpuci51lHcdAnO3db0.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/guason-2-folie-a-deux/",
+                                "title": "Guasón 2: Folie à Deux",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/superman-y-lois/",
+                                "title": "Superman y Lois",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//hlMO1juHPuaiyL27BDLUcAvxmqq.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/rumbo-al-infierno/",
                                 "title": "Rumbo al infierno",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//5veiuXxIy3NFsm7LMqLGs4A2vgt.jpg"
@@ -40,31 +65,6 @@
                                 "url": "/ver-pelicula/los-hombres-lobo/",
                                 "title": "Los hombres lobo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//pfSiYANe9z4Xot8DBYDjEFxr1PS.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/jack-en-la-caja-maldita-3-el-ascenso/",
-                                "title": "Jack en la caja maldita 3: El Ascenso",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/hellboy-the-crooked-man/",
-                                "title": "Hellboy: The Crooked Man",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//ExFaxmvlGxBmUBVKv9ey94fNyy.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/canario-negro/",
-                                "title": "Canario Negro",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//iCNkHfsB3mCOCwDLOmjIZotGPID.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/abrazo-de-madre/",
-                                "title": "Abrazo de madre",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//3bP7sHgrjkGmgJCUu6DscjGzNCw.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/gundam-requiem-para-una-venganza/",
-                                "title": "Gundam: Réquiem para una venganza",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//5kbBwMMrdeQuIKqtQ3zdeHYdZPG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/rumbo-al-infierno/",
-                    "artist": "Cho Dong-in",
-                    "author": "연상호",
-                    "description": "Seres sobrenaturales entregan condenas sangrientas, enviando a los individuos al infierno y dando lugar a un grupo religioso fundado en la idea de la justicia divina.   ",
-                    "genre": "Crimen, Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//5veiuXxIy3NFsm7LMqLGs4A2vgt.jpg",
+                    "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
+                    "artist": "Aidan Fiske",
+                    "description": "Thelma Post, una abuela de 90 años, es engañada por un estafador telefónico que se hace pasar por su nieto y emprende una búsqueda para recuperar lo que le fue arrebatado.   ",
+                    "genre": "Acción, Aventura, Comedia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,21 +211,44 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/rumbo-al-infierno-2x4/",
-                        "name": "T2 - E4 - Episodio 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/ver-el-episodio/rumbo-al-infierno-2x3/",
-                        "name": "T2 - E3 - Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-pwqpm4flj52bwg9h.voe-network.net/engine/hls2/01/12603/hauzze85dxyk_,n,l,.urlset/index-f1-v1-a1.m3u8?t=PSoqUE0chVsS9-RZjIDkTf-epWgxiRC7G8fFdKTeOA0&s=1730290238&e=14400&f=63017339&node=delivery-node-pwqpm4flj52bwg9h.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-pwqpm4flj52bwg9h.voe-network.net/engine/hls2/01/12603/hauzze85dxyk_,n,l,.urlset/index-f1-v1-a1.m3u8?t=PSoqUE0chVsS9-RZjIDkTf-epWgxiRC7G8fFdKTeOA0&s=1730290238&e=14400&f=63017339&node=delivery-node-pwqpm4flj52bwg9h.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-pwqpm4flj52bwg9h.voe-network.net/engine/hls2/01/12603/hauzze85dxyk_,n,l,.urlset/index-f2-v1-a1.m3u8?t=PSoqUE0chVsS9-RZjIDkTf-epWgxiRC7G8fFdKTeOA0&s=1730290238&e=14400&f=63017339&node=delivery-node-pwqpm4flj52bwg9h.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-pwqpm4flj52bwg9h.voe-network.net/engine/hls2/01/12603/hauzze85dxyk_,n,l,.urlset/index-f2-v1-a1.m3u8?t=PSoqUE0chVsS9-RZjIDkTf-epWgxiRC7G8fFdKTeOA0&s=1730290238&e=14400&f=63017339&node=delivery-node-pwqpm4flj52bwg9h.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://ojwnnfazedbz.cdn-jupiter.com/hls2/01/05313/9th35bilemtj_l/index-v1-a1.m3u8?t=CkIxZYztPTyScNnJ6Y6LtiLqTZ79Lpf0Gy_bHcDGxjo&s=1730290234&e=129600&f=26569387&srv=WBAT4rcpGduC&i=0.4&sp=500&p1=WBAT4rcpGduC&p2=WBAT4rcpGduC&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://ojwnnfazedbz.cdn-jupiter.com/hls2/01/05313/9th35bilemtj_l/index-v1-a1.m3u8?t=CkIxZYztPTyScNnJ6Y6LtiLqTZ79Lpf0Gy_bHcDGxjo&s=1730290234&e=129600&f=26569387&srv=WBAT4rcpGduC&i=0.4&sp=500&p1=WBAT4rcpGduC&p2=WBAT4rcpGduC&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/9th35bilemtj"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

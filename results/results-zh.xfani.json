@@ -3,27 +3,27 @@
         "name": "稀饭动漫 (ZH)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             }
         }

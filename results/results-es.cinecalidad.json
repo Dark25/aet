@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/rumbo-al-infierno/",
+                                "title": "Rumbo al infierno",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//5veiuXxIy3NFsm7LMqLGs4A2vgt.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/desprecio/",
                                 "title": "Desprecio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//fuOiaiRCTBxPJ2uTiy1pK9UHs9L.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/ver-serie/gundam-requiem-para-una-venganza/",
                                 "title": "Gundam: Réquiem para una venganza",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//5kbBwMMrdeQuIKqtQ3zdeHYdZPG.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/terapia-sin-filtro/",
-                                "title": "Terapia sin filtro",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//1paLVdoniAR45emRMlOTGnZG0F7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/desprecio/",
-                    "artist": "Cate Blanchett",
-                    "author": "Alfonso Cuarón",
-                    "description": "Cuando aparece una misteriosa novela junto a la cama de una periodista que ha dedicado toda su carrera a exhibir transgresiones, queda horrorizada al darse cuenta de que ella misma es un personaje clave en una historia que permaneció oculta durante mucho tiempo y que pone al descubierto su más oscuro secreto.   ",
-                    "genre": "Drama, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//fuOiaiRCTBxPJ2uTiy1pK9UHs9L.jpg",
+                    "url": "/ver-serie/rumbo-al-infierno/",
+                    "artist": "Cho Dong-in",
+                    "author": "연상호",
+                    "description": "Seres sobrenaturales entregan condenas sangrientas, enviando a los individuos al infierno y dando lugar a un grupo religioso fundado en la idea de la justicia divina.   ",
+                    "genre": "Crimen, Drama, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//5veiuXxIy3NFsm7LMqLGs4A2vgt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,84 +212,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/desprecio-1x2/",
-                        "name": "T1 - E2 - II",
-                        "episode_number": 2.0
+                        "url": "/ver-el-episodio/rumbo-al-infierno-2x4/",
+                        "name": "T2 - E4 - Episodio 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/ver-el-episodio/desprecio-1x1/",
-                        "name": "T1 - E1 - I",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/rumbo-al-infierno-2x3/",
+                        "name": "T2 - E3 - Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/12593/0npxgvgqh2le_,n,l,.urlset/index-f1-v1-a1.m3u8?t=YyDdT90YedqkA-yy8pQRP4w6EiX1yRzlYeHV10zx-BU&s=1730225361&e=14400&f=62966503&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=52.157&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/12593/0npxgvgqh2le_,n,l,.urlset/index-f1-v1-a1.m3u8?t=YyDdT90YedqkA-yy8pQRP4w6EiX1yRzlYeHV10zx-BU&s=1730225361&e=14400&f=62966503&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=52.157&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/12593/0npxgvgqh2le_,n,l,.urlset/index-f2-v1-a1.m3u8?t=YyDdT90YedqkA-yy8pQRP4w6EiX1yRzlYeHV10zx-BU&s=1730225361&e=14400&f=62966503&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=52.157&sp=2500&asn=8075",
-                        "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/12593/0npxgvgqh2le_,n,l,.urlset/index-f2-v1-a1.m3u8?t=YyDdT90YedqkA-yy8pQRP4w6EiX1yRzlYeHV10zx-BU&s=1730225361&e=14400&f=62966503&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=52.157&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://h0zzcaomekv.cdn-jupiter.com/hls2/01/05294/b0iyvrcv7m7r_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=mEUVurLQ0bX5UgXmIcmxm7PMmC05NOt13EIMdV7BKxk&s=1730225362&e=129600&f=26470802&srv=ejxchamsg0ez&i=0.4&sp=500&p1=ejxchamsg0ez&p2=ejxchamsg0ez&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://h0zzcaomekv.cdn-jupiter.com/hls2/01/05294/b0iyvrcv7m7r_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=mEUVurLQ0bX5UgXmIcmxm7PMmC05NOt13EIMdV7BKxk&s=1730225362&e=129600&f=26470802&srv=ejxchamsg0ez&i=0.4&sp=500&p1=ejxchamsg0ez&p2=ejxchamsg0ez&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/b0iyvrcv7m7r"
-                        }
-                    },
-                    {
-                        "url": "https://h0zzcaomekv.cdn-jupiter.com/hls2/01/05294/b0iyvrcv7m7r_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=mEUVurLQ0bX5UgXmIcmxm7PMmC05NOt13EIMdV7BKxk&s=1730225362&e=129600&f=26470802&srv=ejxchamsg0ez&i=0.4&sp=500&p1=ejxchamsg0ez&p2=ejxchamsg0ez&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://h0zzcaomekv.cdn-jupiter.com/hls2/01/05294/b0iyvrcv7m7r_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=mEUVurLQ0bX5UgXmIcmxm7PMmC05NOt13EIMdV7BKxk&s=1730225362&e=129600&f=26470802&srv=ejxchamsg0ez&i=0.4&sp=500&p1=ejxchamsg0ez&p2=ejxchamsg0ez&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/b0iyvrcv7m7r"
-                        }
-                    },
-                    {
-                        "url": "https://h0zzcaomekv.cdn-jupiter.com/hls2/01/05294/b0iyvrcv7m7r_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=mEUVurLQ0bX5UgXmIcmxm7PMmC05NOt13EIMdV7BKxk&s=1730225362&e=129600&f=26470802&srv=ejxchamsg0ez&i=0.4&sp=500&p1=ejxchamsg0ez&p2=ejxchamsg0ez&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://h0zzcaomekv.cdn-jupiter.com/hls2/01/05294/b0iyvrcv7m7r_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=mEUVurLQ0bX5UgXmIcmxm7PMmC05NOt13EIMdV7BKxk&s=1730225362&e=129600&f=26470802&srv=ejxchamsg0ez&i=0.4&sp=500&p1=ejxchamsg0ez&p2=ejxchamsg0ez&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/b0iyvrcv7m7r"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=oLOeZYm3VRUJaPZ&expires=1730295361&ip=G0WsD0MQKxSHDN&token=WgHU1e7LoNCN",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=oLOeZYm3VRUJaPZ&expires=1730295361&ip=G0WsD0MQKxSHDN&token=WgHU1e7LoNCN"
-                    },
-                    {
-                        "url": "https://s1.goodstream.one/vtt/02/00007/piqc00onryig_sli.vtt",
-                        "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00007/piqc00onryig_sli.vtt",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

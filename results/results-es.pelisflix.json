@@ -7,10 +7,40 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/martha/",
+                                "title": "Martha",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/LNKmDBbYxUMnr9VvA.webp"
+                            },
+                            {
+                                "url": "/pelicula/apocalipsis-z-el-principio-del-fin/",
+                                "title": "Apocalipsis Z: El principio del fin",
+                                "description": "Una extraña enfermedad similar a la rabia empieza a extenderse sin freno por todo el planeta, trans...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/7slexjkqg6VBsC9yAK7ZXUKt7eT2P9OMrZQP80.webp"
+                            },
+                            {
+                                "url": "/pelicula/corte-en-el-tiempo/",
+                                "title": "Corte en el tiempo",
+                                "description": "Una adolescente viaja accidentalmente del año 2024 al 2003, días antes de que una persona enmascar...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/LmLMoX1JPBx3w058YEolBAmwMSrtL5aniLZx.webp"
+                            },
+                            {
                                 "url": "/pelicula/guason-2-folie-a-deux-joker/",
                                 "title": "Guasón 2: Folie a Deux (Joker)",
                                 "description": "Secuela de \"Joker (2019), de nuevo con Phoenix como Arthur Fleck, y que muestra su relación con el ...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/r3RTDZPdbFP7F6B8F8qXjar3xO2j3.webp"
+                            },
+                            {
+                                "url": "/pelicula/风流一代/",
+                                "title": "风流一代",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Tr7GDMrwGaU8efwex7IyktycukhOd.webp"
+                            },
+                            {
+                                "url": "/pelicula/double-blind/",
+                                "title": "Double Blind",
+                                "description": "Después de que una prueba experimental de drogas sale terriblemente mal, los sujetos de prueba sobr...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Rbz3bDdTXDvtTDSw1QnoZF7pHR1i.webp"
                             },
                             {
                                 "url": "/pelicula/my-hero-academia-youre-next/",
@@ -215,36 +245,6 @@
                                 "title": "Canary Black",
                                 "description": "Avery Graves, una de las mejores agentes de la CIA, es chantajeada por terroristas para que traicion...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/mwHCiEiFU8X552TOvjMfDYp3.webp"
-                            },
-                            {
-                                "url": "/pelicula/hermanos/",
-                                "title": "Hermanos",
-                                "description": "Dos hermanos gemelos criminales, uno buscando redención, se embarcan en un peligroso atraco por car...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/J9dl8LQAvlssSsDtqQC6Grkk8iIMu6x46Af5cW.webp"
-                            },
-                            {
-                                "url": "/pelicula/invasion/",
-                                "title": "Invasión",
-                                "description": "Invasión cuenta la historia de una irrupción extraterrestre que tiene sometido al planeta Tierra. ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/upXVPXnzqyTvsiGJ1VXtt8ycA9smNB58QSUwG.webp"
-                            },
-                            {
-                                "url": "/pelicula/mr-crocket/",
-                                "title": "Mr. Crocket",
-                                "description": "En 1993, Summer Beverly acaba de enviudar y lucha por criar a Major, su afligido hijo de 9 años. Un...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/P2vYqPbV4xC5DGlYTu7NejiOF5cu.webp"
-                            },
-                            {
-                                "url": "/pelicula/joni-pata-de-conejo/",
-                                "title": "Joni pata de conejo",
-                                "description": "Joni, es un antiguo ex-militar, que decide investigar un caso relacionado con su pasado, en su camin...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/7e90AqPqYmb77Ovdw0QvbDRrO9N1PoIMsIDT.webp"
-                            },
-                            {
-                                "url": "/pelicula/casa-en-llamas/",
-                                "title": "Casa en llamas",
-                                "description": "Montse (Emma Vilarasau) está emocionadísima porque está a punto de pasar un fin de semana con tod...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/YVSid0BGVwqQfPc5bAM7C7Jrv5hoav.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/guason-2-folie-a-deux-joker/",
-                    "title": "Guasón 2: Folie a Deux (Joker)",
-                    "description": "Secuela de \"Joker (2019), de nuevo con Phoenix como Arthur Fleck, y que muestra su relación con el personaje de Harley Quinn, interpretado por Lady Gaga.",
-                    "genre": "Crimen, Drama, Estrenos, Suspense",
+                    "url": "/pelicula/martha/",
+                    "title": "Martha",
+                    "description": "",
+                    "genre": "Documental",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/guason-2-folie-a-deux-joker/",
+                        "url": "/pelicula/martha/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }

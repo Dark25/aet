@@ -404,14 +404,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/4",
-                        "name": "Episode 4",
-                        "episode_number": 4.0
+                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/5",
+                        "name": "Episode 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/3",
-                        "name": "Episode 3",
-                        "episode_number": 3.0
+                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/5",
+                        "name": "Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -419,31 +419,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeifhqzjd6ch4hj4e3jnxnsjeug3dmlxk5voogdhhjd74prrtw3wgee/1920x1080.m3u8",
-                        "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
-                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeifhqzjd6ch4hj4e3jnxnsjeug3dmlxk5voogdhhjd74prrtw3wgee/1920x1080.m3u8",
+                        "url": "https://sudatchi.com/videos/m3u8/episode-5583.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - Video",
+                        "videoUrl": "https://sudatchi.com/videos/m3u8/episode-5583.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreia4r46um5kzrqlp4x5zq5tjie5qasv5lm7zdwa25fammvfrp3nbqu",
-                                "lang": "English (eng)"
-                            },
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiatakwlefw73i3o3g6ej3tgd5suyxpoltif42hjq652vu3uatrloq",
-                                "lang": "French (fra)"
-                            },
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafybeihdqqnoslzmie2lgvzqzk7joemm6honnqlfmouoxiwbgurw5ghgvu",
-                                "lang": "Latin American Spanish (spa-419)"
-                            },
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreicrsiotu6fe622shtsv7x6cc2ybpyllwiwqosuhmwjnrahmnkjhny",
-                                "lang": "Russian (rus)"
-                            }
-                        ]
+                        }
                     }
                 ],
                 "passed": true

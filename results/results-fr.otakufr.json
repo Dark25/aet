@@ -202,27 +202,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://videos2.sendvid.com/23/f3/q75qprlw.mp4?validfrom=1730390827&validto=1730405227&rate=250k&ip=40.76.119.143&hash=21%2FcoaunHuhg6ehZnWEIOJUEnyk%3D",
-                        "quality": "Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/23/f3/q75qprlw.mp4?validfrom=1730390827&validto=1730405227&rate=250k&ip=40.76.119.143&hash=21%2FcoaunHuhg6ehZnWEIOJUEnyk%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/q75qprlw",
-                            "Referer": "https://https://sendvid.com/embed/q75qprlw/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/58183363b89b5ff98234efa40eb70c24/4426523.mp4",
-                        "quality": "Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/58183363b89b5ff98234efa40eb70c24/4426523.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4426523"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             }
         }
     }

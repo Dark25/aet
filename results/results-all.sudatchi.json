@@ -409,9 +409,9 @@
                         "episode_number": 5.0
                     },
                     {
-                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/5",
-                        "name": "Episode 5",
-                        "episode_number": 5.0
+                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/4",
+                        "name": "Episode 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -419,13 +419,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://sudatchi.com/videos/m3u8/episode-5583.m3u8",
-                        "quality": "Sudatchi (Private IPFS Gateway) - Video",
-                        "videoUrl": "https://sudatchi.com/videos/m3u8/episode-5583.m3u8",
+                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeiboefpx5xrfcufpseseuhveux7sdmdcqxuaudbfuxg5vx2cdw55fe/1920x1080.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
+                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeiboefpx5xrfcufpseseuhveux7sdmdcqxuaudbfuxg5vx2cdw55fe/1920x1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreih5txrzn5o366tyg7mmqk5a3b2bxx4m55eqfwbij3jlwqx7gjbkaa",
+                                "lang": "English (eng)"
+                            },
+                            {
+                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiak5gdzh4qetypooubglbruo3gmw5bvhi3e3pmreby5ftsvgshce4",
+                                "lang": "French (fra)"
+                            },
+                            {
+                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiffieykkwh2osgle7a2r3hbqnm5o3ej2nkrvlck2trsggsqaswtgq",
+                                "lang": "Russian (rus)"
+                            }
+                        ]
                     }
                 ],
                 "passed": true

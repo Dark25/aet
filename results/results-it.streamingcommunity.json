@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10314-avetrana-qui-non-e-hollywood",
+                                "title": "Avetrana: Qui non è Hollywood",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/798dec74-6029-4bc6-88b1-33b39e6a784f.webp"
+                            },
+                            {
                                 "url": "6119-la-legge-di-lidia-poet",
                                 "title": "La legge di Lidia Poët",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/3e655912-f00a-45f7-8d87-e7a0949d2cb2.webp"
@@ -300,11 +305,6 @@
                                 "url": "9702-incoming-i-nuovi-arrivati",
                                 "title": "Incoming - I nuovi arrivati",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/46e35c31-3a9d-471c-ac3d-a3253019634e.webp"
-                            },
-                            {
-                                "url": "9437-alien-romulus",
-                                "title": "Alien: Romulus",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/cfcfc6bb-170d-4279-bf70-6318665e9ba9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -452,14 +452,14 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/77bf7f25-e6f9-441a-a03c-19c0a3fceb4b.webp"
                             },
                             {
+                                "url": "10318-iddu-lultimo-padrino",
+                                "title": "Iddu - L'ultimo padrino",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9c878fde-04c8-4997-a34b-7ab4a696ba65.webp"
+                            },
+                            {
                                 "url": "10316-un-halloween-da-charlie-brown",
                                 "title": "Un Halloween da Charlie Brown",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/46aa8b7f-a453-428f-9ed9-ef9208ae4472.webp"
-                            },
-                            {
-                                "url": "10314-avetrana-qui-non-e-hollywood",
-                                "title": "Avetrana: Qui non è Hollywood",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/798dec74-6029-4bc6-88b1-33b39e6a784f.webp"
                             },
                             {
                                 "url": "10313-tales-of-the-city",
@@ -934,22 +934,62 @@
             },
             "details": {
                 "result": {
-                    "url": "6119-la-legge-di-lidia-poet",
-                    "description": "Nella Torino di fine ‘800 la giovane Lidia Poët combatte contro tutto e tutti per ottenere ciò che le spetta di diritto: entrare a far parte dell’Ordine degli avvocati. Un mestiere, al tempo, riservato esclusivamente agli uomini. Nonostante ciò, niente è riuscito a fermare il suo sogno di diventare la prima avvocata d’Italia.",
-                    "genre": "Dramma, Crime, War & Politics",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "10314-avetrana-qui-non-e-hollywood",
+                    "description": "Il 26 agosto del 2010 una quindicenne di nome Sarah scompare ad Avetrana. Tutto il paese è in subbuglio, soprattutto la cugina Sabrina. Sembra una fuga innocente, ma non lo è. Mentre tutti la cercano, Sarah è già stata inghiottita nel nulla. Da uno dei più noti casi di cronaca nera italiana, la scioccante storia di una scomparsa, rappresentata attraverso gli occhi dei protagonisti.",
+                    "genre": "Dramma, Crime",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "10314?episode_id=80019&next_episode=1",
+                        "name": "Stagione 1 episodio 4 - Cosima",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "10314?episode_id=80020&next_episode=1",
+                        "name": "Stagione 1 episodio 3 - Michele",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/268108?type=video&rendition=480p&token=QmcNckuTXOa4ukCoavvYTg&expires=1735668427&b=1",
+                        "quality": "480,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/268108?type=video&rendition=480p&token=QmcNckuTXOa4ukCoavvYTg&expires=1735668427&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=2-forced-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=3-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
+                                "lang": "Italian [CC]"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/268108?type=video&rendition=720p&token=LfW9TPFNpS2fERLhseUvxg&expires=1735668427&b=1",
+                        "quality": "720,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/268108?type=video&rendition=720p&token=LfW9TPFNpS2fERLhseUvxg&expires=1735668427&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=2-forced-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
+                                "lang": "Italian [Forced]"
+                            },
+                            {
+                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=3-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
+                                "lang": "Italian [CC]"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

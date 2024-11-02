@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10162-terrifier-3",
+                                "title": "Terrifier 3",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/17c6b873-c99b-4fb1-8e58-a0432259f883.webp"
+                            },
+                            {
                                 "url": "10314-avetrana-qui-non-e-hollywood",
                                 "title": "Avetrana: Qui non è Hollywood",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/798dec74-6029-4bc6-88b1-33b39e6a784f.webp"
@@ -50,11 +55,6 @@
                                 "url": "5030-avvocato-di-difesa",
                                 "title": "Avvocato di difesa",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/be77bc23-2427-42f9-8f42-a0946f97db7d.webp"
-                            },
-                            {
-                                "url": "10162-terrifier-3",
-                                "title": "Terrifier 3",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/17c6b873-c99b-4fb1-8e58-a0432259f883.webp"
                             },
                             {
                                 "url": "9239-millers-girl",
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "10314-avetrana-qui-non-e-hollywood",
-                    "description": "Il 26 agosto del 2010 una quindicenne di nome Sarah scompare ad Avetrana. Tutto il paese è in subbuglio, soprattutto la cugina Sabrina. Sembra una fuga innocente, ma non lo è. Mentre tutti la cercano, Sarah è già stata inghiottita nel nulla. Da uno dei più noti casi di cronaca nera italiana, la scioccante storia di una scomparsa, rappresentata attraverso gli occhi dei protagonisti.",
-                    "genre": "Dramma, Crime",
+                    "url": "10162-terrifier-3",
+                    "description": "Quando gli abitanti di Miles County si coricano nelle loro case alla Vigilia di Natale, non hanno idea che a scendere dal camino stavolta sarà Art il Clown. Il folle killer ha preso il posto di Babbo Natale e le sue povere vittime sono ignare che, invece dei giocattoli, saranno loro a riempire il sacco dei regali.",
+                    "genre": "Thriller, Horror",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -944,21 +946,39 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "10314?episode_id=80019&next_episode=1",
-                        "name": "Stagione 1 episodio 4 - Cosima",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "10314?episode_id=80020&next_episode=1",
-                        "name": "Stagione 1 episodio 3 - Michele",
-                        "episode_number": 3.0
+                        "url": "10162",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/268694?type=video&rendition=480p&token=bpUvCJ2uH3P6_wwberu1fA&expires=1735754808&b=1",
+                        "quality": "480,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/268694?type=video&rendition=480p&token=bpUvCJ2uH3P6_wwberu1fA&expires=1735754808&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/268694?type=subtitle&rendition=3-eng&token=byw1dNpnp8bBYfahGVK5Eg&expires=1735754808&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/268694?type=video&rendition=720p&token=siApok8A3oOwv13KGHkcpg&expires=1735754808&b=1",
+                        "quality": "720,AUDIO=\"audio\",SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/268694?type=video&rendition=720p&token=siApok8A3oOwv13KGHkcpg&expires=1735754808&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/268694?type=subtitle&rendition=3-eng&token=byw1dNpnp8bBYfahGVK5Eg&expires=1735754808&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

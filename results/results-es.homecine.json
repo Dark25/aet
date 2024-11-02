@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/insidious-2010/",
+                                "title": "Insidious (2010)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gIrBcrmtL2KEiydYKk8r94o1UGI.jpg"
+                            },
+                            {
                                 "url": "/apocalipsis-z-el-principio-del-fin/",
                                 "title": "Apocalipsis Z: El principio del fin",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/witch/",
                                 "title": "Witch",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dsjyA06mUIPJfYeQs4WpUqquFGD.jpg"
-                            },
-                            {
-                                "url": "/winx-club-el-misterio-del-abismo/",
-                                "title": "Winx Club: El Misterio del Abismo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tf0QLY55SjgEDHqk44LnkRkfemM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,14 +424,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/apocalipsis-z-el-principio-del-fin/",
-                    "title": "Apocalipsis Z: El principio del fin",
-                    "artist": "Berta Vázquez",
-                    "description": "Una extraña enfermedad similar a la rabia empieza a extenderse sin freno por todo el planeta, transformando a la gente en criaturas extremadamente agresivas. Pero Manel lleva tiempo viviendo su propio apocalipsis; aún no ha superado la pérdida de su mujer en un accidente, y lleva un año deprimido y aislado de su familia, con Lúculo, su gato, como única compañía. Cuando la enfermedad cobra aún más fuerza, su hermana insiste en que deje Vigo y se reúna con ella en Canarias, pero el plan fracasa. Manel tiene que parapetarse en su casa, recurriendo a su ingenio y habilidades para sobrevivir. Sin embargo, él y Lúculo pronto se ven empujados a salir, y se irán encontrando, por tierra y por mar, con compañeros de viaje improbables pero esenciales.",
-                    "genre": "Acción, Fantasía, Terror",
+                    "url": "/insidious-2010/",
+                    "title": "Insidious (2010)",
+                    "artist": "Angus Sampson",
+                    "author": "James Wan",
+                    "description": "La noche del demonio Una familia descubre que espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño interminable. Cuando piden ayuda a un profesional, descubren que las cosas son mucho más personales de lo que pensaban.",
+                    "genre": "Suspense, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gIrBcrmtL2KEiydYKk8r94o1UGI.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -439,7 +440,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/apocalipsis-z-el-principio-del-fin/",
+                        "url": "/insidious-2010/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -449,9 +450,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/aynkhhvktepb_n/index-v1-a1.m3u8?t=-4f0QTC_xghq57IpnB5epGncCqxR6HqdYIC-UJzK84g&s=1730527582&e=43200&v=13057852&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_n/index-v1-a1.m3u8?t=Fr91hYSHkr-L1hFuVB8r304_tLPDnap4v1HoDBzVMJ8&s=1730549227&e=43200&v=13124900&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_n/index-v1-a1.m3u8?t=Fr91hYSHkr-L1hFuVB8r304_tLPDnap4v1HoDBzVMJ8&s=1730549227&e=43200&v=13124900&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_l/index-v1-a1.m3u8?t=Fr91hYSHkr-L1hFuVB8r304_tLPDnap4v1HoDBzVMJ8&s=1730549227&e=43200&v=13124900&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_l/index-v1-a1.m3u8?t=Fr91hYSHkr-L1hFuVB8r304_tLPDnap4v1HoDBzVMJ8&s=1730549227&e=43200&v=13124900&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_n/index-v1-a1.m3u8?t=jv48PqHeMgkECLDwQkJs4gCIkESCjqUnTtJ6OllL1Mw&s=1730549227&e=43200&v=13124905&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/aynkhhvktepb_n/index-v1-a1.m3u8?t=-4f0QTC_xghq57IpnB5epGncCqxR6HqdYIC-UJzK84g&s=1730527582&e=43200&v=13057852&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_n/index-v1-a1.m3u8?t=jv48PqHeMgkECLDwQkJs4gCIkESCjqUnTtJ6OllL1Mw&s=1730549227&e=43200&v=13124905&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -460,9 +483,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/mtcpft1850km_n/index-v1-a1.m3u8?t=5Yvvhk3paPHRrdfq_vlkYxI9UzpqT_yiZxJR1cI-pjc&s=1730527582&e=43200&v=13057855&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_n/index-v1-a1.m3u8?t=uw3q3Nbpt-oPaozL2aLp5m734BZ4jZeAYJL_BNBGZF8&s=1730549227&e=43200&v=13124899&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/mtcpft1850km_n/index-v1-a1.m3u8?t=5Yvvhk3paPHRrdfq_vlkYxI9UzpqT_yiZxJR1cI-pjc&s=1730527582&e=43200&v=13057855&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_n/index-v1-a1.m3u8?t=uw3q3Nbpt-oPaozL2aLp5m734BZ4jZeAYJL_BNBGZF8&s=1730549227&e=43200&v=13124899&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -471,9 +494,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/aynkhhvktepb_l/index-v1-a1.m3u8?t=-4f0QTC_xghq57IpnB5epGncCqxR6HqdYIC-UJzK84g&s=1730527582&e=43200&v=13057852&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_l/index-v1-a1.m3u8?t=jv48PqHeMgkECLDwQkJs4gCIkESCjqUnTtJ6OllL1Mw&s=1730549227&e=43200&v=13124905&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/aynkhhvktepb_l/index-v1-a1.m3u8?t=-4f0QTC_xghq57IpnB5epGncCqxR6HqdYIC-UJzK84g&s=1730527582&e=43200&v=13057852&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_l/index-v1-a1.m3u8?t=jv48PqHeMgkECLDwQkJs4gCIkESCjqUnTtJ6OllL1Mw&s=1730549227&e=43200&v=13124905&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -482,9 +505,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/mtcpft1850km_l/index-v1-a1.m3u8?t=5Yvvhk3paPHRrdfq_vlkYxI9UzpqT_yiZxJR1cI-pjc&s=1730527582&e=43200&v=13057855&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_l/index-v1-a1.m3u8?t=uw3q3Nbpt-oPaozL2aLp5m734BZ4jZeAYJL_BNBGZF8&s=1730549227&e=43200&v=13124899&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/mtcpft1850km_l/index-v1-a1.m3u8?t=5Yvvhk3paPHRrdfq_vlkYxI9UzpqT_yiZxJR1cI-pjc&s=1730527582&e=43200&v=13057855&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_l/index-v1-a1.m3u8?t=uw3q3Nbpt-oPaozL2aLp5m734BZ4jZeAYJL_BNBGZF8&s=1730549227&e=43200&v=13124899&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

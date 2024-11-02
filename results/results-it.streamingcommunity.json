@@ -957,39 +957,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/268108?type=video&rendition=480p&token=QmcNckuTXOa4ukCoavvYTg&expires=1735668427&b=1",
-                        "quality": "480,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/268108?type=video&rendition=480p&token=QmcNckuTXOa4ukCoavvYTg&expires=1735668427&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=2-forced-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=3-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
-                                "lang": "Italian [CC]"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/268108?type=video&rendition=720p&token=LfW9TPFNpS2fERLhseUvxg&expires=1735668427&b=1",
-                        "quality": "720,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/268108?type=video&rendition=720p&token=LfW9TPFNpS2fERLhseUvxg&expires=1735668427&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=2-forced-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.co/playlist/268108?type=subtitle&rendition=3-ita&token=BV3SkwR6_0GEQNaOo_em6Q&expires=1735668427&b=1",
-                                "lang": "Italian [CC]"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

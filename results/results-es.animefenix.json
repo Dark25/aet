@@ -435,37 +435,46 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/0iTuJsMuBDshiWsOflE-NZS2iCU2fBdA2iYYwrYd4A0eJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/0iTuJsMuBDshiWsOflE-NZS2iCU2fBdA2iYYwrYd4A0eJxFPc"
-                    },
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/uTytkD9rjYgWNDs4jP9lA6rFZrS7jjEOuRNLbBrzsAAeJxFPc",
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/JrvSV-uRLazbwXhbDqfCI1TDj8gFguOgyL7AJIXoFJ4eJxFPc",
                         "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/uTytkD9rjYgWNDs4jP9lA6rFZrS7jjEOuRNLbBrzsAAeJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/JrvSV-uRLazbwXhbDqfCI1TDj8gFguOgyL7AJIXoFJ4eJxFPc"
                     },
                     {
-                        "url": "https://www3.mp4upload.com:183/d/r2xqtzbgz3b4quuodowrejsviqmre4egftomtw3hpj4e6prr6selr55le3hiqsxvvveej5j7/video.mp4",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/BF8MkJ2Edr-n-qtOUhWxNOKw6UkjoTTr_fVkHNSF49YeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/BF8MkJ2Edr-n-qtOUhWxNOKw6UkjoTTr_fVkHNSF49YeJxFPc"
+                    },
+                    {
+                        "url": "https://www3.mp4upload.com:183/d/r2xqtzbgz3b4quuodowrejsviqmre4egftomtw3hpj4o5usbsw7zinpq5zdd25fhyixlumob/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2xqtzbgz3b4quuodowrejsviqmre4egftomtw3hpj4e6prr6selr55le3hiqsxvvveej5j7/video.mp4",
+                        "videoUrl": "https://www3.mp4upload.com:183/d/r2xqtzbgz3b4quuodowrejsviqmre4egftomtw3hpj4o5usbsw7zinpq5zdd25fhyixlumob/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://srv3.fireload.com/40906ebef66d44d0/DrStone24.mp4?download_token=0353e46991d4aa4830b083c810ecb1a87e409d50999301e700a892f8535b20b2&fl=true",
-                        "quality": "FireLoad",
-                        "videoUrl": "https://srv3.fireload.com/40906ebef66d44d0/DrStone24.mp4?download_token=0353e46991d4aa4830b083c810ecb1a87e409d50999301e700a892f8535b20b2&fl=true"
+                        "url": "https://cdn.burstcloud.co/a20241101V5aWKK7ie5F/DrStone24.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a20241101V5aWKK7ie5F/DrStone24.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
                     },
                     {
-                        "url": "https://vidcache.net:8161/a202411012r58lX88Bfy/video.mp4",
+                        "url": "https://vidcache.net:8161/a20241101tMmnGn6puPu/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202411012r58lX88Bfy/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20241101tMmnGn6puPu/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"
                         }
+                    },
+                    {
+                        "url": "https://srv3.fireload.com/40906ebef66d44d0/DrStone24.mp4?download_token=0353e46991d4aa4830b083c810ecb1a87e409d50999301e700a892f8535b20b2&fl=true",
+                        "quality": "FireLoad",
+                        "videoUrl": "https://srv3.fireload.com/40906ebef66d44d0/DrStone24.mp4?download_token=0353e46991d4aa4830b083c810ecb1a87e409d50999301e700a892f8535b20b2&fl=true"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/demon-lord-2099-latino",
+                                "title": "Demon Lord 2099 Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/demon-lord-2099-latino-1730584981.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/historias-de-fantasmas-latino",
                                 "title": "Historias de Fantasmas Redoblaje Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/historias-de-fantasmas-latino-1730326890.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/pandora-hearts-latino",
                                 "title": "Pandora Hearts Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/pandora-hearts-latino-1724544769.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/nige-jouzu-no-wakagimi-latino",
-                                "title": "Nige Jouzu no Wakagimi Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/nige-jouzu-no-wakagimi-latino-1724530125.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/historias-de-fantasmas-latino",
-                    "title": "Historias de Fantasmas Redoblaje Latino",
-                    "description": "Después del fallecimiento de su madre, Satsuki Miyanoshita y su hermano menor Keiichiro se mudan a la ciudad natal de sus padres. En su primer día en la nueva escuela, accidentalmente ingresan en el antiguo edificio, donde conocen a Hajime Aoyama, Leo Kakinoki y Momoko Koigakubo. Pronto son atacados por el espíritu maligno conocido como \"Amanojaku\". Afortunadamente, Satsuki encuentra por casualidad el \"Diario de Fantasmas\" de su madre y logra repelerlo, pero el espíritu queda sellado en su gato, Kaya. Ahora, Satsuki y sus amigos deben enfrentarse a otros seres sobrenaturales, dando inicio a una aterradora historia llena de fantasmas. ¿Serán capaces de enfrentar los horrores que les aguardan?",
-                    "genre": "Horror, Misterio, Sobrenatural",
+                    "url": "/anime/demon-lord-2099-latino",
+                    "title": "Demon Lord 2099 Latino",
+                    "description": "Año 2099, Shinjuku. La deslumbrante prosperidad de esta enorme ciudad-estado oculta una oscuridad sórdida justo debajo de su superficie. Es aquí, en esta megalópolis que representa el pináculo del desarrollo humano, donde el legendario Señor Demonio Veltol hace su segunda venida. ¡Para gobernar este valiente nuevo mundo, tendrá que tomar el control del futuro para sí mismo!",
+                    "genre": "Acción, Ciencia Ficción, Fantasía",
                     "initialized": true
                 },
                 "passed": true
@@ -335,14 +335,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/historias-de-fantasmas-latino-episodio-15",
-                        "name": "Historias de Fantasmas Redoblaje Latino Capitulo 15",
-                        "episode_number": 15.0
-                    },
-                    {
-                        "url": "/ver/historias-de-fantasmas-latino-episodio-14",
-                        "name": "Historias de Fantasmas Redoblaje Latino Capitulo 14",
-                        "episode_number": 14.0
+                        "url": "/ver/demon-lord-2099-latino-episodio-1",
+                        "name": "Demon Lord 2099 Latino Capitulo 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -350,20 +345,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-tlrb1vs6yeporajd.voe-network.net/engine/hls2/01/12625/bcfe379xqm6c_,n,.urlset/index-v1-a1.m3u8?t=1nqTzj098cPKdN3Ul_V1SuxdUb0ovr0GZcGXah1316A&s=1730570804&e=14400&f=63128857&node=delivery-node-tlrb1vs6yeporajd.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "url": "https://delivery-node-jvxxf0tlln9detgc.voe-network.net/engine/hls2-c/01/12630/6vvkwjpbi5mm_,n,.urlset/index-v1-a1.m3u8?t=_paN-WlQ4ILX2exQynyZZZL9VgvWpTdqGc3EVBKx-eI&s=1730593160&e=14400&f=63154889&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=20.81&sp=2500&asn=8075",
                         "quality": " - Voe: 1080p",
-                        "videoUrl": "https://delivery-node-tlrb1vs6yeporajd.voe-network.net/engine/hls2/01/12625/bcfe379xqm6c_,n,.urlset/index-v1-a1.m3u8?t=1nqTzj098cPKdN3Ul_V1SuxdUb0ovr0GZcGXah1316A&s=1730570804&e=14400&f=63128857&node=delivery-node-tlrb1vs6yeporajd.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-jvxxf0tlln9detgc.voe-network.net/engine/hls2-c/01/12630/6vvkwjpbi5mm_,n,.urlset/index-v1-a1.m3u8?t=_paN-WlQ4ILX2exQynyZZZL9VgvWpTdqGc3EVBKx-eI&s=1730593160&e=14400&f=63154889&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=20.81&sp=2500&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://voe.sx",
-                            "Referer": "https://voe.sx/e/bcfe379xqm6c"
+                            "Referer": "https://voe.sx/e/6vvkwjpbi5mm"
                         }
                     },
                     {
-                        "url": "https://www13.mp4upload.com:183/d/q2xqlquiz3b4quuor2reqpcwkeoj3r2xcqdjgqxrx4ti6fswljhowfmzrf7gstdq3tyrn475/video.mp4",
+                        "url": "https://www3.mp4upload.com:183/d/r2xtbvmiz3b4quuor6rbii2qlm2xmooyycseex2zmrzohsahstjoj6lryhidenfi6y3e5lic/video.mp4",
                         "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www13.mp4upload.com:183/d/q2xqlquiz3b4quuor2reqpcwkeoj3r2xcqdjgqxrx4ti6fswljhowfmzrf7gstdq3tyrn475/video.mp4",
+                        "videoUrl": "https://www3.mp4upload.com:183/d/r2xtbvmiz3b4quuor6rbii2qlm2xmooyycseex2zmrzohsahstjoj6lryhidenfi6y3e5lic/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

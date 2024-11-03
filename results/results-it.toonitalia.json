@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/film-anime/wendell-e-wild-2022/",
+                                "title": "Wendell e Wild 2022",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/11/wendell-e-wild-2022.jpg"
+                            },
+                            {
+                                "url": "/le-nuove-avventure-di-pinocchio-1972/",
+                                "title": "Le nuove avventure di Pinocchio 1972",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/11/2yZnaUTXJFWlU9G7Fm7AVnBK5Ul.jpg"
+                            },
+                            {
                                 "url": "/gormiti-the-new-era/",
                                 "title": "Gormiti – The New Era",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/11/oFmswJUrF8iRj5edqmm1nD8WHmQ.jpg"
@@ -45,16 +55,6 @@
                                 "url": "/lego-city-adventures/",
                                 "title": "LEGO City Adventures",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/10/w7HPGA6eSyem1fmP1JkaX6Clllx.jpg"
-                            },
-                            {
-                                "url": "/reboot-the-guardian-code/",
-                                "title": "ReBoot: The Guardian Code",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/10/fyD4p8MgUsJCNWdHUqES3MSQ2Jd.jpg"
-                            },
-                            {
-                                "url": "/pocahontas-serie-animata-2000/",
-                                "title": "Pocahontas – Serie animata – 2000",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/10/7disgX76MY3uO1GO0emJHMdWAtp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -124,20 +124,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/gormiti-the-new-era/",
-                    "title": "Gormiti – The New Era",
-                    "description": "Trama:\n\n“Gormiti – The New Era” è una serie italiana live-action che segue le avventure di quattro adolescenti – Zane, Skye, Carter e Glen – scelti come protettori del mondo di Gorm. Guidati dalla misteriosa Myridell, i ragazzi acquisiscono poteri elementali e, insieme ai leggendari guerrieri Gormiti, combattono contro il malvagio Lord Graven per difendere Gorm e la Terra.Oltre alla battaglia contro il male, la serie esplora temi come amicizia, crescita personale e rispetto per la natura. La storia, divisa in 20 episodi, è stata trasmessa su Rai 2 e Rai Gulp. Gormiti – The New Era streaming ita.\nScheda della serieTitolo: Gormiti - The New EraGenere: Action & Adventure, Kids, Dramma, Famiglia, Commedia, Sci-Fi & FantasyCast: UnknowAnno: 2024Nazione: ITVoto: 6Voti: 25",
-                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/11/oFmswJUrF8iRj5edqmm1nD8WHmQ.jpg",
+                    "url": "/film-anime/wendell-e-wild-2022/",
+                    "title": "Wendell e Wild 2022",
+                    "description": "Wendell e Wild sono due fratelli demoni evasi dall inferno. Alle loro calcagna c e la suora acchiappademoni Sorella Helly insieme a due suoi accoliti, i ragazzi goth Kat e Raul. Solo Kat pero puo vedere i demoni. Wendell e Wild 2022 streaming ita.\nLink streaming ita del film Wendell e Wild 2022 MaxStream  Flexy Tape Scarica",
+                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/11/wendell-e-wild-2022.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/film-anime/wendell-e-wild-2022/#0",
+                        "name": "Wendell e Wild 2022",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

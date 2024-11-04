@@ -2453,13 +2453,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1730672287&validto=1730686687&rate=200k&ip=20.55.118.240&hash=ipBC6RxY7BBRbUXN5KqfREAptKM%3D",
+                        "url": "https://video.sibnet.ru/v/3f5a9ae91629c2a6fcbda54aafcc4cad/5150375.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/3f5a9ae91629c2a6fcbda54aafcc4cad/5150375.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5150375"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1730693263&validto=1730707663&rate=200k&ip=20.172.44.1&hash=5t3PosZFS%2FFpZw8MDyrM%2BCC8RIc%3D",
                         "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1730672287&validto=1730686687&rate=200k&ip=20.55.118.240&hash=ipBC6RxY7BBRbUXN5KqfREAptKM%3D",
+                        "videoUrl": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1730693263&validto=1730707663&rate=200k&ip=20.172.44.1&hash=5t3PosZFS%2FFpZw8MDyrM%2BCC8RIc%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://https://sendvid.com/embed/po9rn5vq",
                             "Referer": "https://https://sendvid.com/embed/po9rn5vq/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/2a7fe36b9fe3ba062db1c8a1f81bad27/5295770.mp4",
+                        "quality": "(VF) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/2a7fe36b9fe3ba062db1c8a1f81bad27/5295770.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5295770"
                         }
                     }
                 ],

@@ -1,6 +1,6 @@
 [
     {
-        "name": "أكوام (AR)",
+        "name": "MhdFlix (ES)",
         "results": {
             "popular": {
                 "error": "java.util.NoSuchElementException: List is empty.",
@@ -12,18 +12,21 @@
             },
             "details": {
                 "result": {
-                    "author": "",
                     "description": "",
                     "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/",
+                        "name": "Película",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

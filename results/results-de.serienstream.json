@@ -222,14 +222,14 @@
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/alert-missing-persons-unit-stream-cover-zYFXZl6mUgG73jySJYH1BnrVuAHdjEuB_200x300.jpg"
                             },
                             {
-                                "url": "/serie/stream/return-to-paradise",
-                                "title": "Return to Paradise",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/return-to-paradise-stream-cover-5JnNscvGd4KtiolOPyAlrgjHGahRPOSk_200x300.jpg"
-                            },
-                            {
                                 "url": "/serie/stream/carl-hiaasens-bad-monkey",
                                 "title": "Carl Hiaasen’s Bad Monkey",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/carl-hiaasens-bad-monkey-stream-cover-eQEggT5NLn7EfG3ywseyZ7oyQGHW7twr_200x300.jpg"
+                            },
+                            {
+                                "url": "/serie/stream/return-to-paradise",
+                                "title": "Return to Paradise",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/return-to-paradise-stream-cover-5JnNscvGd4KtiolOPyAlrgjHGahRPOSk_200x300.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -241,6 +241,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/stream/kidnapped-the-chloe-ayling-story",
+                                "title": "Kidnapped: The Chloe Ayling Story",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/kidnapped-the-chloe-ayling-story-stream-cover-QqzxPnvIqctOdhz6OQXx68yfuvlp8pd7_200x300.jpg"
+                            },
+                            {
+                                "url": "/serie/stream/ao-no-miburo",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/ao-no-miburo-stream-cover-DHDnOoK5dJC59GQJHPugbbC3Zy0tkwHz_200x300.jpg"
+                            },
+                            {
+                                "url": "/serie/stream/one-piece-log-fish-man-island-saga",
+                                "title": "One Piece Log: Fish-Man Island Saga",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/one-piece-log-fish-man-island-saga-stream-cover-GdFUlFpuviojEB3FHCMddXKodMCOFZFO_200x300.jpg"
+                            },
                             {
                                 "url": "/serie/stream/primos",
                                 "title": "Primos",
@@ -325,21 +340,6 @@
                                 "url": "/serie/stream/30-jahre-familie-ritter",
                                 "title": "30 Jahre Familie Ritter",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/die-geschichte-der-ritters-wie-sie-noch-nie-erzhlt-wurde-stream-cover-I9M0yWDF9rZIRv5p3e802dYmu6ByPf5F_200x300.jpg"
-                            },
-                            {
-                                "url": "/serie/stream/augen-zu-und-durch-bruder",
-                                "title": "Augen zu und durch, Bruder",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/augen-zu-und-durch-bruder-stream-cover-Lwx9Y2SiQ7hA0K64qpbEyhQ2maluYb4G_200x300.jpg"
-                            },
-                            {
-                                "url": "/serie/stream/nautilus",
-                                "title": "Nautilus",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/nautilus-stream-cover-Y34vYyzra4TpntpiLTL3bpdzoKqIEH8y_200x300.jpg"
-                            },
-                            {
-                                "url": "/serie/stream/you-would-do-it-too",
-                                "title": "You Would Do It Too",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/you-would-do-it-too-stream-cover-9FxPa3sjHv3mterJFwYtzX1Y0tzhQvKI_200x300.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -365,14 +365,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/serie/stream/the-penguin/staffel-1/episode-7",
+                        "name": "Staffel 1 Folge 7 : Top Hat",
+                        "episode_number": 7.0
+                    },
+                    {
                         "url": "/serie/stream/the-penguin/staffel-1/episode-6",
                         "name": "Staffel 1 Folge 6 : Gold Summit",
                         "episode_number": 6.0
-                    },
-                    {
-                        "url": "/serie/stream/the-penguin/staffel-1/episode-5",
-                        "name": "Staffel 1 Folge 5 : Homecoming",
-                        "episode_number": 5.0
                     }
                 ],
                 "passed": true

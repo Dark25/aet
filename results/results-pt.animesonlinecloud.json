@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/maou-2099-dublado-episodio-01",
+                                "title": "Maou 2099 Dublado Episódio 01",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wYr3HWgCkBUK2xfSnzbAHbua6WZ.jpg"
+                            },
+                            {
                                 "url": "/episodio/seirei-gensouki-2-episodio-05",
                                 "title": "Seirei Gensouki 2 Episódio 05",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/wFPsRc1w8nyDelJKTsofnDAuCLG.jpg"
@@ -96,7 +101,7 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/zpQevjD9lG9in1w5F7DFJjVY6ZV.jpg"
                             },
                             {
-                                "url": "/episodio/tower-of-god-2-episodio-17-2",
+                                "url": "/episodio/tower-of-god-2-episodio-18",
                                 "title": "Tower of God 2 Episodio 18",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/gYfu5Y6wsLTzpMUl28SYuzGnrFq.jpg"
                             },
@@ -124,11 +129,6 @@
                                 "url": "/episodio/kimi-wa-meido-sama-episodio-05",
                                 "title": "Kimi wa Meido-sama Episódio 05",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/lAHtZaVukITCqiqridZP9bmSbkW.jpg"
-                            },
-                            {
-                                "url": "/episodio/ao-no-exorcist-yuki-no-hate-hen-episodio-05",
-                                "title": "Ao no Exorcist Yuki no Hate-hen Episódio 05",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zsfQ40IVAYCUXYbzfgm72SNT5M5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -178,11 +178,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/seirei-gensouki-spirit-chronicles",
-                    "title": "Seirei Gensouki 2 –",
-                    "description": "精霊幻想記2, Seirei Gensouki: Spirit Chronicles Season 2, Seirei Gensouki: Spirit Chronicles 2\n",
-                    "genre": "Ação e Aventura, Animação, Drama, Sci-Fi & Fantasia, Letra S, Dublado, Legendado",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/jyWRXOBmctLalXE2uFCf1O5OrEI.jpg",
+                    "url": "/anime/maou-2099-dublado-todos-os-episodios",
+                    "title": "Maou 2099 Dublado –",
+                    "description": "Ken to Maou no Cyberpunk, The Lord Of Immortals Blooming in The Abyss F.E. 2099, 魔王2099, Demon Lord 2099\n",
+                    "genre": "Ação, Animação, Aventura, Fantasia, Sci-Fi, Letra M, Dublado",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/mU7QgTm2WadwVoT7jDyMY9Czpsj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -190,21 +190,59 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodio/seirei-gensouki-2-episodio-05",
-                        "name": "Temporada 2 x 5 - Episódio 05 - Heróis e campeões",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/episodio/seirei-gensouki-2-episodio-04",
-                        "name": "Temporada 2 x 4 - Episódio 04",
-                        "episode_number": 4.0
+                        "url": "/episodio/maou-2099-dublado-episodio-01",
+                        "name": "Temporada 1 x 1 - Episódio 01 - Shinjuku, a Cidade Cyberpunk",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr2---sn-vgqskn6s.googlevideo.com/videoplayback?expire=1730837339&ei=2woqZ6HoGc2TmvUP7c-52Ak&ip=172.183.35.229&id=88f4f972b3218512&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1730808539,&mh=LO&mm=31&mn=sn-vgqskn6s&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.132&lmt=1730795110448866&mt=1730807363&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgBRrADCCsCR_FsCjHh6-IJO8qZcZVwUuoC-WGoCJ2pwMCIH0j-qkipzywNA7B2OJJhSk_NsVCLzwyEOJA3XBq302m&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAPu3EFOweBi29qi8YPDci1T48qNOiOPZdEz8N6uwjbziAiASEm-jeo8SG95AlPPqtslyVia9jvqz7po_5j_1l86nUg%3D%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr2---sn-vgqskn6s.googlevideo.com/videoplayback?expire=1730837339&ei=2woqZ6HoGc2TmvUP7c-52Ak&ip=172.183.35.229&id=88f4f972b3218512&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1730808539,&mh=LO&mm=31&mn=sn-vgqskn6s&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.132&lmt=1730795110448866&mt=1730807363&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgBRrADCCsCR_FsCjHh6-IJO8qZcZVwUuoC-WGoCJ2pwMCIH0j-qkipzywNA7B2OJJhSk_NsVCLzwyEOJA3XBq302m&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAPu3EFOweBi29qi8YPDci1T48qNOiOPZdEz8N6uwjbziAiASEm-jeo8SG95AlPPqtslyVia9jvqz7po_5j_1l86nUg%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    },
+                    {
+                        "url": "https://cld.pt/dl/download/504edba9-f328-45d2-83b7-a99f0cecb367/Maou%202099%20Dublado%20-%20Epis%C3%B3dio%201.mp4",
+                        "quality": "720p",
+                        "videoUrl": "https://cld.pt/dl/download/504edba9-f328-45d2-83b7-a99f0cecb367/Maou%202099%20Dublado%20-%20Epis%C3%B3dio%201.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesonline.cloud/",
+                            "Accept": "*/*",
+                            "Host": "cld.pt",
+                            "Origin": "https://animesonline.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://animeflix.blog/Animes/Letra-M/Maou%202099/DUB/01.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "https://animeflix.blog/Animes/Letra-M/Maou%202099/DUB/01.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesonline.cloud/",
+                            "Accept": "*/*",
+                            "Host": "animeflix.blog",
+                            "Origin": "https://animesonline.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://rr2---sn-vgqskn6s.googlevideo.com/videoplayback?expire=1730837339&ei=2woqZ6HoGc2TmvUP7c-52Ak&ip=172.183.35.229&id=88f4f972b3218512&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1730808539,&mh=LO&mm=31&mn=sn-vgqskn6s&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.132&lmt=1730795116106858&mt=1730807363&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgQ7KP-p495Dg-c3TVWmJcyCu3mGeF9mLkY1ISh21zBNsCIQD_JOvjrqkIYsBRAWsZYhOwf2b0dDydtTqjKWZ0ya1dIA%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAM3smPkRq1E_YbyzkzrBD1lf7s8ddfw4ahaOU_aChqihAiEA1fya0m3-6EG6mNGOmngUu_ig1ZbbtgVZs6WaK2vax1M%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr2---sn-vgqskn6s.googlevideo.com/videoplayback?expire=1730837339&ei=2woqZ6HoGc2TmvUP7c-52Ak&ip=172.183.35.229&id=88f4f972b3218512&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1730808539,&mh=LO&mm=31&mn=sn-vgqskn6s&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.132&lmt=1730795116106858&mt=1730807363&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgQ7KP-p495Dg-c3TVWmJcyCu3mGeF9mLkY1ISh21zBNsCIQD_JOvjrqkIYsBRAWsZYhOwf2b0dDydtTqjKWZ0ya1dIA%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAM3smPkRq1E_YbyzkzrBD1lf7s8ddfw4ahaOU_aChqihAiEA1fya0m3-6EG6mNGOmngUu_ig1ZbbtgVZs6WaK2vax1M%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

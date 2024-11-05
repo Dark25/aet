@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/cellar-door-2024/",
+                                "title": "Cellar Door (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/zXntBYq6YYwH1QrBfoZ9bT23dhU.jpg"
+                            },
+                            {
                                 "url": "/peliculas/haikyu-la-batalla-del-basurero-2024/",
                                 "title": "HAIKYU!! La batalla del basurero (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Canario negro (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/iCNkHfsB3mCOCwDLOmjIZotGPID.jpg"
-                            },
-                            {
-                                "url": "/peliculas/hellboy-the-crooked-man-2024/",
-                                "title": "Hellboy: The Crooked Man (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/haikyu-la-batalla-del-basurero-2024/",
-                    "title": "HAIKYU!! La batalla del basurero (2024)",
-                    "artist": "中村悠一",
-                    "author": "満仲勧",
-                    "description": "El encuentro entre los equipos rivales de Karasuno y Nekoma hará que la tensión aumente, ya que ambos equipos están decididos a salir victoriosos en el campeonato nacional de voleibol. Primera película del proyecto en dos partes para el final de «Haikyu!».",
-                    "genre": "Animación, Drama",
+                    "url": "/peliculas/cellar-door-2024/",
+                    "title": "Cellar Door (2024)",
+                    "artist": "Jordana Brewster",
+                    "author": "Vaughn Stein",
+                    "description": "En busca de un nuevo comienzo después de un aborto espontáneo, una pareja recibe el regalo de la casa de sus sueños con una advertencia: nunca pueden abrir la puerta del sótano.",
+                    "genre": "Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/nqdzN2C7L2vVWAfFZLx8510AUGe.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/zXntBYq6YYwH1QrBfoZ9bT23dhU.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/haikyu-la-batalla-del-basurero-2024/",
+                        "url": "/peliculas/cellar-door-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-p3qosxlihxv3qtq0.voe-network.net/engine/hls2/01/12631/nsnaidd1djiv_,n,.urlset/index-v1-a1.m3u8?t=Uwv13KiBC3ez7gx98Yo7KrHbAlrJkztyvOIo6Syq1JY&s=1730808485&e=14400&f=63159276&node=delivery-node-p3qosxlihxv3qtq0.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "url": "https://delivery-node-os9mcfvbtfcsupmv.voe-network.net/engine/hls2-c/01/12657/uyybtmuxefgm_,n,.urlset/index-v1-a1.m3u8?t=kpvATX8XLM3BIWLZAlVYygDI8XLT14KJjKQGi8y61e8&s=1730830016&e=14400&f=63287190&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=172.200&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-p3qosxlihxv3qtq0.voe-network.net/engine/hls2/01/12631/nsnaidd1djiv_,n,.urlset/index-v1-a1.m3u8?t=Uwv13KiBC3ez7gx98Yo7KrHbAlrJkztyvOIo6Syq1JY&s=1730808485&e=14400&f=63159276&node=delivery-node-p3qosxlihxv3qtq0.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-os9mcfvbtfcsupmv.voe-network.net/engine/hls2-c/01/12657/uyybtmuxefgm_,n,.urlset/index-v1-a1.m3u8?t=kpvATX8XLM3BIWLZAlVYygDI8XLT14KJjKQGi8y61e8&s=1730830016&e=14400&f=63287190&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=172.200&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

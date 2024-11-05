@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-sustancia/",
+                                "title": "La sustancia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cQD1qEnPOKUPHAui0okOLZSgitu.jpg"
+                            },
+                            {
+                                "url": "/alumbramiento/",
+                                "title": "Alumbramiento",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qK8W7gqxhLfu7fBM06QThSGO8lM.jpg"
+                            },
+                            {
+                                "url": "/doble-fortaleza/",
+                                "title": "Doble fortaleza",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kQTrnKEYFTelje4lwUTDgBSjfWZ.jpg"
+                            },
+                            {
+                                "url": "/la-prision-de-los-andes/",
+                                "title": "La prisión de los Andes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/h9dbgb6PS1AScRMhm8ugVYrxCKJ.jpg"
+                            },
+                            {
+                                "url": "/las-sombras-del-poder/",
+                                "title": "Las sombras del poder",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/o5fnmUDQ4lgpJynXQxJI8mWLsqw.jpg"
+                            },
+                            {
                                 "url": "/insidious-2010/",
                                 "title": "Insidious (2010)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/gIrBcrmtL2KEiydYKk8r94o1UGI.jpg"
@@ -180,31 +205,6 @@
                                 "url": "/yo-capitan/",
                                 "title": "Yo Capitán",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/jbUdhy3wsVLftd530jyWHKebsUJ.jpg"
-                            },
-                            {
-                                "url": "/la-joven-y-el-mar/",
-                                "title": "La joven y el mar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg"
-                            },
-                            {
-                                "url": "/yolo/",
-                                "title": "Yolo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fI5BIp48yERyYhu7O6XlDT4puSZ.jpg"
-                            },
-                            {
-                                "url": "/el-asesino-de-profesores-de-yoga-la-historia-de-kaitlin-armstrong/",
-                                "title": "El asesino de profesores de yoga: la historia de Kaitlin Armstrong",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hEmkHtSX1SIfCroiV1nPreAlUcu.jpg"
-                            },
-                            {
-                                "url": "/los-excesos/",
-                                "title": "Los excesos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q7dYCkEF3Iyn8cWGvgFfO9X6e0.jpg"
-                            },
-                            {
-                                "url": "/witch/",
-                                "title": "Witch",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dsjyA06mUIPJfYeQs4WpUqquFGD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,15 +424,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/insidious-2010/",
-                    "title": "Insidious (2010)",
-                    "artist": "Angus Sampson",
-                    "author": "James Wan",
-                    "description": "La noche del demonio Una familia descubre que espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño interminable. Cuando piden ayuda a un profesional, descubren que las cosas son mucho más personales de lo que pensaban.",
-                    "genre": "Suspense, Terror",
+                    "url": "/la-sustancia/",
+                    "title": "La sustancia",
+                    "artist": "Demi Moore",
+                    "description": "The Substance «Tú, pero mejor en todos los sentidos». Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+                    "genre": "Ciencia ficción, Drama, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gIrBcrmtL2KEiydYKk8r94o1UGI.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cQD1qEnPOKUPHAui0okOLZSgitu.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -440,7 +439,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/insidious-2010/",
+                        "url": "/la-sustancia/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -450,20 +449,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_n/index-v1-a1.m3u8?t=kExbHVO6kSBInULl_VYxXGvpjLr1bEqr3YK-rykG2sQ&s=1730808463&e=43200&v=15196499&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_n/index-v1-a1.m3u8?t=kExbHVO6kSBInULl_VYxXGvpjLr1bEqr3YK-rykG2sQ&s=1730808463&e=43200&v=15196499&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_l/index-v1-a1.m3u8?t=kExbHVO6kSBInULl_VYxXGvpjLr1bEqr3YK-rykG2sQ&s=1730808463&e=43200&v=15196499&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/02/00070/4ebhrjdw5klg_l/index-v1-a1.m3u8?t=wy62ZrDjvDhHu1lJxVTr2QGHfxuYtRyiv6b8bOVtFKo&s=1730829991&e=43200&v=15325126&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/w257fmd3um6n_l/index-v1-a1.m3u8?t=kExbHVO6kSBInULl_VYxXGvpjLr1bEqr3YK-rykG2sQ&s=1730808463&e=43200&v=15196499&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/4ebhrjdw5klg_l/index-v1-a1.m3u8?t=wy62ZrDjvDhHu1lJxVTr2QGHfxuYtRyiv6b8bOVtFKo&s=1730829991&e=43200&v=15325126&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -472,42 +460,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_n/index-v1-a1.m3u8?t=0nPA6Mq-_a9ejpt8HI_Gd9FmiRkmzi23x6xIuWXlbAE&s=1730808464&e=43200&v=15196503&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_n/index-v1-a1.m3u8?t=0nPA6Mq-_a9ejpt8HI_Gd9FmiRkmzi23x6xIuWXlbAE&s=1730808464&e=43200&v=15196503&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_n/index-v1-a1.m3u8?t=1wNqE4Tfxk9_CcHPfgg6VJfEHiFTdtaT2s7fafAv5fQ&s=1730808463&e=43200&v=15196501&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_n/index-v1-a1.m3u8?t=1wNqE4Tfxk9_CcHPfgg6VJfEHiFTdtaT2s7fafAv5fQ&s=1730808463&e=43200&v=15196501&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_l/index-v1-a1.m3u8?t=0nPA6Mq-_a9ejpt8HI_Gd9FmiRkmzi23x6xIuWXlbAE&s=1730808464&e=43200&v=15196503&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/02/00070/qa5mhanltro3_l/index-v1-a1.m3u8?t=NNq3H70XjrT53bZaEVo9nuzLcD_1IZ7oQNhoCC38Qvs&s=1730829991&e=43200&v=15325124&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/wpk33ua3c7xt_l/index-v1-a1.m3u8?t=0nPA6Mq-_a9ejpt8HI_Gd9FmiRkmzi23x6xIuWXlbAE&s=1730808464&e=43200&v=15196503&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_l/index-v1-a1.m3u8?t=1wNqE4Tfxk9_CcHPfgg6VJfEHiFTdtaT2s7fafAv5fQ&s=1730808463&e=43200&v=15196501&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/4nlcot3fyah1_l/index-v1-a1.m3u8?t=1wNqE4Tfxk9_CcHPfgg6VJfEHiFTdtaT2s7fafAv5fQ&s=1730808463&e=43200&v=15196501&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/qa5mhanltro3_l/index-v1-a1.m3u8?t=NNq3H70XjrT53bZaEVo9nuzLcD_1IZ7oQNhoCC38Qvs&s=1730829991&e=43200&v=15325124&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/tvshows/برنامج-house-villains-الموسم-الاول",
+                                "title": "برنامج House of Villains الموسم الاول",
+                                "thumbnail_url": "https://faselhds.center/wp-content/uploads/2024/11/7312dcdb76b0fa3f474e8654ba2e07be-400x600.jpg?resize=400%2C600"
+                            },
+                            {
                                 "url": "/asian-series/مسلسل-brewing-love-الموسم-الأول",
                                 "title": "مسلسل Brewing Love الموسم الأول",
                                 "thumbnail_url": "https://faselhds.center/wp-content/uploads/2024/11/a52c15b7587c83dee41ce8712692231e-400x600.jpg?resize=400%2C600"
@@ -250,11 +255,6 @@
                                 "url": "/anime/انمي-one-piece-gyojin-tou-hen",
                                 "title": "انمي One Piece: Gyojin Tou-hen",
                                 "thumbnail_url": "https://faselhds.center/wp-content/uploads/2024/11/ae78fe152b17476a165733e7051bd47e-400x600.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/anime-episodes/انمي-fairy-tail-100-nen-quest-الحلقة-17",
-                                "title": "انمي Fairy Tail: 100-nen Quest – الحلقة 17",
-                                "thumbnail_url": "https://faselhds.center/wp-content/uploads/2024/07/f5de9b5280b92d4ef0f8b40201d20db7.jpg?resize=400%2C600"
                             }
                         ],
                         "hasNextPage": true
@@ -421,8 +421,39 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/ZhfPA0I1WnV5JMrABwzpkQ/1730787319/www.faselhds.center/all/20.51.206.96/no/US/0/06-02/3/e0696934880260ad8f31de497834c881/160_hd1080b_playlist.m3u8",
+                        "quality": "1080p",
+                        "videoUrl": "https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/ZhfPA0I1WnV5JMrABwzpkQ/1730787319/www.faselhds.center/all/20.51.206.96/no/US/0/06-02/3/e0696934880260ad8f31de497834c881/160_hd1080b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/tlv_p_95irDLkUQ_sI5TBA/1730787319/www.faselhds.center/all/20.51.206.96/no/US/0/06-02/3/e0696934880260ad8f31de497834c881/140_sd360b_playlist.m3u8",
+                        "quality": "360p",
+                        "videoUrl": "https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/tlv_p_95irDLkUQ_sI5TBA/1730787319/www.faselhds.center/all/20.51.206.96/no/US/0/06-02/3/e0696934880260ad8f31de497834c881/140_sd360b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/TiAf9SPYJNU19VTYpTuyYQ/1730787319/www.faselhds.center/all/20.51.206.96/no/US/0/06-02/3/e0696934880260ad8f31de497834c881/155_hd720b_playlist.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/TiAf9SPYJNU19VTYpTuyYQ/1730787319/www.faselhds.center/all/20.51.206.96/no/US/0/06-02/3/e0696934880260ad8f31de497834c881/155_hd720b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

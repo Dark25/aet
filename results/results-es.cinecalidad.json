@@ -7,9 +7,19 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/pollos-sin-cabeza/",
+                                "title": "Pollos sin cabeza",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-serie/el-imperio-de-los-chimpances/",
+                                "title": "El imperio de los chimpancés",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//9xXqOCn0Hd4Y1ImgZuKV5MtXfUW.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
                                 "title": "Thelma: Una abuela en acción",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//rUcuageYgv9SsJoWuc0seRWG6JC.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/mi-amigo-el-pinguino/",
@@ -55,16 +65,6 @@
                                 "url": "/ver-pelicula/no-te-muevas/",
                                 "title": "No te muevas",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//icZSgPUdnUujp3clIoo9jQVTEY8.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/tomb-raider-la-leyenda-de-lara-croft/",
-                                "title": "Tomb Raider: La leyenda de Lara Croft",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//7cfQQrk3t0vdqhF2EZk4PSEhekY.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/los-hombres-lobo/",
-                                "title": "Los hombres lobo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//pfSiYANe9z4Xot8DBYDjEFxr1PS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
-                    "artist": "Aidan Fiske",
-                    "description": "Thelma Post, una abuela de 90 años, es engañada por un estafador telefónico que se hace pasar por su nieto y emprende una búsqueda para recuperar lo que le fue arrebatado.   ",
-                    "genre": "Acción, Aventura, Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+                    "url": "/ver-serie/pollos-sin-cabeza/",
+                    "artist": "Dafne Fernández",
+                    "author": "Jorge Valdano",
+                    "description": "Alberto Martín Ruiz, un ex futbolista y actual representante de jugadores, conocido como “Beto”,   ",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//29dCt1GEFwJn2LX5St7QgvzrAFF.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,68 +212,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/pollos-sin-cabeza-1x7/",
+                        "name": "T1 - E7 - Episodio 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/pollos-sin-cabeza-1x6/",
+                        "name": "T1 - E6 - Episodio 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-ik9st1hwzczftrw6.voe-network.net/engine/hls2-c/01/12603/hauzze85dxyk_,n,l,.urlset/index-f1-v1-a1.m3u8?t=MuUvqOZuHSavhv4QQpCiOHSzGOfhBTHfWwzlj_-fh0Q&s=1730743629&e=14400&f=63017339&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=20.102&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-ik9st1hwzczftrw6.voe-network.net/engine/hls2-c/01/12603/hauzze85dxyk_,n,l,.urlset/index-f1-v1-a1.m3u8?t=MuUvqOZuHSavhv4QQpCiOHSzGOfhBTHfWwzlj_-fh0Q&s=1730743629&e=14400&f=63017339&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=20.102&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-ik9st1hwzczftrw6.voe-network.net/engine/hls2-c/01/12603/hauzze85dxyk_,n,l,.urlset/index-f2-v1-a1.m3u8?t=MuUvqOZuHSavhv4QQpCiOHSzGOfhBTHfWwzlj_-fh0Q&s=1730743629&e=14400&f=63017339&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=20.102&sp=2500&asn=8075",
-                        "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-ik9st1hwzczftrw6.voe-network.net/engine/hls2-c/01/12603/hauzze85dxyk_,n,l,.urlset/index-f2-v1-a1.m3u8?t=MuUvqOZuHSavhv4QQpCiOHSzGOfhBTHfWwzlj_-fh0Q&s=1730743629&e=14400&f=63017339&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=20.102&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://k323vjzhwv7x.cdn-jupiter.com/hls2/01/05313/9th35bilemtj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=IgubWwgicDs__ne2ZjOlyuUpvsXUswQ0YZSxcawxTZ4&s=1730743630&e=129600&f=26569387&srv=klhveajrfvm1&i=0.4&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://k323vjzhwv7x.cdn-jupiter.com/hls2/01/05313/9th35bilemtj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=IgubWwgicDs__ne2ZjOlyuUpvsXUswQ0YZSxcawxTZ4&s=1730743630&e=129600&f=26569387&srv=klhveajrfvm1&i=0.4&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/9th35bilemtj"
-                        }
-                    },
-                    {
-                        "url": "https://k323vjzhwv7x.cdn-jupiter.com/hls2/01/05313/9th35bilemtj_,l,n,.urlset/index-f1-v1-a1.m3u8?t=IgubWwgicDs__ne2ZjOlyuUpvsXUswQ0YZSxcawxTZ4&s=1730743630&e=129600&f=26569387&srv=klhveajrfvm1&i=0.4&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://k323vjzhwv7x.cdn-jupiter.com/hls2/01/05313/9th35bilemtj_,l,n,.urlset/index-f1-v1-a1.m3u8?t=IgubWwgicDs__ne2ZjOlyuUpvsXUswQ0YZSxcawxTZ4&s=1730743630&e=129600&f=26569387&srv=klhveajrfvm1&i=0.4&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/9th35bilemtj"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=M0VOOKAV90UmVaR&expires=1730813630&ip=FROsD0ATKxSHDN&token=-luRNsTYqb12",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=M0VOOKAV90UmVaR&expires=1730813630&ip=FROsD0ATKxSHDN&token=-luRNsTYqb12"
-                    },
-                    {
-                        "url": "https://s1.goodstream.one/vtt/02/00007/udo6h87s1nu9_sli.vtt",
-                        "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00007/udo6h87s1nu9_sli.vtt",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

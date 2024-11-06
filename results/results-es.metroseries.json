@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/t8HrHw4KwEoKDCNTY6qxHNWWnQa.jpg"
                             },
                             {
-                                "url": "/hechizada-capitulos-completos-latino-hd-online/",
-                                "title": "Embrujada",
+                                "url": "/modern-love/",
+                                "title": "Modern Love",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/osTTPAOnvwQ6WCuVSQ0xKUSFeUD-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6XD4Sp6nAemI5CzJzKMdSlbg44d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg"
                             },
                             {
-                                "url": "/sideswiped/",
-                                "title": "Sideswiped",
+                                "url": "/the-gift/",
+                                "title": "The Gift",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9BHFgUFz5M9p2zaK2t5P4HvVk7t.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/zQ1tiiblhpDN4iNhc0mOBFXEJhR-1-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,48 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/vuelven-los-magos-de-waverly-place-temporada-1-capitulo-9/",
+                        "name": "T01 - E09 - Episodio 9",
+                        "date_upload": 1732233600000,
+                        "episode_number": 9.0
+                    },
+                    {
+                        "url": "/episode/vuelven-los-magos-de-waverly-place-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Episodio 8",
+                        "date_upload": 1731628800000,
+                        "episode_number": 8.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00070/ok8ridqef9tk_n/index-v1-a1.m3u8?t=tZorIPXcpBzBOMcpYxSZHAklFpElkwLNHO2B16zkG6Y&s=1730852217&e=43200&v=15524370&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/ok8ridqef9tk_n/index-v1-a1.m3u8?t=tZorIPXcpBzBOMcpYxSZHAklFpElkwLNHO2B16zkG6Y&s=1730852217&e=43200&v=15524370&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00070/ok8ridqef9tk_l/index-v1-a1.m3u8?t=tZorIPXcpBzBOMcpYxSZHAklFpElkwLNHO2B16zkG6Y&s=1730852217&e=43200&v=15524370&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/ok8ridqef9tk_l/index-v1-a1.m3u8?t=tZorIPXcpBzBOMcpYxSZHAklFpElkwLNHO2B16zkG6Y&s=1730852217&e=43200&v=15524370&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -137,6 +137,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20549/engano-mortal.html",
+                                "title": "Engaño mortal",
+                                "description": "El ladrón profesional Mason pretende cometer su mayor atraco junto a su hermano: asaltar un banco. Cuando sale mal, se ven atrapados dentro rodeados por las fuerzas del orden. La tensión aumenta cuando Mason negocia con su examante, la negociadora principal. Cada atraco tiene su precio....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20549.webp"
+                            },
+                            {
+                                "url": "/pelicula/20548/los-restos-de-hitler.html",
+                                "title": "Los restos de Hitler",
+                                "description": "Un pequeño grupo de soldados rusos tiene la tarea de llevar los restos descubiertos de Hitler a Stalin en Moscú....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20548.webp"
+                            },
+                            {
+                                "url": "/pelicula/20547/apocalipsis-z-el-principio-del-fin.html",
+                                "title": "Apocalipsis Z: El pri",
+                                "description": "Una especie de rabia que transforma a la gente en criaturas agresivas se extiende por todo el planeta. Manel se aísla con su gato en su casa de Galicia, recurriendo a su ingenio para sobrevivir. Pronto tienen que salir a buscar comida, por tierra y mar, encontrándose con todo tipo de peligros, com...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20547.webp"
+                            },
+                            {
                                 "url": "/pelicula/20546/pharrell-williams-pieza-por-pieza.html",
                                 "title": "Pharrell Williams: Pi",
                                 "description": "Pharrell Williams muestra su proceso imaginativo y creativo utilizando piezas de Lego, a medida que construye modelos que representan su desarrollo artístico. Cada construcción refleja un hito creativo diferente....",
@@ -237,24 +255,6 @@
                                 "title": "Family Guy: Especial",
                                 "description": "Peter y sus amigos intentan desbancar por todos los medios al campeón reinante (Glen Powell) en el Concurso Anual de Calabazas de Quahog....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20530.webp"
-                            },
-                            {
-                                "url": "/pelicula/20529/extrana-forma-de-vida.html",
-                                "title": "Extraña forma de vid",
-                                "description": "Un hombre cruza a caballo el desierto que le separa de Bitter Creek. Viene a visitar al Sheriff Jake. Veinticinco años antes, ambos -el sheriff y Silva, el ranchero que cabalga a su encuentro- trabajaron juntos como pistoleros a sueldo. Silva viene con el pretexto de reencontrarse con su amigo de j...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20529.webp"
-                            },
-                            {
-                                "url": "/pelicula/20528/doble-fortaleza.html",
-                                "title": "Doble fortaleza",
-                                "description": "Dos hermanas gemelas albergan profundos secretos y un decidido inspector de policía trata de descubrir la verdad en un caso de intento de asesinato....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20528.webp"
-                            },
-                            {
-                                "url": "/pelicula/20527/el-secuestro-de-1993.html",
-                                "title": "El secuestro de 1993",
-                                "description": "Con el fin de acabar con el gobierno militar, cuatro hombres secuestran un avión y utilizan a los pasajeros como rehenes para exigir cambios sociales....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20527.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoiavnx73chzha/ws9td0bob6~WA5LNG2Eez?token=faa3a98f24ktc5woxwz3px7v&expiry=1730852221284",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoiavnx73chzha/ws9td0bob6~WA5LNG2Eez?token=faa3a98f24ktc5woxwz3px7v&expiry=1730852221284",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

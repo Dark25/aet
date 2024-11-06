@@ -3,7 +3,7 @@
         "name": "稀饭动漫 (ZH)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Connection reset by peer",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "latest": {

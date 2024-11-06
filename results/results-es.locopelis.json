@@ -137,6 +137,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20552/aprender-a-soltar.html",
+                                "title": "Aprender a soltar",
+                                "description": "Descubrir lo que de verdad importa. En el centro está Stella. Lo tiene todo bajo control... excepto la constante necesidad de atención de su hijo en edad preescolar, los cambios de humor adolescentes de su hija y su marido, emocionalmente inaccesible. La familia está a punto de romperse cuando St...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20552.webp"
+                            },
+                            {
+                                "url": "/pelicula/20551/atrevida-la-pasion-no-tiene-reglas.html",
+                                "title": "Atrevida – La Pasi�",
+                                "description": "Elia, de veinte años, es estudiante y futura ecologista. Un día, Matvey, el director de una empresa de construcción, llega a su universidad para hablar sobre un plan de desarrollo en el terreno de un antiguo parque forestal. Elia no duda en hacer añicos su proyecto. Matvey se siente intrigado po...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20551.webp"
+                            },
+                            {
+                                "url": "/pelicula/20550/la-bruja-del-bosque.html",
+                                "title": "La Bruja del Bosque",
+                                "description": "El personal de un campamento nocturno evoca una vieja leyenda el último día del verano de 1987. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20550.webp"
+                            },
+                            {
                                 "url": "/pelicula/20549/engano-mortal.html",
                                 "title": "Engaño mortal",
                                 "description": "El ladrón profesional Mason pretende cometer su mayor atraco junto a su hermano: asaltar un banco. Cuando sale mal, se ven atrapados dentro rodeados por las fuerzas del orden. La tensión aumenta cuando Mason negocia con su examante, la negociadora principal. Cada atraco tiene su precio....",
@@ -237,24 +255,6 @@
                                 "title": "El Brujo",
                                 "description": "Xander es un brujo que abusa de la magia negra, lo que le lleva a ir de desastre en desastre. Tras intentar limpiarse de la brujería, conoce a Roland, un joven solitario y decide ayudarle con sus problemas adolescentes. ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20533.webp"
-                            },
-                            {
-                                "url": "/pelicula/20532/last-straw.html",
-                                "title": "Last Straw",
-                                "description": "Una noche. Dos perspectivas. Una serie de eventos desafortunados en un restaurante rural desencadena una intrincada reacción en cadena de crimen, caos y derramamiento de sangre, dejando a una joven camarera para limpiar el desorden....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20532.webp"
-                            },
-                            {
-                                "url": "/pelicula/20531/shayda.html",
-                                "title": "Shayda",
-                                "description": "Shayda, una mujer iraní que vive en Australia, encuentra refugio en un centro de acogida para mujeres maltratadas con su hija Mona de 6 años. Tras huir de su marido, Hossein, y solicitar el divorcio, Shayda lucha por mantener la normalidad para Mona. La nueva situación y el régimen de visitas qu...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20531.webp"
-                            },
-                            {
-                                "url": "/pelicula/20530/family-guy-especial-de-halloween-el-peter-peter-famoso-tramposo.html",
-                                "title": "Family Guy: Especial",
-                                "description": "Peter y sus amigos intentan desbancar por todos los medios al campeón reinante (Glen Powell) en el Concurso Anual de Calabazas de Quahog....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20530.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoiavnx73chzha/ws9td0bob6~WA5LNG2Eez?token=faa3a98f24ktc5woxwz3px7v&expiry=1730852221284",
-                        "quality": "DoodStreamDoodstream  mirror",
-                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyoiavnx73chzha/ws9td0bob6~WA5LNG2Eez?token=faa3a98f24ktc5woxwz3px7v&expiry=1730852221284",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

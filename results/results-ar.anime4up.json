@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/high-card-the-flowers-bloom/",
+                                "title": "High Card: The Flowers Bloom",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/Ashampoo_Snap_2024.11.07_00h14m48s_001_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/one-piece-gyojin-tou-hen/",
                                 "title": "One Piece: Gyojin Tou-hen",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/bx183423-wt4YjEiCWVVD-215x300.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/kinoko-inu/",
                                 "title": "Kinoko Inu",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.03_15h16m01s_005_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/kamierabi-2nd-season/",
-                                "title": "Kamierabi 2nd Season",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.03_12h44m10s_003_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -364,13 +364,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/one-piece-gyojin-tou-hen/",
-                    "title": "One Piece: Gyojin Tou-hen",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: 21\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nالنسخة المحسنة من أرك جزيرة البرمائيين.",
-                    "genre": "أكشن, شونين, فنتازيا, مغامرات, TV, يعرض الان, خريف 2024",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/bx183423-wt4YjEiCWVVD.jpg",
+                    "url": "/anime/high-card-the-flowers-bloom/",
+                    "title": "High Card: The Flowers Bloom",
+                    "description": "النوع: ONA\nبداية العرض: 2024\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 26 دقيقة\nالموسم: خريف 2024\nالمصدر: وسائط متعددة\n\nتعتبر هذه الحلقة 13 من انمي High Card Season 2.",
+                    "genre": "أكشن, فنتازيا, ONA, مكتمل, خريف 2024",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/Ashampoo_Snap_2024.11.07_00h14m48s_001_.png",
                     "initialized": true
                 },
                 "passed": true
@@ -378,9 +378,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/one-piece-gyojin-tou-hen-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
+                        "url": "/episode/اونا-high-card-the-flowers-bloom/",
+                        "name": "الأونا 13",
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
@@ -388,9 +388,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x5r34iz3b4quuor6rbgj2jdaa4i6lqdqxqozea4tqjbgjg2ubemgcauxtjcduua4yfnc7n/video.mp4",
+                        "url": "https://m80.uqload.net/3rfk3mgd4fw2q4drdke7vlvybe6xbcgvynnpwj2td355mftbtrm24vprjqtq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m80.uqload.net/3rfk3mgd4fw2q4drdke7vlvybe6xbcgvynnpwj2td355mftbtrm24vprjqtq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxuiaeiz3b4quuorkrb4p2ycsp4kvj3iy7uukk457ryiyelhnpjzg3e63f5h4bmbgaxaghz/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x5r34iz3b4quuor6rbgj2jdaa4i6lqdqxqozea4tqjbgjg2ubemgcauxtjcduua4yfnc7n/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxuiaeiz3b4quuorkrb4p2ycsp4kvj3iy7uukk457ryiyelhnpjzg3e63f5h4bmbgaxaghz/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/the-critic",
+                                "title": "The Critic",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg"
+                            },
+                            {
                                 "url": "/movies/plantadas",
                                 "title": "Plantadas",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fDrP4DVRCdi1JDl4jTTAFNyn11t.jpg"
@@ -103,7 +108,7 @@
                             },
                             {
                                 "url": "/movies/juror-2",
-                                "title": "Juror #2",
+                                "title": "Jurado #2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/nk2fxww83vynfSXFuWC6qMGyag.jpg"
                             },
                             {
@@ -125,11 +130,6 @@
                                 "url": "/movies/no-te-muevas",
                                 "title": "No te muevas",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg"
-                            },
-                            {
-                                "url": "/movies/el-secuestro-de-1993",
-                                "title": "El secuestro de 1993",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/cmLD1G3r0Pj2zzylzlmwCGF4Qj4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -148,7 +148,7 @@
                             },
                             {
                                 "url": "/movies/juror-2",
-                                "title": "Juror #2",
+                                "title": "Jurado #2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/nk2fxww83vynfSXFuWC6qMGyag.jpg"
                             },
                             {
@@ -327,14 +327,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
-                                "url": "/movies/the-world-to-come",
-                                "title": "The World to Come",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/plantadas",
-                    "title": "Plantadas",
-                    "artist": "Alina Robert",
-                    "description": "Muestra las dificultades que enfrentaron las mujeres cubanas que lucharon contra Fidel Castro a principios de la revolución en los años 60s. Armadas de convicción y valentía estas madres, hermanas, nietas y esposas pagaron el precio de sacrificar su propia libertad por la libertad de su patria.",
-                    "genre": "Historia",
+                    "url": "/movies/the-critic",
+                    "title": "The Critic",
+                    "artist": "Ian McKellen",
+                    "description": "Jimmy Erskine is the most feared theatre critic of the age. He lives as flamboyantly as he writes and takes pleasure in savagely taking down any actor who fails to meet his standards. When the owner of the Daily Chronicle dies, and his son takes over, Jimmy quickly finds himself at odds with his new boss and his position under threat. In an attempt to preserve the power and influence he holds so sacred, Jimmy strikes a Faustian pact with a struggling actress, entangling them and the boss in a thrilling but deadly web of desire, blackmail, and betrayal.",
+                    "genre": "Suspenso, Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/fDrP4DVRCdi1JDl4jTTAFNyn11t.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/plantadas",
+                        "url": "/movies/the-critic",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,39 +429,52 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-5scphn10nmokfrsv.voe-network.net/engine/hls2-c/01/12601/iycigejyxlog_,n,.urlset/index-v1-a1.m3u8?t=hsoH9et03TeFok88cc0NIzg4Gdj0HKoHqN8XS4NNiic&s=1730916418&e=14400&f=63294707&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=13.86&sp=2500&asn=8075",
-                        "quality": "[CAST]Voe:720p",
-                        "videoUrl": "https://delivery-node-5scphn10nmokfrsv.voe-network.net/engine/hls2-c/01/12601/iycigejyxlog_,n,.urlset/index-v1-a1.m3u8?t=hsoH9et03TeFok88cc0NIzg4Gdj0HKoHqN8XS4NNiic&s=1730916418&e=14400&f=63294707&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=13.86&sp=2500&asn=8075",
+                        "url": "https://delivery-node-tyrpwrfsotxcpbf4.voe-network.net/engine/hls2/01/12668/kpfsqu5c8tss_,n,.urlset/index-v1-a1.m3u8?t=RKIw1t0bnExSDrZj10SAGiNMJubo4WoI0sZa01s7150&s=1730938641&e=14400&f=63340582&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT]Voe:720p",
+                        "videoUrl": "https://delivery-node-tyrpwrfsotxcpbf4.voe-network.net/engine/hls2/01/12668/kpfsqu5c8tss_,n,.urlset/index-v1-a1.m3u8?t=RKIw1t0bnExSDrZj10SAGiNMJubo4WoI0sZa01s7150&s=1730938641&e=14400&f=63340582&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://lu1r85hg8m.pradoi.com/hls2/01/05458/8i3zhheoraif_,l,n,.urlset/index-f2-v1-a1.m3u8?t=92jtIKkjaHY3zvGzWVHVxU9eIH7YIQxsACcDzpZWUQ8&s=1730916419&e=129600&f=27292826&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
-                        "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://lu1r85hg8m.pradoi.com/hls2/01/05458/8i3zhheoraif_,l,n,.urlset/index-f2-v1-a1.m3u8?t=92jtIKkjaHY3zvGzWVHVxU9eIH7YIQxsACcDzpZWUQ8&s=1730916419&e=129600&f=27292826&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/05474/eijq2ej6tejv_n/index-v1-a1.m3u8?t=UKFXwcHQVLEePrvFNbU_bDSYLet9F_W_WYkaxLi3hWc&s=1730938639&e=129600&f=27373540&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/05474/eijq2ej6tejv_n/index-v1-a1.m3u8?t=UKFXwcHQVLEePrvFNbU_bDSYLet9F_W_WYkaxLi3hWc&s=1730938639&e=129600&f=27373540&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/8i3zhheoraif"
+                            "Referer": "https://streamwish.to/e/eijq2ej6tejv"
                         }
                     },
                     {
-                        "url": "https://lu1r85hg8m.pradoi.com/hls2/01/05458/8i3zhheoraif_,l,n,.urlset/index-f1-v1-a1.m3u8?t=92jtIKkjaHY3zvGzWVHVxU9eIH7YIQxsACcDzpZWUQ8&s=1730916419&e=129600&f=27292826&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://lu1r85hg8m.pradoi.com/hls2/01/05458/8i3zhheoraif_,l,n,.urlset/index-f1-v1-a1.m3u8?t=92jtIKkjaHY3zvGzWVHVxU9eIH7YIQxsACcDzpZWUQ8&s=1730916419&e=129600&f=27292826&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "url": "https://streamtape.com/get_video?id=ldl4beoZmYIB2w&expires=1731008638&ip=F0qQKRWZD19XKxR&token=D-a1XfltQ9O1",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ldl4beoZmYIB2w&expires=1731008638&ip=F0qQKRWZD19XKxR&token=D-a1XfltQ9O1"
+                    },
+                    {
+                        "url": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/12211/qhbh6c1fanwm_,n,.urlset/index-v1-a1.m3u8?t=KQFxpbFCbFkzexYxat2AMeeN7Kv3YqmJAFlFnDbguC8&s=1730938650&e=14400&f=61059645&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[SUB]Voe:720p",
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/12211/qhbh6c1fanwm_,n,.urlset/index-v1-a1.m3u8?t=KQFxpbFCbFkzexYxat2AMeeN7Kv3YqmJAFlFnDbguC8&s=1730938650&e=14400&f=61059645&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://h71xhdtkwuhg.pradoi.com/hls2/01/04912/k7d8eeslm6n0_n/index-v1-a1.m3u8?t=9xzk4cUWXFF1qeqWhsUvEr3ZEMZyzUR0K7j_aRj2L3Y&s=1730938647&e=129600&f=24560299&srv=jtkd5kf4kett&i=0.0&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://h71xhdtkwuhg.pradoi.com/hls2/01/04912/k7d8eeslm6n0_n/index-v1-a1.m3u8?t=9xzk4cUWXFF1qeqWhsUvEr3ZEMZyzUR0K7j_aRj2L3Y&s=1730938647&e=129600&f=24560299&srv=jtkd5kf4kett&i=0.0&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/8i3zhheoraif"
+                            "Referer": "https://streamwish.to/e/k7d8eeslm6n0"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=yd7JM1KzKvS1qOX&expires=1730986416&ip=F0AsFxInDS9X&token=DSZnhOMh6nRy",
-                        "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=yd7JM1KzKvS1qOX&expires=1730986416&ip=F0AsFxInDS9X&token=DSZnhOMh6nRy"
+                        "url": "https://streamtape.com/get_video?id=rKMKv7RJrJUb28O&expires=1731008651&ip=F0qQKRWZD19XKxR&token=36GrSe-g5Eh4",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=rKMKv7RJrJUb28O&expires=1731008651&ip=F0qQKRWZD19XKxR&token=36GrSe-g5Eh4"
                     }
                 ],
                 "passed": true

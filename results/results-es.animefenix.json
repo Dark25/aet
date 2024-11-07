@@ -17,11 +17,6 @@
                                 "thumbnail_url": "https://www3.animefenix.tv/cdn/animes/cover/5d40bcfe5edc0/dr-stone.webp"
                             },
                             {
-                                "url": "/danmachi-ii",
-                                "title": "DanMachi II",
-                                "thumbnail_url": "https://www3.animefenix.tv/cdn/animes/cover/5d40bda2aff4f/danmachi-ii.webp"
-                            },
-                            {
                                 "url": "/date-a-bullet-dead-or-bullet",
                                 "title": "Date A Bullet: Dead or Bullet",
                                 "thumbnail_url": "https://www3.animefenix.tv/cdn/animes/cover/5f74b4e57999d/date-a-bullet-dead-or-bullet.webp"
@@ -130,6 +125,11 @@
                                 "url": "/mushoku-tensei-2-isekai-ittara-honki-dasu-2nd-cour",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu 2nd Cour",
                                 "thumbnail_url": "https://www3.animefenix.tv/cdn/animes/cover/6641436bed603/mushoku-tensei-2-isekai-ittara-honki-dasu-2nd-cour.webp"
+                            },
+                            {
+                                "url": "/akame-ga-kill",
+                                "title": "Akame ga Kill!",
+                                "thumbnail_url": "https://www3.animefenix.tv/cdn/animes/cover/5edf2ad0b7668/akame-ga-kill.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -435,9 +435,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Np3rdfSOIwnHwyRxgk35pY8QuBGRK1kWh5sfNiJv6fY&s=1730916400&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_1080&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 1080p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_1080&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=skwgWSw6pKd4n56oT-HdXg"
+                        }
+                    },
+                    {
+                        "url": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Hwjab6k8Y6AC0Flw-nQ7v14Af4s2va2sR1mNVVyYoCg&s=1730938621&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Np3rdfSOIwnHwyRxgk35pY8QuBGRK1kWh5sfNiJv6fY&s=1730916400&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
+                        "videoUrl": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Hwjab6k8Y6AC0Flw-nQ7v14Af4s2va2sR1mNVVyYoCg&s=1730938621&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -446,18 +457,29 @@
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx2j6hzz3b4quuovkqugjszjbefyg2saioqk46wq2sb5yxlgm7377apq3wignkc5nfqicij/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx2j6hzz3b4quuovkqugjszjbefyg2saioqk46wq2sinsdb7zx27b6nw2pwgynngj27uhne/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx2j6hzz3b4quuovkqugjszjbefyg2saioqk46wq2sb5yxlgm7377apq3wignkc5nfqicij/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx2j6hzz3b4quuovkqugjszjbefyg2saioqk46wq2sinsdb7zx27b6nw2pwgynngj27uhne/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Np3rdfSOIwnHwyRxgk35pY8QuBGRK1kWh5sfNiJv6fY&s=1730916400&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_720&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 720p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_720&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=skwgWSw6pKd4n56oT-HdXg"
+                        }
+                    },
+                    {
+                        "url": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Hwjab6k8Y6AC0Flw-nQ7v14Af4s2va2sR1mNVVyYoCg&s=1730938621&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Np3rdfSOIwnHwyRxgk35pY8QuBGRK1kWh5sfNiJv6fY&s=1730916400&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
+                        "videoUrl": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Hwjab6k8Y6AC0Flw-nQ7v14Af4s2va2sR1mNVVyYoCg&s=1730938621&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -466,9 +488,20 @@
                         }
                     },
                     {
-                        "url": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Np3rdfSOIwnHwyRxgk35pY8QuBGRK1kWh5sfNiJv6fY&s=1730916400&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_480&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 480p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_480&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=skwgWSw6pKd4n56oT-HdXg"
+                        }
+                    },
+                    {
+                        "url": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Hwjab6k8Y6AC0Flw-nQ7v14Af4s2va2sR1mNVVyYoCg&s=1730938621&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Np3rdfSOIwnHwyRxgk35pY8QuBGRK1kWh5sfNiJv6fY&s=1730916400&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
+                        "videoUrl": "https://elss36gx1qtp.cdn-jupiter.com/hls2/01/03419/87k4gptc6t65_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Hwjab6k8Y6AC0Flw-nQ7v14Af4s2va2sR1mNVVyYoCg&s=1730938621&e=129600&f=17096813&srv=r3qboiyqpdo7&i=0.4&sp=500&p1=r3qboiyqpdo7&p2=r3qboiyqpdo7&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -477,27 +510,38 @@
                         }
                     },
                     {
-                        "url": "https://cdn.burstcloud.co/a20241106A28XDlN72Y2/AF Level 99 12.mp4",
+                        "url": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_360&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "quality": " - Terabox: Video 360p",
+                        "videoUrl": "https://www.terabox.com/share/extstreaming.m3u8?uk=4399467314851&shareid=6114439503&type=M3U8_AUTO_360&fid=428172213347725&sign=04b2ac187c26a2218671f613d4ec4f4b55f65d84&timestamp=1730938629&jsToken=E84A9E0F0FB687CD081D375D0AB5B9F9573404A2499F003BA99797FC7E753BAE42BD203866302F4EFE55087982D3EE0E2D907C4E6C656C819BF144CC38013D45D45667CEA4E6B5DCFEEEB4481DA98B29118ADDCBA56F2F4AD04893B7FE3696FA&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://terabox.com",
+                            "Referer": "https://terabox.com/sharing/embed?surl=skwgWSw6pKd4n56oT-HdXg"
+                        }
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a20241106uoBsl1656l1/AF Level 99 12.mp4",
                         "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20241106A28XDlN72Y2/AF Level 99 12.mp4",
+                        "videoUrl": "https://cdn.burstcloud.co/a20241106uoBsl1656l1/AF Level 99 12.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.burstcloud.co"
                         }
                     },
                     {
-                        "url": "https://srv5.fireload.com/0ffd594cd3b5e0ac/AF_Level_99_12.mp4?download_token=090e749a9845b03006b8a3b59eefa355594949db53c0abf7fc3006d78bdcd1af&fl=true",
-                        "quality": "FireLoad",
-                        "videoUrl": "https://srv5.fireload.com/0ffd594cd3b5e0ac/AF_Level_99_12.mp4?download_token=090e749a9845b03006b8a3b59eefa355594949db53c0abf7fc3006d78bdcd1af&fl=true"
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a202411061DKlL3SnN1N/video.mp4",
+                        "url": "https://vidcache.net:8161/a20241106viP73xyI7d3/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202411061DKlL3SnN1N/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20241106viP73xyI7d3/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"
                         }
+                    },
+                    {
+                        "url": "https://srv5.fireload.com/0ffd594cd3b5e0ac/AF_Level_99_12.mp4?download_token=090e749a9845b03006b8a3b59eefa355594949db53c0abf7fc3006d78bdcd1af&fl=true",
+                        "quality": "FireLoad",
+                        "videoUrl": "https://srv5.fireload.com/0ffd594cd3b5e0ac/AF_Level_99_12.mp4?download_token=090e749a9845b03006b8a3b59eefa355594949db53c0abf7fc3006d78bdcd1af&fl=true"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "4561-superman-and-lois",
+                                "title": "Superman & Lois",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1801c9fb-e0d3-4df6-8d07-e8d7de175809.webp"
+                            },
+                            {
+                                "url": "1190-outer-banks",
+                                "title": "Outer Banks",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/474beaee-b0b4-43a0-a422-79ea2c9bd7db.webp"
+                            },
+                            {
                                 "url": "10162-terrifier-3",
                                 "title": "Terrifier 3",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7b620e80-e928-4c2c-b067-38ded19d3af7.webp"
@@ -65,11 +75,6 @@
                                 "url": "10148-hanno-ucciso-luomo-ragno-la-vera-storia-degli-883",
                                 "title": "Hanno ucciso l'Uomo Ragno - La vera storia degli 883",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/774fff20-7f73-4bd5-81ef-6445562c9e91.webp"
-                            },
-                            {
-                                "url": "1190-outer-banks",
-                                "title": "Outer Banks",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/474beaee-b0b4-43a0-a422-79ea2c9bd7db.webp"
                             },
                             {
                                 "url": "10120-i-fratelli-menendez",
@@ -300,11 +305,6 @@
                                 "url": "9438-maxxxine",
                                 "title": "MaXXXine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/73cef5a2-9dc8-498b-8701-1a2a4dc79d0c.webp"
-                            },
-                            {
-                                "url": "9702-incoming-i-nuovi-arrivati",
-                                "title": "Incoming - I nuovi arrivati",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/46e35c31-3a9d-471c-ac3d-a3253019634e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10413-citadel-honey-bunny",
+                                "title": "Citadel Honey Bunny",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b12f3133-394a-46c1-b50a-dca293f9cf11.webp"
+                            },
                             {
                                 "url": "10410-i-miserabili",
                                 "title": "I miserabili",
@@ -610,11 +615,6 @@
                                 "url": "10313-tales-of-the-city",
                                 "title": "Tales of the City",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/82a2f36b-f8cc-46f1-aa04-3ccd395bc46a.webp"
-                            },
-                            {
-                                "url": "10312-wild-wild-country",
-                                "title": "Wild Wild Country",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a8f2fa55-df7b-4c3b-8b12-bb72978304bf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,27 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "10162-terrifier-3",
-                    "description": "Quando gli abitanti di Miles County si coricano nelle loro case alla Vigilia di Natale, non hanno idea che a scendere dal camino stavolta sarà Art il Clown. Il folle killer ha preso il posto di Babbo Natale e le sue povere vittime sono ignare che, invece dei giocattoli, saranno loro a riempire il sacco dei regali.",
-                    "genre": "Thriller, Horror",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "4561-superman-and-lois",
+                    "description": "Dopo anni passati ad affrontare supercattivi megalomani, mostri che devastano Metropolis e invasori alieni intenzionati a spazzare via la razza umana, L'Uomo d'Acciaio alias Clark Kent e Lois Lane si trovano faccia a faccia con una delle loro più grandi sfide di sempre: affrontare tutto lo stress, le pressioni e le complessità che derivano dall'essere genitori lavoratori nella società di oggi.",
+                    "genre": "Dramma, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "10162",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
                 "passed": false
             }
         }

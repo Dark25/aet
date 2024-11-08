@@ -113,160 +113,20 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=671ab9bc6956a57ee944dc43",
-                    "title": "Venom 3: The Last Dance *ENGLISH*",
-                    "description": "Eddie und Venom sind auf der Flucht. Gejagt von ihren beiden Welten und mit dem Netz, das sich schließt, wird das Duo zu einer verheerenden Entscheidung gezwungen, die den Vorhang über Venom fallen lässt",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=671ab9bc6956a57ee944dc43",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=lruAddauMh5HwIwkZzwx74nYQHbcMP4_xB7X6CFMhsY&s=1731024984&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=lruAddauMh5HwIwkZzwx74nYQHbcMP4_xB7X6CFMhsY&s=1731024984&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=-xgFDxpnpEpLmiTTQWAykQihwUDS2lMVYO4KKAoNcHo&s=1731024983&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=-xgFDxpnpEpLmiTTQWAykQihwUDS2lMVYO4KKAoNcHo&s=1731024983&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=xFOBDkDOcsDERbRoW_91XUqcGfC7TFnjK-Uq52V8OWQ&s=1731024982&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=xFOBDkDOcsDERbRoW_91XUqcGfC7TFnjK-Uq52V8OWQ&s=1731024982&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=lHa-fy2pUVVPhtOKYI34AO8HFXrlaUTLMvKT0DtVbIM&s=1731024979&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=lHa-fy2pUVVPhtOKYI34AO8HFXrlaUTLMvKT0DtVbIM&s=1731024979&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=aHBqw9FI9rgI1yl-kTZxr8lCawP4_viEiIfXnDWdYa0&s=1731024975&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=aHBqw9FI9rgI1yl-kTZxr8lCawP4_viEiIfXnDWdYa0&s=1731024975&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=QXJCTrtst_RuWztoInbo2L2VGVn6TqWJGeGiGLBhijY&s=1731024971&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=QXJCTrtst_RuWztoInbo2L2VGVn6TqWJGeGiGLBhijY&s=1731024971&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=AJbbblAOq0LcTtylGogxvmOxRhHPjCQd6do3D_sMHFA&s=1731024969&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=AJbbblAOq0LcTtylGogxvmOxRhHPjCQd6do3D_sMHFA&s=1731024969&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=7zH2LxaW8JU3fmdT-k2oCxLjYBKmhXWzMrXLMtpx8MU&s=1731024968&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=7zH2LxaW8JU3fmdT-k2oCxLjYBKmhXWzMrXLMtpx8MU&s=1731024968&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=WMrDc0ydk47Cz_FBiGVSOD-KrbKnz4bLr56yeOI5jxg&s=1731024962&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=WMrDc0ydk47Cz_FBiGVSOD-KrbKnz4bLr56yeOI5jxg&s=1731024962&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=uDktIFNsCfqyFfsTf8PBMuKfk96MuVQlTTfD1MzrAHQ&s=1731024961&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=uDktIFNsCfqyFfsTf8PBMuKfk96MuVQlTTfD1MzrAHQ&s=1731024961&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=NweT5-kjCExnrmZG_dWT8NbRfk90VTKuJA3_Pfpmt8Y&s=1731024959&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=NweT5-kjCExnrmZG_dWT8NbRfk90VTKuJA3_Pfpmt8Y&s=1731024959&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=gVlw8p4WdR06XPcL8aqkodOakBrbT7CZcB-vN_gLLNg&s=1731024956&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=gVlw8p4WdR06XPcL8aqkodOakBrbT7CZcB-vN_gLLNg&s=1731024956&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=gVlw8p4WdR06XPcL8aqkodOakBrbT7CZcB-vN_gLLNg&s=1731024956&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=gVlw8p4WdR06XPcL8aqkodOakBrbT7CZcB-vN_gLLNg&s=1731024956&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=rQnV_fRxERoqJPqfDdONW9MgW86jJ6xFZ1homuijx2I&s=1731024953&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=rQnV_fRxERoqJPqfDdONW9MgW86jJ6xFZ1homuijx2I&s=1731024953&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=0_tpGFnQ_T6_mVYb_85ycbTZur_yUu6HUKkhUnidWJw&s=1731024949&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=0_tpGFnQ_T6_mVYb_85ycbTZur_yUu6HUKkhUnidWJw&s=1731024949&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=wMmRgDoRFak1-qeMjjWVvHox750_VLWNu3LDzU_MseM&s=1731024946&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/12571/exu1sbgzdqlq_,n,.urlset/index-v1-a1.m3u8?t=wMmRgDoRFak1-qeMjjWVvHox750_VLWNu3LDzU_MseM&s=1731024946&e=14400&f=62863667&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             }
         }
     }

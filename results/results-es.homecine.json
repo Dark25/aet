@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/red-one/",
+                                "title": "Red One",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg"
+                            },
+                            {
                                 "url": "/pedro-paramo/",
                                 "title": "Pedro Páramo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/AeeqpYGfMr4dpepzrwfYTo22aDy.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/rebel-ridge/",
                                 "title": "Rebel Ridge",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg"
-                            },
-                            {
-                                "url": "/borderlands/",
-                                "title": "Borderlands",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,14 +424,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/pedro-paramo/",
-                    "title": "Pedro Páramo",
-                    "artist": "Dolores Heredia",
-                    "description": "Basada en la novela de éxito de Juan Rulfo. Un hombre busca a su padre, Pedro Páramo, en un pueblo condenado por la violencia y la furia de un amor frustrado.",
-                    "genre": "Drama, Misterio, Suspense",
+                    "url": "/red-one/",
+                    "title": "Red One",
+                    "artist": "Bonnie Hunt",
+                    "author": "Jake Kasdan",
+                    "description": "Código: Traje rojo Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
+                    "genre": "Acción, Comedia, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/AeeqpYGfMr4dpepzrwfYTo22aDy.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -439,7 +440,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pedro-paramo/",
+                        "url": "/red-one/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -449,9 +450,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/vrrmrolbmjk2_n/index-v1-a1.m3u8?t=Amh53aE0Zh_9DBAdPWu7sU8H9yWjMvypt2LGjbXL_ps&s=1731025012&e=43200&v=16359851&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/vrrmrolbmjk2_n/index-v1-a1.m3u8?t=Amh53aE0Zh_9DBAdPWu7sU8H9yWjMvypt2LGjbXL_ps&s=1731025012&e=43200&v=16359851&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_n/index-v1-a1.m3u8?t=69w0BapR1jZdHivyr77wUhNVQl4PGaeesKW_roPng5g&s=1731045992&e=43200&v=16476511&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_n/index-v1-a1.m3u8?t=69w0BapR1jZdHivyr77wUhNVQl4PGaeesKW_roPng5g&s=1731045992&e=43200&v=16476511&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -460,9 +461,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/02/00070/vrrmrolbmjk2_l/index-v1-a1.m3u8?t=Amh53aE0Zh_9DBAdPWu7sU8H9yWjMvypt2LGjbXL_ps&s=1731025012&e=43200&v=16359851&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00070/vrrmrolbmjk2_l/index-v1-a1.m3u8?t=Amh53aE0Zh_9DBAdPWu7sU8H9yWjMvypt2LGjbXL_ps&s=1731025012&e=43200&v=16359851&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_l/index-v1-a1.m3u8?t=69w0BapR1jZdHivyr77wUhNVQl4PGaeesKW_roPng5g&s=1731045992&e=43200&v=16476511&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_l/index-v1-a1.m3u8?t=69w0BapR1jZdHivyr77wUhNVQl4PGaeesKW_roPng5g&s=1731045992&e=43200&v=16476511&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

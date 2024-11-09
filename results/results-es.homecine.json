@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/my-old-ass/",
+                                "title": "My Old Ass",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg"
+                            },
+                            {
                                 "url": "/red-one/",
                                 "title": "Red One",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/bitelchus-bitelchus/",
                                 "title": "Bitelchús Bitelchús",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/fHLTsVtN8Xq1DwNqu1YiAAtu9tU.jpg"
-                            },
-                            {
-                                "url": "/rebel-ridge/",
-                                "title": "Rebel Ridge",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -424,15 +424,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/red-one/",
-                    "title": "Red One",
-                    "artist": "Bonnie Hunt",
-                    "author": "Jake Kasdan",
-                    "description": "Código: Traje rojo Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
-                    "genre": "Acción, Comedia, Fantasía",
+                    "url": "/my-old-ass/",
+                    "title": "My Old Ass",
+                    "artist": "Aubrey Plaza",
+                    "description": "Mi yo del futuro Elliott Labrant, a quien su yo del futuro le ha aconsejado que no se enamore, está segura de poder hacerlo después de recibir el consejo. Eso, hasta que conoce al chico del que su yo del futuro le advirtió.",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -440,7 +439,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/red-one/",
+                        "url": "/my-old-ass/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -450,9 +449,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_n/index-v1-a1.m3u8?t=2v6A29uos0kg00Fz-_cnrxHk-U5p0qrLNzM9srBWb3k&s=1731089188&e=43200&v=16667441&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_n/index-v1-a1.m3u8?t=2v6A29uos0kg00Fz-_cnrxHk-U5p0qrLNzM9srBWb3k&s=1731089188&e=43200&v=16667441&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/73nfooxh89vq_n/index-v1-a1.m3u8?t=St2t5GaDy8cjmMtE235frCjOP33m6EhFVJJBtx-I2h8&s=1731111382&e=43200&v=16860478&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/73nfooxh89vq_n/index-v1-a1.m3u8?t=St2t5GaDy8cjmMtE235frCjOP33m6EhFVJJBtx-I2h8&s=1731111382&e=43200&v=16860478&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",
@@ -461,9 +460,9 @@
                         }
                     },
                     {
-                        "url": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_l/index-v1-a1.m3u8?t=2v6A29uos0kg00Fz-_cnrxHk-U5p0qrLNzM9srBWb3k&s=1731089188&e=43200&v=16667441&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/2c4qywrxc2sp_l/index-v1-a1.m3u8?t=2v6A29uos0kg00Fz-_cnrxHk-U5p0qrLNzM9srBWb3k&s=1731089188&e=43200&v=16667441&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00070/73nfooxh89vq_l/index-v1-a1.m3u8?t=St2t5GaDy8cjmMtE235frCjOP33m6EhFVJJBtx-I2h8&s=1731111382&e=43200&v=16860478&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00070/73nfooxh89vq_l/index-v1-a1.m3u8?t=St2t5GaDy8cjmMtE235frCjOP33m6EhFVJJBtx-I2h8&s=1731111382&e=43200&v=16860478&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://fastream.to/",

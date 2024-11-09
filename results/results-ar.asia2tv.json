@@ -7,6 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/الكاهن-الشرس-الموسم-الثاني/",
+                                "title": "الكاهن الشرس 2 The Fiery Priest"
+                            },
+                            {
+                                "url": "/السيد-بلانكتون/",
+                                "title": "السيد بلانكتون Mr. Plankton"
+                            },
+                            {
                                 "url": "/جانجنام-الجانب-الآخر-جانجنام-الجانب-ا�/",
                                 "title": "جانجنام الجانب الآخر Gangnam B-Side"
                             },
@@ -35,12 +43,12 @@
                                 "title": "نساء صغيرات Wakakusa Monogatari"
                             },
                             {
-                                "url": "/صعود-نينج/",
-                                "title": "صعود نينج The Rise of Ning"
-                            },
-                            {
                                 "url": "/طبيب-جيد/",
                                 "title": "طبيب جيد Good Doctor"
+                            },
+                            {
+                                "url": "/صعود-نينج/",
+                                "title": "صعود نينج The Rise of Ning"
                             },
                             {
                                 "url": "/دونج-جاي،-الصالح-أم-الطالح/",
@@ -59,12 +67,12 @@
                                 "title": "الشك Doubt"
                             },
                             {
-                                "url": "/مكياج-بالطين/",
-                                "title": "مكياج بالطين Kao ni Doro wo Nuru"
-                            },
-                            {
                                 "url": "/عائلة-حسب-الاختيار/",
                                 "title": "عائلة حسب الاختيار Family by Choice"
+                            },
+                            {
+                                "url": "/مكياج-بالطين/",
+                                "title": "مكياج بالطين Kao ni Doro wo Nuru"
                             },
                             {
                                 "url": "/توابل-حبنا/",
@@ -165,14 +173,6 @@
                             {
                                 "url": "/فخامتك/",
                                 "title": "فخامتك Your Honor"
-                            },
-                            {
-                                "url": "/الرومانسية-في-المنزل/",
-                                "title": "الرومانسية في المنزل Romance in the House"
-                            },
-                            {
-                                "url": "/حب-بطئ/",
-                                "title": "حب بطئ Love Andante"
                             }
                         ],
                         "hasNextPage": true
@@ -279,11 +279,18 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/الكاهن-الشرس-الموسم-الثاني/",
+                    "title": "الكاهن الشرس 2 The Fiery Priest",
+                    "description": "تدور دراما حول قسيس يسعى للعدالة ولا يتهدأ له ناره، حيث يذهب إلى بوسان مع مدعية عامة ومحقق لمطاردة عصابة مخدرات متورطة بشكل كبير. Kim-Nam-Gil : في دور Kim Hae Il / Michael Lee-Ha-Nee : في دور Park Gyeong Sun Kim-Sung-Kyun : في دور Koo Dae Yeong Sung-Joon : في دور Kim Hong Sik Seo-Hyun-Woo : في دور Nam Du Heon BIBI : في دور Koo Ja Yeong",
+                    "genre": "كوريا الجنوبية, أكشن, جريمة, درامي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/VX130E_4f.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

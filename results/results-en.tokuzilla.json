@@ -172,20 +172,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://stor52-eu.nextcdn.stream/2d5344dc2decf8f0cbe049d8cfab2643/2024-10-18/480.m3u8?token=4a5e5566c1698da00a539e09f2f69eb9&client=d41d8cd98f00b204e9800998ecf8427e&expires=1731182794&type=edge&asn=8075&node=-K8nBEu15P628_Xs1l6l201rizDzDraYqdXdB1P8U71Vb42b1GYSFaD2foMnD5N4_nE8iKTFo9LmU_Wlmt1p0fStcgH1JqUoS70PoDfWnwZ3lbWYCi4RxLBnFv0pw3XpSJPYMMy5_gnOBRGB-9CXoCQSWxC7eSX9Xq9dMFZskDWqSGZs6g7j3XL-fjIDb3QHPjMBGxjeLteCgVdX9OPp5WW-jlvEFNHMtFCFvG_AjBxfMhdyVBxuY19L0hDri0Va1Z_6Lfx9qWuuC3v0eUwfIqvgiSJwFA3n90K5eVeOCQ1IUS3CAe8pszRhGIQkjfmU1KuOJeQaA0DuOpf8-xzhOdZuIyFdjtsYN0sy0toBJyaIRkAStMRqQGx0bTJ_DczdDcjiIMx-2xz1jNb1MU2VmsMV_bZCeakfG70AbIxUN-8",
-                        "quality": "Chillx - 480p",
-                        "videoUrl": "https://stor52-eu.nextcdn.stream/2d5344dc2decf8f0cbe049d8cfab2643/2024-10-18/480.m3u8?token=4a5e5566c1698da00a539e09f2f69eb9&client=d41d8cd98f00b204e9800998ecf8427e&expires=1731182794&type=edge&asn=8075&node=-K8nBEu15P628_Xs1l6l201rizDzDraYqdXdB1P8U71Vb42b1GYSFaD2foMnD5N4_nE8iKTFo9LmU_Wlmt1p0fStcgH1JqUoS70PoDfWnwZ3lbWYCi4RxLBnFv0pw3XpSJPYMMy5_gnOBRGB-9CXoCQSWxC7eSX9Xq9dMFZskDWqSGZs6g7j3XL-fjIDb3QHPjMBGxjeLteCgVdX9OPp5WW-jlvEFNHMtFCFvG_AjBxfMhdyVBxuY19L0hDri0Va1Z_6Lfx9qWuuC3v0eUwfIqvgiSJwFA3n90K5eVeOCQ1IUS3CAe8pszRhGIQkjfmU1KuOJeQaA0DuOpf8-xzhOdZuIyFdjtsYN0sy0toBJyaIRkAStMRqQGx0bTJ_DczdDcjiIMx-2xz1jNb1MU2VmsMV_bZCeakfG70AbIxUN-8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://boosterx.stream",
-                            "Referer": "https://boosterx.stream/v/hMP54IalDLao/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

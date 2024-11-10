@@ -107,11 +107,6 @@
                                 "thumbnail_url": "https://pinoymoviepedia.ru/wp-content/uploads/2020/09/Kapantay-ay-langit-0d9f8dsyds-185x278.jpg"
                             },
                             {
-                                "url": "/movies/dayo-2024/",
-                                "title": "Dayo (2024)",
-                                "thumbnail_url": "https://pinoymoviepedia.ru/wp-content/uploads/2024/04/JYgbVEMgW53uGVu2NvGJziCoTN.jpg"
-                            },
-                            {
                                 "url": "/movies/mula-sa-puso-1999-full-movie/",
                                 "title": "Mula sa puso (1999)",
                                 "thumbnail_url": "https://pinoymoviepedia.ru/wp-content/uploads/2019/10/v0ZPcOvBokVhP4G5IdvC8msLNRD-185x278.jpg"
@@ -155,6 +150,11 @@
                                 "url": "/movies/watch-cant-help-falling-in-love-online/",
                                 "title": "Can’t Help Falling in Love (2017)",
                                 "thumbnail_url": "https://pinoymoviepedia.ru/wp-content/uploads/2019/11/6xX4L8ac1nCDF8Vwgwf4pYI78Sa.jpg"
+                            },
+                            {
+                                "url": "/movies/dayo-2024/",
+                                "title": "Dayo (2024)",
+                                "thumbnail_url": "https://pinoymoviepedia.ru/wp-content/uploads/2024/04/JYgbVEMgW53uGVu2NvGJziCoTN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -344,18 +344,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xo606co.cloudatacdn.com/u5kjuqxst7h3sdgge7hw2jyfieov5iyzunz7lvjdsljgnsdhdfupwp5paixq/mrdwsoju98~QGkkNzcUz7?token=ch2aai25245gasgcx84r832j&expiry=1731197800915",
-                        "quality": "DOODDoodstream 720p",
-                        "videoUrl": "https://xo606co.cloudatacdn.com/u5kjuqxst7h3sdgge7hw2jyfieov5iyzunz7lvjdsljgnsdhdfupwp5paixq/mrdwsoju98~QGkkNzcUz7?token=ch2aai25245gasgcx84r832j&expiry=1731197800915",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.pm/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

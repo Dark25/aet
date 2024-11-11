@@ -545,12 +545,77 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/master.m3u8",
-                        "quality": "VidStreaming - Video",
-                        "videoUrl": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/master.m3u8",
+                        "url": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e075db97399e0e149f69a/playlist.m3u8",
+                        "quality": "VidStreaming - 1080p",
+                        "videoUrl": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e075db97399e0e149f69a/playlist.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*"
+                            "Accept": "*/*",
+                            "Accept-Language": "en-US,en;q=0.5",
+                            "Origin": "https://vidco.pro",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://st1.snapmosaic.com/664e0459b97399e0e146390a/664e045b489aae39f4ea0300.vtt",
+                                "lang": "English (eng)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e0697b97399e0e149db19/playlist.m3u8",
+                        "quality": "VidStreaming - 720p",
+                        "videoUrl": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e0697b97399e0e149db19/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Accept-Language": "en-US,en;q=0.5",
+                            "Origin": "https://vidco.pro",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://st1.snapmosaic.com/664e0459b97399e0e146390a/664e045b489aae39f4ea0300.vtt",
+                                "lang": "English (eng)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e064ab97399e0e149cda1/playlist.m3u8",
+                        "quality": "VidStreaming - 480p",
+                        "videoUrl": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e064ab97399e0e149cda1/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Accept-Language": "en-US,en;q=0.5",
+                            "Origin": "https://vidco.pro",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://st1.snapmosaic.com/664e0459b97399e0e146390a/664e045b489aae39f4ea0300.vtt",
+                                "lang": "English (eng)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e0574b97399e0e1498a43/playlist.m3u8",
+                        "quality": "VidStreaming - 360p",
+                        "videoUrl": "https://hls.vidco.pro/manifest/664e0459b97399e0e146390a/664e0574b97399e0e1498a43/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Accept-Language": "en-US,en;q=0.5",
+                            "Origin": "https://vidco.pro",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site"
                         },
                         "subtitleTracks": [
                             {

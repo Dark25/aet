@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10348-parthenope",
+                                "title": "Parthenope",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5226bb79-a641-4a9b-970d-811ad7acec60.webp"
+                            },
+                            {
                                 "url": "4145-arcane",
                                 "title": "Arcane",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/33f60df5-c7bc-4324-ad41-a45ae824e16c.webp"
@@ -300,11 +305,6 @@
                                 "url": "9439-blink-twice",
                                 "title": "Blink Twice",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/22112013-9af0-4ca4-9be3-d1b68125d18d.webp"
-                            },
-                            {
-                                "url": "5369-il-signore-degli-anelli-gli-anelli-del-potere",
-                                "title": "Il Signore degli Anelli: Gli anelli del potere",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f753b8ed-df43-41df-86ef-56b8e398c27a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,27 @@
             },
             "details": {
                 "result": {
-                    "url": "4145-arcane",
-                    "description": "Due sorelle combattono sui fronti opposti di una guerra tra tecnologia magica, convinzioni antitetiche e le stridenti contraddizioni delle città di Piltover e Zaun.",
-                    "genre": "Dramma, Sci-Fi & Fantasy, Action & Adventure, Animazione",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "10348-parthenope",
+                    "description": "La vita di Partenope, che si chiama come la sua città, ma non è né una sirena, né un mito. Dal 1950, quando nasce, fino a oggi. Dentro di lei, tutto il lunghissimo repertorio dell’esistenza: la spensieratezza e il suo svenimento, la bellezza classica e il suo cambiamento inesorabile, gli amori inutili e quelli impossibili, i flirt stantii e le vertigini dei colpi di fulmine, i baci nelle notti di Capri, i lampi di felicità e i dolori persistenti, i padri veri e quelli inventati, la fine delle cose, i nuovi inizi. Gli altri, vissuti, osservati, amati, uomini e donne, le loro derive malinconiche, gli occhi un po’ avviliti, le impazienze, la perdita della speranza di poter ridere ancora una volta per un uomo distinto che inciampa e cade in una via del centro. Sempre in compagnia dello scorrere del tempo, questo fidanzato fedelissimo. E di Napoli, che ammalia, incanta, urla, ride e poi sa farti male.",
+                    "genre": "Dramma",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "10348",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

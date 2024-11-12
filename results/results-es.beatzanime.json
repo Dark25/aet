@@ -136,30 +136,19 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/Fairy Tail꞉ 100-nen Quest/[One Fansub] Fairy Tail꞉ 100-nen Quest - 17 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "name": "[One Fansub] Fairy Tail꞉ 100-nen Quest - 17 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "scanlator": "601.46 MB"
-                    },
-                    {
-                        "url": "/Fairy Tail꞉ 100-nen Quest/[One Fansub] Fairy Tail꞉ 100-nen Quest - 16 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "name": "[One Fansub] Fairy Tail꞉ 100-nen Quest - 16 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "scanlator": "538.37 MB"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en\".....",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://dd.beatz-anime.net/api/raw/?path=%2FFairy%20Tail%EA%9E%89%20100-nen%20Quest%2F%5BOne%20Fansub%5D%20Fairy%20Tail%EA%9E%89%20100-nen%20Quest%20-%2017%20%5BWebRip%201080p%20HEVC-10bits%20AAC%5D.mkv",
+                        "url": "https://dd.beatz-anime.net/api/raw/?path=",
                         "quality": "Video",
-                        "videoUrl": "https://dd.beatz-anime.net/api/raw/?path=%2FFairy%20Tail%EA%9E%89%20100-nen%20Quest%2F%5BOne%20Fansub%5D%20Fairy%20Tail%EA%9E%89%20100-nen%20Quest%20-%2017%20%5BWebRip%201080p%20HEVC-10bits%20AAC%5D.mkv",
+                        "videoUrl": "https://dd.beatz-anime.net/api/raw/?path=",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Referer": "https://dd.beatz-anime.net/Fairy%20Tail%EA%9E%89%20100-nen%20Quest/"
+                            "Referer": "https://dd.beatz-anime.net//"
                         }
                     }
                 ],

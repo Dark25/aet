@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/furia-salvaje-1991/",
+                                "title": "Furia Salvaje (1991)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cQLGH4F2ybFruVuFFfHQxJcUCsh.jpg"
+                            },
+                            {
                                 "url": "/peliculas/mi-amigo-fluke-1995/",
                                 "title": "Mi amigo Fluke (1995)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Thelma: Una abuela en acción (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/rUcuageYgv9SsJoWuc0seRWG6JC.jpg"
-                            },
-                            {
-                                "url": "/peliculas/king-kong-2005/",
-                                "title": "King Kong (2005)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/mi-amigo-fluke-1995/",
-                    "title": "Mi amigo Fluke (1995)",
-                    "artist": "Matthew Modine",
-                    "author": "Carlo Carlei",
-                    "description": "Nada más nacer, Fluke descubre un emocionante mundo de diversión. Disfruta tanto retozando con sus hermanos como echándose la siesta con su mamá. Pero un sueño recurrente y una serie de percances le traen a la memoria recuerdos que sólo pueden pertenecer a una vida anterior muy diferente: la de un hombre. Emprende entonces un extraordinario viaje para conocer a su anterior familia.",
-                    "genre": "Aventura, Drama, Familia",
+                    "url": "/peliculas/furia-salvaje-1991/",
+                    "title": "Furia Salvaje (1991)",
+                    "artist": "Gina Gershon",
+                    "author": "Jerry Ziesmer",
+                    "description": "Gino Felino (Steven Seagal) es un detective de policía de Brooklyn, que un día recibe una llamada comunicándole que su mejor amigo Bobby Lupo (Joe Spataro) ha sido asesinado, a plena luz del día, en la calle y delante de su esposa e hijos, por el capo mafioso Richie Madano (William Forsythe), enemigo de ambos desde su juventud. Gino emprenderá una furiosa caza de Madano, que campa descontrolado por la ciudad.",
+                    "genre": "Acción, Crimen",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/k7BHqoTWJPpoSpfCzzUjAduuIbX.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/cQLGH4F2ybFruVuFFfHQxJcUCsh.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/mi-amigo-fluke-1995/",
+                        "url": "/peliculas/furia-salvaje-1991/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/12713/mhagi2emubdt_,n,.urlset/index-v1-a1.m3u8?t=U5GXGZeImaoohDq_H3dSntj3DKJ5PbqBfKYMWEQtSzg&s=1731413298&e=14400&f=63568782&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "url": "https://delivery-node-sfac44a0oeqkm1oo.voe-network.net/engine/hls2-c/01/12720/hspoaivsgo0c_,n,.urlset/index-v1-a1.m3u8?t=sC_aL230oDznlKiMwTSsFapI7LoyX3q8OpV0546ZMuE&s=1731434802&e=14400&f=63600334&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/12713/mhagi2emubdt_,n,.urlset/index-v1-a1.m3u8?t=U5GXGZeImaoohDq_H3dSntj3DKJ5PbqBfKYMWEQtSzg&s=1731413298&e=14400&f=63568782&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-sfac44a0oeqkm1oo.voe-network.net/engine/hls2-c/01/12720/hspoaivsgo0c_,n,.urlset/index-v1-a1.m3u8?t=sC_aL230oDznlKiMwTSsFapI7LoyX3q8OpV0546ZMuE&s=1731434802&e=14400&f=63600334&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

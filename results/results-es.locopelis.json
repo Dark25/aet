@@ -137,6 +137,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20577/vijay-69.html",
+                                "title": "Vijay 69",
+                                "description": "Un aventurero y malhablado exentrenador de natación pretende alcanzar la gloria y batir récords compitiendo en un triatlón a sus 69 años....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20577.webp"
+                            },
+                            {
+                                "url": "/pelicula/20576/umjolo-perdidamente-enamorada.html",
+                                "title": "Umjolo: Perdidamente",
+                                "description": "La aparentemente perfecta relación de una pareja se tambalea cuando uno de ellos se entera de que su alma gemela le está siendo infiel... ¿pero quién dijo que el amor fuese fácil?...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20576.webp"
+                            },
+                            {
                                 "url": "/pelicula/20575/la-familia-en-el-divan.html",
                                 "title": "La familia en el div�",
                                 "description": "Mientras David está en una tienda de muebles con su madre, ella retira la lona de un sofá cubierto y se deja caer. Con una montaña de obligaciones esperando a la vuelta de la esquina, él está ansioso por marcharse, pero ella se niega a levantarse. Gruffudd, el hermano de David, y Linda, su herm...",
@@ -243,18 +255,6 @@
                                 "title": "Sound of Hope: The St",
                                 "description": "22 familias de una iglesia rural negra del pequeño pueblo de Possum Trot, en el este de Texas, adoptan a 77 de los niños más difíciles de integrar en el sistema de acogida....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20558.webp"
-                            },
-                            {
-                                "url": "/pelicula/20557/la-nostalgia-vive-aqui.html",
-                                "title": "La nostalgia vive aqu",
-                                "description": "Como si la adolescencia no fuera lo suficientemente difícil, un joven, sin padre y que vive en un pequeño pueblo del interior de Brasil, se enfrenta a una enfermedad ocular degenerativa que poco a poco lo dejará ciego. A medida que su visión se deteriora, y atraviesa la confusión de un primer a...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20557.webp"
-                            },
-                            {
-                                "url": "/pelicula/20556/complice-en-fuga.html",
-                                "title": "Cómplice en fuga",
-                                "description": "Un hombre en la cárcel narra la colorida historia de un atraco romántico a un banco a su astuto compañero de celda para escapar y reunirse con el atractivo amor de su vida. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20556.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpqiwvqzb4aa/o6os7q2kzj~Offn8vQpuM?token=faa3a98f24ktc5woxwz3px7v&expiry=1731434799123",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpqiwvqzb4aa/o6os7q2kzj~Offn8vQpuM?token=faa3a98f24ktc5woxwz3px7v&expiry=1731434799123",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

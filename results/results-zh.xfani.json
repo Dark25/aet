@@ -3,27 +3,27 @@
         "name": "稀饭动漫 (ZH)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: dick.xfani.com: Name or service not known",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: dick.xfani.com",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: dick.xfani.com",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: dick.xfani.com",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: dick.xfani.com",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: dick.xfani.com",
+                "error": "javax.net.ssl.SSLHandshakeException: SSL证书验证异常，可以尝试在设置中忽略SSL验证问题。",
                 "passed": false
             }
         }

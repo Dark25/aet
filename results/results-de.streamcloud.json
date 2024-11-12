@@ -3,23 +3,23 @@
         "name": "StreamCloud (DE)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: streamcloud.movie: Temporary failure in name resolution",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: streamcloud.movie",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             }
         }

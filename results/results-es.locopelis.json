@@ -137,6 +137,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20580/amor-platonico.html",
+                                "title": "Amor platónico",
+                                "description": "Noah es un chico de 17 años que acude a casa de Luna para ayudarle con el examen de filosofía que tiene al día siguiente. Luna es una chica que todo lo cuestiona y que prefiere pasar la noche pensando en su novio que estudiando para el examen. La dialéctica de Platón se va cruzando con sus vive...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20580.webp"
+                            },
+                            {
+                                "url": "/pelicula/20579/terrifier-3-payaso-siniestro.html",
+                                "title": "Terrifier 3: Payaso s",
+                                "description": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas d...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20579.webp"
+                            },
+                            {
+                                "url": "/pelicula/20578/aire.html",
+                                "title": "Aire",
+                                "description": "Tania es una bióloga conservacionista que vive en un futuro distópico en el que la raza humana se está extinguiendo por la contaminación y las enfermedades. En un esfuerzo por evitar la extinción de su especie, intenta autoinseminarse con la ayuda de Vida, un sistema de inteligencia artificial....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20578.webp"
+                            },
+                            {
                                 "url": "/pelicula/20577/vijay-69.html",
                                 "title": "Vijay 69",
                                 "description": "Un aventurero y malhablado exentrenador de natación pretende alcanzar la gloria y batir récords compitiendo en un triatlón a sus 69 años....",
@@ -237,24 +255,6 @@
                                 "title": "Nos vemos la próxima",
                                 "description": "Convencida de que así vivirá una historia de amor de cuento con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el solicitado concierto navideño de Pentatonix....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20561.webp"
-                            },
-                            {
-                                "url": "/pelicula/20560/mi-amigo-el-fantasma.html",
-                                "title": "Mi amigo el fantasma",
-                                "description": "Una familia estadounidense se muda a Canterville Chase, una mansión de Londres que ha sido perseguida por el fantasma Sir Simon De Canterville durante 300 años. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20560.webp"
-                            },
-                            {
-                                "url": "/pelicula/20559/pico-de-oro-y-sus-amigos.html",
-                                "title": "Pico de Oro y sus ami",
-                                "description": "Un joven águila criada por gallinas abandona su hogar para encontrar su verdadera identidad. Tras descubrir a sus parientes y el nuevo propósito de su vida en la Patrulla Emplumada del Santuario de las Aves, permanece ajeno a un siniestro complot que surge en la ciudad cercana....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20559.webp"
-                            },
-                            {
-                                "url": "/pelicula/20558/sound-of-hope-the-story-of-possum-trot.html",
-                                "title": "Sound of Hope: The St",
-                                "description": "22 familias de una iglesia rural negra del pequeño pueblo de Possum Trot, en el este de Texas, adoptan a 77 de los niños más difíciles de integrar en el sistema de acogida....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20558.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpqiwvqzb4aa/o6os7q2kzj~Offn8vQpuM?token=faa3a98f24ktc5woxwz3px7v&expiry=1731434799123",
-                        "quality": "DoodStreamDoodstream  mirror",
-                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpqiwvqzb4aa/o6os7q2kzj~Offn8vQpuM?token=faa3a98f24ktc5woxwz3px7v&expiry=1731434799123",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

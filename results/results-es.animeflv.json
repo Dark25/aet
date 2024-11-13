@@ -161,6 +161,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasuuketsu",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://www3.animeflv.net/uploads/animes/covers/4004.jpg"
+                            },
+                            {
                                 "url": "/anime/amagamisan-chi-no-enmusubi",
                                 "title": "Amagami-san Chi no Enmusubi",
                                 "thumbnail_url": "https://www3.animeflv.net/uploads/animes/covers/4048.jpg"
@@ -254,11 +259,6 @@
                                 "url": "/anime/tsuma-shougakusei-ni-naru",
                                 "title": "Tsuma, Shougakusei ni Naru.",
                                 "thumbnail_url": "https://www3.animeflv.net/uploads/animes/covers/4071.jpg"
-                            },
-                            {
-                                "url": "/anime/shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-                                "thumbnail_url": "https://www3.animeflv.net/uploads/animes/covers/3865.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -446,9 +446,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=n--KAEh5JXdchVZypviQhL6V7DQxCGNHH0YjFnIhjKE&s=1731434748&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
+                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=WeVf_wII0pK4_63aWxYHe47SvC-JdU6_l_xUpBFptk4&s=1731456994&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=n--KAEh5JXdchVZypviQhL6V7DQxCGNHH0YjFnIhjKE&s=1731434748&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
+                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f2-v1-a1.m3u8?t=WeVf_wII0pK4_63aWxYHe47SvC-JdU6_l_xUpBFptk4&s=1731456994&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -457,9 +457,9 @@
                         }
                     },
                     {
-                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=n--KAEh5JXdchVZypviQhL6V7DQxCGNHH0YjFnIhjKE&s=1731434748&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
+                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=WeVf_wII0pK4_63aWxYHe47SvC-JdU6_l_xUpBFptk4&s=1731456994&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=n--KAEh5JXdchVZypviQhL6V7DQxCGNHH0YjFnIhjKE&s=1731434748&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
+                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/00048/sbv1fy2l4gjb_,n,h,.urlset/index-f1-v1-a1.m3u8?t=WeVf_wII0pK4_63aWxYHe47SvC-JdU6_l_xUpBFptk4&s=1731456994&e=129600&f=241194&srv=58ptlqpnp8&i=0.4&sp=500&p1=58ptlqpnp8&p2=58ptlqpnp8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -468,14 +468,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1731504747&ip=F0qQKRWADS9XKxR&token=ppOP1Xg7YUe_",
+                        "url": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1731526994&ip=FROsD0ESKxSHDN&token=qPYPmaN1522v",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1731504747&ip=F0qQKRWADS9XKxR&token=ppOP1Xg7YUe_"
+                        "videoUrl": "https://streamtape.com/get_video?id=x1oXOJj48oUoy2&expires=1731526994&ip=FROsD0ESKxSHDN&token=qPYPmaN1522v"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20241112JEI7ud4DXs5/video.mp4",
+                        "url": "https://vidcache.net:8161/a20241112ubi5128hx8C/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20241112JEI7ud4DXs5/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20241112ubi5128hx8C/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"

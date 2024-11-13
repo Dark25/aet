@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/codigo-traje-rojo",
+                                "title": "Código: Traje rojo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg"
+                            },
+                            {
+                                "url": "/movies/juror-2",
+                                "title": "Jurado #2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/nk2fxww83vynfSXFuWC6qMGyag.jpg"
+                            },
+                            {
+                                "url": "/movies/megalopolis",
+                                "title": "Megalópolis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6jW627n4kOQnAZCa24bbOd1S0CF.jpg"
+                            },
+                            {
+                                "url": "/movies/sonrie-2",
+                                "title": "Sonríe 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6AWBa4JFtaC4eEs48qjCCJd9BMr.jpg"
+                            },
+                            {
                                 "url": "/movies/amor-platonico",
                                 "title": "Amor platónico",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/iU3ZrNP8hsX8ecfqlNIGKzWAv8q.jpg"
@@ -110,26 +130,6 @@
                                 "url": "/movies/meet-me-next-christmas",
                                 "title": "Meet Me Next Christmas",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg"
-                            },
-                            {
-                                "url": "/movies/10-dias-de-un-hombre-curioso",
-                                "title": "10 días de un hombre curioso",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/eP3f2P2Gk65lupIMoR1FSnZEqRg.jpg"
-                            },
-                            {
-                                "url": "/movies/shoshana",
-                                "title": "Shoshana",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/o5fnmUDQ4lgpJynXQxJI8mWLsqw.jpg"
-                            },
-                            {
-                                "url": "/movies/simple-comme-sylvain",
-                                "title": "Simple comme Sylvain",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3IDVyDWQMLvp9TchrJMFInRhPDe.jpg"
-                            },
-                            {
-                                "url": "/movies/pedro-paramo",
-                                "title": "Pedro Páramo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/AeeqpYGfMr4dpepzrwfYTo22aDy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/dune-world",
-                                "title": "Dune World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
-                            },
-                            {
                                 "url": "/movies/adios-mundo",
                                 "title": "Adios Mundo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
+                            },
+                            {
+                                "url": "/movies/dune-world",
+                                "title": "Dune World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/amor-platonico",
-                    "title": "Amor platónico",
-                    "artist": "Marina Varem",
-                    "description": "Noah es un joven de 17 años que visita a Luna para ayudarle con el examen de filosofía que tiene al día siguiente. Luna es una chica que todo lo cuestiona y que prefiere pasar la noche pensando en su novio que estudiando. La dialéctica de Platón se va cruzando con sus vivencias en una noche donde acabarán abandonando la caverna para descubrir el verdadero significado del Amor Platónico.",
-                    "genre": "Comedia, Romance",
+                    "url": "/movies/codigo-traje-rojo",
+                    "title": "Código: Traje rojo",
+                    "artist": "Dwayne Johnson",
+                    "description": "Después de que Santa Claus (nombre clave: Traje rojo) es secuestrado, el Jefe de Seguridad del Polo Norte debe formar equipo con el cazarrecompensas más infame del mundo en una misión trotamundos llena de acción para salvar la Navidad.",
+                    "genre": "Acción, Comedia, Aventura",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/iU3ZrNP8hsX8ecfqlNIGKzWAv8q.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/amor-platonico",
+                        "url": "/movies/codigo-traje-rojo",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,28 +429,61 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/12715/ggochzxbm6bw_,n,.urlset/index-v1-a1.m3u8?t=K5nc3ZsxXGz_11T2e8e2eyJcMs4kktL-e7QPfy6cXkc&s=1731499663&e=14400&f=63614850&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "url": "https://ye0r0rrinu.pradoi.com/hls2/01/05483/jdglcosopdpw_n/index-v1-a1.m3u8?t=quVg90IT9mvLUqR2LptICMG9GfblnnnEu-FemMl3J4M&s=1731521229&e=129600&f=27429131&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://ye0r0rrinu.pradoi.com/hls2/01/05483/jdglcosopdpw_n/index-v1-a1.m3u8?t=quVg90IT9mvLUqR2LptICMG9GfblnnnEu-FemMl3J4M&s=1731521229&e=129600&f=27429131&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/itsevx8e2yfk"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-k9zecunih7fex16v.voe-network.net/engine/hls2-c/01/12723/itcjdgxs2unw_,n,.urlset/index-v1-a1.m3u8?t=1PC3w1ZQyHIHCoSxwX4FAcIgPTX5zIazFLU1UHAuNcY&s=1731521242&e=14400&f=63644182&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "quality": "[CAST]Voe:720p",
-                        "videoUrl": "https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/12715/ggochzxbm6bw_,n,.urlset/index-v1-a1.m3u8?t=K5nc3ZsxXGz_11T2e8e2eyJcMs4kktL-e7QPfy6cXkc&s=1731499663&e=14400&f=63614850&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-k9zecunih7fex16v.voe-network.net/engine/hls2-c/01/12723/itcjdgxs2unw_,n,.urlset/index-v1-a1.m3u8?t=1PC3w1ZQyHIHCoSxwX4FAcIgPTX5zIazFLU1UHAuNcY&s=1731521242&e=14400&f=63644182&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://7f12638xuzfg.pradoi.com/hls2/01/05606/d5o8m9pf3z22_n/index-v1-a1.m3u8?t=EpcTj-c9_b_PdS3SCe63_mmk3yE8-NqfatY8WidqDwc&s=1731499663&e=129600&f=28107333&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/05643/98chwqma739n_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ya_9fTLgvXTbR8zRYNGWS-ujl0-zD6e1rh0zB5Hj3r8&s=1731521243&e=129600&f=28216752&srv=zfio3if6w0x&i=0.0&sp=500&p1=zfio3if6w0x&p2=zfio3if6w0x&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://7f12638xuzfg.pradoi.com/hls2/01/05606/d5o8m9pf3z22_n/index-v1-a1.m3u8?t=EpcTj-c9_b_PdS3SCe63_mmk3yE8-NqfatY8WidqDwc&s=1731499663&e=129600&f=28107333&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/05643/98chwqma739n_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ya_9fTLgvXTbR8zRYNGWS-ujl0-zD6e1rh0zB5Hj3r8&s=1731521243&e=129600&f=28216752&srv=zfio3if6w0x&i=0.0&sp=500&p1=zfio3if6w0x&p2=zfio3if6w0x&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/m4o80caymiq2"
+                            "Referer": "https://streamwish.to/e/98chwqma739n"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=46oG1BaqgqtKmgA&expires=1731569662&ip=FROsD0AAKxSHDN&token=wJlUOXmyqAXC",
+                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/05643/98chwqma739n_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ya_9fTLgvXTbR8zRYNGWS-ujl0-zD6e1rh0zB5Hj3r8&s=1731521243&e=129600&f=28216752&srv=zfio3if6w0x&i=0.0&sp=500&p1=zfio3if6w0x&p2=zfio3if6w0x&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/05643/98chwqma739n_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ya_9fTLgvXTbR8zRYNGWS-ujl0-zD6e1rh0zB5Hj3r8&s=1731521243&e=129600&f=28216752&srv=zfio3if6w0x&i=0.0&sp=500&p1=zfio3if6w0x&p2=zfio3if6w0x&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/98chwqma739n"
+                        }
+                    },
+                    {
+                        "url": "https://a99wtmgqgife.pradoi.com/hls2/01/05643/98chwqma739n_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ya_9fTLgvXTbR8zRYNGWS-ujl0-zD6e1rh0zB5Hj3r8&s=1731521243&e=129600&f=28216752&srv=zfio3if6w0x&i=0.0&sp=500&p1=zfio3if6w0x&p2=zfio3if6w0x&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://a99wtmgqgife.pradoi.com/hls2/01/05643/98chwqma739n_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ya_9fTLgvXTbR8zRYNGWS-ujl0-zD6e1rh0zB5Hj3r8&s=1731521243&e=129600&f=28216752&srv=zfio3if6w0x&i=0.0&sp=500&p1=zfio3if6w0x&p2=zfio3if6w0x&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/98chwqma739n"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=rJYJk1Zblyhb2Lb&expires=1731591240&ip=F0qQKRWADS9XKxR&token=BEMLM_OnlibG",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=46oG1BaqgqtKmgA&expires=1731569662&ip=FROsD0AAKxSHDN&token=wJlUOXmyqAXC"
+                        "videoUrl": "https://streamtape.com/get_video?id=rJYJk1Zblyhb2Lb&expires=1731591240&ip=F0qQKRWADS9XKxR&token=BEMLM_OnlibG"
                     }
                 ],
                 "passed": true

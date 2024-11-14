@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/deneme",
-                                "title": "deneme",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933794.jpg"
-                            },
-                            {
                                 "url": "/anime/jurassic-world-chaos-theory",
                                 "title": "Jurassic World: Chaos Theory",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933792.jpg"
@@ -85,6 +80,11 @@
                                 "url": "/anime/ill-become-a-villainess-who-goes-down-in-history",
                                 "title": "I'll Become a Villainess Who Goes Down in History",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933777.jpg"
+                            },
+                            {
+                                "url": "/anime/dragon-ball-daima-english-subbed",
+                                "title": "Dragon Ball Daima English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933776.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/deneme",
-                    "title": "deneme",
-                    "description": "hgfhfgfgfg",
-                    "genre": "Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933794.jpg",
+                    "url": "/anime/jurassic-world-chaos-theory",
+                    "title": "Jurassic World: Chaos Theory",
+                    "description": "Darius Bowman, a young paleontologist, discovers live dinosaurs in California’s wilderness.",
+                    "genre": "Action, Adventure, Animation, Family, Sci-fi, Science Fiction, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933792.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/jurassic-world-chaos-theory-season-2-episode-10-reunion",
+                        "name": "Season 2 - Episode 10",
+                        "episode_number": 210.0
+                    },
+                    {
+                        "url": "/jurassic-world-chaos-theory-season-2-episode-9-lab-partners-part-2",
+                        "name": "Season 2 - Episode 9",
+                        "episode_number": 209.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKfJOzVfVR34ncmbJhZE_bZ_DCh4nqgzOjBvdhwU13CQOL14mihJr-HmR9pt7h6b835ZtqYPukzM5hdm5CJoklLG8-7wfhdQJU9oZIfXgfsyk6JMMNZcd-P7UXS_tyATszqUgQYj0tVAb_DwfmrW-K78GtEiSDglPeVRtdCZYWXgQI02Sir7o5oXJrWKe3nwRFvQXd6DIB1bBk7tUXv6dq5GCIlA7PKj-yKiXwFy2F9IOVs4_MfMKoSFsV3oGkPvCKhDHTrsN4m-cWwjWKTFmIpA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKfJOzVfVR34ncmbJhZE_bZ_DCh4nqgzOjBvdhwU13CQOL14mihJr-HmR9pt7h6b835ZtqYPukzM5hdm5CJoklLG8-7wfhdQJU9oZIfXgfsyk6JMMNZcd-P7UXS_tyATszqUgQYj0tVAb_DwfmrW-K78GtEiSDglPeVRtdCZYWXgQI02Sir7o5oXJrWKe3nwRFvQXd6DIB1bBk7tUXv6dq5GCIlA7PKj-yKiXwFy2F9IOVs4_MfMKoSFsV3oGkPvCKhDHTrsN4m-cWwjWKTFmIpA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKbPhY2HQ1NNRR91wKPUGyd7Dw21QzuoiViz8kzuAxum6vWqIATHEYWcal8-W-HMJBJaC0wGgajiFMrvE_0YHqqO3KCldylXpuUpHnjzsWzvTbn-Wny8hb1oCSTN0Jll0aef072EIIMgZBFLDCTuGSEes_AsaAyyHlJiCzB71fq2KlACFCIWuunrQAh7YVl3fq9IF7mqnXRGQYUIi27XoTz0GzVx73u6xHjWunbZCstc6bw0YbXYoaqwQtDJXfNBySZZ25fWPrGvDhT-TZU1EZHA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKbPhY2HQ1NNRR91wKPUGyd7Dw21QzuoiViz8kzuAxum6vWqIATHEYWcal8-W-HMJBJaC0wGgajiFMrvE_0YHqqO3KCldylXpuUpHnjzsWzvTbn-Wny8hb1oCSTN0Jll0aef072EIIMgZBFLDCTuGSEes_AsaAyyHlJiCzB71fq2KlACFCIWuunrQAh7YVl3fq9IF7mqnXRGQYUIi27XoTz0GzVx73u6xHjWunbZCstc6bw0YbXYoaqwQtDJXfNBySZZ25fWPrGvDhT-TZU1EZHA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKVKNE9o_-LTELTvyBB-4djU-66VGDWEi0obmc1AJFopOASrdJ8NQA-BYtwmVg4AZUxxTC9elbYu4GYJK7MGHe89YOu3Y8QBnCzKzGFWtQc4sVdcup119ljXb4R4-EKiBTxrkNLldRS0oubiIEn0tu3DEgFIrcySaUvTHCqsw_qEI4oE7blpquTWikpa0p7azavpazAadHa1UobfhL3oA1xopDj14Cwy0wEW8vcY3T0QQrYqVsgHsOnFAN1dEHBIi0B-ghOndih_pRt80XOwFqrQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKVKNE9o_-LTELTvyBB-4djU-66VGDWEi0obmc1AJFopOASrdJ8NQA-BYtwmVg4AZUxxTC9elbYu4GYJK7MGHe89YOu3Y8QBnCzKzGFWtQc4sVdcup119ljXb4R4-EKiBTxrkNLldRS0oubiIEn0tu3DEgFIrcySaUvTHCqsw_qEI4oE7blpquTWikpa0p7azavpazAadHa1UobfhL3oA1xopDj14Cwy0wEW8vcY3T0QQrYqVsgHsOnFAN1dEHBIi0B-ghOndih_pRt80XOwFqrQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

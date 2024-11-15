@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/video/a/124301/",
+                                "title": "Dragon Ball Daima",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/10/Dragon-Ball-DaimaEp.jpg"
+                            },
+                            {
                                 "url": "/video/a/124222/",
                                 "title": "Arcane 2 (Dublado)",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/11/assistir-arcane-2-dublado-todos-os-episodios-online-animes-online.jpg"
@@ -20,11 +25,6 @@
                                 "url": "/video/a/124209/",
                                 "title": "Tower of God Season 2",
                                 "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/07/assistir-tower-of-god-season-2-todos-os-episodios-online-animes-online.jpg"
-                            },
-                            {
-                                "url": "/video/a/124200/",
-                                "title": "Bleach: Sennen Kessen-hen – Soukoku-tan",
-                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/10/Bleach-Sennen-Kessen-hen-Soukoku-tan.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -224,24 +224,54 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/a/arcane-2-dublado",
-                    "title": "Arcane 2 (Dublado)",
-                    "description": "Arcane 2 Dublado Segunda temporada de Arcane.",
-                    "genre": "Ação, Aventura, Fantasia, sci-fi",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/11/assistir-arcane-2-dublado-todos-os-episodios-online-animes-online.jpg",
+                    "url": "/anime/a/dbdaib001",
+                    "title": "Dragon Ball Daima",
+                    "artist": "Toei Animation",
+                    "description": "Dragon Ball Daima Devido ao ataque de um conspiração, Goku e seus amigos foram transformados em crianças. Em busca de encontrar uma forma de voltar ao normal, o grupo parte em uma aventura cheia de ação e mistério, explorando um mundo desconhecido e novo.",
+                    "genre": "Ação, Aventura, Fantasia",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2024/10/Dragon-Ball-DaimaEp.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/video/a/124301/",
+                        "name": "Episódio 06",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/video/a/124185/",
+                        "name": "Episódio 05",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8xMC9kcmFnb24tYmQuaHRtbA==/5/bg.mp4",
+                        "quality": "Animes Digital",
+                        "videoUrl": "https://animesdigital.org/aHR0cHM6Ly9jYW1pZWxtcy5ibG9nc3BvdC5jb20vMjAyNC8xMC9kcmFnb24tYmQuaHRtbA==/5/bg.mp4",
+                        "headers": {
+                            "referer": "https://sabornutritivo.com/vieiras-grelhadas-com-pure-de-couve-flor/"
+                        }
+                    },
+                    {
+                        "url": "https://api.anivideo.fun/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/d/dragon-ball-daima/06.mp4/index.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://api.anivideo.fun/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/d/dragon-ball-daima/06.mp4/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

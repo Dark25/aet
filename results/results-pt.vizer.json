@@ -598,29 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery50.mxcontent.net/v2/r6x0xeoksvq6q91.mp4?s=DAe6Ad7XV7Qa6bx27UxSnw&e=1731629340&_t=1731609457",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery50.mxcontent.net/v2/r6x0xeoksvq6q91.mp4?s=DAe6Ad7XV7Qa6bx27UxSnw&e=1731629340&_t=1731609457",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-                        }
-                    },
-                    {
-                        "url": "https://basseqwevewcewcewecwcw.xyz/hls/am1vMlNuazJacjh4YzdGcTlNTWVFTERlblN5bXJBaXNzbmxvQTNUbG5kT0lTdHlTdjg1d3VxaWc0YTJiblozUVZXV1d1QnJYRWtKZmtrcDdLRFFySS8yWng5d2pFVUhNVkZKeENHTjhLZFpPRVJtY0R0SUg4NFlaQVJGSnMwaUdYUkFYYmI5cytuV3N4QWFjakMwMFNhVXQvRVFTSVZVc2NTOXYzcGtzcFpsRnBGSkNPa0xwRzBlSkJZTmZqTHB1SGU5ekJNYzk0eVRvdUpKcFN4QnhaWkxqT2E5azFFSlFlMmRuTDJUTDJVelMrUTdMZWlCbHVrVmp5a3hWTE9JWThNOVlhZzRyaXNoMEVxYmVVZndLUm1PQUFKWkFQbVBGS2g4TjN3aU4ydTQ9",
-                        "quality": "WarezCDN(DUB) - 720p",
-                        "videoUrl": "https://basseqwevewcewcewecwcw.xyz/hls/am1vMlNuazJacjh4YzdGcTlNTWVFTERlblN5bXJBaXNzbmxvQTNUbG5kT0lTdHlTdjg1d3VxaWc0YTJiblozUVZXV1d1QnJYRWtKZmtrcDdLRFFySS8yWng5d2pFVUhNVkZKeENHTjhLZFpPRVJtY0R0SUg4NFlaQVJGSnMwaUdYUkFYYmI5cytuV3N4QWFjakMwMFNhVXQvRVFTSVZVc2NTOXYzcGtzcFpsRnBGSkNPa0xwRzBlSkJZTmZqTHB1SGU5ekJNYzk0eVRvdUpKcFN4QnhaWkxqT2E5azFFSlFlMmRuTDJUTDJVelMrUTdMZWlCbHVrVmp5a3hWTE9JWThNOVlhZzRyaXNoMEVxYmVVZndLUm1PQUFKWkFQbVBGS2g4TjN3aU4ydTQ9",
-                        "headers": {
-                            "Referer": "https://basseqwevewcewcewecwcw.xyz",
-                            "Origin": "https://basseqwevewcewcewecwcw.xyz",
-                            "X-Requested-With": "XMLHttpRequest",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

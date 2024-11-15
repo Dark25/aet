@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/ما-بعد-الوداع/",
+                                "title": "ما بعد الوداع Sayonara no Tsuzuki"
+                            },
+                            {
                                 "url": "/الكاهن-الناري-الموسم-الثاني/",
                                 "title": "الكاهن الناري 2 The Fiery Priest"
                             },
@@ -169,10 +173,6 @@
                             {
                                 "url": "/عائلة-مثالية/",
                                 "title": "عائلة مثالية Perfect Family"
-                            },
-                            {
-                                "url": "/الطاغية/",
-                                "title": "الطاغية The Tyrant"
                             }
                         ],
                         "hasNextPage": true
@@ -280,22 +280,46 @@
             },
             "details": {
                 "result": {
-                    "url": "/الكاهن-الناري-الموسم-الثاني/",
-                    "title": "الكاهن الناري 2 The Fiery Priest",
-                    "description": "تدور الدراما حول قس يسعى للعدالة ولا يهدأ له ناره، حيث يسافر إلى بوسان مع مُدّعية عامة ومُحقق، لمُطاردة عصابة مخدرات متجذرة. Kim-Nam-Gil : في دور Kim Hae Il / Michael Lee-Ha-Nee : في دور Park Gyeong Sun Kim-Sung-Kyun : في دور Koo Dae Yeong Sung-Joon : في دور Kim Hong Sik Seo-Hyun-Woo : في دور Nam Du Heon BIBI : في دور Koo Ja Yeong",
-                    "genre": "كوريا الجنوبية, أكشن, جريمة, درامي, كوميدي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/VX130E_4f-1.jpg",
+                    "url": "/ما-بعد-الوداع/",
+                    "title": "ما بعد الوداع Sayonara no Tsuzuki",
+                    "description": "“تدور أحداث القصة حول “سايكو” التي تشعر برابط غامض تجاه رجل غريب. تتغير حياتها بعد وفاة خطيبها في حادث مؤلم وفقدانها لذكرياتها. “ Arimura-Kasumi : في دور Sugawara Saeko Sakaguchi-Kentaro : في دور Naruse Kazumasa Saito-Yuki : في دور Nakamachi Yuriko Ikuta-Toma : في دور Nakamachi Yusuke Nakamura-Yuri : في دور Naruse Miki Okuno-Eita : في دور Kengo",
+                    "genre": "كوريا الجنوبية, رومانسي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/Xdzowp_4f.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ما-بعد-الوداع-الحلقة-08-الأخيرة/",
+                        "name": "%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
+                    },
+                    {
+                        "url": "/ما-بعد-الوداع-الحلقة-07/",
+                        "name": "07 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ioe291l.cloudatacdn.com/u5kj7wdzblc3sdgge5gpgoq2kem344ym5jwp3rmjjxjkkzgpks6wf7ykk36q/90c3qux1sc~PA55H63jA0?token=k0yimlukbrzham2gcvanh5wy&expiry=1731629847444",
+                        "quality": "nullDoodstream  mirror",
+                        "videoUrl": "https://ioe291l.cloudatacdn.com/u5kj7wdzblc3sdgge5gpgoq2kem344ym5jwp3rmjjxjkkzgpks6wf7ykk36q/90c3qux1sc~PA55H63jA0?token=k0yimlukbrzham2gcvanh5wy&expiry=1731629847444",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.li/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=VYwBZz2gw6fKR8v&expires=1731699846&ip=GHEsDRqAKxSHDN&token=lJtWH6u9mgTp",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=VYwBZz2gw6fKR8v&expires=1731699846&ip=GHEsDRqAKxSHDN&token=lJtWH6u9mgTp"
+                    }
+                ],
+                "passed": true
             }
         }
     }

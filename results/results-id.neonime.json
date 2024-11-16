@@ -3,27 +3,27 @@
         "name": "NeoNime (ID)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: Failed to parse server certificates",
+                "error": "java.io.IOException: Read timed out",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             }
         }

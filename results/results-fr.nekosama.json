@@ -3,27 +3,27 @@
         "name": "Neko-Sama (FR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
                 "passed": false
             }
         }

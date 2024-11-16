@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shasha-and-milo",
+                                "title": "Shasha and Milo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg"
+                            },
+                            {
                                 "url": "/anime/dee-friends-in-oz",
                                 "title": "Dee & Friends in Oz",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933799.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/tomb-raider-the-legend-of-lara-croft",
                                 "title": "Tomb Raider: The Legend of Lara Croft",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933781.jpg"
-                            },
-                            {
-                                "url": "/anime/family-guy-season-23",
-                                "title": "Family Guy Season 23",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933780.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dee-friends-in-oz",
-                    "title": "Dee & Friends in Oz",
-                    "description": "When a mysterious key transports her to the land of Oz, a regular kid named Dee goes on a musical journey to save magic – and be the hero of the story.",
-                    "genre": "Adventure, Comedy, Family, Fantasy, Musical, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933799.jpg",
+                    "url": "/anime/shasha-and-milo",
+                    "title": "Shasha and Milo",
+                    "description": "Shasha and Milo are the newly activated Crescent Island Guardians. Imbued with the power to transform between human, cat and a formidable hybrid form, Shasha and Milo are tasked with protecting Crescent Island from the dark forces.",
+                    "genre": "Action, Animation, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/dee-friends-in-oz-episode-16-dee-and-the-wizard-of-oz",
-                        "name": "Season 1 - Episode 16",
-                        "episode_number": 116.0
-                    },
-                    {
-                        "url": "/dee-friends-in-oz-episode-15-dee-and-the-oz-emergencies",
-                        "name": "Season 1 - Episode 15",
-                        "episode_number": 115.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJknA4aGO5dv66lIzQHf1Z_r5fb71opU39B_4hXzl_CtNOcPJdFEht-QMNzJ1pHSt9QhTj-Uu14N4fVSkUic2BJWLwToQ66c9xXqcPFxaTeJNQ7oiR49k0nzIPFIJbKLZgF6lH6yR1XDTZtBL5C-BHZQmYOeRoM5E-exNBfB4r0H4QDzv7Ofxli0y7SNe4KjjkqmqaqP90l8jaDx9-e4nlp0jLZR0q3dDCOWKeOXcuZZGEt-Cxis2A44Glw3cSXzOkRaLqTTf-W_8mCNA0kaGdvirkA2PWVkB4VE6hm9i529VWjVKUs3xE20FIcVNQ-SVrry_VVnlwR3IBWyhIhm3StJZRvlenNUbpMGBX-Tmppc643zJSm0a8dbB3Y9RPDRgqDVJxDHMqDADS3rLM9Jotmk",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJknA4aGO5dv66lIzQHf1Z_r5fb71opU39B_4hXzl_CtNOcPJdFEht-QMNzJ1pHSt9QhTj-Uu14N4fVSkUic2BJWLwToQ66c9xXqcPFxaTeJNQ7oiR49k0nzIPFIJbKLZgF6lH6yR1XDTZtBL5C-BHZQmYOeRoM5E-exNBfB4r0H4QDzv7Ofxli0y7SNe4KjjkqmqaqP90l8jaDx9-e4nlp0jLZR0q3dDCOWKeOXcuZZGEt-Cxis2A44Glw3cSXzOkRaLqTTf-W_8mCNA0kaGdvirkA2PWVkB4VE6hm9i529VWjVKUs3xE20FIcVNQ-SVrry_VVnlwR3IBWyhIhm3StJZRvlenNUbpMGBX-Tmppc643zJSm0a8dbB3Y9RPDRgqDVJxDHMqDADS3rLM9Jotmk"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJknA4aGO5dv66lIzQHf1Z_r5fb71opU39B_4hXzl_CtNOcPJdFEht-QMNzJ1pHSt9QhTj-Uu14N4fVSkUic2BJWLwToQ66c9xXqcPFxaTeJNQ7oiR49k0nzIPFIJbKLZgId6s2eKWIn9G_4LTD3bqmrZ8wdYenPmRtkT2u081AmKtKfdRAhIAx_qu4zI56gj4GCbNx1cJBe6LvOFRLvw4S964L5ZZaoC56IZ2d7bmtV2uXZlTIlJkRbt1yns2YX_8MCpMXjQ8ybI1IPHuOYT3Wfga03nSpkc3YBYhxKZf3Gcs7wUNskZCIfHTdVIK3eFFY7vBaxja2xzhoMED5zOiOIycRvyf3M3tXBGQm2CUeC4emfN1gw5W2zNXEpIaUbzOT-9mXjd8NTBLQNPBnC8ItU",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJknA4aGO5dv66lIzQHf1Z_r5fb71opU39B_4hXzl_CtNOcPJdFEht-QMNzJ1pHSt9QhTj-Uu14N4fVSkUic2BJWLwToQ66c9xXqcPFxaTeJNQ7oiR49k0nzIPFIJbKLZgId6s2eKWIn9G_4LTD3bqmrZ8wdYenPmRtkT2u081AmKtKfdRAhIAx_qu4zI56gj4GCbNx1cJBe6LvOFRLvw4S964L5ZZaoC56IZ2d7bmtV2uXZlTIlJkRbt1yns2YX_8MCpMXjQ8ybI1IPHuOYT3Wfga03nSpkc3YBYhxKZf3Gcs7wUNskZCIfHTdVIK3eFFY7vBaxja2xzhoMED5zOiOIycRvyf3M3tXBGQm2CUeC4emfN1gw5W2zNXEpIaUbzOT-9mXjd8NTBLQNPBnC8ItU"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJknA4aGO5dv66lIzQHf1Z_r5fb71opU39B_4hXzl_CtNOcPJdFEht-QMNzJ1pHSt9QhTj-Uu14N4fVSkUic2BJWLwToQ66c9xXqcPFxaTeJNQ7oiR49k0nzIPFIJbKLZgGCYFKhy6k_tnFzyg_OVycmCjU8z0CNvug7M4MbKKaemzhAUWvUs2k0n8kHpQMbHYfaYqVBAEV0PoB8hG_rtzfcX9USCC4H453HuMMFt6m8CczLYj50KkbGu6n_NqL8fjVzDbe0gneMEldsxJVWchp2we56hwpumHfgBTsT_0uYtlqhYCpAV2SUjAY2KFVuShOiipObXTFxMs3vDfF3eh_iaJ_3wcSQDLY7RYPBP0yCHeMK_Cvzc3EorVFQhW4h5nwW09gBvpcsRjK-Y3CLPQU0",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJknA4aGO5dv66lIzQHf1Z_r5fb71opU39B_4hXzl_CtNOcPJdFEht-QMNzJ1pHSt9QhTj-Uu14N4fVSkUic2BJWLwToQ66c9xXqcPFxaTeJNQ7oiR49k0nzIPFIJbKLZgGCYFKhy6k_tnFzyg_OVycmCjU8z0CNvug7M4MbKKaemzhAUWvUs2k0n8kHpQMbHYfaYqVBAEV0PoB8hG_rtzfcX9USCC4H453HuMMFt6m8CczLYj50KkbGu6n_NqL8fjVzDbe0gneMEldsxJVWchp2we56hwpumHfgBTsT_0uYtlqhYCpAV2SUjAY2KFVuShOiipObXTFxMs3vDfF3eh_iaJ_3wcSQDLY7RYPBP0yCHeMK_Cvzc3EorVFQhW4h5nwW09gBvpcsRjK-Y3CLPQU0"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

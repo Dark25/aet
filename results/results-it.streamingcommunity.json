@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10498-innocenti-bugie",
+                                "title": "Innocenti bugie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2e79852c-be5f-4618-a049-ad8913ec119b.webp"
+                            },
+                            {
                                 "url": "10495-when-evil-lurks",
                                 "title": "When Evil Lurks",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/571aa95e-e589-43da-a801-f0da46bc63ff.webp"
@@ -610,11 +615,6 @@
                                 "url": "10410-i-miserabili",
                                 "title": "I miserabili",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a27b9914-7151-4512-927d-2af26a75e333.webp"
-                            },
-                            {
-                                "url": "10407-ma-chi-ti-conosce",
-                                "title": "Ma chi ti conosce?",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a55350f0-b357-46e2-99f7-983d62bbd275.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,31 +952,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=TU7iJHkFsAB-4ESRI2-cUw&expires=1736964387&b=1",
-                        "quality": "480,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=TU7iJHkFsAB-4ESRI2-cUw&expires=1736964387&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=8AGgwHW6Mwq2pJAGlPYhDw&expires=1736964387&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=TmGOZFR9HhtHCuzn1sc8hw&expires=1736964387&b=1",
-                        "quality": "720,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=TmGOZFR9HhtHCuzn1sc8hw&expires=1736964387&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=8AGgwHW6Mwq2pJAGlPYhDw&expires=1736964387&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

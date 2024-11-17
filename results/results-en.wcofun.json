@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/total-drama-island-reboot",
+                                "title": "Total Drama Island: Reboot",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg"
+                            },
+                            {
                                 "url": "/anime/shasha-and-milo",
                                 "title": "Shasha and Milo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/kidou-senshi-gundam-fukushuu-no-requiem",
                                 "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933782.jpg"
-                            },
-                            {
-                                "url": "/anime/tomb-raider-the-legend-of-lara-croft",
-                                "title": "Tomb Raider: The Legend of Lara Croft",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933781.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/shasha-and-milo",
-                    "title": "Shasha and Milo",
-                    "description": "Shasha and Milo are the newly activated Crescent Island Guardians. Imbued with the power to transform between human, cat and a formidable hybrid form, Shasha and Milo are tasked with protecting Crescent Island from the dark forces.",
-                    "genre": "Action, Animation, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg",
+                    "url": "/anime/total-drama-island-reboot",
+                    "title": "Total Drama Island: Reboot",
+                    "description": "The most funny and dangerous reality cartoon show Total Drama is back with even more dangerous challenges.",
+                    "genre": "Action, Adventure, Animation, Comedy, Drama, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/total-drama-island-reboot-episode-26-soar-losers",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
+                    },
+                    {
+                        "url": "/total-drama-island-reboot-episode-25-off-the-hook",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjEHfGQMI0khCOko1U4lH9CZrfZf9RvfMw_4WXJ-pWIogP9X_HQ3qzteDCojU6gqU9N7hqj9jhKMJHUZr6cHwDYbGR5_pPCYhWXOcIWfMSudDIfIwEl59PjLVgaliIrlakKXDFe4n0IEqe01jblWRAke85jA3X2N0xG4WXLPjneUx2hU95aZFVdUocVfcjUaq2kjAYgIhqtPmkBD-Zyxz0DWsaWUQDRjBCZfz7vPcofnH9Lfryd0-dfPeuRN8gRi7tPcnepTo9GcTBQj7pq8nGqpRWCRH2KB4cO0rWRKsDEAYoj8zc4DG4-wo0e9A6CBUvlg50hYvp5v_4hfxOe2cFKAK_PD3CoCjeUFPnWP-6E-",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjEHfGQMI0khCOko1U4lH9CZrfZf9RvfMw_4WXJ-pWIogP9X_HQ3qzteDCojU6gqU9N7hqj9jhKMJHUZr6cHwDYbGR5_pPCYhWXOcIWfMSudDIfIwEl59PjLVgaliIrlakKXDFe4n0IEqe01jblWRAke85jA3X2N0xG4WXLPjneUx2hU95aZFVdUocVfcjUaq2kjAYgIhqtPmkBD-Zyxz0DWsaWUQDRjBCZfz7vPcofnH9Lfryd0-dfPeuRN8gRi7tPcnepTo9GcTBQj7pq8nGqpRWCRH2KB4cO0rWRKsDEAYoj8zc4DG4-wo0e9A6CBUvlg50hYvp5v_4hfxOe2cFKAK_PD3CoCjeUFPnWP-6E-"
+                    }
+                ],
+                "passed": true
             }
         }
     }

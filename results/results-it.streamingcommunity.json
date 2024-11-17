@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10502-berlinguer-la-grande-ambizione",
+                                "title": "Berlinguer. La grande ambizione",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f61777ae-bd3e-4b35-a3c4-8c3ed42d569f.webp"
+                            },
+                            {
                                 "url": "10500-aspettando-il-re",
                                 "title": "Aspettando il Re",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bd157df1-5463-4cab-87a9-48dcdf2fec87.webp"
@@ -610,11 +615,6 @@
                                 "url": "10417-the-walking-dead-daryl-dixon",
                                 "title": "The Walking Dead: Daryl Dixon",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2b4c0160-b8e6-435b-bcd9-eced3974a5a9.webp"
-                            },
-                            {
-                                "url": "10416-cercasi-amore-per-la-fine-del-mondo",
-                                "title": "Cercasi amore per la fine del mondo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4d4535a5-c5f9-4625-962d-d7a0aadfa153.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,8 +952,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=woe0QwcrAK2x0L4ZU3Fidw&expires=1737050815&b=1",
+                        "quality": "480,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=woe0QwcrAK2x0L4ZU3Fidw&expires=1737050815&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=MOjhoOYtmCmGAfAU9pI4bw&expires=1737050815&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=ajnheqt8l5t9YGYfeHIhMw&expires=1737050815&b=1",
+                        "quality": "720,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=ajnheqt8l5t9YGYfeHIhMw&expires=1737050815&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=MOjhoOYtmCmGAfAU9pI4bw&expires=1737050815&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

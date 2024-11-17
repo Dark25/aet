@@ -3,27 +3,27 @@
         "name": "AniPlay (IT)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "details": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "episodes": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "videos": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             }
         }

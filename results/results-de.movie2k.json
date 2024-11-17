@@ -3,19 +3,19 @@
         "name": "Movie2k (DE)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "videos": {

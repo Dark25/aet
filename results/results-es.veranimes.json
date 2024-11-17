@@ -348,55 +348,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ver/one-piece-gyojin-tou-hen-3",
+                        "name": "Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
                         "url": "/ver/one-piece-gyojin-tou-hen-2",
                         "name": "Episodio 2",
                         "episode_number": 2.0
-                    },
-                    {
-                        "url": "/ver/one-piece-gyojin-tou-hen-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-itmywuvwu73sgpdk.voe-network.net/engine/hls2/01/12704/hkjhfqaq1n8z_,n,.urlset/index-v1-a1.m3u8?t=t3AXgj_tc3YhnvvOARu8Jv-RpqtHXYlk8AS9wPPTrcY&s=1731823606&e=14400&f=63523852&node=delivery-node-itmywuvwu73sgpdk.voe-network.net&i=74.249&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-itmywuvwu73sgpdk.voe-network.net/engine/hls2/01/12704/hkjhfqaq1n8z_,n,.urlset/index-v1-a1.m3u8?t=t3AXgj_tc3YhnvvOARu8Jv-RpqtHXYlk8AS9wPPTrcY&s=1731823606&e=14400&f=63523852&node=delivery-node-itmywuvwu73sgpdk.voe-network.net&i=74.249&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s27t5fwaxz.guardstorage.net/hls_3/YimHnUsA2N1HOdaCUf1zg5Ctfe-fGQ7AyXDsx8wgRWebqhA5xd55eqpN3MiTmXWjqLl_OJt7Z3aRRR7uVAfdFw/index-f2-v1-a1.m3u8?sig=juc3MnNMuAz4U2vbsnZF3g&expires=1731832605",
-                        "quality": "VidGuard:720p",
-                        "videoUrl": "https://s27t5fwaxz.guardstorage.net/hls_3/YimHnUsA2N1HOdaCUf1zg5Ctfe-fGQ7AyXDsx8wgRWebqhA5xd55eqpN3MiTmXWjqLl_OJt7Z3aRRR7uVAfdFw/index-f2-v1-a1.m3u8?sig=juc3MnNMuAz4U2vbsnZF3g&expires=1731832605",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s27t5fwaxz.guardstorage.net/hls_3/YimHnUsA2N1HOdaCUf1zg5Ctfe-fGQ7AyXDsx8wgRWebqhA5xd55eqpN3MiTmXWjqLl_OJt7Z3aRRR7uVAfdFw/index-f1-v1-a1.m3u8?sig=juc3MnNMuAz4U2vbsnZF3g&expires=1731832605",
-                        "quality": "VidGuard:360p",
-                        "videoUrl": "https://s27t5fwaxz.guardstorage.net/hls_3/YimHnUsA2N1HOdaCUf1zg5Ctfe-fGQ7AyXDsx8wgRWebqhA5xd55eqpN3MiTmXWjqLl_OJt7Z3aRRR7uVAfdFw/index-f1-v1-a1.m3u8?sig=juc3MnNMuAz4U2vbsnZF3g&expires=1731832605",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a202411160mhDh3M47b1/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202411160mhDh3M47b1/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

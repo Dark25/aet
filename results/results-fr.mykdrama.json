@@ -3,27 +3,27 @@
         "name": "MyKdrama (FR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             }
         }

@@ -3,15 +3,15 @@
         "name": "AniPlay (IT)",
         "results": {
             "popular": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "latest": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "search": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: PROTOCOL_ERROR",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "details": {

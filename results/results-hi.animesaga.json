@@ -3,7 +3,7 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "latest": {

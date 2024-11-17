@@ -3,27 +3,19 @@
         "name": "Movie2k (DE)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketException: Network is unreachable",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketException: Network is unreachable",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketException: Network is unreachable",
+                "passed": false
             },
             "episodes": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.net.SocketException: Network is unreachable",
                 "passed": false
             },
             "videos": {

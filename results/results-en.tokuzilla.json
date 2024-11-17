@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gavv.html",
+                                "title": "Kamen Rider Gavv",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
+                            },
+                            {
                                 "url": "/watch/ohsama-sentai-king-ohger-vs-kyoryuger.html",
                                 "title": "Ohsama Sentai King-Ohger vs. Kyoryuger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-vs-kyoryuger-thumb.png"
@@ -25,16 +35,6 @@
                                 "url": "/watch/kamen-rider-outsiders.html",
                                 "title": "Kamen Rider Outsiders",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gavv.html",
-                                "title": "Kamen Rider Gavv",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
                             },
                             {
                                 "url": "/watch/moon-spiral.html",
@@ -143,21 +143,36 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/ohsama-sentai-king-ohger-vs-kyoryuger.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=37#watch",
+                        "name": "Episode 37",
+                        "episode_number": 37.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=36#watch",
+                        "name": "Episode 36",
+                        "episode_number": 36.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'H' instead at path: $\nJSON input: HjmzPttpVRLLt80cBRhG+jZwXV09H+.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'H' instead at path: $\nJSON input: HjmzPttpVRLLt80cBRhG+w4Lq6ej/G.....",
                 "passed": false
             }
         }

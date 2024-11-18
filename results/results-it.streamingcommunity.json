@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10510-red-dawn-alba-rossa",
+                                "title": "Red Dawn - Alba rossa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d76e0d99-bf23-4647-9400-1ff9bf106f7e.webp"
+                            },
+                            {
                                 "url": "10509-tra-un-tempio-e-laltro",
                                 "title": "Tra un tempio e l’altro",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/93452977-0dfd-4fb0-baa7-05e3b9fdb28c.webp"
@@ -610,11 +615,6 @@
                                 "url": "10425-investigation-alien-indagine-sugli-ufo",
                                 "title": "Investigation Alien: indagine sugli UFO",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ad60b8a4-7865-48b5-98d2-cd6aa026e030.webp"
-                            },
-                            {
-                                "url": "10424-rapina-al-banco-central",
-                                "title": "Rapina al Banco Central",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2122bea3-1dd5-41f3-be79-e0955330a664.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,8 +952,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=3S1QNs1Ts-q7cAGH9KJwYQ&expires=1737137270&b=1",
+                        "quality": "480,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=3S1QNs1Ts-q7cAGH9KJwYQ&expires=1737137270&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=tt6AKggM5i8e5rAPhUjO3Q&expires=1737137270&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=TPKN5xiSxUEmbr7pLPkIBQ&expires=1737137270&b=1",
+                        "quality": "720,SUBTITLES=\"subs\"p",
+                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=TPKN5xiSxUEmbr7pLPkIBQ&expires=1737137270&b=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=tt6AKggM5i8e5rAPhUjO3Q&expires=1737137270&b=1",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

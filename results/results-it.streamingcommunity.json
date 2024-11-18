@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "10505-the-carrie-diaries",
+                                "title": "The Carrie Diaries",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7b32ad8f-0b7b-45d5-994d-0b546384ad75.webp"
+                            },
+                            {
+                                "url": "10504-landman",
+                                "title": "Landman",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/96b439a5-75d4-4eed-bee0-7a005d2ab385.webp"
+                            },
+                            {
                                 "url": "10502-berlinguer-la-grande-ambizione",
                                 "title": "Berlinguer. La grande ambizione",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f61777ae-bd3e-4b35-a3c4-8c3ed42d569f.webp"
@@ -605,16 +615,6 @@
                                 "url": "10419-jake-paul-vs-mike-tyson-conto-alla-rovescia",
                                 "title": "Jake Paul vs. Mike Tyson - Conto alla rovescia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/33e82f4e-8fd2-473c-9d32-548e82fb1640.webp"
-                            },
-                            {
-                                "url": "10418-the-keepers",
-                                "title": "The Keepers",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/85392819-e860-4095-90e8-20cdebf6db85.webp"
-                            },
-                            {
-                                "url": "10417-the-walking-dead-daryl-dixon",
-                                "title": "The Walking Dead: Daryl Dixon",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2b4c0160-b8e6-435b-bcd9-eced3974a5a9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,31 +952,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=woe0QwcrAK2x0L4ZU3Fidw&expires=1737050815&b=1",
-                        "quality": "480,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=480p&token=woe0QwcrAK2x0L4ZU3Fidw&expires=1737050815&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=MOjhoOYtmCmGAfAU9pI4bw&expires=1737050815&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=ajnheqt8l5t9YGYfeHIhMw&expires=1737050815&b=1",
-                        "quality": "720,SUBTITLES=\"subs\"p",
-                        "videoUrl": "https://vixcloud.co/playlist/270602?type=video&rendition=720p&token=ajnheqt8l5t9YGYfeHIhMw&expires=1737050815&b=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.co/playlist/270602?type=subtitle&rendition=2-eng&token=MOjhoOYtmCmGAfAU9pI4bw&expires=1737050815&b=1",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

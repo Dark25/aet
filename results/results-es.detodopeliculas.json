@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/emilia-perez-2024/",
+                                "title": "Emilia Pérez (2024)",
+                                "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/Al1cL3oPBgnmzm0EqIRcOT6JHFg-185x278.jpg"
+                            },
+                            {
                                 "url": "/pelicula/la-suerte-del-ganador-2024/",
                                 "title": "La suerte del ganador (2024)",
                                 "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/bkhbJUiOrkdNE58uWltqjXcrZKu-185x278.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/una-jirafa-en-el-balcon-2024/",
                                 "title": "Una jirafa en el balcón (2024)",
                                 "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/Una_jirafa_en_el_balcon_poster_argentina-185x278.webp"
-                            },
-                            {
-                                "url": "/pelicula/arcane-2x03/",
-                                "title": "Arcane 2×03",
-                                "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/Arcane_League_of_Legends_s02_poster_usa-185x278.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -619,11 +619,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-suerte-del-ganador-2024/",
-                    "title": "La suerte del ganador (2024)",
-                    "description": "Un padre de familia, una joven soltera, un terrorista y un anciano moribundo protagonizan esta comedia negra llena de humor absurdo y situaciones salvajes. En cuatro historias independientes, el premio de la lotería, que debería ser un sueño hecho realidad, acaba transformándose en una pesadilla inesperada para cada uno de ellos.\n\nTítulo original: Heureux Gagnants",
-                    "genre": "Comedia",
-                    "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/bkhbJUiOrkdNE58uWltqjXcrZKu.jpg",
+                    "url": "/pelicula/emilia-perez-2024/",
+                    "title": "Emilia Pérez (2024)",
+                    "description": "Rita, una infravalorada abogada que trabaja para un gran bufete más interesado en librar a los criminales de la cárcel que en llevarlos ante la justicia, es contratada por el líder de una organización criminal.\n\nTítulo original: Emilia Pérez",
+                    "genre": "Drama, Suspense",
+                    "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/Emilia_Perez_poster_francia.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -631,7 +631,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-suerte-del-ganador-2024/",
+                        "url": "/pelicula/emilia-perez-2024/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -641,41 +641,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-btn04upa9672moac.voe-network.net/engine/hls2/01/12773/k92tkwozz5p1_,n,.urlset/index-v1-a1.m3u8?t=iP7BdD8qRZrMmdmy_4VO3OfXZRMDuPgHMJDR6_lJStI&s=1731996524&e=14400&f=63868362&node=delivery-node-btn04upa9672moac.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[SUB] - Voe:720p",
-                        "videoUrl": "https://delivery-node-btn04upa9672moac.voe-network.net/engine/hls2/01/12773/k92tkwozz5p1_,n,.urlset/index-v1-a1.m3u8?t=iP7BdD8qRZrMmdmy_4VO3OfXZRMDuPgHMJDR6_lJStI&s=1731996524&e=14400&f=63868362&node=delivery-node-btn04upa9672moac.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-34ppf4n1zgx9ubgc.voe-network.net/engine/hls2/01/12772/f88jkznqwbof_,n,.urlset/index-v1-a1.m3u8?t=ui8pi-6Hrm27y-cI_HJt4i7btMqGqAAFGzl7jDQjXYM&s=1732018177&e=14400&f=63863516&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=20.51&sp=2500&asn=8075",
+                        "quality": "[LAT] - Voe:480p",
+                        "videoUrl": "https://delivery-node-34ppf4n1zgx9ubgc.voe-network.net/engine/hls2/01/12772/f88jkznqwbof_,n,.urlset/index-v1-a1.m3u8?t=ui8pi-6Hrm27y-cI_HJt4i7btMqGqAAFGzl7jDQjXYM&s=1732018177&e=14400&f=63863516&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=20.51&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://b76rg533gp.guardstorage.net/hls_3/viOnWBRUrL3LQA45MecANiOOghmd66iDMJjvhLAQNI95dWtQ0vlKKtFbmb3CCR1MsSMd_eHx_Oiq5U-jP3dUErl6X5hlqX7Hmwg0oRxoRTqVb2U2pHNyvHfUQFZGJWskoirfrN3ODg1kemi-c7PMGCJ07b041UrJ4_UKFNkIehhGHEtD1hI-5NVe88mt6IWl-vXbvlRvbhyP2BeZ7OmN3A/index-v1-a1.m3u8?sig=EfWodCJosLUDsp66cJSlWA&expires=1732005523",
-                        "quality": "[SUB] - VidGuard:720p",
-                        "videoUrl": "https://b76rg533gp.guardstorage.net/hls_3/viOnWBRUrL3LQA45MecANiOOghmd66iDMJjvhLAQNI95dWtQ0vlKKtFbmb3CCR1MsSMd_eHx_Oiq5U-jP3dUErl6X5hlqX7Hmwg0oRxoRTqVb2U2pHNyvHfUQFZGJWskoirfrN3ODg1kemi-c7PMGCJ07b041UrJ4_UKFNkIehhGHEtD1hI-5NVe88mt6IWl-vXbvlRvbhyP2BeZ7OmN3A/index-v1-a1.m3u8?sig=EfWodCJosLUDsp66cJSlWA&expires=1732005523",
+                        "url": "https://zkiaa1g08m.guardstorage.net/hls_3/EL4X9BbMltrSolZYE2UxtaTQb9xxsewv_nzDJNSFbbJL5UQtdBN5eh8JXTNYL88Eo0MgvRar5YYw88b5UitN-nKRtIC4rqPV6tkJdVJMYZcK28dJqrU74hUio2KBm2RO4Fp9xL-_UCLW5A3Nc0k2x2LLgjnOjHpsKZ4m3BDFiNfPG-MD4noc4Vvo0XLt9-Dbw6GDhp54B1gnkwQWCtJdMA/index-f2-v1-a1.m3u8?sig=YoEl7qXtwFZXed3N1QAR0A&expires=1732027176",
+                        "quality": "[LAT] - VidGuard:480p",
+                        "videoUrl": "https://zkiaa1g08m.guardstorage.net/hls_3/EL4X9BbMltrSolZYE2UxtaTQb9xxsewv_nzDJNSFbbJL5UQtdBN5eh8JXTNYL88Eo0MgvRar5YYw88b5UitN-nKRtIC4rqPV6tkJdVJMYZcK28dJqrU74hUio2KBm2RO4Fp9xL-_UCLW5A3Nc0k2x2LLgjnOjHpsKZ4m3BDFiNfPG-MD4noc4Vvo0XLt9-Dbw6GDhp54B1gnkwQWCtJdMA/index-f2-v1-a1.m3u8?sig=YoEl7qXtwFZXed3N1QAR0A&expires=1732027176",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://delivery-node-puliq8eyobyawezd.voe-network.net/engine/hls2/01/12772/ppmjjdsetvyy_,n,.urlset/index-v1-a1.m3u8?t=7N1IMA69v7m9aqklQn7yIX7EtfScOfxEIhSIsVKYdgs&s=1731996523&e=14400&f=63864163&node=delivery-node-puliq8eyobyawezd.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "[CAST] - Voe:480p",
-                        "videoUrl": "https://delivery-node-puliq8eyobyawezd.voe-network.net/engine/hls2/01/12772/ppmjjdsetvyy_,n,.urlset/index-v1-a1.m3u8?t=7N1IMA69v7m9aqklQn7yIX7EtfScOfxEIhSIsVKYdgs&s=1731996523&e=14400&f=63864163&node=delivery-node-puliq8eyobyawezd.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://fqpy8ovqad.guardstorage.net/hls_3/b9sXnl5BHbiOnp_SqBO17XuNH6jbC8i8c4b9Pf-z2J7Y5LdggiQ7EgpmXOpyrh9dvpukETV8r9tdeLKF5BWn65n9Bpw8dp8Wt_jKyoVOhquSKQGxk2k4vWGI2AThrFyRIMr8bQvQNVll3X2tE23sm7gXrFLSlR5BKJLjQr4BqCtifelQKSQSA8A8l77-y3hTQWN-AJqxcr54zzwt1ovTKg/index-f2-v1-a1.m3u8?sig=Z63iPS0LrwEHGPORD2fZNg&expires=1732005518",
-                        "quality": "[CAST] - VidGuard:480p",
-                        "videoUrl": "https://fqpy8ovqad.guardstorage.net/hls_3/b9sXnl5BHbiOnp_SqBO17XuNH6jbC8i8c4b9Pf-z2J7Y5LdggiQ7EgpmXOpyrh9dvpukETV8r9tdeLKF5BWn65n9Bpw8dp8Wt_jKyoVOhquSKQGxk2k4vWGI2AThrFyRIMr8bQvQNVll3X2tE23sm7gXrFLSlR5BKJLjQr4BqCtifelQKSQSA8A8l77-y3hTQWN-AJqxcr54zzwt1ovTKg/index-f2-v1-a1.m3u8?sig=Z63iPS0LrwEHGPORD2fZNg&expires=1732005518",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://fqpy8ovqad.guardstorage.net/hls_3/b9sXnl5BHbiOnp_SqBO17XuNH6jbC8i8c4b9Pf-z2J7Y5LdggiQ7EgpmXOpyrh9dvpukETV8r9tdeLKF5BWn65n9Bpw8dp8Wt_jKyoVOhquSKQGxk2k4vWGI2AThrFyRIMr8bQvQNVll3X2tE23sm7gXrFLSlR5BKJLjQr4BqCtifelQKSQSA8A8l77-y3hTQWN-AJqxcr54zzwt1ovTKg/index-f1-v1-a1.m3u8?sig=Z63iPS0LrwEHGPORD2fZNg&expires=1732005518",
-                        "quality": "[CAST] - VidGuard:240p",
-                        "videoUrl": "https://fqpy8ovqad.guardstorage.net/hls_3/b9sXnl5BHbiOnp_SqBO17XuNH6jbC8i8c4b9Pf-z2J7Y5LdggiQ7EgpmXOpyrh9dvpukETV8r9tdeLKF5BWn65n9Bpw8dp8Wt_jKyoVOhquSKQGxk2k4vWGI2AThrFyRIMr8bQvQNVll3X2tE23sm7gXrFLSlR5BKJLjQr4BqCtifelQKSQSA8A8l77-y3hTQWN-AJqxcr54zzwt1ovTKg/index-f1-v1-a1.m3u8?sig=Z63iPS0LrwEHGPORD2fZNg&expires=1732005518",
+                        "url": "https://zkiaa1g08m.guardstorage.net/hls_3/EL4X9BbMltrSolZYE2UxtaTQb9xxsewv_nzDJNSFbbJL5UQtdBN5eh8JXTNYL88Eo0MgvRar5YYw88b5UitN-nKRtIC4rqPV6tkJdVJMYZcK28dJqrU74hUio2KBm2RO4Fp9xL-_UCLW5A3Nc0k2x2LLgjnOjHpsKZ4m3BDFiNfPG-MD4noc4Vvo0XLt9-Dbw6GDhp54B1gnkwQWCtJdMA/index-f1-v1-a1.m3u8?sig=YoEl7qXtwFZXed3N1QAR0A&expires=1732027176",
+                        "quality": "[LAT] - VidGuard:240p",
+                        "videoUrl": "https://zkiaa1g08m.guardstorage.net/hls_3/EL4X9BbMltrSolZYE2UxtaTQb9xxsewv_nzDJNSFbbJL5UQtdBN5eh8JXTNYL88Eo0MgvRar5YYw88b5UitN-nKRtIC4rqPV6tkJdVJMYZcK28dJqrU74hUio2KBm2RO4Fp9xL-_UCLW5A3Nc0k2x2LLgjnOjHpsKZ4m3BDFiNfPG-MD4noc4Vvo0XLt9-Dbw6GDhp54B1gnkwQWCtJdMA/index-f1-v1-a1.m3u8?sig=YoEl7qXtwFZXed3N1QAR0A&expires=1732027176",
                         "headers": {
                             "Accept": "*/*"
                         }

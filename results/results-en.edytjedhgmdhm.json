@@ -3,28 +3,83 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/README/",
+                                "title": "README/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/%E5%AE%8C%E7%BE%8E%E5%85%88%E7%94%9F%E5%92%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%B0%8F%E5%A7%90.Perfect.and.Casual.2020.WEB-DL.1080p.x264.AAC-PTerWEB/Perfect.and.Casual.2020.E24.WEB-DL.1080p.x264.AAC-PTerWEB.mp4",
+                        "name": "Perfect.and.Casual.2020.E24.WEB-DL.1080p.x264.AAC-PTerWEB",
+                        "date_upload": -1,
+                        "episode_number": 24.0,
+                        "scanlator": "1.10 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/%E5%AE%8C%E7%BE%8E%E5%85%88%E7%94%9F%E5%92%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%B0%8F%E5%A7%90.Perfect.and.Casual.2020.WEB-DL.1080p.x264.AAC-PTerWEB/Perfect.and.Casual.2020.E23.WEB-DL.1080p.x264.AAC-PTerWEB.mp4",
+                        "name": "Perfect.and.Casual.2020.E23.WEB-DL.1080p.x264.AAC-PTerWEB",
+                        "date_upload": -1,
+                        "episode_number": 23.0,
+                        "scanlator": "1.12 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%E5%AE%8C%E7%BE%8E%E5%85%88%E7%94%9F%E5%92%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%B0%8F%E5%A7%90.Perfect.and.Casual.2020.WEB-DL.1080p.x264.AAC-PTerWEB/Perfect.and.Casual.2020.E24.WEB-DL.1080p.x264.AAC-PTerWEB.mp4",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%E5%AE%8C%E7%BE%8E%E5%85%88%E7%94%9F%E5%92%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%B0%8F%E5%A7%90.Perfect.and.Casual.2020.WEB-DL.1080p.x264.AAC-PTerWEB/Perfect.and.Casual.2020.E24.WEB-DL.1080p.x264.AAC-PTerWEB.mp4"
                     }
                 ],
                 "passed": true

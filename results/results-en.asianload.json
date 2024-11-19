@@ -7,7 +7,7 @@
                     {
                         "animes": [
                             {
-                                "url": "/videos/parole-examiner-lee-2024-episode-1",
+                                "url": "/videos/parole-examiner-lee-2024-episode-2",
                                 "title": "Parole Examiner Lee (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/parole-officer-lee-han-shin-1731053209.png"
                             },
@@ -324,7 +324,7 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/parole-examiner-lee-2024-episode-1",
+                    "url": "/videos/parole-examiner-lee-2024-episode-2",
                     "title": "Parole Examiner Lee (2024)",
                     "description": "Lee Han Shin, a former lawyer turned parole examiner, is dedicated to preventing inmates from exploiting the parole system through money, connections, or deceit—however, he's compassionate to people who are unjustly imprisoned, helping them whenever possible. Han Shin teams up with ace detective An Seo Yun and unexpected ally legendary loan shark Choi Hwa Ran with the ultimate goal of confronting Ji Myeong Seop, a second-generation family business heir who believes he's above the law. Can this unlikely group succeed in its battle against corruption? (Source: Rakuten Viki) Episodes: 12 Duration: 1 hr. 10 min. Content Rating: 15+ - Teens 15 or older Airs On: Monday, Tuesday",
                     "initialized": true
@@ -334,6 +334,11 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/videos/parole-examiner-lee-2024-episode-2",
+                        "name": "SUB Episode: 2",
+                        "episode_number": 2.0
+                    },
+                    {
                         "url": "/videos/parole-examiner-lee-2024-episode-1",
                         "name": "SUB Episode: 1",
                         "episode_number": 1.0
@@ -342,43 +347,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery51.mxcontent.net/v2/r6x308k4a1nodk.mp4?s=Ax6tOpUmpjtqb8GoZlpC7g&e=1732039598&_t=1732021650",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery51.mxcontent.net/v2/r6x308k4a1nodk.mp4?s=Ax6tOpUmpjtqb8GoZlpC7g&e=1732039598&_t=1732021650",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=XArW2K6Zr3iWxb&expires=1732087998&ip=GHEsDRqAKxSHDN&token=Y2_DyyJTfKW-",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XArW2K6Zr3iWxb&expires=1732087998&ip=GHEsDRqAKxSHDN&token=Y2_DyyJTfKW-"
-                    },
-                    {
-                        "url": "https://iii286.cloudatacdn.com/u5kj7ajudtc3sdgge467eyqtdv4th2rm2c2k47ibvjbrvl73k7w7zt6x3s5q/pxl0yydgod~Xq7LvXxQf7?token=qyja1eydy6rb9051bj11rhei&expiry=1732017997861",
-                        "quality": "nullDoodstream  mirror",
-                        "videoUrl": "https://iii286.cloudatacdn.com/u5kj7ajudtc3sdgge467eyqtdv4th2rm2c2k47ibvjbrvl73k7w7zt6x3s5q/pxl0yydgod~Xq7LvXxQf7?token=qyja1eydy6rb9051bj11rhei&expiry=1732017997861",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://d0000d.com/"
-                        }
-                    },
-                    {
-                        "url": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/06024/531g8k2q4c47_n/index-v1-a1.m3u8?t=oTeyCpv4XJh-y_bLbbgbLBSvNb0NP1fvxdCo8aEThPA&s=1732017996&e=129600&f=30124250&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
-                        "quality": "StreamWish - 720p",
-                        "videoUrl": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/06024/531g8k2q4c47_n/index-v1-a1.m3u8?t=oTeyCpv4XJh-y_bLbbgbLBSvNb0NP1fvxdCo8aEThPA&s=1732017996&e=129600&f=30124250&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/531g8k2q4c47?caption_1=https://sub.embasic.pro&sub_1=English"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

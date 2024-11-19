@@ -137,6 +137,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20599/gladiador-ii.html",
+                                "title": "Gladiador II",
+                                "description": "Años después de presenciar la muerte del admirado héroe Máximo a manos de su tío, Lucio (Paul Mescal) se ve forzado a entrar en el Coliseo tras ser testigo de la conquista de su hogar por parte de los tiránicos emperadores que dirigen Roma con puño de hierro. Con un corazón desbordante de fu...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20599.webp"
+                            },
+                            {
+                                "url": "/pelicula/20598/codigo-traje-rojo.html",
+                                "title": "Código: Traje Rojo",
+                                "description": "Tras el secuestro de Papá Noel, nombre en clave: RED ONE, el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20598.webp"
+                            },
+                            {
                                 "url": "/pelicula/20597/el-boliche-del-terror.html",
                                 "title": "El Boliche del Terror",
                                 "description": "En la última noche de operación de un boliche en decadencia, una estudiante de secundaria acude junto a su cita romántica a pasar un rato agradable y divertido, hasta que su noche se ve interrumpida cuando un culto sediento de sangre, decide hacer de este lugar entretenido, el escenario perfecto ...",
@@ -243,18 +255,6 @@
                                 "title": "Amor platónico",
                                 "description": "Noah es un chico de 17 años que acude a casa de Luna para ayudarle con el examen de filosofía que tiene al día siguiente. Luna es una chica que todo lo cuestiona y que prefiere pasar la noche pensando en su novio que estudiando para el examen. La dialéctica de Platón se va cruzando con sus vive...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20580.webp"
-                            },
-                            {
-                                "url": "/pelicula/20579/terrifier-3-payaso-siniestro.html",
-                                "title": "Terrifier 3: Payaso s",
-                                "description": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas d...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20579.webp"
-                            },
-                            {
-                                "url": "/pelicula/20578/aire.html",
-                                "title": "Aire",
-                                "description": "Tania es una bióloga conservacionista que vive en un futuro distópico en el que la raza humana se está extinguiendo por la contaminación y las enfermedades. En un esfuerzo por evitar la extinción de su especie, intenta autoinseminarse con la ayuda de Vida, un sistema de inteligencia artificial....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20578.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpwarcywhnpq/syz0z2tcx5~xEAqxb7Plg?token=faa3a98f24ktc5woxwz3px7v&expiry=1731996423743",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyojpwarcywhnpq/syz0z2tcx5~xEAqxb7Plg?token=faa3a98f24ktc5woxwz3px7v&expiry=1731996423743",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

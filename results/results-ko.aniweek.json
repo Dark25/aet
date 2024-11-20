@@ -520,20 +520,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdndania.com/m3/dnRwU3RadmwyWWM0Um1aYlFKMmpnL0VtSElhdlBxaVBNOERLN0duVzdTN2MxWGRYQm1iMUFsbWx6Y1RRcHU0TVBKL3BwdW5ob2wwMXJ2dmtmYkZRMnZNWjVveWtmaUExdVR3cUVpdTQ3VnJXTnMxWVFhNmZWOVkybVVjb0hNbzJSNVQ0TUZBSXlZL01KNFRtR3FCVnBMaytKNE1GbmFsakxQZVd4YWtZRzI2dGhPMHg0cm1oMjF2Uy8xZ2p6OGJQYWJ5bDRRQ3RKbm4xdlZRTWZWaEJZbWswYTN3QkJSQnVUdXlieW1NS0plQUI1a1o0OXViYk9VWUdwN0h0QmtxM3V5MkJOOE1kMGlNVmRGZjdKK1JmVUZ5Unk1VHJxd09aMWp6Ykw0NTFNOXFvWjF5ZUNIRmFDMVBsYUpxMlB2R0w%3D",
-                        "quality": "1080p",
-                        "videoUrl": "https://cdndania.com/m3/dnRwU3RadmwyWWM0Um1aYlFKMmpnL0VtSElhdlBxaVBNOERLN0duVzdTN2MxWGRYQm1iMUFsbWx6Y1RRcHU0TVBKL3BwdW5ob2wwMXJ2dmtmYkZRMnZNWjVveWtmaUExdVR3cUVpdTQ3VnJXTnMxWVFhNmZWOVkybVVjb0hNbzJSNVQ0TUZBSXlZL01KNFRtR3FCVnBMaytKNE1GbmFsakxQZVd4YWtZRzI2dGhPMHg0cm1oMjF2Uy8xZ2p6OGJQYWJ5bDRRQ3RKbm4xdlZRTWZWaEJZbWswYTN3QkJSQnVUdXlieW1NS0plQUI1a1o0OXViYk9VWUdwN0h0QmtxM3V5MkJOOE1kMGlNVmRGZjdKK1JmVUZ5Unk1VHJxd09aMWp6Ykw0NTFNOXFvWjF5ZUNIRmFDMVBsYUpxMlB2R0w%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://cdndania.com",
-                            "Referer": "https://cdndania.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+                "passed": false
             }
         }
     }

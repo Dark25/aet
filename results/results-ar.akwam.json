@@ -3,23 +3,23 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "videos": {
-                "error": "java.io.IOException: unexpected end of stream on http://ww99.akw-cdn1.link/...",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             }
         }

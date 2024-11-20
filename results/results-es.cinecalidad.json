@@ -7,9 +7,19 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/duna-la-profecia/",
+                                "title": "Duna: La profecía",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-pelicula/casi-un-cuento-navideno/",
+                                "title": "Casi un cuento navideño",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//j7dQpQ6BwYQLqmf4mXINfzEViZI.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/la-muerte-le-sienta-bien/",
                                 "title": "La Muerte le Sienta Bien",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//cat0ytQRnwNuK0pBTY3AOhLYfzb.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/cuando-un-extrano-llama/",
@@ -55,16 +65,6 @@
                                 "url": "/ver-pelicula/la-familia-del-futuro/",
                                 "title": "La familia del futuro",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//1V34tiUPo3memMuCFlGhpA7ODbj.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/la-civil/",
-                                "title": "La Civil",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//k4rzOXBNN09qvSCm2RZfJvmELnH.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/mi-amigo-fluke/",
-                                "title": "Mi amigo Fluke",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//k7BHqoTWJPpoSpfCzzUjAduuIbX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-serie/duna-la-profecia/",
+                                "title": "Duna: La profecía",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/casi-un-cuento-navideno/",
+                                "title": "Casi un cuento navideño",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//j7dQpQ6BwYQLqmf4mXINfzEViZI.jpg"
+                            },
                             {
                                 "url": "/ver-pelicula/cuckoo/",
                                 "title": "Cuckoo",
@@ -140,16 +150,6 @@
                                 "url": "/ver-pelicula/thelma-una-abuela-en-accion/",
                                 "title": "Thelma: Una abuela en acción",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//rUcuageYgv9SsJoWuc0seRWG6JC.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/mi-amigo-el-pinguino/",
-                                "title": "Mi Amigo El Pingüino",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//fSXfiHmKHvWleDwsuuYeLfg8qga.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/daddio/",
-                                "title": "Daddio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dyrCsHUhOfpuci51lHcdAnO3db0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/la-muerte-le-sienta-bien/",
-                    "artist": "Adam Storke",
-                    "description": "Madeline está casada con Ernest, quien alguna vez fue el novio de su archirrival Helen. Después de recuperarse de un colapso mental, Helen jura matar a Madeline y recuperar a Ernest. Desafortunadamente para todos, la introducción de una poción mágica hace que las cosas sean mucho más complicadas que una simple trama de asesinato.   ",
-                    "genre": "Comedia, Fantasía, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//cat0ytQRnwNuK0pBTY3AOhLYfzb.jpg",
+                    "url": "/ver-serie/duna-la-profecia/",
+                    "artist": "Aoife Hinds",
+                    "author": "Alison Schapker",
+                    "description": "10.000 años antes de la ascensión de Paul Atreides, las Hermanas Harkonnen luchan contra las fuerzas que amenazan el futuro de la humanidad y establecen la legendaria secta conocida como Bene Gesserit.   ",
+                    "genre": "Drama, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,8 +212,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/la-muerte-le-sienta-bien/",
-                        "name": "PELÍCULA",
+                        "url": "/ver-el-episodio/duna-la-profecia-1x1/",
+                        "name": "T1 - E1 - La Mano Oculta",
                         "episode_number": 1.0
                     }
                 ],
@@ -221,72 +222,47 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/12740/qrfakshibeor_,n,l,.urlset/index-f1-v1-a1.m3u8?t=pNA3H-qcEJXxsnmtqsOYPUsBvnxjvsE6LREART5db2c&s=1732039681&e=14400&f=63702264&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=74.249&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/12740/qrfakshibeor_,n,l,.urlset/index-f1-v1-a1.m3u8?t=pNA3H-qcEJXxsnmtqsOYPUsBvnxjvsE6LREART5db2c&s=1732039681&e=14400&f=63702264&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=74.249&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/12740/qrfakshibeor_,n,l,.urlset/index-f2-v1-a1.m3u8?t=pNA3H-qcEJXxsnmtqsOYPUsBvnxjvsE6LREART5db2c&s=1732039681&e=14400&f=63702264&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=74.249&sp=2500&asn=8075",
-                        "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-rjr5gkb5baki8g2f.voe-network.net/engine/hls2/01/12740/qrfakshibeor_,n,l,.urlset/index-f2-v1-a1.m3u8?t=pNA3H-qcEJXxsnmtqsOYPUsBvnxjvsE6LREART5db2c&s=1732039681&e=14400&f=63702264&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=74.249&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/05729/qb9wbk05jax6_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=i1Ura82Fuy7G2zCTgGy-A4BvGevuRV4SwPRvGYlIKYc&s=1732039677&e=129600&f=28649947&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "url": "https://ootgnyk5tb.cdn-jupiter.com/hls2/01/06044/57pwvic3ynut_,l,n,h,.urlset/index-f3-v1-a2.m3u8?t=ayvrYac32SCt8loQ_qs83Myth2X8khxwtY46yKRtxgQ&s=1732061930&e=129600&f=30220615&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/05729/qb9wbk05jax6_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=i1Ura82Fuy7G2zCTgGy-A4BvGevuRV4SwPRvGYlIKYc&s=1732039677&e=129600&f=28649947&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "videoUrl": "https://ootgnyk5tb.cdn-jupiter.com/hls2/01/06044/57pwvic3ynut_,l,n,h,.urlset/index-f3-v1-a2.m3u8?t=ayvrYac32SCt8loQ_qs83Myth2X8khxwtY46yKRtxgQ&s=1732061930&e=129600&f=30220615&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/qb9wbk05jax6"
+                            "Referer": "https://hlswish.com/e/57pwvic3ynut"
                         }
                     },
                     {
-                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/05729/qb9wbk05jax6_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=i1Ura82Fuy7G2zCTgGy-A4BvGevuRV4SwPRvGYlIKYc&s=1732039677&e=129600&f=28649947&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "url": "https://ootgnyk5tb.cdn-jupiter.com/hls2/01/06044/57pwvic3ynut_,l,n,h,.urlset/index-f2-v1-a2.m3u8?t=ayvrYac32SCt8loQ_qs83Myth2X8khxwtY46yKRtxgQ&s=1732061930&e=129600&f=30220615&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/05729/qb9wbk05jax6_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=i1Ura82Fuy7G2zCTgGy-A4BvGevuRV4SwPRvGYlIKYc&s=1732039677&e=129600&f=28649947&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "videoUrl": "https://ootgnyk5tb.cdn-jupiter.com/hls2/01/06044/57pwvic3ynut_,l,n,h,.urlset/index-f2-v1-a2.m3u8?t=ayvrYac32SCt8loQ_qs83Myth2X8khxwtY46yKRtxgQ&s=1732061930&e=129600&f=30220615&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/qb9wbk05jax6"
+                            "Referer": "https://hlswish.com/e/57pwvic3ynut"
                         }
                     },
                     {
-                        "url": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/05729/qb9wbk05jax6_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=i1Ura82Fuy7G2zCTgGy-A4BvGevuRV4SwPRvGYlIKYc&s=1732039677&e=129600&f=28649947&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "url": "https://ootgnyk5tb.cdn-jupiter.com/hls2/01/06044/57pwvic3ynut_,l,n,h,.urlset/index-f1-v1-a2.m3u8?t=ayvrYac32SCt8loQ_qs83Myth2X8khxwtY46yKRtxgQ&s=1732061930&e=129600&f=30220615&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://q6fnjla28uip.cdn-jupiter.com/hls2/01/05729/qb9wbk05jax6_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=i1Ura82Fuy7G2zCTgGy-A4BvGevuRV4SwPRvGYlIKYc&s=1732039677&e=129600&f=28649947&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "videoUrl": "https://ootgnyk5tb.cdn-jupiter.com/hls2/01/06044/57pwvic3ynut_,l,n,h,.urlset/index-f1-v1-a2.m3u8?t=ayvrYac32SCt8loQ_qs83Myth2X8khxwtY46yKRtxgQ&s=1732061930&e=129600&f=30220615&srv=n4xmwhf0t7q2&i=0.4&sp=500&p1=n4xmwhf0t7q2&p2=n4xmwhf0t7q2&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/qb9wbk05jax6"
+                            "Referer": "https://hlswish.com/e/57pwvic3ynut"
                         }
                     },
                     {
-                        "url": "https://ka284m.cloudatacdn.com/u5kj6gddbpc3sdgge5ipgyipcgs53pn5ihz2evqstho767vymc4pzwrbrf6a/4xqlw6y047~EDEvKel7ix?token=jekx3wu55pr621mknufcyvmg&expiry=1732039679509",
-                        "quality": "DoodStreamDoodstream 200p",
-                        "videoUrl": "https://ka284m.cloudatacdn.com/u5kj6gddbpc3sdgge5ipgyipcgs53pn5ihz2evqstho767vymc4pzwrbrf6a/4xqlw6y047~EDEvKel7ix?token=jekx3wu55pr621mknufcyvmg&expiry=1732039679509",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://https://dood.to/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=mDvrpkpdmWtbYJJ&expires=1732109679&ip=GHEsDRqAKxSHDN&token=xR2gvDB1iZxQ",
+                        "url": "https://streamtape.com/get_video?id=grwmRxqXx6sBJb&expires=1732131932&ip=F0qQKRWZD19XKxR&token=L3GDwRE7QlCF",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=mDvrpkpdmWtbYJJ&expires=1732109679&ip=GHEsDRqAKxSHDN&token=xR2gvDB1iZxQ"
+                        "videoUrl": "https://streamtape.com/get_video?id=grwmRxqXx6sBJb&expires=1732131932&ip=F0qQKRWZD19XKxR&token=L3GDwRE7QlCF"
                     },
                     {
-                        "url": "https://s1.goodstream.one/vtt/02/00009/8f32necdojlo_sli.vtt",
+                        "url": "https://s1.goodstream.one/vtt/02/00009/tsqaggnqwu1x_sli.vtt",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00009/8f32necdojlo_sli.vtt",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00009/tsqaggnqwu1x_sli.vtt",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
                         }

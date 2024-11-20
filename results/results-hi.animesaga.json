@@ -3,27 +3,27 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: www.animesaga.in: Temporary failure in name resolution",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
                 "passed": false
             }
         }

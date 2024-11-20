@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/los-festivos-caballeros-2024/",
+                                "title": "Los festivos caballeros (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4t80WORFWqDYf4BRwV2jrXNHJdN.jpg"
+                            },
+                            {
+                                "url": "/peliculas/no-te-sueltes-2024/",
+                                "title": "No te sueltes (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/h5pWkAKOgtoPGrfoKlq12D6Vhpa.jpg"
+                            },
+                            {
+                                "url": "/peliculas/crescent-city-2024/",
+                                "title": "Crescent City (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg"
+                            },
+                            {
                                 "url": "/peliculas/sonrie-2-2024/",
                                 "title": "Sonríe 2 (2024)",
                                 "description": "",
@@ -95,24 +113,6 @@
                                 "title": "Cellar Door (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/zXntBYq6YYwH1QrBfoZ9bT23dhU.jpg"
-                            },
-                            {
-                                "url": "/peliculas/haikyu-la-batalla-del-basurero-2024/",
-                                "title": "HAIKYU!! La batalla del basurero (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nqdzN2C7L2vVWAfFZLx8510AUGe.jpg"
-                            },
-                            {
-                                "url": "/peliculas/slapp-taget-2024/",
-                                "title": "Aprender a soltar (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hyLKAvkKqUb57STkTiPno2nw4Fx.jpg"
-                            },
-                            {
-                                "url": "/peliculas/apocalipsis-z-el-principio-del-fin-2024/",
-                                "title": "Apocalipsis Z: El principio del fin (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/sonrie-2-2024/",
-                    "title": "Sonríe 2 (2024)",
-                    "artist": "Naomi Scott",
-                    "author": "Parker Finn",
-                    "description": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde.",
-                    "genre": "Misterio, Terror",
+                    "url": "/peliculas/los-festivos-caballeros-2024/",
+                    "title": "Los festivos caballeros (2024)",
+                    "artist": "Britt Robertson",
+                    "author": "Peter Sullivan",
+                    "description": "Decidida a salvar el club nocturno de sus padres, una bailarina de Broadway monta un espectáculo navideño con elenco masculino en su pueblo… y conoce al chico perfecto.",
+                    "genre": "Comedia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/6AWBa4JFtaC4eEs48qjCCJd9BMr.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/4t80WORFWqDYf4BRwV2jrXNHJdN.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/sonrie-2-2024/",
+                        "url": "/peliculas/los-festivos-caballeros-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,17 +264,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-zgcx0wm8bjklqh14.voe-network.net/engine/hls2-c/01/12779/uk4z72k2ii88_,n,.urlset/index-v1-a1.m3u8?t=TVoWxLC7ElmgcOmC38XUBIE1NvlgNKFWWHzyFKA6oQs&s=1732104503&e=14400&f=63897927&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-zgcx0wm8bjklqh14.voe-network.net/engine/hls2-c/01/12779/uk4z72k2ii88_,n,.urlset/index-v1-a1.m3u8?t=TVoWxLC7ElmgcOmC38XUBIE1NvlgNKFWWHzyFKA6oQs&s=1732104503&e=14400&f=63897927&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -3,83 +3,28 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/asiandrama/",
-                                "title": "asiandrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/kdrama/",
-                                "title": "kdrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/movies/",
-                                "title": "movies/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/README/",
-                                "title": "README/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/",
-                                "title": "tvs/",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/asiandrama/",
-                    "title": "asiandrama/",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asiandrama/%5BMagicStar%5D%20Keiji%20to%20Kenji,%20Tokidoki%20Hanji%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Keiji.to.Kenji.Tokidoki.Hanji.EP09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv",
-                        "name": "Keiji.to.Kenji.Tokidoki.Hanji.EP09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar",
-                        "date_upload": -1,
-                        "episode_number": 9.0,
-                        "scanlator": "3.07 GB • /"
-                    },
-                    {
-                        "url": "/asiandrama/%5BMagicStar%5D%20Keiji%20to%20Kenji,%20Tokidoki%20Hanji%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Keiji.to.Kenji.Tokidoki.Hanji.EP08.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv",
-                        "name": "Keiji.to.Kenji.Tokidoki.Hanji.EP08.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar",
-                        "date_upload": -1,
-                        "episode_number": 8.0,
-                        "scanlator": "2.87 GB • /"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BMagicStar%5D%20Keiji%20to%20Kenji,%20Tokidoki%20Hanji%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Keiji.to.Kenji.Tokidoki.Hanji.EP09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BMagicStar%5D%20Keiji%20to%20Kenji,%20Tokidoki%20Hanji%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Keiji.to.Kenji.Tokidoki.Hanji.EP09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
                     }
                 ],
                 "passed": true

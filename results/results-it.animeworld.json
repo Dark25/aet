@@ -217,6 +217,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/play/one-piece-ita.d5nahE/OoWMuC",
+                                "title": "One Piece (ITA)",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/d5nah.png"
+                            },
+                            {
                                 "url": "/play/kamierabi-godapp-2.9PzGs/tVe7OU",
                                 "title": "KamiErabi GOD.app 2",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/9PzGs.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/play/blue-lock-2-ita.-dPqf/ntFZa1",
                                 "title": "Blue Lock 2 (ITA)",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/anPB1.png"
-                            },
-                            {
-                                "url": "/play/you-are-ms-servant.JEpL0/w1oYc0",
-                                "title": "You Are Ms. Servant",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/JEpL0.jpg?0"
                             }
                         ],
                         "hasNextPage": true
@@ -662,30 +662,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv18-tsurukusa.sweetpixel.org/DDL/ANIME/OnePieceSUBITA/OnePiece_Ep_1122_SUB_ITA.mp4",
-                        "quality": "AnimeWorld Server",
-                        "videoUrl": "https://srv18-tsurukusa.sweetpixel.org/DDL/ANIME/OnePieceSUBITA/OnePiece_Ep_1122_SUB_ITA.mp4"
-                    },
-                    {
-                        "url": "https://qjvgi6dztq.guardstorage.net/hls_3/v6lFAckGbpVs2QwthjUZDisD7XX5CF1m2zUMqr-VSCRhM_izw4_vEUJe5uWOUMzuR8V2soRCfYFB6onbpZmY3znM01t0_Tgga5apGHxBClLvC7OtUSlmt_uSLSiZ64iEKw60HMSkSgahIeD4g6KoeUTZoqsBN1rWSY3tPIoZIgf8-v8WttPdjeREdtOtl5lsmFAOusj3LAB8YJMN-NgHSQ/index-f2-v1-a1.m3u8?sig=Y90JB0jd0n2qmM7aWWQWSA&expires=1732157324",
-                        "quality": "VidGuard:720p",
-                        "videoUrl": "https://qjvgi6dztq.guardstorage.net/hls_3/v6lFAckGbpVs2QwthjUZDisD7XX5CF1m2zUMqr-VSCRhM_izw4_vEUJe5uWOUMzuR8V2soRCfYFB6onbpZmY3znM01t0_Tgga5apGHxBClLvC7OtUSlmt_uSLSiZ64iEKw60HMSkSgahIeD4g6KoeUTZoqsBN1rWSY3tPIoZIgf8-v8WttPdjeREdtOtl5lsmFAOusj3LAB8YJMN-NgHSQ/index-f2-v1-a1.m3u8?sig=Y90JB0jd0n2qmM7aWWQWSA&expires=1732157324",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://qjvgi6dztq.guardstorage.net/hls_3/v6lFAckGbpVs2QwthjUZDisD7XX5CF1m2zUMqr-VSCRhM_izw4_vEUJe5uWOUMzuR8V2soRCfYFB6onbpZmY3znM01t0_Tgga5apGHxBClLvC7OtUSlmt_uSLSiZ64iEKw60HMSkSgahIeD4g6KoeUTZoqsBN1rWSY3tPIoZIgf8-v8WttPdjeREdtOtl5lsmFAOusj3LAB8YJMN-NgHSQ/index-f1-v1-a1.m3u8?sig=Y90JB0jd0n2qmM7aWWQWSA&expires=1732157324",
-                        "quality": "VidGuard:360p",
-                        "videoUrl": "https://qjvgi6dztq.guardstorage.net/hls_3/v6lFAckGbpVs2QwthjUZDisD7XX5CF1m2zUMqr-VSCRhM_izw4_vEUJe5uWOUMzuR8V2soRCfYFB6onbpZmY3znM01t0_Tgga5apGHxBClLvC7OtUSlmt_uSLSiZ64iEKw60HMSkSgahIeD4g6KoeUTZoqsBN1rWSY3tPIoZIgf8-v8WttPdjeREdtOtl5lsmFAOusj3LAB8YJMN-NgHSQ/index-f1-v1-a1.m3u8?sig=Y90JB0jd0n2qmM7aWWQWSA&expires=1732157324",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

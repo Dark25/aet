@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/la-cenicienta-1950/",
+                                "title": "La cenicienta (1950)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg"
+                            },
+                            {
                                 "url": "/peliculas/los-festivos-caballeros-2024/",
                                 "title": "Los festivos caballeros (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Transformers Uno (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/1jzVCZxBmgvpGILuEU8icfX77Io.jpg"
-                            },
-                            {
-                                "url": "/peliculas/cellar-door-2024/",
-                                "title": "Cellar Door (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/zXntBYq6YYwH1QrBfoZ9bT23dhU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/los-festivos-caballeros-2024/",
-                    "title": "Los festivos caballeros (2024)",
-                    "artist": "Britt Robertson",
-                    "author": "Peter Sullivan",
-                    "description": "Decidida a salvar el club nocturno de sus padres, una bailarina de Broadway monta un espectáculo navideño con elenco masculino en su pueblo… y conoce al chico perfecto.",
-                    "genre": "Comedia, Romance",
+                    "url": "/peliculas/la-cenicienta-1950/",
+                    "title": "La cenicienta (1950)",
+                    "artist": "Ilene Woods",
+                    "author": "Hamilton Luske",
+                    "description": "Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.",
+                    "genre": "Animación, Familia, Fantasía, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/4t80WORFWqDYf4BRwV2jrXNHJdN.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/los-festivos-caballeros-2024/",
+                        "url": "/peliculas/la-cenicienta-1950/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/12791/ojdwmrrld97h_,n,.urlset/index-v1-a1.m3u8?t=kMLbCSSCQHj4Ko-vWC86Jq8hUhlwblDhB7ClQsZ0jWs&s=1732148321&e=14400&f=63958231&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/12791/ojdwmrrld97h_,n,.urlset/index-v1-a1.m3u8?t=kMLbCSSCQHj4Ko-vWC86Jq8hUhlwblDhB7ClQsZ0jWs&s=1732148321&e=14400&f=63958231&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

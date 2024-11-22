@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "5617-limperatrice",
+                                "title": "L'imperatrice",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/6a859f50-ad1a-4315-b693-5b0d8a61ecee.webp"
+                            },
+                            {
                                 "url": "9997-il-gladiatore-ii",
                                 "title": "Il gladiatore II",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c0ceaf3c-8537-43ca-905d-f5b01bc67b77.webp"
@@ -272,6 +277,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c966d923-86a4-48ea-a391-448eb01ccc17.webp"
                             },
                             {
+                                "url": "9882-uglies",
+                                "title": "Uglies",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c3667b95-96c1-4ccf-8845-8d9c6daa5cb3.webp"
+                            },
+                            {
                                 "url": "8563-me-contro-te-il-film-operazione-spie",
                                 "title": "Me contro Te: Il film - Operazione spie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0f4f5287-a846-4587-82b5-cb63bd8b7226.webp"
@@ -295,16 +305,6 @@
                                 "url": "4589-power-book-ii-ghost",
                                 "title": "Power Book II: Ghost",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d36ba58b-4348-45da-8171-e0ed8ba17fbc.webp"
-                            },
-                            {
-                                "url": "9795-beetlejuice-beetlejuice",
-                                "title": "Beetlejuice Beetlejuice",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d7dadd14-6dc9-419b-b2ba-15dd30de32d9.webp"
-                            },
-                            {
-                                "url": "9293-hercai-amore-e-vendetta",
-                                "title": "Hercai - Amore e vendetta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/371925c8-3a8b-4a40-a7c5-ed68e87b12f4.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10553-tigri-e-iene",
+                                "title": "Tigri e Iene",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/8a8ffdd4-5e9c-4285-ba69-32bb2d9710ba.webp"
+                            },
                             {
                                 "url": "10551-gli-uccelli",
                                 "title": "Gli uccelli",
@@ -330,11 +335,6 @@
                                 "url": "10549-bridget-joness-baby",
                                 "title": "Bridget Jones's Baby",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/392b3c2f-efe5-49c7-9012-d3d6ce585c32.webp"
-                            },
-                            {
-                                "url": "10548-eroi-senza-tempo-indiana-jones-harrison-ford",
-                                "title": "Eroi senza tempo: Indiana Jones & Harrison Ford",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/623d687f-6c86-44b3-85af-fe16d2d8f138.webp"
                             },
                             {
                                 "url": "10546-la-musica-nel-cuore-august-rush",
@@ -934,25 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "9997-il-gladiatore-ii",
-                    "description": "Anni dopo aver assistito alla tragica morte del venerato eroe Massimo per mano del suo perfido zio, Lucio (Paul Mescal) si trova costretto a combattere nel Colosseo dopo che la sua patria viene conquistata da parte di due tirannici imperatori, che ora governano Roma.  Con il cuoreardente di rabbia e il destino dell'Impero appeso a un filo, Lucio deve affrontare pericoli e nemici, riscoprendo nel suo passato la forza e l'onore necessari per riportare la gloria di Roma al suo popolo. Preparatevi per un viaggio epico di coraggio e vendetta nella sanguinosa arena del Colosseo.",
-                    "genre": "Azione, Avventura",
+                    "url": "5617-limperatrice",
+                    "description": "Per un incredibile scherzo del destino e contro ogni previsione, la scintilla di un amore fuori dal comune scocca tra l'imperatore Franz ed Elisabeth, che insieme si incamminano lungo un percorso pericoloso. Tra intrighi e lotte di potere, Elisabeth affronta chi non crede in lei.",
+                    "genre": "Dramma",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "9997",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
                 "passed": false
             }
         }

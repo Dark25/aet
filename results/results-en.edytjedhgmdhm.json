@@ -3,28 +3,83 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/README/",
+                                "title": "README/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/Who.Rules.the.World.S01.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY/Who.Rules.the.World.S01E40.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY.mkv",
+                        "name": "Who.Rules.the.World.S01E40.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY",
+                        "date_upload": -1,
+                        "episode_number": 40.0,
+                        "scanlator": "2.05 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/Who.Rules.the.World.S01.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY/Who.Rules.the.World.S01E39.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY.mkv",
+                        "name": "Who.Rules.the.World.S01E39.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY",
+                        "date_upload": -1,
+                        "episode_number": 39.0,
+                        "scanlator": "1.86 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/Who.Rules.the.World.S01.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY/Who.Rules.the.World.S01E40.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/Who.Rules.the.World.S01.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY/Who.Rules.the.World.S01E40.1080p.NF.WEB-DL.DDP2.0.x264-SH3LBY.mkv"
                     }
                 ],
                 "passed": true

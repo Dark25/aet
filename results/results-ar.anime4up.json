@@ -378,39 +378,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/arcane-league-of-legends-season-2-الحلقة-6/",
-                        "name": "الأونا 6",
-                        "episode_number": 6.0
+                        "url": "/episode/arcane-league-of-legends-season-2-الحلقة-9/",
+                        "name": "الأونا 9",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/episode/arcane-league-of-legends-season-2-الحلقة-5/",
-                        "name": "الأونا 5",
-                        "episode_number": 5.0
+                        "url": "/episode/arcane-league-of-legends-season-2-الحلقة-8/",
+                        "name": "الأونا 8",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a1.mp4upload.com:183/d/x2x6ncmlz3b4quuoqcreyo2fcxwcltlcs6bltuwjhipp4fnapj5xwqwghoyscrrrkjac6lmh/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x6ncmlz3b4quuoqcreyo2fcxwcltlcs6bltuwjhipp4fnapj5xwqwghoyscrrrkjac6lmh/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m50.uqload.net/3rfkqrfv4bw2q4drdkapv45ockrhb7t6yd6yja4bnry2zsi6uj7e54ecv44q/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m50.uqload.net/3rfkqrfv4bw2q4drdkapv45ockrhb7t6yd6yja4bnry2zsi6uj7e54ecv44q/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

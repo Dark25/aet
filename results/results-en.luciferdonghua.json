@@ -3,27 +3,27 @@
         "name": "LuciferDonghua (EN)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: luciferdonghua.in: No address associated with hostname",
+                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: luciferdonghua.in",
+                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: luciferdonghua.in",
+                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: luciferdonghua.in",
+                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: luciferdonghua.in",
+                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: luciferdonghua.in",
+                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
                 "passed": false
             }
         }

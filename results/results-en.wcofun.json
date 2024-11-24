@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fate-strange-fake",
+                                "title": "Fate/strange Fake",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg"
+                            },
+                            {
                                 "url": "/anime/tokyo-override-english-subbed",
                                 "title": "Tokyo Override English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933802.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/trillion-game",
                                 "title": "Trillion Game",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933784.jpg"
-                            },
-                            {
-                                "url": "/anime/mobile-suit-gundam-requiem-for-vengeance",
-                                "title": "Mobile Suit Gundam: Requiem for Vengeance",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933783.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tokyo-override-english-subbed",
-                    "title": "Tokyo Override English Subbed",
-                    "description": "When a lonely hacker gets entangled with a group of underground couriers, they uncover the dark truth lurking beneath Tokyo’s seemingly perfect facade.",
-                    "genre": "Action, Adventure, Animation, Anime, Artificial Intelligence, Computer Animation, Crime, Drug Crime, Sci-fi, Urban Adventure, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933802.jpg",
+                    "url": "/anime/fate-strange-fake",
+                    "title": "Fate/strange Fake",
+                    "description": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi distinct from the London-based Mage Association, used data from Fuyuki’s Grail War to plan their own ritual. Seventy years later, they used the city of Snowfield as the Sacred Land for their own Grail War. However, they were unable to successfully replicate every aspect of the ritual, resulting in it acting only as an imitation that has lost the Saber class and allowed for the summoning of strange Servants due to the blurring of the definition of a “hero.”",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/tokyo-override-episode-6-english-subbed",
-                        "name": "Season 1 - Episode 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/tokyo-override-episode-5-english-subbed",
-                        "name": "Season 1 - Episode 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVsfEl_I9x4Ei4thQsxtcp6IHKeqkd2-p3oR6Vkh4vpTj3rqw76kQc2Mi6ve7yfza2CzGRFe_h0LXm-0INFUCKxNP5u0IYh0cBqR13q5i3XYMAWN-zsvv6RzHk49Q-x9MkI7nBgTBaSvYWutK_OraJS-Ezp7G9LRtxZfxwnLPtMBmZb-DRwiI_7Eh065UOMipfKwoV43Ssv2S3iHqM4Uhgxukow5nkS4A2bWGtWAOQz1kT_brylzxaFVhP0GHd08V1ExZkW2mEoJQr5-auC91f-63tab7SDNVofIMdbBv6rvJDicbqmyeXQm2r_SGQ_knE1y5-Rqu_1tgyHDUnlyX3t",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVsfEl_I9x4Ei4thQsxtcp6IHKeqkd2-p3oR6Vkh4vpTj3rqw76kQc2Mi6ve7yfza2CzGRFe_h0LXm-0INFUCKxNP5u0IYh0cBqR13q5i3XYMAWN-zsvv6RzHk49Q-x9MkI7nBgTBaSvYWutK_OraJS-Ezp7G9LRtxZfxwnLPtMBmZb-DRwiI_7Eh065UOMipfKwoV43Ssv2S3iHqM4Uhgxukow5nkS4A2bWGtWAOQz1kT_brylzxaFVhP0GHd08V1ExZkW2mEoJQr5-auC91f-63tab7SDNVofIMdbBv6rvJDicbqmyeXQm2r_SGQ_knE1y5-Rqu_1tgyHDUnlyX3t"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVsfEl_I9x4Ei4thQsxtcp6IHKeqkd2-p3oR6Vkh4vpTj3rqw76kQc2Mi6ve7yfza0HRZYFTKRBfNkuyf05wYBStOS2xpWU3C5B5yfGBtjHsjGUvCgRMRNgv1WzIV-hljZhkGAeZBNheOb6DS2iApAtaCsukyTy5aMkEANENEeyXzzGbI2zYhVWEK59I8cYwMnzbks0Ae8wMNB_JnF41lrbXGtQREtXbyZSBwY8bJnL9_OWY3mB8XNDV4l8jQ1K_AhwOwbIioA1JuxJAesF_US4D7IckEqOInALqLNzES9rsY2eY4lQdUZpMTQLEF4UR5TtpRHJzNK4iERPphiOfTvo",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVsfEl_I9x4Ei4thQsxtcp6IHKeqkd2-p3oR6Vkh4vpTj3rqw76kQc2Mi6ve7yfza0HRZYFTKRBfNkuyf05wYBStOS2xpWU3C5B5yfGBtjHsjGUvCgRMRNgv1WzIV-hljZhkGAeZBNheOb6DS2iApAtaCsukyTy5aMkEANENEeyXzzGbI2zYhVWEK59I8cYwMnzbks0Ae8wMNB_JnF41lrbXGtQREtXbyZSBwY8bJnL9_OWY3mB8XNDV4l8jQ1K_AhwOwbIioA1JuxJAesF_US4D7IckEqOInALqLNzES9rsY2eY4lQdUZpMTQLEF4UR5TtpRHJzNK4iERPphiOfTvo"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVsfEl_I9x4Ei4thQsxtcp6IHKeqkd2-p3oR6Vkh4vpTj3rqw76kQc2Mi6ve7yfza066zEwgwZi9DLZD2-sfHQ7wTHU6LwgqwZj1lGubJ59d599bgki4u_jtJwWbJMB4FF6LXCsWni0xnK4YFvzWXcxNwNWvvVg93kcB_mhqrKmQMdr7NH3ToNbwKymWohVOpJ2lzZ1FFEZDe6eegl-IiBxVdendz6q7U8SFLyPhBBXfEU1_1lw1luzd5K75YzxZsoY98mU4cyNAOdrDdhzgGIJBl7EkNXgwR7Jn3ZGPXPs9mQw-r4wBxqtEbr7WUUnhH_GwPRVT5aRar3Ye8wk0V8X",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVsfEl_I9x4Ei4thQsxtcp6IHKeqkd2-p3oR6Vkh4vpTj3rqw76kQc2Mi6ve7yfza066zEwgwZi9DLZD2-sfHQ7wTHU6LwgqwZj1lGubJ59d599bgki4u_jtJwWbJMB4FF6LXCsWni0xnK4YFvzWXcxNwNWvvVg93kcB_mhqrKmQMdr7NH3ToNbwKymWohVOpJ2lzZ1FFEZDe6eegl-IiBxVdendz6q7U8SFLyPhBBXfEU1_1lw1luzd5K75YzxZsoY98mU4cyNAOdrDdhzgGIJBl7EkNXgwR7Jn3ZGPXPs9mQw-r4wBxqtEbr7WUUnhH_GwPRVT5aRar3Ye8wk0V8X"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

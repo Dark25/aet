@@ -3,28 +3,340 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/one-piece-fan-letter",
+                                "title": "One Piece Fan Letter",
+                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece-fan-letter_1076.jpg"
+                            },
+                            {
+                                "url": "/series/adventures-in-subduing-the-demons",
+                                "title": "Adventures in Subduing the Demons",
+                                "thumbnail_url": "https://tranimaci.com/image/20241112213424-3556.webp"
+                            },
+                            {
+                                "url": "/series/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://tranimaci.com/image/series_sousou-no-frieren_1795.webp"
+                            },
+                            {
+                                "url": "/series/monogatari-series_-off-monster-season",
+                                "title": "Monogatari Series: Off & Monster Season",
+                                "thumbnail_url": "https://tranimaci.com/image/series_monogatari-series_-off-monster-season_1614.webp"
+                            },
+                            {
+                                "url": "/series/bleach_-sennen-kessen-hen-soukoku-tan",
+                                "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-sennen-kessen-hen-soukoku-tan_1790.jpg"
+                            },
+                            {
+                                "url": "/series/kusuriya-no-hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kusuriya-no-hitorigoto_1338.webp"
+                            },
+                            {
+                                "url": "/series/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece_1872.webp"
+                            },
+                            {
+                                "url": "/series/bleach_-thousand-year-blood-warr",
+                                "title": "BLEACH: Thousand-Year Blood War",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-thousand-year-blood-war_1962.webp"
+                            },
+                            {
+                                "url": "/series/vinland-saga-s2",
+                                "title": "Vinland Saga S2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_vinland-saga-s2_1206.webp"
+                            },
+                            {
+                                "url": "/series/hibike-euphonium-s3",
+                                "title": "Hibike! Euphonium S3",
+                                "thumbnail_url": "https://tranimaci.com/image/series_hibike-euphonium-s3_1205.webp"
+                            },
+                            {
+                                "url": "/series/boku-no-kokoro-no-yabai-yatsu-2nd-season",
+                                "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+                                "thumbnail_url": "https://tranimaci.com/image/series_boku-no-kokoro-no-yabai-yatsu-2nd-season_1831.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-1",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-1_1455.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-2",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-2_1065.webp"
+                            },
+                            {
+                                "url": "/series/jujutsu-kaisen-season-2",
+                                "title": "JUJUTSU KAISEN Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen-season-2_1919.webp"
+                            },
+                            {
+                                "url": "/series/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+                                "title": "Kaguya-sama wa Kokurasetai – First Kiss wa Owaranai",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai_1392.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/puniru-wa-kawaii-slime",
+                                "title": "Puniru wa Kawaii Slime",
+                                "thumbnail_url": "https://tranimaci.com/image/series_puniru-wa-kawaii-slime_1495.jpg"
+                            },
+                            {
+                                "url": "/series/nageki-no-bourei-ha-intai-shitai",
+                                "title": "Nageki no Bourei ha Intai Shitai",
+                                "thumbnail_url": "https://tranimaci.com/image/series_nageki-no-bourei-ha-intai-shitai_1555.jpg"
+                            },
+                            {
+                                "url": "/series/mf-ghost-season-2",
+                                "title": "MF GHOST Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_mf-ghost-season-2_1838.jpg"
+                            },
+                            {
+                                "url": "/series/tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
+                                "title": "Tensei Kizoku Kantei Skill de Nariagaru 2nd Season",
+                                "thumbnail_url": "https://tranimaci.com/image/series_tensei-kizoku-kantei-skill-de-nariagaru-2nd-season_1914.jpg"
+                            },
+                            {
+                                "url": "/series/tsuma-shougakusei-ni-naru-tsumasho",
+                                "title": "Tsuma, Shougakusei ni Naru. (TsumaSho)",
+                                "thumbnail_url": "https://tranimaci.com/image/series_tsumasho_1768.jpg"
+                            },
+                            {
+                                "url": "/series/tower-of-god-season-2",
+                                "title": "Tower of God Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_tower-of-god-season-2_1747.webp"
+                            },
+                            {
+                                "url": "/series/spy-x-sect",
+                                "title": "Spy x Sect",
+                                "thumbnail_url": "https://tranimaci.com/image/20241025114627-1916.webp"
+                            },
+                            {
+                                "url": "/series/dou-po-cangqiong-nian-fan-2",
+                                "title": "Dou Po Cangqiong Nian Fan 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_dou-po-cangqiong-nian-fan-2_1335.webp"
+                            },
+                            {
+                                "url": "/series/wonderful-precure",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://tranimaci.com/image/series_wonderful-precure_1676.webp"
+                            },
+                            {
+                                "url": "/series/shangri-la-frontier-season-2",
+                                "title": "Shangri-La Frontier Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_shangri-la-frontier-season-2_1086.jpg"
+                            },
+                            {
+                                "url": "/series/one-piece-log-fish-man-island-saga",
+                                "title": "One Piece Log – Fish-Man Island Saga",
+                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece-log-fish-man-island-saga_1699.jpg"
+                            },
+                            {
+                                "url": "/series/fairy-tail-100-years-quest",
+                                "title": "Fairy Tail – 100 Years Quest",
+                                "thumbnail_url": "https://tranimaci.com/image/series_fairy-tail-100-years-quest_1107.webp"
+                            },
+                            {
+                                "url": "/series/the-legend-of-sky-lord-3d",
+                                "title": "The Legend of Sky Lord 3D",
+                                "thumbnail_url": "https://tranimaci.com/image/series_the-legend-of-sky-lord-3d_1680.webp"
+                            },
+                            {
+                                "url": "/series/wushen-zhuzai",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://tranimaci.com/image/series_wushen-zhuzai_1891.webp"
+                            },
+                            {
+                                "url": "/series/xiuluo-wu-shen",
+                                "title": "Xiuluo Wu Shen",
+                                "thumbnail_url": "https://tranimaci.com/image/series_xiuluo-wu-shen_1249.webp"
+                            },
+                            {
+                                "url": "/series/legend-of-martial-immortal",
+                                "title": "Legend of Martial Immortal",
+                                "thumbnail_url": "https://tranimaci.com/image/Legend-of-Martial-Immortal.webp"
+                            },
+                            {
+                                "url": "/series/kimi-wa-meido-sama",
+                                "title": "Kimi wa Meido-sama",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kimi-wa-meido-sama_1233.jpg"
+                            },
+                            {
+                                "url": "/series/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "thumbnail_url": "https://tranimaci.com/image/series_party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki_1092.jpg"
+                            },
+                            {
+                                "url": "/series/ao-no-exorcist-yuki-no-hate-hen",
+                                "title": "Ao no Exorcist – Yuki no Hate-hen",
+                                "thumbnail_url": "https://tranimaci.com/image/series_ao-no-exorcist-yuki-no-hate-hen_1204.jpg"
+                            },
+                            {
+                                "url": "/series/bleach_-sennen-kessen-hen-soukoku-tan",
+                                "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-sennen-kessen-hen-soukoku-tan_1790.jpg"
+                            },
+                            {
+                                "url": "/series/demon-lord-retry-r",
+                                "title": "Demon Lord, Retry! R",
+                                "thumbnail_url": "https://tranimaci.com/image/series_demon-lord-retry-r_1670.jpg"
+                            },
+                            {
+                                "url": "/series/maou-2099-demon-lord-2099",
+                                "title": "Maou 2099 (Demon Lord 2099)",
+                                "thumbnail_url": "https://tranimaci.com/image/series_maou-2099-demon-lord-2099_1348.jpg"
+                            },
+                            {
+                                "url": "/series/blue-lock-season-2",
+                                "title": "BLUE LOCK Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_blue-lock-season-2_1908.jpg"
+                            },
+                            {
+                                "url": "/series/detective-conan",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://tranimaci.com/image/series_detective-conan_1604.webp"
+                            },
+                            {
+                                "url": "/series/ao-no-miburo",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "https://tranimaci.com/image/series_ao-no-miburo_1460.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/the-prince-of-tennis-ii-u-17-world-cup-semifinal",
+                                "title": "The Prince of Tennis II – U-17 World Cup Semifinal",
+                                "thumbnail_url": "https://tranimaci.com/image/series_the-prince-of-tennis-ii-u-17-world-cup-semifinal_1461.jpg"
+                            },
+                            {
+                                "url": "/series/hitoribocchi-no-isekai-kouryaku-loner-life-in-another-world",
+                                "title": "Hitoribocchi no Isekai Kouryaku (Loner Life in Another World)",
+                                "thumbnail_url": "https://tranimaci.com/image/series_hitoribocchi-no-isekai-kouryaku-loner-life-in-another-world_1890.webp"
+                            },
+                            {
+                                "url": "/series/perfect-world-movie_-ashes-of-perfect-fire",
+                                "title": "Perfect World Movie: Ashes of Perfect Fire",
+                                "thumbnail_url": "https://tranimaci.com/image/series_perfect-world-movie_-ashes-of-perfect-fire_1091.webp"
+                            },
+                            {
+                                "url": "/series/good-night-world",
+                                "title": "GOOD NIGHT WORLD",
+                                "thumbnail_url": "https://tranimaci.com/image/series_good-night-world_1700.webp"
+                            },
+                            {
+                                "url": "/series/dr-stone-new-world-part-2",
+                                "title": "Dr. STONE New World Part 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_dr-stone-new-world-part-2_1820.webp"
+                            },
+                            {
+                                "url": "/series/world-dai-star",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://tranimaci.com/image/series_world-dai-star_1875.webp"
+                            },
+                            {
+                                "url": "/series/yao-dao-zhizun-supremacy-of-the-demon-world",
+                                "title": "Yao Dao Zhizun (Supremacy of The Demon World)",
+                                "thumbnail_url": "https://tranimaci.com/image/series_yao-dao-zhizun_111151.webp"
+                            },
+                            {
+                                "url": "/series/my-isekai-life_-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world",
+                                "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
+                                "thumbnail_url": "https://tranimaci.com/image/series_my-isekai-life_-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world_1969.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/series/one-piece-fan-letter",
+                    "title": "One Piece Fan Letter",
+                    "artist": "Toei Animation",
+                    "description": "Anime severlerin dikkatini çeken One Piece Fan Letter veya diğer ismi ile One Piece Fan Letter büyüleyici görselleri ve sürükleyici hikayesiyle öne çıkıyor. Bu anime, izleyicilerine unutulmaz bir deneyim sunarak, karakterleri ve olaylarıyla derin bir dünya yaratıyor. Hemen sende One Piece Fan Letter izle veya One Piece Fan Letter izle. Bu animeyi TRAnimeci ekibi olarak sizlere One Piece Fan Letter türkçe izle olarak sunuyoruz. One Piece Fan Letter Türkçe izle. One Piece Fan Letter Türkçe izle Bu animeleri bünyemizde One Piece Fan Letter türkçe altyazılı izle veya diğer ismi ile One Piece Fan Letter türkçe altyazılı izle ile siz değerli misafirlerimize sunmaktayız. Aşağıda One Piece Fan Letter türkçe altyazılı izle ile ilgili daha fazla bilgiyi bulabilirsiniz. To commemorate the 25th anniversary of the ONE PIECE TV anime: an animated adaptation of the \"ONE PIECE novel: Mugiwara Stories\". Two years after the Paramount War, the Straw Hats are about to reunite on the Sabaody Archipelago. At the same time, a girl who is head over heels for Nami is trying to hand a fan letter to her before the group leaves the island. (Source: Crunchyroll)\n\nDurum: Devam Ediyor\nYayın Tarihi: 19/10/2024\nEklenme Tarihi: 21/10/2024\nSüre: Ort. 25 dakika\nTip: Anime\nBölümler: 1\nSansür: Var\nStudio: Toei Animation\n",
+                    "genre": "Action, Adventure, Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tranimaci.com/image/series_one-piece-fan-letter_1076.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/video/one-piece-fan-letter-1-bolum",
+                        "name": "Bölüm 1",
+                        "date_upload": 1729468800000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://api.animeuzayi.com/api/v1/e323915b956d28e8845d40b820382976f4de3b7cb74ca65084e7f6d07bb310b4",
+                        "quality": "720p",
+                        "videoUrl": "https://api.animeuzayi.com/api/v1/e323915b956d28e8845d40b820382976f4de3b7cb74ca65084e7f6d07bb310b4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://tranimaci.com/"
+                        }
+                    },
+                    {
+                        "url": "https://api.animeuzayi.com/api/v1/de9400bfa821d4d981320d0b2964205c62b6d331bf758a542a73d0eadd612a37",
+                        "quality": "2K",
+                        "videoUrl": "https://api.animeuzayi.com/api/v1/de9400bfa821d4d981320d0b2964205c62b6d331bf758a542a73d0eadd612a37",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://tranimaci.com/"
+                        }
+                    },
+                    {
+                        "url": "https://api.animeuzayi.com/api/v1/9247aa2050df2a11f05d3a94f2ae8a7043d7e2176d51f5b445d41462b12f2fee",
+                        "quality": "1080p",
+                        "videoUrl": "https://api.animeuzayi.com/api/v1/9247aa2050df2a11f05d3a94f2ae8a7043d7e2176d51f5b445d41462b12f2fee",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://tranimaci.com/"
+                        }
+                    },
+                    {
+                        "url": "https://api.animeuzayi.com/api/v1/8b94fb6a568ef1394b4f8d23a9206551cad6d3616612b8372e759b487dad66fd",
+                        "quality": "480p",
+                        "videoUrl": "https://api.animeuzayi.com/api/v1/8b94fb6a568ef1394b4f8d23a9206551cad6d3616612b8372e759b487dad66fd",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://tranimaci.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

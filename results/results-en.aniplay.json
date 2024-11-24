@@ -857,11 +857,26 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://aniplaynow.live/anime/watch?id=171018&ep=8&extras=W3sic291cmNlIjoia3VybyIsImVwaXNvZGVOdW0iOjguMCwiZXBpc29kZUlkIjoiZGFuZGFkYW4t%0AZXBpc29kZS04IiwiaGFzRHViIjp0cnVlfSx7InNvdXJjZSI6Inl1a2kiLCJlcGlzb2RlTnVtIjo4%0ALjAsImVwaXNvZGVJZCI6ImRhbmRhZGFuLTE5MzE5P2VwPTEyOTE1OCIsImhhc0R1YiI6dHJ1ZX0s%0AeyJzb3VyY2UiOiJ5dW5vIiwiZXBpc29kZU51bSI6OC4wLCJlcGlzb2RlSWQiOiIxOTQ1OS9kYW5k%0AYWRhbi8iLCJoYXNEdWIiOnRydWV9XQ%3D%3D%0A&idMal=57334",
+                        "name": "Episode 8: I`ve Got This Funny Feeling",
+                        "date_upload": 1732233600000,
+                        "episode_number": 8.0,
+                        "scanlator": "Sub, Dub"
+                    },
+                    {
+                        "url": "https://aniplaynow.live/anime/watch?id=171018&ep=7&extras=W3sic291cmNlIjoia3VybyIsImVwaXNvZGVOdW0iOjcuMCwiZXBpc29kZUlkIjoiZGFuZGFkYW4t%0AZXBpc29kZS03IiwiaGFzRHViIjp0cnVlfSx7InNvdXJjZSI6Inl1a2kiLCJlcGlzb2RlTnVtIjo3%0ALjAsImVwaXNvZGVJZCI6ImRhbmRhZGFuLTE5MzE5P2VwPTEyOTA2MiIsImhhc0R1YiI6dHJ1ZX0s%0AeyJzb3VyY2UiOiJ5dW5vIiwiZXBpc29kZU51bSI6Ny4wLCJlcGlzb2RlSWQiOiIxOTQ1OS9kYW5k%0AYWRhbi8iLCJoYXNEdWIiOnRydWV9XQ%3D%3D%0A&idMal=57334",
+                        "name": "Episode 7: To a Kinder World",
+                        "date_upload": 1731628800000,
+                        "episode_number": 7.0,
+                        "scanlator": "Sub, Dub"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.lang.IllegalAccessError: class eu.kanade.tachiyomi.animeextension.en.aniplay.AniPlay$getVideoList$$inlined$parallelFlatMapBlocking$1$1$1 tried to access private method 'android.net.Uri$Builder android.net.Uri$Builder.appendQueryParameter(java.lang.String, java.lang.String)' (eu.kanade.tachiyomi.animeextension.en.aniplay.AniPlay$getVideoList$$inlined$parallelFlatMapBlocking$1$1$1 is in unnamed module of loader java.net.URLClassLoader @12d8f2d7; android.net.Uri$Builder is in unnamed module of loader 'app')",
                 "passed": false
             }
         }

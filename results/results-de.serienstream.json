@@ -217,14 +217,14 @@
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/shrinking-stream-cover-5VUdOyH39bg3WcUr8PiQwiSNR9gJa6CC_200x300.jpg"
                             },
                             {
-                                "url": "/serie/stream/der-kfig",
-                                "title": "Der Käfig",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/der-kfig-stream-cover-urB2MGo7JlaYNaeKqJs17j2KBxGC9Nd7_200x300.jpg"
-                            },
-                            {
                                 "url": "/serie/stream/morlock-motors-das-team",
                                 "title": "Morlock Motors - Das Team",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/morlock-motors-das-team-stream-cover-FIoLGiKSneUsSOedJiCKe9iDwGUNiSea_200x300.jpg"
+                            },
+                            {
+                                "url": "/serie/stream/der-kfig",
+                                "title": "Der Käfig",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/der-kfig-stream-cover-urB2MGo7JlaYNaeKqJs17j2KBxGC9Nd7_200x300.jpg"
                             },
                             {
                                 "url": "/serie/stream/eiskalte-engel",
@@ -242,8 +242,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/stream/angemessen-angry",
+                                "title": "Angemessen Angry",
+                                "thumbnail_url": "http://186.2.175.5/public/img/cover/angemessen-angry-stream-cover-4W9fJFozcVLf3RYRqP6YeIX6pJhJEbo7_200x300.jpg"
+                            },
+                            {
                                 "url": "/serie/stream/veronika-zeugen-aus-dem-jenseits",
-                                "title": "Veronika – Zeugen aus dem Jenseits",
+                                "title": "Veronika - Zeugen aus dem Jenseits",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/veronika-zeugen-aus-dem-jenseits-stream-cover-v6ts1fiwKzOv4OTAwaLfBrC8xd4olwEi_200x300.jpg"
                             },
                             {
@@ -253,7 +258,7 @@
                             },
                             {
                                 "url": "/serie/stream/die-stinos-ganz-besonders-stinknormal",
-                                "title": "Die StiNos – Ganz besonders stinknormal",
+                                "title": "Die StiNos - Ganz besonders stinknormal",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/die-stinos-ganz-besonders-stinknormal-stream-cover-X5sao1x8CgklKbMOycbjVKB1TmlQATYp_200x300.jpg"
                             },
                             {
@@ -335,11 +340,6 @@
                                 "url": "/serie/stream/jede-minute-zhlt",
                                 "title": "Jede Minute Zählt",
                                 "thumbnail_url": "http://186.2.175.5/public/img/cover/jede-minute-zhlt-stream-cover-IsJv6hzxSKD2Ab9kO3QsAiLUj0q3Cnp4_200x300.jpg"
-                            },
-                            {
-                                "url": "/serie/stream/bad-influencer-2024",
-                                "title": "Bad Influencer (2024)",
-                                "thumbnail_url": "http://186.2.175.5/public/img/cover/bad-influencer-2024-stream-cover-NSl48nvpHingJYyWYUmPYPSFXPoGwD7h_200x300.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -365,6 +365,11 @@
             },
             "episodes": {
                 "result": [
+                    {
+                        "url": "/serie/stream/dune-prophecy/staffel-1/episode-2",
+                        "name": "Staffel 1 Folge 2 : Two Wolves",
+                        "episode_number": 2.0
+                    },
                     {
                         "url": "/serie/stream/dune-prophecy/staffel-1/episode-1",
                         "name": "Staffel 1 Folge 1 : The Hidden Hand",

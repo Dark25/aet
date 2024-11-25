@@ -296,6 +296,15 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182157-p4NxtoGFIxlO.png"
                             },
                             {
+                                "url": "https://aniplaynow.live/anime/info/184998",
+                                "title": "Maarui Kanojo to Zannen na Kareshi 2nd Season",
+                                "author": "Imageworks Studio",
+                                "description": "Second season of Maarui Kanojo to Zannen na Kareshi.\n\nOther name(s): まぁるい彼女と残念な彼氏 第2期",
+                                "genre": "Comedy, Romance",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184998-7jOJkEMNEg8a.png"
+                            },
+                            {
                                 "url": "https://aniplaynow.live/anime/info/184288",
                                 "title": "Kazuhiho to Marie no Youkoso Kitchen.",
                                 "author": "",
@@ -546,15 +555,6 @@
                                 "genre": "Action, Sci-Fi",
                                 "status": 1,
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167141-m8eOYiDpeN4R.jpg"
-                            },
-                            {
-                                "url": "https://aniplaynow.live/anime/info/163146",
-                                "title": "Blue Lock VS. U-20 JAPAN",
-                                "author": "8-bit",
-                                "description": "The second season of  Blue Lock.\nThe hottest soccer matches start again as the U-20 Japan National Team makes their debut!\n(Source: Crunchyroll News)\n\nOther name(s): BLUE LOCK Season 2, ブルーロック VS. U-20 JAPAN",
-                                "genre": "Action, Drama, Sports",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-f2vYhmiGn6dM.png"
                             }
                         ],
                         "hasNextPage": true
@@ -857,26 +857,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://aniplaynow.live/anime/watch?id=171018&ep=8&extras=W3sic291cmNlIjoia3VybyIsImVwaXNvZGVOdW0iOjguMCwiZXBpc29kZUlkIjoiZGFuZGFkYW4t%0AZXBpc29kZS04IiwiaGFzRHViIjp0cnVlfSx7InNvdXJjZSI6Inl1a2kiLCJlcGlzb2RlTnVtIjo4%0ALjAsImVwaXNvZGVJZCI6ImRhbmRhZGFuLTE5MzE5P2VwPTEyOTE1OCIsImhhc0R1YiI6dHJ1ZX0s%0AeyJzb3VyY2UiOiJ5dW5vIiwiZXBpc29kZU51bSI6OC4wLCJlcGlzb2RlSWQiOiIxOTQ1OS9kYW5k%0AYWRhbi8iLCJoYXNEdWIiOnRydWV9XQ%3D%3D%0A&idMal=57334",
-                        "name": "Episode 8: I`ve Got This Funny Feeling",
-                        "date_upload": 1732233600000,
-                        "episode_number": 8.0,
-                        "scanlator": "Sub, Dub"
-                    },
-                    {
-                        "url": "https://aniplaynow.live/anime/watch?id=171018&ep=7&extras=W3sic291cmNlIjoia3VybyIsImVwaXNvZGVOdW0iOjcuMCwiZXBpc29kZUlkIjoiZGFuZGFkYW4t%0AZXBpc29kZS03IiwiaGFzRHViIjp0cnVlfSx7InNvdXJjZSI6Inl1a2kiLCJlcGlzb2RlTnVtIjo3%0ALjAsImVwaXNvZGVJZCI6ImRhbmRhZGFuLTE5MzE5P2VwPTEyOTA2MiIsImhhc0R1YiI6dHJ1ZX0s%0AeyJzb3VyY2UiOiJ5dW5vIiwiZXBpc29kZU51bSI6Ny4wLCJlcGlzb2RlSWQiOiIxOTQ1OS9kYW5k%0AYWRhbi8iLCJoYXNEdWIiOnRydWV9XQ%3D%3D%0A&idMal=57334",
-                        "name": "Episode 7: To a Kinder World",
-                        "date_upload": 1731628800000,
-                        "episode_number": 7.0,
-                        "scanlator": "Sub, Dub"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalAccessError: class eu.kanade.tachiyomi.animeextension.en.aniplay.AniPlay$getVideoList$$inlined$parallelFlatMapBlocking$1$1$1 tried to access private method 'android.net.Uri$Builder android.net.Uri$Builder.appendQueryParameter(java.lang.String, java.lang.String)' (eu.kanade.tachiyomi.animeextension.en.aniplay.AniPlay$getVideoList$$inlined$parallelFlatMapBlocking$1$1$1 is in unnamed module of loader java.net.URLClassLoader @12d8f2d7; android.net.Uri$Builder is in unnamed module of loader 'app')",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

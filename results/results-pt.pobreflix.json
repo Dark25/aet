@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/enfeiticados/",
+                                "title": "Enfeitiçados",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg"
+                            },
+                            {
                                 "url": "/series/duna-a-profecia/",
                                 "title": "Duna: A Profecia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/a-forja-o-poder-da-transformacao/",
                                 "title": "A Forja – O Poder da Transformação",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg"
-                            },
-                            {
-                                "url": "/filmes/ursinho-pooh-sangue-e-mel-2/",
-                                "title": "Ursinho Pooh: Sangue e Mel 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uJXJlO7Y35729AwVSe5tt1JScEK.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/duna-a-profecia/",
-                    "title": "Duna: A Profecia",
-                    "description": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.\n\nTítulo Original: Dune: Prophecy\nTemporadas: 1\nEpisódios: 6",
-                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg",
+                    "url": "/filmes/enfeiticados/",
+                    "title": "Enfeitiçados",
+                    "description": "Quando um feitiço transforma seus pais em monstros gigantes, uma princesa adolescente embarca em uma jornada para reverter a magia antes que seja tarde demais!\n\nTítulo Original: Spellbound",
+                    "genre": "Animação, Aventura, Comédia, Família, Fantasia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,23 +466,28 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/duna-a-profecia-1x6/",
-                        "name": "Temporada 1 x 6 - Episódio 6",
-                        "date_upload": 1734825600000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodes/duna-a-profecia-1x5/",
-                        "name": "Temporada 1 x 5 - Episódio 5",
-                        "date_upload": 1734220800000,
-                        "episode_number": 5.0
+                        "url": "/filmes/enfeiticados/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://brbeast.com/hls/YUJwbnFPWnVoQXByRjlTNW56Rk92SGNqN0RodUsvZlNwbzVPb1YzYkFYQWFSZWQva2NJOXlQK1o4WFh6blhlQ0NyVGtYa2drdlRPM1FXODQ0WlEwZmhCeEtSQmFMN1NxeStLOEc4RmlMNVNTbHdMUm9QS0VmVXh3dlpkaEw4K2wyZFFhOFpBL2dXcHkycFZLNnR1U1FySE0wNHJoNjZxWVZwU0JDVldlb1JPY0ovd3ZuSVNoK1VCOWpoTzEzNGdGTWhXR1p5OHV3RnlQY2ZsSTBOdVBvcWc4dlpDNUxwRWVyUTgwT3ZhYjg1N1lzcGdjdE16SW1jMnZhYUhBZUVzUnpzTDdmZE42azUrNXlZR29XS1BJNHBKbUcxcEZEVUNkaFFMYzNrcGhxbS9sWDNyNmlmUWdLZk51djc3L0hzQXg%3D",
+                        "quality": "[Dublado] BrBeast - 720p",
+                        "videoUrl": "https://brbeast.com/hls/YUJwbnFPWnVoQXByRjlTNW56Rk92SGNqN0RodUsvZlNwbzVPb1YzYkFYQWFSZWQva2NJOXlQK1o4WFh6blhlQ0NyVGtYa2drdlRPM1FXODQ0WlEwZmhCeEtSQmFMN1NxeStLOEc4RmlMNVNTbHdMUm9QS0VmVXh3dlpkaEw4K2wyZFFhOFpBL2dXcHkycFZLNnR1U1FySE0wNHJoNjZxWVZwU0JDVldlb1JPY0ovd3ZuSVNoK1VCOWpoTzEzNGdGTWhXR1p5OHV3RnlQY2ZsSTBOdVBvcWc4dlpDNUxwRWVyUTgwT3ZhYjg1N1lzcGdjdE16SW1jMnZhYUhBZUVzUnpzTDdmZE42azUrNXlZR29XS1BJNHBKbUcxcEZEVUNkaFFMYzNrcGhxbS9sWDNyNmlmUWdLZk51djc3L0hzQXg%3D",
+                        "headers": {
+                            "Referer": "https://brbeast.com",
+                            "Origin": "https://brbeast.com",
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

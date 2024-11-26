@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/un-romance-picante",
+                                "title": "Un romance picante (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6h1VY7S5YQn2Udx4dhfINpuFIIF.jpg"
+                            },
+                            {
                                 "url": "/serie/tokyo-override",
                                 "title": "Tokyo Override (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/betaal",
                                 "title": "Betaal (2020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/87nmt1R1W34fNOb31fvDnw15fUa.jpg"
-                            },
-                            {
-                                "url": "/serie/duck-dodgers",
-                                "title": "Duck Dodgers (20032005)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/tokyo-override",
-                    "title": "Tokyo Override (2024)",
-                    "description": "Una hacker solitaria se enreda con un grupo de mensajeros clandestinos y terminan descubriendo los secretos ocultos de la utópica fachada de Tokio..",
-                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/un-romance-picante",
+                    "title": "Un romance picante (2024)",
+                    "description": "Una escritora de novelas románticas para adultos llamada Nam Ja-yeon se transforma inesperadamente en Seo Yeon-seo, la protagonista femenina de su novela, y se ve envuelta en un errático romance con Kang Ha-joon, el protagonista masculino de la novela..",
+                    "genre": "Comedia, Drama, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6h1VY7S5YQn2Udx4dhfINpuFIIF.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/tokyo-override/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/un-romance-picante/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/tokyo-override/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/un-romance-picante/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -293,77 +293,55 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/12821/p2dczf6ldolp_,n,.urlset/index-v1-a1.m3u8?t=t54G9KmuYqOe7QB5cynTeg2Fbo1Yns8ToiDAJAGPLOo&s=1732601265&e=14400&f=64106607&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-cglm4j5ztiyc9g2z.voe-network.net/engine/hls2/01/12363/xcejmkuhixlq_,n,.urlset/index-v1-a1.m3u8?t=7730tQQm_xwbfdVCj9glKTS17ZFgzILPYxiP_j1lQ-Q&s=1732622920&e=14400&f=61818929&node=delivery-node-cglm4j5ztiyc9g2z.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/12821/p2dczf6ldolp_,n,.urlset/index-v1-a1.m3u8?t=t54G9KmuYqOe7QB5cynTeg2Fbo1Yns8ToiDAJAGPLOo&s=1732601265&e=14400&f=64106607&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-cglm4j5ztiyc9g2z.voe-network.net/engine/hls2/01/12363/xcejmkuhixlq_,n,.urlset/index-v1-a1.m3u8?t=7730tQQm_xwbfdVCj9glKTS17ZFgzILPYxiP_j1lQ-Q&s=1732622920&e=14400&f=61818929&node=delivery-node-cglm4j5ztiyc9g2z.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/02870/ich8vodog39w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JsYmofx9SmWVK0-bfbFZOte_379wZ50HSqR28loGcT8&s=1732601263&e=129600&f=14352251&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
-                        "quality": "[LAT] StreamHideVid:1080p",
-                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/02870/ich8vodog39w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JsYmofx9SmWVK0-bfbFZOte_379wZ50HSqR28loGcT8&s=1732601263&e=129600&f=14352251&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/ich8vodog39w"
-                        }
-                    },
-                    {
-                        "url": "https://18jij6rntf.premilkyway.com/hls2/01/06201/t7sg3z13hufo_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=HTa8M6tb99HzXsn5L1DDVOaApom1sWKbzaJ_RhAk6ns&s=1732601261&e=129600&f=31009108&srv=galk8e9m4l6if&i=0.0&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=8075",
-                        "quality": "[LAT] StreamWish:1080p",
-                        "videoUrl": "https://18jij6rntf.premilkyway.com/hls2/01/06201/t7sg3z13hufo_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=HTa8M6tb99HzXsn5L1DDVOaApom1sWKbzaJ_RhAk6ns&s=1732601261&e=129600&f=31009108&srv=galk8e9m4l6if&i=0.0&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/t7sg3z13hufo"
-                        }
-                    },
-                    {
-                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/02870/ich8vodog39w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=JsYmofx9SmWVK0-bfbFZOte_379wZ50HSqR28loGcT8&s=1732601263&e=129600&f=14352251&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "url": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/02354/ilrnggafxoid_,l,n,.urlset/index-f2-v1-a1.m3u8?t=J-XNnjJ5XvcOVESMvLcraHQXfpmyFlBiJWZ-y6GtlHA&s=1732622917&e=129600&f=11772009&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/02870/ich8vodog39w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=JsYmofx9SmWVK0-bfbFZOte_379wZ50HSqR28loGcT8&s=1732601263&e=129600&f=14352251&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/02354/ilrnggafxoid_,l,n,.urlset/index-f2-v1-a1.m3u8?t=J-XNnjJ5XvcOVESMvLcraHQXfpmyFlBiJWZ-y6GtlHA&s=1732622917&e=129600&f=11772009&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/ich8vodog39w"
+                            "Referer": "https://vidhideplus.com/embed/ilrnggafxoid"
                         }
                     },
                     {
-                        "url": "https://18jij6rntf.premilkyway.com/hls2/01/06201/t7sg3z13hufo_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=HTa8M6tb99HzXsn5L1DDVOaApom1sWKbzaJ_RhAk6ns&s=1732601261&e=129600&f=31009108&srv=galk8e9m4l6if&i=0.0&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=8075",
+                        "url": "https://cwfuommwagyrfcg6.premilkyway.com/hls2/01/05059/2qr5bxjyexxf_,l,n,.urlset/index-f2-v1-a1.m3u8?t=a5PJ4v2Vdmvsb8CZZMYDICeGPBSYHuwkgNv46efvlVM&s=1732622915&e=129600&f=25299312&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://18jij6rntf.premilkyway.com/hls2/01/06201/t7sg3z13hufo_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=HTa8M6tb99HzXsn5L1DDVOaApom1sWKbzaJ_RhAk6ns&s=1732601261&e=129600&f=31009108&srv=galk8e9m4l6if&i=0.0&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=8075",
+                        "videoUrl": "https://cwfuommwagyrfcg6.premilkyway.com/hls2/01/05059/2qr5bxjyexxf_,l,n,.urlset/index-f2-v1-a1.m3u8?t=a5PJ4v2Vdmvsb8CZZMYDICeGPBSYHuwkgNv46efvlVM&s=1732622915&e=129600&f=25299312&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/t7sg3z13hufo"
+                            "Referer": "https://playerwish.com/e/2qr5bxjyexxf"
                         }
                     },
                     {
-                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/02870/ich8vodog39w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JsYmofx9SmWVK0-bfbFZOte_379wZ50HSqR28loGcT8&s=1732601263&e=129600&f=14352251&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "url": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/02354/ilrnggafxoid_,l,n,.urlset/index-f1-v1-a1.m3u8?t=J-XNnjJ5XvcOVESMvLcraHQXfpmyFlBiJWZ-y6GtlHA&s=1732622917&e=129600&f=11772009&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/02870/ich8vodog39w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JsYmofx9SmWVK0-bfbFZOte_379wZ50HSqR28loGcT8&s=1732601263&e=129600&f=14352251&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/02354/ilrnggafxoid_,l,n,.urlset/index-f1-v1-a1.m3u8?t=J-XNnjJ5XvcOVESMvLcraHQXfpmyFlBiJWZ-y6GtlHA&s=1732622917&e=129600&f=11772009&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/ich8vodog39w"
+                            "Referer": "https://vidhideplus.com/embed/ilrnggafxoid"
                         }
                     },
                     {
-                        "url": "https://18jij6rntf.premilkyway.com/hls2/01/06201/t7sg3z13hufo_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=HTa8M6tb99HzXsn5L1DDVOaApom1sWKbzaJ_RhAk6ns&s=1732601261&e=129600&f=31009108&srv=galk8e9m4l6if&i=0.0&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=8075",
+                        "url": "https://cwfuommwagyrfcg6.premilkyway.com/hls2/01/05059/2qr5bxjyexxf_,l,n,.urlset/index-f1-v1-a1.m3u8?t=a5PJ4v2Vdmvsb8CZZMYDICeGPBSYHuwkgNv46efvlVM&s=1732622915&e=129600&f=25299312&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://18jij6rntf.premilkyway.com/hls2/01/06201/t7sg3z13hufo_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=HTa8M6tb99HzXsn5L1DDVOaApom1sWKbzaJ_RhAk6ns&s=1732601261&e=129600&f=31009108&srv=galk8e9m4l6if&i=0.0&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=8075",
+                        "videoUrl": "https://cwfuommwagyrfcg6.premilkyway.com/hls2/01/05059/2qr5bxjyexxf_,l,n,.urlset/index-f1-v1-a1.m3u8?t=a5PJ4v2Vdmvsb8CZZMYDICeGPBSYHuwkgNv46efvlVM&s=1732622915&e=129600&f=25299312&srv=6x71sfq2g4l07bi&i=0.0&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/t7sg3z13hufo"
+                            "Referer": "https://playerwish.com/e/2qr5bxjyexxf"
                         }
                     }
                 ],

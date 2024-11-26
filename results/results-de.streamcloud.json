@@ -3,23 +3,23 @@
         "name": "StreamCloud (DE)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.lang.IllegalStateException: No videos!",
                 "passed": false
             }
         }

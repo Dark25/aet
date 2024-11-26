@@ -3,83 +3,28 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/asiandrama/",
-                                "title": "asiandrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/kdrama/",
-                                "title": "kdrama/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/movies/",
-                                "title": "movies/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/README/",
-                                "title": "README/",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/",
-                                "title": "tvs/",
-                                "thumbnail_url": ""
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/asiandrama/",
-                    "title": "asiandrama/",
-                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asiandrama/24.Japan.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV/24.Japan.E24.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV.mkv",
-                        "name": "24.Japan.E24.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV",
-                        "date_upload": -1,
-                        "episode_number": 24.0,
-                        "scanlator": "2.99 GB • /"
-                    },
-                    {
-                        "url": "/asiandrama/24.Japan.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV/24.Japan.E23.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV.mkv",
-                        "name": "24.Japan.E23.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV",
-                        "date_upload": -1,
-                        "episode_number": 23.0,
-                        "scanlator": "2.72 GB • /"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/24.Japan.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV/24.Japan.E24.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV.mkv",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/24.Japan.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV/24.Japan.E24.2020.Disney+.WEB-DL.1080p.H264.AAC-HDCTV.mkv"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
                     }
                 ],
                 "passed": true

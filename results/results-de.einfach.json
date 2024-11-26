@@ -3,27 +3,27 @@
         "name": "Einfach (DE)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: einfach.to: No address associated with hostname",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: einfach.to",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: einfach.to",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: einfach.to",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: einfach.to",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.net.UnknownHostException: einfach.to",
                 "passed": false
             }
         }

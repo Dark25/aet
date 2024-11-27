@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/wicked/",
+                                "title": "Wicked",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
+                            },
+                            {
                                 "url": "/filmes/enfeiticados/",
                                 "title": "Enfeitiçados",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/citadel-diana/",
                                 "title": "Citadel: Diana",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
-                            },
-                            {
-                                "url": "/filmes/a-forja-o-poder-da-transformacao/",
-                                "title": "A Forja – O Poder da Transformação",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,36 @@
                                 "url": "/series/the-boys/",
                                 "title": "The Boys",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+                            },
+                            {
+                                "url": "/series/pantheon/",
+                                "title": "Pantheon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aZupC6eJhTe82e5I0JRaOBjFHOd.jpg"
+                            },
+                            {
+                                "url": "/series/get-millie-black/",
+                                "title": "Get Millie Black",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ytXuD2ZP9Q82OzalMaGYoKUUPCG.jpg"
+                            },
+                            {
+                                "url": "/series/amor-da-minha-vida/",
+                                "title": "Amor da Minha Vida",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3dFVr9cMVVBuVKZTQWqBUGf3Phz.jpg"
+                            },
+                            {
+                                "url": "/series/spinners-vivendo-no-limite/",
+                                "title": "Spinners – Vivendo no Limite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uwiVqtc7NKIl61hVT4enJOxV9tW.jpg"
+                            },
+                            {
+                                "url": "/series/segundas-intencoes/",
+                                "title": "Segundas Intenções",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/akFYVjpqtNZtyajTNO8tbDYr8tm.jpg"
+                            },
+                            {
+                                "url": "/series/um-espiao-infiltrado/",
+                                "title": "Um Espião Infiltrado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/exFenxQqLFgH0sGrlFN44qvOKq7.jpg"
                             },
                             {
                                 "url": "/series/duna-a-profecia/",
@@ -255,36 +285,6 @@
                                 "url": "/series/disclaimer/",
                                 "title": "Disclaimer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dH17p4sMkqGIIF7f6ovJDAnq3xB.jpg"
-                            },
-                            {
-                                "url": "/series/a-maquina/",
-                                "title": "A Máquina",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oc5Y6fojrglYD7I0tDa8KQBkkPV.jpg"
-                            },
-                            {
-                                "url": "/series/amor-traicoeiro/",
-                                "title": "Amor Traiçoeiro",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/y4EAggw6ZcvZqs6pSVYmSH8CDaK.jpg"
-                            },
-                            {
-                                "url": "/series/a-franquia/",
-                                "title": "A Franquia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/WVXrvTgieRu3VlSodzKVmQPzkw.jpg"
-                            },
-                            {
-                                "url": "/series/onde-esta-a-wanda/",
-                                "title": "Onde Está a Wanda?",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/okVhkzrbu6GLaOMauRTn3E2S2cc.jpg"
-                            },
-                            {
-                                "url": "/series/the-hardacres/",
-                                "title": "The Hardacres",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yHmGO337Fsx9JxWwaiyL7oen3AI.jpg"
-                            },
-                            {
-                                "url": "/series/corretores-de-luxo-em-marbella/",
-                                "title": "Corretores de Luxo em Marbella",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iGcmL9Zdq3hD89SEte505TTFdQ3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/enfeiticados/",
-                    "title": "Enfeitiçados",
-                    "description": "Quando um feitiço transforma seus pais em monstros gigantes, uma princesa adolescente embarca em uma jornada para reverter a magia antes que seja tarde demais!\n\nTítulo Original: Spellbound",
-                    "genre": "Animação, Aventura, Comédia, Família, Fantasia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg",
+                    "url": "/filmes/wicked/",
+                    "title": "Wicked",
+                    "description": "O longa conta a história de Elphaba (Cynthia Erivo), uma jovem incompreendida por causa de sua pele verde incomum, que ainda não descobriu seu verdadeiro poder, e de Glinda (Ariana Grande), uma jovem popular e ambiciosa que só quer saber de privilégios e ainda não conhece a sua verdadeira alma. As duas se conhecem na Universidade de Shiz, na Terra de OZ, e se tornam grandes amigas, mas suas diferenças fazem com que a vida as separe, levando-as a cumprirem seus destinos como a Bruxa Boa e a Bruxa Má do Oeste.\n\nTítulo Original: Wicked",
+                    "genre": "Drama, Fantasia, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/enfeiticados/",
+                        "url": "/filmes/wicked/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }
@@ -476,9 +476,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://brbeast.com/hls/YUJwbnFPWnVoQXByRjlTNW56Rk92SGNqN0RodUsvZlNwbzVPb1YzYkFYQWFSZWQva2NJOXlQK1o4WFh6blhlQ0NyVGtYa2drdlRPM1FXODQ0WlEwZmhCeEtSQmFMN1NxeStLOEc4RmlMNVNTbHdMUm9QS0VmVXh3dlpkaEw4K2wyZFFhOFpBL2dXcHkycFZLNnR1U1FySE0wNHJoNjZxWVZwU0JDVldlb1JPY0ovd3ZuSVNoK1VCOWpoTzEzNGdGTWhXR1p5OHV3RnlQY2ZsSTBOdVBvcWc4dlpDNUxwRWVyUTgwT3ZhYjg1N1lzcGdjdE16SW1jMnZhYUhBZUVzUnpzTDdmZE42azUrNXlZR29XS1BJNHBKbUcxcEZEVUNkaFFMYzNrcGhxbTlhR0plaFl2dmJBczF5WXVIaWpzRjI%3D",
-                        "quality": "[Dublado] BrBeast - 720p",
-                        "videoUrl": "https://brbeast.com/hls/YUJwbnFPWnVoQXByRjlTNW56Rk92SGNqN0RodUsvZlNwbzVPb1YzYkFYQWFSZWQva2NJOXlQK1o4WFh6blhlQ0NyVGtYa2drdlRPM1FXODQ0WlEwZmhCeEtSQmFMN1NxeStLOEc4RmlMNVNTbHdMUm9QS0VmVXh3dlpkaEw4K2wyZFFhOFpBL2dXcHkycFZLNnR1U1FySE0wNHJoNjZxWVZwU0JDVldlb1JPY0ovd3ZuSVNoK1VCOWpoTzEzNGdGTWhXR1p5OHV3RnlQY2ZsSTBOdVBvcWc4dlpDNUxwRWVyUTgwT3ZhYjg1N1lzcGdjdE16SW1jMnZhYUhBZUVzUnpzTDdmZE42azUrNXlZR29XS1BJNHBKbUcxcEZEVUNkaFFMYzNrcGhxbTlhR0plaFl2dmJBczF5WXVIaWpzRjI%3D",
+                        "url": "https://brbeast.com/hls/eldrSjc4NkJaMTVhNXVzOExodE14MythM0VBYjNTZ1VLUlcwV1J2Sk1maCtGNDZreVRhdkRDMzdudFFlY1RnUzdoUmtqYmxvM2JEYUdJVWVKc0NBSVcyWDJmV1VVZWxITzVrdUJoZDVheEtESlNIQTlza2V0U2dLVWtIUWVWbFVmcVRaODNRZVJiNCtUUkc2bzFhNWZ0RTMzblZxek9sQ0lVU3g1ZmVZUXJpOTBwM3hwMUx1V0NtYVB6cTBxTGhrNVo1UUpBVldPTXNyT3FodWFnaHpKRktGS1l4ZlZXcnFaOCtNMGxkK09DQ2NlOFAwVnFCUHFjbzZEbXU4YUQ3c3RTMlVwUDN2Uk9LeVdhMzdJN0pDbnJoUHorZjREWXgreFZlVzBiRDZoZ1dqek5EaWRkKzRUdUFCS2RXZ3YwdUw%3D",
+                        "quality": "[Selecione um Áudio e Servidor Dublado Legendado] BrBeast - 720p",
+                        "videoUrl": "https://brbeast.com/hls/eldrSjc4NkJaMTVhNXVzOExodE14MythM0VBYjNTZ1VLUlcwV1J2Sk1maCtGNDZreVRhdkRDMzdudFFlY1RnUzdoUmtqYmxvM2JEYUdJVWVKc0NBSVcyWDJmV1VVZWxITzVrdUJoZDVheEtESlNIQTlza2V0U2dLVWtIUWVWbFVmcVRaODNRZVJiNCtUUkc2bzFhNWZ0RTMzblZxek9sQ0lVU3g1ZmVZUXJpOTBwM3hwMUx1V0NtYVB6cTBxTGhrNVo1UUpBVldPTXNyT3FodWFnaHpKRktGS1l4ZlZXcnFaOCtNMGxkK09DQ2NlOFAwVnFCUHFjbzZEbXU4YUQ3c3RTMlVwUDN2Uk9LeVdhMzdJN0pDbnJoUHorZjREWXgreFZlVzBiRDZoZ1dqek5EaWRkKzRUdUFCS2RXZ3YwdUw%3D",
                         "headers": {
                             "Referer": "https://brbeast.com",
                             "Origin": "https://brbeast.com",

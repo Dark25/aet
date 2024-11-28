@@ -3,74 +3,8 @@
         "name": "Jkanime (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/one-piece/",
-                                "title": "One Piece- En emision",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/one-piece.jpg"
-                            },
-                            {
-                                "url": "/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/jujutsu-kaisen-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/dandadan/",
-                                "title": "Dandadan- En emision",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/dandadan.jpg"
-                            },
-                            {
-                                "url": "/chainsaw-man/",
-                                "title": "Chainsaw Man",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/chainsaw-man.jpg"
-                            },
-                            {
-                                "url": "/spy-x-family/",
-                                "title": "Spy x Family",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/spy-x-family.jpg"
-                            },
-                            {
-                                "url": "/boku-no-hero-academia-7th-season/",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/boku-no-hero-academia-7th-season.jpg"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken/",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/ore-dake-level-up-na-ken.jpg"
-                            },
-                            {
-                                "url": "/kimetsu-no-yaiba-katanakaji-no-sato-hen/",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/kimetsu-no-yaiba-katanakaji-no-sato-hen.jpg"
-                            },
-                            {
-                                "url": "/tensei-shitara-slime-datta-ken-3rd-season/",
-                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/tensei-shitara-slime-datta-ken-3rd-season.jpg"
-                            },
-                            {
-                                "url": "/boku-no-hero-academia-6th-season/",
-                                "title": "Boku no Hero Academia 6th Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/boku-no-hero-academia-6th-season.jpg"
-                            },
-                            {
-                                "url": "/kimetsu-no-yaiba-hashira-geiko-hen/",
-                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/kimetsu-no-yaiba-hashira-geiko-hen.jpg"
-                            },
-                            {
-                                "url": "/black-clover-tv/",
-                                "title": "Black Clover (TV)",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/black-clover-tv.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -368,14 +302,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/one-piece/",
-                    "title": "One Piece",
-                    "author": "Toei Animation",
-                    "description": "Una historia épica de piratas, donde narra la historia de \"Monkey D. Luffy\" quien cuando tenia 7 años, comió accidentalmente una \"Akuma no mi\"(Fruta del diablo) la cual le convirtió en un hombre de goma. Por otra parte \"Gol D. Roger\" conocido como \"El rey de los Piratas\" quien fuera ejecutado por la Marine, habló antes de morir, acerca de su mayor tesoro,el \"One Piece\" escondido en la \"Gran line\". Esta noticia desató la gran era de los piratas lanzando a incontables piratas a ese lugar, en busca del \"One Piece\" el tesoro perdido. Diez años después, Luffy inspirado en \"Gol D. Roger\" y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo \"Rey de los Piratas\" y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el \"One Piece\".",
-                    "genre": "Super Poderes, Shounen, Fantasia, Comedia, Aventura, Accion",
+                    "url": "/delicos-nursery",
+                    "title": "Delico's Nursery",
+                    "author": "J.C.Staff",
+                    "description": "Dali Delico es un aristócrata de la prestigiosa familia Delico y un miembro de élite del Blood Pact Council que tiene un futuro prometedor. El Consejo del Pacto Sangriento, el máximo órgano rector de los vampiros, le ordena llevar a cabo una determinada misión, pero Dalí se niega rotundamente. Cuando Gerhard, Dino y Henrique, frustrados compañeros de la Dieta, intentan persuadir a Dalí, encuentran a Dalí cargando a un niño pequeño. Mientras tanto, en las calles se produce una misteriosa serie de asesinatos dirigidos a vampiros. Parece haber algún tipo de conexión pasada entre Dali y la organización antisocial Pendulum, que se cree que es la autor intelectual.",
+                    "genre": "Fantasia",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/one-piece.jpg",
+                    "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/delicos-nursery.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -383,14 +317,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/one-piece//1122",
-                        "name": "Episodio 1122",
-                        "episode_number": 1122.0
+                        "url": "/delicos-nursery//13",
+                        "name": "Episodio 13",
+                        "episode_number": 13.0
                     },
                     {
-                        "url": "/one-piece//1121",
-                        "name": "Episodio 1121",
-                        "episode_number": 1121.0
+                        "url": "/delicos-nursery//12",
+                        "name": "Episodio 12",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -398,53 +332,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=NNodd-ioFRt7rRsdZgz7r2StxkVk5SblMtoHf3uMnKg&s=1732774010&e=14400&f=62208694&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "url": "https://delivery-node-yrhohklc10mfxrgy.voe-network.net/engine/hls2/01/12868/bpbub0lhsgts_,n,.urlset/index-v1-a1.m3u8?t=4bNX69b_Dsv5_J8-YOuDCvjvSJ56RrZWMf4z_KRKahc&s=1732795708&e=14400&f=64340466&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "quality": "[JAP] Voe:720p",
-                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=NNodd-ioFRt7rRsdZgz7r2StxkVk5SblMtoHf3uMnKg&s=1732774010&e=14400&f=62208694&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-yrhohklc10mfxrgy.voe-network.net/engine/hls2/01/12868/bpbub0lhsgts_,n,.urlset/index-v1-a1.m3u8?t=4bNX69b_Dsv5_J8-YOuDCvjvSJ56RrZWMf4z_KRKahc&s=1732795708&e=14400&f=64340466&node=delivery-node-yrhohklc10mfxrgy.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrtq65in4izprgx5k53o5467hprmolpl/video.mp4",
-                        "quality": "[JAP] Mp4Upload - 720p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrtq65in4izprgx5k53o5467hprmolpl/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkx5fzelz3b4quuotwre6jc2dheuwmzzvuciy6bbdgkysmgqxw7fmbus7cehlb4xvciu4ufn/video.mp4",
+                        "quality": "[JAP] Mp4Upload - 1080p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx5fzelz3b4quuotwre6jc2dheuwmzzvuciy6bbdgkysmgqxw7fmbus7cehlb4xvciu4ufn/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=iR48N8P9mJztY8MahKqWtDgW6T7oMqEmFqe_yL9q4wY&s=1732774006&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
-                        "quality": "[JAP] StreamWish:720p",
-                        "videoUrl": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=iR48N8P9mJztY8MahKqWtDgW6T7oMqEmFqe_yL9q4wY&s=1732774006&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://sfastwish.com",
-                            "Referer": "https://sfastwish.com/e/d3sa7zxrm6or"
-                        }
-                    },
-                    {
-                        "url": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=iR48N8P9mJztY8MahKqWtDgW6T7oMqEmFqe_yL9q4wY&s=1732774006&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
-                        "quality": "[JAP] StreamWish:480p",
-                        "videoUrl": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=iR48N8P9mJztY8MahKqWtDgW6T7oMqEmFqe_yL9q4wY&s=1732774006&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://sfastwish.com",
-                            "Referer": "https://sfastwish.com/e/d3sa7zxrm6or"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1732844007&ip=F0qQKRWADS9XKxR&token=T98dJw8Wc7cI",
-                        "quality": "[JAP] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1732844007&ip=F0qQKRWADS9XKxR&token=T98dJw8Wc7cI"
-                    },
-                    {
-                        "url": "https://s-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=lIa_HCdJ6YTRubJwiuUcAg&e=1732795609&_t=1732780102",
+                        "url": "https://s-delivery38.mxcontent.net/v2/9wpzz8jda60v8n.mp4?s=zd1uZbNS2_bPDMuElf7vgw&e=1732817304&_t=1732802199",
                         "quality": "[JAP] MixDrop",
-                        "videoUrl": "https://s-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=lIa_HCdJ6YTRubJwiuUcAg&e=1732795609&_t=1732780102",
+                        "videoUrl": "https://s-delivery38.mxcontent.net/v2/9wpzz8jda60v8n.mp4?s=zd1uZbNS2_bPDMuElf7vgw&e=1732817304&_t=1732802199",
                         "headers": {
                             "Referer": "https://mixdrop.co/",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"

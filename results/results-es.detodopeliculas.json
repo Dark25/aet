@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/1992-2024/",
+                                "title": "1992 (2024)",
+                                "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/vV1zgtOTZMvFo8myy4Q4p8qqR1D-185x278.jpg"
+                            },
+                            {
                                 "url": "/pelicula/la-caja-de-cristal-2023/",
                                 "title": "La caja de cristal (2023)",
                                 "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/yXtPSj7MdznBfuROcgbUttXAPyp-185x278.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/kill-masacre-en-el-tren-2023/",
                                 "title": "Kill: Masacre En El Tren (2023)",
                                 "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/Kill_poster_india-185x278.webp"
-                            },
-                            {
-                                "url": "/pelicula/un-muneco-de-nieve-para-derretirse-2024/",
-                                "title": "Un muñeco de nieve para derretirse (2024)",
-                                "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/Hot_Frosty_poster_usa-185x278.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -619,11 +619,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-caja-de-cristal-2023/",
-                    "title": "La caja de cristal (2023)",
-                    "description": "Los inquilinos de un céntrico edificio berlinés, ya sometidos a una gran tensión por los manejos de la inmobiliaria que posee el edificio, se encuentran una mañana, sin explicación ninguna, encerrados y rodeados por la policía. Nadie puede entrar ni salir. Sin información, los residentes empiezan a especular. Primero, suponen que puede haber una bomba colocada en la puerta de entrada. Luego se difunde el rumor de que un criminal se esconde en el patio. El miedo se convierte en inseguridad y a su vez en agresión. Los prejuicios provocan la polarización. Viejos conflictos vuelven a salir a la luz y los residentes empiezan a denunciarse unos a otros. En esta situación de peligro existencial, pierden su máscara de decencia humana. Empiezan a mostrar sus verdaderas caras y cada uno persigue sus propios intereses en este juego de poder y capitalismo.\n\nTítulo original: Black Box: Wem kannst du vertrauen?",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/yXtPSj7MdznBfuROcgbUttXAPyp.jpg",
+                    "url": "/pelicula/1992-2024/",
+                    "title": "1992 (2024)",
+                    "description": "Un tendero debe salvar a su hijo de una multitud enfurecida durante la revuelta de Los Ángeles de 1992 tras el veredicto de Rodney King.\n\nTítulo original: 1992",
+                    "genre": "Crimen, Suspense",
+                    "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2024/11/vV1zgtOTZMvFo8myy4Q4p8qqR1D.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -631,7 +631,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-caja-de-cristal-2023/",
+                        "url": "/pelicula/1992-2024/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -641,65 +641,81 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/12860/xnxluogiueco_,n,.urlset/index-v1-a1.m3u8?t=8ogyhhr_qQW_CTTixLUpNPPUABHA9WY4ddYEmHJDwKQ&s=1732774077&e=14400&f=64303485&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=74.249&sp=2500&asn=8075",
+                        "url": "https://delivery-node-dzl7jwlwicyzy5zm.voe-network.net/engine/hls2/01/12860/mkh2srumbvea_,n,.urlset/index-v1-a1.m3u8?t=7KuzyPqhSPBt8hwj94nbDfVBEMfG_2zBZjw9FeFkpHE&s=1732795755&e=14400&f=64302940&node=delivery-node-dzl7jwlwicyzy5zm.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "quality": "[LAT] - Voe:720p",
+                        "videoUrl": "https://delivery-node-dzl7jwlwicyzy5zm.voe-network.net/engine/hls2/01/12860/mkh2srumbvea_,n,.urlset/index-v1-a1.m3u8?t=7KuzyPqhSPBt8hwj94nbDfVBEMfG_2zBZjw9FeFkpHE&s=1732795755&e=14400&f=64302940&node=delivery-node-dzl7jwlwicyzy5zm.voe-network.net&i=172.190&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://7d6vl6pn43.guardstorage.net/hls_3/3psk7JFwqhlqjhhKmLk6byeE8EcPARXVAvCky_4BUPwYgKTb3Kd9POznx2k_ieEZStPcu8h0zmj8pp8va1UUaT949n_ST8dQixoeJqHuALA12cQJSXlMy5U5Wddr11JUyA97uzwreP1R9LWrKs_GBbts9JNoxUrFUv7ubQ8Bc7QrwS5jTHhN8dxZbnMk75Hvg5Oi31k1gO9-y8YJIt-6mg/index-v1-a1.m3u8?sig=9Fio7ANgI46Vi-NC5xa57A&expires=1732804751",
+                        "quality": "[LAT] - VidGuard:720p",
+                        "videoUrl": "https://7d6vl6pn43.guardstorage.net/hls_3/3psk7JFwqhlqjhhKmLk6byeE8EcPARXVAvCky_4BUPwYgKTb3Kd9POznx2k_ieEZStPcu8h0zmj8pp8va1UUaT949n_ST8dQixoeJqHuALA12cQJSXlMy5U5Wddr11JUyA97uzwreP1R9LWrKs_GBbts9JNoxUrFUv7ubQ8Bc7QrwS5jTHhN8dxZbnMk75Hvg5Oi31k1gO9-y8YJIt-6mg/index-v1-a1.m3u8?sig=9Fio7ANgI46Vi-NC5xa57A&expires=1732804751",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-8tjgwt3ixyrf87rv.voe-network.net/engine/hls2-c/01/12860/ivm4r0hjovlm_,n,.urlset/index-v1-a1.m3u8?t=VWwoUB5xS43l2UC3fA0WXhZKP1TCTrUjqxi2EhGPmPM&s=1732795752&e=14400&f=64303366&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "quality": "[CAST] - Voe:720p",
-                        "videoUrl": "https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/12860/xnxluogiueco_,n,.urlset/index-v1-a1.m3u8?t=8ogyhhr_qQW_CTTixLUpNPPUABHA9WY4ddYEmHJDwKQ&s=1732774077&e=14400&f=64303485&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=74.249&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-8tjgwt3ixyrf87rv.voe-network.net/engine/hls2-c/01/12860/ivm4r0hjovlm_,n,.urlset/index-v1-a1.m3u8?t=VWwoUB5xS43l2UC3fA0WXhZKP1TCTrUjqxi2EhGPmPM&s=1732795752&e=14400&f=64303366&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://yy4d1cc18n.guardstorage.net/hls_3/eETSuRS7_zfLiYn2MQ8-gWs2xcGyvuc5ikJE_OAISR8-ECY9m1EKQOXusKlmspzfxMi7lRriiBwLcK7npSED3FuUHyaJ4sRR5Pl0RQqT2WH0eAufjnq3zddmCapRbkP4_fxbRBjYHYn374vTUf04kQ4fFhxHpEyc4CDssZEI2smsphnxyJQbD65Bk2dMHEgMJMtodtCgMOC4WHgb1zah0Q/index-f3-v1-a1.m3u8?sig=RY4WThksqPCUD0BxIY8VVA&expires=1732783075",
+                        "url": "https://wayyrm3efe.guardstorage.net/hls_3/3DBAjleZdcmQOf0Vk_IL0U8fM6GZJQxskOaeVCz-DhHqLxT_osUbYWFNHovE_3Pe9VPP2gT8GBbncvLW1JEnDu9sXHasvwTrTHpBOhaHN6m6oJEuvXyvVYoeNgPTh0l_mCdhf9_rvUKH3IZPWQnUODoDujcN4mms18qAFq2HEZtrwM1o0-9D6LslOMc1C4Bay-uALSlH-x6M_trQyTHQzg/index-f3-v1-a1.m3u8?sig=6pozbUbVRXLITsi0PkH0yw&expires=1732804749",
                         "quality": "[CAST] - VidGuard:720p",
-                        "videoUrl": "https://yy4d1cc18n.guardstorage.net/hls_3/eETSuRS7_zfLiYn2MQ8-gWs2xcGyvuc5ikJE_OAISR8-ECY9m1EKQOXusKlmspzfxMi7lRriiBwLcK7npSED3FuUHyaJ4sRR5Pl0RQqT2WH0eAufjnq3zddmCapRbkP4_fxbRBjYHYn374vTUf04kQ4fFhxHpEyc4CDssZEI2smsphnxyJQbD65Bk2dMHEgMJMtodtCgMOC4WHgb1zah0Q/index-f3-v1-a1.m3u8?sig=RY4WThksqPCUD0BxIY8VVA&expires=1732783075",
+                        "videoUrl": "https://wayyrm3efe.guardstorage.net/hls_3/3DBAjleZdcmQOf0Vk_IL0U8fM6GZJQxskOaeVCz-DhHqLxT_osUbYWFNHovE_3Pe9VPP2gT8GBbncvLW1JEnDu9sXHasvwTrTHpBOhaHN6m6oJEuvXyvVYoeNgPTh0l_mCdhf9_rvUKH3IZPWQnUODoDujcN4mms18qAFq2HEZtrwM1o0-9D6LslOMc1C4Bay-uALSlH-x6M_trQyTHQzg/index-f3-v1-a1.m3u8?sig=6pozbUbVRXLITsi0PkH0yw&expires=1732804749",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://delivery-node-wtatahculkalrcev.voe-network.net/engine/hls2/01/12860/66wb2l1c8o2f_,n,.urlset/index-v1-a1.m3u8?t=F47XUnkx4uOFh281Cjk-o9r6fejIe14UWoV20Al5KQQ&s=1732774079&e=14400&f=64304012&node=delivery-node-wtatahculkalrcev.voe-network.net&i=74.249&sp=2500&asn=8075",
+                        "url": "https://delivery-node-becdlpmh0urm9kbg.voe-network.net/engine/hls2/01/12860/naggewszmgb2_,n,.urlset/index-v1-a1.m3u8?t=HeeZ45INbPMnQSAV9HRBK2M4apGhHler2_ssLhsMHwc&s=1732795755&e=14400&f=64303394&node=delivery-node-becdlpmh0urm9kbg.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "quality": "[SUB] - Voe:720p",
-                        "videoUrl": "https://delivery-node-wtatahculkalrcev.voe-network.net/engine/hls2/01/12860/66wb2l1c8o2f_,n,.urlset/index-v1-a1.m3u8?t=F47XUnkx4uOFh281Cjk-o9r6fejIe14UWoV20Al5KQQ&s=1732774079&e=14400&f=64304012&node=delivery-node-wtatahculkalrcev.voe-network.net&i=74.249&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-becdlpmh0urm9kbg.voe-network.net/engine/hls2/01/12860/naggewszmgb2_,n,.urlset/index-v1-a1.m3u8?t=HeeZ45INbPMnQSAV9HRBK2M4apGhHler2_ssLhsMHwc&s=1732795755&e=14400&f=64303394&node=delivery-node-becdlpmh0urm9kbg.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://sgtrnkvb1e.guardstorage.net/hls_3/5myQx0TEmbXqyj3SmtEukyTQHL3rVNyRPn_UpXSqzy1gzBbFYqTKYk-PYAPzvEXK47N985uSHetCA3FgN0GCPDEiVkqDW7gr1tQQQp4iFqFN4lJAe5eTiwui0IQNJhFbwkNYOBXz-PR6AwgVjQRF7YKrV6K_7C7XGDeDugLpMB-4jOJbo95UE1w6Wwf5ujEWkDp4Gasg95g_tpG6zMnlZQ/index-f3-v1-a1.m3u8?sig=4oUxu1dk5YaLrnU754vY_g&expires=1732783076",
+                        "url": "https://ejea2ygf6y.guardstorage.net/hls_3/qatosOVZb2GKKxgF6NMMP_4KEMoM84LzOyLNo0svckl-pXI6lsH12Jz61a37Aq_a__DaLV8E7yVd_QXtMLTxCbd-e2L7npgpG0SgSDlrY-KZFg2E5xLsQTyv5k-QYeN1s9gTjDzBN5o3vyqsG0H5na746yfHP3l812uYqqzrrhbe1apP0fchLWH8FfvgCVlnPG25PvrVT7aazGiK8YzbOg/index-f3-v1-a1.m3u8?sig=L707kADooA1e6lnyvBcgKg&expires=1732804754",
                         "quality": "[SUB] - VidGuard:720p",
-                        "videoUrl": "https://sgtrnkvb1e.guardstorage.net/hls_3/5myQx0TEmbXqyj3SmtEukyTQHL3rVNyRPn_UpXSqzy1gzBbFYqTKYk-PYAPzvEXK47N985uSHetCA3FgN0GCPDEiVkqDW7gr1tQQQp4iFqFN4lJAe5eTiwui0IQNJhFbwkNYOBXz-PR6AwgVjQRF7YKrV6K_7C7XGDeDugLpMB-4jOJbo95UE1w6Wwf5ujEWkDp4Gasg95g_tpG6zMnlZQ/index-f3-v1-a1.m3u8?sig=4oUxu1dk5YaLrnU754vY_g&expires=1732783076",
+                        "videoUrl": "https://ejea2ygf6y.guardstorage.net/hls_3/qatosOVZb2GKKxgF6NMMP_4KEMoM84LzOyLNo0svckl-pXI6lsH12Jz61a37Aq_a__DaLV8E7yVd_QXtMLTxCbd-e2L7npgpG0SgSDlrY-KZFg2E5xLsQTyv5k-QYeN1s9gTjDzBN5o3vyqsG0H5na746yfHP3l812uYqqzrrhbe1apP0fchLWH8FfvgCVlnPG25PvrVT7aazGiK8YzbOg/index-f3-v1-a1.m3u8?sig=L707kADooA1e6lnyvBcgKg&expires=1732804754",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://yy4d1cc18n.guardstorage.net/hls_3/eETSuRS7_zfLiYn2MQ8-gWs2xcGyvuc5ikJE_OAISR8-ECY9m1EKQOXusKlmspzfxMi7lRriiBwLcK7npSED3FuUHyaJ4sRR5Pl0RQqT2WH0eAufjnq3zddmCapRbkP4_fxbRBjYHYn374vTUf04kQ4fFhxHpEyc4CDssZEI2smsphnxyJQbD65Bk2dMHEgMJMtodtCgMOC4WHgb1zah0Q/index-f2-v1-a1.m3u8?sig=RY4WThksqPCUD0BxIY8VVA&expires=1732783075",
+                        "url": "https://wayyrm3efe.guardstorage.net/hls_3/3DBAjleZdcmQOf0Vk_IL0U8fM6GZJQxskOaeVCz-DhHqLxT_osUbYWFNHovE_3Pe9VPP2gT8GBbncvLW1JEnDu9sXHasvwTrTHpBOhaHN6m6oJEuvXyvVYoeNgPTh0l_mCdhf9_rvUKH3IZPWQnUODoDujcN4mms18qAFq2HEZtrwM1o0-9D6LslOMc1C4Bay-uALSlH-x6M_trQyTHQzg/index-f2-v1-a1.m3u8?sig=6pozbUbVRXLITsi0PkH0yw&expires=1732804749",
                         "quality": "[CAST] - VidGuard:480p",
-                        "videoUrl": "https://yy4d1cc18n.guardstorage.net/hls_3/eETSuRS7_zfLiYn2MQ8-gWs2xcGyvuc5ikJE_OAISR8-ECY9m1EKQOXusKlmspzfxMi7lRriiBwLcK7npSED3FuUHyaJ4sRR5Pl0RQqT2WH0eAufjnq3zddmCapRbkP4_fxbRBjYHYn374vTUf04kQ4fFhxHpEyc4CDssZEI2smsphnxyJQbD65Bk2dMHEgMJMtodtCgMOC4WHgb1zah0Q/index-f2-v1-a1.m3u8?sig=RY4WThksqPCUD0BxIY8VVA&expires=1732783075",
+                        "videoUrl": "https://wayyrm3efe.guardstorage.net/hls_3/3DBAjleZdcmQOf0Vk_IL0U8fM6GZJQxskOaeVCz-DhHqLxT_osUbYWFNHovE_3Pe9VPP2gT8GBbncvLW1JEnDu9sXHasvwTrTHpBOhaHN6m6oJEuvXyvVYoeNgPTh0l_mCdhf9_rvUKH3IZPWQnUODoDujcN4mms18qAFq2HEZtrwM1o0-9D6LslOMc1C4Bay-uALSlH-x6M_trQyTHQzg/index-f2-v1-a1.m3u8?sig=6pozbUbVRXLITsi0PkH0yw&expires=1732804749",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://yy4d1cc18n.guardstorage.net/hls_3/eETSuRS7_zfLiYn2MQ8-gWs2xcGyvuc5ikJE_OAISR8-ECY9m1EKQOXusKlmspzfxMi7lRriiBwLcK7npSED3FuUHyaJ4sRR5Pl0RQqT2WH0eAufjnq3zddmCapRbkP4_fxbRBjYHYn374vTUf04kQ4fFhxHpEyc4CDssZEI2smsphnxyJQbD65Bk2dMHEgMJMtodtCgMOC4WHgb1zah0Q/index-f1-v1-a1.m3u8?sig=RY4WThksqPCUD0BxIY8VVA&expires=1732783075",
+                        "url": "https://wayyrm3efe.guardstorage.net/hls_3/3DBAjleZdcmQOf0Vk_IL0U8fM6GZJQxskOaeVCz-DhHqLxT_osUbYWFNHovE_3Pe9VPP2gT8GBbncvLW1JEnDu9sXHasvwTrTHpBOhaHN6m6oJEuvXyvVYoeNgPTh0l_mCdhf9_rvUKH3IZPWQnUODoDujcN4mms18qAFq2HEZtrwM1o0-9D6LslOMc1C4Bay-uALSlH-x6M_trQyTHQzg/index-f1-v1-a1.m3u8?sig=6pozbUbVRXLITsi0PkH0yw&expires=1732804749",
                         "quality": "[CAST] - VidGuard:240p",
-                        "videoUrl": "https://yy4d1cc18n.guardstorage.net/hls_3/eETSuRS7_zfLiYn2MQ8-gWs2xcGyvuc5ikJE_OAISR8-ECY9m1EKQOXusKlmspzfxMi7lRriiBwLcK7npSED3FuUHyaJ4sRR5Pl0RQqT2WH0eAufjnq3zddmCapRbkP4_fxbRBjYHYn374vTUf04kQ4fFhxHpEyc4CDssZEI2smsphnxyJQbD65Bk2dMHEgMJMtodtCgMOC4WHgb1zah0Q/index-f1-v1-a1.m3u8?sig=RY4WThksqPCUD0BxIY8VVA&expires=1732783075",
+                        "videoUrl": "https://wayyrm3efe.guardstorage.net/hls_3/3DBAjleZdcmQOf0Vk_IL0U8fM6GZJQxskOaeVCz-DhHqLxT_osUbYWFNHovE_3Pe9VPP2gT8GBbncvLW1JEnDu9sXHasvwTrTHpBOhaHN6m6oJEuvXyvVYoeNgPTh0l_mCdhf9_rvUKH3IZPWQnUODoDujcN4mms18qAFq2HEZtrwM1o0-9D6LslOMc1C4Bay-uALSlH-x6M_trQyTHQzg/index-f1-v1-a1.m3u8?sig=6pozbUbVRXLITsi0PkH0yw&expires=1732804749",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://sgtrnkvb1e.guardstorage.net/hls_3/5myQx0TEmbXqyj3SmtEukyTQHL3rVNyRPn_UpXSqzy1gzBbFYqTKYk-PYAPzvEXK47N985uSHetCA3FgN0GCPDEiVkqDW7gr1tQQQp4iFqFN4lJAe5eTiwui0IQNJhFbwkNYOBXz-PR6AwgVjQRF7YKrV6K_7C7XGDeDugLpMB-4jOJbo95UE1w6Wwf5ujEWkDp4Gasg95g_tpG6zMnlZQ/index-f2-v1-a1.m3u8?sig=4oUxu1dk5YaLrnU754vY_g&expires=1732783076",
+                        "url": "https://ejea2ygf6y.guardstorage.net/hls_3/qatosOVZb2GKKxgF6NMMP_4KEMoM84LzOyLNo0svckl-pXI6lsH12Jz61a37Aq_a__DaLV8E7yVd_QXtMLTxCbd-e2L7npgpG0SgSDlrY-KZFg2E5xLsQTyv5k-QYeN1s9gTjDzBN5o3vyqsG0H5na746yfHP3l812uYqqzrrhbe1apP0fchLWH8FfvgCVlnPG25PvrVT7aazGiK8YzbOg/index-f2-v1-a1.m3u8?sig=L707kADooA1e6lnyvBcgKg&expires=1732804754",
                         "quality": "[SUB] - VidGuard:480p",
-                        "videoUrl": "https://sgtrnkvb1e.guardstorage.net/hls_3/5myQx0TEmbXqyj3SmtEukyTQHL3rVNyRPn_UpXSqzy1gzBbFYqTKYk-PYAPzvEXK47N985uSHetCA3FgN0GCPDEiVkqDW7gr1tQQQp4iFqFN4lJAe5eTiwui0IQNJhFbwkNYOBXz-PR6AwgVjQRF7YKrV6K_7C7XGDeDugLpMB-4jOJbo95UE1w6Wwf5ujEWkDp4Gasg95g_tpG6zMnlZQ/index-f2-v1-a1.m3u8?sig=4oUxu1dk5YaLrnU754vY_g&expires=1732783076",
+                        "videoUrl": "https://ejea2ygf6y.guardstorage.net/hls_3/qatosOVZb2GKKxgF6NMMP_4KEMoM84LzOyLNo0svckl-pXI6lsH12Jz61a37Aq_a__DaLV8E7yVd_QXtMLTxCbd-e2L7npgpG0SgSDlrY-KZFg2E5xLsQTyv5k-QYeN1s9gTjDzBN5o3vyqsG0H5na746yfHP3l812uYqqzrrhbe1apP0fchLWH8FfvgCVlnPG25PvrVT7aazGiK8YzbOg/index-f2-v1-a1.m3u8?sig=L707kADooA1e6lnyvBcgKg&expires=1732804754",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://sgtrnkvb1e.guardstorage.net/hls_3/5myQx0TEmbXqyj3SmtEukyTQHL3rVNyRPn_UpXSqzy1gzBbFYqTKYk-PYAPzvEXK47N985uSHetCA3FgN0GCPDEiVkqDW7gr1tQQQp4iFqFN4lJAe5eTiwui0IQNJhFbwkNYOBXz-PR6AwgVjQRF7YKrV6K_7C7XGDeDugLpMB-4jOJbo95UE1w6Wwf5ujEWkDp4Gasg95g_tpG6zMnlZQ/index-f1-v1-a1.m3u8?sig=4oUxu1dk5YaLrnU754vY_g&expires=1732783076",
+                        "url": "https://ejea2ygf6y.guardstorage.net/hls_3/qatosOVZb2GKKxgF6NMMP_4KEMoM84LzOyLNo0svckl-pXI6lsH12Jz61a37Aq_a__DaLV8E7yVd_QXtMLTxCbd-e2L7npgpG0SgSDlrY-KZFg2E5xLsQTyv5k-QYeN1s9gTjDzBN5o3vyqsG0H5na746yfHP3l812uYqqzrrhbe1apP0fchLWH8FfvgCVlnPG25PvrVT7aazGiK8YzbOg/index-f1-v1-a1.m3u8?sig=L707kADooA1e6lnyvBcgKg&expires=1732804754",
                         "quality": "[SUB] - VidGuard:240p",
-                        "videoUrl": "https://sgtrnkvb1e.guardstorage.net/hls_3/5myQx0TEmbXqyj3SmtEukyTQHL3rVNyRPn_UpXSqzy1gzBbFYqTKYk-PYAPzvEXK47N985uSHetCA3FgN0GCPDEiVkqDW7gr1tQQQp4iFqFN4lJAe5eTiwui0IQNJhFbwkNYOBXz-PR6AwgVjQRF7YKrV6K_7C7XGDeDugLpMB-4jOJbo95UE1w6Wwf5ujEWkDp4Gasg95g_tpG6zMnlZQ/index-f1-v1-a1.m3u8?sig=4oUxu1dk5YaLrnU754vY_g&expires=1732783076",
+                        "videoUrl": "https://ejea2ygf6y.guardstorage.net/hls_3/qatosOVZb2GKKxgF6NMMP_4KEMoM84LzOyLNo0svckl-pXI6lsH12Jz61a37Aq_a__DaLV8E7yVd_QXtMLTxCbd-e2L7npgpG0SgSDlrY-KZFg2E5xLsQTyv5k-QYeN1s9gTjDzBN5o3vyqsG0H5na746yfHP3l812uYqqzrrhbe1apP0fchLWH8FfvgCVlnPG25PvrVT7aazGiK8YzbOg/index-f1-v1-a1.m3u8?sig=L707kADooA1e6lnyvBcgKg&expires=1732804754",
                         "headers": {
                             "Accept": "*/*"
                         }

@@ -11,12 +11,12 @@
                                 "title": "الحقيبة The Trunk"
                             },
                             {
-                                "url": "/نجمتي/",
-                                "title": "نجمتي Oshi no Ko"
-                            },
-                            {
                                 "url": "/كود-الإبتسامة/",
                                 "title": "كود الإبتسامة Smile Code"
+                            },
+                            {
+                                "url": "/نجمتي/",
+                                "title": "نجمتي Oshi no Ko"
                             },
                             {
                                 "url": "/مولودة-من-أجل-الأضواء/",
@@ -47,12 +47,12 @@
                                 "title": "شرطي الإفراج Parole Examiner Lee"
                             },
                             {
-                                "url": "/لنتزوج/",
-                                "title": "لنتزوج Marry You"
-                            },
-                            {
                                 "url": "/سجلات-ما-بعد-المدرسة/",
                                 "title": "سجلات ما بعد المدرسة Hokago karte"
+                            },
+                            {
+                                "url": "/لنتزوج/",
+                                "title": "لنتزوج Marry You"
                             },
                             {
                                 "url": "/ما-بعد-الوداع/",
@@ -123,12 +123,12 @@
                                 "title": "الشك Doubt"
                             },
                             {
-                                "url": "/عائلة-حسب-الاختيار/",
-                                "title": "عائلة حسب الاختيار Family by Choice"
-                            },
-                            {
                                 "url": "/مكياج-بالطين/",
                                 "title": "مكياج بالطين Kao ni Doro wo Nuru"
+                            },
+                            {
+                                "url": "/عائلة-حسب-الاختيار/",
+                                "title": "عائلة حسب الاختيار Family by Choice"
                             },
                             {
                                 "url": "/توابل-حبنا/",
@@ -139,12 +139,12 @@
                                 "title": "العائلة الحديدية Iron Family"
                             },
                             {
-                                "url": "/سيندريلا-الصيف/",
-                                "title": "سيندريلا الصيف Manatsu no Cinderella"
-                            },
-                            {
                                 "url": "/سبعة-عشر-عامًا-من-القدر/",
                                 "title": "سبعة عشر عامًا من القدر Seventeen Years of Fate"
+                            },
+                            {
+                                "url": "/سيندريلا-الصيف/",
+                                "title": "سيندريلا الصيف Manatsu no Cinderella"
                             },
                             {
                                 "url": "/ماذا-يأتي-بعد-الحب/",
@@ -290,12 +290,65 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/الحقيبة-الحلقة-08-الأخيرة/",
+                        "name": "%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
+                    },
+                    {
+                        "url": "/الحقيبة-الحلقة-07/",
+                        "name": "07 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=5&sig=mbW4J1OtS0Q&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=5&sig=mbW4J1OtS0Q&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653"
+                    },
+                    {
+                        "url": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=3&sig=SUlDxwnH8s8&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=3&sig=SUlDxwnH8s8&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653"
+                    },
+                    {
+                        "url": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=2&sig=x6V3e5DVLPU&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=2&sig=x6V3e5DVLPU&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653"
+                    },
+                    {
+                        "url": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=1&sig=ASrKNn6KY_c&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=1&sig=ASrKNn6KY_c&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653"
+                    },
+                    {
+                        "url": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=0&sig=yUf9LXhXNwk&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=0&sig=yUf9LXhXNwk&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653"
+                    },
+                    {
+                        "url": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=4&sig=m6IbRFXedWQ&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd543.okcdn.ru/?expires=1732989970639&srcIp=20.55.47.51&pr=10&srcAg=GECKO&ms=185.226.55.53&type=4&sig=m6IbRFXedWQ&ct=0&urls=185.226.52.28&clientType=0&zs=43&id=7288530602653"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=opYj8rXlp3UJg7L&expires=1732973575&ip=FROsE0MnDS9X&token=hPmOhjrIeIRd",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=opYj8rXlp3UJg7L&expires=1732973575&ip=FROsE0MnDS9X&token=hPmOhjrIeIRd"
+                    },
+                    {
+                        "url": "https://m90.uqload.net/3rfkye5o45w2q4drdj27t4xsbq4mdandci3zw522neqffesu6c7aocom3jgq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m90.uqload.net/3rfkye5o45w2q4drdj27t4xsbq4mdandci3zw522neqffesu6c7aocom3jgq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

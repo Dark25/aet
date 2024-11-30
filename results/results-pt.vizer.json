@@ -239,6 +239,18 @@
                                 "thumbnail_url": "https://novizer.com/content/series/posterPt/342/22964.webp"
                             },
                             {
+                                "url": "/serie/online/irracional",
+                                "title": "Irracional",
+                                "status": 2,
+                                "thumbnail_url": "https://novizer.com/content/series/posterPt/342/22963.webp"
+                            },
+                            {
+                                "url": "/serie/online/senna-assistir",
+                                "title": "Senna",
+                                "status": 1,
+                                "thumbnail_url": "https://novizer.com/content/series/posterPt/342/22962.webp"
+                            },
+                            {
                                 "url": "/serie/online/amor-da-minha-vida-online",
                                 "title": "Amor da Minha Vida",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "Gangnam B-Side",
                                 "status": 1,
                                 "thumbnail_url": "https://novizer.com/content/series/posterPt/342/22941.webp"
-                            },
-                            {
-                                "url": "/serie/online/como-gua-para-chocolate-hd",
-                                "title": "Como Água para Chocolate",
-                                "status": 1,
-                                "thumbnail_url": "https://novizer.com/content/series/posterPt/342/22938.webp"
-                            },
-                            {
-                                "url": "/serie/online/os-feiticeiros-alem-de-waverly-place",
-                                "title": "Os Feiticeiros Além de Waverly Place",
-                                "status": 1,
-                                "thumbnail_url": "https://novizer.com/content/series/posterPt/342/22936.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery34.mxcontent.net/v2/owq1674waem1rl.mp4?s=NB-OHgLrw8B4QzgpRPjtgQ&e=1733011787&_t=1732999716",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery34.mxcontent.net/v2/owq1674waem1rl.mp4?s=NB-OHgLrw8B4QzgpRPjtgQ&e=1733011787&_t=1732999716",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+                        }
+                    },
+                    {
+                        "url": "https://basseqwevewcewcewecwcw.xyz/hls/am1vMlNuazJacjh4YzdGcTlNTWVFTERlblN5bXJBaXNzbmxvQTNUbG5kT0lTdHlTdjg1d3VxaWc0YTJiblozUVZXV1d1QnJYRWtKZmtrcDdLRFFySS8yWng5d2pFVUhNVkZKeENHTjhLZFpPRVJtY0R0SUg4NFlaQVJGSnMwaUdYUkFYYmI5cytuV3N4QWFjakMwMFNhVXQvRVFTSVZVc2NTOXYzcGtzcFpsRnBGSkNPa0xwRzBlSkJZTmZqTHB1SGU5ekJNYzk0eVRvdUpKcFN4QnhaWkxqT2E5azFFSlFlMmRuTDJUTDJVelMrUTdMZWlCbHVrVmp5a3hWTE9JWThNOVlhZzRyaXNoMEVxYmVVZndLUnZkZmRVV25yeVVySDArcGlFQmJoWmM9",
+                        "quality": "WarezCDN(DUB) - 720p",
+                        "videoUrl": "https://basseqwevewcewcewecwcw.xyz/hls/am1vMlNuazJacjh4YzdGcTlNTWVFTERlblN5bXJBaXNzbmxvQTNUbG5kT0lTdHlTdjg1d3VxaWc0YTJiblozUVZXV1d1QnJYRWtKZmtrcDdLRFFySS8yWng5d2pFVUhNVkZKeENHTjhLZFpPRVJtY0R0SUg4NFlaQVJGSnMwaUdYUkFYYmI5cytuV3N4QWFjakMwMFNhVXQvRVFTSVZVc2NTOXYzcGtzcFpsRnBGSkNPa0xwRzBlSkJZTmZqTHB1SGU5ekJNYzk0eVRvdUpKcFN4QnhaWkxqT2E5azFFSlFlMmRuTDJUTDJVelMrUTdMZWlCbHVrVmp5a3hWTE9JWThNOVlhZzRyaXNoMEVxYmVVZndLUnZkZmRVV25yeVVySDArcGlFQmJoWmM9",
+                        "headers": {
+                            "Referer": "https://basseqwevewcewcewecwcw.xyz",
+                            "Origin": "https://basseqwevewcewcewecwcw.xyz",
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,12 +7,12 @@
                     {
                         "animes": [
                             {
-                                "url": "/رحلة-سعيدة/",
-                                "title": "رحلة سعيدة Nice Flight"
-                            },
-                            {
                                 "url": "/خطة-عائلية/",
                                 "title": "خطة عائلية Family Plan"
+                            },
+                            {
+                                "url": "/رحلة-سعيدة/",
+                                "title": "رحلة سعيدة Nice Flight"
                             },
                             {
                                 "url": "/الصندوق/",
@@ -115,6 +115,10 @@
                                 "title": "طبيب جيد Good Doctor"
                             },
                             {
+                                "url": "/جونغ-يون-ولادة-النجم/",
+                                "title": "جونغ يون: ولادة النجم Jeongnyeon: The Star Is Born"
+                            },
+                            {
                                 "url": "/دونج-جاي،-الصالح-أم-الطالح/",
                                 "title": "دونج جاي، الصالح أم الطالح Dong Jae, the Good or the Bastard"
                             },
@@ -123,20 +127,16 @@
                                 "title": "الفضيلة تطرق الباب A Virtuous Business"
                             },
                             {
-                                "url": "/جونغ-يون-ولادة-النجم/",
-                                "title": "جونغ يون: ولادة النجم Jeongnyeon: The Star Is Born"
-                            },
-                            {
                                 "url": "/الشك/",
                                 "title": "الشك Doubt"
                             },
                             {
-                                "url": "/مكياج-بالطين/",
-                                "title": "مكياج بالطين Kao ni Doro wo Nuru"
-                            },
-                            {
                                 "url": "/عائلة-حسب-الاختيار/",
                                 "title": "عائلة حسب الاختيار Family by Choice"
+                            },
+                            {
+                                "url": "/مكياج-بالطين/",
+                                "title": "مكياج بالطين Kao ni Doro wo Nuru"
                             },
                             {
                                 "url": "/توابل-حبنا/",
@@ -280,62 +280,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/رحلة-سعيدة/",
-                    "title": "رحلة سعيدة Nice Flight",
-                    "description": "تتناول الدراما قصة مساعد الطيار “كوراتا سوي” الذي يحاول إثبات نفسه كطيار، رغم سمعته بالحظ السيئ. يتحدى الشخصية المرحة والبريئة لكوراتا مواجهة جدية مهنته، ولكن في إحدى المرات، يساعد طائرة بعد تعرضها للخطر ويتلقى إشادة من مراقبة الملاحة الجوية “شيبويا مايو”. يبدأ كوراتا البحث عن Tamamori-Yuta : في دور Kurata Sui Nakamura-Anne : في دور Shibuya Mayu Kichise-Michiko : في دور Kitami Nami Onoe-Ukon-II : في دور Sakaki James Kurokawa-Tomoka : في دور Iizuka Rikako Abe-Ryohei : في دور Natsume Kodai",
-                    "genre": "اليابان, حياة, درامي, رومانسي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/B85eq_4f.jpg",
+                    "url": "/خطة-عائلية/",
+                    "title": "خطة عائلية Family Plan",
+                    "description": "تدور أحداث الدراما حول مجموعة من الأشخاص الذين يمتلكون قدرات خاصة ويتنكرون كعائلة للبقاء على قيد الحياة ضد المجرمين الشنيعين. وتتكون هذه العائلة من الأم “هان يونغ سو” التي تمتلك قدرة خاصة وتحب أبناءها كثيرًا. والأب “بايك تشول هوي” الذي يخفي قدرته الخاصة ويتمتع بشخصية خج Bae-Doo-Na : في دور Han Yeong Su Ryu-Seung-Beom : في دور Baek Cheol Hui Baek-Yoon-Shik : في دور Baek Gang Seong Lomon : في دور Baek Ji Hun Lee-Su-Hyun : في دور Baek Ji U Shin-Woo-Chan : في دور Student",
+                    "genre": "كوريا الجنوبية, إثارة, خارق للطبيعة, عائلي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/O8ye8Q_4f.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/رحلة-سعيدة-الحلقة-08-الأخيرة/",
-                        "name": "%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
-                    },
-                    {
-                        "url": "/رحلة-سعيدة-الحلقة-07/",
-                        "name": "07 : الحلقة"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=5&sig=b448YJ3GO5Q&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=5&sig=b448YJ3GO5Q&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803"
-                    },
-                    {
-                        "url": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=3&sig=ym8lMchtJoE&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=3&sig=ym8lMchtJoE&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803"
-                    },
-                    {
-                        "url": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=2&sig=5UKHQ9XkKks&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=2&sig=5UKHQ9XkKks&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803"
-                    },
-                    {
-                        "url": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=1&sig=vIhejZb4rwI&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=1&sig=vIhejZb4rwI&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803"
-                    },
-                    {
-                        "url": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=0&sig=peWfTdqbG64&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=0&sig=peWfTdqbG64&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803"
-                    },
-                    {
-                        "url": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=4&sig=aedjrs2U6fc&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd378.okcdn.ru/?expires=1733033190960&srcIp=20.172.25.66&pr=10&srcAg=GECKO&ms=185.226.52.73&type=4&sig=aedjrs2U6fc&ct=0&urls=45.136.22.38&clientType=0&zs=43&id=4316954757803"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

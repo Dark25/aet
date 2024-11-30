@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/moana-2/",
+                                "title": "Moana 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg"
+                            },
+                            {
                                 "url": "/filmes/wicked/",
                                 "title": "Wicked",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/sorria-2/",
                                 "title": "Sorria 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/dQ3irvpgixv34eQNn6RWal8B4Cx.jpg"
-                            },
-                            {
-                                "url": "/series/citadel-diana/",
-                                "title": "Citadel: Diana",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/wicked/",
-                    "title": "Wicked",
-                    "description": "O longa conta a história de Elphaba (Cynthia Erivo), uma jovem incompreendida por causa de sua pele verde incomum, que ainda não descobriu seu verdadeiro poder, e de Glinda (Ariana Grande), uma jovem popular e ambiciosa que só quer saber de privilégios e ainda não conhece a sua verdadeira alma. As duas se conhecem na Universidade de Shiz, na Terra de OZ, e se tornam grandes amigas, mas suas diferenças fazem com que a vida as separe, levando-as a cumprirem seus destinos como a Bruxa Boa e a Bruxa Má do Oeste.\n\nTítulo Original: Wicked",
-                    "genre": "Drama, Fantasia, Romance",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
+                    "url": "/filmes/moana-2/",
+                    "title": "Moana 2",
+                    "description": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.\n\nTítulo Original: Moana 2",
+                    "genre": "Animação, Aventura, Comédia, Família",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/wicked/",
+                        "url": "/filmes/moana-2/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }
@@ -476,9 +476,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://brbeast.com/hls/eldrSjc4NkJaMTVhNXVzOExodE14MythM0VBYjNTZ1VLUlcwV1J2Sk1maCtGNDZreVRhdkRDMzdudFFlY1RnUzdoUmtqYmxvM2JEYUdJVWVKc0NBSVcyWDJmV1VVZWxITzVrdUJoZDVheEtESlNIQTlza2V0U2dLVWtIUWVWbFVmcVRaODNRZVJiNCtUUkc2bzFhNWZ0RTMzblZxek9sQ0lVU3g1ZmVZUXJpOTBwM3hwMUx1V0NtYVB6cTBxTGhrNVo1UUpBVldPTXNyT3FodWFnaHpKRktGS1l4ZlZXcnFaOCtNMGxkK09DQ2NlOFAwVnFCUHFjbzZEbXU4YUQ3c3RTMlVwUDN2Uk9LeVdhMzdJN0pDbm1HRHBQR083bWZzMW13L0pJREIrSzhpU2lTSy9LWnpjNEhnL09TM3Vqc2w%3D",
-                        "quality": "[Selecione um Áudio e Servidor Dublado Legendado] BrBeast - 720p",
-                        "videoUrl": "https://brbeast.com/hls/eldrSjc4NkJaMTVhNXVzOExodE14MythM0VBYjNTZ1VLUlcwV1J2Sk1maCtGNDZreVRhdkRDMzdudFFlY1RnUzdoUmtqYmxvM2JEYUdJVWVKc0NBSVcyWDJmV1VVZWxITzVrdUJoZDVheEtESlNIQTlza2V0U2dLVWtIUWVWbFVmcVRaODNRZVJiNCtUUkc2bzFhNWZ0RTMzblZxek9sQ0lVU3g1ZmVZUXJpOTBwM3hwMUx1V0NtYVB6cTBxTGhrNVo1UUpBVldPTXNyT3FodWFnaHpKRktGS1l4ZlZXcnFaOCtNMGxkK09DQ2NlOFAwVnFCUHFjbzZEbXU4YUQ3c3RTMlVwUDN2Uk9LeVdhMzdJN0pDbm1HRHBQR083bWZzMW13L0pJREIrSzhpU2lTSy9LWnpjNEhnL09TM3Vqc2w%3D",
+                        "url": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXJ1WUVsTlYvOXZkSzF5eCt4S3RnR2J6UDZjNFNNRVJoOUwwbERBa0M4aUg%3D",
+                        "quality": "[Dublado] BrBeast - 720p",
+                        "videoUrl": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXJ1WUVsTlYvOXZkSzF5eCt4S3RnR2J6UDZjNFNNRVJoOUwwbERBa0M4aUg%3D",
                         "headers": {
                             "Referer": "https://brbeast.com",
                             "Origin": "https://brbeast.com",

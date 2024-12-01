@@ -137,6 +137,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
                             },
                             {
+                                "url": "/series/origem/",
+                                "title": "Origem",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg"
+                            },
+                            {
                                 "url": "/series/pantheon/",
                                 "title": "Pantheon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/aZupC6eJhTe82e5I0JRaOBjFHOd.jpg"
@@ -280,11 +285,6 @@
                                 "url": "/series/a-confidente/",
                                 "title": "A Confidente",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/nEgz67qxEVq3VFScfRMOZTLovOG.jpg"
-                            },
-                            {
-                                "url": "/series/disclaimer/",
-                                "title": "Disclaimer",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dH17p4sMkqGIIF7f6ovJDAnq3xB.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -476,9 +476,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXZYZmh1RGxMaU03TGxjVmtVVHREVi9IKzBXMDIwK1ZqelMvdHlWN09va1E%3D",
+                        "url": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXZYZmh1RGxMaU03TGxjVmtVVHREVjhEeXZSN3k1Q0hkMk9DQ29wU0xqN0I%3D",
                         "quality": "[Dublado] BrBeast - 720p",
-                        "videoUrl": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXZYZmh1RGxMaU03TGxjVmtVVHREVi9IKzBXMDIwK1ZqelMvdHlWN09va1E%3D",
+                        "videoUrl": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXZYZmh1RGxMaU03TGxjVmtVVHREVjhEeXZSN3k1Q0hkMk9DQ29wU0xqN0I%3D",
                         "headers": {
                             "Referer": "https://brbeast.com",
                             "Origin": "https://brbeast.com",

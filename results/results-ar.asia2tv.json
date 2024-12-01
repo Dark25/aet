@@ -7,12 +7,16 @@
                     {
                         "animes": [
                             {
-                                "url": "/خطة-عائلية/",
-                                "title": "خطة عائلية Family Plan"
+                                "url": "/حكاية-السيدة-أوك/",
+                                "title": "حكاية السيدة أوك The Tale of Lady Ok"
                             },
                             {
                                 "url": "/رحلة-سعيدة/",
                                 "title": "رحلة سعيدة Nice Flight"
+                            },
+                            {
+                                "url": "/خطة-عائلية/",
+                                "title": "خطة عائلية Family Plan"
                             },
                             {
                                 "url": "/الصندوق/",
@@ -115,10 +119,6 @@
                                 "title": "طبيب جيد Good Doctor"
                             },
                             {
-                                "url": "/جونغ-يون-ولادة-النجم/",
-                                "title": "جونغ يون: ولادة النجم Jeongnyeon: The Star Is Born"
-                            },
-                            {
                                 "url": "/دونج-جاي،-الصالح-أم-الطالح/",
                                 "title": "دونج جاي، الصالح أم الطالح Dong Jae, the Good or the Bastard"
                             },
@@ -127,16 +127,20 @@
                                 "title": "الفضيلة تطرق الباب A Virtuous Business"
                             },
                             {
+                                "url": "/جونغ-يون-ولادة-النجم/",
+                                "title": "جونغ يون: ولادة النجم Jeongnyeon: The Star Is Born"
+                            },
+                            {
                                 "url": "/الشك/",
                                 "title": "الشك Doubt"
                             },
                             {
-                                "url": "/عائلة-حسب-الاختيار/",
-                                "title": "عائلة حسب الاختيار Family by Choice"
-                            },
-                            {
                                 "url": "/مكياج-بالطين/",
                                 "title": "مكياج بالطين Kao ni Doro wo Nuru"
+                            },
+                            {
+                                "url": "/عائلة-حسب-الاختيار/",
+                                "title": "عائلة حسب الاختيار Family by Choice"
                             },
                             {
                                 "url": "/توابل-حبنا/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/عزيزتي-هيري/",
                                 "title": "عزيزتي هيري Dear Hyeri"
-                            },
-                            {
-                                "url": "/قاضية-من-الجحيم/",
-                                "title": "قاضية من الجحيم The Judge from Hell"
                             }
                         ],
                         "hasNextPage": true
@@ -280,22 +280,71 @@
             },
             "details": {
                 "result": {
-                    "url": "/خطة-عائلية/",
-                    "title": "خطة عائلية Family Plan",
-                    "description": "تدور أحداث الدراما حول مجموعة من الأشخاص الذين يمتلكون قدرات خاصة ويتنكرون كعائلة للبقاء على قيد الحياة ضد المجرمين الشنيعين. وتتكون هذه العائلة من الأم “هان يونغ سو” التي تمتلك قدرة خاصة وتحب أبناءها كثيرًا. والأب “بايك تشول هوي” الذي يخفي قدرته الخاصة ويتمتع بشخصية خج Bae-Doo-Na : في دور Han Yeong Su Ryu-Seung-Beom : في دور Baek Cheol Hui Baek-Yoon-Shik : في دور Baek Gang Seong Lomon : في دور Baek Ji Hun Lee-Su-Hyun : في دور Baek Ji U Shin-Woo-Chan : في دور Student",
-                    "genre": "كوريا الجنوبية, إثارة, خارق للطبيعة, عائلي, كوميدي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/O8ye8Q_4f.jpg",
+                    "url": "/حكاية-السيدة-أوك/",
+                    "title": "حكاية السيدة أوك The Tale of Lady Ok",
+                    "description": "تدور أحداث القصة خلال فترة جوسون، حيث تكون “أوك تاي يونغ” خبيرة قانونية ذكية تتمتع بأخلاقيات عمل ممتازة. تقوم بمساعدة الناس في المواقف الصعبة وتحظى بحبهم وتقديرهم، ولكن لديها سر. السر هو أن اسمها وزوجها ومكانتها كلها مزيفة. في نفس الوقت، يكون “تشون سونغ وي” راوي قص Im-Ji-Yeon : في دور Ok Tae Yeong / Gu Deok Choo-Young-Woo : في دور Cheon Seung Hwi Yeonwoo : في دور Cha Mi Ryeong Kim-Jae-Won : في دور Sung Do Gyeom Lee-Jae-Won : في دور Man Seok Sung-Dong-Il : في دور Sung Gyu Jin",
+                    "genre": "كوريا الجنوبية, تاريخي, درامي, رومانسي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/12/the-tale-of-lady-ok-poster_1-scaled-1.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/حكاية-السيدة-أوك-الحلقة-01/",
+                        "name": "01 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=5&sig=Jfl0j2sUnXg&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=5&sig=Jfl0j2sUnXg&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709"
+                    },
+                    {
+                        "url": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=3&sig=XEsEZZkQpQc&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=3&sig=XEsEZZkQpQc&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709"
+                    },
+                    {
+                        "url": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=2&sig=mFtVR3WX1bA&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=2&sig=mFtVR3WX1bA&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709"
+                    },
+                    {
+                        "url": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=1&sig=E4ObjbV1hII&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=1&sig=E4ObjbV1hII&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709"
+                    },
+                    {
+                        "url": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=0&sig=KJqmSIbUuTs&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=0&sig=KJqmSIbUuTs&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709"
+                    },
+                    {
+                        "url": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=4&sig=KNKdvabHKqA&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd375.okcdn.ru/?expires=1733098857316&srcIp=40.79.247.98&pr=10&srcAg=GECKO&ms=45.136.22.80&type=4&sig=KNKdvabHKqA&ct=0&urls=185.226.53.62&clientType=0&zs=43&id=7294900439709"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=vYW0mrvgM2i40Dd&expires=1733082461&ip=GxOsEHcnDS9X&token=T3Du2X0opgQX",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=vYW0mrvgM2i40Dd&expires=1733082461&ip=GxOsEHcnDS9X&token=T3Du2X0opgQX"
+                    },
+                    {
+                        "url": "https://m10.uqload.net/3rfkybp245w2q4drdjyptnfkl4o3mmxoxl76hcob2tnmwm3g53evetirrfdq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m10.uqload.net/3rfkybp245w2q4drdjyptnfkl4o3mmxoxl76hcob2tnmwm3g53evetirrfdq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

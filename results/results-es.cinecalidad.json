@@ -7,9 +7,19 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/la-hermana-de-nieve/",
+                                "title": "La hermana de nieve",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-pelicula/sweethearts/",
+                                "title": "Sweethearts",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//890UDXYal6i8A9NbMV5TAxZpOzH.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/la-locura/",
                                 "title": "La locura",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//q9GEONSrEYz8nUAqsFXRRu9GYtO.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/劇場版モノノ怪-唐傘/",
@@ -55,16 +65,6 @@
                                 "url": "/ver-pelicula/nuestro-secretito/",
                                 "title": "Nuestro Secretito",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/alerta-amber/",
-                                "title": "Alerta Amber",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/corte-en-el-tiempo/",
-                                "title": "Corte en el tiempo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//ewcah5XqF26gBd64jO02piMsTPJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-pelicula/la-hermana-de-nieve/",
+                                "title": "La hermana de nieve",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//2Ct65EWmZeE0Fd32YDRDN89d57W.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/sweethearts/",
+                                "title": "Sweethearts",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//890UDXYal6i8A9NbMV5TAxZpOzH.jpg"
+                            },
                             {
                                 "url": "/ver-serie/la-locura/",
                                 "title": "La locura",
@@ -140,16 +150,6 @@
                                 "url": "/ver-serie/landman-un-negocio-crudo/",
                                 "title": "Landman: Un negocio crudo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/querido-santa/",
-                                "title": "Querido Santa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//axxggOMYNyKDsNVMnyMTnvrGByX.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/solo-leveling/",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//lheS6E8JKFLdan3qU8xRQvutCQj.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/la-locura/",
-                    "artist": "Alison Wright",
-                    "author": "Stephen Belber",
-                    "description": "Después de que un experto de los medios de comunicación se topa con un cadáver en lo profundo de los bosques de Poconos, se encuentra incriminado por el asesinato de un notorio supremacista blanco.   ",
-                    "genre": "Acción y Aventura, Crimen, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//q9GEONSrEYz8nUAqsFXRRu9GYtO.jpg",
+                    "url": "/ver-pelicula/la-hermana-de-nieve/",
+                    "artist": "Advika",
+                    "description": "Se acerca la Nochebuena y Julian cumplirá 11 años. Solía ser el mejor día del año, con el aroma de las galletas de jengibre y las mandarinas, el chisporroteo del fuego en la chimenea, el árbol de Navidad cubierto de adornos y la luz de las velas. Pero este año todo ha cambiado. La familia llora la muerte de su hermana mayor, y Julian siente que las fiestas se han cancelado. Hasta que conoce a Hedwig, una niña que adora la Navidad, y empieza a creer que al final es posible que la celebren. Pero la casa de Hedwig es muy rara. ¿Y quién es el anciano que los espía todo el rato?   ",
+                    "genre": "Aventura, Drama, Familia, Fantasía",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//2Ct65EWmZeE0Fd32YDRDN89d57W.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,21 +211,52 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/la-locura-1x8/",
-                        "name": "T1 - E8 - Episodio 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver-el-episodio/la-locura-1x7/",
-                        "name": "T1 - E7 - Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/ver-pelicula/la-hermana-de-nieve/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kz4GgTuFgJgwZ8v4rVq-pIsVJoXDIvqGr_0M3-22leE&s=1733012527&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kz4GgTuFgJgwZ8v4rVq-pIsVJoXDIvqGr_0M3-22leE&s=1733012527&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/2pfejcru0g04"
+                        }
+                    },
+                    {
+                        "url": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kz4GgTuFgJgwZ8v4rVq-pIsVJoXDIvqGr_0M3-22leE&s=1733012527&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kz4GgTuFgJgwZ8v4rVq-pIsVJoXDIvqGr_0M3-22leE&s=1733012527&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/2pfejcru0g04"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Jyyo1q7MP3TrLo&expires=1733082524&ip=F0AsFxInDS9X&token=XO5FQWUZmDD-",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Jyyo1q7MP3TrLo&expires=1733082524&ip=F0AsFxInDS9X&token=XO5FQWUZmDD-"
+                    },
+                    {
+                        "url": "https://s1.goodstream.one/vtt/02/00010/3l89ma3yorne_sli.vtt",
+                        "quality": "GoodStream: ",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00010/3l89ma3yorne_sli.vtt",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

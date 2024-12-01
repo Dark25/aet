@@ -117,16 +117,141 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=67380fb2fac5eb24f6ef2433",
+                    "title": "Gladiator 2",
+                    "description": "Nach dem Tod seines Idols Maximus (Russell Crowe) wurde Lucius (Paul Mescal), der Sohn von Lucilla (Connie Nielsen), außerhalb des Römischen Reichs in Sicherheit gebracht. Dem Einfluss römischer Korruption, Intrigen und Machtgerangel entzogen, wächst Lucius an der nordafrikanischen Küste in Frieden zu einem jungen Mann heran – bis er eines Tages von der Vergangenheit eingeholt wird. Seine neue numidische Heimat wird von römischen Legionen unter der Führung von General Marcus Acacius (Pedro Pascal) überfallen. Traumatisiert von tragischen Verlusten wird Lucius nach Rom verschleppt und an den Gladiatorenstall-Besitzer Macrinus (Denzel Washington) verkauft. Zur Unterhaltung des Volkes und der Co-Kaiser Geta (Joseph Quinn) und Caracalla (Fred Hechinger) soll er in der Arena um sein Leben kämpfen. Von unbändiger Wut angetrieben, will Lucius dem Imperium einen Schlag versetzen und vor allem Rache an dem Mann nehmen, den er als seinen ärgsten Feind ansieht: General Acacius, der allerdings mit Lucius Mutter Lucilla verheiratet ist.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=67380fb2fac5eb24f6ef2433",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-dz1mutsrjvg36eso.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=STxqKMbccK2FRWlmHOrOvmbdIB_WVTrMQV_CTEh7jyQ&s=1733012446&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-dz1mutsrjvg36eso.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=STxqKMbccK2FRWlmHOrOvmbdIB_WVTrMQV_CTEh7jyQ&s=1733012446&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=STxqKMbccK2FRWlmHOrOvmbdIB_WVTrMQV_CTEh7jyQ&s=1733012446&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=STxqKMbccK2FRWlmHOrOvmbdIB_WVTrMQV_CTEh7jyQ&s=1733012446&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=bRmQ6LZA2WhPkPj&expires=1733082445&ip=FROsD0AAKxSHDN&token=MOVB9JUgNchf",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=bRmQ6LZA2WhPkPj&expires=1733082445&ip=FROsD0AAKxSHDN&token=MOVB9JUgNchf"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=wrp9zObJOVtJmpg&expires=1733082445&ip=FROsD0AAKxSHDN&token=qQoY6ym6Fo9Z",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wrp9zObJOVtJmpg&expires=1733082445&ip=FROsD0AAKxSHDN&token=qQoY6ym6Fo9Z"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=wrp9zObJOVtJmpg&expires=1733082445&ip=FROsD0AAKxSHDN&token=qQoY6ym6Fo9Z",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wrp9zObJOVtJmpg&expires=1733082445&ip=FROsD0AAKxSHDN&token=qQoY6ym6Fo9Z"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=wrp9zObJOVtJmpg&expires=1733082445&ip=FROsD0AAKxSHDN&token=qQoY6ym6Fo9Z",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wrp9zObJOVtJmpg&expires=1733082445&ip=FROsD0AAKxSHDN&token=qQoY6ym6Fo9Z"
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=g7hu81FNGOPNTnidMGQpiCGjI69FvvL2p0dIUIseuvE&s=1733012445&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=g7hu81FNGOPNTnidMGQpiCGjI69FvvL2p0dIUIseuvE&s=1733012445&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=WRXHDFzza1k3zScbm1jIDhuvCzGX2kInM7s_1HFc8uc&s=1733012444&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=WRXHDFzza1k3zScbm1jIDhuvCzGX2kInM7s_1HFc8uc&s=1733012444&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=4uQmV-rlS3A_y7gve_46BYPWiIIj1qxExiYOGI1faOk&s=1733012443&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=4uQmV-rlS3A_y7gve_46BYPWiIIj1qxExiYOGI1faOk&s=1733012443&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=4uQmV-rlS3A_y7gve_46BYPWiIIj1qxExiYOGI1faOk&s=1733012443&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=4uQmV-rlS3A_y7gve_46BYPWiIIj1qxExiYOGI1faOk&s=1733012443&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=FSuUT3viOhsEZ7G99V84ootXRglW_pq5JFICI8BogUU&s=1733012441&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=FSuUT3viOhsEZ7G99V84ootXRglW_pq5JFICI8BogUU&s=1733012441&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=FSuUT3viOhsEZ7G99V84ootXRglW_pq5JFICI8BogUU&s=1733012441&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=FSuUT3viOhsEZ7G99V84ootXRglW_pq5JFICI8BogUU&s=1733012441&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=Yhq6bRLtxU1nI06okwfAjzy0MJf2xXQCeU2wnf9_aHc&s=1733012440&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=Yhq6bRLtxU1nI06okwfAjzy0MJf2xXQCeU2wnf9_aHc&s=1733012440&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=P6vL1Xrqvlh0wmw&expires=1733082439&ip=FROsD0AAKxSHDN&token=535rsyzJeE50",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=P6vL1Xrqvlh0wmw&expires=1733082439&ip=FROsD0AAKxSHDN&token=535rsyzJeE50"
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=m8XNRhHxLnj4FunMjrqgRsHfi5z0EAESh3K0uUqxdUU&s=1733012439&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=m8XNRhHxLnj4FunMjrqgRsHfi5z0EAESh3K0uUqxdUU&s=1733012439&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=uIK3doAUNKHtDOaSlzPp3WSg_0j5oXPvJcl2kK0Gcyw&s=1733012437&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-jskkcc2bycmlhjaf.voe-network.net/engine/hls2-c/01/12792/prmlsobpaadx_,n,.urlset/index-v1-a1.m3u8?t=uIK3doAUNKHtDOaSlzPp3WSg_0j5oXPvJcl2kK0Gcyw&s=1733012437&e=14400&f=64202371&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=20.109&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

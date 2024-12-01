@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/tian-guan-ci-fu-special?animeId=4825",
-                                "title": "Tian Guan Ci Fu Special",
-                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/4825.jpg"
-                            },
-                            {
                                 "url": "/anime/bleach-sennen-kessen-hen?animeId=5709",
                                 "title": "Bleach: Sennen Kessen-hen",
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5709.jpg"
+                            },
+                            {
+                                "url": "/anime/tian-guan-ci-fu-special?animeId=4825",
+                                "title": "Tian Guan Ci Fu Special",
+                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/4825.jpg"
                             },
                             {
                                 "url": "/anime/kusuriya-no-hitorigoto?animeId=5951",
@@ -67,6 +67,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kamonohashi-ron-no-kindan-suiri-2nd-season?animeId=6204",
+                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/6204.jpg"
+                            },
+                            {
                                 "url": "/anime/saikyou-no-shienshoku?animeId=6203",
                                 "title": "Saikyou no Shienshoku",
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/6203.jpg"
@@ -110,11 +115,6 @@
                                 "url": "/anime/youkai-gakkou-no-sensei-hajimemashita?animeId=6195",
                                 "title": "Youkai Gakkou no Sensei Hajimemashita!",
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/6195.jpg"
-                            },
-                            {
-                                "url": "/anime/one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log?animeId=6194",
-                                "title": "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!",
-                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/6194.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,12 +274,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tian-guan-ci-fu-special?animeId=4825",
-                    "title": "Tian Guan Ci Fu Special",
-                    "author": "Haoliners Animation League",
-                    "description": "Tian Guan Ci Fu serisinin special bölümüdür.rnrn",
-                    "genre": "Tarihi, Doğaüstü Güçler, Dram",
-                    "thumbnail_url": "https://www.turkanime.co/imajlar/serilerb/4825.jpg",
+                    "url": "/anime/bleach-sennen-kessen-hen?animeId=5709",
+                    "title": "Bleach: Sennen Kessen-hen",
+                    "author": "Pierrot",
+                    "description": "Bleach animesinin \"Bin Yıllık Kanlı Savaş Arc\"ını konu alan devam sezonudur.",
+                    "genre": "Fantastik, Aksiyon, Macera",
+                    "thumbnail_url": "https://www.turkanime.co/imajlar/serilerb/5709.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -287,9 +287,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/tian-guan-ci-fu-special-1-bolum",
-                        "name": "Tian Guan Ci Fu Special 1. Bölüm",
-                        "episode_number": 1.0
+                        "url": "/video/bleach-sennen-kessen-hen-13-bolum-final",
+                        "name": "Bleach: Sennen Kessen-hen 13. Bölüm Final",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/video/bleach-sennen-kessen-hen-12-bolum",
+                        "name": "Bleach: Sennen Kessen-hen 12. Bölüm",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -297,31 +302,67 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-fnvapstiqshd0vet.voe-network.net/engine/hls2/01/00207/xpbnf7vpzzr0_,n,.urlset/index-v1-a1.m3u8?t=Pt0QBQzI9AxqEJBnaev32eNt-sw0ktwJwXJn_jJ6FvU&s=1733033327&e=14400&f=1036916&node=delivery-node-fnvapstiqshd0vet.voe-network.net&i=20.81&sp=2500&asn=8075",
-                        "quality": "(DonghuaTR) Voe:1080p",
-                        "videoUrl": "https://delivery-node-fnvapstiqshd0vet.voe-network.net/engine/hls2/01/00207/xpbnf7vpzzr0_,n,.urlset/index-v1-a1.m3u8?t=Pt0QBQzI9AxqEJBnaev32eNt-sw0ktwJwXJn_jJ6FvU&s=1733033327&e=14400&f=1036916&node=delivery-node-fnvapstiqshd0vet.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1slO8DKxLUlwKdOXUQgzCbedlvGCSEYZ3",
+                        "quality": "HolySubs: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1slO8DKxLUlwKdOXUQgzCbedlvGCSEYZ3",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1xXPRhvrQ7qSyvC-zAMWF73o_EaI-rWjK",
+                        "quality": "Benihime Fansub: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1xXPRhvrQ7qSyvC-zAMWF73o_EaI-rWjK",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1zRYU16JKO2AEJa9XSeHxj3Yo5GEIMUAJ",
+                        "quality": "Arcadia: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1zRYU16JKO2AEJa9XSeHxj3Yo5GEIMUAJ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PZ1aii84UO0fUMr1fTORbiLUdTE2MY31",
+                        "quality": "AnimeWho: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PZ1aii84UO0fUMr1fTORbiLUdTE2MY31",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/08642/gz9wg0rnbh81_,n,.urlset/index-v1-a1.m3u8?t=WSi-lodJvqgxqKH2alck_4AHn5zpniXRFNIm6NN0S40&s=1733054972&e=14400&f=43210233&node=delivery-node-p2dcbpl5uhqqggd2.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "(PuzzleSubs) Voe:720p",
+                        "videoUrl": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/08642/gz9wg0rnbh81_,n,.urlset/index-v1-a1.m3u8?t=WSi-lodJvqgxqKH2alck_4AHn5zpniXRFNIm6NN0S40&s=1733054972&e=14400&f=43210233&node=delivery-node-p2dcbpl5uhqqggd2.voe-network.net&i=52.234&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PQGExu-N6bYa3-RUhx12eT92QvLAG8mw",
-                        "quality": "Heterophobia: Gdrive",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PQGExu-N6bYa3-RUhx12eT92QvLAG8mw",
+                        "url": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/08550/b0mgt8xih05l_,n,.urlset/index-v1-a1.m3u8?t=hW7iDi1ZxsvS6t-wonvba2FlopKxGy6f-32Jac-a0wM&s=1733054973&e=14400&f=42750339&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "(HolySubs) Voe:720p",
+                        "videoUrl": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/08550/b0mgt8xih05l_,n,.urlset/index-v1-a1.m3u8?t=hW7iDi1ZxsvS6t-wonvba2FlopKxGy6f-32Jac-a0wM&s=1733054973&e=14400&f=42750339&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=52.234&sp=2500&asn=8075",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": ""
+                            "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1STpuTjnqlMCkXD5KOaRqLYxVp9_oEk9_",
-                        "quality": "DonghuaTR: Gdrive",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1STpuTjnqlMCkXD5KOaRqLYxVp9_oEk9_",
+                        "url": "https://delivery-node-yuqd9xktudja8zcj.voe-network.net/engine/hls2/01/08817/35upwuvs2qrr_,n,.urlset/index-v1-a1.m3u8?t=fVrA7nBf4lk--K73LoezkB86QMBDAHgV6En9IAh3mgw&s=1733054972&e=14400&f=44085958&node=delivery-node-yuqd9xktudja8zcj.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "(AnimeWho) Voe:720p",
+                        "videoUrl": "https://delivery-node-yuqd9xktudja8zcj.voe-network.net/engine/hls2/01/08817/35upwuvs2qrr_,n,.urlset/index-v1-a1.m3u8?t=fVrA7nBf4lk--K73LoezkB86QMBDAHgV6En9IAh3mgw&s=1733054972&e=14400&f=44085958&node=delivery-node-yuqd9xktudja8zcj.voe-network.net&i=52.234&sp=2500&asn=8075",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": ""
+                            "Accept": "*/*"
                         }
                     }
                 ],

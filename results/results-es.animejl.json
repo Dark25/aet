@@ -173,16 +173,10 @@
                                 "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/naruto-shippuuden-espanol-latino-cover-n0b.jpg"
                             },
                             {
-                                "url": "/anime/1641/11eyes-latino",
-                                "title": "11eyes Español Latino",
+                                "url": "/anime/1665/rekiaku",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
                                 "description": "",
-                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/11eyes-espanol-latino-cover-vqz.jpg"
-                            },
-                            {
-                                "url": "/anime/1533/boruto-castellano",
-                                "title": "Boruto: Naruto Next Generations Castellano",
-                                "description": "",
-                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/boruto-naruto-next-generations-castellano-cover-gbg.jpg"
+                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/rekishi-ni-nokoru-akujo-ni-naru-zo-cover-hvc.jpg"
                             },
                             {
                                 "url": "/anime/1738/oretsuba-latino",
@@ -191,10 +185,10 @@
                                 "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/oretachi-ni-tsubasa-wa-nai-espanol-latino-cover-g0f.jpg"
                             },
                             {
-                                "url": "/anime/1665/rekiaku",
-                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "url": "/anime/1616/flame-of-recca-latino",
+                                "title": "Rekka no Honoo Español Latino",
                                 "description": "",
-                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/rekishi-ni-nokoru-akujo-ni-naru-zo-cover-hvc.jpg"
+                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/rekka-no-honoo-espanol-latino-cover-rgh.jpg"
                             },
                             {
                                 "url": "/anime/1681/tying-the-knot-with-an-amagami-sister-latino",
@@ -203,16 +197,28 @@
                                 "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/amagami-san-chi-no-enmusubi-espanol-latino-cover-l0v.jpg"
                             },
                             {
-                                "url": "/anime/1616/flame-of-recca-latino",
-                                "title": "Rekka no Honoo Español Latino",
+                                "url": "/anime/1670/tying-the-knot-with-an-amagami-sister",
+                                "title": "Amagami-san Chi no Enmusubi",
                                 "description": "",
-                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/rekka-no-honoo-espanol-latino-cover-rgh.jpg"
+                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/amagami-san-chi-no-enmusubi-cover-ms0.jpg"
+                            },
+                            {
+                                "url": "/anime/1641/11eyes-latino",
+                                "title": "11eyes Español Latino",
+                                "description": "",
+                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/11eyes-espanol-latino-cover-vqz.jpg"
                             },
                             {
                                 "url": "/anime/1055/jue-shi-wu-hun",
                                 "title": "A Paragon of Wuhun",
                                 "description": "",
                                 "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/a-paragon-of-wuhun-cover-rsv.jpg"
+                            },
+                            {
+                                "url": "/anime/1533/boruto-castellano",
+                                "title": "Boruto: Naruto Next Generations Castellano",
+                                "description": "",
+                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/boruto-naruto-next-generations-castellano-cover-gbg.jpg"
                             },
                             {
                                 "url": "/anime/1082/ni-tian-zhizun",
@@ -225,12 +231,6 @@
                                 "title": "Youkai Gakkou no Sensei Hajimemashita!",
                                 "description": "",
                                 "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/youkai-gakkou-no-sensei-hajimemashita-cover-sbr.jpg"
-                            },
-                            {
-                                "url": "/anime/1670/tying-the-knot-with-an-amagami-sister",
-                                "title": "Amagami-san Chi no Enmusubi",
-                                "description": "",
-                                "thumbnail_url": "https://www.anime-jl.net/storage/animes_tumbl/amagami-san-chi-no-enmusubi-cover-ms0.jpg"
                             },
                             {
                                 "url": "/anime/344/majo-no-tabitabi-espanol-latino",
@@ -493,8 +493,50 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/12769/80ugndii156j_,n,.urlset/index-v1-a1.m3u8?t=Gs01LHiAD-8D-7cvRsfSXYZI8zmDTjG7PhTsS-DORWE&s=1733227676&e=14400&f=63845618&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=52.237&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/12769/80ugndii156j_,n,.urlset/index-v1-a1.m3u8?t=Gs01LHiAD-8D-7cvRsfSXYZI8zmDTjG7PhTsS-DORWE&s=1733227676&e=14400&f=63845618&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=52.237&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/12769/80ugndii156j_,n,.urlset/index-v1-a1.m3u8?t=loyjtzQdje_PmldMTfhY5KsinUV4vvv3h3FB3ghb4Og&s=1733227728&e=14400&f=63845627&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=52.237&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/12769/80ugndii156j_,n,.urlset/index-v1-a1.m3u8?t=loyjtzQdje_PmldMTfhY5KsinUV4vvv3h3FB3ghb4Og&s=1733227728&e=14400&f=63845627&node=delivery-node-mdmqn5yuy7gitjar.voe-network.net&i=52.237&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkx2tgulz3b4quuoqgraunisjrnoaaphldpkyyrgjgbkbp5gmzjioicxuu5bchu2hmxgdd7w/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx2tgulz3b4quuoqgraunisjrnoaaphldpkyyrgjgbkbp5gmzjioicxuu5bchu2hmxgdd7w/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m10.uqload.net/3rfkzyna4bw2q4drdka7vm5oadljr6smgdfnby6bu6lix3gjfpg2psxbmthq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m10.uqload.net/3rfkzyna4bw2q4drdka7vm5oadljr6smgdfnby6bu6lix3gjfpg2psxbmthq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://m90.uqload.net/3rfkz75a4bw2q4drdka7vl5ybgmg4fq7pji4pfwvfza23y3nvpmqjkfhrikq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m90.uqload.net/3rfkz75a4bw2q4drdka7vl5ybgmg4fq7pji4pfwvfza23y3nvpmqjkfhrikq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

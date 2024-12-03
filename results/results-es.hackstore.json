@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/filadelfia-1993/",
+                                "title": "Filadelfia (1993)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/x3SQfjiXBhZ7o0Drt2YV9Icc2C2.jpg"
+                            },
+                            {
                                 "url": "/peliculas/maria-antonieta-2006/",
                                 "title": "María Antonieta (2006)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Tinker Bell y el Secreto de las Hadas (2012)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/oE0c6Je5M6Zj5UD73ms9IzAfCkN.jpg"
-                            },
-                            {
-                                "url": "/peliculas/tour-de-pharmacy-2017/",
-                                "title": "Tour de Pharmacy (2017)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4KIkAlyrmnYrzFszxUxrV3LtJ6u.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/maria-antonieta-2006/",
-                    "title": "María Antonieta (2006)",
-                    "artist": "Kirsten Dunst",
-                    "author": "Sofia Coppola",
-                    "description": "La historia de la famosa María Antonieta, desde su compromiso con Luis XVI a los quince años, su reinado a los diecinueve y su trágico final.",
-                    "genre": "Drama, Historia",
+                    "url": "/peliculas/filadelfia-1993/",
+                    "title": "Filadelfia (1993)",
+                    "artist": "Tom Hanks",
+                    "author": "Jonathan Demme",
+                    "description": "Andrew Beckett, un joven y prometedor abogado de Philadelphia, es despedido del prestigioso bufete en el que trabaja cuando sus jefes se enteran de que ha contraído el sida. Decide entonces demandar a la empresa por despido improcedente, pero en un principio ningún abogado acepta defender su caso.",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/tbOUqNXg3FpQTDexgZZ6OFQSakA.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/x3SQfjiXBhZ7o0Drt2YV9Icc2C2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/maria-antonieta-2006/",
+                        "url": "/peliculas/filadelfia-1993/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/12911/v3pzl6pf1u7p_,n,.urlset/index-v1-a1.m3u8?t=-OHur4bC2BvJ2NVsvwGoAlC9FNQlrCfDRwU1aExTovA&s=1733227756&e=14400&f=64559968&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.49&sp=2500&asn=8075",
+                        "url": "https://delivery-node-p7xh0or5dp3h6tfm.voe-network.net/engine/hls2/01/12915/fdd6ursxwbvl_,n,.urlset/index-v1-a1.m3u8?t=GXDPO47CuzGl3vw86drn0yQSARwH0T1-ObXRaw5pAt0&s=1733249241&e=14400&f=64578908&node=delivery-node-p7xh0or5dp3h6tfm.voe-network.net&i=20.161&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/12911/v3pzl6pf1u7p_,n,.urlset/index-v1-a1.m3u8?t=-OHur4bC2BvJ2NVsvwGoAlC9FNQlrCfDRwU1aExTovA&s=1733227756&e=14400&f=64559968&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.49&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-p7xh0or5dp3h6tfm.voe-network.net/engine/hls2/01/12915/fdd6ursxwbvl_,n,.urlset/index-v1-a1.m3u8?t=GXDPO47CuzGl3vw86drn0yQSARwH0T1-ObXRaw5pAt0&s=1733249241&e=14400&f=64578908&node=delivery-node-p7xh0or5dp3h6tfm.voe-network.net&i=20.161&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

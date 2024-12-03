@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/maria-antonieta-2006/",
+                                "title": "María Antonieta (2006)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tbOUqNXg3FpQTDexgZZ6OFQSakA.jpg"
+                            },
+                            {
                                 "url": "/peliculas/chicas-pesadas-2004/",
                                 "title": "Chicas Pesadas (2004)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Tour de Pharmacy (2017)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/4KIkAlyrmnYrzFszxUxrV3LtJ6u.jpg"
-                            },
-                            {
-                                "url": "/peliculas/pedro-paramo-2024/",
-                                "title": "Pedro Páramo (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/AeeqpYGfMr4dpepzrwfYTo22aDy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/chicas-pesadas-2004/",
-                    "title": "Chicas Pesadas (2004)",
-                    "artist": "Amanda Seyfried",
-                    "author": "Andrew Shea",
-                    "description": "Una joven adolescente, Cady (Lindsay Lohan), acostumbrada a vivir en África con sus padres zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio (Rachel McAdams). Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
-                    "genre": "Comedia, Drama",
+                    "url": "/peliculas/maria-antonieta-2006/",
+                    "title": "María Antonieta (2006)",
+                    "artist": "Kirsten Dunst",
+                    "author": "Sofia Coppola",
+                    "description": "La historia de la famosa María Antonieta, desde su compromiso con Luis XVI a los quince años, su reinado a los diecinueve y su trágico final.",
+                    "genre": "Drama, Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/ox7Ted0SMEc9TBJNQdogQm8I8NH.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/tbOUqNXg3FpQTDexgZZ6OFQSakA.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/chicas-pesadas-2004/",
+                        "url": "/peliculas/maria-antonieta-2006/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-uklbktlpw7vvojxk.voe-network.net/engine/hls2-c/01/12911/klxkej7wqtz3_,n,.urlset/index-v1-a1.m3u8?t=Q7d-dFS7gXpffIxCU00EPd5ev1WVvFgusLk14DQAy5w&s=1733185177&e=14400&f=64556756&node=delivery-node-hed8bmrmydbllaqt.voe-network.net&i=13.83&sp=2500&asn=8075",
+                        "url": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/12911/v3pzl6pf1u7p_,n,.urlset/index-v1-a1.m3u8?t=JG0_liXAxKU9C-_BobGhNhyiwDdjW9Bu2Woo3M0tRKo&s=1733206090&e=14400&f=64559968&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-uklbktlpw7vvojxk.voe-network.net/engine/hls2-c/01/12911/klxkej7wqtz3_,n,.urlset/index-v1-a1.m3u8?t=Q7d-dFS7gXpffIxCU00EPd5ev1WVvFgusLk14DQAy5w&s=1733185177&e=14400&f=64556756&node=delivery-node-hed8bmrmydbllaqt.voe-network.net&i=13.83&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/12911/v3pzl6pf1u7p_,n,.urlset/index-v1-a1.m3u8?t=JG0_liXAxKU9C-_BobGhNhyiwDdjW9Bu2Woo3M0tRKo&s=1733206090&e=14400&f=64559968&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=172.190&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

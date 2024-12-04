@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/before/",
+                                "title": "Before",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/ver-pelicula/la-hermana-de-nieve/",
                                 "title": "La hermana de nieve",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//2Ct65EWmZeE0Fd32YDRDN89d57W.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/sweethearts/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/conclave/",
                                 "title": "Cónclave",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//ftIJ42zwuFvUFVEWZQbFq1vcV5U.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/nuestro-secretito/",
-                                "title": "Nuestro Secretito",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-serie/before/",
+                                "title": "Before",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//AeoPVoc7Ojq7zZ6bujJCZFeKhDM.jpg"
+                            },
                             {
                                 "url": "/ver-pelicula/la-hermana-de-nieve/",
                                 "title": "La hermana de nieve",
@@ -145,11 +150,6 @@
                                 "url": "/ver-pelicula/pedro-paramo/",
                                 "title": "Pedro Páramo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//AeeqpYGfMr4dpepzrwfYTo22aDy.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/landman-un-negocio-crudo/",
-                                "title": "Landman: Un negocio crudo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,11 +199,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/la-hermana-de-nieve/",
-                    "artist": "Advika",
-                    "description": "Se acerca la Nochebuena y Julian cumplirá 11 años. Solía ser el mejor día del año, con el aroma de las galletas de jengibre y las mandarinas, el chisporroteo del fuego en la chimenea, el árbol de Navidad cubierto de adornos y la luz de las velas. Pero este año todo ha cambiado. La familia llora la muerte de su hermana mayor, y Julian siente que las fiestas se han cancelado. Hasta que conoce a Hedwig, una niña que adora la Navidad, y empieza a creer que al final es posible que la celebren. Pero la casa de Hedwig es muy rara. ¿Y quién es el anciano que los espía todo el rato?   ",
-                    "genre": "Aventura, Drama, Familia, Fantasía",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//2Ct65EWmZeE0Fd32YDRDN89d57W.jpg",
+                    "url": "/ver-serie/before/",
+                    "artist": "Ava Lalezarzadeh",
+                    "author": "Sarah Thorp",
+                    "description": "Tras perder a su esposa trágicamente, un psiquiatra infantil se encuentra con un niño perturbado que parece tener una conexión inquietante con su pasado.   ",
+                    "genre": "Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//AeoPVoc7Ojq7zZ6bujJCZFeKhDM.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -211,9 +212,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/la-hermana-de-nieve/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/before-1x7/",
+                        "name": "T1 - E7 - El poder de creer",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/before-1x6/",
+                        "name": "T1 - E6 - Sueño febril",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -221,52 +227,58 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-afjl2rvlvzfzwm6y.voe-network.net/engine/hls2-c/01/12890/lp3kmaxbrtw0_,n,l,.urlset/index-f1-v1-a1.m3u8?t=PwwpMDW7P_o8fXPmqGG-oVAc8IZSjB_kkhs_QpZh2jg&s=1733249275&e=14400&f=64452179&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "url": "https://delivery-node-5eea25ahhdth8moz.voe-network.net/engine/hls2-c/01/12881/6tsunx6czal1_,n,l,.urlset/index-f1-v1-a1.m3u8?t=TBdKhp59Nf0ivVCmADGzbsKTwJ-j9WUcsZaiX0LxOU4&s=1733271559&e=14400&f=64409430&node=delivery-node-7iwvgty8fuaq18it.voe-network.net&i=52.225&sp=2500&asn=8075",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-afjl2rvlvzfzwm6y.voe-network.net/engine/hls2-c/01/12890/lp3kmaxbrtw0_,n,l,.urlset/index-f1-v1-a1.m3u8?t=PwwpMDW7P_o8fXPmqGG-oVAc8IZSjB_kkhs_QpZh2jg&s=1733249275&e=14400&f=64452179&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-5eea25ahhdth8moz.voe-network.net/engine/hls2-c/01/12881/6tsunx6czal1_,n,l,.urlset/index-f1-v1-a1.m3u8?t=TBdKhp59Nf0ivVCmADGzbsKTwJ-j9WUcsZaiX0LxOU4&s=1733271559&e=14400&f=64409430&node=delivery-node-7iwvgty8fuaq18it.voe-network.net&i=52.225&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://delivery-node-afjl2rvlvzfzwm6y.voe-network.net/engine/hls2-c/01/12890/lp3kmaxbrtw0_,n,l,.urlset/index-f2-v1-a1.m3u8?t=PwwpMDW7P_o8fXPmqGG-oVAc8IZSjB_kkhs_QpZh2jg&s=1733249275&e=14400&f=64452179&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "url": "https://delivery-node-5eea25ahhdth8moz.voe-network.net/engine/hls2-c/01/12881/6tsunx6czal1_,n,l,.urlset/index-f2-v1-a1.m3u8?t=TBdKhp59Nf0ivVCmADGzbsKTwJ-j9WUcsZaiX0LxOU4&s=1733271559&e=14400&f=64409430&node=delivery-node-7iwvgty8fuaq18it.voe-network.net&i=52.225&sp=2500&asn=8075",
                         "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-afjl2rvlvzfzwm6y.voe-network.net/engine/hls2-c/01/12890/lp3kmaxbrtw0_,n,l,.urlset/index-f2-v1-a1.m3u8?t=PwwpMDW7P_o8fXPmqGG-oVAc8IZSjB_kkhs_QpZh2jg&s=1733249275&e=14400&f=64452179&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=20.81&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-5eea25ahhdth8moz.voe-network.net/engine/hls2-c/01/12881/6tsunx6czal1_,n,l,.urlset/index-f2-v1-a1.m3u8?t=TBdKhp59Nf0ivVCmADGzbsKTwJ-j9WUcsZaiX0LxOU4&s=1733271559&e=14400&f=64409430&node=delivery-node-7iwvgty8fuaq18it.voe-network.net&i=52.225&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gwzYmu6jbCCqSFwFLlAKPZbd2qMN82OT-YJUwW-DToI&s=1733249275&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "url": "https://n94cju2g34sg.cdn-centaurus.com/hls2/01/06496/4j0iuqv0abcy_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Dkh6OL_V2-RB8Dpko2bkmRkthjdhZORicjPskTU21hg&s=1733271558&e=129600&f=32480338&srv=ogry5xthqrpf&i=0.4&sp=500&p1=ogry5xthqrpf&p2=ogry5xthqrpf&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://n94cju2g34sg.cdn-centaurus.com/hls2/01/06496/4j0iuqv0abcy_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Dkh6OL_V2-RB8Dpko2bkmRkthjdhZORicjPskTU21hg&s=1733271558&e=129600&f=32480338&srv=ogry5xthqrpf&i=0.4&sp=500&p1=ogry5xthqrpf&p2=ogry5xthqrpf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/4j0iuqv0abcy"
+                        }
+                    },
+                    {
+                        "url": "https://n94cju2g34sg.cdn-centaurus.com/hls2/01/06496/4j0iuqv0abcy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Dkh6OL_V2-RB8Dpko2bkmRkthjdhZORicjPskTU21hg&s=1733271558&e=129600&f=32480338&srv=ogry5xthqrpf&i=0.4&sp=500&p1=ogry5xthqrpf&p2=ogry5xthqrpf&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gwzYmu6jbCCqSFwFLlAKPZbd2qMN82OT-YJUwW-DToI&s=1733249275&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "videoUrl": "https://n94cju2g34sg.cdn-centaurus.com/hls2/01/06496/4j0iuqv0abcy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Dkh6OL_V2-RB8Dpko2bkmRkthjdhZORicjPskTU21hg&s=1733271558&e=129600&f=32480338&srv=ogry5xthqrpf&i=0.4&sp=500&p1=ogry5xthqrpf&p2=ogry5xthqrpf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/2pfejcru0g04"
+                            "Referer": "https://hlswish.com/e/4j0iuqv0abcy"
                         }
                     },
                     {
-                        "url": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f1-v1-a1.m3u8?t=gwzYmu6jbCCqSFwFLlAKPZbd2qMN82OT-YJUwW-DToI&s=1733249275&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "url": "https://n94cju2g34sg.cdn-centaurus.com/hls2/01/06496/4j0iuqv0abcy_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Dkh6OL_V2-RB8Dpko2bkmRkthjdhZORicjPskTU21hg&s=1733271558&e=129600&f=32480338&srv=ogry5xthqrpf&i=0.4&sp=500&p1=ogry5xthqrpf&p2=ogry5xthqrpf&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://v1twzbljz9.cdn-centaurus.com/hls2/01/06551/2pfejcru0g04_,l,n,.urlset/index-f1-v1-a1.m3u8?t=gwzYmu6jbCCqSFwFLlAKPZbd2qMN82OT-YJUwW-DToI&s=1733249275&e=129600&f=32755961&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=8075",
+                        "videoUrl": "https://n94cju2g34sg.cdn-centaurus.com/hls2/01/06496/4j0iuqv0abcy_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Dkh6OL_V2-RB8Dpko2bkmRkthjdhZORicjPskTU21hg&s=1733271558&e=129600&f=32480338&srv=ogry5xthqrpf&i=0.4&sp=500&p1=ogry5xthqrpf&p2=ogry5xthqrpf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/2pfejcru0g04"
+                            "Referer": "https://hlswish.com/e/4j0iuqv0abcy"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Jyyo1q7MP3TrLo&expires=1733319263&ip=FROsFxWnDS9X&token=_R5Cnx9o4QiL",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Jyyo1q7MP3TrLo&expires=1733319263&ip=FROsFxWnDS9X&token=_R5Cnx9o4QiL"
-                    },
-                    {
-                        "url": "https://s1.goodstream.one/vtt/02/00010/3l89ma3yorne_sli.vtt",
+                        "url": "https://s1.goodstream.one/vtt/02/00009/9d6elzvwxscu_sli.vtt",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00010/3l89ma3yorne_sli.vtt",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00009/9d6elzvwxscu_sli.vtt",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
                         }

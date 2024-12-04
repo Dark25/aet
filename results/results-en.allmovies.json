@@ -3,34 +3,23 @@
         "name": "AllMoviesForYou (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
                 "passed": false
             }
         }

@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/amagami-san-chi-no-enmusubi-dublado/",
+                                "title": "Amagami-san Chi no Enmusubi Dublado",
+                                "thumbnail_url": "https://i3.wp.com/rine.cloud/wp-content/uploads/2024/10/1729630794-9078-143586.jpg"
+                            },
+                            {
                                 "url": "/anime/owari-no-seraph-nagoya-kessen-hen/",
                                 "title": "Owari no Seraph: Nagoya Kessen-hen",
                                 "thumbnail_url": "https://i0.wp.com/rine.cloud/wp-content/uploads/2024/12/1733268037-4926-76632.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3/",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou 3",
                                 "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/10/1728951011-4593-145597.jpg"
-                            },
-                            {
-                                "url": "/anime/kamonohashi-ron-no-kindan-suiri-2/",
-                                "title": "Kamonohashi Ron no Kindan Suiri 2",
-                                "thumbnail_url": "https://i1.wp.com/rine.cloud/wp-content/uploads/2024/10/1728343193-4029-144334.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -263,8 +263,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1733364553&ei=yZpQZ5neN4SEzLUPu-XqyAY&ip=172.70.39.110&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1733335753,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1733335272&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgYnnLmpWWQtRjO76QXxVNl6BhKCgeA55b_DiL6NRN4jsCIQDjC6TkEoMWELl0ElE0svVlP7jdNLLhCRDyib5wVFyrLg%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgcm0XgWxH2IeuM96Oeet5O8eD3vtdJfdbgfL5UgJDQTECIDKmvb8yeppNVBXIzf3am3dgnx4gEGpF7Jj-hvCBvly_",
+                        "quality": "Rinecloud - 720p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1733364553&ei=yZpQZ5neN4SEzLUPu-XqyAY&ip=172.70.39.110&id=e52945ffb1ad473c&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1733335753,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289918013581&mt=1733335272&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgYnnLmpWWQtRjO76QXxVNl6BhKCgeA55b_DiL6NRN4jsCIQDjC6TkEoMWELl0ElE0svVlP7jdNLLhCRDyib5wVFyrLg%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgcm0XgWxH2IeuM96Oeet5O8eD3vtdJfdbgfL5UgJDQTECIDKmvb8yeppNVBXIzf3am3dgnx4gEGpF7Jj-hvCBvly_",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://redirector.googlevideo.com/videoplayback?expire=1733364553&ei=yZpQZ5neN4SEzLUPu-XqyAY&ip=172.70.39.110&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1733335753,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1733335272&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAJP6iQrSNHqQpCKgEYNT4eyminbcHlnjAg3RG0FfXxDWAiArWUyk5OTaUiTBD62LL18hPRNxX_d59OQqtEXjNaEp7w%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgcvkMEMfOXLTgO0-fJU29Ysmbw3mwlpl4nWdCAeYFBjQCIBnzPIthS07DwnUfzyCFk_Aa3PWzwttuErhEVUWCytJ-",
+                        "quality": "Rinecloud - 360p",
+                        "videoUrl": "https://redirector.googlevideo.com/videoplayback?expire=1733364553&ei=yZpQZ5neN4SEzLUPu-XqyAY&ip=172.70.39.110&id=e52945ffb1ad473c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1733335753,&mh=Rb&mm=31&mn=sn-p5qs7nzr&ms=au&mv=m&mvi=3&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1443.584&lmt=1680289800321124&mt=1733335272&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAJP6iQrSNHqQpCKgEYNT4eyminbcHlnjAg3RG0FfXxDWAiArWUyk5OTaUiTBD62LL18hPRNxX_d59OQqtEXjNaEp7w%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgcvkMEMfOXLTgO0-fJU29Ysmbw3mwlpl4nWdCAeYFBjQCIBnzPIthS07DwnUfzyCFk_Aa3PWzwttuErhEVUWCytJ-",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://rine.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

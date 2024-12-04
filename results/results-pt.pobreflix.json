@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/nao-solte/",
+                                "title": "Não Solte!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg"
+                            },
+                            {
                                 "url": "/filmes/moana-2/",
                                 "title": "Moana 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/venom-a-ultima-rodada/",
                                 "title": "Venom: A Última Rodada",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg"
-                            },
-                            {
-                                "url": "/filmes/sorria-2/",
-                                "title": "Sorria 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dQ3irvpgixv34eQNn6RWal8B4Cx.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,26 @@
                                 "url": "/series/the-boys/",
                                 "title": "The Boys",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+                            },
+                            {
+                                "url": "/series/a-agencia/",
+                                "title": "A Agência",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mRgfl4J0tVt3twmQ3C2zs8N5rG9.jpg"
+                            },
+                            {
+                                "url": "/series/the-trunk/",
+                                "title": "The Trunk",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/s0hxhkL7zet7yAIdnqglbITiB86.jpg"
+                            },
+                            {
+                                "url": "/series/asaf/",
+                                "title": "Asaf",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg"
+                            },
+                            {
+                                "url": "/series/irracional/",
+                                "title": "Irracional",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pPNjfBEmBOMYObd7gBHAlmh3aJR.jpg"
                             },
                             {
                                 "url": "/series/senna/",
@@ -265,26 +285,6 @@
                                 "url": "/series/fallen-luz-e-sombra/",
                                 "title": "Fallen: Luz e Sombra",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/knBBKw0h8h8dYWSDfYO3NqJAjtg.jpg"
-                            },
-                            {
-                                "url": "/series/rivais/",
-                                "title": "Rivais",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4LvrTxYZawOH98LztRc5B3m07Bn.jpg"
-                            },
-                            {
-                                "url": "/series/roller-jam/",
-                                "title": "Roller Jam",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/A15hPgB2Tqv94S8bsCSqcCaQHgc.jpg"
-                            },
-                            {
-                                "url": "/series/the-office/",
-                                "title": "The Office",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wVS8a4sJmD9sP4NOo6qr4PTnlF9.jpg"
-                            },
-                            {
-                                "url": "/series/teacup/",
-                                "title": "Teacup",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cP5zuQvWAFrgWptS0iXvDI3iND.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/moana-2/",
-                    "title": "Moana 2",
-                    "description": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.\n\nTítulo Original: Moana 2",
-                    "genre": "Animação, Aventura, Comédia, Família",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
+                    "url": "/filmes/nao-solte/",
+                    "title": "Não Solte!",
+                    "description": "Uma ameaça sobrenatural desconhecida domina o mundo exterior, deixando a segurança de uma mãe e seus filhos gêmeos restrita à proteção de sua casa e ao vínculo familiar. A mãe e seus filhos se mantêm ligados por cordas dentro de sua residência para protegerem-se do mal que assola o mundo exterior. No entanto, quando um dos meninos começa a questionar a realidade do mal que os cercam, a frágil segurança da família começa a se desintegrar.\n\nTítulo Original: Never Let Go",
+                    "genre": "Drama, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/moana-2/",
+                        "url": "/filmes/nao-solte/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }
@@ -476,9 +476,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXFpeUpWektHbWUyMWZ3YnNHSHdpY0UzelQyTXZqblhpVUMxSEhQVUlnOFE%3D",
-                        "quality": "[Dublado] BrBeast - 720p",
-                        "videoUrl": "https://brbeast.com/hls/MXJSYmphVURFazVWTWF3L0lJVFlURzhiTmp3eStQYjVuYnFKanZaTUhkcGkxSVRvVUNNMEN0b2Y3WDBBQjFhMW9pbkppNitVQWowbUlrY3hDNEVYNVlzOWhtMDgxVEdtWnIrZlUrdjh1QXBIalB0QWNrYkk5R1lkaDZmeWE0R3FYT0JQdXRzUU5DcWVxMTNwNDdvMXdwdUxlKzJSYnp4ay83RUJrUzUvQ0VmdkNTUDd3T2Z2RG8xZDJwRUhGN2xJbXFzUUxpTnpzQ1hwclZpMG84cnlVNkFjTVJpelFwd1B6YVBEZk1jbnZOSlJHaXRlUmRqL2c1ZTcvTkNXWE5yZ1dDUkRjUm1ET0xONmdJdFZaZVFHMXFpeUpWektHbWUyMWZ3YnNHSHdpY0UzelQyTXZqblhpVUMxSEhQVUlnOFE%3D",
+                        "url": "https://brbeast.com/hls/QjQ2dWo5cWk2NVlxN05XWkw4bk4zWjFnc3d0RjBDVWFKaWIyZk1aRGhhdnloNS82SGRja2RrSEhVKzhSdkZiUVNmQkZkV2RESWk2MmJSZWtMZjJkQk5pZDVzZXU2d1ZERjQrM2g0QW10YlYzM29SN253Ym1lYThJN1d6aDBsY0tNY2ZNTHA1TTkvOURqK2luWm4rUXA3WHBHa1ZqOXVDdzQ1NkhESkxPNnFrUFhTZDhldzB6cURnV1ZuOGpoZm9ZWTVxVDBlWmF5bkJrRk5uS2VVUW1yNU83UVRjUEVxdzdBdEhXZTU3ZllxS3FYdXU2QXUvQkZuY1Ezb0NQa3VWMkE3RkIxOGhrUzhqWWYwTmlET2JhQk9qRitzVUR2Y0xWbjN5aktMRmJGWDlpM0JMRWgzc2dGNHZsOEVXSFhxZ3I%3D",
+                        "quality": "[Selecione um Áudio e Servidor Dublado Legendado] BrBeast - 720p",
+                        "videoUrl": "https://brbeast.com/hls/QjQ2dWo5cWk2NVlxN05XWkw4bk4zWjFnc3d0RjBDVWFKaWIyZk1aRGhhdnloNS82SGRja2RrSEhVKzhSdkZiUVNmQkZkV2RESWk2MmJSZWtMZjJkQk5pZDVzZXU2d1ZERjQrM2g0QW10YlYzM29SN253Ym1lYThJN1d6aDBsY0tNY2ZNTHA1TTkvOURqK2luWm4rUXA3WHBHa1ZqOXVDdzQ1NkhESkxPNnFrUFhTZDhldzB6cURnV1ZuOGpoZm9ZWTVxVDBlWmF5bkJrRk5uS2VVUW1yNU83UVRjUEVxdzdBdEhXZTU3ZllxS3FYdXU2QXUvQkZuY1Ezb0NQa3VWMkE3RkIxOGhrUzhqWWYwTmlET2JhQk9qRitzVUR2Y0xWbjN5aktMRmJGWDlpM0JMRWgzc2dGNHZsOEVXSFhxZ3I%3D",
                         "headers": {
                             "Referer": "https://brbeast.com",
                             "Origin": "https://brbeast.com",

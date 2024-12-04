@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/rascal-does-not-dream-of-bunny-girl-senpai",
+                                "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933808.jpg"
+                            },
+                            {
                                 "url": "/anime/mutant-league-1994",
                                 "title": "Mutant League (1994)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/invincible-fight-girl",
                                 "title": "Invincible Fight Girl",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933790.jpg"
-                            },
-                            {
-                                "url": "/anime/american-dad-season-21",
-                                "title": "American Dad! Season 21",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933788.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mutant-league-1994",
-                    "title": "Mutant League (1994)",
-                    "description": "They’re pumped up mutant athletes and they’re ready to rumble on the playing field! These hunks of bone and muscle were mutated by toxic gas unleashed in a massive earthquake. Demonstrating total unsportsmanlike conduct, along with super strength, sonic speed and unusual abilities, they battle in a variety of games for the ultimate trophy – the Mutant League Championship! Sports will never be the same.",
-                    "genre": "Action, Animation, Horror, Sci-fi, Sports, Thriller, Thriller, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg",
+                    "url": "/anime/rascal-does-not-dream-of-bunny-girl-senpai",
+                    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+                    "description": "The rare and inexplicable Puberty Syndrome is thought of as a myth. It is a rare disease which only affects teenagers, and its symptoms are so supernatural that hardly anyone recognizes it as a legitimate occurrence. However, high school student Sakuta Azusagawa knows from personal experience that it is very much real, and happens to be quite prevalent in his school.",
+                    "genre": "Drama, Romance, Supernatural, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933808.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mutant-league-1994-season-2-episode-27-the-hall-of-pain-awards",
-                        "name": "Season 2 - Episode 27",
-                        "episode_number": 127.0
-                    },
-                    {
-                        "url": "/mutant-league-1994-season-2-episode-26-sudden-death",
-                        "name": "Season 2 - Episode 26",
-                        "episode_number": 126.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKk5AnwboQfjbxX1Hlk4YupIvhU-IgWfVvpTj8jdEBrntoRFYML9SVQlnc9o7CnOISppESLFzsdxtUzmvzCIqVfOKXCURLbs_38Hft1SnkdK_KLBpBEN7dT9b-8dRQ7rsX3-1OiAsAEUqv9GixEk-srz_H6vUIsYqSgn0NQh8f8fc74mISIv2wgWnbxz8gcwkx51icLT-KDBX0qQTOyTe8DjsxRLFBL3FguDEHBqpJwpzw27p2ocS8qolzkLw8rJ5mA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKk5AnwboQfjbxX1Hlk4YupIvhU-IgWfVvpTj8jdEBrntoRFYML9SVQlnc9o7CnOISppESLFzsdxtUzmvzCIqVfOKXCURLbs_38Hft1SnkdK_KLBpBEN7dT9b-8dRQ7rsX3-1OiAsAEUqv9GixEk-srz_H6vUIsYqSgn0NQh8f8fc74mISIv2wgWnbxz8gcwkx51icLT-KDBX0qQTOyTe8DjsxRLFBL3FguDEHBqpJwpzw27p2ocS8qolzkLw8rJ5mA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKm5UgGfY9-uvgSNK77PDkjog3kLEcCpcOdTwkcF4zjqpS2UtqZ3ARD8tJjb-RhnYCkTD74cEnuvD0FupRAnKPq-dp0Phwhrt5B8X0fwKqAIsDdNBWxnHELENlrDkmkBP0bsMAO06N2gfd6-r7mqHAWmHt0JZ4V89rDgHJsq_QAXSaKxi_QnYLEWRncBRQqBaufL4O1uYwzG7qUSTYFiwZRwVDLZ6OqyVZMydmtmlzLEor1YTL3_I-rLO04qd4iyQZ7ttyHG3BBmIP1_n-HeM70i",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKm5UgGfY9-uvgSNK77PDkjog3kLEcCpcOdTwkcF4zjqpS2UtqZ3ARD8tJjb-RhnYCkTD74cEnuvD0FupRAnKPq-dp0Phwhrt5B8X0fwKqAIsDdNBWxnHELENlrDkmkBP0bsMAO06N2gfd6-r7mqHAWmHt0JZ4V89rDgHJsq_QAXSaKxi_QnYLEWRncBRQqBaufL4O1uYwzG7qUSTYFiwZRwVDLZ6OqyVZMydmtmlzLEor1YTL3_I-rLO04qd4iyQZ7ttyHG3BBmIP1_n-HeM70i"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKmFIJrnAkbKvV1nuTzLvxUq0V9hTB4gIIC3JgCspMT1NTRHZWKn6fP1TMmjdEWAR7LeLa6kwLn9LCExMq6GCi8VwBfGaQMxZt4r6RQC0VGfaMK1QUzcaCu_0uTr8g0JqzgNVTp92U-XaM9LLWdOZNQmP671uO_PpqJ-VDtAg96pV3HRNbPwmVXfTtfHATtl9WounDZlg0_R-nyYzdI12eyCO_9Nw-rsqM0nigiFORgvJgolih_um0j5D1l4kV0k_E4",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKmFIJrnAkbKvV1nuTzLvxUq0V9hTB4gIIC3JgCspMT1NTRHZWKn6fP1TMmjdEWAR7LeLa6kwLn9LCExMq6GCi8VwBfGaQMxZt4r6RQC0VGfaMK1QUzcaCu_0uTr8g0JqzgNVTp92U-XaM9LLWdOZNQmP671uO_PpqJ-VDtAg96pV3HRNbPwmVXfTtfHATtl9WounDZlg0_R-nyYzdI12eyCO_9Nw-rsqM0nigiFORgvJgolih_um0j5D1l4kV0k_E4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

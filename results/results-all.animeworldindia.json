@@ -23,7 +23,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
@@ -32,7 +32,7 @@
         "name": "AnimeWorld India (BN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
@@ -40,11 +40,11 @@
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
@@ -81,7 +81,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
@@ -94,11 +94,11 @@
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
@@ -135,11 +135,11 @@
                 "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
@@ -168,7 +168,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
@@ -206,7 +206,7 @@
         "name": "AnimeWorld India (TA)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
@@ -214,7 +214,7 @@
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
@@ -226,7 +226,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
@@ -239,7 +239,7 @@
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {

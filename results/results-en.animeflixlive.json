@@ -3,27 +3,27 @@
         "name": "Animeflix.live (EN)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: api.animeflix.dev: Name or service not known",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: api.animeflix.dev",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: api.animeflix.dev",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: api.animeflix.dev",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: api.animeflix.dev",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: api.animeflix.dev",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html data-adb.....",
                 "passed": false
             }
         }

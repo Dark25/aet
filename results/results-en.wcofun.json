@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/barbie-mysteries-the-great-horse-chase",
+                                "title": "Barbie Mysteries: The Great Horse Chase",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933810.jpg"
+                            },
+                            {
+                                "url": "/anime/mermaid-magic",
+                                "title": "Mermaid Magic",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933809.jpg"
+                            },
+                            {
                                 "url": "/anime/rascal-does-not-dream-of-bunny-girl-senpai",
                                 "title": "Rascal Does Not Dream of Bunny Girl Senpai",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933808.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/jurassic-world-chaos-theory",
                                 "title": "Jurassic World: Chaos Theory",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933792.jpg"
-                            },
-                            {
-                                "url": "/anime/duel-masters-lost-tsuioku-no-suishou",
-                                "title": "Duel Masters LOST: Tsuioku no Suishou",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933791.jpg"
-                            },
-                            {
-                                "url": "/anime/invincible-fight-girl",
-                                "title": "Invincible Fight Girl",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933790.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rascal-does-not-dream-of-bunny-girl-senpai",
-                    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-                    "description": "The rare and inexplicable Puberty Syndrome is thought of as a myth. It is a rare disease which only affects teenagers, and its symptoms are so supernatural that hardly anyone recognizes it as a legitimate occurrence. However, high school student Sakuta Azusagawa knows from personal experience that it is very much real, and happens to be quite prevalent in his school.",
-                    "genre": "Drama, Romance, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933808.jpg",
+                    "url": "/anime/barbie-mysteries-the-great-horse-chase",
+                    "title": "Barbie Mysteries: The Great Horse Chase",
+                    "description": "Barbie “Brooklyn” Roberts and Barbie “Malibu” Roberts embark on an adventure-packed journey across Europe to rescue two stolen horses.",
+                    "genre": "Adventure, Animation, Comedy, Family, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933810.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/barbie-mysteries-the-great-horse-chase-episode-8-jumping-to-conclusions",
+                        "name": "Season 1 - Episode 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/barbie-mysteries-the-great-horse-chase-episode-7-down-to-the-wire",
+                        "name": "Season 1 - Episode 7",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJptkoPZXSe4I-Qmi9xRqsqQf1O0e1DHX4L0hnX8Gi-NITu3qCox3lsyS5JBMbgsOcb6BWC1FD2xgG8RQxTj4ralzSsy0JfHH8_wXDqNXoMxMdcU0hqZ7S_xXeAR141pefyeOVwVCCTv-33Q0O0BPKu0ZcfVqquoBdJe7hWUi43FOZ5ugOOi4sk0aIDSVhUCPBtgve-tDpG1akLbTBjfOFStqbL0YxgGPuUwZTX__qKjMuR_JCOjmIyWd1KOKhRrgrW5yGiKKUNXQVJUjZWcwrpUxdKon3QV6paizaCHRf1-FrykkVO6clY_TO7a310hGELshrYyd3Mxpomy7R6PAK_vn5v9s_5JZt21CyIt_EOKE",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJptkoPZXSe4I-Qmi9xRqsqQf1O0e1DHX4L0hnX8Gi-NITu3qCox3lsyS5JBMbgsOcb6BWC1FD2xgG8RQxTj4ralzSsy0JfHH8_wXDqNXoMxMdcU0hqZ7S_xXeAR141pefyeOVwVCCTv-33Q0O0BPKu0ZcfVqquoBdJe7hWUi43FOZ5ugOOi4sk0aIDSVhUCPBtgve-tDpG1akLbTBjfOFStqbL0YxgGPuUwZTX__qKjMuR_JCOjmIyWd1KOKhRrgrW5yGiKKUNXQVJUjZWcwrpUxdKon3QV6paizaCHRf1-FrykkVO6clY_TO7a310hGELshrYyd3Mxpomy7R6PAK_vn5v9s_5JZt21CyIt_EOKE"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJptkoPZXSe4I-Qmi9xRqsqQf1O0e1DHX4L0hnX8Gi-NITu3qCox3lsyS5JBMbgsOcb6BWC1FD2xgG8RQxTj4ranyFXO7Fdj33-1E1XWONj0nGM1PlzhFS779RAETCm2-cqGe43RvBDdRWDJDIX2hiPfHkT5KjRS92MQH4f0Zt_ZD8I3PQKYKv5YEyMnMW-zHP-u9yrz1iGlzXdD6BvARYg6adq-8wCKW1uwdiBIgGWlQ4rdEnF4jCQhSrTHBO_cVatYLGorSIko0T08Bj6BEIlNL2OmfW3xFWqiuo60jEGo3GugrJif5Xy_-0_m7QYJ5qhKVZZCul6v3DpxhCx8pZfRUb7_qVSOBb0LosleCAQ75",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJptkoPZXSe4I-Qmi9xRqsqQf1O0e1DHX4L0hnX8Gi-NITu3qCox3lsyS5JBMbgsOcb6BWC1FD2xgG8RQxTj4ranyFXO7Fdj33-1E1XWONj0nGM1PlzhFS779RAETCm2-cqGe43RvBDdRWDJDIX2hiPfHkT5KjRS92MQH4f0Zt_ZD8I3PQKYKv5YEyMnMW-zHP-u9yrz1iGlzXdD6BvARYg6adq-8wCKW1uwdiBIgGWlQ4rdEnF4jCQhSrTHBO_cVatYLGorSIko0T08Bj6BEIlNL2OmfW3xFWqiuo60jEGo3GugrJif5Xy_-0_m7QYJ5qhKVZZCul6v3DpxhCx8pZfRUb7_qVSOBb0LosleCAQ75"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJptkoPZXSe4I-Qmi9xRqsqQf1O0e1DHX4L0hnX8Gi-NITu3qCox3lsyS5JBMbgsOcb6BWC1FD2xgG8RQxTj4rakRHalWhLq4qowIrBRh0TBYcLuhP0biGyN-nag6d_nchWEnYz70QIDw4CCEl9FTwg0eZqYgpLIlMkBQCcoJMkPf_yX7z3EYeaxkn8LSZPwSILuKU-v6lt5fNkKaebQT41F62hIKO_KHTUJHKYYsm4PHDExPD7pQhnr8iEAGkqRtvMnbarabuXF10cvQtSoZ4xWzZii7yLmt8NlBdBvD5nss1YVMe7-adjsjWfhGPeuAWEIXejMtZMTpw_SNf1HaNF0",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJptkoPZXSe4I-Qmi9xRqsqQf1O0e1DHX4L0hnX8Gi-NITu3qCox3lsyS5JBMbgsOcb6BWC1FD2xgG8RQxTj4rakRHalWhLq4qowIrBRh0TBYcLuhP0biGyN-nag6d_nchWEnYz70QIDw4CCEl9FTwg0eZqYgpLIlMkBQCcoJMkPf_yX7z3EYeaxkn8LSZPwSILuKU-v6lt5fNkKaebQT41F62hIKO_KHTUJHKYYsm4PHDExPD7pQhnr8iEAGkqRtvMnbarabuXF10cvQtSoZ4xWzZii7yLmt8NlBdBvD5nss1YVMe7-adjsjWfhGPeuAWEIXejMtZMTpw_SNf1HaNF0"
+                    }
+                ],
+                "passed": true
             }
         }
     }

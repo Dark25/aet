@@ -3,28 +3,491 @@
         "name": "Pobreflix (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filmes/nao-solte/",
+                                "title": "Não Solte!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg"
+                            },
+                            {
+                                "url": "/filmes/moana-2/",
+                                "title": "Moana 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg"
+                            },
+                            {
+                                "url": "/filmes/wicked/",
+                                "title": "Wicked",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
+                            },
+                            {
+                                "url": "/filmes/enfeiticados/",
+                                "title": "Enfeitiçados",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg"
+                            },
+                            {
+                                "url": "/series/duna-a-profecia/",
+                                "title": "Duna: A Profecia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg"
+                            },
+                            {
+                                "url": "/filmes/gladiador-ii/",
+                                "title": "Gladiador II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z1hNoGhH12ISnPzPqMOq1QLVGdu.jpg"
+                            },
+                            {
+                                "url": "/filmes/operacao-natal/",
+                                "title": "Operação Natal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vjwR2Wql9BIrwkKWyvDLSuFeDgE.jpg"
+                            },
+                            {
+                                "url": "/series/os-quatro-da-candelaria/",
+                                "title": "Os Quatro da Candelária",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qJ1JYXVuexmYHiyTSlB7PCZb6WQ.jpg"
+                            },
+                            {
+                                "url": "/series/agatha-desde-sempre/",
+                                "title": "Agatha Desde Sempre",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4TnWiIc9VFqX1HKU4HJ8vNWKHvX.jpg"
+                            },
+                            {
+                                "url": "/series/greys-anatomy/",
+                                "title": "Grey’s Anatomy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nDkcmSOgQTp7cDrMczPKCNa8SZQ.jpg"
+                            },
+                            {
+                                "url": "/series/the-walking-dead-daryl-dixon/",
+                                "title": "The Walking Dead: Daryl Dixon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iuorrLyDwiOOwsCeEwtCyMOZFh8.jpg"
+                            },
+                            {
+                                "url": "/filmes/venom-a-ultima-rodada/",
+                                "title": "Venom: A Última Rodada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/duna-a-profecia/",
+                                "title": "Duna: A Profecia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg"
+                            },
+                            {
+                                "url": "/series/os-quatro-da-candelaria/",
+                                "title": "Os Quatro da Candelária",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qJ1JYXVuexmYHiyTSlB7PCZb6WQ.jpg"
+                            },
+                            {
+                                "url": "/series/agatha-desde-sempre/",
+                                "title": "Agatha Desde Sempre",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4TnWiIc9VFqX1HKU4HJ8vNWKHvX.jpg"
+                            },
+                            {
+                                "url": "/series/greys-anatomy/",
+                                "title": "Grey’s Anatomy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nDkcmSOgQTp7cDrMczPKCNa8SZQ.jpg"
+                            },
+                            {
+                                "url": "/series/the-walking-dead-daryl-dixon/",
+                                "title": "The Walking Dead: Daryl Dixon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iuorrLyDwiOOwsCeEwtCyMOZFh8.jpg"
+                            },
+                            {
+                                "url": "/series/citadel-diana/",
+                                "title": "Citadel: Diana",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg"
+                            },
+                            {
+                                "url": "/series/cidade-de-deus-a-luta-nao-para/",
+                                "title": "Cidade de Deus: A Luta Não Para",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg"
+                            },
+                            {
+                                "url": "/series/o-senhor-dos-aneis-os-aneis-de-poder/",
+                                "title": "O Senhor dos Anéis: Os Anéis de Poder",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg"
+                            },
+                            {
+                                "url": "/series/a-casa-do-dragao/",
+                                "title": "A Casa do Dragão",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
+                            },
+                            {
+                                "url": "/series/cobra-kai/",
+                                "title": "Cobra Kai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            },
+                            {
+                                "url": "/series/la-brea/",
+                                "title": "La Brea",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg"
+                            },
+                            {
+                                "url": "/series/the-boys/",
+                                "title": "The Boys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+                            },
+                            {
+                                "url": "/series/a-agencia/",
+                                "title": "A Agência",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mRgfl4J0tVt3twmQ3C2zs8N5rG9.jpg"
+                            },
+                            {
+                                "url": "/series/the-trunk/",
+                                "title": "The Trunk",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/s0hxhkL7zet7yAIdnqglbITiB86.jpg"
+                            },
+                            {
+                                "url": "/series/asaf/",
+                                "title": "Asaf",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg"
+                            },
+                            {
+                                "url": "/series/irracional/",
+                                "title": "Irracional",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pPNjfBEmBOMYObd7gBHAlmh3aJR.jpg"
+                            },
+                            {
+                                "url": "/series/senna/",
+                                "title": "Senna",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zuAYVhC7vnKk9jsEuJQqJPB93Pm.jpg"
+                            },
+                            {
+                                "url": "/series/origem/",
+                                "title": "Origem",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg"
+                            },
+                            {
+                                "url": "/series/pantheon/",
+                                "title": "Pantheon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aZupC6eJhTe82e5I0JRaOBjFHOd.jpg"
+                            },
+                            {
+                                "url": "/series/get-millie-black/",
+                                "title": "Get Millie Black",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ytXuD2ZP9Q82OzalMaGYoKUUPCG.jpg"
+                            },
+                            {
+                                "url": "/series/amor-da-minha-vida/",
+                                "title": "Amor da Minha Vida",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3dFVr9cMVVBuVKZTQWqBUGf3Phz.jpg"
+                            },
+                            {
+                                "url": "/series/spinners-vivendo-no-limite/",
+                                "title": "Spinners – Vivendo no Limite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uwiVqtc7NKIl61hVT4enJOxV9tW.jpg"
+                            },
+                            {
+                                "url": "/series/segundas-intencoes/",
+                                "title": "Segundas Intenções",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/akFYVjpqtNZtyajTNO8tbDYr8tm.jpg"
+                            },
+                            {
+                                "url": "/series/um-espiao-infiltrado/",
+                                "title": "Um Espião Infiltrado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/exFenxQqLFgH0sGrlFN44qvOKq7.jpg"
+                            },
+                            {
+                                "url": "/series/duna-a-profecia/",
+                                "title": "Duna: A Profecia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg"
+                            },
+                            {
+                                "url": "/series/landman/",
+                                "title": "Landman",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg"
+                            },
+                            {
+                                "url": "/series/nao-diga-nada/",
+                                "title": "Não Diga Nada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/x5KXbN1f0YpG2Hra1ghlMBe6Zxq.jpg"
+                            },
+                            {
+                                "url": "/series/o-dia-do-chacal/",
+                                "title": "O Dia do Chacal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ka7sE9ppWqCs0tueZpuryAJHpYg.jpg"
+                            },
+                            {
+                                "url": "/series/detetive-alex-cross/",
+                                "title": "Detetive Alex Cross",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4t2BRfqHaSKUypPV09LkMjEECpQ.jpg"
+                            },
+                            {
+                                "url": "/series/citadel-honey-bunny/",
+                                "title": "Citadel Honey Bunny",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg"
+                            },
+                            {
+                                "url": "/series/coragem-irmao/",
+                                "title": "Coragem, Irmão!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ulZfGXWULk9XbVSFH6kiwqeD0Hr.jpg"
+                            },
+                            {
+                                "url": "/series/assassino-zen/",
+                                "title": "Assassino Zen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hDeNBn5YQCm355bchc2hl7cr1yY.jpg"
+                            },
+                            {
+                                "url": "/series/nightsleeper/",
+                                "title": "Nightsleeper",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/twMzmcKkJpftjhYyrPXETddN08R.jpg"
+                            },
+                            {
+                                "url": "/series/a-ultima-noite-em-tremor/",
+                                "title": "A Última Noite em Tremor",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zLtU1IPWjGWPApBVA3WsCSLFZet.jpg"
+                            },
+                            {
+                                "url": "/series/abducao-em-manhattan/",
+                                "title": "Abdução em Manhattan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kYw20vNoO9A4PjbVlNqhQaeIUl9.jpg"
+                            },
+                            {
+                                "url": "/series/os-quatro-da-candelaria/",
+                                "title": "Os Quatro da Candelária",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qJ1JYXVuexmYHiyTSlB7PCZb6WQ.jpg"
+                            },
+                            {
+                                "url": "/series/nao-volte-para-casa/",
+                                "title": "Não Volte para Casa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pv8tmZo5ahVAfUfn365JWtr0MNU.jpg"
+                            },
+                            {
+                                "url": "/series/hysteria/",
+                                "title": "Hysteria!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg"
+                            },
+                            {
+                                "url": "/series/passado/",
+                                "title": "Passado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6rdAUVJDApKKihkrqIt6Vtkz938.jpg"
+                            },
+                            {
+                                "url": "/series/territory/",
+                                "title": "Territory",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg"
+                            },
+                            {
+                                "url": "/series/like-a-dragon-yakuza/",
+                                "title": "Like a Dragon: Yakuza",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/69cNeUKYUFSQ4f4uqR1NssUQzlm.jpg"
+                            },
+                            {
+                                "url": "/series/fallen-luz-e-sombra/",
+                                "title": "Fallen: Luz e Sombra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/knBBKw0h8h8dYWSDfYO3NqJAjtg.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/jurassic-world-teoria-do-caos/",
+                                "title": "Jurassic World: Teoria do Caos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
+                            },
+                            {
+                                "url": "/series/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world/",
+                                "title": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pMLitK7uCKoF25dNn5Xai0RuFra.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KONOSUBA -God’s blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/series/train-to-the-end-of-the-world/",
+                                "title": "Train to the End of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/jS0XEpSCBgWWpiiX6LjmrNt805K.jpg"
+                            },
+                            {
+                                "url": "/series/chillin-in-another-world-with-level-2-super-cheat-powers/",
+                                "title": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
+                            },
+                            {
+                                "url": "/series/a-world-of-calm/",
+                                "title": "A World of Calm",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mAHwKoRDxL0ZeNdTIBBrzbVYcaA.jpg"
+                            },
+                            {
+                                "url": "/series/war-of-the-worlds-a-arte-da-guerra/",
+                                "title": "War of the Worlds: A Arte da Guerra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4bdceFOgmtHk41BrkDMeC8TH7ma.jpg"
+                            },
+                            {
+                                "url": "/series/westworld/",
+                                "title": "Westworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-dominio/",
+                                "title": "Jurassic World: Domínio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg"
+                            },
+                            {
+                                "url": "/series/star-trek-strange-new-worlds/",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
+                            },
+                            {
+                                "url": "/filmes/lego-jurassic-world-a-exposicao-secreta/",
+                                "title": "Lego Jurassic World: A Exposição Secreta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6rFSUpslOYqYcevRm3ZAGkr3RMz.jpg"
+                            },
+                            {
+                                "url": "/filmes/miraculous-world-xangai-a-lenda-de-lady-dragon/",
+                                "title": "Miraculous World – Xangai, a Lenda de Lady Dragon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg"
+                            },
+                            {
+                                "url": "/filmes/edge-of-the-world/",
+                                "title": "Edge of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kwe29qj6sZzjIfQYHiwuHjqtBnb.jpg"
+                            },
+                            {
+                                "url": "/series/brave-new-world/",
+                                "title": "Brave New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vPl7hAY0vt0OPhIflRb5IXrssBv.jpg"
+                            },
+                            {
+                                "url": "/filmes/anjos-da-noite-underworld/",
+                                "title": "Anjos da Noite – Underworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg"
+                            },
+                            {
+                                "url": "/series/the-end-of-the-fing-world/",
+                                "title": "The End of the F***ing World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hiuGpPWQ4ouINeNcypR4Nv8YLeG.jpg"
+                            },
+                            {
+                                "url": "/filmes/lego-jurassic-world-a-fuga-do-indominus-rex/",
+                                "title": "Lego Jurassic World: A Fuga do Indominus Rex",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gRgJFyxaNp2VEWSTGy5miqNxxs4.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire/",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3Fr9SXZD69LeD1CFeSM2p9HFr82.jpg"
+                            },
+                            {
+                                "url": "/filmes/the-thinning-new-world-order/",
+                                "title": "The Thinning: New World Order",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uQtYfyldOV3mPzclKr0K90FTS0n.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-reino-ameacado/",
+                                "title": "Jurassic World: Reino Ameaçado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/fQ7xKS1GyN9ELx5gbO9fSlZcNx4.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-o-mundo-dos-dinossauros/",
+                                "title": "Jurassic World: O Mundo dos Dinossauros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rDChbF4m9qPChlTXkg9rq0ZmTl9.jpg"
+                            },
+                            {
+                                "url": "/filmes/between-worlds/",
+                                "title": "Between Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/wfxqobg0Do8OwIO6IUM7LWHF1mV.jpg"
+                            },
+                            {
+                                "url": "/filmes/a-extraordinaria-vida-de-ibelin/",
+                                "title": "A Extraordinária Vida de Ibelin",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3KRdzmGq96bSV2dVU8mEKk4CocD.jpg"
+                            },
+                            {
+                                "url": "/series/tres-espias-demais/",
+                                "title": "Três Espiãs Demais!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg"
+                            },
+                            {
+                                "url": "/filmes/a-noite-que-mudou-o-pop/",
+                                "title": "A Noite que Mudou o Pop",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg"
+                            },
+                            {
+                                "url": "/series/minha-vida-nada-ortodoxa/",
+                                "title": "Minha Vida Nada Ortodoxa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/90CBAKBatkWjvOEBAXgWTRc2fSB.jpg"
+                            },
+                            {
+                                "url": "/series/planeta-pre-historico/",
+                                "title": "Planeta Pré-Histórico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg"
+                            },
+                            {
+                                "url": "/filmes/mortal-kombat-legends-batalha-dos-reinos/",
+                                "title": "Mortal Kombat Legends: Batalha dos Reinos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg"
+                            },
+                            {
+                                "url": "/series/coyote/",
+                                "title": "Coyote",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dzAwoFc87V2zku5FqYoijKfCOvh.jpg"
+                            },
+                            {
+                                "url": "/series/the-watch/",
+                                "title": "The Watch",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/y1AWUlJUxsnwEiC0gTfP2nUZ9c5.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/filmes/nao-solte/",
+                    "title": "Não Solte!",
+                    "description": "Uma ameaça sobrenatural desconhecida domina o mundo exterior, deixando a segurança de uma mãe e seus filhos gêmeos restrita à proteção de sua casa e ao vínculo familiar. A mãe e seus filhos se mantêm ligados por cordas dentro de sua residência para protegerem-se do mal que assola o mundo exterior. No entanto, quando um dos meninos começa a questionar a realidade do mal que os cercam, a frágil segurança da família começa a se desintegrar.\n\nTítulo Original: Never Let Go",
+                    "genre": "Drama, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/filmes/nao-solte/",
+                        "name": "Filme",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://brbeast.com/hls/QjQ2dWo5cWk2NVlxN05XWkw4bk4zWjFnc3d0RjBDVWFKaWIyZk1aRGhhdnloNS82SGRja2RrSEhVKzhSdkZiUVNmQkZkV2RESWk2MmJSZWtMZjJkQk5pZDVzZXU2d1ZERjQrM2g0QW10YlYzM29SN253Ym1lYThJN1d6aDBsY0tNY2ZNTHA1TTkvOURqK2luWm4rUXA3WHBHa1ZqOXVDdzQ1NkhESkxPNnFrUFhTZDhldzB6cURnV1ZuOGpoZm9ZWTVxVDBlWmF5bkJrRk5uS2VVUW1yNU83UVRjUEVxdzdBdEhXZTU3ZllxS3FYdXU2QXUvQkZuY1Ezb0NQa3VWMkE3RkIxOGhrUzhqWWYwTmlET2JhQkkwRGxpd2tKNnJJRWwyVjJWZnQxVmNtV0JVYU9pSXFYM0pQQ0s1VFp4Yks%3D",
+                        "quality": "[Selecione um Áudio e Servidor Dublado Legendado] BrBeast - 720p",
+                        "videoUrl": "https://brbeast.com/hls/QjQ2dWo5cWk2NVlxN05XWkw4bk4zWjFnc3d0RjBDVWFKaWIyZk1aRGhhdnloNS82SGRja2RrSEhVKzhSdkZiUVNmQkZkV2RESWk2MmJSZWtMZjJkQk5pZDVzZXU2d1ZERjQrM2g0QW10YlYzM29SN253Ym1lYThJN1d6aDBsY0tNY2ZNTHA1TTkvOURqK2luWm4rUXA3WHBHa1ZqOXVDdzQ1NkhESkxPNnFrUFhTZDhldzB6cURnV1ZuOGpoZm9ZWTVxVDBlWmF5bkJrRk5uS2VVUW1yNU83UVRjUEVxdzdBdEhXZTU3ZllxS3FYdXU2QXUvQkZuY1Ezb0NQa3VWMkE3RkIxOGhrUzhqWWYwTmlET2JhQkkwRGxpd2tKNnJJRWwyVjJWZnQxVmNtV0JVYU9pSXFYM0pQQ0s1VFp4Yks%3D",
+                        "headers": {
+                            "Referer": "https://brbeast.com",
+                            "Origin": "https://brbeast.com",
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

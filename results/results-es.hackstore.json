@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/la-virgen-roja-2024/",
+                                "title": "La virgen roja (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bG0EV4nQcSTsdI0RfC9RbvUGnCg.jpg"
+                            },
+                            {
                                 "url": "/peliculas/el-tren-de-los-ninos-2024/",
                                 "title": "El tren de los niños (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Leyenda (1985)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/oAQEJxp8HOruVslddZ521evi4pU.jpg"
-                            },
-                            {
-                                "url": "/peliculas/un-muneco-de-nieve-para-derretirse-2024/",
-                                "title": "Un muñeco de nieve para derretirse (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/el-tren-de-los-ninos-2024/",
-                    "title": "El tren de los niños (2024)",
-                    "artist": "Antonia Truppo",
-                    "author": "Cristina Comencini",
+                    "url": "/peliculas/la-virgen-roja-2024/",
+                    "title": "La virgen roja (2024)",
+                    "artist": "Aixa Villagrán",
+                    "author": "Daniela Forn",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "Drama, Historia, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/3E0rGo5oUPjwcJkyiaPaLh6PiJo.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/bG0EV4nQcSTsdI0RfC9RbvUGnCg.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/el-tren-de-los-ninos-2024/",
+                        "url": "/peliculas/la-virgen-roja-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-lcxbqeqytkwfwvlb.voe-network.net/engine/hls2-c/01/12922/dygv5qnyioxo_,n,.urlset/index-v1-a1.m3u8?t=A2xgLK7fLt7jl2l92sU331KMp8_EOB2q-DDG-zRKrBk&s=1733422021&e=14400&f=64614928&node=delivery-node-gagmup5nvenf5ta8.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-nt5q8bhsmd7gldjj.voe-network.net/engine/hls2-c/01/12935/jp3jmblaihbv_,n,.urlset/index-v1-a1.m3u8?t=LD_tP2X6cYBELIbyVPSY6llB49i_fitr_DGgo4rbVpI&s=1733444337&e=14400&f=64678532&node=delivery-node-utzguzfstc6qeiys.voe-network.net&i=52.159&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-lcxbqeqytkwfwvlb.voe-network.net/engine/hls2-c/01/12922/dygv5qnyioxo_,n,.urlset/index-v1-a1.m3u8?t=A2xgLK7fLt7jl2l92sU331KMp8_EOB2q-DDG-zRKrBk&s=1733422021&e=14400&f=64614928&node=delivery-node-gagmup5nvenf5ta8.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-nt5q8bhsmd7gldjj.voe-network.net/engine/hls2-c/01/12935/jp3jmblaihbv_,n,.urlset/index-v1-a1.m3u8?t=LD_tP2X6cYBELIbyVPSY6llB49i_fitr_DGgo4rbVpI&s=1733444337&e=14400&f=64678532&node=delivery-node-utzguzfstc6qeiys.voe-network.net&i=52.159&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

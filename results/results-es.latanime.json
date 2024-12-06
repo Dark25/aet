@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/moeyo-ken-tv-latino",
+                                "title": "Moeyo Ken TV Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/moeyo-ken-tv-latino-1733444028.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/beastars-final-season-castellano",
+                                "title": "Beastars Final Season Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/beastars-final-season-castellano-1733423829.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/beastars-final-season-latino",
+                                "title": "Beastars Final Season Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/beastars-final-season-latino-1733423644.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/los-diarios-de-la-boticaria-castellano",
                                 "title": "Los Diarios De La Boticaria Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/los-diarios-de-la-boticaria-castellano-1733249700.jpg?v=1.5"
@@ -140,21 +155,6 @@
                                 "url": "/anime/dandadan-latino",
                                 "title": "Dandadan Netflix Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/dandadan-latino-1727972190.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/berserk-latino",
-                                "title": "Berserk Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/berserk-latino-1727479709.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/spice-and-wolf-2024-s1-latino",
-                                "title": "Spice and Wolf (2024) S1 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/spice-and-wolf-2024-s1-latino-1727209997.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/locodol-latino",
-                                "title": "Locodol Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/locodol-latino-1726189029.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,53 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/los-diarios-de-la-boticaria-castellano",
-                    "title": "Los Diarios De La Boticaria Castellano",
-                    "description": "En una corte imperial de la antigua China, han pasado unos meses desde que una joven de 17 años conocida como Maomao fue secuestrada y obligada a trabajar como sirvienta de bajo nivel en el palacio del emperador. Aún así, logra conservar su espíritu curioso y pragmático y planea trabajar hasta que terminen sus años de servidumbre. Un día, sin embargo, se entera de que los dos hijos del emperador han caído gravemente enfermos. Decide actuar en secreto, aprovechando su experiencia como farmacéutica criada en el pobre barrio rojo. A pesar de los intentos de Maomao de permanecer en el anonimato, pronto llama la atención de Jinshi, un eunuco influyente que reconoce sus talentos. Maomao pronto se encuentra en el patio interior del emperador, donde gradualmente se hace un nombre al utilizar su conocimiento y su personalidad excéntrica para resolver varios misterios médicos.",
-                    "genre": "Drama, Misterio, Histórico",
+                    "url": "/anime/moeyo-ken-tv-latino",
+                    "title": "Moeyo Ken TV Latino",
+                    "description": "La historia se sitúa en el año 15 de la era Meiji, cuando extrañas criaturas sobrenaturales comienzan a causar estragos en las calles de Kioto. Para enfrentarlas, Katsu Kaishu organiza el \"Kidou Shinsengumi\", liderado por Oryou, la esposa de Ryoma. Con el tiempo, tres jóvenes guerreras asumen la responsabilidad de luchar por la justicia: Yuko Kondo, Toshie Hijikata y Kaoru Okita. Siguiendo los pasos de sus padres como leales samuráis del Shinsengumi, se enfrentan a un Japón que ha cambiado profundamente. Su misión es proteger al país de las amenazas actuales, aunque su actitud desafiante a menudo genera más problemas de los que resuelven. ¿Lograrán estas encantadoras guerreras restaurar su reputación mientras salvan Kioto? ¡Prepárate para una fascinante serie que mezcla historia y fenómenos sobrenaturales!",
+                    "genre": "Aventura, Comedia, Fantasía, Histórico",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/los-diarios-de-la-boticaria-castellano-episodio-12",
-                        "name": "Los Diarios De La Boticaria Castellano Capitulo 12",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/ver/los-diarios-de-la-boticaria-castellano-episodio-11",
-                        "name": "Los Diarios De La Boticaria Castellano Capitulo 11",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-znj6okjw16mo8ccl.voe-network.net/engine/hls2/01/12918/yv8sl064ndhk_,n,.urlset/index-v1-a1.m3u8?t=-ZmVjoU1GPf1OHMSQq1-LdG2KGN3hwsJiMiwIDGzSLk&s=1733422044&e=14400&f=64590189&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=40.76&sp=2500&asn=8075",
-                        "quality": " - Voe: 1080p",
-                        "videoUrl": "https://delivery-node-znj6okjw16mo8ccl.voe-network.net/engine/hls2/01/12918/yv8sl064ndhk_,n,.urlset/index-v1-a1.m3u8?t=-ZmVjoU1GPf1OHMSQq1-LdG2KGN3hwsJiMiwIDGzSLk&s=1733422044&e=14400&f=64590189&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=40.76&sp=2500&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://voe.sx",
-                            "Referer": "https://voe.sx/e/yv8sl064ndhk"
-                        }
-                    },
-                    {
-                        "url": "https://www3.mp4upload.com:183/d/r2x3memlz3b4quuotcrbqparcrkz4uyne5vhop5owz4r4h2nngwllxktns5skreo3unw57rz/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2x3memlz3b4quuotcrbqparcrkz4uyne5vhop5owz4r4h2nngwllxktns5skreo3unw57rz/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

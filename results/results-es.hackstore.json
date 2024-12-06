@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/maria-2024/",
+                                "title": "María (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vNLsfo4QdVyp4DiNO0vZKxq0UlD.jpg"
+                            },
+                            {
                                 "url": "/peliculas/la-virgen-roja-2024/",
                                 "title": "La virgen roja (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Todo o nada (1997)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/hZorGSNfwMUP8dU6C8HtIS0D9OO.jpg"
-                            },
-                            {
-                                "url": "/peliculas/leyenda-1985/",
-                                "title": "Leyenda (1985)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/oAQEJxp8HOruVslddZ521evi4pU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/la-virgen-roja-2024/",
-                    "title": "La virgen roja (2024)",
-                    "artist": "Aixa Villagrán",
-                    "author": "Daniela Forn",
-                    "description": "",
-                    "genre": "Drama, Historia, Suspenso",
+                    "url": "/peliculas/maria-2024/",
+                    "title": "María (2024)",
+                    "artist": "Anthony Hopkins",
+                    "author": "D. J. Caruso",
+                    "description": "Relato bíblico desde la perspectiva de María. Elegida para traer al Mesías al mundo, María (Noa Cohen) es repudiada tras una concepción milagrosa y se ve obligada a ocultarse. Cuando el rey Herodes (Anthony Hopkins) ordena la cruenta cacería de su recién nacido, María y José (Ido Tako) emprenden la huida, unidos por la fe y movidos por el coraje, dispuestos a salvar la vida del niño a toda costa.",
+                    "genre": "Acción, Drama, Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/bG0EV4nQcSTsdI0RfC9RbvUGnCg.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/vNLsfo4QdVyp4DiNO0vZKxq0UlD.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/la-virgen-roja-2024/",
+                        "url": "/peliculas/maria-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-l5np0g0bowyicfhu.voe-network.net/engine/hls2/01/12935/jp3jmblaihbv_,n,.urlset/index-v1-a1.m3u8?t=Zmjltct6csYaJ_1KNDnqts__OXt-0Mmie9hFwF5aohA&s=1733486920&e=14400&f=64678532&node=delivery-node-l5np0g0bowyicfhu.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "url": "https://delivery-node-zrxms7xl06zuseys.voe-network.net/engine/hls2-c/01/12942/n13fkrlp3z08_,n,.urlset/index-v1-a1.m3u8?t=qdPP9IbQ_jJ3uwUVonsz57HW9Eqrjj-Pe4QeKnzlvJ4&s=1733508445&e=14400&f=64714929&node=delivery-node-tahswod7yjm8kezo.voe-network.net&i=20.55&sp=2500&asn=8075",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-l5np0g0bowyicfhu.voe-network.net/engine/hls2/01/12935/jp3jmblaihbv_,n,.urlset/index-v1-a1.m3u8?t=Zmjltct6csYaJ_1KNDnqts__OXt-0Mmie9hFwF5aohA&s=1733486920&e=14400&f=64678532&node=delivery-node-l5np0g0bowyicfhu.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-zrxms7xl06zuseys.voe-network.net/engine/hls2-c/01/12942/n13fkrlp3z08_,n,.urlset/index-v1-a1.m3u8?t=qdPP9IbQ_jJ3uwUVonsz57HW9Eqrjj-Pe4QeKnzlvJ4&s=1733508445&e=14400&f=64714929&node=delivery-node-tahswod7yjm8kezo.voe-network.net&i=20.55&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }

@@ -37,6 +37,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
                             },
                             {
+                                "url": "9TPHwqqZSYGduAwQk<&sep><&sep>blue-lock-vs-u-20-japan",
+                                "title": "Blue Lock vs. U-20 Japan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
+                            },
+                            {
                                 "url": "bw9NHMfmzd95geBBr<&sep><&sep>seirei-gensouki-2",
                                 "title": "Seirei Gensouki 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg"
@@ -47,19 +52,19 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-JFTirlMoA4SK.png"
                             },
                             {
-                                "url": "vDTSJHSpYnrkZnAvG<&sep><&sep>nato-shippuuden",
-                                "title": "Nato: Shippuuden",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
-                            },
-                            {
                                 "url": "mQAnYo9apZFaKfJpS<&sep><&sep>dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
                                 "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170732-PwCMhnnOKdBu.jpg"
                             },
                             {
-                                "url": "9TPHwqqZSYGduAwQk<&sep><&sep>blue-lock-vs-u-20-japan",
-                                "title": "Blue Lock vs. U-20 Japan",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
+                                "url": "vDTSJHSpYnrkZnAvG<&sep><&sep>nato-shippuuden",
+                                "title": "Nato: Shippuuden",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+                            },
+                            {
+                                "url": "B6AMhLy6EQHDgYgBF<&sep><&sep>ore-dake-level-up-na-ken",
+                                "title": "Ore dake Level Up na Ken",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/B6AMhLy6EQHDgYgBF.webp"
                             },
                             {
                                 "url": "y67MAbv2YqRZXi4Hp<&sep><&sep>arifureta-shokugyou-de-sekai-saikyou-season-3",
@@ -70,11 +75,6 @@
                                 "url": "yHzJv4z6ihQuub4Rh<&sep><&sep>shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-season-2",
                                 "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su Season 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png"
-                            },
-                            {
-                                "url": "B6AMhLy6EQHDgYgBF<&sep><&sep>ore-dake-level-up-na-ken",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "mcovers/a_tbs/dhw/B6AMhLy6EQHDgYgBF.webp"
                             },
                             {
                                 "url": "DkKWjEA3A7m5kCJWp<&sep><&sep>hanka-hanka-2011-",
@@ -102,14 +102,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
                             },
                             {
-                                "url": "8aM5BBoEGLvjG3MZm<&sep><&sep>sayounara-ryuusei-konnichiwa-jinsei",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
-                            },
-                            {
                                 "url": "LYKSutL2PaAjYyXWz<&sep><&sep>jujutsu-kaisen-2nd-season",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
+                            },
+                            {
+                                "url": "8aM5BBoEGLvjG3MZm<&sep><&sep>sayounara-ryuusei-konnichiwa-jinsei",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
                             },
                             {
                                 "url": "5Ybejzg26CyepMEA6<&sep><&sep>tensei-kizoku-kantei-skill-de-nariagaru-season-2",
@@ -143,8 +143,144 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 346: Expected string literal but 'null' literal was found at path: $.data.shows.edges[1].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....u Yan 2nd Season\",\"thumbnail\":null,\"englishName\":\"Fabulous B.....",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "4e3Rf5pnFA5ESQACE<&sep><&sep>xi-xing-ji-suming-pian",
+                                "title": "Xi Xing Ji: Suming Pian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122630-DFMhsS0S4VAS.jpg"
+                            },
+                            {
+                                "url": "SpckNNxpariqYNyew<&sep><&sep>ling-long-incarnation-special",
+                                "title": "Ling Long: Incarnation Special",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134045-rV3T3xLnF2Rg.png"
+                            },
+                            {
+                                "url": "qM8RX4jXeH6R2hd6X<&sep><&sep>yu-gi-oh-hikari-no-pyramid",
+                                "title": "Yu☆Gi☆Oh! Hikari no Pyramid",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1894.jpg"
+                            },
+                            {
+                                "url": "2oXgpDPd3xKWdgnoz<&sep><&sep>road-of-naruto",
+                                "title": "Road of Naruto",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155348-4ipji8SvTjyh.jpg"
+                            },
+                            {
+                                "url": "YuJaoZcbJd7iy8gFy<&sep><&sep>shinpi-no-hou",
+                                "title": "Shinpi no Hou",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13439.jpg"
+                            },
+                            {
+                                "url": "q53cP8gh5JkKw4jDY<&sep><&sep>xi-xing-ji-anying-mo-cheng",
+                                "title": "Xi Xing Ji: Anying Mo Cheng",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138612-APvwTpoStOi1.png"
+                            },
+                            {
+                                "url": "t5vv2CRXDN8NMzFDi<&sep><&sep>pi-zhe-lang-pi-de-yang",
+                                "title": "Pi Zhe Lang Pi De Yang",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156078-0RsRsOOtIGAt.jpg"
+                            },
+                            {
+                                "url": "xL5hAhQsagNyiLxS7<&sep><&sep>punirunes-puni-2",
+                                "title": "Punirunes: Puni 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179292-jOcVLoMwkFKo.png"
+                            },
+                            {
+                                "url": "bNxsZLcHxRPbs4eTf<&sep><&sep>one-piece-gyojin-tou-hen",
+                                "title": "One Piece: Gyojin Tou-hen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg"
+                            },
+                            {
+                                "url": "WqoJHPJeyLfpYpCm5<&sep><&sep>shu-tian-fu-mo-lu",
+                                "title": "Shu Tian Fu Mo Lu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134099-6Km3gEVmVoYj.jpg"
+                            },
+                            {
+                                "url": "zjhv2QQMbbApYdv5r<&sep><&sep>wonderful-precure-",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
+                            {
+                                "url": "kCC2o9Wy67sa2g5G3<&sep><&sep>one-piece-dai-tettei-kaibou-kouzuki-oden-densetsu-",
+                                "title": "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1059/124766.jpg"
+                            },
+                            {
+                                "url": "JvxNxGAmGM4CkJpeq<&sep><&sep>zhen-dao-ge-tebie-pian",
+                                "title": "Zhen Dao Ge: Tebie Pian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139811-ixsz0m92553H.jpg"
+                            },
+                            {
+                                "url": "LgHPBohxkijBbbRLX<&sep><&sep>shaonian-ge-xing-feng-hua-xue-yue-pian-part-2",
+                                "title": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141132-2onv5qwbRVvr.png"
+                            },
+                            {
+                                "url": "Atvqcm88HwDh6y4s7<&sep><&sep>dianqi-shaonu",
+                                "title": "Dianqi Shaonu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1988/135232.jpg"
+                            },
+                            {
+                                "url": "o3ZMoTmh5obz7duDx<&sep><&sep>kimi-wa-meido-sama-",
+                                "title": "Kimi wa Meido-sama.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172190-i1IqizIUcKkN.jpg"
+                            },
+                            {
+                                "url": "5nbDiKHujSqAw9bdT<&sep><&sep>party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg"
+                            },
+                            {
+                                "url": "LAny66isH822RhXMs<&sep><&sep>ao-no-exorcist-yuki-no-hate-hen",
+                                "title": "Ao no Exorcist: Yuki no Hate-hen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-OZudERHrpJJ0.jpg"
+                            },
+                            {
+                                "url": "c2qHhERcsp4e6nYrQ<&sep><&sep>maou-2099",
+                                "title": "Maou 2099",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163135-NjvXyXvTYSHH.jpg"
+                            },
+                            {
+                                "url": "h4F7v6LXMt5wP5mbL<&sep><&sep>ranma-2024-",
+                                "title": "Ranma ½ (2024)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178533-md2BV8esGezM.jpg"
+                            },
+                            {
+                                "url": "9TPHwqqZSYGduAwQk<&sep><&sep>blue-lock-vs-u-20-japan",
+                                "title": "Blue Lock vs. U-20 Japan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
+                            },
+                            {
+                                "url": "GD4S9oagHrv7iCJPZ<&sep><&sep>ore-tsushima",
+                                "title": "Ore, Tsushima",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130392-4Wpdaq4W5XMB.jpg"
+                            },
+                            {
+                                "url": "GoDoALiHc82Jrmcmh<&sep><&sep>bleach-sennen-kessen-hen-soukoku-tan",
+                                "title": "Bleach: Sennen Kessen-hen: Soukoku-tan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg"
+                            },
+                            {
+                                "url": "kspvFMAcFdmKhgecD<&sep><&sep>chi-chikyuu-no-undou-ni-tsuite",
+                                "title": "Chi. Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151514-BcU5RmSWhvv0.jpg"
+                            },
+                            {
+                                "url": "Drfnbwdkdchc9ktb3<&sep><&sep>maou-sama-retry-r",
+                                "title": "Maou-sama, Retry! R",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168500-wwpXjBBlXDpx.jpg"
+                            },
+                            {
+                                "url": "ScMbpegs6py9tB9Bn<&sep><&sep>lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-hakamori-to-neko-to-majutsushi",
+                                "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106862-IFmkASZSrcGw.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [

@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/series-online/ver-the-agency-la-agencia.html",
+                                "title": "The Agency (La agencia)",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/the-agency-la-agencia.jpg"
+                            },
+                            {
+                                "url": "/series-online/ver-ecos-del-mar-rojo.html",
+                                "title": "Ecos del mar Rojo",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/ecos-del-mar-rojo.jpg"
+                            },
+                            {
+                                "url": "/series-online/ver-zorro.html",
+                                "title": "Zorro",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/zorro.jpg"
+                            },
+                            {
+                                "url": "/series-online/ver-tales-from-the-void.html",
+                                "title": "Tales from the Void",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/tales-from-the-void.jpg"
+                            },
+                            {
+                                "url": "/series-online/ver-earth-abides.html",
+                                "title": "Earth Abides",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/earth-abides.jpg"
+                            },
+                            {
+                                "url": "/series-online/ver-las-hermanas-guerra.html",
+                                "title": "Las hermanas Guerra",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/las-hermanas-guerra.jpg"
+                            },
+                            {
                                 "url": "/series-online/ver-el-show-de-snoopy.html",
                                 "title": "El show de Snoopy",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/el-show-de-snoopy.jpg"
@@ -100,36 +130,6 @@
                                 "url": "/series-online/ver-una-maleta.html",
                                 "title": "Una maleta",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/una-maleta.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-asaf.html",
-                                "title": "Asaf",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/asaf.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-la-locura.html",
-                                "title": "La locura",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/la-locura.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-pandora.html",
-                                "title": "Pandora",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/pandora.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-caso-no-resuelto-quien-mato-a-jonbenet-ramsey.html",
-                                "title": "Caso no resuelto: ¿Quién mató a JonBenét Ramsey?",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/caso-no-resuelto-quien-mato-a-jonbenet-ramsey.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-que-ardan-todos.html",
-                                "title": "Que ardan todos",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/que-ardan-todos.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-get-millie-black.html",
-                                "title": "Get Millie Black",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/get-millie-black.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,10 +274,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/series-online/ver-el-show-de-snoopy.html",
+                    "url": "/series-online/ver-the-agency-la-agencia.html",
                     "author": "",
-                    "description": "Tan bailarín y soñador como siempre, vuelve el perro más emblemático del mundo. Acompaña a este simpático beagle en sus nuevas aventuras con su mejor amigo Emilio y el resto de la pandilla Peanuts.",
-                    "genre": "Animación",
+                    "description": "El agente encubierto de la CIA, Martian, recibe la orden de abandonar su vida encubierta y regresar a la estación de Londres. Cuando el amor que dejó atrás reaparece inesperadamente, su romance se reaviva, enfrentando su carrera, su verdadera identidad y su misión contra su corazón, mientras ambos se ven envueltos en un juego mortal de intriga y espionaje internacional.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -285,21 +285,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/series-online/el-show-de-snoopy/temporada-2/129996-ver-episodio-12.html",
-                        "name": "Temporada 2 - Capítulo 12",
-                        "episode_number": 12.0
+                        "url": "/series-online/the-agency-la-agencia/temporada-1/130253-ver-episodio-2.html",
+                        "name": "Temporada 1 - Capítulo 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/series-online/el-show-de-snoopy/temporada-2/129995-ver-episodio-11.html",
-                        "name": "Temporada 2 - Capítulo 11",
-                        "episode_number": 11.0
+                        "url": "/series-online/the-agency-la-agencia/temporada-1/130252-ver-episodio-1.html",
+                        "name": "Temporada 1 - Capítulo 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/12933/3foax9ywdn2r_,n,.urlset/index-v1-a1.m3u8?t=2OxwQ9aepjcOka7RXivuB45m6AAlps78WhqFoRFX3sg&s=1733724515&e=14400&f=64666314&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=13.91&sp=2500&asn=8075",
+                        "quality": "Castellano - Voe:720p",
+                        "videoUrl": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/12933/3foax9ywdn2r_,n,.urlset/index-v1-a1.m3u8?t=2OxwQ9aepjcOka7RXivuB45m6AAlps78WhqFoRFX3sg&s=1733724515&e=14400&f=64666314&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=13.91&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

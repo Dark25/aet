@@ -11,6 +11,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/178418/",
+                                "title": "Wingman Episódio 07",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/2024/11/Yume-Senshi-Wingman-Episodios.jpg"
+                            },
+                            {
+                                "url": "/178416/",
+                                "title": "Kamen Rider Gavv Episódio 14",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kamen-Rider-Gavv-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/178403/",
+                                "title": "MF Ghost 2 Episódio 10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/dsJCMjcuFEEXHH0BTXBVydxZNFA.jpg"
+                            },
+                            {
+                                "url": "/178390/",
+                                "title": "Nageki no Bourei wa Intai shitai Episódio 11",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Nageki-no-Bourei-wa-Intai-shitai-Episodio-AnimeQ-jpg.webp"
+                            },
+                            {
                                 "url": "/178378/",
                                 "title": "Tensei Kizoku Kantei Skill de Nariagaru 2 Episódio 10",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-2-1-jpg.webp"
@@ -89,26 +109,6 @@
                                 "url": "/178194/",
                                 "title": "The Idolmaster: Shiny Colors 2 Episodio 10",
                                 "thumbnail_url": "https://animeq.blog/wp-content/uploads/The-Idolmaster-Shiny-Colors-2-AnimeQ-Ep.jpg"
-                            },
-                            {
-                                "url": "/178180/",
-                                "title": "Ao no Miburo Episódio 08",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/bs7WD3aR2i4FB8wDbqow8DL2hBD.jpg"
-                            },
-                            {
-                                "url": "/178177/",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II Episódio 10",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Sword-Art-Online-Alternative-Gun-Gale-Online-II-Episodios.jpg"
-                            },
-                            {
-                                "url": "/178174/",
-                                "title": "Kabushikigaisha Magi-Lumière Episódio 10",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kabushikigaisha-Magi-Lumiere-Episodios.jpg"
-                            },
-                            {
-                                "url": "/178162/",
-                                "title": "Dragon Ball Daima Episódio 09",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8Tg3f8sPJ9fHERFkX16GAQLl1QH.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -188,15 +188,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/171841/",
-                    "title": "Tensei Kizoku Kantei Skill de Nariagaru 2",
-                    "artist": "studio MOTHER",
-                    "author": "Miraijin A",
-                    "description": "O protagonista, Ars Louvent, renasceu como o filho de um nobre que governa um pequeno domínio… Ars não era particularmente forte ou inteligente, mas nasceu com a “Habilidade de Avaliação”, que lhe permite enxergar as habilidades e status das pessoas. Com essa habilidade única, Ars embarca em uma jornada para identificar os talentos ocultos ao seu redor, com o objetivo de elevar seu fraco domínio a um novo patamar de excelência. Sua busca por transformação levará esse herdeiro a desbravar os limites do possível!.",
+                    "url": "/175117/",
+                    "title": "Yume Senshi Wingman",
+                    "author": "Masakazu Katsura",
+                    "description": "A história começa quando Aoi, uma linda garota que clama que fugiu das garras do mal numa outra dimensão chamada Podreams e caiu em cima de Kenta, um estudante do segundo ano do ensino médio e entusiasta de Tokusatsu. Quando Kenta desenha seu herói imaginário, “Wingman” no caderno dos sonhos que Aoi carrega, este lhe dá os poderes para se transformar em seu herói dos sonhos pelo tempo de cinco minutos a cada vez. Aoi e Kenta, junto com a colega de classe deles, Miku Ogawa, se juntam para salvarem Podreams das garras domaléfico Rimel, que deseja usar o poder do caderno dos sonhos para expandir sua tirania.",
                     "genre": "animes, assistir online, baixar animes, completo, download, episodios HD, animeq",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-2-jpg.webp",
+                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/2024/11/Yume-Senshi-Wingman.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -204,21 +203,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/178378/",
-                        "name": "10",
-                        "episode_number": 10.0
+                        "url": "/178418/",
+                        "name": "07",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/177779/",
-                        "name": "09",
-                        "episode_number": 9.0
+                        "url": "/177997/",
+                        "name": "06",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player14').setup({\r\n\t\t\t\t\ttitle: ",
+                        "quality": "720p",
+                        "videoUrl": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player14').setup({\r\n\t\t\t\t\ttitle: "
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series-online/ver-allegiance.html",
+                                "title": "Allegiance",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/allegiance.jpg"
+                            },
+                            {
                                 "url": "/series-online/ver-the-agency-la-agencia.html",
                                 "title": "The Agency (La agencia)",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/the-agency-la-agencia.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/series-online/ver-senna.html",
                                 "title": "Senna",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/senna.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-una-maleta.html",
-                                "title": "Una maleta",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/una-maleta.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,9 +274,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/series-online/ver-the-agency-la-agencia.html",
+                    "url": "/series-online/ver-allegiance.html",
                     "author": "",
-                    "description": "El agente encubierto de la CIA, Martian, recibe la orden de abandonar su vida encubierta y regresar a la estación de Londres. Cuando el amor que dejó atrás reaparece inesperadamente, su romance se reaviva, enfrentando su carrera, su verdadera identidad y su misión contra su corazón, mientras ambos se ven envueltos en un juego mortal de intriga y espionaje internacional.",
+                    "description": "Una agente de policía novata que trabaja en Surrey, su ciudad natal, debe enfrentarse a los límites del sistema judicial mientras lucha por exonerar a su padre.",
                     "genre": "Drama",
                     "initialized": true
                 },
@@ -285,14 +285,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/series-online/the-agency-la-agencia/temporada-1/130253-ver-episodio-2.html",
-                        "name": "Temporada 1 - Capítulo 2",
-                        "episode_number": 2.0
+                        "url": "/series-online/allegiance/temporada-1/130271-ver-episodio-10.html",
+                        "name": "Temporada 1 - Capítulo 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/series-online/the-agency-la-agencia/temporada-1/130252-ver-episodio-1.html",
-                        "name": "Temporada 1 - Capítulo 1",
-                        "episode_number": 1.0
+                        "url": "/series-online/allegiance/temporada-1/130270-ver-episodio-9.html",
+                        "name": "Temporada 1 - Capítulo 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -300,11 +300,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/12933/3foax9ywdn2r_,n,.urlset/index-v1-a1.m3u8?t=G6cMTQy3m3_lrvQyOgdWAqlM7VkpduIv--w-4nSr378&s=1733746164&e=14400&f=64666314&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=20.230&sp=2500&asn=8075",
+                        "url": "https://delivery-node-fzsi5gnge0gpz5cp.voe-network.net/engine/hls2/01/12958/fngiil7veagi_,n,.urlset/index-v1-a1.m3u8?t=ylg_J8-fAlNKZUy_9szeYQic-9lhDWx7FswgFbKFLAk&s=1733767665&e=14400&f=64794647&node=delivery-node-fzsi5gnge0gpz5cp.voe-network.net&i=20.49&sp=2500&asn=8075",
                         "quality": "Castellano - Voe:720p",
-                        "videoUrl": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/12933/3foax9ywdn2r_,n,.urlset/index-v1-a1.m3u8?t=G6cMTQy3m3_lrvQyOgdWAqlM7VkpduIv--w-4nSr378&s=1733746164&e=14400&f=64666314&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=20.230&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-fzsi5gnge0gpz5cp.voe-network.net/engine/hls2/01/12958/fngiil7veagi_,n,.urlset/index-v1-a1.m3u8?t=ylg_J8-fAlNKZUy_9szeYQic-9lhDWx7FswgFbKFLAk&s=1733767665&e=14400&f=64794647&node=delivery-node-fzsi5gnge0gpz5cp.voe-network.net&i=20.49&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://m10.vudeo.ws/2vp3yq5pqivjdohilo2rxp4otguk4g6jm4euiieqpb5mbhzggjhj7gmpqbnq/v.mp4",
+                        "quality": "Castellano - Vudeo",
+                        "videoUrl": "https://m10.vudeo.ws/2vp3yq5pqivjdohilo2rxp4otguk4g6jm4euiieqpb5mbhzggjhj7gmpqbnq/v.mp4",
+                        "headers": {
+                            "referer": "https://vudeo.co/"
+                        }
+                    },
+                    {
+                        "url": "https://m30.uqload.net/3rfk4qim45w2q4drdjxptnhvdjkzcvabei7lfmjdcdzyqkz7lbquywnoh3ea/v.mp4",
+                        "quality": "Castellano -  Uqload",
+                        "videoUrl": "https://m30.uqload.net/3rfk4qim45w2q4drdjxptnhvdjkzcvabei7lfmjdcdzyqkz7lbquywnoh3ea/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
                         }
                     }
                 ],

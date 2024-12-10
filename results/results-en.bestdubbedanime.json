@@ -63,74 +63,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/My-Hero-Academia-7",
-                                "title": "My Hero Academia 7",
-                                "thumbnail_url": "https://i.imgur.com/5BL9c7U.jpeg"
-                            },
-                            {
-                                "url": "/Monster",
-                                "title": "Monster",
-                                "thumbnail_url": "https://i.imgur.com/70B4aYZ.jpeg"
-                            },
-                            {
-                                "url": "/The-Dangers-in-My-Heart",
-                                "title": "The Dangers in My Heart",
-                                "thumbnail_url": "https://i.imgur.com/HBzYbVQl.jpg"
-                            },
-                            {
-                                "url": "/The-Eminence-in-Shadow-2nd-Season",
-                                "title": "The Eminence in Shadow 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/uJpOzIsl.png"
-                            },
-                            {
-                                "url": "/The-Kingdoms-of-Ruin",
-                                "title": "The Kingdoms of Ruin",
-                                "thumbnail_url": "https://i.imgur.com/j9jlqefl.jpg"
-                            },
-                            {
-                                "url": "/Management-of-a-Novice-Alchemist",
-                                "title": "Management of a Novice Alchemist",
-                                "thumbnail_url": "https://i.imgur.com/9kqmpHil.jpg"
-                            },
-                            {
-                                "url": "/Shangri-La-Frontier",
-                                "title": "Shangri-La Frontier",
-                                "thumbnail_url": "https://i.imgur.com/9NnffhYl.jpg"
-                            },
-                            {
-                                "url": "/Shangri-La",
-                                "title": "Shangri-La",
-                                "thumbnail_url": "https://i.imgur.com/u1N7J4vl.jpg"
-                            },
-                            {
-                                "url": "/Sorcery-Fight-2nd-Season",
-                                "title": "Sorcery Fight 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/RxLW9kGl.jpg"
-                            },
-                            {
-                                "url": "/Goblin-Slayer-2nd-Season",
-                                "title": "Goblin Slayer 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/hunfjVal.png"
-                            },
-                            {
-                                "url": "/Shy",
-                                "title": "Shy",
-                                "thumbnail_url": "https://i.imgur.com/hHU3EK1l.jpg"
-                            },
-                            {
-                                "url": "/World-Trigger-2nd-Season",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://i.imgur.com/WwmQ65Wl.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -231,9 +165,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1734091597&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDA5MTU5N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=I5MJ5NEnL3BEhbFgk3RDqDkaHrMwM%7E7QlxTd443p%7EntvHZ7P1OMrWBTsMj-f8qEOYeOtY8Q%7ESlNYkACQ9kWoSm7pxHdvPYco4yrt3r1Otj9V0rGi4TA87lSNBizDSHZ3jOF6EMybJfUakKwrwkh611pA5lRuFsx8aKgPuzj63w4xu3QYrhkA4ekqeLXo0Kp133wwT1UrER42ZuFzCH2A5T0MuEGZJY2Bj-JEIjFg97DdFuvl7K6NVo%7Evr2vmrBvRCj7e37Y3m8U2s97rthfu3fev1wk9r1WhCwIxPjq-EkBZwaZQB4Fq1qCoJEKbE-PpBxu6U7VDRcAz2o1cA53ucg__&Key-Pair-Id=K3RPWS32NSSJCE",
+                        "url": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1734113180&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDExMzE4MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=QD35hhuxSzRxEdCp9tTlHE%7EMgGU7JS9fpUOyafJVEKgRIEwPnES7HoxMqVhoyqaINB1FSmCHfRly2FZTGjrP67fF2yizxwViaxiMfr1WW12O%7Ej6pevtYHMSL19XyamLU2EVky95pO54QL7ZHX98YLyK7ag90FYP34KK-dlkrf-a2xrvzQtv1heAM50rhj4IisWPJYa%7Euarz4bNZB6UzgTf5oLzd5TYRoJEsKy7Jd%7E3vB8N49CgN7H9JneVQNOhDTur0OVLnx0qMJFUIFO82Mj-ur9iAbf%7EJdwLEnyQxfKLq2rWq%7EZpQjCAZ7-WrcWXEkk0rnhNwTydNvJUIjS%7EaWng__&Key-Pair-Id=K3RPWS32NSSJCE",
                         "quality": "720p # 1 (BDA-HF)",
-                        "videoUrl": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1734091597&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDA5MTU5N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=I5MJ5NEnL3BEhbFgk3RDqDkaHrMwM%7E7QlxTd443p%7EntvHZ7P1OMrWBTsMj-f8qEOYeOtY8Q%7ESlNYkACQ9kWoSm7pxHdvPYco4yrt3r1Otj9V0rGi4TA87lSNBizDSHZ3jOF6EMybJfUakKwrwkh611pA5lRuFsx8aKgPuzj63w4xu3QYrhkA4ekqeLXo0Kp133wwT1UrER42ZuFzCH2A5T0MuEGZJY2Bj-JEIjFg97DdFuvl7K6NVo%7Evr2vmrBvRCj7e37Y3m8U2s97rthfu3fev1wk9r1WhCwIxPjq-EkBZwaZQB4Fq1qCoJEKbE-PpBxu6U7VDRcAz2o1cA53ucg__&Key-Pair-Id=K3RPWS32NSSJCE"
+                        "videoUrl": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1734113180&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDExMzE4MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=QD35hhuxSzRxEdCp9tTlHE%7EMgGU7JS9fpUOyafJVEKgRIEwPnES7HoxMqVhoyqaINB1FSmCHfRly2FZTGjrP67fF2yizxwViaxiMfr1WW12O%7Ej6pevtYHMSL19XyamLU2EVky95pO54QL7ZHX98YLyK7ag90FYP34KK-dlkrf-a2xrvzQtv1heAM50rhj4IisWPJYa%7Euarz4bNZB6UzgTf5oLzd5TYRoJEsKy7Jd%7E3vB8N49CgN7H9JneVQNOhDTur0OVLnx0qMJFUIFO82Mj-ur9iAbf%7EJdwLEnyQxfKLq2rWq%7EZpQjCAZ7-WrcWXEkk0rnhNwTydNvJUIjS%7EaWng__&Key-Pair-Id=K3RPWS32NSSJCE"
                     },
                     {
                         "url": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09",

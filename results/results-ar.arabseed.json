@@ -227,6 +227,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/انمي-shin-tennis-no-ouji-sama-u-17-world-cup-الموسم-الثاني-الحلقة-10-الع/",
+                                "title": "انمي Shin Tennis no Ouji-sama: U-17 World Cup الموسم الثاني الحلقة 10 العاشرة مترجمة",
+                                "thumbnail_url": "https://arabseed.show/wp-content/uploads/2024/10/Semifinal-2024-scaled-413x550.jpg"
+                            },
+                            {
                                 "url": "/مسلسل-jentry-chau-vs-the-underworld-الحلقة-13-الثالثة-عشر-مترجمة/",
                                 "title": "مسلسل Jentry Chau vs. The Underworld الحلقة 13 الثالثة عشر مترجمة",
                                 "thumbnail_url": "https://arabseed.show/wp-content/uploads/2024/12/MV5BODViM2Y2YzItMGQ3NS00ZTYyLTg2MDYtYmI3ZjkyNDlhZDQzXkEyXkFqcGc@.jpg_V1_SX700-440x550.jpg"
@@ -430,11 +435,6 @@
                                 "url": "/مسلسل-jurassic-world-chaos-theory-الموسم-الاول-الحلقة-6-الساد/",
                                 "title": "مسلسل Jurassic World: Chaos Theory الموسم الاول الحلقة 6 السادسة مترجمة",
                                 "thumbnail_url": "https://arabseed.show/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-367x550.jpg"
-                            },
-                            {
-                                "url": "/مسلسل-jurassic-world-chaos-theory-الموسم-الاول-الحلقة-5-الخام/",
-                                "title": "مسلسل Jurassic World: Chaos Theory الموسم الاول الحلقة 5 الخامسة مترجمة",
-                                "thumbnail_url": "https://arabseed.show/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-367x550.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -456,16 +456,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/فيلم-heretic-2024-مترجم/",
-                        "name": "مشاهدة"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

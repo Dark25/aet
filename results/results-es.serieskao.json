@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-luchadora-invencible",
+                                "title": "La luchadora invencible (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/61I9cYCwPuT2iNvHc25434nYikD.jpg"
+                            },
+                            {
                                 "url": "/serie/zorro",
                                 "title": "Zorro (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/8fofhCU3SRcRdXYL3psiW4zfyDt.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/asalto-en-helicoptero",
                                 "title": "Asalto en helicóptero (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wPMXlAIG1ogIAMZ7nhsZaqgxFwE.jpg"
-                            },
-                            {
-                                "url": "/serie/adoracion",
-                                "title": "Adoración (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fWJWAplx0ySW8L28dypO3ntr20X.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/zorro",
-                    "title": "Zorro (2024)",
-                    "description": "Diego de la Vega es elegido para ser el nuevo Zorro, pero su único propósito es desenmascarar a los asesinos de su padre y llevarlos ante la justicia. A medida que asume el papel de Zorro, Diego no solo lucha por la justicia en Los Ángeles, sino que también descubre los desafíos de ser un héroe y cómo su papel afecta a California en el siglo XIX..",
-                    "genre": "Drama, Action & Adventure",
+                    "url": "/serie/la-luchadora-invencible",
+                    "title": "La luchadora invencible (2024)",
+                    "description": "Andy, una joven sueña con convertirse en la mejor luchadora profesional de todos los tiempos. Asumiendo el alias de la luchadora: \"Fight Girl\", Andy se adentra en el extraño y colorido mundo de la lucha libre, decidida a hacerse un nombre..",
+                    "genre": "Animación, Comedia, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/j6eiH5ESpqerF7SWq5MuOJG3tS4.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/61I9cYCwPuT2iNvHc25434nYikD.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/zorro/temporada/1/capitulo/10",
-                        "name": "T1 - E10: Episodio 10",
-                        "episode_number": 10.0
+                        "url": "/serie/la-luchadora-invencible/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Tras el muro: mano y pie",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/serie/zorro/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/la-luchadora-invencible/temporada/1/capitulo/5",
+                        "name": "T1 - E5: El golpe maestro",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NoSuchMethodError: 'int android.util.Log.e(java.lang.String, java.lang.String, java.lang.Throwable)'",
                 "passed": false
             }
         }

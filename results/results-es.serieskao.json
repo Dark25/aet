@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/zorro",
+                                "title": "Zorro (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/8fofhCU3SRcRdXYL3psiW4zfyDt.jpg"
+                            },
+                            {
                                 "url": "/serie/the-sticky",
                                 "title": "The Sticky (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/oSdaPdSQsXby6CswuDoRxonMrE3.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/adoracion",
                                 "title": "Adoración (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fWJWAplx0ySW8L28dypO3ntr20X.jpg"
-                            },
-                            {
-                                "url": "/serie/un-hombre-infiltrado",
-                                "title": "Un hombre infiltrado (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xRT8o1Tj7EdstCH7f2Ham4ugCFI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-sticky",
-                    "title": "The Sticky (2024)",
-                    "description": "Ruth Clarke, una productora canadiense de jarabe de arce de mediana edad, dura y sumamente competente, está harta de verse rodeada por las convenciones educadas y burocráticas propias de la identidad de su país. Con la ayuda de Remy Bouchard, un tonto local diminuto y un anciano Mike Byrne, un mafioso de bajo nivel, Ruth cambia su destino y transforma el futuro de su comunidad con el robo de millones de dólares en jarabe de arce..",
-                    "genre": "Comedia, Drama",
+                    "url": "/serie/zorro",
+                    "title": "Zorro (2024)",
+                    "description": "Diego de la Vega es elegido para ser el nuevo Zorro, pero su único propósito es desenmascarar a los asesinos de su padre y llevarlos ante la justicia. A medida que asume el papel de Zorro, Diego no solo lucha por la justicia en Los Ángeles, sino que también descubre los desafíos de ser un héroe y cómo su papel afecta a California en el siglo XIX..",
+                    "genre": "Drama, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oSdaPdSQsXby6CswuDoRxonMrE3.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/j6eiH5ESpqerF7SWq5MuOJG3tS4.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,74 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-sticky/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/zorro/temporada/1/capitulo/10",
+                        "name": "T1 - E10: Episodio 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/serie/the-sticky/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/zorro/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-9mlwqsvma8zqme7f.voe-network.net/engine/hls2-c/01/12959/jqfkvwkidsvf_,n,.urlset/index-v1-a1.m3u8?t=taYBqNgweEhdzN8hLctlOzURzDcrXCTqTrqCXJLoSZ4&s=1733767656&e=14400&f=64799411&node=delivery-node-iaowrnazdxuc0gfr.voe-network.net&i=4.227&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-9mlwqsvma8zqme7f.voe-network.net/engine/hls2-c/01/12959/jqfkvwkidsvf_,n,.urlset/index-v1-a1.m3u8?t=taYBqNgweEhdzN8hLctlOzURzDcrXCTqTrqCXJLoSZ4&s=1733767656&e=14400&f=64799411&node=delivery-node-iaowrnazdxuc0gfr.voe-network.net&i=4.227&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://hi3thh5oxxww.acek-cdn.com/hls2/01/03096/69m27f1wuil6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=UaIT1jiw34ON8jl5n5orW87uyPyxNw_nZxIBJq5PLvI&s=1733767652&e=129600&f=15482655&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=8075",
-                        "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://hi3thh5oxxww.acek-cdn.com/hls2/01/03096/69m27f1wuil6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=UaIT1jiw34ON8jl5n5orW87uyPyxNw_nZxIBJq5PLvI&s=1733767652&e=129600&f=15482655&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/69m27f1wuil6"
-                        }
-                    },
-                    {
-                        "url": "https://yivvbteqw549.premilkyway.com/hls2/01/07163/98ndqz3qq6kq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=g8Q8Urpa0BFBDRP_Dys6rZ0KEFIgbyC7wVvMVJ91Ok0&s=1733767649&e=129600&f=35818232&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://yivvbteqw549.premilkyway.com/hls2/01/07163/98ndqz3qq6kq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=g8Q8Urpa0BFBDRP_Dys6rZ0KEFIgbyC7wVvMVJ91Ok0&s=1733767649&e=129600&f=35818232&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/98ndqz3qq6kq"
-                        }
-                    },
-                    {
-                        "url": "https://hi3thh5oxxww.acek-cdn.com/hls2/01/03096/69m27f1wuil6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=UaIT1jiw34ON8jl5n5orW87uyPyxNw_nZxIBJq5PLvI&s=1733767652&e=129600&f=15482655&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=8075",
-                        "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://hi3thh5oxxww.acek-cdn.com/hls2/01/03096/69m27f1wuil6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=UaIT1jiw34ON8jl5n5orW87uyPyxNw_nZxIBJq5PLvI&s=1733767652&e=129600&f=15482655&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/69m27f1wuil6"
-                        }
-                    },
-                    {
-                        "url": "https://yivvbteqw549.premilkyway.com/hls2/01/07163/98ndqz3qq6kq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=g8Q8Urpa0BFBDRP_Dys6rZ0KEFIgbyC7wVvMVJ91Ok0&s=1733767649&e=129600&f=35818232&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://yivvbteqw549.premilkyway.com/hls2/01/07163/98ndqz3qq6kq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=g8Q8Urpa0BFBDRP_Dys6rZ0KEFIgbyC7wVvMVJ91Ok0&s=1733767649&e=129600&f=35818232&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/98ndqz3qq6kq"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

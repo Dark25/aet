@@ -3,27 +3,33 @@
         "name": "Bakashi (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: bakashi.tv: No address associated with hostname",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: bakashi.tv",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: bakashi.tv",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: bakashi.tv",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: bakashi.tv",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/closed.html",
+                        "name": "Filme",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: bakashi.tv",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

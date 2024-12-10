@@ -3,15 +3,15 @@
         "name": "AnimeBalkan (SR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: response@531020ccbfc030e60bf516af7a16b0de",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: browser-context@b53b7ea9a9c1a9f5f026aea7cb6c216b",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
@@ -19,7 +19,7 @@
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find parent object request@4673eaa0d01b328e3aee198c613d83ba to create route@87db61bb169b897d072fbbf6ad82093c",
                 "passed": false
             },
             "videos": {

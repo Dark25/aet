@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/secret-level",
+                                "title": "Secret Level (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg"
+                            },
+                            {
                                 "url": "/serie/astronauta",
                                 "title": "Astronauta (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/vxpGmqRuyk4y179ltiJWvVqbbhh.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/la-emperatriz",
                                 "title": "La emperatriz (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg"
-                            },
-                            {
-                                "url": "/serie/nightsleeper",
-                                "title": "Nightsleeper (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/twMzmcKkJpftjhYyrPXETddN08R.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/astronauta",
-                    "title": "Astronauta (2024)",
-                    "description": "Los miembros de la reconocida Agencia Brasileña de Investigación Espacial, BRASA, desaparecen durante una misteriosa misión a la Luna, y el astronauta recientemente retirado de la organización, Pereira, tiene extrañas visiones que lo perturban. Ahora que sus colegas necesitan un rescate urgente, ve la oportunidad perfecta de dirigirse al espacio para comprender la extraña abducción que experimentó cinco años antes..",
-                    "genre": "Animación, Drama, Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/secret-level",
+                    "title": "Secret Level (2024)",
+                    "description": "Serie de antología de los creadores de \"Love, Death + Robots\" que adaptará o re-imaginará numerosas propiedades intelectuales de videojuegos en forma de cortos independientes..",
+                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vxpGmqRuyk4y179ltiJWvVqbbhh.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/astronauta/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/secret-level/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Armored Core: Gestión de recursos",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/astronauta/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/secret-level/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Crossfire: Buen conflicto",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,55 +293,77 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-txpiejhkui5ajpdy.voe-network.net/engine/hls2/01/12993/4lqtwi2wjfy7_,n,.urlset/index-v1-a1.m3u8?t=IJf0jwKWjlZtyL4g7jKbXcnADAs3Gj3ZvMMkTxturbE&s=1733876381&e=14400&f=64968630&node=delivery-node-txpiejhkui5ajpdy.voe-network.net&i=52.190&sp=2500&asn=8075",
-                        "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-txpiejhkui5ajpdy.voe-network.net/engine/hls2/01/12993/4lqtwi2wjfy7_,n,.urlset/index-v1-a1.m3u8?t=IJf0jwKWjlZtyL4g7jKbXcnADAs3Gj3ZvMMkTxturbE&s=1733876381&e=14400&f=64968630&node=delivery-node-txpiejhkui5ajpdy.voe-network.net&i=52.190&sp=2500&asn=8075",
+                        "url": "https://delivery-node-yzb8ntmpkkcltjyh.voe-network.net/engine/hls2-c/01/12994/t0hlzjz0yybt_,n,.urlset/index-v1-a1.m3u8?t=nSkfm4laS2p9TD4sA_44w7vzTBc96YgJeb91mpxYPP4&s=1733897302&e=14400&f=64972567&node=delivery-node-2gleqxg08naupyvz.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:1080p",
+                        "videoUrl": "https://delivery-node-yzb8ntmpkkcltjyh.voe-network.net/engine/hls2-c/01/12994/t0hlzjz0yybt_,n,.urlset/index-v1-a1.m3u8?t=nSkfm4laS2p9TD4sA_44w7vzTBc96YgJeb91mpxYPP4&s=1733897302&e=14400&f=64972567&node=delivery-node-2gleqxg08naupyvz.voe-network.net&i=172.183&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hgc0uswxhnn8.acek-cdn.com/hls2/01/03143/nt8esi6yfawl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=QILtU9QzuBNBPIBDoyNwK8d0EuzM25ZNQjc87G21Svk&s=1733876378&e=129600&f=15715494&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "url": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03143/pew0qw3tqzek_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=vRml6TAJvfL9kEQlJdum_KjWWPs86PLKkg0UDpKla-U&s=1733897300&e=129600&f=15719202&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "quality": "[LAT] StreamHideVid:1080p",
+                        "videoUrl": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03143/pew0qw3tqzek_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=vRml6TAJvfL9kEQlJdum_KjWWPs86PLKkg0UDpKla-U&s=1733897300&e=129600&f=15719202&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/pew0qw3tqzek"
+                        }
+                    },
+                    {
+                        "url": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07307/feqquh1fw5j1_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=FW-nQH1ThGJrh0ZuSCTuUVbwQJPyZUVXeEBr0_pjsn4&s=1733897297&e=129600&f=36537766&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "quality": "[LAT] StreamWish:1080p",
+                        "videoUrl": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07307/feqquh1fw5j1_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=FW-nQH1ThGJrh0ZuSCTuUVbwQJPyZUVXeEBr0_pjsn4&s=1733897297&e=129600&f=36537766&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/feqquh1fw5j1"
+                        }
+                    },
+                    {
+                        "url": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03143/pew0qw3tqzek_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=vRml6TAJvfL9kEQlJdum_KjWWPs86PLKkg0UDpKla-U&s=1733897300&e=129600&f=15719202&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
                         "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://hgc0uswxhnn8.acek-cdn.com/hls2/01/03143/nt8esi6yfawl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=QILtU9QzuBNBPIBDoyNwK8d0EuzM25ZNQjc87G21Svk&s=1733876378&e=129600&f=15715494&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "videoUrl": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03143/pew0qw3tqzek_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=vRml6TAJvfL9kEQlJdum_KjWWPs86PLKkg0UDpKla-U&s=1733897300&e=129600&f=15719202&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/nt8esi6yfawl"
+                            "Referer": "https://vidhideplus.com/embed/pew0qw3tqzek"
                         }
                     },
                     {
-                        "url": "https://n0b3rh4boigl.premilkyway.com/hls2/01/07304/rph44xxofmd3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XgipPwT2G0G3K4-V56-WoEIYBBP-TYWTncFtVcGeEJ0&s=1733876375&e=129600&f=36521072&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07307/feqquh1fw5j1_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=FW-nQH1ThGJrh0ZuSCTuUVbwQJPyZUVXeEBr0_pjsn4&s=1733897297&e=129600&f=36537766&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://n0b3rh4boigl.premilkyway.com/hls2/01/07304/rph44xxofmd3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XgipPwT2G0G3K4-V56-WoEIYBBP-TYWTncFtVcGeEJ0&s=1733876375&e=129600&f=36521072&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07307/feqquh1fw5j1_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=FW-nQH1ThGJrh0ZuSCTuUVbwQJPyZUVXeEBr0_pjsn4&s=1733897297&e=129600&f=36537766&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/rph44xxofmd3"
+                            "Referer": "https://playerwish.com/e/feqquh1fw5j1"
                         }
                     },
                     {
-                        "url": "https://hgc0uswxhnn8.acek-cdn.com/hls2/01/03143/nt8esi6yfawl_,l,n,.urlset/index-f1-v1-a1.m3u8?t=QILtU9QzuBNBPIBDoyNwK8d0EuzM25ZNQjc87G21Svk&s=1733876378&e=129600&f=15715494&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "url": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03143/pew0qw3tqzek_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=vRml6TAJvfL9kEQlJdum_KjWWPs86PLKkg0UDpKla-U&s=1733897300&e=129600&f=15719202&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
                         "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://hgc0uswxhnn8.acek-cdn.com/hls2/01/03143/nt8esi6yfawl_,l,n,.urlset/index-f1-v1-a1.m3u8?t=QILtU9QzuBNBPIBDoyNwK8d0EuzM25ZNQjc87G21Svk&s=1733876378&e=129600&f=15715494&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "videoUrl": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03143/pew0qw3tqzek_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=vRml6TAJvfL9kEQlJdum_KjWWPs86PLKkg0UDpKla-U&s=1733897300&e=129600&f=15719202&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/nt8esi6yfawl"
+                            "Referer": "https://vidhideplus.com/embed/pew0qw3tqzek"
                         }
                     },
                     {
-                        "url": "https://n0b3rh4boigl.premilkyway.com/hls2/01/07304/rph44xxofmd3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=XgipPwT2G0G3K4-V56-WoEIYBBP-TYWTncFtVcGeEJ0&s=1733876375&e=129600&f=36521072&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "url": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07307/feqquh1fw5j1_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=FW-nQH1ThGJrh0ZuSCTuUVbwQJPyZUVXeEBr0_pjsn4&s=1733897297&e=129600&f=36537766&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://n0b3rh4boigl.premilkyway.com/hls2/01/07304/rph44xxofmd3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=XgipPwT2G0G3K4-V56-WoEIYBBP-TYWTncFtVcGeEJ0&s=1733876375&e=129600&f=36521072&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8075",
+                        "videoUrl": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07307/feqquh1fw5j1_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=FW-nQH1ThGJrh0ZuSCTuUVbwQJPyZUVXeEBr0_pjsn4&s=1733897297&e=129600&f=36537766&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/rph44xxofmd3"
+                            "Referer": "https://playerwish.com/e/feqquh1fw5j1"
                         }
                     }
                 ],

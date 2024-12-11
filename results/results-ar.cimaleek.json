@@ -3,7 +3,7 @@
         "name": "سيما ليك (AR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call close: browser@75a3b89cf12a900cde6348005a8c0dd6",
                 "passed": false
             },
             "latest": {

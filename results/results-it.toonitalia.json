@@ -133,11 +133,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/dream-productions/#3",
+                        "name": "Stagione 01 - Episodi 04",
+                        "episode_number": 1.004
+                    },
+                    {
+                        "url": "/dream-productions/#2",
+                        "name": "Stagione 01 - Episodi 03",
+                        "episode_number": 1.003
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

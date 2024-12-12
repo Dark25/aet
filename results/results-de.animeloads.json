@@ -252,8 +252,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=RQm4Q3QJVyideZk&expires=1734075244&ip=FROsEHMnDS9X&token=UOzZNodElR04",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=RQm4Q3QJVyideZk&expires=1734075244&ip=FROsEHMnDS9X&token=UOzZNodElR04"
+                    }
+                ],
+                "passed": true
             }
         }
     }

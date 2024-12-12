@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/campana-de-bendicion-latino",
+                                "title": "Campana de bendición Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/campana-de-bendicion-latino-1733961315.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/moeyo-ken-tv-latino",
                                 "title": "Moeyo Ken TV Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/moeyo-ken-tv-latino-1733444028.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/dandadan-castellano",
                                 "title": "Dandadan Netflix Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/dandadan-castellano-1727972501.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/dandadan-latino",
-                                "title": "Dandadan Netflix Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/dandadan-latino-1727972190.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/moeyo-ken-tv-latino",
-                    "title": "Moeyo Ken TV Latino",
-                    "description": "La historia se sitúa en el año 15 de la era Meiji, cuando extrañas criaturas sobrenaturales comienzan a causar estragos en las calles de Kioto. Para enfrentarlas, Katsu Kaishu organiza el \"Kidou Shinsengumi\", liderado por Oryou, la esposa de Ryoma. Con el tiempo, tres jóvenes guerreras asumen la responsabilidad de luchar por la justicia: Yuko Kondo, Toshie Hijikata y Kaoru Okita. Siguiendo los pasos de sus padres como leales samuráis del Shinsengumi, se enfrentan a un Japón que ha cambiado profundamente. Su misión es proteger al país de las amenazas actuales, aunque su actitud desafiante a menudo genera más problemas de los que resuelven. ¿Lograrán estas encantadoras guerreras restaurar su reputación mientras salvan Kioto? ¡Prepárate para una fascinante serie que mezcla historia y fenómenos sobrenaturales!",
-                    "genre": "Aventura, Comedia, Fantasía, Histórico",
+                    "url": "/anime/campana-de-bendicion-latino",
+                    "title": "Campana de bendición Latino",
+                    "description": "La historia tiene lugar en una ciudad comercial rodeada por el mar, donde mercaderes y aventureros de todo el mundo se reúnen, conocida también como la \"Tesorería del Mundo\". Es el hogar de muchas personas que viven cada día persiguiendo sus sueños. Esta es una historia algo misteriosa, protagonizada por un aventurero y sus divertidos compañeros. Y al descubrir a una misteriosa chica que despierta de un largo sueño, ¡la vida de Leicester está a punto de cambiar!",
+                    "genre": "Aventura, Fantasía, Harem",
                     "initialized": true
                 },
                 "passed": true
@@ -335,14 +335,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/moeyo-ken-tv-latino-episodio-4",
-                        "name": "Moeyo Ken TV Latino Capitulo 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/ver/moeyo-ken-tv-latino-episodio-3",
-                        "name": "Moeyo Ken TV Latino Capitulo 3",
-                        "episode_number": 3.0
+                        "url": "/ver/campana-de-bendicion-latino-episodio-1",
+                        "name": "Campana de bendición Latino Capitulo 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -350,9 +345,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www6.mp4upload.com:183/d/sgx5kielz3b4quuotgrawikzczetp2upmol2mvwjooipld2uthqblr2mpjhz4ml6ibawdqrr/video.mp4",
+                        "url": "https://delivery-node-d26zysohjhaqkqbo.voe-network.net/engine/hls2-c/01/13013/9hvjvdivgs5n_,n,.urlset/index-v1-a1.m3u8?t=enNW2lAe9FQvWzAjWymWTKGKktRYz40gHlPyqWHUu2o&s=1733962748&e=14400&f=65065078&node=delivery-node-mu6fsuds3zuz3fgi.voe-network.net&i=13.90&sp=2500&asn=8075",
+                        "quality": " - Voe: 1080p",
+                        "videoUrl": "https://delivery-node-d26zysohjhaqkqbo.voe-network.net/engine/hls2-c/01/13013/9hvjvdivgs5n_,n,.urlset/index-v1-a1.m3u8?t=enNW2lAe9FQvWzAjWymWTKGKktRYz40gHlPyqWHUu2o&s=1733962748&e=14400&f=65065078&node=delivery-node-mu6fsuds3zuz3fgi.voe-network.net&i=13.90&sp=2500&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://voe.sx",
+                            "Referer": "https://voe.sx/e/9hvjvdivgs5n"
+                        }
+                    },
+                    {
+                        "url": "https://www3.mp4upload.com:183/d/r2xuu34lz3b4quuotorb6ikdcazpygudu2l6hws4jpai5nmcmnrxbn2yi47seigjz5472ktf/video.mp4",
                         "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www6.mp4upload.com:183/d/sgx5kielz3b4quuotgrawikzczetp2upmol2mvwjooipld2uthqblr2mpjhz4ml6ibawdqrr/video.mp4",
+                        "videoUrl": "https://www3.mp4upload.com:183/d/r2xuu34lz3b4quuotorb6ikdcazpygudu2l6hws4jpai5nmcmnrxbn2yi47seigjz5472ktf/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

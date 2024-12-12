@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/kraven-el-cazador/",
+                                "title": "Kraven el cazador",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/alOroPhrYxhUx7txhlWM8uLuBjv.jpg"
+                            },
+                            {
                                 "url": "/pelicula/la-quimera-del-oro/",
                                 "title": "La quimera del oro",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/jU1KhFlRm7UTURXjW4vQNzQ4GQj.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/pelicula/te-deseamos-una-navidad-casada/",
                                 "title": "Te deseamos una Navidad casada",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/47TLgN5SPbiuKj1sRPviZFsMVNN.jpg"
-                            },
-                            {
-                                "url": "/pelicula/una-navidad-legendaria/",
-                                "title": "Una Navidad legendaria",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7QjYxH688XPSiCfPdPFhTzkwyH2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,6 +166,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/spice-and-wolf-merchant-meets-the-wise-wolf/",
+                                "title": "Spice and Wolf: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hXkohm9sjfQNovbwyp4xHNuW2r0.jpg"
+                            },
+                            {
+                                "url": "/pelicula/kraven-el-cazador/",
+                                "title": "Kraven el cazador",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/alOroPhrYxhUx7txhlWM8uLuBjv.jpg"
+                            },
                             {
                                 "url": "/pelicula/the-outrun/",
                                 "title": "The Outrun",
@@ -305,16 +315,6 @@
                                 "url": "/pelicula/el-tren-de-los-ninos/",
                                 "title": "El tren de los niños",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E0rGo5oUPjwcJkyiaPaLh6PiJo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ciudad-de-asfalto/",
-                                "title": "Ciudad de asfalto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
-                            },
-                            {
-                                "url": "/series/palomas-negras/",
-                                "title": "Palomas negras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -484,11 +484,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-quimera-del-oro/",
-                    "title": "La quimera del oro",
-                    "description": "Venturas de un solitario buscador de oro en Alaska, donde se topa con varios personajes rudos y se enamora de la hermosa Georgia, a la que trata de conquistar.\n\nTítulo original: The Gold Rush",
-                    "genre": "Aventura, Comedia, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/jU1KhFlRm7UTURXjW4vQNzQ4GQj.jpg",
+                    "url": "/pelicula/kraven-el-cazador/",
+                    "title": "Kraven el cazador",
+                    "description": "El inmigrante ruso Sergei Kravinoff está en una misión para demostrar que es el mejor cazador del mundo.\n\nTítulo original: Kraven the Hunter",
+                    "genre": "Acción, Aventura, Suspenso",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/alOroPhrYxhUx7txhlWM8uLuBjv.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -496,7 +496,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-quimera-del-oro/",
+                        "url": "/pelicula/kraven-el-cazador/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -506,77 +506,55 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-hed8bmrmydbllaqt.voe-network.net/engine/hls2/01/13010/ilnkiftz5ume_,n,.urlset/index-v1-a1.m3u8?t=Xa7quDy3M8RmhnqEuUz2mWXB45-1qWT2m-ZHYcAyNQ8&s=1734005299&e=14400&f=65051718&node=delivery-node-hed8bmrmydbllaqt.voe-network.net&i=13.91&sp=2500&asn=8075",
-                        "quality": " [SUB] Voe:720p",
-                        "videoUrl": "https://delivery-node-hed8bmrmydbllaqt.voe-network.net/engine/hls2/01/13010/ilnkiftz5ume_,n,.urlset/index-v1-a1.m3u8?t=Xa7quDy3M8RmhnqEuUz2mWXB45-1qWT2m-ZHYcAyNQ8&s=1734005299&e=14400&f=65051718&node=delivery-node-hed8bmrmydbllaqt.voe-network.net&i=13.91&sp=2500&asn=8075",
+                        "url": "https://delivery-node-pkfymg1iabjtitdd.voe-network.net/engine/hls2-c/01/13014/j4mlrnpgjkdb_,n,.urlset/index-v1-a1.m3u8?t=G9IQE5c_R6n6KMrUq1EQrMEe4YVIxfw3hsmC0k5InEc&s=1734026815&e=14400&f=65095555&node=delivery-node-unvmoyay2i0b8cnh.voe-network.net&i=20.102&sp=2500&asn=8075",
+                        "quality": " [LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-pkfymg1iabjtitdd.voe-network.net/engine/hls2-c/01/13014/j4mlrnpgjkdb_,n,.urlset/index-v1-a1.m3u8?t=G9IQE5c_R6n6KMrUq1EQrMEe4YVIxfw3hsmC0k5InEc&s=1734026815&e=14400&f=65095555&node=delivery-node-unvmoyay2i0b8cnh.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03152/pgj6kzvsp0ai_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=LwWrYEySlzvpRb9M5xuDUr8n7IlX2FxN4lCkbnYbwyA&s=1734005296&e=129600&f=15762276&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
-                        "quality": " [SUB] StreamHideVid:720p",
-                        "videoUrl": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03152/pgj6kzvsp0ai_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=LwWrYEySlzvpRb9M5xuDUr8n7IlX2FxN4lCkbnYbwyA&s=1734005296&e=129600&f=15762276&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://qdihmnfwepxni.acek-cdn.com/hls2/01/03164/zfs2jauyi8f7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=V478wXCotknaI31ShT2lHakjD3gsorLmeApyTKGrTT8&s=1734026813&e=129600&f=15820613&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=8075",
+                        "quality": " [LAT] StreamHideVid:720p",
+                        "videoUrl": "https://qdihmnfwepxni.acek-cdn.com/hls2/01/03164/zfs2jauyi8f7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=V478wXCotknaI31ShT2lHakjD3gsorLmeApyTKGrTT8&s=1734026813&e=129600&f=15820613&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/pgj6kzvsp0ai"
+                            "Referer": "https://vidhideplus.com/embed/zfs2jauyi8f7"
                         }
                     },
                     {
-                        "url": "https://2goita23a7njj.premilkyway.com/hls2/01/07338/0dedp7tq59t2_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6EIBefsKgExm94JaysVVa4z-DiJ14uSyEEkutTxvf8w&s=1734005293&e=129600&f=36692620&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
-                        "quality": " [SUB] StreamWish: - 720p",
-                        "videoUrl": "https://2goita23a7njj.premilkyway.com/hls2/01/07338/0dedp7tq59t2_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6EIBefsKgExm94JaysVVa4z-DiJ14uSyEEkutTxvf8w&s=1734005293&e=129600&f=36692620&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
+                        "url": "https://zq62mmaomhqa.premilkyway.com/hls2/01/07365/kqwmb7acsqit_n/index-v1-a1.m3u8?t=DM9qu1jEIV2voAoIOuiWhq1d_0X-cSQLZBidxa7iMLM&s=1734026810&e=129600&f=36879353&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "quality": " [LAT] StreamWish: - 720p",
+                        "videoUrl": "https://zq62mmaomhqa.premilkyway.com/hls2/01/07365/kqwmb7acsqit_n/index-v1-a1.m3u8?t=DM9qu1jEIV2voAoIOuiWhq1d_0X-cSQLZBidxa7iMLM&s=1734026810&e=129600&f=36879353&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/0dedp7tq59t2"
+                            "Referer": "https://playerwish.com/e/z2vwb4fwfcgs"
                         }
                     },
                     {
-                        "url": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03152/pgj6kzvsp0ai_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=LwWrYEySlzvpRb9M5xuDUr8n7IlX2FxN4lCkbnYbwyA&s=1734005296&e=129600&f=15762276&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
-                        "quality": " [SUB] StreamHideVid:1080p",
-                        "videoUrl": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03152/pgj6kzvsp0ai_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=LwWrYEySlzvpRb9M5xuDUr8n7IlX2FxN4lCkbnYbwyA&s=1734005296&e=129600&f=15762276&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://qdihmnfwepxni.acek-cdn.com/hls2/01/03164/zfs2jauyi8f7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=V478wXCotknaI31ShT2lHakjD3gsorLmeApyTKGrTT8&s=1734026813&e=129600&f=15820613&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=8075",
+                        "quality": " [LAT] StreamHideVid:1080p",
+                        "videoUrl": "https://qdihmnfwepxni.acek-cdn.com/hls2/01/03164/zfs2jauyi8f7_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=V478wXCotknaI31ShT2lHakjD3gsorLmeApyTKGrTT8&s=1734026813&e=129600&f=15820613&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/pgj6kzvsp0ai"
+                            "Referer": "https://vidhideplus.com/embed/zfs2jauyi8f7"
                         }
                     },
                     {
-                        "url": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03152/pgj6kzvsp0ai_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=LwWrYEySlzvpRb9M5xuDUr8n7IlX2FxN4lCkbnYbwyA&s=1734005296&e=129600&f=15762276&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
-                        "quality": " [SUB] StreamHideVid:480p",
-                        "videoUrl": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03152/pgj6kzvsp0ai_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=LwWrYEySlzvpRb9M5xuDUr8n7IlX2FxN4lCkbnYbwyA&s=1734005296&e=129600&f=15762276&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "url": "https://qdihmnfwepxni.acek-cdn.com/hls2/01/03164/zfs2jauyi8f7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=V478wXCotknaI31ShT2lHakjD3gsorLmeApyTKGrTT8&s=1734026813&e=129600&f=15820613&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=8075",
+                        "quality": " [LAT] StreamHideVid:480p",
+                        "videoUrl": "https://qdihmnfwepxni.acek-cdn.com/hls2/01/03164/zfs2jauyi8f7_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=V478wXCotknaI31ShT2lHakjD3gsorLmeApyTKGrTT8&s=1734026813&e=129600&f=15820613&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/pgj6kzvsp0ai"
-                        }
-                    },
-                    {
-                        "url": "https://2goita23a7njj.premilkyway.com/hls2/01/07338/0dedp7tq59t2_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=6EIBefsKgExm94JaysVVa4z-DiJ14uSyEEkutTxvf8w&s=1734005293&e=129600&f=36692620&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
-                        "quality": " [SUB] StreamWish: - 1080p",
-                        "videoUrl": "https://2goita23a7njj.premilkyway.com/hls2/01/07338/0dedp7tq59t2_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=6EIBefsKgExm94JaysVVa4z-DiJ14uSyEEkutTxvf8w&s=1734005293&e=129600&f=36692620&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/0dedp7tq59t2"
-                        }
-                    },
-                    {
-                        "url": "https://2goita23a7njj.premilkyway.com/hls2/01/07338/0dedp7tq59t2_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=6EIBefsKgExm94JaysVVa4z-DiJ14uSyEEkutTxvf8w&s=1734005293&e=129600&f=36692620&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
-                        "quality": " [SUB] StreamWish: - 480p",
-                        "videoUrl": "https://2goita23a7njj.premilkyway.com/hls2/01/07338/0dedp7tq59t2_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=6EIBefsKgExm94JaysVVa4z-DiJ14uSyEEkutTxvf8w&s=1734005293&e=129600&f=36692620&srv=jubDiYuWLQCqfHI&i=0.0&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/0dedp7tq59t2"
+                            "Referer": "https://vidhideplus.com/embed/zfs2jauyi8f7"
                         }
                     }
                 ],

@@ -3,23 +3,23 @@
         "name": "Flixei (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: flixei.com: Name or service not known",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 405",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: flixei.com",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: flixei.com",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: flixei.com",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: flixei.com",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {

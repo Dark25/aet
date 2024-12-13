@@ -257,14 +257,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/10",
+                        "name": "Episode 10",
+                        "episode_number": 10.0
+                    },
+                    {
                         "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/9",
                         "name": "Episode 9",
                         "episode_number": 9.0
-                    },
-                    {
-                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/8",
-                        "name": "Episode 8",
-                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -272,31 +272,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeie6zsctkj5tq36qsytwegwd5ahkvujpfh46mwxyrcokmrwjaswffu/1920x1080.m3u8",
-                        "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
-                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeie6zsctkj5tq36qsytwegwd5ahkvujpfh46mwxyrcokmrwjaswffu/1920x1080.m3u8",
+                        "url": "https://sudatchi.com/videos/m3u8/episode-7598.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - Video",
+                        "videoUrl": "https://sudatchi.com/videos/m3u8/episode-7598.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiagbar5flhkg5oiq6xw7d7tvt4jijkzhepwskbk2zptgrl673eoki",
-                                "lang": "English (eng)"
-                            },
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiee632vpxvndlt5xrvjuk4yhphpb5cddha3l55tjxolx7h5oyb2vq",
-                                "lang": "French (fra)"
-                            },
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafybeihukw25dwtb5bm3zowhjikgdbvaih7nsgt3gizekejwcf4lczqrwu",
-                                "lang": "Latin American Spanish (spa-419)"
-                            },
-                            {
-                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiaezjtfg7kkene7ob35akdxrqy3qbuegffc7oyqd2wtpchmz5f7n4",
-                                "lang": "Russian (rus)"
-                            }
-                        ]
+                        }
                     }
                 ],
                 "passed": true

@@ -3,27 +3,27 @@
         "name": "RineCloud (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: rine.cloud: No address associated with hostname",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: rine.cloud",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: rine.cloud",
+                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: rine.cloud",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: rine.cloud",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: rine.cloud",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

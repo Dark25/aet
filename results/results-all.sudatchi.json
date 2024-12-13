@@ -272,13 +272,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://sudatchi.com/videos/m3u8/episode-7598.m3u8",
-                        "quality": "Sudatchi (Private IPFS Gateway) - Video",
-                        "videoUrl": "https://sudatchi.com/videos/m3u8/episode-7598.m3u8",
+                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeiekhqoenvk7wyubq7wvaeo5hnndphirtczzae7izhlfxhivnkqmjm/1920x1080.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
+                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeiekhqoenvk7wyubq7wvaeo5hnndphirtczzae7izhlfxhivnkqmjm/1920x1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreiaziitlnaneoy33ufssh2mdm6pn35wouwubrmigh35mlpk2rug6dy",
+                                "lang": "English (eng)"
+                            },
+                            {
+                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreifzkx7njtnzsccdaxtj5so6nqnawln3wxwmyac2gprkhhhe2r7h4u",
+                                "lang": "French (fra)"
+                            },
+                            {
+                                "url": "https://gboesk298le91ct41kibaonc7o.ingress.akashprovid.com/ipfs/bafkreia6gdtlqdhbj63eco34ksxai2w55mpbenzj3ox2ryozhhhjkhvyvi",
+                                "lang": "Russian (rus)"
+                            }
+                        ]
                     }
                 ],
                 "passed": true

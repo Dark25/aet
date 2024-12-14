@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/operacao-natal/",
+                                "title": "Operação Natal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg"
+                            },
+                            {
+                                "url": "/filmes/venom-a-ultima-rodada/",
+                                "title": "Venom: A Última Rodada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jQ92em8SMpu0ufGUtZNVlvxO4Qr.jpg"
+                            },
+                            {
+                                "url": "/series/producao-de-sonhos/",
+                                "title": "Produção de Sonhos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tdrfeW1E1K7DuscNS0nX8BhoT5q.jpg"
+                            },
+                            {
                                 "url": "/filmes/nao-solte/",
                                 "title": "Não Solte!",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg"
@@ -37,11 +52,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/z1hNoGhH12ISnPzPqMOq1QLVGdu.jpg"
                             },
                             {
-                                "url": "/filmes/operacao-natal/",
-                                "title": "Operação Natal",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vjwR2Wql9BIrwkKWyvDLSuFeDgE.jpg"
-                            },
-                            {
                                 "url": "/series/os-quatro-da-candelaria/",
                                 "title": "Os Quatro da Candelária",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/qJ1JYXVuexmYHiyTSlB7PCZb6WQ.jpg"
@@ -55,16 +65,6 @@
                                 "url": "/series/greys-anatomy/",
                                 "title": "Grey’s Anatomy",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/nDkcmSOgQTp7cDrMczPKCNa8SZQ.jpg"
-                            },
-                            {
-                                "url": "/series/the-walking-dead-daryl-dixon/",
-                                "title": "The Walking Dead: Daryl Dixon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iuorrLyDwiOOwsCeEwtCyMOZFh8.jpg"
-                            },
-                            {
-                                "url": "/filmes/venom-a-ultima-rodada/",
-                                "title": "Venom: A Última Rodada",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/producao-de-sonhos/",
+                                "title": "Produção de Sonhos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tdrfeW1E1K7DuscNS0nX8BhoT5q.jpg"
+                            },
                             {
                                 "url": "/series/duna-a-profecia/",
                                 "title": "Duna: A Profecia",
@@ -132,9 +137,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg"
                             },
                             {
-                                "url": "/series/the-boys/",
-                                "title": "The Boys",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+                                "url": "/series/dexter-pecado-original/",
+                                "title": "Dexter: Pecado Original",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/w1iM0vkMz9XVCH1ZBiU3m1288G5.jpg"
+                            },
+                            {
+                                "url": "/series/producao-de-sonhos/",
+                                "title": "Produção de Sonhos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tdrfeW1E1K7DuscNS0nX8BhoT5q.jpg"
                             },
                             {
                                 "url": "/series/zorro-3/",
@@ -275,16 +285,6 @@
                                 "url": "/series/nightsleeper/",
                                 "title": "Nightsleeper",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/twMzmcKkJpftjhYyrPXETddN08R.jpg"
-                            },
-                            {
-                                "url": "/series/a-ultima-noite-em-tremor/",
-                                "title": "A Última Noite em Tremor",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zLtU1IPWjGWPApBVA3WsCSLFZet.jpg"
-                            },
-                            {
-                                "url": "/series/abducao-em-manhattan/",
-                                "title": "Abdução em Manhattan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kYw20vNoO9A4PjbVlNqhQaeIUl9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/nao-solte/",
-                    "title": "Não Solte!",
-                    "description": "Uma ameaça sobrenatural desconhecida domina o mundo exterior, deixando a segurança de uma mãe e seus filhos gêmeos restrita à proteção de sua casa e ao vínculo familiar. A mãe e seus filhos se mantêm ligados por cordas dentro de sua residência para protegerem-se do mal que assola o mundo exterior. No entanto, quando um dos meninos começa a questionar a realidade do mal que os cercam, a frágil segurança da família começa a se desintegrar.\n\nTítulo Original: Never Let Go",
-                    "genre": "Drama, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg",
+                    "url": "/filmes/operacao-natal/",
+                    "title": "Operação Natal",
+                    "description": "Depois que o Papai Noel – codinome: Das Neves – é sequestrado, o Chefe de Segurança do Polo Norte deve se unir ao mais infame caçador de recompensas do mundo em uma missão global e cheia de ação para salvar o Natal.\n\nTítulo Original: Red One",
+                    "genre": "Ação, Aventura, Comédia, Família, Fantasia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/nao-solte/",
+                        "url": "/filmes/operacao-natal/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

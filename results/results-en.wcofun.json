@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jentry-chau-vs-the-underworld",
+                                "title": "Jentry Chau vs the Underworld",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg"
+                            },
+                            {
+                                "url": "/anime/press-start",
+                                "title": "Press Start!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933816.jpg"
+                            },
+                            {
+                                "url": "/anime/creature-commandos",
+                                "title": "Creature Commandos",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933815.jpg"
+                            },
+                            {
                                 "url": "/anime/secret-level",
                                 "title": "Secret Level",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933814.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/tokyo-override-english-subbed",
                                 "title": "Tokyo Override English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933802.jpg"
-                            },
-                            {
-                                "url": "/anime/total-drama-island-reboot",
-                                "title": "Total Drama Island: Reboot",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg"
-                            },
-                            {
-                                "url": "/anime/shasha-and-milo",
-                                "title": "Shasha and Milo",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg"
-                            },
-                            {
-                                "url": "/anime/dee-friends-in-oz",
-                                "title": "Dee & Friends in Oz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933799.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/secret-level",
-                    "title": "Secret Level",
-                    "description": "Original stories set within the worlds of iconic video games are featured in this animated anthology series.",
-                    "genre": "Action, Animation, Anime, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933814.jpg",
+                    "url": "/anime/jentry-chau-vs-the-underworld",
+                    "title": "Jentry Chau vs the Underworld",
+                    "description": "A Chinese-American teen living in a small Texas town finds out a demon king is hunting her for the supernatural powers she’s been working her whole life to repress.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/secret-level-episode-8-armored-core-asset-management",
-                        "name": "Season 1 - Episode 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/secret-level-episode-7-crossfire-good-conflict",
-                        "name": "Season 1 - Episode 7",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoM6Gj90lp9ylg_cKxe8lS7RgNFwqAqNJE96q2lNxHjDNLx1zfKd2nPKxSp6Ap4MIGEuW685k2t5tvPUMkRUx9v9hLpS-TBbzY9aLhS9Rij86RPfPzIoOd1ET83SAoW-wgEZK2Y306Zu6Gh3NEJyb-RsY1yB6OM4pSqdLyYAc7JmBWkuDxYiUI0liVeZUccf_Mne293vu25dtT3nlQsshu5jbQ28URPVv1677ssCRpNbZ6zObyvcO828UQ6q4av3_w3ZfKhxr5WG3Pgzx1u7x2ZvhOldqIcwg7Nqc3EGUKBeP24EGYl-4K4LAPZHC7RUEdRerX_m5GhaC_4o8vofbFn4xt0Z0Q4vMMSIBV7Q37_KYBJOKUyBjh6fBkbMjEj_i1ofhKdTkWJYpiO_vdOFs4uupQIvvstK5SqPa0o9UYUc",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoM6Gj90lp9ylg_cKxe8lS7RgNFwqAqNJE96q2lNxHjDNLx1zfKd2nPKxSp6Ap4MIGEuW685k2t5tvPUMkRUx9v9hLpS-TBbzY9aLhS9Rij86RPfPzIoOd1ET83SAoW-wgEZK2Y306Zu6Gh3NEJyb-RsY1yB6OM4pSqdLyYAc7JmBWkuDxYiUI0liVeZUccf_Mne293vu25dtT3nlQsshu5jbQ28URPVv1677ssCRpNbZ6zObyvcO828UQ6q4av3_w3ZfKhxr5WG3Pgzx1u7x2ZvhOldqIcwg7Nqc3EGUKBeP24EGYl-4K4LAPZHC7RUEdRerX_m5GhaC_4o8vofbFn4xt0Z0Q4vMMSIBV7Q37_KYBJOKUyBjh6fBkbMjEj_i1ofhKdTkWJYpiO_vdOFs4uupQIvvstK5SqPa0o9UYUc"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoM6Gj90lp9ylg_cKxe8lS7RgNFwqAqNJE96q2lNxHjDNLx1zfKd2nPKxSp6Ap4MIGEuW685k2t5tvPUMkRUx9v9hLpS-TBbzY9aLhS9Rij86RPfPzIoOd1ET83SAoW-wnfrqTsKmY4hrkLNipuffGlyJbUiSnw-KiCeoM5SlRc6SRrFbRJ5mU39FRjPNBJvcyI4xip5ZP3CbWYeOYNtwmBMb1odsjAp91aWMDqbfl4jLFEcSqzDlrUAPKevYCKUM_07XjMWHM8JtmaOaUWOE-ci6EWCaswkaoD-wmx7NRJJE2XNxNyMTsn2U4t5IQ2g3DytEMopH6rY-CTvTL1SD6VfDpv3geFtQomVCgjnWr1LmeNpcaRCagoaUier1KoqhF6IzmGY5z10J-jHFLxh_zk",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoM6Gj90lp9ylg_cKxe8lS7RgNFwqAqNJE96q2lNxHjDNLx1zfKd2nPKxSp6Ap4MIGEuW685k2t5tvPUMkRUx9v9hLpS-TBbzY9aLhS9Rij86RPfPzIoOd1ET83SAoW-wnfrqTsKmY4hrkLNipuffGlyJbUiSnw-KiCeoM5SlRc6SRrFbRJ5mU39FRjPNBJvcyI4xip5ZP3CbWYeOYNtwmBMb1odsjAp91aWMDqbfl4jLFEcSqzDlrUAPKevYCKUM_07XjMWHM8JtmaOaUWOE-ci6EWCaswkaoD-wmx7NRJJE2XNxNyMTsn2U4t5IQ2g3DytEMopH6rY-CTvTL1SD6VfDpv3geFtQomVCgjnWr1LmeNpcaRCagoaUier1KoqhF6IzmGY5z10J-jHFLxh_zk"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

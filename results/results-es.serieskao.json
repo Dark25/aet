@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/invisible",
+                                "title": "Invisible (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9EwJPHs6oDTXNnp97zdwLZ1VFFe.jpg"
+                            },
+                            {
                                 "url": "/serie/cuando-el-telefono-suena",
                                 "title": "Cuando el teléfono suena (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6UnZi4kWQLWmbO0D9qV8VE9eMfj.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/una-maleta",
                                 "title": "Una maleta (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c8QkpkrFadUBumJAnsI4zJOXPnn.jpg"
-                            },
-                            {
-                                "url": "/serie/the-agency-la-agencia",
-                                "title": "The Agency (La agencia) (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/j0fFZIksd4nu8bNLGLq8GJ4KXFA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,20 +264,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/cuando-el-telefono-suena",
-                    "title": "Cuando el teléfono suena (2024)",
-                    "description": "Un político en ascenso y su esposa muda ven cómo su tenso matrimonio se desmorona tras la llamada de un secuestrador pone sus vidas patas arriba..",
-                    "genre": "Drama, Misterio",
+                    "url": "/serie/invisible",
+                    "title": "Invisible (2020)",
+                    "description": "Una limpiadora busca desesperadamente a su marido mientras una temible organización criminal desentierra las tragedias de su pasado y acaba empujándola a la violencia..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6UnZi4kWQLWmbO0D9qV8VE9eMfj.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lFKtgbboQohDi4tJNX1jp50WoXC.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/serie/invisible/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/serie/invisible/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

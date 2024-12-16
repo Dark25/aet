@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/미팅에 나갔는데 여자가 없었던 이야기",
+                                "title": "미팅에 나갔는데 여자가 없었던 이야기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/fbeb64ad98d2ca276185b6e3d44c3af7_1727713569_3992.jpg"
+                            },
+                            {
                                 "url": "/c/베이블레이드X 2장",
                                 "title": "베이블레이드X 2장",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/f53ca972716f4c848bc76bc11919bd15_1729287650_0284.jpg"
@@ -272,11 +277,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/fbeb64ad98d2ca276185b6e3d44c3af7_1727715306_7377.jpg"
                             },
                             {
-                                "url": "/c/미팅에 나갔는데 여자가 없었던 이야기",
-                                "title": "미팅에 나갔는데 여자가 없었던 이야기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/fbeb64ad98d2ca276185b6e3d44c3af7_1727713569_3992.jpg"
-                            },
-                            {
                                 "url": "/c/MF 고스트 2nd Season",
                                 "title": "MF 고스트 2nd Season",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728398426_1852.jpg"
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/베이블레이드X 2장",
-                    "title": "베이블레이드X 2장",
-                    "description": "원제: ベイブレードX\n원작: 쇼각칸, Takara Tomy\n감독: 테라다 모토\n각본: 효도 카즈호\n캐릭터 디자인: 나가모리 요시히로\n음악: 세바스찬 로버트슨\n장르: 능력, 배틀, 스포츠\n방영일: 2024.10.18 18:25 (금)\n등급: 전체\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/f53ca972716f4c848bc76bc11919bd15_1729287650_0284.jpg",
+                    "url": "/c/미팅에 나갔는데 여자가 없었던 이야기",
+                    "title": "미팅에 나갔는데 여자가 없었던 이야기",
+                    "description": "원제: 合コンに行ったら女がいなかった話\n원작: 아오카와 나나\n감독: 코가 카즈오미\n각본: 아카오 데코\n캐릭터 디자인: 타나베 요코\n음악: Technoboys Pulcraft Green-Fund\n장르: 드라마, 로맨스, 코미디\n방영일: 2024.09.30 01:30 (월)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/fbeb64ad98d2ca276185b6e3d44c3af7_1727713569_3992.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,22 +505,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/베이블레이드X 2장 9화",
-                        "name": "베이블레이드X 2장 9화",
+                        "url": "/e/미팅에 나갔는데 여자가 없었던 이야기 12화(完)",
+                        "name": "미팅에 나갔는데 여자가 없었던 이야기 12화(完)",
                         "date_upload": 1734307200000,
-                        "episode_number": 9.0
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/e/베이블레이드X 2장 8화",
-                        "name": "베이블레이드X 2장 8화",
+                        "url": "/e/미팅에 나갔는데 여자가 없었던 이야기 11화",
+                        "name": "미팅에 나갔는데 여자가 없었던 이야기 11화",
                         "date_upload": 1733702400000,
-                        "episode_number": 8.0
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dc-heroes-united",
+                                "title": "DC Heroes United",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933818.jpg"
+                            },
+                            {
                                 "url": "/anime/jentry-chau-vs-the-underworld",
                                 "title": "Jentry Chau vs the Underworld",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/fate-strange-fake",
                                 "title": "Fate/strange Fake",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg"
-                            },
-                            {
-                                "url": "/anime/tokyo-override-english-subbed",
-                                "title": "Tokyo Override English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933802.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jentry-chau-vs-the-underworld",
-                    "title": "Jentry Chau vs the Underworld",
-                    "description": "A Chinese-American teen living in a small Texas town finds out a demon king is hunting her for the supernatural powers she’s been working her whole life to repress.",
+                    "url": "/anime/dc-heroes-united",
+                    "title": "DC Heroes United",
+                    "description": "Join your favorite DC heroes as they work together to save citizens from evil-doers and their nefarious plans of world domination.",
                     "genre": "Action, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933818.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/dc-heroes-united-episode-4-fear-revealed-part-1",
+                        "name": "Season 1 - Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/dc-heroes-united-episode-3-friend-or-foe-part-2",
+                        "name": "Season 1 - Episode 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtAK6m4woAE374Rv5EJjbxM_r7LpbwRbQVTrNnAQfKHQaQ0FuC5IxJmBIkpA-QNThI-2DmP3lo0FtjiPpgiS0q_4b940bLkfPVQqw67MqOOYo03j6JOIyuZgBzh4MipWhg4hRW8ADF2o0oOAXTqUF-IsaysTsu-QN0rFhCzueZVaH9g-uK9E1Fqaps5MFByJGcgS-vNUbPiNnFxwSnr26gK6IFUWruMgu53Zqo4kYkdgYAZfUTzbWzBbo4UZPkEGmFO6pUy_F6bCR6gijlx4zNgDnQeoliOM9jlvzr6qO35uyJ-ar8X-585cll2n5sG-RRGYJM8WKVbcGMznY_gNhUvu03jxphpNsTPVeLD0dKF7",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtAK6m4woAE374Rv5EJjbxM_r7LpbwRbQVTrNnAQfKHQaQ0FuC5IxJmBIkpA-QNThI-2DmP3lo0FtjiPpgiS0q_4b940bLkfPVQqw67MqOOYo03j6JOIyuZgBzh4MipWhg4hRW8ADF2o0oOAXTqUF-IsaysTsu-QN0rFhCzueZVaH9g-uK9E1Fqaps5MFByJGcgS-vNUbPiNnFxwSnr26gK6IFUWruMgu53Zqo4kYkdgYAZfUTzbWzBbo4UZPkEGmFO6pUy_F6bCR6gijlx4zNgDnQeoliOM9jlvzr6qO35uyJ-ar8X-585cll2n5sG-RRGYJM8WKVbcGMznY_gNhUvu03jxphpNsTPVeLD0dKF7"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtAK6m4woAE374Rv5EJjbxM_r7LpbwRbQVTrNnAQfKHQaQ0FuC5IxJmBIkpA-QNThPrhcycC3GUX4JDGlQYyLjhkQkyYfN2zW84EzgP0awE5DWG-bJVtJGaZ1dP7EABDHgIrQZdbADF39Hu1q50D7Mv3wvrlvCd5rsjZMSNdIAUjTFYH54W5ATPckr9svFA_Mpt8_3bjrpPimSNnPuN-pKTY-lYAT4R2cJtOGAnKjIQaiPww3IZ9PIxpQsaiPgz8rWv6agXpljEx6IOKwbutcQkQo016Vht3Peg80yXfeY58mENGyxkMQkYwUlnzly_Uw3JFUKWr7S6BQHu3LzJZCuo",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtAK6m4woAE374Rv5EJjbxM_r7LpbwRbQVTrNnAQfKHQaQ0FuC5IxJmBIkpA-QNThPrhcycC3GUX4JDGlQYyLjhkQkyYfN2zW84EzgP0awE5DWG-bJVtJGaZ1dP7EABDHgIrQZdbADF39Hu1q50D7Mv3wvrlvCd5rsjZMSNdIAUjTFYH54W5ATPckr9svFA_Mpt8_3bjrpPimSNnPuN-pKTY-lYAT4R2cJtOGAnKjIQaiPww3IZ9PIxpQsaiPgz8rWv6agXpljEx6IOKwbutcQkQo016Vht3Peg80yXfeY58mENGyxkMQkYwUlnzly_Uw3JFUKWr7S6BQHu3LzJZCuo"
+                    }
+                ],
+                "passed": true
             }
         }
     }

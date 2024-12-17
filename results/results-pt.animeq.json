@@ -3,243 +3,28 @@
         "name": "AnimeQ (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/179270/",
-                                "title": "Tensei Kizoku Kantei Skill de Nariagaru 2 Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-2-1-jpg.webp"
-                            },
-                            {
-                                "url": "/179255/",
-                                "title": "Ranma 1/2 (2024) Dublado Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ranma-½-2024-Episodios-Dublado-jpg.webp"
-                            },
-                            {
-                                "url": "/179241/",
-                                "title": "Puniru wa Kawaii Slime Episódio 11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6JkMggwIGKZwIbFmpVhxi3ZfnND.jpg"
-                            },
-                            {
-                                "url": "/179228/",
-                                "title": "Puniru wa Kawaii Slime Episódio 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pmSZjv6x9LUrNWVzJfuGDisaAdG.jpg"
-                            },
-                            {
-                                "url": "/179215/",
-                                "title": "Nageki no Bourei wa Intai shitai Episódio 12",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Nageki-no-Bourei-wa-Intai-shitai-Episodio-AnimeQ-jpg.webp"
-                            },
-                            {
-                                "url": "/179200/",
-                                "title": "MF Ghost 2 Episódio 11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/jukEBnCVRPAqP1vDeDT661sMFxK.jpg"
-                            },
-                            {
-                                "url": "/179146/",
-                                "title": "Tower of God 2 Episódio 24",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/bbLZNx9Onh7Q7SxOdjSlMnpdhnI.jpg"
-                            },
-                            {
-                                "url": "/179129/",
-                                "title": "Shangri-La Frontier: Kusogee Hunter Kamige ni Idoman to Su 2 Episódio 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/jJzNYKn2KJNUFTCFVlJvwCEf5Lj.jpg"
-                            },
-                            {
-                                "url": "/179115/",
-                                "title": "Fairy Tail: 100-nen Quest Episódio 23",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eQuKnht35AdCrKncgeAviInAJnj.jpg"
-                            },
-                            {
-                                "url": "/179103/",
-                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi-Episodios.jpg"
-                            },
-                            {
-                                "url": "/179082/",
-                                "title": "One Piece: Gyojin Tou-hen Episódio 07",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6YErNbh5AOm4EG2si0JPPo1Cikg.jpg"
-                            },
-                            {
-                                "url": "/179067/",
-                                "title": "Ao no Exorcist: Yuki no Hate-hen Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ao-no-Exorcist-Yuki-no-Hate-hen-Episodios-jpg.webp"
-                            },
-                            {
-                                "url": "/178971/",
-                                "title": "Blue Lock 2 Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Blue-Lock-2-Episodio-00-jpg.webp"
-                            },
-                            {
-                                "url": "/178980/",
-                                "title": "Maou 2099 Episódio 10",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Maou-2099.jpg"
-                            },
-                            {
-                                "url": "/179049/",
-                                "title": "Ranma 1/2 (2024) Dublado Episódio 10",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ranma-½-2024-Episodios-Dublado-jpg.webp"
-                            },
-                            {
-                                "url": "/179005/",
-                                "title": "Ranma 1/2 (2024) Dublado Episódio 09",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ranma-½-2024-Episodios-Dublado-jpg.webp"
-                            },
-                            {
-                                "url": "/178993/",
-                                "title": "Ranma 1/2 (2024) Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ranma-½-2024-Episodios-Legendado-jpg.webp"
-                            },
-                            {
-                                "url": "/179015/",
-                                "title": "Kimi wa Meido-sama Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kimi-wa-Meido-sama-Episodios-jpg.webp"
-                            },
-                            {
-                                "url": "/179027/",
-                                "title": "Party kara Tsuihou sareta Sono Chiyushi Jitsu wa Saikyou ni Tsuki Episódio 11",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki-Episodios-jpg.webp"
-                            },
-                            {
-                                "url": "/178951/",
-                                "title": "Touhai: Ura Rate Mahjong Touhai Roku Episódio 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fGhKAJGx5TOkLvSfOa3YQyUrVd0.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/172293/",
-                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal –  Todos os Episodios",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-Semifinal-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/170104/",
-                                "title": "Shin Tennis no Oujisama: U-17 World Cup –  Todos os Episodios",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/142549/",
-                                "title": "The World of the Married",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dorama-The-World-of-the-Married-Completo.jpg"
-                            },
-                            {
-                                "url": "/123374/",
-                                "title": "Dr. Stone: New World Part 2 Dublado",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/98979/",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/87563/",
-                                "title": "Dr. Stone: New World Dublado",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr.-Stone-New-World-Dublado.jpg"
-                            },
-                            {
-                                "url": "/86837/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Dai-Star-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/86664/",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Terceira-temporada-de-Dr.-Stone-AnimeQ.jpg"
-                            },
-                            {
-                                "url": "/66230/",
-                                "title": "World Trigger 3",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-3a-Temporada.jpg"
-                            },
-                            {
-                                "url": "/52418/",
-                                "title": "World Witches Hasshin Shimasu!",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World_Witches_Hasshin_Shimasu_promo_poster.jpg"
-                            },
-                            {
-                                "url": "/51536/",
-                                "title": "SD Gundam World Heroes",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg"
-                            },
-                            {
-                                "url": "/51363/",
-                                "title": "Hetalia World Stars",
-                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Hetalia-World-Stars.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/171841/",
-                    "title": "Tensei Kizoku Kantei Skill de Nariagaru 2",
-                    "artist": "studio MOTHER",
-                    "author": "Miraijin A",
-                    "description": "O protagonista, Ars Louvent, renasceu como o filho de um nobre que governa um pequeno domínio… Ars não era particularmente forte ou inteligente, mas nasceu com a “Habilidade de Avaliação”, que lhe permite enxergar as habilidades e status das pessoas. Com essa habilidade única, Ars embarca em uma jornada para identificar os talentos ocultos ao seu redor, com o objetivo de elevar seu fraco domínio a um novo patamar de excelência. Sua busca por transformação levará esse herdeiro a desbravar os limites do possível!.",
-                    "genre": "animes, assistir online, baixar animes, completo, download, episodios HD, animeq",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-2-jpg.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/179270/",
-                        "name": "11",
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/178378/",
-                        "name": "10",
-                        "episode_number": 10.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rr5---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734379794&ei=khhgZ9TXDMTOy_sP1NT8kA0&ip=20.49.54.4&id=5b85735c542f17e7&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734350994,&mh=jN&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=5&pl=20&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.202&lmt=1734322013593712&mt=1734350618&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhALJM6SHm2sE9vGyFtuFFN6FDKey_YCj0KNihUpAHbGDIAiEA2on7CETL_GFbwcW6y41ULWlcyEN-li96EmSRKlx6Iwo%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRgIhAPQoSuBceKvjWDbtPm52nlvHdtI9BkqIqXqrlp7tdhY6AiEA5_qug0mQopklEJqk7r7ZUNvY0QLCGY4QpAZC2oNaay0%3D",
-                        "quality": "Blogger - 720p",
-                        "videoUrl": "https://rr5---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734379794&ei=khhgZ9TXDMTOy_sP1NT8kA0&ip=20.49.54.4&id=5b85735c542f17e7&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734350994,&mh=jN&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=5&pl=20&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.202&lmt=1734322013593712&mt=1734350618&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhALJM6SHm2sE9vGyFtuFFN6FDKey_YCj0KNihUpAHbGDIAiEA2on7CETL_GFbwcW6y41ULWlcyEN-li96EmSRKlx6Iwo%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRgIhAPQoSuBceKvjWDbtPm52nlvHdtI9BkqIqXqrlp7tdhY6AiEA5_qug0mQopklEJqk7r7ZUNvY0QLCGY4QpAZC2oNaay0%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animeq.blog",
-                            "Origin": "https://animeq.blog"
-                        }
-                    },
-                    {
-                        "url": "https://rr5---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734379794&ei=khhgZ9TXDMTOy_sP1NT8kA0&ip=20.49.54.4&id=5b85735c542f17e7&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734350994,&mh=jN&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=5&pl=20&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.202&lmt=1734321972660935&mt=1734350618&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAOz3NY8oOLRz4v7HFSuAmlTWwZvZCZaHm0Xaq9vxh6bVAiAsujGNxRvi8H67j8VotIqTkKPAdlld5F31GHt0VMChVg%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgB4gTvkiDOnL5FLtjPwrxeESGJ9piaL94rPn0X4UuEyECIQCwJ69M6zpep1s-FY9H5hrJMYxYdi9G83DLWCnpHSDp_Q%3D%3D",
-                        "quality": "Blogger - 360p",
-                        "videoUrl": "https://rr5---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734379794&ei=khhgZ9TXDMTOy_sP1NT8kA0&ip=20.49.54.4&id=5b85735c542f17e7&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734350994,&mh=jN&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=5&pl=20&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.202&lmt=1734321972660935&mt=1734350618&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAOz3NY8oOLRz4v7HFSuAmlTWwZvZCZaHm0Xaq9vxh6bVAiAsujGNxRvi8H67j8VotIqTkKPAdlld5F31GHt0VMChVg%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgB4gTvkiDOnL5FLtjPwrxeESGJ9piaL94rPn0X4UuEyECIQCwJ69M6zpep1s-FY9H5hrJMYxYdi9G83DLWCnpHSDp_Q%3D%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://animeq.blog",
-                            "Origin": "https://animeq.blog"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

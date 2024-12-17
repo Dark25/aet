@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/مشاهدة-فيلم-small-things-like-these-2024-مترجم/",
+                                "title": "مشاهدة فيلم Small Things Like These 2024 مترجم",
+                                "thumbnail_url": "https://egydead.watch/wp-content/uploads/2024/12/فيلم-Small-Things-Like-These-2024-مترجم-197x280.jpg"
+                            },
+                            {
                                 "url": "/episode/مسلسل-dune-prophecy-الحلقة-5-مترجمة/",
                                 "title": "مسلسل Dune Prophecy الحلقة 5 مترجمة",
                                 "thumbnail_url": "https://egydead.watch/wp-content/uploads/2024/11/مسلسل-Dune-Prophecy-2024-مترجم-210x280.jpg"
@@ -77,7 +82,7 @@
                                 "thumbnail_url": "https://egydead.watch/wp-content/uploads/2024/12/مسلسل-Secret-Level-الموسم-الاول-الحلقة-1-210x280.jpg"
                             },
                             {
-                                "url": "/شاهد-فيلم-heretic-2024-مترجم/",
+                                "url": "/شد-فيلم-heretic-2024-مترجم/",
                                 "title": "مشاهدة فيلم Heretic 2024 مترجم",
                                 "thumbnail_url": "https://egydead.watch/wp-content/uploads/2024/11/فيلم-Heretic-2024-مترجم-217x280.jpg"
                             },
@@ -150,11 +155,6 @@
                                 "url": "/episode/مسلسل-the-penguin-الحلقة-8-مترج/",
                                 "title": "مسلسل The Penguin الحلقة 8 مترجمة",
                                 "thumbnail_url": "https://egydead.watch/wp-content/uploads/2024/09/مسلسل-The-Penguin-2023-مترجم-225x280.jpg"
-                            },
-                            {
-                                "url": "/مشاهدة-فيلم-apocalypse-z-the-beginning-of-the-end-2024-مترجم/",
-                                "title": "مشاهدة فيلم Apocalypse Z 2024 مترجم",
-                                "thumbnail_url": "https://egydead.watch/wp-content/uploads/2024/10/فيلم-Apocalypse-Z-The-Beginning-of-the-End-2024-مترجم-210x280.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -163,19 +163,19 @@
                 "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7026128771322994787/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

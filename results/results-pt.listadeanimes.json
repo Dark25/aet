@@ -3,19 +3,19 @@
         "name": "Lista de Animes (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: www.listadeanimes.com: Temporary failure in name resolution",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: www.listadeanimes.com",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: www.listadeanimes.com",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: www.listadeanimes.com",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "videos": {

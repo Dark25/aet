@@ -3,27 +3,27 @@
         "name": "MyKdrama (FR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

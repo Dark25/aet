@@ -3,23 +3,23 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www.thenollyverse.com: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www.thenollyverse.com",
                 "passed": false
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www.thenollyverse.com",
                 "passed": false
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www.thenollyverse.com",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www.thenollyverse.com",
                 "passed": false
             },
             "videos": {

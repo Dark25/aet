@@ -3,27 +3,29 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": {
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

@@ -3,27 +3,27 @@
         "name": "Genoanime (EN)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

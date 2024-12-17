@@ -3,27 +3,27 @@
         "name": "Einfach (DE)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: Failed to parse server certificates",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

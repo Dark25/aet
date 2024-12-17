@@ -3,27 +3,27 @@
         "name": "VVVVID (IT)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             }
         }

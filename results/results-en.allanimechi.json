@@ -47,6 +47,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png"
                             },
                             {
+                                "url": "ee6TDJJgTSPacWuPq11",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
+                            },
+                            {
                                 "url": "9TPHwqqZSYGduAwQk",
                                 "title": "Blue Lock vs. U-20 Japan",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
@@ -55,11 +60,6 @@
                                 "url": "y67MAbv2YqRZXi4Hp",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg"
-                            },
-                            {
-                                "url": "ee6TDJJgTSPacWuPq11",
-                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
                             },
                             {
                                 "url": "6d4DKxf9GzedNSSjX",
@@ -92,14 +92,14 @@
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
                             },
                             {
-                                "url": "8aM5BBoEGLvjG3MZm",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
-                            },
-                            {
                                 "url": "5nbDiKHujSqAw9bdT",
                                 "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg"
+                            },
+                            {
+                                "url": "8aM5BBoEGLvjG3MZm",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
                             },
                             {
                                 "url": "LYKSutL2PaAjYyXWz",
@@ -107,14 +107,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
                             },
                             {
-                                "url": "LijmmsRWNFE9gD7nA",
-                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
-                            },
-                            {
                                 "url": "5Ybejzg26CyepMEA6",
                                 "title": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png"
+                            },
+                            {
+                                "url": "LijmmsRWNFE9gD7nA",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
                             },
                             {
                                 "url": "ReHMC7TQnch3C6z8j",
@@ -137,14 +137,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172190-i1IqizIUcKkN.jpg"
                             },
                             {
-                                "url": "c5qQM4SZqe8PJFRmv",
-                                "title": "Fairy Tail: 100-nen Quest",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
-                            },
-                            {
                                 "url": "Kihf6x2iJyMa4crSd",
                                 "title": "DBZ",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-TsHyhR3EDd2x.png"
+                            },
+                            {
+                                "url": "c5qQM4SZqe8PJFRmv",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
                             },
                             {
                                 "url": "ju2pgynxn9o9DZvse",
@@ -163,12 +163,324 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "TTdsN39xpjByDXPgs",
+                                "title": "Love Live! Superstar!! Season 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-8Dyh2np8o5GC.jpg"
+                            },
+                            {
+                                "url": "bw9NHMfmzd95geBBr",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg"
+                            },
+                            {
+                                "url": "LQzpwYK5WhLqE7jbt",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166611-MXGsOlPv2IKj.png"
+                            },
+                            {
+                                "url": "ee6TDJJgTSPacWuPq11",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
+                            },
+                            {
+                                "url": "KjuC7otFz6ZPNWxJb",
+                                "title": "Raise wa Tanin ga Ii",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg"
+                            },
+                            {
+                                "url": "m7xGDngQzZtKThX6r",
+                                "title": "Kamonohashi Ron no Kindan Suiri Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172355-D7J0LRyWZZhg.jpg"
+                            },
+                            {
+                                "url": "8LyG2M2JDr5WR6bxD",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg"
+                            },
+                            {
+                                "url": "BghhpbB242h5cKBnK",
+                                "title": "Bananya: Around the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180599-xT95wYTMQgBr.jpg"
+                            },
+                            {
+                                "url": "6oDA6BDxtLCJq5FZx",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120218-J6LXCFOHO9cT.jpg"
+                            },
+                            {
+                                "url": "jAnp9TQskrpa6gzyZ",
+                                "title": "Supervillain",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/zLA6GCDaWSQC9tZYQ.webp"
+                            },
+                            {
+                                "url": "MHuZKAP5qTgTG3fZN",
+                                "title": "Invincible Seven Senior Sisters",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/FSpe4r5hSqFjXAygs.webp"
+                            },
+                            {
+                                "url": "d52oAXHGYwgmAoiMk",
+                                "title": "Lipu! Wo Zhen Mei Xiang Kai Nvdi Peixun Ban!",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/N223HFTn5xTnt4fEz.webp"
+                            },
+                            {
+                                "url": "itqB2crtcbWZXfqqu",
+                                "title": "Counterattack System: I Maxed Out the Goddess's Affection Meter",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/itqB2crtcbWZXfqqu.png"
+                            },
+                            {
+                                "url": "oPBKNSYZi5H9CK566",
+                                "title": "Searching For The Immortals",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/oPBKNSYZi5H9CK566.png"
+                            },
+                            {
+                                "url": "Pn6MQpE9fGsPNZcJZ",
+                                "title": "Lingwu Continent",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/Pn6MQpE9fGsPNZcJZ.png"
+                            },
+                            {
+                                "url": "XXR8dv5LD45vTEXd4",
+                                "title": "There is a Sword Field at the Beginning",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/XXR8dv5LD45vTEXd4.jpg"
+                            },
+                            {
+                                "url": "HHBkswY3rZZuTcwa4",
+                                "title": "Xi Xing Ji: Nian Fan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153493-fOohrWTD6pGt.jpg"
+                            },
+                            {
+                                "url": "B5EBSAariAGcmLYud",
+                                "title": "Dan Dao Zhizun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
+                            },
+                            {
+                                "url": "ZDxMfy9mmxEbjryKP",
+                                "title": "Ni Tian Zhizun",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/SK44EeiFzY58PLx9x.png"
+                            },
+                            {
+                                "url": "wWtpkp6ywkZPfbxNL",
+                                "title": "Tiger Crane",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/wWtpkp6ywkZPfbxNL.webp"
+                            },
+                            {
+                                "url": "PwmFc7pXghnM8v3YJ",
+                                "title": "Over Goddess",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/PwmFc7pXghnM8v3YJ.webp"
+                            },
+                            {
+                                "url": "hEQboPQtuKx2N2Lmb",
+                                "title": "Lian Qi Shi Wan Nian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
+                            },
+                            {
+                                "url": "wTWPWR2ynCijvGypu",
+                                "title": "Everyone in the Sect Except Me is an Undercover Agent",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/y4yisaAHGujC4mYWp.webp"
+                            },
+                            {
+                                "url": "ep7LKiiyr2QwBABya",
+                                "title": "The Uninhabited Wonderland",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ep7LKiiyr2QwBABya.png"
+                            },
+                            {
+                                "url": "u85xuZjGw7eb6u3um",
+                                "title": "MF Ghost Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171642-RyL10RY9uysQ.jpg"
+                            },
+                            {
+                                "url": "pcfgTMdcxjwJTZjzR",
+                                "title": "Puniru wa Kawaii Slime",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171400-fbiXZGItjJtP.png"
+                            },
+                            {
+                                "url": "6d4DKxf9GzedNSSjX",
+                                "title": "Nageki no Bourei wa Intai shitai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-JFTirlMoA4SK.png"
+                            },
+                            {
+                                "url": "owAbkevY5GnmAowEa",
+                                "title": "All Hail the Sect Leader",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/owAbkevY5GnmAowEa.webp"
+                            },
+                            {
+                                "url": "5Ybejzg26CyepMEA6",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png"
+                            },
+                            {
+                                "url": "gKL4wpZhiGX4iTX42",
+                                "title": "My WeChat is Connected to Dragon Palace",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/gKL4wpZhiGX4iTX42.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "ee6TDJJgTSPacWuPq11",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
+                            },
+                            {
+                                "url": "BghhpbB242h5cKBnK",
+                                "title": "Bananya: Around the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180599-xT95wYTMQgBr.jpg"
+                            },
+                            {
+                                "url": "6oDA6BDxtLCJq5FZx",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120218-J6LXCFOHO9cT.jpg"
+                            },
+                            {
+                                "url": "5Ybejzg26CyepMEA6",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png"
+                            },
+                            {
+                                "url": "XAhBoEcsAWiqBXdg2",
+                                "title": "I Am The Boss Of The End Of The World (Boss Of The Apocalypse)",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/XAhBoEcsAWiqBXdg2.webp"
+                            },
+                            {
+                                "url": "SZvdTvpjESzrMk5Fa",
+                                "title": "My Disciples are All Over the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/SZvdTvpjESzrMk5Fa.png"
+                            },
+                            {
+                                "url": "z38paKJGBeCkgpnRr",
+                                "title": "Lord of All Realms",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/z38paKJGBeCkgpnRr.webp"
+                            },
+                            {
+                                "url": "LSnXiAejBwDGNiKGq",
+                                "title": "Dr. Slump Movie 3: Arale-chan Hoyoyo! Sekai Isshuu Dai Race",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7667.jpg"
+                            },
+                            {
+                                "url": "CoDCuQcqrKk7eWQDc",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png"
+                            },
+                            {
+                                "url": "3GrJ4atdK3TQ5HqaN",
+                                "title": "Andersen Monogatari",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7779.jpg"
+                            },
+                            {
+                                "url": "ZyYAYkkt4tqobJPiB",
+                                "title": "Reincarnated as a Monster: What’s Going On?",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ZyYAYkkt4tqobJPiB.webp"
+                            },
+                            {
+                                "url": "4uvsWXBt7BRnDoYvm",
+                                "title": "Perrine Monogatari",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2549-WDtJc8bdvgrC.jpg"
+                            },
+                            {
+                                "url": "8Af6D48EzLgNXb7zY",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-xEt3MeCRRRev.jpg"
+                            },
+                            {
+                                "url": "azLFgCb8YQNuJeqoL",
+                                "title": "Prices Depreciated And I Became the Richest Man in the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/hE3LS4LcaXdGDwW6k.webp"
+                            },
+                            {
+                                "url": "iXTtwXfzgb2xRgGE2",
+                                "title": "Lord of the Wheel of Destiny! When Changes Descend Upon the Mortal Realm",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/iXTtwXfzgb2xRgGE2.webp"
+                            },
+                            {
+                                "url": "24EvTQRQ8jBhzWGQK",
+                                "title": "I Work Nine to Five in the Immortal Cultivation World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/DCduk5Gq7oTsxop97.webp"
+                            },
+                            {
+                                "url": "y67MAbv2YqRZXi4Hp",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg"
+                            },
+                            {
+                                "url": "MsQMzfMtztc93Eiui",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172395-TESU4M0kQ94c.jpg"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/sigMFp9CQrHmn6AGM.webp"
+                            },
+                            {
+                                "url": "d2PMyPbDAthsitf5x",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
+                            {
+                                "url": "DC5r4Qm2Cb9iFWrzq",
+                                "title": "I'm A Boss in the Devil World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/MsGGxBNfxKnqpgQkm.jpg"
+                            },
+                            {
+                                "url": "ieFB8WXYcJhqBHFi4",
+                                "title": "Thousands of Worlds Motion Comics",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ieFB8WXYcJhqBHFi4.png"
+                            },
+                            {
+                                "url": "B45c53ackqdbbjTAZ",
+                                "title": "Hundreds of Millions of Apprentices Are Returned: This Master Is Invincible in the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/B45c53ackqdbbjTAZ.png"
+                            },
+                            {
+                                "url": "PEQjWP25keRPXEt4f",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg"
+                            },
+                            {
+                                "url": "KDfhLcpDXAps5qH4M",
+                                "title": "My Cultivation with Divine and Demonic Powers: Invincible in the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/KDfhLcpDXAps5qH4M.png"
+                            },
+                            {
+                                "url": "KWShLpaZsTgwCKEra",
+                                "title": "Breaking Through The Heavens and the Worlds With One Punch",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/KWShLpaZsTgwCKEra.png"
+                            },
+                            {
+                                "url": "WZXY2ePNLekFEm3X6",
+                                "title": "I, The Public Enemy of The World of Immortality",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/WZXY2ePNLekFEm3X6.webp"
+                            },
+                            {
+                                "url": "2wkWm2dJdptKw92Sy",
+                                "title": "Pink Mizu Dorobou Ame Dorobou",
+                                "thumbnail_url": "https://gogocdn.net/cover/pink-mizu-dorobou-ame-dorobou.png"
+                            },
+                            {
+                                "url": "h9gQWnsoRT463ZbpJ",
+                                "title": "Lord System",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/fdBvK8byTi8weEo5c.webp"
+                            },
+                            {
+                                "url": "jdDepG5AHsEHePe3W",
+                                "title": "I Use the Gods of Daxia to Sweep the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/jdDepG5AHsEHePe3W.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {

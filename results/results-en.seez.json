@@ -1,13 +1,13 @@
 [
     {
-        "name": "GoogleDriveIndex (ALL)",
+        "name": "Seez (EN)",
         "results": {
             "popular": {
-                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
@@ -19,7 +19,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ?a=vie...",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

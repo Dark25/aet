@@ -3,250 +3,28 @@
         "name": "Animes Online Cloud (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/episodio/solo-leveling-dublado-episodio-12",
-                                "title": "Solo Leveling Dublado Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/8WNsU7GLSsXcCAxa5th5nkWeO6W-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/kamen-rider-gavv-episodio-15",
-                                "title": "Kamen Rider Gavv Episódio 15",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/GVlkGguLrDgTKfK7tlNMU8ugTN-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/yume-senshi-wingman-episodio-08",
-                                "title": "Yume Senshi Wingman Episódio 08",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/rH3Ylx7qwvRJZZjneUb52Qm3QSY-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/tsuma-shougakusei-ni-naru-episodio-12",
-                                "title": "Tsuma, Shougakusei ni Naru Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/aP9gd6erSBNSTQuLjPwu8Luxwqu-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11",
-                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/tieZZDm9onWMp1ft1OmBUQ4xsAE-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/ranma-1-2-2024-dublado-episodio-11",
-                                "title": "Ranma 1/2 (2024) Dublado Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/gxKi42AascHhgJhCZqNCtYueC3A-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/puniru-wa-kawaii-slime-episodio-11",
-                                "title": "Puniru wa Kawaii Slime Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/7FcfdUehXK6oR9cIeykHD2xXUyW-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/puniru-wa-kawaii-slime-episodio-10",
-                                "title": "Puniru wa Kawaii Slime Episódio 10",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bbDxun1oDTO9GZIMv4tf6MTtI0p-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/nageki-no-bourei-wa-intai-shitai-episodio-12",
-                                "title": "Nageki no Bourei wa Intai shitai Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/b42VMclkI8ncANZMBhiz1UdYwzl-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/mf-ghost-2-episodio-11",
-                                "title": "MF Ghost 2 Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/jukEBnCVRPAqP1vDeDT661sMFxK-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/tower-of-god-2-episodio-24",
-                                "title": "Tower of God 2 Episódio 24",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bbLZNx9Onh7Q7SxOdjSlMnpdhnI-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/fairy-tail-100-nen-quest-episodio-23",
-                                "title": "Fairy Tail: 100-nen Quest Episódio 23",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/eQuKnht35AdCrKncgeAviInAJnj-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2-episodio-10",
-                                "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2 Episódio 10",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/qAY2oBzWtoy9IDT4n7XOymFvbWQ-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/goukon-ni-ittara-onna-ga-inakatta-hanashi-episodio-11",
-                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/oqrKnK51e8IGaR9GYQvZklwhwwP-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/one-piece-gyojin-tou-hen-episodio-07",
-                                "title": "One Piece: Gyojin Tou-hen Episódio 07",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/6YErNbh5AOm4EG2si0JPPo1Cikg-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/chi-chikyuu-no-undou-ni-tsuite-episodio-12",
-                                "title": "Chi.: Chikyuu no Undou ni Tsuite Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/ipib5FBSPIZqXpTMfqRhCqvmSFZ-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/maou-sama-retry-r-episodio-12",
-                                "title": "Maou-sama, Retry! R Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/13qZFI5rS8aitROv1mRIWBLLIp3-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-11-2",
-                                "title": "Bleach: Sennen Kessen-hen – Soukoku-tan Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/8jG8jW875KOGN5zNiknzrzYmwdU-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/ao-no-miburo-episodio-09",
-                                "title": "Ao no Miburo Episódio 09",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/5WQGBSezgD2Nl0orGeZkpmAcT57-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episodio-11",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/dxOejfOyydPPIcuy92wFlBDXVQP-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/sword-art-online-alternative-gun-gale-online-ii-episodio-11",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/mxHXgcpYs9HDmpB0j12NpDc1pkl-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/dragon-ball-daima-episodio-10",
-                                "title": "Dragon Ball DAIMA Episódio 10",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/tI3cs0ESFH1ip39sPueloMwCsqy-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/2-5-jigen-no-ririsa-episodio-24",
-                                "title": "2.5-jigen no Ririsa Episódio 24 – Final",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/vQDt4qUyD3Z7scCP2G3yKcBXHHu-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/2-5-jigen-no-ririsa-episodio-23",
-                                "title": "2.5-jigen no Ririsa Episódio 23",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/kaMz2zsrplNrlsGRRcohSX1SOcy-300x170.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/the-prince-of-tennis-ii-u-17-world-cup",
-                                "title": "Shin Tennis no Oujisama: U-17 World Cup – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/08/etVlxcNUsJLE4qhJON3VwZSzwFW-150x150.jpg"
-                            },
-                            {
-                                "url": "/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/50OsbGp6AWw4za2aAM82vKburcg.jpg"
-                            },
-                            {
-                                "url": "/anime/zombieland-saga-todos-os-episodios",
-                                "title": "Zombieland Saga – Todos os Episódios",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/e4rzeUloRTHGovb46Zobk3TimhL.jpg"
-                            },
-                            {
-                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3-dublado",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nPVXHDZRV3XBxI0vtuSIw9Mvxe5.jpg"
-                            },
-                            {
-                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 3 Dublado – Todos os Episódios",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg"
-                            },
-                            {
-                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 3 – Todos os Episódios",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qhML8g1WzSQLEckY2KSQI9c0OMD.jpg"
-                            },
-                            {
-                                "url": "/anime/hitoribocchi-no-isekai-kouryaku",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-150x150.jpg"
-                            },
-                            {
-                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kZv5XLbAjhSD1UiHnYH9g69JTPF.jpg"
-                            },
-                            {
-                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-2",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/09/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-2-Dublado-150x150.jpg"
-                            },
-                            {
-                                "url": "/anime/egumi-legacy",
-                                "title": "Egumi Legacy – Todos os Episódios",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/07/6r7vA4WMBYwqqKo1ny7Teh1bYNO-150x150.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/solo-leveling-dublado",
-                    "title": "Solo Leveling Dublado",
-                    "description": "Título Alternativo: Solo Leveling Dublado, Ore dake Level Up na Ken Dublado, Na Honjaman Level Up Dublado, I Level Up Alone Dublado\n",
-                    "genre": "Ação, Aventura, Fantasia, Magia, Sci-Fi, Letra L, Dublado",
-                    "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/g8nUqCgQETHP3zAxFUNCWpF5imM-200x300.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/solo-leveling-dublado-episodio-12",
-                        "name": "Temporada 1 x 12 - Episódio 12 - Erga-se",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/episodio/solo-leveling-dublado-episodio-11",
-                        "name": "Temporada 1 x 11 - Episódio 11 - Um cavaleiro que defende um trono vazio",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://mangas.cloud/Animes/Letra-S/Solo%20Leveling/Dub/12.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "https://mangas.cloud/Animes/Letra-S/Solo%20Leveling/Dub/12.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://animesonline.cloud/",
-                            "Accept": "*/*",
-                            "Host": "mangas.cloud",
-                            "Origin": "https://animesonline.cloud"
-                        }
-                    },
-                    {
-                        "url": "https://rr4---sn-vgqsknzr.googlevideo.com/videoplayback?expire=1734403953&ei=8XZgZ_XMMcilzLUPq5_WuAw&ip=68.154.31.164&id=40189abd36db1eed&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734375153,&mh=y1&mm=31&mn=sn-vgqsknzr&ms=au&mv=u&mvi=4&pl=24&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1420.294&lmt=1713737084397735&mt=1734373541&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgFJmbSJBcgyx1HNFnvnEIvNmVVb3KtMG7AJ8O8SsffLUCIGDAOdytzNfjY-3bHtJzeSJph-OJ40VXxuDJXDkwEN0_&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgEUA0naHFi5l1j0a-gTj3oeF7aNWoSXR_0ZiKNm64p_ICIADpftjFGT3ms8aN51V-h0yAJd__mXxTXwupP3Q15v7m",
-                        "quality": "Blogger - 360p",
-                        "videoUrl": "https://rr4---sn-vgqsknzr.googlevideo.com/videoplayback?expire=1734403953&ei=8XZgZ_XMMcilzLUPq5_WuAw&ip=68.154.31.164&id=40189abd36db1eed&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734375153,&mh=y1&mm=31&mn=sn-vgqsknzr&ms=au&mv=u&mvi=4&pl=24&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1420.294&lmt=1713737084397735&mt=1734373541&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgFJmbSJBcgyx1HNFnvnEIvNmVVb3KtMG7AJ8O8SsffLUCIGDAOdytzNfjY-3bHtJzeSJph-OJ40VXxuDJXDkwEN0_&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgEUA0naHFi5l1j0a-gTj3oeF7aNWoSXR_0ZiKNm64p_ICIADpftjFGT3ms8aN51V-h0yAJd__mXxTXwupP3Q15v7m",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://animesonline.cloud/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

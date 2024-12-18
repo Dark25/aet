@@ -3,23 +3,23 @@
         "name": "zeroanime (ES)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz: Name or service not known",
                 "passed": false
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.UnknownHostException: www4.zeroanime.xyz",
                 "passed": false
             }
         }

@@ -3,28 +3,446 @@
         "name": "Jkanime (ES)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/one-piece/",
+                                "title": "One Piece- En emision",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/one-piece.jpg"
+                            },
+                            {
+                                "url": "/jujutsu-kaisen-2nd-season/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/jujutsu-kaisen-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/dandadan/",
+                                "title": "Dandadan- En emision",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/dandadan.jpg"
+                            },
+                            {
+                                "url": "/chainsaw-man/",
+                                "title": "Chainsaw Man",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/chainsaw-man.jpg"
+                            },
+                            {
+                                "url": "/spy-x-family/",
+                                "title": "Spy x Family",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/spy-x-family.jpg"
+                            },
+                            {
+                                "url": "/ore-dake-level-up-na-ken/",
+                                "title": "Ore dake Level Up na Ken",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/ore-dake-level-up-na-ken.jpg"
+                            },
+                            {
+                                "url": "/kimetsu-no-yaiba-katanakaji-no-sato-hen/",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/kimetsu-no-yaiba-katanakaji-no-sato-hen.jpg"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-7th-season/",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/boku-no-hero-academia-7th-season.jpg"
+                            },
+                            {
+                                "url": "/tensei-shitara-slime-datta-ken-3rd-season/",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/tensei-shitara-slime-datta-ken-3rd-season.jpg"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-6th-season/",
+                                "title": "Boku no Hero Academia 6th Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/boku-no-hero-academia-6th-season.jpg"
+                            },
+                            {
+                                "url": "/black-clover-tv/",
+                                "title": "Black Clover (TV)",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/black-clover-tv.jpg"
+                            },
+                            {
+                                "url": "/kimetsu-no-yaiba-hashira-geiko-hen/",
+                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/kimetsu-no-yaiba-hashira-geiko-hen.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/tasuuketsu",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/tasuuketsu.jpg"
+                            },
+                            {
+                                "url": "/amagami-san-chi-no-enmusubi",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/amagami-san-chi-no-enmusubi.jpg"
+                            },
+                            {
+                                "url": "/rekishi-ni-nokoru-akujo-ni-naru-zo",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/rekishi-ni-nokoru-akujo-ni-naru-zo.jpg"
+                            },
+                            {
+                                "url": "/youkai-gakkou-no-sensei-hajimemashita",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/youkai-gakkou-no-sensei-hajimemashita.jpg"
+                            },
+                            {
+                                "url": "/love-live-superstar-3rd-season",
+                                "title": "Love Live! Superstar!! 3rd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/love-live-superstar-3rd-season.jpg"
+                            },
+                            {
+                                "url": "/seirei-gensouki-2",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/seirei-gensouki-2.jpg"
+                            },
+                            {
+                                "url": "/hamidashi-creative",
+                                "title": "Hamidashi Creative",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/hamidashi-creative.jpg"
+                            },
+                            {
+                                "url": "/natsume-yuujinchou-shichi",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/natsume-yuujinchou-shichi.jpg"
+                            },
+                            {
+                                "url": "/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.jpg"
+                            },
+                            {
+                                "url": "/raise-wa-tanin-ga-ii",
+                                "title": "Raise wa Tanin ga Ii",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/raise-wa-tanin-ga-ii.jpg"
+                            },
+                            {
+                                "url": "/kamonohashi-ron-no-kindan-suiri-2nd-season",
+                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kamonohashi-ron-no-kindan-suiri-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/hoshifuru-oukoku-no-nina",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/hoshifuru-oukoku-no-nina.jpg"
+                            },
+                            {
+                                "url": "/mf-ghost-2nd-season",
+                                "title": "MF Ghost 2nd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/mf-ghost-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/puniru-wa-kawaii-slime",
+                                "title": "Puniru wa Kawaii Slime",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/puniru-wa-kawaii-slime.jpg"
+                            },
+                            {
+                                "url": "/nageki-no-bourei-wa-intai-shitai",
+                                "title": "Nageki no Bourei wa Intai shitai",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/nageki-no-bourei-wa-intai-shitai.jpg"
+                            },
+                            {
+                                "url": "/tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/tensei-kizoku-kantei-skill-de-nariagaru-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/kami-no-tou-ouji-no-kikan",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kami-no-tou-ouji-no-kikan.jpg"
+                            },
+                            {
+                                "url": "/uma-musume-pretty-derby-shin-jidai-no-tobira",
+                                "title": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/uma-musume-pretty-derby-shin-jidai-no-tobira.jpg"
+                            },
+                            {
+                                "url": "/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/tsuma-shougakusei-ni-naru",
+                                "title": "Tsuma, Shougakusei ni Naru.",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/tsuma-shougakusei-ni-naru.jpg"
+                            },
+                            {
+                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/fairy-tail-100-nen-quest",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/fairy-tail-100-nen-quest.jpg"
+                            },
+                            {
+                                "url": "/wonderful-precure",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/wonderful-precure.jpg"
+                            },
+                            {
+                                "url": "/touhai-ura-rate-mahjong-touhai-roku",
+                                "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/touhai-ura-rate-mahjong-touhai-roku.jpg"
+                            },
+                            {
+                                "url": "/one-piece-gyojin-tou-hen",
+                                "title": "One Piece: Gyojin Tou-hen",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/one-piece-gyojin-tou-hen.jpg"
+                            },
+                            {
+                                "url": "/kimi-wa-meido-sama",
+                                "title": "Kimi wa Meido-sama.",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kimi-wa-meido-sama.jpg"
+                            },
+                            {
+                                "url": "/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.jpg"
+                            },
+                            {
+                                "url": "/ao-no-exorcist-yuki-no-hate-hen",
+                                "title": "Ao no Exorcist: Yuki no Hate-hen",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/ao-no-exorcist-yuki-no-hate-hen.jpg"
+                            },
+                            {
+                                "url": "/maou-2099",
+                                "title": "Maou 2099",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/maou-2099.jpg"
+                            },
+                            {
+                                "url": "/ranma-2024",
+                                "title": "Ranma ½ (2024)",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/ranma-2024.jpg"
+                            },
+                            {
+                                "url": "/douluo-dalu",
+                                "title": "Douluo Dalu",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/douluo-dalu.jpg"
+                            },
+                            {
+                                "url": "/jintian-de-wancan-jiushi-ni",
+                                "title": "Jintian De Wancan Jiushi Ni",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/jintian-de-wancan-jiushi-ni.jpg"
+                            },
+                            {
+                                "url": "/zanting-zhi-xu-chongzu",
+                                "title": "Zanting! Zhi Xu Chongzu",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/zanting-zhi-xu-chongzu.jpg"
+                            },
+                            {
+                                "url": "/dadao-chaotian",
+                                "title": "Dadao Chaotian",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dadao-chaotian.jpg"
+                            },
+                            {
+                                "url": "/zhen-hun-jie-4th-season",
+                                "title": "Zhen Hun Jie 4th Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/zhen-hun-jie-4th-season.jpg"
+                            },
+                            {
+                                "url": "/yao-shen-ji",
+                                "title": "Yao Shen Ji",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/yao-shen-ji.jpg"
+                            },
+                            {
+                                "url": "/wuliao-jiu-wanjie",
+                                "title": "Wuliao Jiu Wanjie",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/wuliao-jiu-wanjie.jpg"
+                            },
+                            {
+                                "url": "/ya-she",
+                                "title": "Ya She",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/ya-she.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/accel-world/",
+                                "title": "Accel World",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/accel-world.jpg"
+                            },
+                            {
+                                "url": "/accel-world-ex/",
+                                "title": "Accel World EX",
+                                "genre": "Concluido, OVA",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/accel-world-ex.jpg"
+                            },
+                            {
+                                "url": "/accel-world-specials/",
+                                "title": "Accel World Specials",
+                                "genre": "Concluido, Especial",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/accel-world-specials.jpg"
+                            },
+                            {
+                                "url": "/another-world/",
+                                "title": "Another World",
+                                "genre": "Concluido, ONA",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/another-world.jpg"
+                            },
+                            {
+                                "url": "/arata-naru-sekai-mirai-hen/",
+                                "title": "Arata naru Sekai: Mirai-hen",
+                                "genre": "Concluido, OVA",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/arata-naru-sekai-mirai-hen.jpg"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-the-movie-3-world-heroes-mission/",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "genre": "Concluido, Pelicula",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/boku-no-hero-academia-the-movie-3-world-heroes-mission.jpg"
+                            },
+                            {
+                                "url": "/clannad-another-world-kyou-chapter/",
+                                "title": "Clannad: Another World, Kyou Chapter",
+                                "genre": "Concluido, Especial",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/clannad-another-world-kyou-chapter.jpg"
+                            },
+                            {
+                                "url": "/clannad-another-world-tomoyo-chapter/",
+                                "title": "Clannad: Another World, Tomoyo Chapter",
+                                "genre": "Concluido, Especial",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/clannad-another-world-tomoyo-chapter.jpg"
+                            },
+                            {
+                                "url": "/death-march-kara-hajimaru-isekai-kyousoukyoku/",
+                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/death-march-kara-hajimaru-isekai-kyousoukyoku.jpg"
+                            },
+                            {
+                                "url": "/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dr-stone-new-world.jpg"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "genre": "Concluido, Anime",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dr-stone-new-world-part-2.jpg"
+                            },
+                            {
+                                "url": "/dragon-ball-z-movie-02-the-worlds-strongest/",
+                                "title": "Dragon Ball Z Movie 02: The World's Strongest",
+                                "genre": "Concluido, Pelicula",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dragon-ball-z-movie-02-the-worlds-strongest.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": {
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "author": "Toei Animation",
+                    "description": "Una historia épica de piratas, donde narra la historia de \"Monkey D. Luffy\" quien cuando tenia 7 años, comió accidentalmente una \"Akuma no mi\"(Fruta del diablo) la cual le convirtió en un hombre de goma. Por otra parte \"Gol D. Roger\" conocido como \"El rey de los Piratas\" quien fuera ejecutado por la Marine, habló antes de morir, acerca de su mayor tesoro,el \"One Piece\" escondido en la \"Gran line\". Esta noticia desató la gran era de los piratas lanzando a incontables piratas a ese lugar, en busca del \"One Piece\" el tesoro perdido. Diez años después, Luffy inspirado en \"Gol D. Roger\" y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo \"Rey de los Piratas\" y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el \"One Piece\".",
+                    "genre": "Super Poderes, Shounen, Fantasia, Comedia, Aventura, Accion",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/one-piece.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/one-piece//1122",
+                        "name": "Episodio 1122",
+                        "episode_number": 1122.0
+                    },
+                    {
+                        "url": "/one-piece//1121",
+                        "name": "Episodio 1121",
+                        "episode_number": 1121.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=_K47ObpBPvWd8nCUSuPJkhAv5Ud1lBo3kdXd9rMcEMM&s=1734523840&e=14400&f=62208694&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=172.200&sp=2500&asn=8075",
+                        "quality": "[JAP] Voe:720p",
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=_K47ObpBPvWd8nCUSuPJkhAv5Ud1lBo3kdXd9rMcEMM&s=1734523840&e=14400&f=62208694&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=172.200&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrtq6a6vtn35gzqp6wqx3hceh5awnlxz/video.mp4",
+                        "quality": "[JAP] Mp4Upload - 720p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrtq6a6vtn35gzqp6wqx3hceh5awnlxz/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_OO_22uzvj98YDmp35wiiPaFnP4hJzlcd7GkQfD8JtQ&s=1734523839&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "quality": "[JAP] StreamWish:720p",
+                        "videoUrl": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_OO_22uzvj98YDmp35wiiPaFnP4hJzlcd7GkQfD8JtQ&s=1734523839&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://sfastwish.com",
+                            "Referer": "https://sfastwish.com/e/d3sa7zxrm6or"
+                        }
+                    },
+                    {
+                        "url": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=_OO_22uzvj98YDmp35wiiPaFnP4hJzlcd7GkQfD8JtQ&s=1734523839&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "quality": "[JAP] StreamWish:480p",
+                        "videoUrl": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=_OO_22uzvj98YDmp35wiiPaFnP4hJzlcd7GkQfD8JtQ&s=1734523839&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://sfastwish.com",
+                            "Referer": "https://sfastwish.com/e/d3sa7zxrm6or"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1734593838&ip=F0qQKRSRDS9XKxR&token=vnmQbwzCQ_1G",
+                        "quality": "[JAP] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1734593838&ip=F0qQKRSRDS9XKxR&token=vnmQbwzCQ_1G"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "AnimeFlix (EN)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: animeflix.mobi: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: animeflix.mobi",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: animeflix.mobi",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: animeflix.mobi",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: animeflix.mobi",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]

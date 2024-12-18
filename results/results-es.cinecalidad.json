@@ -3,28 +3,293 @@
         "name": "CineCalidad (ES)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/ver-serie/fachadas/",
+                                "title": "Fachadas",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-pelicula/codigo-traje-rojo/",
+                                "title": "Código: Traje rojo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dpskAcm71w5v8zQ8RmPmJiP31Om.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/equipaje-de-mano/",
+                                "title": "Equipaje de mano",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//xQzQIrVbwft9nICAt6S6BWkthF5.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/light-shop-entre-la-vida-y-la-muerte/",
+                                "title": "Light Shop: Entre la vida y la muerte",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/boruto-naruto-next-generations/",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//n4OLeeHqP4tpdvDxiloV65N6M5h.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/the-best-christmas-pageant-ever/",
+                                "title": "The Best Christmas Pageant Ever",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6BA46l5rL8BDench96aN0VfjqTe.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/ciudad-de-asfalto/",
+                                "title": "Ciudad de asfalto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/maria-callas/",
+                                "title": "María Callas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//i73L05MR1v2mvJEBw0hzt1XULIQ.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/producciones-de-ensueno/",
+                                "title": "Producciones de Ensueño",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6cPhUVukGJW4EdaAJ3LoPMz5SNq.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/el-nivel-secreto/",
+                                "title": "El nivel secreto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/palomas-negras/",
+                                "title": "Palomas negras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/watchmen-capitulo-2/",
+                                "title": "Watchmen: Capítulo 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/ver-serie/fachadas/",
+                                "title": "Fachadas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//comPtHolYrnbkS8ydWIuuW3P4vY.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/codigo-traje-rojo/",
+                                "title": "Código: Traje rojo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dpskAcm71w5v8zQ8RmPmJiP31Om.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/equipaje-de-mano/",
+                                "title": "Equipaje de mano",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//xQzQIrVbwft9nICAt6S6BWkthF5.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/light-shop-entre-la-vida-y-la-muerte/",
+                                "title": "Light Shop: Entre la vida y la muerte",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/the-best-christmas-pageant-ever/",
+                                "title": "The Best Christmas Pageant Ever",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6BA46l5rL8BDench96aN0VfjqTe.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/ciudad-de-asfalto/",
+                                "title": "Ciudad de asfalto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/maria-callas/",
+                                "title": "María Callas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//i73L05MR1v2mvJEBw0hzt1XULIQ.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/producciones-de-ensueno/",
+                                "title": "Producciones de Ensueño",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6cPhUVukGJW4EdaAJ3LoPMz5SNq.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/el-nivel-secreto/",
+                                "title": "El nivel secreto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/palomas-negras/",
+                                "title": "Palomas negras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/watchmen-capitulo-2/",
+                                "title": "Watchmen: Capítulo 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/venom-el-ultimo-baile/",
+                                "title": "Venom: El último baile",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//b0obWWCLRVRqRzlSK1LSGtADkLM.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/dulce-estafa/",
+                                "title": "Dulce Estafa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//oSdaPdSQsXby6CswuDoRxonMrE3.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/el-manana-y-yo/",
+                                "title": "El mañana y yo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6AEp3evNSw8yecyjZ9ORYQb2T8O.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/comando-de-criaturas/",
+                                "title": "Comando de criaturas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//zVC3YIA8C3Lyf30UGVRaxrBW3GE.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/ver-serie/jurassic-world-teoria-del-dinocaos/",
+                                "title": "Jurassic World: Teoría del dinocaos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/hellraiser-viii-hellworld-online-gratis-en-cinecalidad/",
+                                "title": "Hellraiser VIII: Hellworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nc2KcfOWhugGP4HeiqUyt0Swyl3.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/jurassic-world-dominio-online-gratis-en-cinecalidad/",
+                                "title": "Jurassic World Dominio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/un-sueno-online-gratis-en-cinecalidad/",
+                                "title": "Un sueño",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dWWKzI1AQ2WZgZLXCrLnSxMC2P2.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/liga-de-la-justicia-mundo-de-guerra/",
+                                "title": "Liga de la justicia: mundo de guerra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//qmevjlNDaWoEughGlXFWHbQ4TaR.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/mortal-kombat-leyendas-frio-y-penumbra-online-gratis-en-cinecalidad/",
+                                "title": "Mortal Kombat Leyendas: Frío y Penumbra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//1hJufJphSKP7WaVEfyDYAtmfcU.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": {
+                    "url": "/ver-serie/fachadas/",
+                    "artist": "Abbi Jacobson",
+                    "author": "Liz Feldman",
+                    "description": "La venta de la casa perfecta de Paul y Lydia en Los Ángeles los obliga a enfrentarse a secretos dolorosos… y a ocultarlos de miradas indiscretas y compradores desesperados.   ",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//comPtHolYrnbkS8ydWIuuW3P4vY.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver-el-episodio/fachadas-1x8/",
+                        "name": "T1 - E8 - Vendida",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/fachadas-1x7/",
+                        "name": "T1 - E7 - Definitiva y final",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f1-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f1-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f2-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f2-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/bvhyeynx12w5"
+                        }
+                    },
+                    {
+                        "url": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/bvhyeynx12w5"
+                        }
+                    },
+                    {
+                        "url": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/bvhyeynx12w5"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=4XDxWPKwVWspRo&expires=1734593893&ip=G0WsDRONKxSHDN&token=_eEsg5NMnZdM",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=4XDxWPKwVWspRo&expires=1734593893&ip=G0WsDRONKxSHDN&token=_eEsg5NMnZdM"
+                    },
+                    {
+                        "url": "https://s1.goodstream.one/vtt/02/00011/ux1gffr4pbu7_sli.vtt",
+                        "quality": "GoodStream: ",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00011/ux1gffr4pbu7_sli.vtt",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

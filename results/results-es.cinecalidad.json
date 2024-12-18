@@ -3,223 +3,27 @@
         "name": "CineCalidad (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/ver-pelicula/codigo-traje-rojo/",
-                                "title": "Código: Traje rojo",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/ver-pelicula/equipaje-de-mano/",
-                                "title": "Equipaje de mano",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//xQzQIrVbwft9nICAt6S6BWkthF5.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/light-shop-entre-la-vida-y-la-muerte/",
-                                "title": "Light Shop: Entre la vida y la muerte",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/boruto-naruto-next-generations/",
-                                "title": "Boruto: Naruto Next Generations",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//n4OLeeHqP4tpdvDxiloV65N6M5h.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-best-christmas-pageant-ever/",
-                                "title": "The Best Christmas Pageant Ever",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6BA46l5rL8BDench96aN0VfjqTe.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/ciudad-de-asfalto/",
-                                "title": "Ciudad de asfalto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/maria-callas/",
-                                "title": "María Callas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//i73L05MR1v2mvJEBw0hzt1XULIQ.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/producciones-de-ensueno/",
-                                "title": "Producciones de Ensueño",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6cPhUVukGJW4EdaAJ3LoPMz5SNq.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/el-nivel-secreto/",
-                                "title": "El nivel secreto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/palomas-negras/",
-                                "title": "Palomas negras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/watchmen-capitulo-2/",
-                                "title": "Watchmen: Capítulo 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/venom-el-ultimo-baile/",
-                                "title": "Venom: El último baile",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//b0obWWCLRVRqRzlSK1LSGtADkLM.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/ver-pelicula/codigo-traje-rojo/",
-                                "title": "Código: Traje rojo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dpskAcm71w5v8zQ8RmPmJiP31Om.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/equipaje-de-mano/",
-                                "title": "Equipaje de mano",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//xQzQIrVbwft9nICAt6S6BWkthF5.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/light-shop-entre-la-vida-y-la-muerte/",
-                                "title": "Light Shop: Entre la vida y la muerte",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-best-christmas-pageant-ever/",
-                                "title": "The Best Christmas Pageant Ever",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6BA46l5rL8BDench96aN0VfjqTe.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/ciudad-de-asfalto/",
-                                "title": "Ciudad de asfalto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/maria-callas/",
-                                "title": "María Callas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//i73L05MR1v2mvJEBw0hzt1XULIQ.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/producciones-de-ensueno/",
-                                "title": "Producciones de Ensueño",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6cPhUVukGJW4EdaAJ3LoPMz5SNq.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/el-nivel-secreto/",
-                                "title": "El nivel secreto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/palomas-negras/",
-                                "title": "Palomas negras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/watchmen-capitulo-2/",
-                                "title": "Watchmen: Capítulo 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/venom-el-ultimo-baile/",
-                                "title": "Venom: El último baile",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//b0obWWCLRVRqRzlSK1LSGtADkLM.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/dulce-estafa/",
-                                "title": "Dulce Estafa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//oSdaPdSQsXby6CswuDoRxonMrE3.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/el-manana-y-yo/",
-                                "title": "El mañana y yo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//6AEp3evNSw8yecyjZ9ORYQb2T8O.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/comando-de-criaturas/",
-                                "title": "Comando de criaturas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//zVC3YIA8C3Lyf30UGVRaxrBW3GE.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/maria/",
-                                "title": "María",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/ver-serie/jurassic-world-teoria-del-dinocaos/",
-                                "title": "Jurassic World: Teoría del dinocaos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//c2Od0cY2IeayDj5osUxZSAD1QK.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/hellraiser-viii-hellworld-online-gratis-en-cinecalidad/",
-                                "title": "Hellraiser VIII: Hellworld",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//nc2KcfOWhugGP4HeiqUyt0Swyl3.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/jurassic-world-dominio-online-gratis-en-cinecalidad/",
-                                "title": "Jurassic World Dominio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/un-sueno-online-gratis-en-cinecalidad/",
-                                "title": "Un sueño",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//dWWKzI1AQ2WZgZLXCrLnSxMC2P2.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/liga-de-la-justicia-mundo-de-guerra/",
-                                "title": "Liga de la justicia: mundo de guerra",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//qmevjlNDaWoEughGlXFWHbQ4TaR.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/mortal-kombat-leyendas-frio-y-penumbra-online-gratis-en-cinecalidad/",
-                                "title": "Mortal Kombat Leyendas: Frío y Penumbra",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//1hJufJphSKP7WaVEfyDYAtmfcU.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/ver-pelicula/codigo-traje-rojo/",
-                    "artist": "Adam Boyer",
-                    "description": "Después de que Santa Claus (nombre clave: Traje rojo) es secuestrado, el Jefe de Seguridad del Polo Norte debe formar equipo con el cazarrecompensas más infame del mundo en una misión trotamundos llena de acción para salvar la Navidad.   ",
-                    "genre": "Acción, Comedia, Fantasía",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver-pelicula/codigo-traje-rojo/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

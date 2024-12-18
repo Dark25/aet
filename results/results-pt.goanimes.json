@@ -3,27 +3,27 @@
         "name": "GoAnimes (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: goanimes.net: No address associated with hostname",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: goanimes.net",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: goanimes.net",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: goanimes.net",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: goanimes.net",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: goanimes.net",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

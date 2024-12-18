@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2a54338c-c992-4679-a478-6567783b50cb.webp"
                             },
                             {
+                                "url": "10780-kraven-il-cacciatore",
+                                "title": "Kraven - Il cacciatore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f1d2a31a-f7d6-484b-b888-336ce5297a10.webp"
+                            },
+                            {
                                 "url": "10006-oceania-2",
                                 "title": "Oceania 2",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bd8f433d-2054-45c0-bdde-9e1895931067.webp"
@@ -300,11 +305,6 @@
                                 "url": "458-chicago-pd",
                                 "title": "Chicago PD",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/65d883c1-5921-4bf9-8fc9-321bbaa7f4e0.webp"
-                            },
-                            {
-                                "url": "180-chicago-fire",
-                                "title": "Chicago Fire",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/240e107e-ea10-4eaa-a73e-9c03572cce2e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -365,11 +365,6 @@
                                 "url": "10781-delitto-perfetto",
                                 "title": "Delitto perfetto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/799c8a45-0209-4f74-bf0b-facd8e71475f.webp"
-                            },
-                            {
-                                "url": "10780-kraven-il-cacciatore",
-                                "title": "Kraven - Il cacciatore",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f1d2a31a-f7d6-484b-b888-336ce5297a10.webp"
                             },
                             {
                                 "url": "10778-atlantis-il-ritorno-di-milo",
@@ -615,6 +610,11 @@
                                 "url": "10709-spy-kids-2-lisola-dei-sogni-perduti",
                                 "title": "Spy Kids 2 - L'isola dei sogni perduti",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/763f1f5b-be8d-42ad-a313-37c4cd9cec7e.webp"
+                            },
+                            {
+                                "url": "10707-miraculous-world-parigi-le-avventure-di-shadybug-e-claw-noir",
+                                "title": "Miraculous World - Parigi, Le avventure di Shadybug e Claw Noir",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7da2c9d7-d047-4f11-9e13-4c3265852a85.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1241466726374077209/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1241466726374077209/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1241466726374077209/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1613506900443857891/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1613506900443857891/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1613506900443857891/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

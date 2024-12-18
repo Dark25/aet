@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/kraven-el-cazador/",
+                                "title": "Kraven el cazador",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/ver-serie/fachadas/",
                                 "title": "Fachadas",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//comPtHolYrnbkS8ydWIuuW3P4vY.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/codigo-traje-rojo/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-serie/palomas-negras/",
                                 "title": "Palomas negras",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/watchmen-capitulo-2/",
-                                "title": "Watchmen: Capítulo 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-pelicula/kraven-el-cazador/",
+                                "title": "Kraven el cazador",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//gabWTSVhzltlKkmcqPoJmjKJxyb.jpg"
+                            },
                             {
                                 "url": "/ver-serie/fachadas/",
                                 "title": "Fachadas",
@@ -145,11 +150,6 @@
                                 "url": "/ver-serie/el-manana-y-yo/",
                                 "title": "El mañana y yo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185//6AEp3evNSw8yecyjZ9ORYQb2T8O.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/comando-de-criaturas/",
-                                "title": "Comando de criaturas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185//zVC3YIA8C3Lyf30UGVRaxrBW3GE.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -199,12 +199,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/fachadas/",
-                    "artist": "Abbi Jacobson",
-                    "author": "Liz Feldman",
-                    "description": "La venta de la casa perfecta de Paul y Lydia en Los Ángeles los obliga a enfrentarse a secretos dolorosos… y a ocultarlos de miradas indiscretas y compradores desesperados.   ",
-                    "genre": "Comedia, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//comPtHolYrnbkS8ydWIuuW3P4vY.jpg",
+                    "url": "/ver-pelicula/kraven-el-cazador/",
+                    "artist": "Aaron Taylor-Johnson",
+                    "description": "El inmigrante ruso Sergei Kravinoff está en una misión para demostrar que es el mejor cazador del mundo.   ",
+                    "genre": "Acción, Aventura, Suspenso",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185//gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -212,84 +211,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/fachadas-1x8/",
-                        "name": "T1 - E8 - Vendida",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver-el-episodio/fachadas-1x7/",
-                        "name": "T1 - E7 - Definitiva y final",
-                        "episode_number": 7.0
+                        "url": "/ver-pelicula/kraven-el-cazador/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f1-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f1-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f2-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-k36lq9mwfsnekmyd.voe-network.net/engine/hls2-c/01/13100/4ieuet1uz1x6_,n,l,.urlset/index-f2-v1-a1.m3u8?t=BOCRiDrkbYeDDK62_Vugm2LT036FufWMiCWY9Vs8dXM&s=1734523895&e=14400&f=65501144&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=52.234&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/bvhyeynx12w5"
-                        }
-                    },
-                    {
-                        "url": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/bvhyeynx12w5"
-                        }
-                    },
-                    {
-                        "url": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://kyw0p84c.cdn-centaurus.com/hls2/01/07471/bvhyeynx12w5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8JHmcabEk8hAMKzwCqeSbXW5e71y_tweDrpIUYC77R8&s=1734523894&e=129600&f=37356884&srv=rfr02gmo75cn&i=0.4&sp=500&p1=rfr02gmo75cn&p2=rfr02gmo75cn&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/bvhyeynx12w5"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=4XDxWPKwVWspRo&expires=1734593893&ip=G0WsDRONKxSHDN&token=_eEsg5NMnZdM",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=4XDxWPKwVWspRo&expires=1734593893&ip=G0WsDRONKxSHDN&token=_eEsg5NMnZdM"
-                    },
-                    {
-                        "url": "https://s1.goodstream.one/vtt/02/00011/ux1gffr4pbu7_sli.vtt",
-                        "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00011/ux1gffr4pbu7_sli.vtt",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

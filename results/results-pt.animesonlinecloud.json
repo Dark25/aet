@@ -3,28 +3,271 @@
         "name": "Animes Online Cloud (PT-BR)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodio/tasuuketsu-episodio-22-2",
+                                "title": "Tasuuketsu Episódio 22",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/btuPqxmvia55IGkq6i2v9o3szWB-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/rekishi-ni-nokoru-akujo-ni-naru-zo-episodio-12",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/fzp8tjvgMnEdhAVFsODaICUlwBR-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/amagami-san-chi-no-enmusubi-episodio-12",
+                                "title": "Amagami-san Chi no Enmusubi Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/ux1whQYv5vd0v1NzckNa0B9dQHa-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/youkai-gakkou-no-sensei-hajimemashita-episodio-11",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita! Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/9HE10sIRkAHgQQdsyUuxAt5o88J-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/love-live-superstar-3-episodio-11",
+                                "title": "Love Live! Superstar!! 3 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/6sCkPgGlouHMtaY7ypQaTgLLMM1-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/seirei-gensouki-2-dublado-episodio-11",
+                                "title": "Seirei Gensouki 2 Dublado Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/ibhYWSE11GpP0iA8Nem5HlmlDUf-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/seirei-gensouki-2-episodio-11",
+                                "title": "Seirei Gensouki 2 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/r6AuBH5lU6Ba09IzBGeY6BVWtfo-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episodio-12",
+                                "title": "Saikyou no Shienshoku “Wajutsushi” de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/aYgt6r7CnRWG39u3pKz2QbJ1zrH-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/raise-wa-tanin-ga-ii-episodio-11",
+                                "title": "Raise wa Tanin ga Ii Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/zemM6S5wREkISFN764MftdRYhiH-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/natsume-yuujinchou-shichi-7-episodio-11",
+                                "title": "Natsume Yuujinchou Shichi 7 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/2fYs8LifiTOLbx2jIvI6Rdszezr-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/kamonohashi-ron-no-kindan-suiri-2-episodio-11",
+                                "title": "Kamonohashi Ron no Kindan Suiri 2 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/1zEE4Q9sRVsQ4Dt7vfs429irZRh-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/hoshifuru-oukoku-no-nina-episodio-11",
+                                "title": "Hoshifuru Oukoku no Nina Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/52ZPd39ibGH4Rf5OazKw0W45CFc-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/solo-leveling-dublado-episodio-12",
+                                "title": "Solo Leveling Dublado Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/8WNsU7GLSsXcCAxa5th5nkWeO6W-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/kamen-rider-gavv-episodio-15",
+                                "title": "Kamen Rider Gavv Episódio 15",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/GVlkGguLrDgTKfK7tlNMU8ugTN-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/yume-senshi-wingman-episodio-08",
+                                "title": "Yume Senshi Wingman Episódio 08",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/rH3Ylx7qwvRJZZjneUb52Qm3QSY-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/tsuma-shougakusei-ni-naru-episodio-12",
+                                "title": "Tsuma, Shougakusei ni Naru Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/aP9gd6erSBNSTQuLjPwu8Luxwqu-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/tieZZDm9onWMp1ft1OmBUQ4xsAE-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/ranma-1-2-2024-dublado-episodio-11",
+                                "title": "Ranma 1/2 (2024) Dublado Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/gxKi42AascHhgJhCZqNCtYueC3A-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/puniru-wa-kawaii-slime-episodio-11",
+                                "title": "Puniru wa Kawaii Slime Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/7FcfdUehXK6oR9cIeykHD2xXUyW-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/puniru-wa-kawaii-slime-episodio-10",
+                                "title": "Puniru wa Kawaii Slime Episódio 10",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bbDxun1oDTO9GZIMv4tf6MTtI0p-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/nageki-no-bourei-wa-intai-shitai-episodio-12",
+                                "title": "Nageki no Bourei wa Intai shitai Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/b42VMclkI8ncANZMBhiz1UdYwzl-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/mf-ghost-2-episodio-11",
+                                "title": "MF Ghost 2 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/jukEBnCVRPAqP1vDeDT661sMFxK-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/tower-of-god-2-episodio-24",
+                                "title": "Tower of God 2 Episódio 24",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bbLZNx9Onh7Q7SxOdjSlMnpdhnI-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/fairy-tail-100-nen-quest-episodio-23",
+                                "title": "Fairy Tail: 100-nen Quest Episódio 23",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/eQuKnht35AdCrKncgeAviInAJnj-300x170.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/the-prince-of-tennis-ii-u-17-world-cup",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup – Todos os Episódios",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/08/etVlxcNUsJLE4qhJON3VwZSzwFW-150x150.jpg"
+                            },
+                            {
+                                "url": "/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/50OsbGp6AWw4za2aAM82vKburcg.jpg"
+                            },
+                            {
+                                "url": "/anime/zombieland-saga-todos-os-episodios",
+                                "title": "Zombieland Saga – Todos os Episódios",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/e4rzeUloRTHGovb46Zobk3TimhL.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3-dublado",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nPVXHDZRV3XBxI0vtuSIw9Mvxe5.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-todos-os-episodios",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 3 Dublado – Todos os Episódios",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/3QX7Mwl71NomXujvjN4vjQeDYW0.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 3 – Todos os Episódios",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qhML8g1WzSQLEckY2KSQI9c0OMD.jpg"
+                            },
+                            {
+                                "url": "/anime/hitoribocchi-no-isekai-kouryaku",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-150x150.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kZv5XLbAjhSD1UiHnYH9g69JTPF.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-2",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/09/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-2-Dublado-150x150.jpg"
+                            },
+                            {
+                                "url": "/anime/egumi-legacy",
+                                "title": "Egumi Legacy – Todos os Episódios",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/07/6r7vA4WMBYwqqKo1ny7Teh1bYNO-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": {
+                    "url": "/anime/tasuketsu-fate-of-the-majority",
+                    "title": "Tasuketsu –",
+                    "description": "A história segue um grupo de cinco pessoas em um mundo onde pessoas desapareceram repentinamente. Um misterioso autoproclamado “Imperador” reúne cinco pessoas por meio de mensagens anônimas e as faz participar de um jogo. Os participantes respondem à pergunta “Você quer viver ou morrer?” O jogo tem apenas uma regra: “A maioria morre”.\n",
+                    "genre": "Ação e Aventura, Animação, Drama, Letra T, Nippon TV",
+                    "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/07/9y8kJR8PexjfLrdoF1mhn7Tf00s-212x300.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/tasuuketsu-episodio-22-2",
+                        "name": "Temporada 1 x 23 - Episódio 23 - Batalha",
+                        "episode_number": 23.0
+                    },
+                    {
+                        "url": "/episodio/tasuuketsu-episodio-22",
+                        "name": "Temporada 1 x 22 - Episódio 22 - Frente de ataque especial",
+                        "episode_number": 22.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr2---sn-n4v7sney.googlevideo.com/videoplayback?expire=1734536059&ei=-3piZ8bvDNur2OMP2J-noA8&ip=52.160.161.180&id=a47336aaa8cd6dcd&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734507259,&mh=g8&mm=31&mn=sn-n4v7sney&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1370.279&lmt=1734481854598536&mt=1734505883&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgdQNw9MfZU6cekX3hJBuMGstEXraHvupDUbS7mP_up4QCIQDknVtwOablzz0ierhWFUlo3bh0xRRdt_Rmq7QzZ4S1pg%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgAa0rAoYmGJuNsKTGAh6HJWslpDQsq-9uIvehT3mUZN4CIQCgjTjra1A2r1eOxzTkvulyf2XfzrX99frmh8GEZ7vh1g%3D%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr2---sn-n4v7sney.googlevideo.com/videoplayback?expire=1734536059&ei=-3piZ8bvDNur2OMP2J-noA8&ip=52.160.161.180&id=a47336aaa8cd6dcd&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734507259,&mh=g8&mm=31&mn=sn-n4v7sney&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1370.279&lmt=1734481854598536&mt=1734505883&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgdQNw9MfZU6cekX3hJBuMGstEXraHvupDUbS7mP_up4QCIQDknVtwOablzz0ierhWFUlo3bh0xRRdt_Rmq7QzZ4S1pg%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgAa0rAoYmGJuNsKTGAh6HJWslpDQsq-9uIvehT3mUZN4CIQCgjTjra1A2r1eOxzTkvulyf2XfzrX99frmh8GEZ7vh1g%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    },
+                    {
+                        "url": "https://cld.pt/dl/download/41ad2355-75a9-4216-85fd-b84df03903a2/Tasuuketsu%20%E2%80%93%20Epis%C3%B3dio%2023.mp4",
+                        "quality": "720p",
+                        "videoUrl": "https://cld.pt/dl/download/41ad2355-75a9-4216-85fd-b84df03903a2/Tasuuketsu%20%E2%80%93%20Epis%C3%B3dio%2023.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/",
+                            "Accept": "*/*",
+                            "Host": "cld.pt",
+                            "Origin": "https://animesonline.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://animeflix.blog/Animes/Letra-T/Tasuuketsu/23.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "https://animeflix.blog/Animes/Letra-T/Tasuuketsu/23.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/",
+                            "Accept": "*/*",
+                            "Host": "animeflix.blog",
+                            "Origin": "https://animesonline.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://rr2---sn-n4v7sney.googlevideo.com/videoplayback?expire=1734536059&ei=-3piZ8bvDNur2OMP2J-noA8&ip=52.160.161.180&id=a47336aaa8cd6dcd&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734507259,&mh=g8&mm=31&mn=sn-n4v7sney&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1370.279&lmt=1734481278053662&mt=1734505883&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgEFAv3gXEgqoykzmRLlwpRbuJ_QO_9Uh9qOXjQ42xKG8CIQCD45fYSFlW8A6V5pdOm0QyngfpJBRNDYcIjlorrheq1Q%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgfo5kchrU3FDX12RaoGFxQKmskud5vO-CtkHN8pcr7SsCIQDByvyuPQSkAmErvi2XEwBaiLECHiEQPIbwcbLVoKx7zg%3D%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr2---sn-n4v7sney.googlevideo.com/videoplayback?expire=1734536059&ei=-3piZ8bvDNur2OMP2J-noA8&ip=52.160.161.180&id=a47336aaa8cd6dcd&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734507259,&mh=g8&mm=31&mn=sn-n4v7sney&ms=au&mv=u&mvi=2&pl=15&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1370.279&lmt=1734481278053662&mt=1734505883&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgEFAv3gXEgqoykzmRLlwpRbuJ_QO_9Uh9qOXjQ42xKG8CIQCD45fYSFlW8A6V5pdOm0QyngfpJBRNDYcIjlorrheq1Q%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgfo5kchrU3FDX12RaoGFxQKmskud5vO-CtkHN8pcr7SsCIQDByvyuPQSkAmErvi2XEwBaiLECHiEQPIbwcbLVoKx7zg%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

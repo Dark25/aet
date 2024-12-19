@@ -42,6 +42,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=939243&type=movie",
+                                "title": "Sonic the Hedgehog 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9smDTGRF7NNPJkHQjEsUDvRrMNK.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=539972&type=movie",
                                 "title": "Kraven the Hunter",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/o0EVyhb2kiIRPPzZ1DfXheLpm4B.jpg"
@@ -90,11 +95,6 @@
                                 "url": "/data/watch/?_id=1000075&type=movie",
                                 "title": "Largo Winch: Le prix de l'argent",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/38ndcNVogh4k1iFH5DSXSX8kyOZ.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=939243&type=movie",
-                                "title": "Sonic the Hedgehog 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9smDTGRF7NNPJkHQjEsUDvRrMNK.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=533535&type=movie",
@@ -987,48 +987,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=xPMPvMM6rYIkY1V&expires=1734637408&ip=FROsDRMnDS9X&token=N8nSUhRU5Mji",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xPMPvMM6rYIkY1V&expires=1734637408&ip=FROsDRMnDS9X&token=N8nSUhRU5Mji"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=jvpBo47v3kHz3ym&expires=1734637408&ip=FROsDRMnDS9X&token=dcigOXzjKws-",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jvpBo47v3kHz3ym&expires=1734637408&ip=FROsDRMnDS9X&token=dcigOXzjKws-"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=ylo9D4GjjDimOW&expires=1734637408&ip=FROsDRMnDS9X&token=PQOBELT7u_95",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ylo9D4GjjDimOW&expires=1734637408&ip=FROsDRMnDS9X&token=PQOBELT7u_95"
-                    },
-                    {
-                        "url": "https://delivery-node-tczjg8qagalxt0nj.voe-network.net/engine/hls2-c/01/13063/k2p366melkag_,l,.urlset/index-v1-a1.m3u8?t=dQsogEYMJfrx7huu7RM9kO1GpwpxAo6rhrxOXY9IuN4&s=1734567407&e=14400&f=65319187&node=delivery-node-xqrgj99p8krmzj4e.voe-network.net&i=20.25&sp=2500&asn=8075",
-                        "quality": "Voe:240p",
-                        "videoUrl": "https://delivery-node-tczjg8qagalxt0nj.voe-network.net/engine/hls2-c/01/13063/k2p366melkag_,l,.urlset/index-v1-a1.m3u8?t=dQsogEYMJfrx7huu7RM9kO1GpwpxAo6rhrxOXY9IuN4&s=1734567407&e=14400&f=65319187&node=delivery-node-xqrgj99p8krmzj4e.voe-network.net&i=20.25&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-0x5ib954jrlp03oi.voe-network.net/engine/hls2-c/01/13018/qnbfc1kwswt5_,n,.urlset/index-v1-a1.m3u8?t=IzXko1GDBqnz80rJbXUhlA9_Mg73D2q4b5kw7ZihKT8&s=1734567406&e=14400&f=65091367&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.25&sp=2500&asn=8075",
-                        "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-0x5ib954jrlp03oi.voe-network.net/engine/hls2-c/01/13018/qnbfc1kwswt5_,n,.urlset/index-v1-a1.m3u8?t=IzXko1GDBqnz80rJbXUhlA9_Mg73D2q4b5kw7ZihKT8&s=1734567406&e=14400&f=65091367&node=delivery-node-rjr5gkb5baki8g2f.voe-network.net&i=20.25&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-zvts6zs4ywxtpmj9.voe-network.net/engine/hls2-c/01/13018/xwbjfesnqpah_,n,.urlset/index-v1-a1.m3u8?t=hIl3F0A7Qs32XfbGmUDWOUsbtV8EkaKz_lXQ7KvBpMs&s=1734567405&e=14400&f=65091345&node=delivery-node-8b677gcgjyzkiwsh.voe-network.net&i=20.25&sp=2500&asn=8075",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-zvts6zs4ywxtpmj9.voe-network.net/engine/hls2-c/01/13018/xwbjfesnqpah_,n,.urlset/index-v1-a1.m3u8?t=hIl3F0A7Qs32XfbGmUDWOUsbtV8EkaKz_lXQ7KvBpMs&s=1734567405&e=14400&f=65091345&node=delivery-node-8b677gcgjyzkiwsh.voe-network.net&i=20.25&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.ConnectException: Failed to connect to delivery-node-8b677gcgjyzkiwsh.voe-network.net/37.187.57.94:443",
+                "passed": false
             }
         }
     }

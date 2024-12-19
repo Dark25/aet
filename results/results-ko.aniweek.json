@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/카모노하시 론의 금단추리 2nd Season",
+                                "title": "카모노하시 론의 금단추리 2nd Season",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/thumb-bc9d16b9dbde6e29c97ba2be5f168927_1728406912_899_165x220.jpg"
+                            },
+                            {
                                 "url": "/c/아마가미 씨네 인연 맺기",
                                 "title": "아마가미 씨네 인연 맺기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
@@ -277,11 +282,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/31b9624e6d40ab5ded28d92fcb06ed1d_1728922882_6593.jpg"
                             },
                             {
-                                "url": "/c/카모노하시 론의 금단추리 2nd Season",
-                                "title": "카모노하시 론의 금단추리 2nd Season",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/thumb-bc9d16b9dbde6e29c97ba2be5f168927_1728406912_899_165x220.jpg"
-                            },
-                            {
                                 "url": "/c/과학×모험 서바이벌",
                                 "title": "과학×모험 서바이벌",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg"
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/아마가미 씨네 인연 맺기",
-                    "title": "아마가미 씨네 인연 맺기",
-                    "description": "원제: 甘神さんちの縁結び\n원작: 나이토 마시\n감독: 아베 유지로\n각본: 아오키 야스코\n캐릭터 디자인: 이이즈카 하루코\n음악: 카와사키 료, 코노 토모유키\n장르: 로맨스, 코미디, 판타지, 하렘\n방영일: 2024.10.02 00:00 (수)\n등급: 12\n총화수: 24",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg",
+                    "url": "/c/카모노하시 론의 금단추리 2nd Season",
+                    "title": "카모노하시 론의 금단추리 2nd Season",
+                    "description": "원제: 鴨乃橋ロンの禁断推理 2nd Season\n원작: 아마노 아키라\n감독: 이하타 쇼타\n각본: 와타리 와타루\n캐릭터 디자인: 이시카와 마사카즈\n음악: 츠지 요우\n장르: 추리, 서스펜스, 미스테리\n방영일: 2024.10.07 22:30 (월)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/bc9d16b9dbde6e29c97ba2be5f168927_1728406912_899.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,22 +505,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/아마가미 씨네 인연 맺기 12화",
-                        "name": "아마가미 씨네 인연 맺기 12화",
+                        "url": "/e/카모노하시 론의 금단추리 2nd Season 11화",
+                        "name": "카모노하시 론의 금단추리 2nd Season 11화",
                         "date_upload": 1734566400000,
-                        "episode_number": 12.0
+                        "episode_number": 11.0
                     },
                     {
-                        "url": "/e/아마가미 씨네 인연 맺기 11화",
-                        "name": "아마가미 씨네 인연 맺기 11화",
-                        "date_upload": 1733875200000,
-                        "episode_number": 11.0
+                        "url": "/e/카모노하시 론의 금단추리 2nd Season 10화",
+                        "name": "카모노하시 론의 금단추리 2nd Season 10화",
+                        "date_upload": 1733788800000,
+                        "episode_number": 10.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-434513945955999798/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-434513945955999798/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-434513945955999798/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15741920905957061035/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15741920905957061035/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15741920905957061035/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

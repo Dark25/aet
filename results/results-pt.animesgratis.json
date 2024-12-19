@@ -3,74 +3,16 @@
         "name": "Bakashi (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
-                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wD55C85rLI568fxlQUhlTADdwo3.jpg"
-                            },
-                            {
-                                "url": "/animes/upando-sozinho/",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zn7hOslLYG1U2m06jGJJln8Ry7t.jpg"
-                            },
-                            {
-                                "url": "/animes/kono-subarashii-sekai-ni-shukufuku-wo-3/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mu4F6a4ImUT5xqYlc0IcwHaALKE.jpg"
-                            },
-                            {
-                                "url": "/animes/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life/",
-                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg"
-                            },
-                            {
-                                "url": "/animes/bleach-sennen-kessen-hen/",
-                                "title": "Bleach: Sennen Kessen-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/guyS28A4IxwoMXIq3Xj9AszMefP.jpg"
-                            },
-                            {
-                                "url": "/animes/fog-hill-of-five-elements-2/",
-                                "title": "Fog Hill of Five Elements 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ad8ECFk6fFNmvJtwgzUoefiw5oL.jpg"
-                            },
-                            {
-                                "url": "/animes/4-cut-hero/",
-                                "title": "4 Cut Hero",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Fjqbv0KWcm1yUhsqWAkkDCUVXm.jpg"
-                            },
-                            {
-                                "url": "/animes/jujutsu-kaisen/",
-                                "title": "Jujutsu Kaisen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q3cKEEthevZvKRelF4Ko6cUnUdu.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
                 "error": "java.lang.NullPointerException",
@@ -79,7 +21,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/animes/kimetsu-no-yaiba-hashira-geiko-hen/",
+                        "url": "/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

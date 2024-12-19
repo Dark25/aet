@@ -77,6 +77,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/kekkon-suru-tte-hontou-desu-ka",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kekkon-suru-tte-hontou-desu-ka.jpg"
+                            },
+                            {
+                                "url": "/dandadan",
+                                "title": "Dandadan",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dandadan.jpg"
+                            },
+                            {
+                                "url": "/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.jpg"
+                            },
+                            {
+                                "url": "/negaposi-angler",
+                                "title": "NegaPosi Angler",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/negaposi-angler.jpg"
+                            },
+                            {
+                                "url": "/kinoko-inu",
+                                "title": "Kinoko Inu",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kinoko-inu.jpg"
+                            },
+                            {
                                 "url": "/kamierabi-2nd-season",
                                 "title": "Kamierabi 2nd Season",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kamierabi-2nd-season.jpg"
@@ -200,31 +225,6 @@
                                 "url": "/tsuma-shougakusei-ni-naru",
                                 "title": "Tsuma, Shougakusei ni Naru.",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/tsuma-shougakusei-ni-naru.jpg"
-                            },
-                            {
-                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/fairy-tail-100-nen-quest",
-                                "title": "Fairy Tail: 100-nen Quest",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/fairy-tail-100-nen-quest.jpg"
-                            },
-                            {
-                                "url": "/wonderful-precure",
-                                "title": "Wonderful Precure!",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/wonderful-precure.jpg"
-                            },
-                            {
-                                "url": "/touhai-ura-rate-mahjong-touhai-roku",
-                                "title": "Touhai: Ura Rate Mahjong Touhai Roku",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/touhai-ura-rate-mahjong-touhai-roku.jpg"
-                            },
-                            {
-                                "url": "/one-piece-gyojin-tou-hen",
-                                "title": "One Piece: Gyojin Tou-hen",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/one-piece-gyojin-tou-hen.jpg"
                             },
                             {
                                 "url": "/chou-yuu-sekai-being-the-reality",
@@ -398,18 +398,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrt3o2rptzhz4hzjodldepaygyry6rdj/video.mp4",
+                        "url": "https://delivery-node-vhfrcgzcntzyhsiv.voe-network.net/engine/hls2-c/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=GE6i5ja79hHnl_jjul6Uehn8VnXsAXYRMvZ0UAOVDlk&s=1734631612&e=14400&f=62208694&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "[JAP] Voe:720p",
+                        "videoUrl": "https://delivery-node-vhfrcgzcntzyhsiv.voe-network.net/engine/hls2-c/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=GE6i5ja79hHnl_jjul6Uehn8VnXsAXYRMvZ0UAOVDlk&s=1734631612&e=14400&f=62208694&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrtzoikdnz67o43kmelro2kiglfpithx/video.mp4",
                         "quality": "[JAP] Mp4Upload - 720p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrt3o2rptzhz4hzjodldepaygyry6rdj/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrtzoikdnz67o43kmelro2kiglfpithx/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://r91t57ooz3mx.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Xh5Azw7SYTpWQdxiohf4RDJ92EWSNddPahP3w3Zck-s&s=1734610081&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "url": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3OEjyUWI7kEhP8ksPT8sbI589bvQnzbzsVxYvYMLgeU&s=1734631611&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
                         "quality": "[JAP] StreamWish:720p",
-                        "videoUrl": "https://r91t57ooz3mx.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Xh5Azw7SYTpWQdxiohf4RDJ92EWSNddPahP3w3Zck-s&s=1734610081&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "videoUrl": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3OEjyUWI7kEhP8ksPT8sbI589bvQnzbzsVxYvYMLgeU&s=1734631611&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -418,9 +426,9 @@
                         }
                     },
                     {
-                        "url": "https://r91t57ooz3mx.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Xh5Azw7SYTpWQdxiohf4RDJ92EWSNddPahP3w3Zck-s&s=1734610081&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "url": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=3OEjyUWI7kEhP8ksPT8sbI589bvQnzbzsVxYvYMLgeU&s=1734631611&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
                         "quality": "[JAP] StreamWish:480p",
-                        "videoUrl": "https://r91t57ooz3mx.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Xh5Azw7SYTpWQdxiohf4RDJ92EWSNddPahP3w3Zck-s&s=1734610081&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "videoUrl": "https://nue3mlrqqmp4.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=3OEjyUWI7kEhP8ksPT8sbI589bvQnzbzsVxYvYMLgeU&s=1734631611&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -429,14 +437,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1734680084&ip=FROsD0ISKxSHDN&token=r1MW25UD1X85",
+                        "url": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1734701608&ip=G0WsDRONKxSHDN&token=qBfvgm4p8xwb",
                         "quality": "[JAP] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1734680084&ip=FROsD0ISKxSHDN&token=r1MW25UD1X85"
+                        "videoUrl": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1734701608&ip=G0WsDRONKxSHDN&token=qBfvgm4p8xwb"
                     },
                     {
-                        "url": "https://a-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=KdPSL72tAYK1FwE8TwIvkQ&e=1734631683&_t=1734618333",
+                        "url": "https://a-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=itekjSCQfE4_5odJq5GsPQ&e=1734653210&_t=1734633597",
                         "quality": "[JAP] MixDrop",
-                        "videoUrl": "https://a-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=KdPSL72tAYK1FwE8TwIvkQ&e=1734631683&_t=1734618333",
+                        "videoUrl": "https://a-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=itekjSCQfE4_5odJq5GsPQ&e=1734653210&_t=1734633597",
                         "headers": {
                             "Referer": "https://mixdrop.co/",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"

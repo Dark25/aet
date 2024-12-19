@@ -431,8 +431,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://oi321o.cloudatacdn.com/u5kj6uktqhc3sdgge4y7in2him4jtqcc6qb3g53rvxizh2bakhu2kzzzlasq/swt4e4q3x4~ts3tjYlKci?token=17rmp5v9epd4pn8tzptjvmrn&expiry=1734610072849",
+                        "quality": "nullDoodstream  mirror",
+                        "videoUrl": "https://oi321o.cloudatacdn.com/u5kj6uktqhc3sdgge4y7in2him4jtqcc6qb3g53rvxizh2bakhu2kzzzlasq/swt4e4q3x4~ts3tjYlKci?token=17rmp5v9epd4pn8tzptjvmrn&expiry=1734610072849",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.work/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

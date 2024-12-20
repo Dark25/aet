@@ -250,12 +250,112 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/capitulo/secret-level-temporada-1-capitulo-15/",
+                        "name": "T1 - Episodio 15",
+                        "episode_number": 15.0
+                    },
+                    {
+                        "url": "/capitulo/secret-level-temporada-1-capitulo-14/",
+                        "name": "T1 - Episodio 14",
+                        "episode_number": 14.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_x/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_x/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_h/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_h/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_n/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_n/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_l/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_l/index-v1-a1.m3u8?t=LWv6D3_e7HucKFmEGBxuooWS0xITzlrRLFNVdBQVf_Q&s=1734674921&e=43200&v=39358506&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_x/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_x/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_h/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_h/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_n/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_n/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_l/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_l/index-v1-a1.m3u8?t=YJaj7pLJ7GYIE9cnz-qqMvFhaNSSERHuGPlswYYEFfc&s=1734674923&e=43200&v=39358513&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

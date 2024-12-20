@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/beast-games",
+                                "title": "Beast Games (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ub0yioXFa0DjSj8lwvymUx5PKbe.jpg"
+                            },
+                            {
                                 "url": "/serie/wonder-pets-en-la-ciudad",
                                 "title": "Wonder Pets en la ciudad (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wS2XCq9jnBygNn6HaKRh7xXlziU.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/joan",
                                 "title": "Joan (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg"
-                            },
-                            {
-                                "url": "/serie/el-manana-y-yo",
-                                "title": "El mañana y yo (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6AEp3evNSw8yecyjZ9ORYQb2T8O.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/wonder-pets-en-la-ciudad",
-                    "title": "Wonder Pets en la ciudad (2024)",
-                    "description": "Únete a las aventuras musicales de Izzy la conejilla de indias, Zuri la conejita y Tate la serpiente, un trío de heroicas mascotas escolares de Nueva York, mientras ayudan a animales de todo el mundo..",
-                    "genre": "Animación, Kids, Familia",
+                    "url": "/serie/beast-games",
+                    "title": "Beast Games (2024)",
+                    "description": "Unos increíbles 1000 concursantes compiten en desafíos físicos y mentales por una oportunidad de ganar un enorme premio en efectivo de 5 millones de dólares. Semana a semana, los concursantes utilizarán su fuerza e ingenio para permanecer en el juego, ¡con la esperanza de ser el ganador multimillonario!.",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wS2XCq9jnBygNn6HaKRh7xXlziU.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ub0yioXFa0DjSj8lwvymUx5PKbe.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/wonder-pets-en-la-ciudad/temporada/1/capitulo/13",
-                        "name": "T1 - E13: ¡Ayudan a la ardilla roja! / ¡Ayudan al escarabajo pelotero!",
-                        "episode_number": 13.0
+                        "url": "/serie/beast-games/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/wonder-pets-en-la-ciudad/temporada/1/capitulo/12",
-                        "name": "T1 - E12: ¡Ayudan al cangrejo del Caribe! / ¡Salvan a los carneros!",
-                        "episode_number": 12.0
+                        "url": "/serie/beast-games/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -704,9 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/07490/2retbybbyo17_n/index-v1-a1.m3u8?t=41hzVAfH-RevZZyzhchF5w_P9UcCeZsZU5ho5BxoECY&s=1734653920&e=129600&f=37453364&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "url": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/07490/2retbybbyo17_n/index-v1-a1.m3u8?t=uuRBkFFTtO6m-LrJvOAtKGWyu27fpPAdiYJUEJoVe70&s=1734674886&e=129600&f=37453364&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/07490/2retbybbyo17_n/index-v1-a1.m3u8?t=41hzVAfH-RevZZyzhchF5w_P9UcCeZsZU5ho5BxoECY&s=1734653920&e=129600&f=37453364&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
+                        "videoUrl": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/07490/2retbybbyo17_n/index-v1-a1.m3u8?t=uuRBkFFTtO6m-LrJvOAtKGWyu27fpPAdiYJUEJoVe70&s=1734674886&e=129600&f=37453364&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -715,9 +715,9 @@
                         }
                     },
                     {
-                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jYFZjJ89qnbm3utrhzknA8v4jQsCZxPClYqP-tu-_f4&s=1734653918&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
+                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ROzG7wnRsPknhF4IggfoBq9fgKfC9MPiGVabU6P3unw&s=1734674883&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
                         "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jYFZjJ89qnbm3utrhzknA8v4jQsCZxPClYqP-tu-_f4&s=1734653918&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
+                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ROzG7wnRsPknhF4IggfoBq9fgKfC9MPiGVabU6P3unw&s=1734674883&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -726,9 +726,9 @@
                         }
                     },
                     {
-                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=jYFZjJ89qnbm3utrhzknA8v4jQsCZxPClYqP-tu-_f4&s=1734653918&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
+                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=ROzG7wnRsPknhF4IggfoBq9fgKfC9MPiGVabU6P3unw&s=1734674883&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
                         "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=jYFZjJ89qnbm3utrhzknA8v4jQsCZxPClYqP-tu-_f4&s=1734653918&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
+                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03210/rxl7tqvaok4f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=ROzG7wnRsPknhF4IggfoBq9fgKfC9MPiGVabU6P3unw&s=1734674883&e=129600&f=16053365&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",

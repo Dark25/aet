@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/메카우데",
+                                "title": "메카우데",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982845_1411.jpg"
+                            },
+                            {
+                                "url": "/c/던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
+                                "title": "던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727979647_5952.jpg"
+                            },
+                            {
+                                "url": "/c/단다단",
+                                "title": "단다단",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4fda751cb8883043403d2d6bcbb66476_1727974086_6464.jpg"
+                            },
+                            {
                                 "url": "/c/버섯 강아지",
                                 "title": "버섯 강아지",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/92cf6d5825df45b9fdd368e09fae3279_1727931850_1574.jpg"
@@ -212,24 +227,9 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
                             },
                             {
-                                "url": "/c/던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
-                                "title": "던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727979647_5952.jpg"
-                            },
-                            {
                                 "url": "/c/2.5차원의 유혹",
                                 "title": "2.5차원의 유혹",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/6933827d49e60fe0b889ddb5f1f4d2bf_1720064859_5172.jpg"
-                            },
-                            {
-                                "url": "/c/메카우데",
-                                "title": "메카우데",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982845_1411.jpg"
-                            },
-                            {
-                                "url": "/c/단다단",
-                                "title": "단다단",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4fda751cb8883043403d2d6bcbb66476_1727974086_6464.jpg"
                             },
                             {
                                 "url": "/c/푸른 상자",
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/버섯 강아지",
-                    "title": "버섯 강아지",
-                    "description": "원제: きのこいぬ\n원작: 아오보시 키마마\n감독: 아사노 히카리\n각본: 타나카 진\n캐릭터 디자인: 엔도 다이스케\n음악: 타테야마 아키유키\n장르: 일상, 판타지\n방영일: 2024.10.03 21:00 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/92cf6d5825df45b9fdd368e09fae3279_1727931850_1574.jpg",
+                    "url": "/c/메카우데",
+                    "title": "메카우데",
+                    "description": "원제: メカウデ\n원작: TriF\n감독: 오카모토\n각본: 나카니시 야스히로\n캐릭터 디자인: 니시이 테루미\n음악: 사와노 히로유키\n장르: SF, 액션\n방영일: 2024.10.04 00:30 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982845_1411.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,14 +505,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/버섯 강아지 12화(完)",
-                        "name": "버섯 강아지 12화(完)",
+                        "url": "/e/메카우데 12화(完)",
+                        "name": "메카우데 12화(完)",
                         "date_upload": 1734652800000,
                         "episode_number": 12.0
                     },
                     {
-                        "url": "/e/버섯 강아지 11화",
-                        "name": "버섯 강아지 11화",
+                        "url": "/e/메카우데 11화",
+                        "name": "메카우데 11화",
                         "date_upload": 1734048000000,
                         "episode_number": 11.0
                     }
@@ -520,7 +520,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14649095851959197846/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14649095851959197846/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14649095851959197846/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7249426895495724710/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7249426895495724710/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7249426895495724710/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

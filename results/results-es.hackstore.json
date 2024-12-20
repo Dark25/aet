@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/el-tiempo-que-tenemos-2024/",
+                                "title": "El Tiempo Que Tenemos (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/h8KG7aabMl2Ay5VlhKzsg0xL1Ia.jpg"
+                            },
+                            {
                                 "url": "/peliculas/terrifier-3-payaso-siniestro-2024/",
                                 "title": "Terrifier 3: Payaso Siniestro (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "María Antonieta (2006)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/tbOUqNXg3FpQTDexgZZ6OFQSakA.jpg"
-                            },
-                            {
-                                "url": "/peliculas/chicas-pesadas-2004/",
-                                "title": "Chicas Pesadas (2004)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ox7Ted0SMEc9TBJNQdogQm8I8NH.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/terrifier-3-payaso-siniestro-2024/",
-                    "title": "Terrifier 3: Payaso Siniestro (2024)",
-                    "artist": "Lauren LaVera",
-                    "author": "Damien Leone",
-                    "description": "Después de sobrevivir a la masacre de Halloween de Art el Payaso, Sienna y su hermano luchan por reconstruir sus vidas destrozadas. A medida que se acerca la temporada navideña, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Sin embargo, justo cuando creen que están a salvo, Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla.",
-                    "genre": "Suspenso, Terror",
+                    "url": "/peliculas/el-tiempo-que-tenemos-2024/",
+                    "title": "El Tiempo Que Tenemos (2024)",
+                    "artist": "Adam James",
+                    "author": "Alana Marmion-Warr",
+                    "description": "Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.",
+                    "genre": "Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/h8KG7aabMl2Ay5VlhKzsg0xL1Ia.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/terrifier-3-payaso-siniestro-2024/",
+                        "url": "/peliculas/el-tiempo-que-tenemos-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-yghqbfxup5ihfevl.voe-network.net/engine/hls2-c/01/13112/j75oqghyjafb_,n,.urlset/index-v1-a1.m3u8?t=oE7JsKWFJ1wo7WMpWM_-Ij4MmAayfNkCnS_tY0WNWPg&s=1734653834&e=14400&f=65563261&node=delivery-node-ynug3prrg0f4gget.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-yghqbfxup5ihfevl.voe-network.net/engine/hls2-c/01/13112/j75oqghyjafb_,n,.urlset/index-v1-a1.m3u8?t=oE7JsKWFJ1wo7WMpWM_-Ij4MmAayfNkCnS_tY0WNWPg&s=1734653834&e=14400&f=65563261&node=delivery-node-ynug3prrg0f4gget.voe-network.net&i=52.234&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

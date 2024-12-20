@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "10820-the-dirt-motley-crue",
+                                "title": "The Dirt: Mötley Crüe",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/7b92e9f0-2256-45dc-a99a-de3a5a4073e2.webp"
+                            },
+                            {
+                                "url": "10814-unbreakable-kimmy-schmidt",
+                                "title": "Unbreakable Kimmy Schmidt",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/12222158-2278-49a2-b701-096a47d73dfe.webp"
+                            },
+                            {
+                                "url": "10812-la-piu-mirabolante-recita-di-natale",
+                                "title": "La più mirabolante recita di Natale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f28c3668-c1fe-4e3c-9c9e-df374702691b.webp"
+                            },
+                            {
+                                "url": "10811-beast-games",
+                                "title": "Beast Games",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/519a19a4-41c2-4913-b3a7-c3cc1aa53975.webp"
+                            },
+                            {
                                 "url": "10808-uno-sparo-nel-buio",
                                 "title": "Uno sparo nel buio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/59fe8379-ca2d-4a0f-9952-a70348dbbdc8.webp"
@@ -595,26 +615,6 @@
                                 "url": "10719-centanni-di-solitudine",
                                 "title": "Cent'anni di solitudine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/81850d7c-1d84-4a37-ac8f-7e74c4b90d61.webp"
-                            },
-                            {
-                                "url": "10718-parenthood",
-                                "title": "Parenthood",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ce4f4061-e2a6-4ba1-a716-b134e8990353.webp"
-                            },
-                            {
-                                "url": "10716-rugged-rugby-vincere-o-morire",
-                                "title": "Rugged Rugby: vincere o morire",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b16e6365-7ac8-4d33-806f-823e33c8e766.webp"
-                            },
-                            {
-                                "url": "10715-polo",
-                                "title": "Polo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/8b1a8dd8-3b28-4a3c-a717-ea9bee4110c9.webp"
-                            },
-                            {
-                                "url": "10714-secret-level",
-                                "title": "Secret Level",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9a64b7ea-92d6-4f4f-b248-22a066168d4c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17825060282688036269/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17825060282688036269/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17825060282688036269/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13516837876111842343/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13516837876111842343/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13516837876111842343/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

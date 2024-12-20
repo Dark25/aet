@@ -82,14 +82,14 @@
                                 "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTUxNzQyNTgyN15BMl5BanBnXkFtZTcwMzQ1NjQxOA@@._V1_FMjpg_UX839_.jpg"
                             },
                             {
-                                "url": "/quantum-of-solace-2008-hindi-dubbed-Watch-online-full-movie/",
-                                "title": "Quantum of Solace (2008) Hindi Dubbed",
-                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOTI2YzU2YWEtZjEwYy00MGRhLThhODMtZWNjNmFlZjYyNWMwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL50_SY1000_CR0,0,738,1000_AL_.jpg_UY720_.jpg"
-                            },
-                            {
                                 "url": "/shahid-2012-Watch-online-full-movie/",
                                 "title": "Shahid (2012)",
                                 "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTJhMjc5ZGMtNTJiOS00ZGFhLTg5MTEtNGU1NzNiNmJjZDY4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL50_SY1000_CR0,0,749,1000_AL_.jpg_UY678_.jpg"
+                            },
+                            {
+                                "url": "/quantum-of-solace-2008-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Quantum of Solace (2008) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOTI2YzU2YWEtZjEwYy00MGRhLThhODMtZWNjNmFlZjYyNWMwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL50_SY1000_CR0,0,738,1000_AL_.jpg_UY720_.jpg"
                             },
                             {
                                 "url": "/shivaay-2016-Watch-online-full-movie/",
@@ -443,31 +443,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rasoutin.ydc1wes.me/hls2/01/00006/m454tgnptdpt_h/index-v1-a1.m3u8?t=Vd_7CQKXt-jDDNJbCO-9ILEcnfU-rzkTxtx_kjeBIKU&s=1734631689&e=21600&f=34011&i=0.0&sp=0",
-                        "quality": "[Server 1] -  Minoplres - 480p",
-                        "videoUrl": "https://rasoutin.ydc1wes.me/hls2/01/00006/m454tgnptdpt_h/index-v1-a1.m3u8?t=Vd_7CQKXt-jDDNJbCO-9ILEcnfU-rzkTxtx_kjeBIKU&s=1734631689&e=21600&f=34011&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://minoplres.xyz",
-                            "Referer": "https://minoplres.xyz/embed-n4cfbel70a9g.html"
-                        }
-                    },
-                    {
-                        "url": "https://rasoutin.ydc1wes.me/hls2/01/00006/m454tgnptdpt_l/index-v1-a1.m3u8?t=Vd_7CQKXt-jDDNJbCO-9ILEcnfU-rzkTxtx_kjeBIKU&s=1734631689&e=21600&f=34011&i=0.0&sp=0",
-                        "quality": "[Server 1] -  Minoplres - 360p",
-                        "videoUrl": "https://rasoutin.ydc1wes.me/hls2/01/00006/m454tgnptdpt_l/index-v1-a1.m3u8?t=Vd_7CQKXt-jDDNJbCO-9ILEcnfU-rzkTxtx_kjeBIKU&s=1734631689&e=21600&f=34011&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://minoplres.xyz",
-                            "Referer": "https://minoplres.xyz/embed-n4cfbel70a9g.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

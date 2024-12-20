@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jiisan-baasan-sub-indo/",
+                                "title": "Jiisan Baasan Wakagaeru",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Jiisan-Baasan-Wakagaeru-Sub-Indo.jpg"
+                            },
+                            {
+                                "url": "/anime/hibike-euphonium-season-3-subtitle-indonesia/",
+                                "title": "Hibike! Euphonium Season 3",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Hibike-Euphonium-Season-3-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/unnamed-memo-sub-indo/",
                                 "title": "Unnamed Memory",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Unnamed-Memory-Sub-Indo.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/anime/band-cry-sub-indo/",
                                 "title": "Girls Band Cry",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/11/Girls-Band-Cry-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/one-room-sub-indo/",
-                                "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/06/One-Room-Hiatari-Futsuu-Tenshi-tsuki.-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-elf-yome-shitanda-sub-indo/",
-                                "title": "Madome",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/06/Madome-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -141,21 +141,6 @@
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/anime/acrotrip-sub-indo/",
-                                "title": "Acro Trip",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg"
-                            },
-                            {
-                                "url": "/anime/kekkon-hontou-desu-ka-sub-indo/",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kekkon-suru-tte-Hontou-desu-ka.jpg"
-                            },
-                            {
-                                "url": "/anime/sayuseijinsei-sub-indo/",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sayounara-Ryuusei-Konnichiwa-Jinsei-Subtitle-Indonesia.jpg"
-                            },
                             {
                                 "url": "/anime/trilion-game-sub-indo/",
                                 "title": "Trillion Game",
@@ -170,6 +155,21 @@
                                 "url": "/anime/dandan-sub-indo/",
                                 "title": "Dandadan",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg"
+                            },
+                            {
+                                "url": "/anime/acrotrip-sub-indo/",
+                                "title": "Acro Trip",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg"
+                            },
+                            {
+                                "url": "/anime/sayuseijinsei-sub-indo/",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sayounara-Ryuusei-Konnichiwa-Jinsei-Subtitle-Indonesia.jpg"
+                            },
+                            {
+                                "url": "/anime/kekkon-hontou-desu-ka-sub-indo/",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kekkon-suru-tte-Hontou-desu-ka.jpg"
                             },
                             {
                                 "url": "/anime/nega-angler-sub-indo/",
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5018536490914125440/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5018536490914125440/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5018536490914125440/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3364378727304380363/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3364378727304380363/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3364378727304380363/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5018536490914125440/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5018536490914125440/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5018536490914125440/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3364378727304380363/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3364378727304380363/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3364378727304380363/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

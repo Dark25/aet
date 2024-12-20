@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "10826-the-six-triple-eight",
+                                "title": "The Six Triple Eight",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/33a110c4-0a3d-4cc5-a5e6-0a1811323785.webp"
+                            },
+                            {
+                                "url": "10825-ferry-2",
+                                "title": "Ferry 2",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/c25aefd7-3685-4a2f-8f09-2333e7cee233.webp"
+                            },
+                            {
+                                "url": "10823-amore-a-39-gradi",
+                                "title": "Amore a 39 gradi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/21e5f0ac-9702-45ce-9702-f8dccb1384f2.webp"
+                            },
+                            {
+                                "url": "10822-der-doktor-lombra-della-morte",
+                                "title": "Der Doktor - L'Ombra Della Morte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f6e99b81-15e4-42ac-acfd-595a1bc5f800.webp"
+                            },
+                            {
                                 "url": "10821-trentatre",
                                 "title": "Trentatré",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/0c181cbd-4d0c-4241-8e81-5be84da50f94.webp"
@@ -339,7 +359,7 @@
                             {
                                 "url": "10811-beast-games",
                                 "title": "Beast Games",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/519a19a4-41c2-4913-b3a7-c3cc1aa53975.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bc25a052-215a-4f75-92e8-f69fc7a2081d.webp"
                             },
                             {
                                 "url": "10808-uno-sparo-nel-buio",
@@ -595,26 +615,6 @@
                                 "url": "10726-gi-joe-la-vendetta",
                                 "title": "G.I. Joe - La vendetta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b713259a-d582-48d1-ac3e-ef6989c7d369.webp"
-                            },
-                            {
-                                "url": "10725-fratellastri-a-40-anni",
-                                "title": "Fratellastri a 40 anni",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4e519cb7-c2c8-4659-b4cf-caa4eaa403ca.webp"
-                            },
-                            {
-                                "url": "10722-fuga-dal-natale",
-                                "title": "Fuga dal Natale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/095f60d0-f01b-4ab5-8843-bf2fe21d1dc2.webp"
-                            },
-                            {
-                                "url": "10721-la-voce-di-makayla-una-lettera-al-mondo",
-                                "title": "La voce di Makayla: una lettera al mondo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/1cd5472f-5f90-4b63-9c45-4094e2a7afb5.webp"
-                            },
-                            {
-                                "url": "10720-the-kings-of-tupelo-una-saga-criminale",
-                                "title": "The Kings of Tupelo: una saga criminale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/08d530c5-6367-4e8a-b9d2-c5c24eb873b1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4769625213155353651/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4769625213155353651/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4769625213155353651/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6360962169010040760/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6360962169010040760/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6360962169010040760/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

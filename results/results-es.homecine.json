@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/trolls-trollstopia/",
+                                "title": "Trolls: TrollsTopia",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg"
+                            },
+                            {
                                 "url": "/serie/secret-level/",
                                 "title": "Secret Level",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Un hombre infiltrado",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/xRT8o1Tj7EdstCH7f2Ham4ugCFI.jpg"
-                            },
-                            {
-                                "url": "/serie/mas-alla-del-adios/",
-                                "title": "Más allá del adiós",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/58UVNL6SQcuhHxkISd8a6hCt03x.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/secret-level/",
-                    "title": "Secret Level",
-                    "description": "El nivel secreto Serie antológica animada para adultos con historias originales ubicadas en los mundos de algunos de los videojuegos más queridos del planeta. De las mentes creativas tras LOVE, DEATH & ROBOTS, cada uno de los 15 episodios es una celebración de los juegos y los jugadores.",
-                    "genre": "Action & Adventure, Animación, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg",
+                    "url": "/serie/trolls-trollstopia/",
+                    "title": "Trolls: TrollsTopia",
+                    "description": "Ahora que Poppy sabe que hay otros trolls musicales esparcidos por el bosque, reprime su infinita positividad e invita a los delegados de todas las tribus trols del bosque a vivir juntos en armonía en un gran experimento que ella llama TrollsTopia.",
+                    "genre": "Animación, Familia, Kids",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/secret-level-temporada-1-capitulo-15/",
-                        "name": "T1 - Episodio 15",
-                        "episode_number": 15.0
+                        "url": "/capitulo/trolls-trollstopia-season-5-episode-14/",
+                        "name": "T5 - Episodio 14",
+                        "episode_number": 14.0
                     },
                     {
-                        "url": "/capitulo/secret-level-temporada-1-capitulo-14/",
-                        "name": "T1 - Episodio 14",
-                        "episode_number": 14.0
+                        "url": "/capitulo/trolls-trollstopia-season-5-episode-13/",
+                        "name": "T5 - Episodio 13",
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
@@ -267,20 +267,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_x/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_x/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_h/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_h/index-v1-a1.m3u8?t=xkCY2M_BtlHo2wHksRxVKSl5klb_VM9VBY0jQj3aebY&s=1734761235&e=43200&v=39858813&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_h/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_h/index-v1-a1.m3u8?t=xkCY2M_BtlHo2wHksRxVKSl5klb_VM9VBY0jQj3aebY&s=1734761235&e=43200&v=39858813&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +278,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_n/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_n/index-v1-a1.m3u8?t=xkCY2M_BtlHo2wHksRxVKSl5klb_VM9VBY0jQj3aebY&s=1734761235&e=43200&v=39858813&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_n/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_n/index-v1-a1.m3u8?t=xkCY2M_BtlHo2wHksRxVKSl5klb_VM9VBY0jQj3aebY&s=1734761235&e=43200&v=39858813&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -300,9 +289,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_l/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_l/index-v1-a1.m3u8?t=xkCY2M_BtlHo2wHksRxVKSl5klb_VM9VBY0jQj3aebY&s=1734761235&e=43200&v=39858813&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/07/00071/9ry2exl8o994_l/index-v1-a1.m3u8?t=lPczvtF7NgUDP1dnbyZPIZjT3CATXGVQ8eojEoy3oJo&s=1734740238&e=43200&v=39702931&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_l/index-v1-a1.m3u8?t=xkCY2M_BtlHo2wHksRxVKSl5klb_VM9VBY0jQj3aebY&s=1734761235&e=43200&v=39858813&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -311,9 +300,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_x/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_x/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_h/index-v1-a1.m3u8?t=3P6kcrP6wdoIP1eWPlhdwbXHnVG3JDpMh13Y4_m06sE&s=1734761237&e=43200&v=39858821&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_h/index-v1-a1.m3u8?t=3P6kcrP6wdoIP1eWPlhdwbXHnVG3JDpMh13Y4_m06sE&s=1734761237&e=43200&v=39858821&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -322,9 +311,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_h/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_h/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_n/index-v1-a1.m3u8?t=3P6kcrP6wdoIP1eWPlhdwbXHnVG3JDpMh13Y4_m06sE&s=1734761237&e=43200&v=39858821&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_n/index-v1-a1.m3u8?t=3P6kcrP6wdoIP1eWPlhdwbXHnVG3JDpMh13Y4_m06sE&s=1734761237&e=43200&v=39858821&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -333,20 +322,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_n/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_n/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_l/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/3xhklh4vob7i_l/index-v1-a1.m3u8?t=8iQVaY9vnIDiRFEnaIcYsa6iDcDFsKurc4gEYeoeF7M&s=1734740239&e=43200&v=39702937&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_l/index-v1-a1.m3u8?t=3P6kcrP6wdoIP1eWPlhdwbXHnVG3JDpMh13Y4_m06sE&s=1734761237&e=43200&v=39858821&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_l/index-v1-a1.m3u8?t=3P6kcrP6wdoIP1eWPlhdwbXHnVG3JDpMh13Y4_m06sE&s=1734761237&e=43200&v=39858821&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

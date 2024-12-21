@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10830-kill",
+                                "title": "Kill",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/013002ac-8e7a-4a87-8999-500c06f780e7.webp"
+                            },
+                            {
                                 "url": "10826-the-six-triple-eight",
                                 "title": "The Six Triple Eight",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/33a110c4-0a3d-4cc5-a5e6-0a1811323785.webp"
@@ -610,11 +615,6 @@
                                 "url": "10727-storia-di-un-fantasma",
                                 "title": "Storia di un fantasma",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/850a9091-e3e5-4ee6-919c-9845132fcdc6.webp"
-                            },
-                            {
-                                "url": "10726-gi-joe-la-vendetta",
-                                "title": "G.I. Joe - La vendetta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/b713259a-d582-48d1-ac3e-ef6989c7d369.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7474645496673985880/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7474645496673985880/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7474645496673985880/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14647109001344595281/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14647109001344595281/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14647109001344595281/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

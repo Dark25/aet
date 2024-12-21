@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "10831-univerxo-dabiz-il-mondo-di-un-grande-chef",
+                                "title": "UniverXO Dabiz: il mondo di un grande chef",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5d0c3516-8960-4957-a6a8-2c568bbac9f6.webp"
+                            },
+                            {
                                 "url": "10830-kill",
                                 "title": "Kill",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/013002ac-8e7a-4a87-8999-500c06f780e7.webp"
@@ -610,11 +615,6 @@
                                 "url": "10728-u-571",
                                 "title": "U-571",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/274d89c0-05ee-4b57-ab47-7979e44f9907.webp"
-                            },
-                            {
-                                "url": "10727-storia-di-un-fantasma",
-                                "title": "Storia di un fantasma",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/850a9091-e3e5-4ee6-919c-9845132fcdc6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14647109001344595281/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14647109001344595281/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14647109001344595281/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10355199534572726658/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10355199534572726658/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10355199534572726658/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

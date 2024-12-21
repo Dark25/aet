@@ -137,6 +137,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20698/mickey-y-un-monton-de-navidades.html",
+                                "title": "Mickey y un montón d",
+                                "description": "Mickey hace un deseo mágico para que todos los días sean Navidad, pero pronto se da cuenta de que su sueño puede no ser tan perfecto como imaginaba. Mientras vive la misma celebración una y otra vez, aprende valiosas lecciones sobre la magia de las tradiciones y el verdadero espíritu navideño....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20698.webp"
+                            },
+                            {
+                                "url": "/pelicula/20697/los-simpson-santa-homero.html",
+                                "title": "Los Simpson: Santa Ho",
+                                "description": "Especial navideño de dos episodios de Los Simpson, coincidiendo con el 35 aniversario del especial de Navidad original Sin blanca Navidad, que se emitió el 17 de diciembre de 1989. El famoso mentalista británico Derren Brown llega a Springfield para avivar el espíritu navideño de la ciudad con ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20697.webp"
+                            },
+                            {
                                 "url": "/pelicula/20696/cascanueces.html",
                                 "title": "Cascanueces",
                                 "description": "En el más improbable de los lugares, cuatro hermanos encuentran refugio emocional en un giro inesperado de los acontecimientos....",
@@ -243,18 +255,6 @@
                                 "title": "¡Scooby-Doo!: Navida",
                                 "description": "Shaggy, Scooby-Doo y la pandilla participan en desfile de vacaciones en Navidad de una tienda de juguetes donde descubren la torre del reloj embrujada abandonada con un problemático pasado, un siniestro muñeco de nieve acosa a las calles y acompañado de una gran tormenta de nieve, que amenaza con...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20679.webp"
-                            },
-                            {
-                                "url": "/pelicula/20678/un-viaje-al-corazon-the-wingwalker.html",
-                                "title": "Un viaje al corazón:",
-                                "description": "Un joven viudo es deportado ya que su hija está programada para un trasplante de corazón, esto lo llevará a orquestar el plan de cruce de fronteras más audaz de la historia....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20678.webp"
-                            },
-                            {
-                                "url": "/pelicula/20677/el-conde-de-montecristo.html",
-                                "title": "El conde de Montecris",
-                                "description": "Todos los sueños del joven Edmundo Dantès están a punto de hacerse realidad, y por fin podrá casarse con el amor de su vida, Mercedes. Pero su éxito inspira la envidia desde varios frentes. Traicionado por sus rivales y denunciado como miembro de una conspiración pro-Bonaparte, es encarcelado ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20677.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyolap7dogrzefq/afrpiaiqdr~lQnT9v76Jj?token=faa3a98f24ktc5woxwz3px7v&expiry=1734804440679",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjyolap7dogrzefq/afrpiaiqdr~lQnT9v76Jj?token=faa3a98f24ktc5woxwz3px7v&expiry=1734804440679",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

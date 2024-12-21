@@ -3,86 +3,8 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=572",
-                                "title": "School-Live!",
-                                "artist": "smol",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c0fa5d4659192a247df3aa128148f02288678987c4412ef3d90b7e8782ffd10c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5255",
-                                "title": "Pokémon Horizons: The Series",
-                                "artist": "Some-Stuffs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a5db532c4fc9f35cc4b819ae823a6ecc9e79936eb47e5ab10ce02bc863f7cefb.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5672",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
-                                "artist": "Passerby-ApocalypticSubs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dadd217289871afbea7d2f31cd29310ecfbb11f1fbe5c9b58f0197d5df6195f9.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5557",
-                                "title": "Himitsu no AiPri",
-                                "artist": "Piyoko",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c63b551a77f29a5fe633f7b0769f7e3c164e1436c641847e54f7a266bcc87272.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5697",
-                                "title": "The Stories of Girls Who Couldn't Be Magicians",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e49bda001432f7a77f99542ee5bf3f53dbe9d477072252ac33a9f3888f587867.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5693",
-                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c823b7b4c042b54bd407effbf17339117eca9c33daf1da90264a9409f156d956.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5706",
-                                "title": "How I Attended an All-Guy's Mixer",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/eb000677e2ae0b158aa74cd8e50e5a93a8d4e51b1d1e4fd770931cdf0ba84072.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5654",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/98a13668857509a0db24138e9658951d3afbcdd36352039a2fa6e11f827aef99.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5657",
-                                "title": "Dragon Ball Daima",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/42fa984ac085ed95ffd2f86ac7451cfb43271499201a88d5b38aceaa23756f92.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5845",
-                                "title": "Galaxy Angel Rune",
-                                "artist": "hchcsen",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1ebfc541dad58fd1af44feeb4bfece39792ff7e61fa3f43be147292fc4c3c16c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5841",
-                                "title": "Galaxy Angel 4",
-                                "artist": "hchcsen",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/909fb5f0f0ab312d4e76e95c8edb41f42919aedfe8565dd49bf60116abb3a395.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=1940",
-                                "title": "Galaxy Angel 3",
-                                "artist": "hchcsen",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b5e848b380c91ddad05c6698e02518b86a3be079f8a587349b5b5a76df7c40a1.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketException: Connection reset",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -250,34 +172,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/7b907dcb44e8fc582a7be11e7b3478f9c39ab5b39229e9752a1f8050f59012a7?file=AnimePahe_Gakkougurashi_-_12_BD_1080p_smol.mp4&token=OH0aTG4Iceqhq2e4H7AYWA&expires=1734797150",
+                        "url": "https://eu-13.nextcdn.org/get/13/12/7b907dcb44e8fc582a7be11e7b3478f9c39ab5b39229e9752a1f8050f59012a7?file=AnimePahe_Gakkougurashi_-_12_BD_1080p_smol.mp4&token=PdkDunOFX9oPmJ3SASUw3g&expires=1734818696",
                         "quality": "smol · 1080p BD",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/7b907dcb44e8fc582a7be11e7b3478f9c39ab5b39229e9752a1f8050f59012a7?file=AnimePahe_Gakkougurashi_-_12_BD_1080p_smol.mp4&token=OH0aTG4Iceqhq2e4H7AYWA&expires=1734797150"
+                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/7b907dcb44e8fc582a7be11e7b3478f9c39ab5b39229e9752a1f8050f59012a7?file=AnimePahe_Gakkougurashi_-_12_BD_1080p_smol.mp4&token=PdkDunOFX9oPmJ3SASUw3g&expires=1734818696"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/2f251807e5f5fc5cf69fbc87687207ebb85270db25e1e073f76066e96828ae92?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_1080p_smol.mp4&token=ECxCbRekQRXoJWfOphcGxQ&expires=1734797152",
+                        "url": "https://eu-13.nextcdn.org/get/13/12/2f251807e5f5fc5cf69fbc87687207ebb85270db25e1e073f76066e96828ae92?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_1080p_smol.mp4&token=CSsjMmn-yCZKvTgxcjQhCQ&expires=1734818698",
                         "quality": "smol · 1080p BD eng",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/2f251807e5f5fc5cf69fbc87687207ebb85270db25e1e073f76066e96828ae92?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_1080p_smol.mp4&token=ECxCbRekQRXoJWfOphcGxQ&expires=1734797152"
+                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/2f251807e5f5fc5cf69fbc87687207ebb85270db25e1e073f76066e96828ae92?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_1080p_smol.mp4&token=CSsjMmn-yCZKvTgxcjQhCQ&expires=1734818698"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/72e6d698bba3ea07d622a385ba5ecfe276d9c542c55dc387546d271ced264623?file=AnimePahe_Gakkougurashi_-_12_BD_720p_smol.mp4&token=RbGqIP7HJi65Khx3w4-TeA&expires=1734797149",
+                        "url": "https://eu-13.nextcdn.org/get/13/12/72e6d698bba3ea07d622a385ba5ecfe276d9c542c55dc387546d271ced264623?file=AnimePahe_Gakkougurashi_-_12_BD_720p_smol.mp4&token=Ep_N9B7iStTslYxmAtwMJQ&expires=1734818695",
                         "quality": "smol · 720p BD",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/72e6d698bba3ea07d622a385ba5ecfe276d9c542c55dc387546d271ced264623?file=AnimePahe_Gakkougurashi_-_12_BD_720p_smol.mp4&token=RbGqIP7HJi65Khx3w4-TeA&expires=1734797149"
+                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/72e6d698bba3ea07d622a385ba5ecfe276d9c542c55dc387546d271ced264623?file=AnimePahe_Gakkougurashi_-_12_BD_720p_smol.mp4&token=Ep_N9B7iStTslYxmAtwMJQ&expires=1734818695"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/89210e46647606547f849ee791b6ee8abeb24ccfd3f4830d166945774b48ef41?file=AnimePahe_Gakkougurashi_-_12_BD_360p_smol.mp4&token=0AFBQuV8KrkXVu4d4ZZh1g&expires=1734797148",
+                        "url": "https://eu-13.nextcdn.org/get/13/12/89210e46647606547f849ee791b6ee8abeb24ccfd3f4830d166945774b48ef41?file=AnimePahe_Gakkougurashi_-_12_BD_360p_smol.mp4&token=_J-ijYnp016Wv13r99_MOA&expires=1734818694",
                         "quality": "smol · 360p BD",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/89210e46647606547f849ee791b6ee8abeb24ccfd3f4830d166945774b48ef41?file=AnimePahe_Gakkougurashi_-_12_BD_360p_smol.mp4&token=0AFBQuV8KrkXVu4d4ZZh1g&expires=1734797148"
+                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/89210e46647606547f849ee791b6ee8abeb24ccfd3f4830d166945774b48ef41?file=AnimePahe_Gakkougurashi_-_12_BD_360p_smol.mp4&token=_J-ijYnp016Wv13r99_MOA&expires=1734818694"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/a2e3857d2bcf2e13e8911ef147ef7d512c77fb2d6eeaabc5bcc8556cd0e45362?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_720p_smol.mp4&token=-g3oEMLrVRTXQXFxYy5U7g&expires=1734797152",
+                        "url": "https://eu-13.nextcdn.org/get/13/12/a2e3857d2bcf2e13e8911ef147ef7d512c77fb2d6eeaabc5bcc8556cd0e45362?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_720p_smol.mp4&token=5A3NaKaLQZycHXwMXfDaAQ&expires=1734818697",
                         "quality": "smol · 720p BD eng",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/a2e3857d2bcf2e13e8911ef147ef7d512c77fb2d6eeaabc5bcc8556cd0e45362?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_720p_smol.mp4&token=-g3oEMLrVRTXQXFxYy5U7g&expires=1734797152"
+                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/a2e3857d2bcf2e13e8911ef147ef7d512c77fb2d6eeaabc5bcc8556cd0e45362?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_720p_smol.mp4&token=5A3NaKaLQZycHXwMXfDaAQ&expires=1734818697"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/5687572d5e45c9da8858ada05279eea694629866f919640b7c3ed3de326b23eb?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_360p_smol.mp4&token=j5yxEJAmSNyCnA72wkdgHA&expires=1734797151",
+                        "url": "https://eu-13.nextcdn.org/get/13/12/5687572d5e45c9da8858ada05279eea694629866f919640b7c3ed3de326b23eb?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_360p_smol.mp4&token=n4ERjY0qlEoFB0wCgkIKBQ&expires=1734818696",
                         "quality": "smol · 360p BD eng",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/5687572d5e45c9da8858ada05279eea694629866f919640b7c3ed3de326b23eb?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_360p_smol.mp4&token=j5yxEJAmSNyCnA72wkdgHA&expires=1734797151"
+                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/5687572d5e45c9da8858ada05279eea694629866f919640b7c3ed3de326b23eb?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_360p_smol.mp4&token=n4ERjY0qlEoFB0wCgkIKBQ&expires=1734818696"
                     }
                 ],
                 "passed": true

@@ -3,7 +3,7 @@
         "name": "Flixei (PT-BR)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "java.net.SocketTimeoutException: Read timed out",
                 "passed": false
             },
             "latest": {

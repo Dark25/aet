@@ -3,23 +3,23 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: page@83afa065aee7fcb563bcdc3eef417627",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: browser-context@fedfff1a1ba52539d3dddb1962f88cb0",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6268083673738238768/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

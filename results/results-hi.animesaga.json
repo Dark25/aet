@@ -3,27 +3,33 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: www.animesaga.in: Temporary failure in name resolution",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/?usid=27&utid=10058893065",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: www.animesaga.in",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

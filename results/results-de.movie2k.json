@@ -3,19 +3,27 @@
         "name": "Movie2k (DE)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: movie2k.skin: Temporary failure in name resolution",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: movie2k.skin",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: movie2k.skin",
-                "passed": false
+                "result": {
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: movie2k.skin",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             },
             "videos": {

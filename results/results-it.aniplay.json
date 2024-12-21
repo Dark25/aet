@@ -15,15 +15,15 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: aniplay.co: Temporary failure in name resolution",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: aniplay.co",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: aniplay.co",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

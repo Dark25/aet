@@ -3,27 +3,27 @@
         "name": "NeoNime (ID)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: neonime.ink: Temporary failure in name resolution",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: neonime.ink",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: neonime.ink",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: neonime.ink",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: neonime.ink",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: neonime.ink",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

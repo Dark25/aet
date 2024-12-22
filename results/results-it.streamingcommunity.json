@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7289-alessandro-borghese-4-ristoranti",
+                                "title": "Alessandro Borghese - 4 Ristoranti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/acdb949d-6a51-459b-aa99-cbf6e1c88b78.webp"
+                            },
+                            {
                                 "url": "3739-what-if",
                                 "title": "What If...?",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/faa10e45-fbc3-4b4f-94cf-e975ed6b529a.webp"
@@ -300,11 +305,6 @@
                                 "url": "7246-la-creatura-di-gyeongseong",
                                 "title": "La creatura di Gyeongseong",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/306cf13d-eb80-4279-a8fb-7ad396e1a253.webp"
-                            },
-                            {
-                                "url": "9987-nobody-wants-this",
-                                "title": "Nobody Wants This",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e731b528-83c7-42c4-a466-ce86032ec71e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -348,8 +348,8 @@
                             },
                             {
                                 "url": "10822-der-doktor-lombra-della-morte",
-                                "title": "Der Doktor - L'Ombra Della Morte",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/f6e99b81-15e4-42ac-acfd-595a1bc5f800.webp"
+                                "title": "Der Doktor - L'ombra della morte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/217f2af4-9507-4e01-960b-d3fdd9918448.webp"
                             },
                             {
                                 "url": "10821-trentatre",
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "3739-what-if",
-                    "description": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
-                    "genre": "Sci-Fi & Fantasy, Action & Adventure, Animazione",
+                    "url": "7289-alessandro-borghese-4-ristoranti",
+                    "description": "Il programma vede sfidarsi quattro ristoratori, i cui locali sono uniti da una caratteristica comune (ad esempio il tipo di cucina o la location), che si giudicano a vicenda le loro attività, sotto la conduzione dello chef Alessandro Borghese. I parametri di valutazione sono quattro: location, servizio, menu e infine il conto.",
+                    "genre": "Reality",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3235100262484250244/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3235100262484250244/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3235100262484250244/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13619863409876540948/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13619863409876540948/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13619863409876540948/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

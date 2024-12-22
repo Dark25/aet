@@ -106,7 +106,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'U' instead at path: $\nJSON input: UoY9rRHnr2b7agR55yhRjivKnbDayc.....",
                 "passed": false
             }
         }

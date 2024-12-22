@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series-online/ver-beast-games.html",
+                                "title": "Beast Games",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/beast-games.jpg"
+                            },
+                            {
                                 "url": "/series-online/ver-af-ehad-lo-ozev-et-palo-alto.html",
                                 "title": "Af Ehad Lo Ozev et Palo Alto",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/af-ehad-lo-ozev-et-palo-alto.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/series-online/ver-zorro.html",
                                 "title": "Zorro",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/zorro.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-tales-from-the-void.html",
-                                "title": "Tales from the Void",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/tales-from-the-void.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,10 +274,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/series-online/ver-af-ehad-lo-ozev-et-palo-alto.html",
+                    "url": "/series-online/ver-beast-games.html",
                     "author": "",
-                    "description": "Cuando aparece un cuerpo adicional en el laboratorio de anatomía de una escuela de medicina, la detective de policía Iris sospecha un motivo siniestro, revelando una guerra entre familias criminales judías y árabes vinculada a su propio pasado inquietante.",
-                    "genre": "",
+                    "description": "Unos increíbles 1000 concursantes compiten en desafíos físicos y mentales por una oportunidad de ganar un enorme premio en efectivo de 5 millones de dólares. Semana a semana, los concursantes utilizarán su fuerza e ingenio para permanecer en el juego, ¡con la esperanza de ser el ganador multimillonario!",
+                    "genre": "Reality",
                     "initialized": true
                 },
                 "passed": true
@@ -285,7 +285,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/series-online/af-ehad-lo-ozev-et-palo-alto/temporada-1/130399-ver-episodio-1.html",
+                        "url": "/series-online/beast-games/temporada-1/130401-ver-episodio-2.html",
+                        "name": "Temporada 1 - Capítulo 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/series-online/beast-games/temporada-1/130400-ver-episodio-1.html",
                         "name": "Temporada 1 - Capítulo 1",
                         "episode_number": 1.0
                     }
@@ -295,25 +300,49 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-bnepu613xxdnwxyr.voe-network.net/engine/hls2/01/13123/ihuqibfqvtqg_,n,.urlset/index-v1-a1.m3u8?t=D--lQvLGJqI6j_L-U_K8AahrQuaIC-y62kB7BYxQYUA&s=1734804412&e=14400&f=65616207&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=20.57&sp=2500&asn=8075",
-                        "quality": "Castellano - Voe:720p",
-                        "videoUrl": "https://delivery-node-bnepu613xxdnwxyr.voe-network.net/engine/hls2/01/13123/ihuqibfqvtqg_,n,.urlset/index-v1-a1.m3u8?t=D--lQvLGJqI6j_L-U_K8AahrQuaIC-y62kB7BYxQYUA&s=1734804412&e=14400&f=65616207&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=20.57&sp=2500&asn=8075",
+                        "url": "https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/13133/3vcovgccltso_,n,.urlset/index-v1-a1.m3u8?t=SqIIsBc5xP4MwzWQWm7BqSCwau_fswzhE96JUqpK7Go&s=1734826775&e=14400&f=65665423&node=ojSusH36jVQN87uASMaiGjaJaaF52rNtY7dm5oTrUqM=&i=172.183&sp=2500&asn=8075&q=n",
+                        "quality": "Latino - Voe:720p",
+                        "videoUrl": "https://delivery-node-bzdgp1kzc5nj2wp0.voe-network.net/engine/hls2-c/01/13133/3vcovgccltso_,n,.urlset/index-v1-a1.m3u8?t=SqIIsBc5xP4MwzWQWm7BqSCwau_fswzhE96JUqpK7Go&s=1734826775&e=14400&f=65665423&node=ojSusH36jVQN87uASMaiGjaJaaF52rNtY7dm5oTrUqM=&i=172.183&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://m10.vudeo.ws/2vp3vl6zqmvjdohilo6bxnudyncyxpvsvfhbqix2if57yk3fjvhhdo7tlo2q/v.mp4",
-                        "quality": "Castellano - Vudeo",
-                        "videoUrl": "https://m10.vudeo.ws/2vp3vl6zqmvjdohilo6bxnudyncyxpvsvfhbqix2if57yk3fjvhhdo7tlo2q/v.mp4",
+                        "url": "https://m12.vudeo.ws/2vp3w5wlqmvjdohilo6rxk47srwf7itm3tnsnv6cs2p3uupn5zxa7uetfbpa/v.mp4",
+                        "quality": "Latino - Vudeo",
+                        "videoUrl": "https://m12.vudeo.ws/2vp3w5wlqmvjdohilo6rxk47srwf7itm3tnsnv6cs2p3uupn5zxa7uetfbpa/v.mp4",
                         "headers": {
                             "referer": "https://vudeo.co/"
                         }
                     },
                     {
-                        "url": "https://m90.uqload.net/3rfky4bj4zw2q4drdjq7tlfrdzu4aeica23hi2hl3mf73u2qk7ih26vukb3q/v.mp4",
+                        "url": "https://m30.uqload.net/3rfk2lza4zw2q4drdjrptkfqab3kg57u4qqhwj4fuvggrndtvld7rytkdnsa/v.mp4",
+                        "quality": "Latino -  Uqload",
+                        "videoUrl": "https://m30.uqload.net/3rfk2lza4zw2q4drdjrptkfqab3kg57u4qqhwj4fuvggrndtvld7rytkdnsa/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/13133/n2na5vc9vg5l_,n,.urlset/index-v1-a1.m3u8?t=kwPUlvQCopnW2yKZIEqL2h0MUWt1-Y0LFaEv2X4Syek&s=1734826765&e=14400&f=65665370&node=PUoy/KM77l0V4iZ8nhkZLSLMxo5GfHXyuBpISv5gTK0=&i=172.183&sp=2500&asn=8075&q=n",
+                        "quality": "Castellano - Voe:720p",
+                        "videoUrl": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/13133/n2na5vc9vg5l_,n,.urlset/index-v1-a1.m3u8?t=kwPUlvQCopnW2yKZIEqL2h0MUWt1-Y0LFaEv2X4Syek&s=1734826765&e=14400&f=65665370&node=PUoy/KM77l0V4iZ8nhkZLSLMxo5GfHXyuBpISv5gTK0=&i=172.183&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://m7.vudeo.ws/2vp3uv6lqmvjdohilo6rx2ezsca7qtnd5goafknhmr5y4mznm3dn6mtwabnq/v.mp4",
+                        "quality": "Castellano - Vudeo",
+                        "videoUrl": "https://m7.vudeo.ws/2vp3uv6lqmvjdohilo6rx2ezsca7qtnd5goafknhmr5y4mznm3dn6mtwabnq/v.mp4",
+                        "headers": {
+                            "referer": "https://vudeo.co/"
+                        }
+                    },
+                    {
+                        "url": "https://m130.uqload.net/3rfk3uja4zw2q4drdjrptmnukifjxubkogpju3smgyyexjwisorinbzdcseq/v.mp4",
                         "quality": "Castellano -  Uqload",
-                        "videoUrl": "https://m90.uqload.net/3rfky4bj4zw2q4drdjq7tlfrdzu4aeica23hi2hl3mf73u2qk7ih26vukb3q/v.mp4",
+                        "videoUrl": "https://m130.uqload.net/3rfk3uja4zw2q4drdjrptmnukifjxubkogpju3smgyyexjwisorinbzdcseq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
                         }

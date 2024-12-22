@@ -3,84 +3,162 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Connection reset",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5660",
+                                "title": "You are Ms. Servant.",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/cecb25fab0fa0324ffef033417584ee60d3eef6a5630a87370c469c51434fada.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5674",
+                                "title": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/30efb13dd51a8a9a57927cc2ae921049daa87f702b5768dc22930665bdea1255.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5656",
+                                "title": "Blue Exorcist: Beyond the Snow Saga",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b78fbf557b70880bdb5bcbf1dd059f984faffc920b006d2329b429b10f864397.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5668",
+                                "title": "Demon Lord 2099",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3fcd210e1a9ae7244a0b4c9725e0ef5697ee1f11f6be0ffb9e9cbb999a449041.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5648",
+                                "title": "Blue Lock vs. U-20 Japan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/316a3deb10db1482607ea40fa577cdd165061a6b7645a3ffbcc4c5dec5141654.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5664",
+                                "title": "Ranma ½ (2024)",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f1845043f90166659ae5af26171e44b6960808863b8f01ca5e9981079b77b31b.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5679",
+                                "title": "Orb: On the Movements of the Earth",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/922f7a0d81069564853df2e0aef927c5005a1bbfd88ad0d50fdade8e53466f8b.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5652",
+                                "title": "Bleach: Thousand-Year Blood War - The Conflict",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/13ed6677db9b716cfa1fa51a4b5cda1e33f878f37a011a41bfa34f717fb6bbc6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3",
+                                "title": "Meitantei Conan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b1b0b4d84c82e598346bf0d10fa9e4ff031ba934f32a9ffc9f8ac5877a29273f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5701",
+                                "title": "Touhai: Ura Rate Mahjong Touhairoku",
+                                "artist": "Anon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/24056dd78ace01f8c513e4c491e09d84d68653c5b193eda3aca319757572d8dd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5691",
+                                "title": "Tonbo! Season 2",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/44ed316f92ab5600523519a27fc92abf7278f2d0b9d1f1bf2de7237bb77cb591.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5680",
+                                "title": "Blue Miburo",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/06f9beb7c5baba8894f58fe2e340b7161aab1f40918b54e461d88924920906ec.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
                             {
-                                "url": "/anime/?anime_id=572",
-                                "title": "School-Live!",
-                                "artist": "smol",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c0fa5d4659192a247df3aa128148f02288678987c4412ef3d90b7e8782ffd10c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5255",
-                                "title": "Pokémon Horizons: The Series",
-                                "artist": "Some-Stuffs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a5db532c4fc9f35cc4b819ae823a6ecc9e79936eb47e5ab10ce02bc863f7cefb.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5672",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
-                                "artist": "Passerby-ApocalypticSubs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dadd217289871afbea7d2f31cd29310ecfbb11f1fbe5c9b58f0197d5df6195f9.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5557",
-                                "title": "Himitsu no AiPri",
-                                "artist": "Piyoko",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c63b551a77f29a5fe633f7b0769f7e3c164e1436c641847e54f7a266bcc87272.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5697",
-                                "title": "The Stories of Girls Who Couldn't Be Magicians",
+                                "url": "/anime/?anime_id=5660",
+                                "title": "You are Ms. Servant.",
                                 "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e49bda001432f7a77f99542ee5bf3f53dbe9d477072252ac33a9f3888f587867.jpg"
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/cecb25fab0fa0324ffef033417584ee60d3eef6a5630a87370c469c51434fada.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=5693",
-                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
+                                "url": "/anime/?anime_id=5674",
+                                "title": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
                                 "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c823b7b4c042b54bd407effbf17339117eca9c33daf1da90264a9409f156d956.jpg"
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/30efb13dd51a8a9a57927cc2ae921049daa87f702b5768dc22930665bdea1255.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=5706",
-                                "title": "How I Attended an All-Guy's Mixer",
+                                "url": "/anime/?anime_id=5656",
+                                "title": "Blue Exorcist: Beyond the Snow Saga",
                                 "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/eb000677e2ae0b158aa74cd8e50e5a93a8d4e51b1d1e4fd770931cdf0ba84072.jpg"
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b78fbf557b70880bdb5bcbf1dd059f984faffc920b006d2329b429b10f864397.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=5654",
-                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "url": "/anime/?anime_id=5668",
+                                "title": "Demon Lord 2099",
                                 "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/98a13668857509a0db24138e9658951d3afbcdd36352039a2fa6e11f827aef99.jpg"
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3fcd210e1a9ae7244a0b4c9725e0ef5697ee1f11f6be0ffb9e9cbb999a449041.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=5657",
-                                "title": "Dragon Ball Daima",
+                                "url": "/anime/?anime_id=5648",
+                                "title": "Blue Lock vs. U-20 Japan",
                                 "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/42fa984ac085ed95ffd2f86ac7451cfb43271499201a88d5b38aceaa23756f92.jpg"
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/316a3deb10db1482607ea40fa577cdd165061a6b7645a3ffbcc4c5dec5141654.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=5845",
-                                "title": "Galaxy Angel Rune",
-                                "artist": "hchcsen",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1ebfc541dad58fd1af44feeb4bfece39792ff7e61fa3f43be147292fc4c3c16c.jpg"
+                                "url": "/anime/?anime_id=5664",
+                                "title": "Ranma ½ (2024)",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f1845043f90166659ae5af26171e44b6960808863b8f01ca5e9981079b77b31b.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=5841",
-                                "title": "Galaxy Angel 4",
-                                "artist": "hchcsen",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/909fb5f0f0ab312d4e76e95c8edb41f42919aedfe8565dd49bf60116abb3a395.jpg"
+                                "url": "/anime/?anime_id=5679",
+                                "title": "Orb: On the Movements of the Earth",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/922f7a0d81069564853df2e0aef927c5005a1bbfd88ad0d50fdade8e53466f8b.jpg"
                             },
                             {
-                                "url": "/anime/?anime_id=1940",
-                                "title": "Galaxy Angel 3",
-                                "artist": "hchcsen",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b5e848b380c91ddad05c6698e02518b86a3be079f8a587349b5b5a76df7c40a1.jpg"
+                                "url": "/anime/?anime_id=5652",
+                                "title": "Bleach: Thousand-Year Blood War - The Conflict",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/13ed6677db9b716cfa1fa51a4b5cda1e33f878f37a011a41bfa34f717fb6bbc6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3",
+                                "title": "Meitantei Conan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b1b0b4d84c82e598346bf0d10fa9e4ff031ba934f32a9ffc9f8ac5877a29273f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5701",
+                                "title": "Touhai: Ura Rate Mahjong Touhairoku",
+                                "artist": "Anon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/24056dd78ace01f8c513e4c491e09d84d68653c5b193eda3aca319757572d8dd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5691",
+                                "title": "Tonbo! Season 2",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/44ed316f92ab5600523519a27fc92abf7278f2d0b9d1f1bf2de7237bb77cb591.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5680",
+                                "title": "Blue Miburo",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/06f9beb7c5baba8894f58fe2e340b7161aab1f40918b54e461d88924920906ec.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -140,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=572",
-                    "title": "School-Live!",
-                    "author": "Lerche",
-                    "description": "Carefree high school senior Yuki Takeya every day looks forward to the School Living Club. Consisting of the president Yuuri Wakasa, the athletic Kurumi Ebisuzawa, the mature Miki Naoki, the supervising teacher Megumi Sakura, and club dog Taroumaru, the club prides itself on making the most of life at school. There is only one rule the club members have to follow: all members must live their entire lives within school grounds. Gakkougurashi! follows the adventures of the School Living Club as they promote independence and self-determination through their lively time residing at Megurigaoka Private High School.\n\nSynonyms: Gakkou Gurashi!",
-                    "genre": "Horror, Mystery, Slice of Life, Supernatural, Suspense",
+                    "url": "/anime/?anime_id=5660",
+                    "title": "You are Ms. Servant.",
+                    "author": "Felix Film",
+                    "description": "One day, Hitoyoshi Yokoya wakes up to a mysterious nameless girl dressed as a maid ringing his doorbell, asking to be his servant. With her former master referring her to the Yokoya household, she offers her expertise as an assassin. Intimidated by her background, Hitoyoshi tries to send her away; but when she leaves something behind, he rushes to return it to her and is nearly hit by a truck in the process. With her fast reflexes, the girl saves him just in time, and Hitoyoshi ends up taking her in. Ironically, the maid lacks any skills apart from the art of killing she has perfected since childhood. Nevertheless, Hitoyoshi welcomes the girl with open arms, encouraging her to leave her monochromatic past behind and experience a normal life. To seal the deal, Hitoyoshi names her Yuki, marking the beginning of her path to redemption and happiness.",
+                    "genre": "Comedy, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/8ef67117e9ee95bdf6eee6484443be188615232bbc0ca0fd52a5a31c11f30698.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/5ee9d24a7579ee3402703fe8c28983eceac3473a70d53853d58c2f802499dcc1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -155,15 +233,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/59c185f7-d551-e792-dec0-37dafebeda26/2db5f08d58b827309e16467536e730ba341354752ea85e3afcaaf49cbb2a6abc",
+                        "url": "/play/df22c7de-9c1d-4ef3-6011-0d9a665274d7/7b09b2069ce983cd5e84d7211559f11a59a28c088ab5c5dc8fa3c1f563105962",
                         "name": "Episode 12",
-                        "date_upload": 1523063896000,
+                        "date_upload": 1734814297000,
                         "episode_number": 12.0
                     },
                     {
-                        "url": "/play/59c185f7-d551-e792-dec0-37dafebeda26/c608a691676cf853f668ccd5c14fe58885402622ea0e35af55344c13fc7495c3",
+                        "url": "/play/df22c7de-9c1d-4ef3-6011-0d9a665274d7/cded404f9fd84c40ff62eddd24dc0903e3489110e71cf052f7682cf9d0ebdff2",
                         "name": "Episode 11",
-                        "date_upload": 1523063178000,
+                        "date_upload": 1734207592000,
                         "episode_number": 11.0
                     }
                 ],
@@ -172,34 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/7b907dcb44e8fc582a7be11e7b3478f9c39ab5b39229e9752a1f8050f59012a7?file=AnimePahe_Gakkougurashi_-_12_BD_1080p_smol.mp4&token=PdkDunOFX9oPmJ3SASUw3g&expires=1734818696",
-                        "quality": "smol · 1080p BD",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/7b907dcb44e8fc582a7be11e7b3478f9c39ab5b39229e9752a1f8050f59012a7?file=AnimePahe_Gakkougurashi_-_12_BD_1080p_smol.mp4&token=PdkDunOFX9oPmJ3SASUw3g&expires=1734818696"
+                        "url": "https://eu-99.nextcdn.org/get/99/01/415c863cfb4c111c02d59afe0fe3fedc14bc6d10d254dc4529a08269cd376f7a?file=AnimePahe_Kimi_wa_Meido-sama._-_12_1080p_SubsPlease.mp4&token=MfSwiBzpYpelzo4aR3kndA&expires=1734841041",
+                        "quality": "SubsPlease · 1080p",
+                        "videoUrl": "https://eu-99.nextcdn.org/get/99/01/415c863cfb4c111c02d59afe0fe3fedc14bc6d10d254dc4529a08269cd376f7a?file=AnimePahe_Kimi_wa_Meido-sama._-_12_1080p_SubsPlease.mp4&token=MfSwiBzpYpelzo4aR3kndA&expires=1734841041"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/2f251807e5f5fc5cf69fbc87687207ebb85270db25e1e073f76066e96828ae92?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_1080p_smol.mp4&token=CSsjMmn-yCZKvTgxcjQhCQ&expires=1734818698",
-                        "quality": "smol · 1080p BD eng",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/2f251807e5f5fc5cf69fbc87687207ebb85270db25e1e073f76066e96828ae92?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_1080p_smol.mp4&token=CSsjMmn-yCZKvTgxcjQhCQ&expires=1734818698"
+                        "url": "https://eu-99.nextcdn.org/get/99/01/2c81fd9d1d0561b712e205268176f1b957aa13a51ebf6f246a5369310fa0f6ad?file=AnimePahe_Kimi_wa_Meido-sama._-_12_720p_SubsPlease.mp4&token=iLnauuKy1DYcNW_RKA3Ukw&expires=1734841040",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://eu-99.nextcdn.org/get/99/01/2c81fd9d1d0561b712e205268176f1b957aa13a51ebf6f246a5369310fa0f6ad?file=AnimePahe_Kimi_wa_Meido-sama._-_12_720p_SubsPlease.mp4&token=iLnauuKy1DYcNW_RKA3Ukw&expires=1734841040"
                     },
                     {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/72e6d698bba3ea07d622a385ba5ecfe276d9c542c55dc387546d271ced264623?file=AnimePahe_Gakkougurashi_-_12_BD_720p_smol.mp4&token=Ep_N9B7iStTslYxmAtwMJQ&expires=1734818695",
-                        "quality": "smol · 720p BD",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/72e6d698bba3ea07d622a385ba5ecfe276d9c542c55dc387546d271ced264623?file=AnimePahe_Gakkougurashi_-_12_BD_720p_smol.mp4&token=Ep_N9B7iStTslYxmAtwMJQ&expires=1734818695"
-                    },
-                    {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/89210e46647606547f849ee791b6ee8abeb24ccfd3f4830d166945774b48ef41?file=AnimePahe_Gakkougurashi_-_12_BD_360p_smol.mp4&token=_J-ijYnp016Wv13r99_MOA&expires=1734818694",
-                        "quality": "smol · 360p BD",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/89210e46647606547f849ee791b6ee8abeb24ccfd3f4830d166945774b48ef41?file=AnimePahe_Gakkougurashi_-_12_BD_360p_smol.mp4&token=_J-ijYnp016Wv13r99_MOA&expires=1734818694"
-                    },
-                    {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/a2e3857d2bcf2e13e8911ef147ef7d512c77fb2d6eeaabc5bcc8556cd0e45362?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_720p_smol.mp4&token=5A3NaKaLQZycHXwMXfDaAQ&expires=1734818697",
-                        "quality": "smol · 720p BD eng",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/a2e3857d2bcf2e13e8911ef147ef7d512c77fb2d6eeaabc5bcc8556cd0e45362?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_720p_smol.mp4&token=5A3NaKaLQZycHXwMXfDaAQ&expires=1734818697"
-                    },
-                    {
-                        "url": "https://eu-13.nextcdn.org/get/13/12/5687572d5e45c9da8858ada05279eea694629866f919640b7c3ed3de326b23eb?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_360p_smol.mp4&token=n4ERjY0qlEoFB0wCgkIKBQ&expires=1734818696",
-                        "quality": "smol · 360p BD eng",
-                        "videoUrl": "https://eu-13.nextcdn.org/get/13/12/5687572d5e45c9da8858ada05279eea694629866f919640b7c3ed3de326b23eb?file=AnimePahe_Gakkougurashi_Eng_Dub_-_12_BD_360p_smol.mp4&token=n4ERjY0qlEoFB0wCgkIKBQ&expires=1734818696"
+                        "url": "https://eu-99.nextcdn.org/get/99/01/ca24a7dccbe01c200d486313e59a5be4f0a6441154ed8086edd844c98f67f4ee?file=AnimePahe_Kimi_wa_Meido-sama._-_12_360p_SubsPlease.mp4&token=feDyBpXQhKEIYsvfXmWSgw&expires=1734841039",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://eu-99.nextcdn.org/get/99/01/ca24a7dccbe01c200d486313e59a5be4f0a6441154ed8086edd844c98f67f4ee?file=AnimePahe_Kimi_wa_Meido-sama._-_12_360p_SubsPlease.mp4&token=feDyBpXQhKEIYsvfXmWSgw&expires=1734841039"
                     }
                 ],
                 "passed": true

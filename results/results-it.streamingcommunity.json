@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "3739-what-if",
+                                "title": "What If...?",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/faa10e45-fbc3-4b4f-94cf-e975ed6b529a.webp"
+                            },
+                            {
                                 "url": "2400-il-principe-dei-draghi",
                                 "title": "Il principe dei draghi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/265b1bb7-afb1-4a57-bbf3-214efabce3c3.webp"
@@ -300,11 +305,6 @@
                                 "url": "5672-tutto-chiede-salvezza",
                                 "title": "Tutto chiede salvezza",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/19bcb691-8e2a-46f0-9cb3-25717dff71de.webp"
-                            },
-                            {
-                                "url": "1484-9-1-1",
-                                "title": "9-1-1",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/852a9771-bff2-45e7-b1b8-5e10692a6b54.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "10834-summer-camp",
+                                "title": "Summer Camp",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9fc5917d-8d13-46e7-a594-8ef6650813dc.webp"
+                            },
                             {
                                 "url": "10831-univerxo-dabiz-il-mondo-di-un-grande-chef",
                                 "title": "UniverXO Dabiz: il mondo di un grande chef",
@@ -610,11 +615,6 @@
                                 "url": "10730-il-mondo-dei-robot",
                                 "title": "Il mondo dei robot",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/505487a9-d8c3-4ea0-97ce-8ada5a2298c0.webp"
-                            },
-                            {
-                                "url": "10728-u-571",
-                                "title": "U-571",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/274d89c0-05ee-4b57-ab47-7979e44f9907.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "2400-il-principe-dei-draghi",
-                    "description": "Due principi umani forgiano un'improbabile alleanza con l'assassina elfica inviata per ucciderli, intraprendendo insieme un'epica ricerca per riportare alla pace le loro terre d'origine in guerra da secoli.",
-                    "genre": "Sci-Fi & Fantasy, Action & Adventure, Famiglia, Animazione",
+                    "url": "3739-what-if",
+                    "description": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
+                    "genre": "Sci-Fi & Fantasy, Action & Adventure, Animazione",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10355199534572726658/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10355199534572726658/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10355199534572726658/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5483304592607218002/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5483304592607218002/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5483304592607218002/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

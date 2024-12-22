@@ -27,6 +27,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e8ea4de3-3d7a-426c-a89a-ed90da842be3.webp"
                             },
                             {
+                                "url": "10755-carry-on",
+                                "title": "Carry-On",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bcb0e787-bc42-4ae9-a69a-c4a62031550d.webp"
+                            },
+                            {
                                 "url": "1955-masterchef-italia",
                                 "title": "MasterChef Italia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/2a54338c-c992-4679-a478-6567783b50cb.webp"
@@ -300,11 +305,6 @@
                                 "url": "9987-nobody-wants-this",
                                 "title": "Nobody Wants This",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e731b528-83c7-42c4-a466-ce86032ec71e.webp"
-                            },
-                            {
-                                "url": "5672-tutto-chiede-salvezza",
-                                "title": "Tutto chiede salvezza",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/19bcb691-8e2a-46f0-9cb3-25717dff71de.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -532,11 +532,6 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a3c2ba2f-5cdb-4b00-8527-4bdcc8537060.webp"
                             },
                             {
-                                "url": "10755-carry-on",
-                                "title": "Carry-On",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bcb0e787-bc42-4ae9-a69a-c4a62031550d.webp"
-                            },
-                            {
                                 "url": "10754-siviglia-1992",
                                 "title": "Siviglia 1992",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/eaab1bf2-8230-46e9-86b0-77125410d37b.webp"
@@ -615,6 +610,11 @@
                                 "url": "10730-il-mondo-dei-robot",
                                 "title": "Il mondo dei robot",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/505487a9-d8c3-4ea0-97ce-8ada5a2298c0.webp"
+                            },
+                            {
+                                "url": "10728-u-571",
+                                "title": "U-571",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/274d89c0-05ee-4b57-ab47-7979e44f9907.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5483304592607218002/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5483304592607218002/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5483304592607218002/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3235100262484250244/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3235100262484250244/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3235100262484250244/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -11,6 +11,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2-episodio-11",
+                                "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2 Episódio 11",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bobLLf4vAjTsPjx5hOzi9cMGFgo-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/fairy-tail-100-nen-quest-episodio-24",
+                                "title": "Fairy Tail: 100-nen Quest Episódio 24",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/rdAfMBxx9QWLIk1f87dWZPgwGnH-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/one-piece-gyojin-tou-hen-episodio-08",
+                                "title": "One Piece: Gyojin Tou-hen Episódio 08",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/5pw2EXzqUsfIpUJ8LKSNLZ4R9Ak-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episodio-12",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/mU3VpR9nRPMbxL5d6mdhQddOKtF-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/kimi-wa-meido-sama-episodio-12",
+                                "title": "Kimi wa Meido-sama Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/4NIpuEk4iyWrriWYQCfpsURkBPW-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-12",
                                 "title": "Bleach: Sennen Kessen-hen – Soukoku-tan Episódio 12",
                                 "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/vrCu7p4kD7OmoahGuDOl5ws9rN0-300x170.jpg"
@@ -104,31 +129,6 @@
                                 "url": "/episodio/trillion-game-episodio-13",
                                 "title": "Trillion Game Episódio 13",
                                 "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/t3iSmAvU5OaY7BqPGePAF8sC1CG-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/dandadan-dublado-episodio-12",
-                                "title": "Dandadan Dublado Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/kgfnqFois5hvCOh7ba8PnUEFaYq-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/dandadan-episodio-12",
-                                "title": "Dandadan Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/pzEk5zoCTqC8TFknxUqsOhY7JRx-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/negaposi-angler-episodio-12",
-                                "title": "NegaPosi Angler Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/1TE7gOpWJIhbQp2kMXfcGLNgC6c-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/kinoko-inu-episodio-12",
-                                "title": "Kinoko Inu Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/skqZqKiAvGfc5OB8uqM2Q5mVrjH-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/touhai-ura-rate-mahjong-touhai-roku-episodio-11",
-                                "title": "Touhai: Ura Rate Mahjong Touhai Roku Episódio 11",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/tWQuZyIblxQtkqxSK1ADWWc8CeH-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -197,77 +197,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/bleach",
-                    "title": "Bleach –",
-                    "description": "Ichigo Kurosaki é um garoto de 15 anos que tem uma capacidade de ver fantasmas / espíritos. Por causa de sua habilidade, ele conhece uma Shinigami chamada Rukia Kuchiki. Para salvar sua família de um espírito comedor de alma (Hollow), Rukia, que está ferida, transfere seus poderes de Shinigami para Ichigo.\n",
-                    "genre": "Ação e Aventura, Animazione, Sci-Fi & Fantasia, TV TokyoBS TV Tokyo, Tite Kubo",
-                    "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2004/10/rtrtgfrew56t6tyiuj-200x300.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for #",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-12",
-                        "name": "Temporada 4 x 12 - Episódio 12 - Amigo",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-11-2",
-                        "name": "Temporada 4 x 11 - Episódio 11 - Sombras Desaparecidas",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for #",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rr1---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734898197&ei=lQFoZ_TZLa6R2LYP-MXZwA0&ip=20.42.48.65&id=a99b49227b95d0d3&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734869397,&mh=K2&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=1&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1555.736&lmt=1734808103060307&mt=1734868842&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMvZnKMSR1euC_Ew-2lkp1YMZUtxaG9TMmSGTbHyi2sYAiEA1hbbbZbaeeQJE-1_7n6QSGos8FY9KCAWoEwbwKETjtw%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgWsm5k0aj6JASC7MB90HKyEJzbvOYFODLWPVidIFP6f0CICeUk3eeGtZQx4h8TfPbotEsRnzJcGsgT7TCp_4467eq",
-                        "quality": "Blogger - 720p",
-                        "videoUrl": "https://rr1---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734898197&ei=lQFoZ_TZLa6R2LYP-MXZwA0&ip=20.42.48.65&id=a99b49227b95d0d3&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734869397,&mh=K2&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=1&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1555.736&lmt=1734808103060307&mt=1734868842&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMvZnKMSR1euC_Ew-2lkp1YMZUtxaG9TMmSGTbHyi2sYAiEA1hbbbZbaeeQJE-1_7n6QSGos8FY9KCAWoEwbwKETjtw%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRAIgWsm5k0aj6JASC7MB90HKyEJzbvOYFODLWPVidIFP6f0CICeUk3eeGtZQx4h8TfPbotEsRnzJcGsgT7TCp_4467eq",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://animesonline.cloud/"
-                        }
-                    },
-                    {
-                        "url": "https://cld.pt/dl/download/2663cbe8-e5df-43a3-98cf-c6cddc13a3e8/Bleach%20Sennen%20Kessen-hen-Soukoku-tan%20Epis%C3%B3dio%2012.mp4",
-                        "quality": "720p",
-                        "videoUrl": "https://cld.pt/dl/download/2663cbe8-e5df-43a3-98cf-c6cddc13a3e8/Bleach%20Sennen%20Kessen-hen-Soukoku-tan%20Epis%C3%B3dio%2012.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://animesonline.cloud/",
-                            "Accept": "*/*",
-                            "Host": "cld.pt",
-                            "Origin": "https://animesonline.cloud"
-                        }
-                    },
-                    {
-                        "url": "https://animeflix.blog/Animes/Letra-B/Bleach%20Sennen%20Kessen-hen%20%E2%80%93%20Soukoku-tan/12.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "https://animeflix.blog/Animes/Letra-B/Bleach%20Sennen%20Kessen-hen%20%E2%80%93%20Soukoku-tan/12.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://animesonline.cloud/",
-                            "Accept": "*/*",
-                            "Host": "animeflix.blog",
-                            "Origin": "https://animesonline.cloud"
-                        }
-                    },
-                    {
-                        "url": "https://rr1---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734898197&ei=lQFoZ_TZLa6R2LYP-MXZwA0&ip=20.42.48.65&id=a99b49227b95d0d3&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734869397,&mh=K2&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=1&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1555.736&lmt=1734808863477056&mt=1734868842&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAOVgTOTNsh7yBAsRyUEqLhXUvTKjHVjqKySxDSThgYtqAiEA54_eJlBlcKs6bFJwHpsi7_b3YERsvCv1ptnpjDsqSmE%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgWeQCzfbYYl6y2G4hpxH0l_WaJ9o52W3k7bzEbbV2u5oCIQDA5_W5ph7MUVKe5QgXE6nFKToGAMQiyYaJ2SBbQW_hqA%3D%3D",
-                        "quality": "Blogger - 360p",
-                        "videoUrl": "https://rr1---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1734898197&ei=lQFoZ_TZLa6R2LYP-MXZwA0&ip=20.42.48.65&id=a99b49227b95d0d3&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734869397,&mh=K2&mm=31&mn=sn-p5qddn7r&ms=au&mv=u&mvi=1&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1555.736&lmt=1734808863477056&mt=1734868842&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAOVgTOTNsh7yBAsRyUEqLhXUvTKjHVjqKySxDSThgYtqAiEA54_eJlBlcKs6bFJwHpsi7_b3YERsvCv1ptnpjDsqSmE%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIgWeQCzfbYYl6y2G4hpxH0l_WaJ9o52W3k7bzEbbV2u5oCIQDA5_W5ph7MUVKe5QgXE6nFKToGAMQiyYaJ2SBbQW_hqA%3D%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://animesonline.cloud/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

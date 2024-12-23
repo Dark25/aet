@@ -250,12 +250,90 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/capitulo/los-asesinatos-de-elm-street-temporada-1-episodio-3/",
+                        "name": "T1 - Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/capitulo/los-asesinatos-de-elm-street-temporada-1-episodio-2/",
+                        "name": "T1 - Episodio 2",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_h/index-v1-a1.m3u8?t=x35Bri9YQdM9jmri4kSZlwEk5ziTBEoyHB9AQH_YReg&s=1734955694&e=43200&v=40938327&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_h/index-v1-a1.m3u8?t=x35Bri9YQdM9jmri4kSZlwEk5ziTBEoyHB9AQH_YReg&s=1734955694&e=43200&v=40938327&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_n/index-v1-a1.m3u8?t=x35Bri9YQdM9jmri4kSZlwEk5ziTBEoyHB9AQH_YReg&s=1734955694&e=43200&v=40938327&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_n/index-v1-a1.m3u8?t=x35Bri9YQdM9jmri4kSZlwEk5ziTBEoyHB9AQH_YReg&s=1734955694&e=43200&v=40938327&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_l/index-v1-a1.m3u8?t=x35Bri9YQdM9jmri4kSZlwEk5ziTBEoyHB9AQH_YReg&s=1734955694&e=43200&v=40938327&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_l/index-v1-a1.m3u8?t=x35Bri9YQdM9jmri4kSZlwEk5ziTBEoyHB9AQH_YReg&s=1734955694&e=43200&v=40938327&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_h/index-v1-a1.m3u8?t=DSd5GEXvuL8Ndpjbl_B5VLEBswkEl5SCML71JZXZtZw&s=1734955696&e=43200&v=40938330&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_h/index-v1-a1.m3u8?t=DSd5GEXvuL8Ndpjbl_B5VLEBswkEl5SCML71JZXZtZw&s=1734955696&e=43200&v=40938330&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_n/index-v1-a1.m3u8?t=DSd5GEXvuL8Ndpjbl_B5VLEBswkEl5SCML71JZXZtZw&s=1734955696&e=43200&v=40938330&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_n/index-v1-a1.m3u8?t=DSd5GEXvuL8Ndpjbl_B5VLEBswkEl5SCML71JZXZtZw&s=1734955696&e=43200&v=40938330&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_l/index-v1-a1.m3u8?t=DSd5GEXvuL8Ndpjbl_B5VLEBswkEl5SCML71JZXZtZw&s=1734955696&e=43200&v=40938330&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_l/index-v1-a1.m3u8?t=DSd5GEXvuL8Ndpjbl_B5VLEBswkEl5SCML71JZXZtZw&s=1734955696&e=43200&v=40938330&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

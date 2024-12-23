@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/고양이로 전생한 아저씨",
+                                "title": "고양이로 전생한 아저씨",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728395413_8221.jpg"
+                            },
+                            {
                                 "url": "/c/베이블레이드X 2장",
                                 "title": "베이블레이드X 2장",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/f53ca972716f4c848bc76bc11919bd15_1729287650_0284.jpg"
@@ -225,11 +230,6 @@
                                 "url": "/c/나츠메 우인장 7기",
                                 "title": "나츠메 우인장 7기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728400244_5952.jpg"
-                            },
-                            {
-                                "url": "/c/고양이로 전생한 아저씨",
-                                "title": "고양이로 전생한 아저씨",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728395413_8221.jpg"
                             },
                             {
                                 "url": "/c/비탄의 망령은 은퇴하고 싶다",
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/베이블레이드X 2장",
-                    "title": "베이블레이드X 2장",
-                    "description": "원제: ベイブレードX\n원작: 쇼각칸, Takara Tomy\n감독: 테라다 모토\n각본: 효도 카즈호\n캐릭터 디자인: 나가모리 요시히로\n음악: 세바스찬 로버트슨\n장르: 능력, 배틀, 스포츠\n방영일: 2024.10.18 18:25 (금)\n등급: 전체\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/f53ca972716f4c848bc76bc11919bd15_1729287650_0284.jpg",
+                    "url": "/c/고양이로 전생한 아저씨",
+                    "title": "고양이로 전생한 아저씨",
+                    "description": "원제: ねこに転生したおじさん\n원작: 야지마\n감독: 리오\n각본: 카와코시 타카히로\n캐릭터 디자인: 리오\n음악: 이토켄\n장르: 일상, 코미디, 동물\n방영일: 2024.10.07 13:00 (월)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728395413_8221.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,22 +505,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/베이블레이드X 2장 10화",
-                        "name": "베이블레이드X 2장 10화",
+                        "url": "/e/고양이로 전생한 아저씨 12화",
+                        "name": "고양이로 전생한 아저씨 12화",
                         "date_upload": 1734912000000,
-                        "episode_number": 10.0
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/e/베이블레이드X 2장 9화",
-                        "name": "베이블레이드X 2장 9화",
+                        "url": "/e/고양이로 전생한 아저씨 11화",
+                        "name": "고양이로 전생한 아저씨 11화",
                         "date_upload": 1734307200000,
-                        "episode_number": 9.0
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3388704555880722080/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3388704555880722080/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3388704555880722080/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9025734407162064893/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9025734407162064893/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9025734407162064893/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

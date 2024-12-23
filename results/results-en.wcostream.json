@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"MF Ghost Season 2\",\"url\":\"/mf-ghost-season-2-episode-10-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933209.jpg\"}",
+                                "title": "MF Ghost Season 2",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933209.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"Fairy Tail: 100 Years Quest\",\"url\":\"/fairy-tail-100-years-quest-episode-22-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933676.jpg\"}",
                                 "title": "Fairy Tail: 100 Years Quest",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933676.jpg"
@@ -80,11 +85,6 @@
                                 "url": "{\"title\":\"Fairy Tail: 100-nen Quest\",\"url\":\"/fairy-tail-100-nen-quest-episode-24-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933651.jpg\"}",
                                 "title": "Fairy Tail: 100-nen Quest",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933651.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"One Piece: Gyojin Tou-hen\",\"url\":\"/one-piece-gyojin-tou-hen-episode-8-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/60334.jpg\"}",
-                                "title": "One Piece: Gyojin Tou-hen",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/60334.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -97,6 +97,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"MF Ghost Season 2\",\"url\":\"/mf-ghost-season-2-episode-10-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933209.jpg\"}",
+                                "title": "MF Ghost Season 2",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933209.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"Fairy Tail: 100 Years Quest\",\"url\":\"/fairy-tail-100-years-quest-episode-22-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933676.jpg\"}",
                                 "title": "Fairy Tail: 100 Years Quest",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933676.jpg"
@@ -170,11 +175,6 @@
                                 "url": "{\"title\":\"Fairy Tail: 100-nen Quest\",\"url\":\"/fairy-tail-100-nen-quest-episode-24-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933651.jpg\"}",
                                 "title": "Fairy Tail: 100-nen Quest",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933651.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"One Piece: Gyojin Tou-hen\",\"url\":\"/one-piece-gyojin-tou-hen-episode-8-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/60334.jpg\"}",
-                                "title": "One Piece: Gyojin Tou-hen",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/60334.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -183,16 +183,16 @@
                 "passed": true
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9098237689058693263/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9098237689058693263/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9098237689058693263/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7042940770351818213/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7042940770351818213/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7042940770351818213/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
                 "result": {
-                    "url": "{\"title\":\"Fairy Tail: 100 Years Quest\",\"url\":\"/fairy-tail-100-years-quest-episode-22-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933676.jpg\"}",
-                    "title": "Fairy Tail: 100 Years Quest",
+                    "url": "{\"title\":\"MF Ghost Season 2\",\"url\":\"/mf-ghost-season-2-episode-10-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933209.jpg\"}",
+                    "title": "MF Ghost Season 2",
                     "description": "",
                     "genre": "",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933676.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933209.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -200,14 +200,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/fairy-tail-100-years-quest-episode-22-english-dubbed",
-                        "name": "Episode: Fairy Tail: 100 Years Quest Episode 22 English Dubbed",
-                        "episode_number": 10022.0
+                        "url": "/mf-ghost-season-2-episode-10-english-dubbed",
+                        "name": "Episode: MF Ghost Season 2 Episode 10 English Dubbed",
+                        "episode_number": 210.0
                     },
                     {
-                        "url": "/fairy-tail-100-years-quest-episode-21-english-dubbed",
-                        "name": "Episode: Fairy Tail: 100 Years Quest Episode 21 English Dubbed",
-                        "episode_number": 10021.0
+                        "url": "/mf-ghost-season-2-episode-9-english-dubbed",
+                        "name": "Episode: MF Ghost Season 2 Episode 9 English Dubbed",
+                        "episode_number": 29.0
                     }
                 ],
                 "passed": true

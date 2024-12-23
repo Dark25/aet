@@ -317,6 +317,36 @@
                     {
                         "animes": [
                             {
+                                "url": "10842-il-natale-country-di-spongebob-e-sandy",
+                                "title": "Il Natale country di SpongeBob e Sandy",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/25412655-1b71-4cd4-90f4-c5512813c1ba.webp"
+                            },
+                            {
+                                "url": "10841-alaska-baby-il-documentario",
+                                "title": "Alaska Baby, il documentario",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/ebd427ac-217f-4523-9129-5fda3b9cb924.webp"
+                            },
+                            {
+                                "url": "10840-queen-woo",
+                                "title": "Queen Woo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/21d1bf50-5077-45c3-85d8-254671fcdeed.webp"
+                            },
+                            {
+                                "url": "10839-mostruosamente-villaggio",
+                                "title": "Mostruosamente Villaggio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/4fc9a941-5e66-4ce5-abc5-f63b8af786e0.webp"
+                            },
+                            {
+                                "url": "10838-il-domani-tra-di-noi",
+                                "title": "Il domani tra di noi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/72823b00-d8a9-4135-bb22-64c7b0df84a2.webp"
+                            },
+                            {
+                                "url": "10836-il-male-dentro",
+                                "title": "Il male dentro",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/57d13c8a-b5b1-45cf-8c3d-3bcd9f83cce5.webp"
+                            },
+                            {
                                 "url": "10834-summer-camp",
                                 "title": "Summer Camp",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/9fc5917d-8d13-46e7-a594-8ef6650813dc.webp"
@@ -585,36 +615,6 @@
                                 "url": "10737-no-good-deed",
                                 "title": "No Good Deed",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5e7f1080-9a28-4b02-ab79-402103a43839.webp"
-                            },
-                            {
-                                "url": "10736-la-palma",
-                                "title": "La Palma",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/40f306cb-121e-4fed-a332-91b6efe7be55.webp"
-                            },
-                            {
-                                "url": "10735-finche-notte-non-ci-separi",
-                                "title": "Finché notte non ci separi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/e7fe9754-f8c7-4bb8-919b-946fefaad606.webp"
-                            },
-                            {
-                                "url": "10734-ce-post-at-per-te",
-                                "title": "C'è post@ per te",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/80ee20f9-3515-4363-a345-cebb9efbef35.webp"
-                            },
-                            {
-                                "url": "10731-cantando-sotto-la-pioggia",
-                                "title": "Cantando sotto la pioggia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/21dad234-11c6-4179-adf0-3c148689787f.webp"
-                            },
-                            {
-                                "url": "10730-il-mondo-dei-robot",
-                                "title": "Il mondo dei robot",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/505487a9-d8c3-4ea0-97ce-8ada5a2298c0.webp"
-                            },
-                            {
-                                "url": "10728-u-571",
-                                "title": "U-571",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/274d89c0-05ee-4b57-ab47-7979e44f9907.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4317425150510803909/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4317425150510803909/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4317425150510803909/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7267618888127778653/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7267618888127778653/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7267618888127778653/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

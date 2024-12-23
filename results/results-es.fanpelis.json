@@ -3,7 +3,7 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __dispose__: page@d01094626b2b1cd808888c9b1ea13ff3",
                 "passed": false
             },
             "search": {

@@ -11,6 +11,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/mf-ghost-2-episodio-12",
+                                "title": "MF Ghost 2 Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/s6EWXZ2st9umQqZHsltkdJRUgOR-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-12",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/k4munu54zJlTUWRtDK5w1N4rSU4-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/puniru-wa-kawaii-slime-episodio-12",
+                                "title": "Puniru wa Kawaii Slime Episódio 12",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bCknY7MfUWs6OIFXREW6evg56rd-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/nageki-no-bourei-wa-intai-shitai-episodio-13",
+                                "title": "Nageki no Bourei wa Intai shitai Episódio 13",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/la3IbXeouDlgi0fNJMu3FFNRc6A-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/one-piece-gyojin-tou-hen-episodio-08",
+                                "title": "One Piece: Gyojin Tou-hen Episódio 08",
+                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bCnPov9VxKOgXee4T3X1c53WEVU-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-2-episodio-11",
                                 "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 2 Episódio 11",
                                 "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/bobLLf4vAjTsPjx5hOzi9cMGFgo-300x170.jpg"
@@ -19,11 +44,6 @@
                                 "url": "/episodio/fairy-tail-100-nen-quest-episodio-24",
                                 "title": "Fairy Tail: 100-nen Quest Episódio 24",
                                 "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/rdAfMBxx9QWLIk1f87dWZPgwGnH-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/one-piece-gyojin-tou-hen-episodio-08",
-                                "title": "One Piece: Gyojin Tou-hen Episódio 08",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/5pw2EXzqUsfIpUJ8LKSNLZ4R9Ak-300x170.jpg"
                             },
                             {
                                 "url": "/episodio/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episodio-12",
@@ -109,26 +129,6 @@
                                 "url": "/episodio/danmachi-5-episodio-11",
                                 "title": "DanMachi 5 Episódio 11",
                                 "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/rIpIhjT4iSptOfInh7QPJU62dNv-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/mecha-ude-episodio-12",
-                                "title": "Mecha-ude Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/u0vUFTu905CFR8njnDmWR2iRNoO-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/sayounara-ryuusei-konnichiwa-jinsei-episodio-12",
-                                "title": "Sayounara Ryuusei Konnichiwa Jinsei Episódio 12 – Final",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/4gGL7ft4czf74B0jTj7IFJuPscI-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/kekkon-suru-tte-hontou-desu-ka-episodio-12",
-                                "title": "Kekkon suru tte, Hontou desu ka Episódio 12",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/upk15d4M27Flm09DZ67LwFUQjxW-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/trillion-game-episodio-13",
-                                "title": "Trillion Game Episódio 13",
-                                "thumbnail_url": "https://animesonline.cloud/wp-content/uploads/2024/12/t3iSmAvU5OaY7BqPGePAF8sC1CG-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -197,16 +197,77 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for #",
-                "passed": false
+                "result": {
+                    "url": "/anime/mf-ghost-2-todos-os-episodios",
+                    "title": "MF Ghost 2 –",
+                    "description": "MF Ghost, MFゴースト,MF Ghost 2\n",
+                    "genre": "Ação, Animação, Aventura, Letra M, Legendado",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/y7FSPLQueRIT70i6SEtNKQsevYf.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for #",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/mf-ghost-2-episodio-12",
+                        "name": "Temporada 2 x 12 - Episódio 12 - Uma escolha difícil",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/episodio/mf-ghost-2-episodio-11",
+                        "name": "Temporada 2 x 11 - Episódio 11 - O Custo da Coragem",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr3---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1734942021&ei=xaxoZ6jHFMm3mvUPs53J0Ac&ip=172.214.174.96&id=901ad63b6c17e2b6&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734913221,&mh=z4&mm=31&mn=sn-vgqsrnek&ms=au&mv=u&mvi=3&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1420.294&lmt=1734897158880463&mt=1734912721&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgGCSbRFrxIAqqEaE_ncq8N3LKmzGel8Ow5LNomYsd3z4CIEOmGA9Zb_Mf40UqZTtCrsXIf2287n7G5Kbz8Ub21q3U&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIhAOKxtMZZk141P9oVk3ye6IjnUxjggTZGtbNXkOVZUYfeAiBTyb0KiHFQYpIuWSTFG_mic34XoCMSNXkcNThv9DS0QQ%3D%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr3---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1734942021&ei=xaxoZ6jHFMm3mvUPs53J0Ac&ip=172.214.174.96&id=901ad63b6c17e2b6&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734913221,&mh=z4&mm=31&mn=sn-vgqsrnek&ms=au&mv=u&mvi=3&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1420.294&lmt=1734897158880463&mt=1734912721&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgGCSbRFrxIAqqEaE_ncq8N3LKmzGel8Ow5LNomYsd3z4CIEOmGA9Zb_Mf40UqZTtCrsXIf2287n7G5Kbz8Ub21q3U&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIhAOKxtMZZk141P9oVk3ye6IjnUxjggTZGtbNXkOVZUYfeAiBTyb0KiHFQYpIuWSTFG_mic34XoCMSNXkcNThv9DS0QQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    },
+                    {
+                        "url": "https://cld.pt/dl/download/0ba8a4e3-9382-4613-bc1d-27f4375ef204/MF%20Ghost%202nd%20Season%20%E2%80%93%20Epis%C3%B3dio%2012.mp4",
+                        "quality": "720p",
+                        "videoUrl": "https://cld.pt/dl/download/0ba8a4e3-9382-4613-bc1d-27f4375ef204/MF%20Ghost%202nd%20Season%20%E2%80%93%20Epis%C3%B3dio%2012.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/",
+                            "Accept": "*/*",
+                            "Host": "cld.pt",
+                            "Origin": "https://animesonline.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://animeflix.blog/Animes/Letra-M/MF%20Ghost%202/12.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "https://animeflix.blog/Animes/Letra-M/MF%20Ghost%202/12.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/",
+                            "Accept": "*/*",
+                            "Host": "animeflix.blog",
+                            "Origin": "https://animesonline.cloud"
+                        }
+                    },
+                    {
+                        "url": "https://rr3---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1734942021&ei=xaxoZ6jHFMm3mvUPs53J0Ac&ip=172.214.174.96&id=901ad63b6c17e2b6&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734913221,&mh=z4&mm=31&mn=sn-vgqsrnek&ms=au&mv=u&mvi=3&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1420.294&lmt=1734896988134678&mt=1734912721&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhANoCazacRFWooL7jCGB57DVaY-7tS7hh60fk7XuE14FNAiEA8KZNnPjs3_FO9u8ceK7KXiL_ccF0aSP9OJgh8J6gnOE%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIhAPv68yjah9O7DyHX1BV4kxokkYatGz-CDL42bnDTiQp0AiAxEeukmee0hzOxQMg7ldPX9Y192wREkfL6hIYR591EHQ%3D%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr3---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1734942021&ei=xaxoZ6jHFMm3mvUPs53J0Ac&ip=172.214.174.96&id=901ad63b6c17e2b6&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1734913221,&mh=z4&mm=31&mn=sn-vgqsrnek&ms=au&mv=u&mvi=3&pl=17&rms=au,au&susc=bl&eaua=_HPCDU4Qn5Y&mime=video/mp4&vprv=1&rqh=1&dur=1420.294&lmt=1734896988134678&mt=1734912721&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhANoCazacRFWooL7jCGB57DVaY-7tS7hh60fk7XuE14FNAiEA8KZNnPjs3_FO9u8ceK7KXiL_ccF0aSP9OJgh8J6gnOE%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=AGluJ3MwRQIhAPv68yjah9O7DyHX1BV4kxokkYatGz-CDL42bnDTiQp0AiAxEeukmee0hzOxQMg7ldPX9Y192wREkfL6hIYR591EHQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://animesonline.cloud/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

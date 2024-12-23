@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series-online/ver-santuario.html",
+                                "title": "Santuario",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/santuario.jpg"
+                            },
+                            {
                                 "url": "/series-online/ver-beast-games.html",
                                 "title": "Beast Games",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/beast-games.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/series-online/ver-ecos-del-mar-rojo.html",
                                 "title": "Ecos del mar Rojo",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/ecos-del-mar-rojo.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-zorro.html",
-                                "title": "Zorro",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/zorro.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,10 +274,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/series-online/ver-beast-games.html",
+                    "url": "/series-online/ver-santuario.html",
                     "author": "",
-                    "description": "Unos increíbles 1000 concursantes compiten en desafíos físicos y mentales por una oportunidad de ganar un enorme premio en efectivo de 5 millones de dólares. Semana a semana, los concursantes utilizarán su fuerza e ingenio para permanecer en el juego, ¡con la esperanza de ser el ganador multimillonario!",
-                    "genre": "Reality",
+                    "description": "En el futuro, tras el desastre climático, las mujeres pasan sus embarazos en el Santuario, una enorme cúpula diseñada para evitar que la contaminación del aire afecte a la gestación. Allí viven en paz, cuidadas y relajadas, lejos de su familia y del resto de la sociedad. O al menos eso les han dicho siempre. La llegada de Pilar a este centro sacará a la luz la verdad que oculta el Santuario.",
+                    "genre": "Sci-Fi",
                     "initialized": true
                 },
                 "passed": true
@@ -285,12 +285,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/series-online/beast-games/temporada-1/130401-ver-episodio-2.html",
-                        "name": "Temporada 1 - Capítulo 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/series-online/beast-games/temporada-1/130400-ver-episodio-1.html",
+                        "url": "/series-online/santuario/temporada-1/130432-ver-episodio-1.html",
                         "name": "Temporada 1 - Capítulo 1",
                         "episode_number": 1.0
                     }
@@ -300,49 +295,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-dzlrqbh8qr5lcobm.voe-network.net/engine/hls2-c/01/13133/3vcovgccltso_,n,.urlset/index-v1-a1.m3u8?t=wtadlA_JYlj5emZR4tzEn80AhfeFocr_TIawNaHjCSg&s=1734890810&e=14400&f=65665423&node=ojSusH36jVQN87uASMaiGjaJaaF52rNtY7dm5oTrUqM=&i=20.161&sp=2500&asn=8075&q=n",
-                        "quality": "Latino - Voe:720p",
-                        "videoUrl": "https://delivery-node-dzlrqbh8qr5lcobm.voe-network.net/engine/hls2-c/01/13133/3vcovgccltso_,n,.urlset/index-v1-a1.m3u8?t=wtadlA_JYlj5emZR4tzEn80AhfeFocr_TIawNaHjCSg&s=1734890810&e=14400&f=65665423&node=ojSusH36jVQN87uASMaiGjaJaaF52rNtY7dm5oTrUqM=&i=20.161&sp=2500&asn=8075&q=n",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://m12.vudeo.ws/2vp3w5wlqmvjdohilo6rxk47srwf7itm3tnsnv6cs2p3v2p3htfgpe5iklxq/v.mp4",
-                        "quality": "Latino - Vudeo",
-                        "videoUrl": "https://m12.vudeo.ws/2vp3w5wlqmvjdohilo6rxk47srwf7itm3tnsnv6cs2p3v2p3htfgpe5iklxq/v.mp4",
-                        "headers": {
-                            "referer": "https://vudeo.co/"
-                        }
-                    },
-                    {
-                        "url": "https://m30.uqload.net/3rfk2lza4zw2q4drdjrptkfqab3kg57u4qqhwj4fuvggqddfpbrtdh2a5lba/v.mp4",
-                        "quality": "Latino -  Uqload",
-                        "videoUrl": "https://m30.uqload.net/3rfk2lza4zw2q4drdjrptkfqab3kg57u4qqhwj4fuvggqddfpbrtdh2a5lba/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/13133/n2na5vc9vg5l_,n,.urlset/index-v1-a1.m3u8?t=lrg27ovDjU499eJ0JCL1eOdu9sZ_GRjoLDCRENhejOg&s=1734890793&e=14400&f=65665370&node=PUoy/KM77l0V4iZ8nhkZLSLMxo5GfHXyuBpISv5gTK0=&i=20.161&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-onszbvx7rkdpm7au.voe-network.net/engine/hls2-c/01/13142/zmr39prflfgt_,n,.urlset/index-v1-a1.m3u8?t=jOySDpdVt7Xl4_QNawV3hrjB_B7V0TcYBJPbBchGZ_w&s=1734913104&e=14400&f=65712307&node=TjjCdJym+N+187Wzv94klNJwgZdqW0eYJJ3jt9Nrv0o=&i=172.214&sp=2500&asn=8075&q=n",
                         "quality": "Castellano - Voe:720p",
-                        "videoUrl": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/13133/n2na5vc9vg5l_,n,.urlset/index-v1-a1.m3u8?t=lrg27ovDjU499eJ0JCL1eOdu9sZ_GRjoLDCRENhejOg&s=1734890793&e=14400&f=65665370&node=PUoy/KM77l0V4iZ8nhkZLSLMxo5GfHXyuBpISv5gTK0=&i=20.161&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-onszbvx7rkdpm7au.voe-network.net/engine/hls2-c/01/13142/zmr39prflfgt_,n,.urlset/index-v1-a1.m3u8?t=jOySDpdVt7Xl4_QNawV3hrjB_B7V0TcYBJPbBchGZ_w&s=1734913104&e=14400&f=65712307&node=TjjCdJym+N+187Wzv94klNJwgZdqW0eYJJ3jt9Nrv0o=&i=172.214&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://m7.vudeo.ws/2vp3uv6lqmvjdohilo6rx2ezsca7qtnd5goafknhmr5y5cz3wrrhk3xpsgla/v.mp4",
+                        "url": "https://m0.vudeo.ws/2vp3vbpvqmvjdohilo6rxkeysgi5vlxlwwatulbabggsqdl4yoftf5dq3pfq/v.mp4",
                         "quality": "Castellano - Vudeo",
-                        "videoUrl": "https://m7.vudeo.ws/2vp3uv6lqmvjdohilo6rx2ezsca7qtnd5goafknhmr5y5cz3wrrhk3xpsgla/v.mp4",
+                        "videoUrl": "https://m0.vudeo.ws/2vp3vbpvqmvjdohilo6rxkeysgi5vlxlwwatulbabggsqdl4yoftf5dq3pfq/v.mp4",
                         "headers": {
                             "referer": "https://vudeo.co/"
                         }
                     },
                     {
-                        "url": "https://m130.uqload.net/3rfk3uja4zw2q4drdjrptmnukifjxubkogpju3smgyyewhw6iedgnidd3ija/v.mp4",
+                        "url": "https://m20.uqload.net/3rfk44yw4zw2q4drdjrpt4hsatvfdsappa7qqcxgw3gqdxmyesfo3xt5dt6q/v.mp4",
                         "quality": "Castellano -  Uqload",
-                        "videoUrl": "https://m130.uqload.net/3rfk3uja4zw2q4drdjrptmnukifjxubkogpju3smgyyewhw6iedgnidd3ija/v.mp4",
+                        "videoUrl": "https://m20.uqload.net/3rfk44yw4zw2q4drdjrpt4hsatvfdsappa7qqcxgw3gqdxmyesfo3xt5dt6q/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
                         }

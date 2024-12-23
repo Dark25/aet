@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "10845-lultima-vacanza",
+                                "title": "L'ultima vacanza",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/d317636f-9624-4c74-ae03-0369b075834a.webp"
+                            },
+                            {
+                                "url": "10844-certamente-forse",
+                                "title": "Certamente, forse",
+                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/557ed266-a9bd-4257-907d-94e578528230.webp"
+                            },
+                            {
                                 "url": "10842-il-natale-country-di-spongebob-e-sandy",
                                 "title": "Il Natale country di SpongeBob e Sandy",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/25412655-1b71-4cd4-90f4-c5512813c1ba.webp"
@@ -605,16 +615,6 @@
                                 "url": "10741-il-dubbio",
                                 "title": "Il dubbio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.photos/images/a1a76ad0-1ee4-4e07-a760-121347a9e4f3.webp"
-                            },
-                            {
-                                "url": "10740-north-country-storia-di-josey",
-                                "title": "North Country - Storia di Josey",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/bc9134e6-197d-4658-badf-4245330c92cc.webp"
-                            },
-                            {
-                                "url": "10737-no-good-deed",
-                                "title": "No Good Deed",
-                                "thumbnail_url": "https://cdn.streamingcommunity.photos/images/5e7f1080-9a28-4b02-ab79-402103a43839.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,7 +944,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7267618888127778653/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7267618888127778653/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7267618888127778653/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-8275901352469278089/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-8275901352469278089/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-8275901352469278089/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

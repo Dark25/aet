@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/los-asesinatos-de-elm-street/",
+                                "title": "Los asesinatos de Elm Street",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oeEYqS8uKvguZ8UhlPcGbvOIOMi.jpg"
+                            },
+                            {
                                 "url": "/serie/trolls-trollstopia/",
                                 "title": "Trolls: TrollsTopia",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "El tiempo entre costuras",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/rVlgqzzOcThjVmMHs3bGpXfzC7v.jpg"
-                            },
-                            {
-                                "url": "/serie/un-hombre-infiltrado/",
-                                "title": "Un hombre infiltrado",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xRT8o1Tj7EdstCH7f2Ham4ugCFI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,100 +240,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/trolls-trollstopia/",
-                    "title": "Trolls: TrollsTopia",
-                    "description": "Ahora que Poppy sabe que hay otros trolls musicales esparcidos por el bosque, reprime su infinita positividad e invita a los delegados de todas las tribus trols del bosque a vivir juntos en armonía en un gran experimento que ella llama TrollsTopia.",
-                    "genre": "Animación, Familia, Kids",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg",
+                    "url": "/serie/los-asesinatos-de-elm-street/",
+                    "title": "Los asesinatos de Elm Street",
+                    "description": "The Real Murders on Elm Street | Asesinato en la calle Elm Esta nueva serie aborda la pequeñas ciudades suburbanas de Estados Unidos que han sido arrasadas por el asesinato. El núcleo de la serie es la cuestión central de cómo, en una sola noche, estas pintorescas \"calles Elm\" residenciales pueden pasar de la paz y la tranquilidad al horror, la muerte sin sentido y la tragedia. Cada episodio examina la investigación de un asesinato ocurrido en una de las muchas \"calles Elm\" de Estados Unidos, y cada conjunto de circunstancias demuestra que el horror puede ocurrir en cualquier parte.",
+                    "genre": "Crimen, Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oeEYqS8uKvguZ8UhlPcGbvOIOMi.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/capitulo/trolls-trollstopia-season-5-episode-14/",
-                        "name": "T5 - Episodio 14",
-                        "episode_number": 14.0
-                    },
-                    {
-                        "url": "/capitulo/trolls-trollstopia-season-5-episode-13/",
-                        "name": "T5 - Episodio 13",
-                        "episode_number": 13.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_h/index-v1-a1.m3u8?t=eFsUTRrksJXsxGw4D-CmHY6rPHCDL1z_IxvDlxB9VFw&s=1734913160&e=43200&v=40718100&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_h/index-v1-a1.m3u8?t=eFsUTRrksJXsxGw4D-CmHY6rPHCDL1z_IxvDlxB9VFw&s=1734913160&e=43200&v=40718100&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_n/index-v1-a1.m3u8?t=eFsUTRrksJXsxGw4D-CmHY6rPHCDL1z_IxvDlxB9VFw&s=1734913160&e=43200&v=40718100&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_n/index-v1-a1.m3u8?t=eFsUTRrksJXsxGw4D-CmHY6rPHCDL1z_IxvDlxB9VFw&s=1734913160&e=43200&v=40718100&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_l/index-v1-a1.m3u8?t=eFsUTRrksJXsxGw4D-CmHY6rPHCDL1z_IxvDlxB9VFw&s=1734913160&e=43200&v=40718100&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/18/00070/vghhmxlyl5n2_l/index-v1-a1.m3u8?t=eFsUTRrksJXsxGw4D-CmHY6rPHCDL1z_IxvDlxB9VFw&s=1734913160&e=43200&v=40718100&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_h/index-v1-a1.m3u8?t=K43E_82VY0s1ilKa_bcsfb7gUmKMWE1IL9hqRoDGjkw&s=1734913162&e=43200&v=40718115&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_h/index-v1-a1.m3u8?t=K43E_82VY0s1ilKa_bcsfb7gUmKMWE1IL9hqRoDGjkw&s=1734913162&e=43200&v=40718115&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_n/index-v1-a1.m3u8?t=K43E_82VY0s1ilKa_bcsfb7gUmKMWE1IL9hqRoDGjkw&s=1734913162&e=43200&v=40718115&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_n/index-v1-a1.m3u8?t=K43E_82VY0s1ilKa_bcsfb7gUmKMWE1IL9hqRoDGjkw&s=1734913162&e=43200&v=40718115&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_l/index-v1-a1.m3u8?t=K43E_82VY0s1ilKa_bcsfb7gUmKMWE1IL9hqRoDGjkw&s=1734913162&e=43200&v=40718115&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00070/s81hc9feqlis_l/index-v1-a1.m3u8?t=K43E_82VY0s1ilKa_bcsfb7gUmKMWE1IL9hqRoDGjkw&s=1734913162&e=43200&v=40718115&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

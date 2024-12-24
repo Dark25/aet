@@ -201,15 +201,35 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/our-last-crusade-or-the-rise-of-a-new-world-season-2-19250?ref=search",
+                    "author": "Silver Link.",
+                    "description": "The second season of Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. Iska guards Sisbell, sparking Alice's jealousy. Amid a conspiracy, can they thwart personal disputes and war?\n\nAired: Jul 11, 2024 to ?\nPremiered: Summer 2024\nSynonyms: Our Last Crusade or the Rise of a New World 2nd Season, The Last Battlefield Between You and I, or Perhaps the Beginning of the World's Holy War 2nd Season, Kimisen\nJapanese: キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ",
+                    "genre": "Action, Ecchi, Fantasy, Romance, Military",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/3d/af/3dafb11f56d44a293218d9ae5910a7ed/3dafb11f56d44a293218d9ae5910a7ed.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/our-last-crusade-or-the-rise-of-a-new-world-season-2-19250?ep=126838",
+                        "name": "Ep. 4: Line of Descent: My Name is Elletear",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/watch/our-last-crusade-or-the-rise-of-a-new-world-season-2-19250?ep=126663",
+                        "name": "Ep. 3: Witch: Dance Between the Moon, the Planet, and the Sun",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }

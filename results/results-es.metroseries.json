@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/dune-la-profecia/",
+                                "title": "Dune: La profecía",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg"
+                            },
+                            {
                                 "url": "/serie/los-asesinatos-de-elm-street/",
                                 "title": "Los asesinatos de Elm Street",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Beauty in Black",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg"
-                            },
-                            {
-                                "url": "/serie/el-tiempo-entre-costuras/",
-                                "title": "El tiempo entre costuras",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rVlgqzzOcThjVmMHs3bGpXfzC7v.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/los-asesinatos-de-elm-street/",
-                    "title": "Los asesinatos de Elm Street",
-                    "description": "The Real Murders on Elm Street | Asesinato en la calle Elm Esta nueva serie aborda la pequeñas ciudades suburbanas de Estados Unidos que han sido arrasadas por el asesinato. El núcleo de la serie es la cuestión central de cómo, en una sola noche, estas pintorescas \"calles Elm\" residenciales pueden pasar de la paz y la tranquilidad al horror, la muerte sin sentido y la tragedia. Cada episodio examina la investigación de un asesinato ocurrido en una de las muchas \"calles Elm\" de Estados Unidos, y cada conjunto de circunstancias demuestra que el horror puede ocurrir en cualquier parte.",
-                    "genre": "Crimen, Documental",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oeEYqS8uKvguZ8UhlPcGbvOIOMi.jpg",
+                    "url": "/serie/dune-la-profecia/",
+                    "title": "Dune: La profecía",
+                    "description": "Dune: Prophecy Ambientada 10.000 años antes de los acontecimientos de la novela Dune de 1965, la serie sigue a las hermanas Valya y Tula Harkonnen en su lucha contra las fuerzas que amenazan el futuro de la humanidad y en la creación de la legendaria secta conocida como las Bene Gesserit.",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/los-asesinatos-de-elm-street-temporada-1-episodio-3/",
-                        "name": "T1 - Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/capitulo/dune-la-profecia-temporada-1-capitulo-6/",
+                        "name": "T1 - Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/capitulo/los-asesinatos-de-elm-street-temporada-1-episodio-2/",
-                        "name": "T1 - Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/capitulo/dune-la-profecia-temporada-1-capitulo-5/",
+                        "name": "T1 - Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -267,9 +267,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_h/index-v1-a1.m3u8?t=N1ZOA89m40ApdcnX9ckJiUpq9K-HtPbQGH7s1daT2xw&s=1734999518&e=43200&v=41240715&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_x/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_x/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_h/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_h/index-v1-a1.m3u8?t=N1ZOA89m40ApdcnX9ckJiUpq9K-HtPbQGH7s1daT2xw&s=1734999518&e=43200&v=41240715&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_h/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -278,9 +289,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_n/index-v1-a1.m3u8?t=N1ZOA89m40ApdcnX9ckJiUpq9K-HtPbQGH7s1daT2xw&s=1734999518&e=43200&v=41240715&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_n/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_n/index-v1-a1.m3u8?t=N1ZOA89m40ApdcnX9ckJiUpq9K-HtPbQGH7s1daT2xw&s=1734999518&e=43200&v=41240715&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_n/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +300,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_l/index-v1-a1.m3u8?t=N1ZOA89m40ApdcnX9ckJiUpq9K-HtPbQGH7s1daT2xw&s=1734999518&e=43200&v=41240715&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_l/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/canwgrlrq8y7_l/index-v1-a1.m3u8?t=N1ZOA89m40ApdcnX9ckJiUpq9K-HtPbQGH7s1daT2xw&s=1734999518&e=43200&v=41240715&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_l/index-v1-a1.m3u8?t=SSTScBcq5Cdn-r3szazq0SMy5Y9NATKWRqLMXxPrnXY&s=1735020514&e=43200&v=41404002&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -300,9 +311,31 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_h/index-v1-a1.m3u8?t=6r2tk67LIvy3gHaIm8KrguC7Sg737xehavCjAn8rgiw&s=1734999519&e=43200&v=41240737&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_o/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:1080p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_o/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_o/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_o/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_h/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_h/index-v1-a1.m3u8?t=6r2tk67LIvy3gHaIm8KrguC7Sg737xehavCjAn8rgiw&s=1734999519&e=43200&v=41240737&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_h/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -311,9 +344,20 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_n/index-v1-a1.m3u8?t=6r2tk67LIvy3gHaIm8KrguC7Sg737xehavCjAn8rgiw&s=1734999519&e=43200&v=41240737&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_h/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_h/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_n/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_n/index-v1-a1.m3u8?t=6r2tk67LIvy3gHaIm8KrguC7Sg737xehavCjAn8rgiw&s=1734999519&e=43200&v=41240737&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_n/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -322,9 +366,31 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_l/index-v1-a1.m3u8?t=6r2tk67LIvy3gHaIm8KrguC7Sg737xehavCjAn8rgiw&s=1734999519&e=43200&v=41240737&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_n/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_n/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_l/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
                         "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/fp1o51nktzxs_l/index-v1-a1.m3u8?t=6r2tk67LIvy3gHaIm8KrguC7Sg737xehavCjAn8rgiw&s=1734999519&e=43200&v=41240737&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/j3qnchtxjt2m_l/index-v1-a1.m3u8?t=DxUB899K0aan8YHpweGw4YwbVfYUF6ekEc6sHa8rq4c&s=1735020517&e=43200&v=41404031&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_l/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/jglaq8z1x2nc_l/index-v1-a1.m3u8?t=mV7JKT_3r9kbIq8TiStv7-YOdAREwA0m3QFDkRoynCM&s=1735020515&e=43200&v=41404015&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

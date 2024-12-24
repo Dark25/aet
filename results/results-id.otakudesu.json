@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hitoribocchi-isekai-kyaku-sub-indo/",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Hitoribocchi-no-Isekai-Kouryaku-Sub-Indo.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-retry-r-sub-indo/",
+                                "title": "Maou-sama, Retry! Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Maou-sama-Retry-Season-2-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/isekai-squad-sub-indo/",
                                 "title": "Isekai Suicide Squad",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Isekai-Suicide-Squad-Sub-Indo.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/anime/re-mnstr-sub-indo/",
                                 "title": "Re:Monster",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/11/Re-Monster-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/knsb-s3-sub-indo/",
-                                "title": "KonoSuba Season 3",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/11/KonoSuba-Season-3-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/seiyu-radio-sub-indo/",
-                                "title": "Seiyuu Radio no Uraomote",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/11/Seiyuu-Radio-no-Uraomote-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -141,6 +141,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/rekishi-nokoru-naru-sub-indo/",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg"
+                            },
                             {
                                 "url": "/anime/ntsume-yujinchou-s7-sub-indo/",
                                 "title": "Natsume Yuujinchou Season 7",
@@ -210,11 +215,6 @@
                                 "url": "/anime/fairy-tail-100-quest-sub-indo/",
                                 "title": "Fairy Tail: 100-nen Quest",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-retry-r-sub-indo/",
-                                "title": "Maou-sama, Retry! Season 2",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Maou-sama-Retry-Season-2-Sub-Indo.jpg"
                             },
                             {
                                 "url": "/anime/meido-sama-sub-indo/",
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4675678439993783030/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4675678439993783030/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4675678439993783030/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-257210906070362220/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-257210906070362220/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-257210906070362220/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4675678439993783030/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4675678439993783030/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4675678439993783030/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-257210906070362220/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-257210906070362220/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-257210906070362220/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -3,79 +3,33 @@
         "name": "Jkanime (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/one-piece/",
-                                "title": "One Piece- En emision",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/one-piece.jpg"
-                            },
-                            {
-                                "url": "/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/jujutsu-kaisen-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/dandadan/",
-                                "title": "Dandadan",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/dandadan.jpg"
-                            },
-                            {
-                                "url": "/chainsaw-man/",
-                                "title": "Chainsaw Man",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/chainsaw-man.jpg"
-                            },
-                            {
-                                "url": "/spy-x-family/",
-                                "title": "Spy x Family",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/spy-x-family.jpg"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken/",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/ore-dake-level-up-na-ken.jpg"
-                            },
-                            {
-                                "url": "/kimetsu-no-yaiba-katanakaji-no-sato-hen/",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/kimetsu-no-yaiba-katanakaji-no-sato-hen.jpg"
-                            },
-                            {
-                                "url": "/boku-no-hero-academia-7th-season/",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/boku-no-hero-academia-7th-season.jpg"
-                            },
-                            {
-                                "url": "/tensei-shitara-slime-datta-ken-3rd-season/",
-                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/tensei-shitara-slime-datta-ken-3rd-season.jpg"
-                            },
-                            {
-                                "url": "/boku-no-hero-academia-6th-season/",
-                                "title": "Boku no Hero Academia 6th Season",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/boku-no-hero-academia-6th-season.jpg"
-                            },
-                            {
-                                "url": "/black-clover-tv/",
-                                "title": "Black Clover (TV)",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/black-clover-tv.jpg"
-                            },
-                            {
-                                "url": "/kimetsu-no-yaiba-hashira-geiko-hen/",
-                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-                                "thumbnail_url": "https://cdn.jkdesu.com//assets/images/animes/image/kimetsu-no-yaiba-hashira-geiko-hen.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/amagami-san-chi-no-enmusubi",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/amagami-san-chi-no-enmusubi.jpg"
+                            },
+                            {
+                                "url": "/rekishi-ni-nokoru-akujo-ni-naru-zo",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/rekishi-ni-nokoru-akujo-ni-naru-zo.jpg"
+                            },
+                            {
+                                "url": "/youkai-gakkou-no-sensei-hajimemashita",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/youkai-gakkou-no-sensei-hajimemashita.jpg"
+                            },
+                            {
+                                "url": "/love-live-superstar-3rd-season",
+                                "title": "Love Live! Superstar!! 3rd Season",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/love-live-superstar-3rd-season.jpg"
+                            },
                             {
                                 "url": "/seirei-gensouki-2",
                                 "title": "Seirei Gensouki 2",
@@ -205,26 +159,6 @@
                                 "url": "/chi-chikyuu-no-undou-ni-tsuite",
                                 "title": "Chi.: Chikyuu no Undou ni Tsuite",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
-                            },
-                            {
-                                "url": "/detective-conan",
-                                "title": "Detective Conan",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/detective-conan.jpg"
-                            },
-                            {
-                                "url": "/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi.jpg"
-                            },
-                            {
-                                "url": "/ao-no-miburo",
-                                "title": "Ao no Miburo",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/ao-no-miburo.jpg"
-                            },
-                            {
-                                "url": "/bleach-sennen-kessen-hen-soukoku-tan",
-                                "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/bleach-sennen-kessen-hen-soukoku-tan.jpg"
                             },
                             {
                                 "url": "/dadao-chaotian",
@@ -368,14 +302,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/one-piece/",
-                    "title": "One Piece",
-                    "author": "Toei Animation",
-                    "description": "Una historia épica de piratas, donde narra la historia de \"Monkey D. Luffy\" quien cuando tenia 7 años, comió accidentalmente una \"Akuma no mi\"(Fruta del diablo) la cual le convirtió en un hombre de goma. Por otra parte \"Gol D. Roger\" conocido como \"El rey de los Piratas\" quien fuera ejecutado por la Marine, habló antes de morir, acerca de su mayor tesoro,el \"One Piece\" escondido en la \"Gran line\". Esta noticia desató la gran era de los piratas lanzando a incontables piratas a ese lugar, en busca del \"One Piece\" el tesoro perdido. Diez años después, Luffy inspirado en \"Gol D. Roger\" y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo \"Rey de los Piratas\" y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el \"One Piece\".",
-                    "genre": "Super Poderes, Shounen, Fantasia, Comedia, Aventura, Accion",
+                    "url": "/amagami-san-chi-no-enmusubi",
+                    "title": "Amagami-san Chi no Enmusubi",
+                    "author": "Drive",
+                    "description": "La serie sigue a Uryū Kamihate, un estudiante de secundaria que tiene como objetivo aprobar los exámenes de ingreso a la escuela de medicina de la Universidad de Kioto. Después de vivir en un orfanato durante gran parte de su vida tras la muerte de su madre, llega a vivir al Santuario Amagami, donde los sacerdotes principales le piden que se case con una de sus tres nietas. Uryū y las hermanas Amagami también tienen que lidiar con varios problemas, como que el santuario esté en peligro de cerrarse debido a problemas financieros. A través de flashforwards, se da a entender que Uryū eventualmente se casará con una de las hermanas.",
+                    "genre": "Romance, Comedia",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/one-piece.jpg",
+                    "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/amagami-san-chi-no-enmusubi.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -383,14 +317,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/one-piece//1122",
-                        "name": "Episodio 1122",
-                        "episode_number": 1122.0
+                        "url": "/amagami-san-chi-no-enmusubi//13",
+                        "name": "Episodio 13",
+                        "episode_number": 13.0
                     },
                     {
-                        "url": "/one-piece//1121",
-                        "name": "Episodio 1121",
-                        "episode_number": 1121.0
+                        "url": "/amagami-san-chi-no-enmusubi//12",
+                        "name": "Episodio 12",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -398,57 +332,59 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-hhufoxcbcegik3rj.voe-network.net/engine/hls2-c/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=bujwfxAnIXKZbSlsMkzFGgvYdyoBkkvvQ3psOnokwuY&s=1735042074&e=14400&f=62208694&node=J2OaymvSuE80UwLuBnxBiHgR0jn3cRYQt2sOuJSvWao=&i=20.161&sp=2500&asn=8075&q=n",
-                        "quality": "[JAP] Voe:720p",
-                        "videoUrl": "https://delivery-node-hhufoxcbcegik3rj.voe-network.net/engine/hls2-c/01/12441/ux62wsvawsbb_,n,.urlset/index-v1-a1.m3u8?t=bujwfxAnIXKZbSlsMkzFGgvYdyoBkkvvQ3psOnokwuY&s=1735042074&e=14400&f=62208694&node=J2OaymvSuE80UwLuBnxBiHgR0jn3cRYQt2sOuJSvWao=&i=20.161&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/13162/ogt7xd2nhpjh_,n,.urlset/index-v1-a1.m3u8?t=Zz_w8l5-vFLO_FGb0jbW3j6rmfuShFacpb0t6Nr_DY8&s=1735063638&e=14400&f=65813123&node=kffQiIiLL3t5HEaCXmpbOHfVR/lt4JGbBRkc471ieNY=&i=20.43&sp=2500&asn=8075&q=n",
+                        "quality": "[JAP] Voe:1080p",
+                        "videoUrl": "https://delivery-node-2p1wm5fbbtr9ab6e.voe-network.net/engine/hls2-c/01/13162/ogt7xd2nhpjh_,n,.urlset/index-v1-a1.m3u8?t=Zz_w8l5-vFLO_FGb0jbW3j6rmfuShFacpb0t6Nr_DY8&s=1735063638&e=14400&f=65813123&node=kffQiIiLL3t5HEaCXmpbOHfVR/lt4JGbBRkc471ieNY=&i=20.43&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrt3o2rpz3jvrmxkmn7ao4zaqvqfyqcl/video.mp4",
-                        "quality": "[JAP] Mp4Upload - 720p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xrxs4jz3b4quuopgrbsossk44bzgig45kdoaycrrt3o2rpz3jvrmxkmn7ao4zaqvqfyqcl/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x4rbevz3b4quuovkreemcukvmxcrg76dl2rb2bpxcrusrxwmikibvzr5tyxyvdgliqfvzw/video.mp4",
+                        "quality": "[JAP] Mp4Upload - 1080p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x4rbevz3b4quuovkreemcukvmxcrg76dl2rb2bpxcrusrxwmikibvzr5tyxyvdgliqfvzw/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Qu-K8LBx4cDfymxlL2MqvDGdetq511mv2f20hgnuV2I&s=1735042070&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "url": "https://c2tjzlkedcnp.cdn-centaurus.com/hls2/01/07556/ndlv1x2ace3y_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=dgl3YUu5shHREsEs0z_a1Rmi90PrcBe1HZPk4sf53Lg&s=1735063633&e=129600&f=37784940&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
+                        "quality": "[JAP] StreamWish:1080p",
+                        "videoUrl": "https://c2tjzlkedcnp.cdn-centaurus.com/hls2/01/07556/ndlv1x2ace3y_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=dgl3YUu5shHREsEs0z_a1Rmi90PrcBe1HZPk4sf53Lg&s=1735063633&e=129600&f=37784940&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://sfastwish.com",
+                            "Referer": "https://sfastwish.com/e/ndlv1x2ace3y"
+                        }
+                    },
+                    {
+                        "url": "https://c2tjzlkedcnp.cdn-centaurus.com/hls2/01/07556/ndlv1x2ace3y_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dgl3YUu5shHREsEs0z_a1Rmi90PrcBe1HZPk4sf53Lg&s=1735063633&e=129600&f=37784940&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
                         "quality": "[JAP] StreamWish:720p",
-                        "videoUrl": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Qu-K8LBx4cDfymxlL2MqvDGdetq511mv2f20hgnuV2I&s=1735042070&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "videoUrl": "https://c2tjzlkedcnp.cdn-centaurus.com/hls2/01/07556/ndlv1x2ace3y_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dgl3YUu5shHREsEs0z_a1Rmi90PrcBe1HZPk4sf53Lg&s=1735063633&e=129600&f=37784940&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://sfastwish.com",
-                            "Referer": "https://sfastwish.com/e/d3sa7zxrm6or"
+                            "Referer": "https://sfastwish.com/e/ndlv1x2ace3y"
                         }
                     },
                     {
-                        "url": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Qu-K8LBx4cDfymxlL2MqvDGdetq511mv2f20hgnuV2I&s=1735042070&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "url": "https://c2tjzlkedcnp.cdn-centaurus.com/hls2/01/07556/ndlv1x2ace3y_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=dgl3YUu5shHREsEs0z_a1Rmi90PrcBe1HZPk4sf53Lg&s=1735063633&e=129600&f=37784940&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
                         "quality": "[JAP] StreamWish:480p",
-                        "videoUrl": "https://sntn3vv7pjrz.cdn-centaurus.com/hls2/01/05115/d3sa7zxrm6or_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Qu-K8LBx4cDfymxlL2MqvDGdetq511mv2f20hgnuV2I&s=1735042070&e=129600&f=25579222&srv=mshhi81uz5rem&i=0.4&sp=500&p1=mshhi81uz5rem&p2=mshhi81uz5rem&asn=8075",
+                        "videoUrl": "https://c2tjzlkedcnp.cdn-centaurus.com/hls2/01/07556/ndlv1x2ace3y_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=dgl3YUu5shHREsEs0z_a1Rmi90PrcBe1HZPk4sf53Lg&s=1735063633&e=129600&f=37784940&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://sfastwish.com",
-                            "Referer": "https://sfastwish.com/e/d3sa7zxrm6or"
+                            "Referer": "https://sfastwish.com/e/ndlv1x2ace3y"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1735112073&ip=FROsD0ISKxSHDN&token=UHwgZWbkRwtP",
+                        "url": "https://streamtape.com/get_video?id=09z2Abw4y6Ib3y1&expires=1735133637&ip=FROsExOnDS9X&token=RLrvp_jtsbgU",
                         "quality": "[JAP] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ez0yg0wGMDfjwz&expires=1735112073&ip=FROsD0ISKxSHDN&token=UHwgZWbkRwtP"
-                    },
-                    {
-                        "url": "https://a-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=j927Bl6iG1vWRTewIrGvoQ&e=1735063674&_t=1735048106",
-                        "quality": "[JAP] MixDrop",
-                        "videoUrl": "https://a-delivery33.mxcontent.net/v2/vk9pm141adwge4.mp4?s=j927Bl6iG1vWRTewIrGvoQ&e=1735063674&_t=1735048106",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-                        }
+                        "videoUrl": "https://streamtape.com/get_video?id=09z2Abw4y6Ib3y1&expires=1735133637&ip=FROsExOnDS9X&token=RLrvp_jtsbgU"
                     }
                 ],
                 "passed": true

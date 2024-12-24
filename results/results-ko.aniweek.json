@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/정령환상기 2기",
+                                "title": "정령환상기 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/f1ba25c4fc671da7f9a4d84e2727de7f_1728329984_254.jpg"
+                            },
+                            {
                                 "url": "/c/나츠메 우인장 7기",
                                 "title": "나츠메 우인장 7기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728400244_5952.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/c/내세에는 남남이 좋겠어",
                                 "title": "내세에는 남남이 좋겠어",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/f1ba25c4fc671da7f9a4d84e2727de7f_1728323152_4797.jpg"
-                            },
-                            {
-                                "url": "/c/정령환상기 2기",
-                                "title": "정령환상기 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/f1ba25c4fc671da7f9a4d84e2727de7f_1728329984_254.jpg"
                             },
                             {
                                 "url": "/c/비밀의 아이프리",
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/나츠메 우인장 7기",
-                    "title": "나츠메 우인장 7기",
-                    "description": "원제: 夏目友人帳 伍\n원작: 미도리카와 유키\n감독: 이토 히데키\n각본: 무라이 사다유키\n캐릭터 디자인: 타카다 아키라\n음악: 요시모리 마토코\n장르: 드라마, 요괴, 판타지, 일상\n방영일: 2024.10.08 (화)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/07af162c0e0f5a368ed9561cd10e6b4e_1728400244_5952.jpg",
+                    "url": "/c/정령환상기 2기",
+                    "title": "정령환상기 2기",
+                    "description": "원제: 精霊幻想記 2\n원작: 키타야마 유리\n감독: 쿠보 히로시\n각본: 야마사키 오사무\n캐릭터 디자인: 유후 쿄코\n음악: 야마자키 야스유키\n장르: 판타지, 이세계, 정령, 하렘\n방영일: 2024.10.08 01:30 (화)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/f1ba25c4fc671da7f9a4d84e2727de7f_1728329984_254.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,14 +505,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/나츠메 우인장 7기 12화(完)",
-                        "name": "나츠메 우인장 7기 12화(完)",
+                        "url": "/e/정령환상기 2기 12화(完)",
+                        "name": "정령환상기 2기 12화(完)",
                         "date_upload": 1734998400000,
                         "episode_number": 12.0
                     },
                     {
-                        "url": "/e/나츠메 우인장 7기 11화",
-                        "name": "나츠메 우인장 7기 11화",
+                        "url": "/e/정령환상기 2기 11화",
+                        "name": "정령환상기 2기 11화",
                         "date_upload": 1734393600000,
                         "episode_number": 11.0
                     }
@@ -520,7 +520,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14051194206162487002/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14051194206162487002/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14051194206162487002/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9698759192920946476/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9698759192920946476/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9698759192920946476/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

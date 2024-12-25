@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kekkon-hontou-desu-ka-sub-indo/",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Kekkon-suru-tte-Hontou-desu-ka-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/hitoribocchi-isekai-kyaku-sub-indo/",
                                 "title": "Hitoribocchi no Isekai Kouryaku",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Hitoribocchi-no-Isekai-Kouryaku-Sub-Indo.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/anime/shuumatsu-train-doko-sub-indo/",
                                 "title": "Shuumatsu Train Doko e Iku?",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/11/Shuumatsu-Train-Doko-e-Iku-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/re-mnstr-sub-indo/",
-                                "title": "Re:Monster",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/11/Re-Monster-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -142,14 +142,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/yokai-sensei-hajmeshita-sub-indo/",
-                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg"
+                                "url": "/anime/tasuketsu-sub-indo/",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg"
                             },
                             {
                                 "url": "/anime/amagami-chi-sub-indo/",
                                 "title": "Amagami-san Chi no Enmusubi",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg"
+                            },
+                            {
+                                "url": "/anime/yokai-sensei-hajmeshita-sub-indo/",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg"
                             },
                             {
                                 "url": "/anime/rekishi-nokoru-naru-sub-indo/",
@@ -260,11 +265,6 @@
                                 "url": "/anime/bleach-oukoku-tan-sub-indo/",
                                 "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg"
-                            },
-                            {
-                                "url": "/anime/sao-alternative-online-s2-sub-indo/",
-                                "title": "Sword Art Online Alternative: Gun Gale Online S2",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sword-Art-Online-Alternative-Gun-Gale-Online-s2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17733841243255033727/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17733841243255033727/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17733841243255033727/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13084402269353679458/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13084402269353679458/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13084402269353679458/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17733841243255033727/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17733841243255033727/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17733841243255033727/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13084402269353679458/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13084402269353679458/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13084402269353679458/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

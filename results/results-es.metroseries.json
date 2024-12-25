@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/jentry-chau-contra-el-inframundo/",
+                                "title": "Jentry Chau contra el inframundo",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wz9bpOMLXJemaC6qVL9tyDtSBxp.jpg"
+                            },
+                            {
                                 "url": "/serie/dune-la-profecia/",
                                 "title": "Dune: La profecía",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "El Sr. Plancton",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/qS9teMgek3VUToD3Rc0NtSTsUWX.jpg"
-                            },
-                            {
-                                "url": "/serie/beauty-in-black/",
-                                "title": "Beauty in Black",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,166 +240,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/dune-la-profecia/",
-                    "title": "Dune: La profecía",
-                    "description": "Dune: Prophecy Ambientada 10.000 años antes de los acontecimientos de la novela Dune de 1965, la serie sigue a las hermanas Valya y Tula Harkonnen en su lucha contra las fuerzas que amenazan el futuro de la humanidad y en la creación de la legendaria secta conocida como las Bene Gesserit.",
-                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg",
+                    "url": "/serie/jentry-chau-contra-el-inframundo/",
+                    "title": "Jentry Chau contra el inframundo",
+                    "description": "Jentry Chau vs the Underworld A punto de cumplir 16 años, una joven redescubre sus poderes de fuego —que había reprimido durante años— y tiene que enfrentarse a sus demonios… en todos los sentidos.",
+                    "genre": "Action & Adventure, Animación, Comedia, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wz9bpOMLXJemaC6qVL9tyDtSBxp.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/capitulo/dune-la-profecia-temporada-1-capitulo-6/",
-                        "name": "T1 - Episodio 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/capitulo/dune-la-profecia-temporada-1-capitulo-5/",
-                        "name": "T1 - Episodio 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_x/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_x/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_h/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_h/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_n/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_n/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_l/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/11/00071/wh4ookq9t6zj_l/index-v1-a1.m3u8?t=w2AqUPBEt8VZITbO8MoHakCLu8HLJguHxDvRF6323dE&s=1735106970&e=43200&v=41852340&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_x/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_x/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_x/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:1080p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_x/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_h/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_h/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_h/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_h/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_n/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_n/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_n/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_n/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_l/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/j3qnchtxjt2m_l/index-v1-a1.m3u8?t=22933hsl9cwo4Udtn0bOoX4L5mMB1Qu75aDkmKfyUX8&s=1735106973&e=43200&v=41852358&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_l/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/09/00071/jglaq8z1x2nc_l/index-v1-a1.m3u8?t=pQi80fFexY0sD190YnUv8pHYrzpqc-qyzjW33j4BTLY&s=1735106971&e=43200&v=41852355&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

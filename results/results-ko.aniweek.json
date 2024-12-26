@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/비밀의 아이프리",
+                                "title": "비밀의 아이프리",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2404/2c7f2d9b065a5953e536605d8c669e95_1712431564_9196.jpg"
+                            },
+                            {
                                 "url": "/c/신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL",
                                 "title": "신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/102126d20cc1e8e85d727b4cf6bfeae3_1730071804_8449.jpg"
@@ -262,11 +267,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/fbeb64ad98d2ca276185b6e3d44c3af7_1727723806_0593.jpg"
                             },
                             {
-                                "url": "/c/비밀의 아이프리",
-                                "title": "비밀의 아이프리",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2404/2c7f2d9b065a5953e536605d8c669e95_1712431564_9196.jpg"
-                            },
-                            {
                                 "url": "/c/미팅에 나갔는데 여자가 없었던 이야기",
                                 "title": "미팅에 나갔는데 여자가 없었던 이야기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/fbeb64ad98d2ca276185b6e3d44c3af7_1727713569_3992.jpg"
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL",
-                    "title": "신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL",
-                    "description": "원제: 新 テニスの王子様 U-17 WORLD CUP SEMIFINAL\n원작: 코노미 타케시\n감독: 토쿠모토 요시노부\n각본: 히로타 미츠타카\n캐릭터 디자인: 이시이 아키하루\n음악: 타마키 치히로\n장르: 학원, 드라마, 코미디, 스포츠, 일상\n방영일: 2024.10.03 00:00 (목)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/102126d20cc1e8e85d727b4cf6bfeae3_1730071804_8449.jpg",
+                    "url": "/c/비밀의 아이프리",
+                    "title": "비밀의 아이프리",
+                    "description": "원제: ひみつのアイプリ\n원작: Syn Sophia, Takara Tomy A.R.T.S\n감독: 야마구치 켄타로\n각본: 이치카와 기가에몬\n캐릭터 디자인: 나가노 유키\n음악: 모리 이즈미\n장르: 드라마, 아이돌\n방영일: 2024.04.07 10:00 (일)\n등급: 전체\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2404/2c7f2d9b065a5953e536605d8c669e95_1712431564_9196.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,22 +505,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL 12화",
-                        "name": "신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL 12화",
+                        "url": "/e/비밀의 아이프리 38화",
+                        "name": "비밀의 아이프리 38화",
                         "date_upload": 1735171200000,
-                        "episode_number": 12.0
+                        "episode_number": 38.0
                     },
                     {
-                        "url": "/e/신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL 11화",
-                        "name": "신 테니스의 왕자 U-17 WORLD CUP SEMIFINAL 11화",
-                        "date_upload": 1735171200000,
-                        "episode_number": 11.0
+                        "url": "/e/비밀의 아이프리 37화",
+                        "name": "비밀의 아이프리 37화",
+                        "date_upload": 1734307200000,
+                        "episode_number": 37.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15286123087233150721/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15286123087233150721/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15286123087233150721/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6805722216241880566/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6805722216241880566/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6805722216241880566/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

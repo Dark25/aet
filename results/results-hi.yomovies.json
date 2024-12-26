@@ -3,8 +3,214 @@
         "name": "YoMovies (HI)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7022062992672582384/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7022062992672582384/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7022062992672582384/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/the-legend-of-michael-mishra-2016-Watch-online-full-movie/",
+                                "title": "The Legend of Michael Mishra (2016)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYzU0ZjQ1NWItMjM2Yy00ODcyLThlNWQtMzMyZjE3YzhiMTc1XkEyXkFqcGdeQXVyMTk4NzY0NDI@._V1_FMjpg_UX585_.jpg"
+                            },
+                            {
+                                "url": "/2-states-2014-Watch-online-full-movie/",
+                                "title": "2 States (2014)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTEyNTY5MzUxODZeQTJeQWpwZ15BbWU4MDYwODE4MzEx._V1_QL50_SY1000_SX592_AL_.jpg"
+                            },
+                            {
+                                "url": "/direct-ishq-2016-Watch-online-full-movie/",
+                                "title": "Direct Ishq (2016)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BZGY0NGU2ZmMtZjhjNi00YWFkLWJmNDUtZmY2Y2VhNjgwNDUxXkEyXkFqcGdeQXVyMjQwOTU5NTg@._V1_FMjpg_UY688_.jpg"
+                            },
+                            {
+                                "url": "/shaandaar-2015-Watch-online-full-movie/",
+                                "title": "Shaandaar (2015)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTQ3MzU4MjU0NV5BMl5BanBnXkFtZTgwMzU3NjQ2NjE@._V1_FMjpg_UX564_.jpg"
+                            },
+                            {
+                                "url": "/mad-max-fury-road-2015-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Mad Max: Fury Road (2015) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYjNkNmUxZTItYmZiYi00NzVjLWI3NjYtZmY4YjAyMjljOTQyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UY905_.jpg"
+                            },
+                            {
+                                "url": "/dictator-2016-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Dictator (2016) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNTg3MjJjYWYtZDVmNi00MTQ1LThlNTgtMGM2ZDE3MTAwZmY0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_FMjpg_UX552_.jpg"
+                            },
+                            {
+                                "url": "/kanithan-2016-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Kanithan (2016) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYTFjMzcwNWUtOGQ1Mi00N2Q2LTg0NDUtZmJmNWFkODJjNTI2XkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_FMjpg_UX700_.jpg"
+                            },
+                            {
+                                "url": "/kaal-2005-Watch-online-full-movie/",
+                                "title": "Kaal (2005)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMzcwZTliMDMtYTRiZi00MTY0LTkwM2UtZTM2MmQ0NDA3MTgxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX586_.jpg"
+                            },
+                            {
+                                "url": "/junooniyat-2016-Watch-online-full-movie/",
+                                "title": "Junooniyat (2016)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOGUwYjIxNzYtODA4Ni00YzExLWE3NDctZDlmZGJkNWIwNzU3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_FMjpg_UX593_.jpg"
+                            },
+                            {
+                                "url": "/kyaa-kool-hain-hum-3-2016-Watch-online-full-movie/",
+                                "title": "Kyaa Kool Hain Hum 3 (2016)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BN2Y5YzMxYzUtMjA4YS00NWM5LTk5OWItNDZiMDVlYjYxNDBhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX564_.jpg"
+                            },
+                            {
+                                "url": "/talvar-2015-Watch-online-full-movie/",
+                                "title": "Talvar (2015)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_FMjpg_UY846_.jpg"
+                            },
+                            {
+                                "url": "/johnny-english-strikes-again-2018-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Johnny English Strikes Again (2018) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMGY1ZWUzMzktZDIzZS00ZGJkLTg1MGEtNTQyYWY4ODBlNGZhXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UY712_.jpg"
+                            },
+                            {
+                                "url": "/eternal-sunshine-of-the-spotless-mind-2004-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Eternal Sunshine of the Spotless Mind (2004) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UY711_.jpg"
+                            },
+                            {
+                                "url": "/rx-100-2019-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "RX 100 (2019) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNzIzYjI0NzUtMjczZC00OTRlLTlkOGUtYjk0ZGFiMWQ0YTkwXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_FMjpg_UY720_.jpg"
+                            },
+                            {
+                                "url": "/shuddh-desi-romance-2013-Watch-online-full-movie/",
+                                "title": "Shuddh Desi Romance (2013)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTU0NjI2MTI0Ml5BMl5BanBnXkFtZTcwNjI4MzY5OQ@@._V1_FMjpg_UY733_.jpg"
+                            },
+                            {
+                                "url": "/himmatwala-2013-Watch-online-full-movie/",
+                                "title": "Himmatwala (2013)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTM4MTYwNDA0NF5BMl5BanBnXkFtZTcwNjE0MjQyOQ@@._V1_QL50_.jpg"
+                            },
+                            {
+                                "url": "/ghanchakkar-2013-Watch-online-full-movie/",
+                                "title": "Ghanchakkar (2013)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNjUyNzYzNjkxMF5BMl5BanBnXkFtZTcwNzQwNTA0OQ@@._V1_FMjpg_UY640_.jpg"
+                            },
+                            {
+                                "url": "/policegiri-2013-Watch-online-full-movie/",
+                                "title": "Policegiri (2013)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMmEwNzcwOTAtOGU4Yy00MGI1LWIzNGQtODNjNmVmOGU4OTllXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX565_.jpg"
+                            },
+                            {
+                                "url": "/zanjeer-2013-Watch-online-full-movie/",
+                                "title": "Zanjeer (2013)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOTg0MDdhMTgtNzYyZC00NzQ1LWE3OWEtYzRmYzJiZTE5M2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX580_.jpg"
+                            },
+                            {
+                                "url": "/patiala-house-2011-Watch-online-full-movie/",
+                                "title": "Patiala House (2011)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTg2MTY4NzU5NF5BMl5BanBnXkFtZTgwNDE0NzE5NjE@._V1_FMjpg_UY600_.jpg"
+                            },
+                            {
+                                "url": "/kingsman-the-secret-service-2014-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Kingsman: The Secret Service (2014) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNzdhYzk3ODktNWQ4Ny00MDkzLWFmYjctOGNkOWE3MjczNWJiXkEyXkFqcGdeQXVyMTYwMDIyNzk1._V1_FMjpg_UY720_.jpg"
+                            },
+                            {
+                                "url": "/the-adventures-of-tintin-2011-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "The Adventures of Tintin (2011) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNzk3ZmNjMDUtY2RlZi00ZjhiLThkYWEtZjBmZjA4NDZjMWQwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL50_.jpg"
+                            },
+                            {
+                                "url": "/namaste-england-2018-Watch-online-full-movie/",
+                                "title": "Namaste England (2018)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BODBmZWUyNDAtY2E3MC00YWQzLThkOTEtYWFkMmZjODk3NjVkXkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_FMjpg_UY760_.jpg"
+                            },
+                            {
+                                "url": "/tera-intezaar-2017-Watch-online-full-movie/",
+                                "title": "Tera Intezaar (2017)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOWRhMWE5NzgtMGEzNS00YjM2LWE4ZTAtZWQ4MDY3MDVkMTQxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY1000_CR0,0,708,1000_AL_.jpg"
+                            },
+                            {
+                                "url": "/tennis-buddies-2019-Watch-online-full-movie/",
+                                "title": "Tennis Buddies (2019)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMDk0YTFlZjMtOGQ0MS00YmY5LTk4ZTItYzQxYjliYjViYjRkXkEyXkFqcGdeQXVyNjk2NzQ0MTk@._V1_FMjpg_UY640_.jpg"
+                            },
+                            {
+                                "url": "/s-p-chauhan-2018-Watch-online-full-movie/",
+                                "title": "S.P. Chauhan (2019)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTlhMGQ2Y2UtNGU2Yy00ZjU5LWJiYjItZDZkYzI4OWEzODhhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UY640_.jpg"
+                            },
+                            {
+                                "url": "/ok-jaanu-2017-Watch-online-full-movie/",
+                                "title": "OK Jaanu (2017)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNzk4ZGYxODQtOGNlOC00OGMxLWI2ODYtMzczOGFjMjlmN2YzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UY883_.jp"
+                            },
+                            {
+                                "url": "/namumkin-tere-bin-jeena-2020-Watch-online-full-movie/",
+                                "title": "Namumkin Tere Bin Jeena (2020)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BM2FhM2Y0NjktZDk2ZS00OTdlLTk0ZTQtOGVkODFmNjIwMjNkXkEyXkFqcGdeQXVyNTc0MjY0NTM@._V1_FMjpg_UX560_.jpg"
+                            },
+                            {
+                                "url": "/gully-boy-2019-Watch-online-full-movie/",
+                                "title": "Gully Boy (2019)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BZDkzMTQ1YTMtMWY4Ny00MzExLTkzYzEtNzZhOTczNzU2NTU1XkEyXkFqcGdeQXVyODY3NjMyMDU@._V1_FMjpg_UX531_.jpg"
+                            },
+                            {
+                                "url": "/shaadi-no-1-2005-Watch-online-full-movie/",
+                                "title": "Shaadi No. 1 (2005)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BOTRkMmQ1NmItZGVlMy00NWI0LTg4MzYtNjIzZWZhZGYyODc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX379_.jpg"
+                            },
+                            {
+                                "url": "/fantastic-4-rise-of-the-silver-surfer-2007-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Fantastic 4: Rise of the Silver Surfer (2007) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNmZmMTU0OGQtOWRmNS00ZjA1LWJkM2EtYmUwNGEzMjIyZDM1XkEyXkFqcGc@._V1_FMjpg_UY692_.jpg"
+                            },
+                            {
+                                "url": "/7th-day-2014-hindi-dubbed-2-Watch-online-full-movie/",
+                                "title": "7th Day (2014) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNTU3NzY0ZGMtMzAzZS00YjY5LThkMDctYmZjZjFjN2VjM2U3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UY836_.jpg"
+                            },
+                            {
+                                "url": "/hulchul-super-comedy-Watch-online-full-movie/",
+                                "title": "Hulchul (2004)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNzU2ZTBlZmYtN2VhNC00ZDRjLWE4ZjgtYTEyMGIwYTMyN2I4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX539_.jpg"
+                            },
+                            {
+                                "url": "/school-teacher-2016-Watch-online-full-movie/",
+                                "title": "School Teacher (2016)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BZTBkMGJmNTktOWRkMi00YWU4LWE5OTktZWRlOWNlZDUxOTM0XkEyXkFqcGdeQXVyMTA3NzQxMzkw._V1_FMjpg_UY746_.jpg"
+                            },
+                            {
+                                "url": "/shock-wave-2017-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Shock Wave (2017) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BN2ExNjRhNmEtNGIyNS00OWI5LWFjZDAtYmRkZGJkMDIwYWIwXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UY672_.jpg"
+                            },
+                            {
+                                "url": "/bharat-2019-Watch-online-full-movie/",
+                                "title": "Bharat (2019)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYzRjMTY1MzktZGRmNi00YjM0LWJkOTUtMmI0ZGEyZjdkOGFhXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_FMjpg_UX568_.jpg"
+                            },
+                            {
+                                "url": "/aparichit-2006-Watch-online-full-movie/",
+                                "title": "Aparichit (2006)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/I/818OM0PNgmL._SY445_.jpg"
+                            },
+                            {
+                                "url": "/savitri-2017-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "Savitri (2017) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYWQ0NWM1ZWQtNDA3YS00NjRjLWI3MmUtMGFkMGVhMjJkYTk5XkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_FMjpg_UX716_.jpg"
+                            },
+                            {
+                                "url": "/guest-iin-london-2017-Watch-online-full-movie/",
+                                "title": "Guest iin London (2017)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYmQwZmM0ZmQtMzdiMS00Yjc3LWI2NGMtYzhlYjBlMDgyOTIyXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_QL50_.jpg"
+                            },
+                            {
+                                "url": "/besharam-2013-Watch-online-full-movie/",
+                                "title": "Besharam (2013)",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BYjQzNGExOWQtN2ZkNy00OTQzLWFkMTMtZjA2MDgxNDNmY2E1XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_FMjpg_UX600_.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -218,10 +424,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/boy-kills-world-2023-hindi-dubbed-Watch-online-full-movie/",
+                    "url": "/the-legend-of-michael-mishra-2016-Watch-online-full-movie/",
                     "author": "",
-                    "description": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
-                    "genre": "Action, Crime, Drama, Dual Audio, Thriller",
+                    "description": "Michael Mishra, a kidnapper from Patna, falls for a girl, Varsha Shukla, at a very young age. He got arrested and sent to jail. After releasing from jail, he searched for her but couldn’t find her. He then finds her in a talent show. The story revolves around as to how he gets his love and what he has to go through.",
+                    "genre": "Bollywood, Comedy, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -229,7 +435,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/boy-kills-world-2023-hindi-dubbed-Watch-online-full-movie/",
+                        "url": "/the-legend-of-michael-mishra-2016-Watch-online-full-movie/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }

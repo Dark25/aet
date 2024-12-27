@@ -77,11 +77,6 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
                             },
                             {
-                                "url": "8aM5BBoEGLvjG3MZm<&sep><&sep>sayounara-ryuusei-konnichiwa-jinsei",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
-                            },
-                            {
                                 "url": "vDTSJHSpYnrkZnAvG<&sep><&sep>nato-shippuuden",
                                 "title": "Nato: Shippuuden",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
@@ -90,6 +85,11 @@
                                 "url": "DkKWjEA3A7m5kCJWp<&sep><&sep>hanka-hanka-2011-",
                                 "title": "Hanka×Hanka (2011)",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png"
+                            },
+                            {
+                                "url": "8aM5BBoEGLvjG3MZm<&sep><&sep>sayounara-ryuusei-konnichiwa-jinsei",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
                             },
                             {
                                 "url": "LYKSutL2PaAjYyXWz<&sep><&sep>jujutsu-kaisen-2nd-season",
@@ -132,9 +132,9 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png"
                             },
                             {
-                                "url": "KjuC7otFz6ZPNWxJb<&sep><&sep>raise-wa-tanin-ga-ii",
-                                "title": "Raise wa Tanin ga Ii",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg"
+                                "url": "wAMnpBBwaE3fJ8jwH<&sep><&sep>tsuki-ga-michibiku-isekai-douchuu-season-2",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png"
                             }
                         ],
                         "hasNextPage": true
@@ -143,8 +143,144 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 371: Expected string literal but 'null' literal was found at path: $.data.shows.edges[1].thumbnail\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: .....ren: Yingdu Pian\",\"thumbnail\":null,\"englishName\":\"Link Click.....",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "aaK5wwhKsNc8NqDLv<&sep><&sep>peerless-soul-of-war",
+                                "title": "Peerless Soul Of War",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/aaK5wwhKsNc8NqDLv.webp"
+                            },
+                            {
+                                "url": "ajZyCqMEaiDZtkACh<&sep><&sep>i-was-forced-by-the-system-to-become-a-villain",
+                                "title": "I Was Forced by the System to Become a Villain",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ajZyCqMEaiDZtkACh.png"
+                            },
+                            {
+                                "url": "LFgkxJv6gqY4tfner<&sep><&sep>necromancer-king-of-the-scourge",
+                                "title": "Necromancer: King of the Scourge",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/qnxSWpZx6fzKFZDJi.webp"
+                            },
+                            {
+                                "url": "Mm9w5JHfqKdHsTsoK<&sep><&sep>everyone-is-a-king-i-sacrifice-countless-lives-to-become-a-king",
+                                "title": "Everyone Is a King: I Sacrifice Countless Lives to Become a King",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/cHfvvEc6d4memMDNj.webp"
+                            },
+                            {
+                                "url": "PDnmTJjQdcjPbXPF6<&sep><&sep>great-xia-sword-master",
+                                "title": "Great Xia Sword Master",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/PDnmTJjQdcjPbXPF6.webp"
+                            },
+                            {
+                                "url": "PFTb5inxPsaEtdXui<&sep><&sep>cang-yuan-tu-season-2",
+                                "title": "Cang Yuan Tu Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185719-WYjFlJ2BKtEy.jpg"
+                            },
+                            {
+                                "url": "HaCie2rmCC4GK6mAS<&sep><&sep>nanatsu-no-taizai-mokushiroku-no-yonkishi-season-2",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-meJTWM8zQjjp.jpg"
+                            },
+                            {
+                                "url": "FfT9rh8qrbtsfR2DE<&sep><&sep>zuoshou-shanglan",
+                                "title": "Zuoshou Shanglan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131485-RkSECXHoJUSx.jpg"
+                            },
+                            {
+                                "url": "q9hGbe9wbyj2RTmYC<&sep><&sep>cang-yuan-tu-dongning-fu-fanwai-pian",
+                                "title": "Cang Yuan Tu: Dongning Fu Fanwai Pian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176865-vjwxAddTRzTC.jpg"
+                            },
+                            {
+                                "url": "qo9LHPhJzSniHrixu<&sep><&sep>shiguang-dailiren-yingdu-pian",
+                                "title": "Shiguang Dailiren: Yingdu Pian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg"
+                            },
+                            {
+                                "url": "gKL4wpZhiGX4iTX42<&sep><&sep>my-wechat-is-connected-to-dragon-palace",
+                                "title": "My WeChat is Connected to Dragon Palace",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/gKL4wpZhiGX4iTX42.webp"
+                            },
+                            {
+                                "url": "Pn6MQpE9fGsPNZcJZ<&sep><&sep>ling-wu-dalu",
+                                "title": "Ling Wu Dalu",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/Pn6MQpE9fGsPNZcJZ.png"
+                            },
+                            {
+                                "url": "B5EBSAariAGcmLYud<&sep><&sep>dan-dao-zhizun",
+                                "title": "Dan Dao Zhizun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
+                            },
+                            {
+                                "url": "ghLSbtBHLCatcLREy<&sep><&sep>dormant-since-ancient-times-thrusting-through-the-heavens-after-coming-into-being",
+                                "title": "Dormant Since Ancient Times: Thrusting Through the Heavens After Coming Into Being",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ghLSbtBHLCatcLREy.png"
+                            },
+                            {
+                                "url": "C9eQr7DerCd2XhafF<&sep><&sep>immortals-are-slaves-gods-are-servants-and-the-emperor-is-a-watchdog",
+                                "title": "Immortals Are Slaves, Gods Are Servants, And the Emperor is a Watchdog",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/C9eQr7DerCd2XhafF.png"
+                            },
+                            {
+                                "url": "w3Nf28JafFqoYSJ45<&sep><&sep>it-turns-out-they-were-the-protagonists-all-along",
+                                "title": "It Turns Out – They Were the Protagonists All Along",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/w3Nf28JafFqoYSJ45.webp"
+                            },
+                            {
+                                "url": "mgL8CshEj25LXz273<&sep><&sep>ao-no-hako",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg"
+                            },
+                            {
+                                "url": "qCi9BjaQeLJtDxv3u<&sep><&sep>return-of-the-immortal",
+                                "title": "Return of the Immortal",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/NtH4gvoWwF8thdHP9.webp"
+                            },
+                            {
+                                "url": "kcakfGkAMJEssQesP<&sep><&sep>the-strongest-mortal-in-the-three-realms",
+                                "title": "The Strongest Mortal in the Three Realms",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/kcakfGkAMJEssQesP.webp"
+                            },
+                            {
+                                "url": "owAbkevY5GnmAowEa<&sep><&sep>all-hail-the-sect-leader",
+                                "title": "All Hail the Sect Leader",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/owAbkevY5GnmAowEa.webp"
+                            },
+                            {
+                                "url": "7uFuNKTEZksfTHYD2<&sep><&sep>return-of-the-heavenly-profound-i-am-a-natural-disaster",
+                                "title": "Return of the Heavenly Profound: I Am a Natural Disaster",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/NDr7mQcPcjsS6z3AG.webp"
+                            },
+                            {
+                                "url": "nehQPygEcBE76sMBR<&sep><&sep>divine-hero-s-skyfall-system",
+                                "title": "Divine Hero's Skyfall System",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/nehQPygEcBE76sMBR.png"
+                            },
+                            {
+                                "url": "ozsLYQs8Zo7ThwQrx<&sep><&sep>wangu-shenhua",
+                                "title": "Wangu Shenhua",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/7s583rPFLeXzN7Hdm.webp"
+                            },
+                            {
+                                "url": "LawLC2JGj89j6Z6ie<&sep><&sep>lian-ti-shiwan-ceng-wo-yang-de-gou-dou-shi-da-di",
+                                "title": "Lian Ti Shiwan Ceng: Wo Yang De Gou Dou Shi Da Di",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/pamMLHsk5DRibdFmb.jpg"
+                            },
+                            {
+                                "url": "ur8E3B3tDhR7qaHKX<&sep><&sep>ludi-jian-xian",
+                                "title": "Ludi Jian Xian",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ur8E3B3tDhR7qaHKX.webp"
+                            },
+                            {
+                                "url": "Zub5uLFJXbZjbqEtB<&sep><&sep>i-can-have-infinite-epiphanies",
+                                "title": "I Can Have Infinite Epiphanies",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/9DLiYjA8iqAggamh8.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [

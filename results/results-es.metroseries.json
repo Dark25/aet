@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/invisible-2024/",
+                                "title": "Invisible (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9EwJPHs6oDTXNnp97zdwLZ1VFFe.jpg"
+                            },
+                            {
                                 "url": "/serie/churchill-y-la-guerra/",
                                 "title": "Churchill y la guerra",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Tales of the Teenage Mutant Ninja Turtles",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg"
-                            },
-                            {
-                                "url": "/serie/pinky-malinky/",
-                                "title": "Pinky Malinky",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qXGRafqFfyja23kqY4jpZtWQPLZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/churchill-y-la-guerra/",
-                    "title": "Churchill y la guerra",
-                    "description": "Churchill at War Esta docuserie analiza el papel crucial de Winston Churchill en la Segunda Guerra Mundial y los acontecimientos que lo convirtieron en un líder ideal para la época.",
-                    "genre": "Documental",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tsgqBgTYMqTlpJZWlJK3mdZMu7I.jpg",
+                    "url": "/serie/invisible-2024/",
+                    "title": "Invisible (2024)",
+                    "description": "Capi, un chico de 12 años, ha sufrido un terrible accidente que le ha ocasionado un severo estrés postraumático. Ni el colegio, ni sus amigos, ni su familia pueden explicar qué ha pasado. Sin embargo, el psicólogo que le trata sí está dispuesto a bucear en su historia y descubrir las razones que le han llevado a esa situación.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9EwJPHs6oDTXNnp97zdwLZ1VFFe.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/churchill-y-la-guerra-temporada-1-capitulo-4/",
-                        "name": "T1 - Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/capitulo/invisible-2024-temporada-1-capitulo-6/",
+                        "name": "T1 - Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/capitulo/churchill-y-la-guerra-temporada-1-capitulo-3/",
-                        "name": "T1 - Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/capitulo/invisible-2024-temporada-1-capitulo-5/",
+                        "name": "T1 - Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -267,53 +267,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/09/00071/8tygq4yn2e1k_h/index-v1-a1.m3u8?t=rh6899uHz_Xw8QpFBXttlMw4jRFDGkjv7uVORIRrpgI&s=1735258732&e=43200&v=42895991&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00071/8tygq4yn2e1k_h/index-v1-a1.m3u8?t=rh6899uHz_Xw8QpFBXttlMw4jRFDGkjv7uVORIRrpgI&s=1735258732&e=43200&v=42895991&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/09/00071/8tygq4yn2e1k_n/index-v1-a1.m3u8?t=rh6899uHz_Xw8QpFBXttlMw4jRFDGkjv7uVORIRrpgI&s=1735258732&e=43200&v=42895991&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00071/8tygq4yn2e1k_n/index-v1-a1.m3u8?t=rh6899uHz_Xw8QpFBXttlMw4jRFDGkjv7uVORIRrpgI&s=1735258732&e=43200&v=42895991&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/09/00071/8tygq4yn2e1k_l/index-v1-a1.m3u8?t=rh6899uHz_Xw8QpFBXttlMw4jRFDGkjv7uVORIRrpgI&s=1735258732&e=43200&v=42895991&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/09/00071/8tygq4yn2e1k_l/index-v1-a1.m3u8?t=rh6899uHz_Xw8QpFBXttlMw4jRFDGkjv7uVORIRrpgI&s=1735258732&e=43200&v=42895991&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_x/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_x/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_h/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/06/00071/8en2rkwjillx_h/index-v1-a1.m3u8?t=HU9QLb5P1vhh4CU9mxGefD-VMYNBgoBJVFqGHI0_zic&s=1735279699&e=43200&v=43154416&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_h/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/8en2rkwjillx_h/index-v1-a1.m3u8?t=HU9QLb5P1vhh4CU9mxGefD-VMYNBgoBJVFqGHI0_zic&s=1735279699&e=43200&v=43154416&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -322,9 +278,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_n/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/06/00071/8en2rkwjillx_n/index-v1-a1.m3u8?t=HU9QLb5P1vhh4CU9mxGefD-VMYNBgoBJVFqGHI0_zic&s=1735279699&e=43200&v=43154416&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_n/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/8en2rkwjillx_n/index-v1-a1.m3u8?t=HU9QLb5P1vhh4CU9mxGefD-VMYNBgoBJVFqGHI0_zic&s=1735279699&e=43200&v=43154416&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -333,9 +289,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_l/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/06/00071/8en2rkwjillx_,l,n,h,.urlset/index-f1-v1-f2-a1.m3u8?t=HU9QLb5P1vhh4CU9mxGefD-VMYNBgoBJVFqGHI0_zic&s=1735279699&e=43200&v=43154416&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/171utyn12aqd_l/index-v1-a1.m3u8?t=HzzH90Bu05bfHBOT9BT7TVh3xMs70ZSnRHGEc45L3X4&s=1735258734&e=43200&v=42896008&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/8en2rkwjillx_,l,n,h,.urlset/index-f1-v1-f2-a1.m3u8?t=HU9QLb5P1vhh4CU9mxGefD-VMYNBgoBJVFqGHI0_zic&s=1735279699&e=43200&v=43154416&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

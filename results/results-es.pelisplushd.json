@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/ahora-que-no-estas",
+                                "title": "Ahora que no estás (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/wdplyQQQtvhoszj2mxkizcXu8p6.jpg"
+                            },
+                            {
                                 "url": "/serie/la-reina-woo",
                                 "title": "La Reina Woo (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7t3kdcPqVqTo0sn2OiXWgBKRpDB.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/ecos-del-mar-rojo",
                                 "title": "Ecos del mar Rojo (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/pixc85ucQxOCfCB1QzXIoacXPtH.jpg"
-                            },
-                            {
-                                "url": "/serie/palomas-negras",
-                                "title": "Palomas negras (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-reina-woo",
-                    "title": "La Reina Woo (2024)",
-                    "description": "Woo-hee es la emperatriz de Goguryeo. Se produce una crisis cuando su marido, el rey de Goguryeo, muere repentinamente. Woo-hee se convierte en el objetivo de los príncipes y de las 5 tribus que quieren conseguir más poder. Para proteger a su familia y a su tribu, recurre al levirato. Lucha por casarse con uno de los hermanos pequeños de su difunto marido y colocarlo en el trono. Woo-hee tiene que lograrlo todo en 24 horas..",
-                    "genre": "Drama, Action & Adventure",
+                    "url": "/serie/ahora-que-no-estas",
+                    "title": "Ahora que no estás (2024)",
+                    "description": "Tras su partida, Mia le deja un último regalo que le cambiará la vida..",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7t3kdcPqVqTo0sn2OiXWgBKRpDB.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wdplyQQQtvhoszj2mxkizcXu8p6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-reina-woo/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/serie/la-reina-woo/temporada/1/capitulo/7",
+                        "url": "/serie/ahora-que-no-estas/temporada/1/capitulo/7",
                         "name": "T1 - E7: Episodio 7",
                         "episode_number": 7.0
+                    },
+                    {
+                        "url": "/serie/ahora-que-no-estas/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -704,17 +704,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJwOgrrrWO3eRmBlsdGPWdGbNARPXMUC83sIZtU15tTdgR5D5t9zg8e9mcOi6PAs9nKLOdwY9n6Vvh6seyhDQ1jvqpp9AoHCRGDzGs4H_-X4uBEc1NwMNrHw-diKS3WlwRP4vExgu7LUaMuqCJGS36qBry5V3AtJKlonIgXq-0Hkfw/index-f3-v1-a1.m3u8?sig=mQWge8lpt1DDl3liDInTKw&expires=1735310347",
-                        "quality": "[LAT] VidGuard:1080p",
-                        "videoUrl": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJwOgrrrWO3eRmBlsdGPWdGbNARPXMUC83sIZtU15tTdgR5D5t9zg8e9mcOi6PAs9nKLOdwY9n6Vvh6seyhDQ1jvqpp9AoHCRGDzGs4H_-X4uBEc1NwMNrHw-diKS3WlwRP4vExgu7LUaMuqCJGS36qBry5V3AtJKlonIgXq-0Hkfw/index-f3-v1-a1.m3u8?sig=mQWge8lpt1DDl3liDInTKw&expires=1735310347",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://jdou5wo6ffta.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=noSdU5u_7JbXXfopoewXyybryOXqG7EKkaZ6H12-mEg&s=1735301335&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=P9OF5a8b-PE0dBPagTxYcLLd5TcrmHYIAUEXnm2SWOc&s=1735322863&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
                         "quality": "[LAT] StreamHideVid:1080p",
-                        "videoUrl": "https://jdou5wo6ffta.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=noSdU5u_7JbXXfopoewXyybryOXqG7EKkaZ6H12-mEg&s=1735301335&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=P9OF5a8b-PE0dBPagTxYcLLd5TcrmHYIAUEXnm2SWOc&s=1735322863&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -723,17 +715,9 @@
                         }
                     },
                     {
-                        "url": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJwOgrrrWO3eRmBlsdGPWdGbNARPXMUC83sIZtU15tTdgR5D5t9zg8e9mcOi6PAs9nKLOdwY9n6Vvh6seyhDQ1jvqpp9AoHCRGDzGs4H_-X4uBEc1NwMNrHw-diKS3WlwRP4vExgu7LUaMuqCJGS36qBry5V3AtJKlonIgXq-0Hkfw/index-f2-v1-a1.m3u8?sig=mQWge8lpt1DDl3liDInTKw&expires=1735310347",
-                        "quality": "[LAT] VidGuard:720p",
-                        "videoUrl": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJwOgrrrWO3eRmBlsdGPWdGbNARPXMUC83sIZtU15tTdgR5D5t9zg8e9mcOi6PAs9nKLOdwY9n6Vvh6seyhDQ1jvqpp9AoHCRGDzGs4H_-X4uBEc1NwMNrHw-diKS3WlwRP4vExgu7LUaMuqCJGS36qBry5V3AtJKlonIgXq-0Hkfw/index-f2-v1-a1.m3u8?sig=mQWge8lpt1DDl3liDInTKw&expires=1735310347",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://jdou5wo6ffta.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=noSdU5u_7JbXXfopoewXyybryOXqG7EKkaZ6H12-mEg&s=1735301335&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=P9OF5a8b-PE0dBPagTxYcLLd5TcrmHYIAUEXnm2SWOc&s=1735322863&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
                         "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://jdou5wo6ffta.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=noSdU5u_7JbXXfopoewXyybryOXqG7EKkaZ6H12-mEg&s=1735301335&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=P9OF5a8b-PE0dBPagTxYcLLd5TcrmHYIAUEXnm2SWOc&s=1735322863&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -758,9 +742,9 @@
                         ]
                     },
                     {
-                        "url": "https://jdou5wo6ffta.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=noSdU5u_7JbXXfopoewXyybryOXqG7EKkaZ6H12-mEg&s=1735301335&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=P9OF5a8b-PE0dBPagTxYcLLd5TcrmHYIAUEXnm2SWOc&s=1735322863&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
                         "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://jdou5wo6ffta.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=noSdU5u_7JbXXfopoewXyybryOXqG7EKkaZ6H12-mEg&s=1735301335&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
+                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03250/watvvhlxl79c_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=P9OF5a8b-PE0dBPagTxYcLLd5TcrmHYIAUEXnm2SWOc&s=1735322863&e=129600&f=16253175&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -785,9 +769,9 @@
                         ]
                     },
                     {
-                        "url": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJwOgrrrWO3eRmBlsdGPWdGbNARPXMUC83sIZtU15tTdgR5D5t9zg8e9mcOi6PAs9nKLOdwY9n6Vvh6seyhDQ1jvqpp9AoHCRGDzGs4H_-X4uBEc1NwMNrHw-diKS3WlwRP4vExgu7LUaMuqCJGS36qBry5V3AtJKlonIgXq-0Hkfw/index-f1-v1-a1.m3u8?sig=mQWge8lpt1DDl3liDInTKw&expires=1735310347",
-                        "quality": "[LAT] VidGuard:360p",
-                        "videoUrl": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJwOgrrrWO3eRmBlsdGPWdGbNARPXMUC83sIZtU15tTdgR5D5t9zg8e9mcOi6PAs9nKLOdwY9n6Vvh6seyhDQ1jvqpp9AoHCRGDzGs4H_-X4uBEc1NwMNrHw-diKS3WlwRP4vExgu7LUaMuqCJGS36qBry5V3AtJKlonIgXq-0Hkfw/index-f1-v1-a1.m3u8?sig=mQWge8lpt1DDl3liDInTKw&expires=1735310347",
+                        "url": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJw8YKIe5NnKJZ7CKObkm-GkkzKcGY1NAcdKtRzi6Kt0K5wnasEULSoI6B0PHHmv_ob-gcDTK1UCb8bhHRQS1sZbb_6BYznW5xvZMMDlhuHJ35j7uHg9SqC0z9kyObthWd0mU248tnSct0V3QdNpDgqq9afkBDTKT96GsAT14fPCnA/master.m3u8?sig=p7BQQG3TcRpksSo0b7D20A&expires=1735331876",
+                        "quality": "[LAT] VidGuard:Video",
+                        "videoUrl": "https://7d6vl6pn43.guardstorage.net/hls_3/yxBPYVrJxibRRGsVXQCxURWfkBEBA4vglbRWQVTBuJw8YKIe5NnKJZ7CKObkm-GkkzKcGY1NAcdKtRzi6Kt0K5wnasEULSoI6B0PHHmv_ob-gcDTK1UCb8bhHRQS1sZbb_6BYznW5xvZMMDlhuHJ35j7uHg9SqC0z9kyObthWd0mU248tnSct0V3QdNpDgqq9afkBDTKT96GsAT14fPCnA/master.m3u8?sig=p7BQQG3TcRpksSo0b7D20A&expires=1735331876",
                         "headers": {
                             "Accept": "*/*"
                         }

@@ -202,8 +202,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://videos2.sendvid.com/23/f3/q75qprlw.mp4?validfrom=1735315675&validto=1735330075&rate=250k&ip=172.200.199.144&hash=o2k5dMILbajvJbn7WmZHXpan0bY%3D",
+                        "quality": "Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/23/f3/q75qprlw.mp4?validfrom=1735315675&validto=1735330075&rate=250k&ip=172.200.199.144&hash=o2k5dMILbajvJbn7WmZHXpan0bY%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Origin": "https://https://sendvid.com/embed/q75qprlw",
+                            "Referer": "https://https://sendvid.com/embed/q75qprlw/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/1f555811b2148efb9c0214f511d1e883/4426523.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/1f555811b2148efb9c0214f511d1e883/4426523.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4426523"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

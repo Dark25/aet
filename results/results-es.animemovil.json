@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/shiguang-dailiren-yingdu-pian",
+                                "title": "Shiguang Dailiren: Yingdu Pian",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4365.webp"
+                            },
+                            {
                                 "url": "/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
                                 "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4364.webp"
@@ -103,12 +109,6 @@
                                 "title": "Hokkyoku Hyakkaten no Concierge-san",
                                 "status": 2,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4346.webp"
-                            },
-                            {
-                                "url": "/moana-2-2024",
-                                "title": "Moana 2 (2024)",
-                                "status": 2,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4345.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -248,22 +248,70 @@
             },
             "details": {
                 "result": {
-                    "url": "/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
-                    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
-                    "description": "Segunda temporada de Kimi no Koto ga Daidaidaidaisuki na 100-nin no Kanojo.",
-                    "genre": "Romance, Comedia, Harem",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4364.webp",
+                    "url": "/shiguang-dailiren-yingdu-pian",
+                    "title": "Shiguang Dailiren: Yingdu Pian",
+                    "description": "Para salvar al fallecido Cheng Xiaoshi, Lu Guang regresa al principio y desandar el camino del destino. Sin embargo, aparece una foto que contiene pistas sobre los padres de Cheng Xiaoshi en el \"Time Photo Studio\". Para descubrir la verdad, Lu Guang viaja nerviosamente a Bridon con Cheng Xiaoshi. La amigable top model Xia Fei, el excéntrico líder de Chinatown, Vein y el misterioso Liu Xiao... Frente a personas que albergan diferentes motivos, ¿podrá Lu Guang romper el punto muerto predestinado?",
+                    "genre": "Drama, Superpoderes",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4365.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/shiguang-dailiren-yingdu-pian-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-uc5khvddsowstrhc.voe-network.net/engine/hls2/01/13187/y88vzj2yixjf_,n,.urlset/index-v1-a1.m3u8?t=im-Nniq04SzMh5Bs9MxR5jrItamFdja9QXAbpVxAxt4&s=1735322802&e=14400&f=65939669&node=bc1oPOqzZVFei20JnPpqj30zw8fsMb1c5WwwH0Pk3/U=&i=20.169&sp=2500&asn=8075&q=n",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-uc5khvddsowstrhc.voe-network.net/engine/hls2/01/13187/y88vzj2yixjf_,n,.urlset/index-v1-a1.m3u8?t=im-Nniq04SzMh5Bs9MxR5jrItamFdja9QXAbpVxAxt4&s=1735322802&e=14400&f=65939669&node=bc1oPOqzZVFei20JnPpqj30zw8fsMb1c5WwwH0Pk3/U=&i=20.169&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xrxeevz3b4quuovorawmkvimvxg2b6dpwi742hxsntfxqvtxkb6evhvza3hmogmmf24n4w/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xrxeevz3b4quuovorawmkvimvxg2b6dpwi742hxsntfxqvtxkb6evhvza3hmogmmf24n4w/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20241227WExOA5tdsu6/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20241227WExOA5tdsu6/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m60.uqload.net/3rfksacy4zw2q4drdjo7t57xdddmyri6xlcrziq3v4rkzxshtzwumgsmj55a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m60.uqload.net/3rfksacy4zw2q4drdjo7t57xdddmyri6xlcrziq3v4rkzxshtzwumgsmj55a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=2DPVRdx0rWcKOl&expires=1735392788&ip=FROsD0IAKxSHDN&token=Q3FhtJa6gL07",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=2DPVRdx0rWcKOl&expires=1735392788&ip=FROsD0IAKxSHDN&token=Q3FhtJa6gL07"
+                    }
+                ],
+                "passed": true
             }
         }
     }

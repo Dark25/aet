@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/chiyoko-la-actriz-milenaria/",
+                                "title": "Chiyoko, la actriz milenaria",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wUdmMRnux7WkoK7DgffCa87HeUS.jpg"
+                            },
+                            {
                                 "url": "/pelicula/sonic-3-la-pelicula/",
                                 "title": "Sonic 3 : La película",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/pelicula/un-lugar-comun/",
                                 "title": "Un lugar común",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/ypz7emNtq2ZHWynuFHG1MmJLBu3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-posada/",
-                                "title": "La posada",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hkxTqSU30OIKkviHrTy8vXxXseE.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -484,11 +484,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/sonic-3-la-pelicula/",
-                    "title": "Sonic 3 : La película",
-                    "description": "Sonic el Erizo regresa a la pantalla grande esta temporada navideña en su aventura más emocionante hasta el momento. Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano con poderes nunca antes vistos. Con sus habilidades superadas en todos los sentidos, el Equipo Sonic debe buscar una alianza improbable con la esperanza de detener a Shadow y proteger el planeta.\n\nTítulo original: Sonic the Hedgehog 3",
-                    "genre": "Acción, Ciencia ficción, Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg",
+                    "url": "/pelicula/chiyoko-la-actriz-milenaria/",
+                    "title": "Chiyoko, la actriz milenaria",
+                    "description": "Hace treinta años, Chiyoko Fujiwara fue la estrella más importante del cine japonés, pero, de repente, desapareció. Uno de sus mayores admiradores, el reportero Genya Tachibana, viaja hasta el apartado refugio de montaña en el que vive para entrevistarla.\n\nTítulo original: 千年女優",
+                    "genre": "Animación, Drama, Fantasía, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/wUdmMRnux7WkoK7DgffCa87HeUS.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -496,7 +496,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/sonic-3-la-pelicula/",
+                        "url": "/pelicula/chiyoko-la-actriz-milenaria/",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -506,55 +506,77 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-ukng2l7do8aextso.voe-network.net/engine/hls2-c/01/13182/exag8ak9xboq_,n,.urlset/index-v1-a1.m3u8?t=r0rRDyry1C_VhLYPGyGWZXtK0yed1ls3am_ZDuUukb0&s=1735366009&e=14400&f=65912722&node=QCxHP5U4UEWPWy1gN7lGRlykPCDG0ww2uoFOdWcMtQk=&i=52.234&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-zji69qs3i0nwfz5s.voe-network.net/engine/hls2-c/01/13194/xl68p49bx3or_,n,.urlset/index-v1-a1.m3u8?t=rK2J6cnISA_aE0KeG8zsimJZXSWQW-_Nik8gor5_vUA&s=1735387630&e=14400&f=65972464&node=KIvTO2XqqxiySIWfr/pfK0defmlJ1DC/bsX7Zv4B8Vg=&i=52.234&sp=2500&asn=8075&q=n",
                         "quality": " [LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-ukng2l7do8aextso.voe-network.net/engine/hls2-c/01/13182/exag8ak9xboq_,n,.urlset/index-v1-a1.m3u8?t=r0rRDyry1C_VhLYPGyGWZXtK0yed1ls3am_ZDuUukb0&s=1735366009&e=14400&f=65912722&node=QCxHP5U4UEWPWy1gN7lGRlykPCDG0ww2uoFOdWcMtQk=&i=52.234&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-zji69qs3i0nwfz5s.voe-network.net/engine/hls2-c/01/13194/xl68p49bx3or_,n,.urlset/index-v1-a1.m3u8?t=rK2J6cnISA_aE0KeG8zsimJZXSWQW-_Nik8gor5_vUA&s=1735387630&e=14400&f=65972464&node=KIvTO2XqqxiySIWfr/pfK0defmlJ1DC/bsX7Zv4B8Vg=&i=52.234&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ejjyomiqje9sf.acek-cdn.com/hls2/01/03255/afk033amtiqt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=UBho6YUNthYCzs-rAkDNs7-mOrFjKZYzaTrCJRx95hs&s=1735366006&e=129600&f=16279232&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8075",
+                        "url": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/03262/rshabqpu2mkg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=djrQORSVSbjO_XJ6EOrF9ihjJGBnRF5CsqFBOrflijQ&s=1735387628&e=129600&f=16311271&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "quality": " [LAT] StreamHideVid:720p",
-                        "videoUrl": "https://ejjyomiqje9sf.acek-cdn.com/hls2/01/03255/afk033amtiqt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=UBho6YUNthYCzs-rAkDNs7-mOrFjKZYzaTrCJRx95hs&s=1735366006&e=129600&f=16279232&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8075",
+                        "videoUrl": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/03262/rshabqpu2mkg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=djrQORSVSbjO_XJ6EOrF9ihjJGBnRF5CsqFBOrflijQ&s=1735387628&e=129600&f=16311271&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/afk033amtiqt"
+                            "Referer": "https://vidhideplus.com/embed/rshabqpu2mkg"
                         }
                     },
                     {
-                        "url": "https://ejjyomiqje9sf.acek-cdn.com/hls2/01/03255/afk033amtiqt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=UBho6YUNthYCzs-rAkDNs7-mOrFjKZYzaTrCJRx95hs&s=1735366006&e=129600&f=16279232&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8075",
-                        "quality": " [LAT] StreamHideVid:1080p",
-                        "videoUrl": "https://ejjyomiqje9sf.acek-cdn.com/hls2/01/03255/afk033amtiqt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=UBho6YUNthYCzs-rAkDNs7-mOrFjKZYzaTrCJRx95hs&s=1735366006&e=129600&f=16279232&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/afk033amtiqt"
-                        }
-                    },
-                    {
-                        "url": "https://ejjyomiqje9sf.acek-cdn.com/hls2/01/03255/afk033amtiqt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=UBho6YUNthYCzs-rAkDNs7-mOrFjKZYzaTrCJRx95hs&s=1735366006&e=129600&f=16279232&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8075",
-                        "quality": " [LAT] StreamHideVid:480p",
-                        "videoUrl": "https://ejjyomiqje9sf.acek-cdn.com/hls2/01/03255/afk033amtiqt_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=UBho6YUNthYCzs-rAkDNs7-mOrFjKZYzaTrCJRx95hs&s=1735366006&e=129600&f=16279232&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/afk033amtiqt"
-                        }
-                    },
-                    {
-                        "url": "https://wydwcbdskx.cdn-centaurus.com/hls2/01/07583/eqlhu3hl5j8u_h/index-v1-a1.m3u8?t=CVfigKXLtKH-i6VBHDY2xuDru8zgEqMZFp74cZ9WVm8&s=1735366003&e=129600&f=37973251&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
-                        "quality": " [LAT] StreamWish: - 1080p",
-                        "videoUrl": "https://wydwcbdskx.cdn-centaurus.com/hls2/01/07583/eqlhu3hl5j8u_h/index-v1-a1.m3u8?t=CVfigKXLtKH-i6VBHDY2xuDru8zgEqMZFp74cZ9WVm8&s=1735366003&e=129600&f=37973251&srv=LfWaTZUPO7&i=0.4&sp=500&p1=LfWaTZUPO7&p2=LfWaTZUPO7&asn=8075",
+                        "url": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/07596/xi0soda0xklu_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5k2yITA6RbFrBOIxVxfXr75IlMOZYRLXJKU-6xZ0Rac&s=1735387624&e=129600&f=37981459&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "quality": " [LAT] StreamWish: - 720p",
+                        "videoUrl": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/07596/xi0soda0xklu_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5k2yITA6RbFrBOIxVxfXr75IlMOZYRLXJKU-6xZ0Rac&s=1735387624&e=129600&f=37981459&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/5hxi3otzlc19"
+                            "Referer": "https://playerwish.com/e/xi0soda0xklu"
+                        }
+                    },
+                    {
+                        "url": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/03262/rshabqpu2mkg_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=djrQORSVSbjO_XJ6EOrF9ihjJGBnRF5CsqFBOrflijQ&s=1735387628&e=129600&f=16311271&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "quality": " [LAT] StreamHideVid:1080p",
+                        "videoUrl": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/03262/rshabqpu2mkg_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=djrQORSVSbjO_XJ6EOrF9ihjJGBnRF5CsqFBOrflijQ&s=1735387628&e=129600&f=16311271&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/rshabqpu2mkg"
+                        }
+                    },
+                    {
+                        "url": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/03262/rshabqpu2mkg_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=djrQORSVSbjO_XJ6EOrF9ihjJGBnRF5CsqFBOrflijQ&s=1735387628&e=129600&f=16311271&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "quality": " [LAT] StreamHideVid:480p",
+                        "videoUrl": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/03262/rshabqpu2mkg_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=djrQORSVSbjO_XJ6EOrF9ihjJGBnRF5CsqFBOrflijQ&s=1735387628&e=129600&f=16311271&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/rshabqpu2mkg"
+                        }
+                    },
+                    {
+                        "url": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/07596/xi0soda0xklu_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=5k2yITA6RbFrBOIxVxfXr75IlMOZYRLXJKU-6xZ0Rac&s=1735387624&e=129600&f=37981459&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "quality": " [LAT] StreamWish: - 1080p",
+                        "videoUrl": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/07596/xi0soda0xklu_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=5k2yITA6RbFrBOIxVxfXr75IlMOZYRLXJKU-6xZ0Rac&s=1735387624&e=129600&f=37981459&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/xi0soda0xklu"
+                        }
+                    },
+                    {
+                        "url": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/07596/xi0soda0xklu_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=5k2yITA6RbFrBOIxVxfXr75IlMOZYRLXJKU-6xZ0Rac&s=1735387624&e=129600&f=37981459&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "quality": " [LAT] StreamWish: - 480p",
+                        "videoUrl": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/07596/xi0soda0xklu_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=5k2yITA6RbFrBOIxVxfXr75IlMOZYRLXJKU-6xZ0Rac&s=1735387624&e=129600&f=37981459&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/xi0soda0xklu"
                         }
                     }
                 ],

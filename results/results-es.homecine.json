@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/fachadas/",
+                                "title": "Fachadas",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/comPtHolYrnbkS8ydWIuuW3P4vY.jpg"
+                            },
+                            {
+                                "url": "/serie/eres-mas-listo-que-un-famoso/",
+                                "title": "¿Eres más listo que un famoso?",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wUmSXrfqxNvnVAzAmD4JHUORqWS.jpg"
+                            },
+                            {
                                 "url": "/serie/zorro-francia-2024/",
                                 "title": "Zorro [Francia] (2024)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Senna",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/yxkrrtyOzx36uHowqYB3Ec8b9wg.jpg"
-                            },
-                            {
-                                "url": "/serie/star-wars-tripulacion-perdida/",
-                                "title": "Star Wars: Tripulación perdida",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/c2P7KSb4I2tY6uNX9eXXwo5hm46.jpg"
-                            },
-                            {
-                                "url": "/serie/game-shakers/",
-                                "title": "Game Shakers",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7TMp3RMf9DCZaaR9XeAQ1N6tby4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/zorro-francia-2024/",
-                    "title": "Zorro [Francia] (2024)",
-                    "description": "En 1821, Don Diego de la Vega se convierte en alcalde de su amada ciudad de Los Ángeles, que tiene la intención de hacer próspera. Sin embargo, el municipio enfrenta problemas financieros debido a la avaricia de un empresario local, Don Emmanuel, contra quien los poderes del alcalde resultan insuficientes para combatir la injusticia. Don Diego no ha recurrido a su alter ego, Zorro, durante 20 años. Pero, en nombre del interés general, no tiene más remedio que ponerse la máscara y empuñar la espada. Muy pronto, Diego se encontrará con dificultades para reconciliar su doble identidad como Zorro y alcalde, lo que pone a prueba su matrimonio con Gabriella, quien desconoce su secreto., ¿Podrá Diego salvar su matrimonio y su cordura en medio del caos?",
-                    "genre": "Action & Adventure, Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8fofhCU3SRcRdXYL3psiW4zfyDt.jpg",
+                    "url": "/serie/fachadas/",
+                    "title": "Fachadas",
+                    "description": "No Good Deed La venta de la casa de Paul y Lydia en Los Ángeles los obliga a afrontar dolorosos secretos familiares... y a mantenerlos ocultos de miradas indiscretas y compradores desatados.",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/comPtHolYrnbkS8ydWIuuW3P4vY.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,12 +252,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/zorro-francia-2024-temporada-1-capitulo-8/",
+                        "url": "/capitulo/fachadas-temporada-1-capitulo-8/",
                         "name": "T1 - Episodio 8",
                         "episode_number": 8.0
                     },
                     {
-                        "url": "/capitulo/zorro-francia-2024-temporada-1-capitulo-7/",
+                        "url": "/capitulo/fachadas-temporada-1-capitulo-7/",
                         "name": "T1 - Episodio 7",
                         "episode_number": 7.0
                     }
@@ -267,9 +267,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s40.fastream.to/hls2/15/00071/sv7n5c6z3pp3_h/index-v1-a1.m3u8?t=6fUPVF6f4G6cs4EyhrsocbKYCcls3WXK4pjESXehtNo&s=1735366007&e=43200&v=44046191&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/02/00071/kwbp9qvztd2q_h/index-v1-a1.m3u8?t=vp1kbqjZDSP1wO4ngDmBSVjXcCsVADTCSfHNrKoUX04&s=1735387637&e=43200&v=44139842&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/15/00071/sv7n5c6z3pp3_h/index-v1-a1.m3u8?t=6fUPVF6f4G6cs4EyhrsocbKYCcls3WXK4pjESXehtNo&s=1735366007&e=43200&v=44046191&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/02/00071/kwbp9qvztd2q_h/index-v1-a1.m3u8?t=vp1kbqjZDSP1wO4ngDmBSVjXcCsVADTCSfHNrKoUX04&s=1735387637&e=43200&v=44139842&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -278,9 +278,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/15/00071/sv7n5c6z3pp3_n/index-v1-a1.m3u8?t=6fUPVF6f4G6cs4EyhrsocbKYCcls3WXK4pjESXehtNo&s=1735366007&e=43200&v=44046191&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/02/00071/kwbp9qvztd2q_n/index-v1-a1.m3u8?t=vp1kbqjZDSP1wO4ngDmBSVjXcCsVADTCSfHNrKoUX04&s=1735387637&e=43200&v=44139842&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/15/00071/sv7n5c6z3pp3_n/index-v1-a1.m3u8?t=6fUPVF6f4G6cs4EyhrsocbKYCcls3WXK4pjESXehtNo&s=1735366007&e=43200&v=44046191&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/02/00071/kwbp9qvztd2q_n/index-v1-a1.m3u8?t=vp1kbqjZDSP1wO4ngDmBSVjXcCsVADTCSfHNrKoUX04&s=1735387637&e=43200&v=44139842&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +289,86 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/15/00071/sv7n5c6z3pp3_l/index-v1-a1.m3u8?t=6fUPVF6f4G6cs4EyhrsocbKYCcls3WXK4pjESXehtNo&s=1735366007&e=43200&v=44046191&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/02/00071/kwbp9qvztd2q_l/index-v1-a1.m3u8?t=vp1kbqjZDSP1wO4ngDmBSVjXcCsVADTCSfHNrKoUX04&s=1735387637&e=43200&v=44139842&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/15/00071/sv7n5c6z3pp3_l/index-v1-a1.m3u8?t=6fUPVF6f4G6cs4EyhrsocbKYCcls3WXK4pjESXehtNo&s=1735366007&e=43200&v=44046191&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/02/00071/kwbp9qvztd2q_l/index-v1-a1.m3u8?t=vp1kbqjZDSP1wO4ngDmBSVjXcCsVADTCSfHNrKoUX04&s=1735387637&e=43200&v=44139842&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_x/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_x/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/25/00071/z3r52k3hulh3_h/index-v1-a1.m3u8?t=UihgbSMRj8z0T_BNql6OeyQ02tybHoHRdbgPDEyCwu8&s=1735387640&e=43200&v=44139853&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s40.fastream.to/hls2/25/00071/z3r52k3hulh3_h/index-v1-a1.m3u8?t=UihgbSMRj8z0T_BNql6OeyQ02tybHoHRdbgPDEyCwu8&s=1735387640&e=43200&v=44139853&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_h/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_h/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/25/00071/z3r52k3hulh3_n/index-v1-a1.m3u8?t=UihgbSMRj8z0T_BNql6OeyQ02tybHoHRdbgPDEyCwu8&s=1735387640&e=43200&v=44139853&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s40.fastream.to/hls2/25/00071/z3r52k3hulh3_n/index-v1-a1.m3u8?t=UihgbSMRj8z0T_BNql6OeyQ02tybHoHRdbgPDEyCwu8&s=1735387640&e=43200&v=44139853&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_n/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_n/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/25/00071/z3r52k3hulh3_l/index-v1-a1.m3u8?t=UihgbSMRj8z0T_BNql6OeyQ02tybHoHRdbgPDEyCwu8&s=1735387640&e=43200&v=44139853&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s40.fastream.to/hls2/25/00071/z3r52k3hulh3_l/index-v1-a1.m3u8?t=UihgbSMRj8z0T_BNql6OeyQ02tybHoHRdbgPDEyCwu8&s=1735387640&e=43200&v=44139853&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_l/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/10/00071/98072lcipva2_l/index-v1-a1.m3u8?t=e45fLQ2nIUna9HCxAPCYNxRHU1bjMAEwknwRacOrucs&s=1735387639&e=43200&v=44139846&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

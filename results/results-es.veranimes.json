@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/beheneko",
+                                "title": "Beheneko",
+                                "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/beheneko.webp"
+                            },
+                            {
                                 "url": "/anime/one-piece-gyojin-tou-hen",
                                 "title": "One Piece: Gyojin Tou-hen",
                                 "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/one-piece-gyojin-tou-hen.webp"
@@ -100,11 +105,6 @@
                                 "url": "/anime/love-live-superstar-3rd-season",
                                 "title": "Love Live! Superstar!! 3rd Season",
                                 "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/love-live-superstar-3rd-season.webp"
-                            },
-                            {
-                                "url": "/anime/natsume-yuujinchou-shichi",
-                                "title": "Natsume Yuujinchou Shichi",
-                                "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/natsume-yuujinchou-shichi.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -116,6 +116,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/beheneko",
+                                "title": "Beheneko",
+                                "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/beheneko.webp"
+                            },
                             {
                                 "url": "/anime/one-piece-gyojin-tou-hen",
                                 "title": "One Piece: Gyojin Tou-hen",
@@ -130,11 +135,6 @@
                                 "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-season-3",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
                                 "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/arifureta-shokugyou-de-sekai-saikyou-season-3.webp"
-                            },
-                            {
-                                "url": "/anime/maou-2099",
-                                "title": "Maou 2099",
-                                "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/maou-2099.webp"
                             },
                             {
                                 "url": "/anime/dragon-ball-daima",
@@ -334,13 +334,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/one-piece-gyojin-tou-hen",
-                    "title": "One Piece: Gyojin Tou-hen",
-                    "description": "",
-                    "genre": "Acción, Aventuras, Fantasía, Shounen",
+                    "url": "/anime/beheneko",
+                    "title": "Beheneko",
+                    "description": "Tras morir en una lucha contra las fuerzas del mal, un caballero se sorprende al descubrir que, en lugar de renacer como héroe de la humanidad, comienza su nueva vida como behemoth: ¡uno de los monstruos más poderosos del mundo! El único problema es que un bebé behemoth se parece muchísimo a… ¡¿un adorable gato doméstico?! Las cosas se ponen aún más confusas cuando una bella aventurera elfa lo rescata del borde de la muerte en lugar de acabar con él. El desconcertante viaje de este gato doméstico-caballero no ha hecho más que empezar…",
+                    "genre": "Acción, Aventuras, Comedia, Ecchi, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/one-piece-gyojin-tou-hen.webp?t=1",
+                    "thumbnail_url": "https://wwv.veranimes.net/cdn/img/anime/beheneko.webp?t=1",
                     "initialized": true
                 },
                 "passed": true
@@ -348,14 +348,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/one-piece-gyojin-tou-hen-8",
-                        "name": "Episodio 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver/one-piece-gyojin-tou-hen-7",
-                        "name": "Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/ver/beheneko-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -363,17 +358,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-fzsi5gnge0gpz5cp.voe-network.net/engine/hls2/01/13145/tfr7vqcqjol9_,n,.urlset/index-v1-a1.m3u8?t=CvedVQaPoEgWwRw2bzSQcmr7njJ41KeOMOmkh7az6rI&s=1735387688&e=14400&f=65727976&node=uCgcMrcgBXk2wG2Wi4mze/EK2XRmSg2ZasO/6JaGhjs=&i=172.183&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-abygshvp0304mdif.voe-network.net/engine/hls2-c/01/13198/xrl1jqjvllh7_,n,.urlset/index-v1-a1.m3u8?t=_ZFjPbzFRuOWxi4xHS3yjHYh5J8CU4IMHd82fPAXR8E&s=1735409226&e=14400&f=65991764&node=eyhOb/JxnYbP4ol38Hq2+4dDdtDXmLZYYZkzQIyLeU0=&i=68.154&sp=2500&asn=8075&q=n",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-fzsi5gnge0gpz5cp.voe-network.net/engine/hls2/01/13145/tfr7vqcqjol9_,n,.urlset/index-v1-a1.m3u8?t=CvedVQaPoEgWwRw2bzSQcmr7njJ41KeOMOmkh7az6rI&s=1735387688&e=14400&f=65727976&node=uCgcMrcgBXk2wG2Wi4mze/EK2XRmSg2ZasO/6JaGhjs=&i=172.183&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-abygshvp0304mdif.voe-network.net/engine/hls2-c/01/13198/xrl1jqjvllh7_,n,.urlset/index-v1-a1.m3u8?t=_ZFjPbzFRuOWxi4xHS3yjHYh5J8CU4IMHd82fPAXR8E&s=1735409226&e=14400&f=65991764&node=eyhOb/JxnYbP4ol38Hq2+4dDdtDXmLZYYZkzQIyLeU0=&i=68.154&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20241228I3RNBb2xxIT/video.mp4",
+                        "url": "https://vidcache.net:8161/a2024122863S1EoI5tL4/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20241228I3RNBb2xxIT/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a2024122863S1EoI5tL4/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "referer": "https://www.yourupload.com/"

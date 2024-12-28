@@ -7,14 +7,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/c/푸른 상자",
-                                "title": "푸른 상자",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
-                            },
-                            {
                                 "url": "/c/드래곤볼 DAIMA",
                                 "title": "드래곤볼 DAIMA",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
+                            },
+                            {
+                                "url": "/c/일곱 개의 대죄: 묵시록의 4기사 2기",
+                                "title": "일곱 개의 대죄: 묵시록의 4기사 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2411/36d076c3abc025abdfb0fd4165692a8c_1731688787_9016.jpg"
+                            },
+                            {
+                                "url": "/c/푸른 상자",
+                                "title": "푸른 상자",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
                             },
                             {
                                 "url": "/c/새출발 영애는 용제 폐하를 공략중",
@@ -327,11 +332,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/7500452d927c75169ddcaed4f0830992_1719892498_2645.jpg"
                             },
                             {
-                                "url": "/c/일곱 개의 대죄: 묵시록의 4기사 2기",
-                                "title": "일곱 개의 대죄: 묵시록의 4기사 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2411/36d076c3abc025abdfb0fd4165692a8c_1731688787_9016.jpg"
-                            },
-                            {
                                 "url": "/c/과학×모험 서바이벌",
                                 "title": "과학×모험 서바이벌",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg"
@@ -494,10 +494,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/푸른 상자",
-                    "title": "푸른 상자",
-                    "description": "원제: アオのハコ\n원작: 미우라 코지\n감독: 야노 유이치로\n각본: 카키하라 유코\n캐릭터디자인: 카타니노 미호\n음악: 오마마 타카시\n장르: 로맨스, 코미디, 스포츠\n방영일: 2024.10.03 23:56 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg",
+                    "url": "/c/드래곤볼 DAIMA",
+                    "title": "드래곤볼 DAIMA",
+                    "description": "원제: ドラゴンボール DAIMA\n원작: 토리야마 아키라\n감독: 코마키 아야, 야시마 요시타카\n각본: 카키하라 유코\n캐릭터 디자인: 나카츠루 카츠요시\n음악: Zedd\n장르: 액션, 코미디, 능력, 전투, 전쟁, 외계인, 마법, 동물, 미스테리\n방영일: 2024.10.11 23:40 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -505,22 +505,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/푸른 상자 13화",
-                        "name": "푸른 상자 13화",
-                        "date_upload": 1735257600000,
-                        "episode_number": 13.0
+                        "url": "/e/드래곤볼 DAIMA 12화",
+                        "name": "드래곤볼 DAIMA 12화",
+                        "date_upload": 1735344000000,
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/e/푸른 상자 12화",
-                        "name": "푸른 상자 12화",
-                        "date_upload": 1734048000000,
-                        "episode_number": 12.0
+                        "url": "/e/드래곤볼 DAIMA 11화",
+                        "name": "드래곤볼 DAIMA 11화",
+                        "date_upload": 1735257600000,
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-262218196346619577/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-262218196346619577/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-262218196346619577/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6674260110689254913/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6674260110689254913/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6674260110689254913/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

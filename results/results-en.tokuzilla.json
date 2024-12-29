@@ -3,43 +3,57 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "search": {
                 "result": [
                     {
                         "animes": [
                             {
-                                "url": "/watch/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit.html",
-                                "title": "Bakuage Sentai Boonboomger GekijoBoon! Promise the Circuit",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit-thumb.png"
+                                "url": "/watch/ninjascope-magic-world-of-ninjas.html",
+                                "title": "Ninjascope: Magic World of Ninjas",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninjascope-magic-world-of-ninjas-thumb.png"
+                            },
+                            {
+                                "url": "/watch/super-sentai-world.html",
+                                "title": "Super Sentai World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-grease.html",
+                                "title": "Build NEW WORLD: Kamen Rider Grease",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
+                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-world-j-zo.html",
+                                "title": "Kamen Rider World ( J & ZO )",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
+                                "title": "Kamen Rider Black RX – Run All Over The World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
                             },
                             {
                                 "url": "/watch/wingman-2024.html",
                                 "title": "Wingman 2024",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/wingman-2024-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gavv.html",
-                                "title": "Kamen Rider Gavv",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-giant-the-mysterious-spacemens-demonic-castle.html",
-                                "title": "Super Giant – The Mysterious Spacemen’s Demonic Castle",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-giant-the-mysterious-spacemens-demonic-castle-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-giant-continues.html",
-                                "title": "Super Giant Continues",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-giant-continues-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-gotchard-the-future-daybreak.html",
@@ -55,16 +69,6 @@
                                 "url": "/watch/super-robot-mach-baron.html",
                                 "title": "Super Robot Mach Baron",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-robot-mach-baron-thumb.png"
-                            },
-                            {
-                                "url": "/watch/jikuu-keisatsu-wecker-deadly-night-shade.html",
-                                "title": "Jikuu Keisatsu Wecker: Deadly Night Shade",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/jikuu-keisatsu-wecker-deadly-night-shade-thumb.png"
-                            },
-                            {
-                                "url": "/watch/jikuu-keisatsu-hyperion.html",
-                                "title": "Jikuu Keisatsu Hyperion",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/jikuu-keisatsu-hyperion-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -72,18 +76,14 @@
                 ],
                 "passed": true
             },
-            "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
-            },
             "details": {
                 "result": {
-                    "url": "/watch/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit.html",
-                    "title": "Bakuage Sentai Boonboomger GekijoBoon! Promise the Circuit",
-                    "author": "Year 2024",
-                    "description": "Bakuage Sentai Boonboomger GekijoBoon! Promise the Circuit is a Japanese superhero film that serves as the summer movie adaptation of Bakuage Sentai Boonboomger, double-billed with Kamen Rider Gotchard: The Future Daybreak.",
-                    "genre": "Movie, Super Sentai",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit-thumb.png",
+                    "url": "/watch/ninjascope-magic-world-of-ninjas.html",
+                    "title": "Ninjascope: Magic World of Ninjas",
+                    "author": "Year 1967",
+                    "description": "Ninjascope: Magic World of Ninjas is a trio of heroic ninjas use their superhuman powers and high tech gadgets to fight evil warlords in feudal Japan in this Toei-produced theatrical compilation film of episodes of the KAMEN NO NINJA AKA KAGE TV series.",
+                    "genre": "Movie, Other",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninjascope-magic-world-of-ninjas-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -91,7 +91,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit.html",
+                        "url": "/watch/ninjascope-magic-world-of-ninjas.html",
                         "name": "Movie",
                         "episode_number": 1.0
                     }

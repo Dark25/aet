@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/블루 록 VS U-20 JAPAN",
+                                "title": "블루 록 VS U-20 JAPAN",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/fe0183df8180130c0c0cdb8b11b84b81_1728295854_6597.jpg"
+                            },
+                            {
                                 "url": "/c/원피스 어인섬편",
                                 "title": "원피스 어인섬편",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg"
@@ -185,11 +190,6 @@
                                 "url": "/c/페어리 테일: 100년 퀘스트",
                                 "title": "페어리 테일: 100년 퀘스트",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg"
-                            },
-                            {
-                                "url": "/c/블루 록 VS U-20 JAPAN",
-                                "title": "블루 록 VS U-20 JAPAN",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/fe0183df8180130c0c0cdb8b11b84b81_1728295854_6597.jpg"
                             },
                             {
                                 "url": "/c/포켓몬스터 (2023)",
@@ -499,10 +499,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/원피스 어인섬편",
-                    "title": "원피스 어인섬편",
-                    "description": "원제: ワンピース\n원작: 오다 에이치로\n감독: 우다 코우노스케, 사카이 무네히사\n각본: 카미사카 히로히코, 타케가미 쥰키\n캐릭터 디자인: 이노우에 에이사쿠\n음악: 하마구치 시로\n장르: 액션, 코미디, 능력\n방영일: 2024.11.03\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg",
+                    "url": "/c/블루 록 VS U-20 JAPAN",
+                    "title": "블루 록 VS U-20 JAPAN",
+                    "description": "원제: ブルーロック VS. U-20 JAPAN\n원작: 카네시로 무네유키, 노무라 유스케\n감독: 이노카와 신타로\n각본: 키시모토 타쿠\n캐릭터 디자인: 타나베 켄지\n음악: 무라야마☆준\n장르: 학원, 스포츠\n방영일: 2024.10.05 23:30 (토)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/fe0183df8180130c0c0cdb8b11b84b81_1728295854_6597.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -510,22 +510,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/원피스 어인섬편 9화",
-                        "name": "원피스 어인섬편 9화",
+                        "url": "/e/블루 록 VS U-20 JAPAN 14화(完)",
+                        "name": "블루 록 VS U-20 JAPAN 14화(完)",
                         "date_upload": 1735430400000,
-                        "episode_number": 9.0
+                        "episode_number": 14.0
                     },
                     {
-                        "url": "/e/원피스 어인섬편 8화",
-                        "name": "원피스 어인섬편 8화",
-                        "date_upload": 1734825600000,
-                        "episode_number": 8.0
+                        "url": "/e/블루 록 VS U-20 JAPAN 13화",
+                        "name": "블루 록 VS U-20 JAPAN 13화",
+                        "date_upload": 1735430400000,
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16966355376537161543/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16966355376537161543/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16966355376537161543/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10847374350690299317/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10847374350690299317/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10847374350690299317/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

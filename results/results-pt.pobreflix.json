@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/sonic-3-o-filme/",
+                                "title": "Sonic 3: O Filme",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg"
+                            },
+                            {
+                                "url": "/filmes/sua-culpa/",
+                                "title": "Sua Culpa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bYGXiAHUQqSp8SW3ql2lleZxQ5n.jpg"
+                            },
+                            {
+                                "url": "/series/round-6/",
+                                "title": "Round 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7TsJyE8hGHxNn6HABfB7PtGvEZB.jpg"
+                            },
+                            {
                                 "url": "/filmes/mufasa-o-rei-leao/",
                                 "title": "Mufasa: O Rei Leão",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/2q22B1pewjsMIkCGxtCpl8bhs0D.jpg"
@@ -50,21 +65,6 @@
                                 "url": "/filmes/enfeiticados/",
                                 "title": "Enfeitiçados",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg"
-                            },
-                            {
-                                "url": "/series/duna-a-profecia/",
-                                "title": "Duna: A Profecia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg"
-                            },
-                            {
-                                "url": "/filmes/gladiador-ii/",
-                                "title": "Gladiador II",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z1hNoGhH12ISnPzPqMOq1QLVGdu.jpg"
-                            },
-                            {
-                                "url": "/series/os-quatro-da-candelaria/",
-                                "title": "Os Quatro da Candelária",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qJ1JYXVuexmYHiyTSlB7PCZb6WQ.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/round-6/",
+                                "title": "Round 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7TsJyE8hGHxNn6HABfB7PtGvEZB.jpg"
+                            },
                             {
                                 "url": "/series/producao-de-sonhos/",
                                 "title": "Produção de Sonhos",
@@ -132,9 +137,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
                             },
                             {
-                                "url": "/series/la-brea/",
-                                "title": "La Brea",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg"
+                                "url": "/series/georgie-e-mandy-seu-primeiro-casamento/",
+                                "title": "Georgie e Mandy Seu Primeiro Casamento",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vGYJfuPkhyuV1fDLFwkNcZx2qcY.jpg"
+                            },
+                            {
+                                "url": "/series/rainha-woo/",
+                                "title": "Rainha Woo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/buoRuErNboDakkbQ1bcDS0WGPRX.jpg"
+                            },
+                            {
+                                "url": "/series/poppas-house/",
+                                "title": "Poppa’s House",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hQnhk8bOFHlFI7KZ12NT24yW8iw.jpg"
                             },
                             {
                                 "url": "/series/nivel-secreto/",
@@ -270,21 +285,6 @@
                                 "url": "/series/um-espiao-infiltrado/",
                                 "title": "Um Espião Infiltrado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/exFenxQqLFgH0sGrlFN44qvOKq7.jpg"
-                            },
-                            {
-                                "url": "/series/duna-a-profecia/",
-                                "title": "Duna: A Profecia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg"
-                            },
-                            {
-                                "url": "/series/landman/",
-                                "title": "Landman",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg"
-                            },
-                            {
-                                "url": "/series/nao-diga-nada/",
-                                "title": "Não Diga Nada",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/x5KXbN1f0YpG2Hra1ghlMBe6Zxq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/mufasa-o-rei-leao/",
-                    "title": "Mufasa: O Rei Leão",
-                    "description": "Explorando a improvável ascensão do amado rei das Terras do Reino, “Mufasa: O Rei Leão” convoca Rafiki para contar a lenda de Mufasa à jovem filhote Kiara, filha de Simba e Nala, com Timão e Pumba dando seus toques pessoais. Contada em flashbacks, a história apresenta Mufasa como um filhote órfão, perdido e sozinho até conhecer um simpático leãozinho chamado Taka, o herdeiro de uma linhagem real. O encontro casual dá início a uma jornada transformadora de um grupo extraordinário de desajustados em busca de seus destinos, cujos laços serão testados enquanto trabalham juntos para escapar de um inimigo ameaçador e mortal.\n\nTítulo Original: Mufasa: The Lion King",
-                    "genre": "Animação, Aventura, Drama, Família",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2q22B1pewjsMIkCGxtCpl8bhs0D.jpg",
+                    "url": "/filmes/sonic-3-o-filme/",
+                    "title": "Sonic 3: O Filme",
+                    "description": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.\n\nTítulo Original: Sonic the Hedgehog 3",
+                    "genre": "Ação, Comédia, Família, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/mufasa-o-rei-leao/",
+                        "url": "/filmes/sonic-3-o-filme/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

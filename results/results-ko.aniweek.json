@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/원피스 어인섬편",
+                                "title": "원피스 어인섬편",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg"
+                            },
+                            {
                                 "url": "/c/블리치 천년혈전 상극담",
                                 "title": "블리치 천년혈전 상극담",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/ed92d92922e1dcbbbe48bc8e2d51ec36_1728155800_1792.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/c/트릴리온 게임",
                                 "title": "트릴리온 게임",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728056359_4728.jpg"
-                            },
-                            {
-                                "url": "/c/원피스 어인섬편",
-                                "title": "원피스 어인섬편",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg"
                             },
                             {
                                 "url": "/c/원더풀 프리큐어!",
@@ -499,10 +499,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/블리치 천년혈전 상극담",
-                    "title": "블리치 천년혈전 상극담",
-                    "description": "원제: BLEACH 千年血戦篇-相剋譚\n원작: 쿠보 타이토\n감독: 무라타 히카루\n각본: 히라마츠 마사키, 타구치 토모히사\n캐릭터 디자인: 쿠도 마사시\n음악: 사기스 시로\n장르: 액션, 퇴마, 판타지\n방영일: 2024.10.05 23:00 (토)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/ed92d92922e1dcbbbe48bc8e2d51ec36_1728155800_1792.jpg",
+                    "url": "/c/원피스 어인섬편",
+                    "title": "원피스 어인섬편",
+                    "description": "원제: ワンピース\n원작: 오다 에이치로\n감독: 우다 코우노스케, 사카이 무네히사\n각본: 카미사카 히로히코, 타케가미 쥰키\n캐릭터 디자인: 이노우에 에이사쿠\n음악: 하마구치 시로\n장르: 액션, 코미디, 능력\n방영일: 2024.11.03\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -510,22 +510,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/블리치 천년혈전 상극담 14화(完)",
-                        "name": "블리치 천년혈전 상극담 14화(完)",
+                        "url": "/e/원피스 어인섬편 9화",
+                        "name": "원피스 어인섬편 9화",
                         "date_upload": 1735430400000,
-                        "episode_number": 14.0
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/e/블리치 천년혈전 상극담 13화",
-                        "name": "블리치 천년혈전 상극담 13화",
-                        "date_upload": 1735430400000,
-                        "episode_number": 13.0
+                        "url": "/e/원피스 어인섬편 8화",
+                        "name": "원피스 어인섬편 8화",
+                        "date_upload": 1734825600000,
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6615460484788176277/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6615460484788176277/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6615460484788176277/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16966355376537161543/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16966355376537161543/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16966355376537161543/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

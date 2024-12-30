@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/blanco-y-negro/",
+                                "title": "Blanco y negro",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fbQUDdMfyPDCciwYpX8UOODBS9g.jpg"
+                            },
+                            {
                                 "url": "/serie/spyders/",
                                 "title": "Spyders",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Secret Level",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg"
-                            },
-                            {
-                                "url": "/serie/cien-anos-de-soledad/",
-                                "title": "Cien años de soledad",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/spyders/",
-                    "title": "Spyders",
-                    "description": "Nickelodeon's Spyders Tres hermanos descubren que sus padres son espías encubiertos de una agencia de protección ambiental y deciden convertirse también en espías para ayudarlos en secreto.",
-                    "genre": "Drama, Familia, Kids, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4QQYlC41vsYc86VRFXILTCm2XZn.jpg",
+                    "url": "/serie/blanco-y-negro/",
+                    "title": "Blanco y negro",
+                    "description": "Arnold | Diff'rent Strokes Popular telecomedia de los años ochenta que narra las aventuras de Philip Drummond (Conrad Bain), un millonario de Nueva York que vive en un lujoso apartamento de Park Avenue y que adopta y cría a dos chicos afroamericanos (Gary Coleman y Todd Bridges). El hombre, además, tiene una hija de rizos rubios y actitud angelical llamada Kimberly (Dana Plato). Los cuatro personajes protagonizaron una de las sitcoms con mayor éxito en los Estados Unidos y en el mundo entero. El aspecto aniñado de Arnold, interpretado por el pequeño Coleman, fue uno de los atrayentes más grandes para el público. La clásica frase era: \"¿De qué estás hablando Willis?\".",
+                    "genre": "Comedia, Drama, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fbQUDdMfyPDCciwYpX8UOODBS9g.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/spyders-temporada-3-episodio-20/",
-                        "name": "T3 - Episodio 20",
-                        "episode_number": 20.0
+                        "url": "/capitulo/blanco-y-negro-temporada-6-episodio-22/",
+                        "name": "T6 - Episodio 22",
+                        "episode_number": 22.0
                     },
                     {
-                        "url": "/capitulo/spyders-season-3-episode-19/",
-                        "name": "T3 - Episodio 19",
-                        "episode_number": 19.0
+                        "url": "/capitulo/blanco-y-negro-temporada-6-episodio-21/",
+                        "name": "T6 - Episodio 21",
+                        "episode_number": 21.0
                     }
                 ],
                 "passed": true
@@ -267,9 +267,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/9iqj02jocs6v_h/index-v1-a1.m3u8?t=ZGxOHJZjs4RYfvy6_eBqgT91hdo2scvYbvyOFLvyIQ4&s=1735517955&e=43200&v=45527381&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00071/oulmak3vafdq_h/index-v1-a1.m3u8?t=S6asPQ-EQO4rs4d47UB_slaQio5INZzRPc90ST73tR8&s=1735538928&e=43200&v=45774117&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/9iqj02jocs6v_h/index-v1-a1.m3u8?t=ZGxOHJZjs4RYfvy6_eBqgT91hdo2scvYbvyOFLvyIQ4&s=1735517955&e=43200&v=45527381&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/oulmak3vafdq_h/index-v1-a1.m3u8?t=S6asPQ-EQO4rs4d47UB_slaQio5INZzRPc90ST73tR8&s=1735538928&e=43200&v=45774117&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -278,9 +278,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/9iqj02jocs6v_n/index-v1-a1.m3u8?t=ZGxOHJZjs4RYfvy6_eBqgT91hdo2scvYbvyOFLvyIQ4&s=1735517955&e=43200&v=45527381&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00071/oulmak3vafdq_n/index-v1-a1.m3u8?t=S6asPQ-EQO4rs4d47UB_slaQio5INZzRPc90ST73tR8&s=1735538928&e=43200&v=45774117&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/9iqj02jocs6v_n/index-v1-a1.m3u8?t=ZGxOHJZjs4RYfvy6_eBqgT91hdo2scvYbvyOFLvyIQ4&s=1735517955&e=43200&v=45527381&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/oulmak3vafdq_n/index-v1-a1.m3u8?t=S6asPQ-EQO4rs4d47UB_slaQio5INZzRPc90ST73tR8&s=1735538928&e=43200&v=45774117&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +289,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/9iqj02jocs6v_l/index-v1-a1.m3u8?t=ZGxOHJZjs4RYfvy6_eBqgT91hdo2scvYbvyOFLvyIQ4&s=1735517955&e=43200&v=45527381&i=0.3&sp=0",
+                        "url": "https://enc2.fastream.to/hls2/01/00071/oulmak3vafdq_l/index-v1-a1.m3u8?t=S6asPQ-EQO4rs4d47UB_slaQio5INZzRPc90ST73tR8&s=1735538928&e=43200&v=45774117&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/9iqj02jocs6v_l/index-v1-a1.m3u8?t=ZGxOHJZjs4RYfvy6_eBqgT91hdo2scvYbvyOFLvyIQ4&s=1735517955&e=43200&v=45527381&i=0.3&sp=0",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00071/oulmak3vafdq_l/index-v1-a1.m3u8?t=S6asPQ-EQO4rs4d47UB_slaQio5INZzRPc90ST73tR8&s=1735538928&e=43200&v=45774117&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

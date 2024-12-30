@@ -3,86 +3,25 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/gaion-sigma.html",
-                                "title": "Gaion Sigma",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/gaion-sigma-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard-final-stage.html",
-                                "title": "Kamen Rider Gotchard: Final Stage",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-final-stage-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit.html",
-                                "title": "Bakuage Sentai Boonboomger GekijoBoon! Promise the Circuit",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-gekijoboon-promise-the-circuit-thumb.png"
-                            },
-                            {
-                                "url": "/watch/wingman-2024.html",
-                                "title": "Wingman 2024",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/wingman-2024-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gavv.html",
-                                "title": "Kamen Rider Gavv",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-giant-the-mysterious-spacemens-demonic-castle.html",
-                                "title": "Super Giant – The Mysterious Spacemen’s Demonic Castle",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-giant-the-mysterious-spacemens-demonic-castle-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-giant-continues.html",
-                                "title": "Super Giant Continues",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-giant-continues-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard-the-future-daybreak.html",
-                                "title": "Kamen Rider Gotchard: The Future Daybreak",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-the-future-daybreak-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-giant.html",
-                                "title": "Super Giant",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-giant-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-robot-mach-baron.html",
-                                "title": "Super Robot Mach Baron",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-robot-mach-baron-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

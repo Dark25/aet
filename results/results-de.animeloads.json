@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/fatestrange-fake",
+                                "title": "Fate/Strange Fake",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-fatestrange-fake-cover.jpg"
+                            },
+                            {
                                 "url": "/media/chiikawa",
                                 "title": "Chiikawa",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-chiikawa-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/hoshi-furu-oukoku-no-nina",
                                 "title": "Nina the Starry Bride",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hoshi-furu-oukoku-no-nina-cover.jpg"
-                            },
-                            {
-                                "url": "/media/haigakura",
-                                "title": "Haigakura",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-haigakura-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/chiikawa",
-                    "title": "Chiikawa",
+                    "url": "/media/fatestrange-fake",
+                    "title": "Fate/Strange Fake",
                     "author": "",
-                    "description": "Chiikawa wird von den meisten Leuten als eine niedliche, kleine Kreatur gesehen, die gerne leckeres Essen mit ihren Freunden genießt. Tatsächlich ist ihr Leben nicht immer nur ruhig und friedlich, es gibt auch stressige und traurige Momente, die sie durchlebt. Doch bei allen Schwierigkeiten vergisst sie nie, ein Lächeln auf ihrem Gesicht zu behalten und erledigt ihre Arbeit stets fleißig und zuverlässig. Quelle: aniSearch",
-                    "genre": "",
+                    "description": "Quelle: aniSearch",
+                    "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-chiikawa-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-fatestrange-fake-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,20 +239,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/chiikawa#streams_episodes_1_119",
-                        "name": "Ep.120 Episode 120",
-                        "episode_number": 120.0
-                    },
-                    {
-                        "url": "/media/chiikawa#streams_episodes_1_118",
-                        "name": "Ep.119 Episode 119",
-                        "episode_number": 119.0
+                        "url": "/media/fatestrange-fake#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7228809689314886450/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7228809689314886450/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7228809689314886450/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-2843676250531709685/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-2843676250531709685/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-2843676250531709685/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

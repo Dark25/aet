@@ -167,6 +167,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/izure-saikyou-no-renkinjutsushi-1822",
+                                "title": "Izure Saikyou no Renkinjutsushi?",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1431/146222.jpg"
+                            },
+                            {
+                                "url": "/anime/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-h-1821",
+                                "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1438/147202.jpg"
+                            },
+                            {
+                                "url": "/anime/hazure-skill-kinomi-master-skill-no-mi-tabetara-sh-1820",
+                                "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1703/146128.jpg"
+                            },
+                            {
+                                "url": "/anime/fatestrange-fake-1819",
+                                "title": "Fate/strange Fake",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1724/136845.jpg"
+                            },
+                            {
                                 "url": "/anime/goukon-ni-ittara-onna-ga-inakatta-hanashi-1818",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1198/145156.jpg"
@@ -295,26 +315,6 @@
                                 "url": "/anime/seirei-gensouki-1793",
                                 "title": "Seirei Gensouki",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1836/116060.jpg"
-                            },
-                            {
-                                "url": "/anime/natsume-yuujinchou-shichi-1792",
-                                "title": "Natsume Yuujinchou Shichi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1270/145168.jpg"
-                            },
-                            {
-                                "url": "/anime/raise-wa-tanin-ga-ii-1791",
-                                "title": "Raise wa Tanin ga Ii",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1428/143773.jpg"
-                            },
-                            {
-                                "url": "/anime/kamonohashi-ron-no-kindan-suiri-2nd-season-1790",
-                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1917/144334.jpg"
-                            },
-                            {
-                                "url": "/anime/hoshifuru-oukoku-no-nina-1789",
-                                "title": "Hoshifuru Oukoku no Nina",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1436/144553.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -326,6 +326,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-h-1821",
+                                "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1438/147202.jpg"
+                            },
                             {
                                 "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-season-3-1806",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
@@ -470,11 +475,6 @@
                                 "url": "/anime/konosuba-gods-blessing-on-this-wonderful-world-2---821",
                                 "title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1115/98517.jpg"
-                            },
-                            {
-                                "url": "/anime/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura--1584",
-                                "title": "My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1734/139673.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -512,8 +512,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://videos2.sendvid.com/56/5c/ncvioe4j.mp4?validfrom=1735747622&validto=1735762022&rate=250k&ip=20.42.51.100&hash=DXMSP71mFwK9OI8j1tS151EbVug%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/56/5c/ncvioe4j.mp4?validfrom=1735747622&validto=1735762022&rate=250k&ip=20.42.51.100&hash=DXMSP71mFwK9OI8j1tS151EbVug%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Origin": "https://https://sendvid.com/embed/ncvioe4j",
+                            "Referer": "https://https://sendvid.com/embed/ncvioe4j/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

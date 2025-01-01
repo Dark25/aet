@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/grisaia-phantom-trigger",
+                                "title": "Grisaia Phantom Trigger",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-grisaia-phantom-trigger-cover-1.jpg"
+                            },
+                            {
+                                "url": "/media/izure-saikyou-no-renkinjutsushi",
+                                "title": "Possibly the Greatest Alchemist of All Time",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-izure-saikyou-no-renkinjutsushi-cover.jpg"
+                            },
+                            {
                                 "url": "/media/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-o-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite",
                                 "title": "Bogus Skill „Fruitmaster“: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-bogus-skill-fruitmaster-cover.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/media/natsume-yuujinchou-shichi",
                                 "title": "Natsume’s Book of Friends: Staffel 7",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-natsume-yuujinchou-shichi-cover.jpg"
-                            },
-                            {
-                                "url": "/media/raise-wa-tanin-ga-ii",
-                                "title": "Yakuza Fiancé: Raise wa Tanin ga Ii",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-raise-wa-tanin-ga-ii-cover.jpg"
-                            },
-                            {
-                                "url": "/media/kamonohashi-ron-no-kindan-suiri-2nd-season",
-                                "title": "Meisterdetektiv Ron Kamonohashi: Staffel 2",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kamonohashi-ron-no-kindan-suiri-2nd-season-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-o-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite",
-                    "title": "Bogus Skill „Fruitmaster“: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)",
+                    "url": "/media/grisaia-phantom-trigger",
+                    "title": "Grisaia Phantom Trigger",
                     "author": "",
-                    "description": "In der Welt von Light Underwood können angehende Abenteurer im Tempel eine besondere Fertigkeit erhalten, indem sie dort eine Fertigkeitsfrucht verspeisen. Light freut sich darauf, einen Skill für den Kampf zu erhalten und eines Tages ein großer Held zu werden, aber leider hat er bei seinem Tempelbesuch kein Glück und geht mit dem Skill »Beeren-Meister« nach Hause, der für das Anbauen von Früchten gedacht ist und keinerlei praktischen Nutzen im Kampf mit sich bringt. Da man während einer Lebensspanne nur eine einzige Fertigkeit erhalten kann und beim Verzehren einer zweiten Frucht normalerweise stirbt, sieht sich Light dazu gezwungen, seinen Traum, ein Abenteurer zu werden, aufzugeben und als Bauer zu arbeiten. Trotzdem sucht Light weiterhin den Kontakt zu seiner Kindheitsfreundin Lena, die ihrerseits den Skill des »Schwertheiligen« bekommen hat, wovon er selbst nur träumen kann. Doch wie es das Schicksal so will, isst er eines Tages versehentlich eine weitere Fertigkeitsfrucht – und anstatt eine Reise in die Unterwelt anzutreten, erhält er dabei plötzlich den »Schwertgott«-Skill! Könnte es sein, dass seine Fähigkeit des Beeren-Meisters ihn gefahrlos so viele Früchte essen lässt, wie er will? Quelle: aniSearch",
-                    "genre": "Abenteuer",
+                    "description": "Quelle: aniSearch",
+                    "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-bogus-skill-fruitmaster-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-grisaia-phantom-trigger-cover-1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,15 +239,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-o-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite#streams_episodes_1_0",
-                        "name": "Ep.1 Eine einzige Zutat",
+                        "url": "/media/grisaia-phantom-trigger#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16783427039306855292/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16783427039306855292/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16783427039306855292/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17982475964922158294/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17982475964922158294/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17982475964922158294/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

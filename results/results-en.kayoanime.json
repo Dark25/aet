@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/kinomi-master-episode-1-english-subbed/",
+                                "title": "Kinomi Master",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/kinomi-master-episode-1-english-subbed-390x220.jpg"
+                            },
+                            {
                                 "url": "/zenshu-anime/",
                                 "title": "Zenshu",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/zenshu-anime-390x220.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/even-given-the-worthless-appraiser-class-im-actually-the-strongest/",
                                 "title": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/even-given-the-worthless-appraiser-class-im-actually-the-strongest-390x220.jpg"
-                            },
-                            {
-                                "url": "/possibly-the-greatest-alchemist-of-all-time-anime/",
-                                "title": "Possibly the Greatest Alchemist of All Time",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/possibly-the-greatest-alchemist-of-all-time-anime-390x220.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/kinomi-master-episode-1-english-subbed/",
+                                "title": "Kinomi Master",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/kinomi-master-episode-1-english-subbed-220x150.jpg"
+                            },
                             {
                                 "url": "/zenshu-anime/",
                                 "title": "Zenshu",
@@ -85,11 +90,6 @@
                                 "url": "/can-you-keep-a-secret-anime/",
                                 "title": "Can You Keep a Secret?",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/can-you-keep-a-secret-anime-220x150.jpg"
-                            },
-                            {
-                                "url": "/girumasu-anime/",
-                                "title": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/girumasu-anime-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -159,15 +159,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/zenshu-anime/",
-                    "author": "MAPPA",
-                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Not yet aired\nAired: Jan 5, 2025 to ?\nPremiered: Winter 2025\nBroadcast: Sundays at 23:45 (JST)\nProducers: Bushiroad, dugout\nLicensors: None found, add some\nStudios: MAPPA\nSource: Original\nDuration: Unknown\nRating: None",
+                    "url": "/kinomi-master-episode-1-english-subbed/",
+                    "author": "Asahi Production",
+                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Not yet aired\nAired: Jan 7, 2025 to ?\nPremiered: Winter 2025\nBroadcast: Tuesdays at 23:30 (JST)\nPreviewed: Dec 7, 2024\nProducers: flying DOG, Studio Mausu, Hakuhodo DY Music & Pictures\nLicensors: None found, add some\nStudios: Asahi Production\nSource: Manga\nGenres: Action, Adventure, Fantasy\nTheme: Reincarnation\nDemographic: Seinen\nDuration: Unknown\nRating: R+ – Mild Nudity",
+                    "genre": "Action, Adventure, Fantasy",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
                 "passed": false
             },
             "videos": {

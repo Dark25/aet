@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/wicked-2024/",
+                                "title": "Wicked (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/q1czoLwMaiUO1bznWuETCP5ueZj.jpg"
+                            },
+                            {
                                 "url": "/peliculas/culpa-tuya-2024/",
                                 "title": "Culpa tuya (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Venom: El último baile (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg"
-                            },
-                            {
-                                "url": "/peliculas/watchmen-capitulo-2-2024/",
-                                "title": "Watchmen: Capítulo 2 (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mIYN3HP6U2X7ZkDXT8xM47tXvOx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/culpa-tuya-2024/",
-                    "title": "Culpa tuya (2024)",
-                    "artist": "Nicole Wallace",
-                    "author": "Domingo González",
-                    "description": "",
-                    "genre": "Drama, Romance",
+                    "url": "/peliculas/wicked-2024/",
+                    "title": "Wicked (2024)",
+                    "artist": "Cynthia Erivo",
+                    "author": "Lisa Vick",
+                    "description": "La historia de cómo una mujer de piel verde esmeralda se convierte en la Malvada Bruja del Oeste; largometraje basado en el musical de Broadway.",
+                    "genre": "Drama, Fantasía, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/q1czoLwMaiUO1bznWuETCP5ueZj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/culpa-tuya-2024/",
+                        "url": "/peliculas/wicked-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-sfac44a0oeqkm1oo.voe-network.net/engine/hls2-c/01/13217/dpgjutbj9y6i_,n,.urlset/index-v1-a1.m3u8?t=0BdUhhKFF5ztcBNe9iIaXWbYAXCKPrXete-gHOCODAM&s=1735668399&e=14400&f=66085745&node=4LGAMh8o8XDdh9GyDh/zPBfQeD/JdRIqe16LTbNYigs=&i=20.42&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-2rewgnxtfac5v517.voe-network.net/engine/hls2-c/01/13222/8djkqfdn2ylo_,n,.urlset/index-v1-a1.m3u8?t=_cTiHcbYY9hVeaV3dB78XJFpQCdquXjRpJJnNlNbu5Q&s=1735690783&e=14400&f=66114009&node=xoa/kLpQ08AarCanapTLGQM1cmra3rs+lOplBkKNaYs=&i=68.154&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-sfac44a0oeqkm1oo.voe-network.net/engine/hls2-c/01/13217/dpgjutbj9y6i_,n,.urlset/index-v1-a1.m3u8?t=0BdUhhKFF5ztcBNe9iIaXWbYAXCKPrXete-gHOCODAM&s=1735668399&e=14400&f=66085745&node=4LGAMh8o8XDdh9GyDh/zPBfQeD/JdRIqe16LTbNYigs=&i=20.42&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-2rewgnxtfac5v517.voe-network.net/engine/hls2-c/01/13222/8djkqfdn2ylo_,n,.urlset/index-v1-a1.m3u8?t=_cTiHcbYY9hVeaV3dB78XJFpQCdquXjRpJJnNlNbu5Q&s=1735690783&e=14400&f=66114009&node=xoa/kLpQ08AarCanapTLGQM1cmra3rs+lOplBkKNaYs=&i=68.154&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

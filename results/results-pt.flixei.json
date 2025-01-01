@@ -3,7 +3,7 @@
         "name": "Flixei (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             },
             "latest": {
@@ -11,7 +11,7 @@
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {

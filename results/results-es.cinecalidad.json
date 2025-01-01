@@ -73,89 +73,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/ver-pelicula/el-senor-de-los-anillos-la-guerra-de-los-rohirrim/",
-                                "title": "El señor de los anillos: La guerra de los Rohirrim",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-front-room/",
-                                "title": "The Front Room",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//vuNoHG9DkJ6TYxAKvRf46CklK5e.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/gladiador-ii/",
-                                "title": "Gladiador II",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/beast-games/",
-                                "title": "Beast Games",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//ub0yioXFa0DjSj8lwvymUx5PKbe.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/moana-2/",
-                                "title": "Moana 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//hSjM4OPwfF3PvWsVgV6SKd6GeXJ.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/queer/",
-                                "title": "Queer",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//hPkXFxIpDO3vQMZFasiZO0kkUBV.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-end/",
-                                "title": "The End",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/nightbitch/",
-                                "title": "Nightbitch",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//rc9gyp0vMRTo9wAAmBfJ20zNJLI.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/year-10/",
-                                "title": "Year 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//zqeFM6cjHjYmgjqJExjt1NPBPdd.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-order/",
-                                "title": "The Order",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//cN44GBHiS5ONvOqqLUg6XerXJ64.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/run/",
-                                "title": "Run!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//etl32nHUW0GHuxuRTocS7ONKLRi.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/werewolves/",
-                                "title": "Werewolves",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//wHsQwrqiICdEkIXFcX968rVqB3s.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/chateau/",
-                                "title": "Chateau",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//hm818mgMkFnim1t55MeF9P1YAfY.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/37-lombre-et-la-proie/",
-                                "title": "37 : l’ombre et la proie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//xtiApujoWBgX9WzmucFtySDp9NN.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/armand/",
-                                "title": "Armand",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//toW7qhFaO3VvuoRXFNpjs55PXMZ.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -227,9 +146,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=nJ34GzWv1G1v026LlCxeWBQYlob6U4pPL84BCIRVFuw&s=1735668400&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
+                        "url": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=agbsDHAzwaP6lybwVNSQv4jif7qBPXvIuDPrNnRH7iA&s=1735690753&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
                         "quality": "StreamWish:1080p",
-                        "videoUrl": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=nJ34GzWv1G1v026LlCxeWBQYlob6U4pPL84BCIRVFuw&s=1735668400&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
+                        "videoUrl": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=agbsDHAzwaP6lybwVNSQv4jif7qBPXvIuDPrNnRH7iA&s=1735690753&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -238,9 +157,9 @@
                         }
                     },
                     {
-                        "url": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=nJ34GzWv1G1v026LlCxeWBQYlob6U4pPL84BCIRVFuw&s=1735668400&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
+                        "url": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=agbsDHAzwaP6lybwVNSQv4jif7qBPXvIuDPrNnRH7iA&s=1735690753&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=nJ34GzWv1G1v026LlCxeWBQYlob6U4pPL84BCIRVFuw&s=1735668400&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
+                        "videoUrl": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=agbsDHAzwaP6lybwVNSQv4jif7qBPXvIuDPrNnRH7iA&s=1735690753&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -249,9 +168,9 @@
                         }
                     },
                     {
-                        "url": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=nJ34GzWv1G1v026LlCxeWBQYlob6U4pPL84BCIRVFuw&s=1735668400&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
+                        "url": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=agbsDHAzwaP6lybwVNSQv4jif7qBPXvIuDPrNnRH7iA&s=1735690753&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=nJ34GzWv1G1v026LlCxeWBQYlob6U4pPL84BCIRVFuw&s=1735668400&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
+                        "videoUrl": "https://p9lemm6eqqp5.cdn-centaurus.com/hls2/01/07631/ut4i8bc70g7u_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=agbsDHAzwaP6lybwVNSQv4jif7qBPXvIuDPrNnRH7iA&s=1735690753&e=129600&f=38157064&srv=uxff5qc6yi7v&i=0.4&sp=500&p1=uxff5qc6yi7v&p2=uxff5qc6yi7v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -260,9 +179,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=y0lO4KaGy4S1PZl&expires=1735738402&ip=F0qQKRSRDS9XKxR&token=aTXGtZBTLgeH",
+                        "url": "https://streamtape.com/get_video?id=y0lO4KaGy4S1PZl&expires=1735760751&ip=G0WsDRONKxSHDN&token=yB6URYtyCE0M",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=y0lO4KaGy4S1PZl&expires=1735738402&ip=F0qQKRSRDS9XKxR&token=aTXGtZBTLgeH"
+                        "videoUrl": "https://streamtape.com/get_video?id=y0lO4KaGy4S1PZl&expires=1735760751&ip=G0WsDRONKxSHDN&token=yB6URYtyCE0M"
                     },
                     {
                         "url": "https://s1.goodstream.one/vtt/02/00012/3b840mzwedxm_sli.vtt",

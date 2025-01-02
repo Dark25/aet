@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/ameku-takao-no-suiri-karte",
+                                "title": "Ameku M.D.: Doctor Detective",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ameku-takao-no-suiri-karte-cover.jpg"
+                            },
+                            {
                                 "url": "/media/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
                                 "title": "Headhunted to Another World: From Salaryman to Big Four!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/houkago-shounen-hanako-kun-2024",
                                 "title": "Mein Schulgeist Hanako: After School (2024)",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-houkago-shounen-hanako-kun-2024-cover.jpg"
-                            },
-                            {
-                                "url": "/media/seirei-gensouki-2",
-                                "title": "Seirei Gensouki: Spirit Chronicles - Staffel 2",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seirei-gensouki-2-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
-                    "title": "Headhunted to Another World: From Salaryman to Big Four!",
+                    "url": "/media/ameku-takao-no-suiri-karte",
+                    "title": "Ameku M.D.: Doctor Detective",
                     "author": "",
-                    "description": "Die vier Himmlischen Könige herrschen als mächtigste Dämonen über die Welt, aber der Dämonenkönig hat in seinem Führungsstab noch eine offene Stelle zu vergeben. Die Wahl fällt hierbei überraschenderweise auf den langweiligen Büroangestellten Dennosuke Uchimura, der bis jetzt nicht mal ein Teil seiner Welt war. Von dem vermeintlichen Schreckensherrscher in eine andere Welt beschworen, bleibt Dennosuke kurz darauf nichts anderes übrig, als das Jobangebot anzunehmen und sein neues Büro zu beziehen. Doch die Arbeit in der Armee des Dämonenkönigs, der sich völlig unerwartet als idealer sowie überaus bemühter Vorgesetzter entpuppt, beinhaltet einige schwierige Aufgaben, bei denen man nicht selten sein Leben riskieren muss. Da Dennosuke über keinerlei besondere Fähigkeiten verfügt und nicht mal einfachste Magie beherrscht, bleibt ihm als letzter Trumpf nur seine Erfahrungen und sein Wissen aus dem modernen Japan übrig. Obwohl er hier zum ersten Mal wirklich Anerkennung erfährt, bleibt die Frage offen, ob das bisschen Berufserfahrung als hart arbeitender Büroangestellter wohl ausreichen wird, um ihm das Überleben in diesem gefährlichen Umfeld zu sichern ... Quelle: aniSearch",
-                    "genre": "Abenteuer",
+                    "description": "Das Tenikai General Hospital hat einen besonderen Ruf: Hier landen all die Fälle, die andere Ärzte als unlösbar ansehen. Ob mysteriöse Krankheiten, die sich jeder Diagnose entziehen, oder rätselhafte Fälle, die selbst die Polizei überfordern – die Patienten in der allgemeinen Diagnostikabteilung haben eine Gemeinsamkeit: Niemand weiß, wie man ihnen helfen kann. Im Mittelpunkt dieser Rätsel steht die brillante Ärztin Takao Amakura, die mit scharfem Verstand und unerschütterlicher Entschlossenheit auch die schwierigsten Geheimnisse löst. Unterstützt wird sie von Yu Takanashi, einem jungen Arzt, der vor Kurzem erst in die Abteilung versetzt wurde und sich schnell als wertvoller Assistent erweist. Gemeinsam decken sie nicht nur medizinische Wahrheiten auf, sondern enthüllen schockierende Geheimnisse, die weit über den Krankenhausalltag hinausgehen. Doch jede gelöste Diagnose bringt neue Fragen mit sich – und nicht selten stoßen Takao und Yu auf Abgründe, die sie an die Grenzen ihrer Fähigkeiten führen. Quelle: aniSearch",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ameku-takao-no-suiri-karte-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,15 +239,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi#streams_episodes_1_0",
-                        "name": "Ep.1 Wie man die Aufnahmeprüfung für eine Isekai-Firma besteht",
+                        "url": "/media/ameku-takao-no-suiri-karte#streams_episodes_1_1",
+                        "name": "Ep.2 Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/media/ameku-takao-no-suiri-karte#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10974358169604920661/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10974358169604920661/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10974358169604920661/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4414451951964196179/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4414451951964196179/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4414451951964196179/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

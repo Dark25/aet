@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/아메쿠 타카오의 추리 카르테",
+                                "title": "아메쿠 타카오의 추리 카르테",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/51c47162a7dc471378ecbd83b42266a3_1735794275_149.jpg"
+                            },
+                            {
+                                "url": "/c/샐러리맨이 이세계에 갔더니 사천왕이 된 이야기",
+                                "title": "샐러리맨이 이세계에 갔더니 사천왕이 된 이야기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/6316c192137b1e8b5bf5bd20e5c23add_1735791314_2619.jpg"
+                            },
+                            {
                                 "url": "/c/그리자이아: 팬텀 트리거",
                                 "title": "그리자이아: 팬텀 트리거",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg"
@@ -509,10 +519,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/그리자이아: 팬텀 트리거",
-                    "title": "그리자이아: 팬텀 트리거",
-                    "description": "원제: グリザイア:ファントムトリガー THE ANIMATION (TV)\n원작: 프론트 윙\n감독: 무라야마 코스케\n각본: 타카하시 타츠야\n캐릭터 디자인: 와타나베 아키오\n음악: 후지마 히토시, 타케다 유스케, 마츠모토 후미노리\n장르: 액션, 드라마\n방영일: 2025.01.02 01:00 (목)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg",
+                    "url": "/c/아메쿠 타카오의 추리 카르테",
+                    "title": "아메쿠 타카오의 추리 카르테",
+                    "description": "원제: 天久鷹央の推理カルテ\n원작: 치넨 미키토\n감독: 이와타 카즈야\n각본: 스기사와 사토시\n캐릭터 디자인: 타카시나 유카\n음악: fox capture plan\n장르: 추리\n방영일: 2025.01.02 00:00 (목)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/51c47162a7dc471378ecbd83b42266a3_1735794275_149.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -520,8 +530,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/그리자이아: 팬텀 트리거1화",
-                        "name": "그리자이아: 팬텀 트리거1화",
+                        "url": "/e/아메쿠 타카오의 추리 카르테 2화",
+                        "name": "아메쿠 타카오의 추리 카르테 2화",
+                        "date_upload": 1735776000000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/e/아메쿠 타카오의 추리 카르테 1화",
+                        "name": "아메쿠 타카오의 추리 카르테 1화",
                         "date_upload": 1735776000000,
                         "episode_number": 1.0
                     }
@@ -529,7 +545,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10277946700534706486/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10277946700534706486/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10277946700534706486/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3685393738833584409/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3685393738833584409/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3685393738833584409/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

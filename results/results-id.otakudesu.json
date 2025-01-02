@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dandan-sub-indo/",
+                                "title": "Dandadan",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Dandadan-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/sayuseijinsei-sub-indo/",
                                 "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Sayounara-Ryuusei-Konnichiwa-Jinsei-Sub-Indo.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/anime/tsuki-michibiku-isekai-douchu-s2-sub-indo/",
                                 "title": "Tsuki ga Michibiku Isekai Douchuu Season 2",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Tsuki-ga-Michibiku-Isekai-Douchuu-Season-2-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/tensei-datta-node-sub-indo/",
-                                "title": "Tensei shitara Dainana Ouji Datta node",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Tensei-shitara-Dainana-Ouji-Datta-node-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -142,14 +142,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/grisaia-phantom-trigger-sub-indo/",
-                                "title": "Grisaia: Phantom Trigger",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/142188.jpg"
-                            },
-                            {
                                 "url": "/anime/ameku-karte-sub-indo/",
                                 "title": "Ameku Takao no Suiri Karte",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Ameku-Takao-no-Suiri-Karte.jpg"
+                            },
+                            {
+                                "url": "/anime/grisaia-phantom-trigger-sub-indo/",
+                                "title": "Grisaia: Phantom Trigger",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/142188.jpg"
                             },
                             {
                                 "url": "/anime/izure-saikysushi-sub-indo/",
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16212630877198877214/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16212630877198877214/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16212630877198877214/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9617631015660833909/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9617631015660833909/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9617631015660833909/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16212630877198877214/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16212630877198877214/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16212630877198877214/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9617631015660833909/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9617631015660833909/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9617631015660833909/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

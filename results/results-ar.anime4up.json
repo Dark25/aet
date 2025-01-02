@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/momentary-lily/",
+                                "title": "Momentary Lily",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx177159-Yt7VNCVjlnxR-215x300.jpg"
+                            },
+                            {
                                 "url": "/anime/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi/",
                                 "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx179689-kmlqdU3IbxeM-215x300.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/blue-lock-vs-u-20-japan/",
                                 "title": "Blue Lock vs. U-20 Japan",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/blue-lock-S2-KV-aug-215x300.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-soukoku-tan/",
-                                "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/image_processing20240707-1-49yijm-215x300.jpeg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,26 +364,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi/",
-                    "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-                    "description": "النوع: TV\nبداية العرض: 2025\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: شتاء 2025\nالمصدر: مانجا\n\nالقصة تتحدث عن دينوسوكي أوتشيمورا هو موظف عادي يحاول تسلق السلم الوظيفي ولكن بعد ذلك يتم استدعاؤه إلى عالم خيالي مرعب من قبل زعيم الشياطين الذي يعرض عليه وظيفة جديدة كواحد من الملوك السماويين في جيشه مع مزايا كاملة!",
-                    "genre": "مغامرات, كوميدي, فنتازيا, أكشن, TV, يعرض الان, شتاء 2025",
+                    "url": "/anime/momentary-lily/",
+                    "title": "Momentary Lily",
+                    "description": "النوع: TV\nبداية العرض: 2025\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: شتاء 2025\nالمصدر: أصلي\n\nلقد قضى الغزاة الآليون على كل أشكال الحياة، لكن رينج تقاتل من أجل البقاء باستخدام قواها. وبدون أي ذكريات، تجوب المدينة حتى تلتقي بخمس فتيات أخريات، كل واحدة منهن تتمتع بقدرات فريدة. معًا، يستمتعن بحياتهن إلى أقصى حد، فيطبخن وجبات لذيذة بين المعارك مع الوحوش الميكانيكية. وبينما يكشفن أسرار قواهن وماضيهن، يجدن القوة في صداقتهن.",
+                    "genre": "أكشن, TV, يعرض الان, شتاء 2025",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx179689-kmlqdU3IbxeM.jpg",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx177159-Yt7VNCVjlnxR.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

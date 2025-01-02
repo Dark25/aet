@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/momentary-lily-english-subbed",
+                                "title": "Momentary Lily English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933833.jpg"
+                            },
+                            {
+                                "url": "/anime/bang-dream-ave-mujica",
+                                "title": "BanG Dream! Ave Mujica",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933832.jpg"
+                            },
+                            {
+                                "url": "/anime/possibly-the-greatest-alchemist-of-all-time",
+                                "title": "Possibly the Greatest Alchemist of All Time",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933831.jpg"
+                            },
+                            {
                                 "url": "/anime/ameku-takao-no-suiri-karte",
                                 "title": "Ameku Takao no Suiri Karte",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933830.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/jentry-chau-vs-the-underworld",
                                 "title": "Jentry Chau vs the Underworld",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg"
-                            },
-                            {
-                                "url": "/anime/press-start",
-                                "title": "Press Start!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933816.jpg"
-                            },
-                            {
-                                "url": "/anime/creature-commandos",
-                                "title": "Creature Commandos",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933815.jpg"
-                            },
-                            {
-                                "url": "/anime/secret-level",
-                                "title": "Secret Level",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933814.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ameku-takao-no-suiri-karte",
-                    "title": "Ameku Takao no Suiri Karte",
-                    "description": "In Tenikai General Hospital’s general diagnostic department, patients who are deemed difficult to treat by other doctors are collected here. From mysteries of unknown illness to murders that even the police can’t handle. Genius doctor Takao Ameku reveals the shocking truth hidden behind these mysterious “disease.”",
-                    "genre": "Mystery, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933830.jpg",
+                    "url": "/anime/momentary-lily-english-subbed",
+                    "title": "Momentary Lily English Subbed",
+                    "description": "Robotic invaders wiped out all life, but Renge fights to survive using her powers. With no memories, she roams the city until she meets five other young women, each with unique abilities. Together, they make the most of their lives, cooking delicious meals between battles with mechanical monstrosities. As they uncover the secrets of their powers and pasts, they find strength in their friendship.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933833.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ameku-takao-no-suiri-karte-episode-2-english-subbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/ameku-takao-no-suiri-karte-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXkP_whYzBnb3AULCmYGfuHQZfKmoVojxLvlvDW54CZmwRCRXOMg9gwukHkIcc86McY4JeSKHkWMLc1Sw9W6qles3fnYEh3Kfpu232k1YokqzUXjnoni6D_l80S1lbu7QR1g4DEQn7qwC1UjmCOss8-7A__FHQ7r4uUwdLxtmrWf21Xi4YlXe-VuGaAQIPDcyPYJSLiqZzSUtyJrVFlaQYAf4rT1DmrFeXWrIG3KnScUl4Lnpfo_ffnQ5RUy-j2fz61Bv0YWyNubqhLY7WPiW0zDf5tfYUxCtb-zBR-nZgeJ6jvrZlGB7wZ4nrC_rGJHJKGFkH3opZerPvB1rgsLQSf1p4TAHtASllV10saHYnGoH20Wl_oOtMPkx1aWgTKG90OgGe68h6QfT0__rPUhZC3",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXkP_whYzBnb3AULCmYGfuHQZfKmoVojxLvlvDW54CZmwRCRXOMg9gwukHkIcc86McY4JeSKHkWMLc1Sw9W6qles3fnYEh3Kfpu232k1YokqzUXjnoni6D_l80S1lbu7QR1g4DEQn7qwC1UjmCOss8-7A__FHQ7r4uUwdLxtmrWf21Xi4YlXe-VuGaAQIPDcyPYJSLiqZzSUtyJrVFlaQYAf4rT1DmrFeXWrIG3KnScUl4Lnpfo_ffnQ5RUy-j2fz61Bv0YWyNubqhLY7WPiW0zDf5tfYUxCtb-zBR-nZgeJ6jvrZlGB7wZ4nrC_rGJHJKGFkH3opZerPvB1rgsLQSf1p4TAHtASllV10saHYnGoH20Wl_oOtMPkx1aWgTKG90OgGe68h6QfT0__rPUhZC3"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXkP_whYzBnb3AULCmYGfuHQZfKmoVojxLvlvDW54CZmwRCRXOMg9gwukHkIcc86McY4JeSKHkWMLc1Sw9W6qles3fnYEh3Kfpu232k1YokqzUXjnoni6D_l80S1lbu7QTRPGFgzsshHMfeCI2Mu_v17LATpLSFo8zXZ2CIuhz8pmmHCCUJfrKDW5KBjlRHE6-rJ4BbyYyXLj2-XF5jTyfn_W9lAo_dQ4ONjJ-TLebPISltRm7_FDHWUqhrB3HWTBad9_f9J9hJnHiUoFfpWIBRqQJ2WylNkntKeVJS5XmP9AnhAismIy3oH1QsvABObWFyqNMiNPnNLGIsam0b3plbAXmSnbn0lHOL2fLFii5EWfKPW2XKh1wLl6R4_1wSaMuXVD5Ad36gi8XS7EH4dVlX",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXkP_whYzBnb3AULCmYGfuHQZfKmoVojxLvlvDW54CZmwRCRXOMg9gwukHkIcc86McY4JeSKHkWMLc1Sw9W6qles3fnYEh3Kfpu232k1YokqzUXjnoni6D_l80S1lbu7QTRPGFgzsshHMfeCI2Mu_v17LATpLSFo8zXZ2CIuhz8pmmHCCUJfrKDW5KBjlRHE6-rJ4BbyYyXLj2-XF5jTyfn_W9lAo_dQ4ONjJ-TLebPISltRm7_FDHWUqhrB3HWTBad9_f9J9hJnHiUoFfpWIBRqQJ2WylNkntKeVJS5XmP9AnhAismIy3oH1QsvABObWFyqNMiNPnNLGIsam0b3plbAXmSnbn0lHOL2fLFii5EWfKPW2XKh1wLl6R4_1wSaMuXVD5Ad36gi8XS7EH4dVlX"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXkP_whYzBnb3AULCmYGfuHQZfKmoVojxLvlvDW54CZmwRCRXOMg9gwukHkIcc86McY4JeSKHkWMLc1Sw9W6qles3fnYEh3Kfpu232k1YokqzUXjnoni6D_l80S1lbu7QSp2SrfsGhogDtkELrwp1RztKcCyPBDZe1pOVU9a4rjme73qYOp-QJQ6-5PXwKM4XdQR-jje9rfd83GGcQy2Sx26l74nJaVys6SSbcuhNY7LgIV9z11gEbPCRg2l5bWo1eBrQg8nWeArhjzflIO1vlj0Vzl9A9m-CuygMaTYtE-SVDZPQi5sRm5EMWNPAZpGpFro6ca9eQw0Y1EGQF-P2lbHivtz_i18Ybph2jIISG-07BuNY3MlVwDhxSnB6Ht8GsAoCWgQisGokoRV2I0RNib",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXkP_whYzBnb3AULCmYGfuHQZfKmoVojxLvlvDW54CZmwRCRXOMg9gwukHkIcc86McY4JeSKHkWMLc1Sw9W6qles3fnYEh3Kfpu232k1YokqzUXjnoni6D_l80S1lbu7QSp2SrfsGhogDtkELrwp1RztKcCyPBDZe1pOVU9a4rjme73qYOp-QJQ6-5PXwKM4XdQR-jje9rfd83GGcQy2Sx26l74nJaVys6SSbcuhNY7LgIV9z11gEbPCRg2l5bWo1eBrQg8nWeArhjzflIO1vlj0Vzl9A9m-CuygMaTYtE-SVDZPQi5sRm5EMWNPAZpGpFro6ca9eQw0Y1EGQF-P2lbHivtz_i18Ybph2jIISG-07BuNY3MlVwDhxSnB6Ht8GsAoCWgQisGokoRV2I0RNib"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

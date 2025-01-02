@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/momentary-lily",
+                                "title": "Momentary Lily",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-momentary-lily-cover.jpg"
+                            },
+                            {
                                 "url": "/media/ameku-takao-no-suiri-karte",
                                 "title": "Ameku M.D.: Doctor Detective",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ameku-takao-no-suiri-karte-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/love-live-superstar-3",
                                 "title": "Love Live! Superstar!! Season 3",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-love-live-superstar-3-cover.jpg"
-                            },
-                            {
-                                "url": "/media/houkago-shounen-hanako-kun-2024",
-                                "title": "Mein Schulgeist Hanako: After School (2024)",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-houkago-shounen-hanako-kun-2024-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/ameku-takao-no-suiri-karte",
-                    "title": "Ameku M.D.: Doctor Detective",
+                    "url": "/media/momentary-lily",
+                    "title": "Momentary Lily",
                     "author": "",
-                    "description": "Das Tenikai General Hospital hat einen besonderen Ruf: Hier landen all die Fälle, die andere Ärzte als unlösbar ansehen. Ob mysteriöse Krankheiten, die sich jeder Diagnose entziehen, oder rätselhafte Fälle, die selbst die Polizei überfordern – die Patienten in der allgemeinen Diagnostikabteilung haben eine Gemeinsamkeit: Niemand weiß, wie man ihnen helfen kann. Im Mittelpunkt dieser Rätsel steht die brillante Ärztin Takao Amakura, die mit scharfem Verstand und unerschütterlicher Entschlossenheit auch die schwierigsten Geheimnisse löst. Unterstützt wird sie von Yu Takanashi, einem jungen Arzt, der vor Kurzem erst in die Abteilung versetzt wurde und sich schnell als wertvoller Assistent erweist. Gemeinsam decken sie nicht nur medizinische Wahrheiten auf, sondern enthüllen schockierende Geheimnisse, die weit über den Krankenhausalltag hinausgehen. Doch jede gelöste Diagnose bringt neue Fragen mit sich – und nicht selten stoßen Takao und Yu auf Abgründe, die sie an die Grenzen ihrer Fähigkeiten führen. Quelle: aniSearch",
-                    "genre": "Drama",
+                    "description": "Die Welt, wie wir sie kennen, gibt es nicht mehr. Die Straßen sind leer, die Städte verfallen, und die Menschheit wurde von mechanischen Eindringlingen ausgelöscht. Für Renge gibt es keinen Ort, den sie ihr Zuhause nennen könnte, und keine Erinnerungen, die ihr Halt geben. Das einzige, was ihr bleibt, ist, unermüdlich gegen die Maschinen zu kämpfen, die alles zerstört haben. Doch eines Tages ändert sich alles: Renge trifft auf fünf andere Mädchen, die ebenso wie sie außergewöhnliche Fähigkeiten besitzen. Gemeinsam bilden sie eine ungleiche Gemeinschaft, die sich nicht nur gegen die mechanischen Bedrohungen stellt, sondern auch inmitten der Ruinen das Leben feiert – sei es beim Kochen überraschend köstlicher Gerichte oder beim Lachen über kleine, alltägliche Momente. Während sie Seite an Seite kämpfen und einander stützen, kommen Geheimnisse über ihre Kräfte und ihre Vergangenheit ans Licht. Doch zwischen all den Gefahren und Enthüllungen entdecken sie etwas, das mächtiger ist als jede Waffe: die Stärke ihrer Freundschaft. Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ameku-takao-no-suiri-karte-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-momentary-lily-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,12 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/ameku-takao-no-suiri-karte#streams_episodes_1_1",
-                        "name": "Ep.2 Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/media/ameku-takao-no-suiri-karte#streams_episodes_1_0",
+                        "url": "/media/momentary-lily#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -252,7 +247,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4414451951964196179/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4414451951964196179/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4414451951964196179/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
                 "passed": false
             }
         }

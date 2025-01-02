@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/뱅 드림! Ave Mujica",
+                                "title": "뱅 드림! Ave Mujica",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg"
+                            },
+                            {
                                 "url": "/c/푸른 미부로",
                                 "title": "푸른 미부로",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/1d9693d967d8e4671622e2c719792624_1729522051_178.jpg"
@@ -524,10 +529,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/푸른 미부로",
-                    "title": "푸른 미부로",
-                    "description": "원제: 青のミブロ\n원작: 야스다 츠요시\n감독: 하바라 쿠미코\n각본: 이하라 켄타\n캐릭터 디자인: 오오바 유코, 니시다 미야코\n음악: 하야시 유키\n장르: 역사, 청춘\n방영일: 2024.10.19 17:30 (토)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/1d9693d967d8e4671622e2c719792624_1729522051_178.jpg",
+                    "url": "/c/뱅 드림! Ave Mujica",
+                    "title": "뱅 드림! Ave Mujica",
+                    "description": "원제: BanG Dream! Ave Mujica\n원작: ISSEN\n감독: 카키모토 코다이\n각본: 아야나 유니코\n캐릭터 디자인: 챠노하라 타쿠야, 하치모리 유우카, 조셉 신\n음악: 후지마 히토시, 후지타 쥰페이\n장르: 학원, 일상, 음악, 코미디, 부활동\n방영일: 2025.01.02 23:00 (목)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -535,22 +540,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/푸른 미부로 9화",
-                        "name": "푸른 미부로 9화",
-                        "date_upload": 1735776000000,
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/e/푸른 미부로 8화",
-                        "name": "푸른 미부로 8화",
-                        "date_upload": 1735776000000,
-                        "episode_number": 8.0
+                        "url": "/e/뱅 드림! Ave Mujica 1화",
+                        "name": "뱅 드림! Ave Mujica 1화",
+                        "date_upload": 1735862400000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14205286572661784827/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14205286572661784827/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14205286572661784827/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-2458982373378161302/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-2458982373378161302/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-2458982373378161302/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/ameku-takao-no-suiri-karte",
+                                "title": "Ameku Takao no Suiri Karte",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4373.webp"
+                            },
+                            {
+                                "url": "/grisaia-phantom-trigger",
+                                "title": "Grisaia: Phantom Trigger",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4372.webp"
+                            },
+                            {
                                 "url": "/izure-saikyou-no-renkinjutsushi",
                                 "title": "Izure Saikyou no Renkinjutsushi?",
                                 "status": 1,
@@ -101,16 +113,6 @@
                                 "url": "/kono-kaisha-ni-suki-na-hito-ga-imasu",
                                 "title": "Kono Kaisha ni Suki na Hito ga Imasu",
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4354.webp"
-                            },
-                            {
-                                "url": "/zenshuu",
-                                "title": "Zenshuu.",
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4353.webp"
-                            },
-                            {
-                                "url": "/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
-                                "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4352.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -250,24 +252,75 @@
             },
             "details": {
                 "result": {
-                    "url": "/izure-saikyou-no-renkinjutsushi",
-                    "title": "Izure Saikyou no Renkinjutsushi?",
-                    "description": "Ni siquiera es un héroe, Takumi Iruma se mezcla accidentalmente con un grupo de héroes elegidos para ser convocados a otro mundo. Como compensación por la confusión, una diosa le ofrece el derecho de elegir cualquier habilidad que desee. Con la esperanza de una vida pacífica y tranquila que no tenga nada que ver con luchar o ir a la batalla, elige una habilidad de creación aparentemente aburrida. Sin embargo, resulta que la \"alquimia\" es la habilidad más poderosa que le permite crear de todo, ¡desde una espada sagrada hasta barcos voladores! ¡Esta habilidad para hacer trampa que adquirió inesperadamente lo convierte en un rico comerciante y lo hace invencible en las batallas! ¡Una conmovedora historia de aventuras sobre (posiblemente) el alquimista más poderoso de otro mundo!",
-                    "genre": "Fantasía, Aventuras",
+                    "url": "/ameku-takao-no-suiri-karte",
+                    "title": "Ameku Takao no Suiri Karte",
+                    "description": "Takao Ameku, una doctora en el departamento de diagnóstico general del Hospital General Ten-Ikai, recibe la visita de muchas enfermedades que se consideran \"difíciles de diagnosticar\" y misterios que ni siquiera la policía puede resolver. Asume el desafío de resolver este misterioso con Yuu Kotori, quien ha sido asignado al Departamento de Diagnóstico General como asistente.",
+                    "genre": "Misterio",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4371.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4373.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/ameku-takao-no-suiri-karte-2",
+                        "name": "Episodio 2",
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/ameku-takao-no-suiri-karte-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/13233/3e28yhocxe7o_,n,.urlset/index-v1-a1.m3u8?t=tVFqjrLQZUAvjy36tgSU6gDbT6Ek9mpz4m-5Vg2Xeak&s=1735777013&e=14400&f=66169023&node=xoa/kLpQ08AarCanapTLGQM1cmra3rs+lOplBkKNaYs=&i=74.235&sp=2500&asn=8075&q=n",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/13233/3e28yhocxe7o_,n,.urlset/index-v1-a1.m3u8?t=tVFqjrLQZUAvjy36tgSU6gDbT6Ek9mpz4m-5Vg2Xeak&s=1735777013&e=14400&f=66169023&node=xoa/kLpQ08AarCanapTLGQM1cmra3rs+lOplBkKNaYs=&i=74.235&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxtr3muz3b4quuowsrbmnchkbvzey466vbsibruxgylfm4wq3kqz6d3vvdja7mlaa4qjh2p/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxtr3muz3b4quuowsrbmnchkbvzey466vbsibruxgylfm4wq3kqz6d3vvdja7mlaa4qjh2p/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a202501010qct0n26pg4/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a202501010qct0n26pg4/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://mega99.uqload.net/3rfkuttl4vw2q4drdjjpt5fkkitbas47g5xu6jxv3mzc4w5yghpuhcxt76da/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://mega99.uqload.net/3rfkuttl4vw2q4drdjjpt5fkkitbas47g5xu6jxv3mzc4w5yghpuhcxt76da/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=a0b8wXZBxOtxGm4&expires=1735847001&ip=GHEsDROOKxSHDN&token=Q2QvXfjcA0Gz",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=a0b8wXZBxOtxGm4&expires=1735847001&ip=GHEsDROOKxSHDN&token=Q2QvXfjcA0Gz"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/blind-sub-espanol",
+                                "title": "Blind",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/blind-1735767474.webp?v=1.5"
+                            },
+                            {
                                 "url": "/dorama/vigilante-sub-espanol",
                                 "title": "Vigilante",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/vigilante-1735707987.webp?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/dorama/numbers-sub-espanol",
                                 "title": "Numbers",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/numbers-1725994368.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/my-strawberry-film-sub-espanol",
-                                "title": "My Strawberry Film",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/my-strawberry-film-1725985900.webp?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -404,13 +404,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/vigilante-sub-espanol",
-                    "title": "Vigilante",
-                    "description": "En este thriller de acción, Kim Jiyong lleva una doble vida como estudiante de la Universidad de la Policía Nacional de Corea de día y Vigilante de noche, castigando personalmente a los criminales que evaden la ley. Está rodeado de personas que tienen dobles intenciones.",
-                    "genre": "Acción, Thriller",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/vigilante-1735707987.webp?v=1.5",
+                    "url": "/dorama/blind-sub-espanol",
+                    "title": "Blind",
+                    "description": "Un detective de la brigada de homicidios, sospechoso de un asesinato en serie, está tratando de encontrar al verdadero culpable.",
+                    "genre": "Thriller, Drama, Misterio",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/blind-1735767474.webp?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -418,14 +418,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/vigilante-episodio-8",
-                        "name": "Capítulo 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver/vigilante-episodio-7",
+                        "url": "/ver/blind-episodio-7",
                         "name": "Capítulo 7",
                         "episode_number": 7.0
+                    },
+                    {
+                        "url": "/ver/blind-episodio-6",
+                        "name": "Capítulo 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -433,9 +433,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-f0qi6qwj8dwdjwvg.voe-network.net/engine/hls2-c/01/13228/eqh8c8si2eec_,n,.urlset/index-v1-a1.m3u8?t=ufPoc0EsmdGxYkC2DqNpemHaJLpg7MjNBm3pAhQFWA4&s=1735754772&e=14400&f=66144358&node=KIvTO2XqqxiySIWfr/pfK0defmlJ1DC/bsX7Zv4B8Vg=&i=20.42&sp=2500&asn=8075&q=n",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-f0qi6qwj8dwdjwvg.voe-network.net/engine/hls2-c/01/13228/eqh8c8si2eec_,n,.urlset/index-v1-a1.m3u8?t=ufPoc0EsmdGxYkC2DqNpemHaJLpg7MjNBm3pAhQFWA4&s=1735754772&e=14400&f=66144358&node=KIvTO2XqqxiySIWfr/pfK0defmlJ1DC/bsX7Zv4B8Vg=&i=20.42&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-uacpizsol9ofqmpr.voe-network.net/engine/hls2/01/13234/nu9ckbry3kwj_,n,.urlset/index-v1-a1.m3u8?t=HLTleVbw0fMulY3u1cDbQSwKLqd8RWcrlQFozgejd-c&s=1735777010&e=14400&f=66173923&node=5bOcgUusoQV7R2Oh+Zp6U9n6NifSiywIpjRwjXr8XrQ=&i=20.25&sp=2500&asn=8075&q=n",
+                        "quality": "Voe:1080p",
+                        "videoUrl": "https://delivery-node-uacpizsol9ofqmpr.voe-network.net/engine/hls2/01/13234/nu9ckbry3kwj_,n,.urlset/index-v1-a1.m3u8?t=HLTleVbw0fMulY3u1cDbQSwKLqd8RWcrlQFozgejd-c&s=1735777010&e=14400&f=66173923&node=5bOcgUusoQV7R2Oh+Zp6U9n6NifSiywIpjRwjXr8XrQ=&i=20.25&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

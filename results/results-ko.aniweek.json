@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/그리자이아: 팬텀 트리거",
+                                "title": "그리자이아: 팬텀 트리거",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg"
+                            },
+                            {
+                                "url": "/c/밤은 고양이와 함께 (2024)",
+                                "title": "밤은 고양이와 함께 (2024)",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/bf2d4eb551d4812ee2b7d60527428479_1735754877_3422.jpg"
+                            },
+                            {
                                 "url": "/c/결혼한다는 게, 정말인가요",
                                 "title": "결혼한다는 게, 정말인가요",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/92cf6d5825df45b9fdd368e09fae3279_1727933623_7327.jpg"
@@ -450,11 +460,6 @@
                                 "url": "/c/닌자라",
                                 "title": "닌자라",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2202/3ded5fbdf9a34390322526bc6ff2de68_1644689999_7554.jpg"
-                            },
-                            {
-                                "url": "/c/밤은 고양이와 함께 (2024)",
-                                "title": "밤은 고양이와 함께 (2024)",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/bf2d4eb551d4812ee2b7d60527428479_1735754877_3422.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -504,10 +509,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/결혼한다는 게, 정말인가요",
-                    "title": "결혼한다는 게, 정말인가요",
-                    "description": "원제: 結婚するって, 本当ですか\n원작: 와카키 타미키\n감독: 히로시 이케하타\n각본: 효도 카즈호\n캐릭터 디자인: 마루야마 슈지\n음악: 나리타 슌, 세오 유스케\n장르: 로맨스, 코미디\n방영일: 2024.10.03 23:30 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/92cf6d5825df45b9fdd368e09fae3279_1727933623_7327.jpg",
+                    "url": "/c/그리자이아: 팬텀 트리거",
+                    "title": "그리자이아: 팬텀 트리거",
+                    "description": "원제: グリザイア:ファントムトリガー THE ANIMATION (TV)\n원작: 프론트 윙\n감독: 무라야마 코스케\n각본: 타카하시 타츠야\n캐릭터 디자인: 와타나베 아키오\n음악: 후지마 히토시, 타케다 유스케, 마츠모토 후미노리\n장르: 액션, 드라마\n방영일: 2025.01.02 01:00 (목)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -515,22 +520,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/결혼한다는 게, 정말인가요 11화",
-                        "name": "결혼한다는 게, 정말인가요 11화",
+                        "url": "/e/그리자이아: 팬텀 트리거1화",
+                        "name": "그리자이아: 팬텀 트리거1화",
                         "date_upload": 1735776000000,
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/e/결혼한다는 게, 정말인가요 10화",
-                        "name": "결혼한다는 게, 정말인가요 10화",
-                        "date_upload": 1734912000000,
-                        "episode_number": 10.0
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-8778221943070091577/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-8778221943070091577/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-8778221943070091577/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10277946700534706486/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10277946700534706486/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10277946700534706486/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

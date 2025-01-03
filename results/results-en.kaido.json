@@ -135,11 +135,6 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/5d/c6/5dc640871a61596483b630918f8c2e04/5dc640871a61596483b630918f8c2e04.jpg"
                             },
                             {
-                                "url": "/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-2-19329?ref=search",
-                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/c3/67/c3670b66104179ccff9492aa8158fde3/c3670b66104179ccff9492aa8158fde3.jpg"
-                            },
-                            {
                                 "url": "/arifureta-from-commonplace-to-worlds-strongest-season-3-19321?ref=search",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/eb/b7/ebb78f8688b59abf0409b8799159127a/ebb78f8688b59abf0409b8799159127a.jpg"
@@ -193,6 +188,11 @@
                                 "url": "/mushoku-tensei-jobless-reincarnation-season-2-18418?ref=search",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/1c/f9/1cf9bdf58f5d0d2db7bd856b15e3835f/1cf9bdf58f5d0d2db7bd856b15e3835f.png"
+                            },
+                            {
+                                "url": "/world-before-you-end-18396?ref=search",
+                                "title": "Sekai ga Horobiru Mae ni Kimi ni Aitai",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/d0/79/d079be57326c232a87d8f4ce8a5e4b02/d079be57326c232a87d8f4ce8a5e4b02.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -201,35 +201,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/good-night-world-18623?ref=search",
-                    "author": "NAZ",
-                    "description": "In the online game \"Planet,\" there is a powerful team of four players. This team goes by the name \"The Akabane Family,\" and its members are a pseudo-family that only exists in the game. Although they aren't aware of it, these four players are actually a broken family in real life. A shut-in older brother. A high-achieving younger brother. A father who is not respected by his own children. A mother who neglects her own household. They do not know the warmth of family. They also don't know that the warmth of their online family is only a passing feeling. And most of all, they don't know they are a real family. Centered on the deeds of the Akabane Family in the online game \"Planet,\" the story features battles against monsters, clashes with other guilds, and the machinations surrounding \"Black Bird,\" the final objective of the game. The tale takes a major turn as it entangles the real world and this real family.\n\nAired: Oct 12, 2023\nPremiered: Fall 2023\nJapanese: グッド・ナイト・ワールド",
-                    "genre": "Action, Comedy, Drama, Fantasy, Psychological",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/09/f0/09f07b5b13fb0cfe9f36aa1340bc911d/09f07b5b13fb0cfe9f36aa1340bc911d.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/good-night-world-18623?ep=108047",
-                        "name": "Ep. 12: Episode 12",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/watch/good-night-world-18623?ep=108046",
-                        "name": "Ep. 11: Episode 11",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
                 "passed": false
             }
         }

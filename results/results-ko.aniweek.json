@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/푸른 상자",
+                                "title": "푸른 상자",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
+                            },
+                            {
                                 "url": "/c/뱅 드림! Ave Mujica",
                                 "title": "뱅 드림! Ave Mujica",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg"
@@ -135,11 +140,6 @@
                                 "url": "/c/드래곤볼 DAIMA",
                                 "title": "드래곤볼 DAIMA",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
-                            },
-                            {
-                                "url": "/c/푸른 상자",
-                                "title": "푸른 상자",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
                             },
                             {
                                 "url": "/c/새출발 영애는 용제 폐하를 공략중",
@@ -529,10 +529,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/뱅 드림! Ave Mujica",
-                    "title": "뱅 드림! Ave Mujica",
-                    "description": "원제: BanG Dream! Ave Mujica\n원작: ISSEN\n감독: 카키모토 코다이\n각본: 아야나 유니코\n캐릭터 디자인: 챠노하라 타쿠야, 하치모리 유우카, 조셉 신\n음악: 후지마 히토시, 후지타 쥰페이\n장르: 학원, 일상, 음악, 코미디, 부활동\n방영일: 2025.01.02 23:00 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg",
+                    "url": "/c/푸른 상자",
+                    "title": "푸른 상자",
+                    "description": "원제: アオのハコ\n원작: 미우라 코지\n감독: 야노 유이치로\n각본: 카키하라 유코\n캐릭터디자인: 카타니노 미호\n음악: 오마마 타카시\n장르: 로맨스, 코미디, 스포츠\n방영일: 2024.10.03 23:56 (목)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -540,16 +540,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/뱅 드림! Ave Mujica 1화",
-                        "name": "뱅 드림! Ave Mujica 1화",
+                        "url": "/e/푸른 상자 14화",
+                        "name": "푸른 상자 14화",
                         "date_upload": 1735862400000,
-                        "episode_number": 1.0
+                        "episode_number": 14.0
+                    },
+                    {
+                        "url": "/e/푸른 상자 13화",
+                        "name": "푸른 상자 13화",
+                        "date_upload": 1735257600000,
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-2458982373378161302/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-2458982373378161302/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-2458982373378161302/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11551747087243263531/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11551747087243263531/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11551747087243263531/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

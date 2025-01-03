@@ -7,14 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "/ver-serie/yellowstone/",
-                                "title": "Yellowstone",
-                                "thumbnail_url": ""
-                            },
-                            {
                                 "url": "/ver-serie/su-senoria/",
                                 "title": "Su Señoría",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//5NDs12paqvz4Jug3f13fC9XmSVN.jpg"
+                                "thumbnail_url": ""
                             },
                             {
                                 "url": "/ver-serie/el-juego-del-calamar/",
@@ -65,6 +60,11 @@
                                 "url": "/ver-pelicula/the-end/",
                                 "title": "The End",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/nightbitch/",
+                                "title": "Nightbitch",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//rc9gyp0vMRTo9wAAmBfJ20zNJLI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -117,12 +117,31 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/ver-serie/su-senoria/",
+                    "artist": "Andrene Ward-Hammond",
+                    "author": "Peter Moffat",
+                    "description": "Un joven adolescente atropella mortalmente a un motorista de forma accidental y se da a la fuga. Su padre, un respetado juez de la ciudad de Nueva Orleans, decide proteger a su hijo.   ",
+                    "genre": "Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//5NDs12paqvz4Jug3f13fC9XmSVN.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver-el-episodio/su-senoria-2x10/",
+                        "name": "T2 - E10 - Parte Veinte",
+                        "episode_number": 20.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/su-senoria-2x9/",
+                        "name": "T2 - E9 - Parte Diecinueve",
+                        "episode_number": 19.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

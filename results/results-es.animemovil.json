@@ -254,12 +254,58 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/momentary-lily-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-mccw20pel8yekfhz.voe-network.net/engine/hls2/01/13240/ty0jb4ab2hek_,n,.urlset/index-v1-a1.m3u8?t=lo06eCQ3Nsc1L-FfxKUChV9ku0IEHufWHSULfeJgfmw&s=1735863448&e=14400&f=66200842&node=VwJ5/vqZU8pj/jjNaapsVElbJkboZh+efuHyhifI6b4=&i=20.42&sp=2500&asn=8075&q=n",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-mccw20pel8yekfhz.voe-network.net/engine/hls2/01/13240/ty0jb4ab2hek_,n,.urlset/index-v1-a1.m3u8?t=lo06eCQ3Nsc1L-FfxKUChV9ku0IEHufWHSULfeJgfmw&s=1735863448&e=14400&f=66200842&node=VwJ5/vqZU8pj/jjNaapsVElbJkboZh+efuHyhifI6b4=&i=20.42&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xwby4uz3b4quuowsrauokdddafkog35uzaxts2fbtbad33nmvjwfzhjt4z7vu2hyf2uwtc/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xwby4uz3b4quuowsrauokdddafkog35uzaxts2fbtbad33nmvjwfzhjt4z7vu2hyf2uwtc/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20250102l2xQv4Nu3RO/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20250102l2xQv4Nu3RO/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m20.uqload.net/3rfk5vno4rw2q4drdjg7tpvgbtd3czbvfvzyz4t6jqleneidw33hxr65khta/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m20.uqload.net/3rfk5vno4rw2q4drdjg7tpvgbtd3czbvfvzyz4t6jqleneidw33hxr65khta/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6Qp9yjJgKrTlzz&expires=1735933435&ip=FROsExSnDS9X&token=r66gyOVOKBbl",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6Qp9yjJgKrTlzz&expires=1735933435&ip=FROsExSnDS9X&token=r66gyOVOKBbl"
+                    }
+                ],
+                "passed": true
             }
         }
     }

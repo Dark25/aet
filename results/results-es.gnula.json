@@ -3,28 +3,523 @@
         "name": "Gnula (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/carnada-804616",
+                                "title": "Carnada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5t8AUixdbBjRXFX9owwz8R5W6Ug.jpg"
+                            },
+                            {
+                                "url": "/movies/culpa-tuya",
+                                "title": "Culpa tuya",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
+                            },
+                            {
+                                "url": "/movies/la-noche-que-luche-contra-dios",
+                                "title": "La noche que luché contra Dios",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg"
+                            },
+                            {
+                                "url": "/movies/subservience",
+                                "title": "Alice (Subservience)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4S7Enfu0ZzOja8xMTIHKU2L0yLN.jpg"
+                            },
+                            {
+                                "url": "/movies/el-ultimo-escape",
+                                "title": "El Último Escape",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kJc31ytAGLTxBNHgCfNcwiPgIC9.jpg"
+                            },
+                            {
+                                "url": "/movies/the-beast-within",
+                                "title": "The Beast Within",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6RgP9K7HBekNbW6TimYroSrzYay.jpg"
+                            },
+                            {
+                                "url": "/movies/el-milagro-de-tyson",
+                                "title": "El Milagro de Tyson",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4hOaiYZQMliauaNX0SVIEKO1Urt.jpg"
+                            },
+                            {
+                                "url": "/movies/volvereis",
+                                "title": "Volveréis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/s6yH9oWUt68yZzzjEvqGoi2oQ38.jpg"
+                            },
+                            {
+                                "url": "/movies/youll-never-find-me",
+                                "title": "You'll Never Find Me",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/8ICsXZQHPfYijFw6FyEXJ5ccIPq.jpg"
+                            },
+                            {
+                                "url": "/movies/werewolves",
+                                "title": "Werewolves",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/wHsQwrqiICdEkIXFcX968rVqB3s.jpg"
+                            },
+                            {
+                                "url": "/movies/the-silent-hour",
+                                "title": "La hora del silencio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg"
+                            },
+                            {
+                                "url": "/movies/the-thicket",
+                                "title": "The Thicket",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg"
+                            },
+                            {
+                                "url": "/movies/my-mother-stole-my-life",
+                                "title": "My Mother Stole My Life",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/a157ViKAjurnUZYimc14BWTghoK.jpg"
+                            },
+                            {
+                                "url": "/movies/suckers",
+                                "title": "Suckers",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/x1NdPPLjfB1VMHoYbvn7fMr3EJw.jpg"
+                            },
+                            {
+                                "url": "/movies/y2k",
+                                "title": "Y2K",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qndubIQalyxBJI5EBNZKGXEX74q.jpg"
+                            },
+                            {
+                                "url": "/movies/standing-on-the-shoulders-of-kitties-the-bubbles-and-the-shitrockers-story",
+                                "title": "Standing on the Shoulders of Kitties: The Bubbles and the Shitrockers Story",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7H8b0MEsP5UzRUGID3Bq8TnmhRT.jpg"
+                            },
+                            {
+                                "url": "/movies/saint-ex",
+                                "title": "Saint-Ex",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/51PakdZIpIbItSyBEclydXMC3h3.jpg"
+                            },
+                            {
+                                "url": "/movies/oh-canada",
+                                "title": "Oh, Canada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9MbhhZP62zitaouJxkKb1tiQcEU.jpg"
+                            },
+                            {
+                                "url": "/movies/nickel-boys",
+                                "title": "Nickel Boys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
+                            },
+                            {
+                                "url": "/movies/mufasa-el-rey-leon",
+                                "title": "Mufasa: El rey león",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lk4NNdeQrb6zbRSogDSdE6qmjk8.jpg"
+                            },
+                            {
+                                "url": "/movies/graveyard-shark",
+                                "title": "Graveyard Shark",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ey4ZanpW8cZJk039jI07lz6NF9H.jpg"
+                            },
+                            {
+                                "url": "/movies/ghosts-of-red-ridge",
+                                "title": "Ghosts of Red Ridge",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/eNyj1J1GMasLYzss61o2rXz8Lpi.jpg"
+                            },
+                            {
+                                "url": "/movies/get-away",
+                                "title": "Get Away",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ser6ZCKHMXhQISKULYCxz6Saf3I.jpg"
+                            },
+                            {
+                                "url": "/movies/forgive-me-father",
+                                "title": "Forgive Me Father",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6rk7CGi60CJP4NcKxca57Eu9DHC.jpg"
+                            },
+                            {
+                                "url": "/movies/dont-let-him-find-you",
+                                "title": "Don't Let Him Find You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4P5LSl1rhLq7PtyFnyp3edUhIQa.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/culpa-tuya",
+                                "title": "Culpa tuya",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
+                            },
+                            {
+                                "url": "/movies/pandemonium",
+                                "title": "Pandemonium",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6TmkF5px03IXglJwCnqCp3lymR7.jpg"
+                            },
+                            {
+                                "url": "/movies/nosferatu",
+                                "title": "Nosferatu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jivUhECegXI3OYtPVflWoIDtENt.jpg"
+                            },
+                            {
+                                "url": "/movies/sonic-3-la-pelicula",
+                                "title": "Sonic 3: La Película",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg"
+                            },
+                            {
+                                "url": "/movies/umjolo-desde-el-primer-dia",
+                                "title": "Umjolo: Desde el primer día",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fr3bZgEa0dyNgFXRdiwvcIN6RfL.jpg"
+                            },
+                            {
+                                "url": "/movies/mufasa-el-rey-leon",
+                                "title": "Mufasa: El rey león",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lk4NNdeQrb6zbRSogDSdE6qmjk8.jpg"
+                            },
+                            {
+                                "url": "/movies/saturday-nights-main-event-xxxvii",
+                                "title": "Saturday Night's Main Event XXXVII",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/cS90gS08N2I4LW0dh5omKh2ywiw.jpg"
+                            },
+                            {
+                                "url": "/movies/la-sociedad-de-la-virtud-salva-la-navidad",
+                                "title": "¡La Sociedad de la Virtud Salva la Navidad!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/uFgwUuFwa8g5RnhPrL9Z7K0RsRO.jpg"
+                            },
+                            {
+                                "url": "/movies/nickel-boys",
+                                "title": "Nickel Boys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
+                            },
+                            {
+                                "url": "/movies/operation-blood-hunt",
+                                "title": "Operation Blood Hunt",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/wYf4Eq3c4iOa856tEwh3GHruHZW.jpg"
+                            },
+                            {
+                                "url": "/movies/maria",
+                                "title": "María",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg"
+                            },
+                            {
+                                "url": "/movies/vacaciones-desastrosas",
+                                "title": "Vacaciones desastrosas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1oO6GCEHme4A7HbdxebxYVjMaTG.jpg"
+                            },
+                            {
+                                "url": "/movies/kraven-el-cazador",
+                                "title": "Kraven el cazador",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg"
+                            },
+                            {
+                                "url": "/movies/saint-ex",
+                                "title": "Saint-Ex",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/51PakdZIpIbItSyBEclydXMC3h3.jpg"
+                            },
+                            {
+                                "url": "/movies/chateau",
+                                "title": "Chateau",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hm818mgMkFnim1t55MeF9P1YAfY.jpg"
+                            },
+                            {
+                                "url": "/movies/nightbitch",
+                                "title": "Canina",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg"
+                            },
+                            {
+                                "url": "/movies/the-end-881366",
+                                "title": "The End",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg"
+                            },
+                            {
+                                "url": "/movies/seis-triple-ocho",
+                                "title": "Seis Triple Ocho",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/s6rbC03EEhsyljKrmSjJ4mY3Xqn.jpg"
+                            },
+                            {
+                                "url": "/movies/get-away",
+                                "title": "Get Away",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ser6ZCKHMXhQISKULYCxz6Saf3I.jpg"
+                            },
+                            {
+                                "url": "/movies/oh-canada",
+                                "title": "Oh, Canada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9MbhhZP62zitaouJxkKb1tiQcEU.jpg"
+                            },
+                            {
+                                "url": "/movies/standing-on-the-shoulders-of-kitties-the-bubbles-and-the-shitrockers-story",
+                                "title": "Standing on the Shoulders of Kitties: The Bubbles and the Shitrockers Story",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7H8b0MEsP5UzRUGID3Bq8TnmhRT.jpg"
+                            },
+                            {
+                                "url": "/movies/y2k",
+                                "title": "Y2K",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qndubIQalyxBJI5EBNZKGXEX74q.jpg"
+                            },
+                            {
+                                "url": "/movies/carol-1387514",
+                                "title": "Carol",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/z2epoeGzT4RMhj0G1AaNXNxDzYa.jpg"
+                            },
+                            {
+                                "url": "/movies/el-senor-de-los-anillos-la-guerra-de-los-rohirrim",
+                                "title": "El señor de los anillos: La guerra de los Rohirrim",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg"
+                            },
+                            {
+                                "url": "/movies/campamento-con-mama",
+                                "title": "Campamento con mamá",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xw11v7kM8QrvhyBzls3xxC1zILd.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/jurassic-world-dominio",
+                                "title": "Jurassic World Dominio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
+                            },
+                            {
+                                "url": "/movies/jurassic-world-el-reino-caido",
+                                "title": "Jurassic World 2: El Reino Caído",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
+                            },
+                            {
+                                "url": "/movies/miraculous-world-shanghai-la-leyenda-de-ladydragon",
+                                "title": "El Mundo Miraculous: Shanghai, La Leyenda de Ladydragón",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/r6zthVPVoq1urTOsLgofPGel89d.jpg"
+                            },
+                            {
+                                "url": "/series/another-world",
+                                "title": "未来日記 Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/djRQRq6tZQCya8bVWxSUJg4YVza.jpg"
+                            },
+                            {
+                                "url": "/movies/jurassic-world-mundo-jurasico",
+                                "title": "Jurassic World: Mundo Jurásico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg"
+                            },
+                            {
+                                "url": "/movies/el-mundo-de-holli",
+                                "title": "Cool World: Mundo Cool",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4patVfgobt8auhZAquYJhjEmpQO.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
+                            },
+                            {
+                                "url": "/series/the-end-of-the-fing-world",
+                                "title": "The End of the F***ing World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg"
+                            },
+                            {
+                                "url": "/movies/mundo-miraculous-paris-las-aventuras-de-shadybug-y-claw-noir",
+                                "title": "Mundo Miraculous: París, Las Aventuras de Shadybug y Claw Noir",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/A7YDBDf9z1jvORT3omeD01Ez47S.jpg"
+                            },
+                            {
+                                "url": "/movies/death-note-iluminando-un-nuevo-mundo",
+                                "title": "Death Note: Iluminando un nuevo mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
+                            },
+                            {
+                                "url": "/movies/mundo-fantasma",
+                                "title": "Mundo Fantasma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                            },
+                            {
+                                "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
+                                "title": "The Prince of Tennis II U-17 World Cup",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/etVlxcNUsJLE4qhJON3VwZSzwFW.jpg"
+                            },
+                            {
+                                "url": "/movies/one-piece-movie-10-strong-world",
+                                "title": "One Piece Film: Strong World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
+                            },
+                            {
+                                "url": "/movies/adios-mundo",
+                                "title": "Adios Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
+                            },
+                            {
+                                "url": "/movies/dune-world",
+                                "title": "Dune World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-campamento-cretacico",
+                                "title": "Jurassic World: Campamento Cretácico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sHMeoaJaPbGIBYxvcydTvzBNgKU.jpg"
+                            },
+                            {
+                                "url": "/movies/007-el-mundo-no-basta",
+                                "title": "007: El mundo no basta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
+                            },
+                            {
+                                "url": "/series/guerra-de-los-mundos",
+                                "title": "Guerra de los Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
+                            },
+                            {
+                                "url": "/movies/el-portal-del-mas-alla",
+                                "title": "El portal del más allá",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpTKga1uC7e4v2GMYHfwxy049xF.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-teoria-del-dinocaos",
+                                "title": "Jurassic World: Teoría del dinocaos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pOjg0y1DpXf7oIqYu5FCXTOnKJR.jpg"
+                            },
+                            {
+                                "url": "/movies/el-nuevo-mundo",
+                                "title": "El Nuevo Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/AloFW4KnDYNlH9WOFmJUZusSORh.jpg"
+                            },
+                            {
+                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
+                            },
+                            {
+                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
+                                "title": "Billie Eilish: The world's a little blurry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": {
+                    "url": "/movies/carnada-804616",
+                    "title": "Carnada",
+                    "artist": "Hiftu Quasem",
+                    "description": "Sigue a un grupo de cinco amigas que deben luchar por sus vidas en aguas abiertas después de que una boda de ensueño se transforme en una pesadilla.",
+                    "genre": "Suspenso, Terror",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/5t8AUixdbBjRXFX9owwz8R5W6Ug.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movies/carnada-804616",
+                        "name": "Película",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-zrxms7xl06zuseys.voe-network.net/engine/hls2-c/01/11814/n1metbaequbc_,n,.urlset/master.m3u8?t=SfrmyAEuQBU1zec3G8BXf5vRKHKIeCJu7nkmL6YiAoY&s=1735863465&e=14400&f=59386759&node=4WnAnj3vMN2qDo4kgT6YmD1YiMn8IgUfLiGJeVFpFdA=&i=20.161&sp=2500&asn=8075&q=n",
+                        "quality": "[LAT]Voe:Video",
+                        "videoUrl": "https://delivery-node-zrxms7xl06zuseys.voe-network.net/engine/hls2-c/01/11814/n1metbaequbc_,n,.urlset/master.m3u8?t=SfrmyAEuQBU1zec3G8BXf5vRKHKIeCJu7nkmL6YiAoY&s=1735863465&e=14400&f=59386759&node=4WnAnj3vMN2qDo4kgT6YmD1YiMn8IgUfLiGJeVFpFdA=&i=20.161&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a99wtmgqgife.premilkyway.com/hls2/01/04526/d70jaceo2vlh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=tHIhuhd2yHbJL3y-jrXtJ49byr3Osj2EmYxrGC1eu04&s=1735863467&e=129600&f=22631969&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://a99wtmgqgife.premilkyway.com/hls2/01/04526/d70jaceo2vlh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=tHIhuhd2yHbJL3y-jrXtJ49byr3Osj2EmYxrGC1eu04&s=1735863467&e=129600&f=22631969&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/d70jaceo2vlh"
+                        }
+                    },
+                    {
+                        "url": "https://a99wtmgqgife.premilkyway.com/hls2/01/04526/d70jaceo2vlh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=tHIhuhd2yHbJL3y-jrXtJ49byr3Osj2EmYxrGC1eu04&s=1735863467&e=129600&f=22631969&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://a99wtmgqgife.premilkyway.com/hls2/01/04526/d70jaceo2vlh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=tHIhuhd2yHbJL3y-jrXtJ49byr3Osj2EmYxrGC1eu04&s=1735863467&e=129600&f=22631969&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/d70jaceo2vlh"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/11815/kcvs4n7qaoqv_,n,.urlset/index-v1-a1.m3u8?t=D4JvKWkEg6MaY3rgrX6Auqfnp0R07NhAfNI7pbhgDIM&s=1735863491&e=14400&f=59386999&node=xoa/kLpQ08AarCanapTLGQM1cmra3rs+lOplBkKNaYs=&i=20.161&sp=2500&asn=8075&q=n",
+                        "quality": "[SUB]Voe:720p",
+                        "videoUrl": "https://delivery-node-lmgsopgkmqqb3dby.voe-network.net/engine/hls2/01/11815/kcvs4n7qaoqv_,n,.urlset/index-v1-a1.m3u8?t=D4JvKWkEg6MaY3rgrX6Auqfnp0R07NhAfNI7pbhgDIM&s=1735863491&e=14400&f=59386999&node=xoa/kLpQ08AarCanapTLGQM1cmra3rs+lOplBkKNaYs=&i=20.161&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-0x5ib954jrlp03oi.voe-network.net/engine/hls2-c/01/13215/bnwon0xgrd34_,n,.urlset/index-v1-a1.m3u8?t=UagAdQ_KuUXNPARA_L_cWpt1lDmnJPNXxQBDQFrGYEo&s=1735863480&e=14400&f=66198202&node=4KLt2nsTvwRRKG8P0FA/+LWgxrdpSLmuO000PJ4FYrY=&i=20.161&sp=2500&asn=8075&q=n",
+                        "quality": "[CAST]Voe:720p",
+                        "videoUrl": "https://delivery-node-0x5ib954jrlp03oi.voe-network.net/engine/hls2-c/01/13215/bnwon0xgrd34_,n,.urlset/index-v1-a1.m3u8?t=UagAdQ_KuUXNPARA_L_cWpt1lDmnJPNXxQBDQFrGYEo&s=1735863480&e=14400&f=66198202&node=4KLt2nsTvwRRKG8P0FA/+LWgxrdpSLmuO000PJ4FYrY=&i=20.161&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/04526/ay3knbm5d6nc_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Rw-t3QKRAQDxVJmlLsN8LF3KQ3tAhPpCdbF4bUn69-w&s=1735863488&e=129600&f=22633329&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/04526/ay3knbm5d6nc_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Rw-t3QKRAQDxVJmlLsN8LF3KQ3tAhPpCdbF4bUn69-w&s=1735863488&e=129600&f=22633329&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ay3knbm5d6nc"
+                        }
+                    },
+                    {
+                        "url": "https://a99wtmgqgife.premilkyway.com/hls2/01/07668/kftbh24z8jc3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=E1CBbPDt4Td5Tci8sorNC3BBV3YLUW9cgevF8S_Vri0&s=1735863475&e=129600&f=38344735&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://a99wtmgqgife.premilkyway.com/hls2/01/07668/kftbh24z8jc3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=E1CBbPDt4Td5Tci8sorNC3BBV3YLUW9cgevF8S_Vri0&s=1735863475&e=129600&f=38344735&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kftbh24z8jc3"
+                        }
+                    },
+                    {
+                        "url": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/04526/ay3knbm5d6nc_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Rw-t3QKRAQDxVJmlLsN8LF3KQ3tAhPpCdbF4bUn69-w&s=1735863488&e=129600&f=22633329&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/04526/ay3knbm5d6nc_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Rw-t3QKRAQDxVJmlLsN8LF3KQ3tAhPpCdbF4bUn69-w&s=1735863488&e=129600&f=22633329&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ay3knbm5d6nc"
+                        }
+                    },
+                    {
+                        "url": "https://a99wtmgqgife.premilkyway.com/hls2/01/07668/kftbh24z8jc3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=E1CBbPDt4Td5Tci8sorNC3BBV3YLUW9cgevF8S_Vri0&s=1735863475&e=129600&f=38344735&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://a99wtmgqgife.premilkyway.com/hls2/01/07668/kftbh24z8jc3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=E1CBbPDt4Td5Tci8sorNC3BBV3YLUW9cgevF8S_Vri0&s=1735863475&e=129600&f=38344735&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kftbh24z8jc3"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
